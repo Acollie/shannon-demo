@@ -9,7 +9,10 @@ This site runs it entirely in the browser with [onnxruntime-web](https://onnxrun
 - text → idea codes → text, with sampling settings, per-slot edits (swap a code for a neighbour) and ablations (all-modal, shuffled order)
 - the idea map (UMAP of the codebook, k-means regions, the "thought path" of your input)
 - the idea dictionary (top spans, distinctive words, contexts, slot usage, nearest codes)
-- results vs a plain encoder-decoder baseline, reported honestly: **Shannon is worse** (10M: 1.478 vs 1.407 bits per byte)
+- results vs a plain encoder-decoder baseline, reported honestly: **Shannon is worse** at both sizes
+  (10M: 1.478 vs 1.407 bits per byte; 20M: 1.320 vs 1.270)
+
+Default model: `20m-fineweb` (≈169 MB download). The lighter 10M model (≈94 MB) is at `?model=10m-fineweb`.
 
 All text on the site is public FineWeb-Edu.
 
@@ -25,7 +28,7 @@ tools/                       export / data scripts (run on the GPU PC, CPU only)
 models/src/                  local checkpoint copies, git-ignored
 ```
 
-## Swapping in a new model (e.g. 20M)
+## Swapping in a new model (how 20M was added)
 
 Run everything on the GPU PC (`ssh gpu`), CPU only and `nice -n 19`; never touch the training runs or chain scripts.
 The PC has a separate venv for this, `~/demo-venv` (CPU torch, onnx, onnxruntime, umap-learn, scikit-learn).
@@ -33,7 +36,8 @@ The PC has a separate venv for this, `~/demo-venv` (CPU torch, onnx, onnxruntime
 1. Copy the tools: `scp tools/*.py gpu:~/shannon-demo-tools/`
 2. Make held-out windows from the shard's validation split (the same split training evaluates on):
    `cd ~/shannon && nice -n 19 ~/demo-venv/bin/python ~/shannon-demo-tools/make_windows.py --shannon-src ~/shannon --shard data/shards/fw600m --out ~/shannon-demo-out/heldout_fw600m.npz`
-3. Export (writes the three .onnx files + export.json; picks int8 for ideas/decoder if BPB moves < 1%):
+3. Export (writes the three .onnx files + export.json; picks int8 for ideas/decoder if BPB moves < 1%, else stops with fp32 files that may be too big;
+   then run `tools/quant_sweep.py ... --variants per_channel,fp16w,mixed --pick <best>` on the `_fp32` it leaves behind. 20M uses `mixed`):
    `nice -n 19 ~/demo-venv/bin/python ~/shannon-demo-tools/export_model.py --shannon-src ~/shannon --ckpt ~/shannon/runs/poc20m_shannon/cooldown_1.0.pt --windows <npz> --out ~/shannon-demo-out/20m-fineweb --n-check 24`
 4. Site data: `nice -n 19 ~/demo-venv/bin/python ~/shannon-demo-tools/build_data.py --shannon-src ~/shannon --ckpt <same> --windows <npz> --vocab ~/shannon/assets/vocab.txt --out ~/shannon-demo-out/20m-fineweb`
 5. `scp -r gpu:~/shannon-demo-out/20m-fineweb models/`, then `python3 tools/relabel_regions.py models/20m-fineweb`,

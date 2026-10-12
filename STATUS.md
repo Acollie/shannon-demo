@@ -15,8 +15,10 @@ Updated: 2026-10-12
 - 20M export (PC, ~/shannon-demo-out/20m-fineweb): every int8 decoder variant moved BPB 2.5-3.4% (tools/quant_sweep.py), so 20M ships "mixed": encoder fp16w 46.5 MB, ideas int8 per-channel 31 MB, decoder fp16w 91.5 MB (BPB drift 0.02%). Held-out windows: ~/shannon-demo-out/heldout_fw600m.npz (fw600m val split, 2049 windows; same windows the 10M data used).
 - models/20m-fineweb/card.json written from poc20m_{shannon,t5}/metrics.jsonl (1.3198 vs 1.2704).
 
+- 20M swapped in: models/20m-fineweb (dictionary/map/presets/stats from build_data on the PC; held-out BPB fp32 1.305 / shuffle 1.318 / null 1.354; all 4096 codes used). models.json current=20m-fineweb; 10M kept at ?model=10m-fineweb. Tested locally (loads 169 MB, ~5 ms/token, no console errors).
+
 ## In progress
-- build_data.py for 20M on the PC (~/shannon-demo-out/build20m.log), then scp to models/20m-fineweb, relabel_regions, vocab.txt, set models.json current=20m-fineweb, test, push, verify live.
+- Push and verify the 20M site live.
 
 ## Notes
 - PC venv for this work: ~/demo-venv (separate from ~/shannon/.venv). Never touch runs/poc20m_*, ts20m_*, chain*.sh, data/shards.
