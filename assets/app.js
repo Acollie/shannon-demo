@@ -30,6 +30,10 @@ async function boot() {
   const mb = Object.values(meta.export_check.sizes_bytes).reduce((a, b) => a + b, 0) / 1e6;
   S.totalBytes = Object.values(meta.export_check.sizes_bytes).reduce((a, b) => a + b, 0);
   $("model-line").textContent = `Model: ${card.name} (${card.data}). Download ≈ ${mb.toFixed(0)} MB, once; ${meta.export_check.precision}.`;
+  const others = idx.models.filter((m) => m !== id);
+  if (others.length) {
+    $("model-line").insertAdjacentHTML("beforeend", ` Also: ${others.map((m) => `<a href="?model=${encodeURIComponent(m)}">${esc(m)}</a>`).join(", ")}.`);
+  }
   $("load-btn").textContent = `Load Shannon (≈ ${mb.toFixed(0)} MB)`;
   presets.forEach((p, k) => {
     const o = document.createElement("option");
