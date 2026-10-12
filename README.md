@@ -2,6 +2,48 @@
 
 Live: https://acollie.github.io/shannon-demo/
 
+Two in-browser demos, both run with [onnxruntime-web](https://onnxruntime.ai/) 1.20.1 (WASM, single thread, from jsDelivr); nothing is sent to a server.
+
+- **`index.html`: Shannon QA.** Paste any text and ask questions about it. A JavaScript port of treaty-graph's no-hand-code QA system
+  (`treaty-graph/src/treatygraph/generic.py`, `SystemX`): passages -> IDF overlap + MiniLM retrieval -> minilm-squad2 spans in
+  generic forms (span / list / number / yes-no / none) -> DeBERTa-v3 yes/no cross-encoder -> question-form model + log-linear gate,
+  which can refuse ("not answerable"). It never generates text. Shows the answer, its form, the gate margin, the cited passage with the span
+  marked, and an answer-path graph (question -> passages -> candidates with gate scores -> choice).
+- **`ideas.html`: Shannon's idea model** (described below).
+
+## Shannon QA
+
+```
+index.html, assets/qa/          app.js (UI), shannon_qa.js (the SystemX port), engine.js (ORT), tokenizers.js
+                                (BERT WordPiece with offsets + DeBERTa Unigram), npsort.js (numpy argsort port), qa.css
+models/qa/                      embed.onnx 45.9 MB, reader.onnx 68.1 MB, yesno.onnx 95.1 MB, yesno_vocab.json, vocab.txt,
+                                gate.json (= treaty-graph data/hybrid/gate_x.json), manifest.json (sizes, sha256, precision)
+qa/docs/, qa/examples.json      example texts + example questions (written for the demo, no exam questions)
+qa/parity_extra.json            30 more demo-written questions, used only for parity testing
+tools/qa_export.py              ONNX export (torch.export / dynamo) + quantisation variants + checks (run on the GPU PC, CPU)
+tools/qa_parity/                ref_dump.py (runs the Python SystemX, dumps every intermediate), parity.mjs (runs the JS port in
+                                Node with onnxruntime-web), test_tok.mjs + tok_fix.py (tokeniser fixtures), reference dumps
+```
+
+Total download ~214 MB, once; files are kept in Cache Storage (`shannon-qa-v1`, keyed by sha256) and the page auto-loads them on later visits.
+
+**Parity (JS vs Python `SystemX`):** 66/66 identical answers and forms (36 example questions + 30 extra, over the three example texts),
+with the shipped files. Max drift vs PyTorch fp32: gate margin 0.05, P(yes) 0.014, reader margin 0.008. Tokenisers reproduce HF token ids and
+offsets exactly on 549 strings incl. odd Unicode; numpy's argsort tie order (introsort, small-sort threshold 15 in numpy 2.5) is ported exactly,
+which matters because overlap scores tie often.
+
+**Precision:** embed and reader store fp16 weights (fp32 compute); yesno stores its 128k-word embedding table as int8 and the rest as fp16.
+Full dynamic int8 was tried: in WASM it changed 1/66 answers (reader int8) and moved P(yes) by up to 0.49 (yes/no int8), so it is not used.
+(On the GPU PC, ORT's CPU int8 numbers are much worse because the Ryzen 3700X has no VNNI; judge int8 in WASM, not there.)
+
+Re-running parity:
+```
+cd treaty-graph && uv run python ../../shannon-demo/tools/qa_parity/ref_dump.py <examples.json> <docs dir> ref.json   # Python reference
+cd <dir with onnxruntime-web@1.20.1 installed> && node tools/qa_parity/parity.mjs ref.json shipped
+```
+
+## Shannon idea model (`ideas.html`)
+
 Shannon is a small research language model that must pass everything through **32 discrete idea codes** (a 4,096-entry codebook):
 text → frozen MiniLM encoder → 32 codes → idea transformer → decoder → next 128 word-pieces. The decoder never sees the text.
 This site runs it entirely in the browser with [onnxruntime-web](https://onnxruntime.ai/) 1.20.1 (WASM, from jsDelivr), and shows:
@@ -14,12 +56,12 @@ This site runs it entirely in the browser with [onnxruntime-web](https://onnxrun
 
 Default model: `20m-fineweb` (≈169 MB download). The lighter 10M model (≈94 MB) is at `?model=10m-fineweb`.
 
-All text on the site is public FineWeb-Edu.
+All text on the idea page is public FineWeb-Edu.
 
 ## Layout
 
 ```
-index.html, assets/          static front end (no build step)
+ideas.html, assets/          static front end (no build step)
 models/models.json           {"current": "<model-id>", "models": [...]}; ?model=<id> picks another
 models/<id>/                 encoder.onnx ideas.onnx decoder.onnx export.json   (tools/export_model.py)
                              dictionary.json map.json presets.json stats.json  (tools/build_data.py, then tools/relabel_regions.py)

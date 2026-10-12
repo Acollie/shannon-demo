@@ -1,0 +1,534 @@
+[
+ {
+  "doc": "un_charter",
+  "q": "What are the purposes of the United Nations?",
+  "py": [
+   "list",
+   [
+    "To maintain international peace and security"
+   ],
+   1.843
+  ],
+  "js": [
+   "list",
+   [
+    "To maintain international peace and security"
+   ],
+   1.844
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "How many representatives may each Member have in the General Assembly?",
+  "py": [
+   "number",
+   5,
+   1.936
+  ],
+  "js": [
+   "number",
+   5,
+   1.936
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "Can a Member be expelled from the United Nations?",
+  "py": [
+   "bool",
+   true,
+   4.541
+  ],
+  "js": [
+   "bool",
+   true,
+   4.516
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "Who elects the non-permanent members of the Security Council?",
+  "py": [
+   "list",
+   [
+    "The General Assembly"
+   ],
+   1.801
+  ],
+  "js": [
+   "list",
+   [
+    "The General Assembly"
+   ],
+   1.8
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "When does the General Assembly meet in regular session?",
+  "py": [
+   "list",
+   [
+    "annual"
+   ],
+   0.134
+  ],
+  "js": [
+   "list",
+   [
+    "annual"
+   ],
+   0.134
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "Who convenes special sessions of the General Assembly?",
+  "py": [
+   "list",
+   [
+    "the Secretary-General"
+   ],
+   1.288
+  ],
+  "js": [
+   "list",
+   [
+    "the Secretary-General"
+   ],
+   1.288
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "Does a Member in arrears lose its vote in the General Assembly?",
+  "py": [
+   "bool",
+   false,
+   0.676
+  ],
+  "js": [
+   "bool",
+   false,
+   0.654
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "How many votes are needed for Security Council decisions on procedural matters?",
+  "py": [
+   "number",
+   9,
+   1.393
+  ],
+  "js": [
+   "number",
+   9,
+   1.394
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "Which body adopts its own rules of procedure, including the method of selecting its President?",
+  "py": [
+   "list",
+   [
+    "The Security Council"
+   ],
+   1.455
+  ],
+  "js": [
+   "list",
+   [
+    "The Security Council"
+   ],
+   1.455
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "un_charter",
+  "q": "What is the official language of the United Nations?",
+  "py": [
+   "null",
+   null,
+   0.696
+  ],
+  "js": [
+   "null",
+   null,
+   0.697
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "How often are Representatives chosen?",
+  "py": [
+   "list",
+   [
+    "every second Year"
+   ],
+   2.042
+  ],
+  "js": [
+   "list",
+   [
+    "every second Year"
+   ],
+   2.043
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "How long must a Senator have been a citizen?",
+  "py": [
+   "number",
+   9,
+   2.544
+  ],
+  "js": [
+   "number",
+   9,
+   2.545
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "Who chooses the Speaker of the House?",
+  "py": [
+   "list",
+   [
+    "The House of Representatives"
+   ],
+   1.835
+  ],
+  "js": [
+   "list",
+   [
+    "The House of Representatives"
+   ],
+   1.835
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "Who has the power to declare war?",
+  "py": [
+   "list",
+   [
+    "Congress"
+   ],
+   1.526
+  ],
+  "js": [
+   "list",
+   [
+    "Congress"
+   ],
+   1.525
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "How long is the President's term of office?",
+  "py": [
+   "number",
+   4,
+   1.816
+  ],
+  "js": [
+   "number",
+   4,
+   1.816
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "Can the President grant pardons?",
+  "py": [
+   "bool",
+   true,
+   2.792
+  ],
+  "js": [
+   "bool",
+   true,
+   2.74
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "What is required to convict a person of treason?",
+  "py": [
+   "list",
+   [
+    "The Congress"
+   ],
+   0.962
+  ],
+  "js": [
+   "list",
+   [
+    "The Congress"
+   ],
+   0.962
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "Who tries all impeachments?",
+  "py": [
+   "list",
+   [
+    "The Senate"
+   ],
+   1.862
+  ],
+  "js": [
+   "list",
+   [
+    "The Senate"
+   ],
+   1.862
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "Where must bills for raising revenue originate?",
+  "py": [
+   "list",
+   [
+    "House of Representatives"
+   ],
+   1.706
+  ],
+  "js": [
+   "list",
+   [
+    "House of Representatives"
+   ],
+   1.705
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "us_constitution",
+  "q": "How many justices sit on the Supreme Court?",
+  "py": [
+   "null",
+   null,
+   1.833
+  ],
+  "js": [
+   "null",
+   null,
+   1.833
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "What is the diameter of the Moon?",
+  "py": [
+   "null",
+   null,
+   1.597
+  ],
+  "js": [
+   "null",
+   null,
+   1.597
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "Who stayed in orbit during Apollo 11?",
+  "py": [
+   "list",
+   [
+    "Michael Collins"
+   ],
+   1.356
+  ],
+  "js": [
+   "list",
+   [
+    "Michael Collins"
+   ],
+   1.355
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "What causes the ocean tides on Earth?",
+  "py": [
+   "list",
+   [
+    "The Moon's gravity"
+   ],
+   0.93
+  ],
+  "js": [
+   "list",
+   [
+    "The Moon's gravity"
+   ],
+   0.928
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "How long is the full cycle of the Moon's phases?",
+  "py": [
+   "number",
+   29,
+   2.494
+  ],
+  "js": [
+   "number",
+   29,
+   2.495
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "What are the maria made of?",
+  "py": [
+   "null",
+   null,
+   1.37
+  ],
+  "js": [
+   "null",
+   null,
+   1.371
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "Where has water ice been found on the Moon?",
+  "py": [
+   "null",
+   null,
+   1.807
+  ],
+  "js": [
+   "null",
+   null,
+   1.804
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "Is the gravity on the Moon stronger than on Earth?",
+  "py": [
+   "null",
+   null,
+   3.502
+  ],
+  "js": [
+   "null",
+   null,
+   3.503
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "How old is the Moon?",
+  "py": [
+   "null",
+   null,
+   1.862
+  ],
+  "js": [
+   "null",
+   null,
+   1.863
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "Which mission was the last crewed mission to the Moon?",
+  "py": [
+   "number",
+   17,
+   1.123
+  ],
+  "js": [
+   "number",
+   17,
+   1.124
+  ],
+  "ok": true,
+  "picked_same": true
+ },
+ {
+  "doc": "moon",
+  "q": "How much does a ticket to the Moon cost?",
+  "py": [
+   "null",
+   null,
+   9.653
+  ],
+  "js": [
+   "null",
+   null,
+   9.653
+  ],
+  "ok": true,
+  "picked_same": true
+ }
+]

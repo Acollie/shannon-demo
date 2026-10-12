@@ -3,136 +3,123 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Shannon demo</title>
-<meta name="description" content="Shannon, a small language model that has to think in 32 discrete ideas, running locally in your browser.">
-<link rel="stylesheet" href="assets/style.css">
+<title>Shannon QA</title>
+<meta name="description" content="Shannon QA answers questions about any text you paste, entirely in your browser. It extracts answers from the text or refuses; it never generates.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/qa/qa.css">
 </head>
 <body>
-<header class="top">
-  <div class="wrap top-in">
-    <a class="brand" href="#">Shannon</a>
+<header class="bar">
+  <div class="wrap bar-in">
+    <a class="brand" href="./">Shannon <span>QA</span></a>
     <nav>
-      <a href="#try">Try it</a>
-      <a href="#map">Idea map</a>
-      <a href="#dict">Dictionary</a>
-      <a href="#stats">Results</a>
+      <a href="#ask">Ask</a>
+      <a href="#how">How it works</a>
+      <a href="#notes">Honest notes</a>
+      <a href="ideas.html">Idea model</a>
     </nav>
   </div>
 </header>
 
 <main class="wrap">
-  <section class="intro">
-    <h1>A small model that has to think in ideas</h1>
-    <p class="lede">Shannon reads up to 128 word-pieces and squeezes them into <b>32 idea codes</b>, each one of 4,096 entries in a learned codebook.
-      Its decoder then writes the next 128 word-pieces <b>from those codes alone</b>: it never sees your text.
-      Everything below runs on your device with <a href="https://onnxruntime.ai/docs/tutorials/web/">onnxruntime-web</a>; nothing is sent to a server.</p>
+  <section class="hero">
+    <div class="kicker">Shannon QA · runs in your browser · nothing is sent to a server</div>
+    <h1>Ask a document a question. Get an answer from the text, or an honest “not answerable”.</h1>
+    <p class="lede">Paste any text and ask about it. Shannon QA finds the passages that matter, lets a small reading model propose answers,
+      and a learned gate picks one: a span, a list, a number, yes or no, or <b>none</b>. There is no generative model, so every answer is a piece of your text,
+      and when no candidate is good enough it says so.</p>
     <div class="pipe" aria-hidden="true">
-      <span>your text</span><i>→</i><span>frozen MiniLM encoder</span><i>→</i><span class="hl">32 ideas (codes 0–4095)</span><i>→</i><span>idea transformer</span><i>→</i><span>decoder</span><i>→</i><span>new text</span>
+      <span>your text</span><i>→</i><span>passages</span><i>→</i><span>overlap + meaning retrieval</span><i>→</i><span>reader proposes answers</span><i>→</i><span>yes/no model</span><i>→</i><span class="hl">gate: pick one, or refuse</span>
     </div>
-    <p class="note" id="model-line">Model: loading model list…</p>
   </section>
 
-  <section id="try">
-    <h2>Try it</h2>
-    <div class="load-row" id="load-row">
-      <button id="load-btn" class="primary">Load Shannon</button>
-      <span id="load-status" class="muted"></span>
-      <div class="bar"><div id="load-bar"></div></div>
-    </div>
-
-    <div class="grid2">
-      <div>
-        <label for="preset">Preset (held-out FineWeb-Edu text)</label>
-        <select id="preset"><option value="">Your own text</option></select>
-        <label for="input">Input text</label>
-        <textarea id="input" rows="7" spellcheck="false">photosynthesis is the process plants use to turn light into chemical energy. the leaves take in carbon dioxide from the air and water from the soil, and sunlight drives the reactions that make sugar. oxygen is released as a by-product.</textarea>
-        <p class="muted small" id="tok-info"></p>
-        <div class="row">
-          <button id="encode-btn" disabled>1. Text → ideas</button>
-          <button id="gen-btn" class="primary" disabled>2. Ideas → text</button>
-          <button id="stop-btn" disabled>Stop</button>
-        </div>
-        <details class="settings">
-          <summary>Sampling settings</summary>
-          <div class="set-grid">
-            <label>Temperature <input id="temp" type="number" min="0" max="2" step="0.1" value="0.8"></label>
-            <label>Top-k <input id="topk" type="number" min="1" max="500" step="1" value="40"></label>
-            <label>Repeat penalty <input id="rep" type="number" min="1" max="3" step="0.05" value="1.3"></label>
-            <label>Length (tokens) <input id="len" type="number" min="8" max="128" step="8" value="96"></label>
-            <label>Seed <input id="seed" type="number" min="0" step="1" value="1"></label>
-          </div>
-          <p class="muted small">Temperature 0 = greedy. Same seed + same ideas = same output.</p>
-        </details>
-      </div>
-      <div>
-        <div class="ideas-head">
-          <h3>Ideas <span class="muted small" id="ideas-info"></span></h3>
-          <div class="row small-btns">
-            <button id="abl-null" disabled title="Replace every idea with the single most common code">All ideas = most common</button>
-            <button id="abl-shuf" disabled title="Shuffle the order of the 32 ideas">Shuffle order</button>
-            <button id="abl-reset" disabled>Reset edits</button>
-          </div>
-        </div>
-        <p class="muted small">Each chip is one idea: the code number and the 4 word-pieces it was made from. Tap a chip to see what the code means and swap in a neighbour.</p>
-        <div id="chips" class="chips"><p class="muted small">Load the model, then press "Text → ideas".</p></div>
-        <div id="chip-card" class="card hidden"></div>
+  <section id="ask" class="sec">
+    <div class="load" id="load-row">
+      <button id="load-btn" class="primary">Load Shannon QA</button>
+      <div class="load-info">
+        <div id="load-status" class="small">Three small models, downloaded once and kept in your browser's cache.</div>
+        <div class="bar-track"><div id="load-bar"></div></div>
+        <ul id="load-files" class="files small"></ul>
       </div>
     </div>
 
-    <div class="grid2 out">
-      <div>
-        <h3>Shannon's continuation <span class="muted small" id="gen-info"></span></h3>
-        <div id="output" class="textbox muted">…</div>
+    <div class="step">
+      <div class="step-h"><span class="no">01</span><h2>The document</h2></div>
+      <div class="chips" id="doc-chips" role="group" aria-label="Example documents"></div>
+      <p class="small muted" id="doc-note"></p>
+      <label for="doc" class="sr">Document text</label>
+      <textarea id="doc" rows="9" spellcheck="false" placeholder="Paste any text here: an article, a policy, a contract, a manual…"></textarea>
+      <p class="small muted" id="doc-stats"></p>
+    </div>
+
+    <div class="step">
+      <div class="step-h"><span class="no">02</span><h2>The question</h2></div>
+      <form id="ask-form" class="ask-row">
+        <label for="question" class="sr">Question</label>
+        <input id="question" type="text" autocomplete="off" placeholder="Ask something the text might answer" enterkeyhint="go">
+        <button id="ask-btn" class="primary" type="submit" disabled>Ask</button>
+      </form>
+      <div class="chips qchips" id="q-chips" role="group" aria-label="Example questions"></div>
+    </div>
+
+    <div id="result" class="result hidden" aria-live="polite"></div>
+  </section>
+
+  <section id="how" class="sec">
+    <div class="mg"><div class="no">03</div><h2>How it answers</h2></div>
+    <div class="main">
+      <div class="arch">
+        <div class="stage"><div class="no">1 · passages</div><h3>Split by length only</h3><p>The text's own paragraphs, long ones cut into windows of whole sentences (up to 120 words), short lines such as headings carried into the next passage. No rules about content.</p></div>
+        <div class="stage"><div class="no">2 · retrieval</div><h3>Overlap and meaning</h3><p>Top 3 passages by word overlap, weighted by how rare each word is <i>in this document</i>, plus top 3 by MiniLM sentence-embedding similarity.</p><p class="num">all-MiniLM-L6-v2 · 22.7M parameters</p></div>
+        <div class="stage"><div class="no">3 · candidates</div><h3>The reader proposes</h3><p>An extractive QA model reads each passage and proposes up to 6 spans. Each becomes a span, a one-item list, a number (via a small number-word reader), and pairs become two-item lists.</p><p class="num">minilm-uncased-squad2 · 33.2M</p></div>
+        <div class="stage"><div class="no">4 · yes / no</div><h3>A cross-encoder judges</h3><p>A DeBERTa-v3 model fine-tuned on public BoolQ plus development yes/no questions gives P(yes) for the top passages.</p><p class="num">DeBERTa-v3-xsmall · 70.8M</p></div>
+        <div class="stage"><div class="no">5 · choice</div><h3>The gate picks or refuses</h3><p>A question-form model (from the question's embedding) and a 50-weight log-linear gate score every candidate, including <b>none</b>. The top score wins; its lead over the runner-up is the confidence.</p></div>
       </div>
-      <div id="truth-box" class="hidden">
-        <h3>What the real text said next</h3>
-        <div id="truth" class="textbox"></div>
-        <p class="muted small" id="truth-bpb"></p>
+      <p class="small muted">This is a port of the Python system (treaty-graph's no-hand-code system) to JavaScript, run with <a href="https://onnxruntime.ai/docs/tutorials/web/">onnxruntime-web</a>. On 66 test questions over the three example texts it gives the same answer as the Python system every time (see the notes below).</p>
+    </div>
+  </section>
+
+  <section id="notes" class="sec">
+    <div class="mg"><div class="no">04</div><h2>Honest notes</h2></div>
+    <div class="main">
+      <div class="caveat"><b>No generative model.</b> Shannon QA can only point at words in your text. It cannot explain, summarise, combine facts from far apart, or answer “why” questions well. When nothing fits, it refuses.</div>
+      <div class="caveat"><b>Built on treaties and legal texts.</b> Its gate and yes/no model were trained on questions about treaties, the US Constitution, an OAuth RFC and the laws of chess. It is weaker on other kinds of writing: try the Moon text, where it misses several easy questions.</div>
+      <div class="caveat"><b>The first two examples flatter it.</b> The UN Charter and the US Constitution were development documents: the gate saw other questions about them. The Moon text was written for this page and never used in development.</div>
+      <h3 class="h3gap">Published results (from the project's pre-registered exam write-ups)</h3>
+      <div class="tablewrap">
+      <table>
+        <thead><tr><th>un_4: two treaties, 348 questions</th><th class="n">accuracy</th></tr></thead>
+        <tbody>
+          <tr class="hrow"><td>Shannon QA (the same design, trained without un_4)</td><td class="n">73.0%</td></tr>
+          <tr><td>Qwen2.5-1.5B-Instruct, given the same passages (reference)</td><td class="n">60.9%</td></tr>
+          <tr><td>Baseline: minilm-squad2 with overlap retrieval</td><td class="n">51.1%</td></tr>
+        </tbody>
+      </table>
       </div>
+      <ul class="plain small">
+        <li>un_4 was used as development data before this design was fixed, so 73.0 is a development number, not a held-out exam result. The model on this page was also trained on un_4 and on other development sets. The 60.9 and 51.1 rows come from the pre-registered un_4 scoring.</li>
+        <li>Much of the lead comes from refusing: Shannon QA refused 84.8% of the un_4 questions the text could not answer.</li>
+        <li><b>Reliability</b> (lower AURC is better: fewer wrong answers among the most confident ones): the earlier treaty-specific system, H4, scored AURC 0.199 against 0.310 for Qwen2.5-1.5B on un_4. That is not this system. For this system, a later check against a <i>calibrated</i>, 4-shot Qwen2.5-1.5B found the two level (cross-fit AURC 0.180 vs 0.172), so no reliability win is claimed.</li>
+        <li>Results on new domains (two sealed exams) are not reported here.</li>
+      </ul>
+      <h3 class="h3gap">This page</h3>
+      <ul class="plain small" id="page-notes">
+        <li>Models: all-MiniLM-L6-v2 (Apache-2.0), deepset/minilm-uncased-squad2 (CC-BY-4.0, by deepset), and a yes/no cross-encoder fine-tuned from cross-encoder/nli-deberta-v3-xsmall (Apache-2.0) on BoolQ (CC-BY-SA-3.0). They are stored as fp16 weights, plus int8 for the yes/no model's word table, and computed in fp32. Plain int8 throughout moved the reader's spans and the yes/no probabilities too much, so it isn't used.</li>
+        <li>The confidence shown is the gate's margin: how far the winning candidate's score is above the runner-up's. It is not a probability.</li>
+        <li>Everything runs single-threaded in WebAssembly. A question takes about one second on a laptop and longer on a phone. Reading a long document takes a few seconds.</li>
+      </ul>
     </div>
   </section>
 
-  <section id="map">
-    <h2>Idea map</h2>
-    <p>All 4,096 codebook vectors, laid out in 2-D with UMAP (cosine). Nearby codes have similar vectors. Colours are 28 k-means regions, labelled by the words their codes over-represent.
-      After "Text → ideas", the codes of your text are ringed and joined in slot order: that path is the thought Shannon passes to its decoder.</p>
-    <div class="row small-btns">
-      <label class="chk"><input type="checkbox" id="show-labels" checked> region labels</label>
-      <label class="chk"><input type="checkbox" id="show-path" checked> thought path</label>
-      <span class="muted small" id="map-hint">Hover or tap a point.</span>
-    </div>
-    <div class="map-wrap">
-      <canvas id="map-canvas" aria-label="Scatter plot of the 4,096 idea codes"></canvas>
-      <div id="map-tip" class="tip hidden"></div>
-    </div>
-  </section>
-
-  <section id="dict">
-    <h2>Idea dictionary</h2>
-    <p>What each code stands for, read off held-out validation windows: the 4-word-piece spans it encoded most, words it over-represents, and sample contexts.
-      Many codes are fuzzy; that is an honest picture of a model this small.</p>
-    <div class="row">
-      <input id="dict-q" type="search" placeholder="Search a word (e.g. cancer, water, war) or a code number">
-      <select id="dict-sort"><option value="n">most used</option><option value="id">code number</option></select>
-    </div>
-    <div class="dict-layout">
-      <ol id="dict-list" class="dict-list"></ol>
-      <div id="dict-card" class="card"><p class="muted">Pick a code.</p></div>
-    </div>
-  </section>
-
-  <section id="stats">
-    <h2>Results, honestly</h2>
-    <div id="stats-body"></div>
-  </section>
-
-  <footer class="foot">
-    <p>Shannon is a research model. Output is lower-cased (BERT-uncased word-pieces) and often off-topic or ungrammatical. Data: public FineWeb-Edu text only.
-      <a href="https://github.com/Acollie/shannon-demo">Source on GitHub</a>.</p>
+  <footer class="foot small muted">
+    <p>Shannon QA is a research system. Example texts: the Charter of the United Nations (Articles 1–32); the Constitution of the United States (National Archives transcription, public domain); “The Moon”, written for this page.
+      <a href="https://github.com/Acollie/shannon-demo">Source on GitHub</a> · <a href="ideas.html">Shannon's idea model</a>.</p>
   </footer>
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.min.js"></script>
-<script type="module" src="assets/app.js"></script>
+<script type="module" src="assets/qa/app.js"></script>
 </body>
 </html>

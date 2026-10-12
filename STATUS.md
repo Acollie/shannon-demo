@@ -19,7 +19,12 @@ Updated: 2026-10-12
 
 - 20M verified LIVE (commit a2aa584): loads 169 MB, 32 codes in ~80 ms, ~5 ms/token, no console errors. PC training (ts20m_t5) kept progressing throughout; no demo jobs left running on the PC.
 
+- 2026-10-13: **Shannon QA is now the main page** (index.html); the idea demo moved to ideas.html (links both ways). JS port of treaty-graph SystemX,
+  models in models/qa (214 MB total, fp16w + int8 word table for yes/no). Parity vs Python SystemX 66/66. ~0.8 s/question in WASM on the Mac.
+  PC scratch for this: ~/qa-demo (src models, out/ ONNX variants, demo-venv got transformers 5.19.0). Nothing left running on the PC.
+
 ## Open / optional
+- Shannon QA download is 214 MB (yesno 95 MB is the big one). A reader int8 file would save 33 MB at the cost of 1/66 parity.
 - The 20M download is heavy for phones (169 MB; decoder 91 MB because every int8 decoder variant drifted 2.5-3.4% BPB). A future option: find the drifting decoder ops (static int8 with calibration, or MatMulNBits weight-only int8) to get it near 60 MB.
 - GitHub warns that decoder.onnx (87 MiB) is above the 50 MB recommendation; it is under the 100 MB hard limit.
 

@@ -1,0 +1,68 @@
+{
+  "note": "Example documents and questions for the Shannon QA demo. Questions were written for this demo (not taken from any exam). 'expect' is the answer the author had in mind, or null if the text does not answer the question.",
+  "docs": [
+    {
+      "id": "un_charter",
+      "title": "UN Charter (Articles 1-32)",
+      "file": "qa/docs/un_charter.txt",
+      "source": "Charter of the United Nations, Articles 1-32 (Chapters I-V). Public text.",
+      "seen": true,
+      "questions": [
+        {"q": "How many members does the Security Council consist of?", "expect": "fifteen"},
+        {"q": "Which countries are permanent members of the Security Council?", "expect": "Republic of China, France, USSR, United Kingdom, United States"},
+        {"q": "For how long are the non-permanent members of the Security Council elected?", "expect": "two years"},
+        {"q": "How many votes does each member of the General Assembly have?", "expect": "one"},
+        {"q": "Is membership of the United Nations open to all peace-loving states?", "expect": "yes"},
+        {"q": "Which body recommends the admission of new Members?", "expect": "the Security Council"},
+        {"q": "What majority does the General Assembly need for decisions on important questions?", "expect": "two-thirds majority of the members present and voting"},
+        {"q": "May the General Assembly make a recommendation on a dispute while the Security Council is dealing with it?", "expect": "no"},
+        {"q": "Who bears the expenses of the Organization?", "expect": "the Members, as apportioned by the General Assembly"},
+        {"q": "Where is the headquarters of the United Nations?", "expect": null},
+        {"q": "What is the annual budget of the United Nations?", "expect": null},
+        {"q": "Who appoints the Secretary-General?", "expect": null}
+      ]
+    },
+    {
+      "id": "us_constitution",
+      "title": "US Constitution (Articles I-VII)",
+      "file": "qa/docs/us_constitution.txt",
+      "source": "The Constitution of the United States, preamble and Articles I-VII, from the National Archives transcription. Public domain.",
+      "seen": true,
+      "questions": [
+        {"q": "How old must a person be to be a Representative?", "expect": "twenty five years"},
+        {"q": "How long is the term of a Senator?", "expect": "six years"},
+        {"q": "Who is the President of the Senate?", "expect": "the Vice President"},
+        {"q": "Who has the sole power of impeachment?", "expect": "the House of Representatives"},
+        {"q": "How many Senators does each State have?", "expect": "two"},
+        {"q": "Can a person who is thirty years old be elected President?", "expect": "no"},
+        {"q": "Who is Commander in Chief of the Army and Navy?", "expect": "the President"},
+        {"q": "How many States had to ratify the Constitution for it to be established?", "expect": "nine"},
+        {"q": "Who appoints ambassadors?", "expect": "the President, with the advice and consent of the Senate"},
+        {"q": "In which court is the judicial power of the United States vested?", "expect": "one supreme Court and inferior courts"},
+        {"q": "What is the yearly salary of the President in dollars?", "expect": null},
+        {"q": "How many electors does California have?", "expect": null}
+      ]
+    },
+    {
+      "id": "moon",
+      "title": "The Moon (new text)",
+      "file": "qa/docs/moon.txt",
+      "source": "A short encyclopedia-style text written for this demo. Not a legal text, and never seen in development.",
+      "seen": false,
+      "questions": [
+        {"q": "How far is the Moon from Earth?", "expect": "about 384,400 kilometres"},
+        {"q": "Who were the first people to walk on the Moon?", "expect": "Neil Armstrong and Buzz Aldrin"},
+        {"q": "How many astronauts walked on the Moon?", "expect": "twelve"},
+        {"q": "Is the Moon Earth's only natural satellite?", "expect": "yes"},
+        {"q": "When did Apollo 11 land on the Moon?", "expect": "20 July 1969"},
+        {"q": "What are the dark plains on the Moon called?", "expect": "maria"},
+        {"q": "Does the Moon have a thick atmosphere?", "expect": "no"},
+        {"q": "Which spacecraft was the first to reach the surface of the Moon?", "expect": "Luna 2"},
+        {"q": "How long does the Moon take to orbit Earth?", "expect": "27.3 days"},
+        {"q": "How fast is the Moon moving away from Earth?", "expect": "about 3.8 centimetres per year"},
+        {"q": "Who was the first woman to walk on the Moon?", "expect": null},
+        {"q": "What is the temperature at the Moon's south pole?", "expect": null}
+      ]
+    }
+  ]
+}
