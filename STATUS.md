@@ -17,8 +17,11 @@ Updated: 2026-10-12
 
 - 20M swapped in: models/20m-fineweb (dictionary/map/presets/stats from build_data on the PC; held-out BPB fp32 1.305 / shuffle 1.318 / null 1.354; all 4096 codes used). models.json current=20m-fineweb; 10M kept at ?model=10m-fineweb. Tested locally (loads 169 MB, ~5 ms/token, no console errors).
 
-## In progress
-- Push and verify the 20M site live.
+- 20M verified LIVE (commit a2aa584): loads 169 MB, 32 codes in ~80 ms, ~5 ms/token, no console errors. PC training (ts20m_t5) kept progressing throughout; no demo jobs left running on the PC.
+
+## Open / optional
+- The 20M download is heavy for phones (169 MB; decoder 91 MB because every int8 decoder variant drifted 2.5-3.4% BPB). A future option: find the drifting decoder ops (static int8 with calibration, or MatMulNBits weight-only int8) to get it near 60 MB.
+- GitHub warns that decoder.onnx (87 MiB) is above the 50 MB recommendation; it is under the 100 MB hard limit.
 
 ## Notes
 - PC venv for this work: ~/demo-venv (separate from ~/shannon/.venv). Never touch runs/poc20m_*, ts20m_*, chain*.sh, data/shards.
