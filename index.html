@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shannon demo</title>
+<meta name="description" content="Shannon, a small language model that has to think in 32 discrete ideas, running locally in your browser.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#">Shannon</a>
+    <nav>
+      <a href="#try">Try it</a>
+      <a href="#map">Idea map</a>
+      <a href="#dict">Dictionary</a>
+      <a href="#stats">Results</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <h1>A small model that has to think in ideas</h1>
+    <p class="lede">Shannon reads up to 128 word-pieces and squeezes them into <b>32 idea codes</b>, each one of 4,096 entries in a learned codebook.
+      Its decoder then writes the next 128 word-pieces <b>from those codes alone</b>: it never sees your text.
+      Everything below runs on your device with <a href="https://onnxruntime.ai/docs/tutorials/web/">onnxruntime-web</a>; nothing is sent to a server.</p>
+    <div class="pipe" aria-hidden="true">
+      <span>your text</span><i>→</i><span>frozen MiniLM encoder</span><i>→</i><span class="hl">32 ideas (codes 0–4095)</span><i>→</i><span>idea transformer</span><i>→</i><span>decoder</span><i>→</i><span>new text</span>
+    </div>
+    <p class="note" id="model-line">Model: loading model list…</p>
+  </section>
+
+  <section id="try">
+    <h2>Try it</h2>
+    <div class="load-row" id="load-row">
+      <button id="load-btn" class="primary">Load Shannon</button>
+      <span id="load-status" class="muted"></span>
+      <div class="bar"><div id="load-bar"></div></div>
+    </div>
+
+    <div class="grid2">
+      <div>
+        <label for="preset">Preset (held-out FineWeb-Edu text)</label>
+        <select id="preset"><option value="">Your own text</option></select>
+        <label for="input">Input text</label>
+        <textarea id="input" rows="7" spellcheck="false">photosynthesis is the process plants use to turn light into chemical energy. the leaves take in carbon dioxide from the air and water from the soil, and sunlight drives the reactions that make sugar. oxygen is released as a by-product.</textarea>
+        <p class="muted small" id="tok-info"></p>
+        <div class="row">
+          <button id="encode-btn" disabled>1. Text → ideas</button>
+          <button id="gen-btn" class="primary" disabled>2. Ideas → text</button>
+          <button id="stop-btn" disabled>Stop</button>
+        </div>
+        <details class="settings">
+          <summary>Sampling settings</summary>
+          <div class="set-grid">
+            <label>Temperature <input id="temp" type="number" min="0" max="2" step="0.1" value="0.8"></label>
+            <label>Top-k <input id="topk" type="number" min="1" max="500" step="1" value="40"></label>
+            <label>Repeat penalty <input id="rep" type="number" min="1" max="3" step="0.05" value="1.3"></label>
+            <label>Length (tokens) <input id="len" type="number" min="8" max="128" step="8" value="96"></label>
+            <label>Seed <input id="seed" type="number" min="0" step="1" value="1"></label>
+          </div>
+          <p class="muted small">Temperature 0 = greedy. Same seed + same ideas = same output.</p>
+        </details>
+      </div>
+      <div>
+        <div class="ideas-head">
+          <h3>Ideas <span class="muted small" id="ideas-info"></span></h3>
+          <div class="row small-btns">
+            <button id="abl-null" disabled title="Replace every idea with the single most common code">All ideas = most common</button>
+            <button id="abl-shuf" disabled title="Shuffle the order of the 32 ideas">Shuffle order</button>
+            <button id="abl-reset" disabled>Reset edits</button>
+          </div>
+        </div>
+        <p class="muted small">Each chip is one idea: the code number and the 4 word-pieces it was made from. Tap a chip to see what the code means and swap in a neighbour.</p>
+        <div id="chips" class="chips"><p class="muted small">Load the model, then press "Text → ideas".</p></div>
+        <div id="chip-card" class="card hidden"></div>
+      </div>
+    </div>
+
+    <div class="grid2 out">
+      <div>
+        <h3>Shannon's continuation <span class="muted small" id="gen-info"></span></h3>
+        <div id="output" class="textbox muted">…</div>
+      </div>
+      <div id="truth-box" class="hidden">
+        <h3>What the real text said next</h3>
+        <div id="truth" class="textbox"></div>
+        <p class="muted small" id="truth-bpb"></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="map">
+    <h2>Idea map</h2>
+    <p>All 4,096 codebook vectors, laid out in 2-D with UMAP (cosine). Nearby codes have similar vectors. Colours are 28 k-means regions, labelled by the words their codes over-represent.
+      After "Text → ideas", the codes of your text are ringed and joined in slot order: that path is the thought Shannon passes to its decoder.</p>
+    <div class="row small-btns">
+      <label class="chk"><input type="checkbox" id="show-labels" checked> region labels</label>
+      <label class="chk"><input type="checkbox" id="show-path" checked> thought path</label>
+      <span class="muted small" id="map-hint">Hover or tap a point.</span>
+    </div>
+    <div class="map-wrap">
+      <canvas id="map-canvas" aria-label="Scatter plot of the 4,096 idea codes"></canvas>
+      <div id="map-tip" class="tip hidden"></div>
+    </div>
+  </section>
+
+  <section id="dict">
+    <h2>Idea dictionary</h2>
+    <p>What each code stands for, read off held-out validation windows: the 4-word-piece spans it encoded most, words it over-represents, and sample contexts.
+      Many codes are fuzzy; that is an honest picture of a model this small.</p>
+    <div class="row">
+      <input id="dict-q" type="search" placeholder="Search a word (e.g. cancer, water, war) or a code number">
+      <select id="dict-sort"><option value="n">most used</option><option value="id">code number</option></select>
+    </div>
+    <div class="dict-layout">
+      <ol id="dict-list" class="dict-list"></ol>
+      <div id="dict-card" class="card"><p class="muted">Pick a code.</p></div>
+    </div>
+  </section>
+
+  <section id="stats">
+    <h2>Results, honestly</h2>
+    <div id="stats-body"></div>
+  </section>
+
+  <footer class="foot">
+    <p>Shannon is a research model. Output is lower-cased (BERT-uncased word-pieces) and often off-topic or ungrammatical. Data: public FineWeb-Edu text only.
+      <a href="https://github.com/Acollie/shannon-demo">Source on GitHub</a>.</p>
+  </footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.min.js"></script>
+<script type="module" src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+ "id": "10m-fineweb",
+ "name": "Shannon 10M",
+ "data": "FineWeb-Edu (public), 50M training tokens",
+ "train_tokens": 49987584,
+ "compare": {
+  "source": "training-run validation split, cooldown at the full budget (16+ batches of 64 windows), same data, same tokenizer, ~1.6e15 training FLOPs each",
+  "shannon": {"bpb": 1.4778, "bpb_shuffle": 1.4875, "bpb_null": 1.5120, "nonemb_params": 23137152, "train_flops": 1.608e15},
+  "baseline": {"name": "plain encoder-decoder (T5-style, no idea bottleneck)", "bpb": 1.4070, "bpb_shuffle": 1.4522, "bpb_null": 1.4764, "nonemb_params": 10082240, "train_flops": 1.622e15}
+ }
+}
