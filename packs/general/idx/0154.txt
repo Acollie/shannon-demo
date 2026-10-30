@@ -1,0 +1,604 @@
+20142015		qfl:4
+20142015 figure		qfl:4
+20142015 figure skating		qfl:4
+20142015 figure skating season	qfl	
+20142015 grand prix of figure skating final	sm0	
+20142015 isu grand prix of figure skating	2xse	
+20142015 isu speed skating world cup	1haa	
+32608	3ge	
+aimable		2ueb:2
+aimable jean jacques duke de malakoff pelissier	2ueb	
+aimable jean jacques pelissier	2ueb	
+aimable jean jacques pelissier duc de malakoff	2ueb	
+aimable pelissier	2ueb	
+alexander kharitonov	31jx	
+alexander kharitonov ice hockey	31jx	
+allision	6evu	
+allycia	5ej	
+andore jr	6edl	
+archepiscop	e2	
+barbourville	3sqn	
+barbourville kentucky	3sqn	
+barbourville ky	3sqn	
+bardd	6f3v	
+baritius	5lrx	
+barnay	2w4r	
+barrowman andrew	3km1	
+beaubery	3o87	
+beruges	2pll	
+billerica	11nj	
+billerica ma	11nj	
+billerica mass	11nj	
+billerica massachusetts	11nj	
+boisduvalia	12y1	
+botwell mission f c	aq9	
+britany spears	820	
+cannabis	41ox,6g99	
+cannabis college song	zbk	
+cannabis drug	6g99	
+cannabis engel der gewalt	41ox	
+cannabis film	41ox	
+cbdgraf management theory	rom	
+chlidanotinae	3oa0	
+cletherwoode	yvv	
+coffeeshops	fep	
+deaths by cancer	rr	
+deaths by natural causes	1k	
+deaths in 1900	1awf	
+deaths in 1901	18cu	
+deaths in 1902	19cc	
+deaths in 1903	2atn	
+deaths in 1909	1aot	
+deaths in 1910	13xb	
+deaths in 1911	1epm	
+deaths in 1912	1c8x	
+deaths in 1913	1bj0	
+deaths in 1914	17y7	
+deaths in 1915	1dxu	
+deaths in 1916	1fxx	
+deaths in 1917	1c1c	
+deaths in 1918	23ya	
+deaths in 1921	5plm	
+deaths in 1922	1dr7	
+deaths in 1923	1j1s	
+deaths in 1924	1c9t	
+deaths in 1925	1f6g	
+deaths in 1926	1a2r	
+deaths in 1927	1e5c	
+deaths in 1928	1d4y	
+deaths in 1929	1cst	
+deaths in 1930	1eii	
+deaths in 1931	1bfu	
+deaths in 1932	1an3	
+deaths in 1933	1ckc	
+deaths in 1934	17sm	
+deaths in 1935	1e6l	
+deaths in 1936	1eeb	
+deaths in 1937	1fj7	
+deaths in 1938	1eqq	
+deaths in 1939	1cgj	
+deaths in 1940	1awk	
+deaths in 1941	172h	
+deaths in 1942	18yg	
+deaths in 1943	19pm	
+deaths in 1944	1dsi	
+deaths in 1945	1adg	
+deaths in 1946	19kz	
+deaths in 1947	19vx	
+deaths in 1948	16oa	
+deaths in 1949	1d06	
+deaths in 1950	17vf	
+deaths in 1953	1exz	
+deaths in 1954	1da5	
+deaths in 1955	1973	
+deaths in 1956	1o84	
+deaths in 1959	17gu	
+deaths in 1960	1bt7	
+deaths in 1961	19fn	
+deaths in 1962	186m	
+deaths in 1963	1ctj	
+deaths in 1964	13yx	
+deaths in 1965	guz	
+deaths in 1966	wvb	
+deaths in 1967	ym7	
+deaths in 1968	zec	
+deaths in 1969	475e	
+deaths in 1970	41ee	
+deaths in 1971	yez	
+deaths in 1972	vyk	
+deaths in 1973	zl2	
+deaths in 1974	1l9w	
+deaths in 1975	w10	
+deaths in 1976	1hik	
+deaths in 1977	2eez	
+deaths in 1978	2pf4	
+deaths in 1979	3l25	
+deaths in 1980	w34	
+deaths in 1981	kgi	
+deaths in 1983	3suv	
+deaths in 1984	2trg	
+deaths in 1985	2xzy	
+deaths in 1986	3a21	
+deaths in 1987	2urs	
+deaths in 1988	2y4z	
+deaths in 1989	31nm	
+deaths in 1991	1j3l	
+deaths in 1992	1rc6	
+deaths in 1993	2en6	
+deaths man	eii	
+deaths of 2006	bje	
+deaths of ian stone	5wf7	5wf7:5
+deaths of natural causes	1k	
+denaby		ksm:4,6fmw:2
+denaby main	6fmw	
+denaby main colliery village	6fmw	
+denaby united	ksm	ksm:4
+denaby united f		ksm:4
+denaby united f c	ksm	
+denaby united fc	ksm	
+dimebag	22y9	22y9:2
+dimebag darrel	22y9	
+dimebag darrell	22y9	
+dimebag darrell abbott	22y9	
+dinajpur	5l05	10vs:2
+dinajpur district	10vs	
+dinajpur district bangladesh	10vs	
+dinajpur north	1hxg	
+dinajpur north district	1hxg	
+dinajpur south	1ykr	
+dinajpur south district	1ykr	
+dinajpur zila	5l05	
+dinajpur zila bangladesh	10vs	
+doggystyle	6fyt	
+doggystyle 2 tha doggumentary	68pb	
+doggystyle 2 the doggumentary	68pb	
+doggystyle album	6fyt	
+doggystyle records	tsm	
+dolma phodrang ngawang kunga thegchen palbar thinley samphel wanggi gyalpo	66xt	
+drankin patna	df2	
+edmontonians	t6	
+eline		4inz:2,54g5:3
+eline nygaard	54g5	54g5:3
+eline nygaard riisnaes	54g5	
+eline nygaard riisns	54g5	
+eline vere	4inz	
+eline vere film	4inz	
+elleniki radiophonio teleorassi	40nf	
+erding	26fm	
+erding district	f0t	
+erding germany	26fm	
+escoutoux	26mf	
+espirito		5dv:2
+espirito santo	5dv	
+espirito santo estado	5dv	
+espirito santo province	5dv	
+faezeh		3hk2:3
+faezeh hashemi	3hk2	3hk2:3
+faezeh hashemi bahramani	3hk2	
+faezeh hashemi rafsanjani	3hk2	
+faezeh rafsanjani	3hk2	
+fc blokhus	5xdl	
+fc kommunalnik		2o49:4,3dcj:3
+fc kommunalnik druzhba d maykop	5tl	
+fc kommunalnik slonim	3dcj	
+fc kommunalnik ulan		2o49:4
+fc kommunalnik ulan ude	2o49	
+fc zhytychi zhytomyr	vxk	
+flessingue	csd	
+fuscaldo	1s19	
+galeata	4giw	
+gayagok myeon	57r9	
+george cotesworth pinckney	5btf	
+george cottier	4jsv	
+george mackey	5eo4	
+ghattamaneni		1pio:3
+ghattamaneni krishna	jgv	
+ghattamaneni mahesh babu	m6y	
+ghattamaneni manjula	33og	
+ghattamaneni ramesh		1pio:3
+ghattamaneni ramesh babu	1pio	
+ghattamaneni siva rama krishna	jgv	
+ghattamaneni sivarama krishna murthy	jgv	
+gmina lubsza	w3m	
+gorowski	1r71	
+guadalcazar	47n7	
+guadalcazar cordoba	47n7	
+guadalcazar spain	47n7	
+gurewitz	1r38	
+hdw	cch	
+herissart	2mp6	
+hpv16	4j7j	
+hutcherson	fcw	
+imix	24nh	
+ishikoshi miyagi	3hp1	
+james jameson		5b1r:3
+james jameson dickson	5b1r	
+jean harlow	pw1	
+john prentice	5as9	
+john prentice footballer born 1926	5as9	
+john trellez	3p0z	
+karbitz	35jx	
+keffenach	2gi1	
+keraj rural district	35pw	
+kurumaddali lakshmi narasimha rao	6193	
+la guepe touchard novel	eju	
+le truel	3pf3	
+lemhi		1rls:2
+lemhi county	1rls	
+lemhi county id	1rls	
+lemhi county idaho	1rls	
+leonitas	51y2	
+lettomanopello	2mot	
+lodzki ks	4ie	
+lodzki wschodni	1whd	
+loiri	503p	503p:4
+loiri porto		503p:4
+loiri porto san		503p:4
+loiri porto san paolo	503p	
+louison		4qwo:2
+louison bobet	4qwo	
+loweia	stp	
+makulla	4veb	
+manfred		52y:2,15gs:2,17w3:4,1941:2,1c1z:2,1fgq:2,1hrm:2,1q0r:2,1y2i:5,1zi8:2,2cwg:3,2zya:2,36qb:3,3c48:3,3gup:2,3i9n:3,3u36:2,3uk1:2,3vkx:2,3vl6:2,3y2v:2,4axm:2,4mn9:2,4ns0:2,4w66:2,59eo:2,5apq:2,5bcu:2,5d4w:2,5ep4:2,5ixb:2,5owj:2,5wby:2,60lc:2,61bb:2,635m:2,63wy:2,684d:2,6c9s:2
+manfred albrecht freiherr von richthofen	3i9n	
+manfred albrecht von richthofen	3i9n	
+manfred ardenne	36qb	
+manfred b lee	1g4d	
+manfred behrens	61bb	
+manfred bender	5ixb	
+manfred binz	3vl6	
+manfred bockenfeld	4ns0	
+manfred burghartswieser	6c9s	
+manfred burgsmueller	4axm	
+manfred burgsmuller	4axm	
+manfred duke of athens	2cwg	
+manfred duke of athens and neopatria	2cwg	
+manfred eicher	52y	
+manfred eickemeyer	2sg4	
+manfred eigen	1hrm	
+manfred georg rudolf von brauchitsch	3c48	
+manfred gerlach	60lc	
+manfred grund	1q0r	
+manfred h lachs	5ep4	
+manfred hermann worner	1zi8	
+manfred josef karl mayrhofer	3y2v	
+manfred kaiser	59eo	
+manfred kaltz	2zya	
+manfred king		17w3:4
+manfred king of		17w3:4
+manfred king of sicily	17w3	
+manfred korfmann	4mn9	
+manfred krug	1c1z	
+manfred lachs	5ep4	
+manfred lee	1g4d	
+manfred liebenau	1jv4	
+manfred linzmaier	63wy	
+manfred lubowitz	3u36	
+manfred mann	1941,3u36	1y2i:5
+manfred mann band	1941	
+manfred mann musician	3u36	
+manfred mann s		1y2i:5
+manfred mann s earth		1y2i:5
+manfred mann s earth band	1y2i	
+manfred mayrhofer	3y2v	
+manfred muller	5apq	
+manfred muller footballer	5apq	
+manfred noa	15gs	
+manfred of		2cwg:3
+manfred of aragon	2cwg	
+manfred of athens	2cwg	
+manfred of hohenstaufen	17w3	
+manfred of sicily	17w3	
+manfred pamminger	684d	
+manfred purzer	3vkx	
+manfred ritschel	635m	
+manfred rommel	4w66	
+manfred schwabl	5bcu	
+manfred seissler	5wby	
+manfred sepse lubowitz	3u36	
+manfred stolpe	5d4w	
+manfred von		36qb:3,3c48:3,3i9n:3
+manfred von ardenne	36qb	
+manfred von brauchitsch	3c48	
+manfred von richthofen	3i9n	
+manfred von richtofen	3i9n	
+manfred von richtoven	3i9n	
+manfred von rickthofen	3i9n	
+manfred von rickthoven	3i9n	
+manfred von ricktoven	3i9n	
+manfred weber	3gup	
+manfred wei	3uk1	
+manfred wekwerth	5owj	
+manfred woerner	1zi8	
+manfred wong	1fgq	
+manfred wong man jun	1fgq	
+manfred worner	1zi8	
+mariampole	nko	
+mariquina philippines	lu0	
+meillers	2yoo	
+menzel	591j	
+menzel adolph von	591j	
+mini		4ps1:2,4yx1:2,5ume:4
+mini bd	2qr	
+mini bombay	9co	
+mini computer	1zsk	
+mini computer mouse	2uc	
+mini computers	1zsk	
+mini con transformers	7g3	
+mini cons	7g3	
+mini dipper	1f1z	
+mini diskette	1my	
+mini driver	sy9	
+mini feed	owh	
+mini film	c6	
+mini flat boule d or	62cy	
+mini football futsal	1q1	
+mini game	4411	
+mini games	4411	
+mini geschuetz	3spa	
+mini geschutz	3spa	
+mini gun	3spa	
+mini indy	5gxs	
+mini jacobsen	4yx1	
+mini jakobsen	4yx1	
+mini matildas	66c1	
+mini moni	4g7b	
+mini nes classic edition	1fa	
+mini ni tako	3xy4	
+mini ninja	4ps1	
+mini ninjas	4ps1	
+mini ninjas adventures	4ps1	
+mini pearl	5e07	
+mini pop kids	2pht	
+mini qso	1msx	
+mini roundabout	4n1p	
+mini s		5ume:4
+mini s first		5ume:4
+mini s first time	5ume	
+mini seeds	57mg	
+mini series	yt	
+mini sub	10ay	
+mini submarine	10ay	
+mini tablet	rfr	
+mini tablet computer	rfr	
+mini tablets	rfr	
+mini yang	2wv6	
+mirenkostanjevica	3o6v	3o6v:2
+mirenkostanjevica municipality	3o6v	
+momuy	3bp1	
+muides		3pko:3
+muides sur		3pko:3
+muides sur loire	3pko	
+murdjo	1za3	
+mweene	4069	
+naos tes anastaseos	3bg1	
+naos tis anastaseos	3bg1	
+nayanthara	r7x	
+neocoenyra	5a34	
+new erode	1h11	
+newspaperwoman	x	
+nogales	1cbe,24sy,2y2h	
+nogales arizona	1cbe	
+nogales arizona micropolitan area	1919	
+nogales az	1cbe	
+nogales az micropolitan statistical area	1919	
+nogales az msa	1919	
+nogales az sa	1919	
+nogales badajoz	24sy	
+nogales sonora	2y2h	
+nogales sonora mexico	2y2h	
+osielsko commune	2zpn	
+oulof language	4dbs	
+paveway	5omx	
+paveway 2	5omx	
+paveway 3	5omx	
+paveway ii	5omx	
+paveway iii	5omx	
+paveway missile	5omx	
+petersfield	nm3	
+petersfield england	nm3	
+petersfield hampshire	nm3	
+petersfield herald	nm3	
+pluviophile	4767	
+pseudonocardineae	3t38	
+quadriple agent	4wfh	
+radnicki 1923 kragujevac	61e	
+radnicki 1926 pozarevac	j0v	
+radnicki belgrade	cdu	
+radnicki beograd	cdu	
+radnicki ivangrad	3bbn	
+radnicki jugopetrol	cdu	
+radnicki kragujevac	61e	
+radnicki nis	54r	
+radnicki nova pazova	1ky7	
+radnicki novi beograd	cdu	
+radnicki obrenovac	h9h	
+radnicki pirot	meu	
+radnicki sombor	17m4	
+radnicki stobex	5wh2	
+rajsamand		2k76:2
+rajsamand district	2k76	
+raspberyy pi	2ihn	
+reeve		3sex:2
+reeve canada	d1	
+reeve carney	3sex	
+reeve christopher	npd	
+reeve jefferson carney	3sex	
+ren	put,287z	
+ren ai game	1q6e	
+ren ai games	1q6e	
+ren antoine ferchault de reaumur	4ysl	
+ren bazin	5wj7	
+ren clair	l9v	
+ren dahua	g9d	
+ren doumic	38p3	
+ren lucien chomette	l9v	
+ren mar	irb	
+ren mccormick	1pih	
+ren of heavens	6hhy	
+ren ohsugi	kd6	
+ren osugi	kd6	
+ren py	1vc1	
+ren surname	put	
+ren xianqi	34kn	
+rianxo	3f8l	
+richard groove holmes	1pgg	
+richard ira bong	4try	
+rishi		90w:2
+rishi kapoor	90w	
+rishi public school beri	3eu3	
+rishi richard	361e	
+rishi roy	5wzy	
+robert costanzo	207d	
+robert earnshaw	348r	
+robert parish	5nca	
+rococo	b7x	
+rococo arcade fire song	5vdv	
+rococo architecture	b7x	
+rococo art period	b7x	
+rococo furniture style	b7x	
+rococo painting	b7x	
+rococo style	b7x	
+rozay		2zp5:3
+rozay en		2zp5:3
+rozay en brie	2zp5	
+saverino	4nwk	
+sawao		35mx:2
+sawao kato	35mx	
+shadower	619o	
+shingles	688o	
+shingles comments	688o	
+skutec	yki	
+sluzk	10ut	
+sorgono	29ht	
+st bernardine	3sbr	
+st bernardine from siena	3sbr	
+st bernardine of siena	3sbr	
+sticky		1l6l:2,47vh:2
+sticky bandits	104q	
+sticky barley	5kge	
+sticky fingaz	1l6l	
+sticky fingers	47vh	
+sticky fingers album	47vh	
+sticky rice	rbz	
+storace list	lo2	
+sumithra	56xx	
+sumithra actress	56xx	
+superpets	3l56	
+tarachia	vf	
+tassilo of bulgaria	57ku	
+team2		1h89:3
+team2 cluster	1h89	
+team2 ecotechnology		1h89:3
+team2 ecotechnology cluster	1h89	
+the disappearance		1620:5,1u57:5,41eu:5
+the disappearance of		1620:5,1u57:5,41eu:5
+the disappearance of eleanor		41eu:5
+the disappearance of eleanor rigby	41eu	
+the disappearance of eleanor rigby them	41eu	
+the disappearance of garcia		1u57:5
+the disappearance of garcia lorca	1u57	
+the disappearance of haruhi		1620:5
+the disappearance of haruhi suzumiya	1620	
+the disappearance of haruhi suzumiya film	1620	
+the happy		1ufo:3,2c8q:3,33g4:3,3a11:3,529g:3,57qz:3,69cq:3
+the happy accidents of the swing	59zd	
+the happy ending	33g4	
+the happy ghost	57qz	
+the happy ghost 1941 film	57qz	
+the happy mondays	3vlh	
+the happy prisoner	5ezh	
+the happy road	1ufo	
+the happy thieves	2c8q	
+the happy time	3a11	
+the happy time film	3a11	
+the happy vagabonds	69cq	
+the happy village	529g	
+the merovingians	lkp	
+the metrodome	3owh	
+the sun	4k4d	1fs8:4,2f45:4,3jtt:6,3l5u:4,4icy:4,59po:5,5kn8:5,6bsw:5,6gmi:4
+the sun also		2f45:4,3jtt:6,6gmi:4
+the sun also rise	6gmi	
+the sun also rises	2f45,6gmi	
+the sun also rises 1957 film	2f45	
+the sun also rises the select	6gmi	
+the sun also shines		3jtt:6
+the sun also shines at		3jtt:6
+the sun also shines at night	3jtt	
+the sun and the moon	1cxx	
+the sun and the rainfall	3yjy	
+the sun baltimore	5ukd	
+the sun christine fan album	5f0o	
+the sun comes		4icy:4
+the sun comes out	4yjb	
+the sun comes up	4icy	
+the sun fanfan album	5f0o	
+the sun film	4k4d	
+the sun goes down thin lizzy	k4x	
+the sun is		6bsw:5
+the sun is far		6bsw:5
+the sun is far away	6bsw	
+the sun king	euj	
+the sun of		59po:5,5kn8:5
+the sun of st		59po:5,5kn8:5
+the sun of st moritz	59po,5kn8	
+the sun of st moritz 1923 film	59po	
+the sun of st moritz 1954	5kn8	
+the sun of st moritz 1954 film	5kn8	
+the sun record company	g5k	
+the sun s seventh horse	254c	
+the sun shines		1fs8:4
+the sun shines bright	1fs8	
+the sun song	481n	
+the sun still		3l5u:4
+the sun still rises	3l5u	
+the sun war	2b8q	
+thorpey	2a60	
+tochi brian	5wum	
+turbinicarpus	2q9w	
+tyumenskaya oblast	krh	
+tyumenskaya oblast russia	krh	
+usti	8c1,3mkz,3msy	4wl:4,8c1:3,ml6:3,oum:4,wje:4
+usti jihlava district	3msy	
+usti nad		4wl:4,8c1:3,ml6:3,oum:4,wje:4
+usti nad labem	8c1	oum:4,wje:4
+usti nad labem czech republic	8c1	
+usti nad labem district	oum	
+usti nad labem region	wje	
+usti nad orlici	ml6	4wl:4
+usti nad orlici district	4wl	
+usti prerov district	3mkz	
+valachia tara romaneasca	588s	
+vandili	6h5t	
+viterbese castrense	cwv	
+vol 2		6b76:5
+vol 2 hard		6b76:5
+vol 2 hard knock		6b76:5
+vol 2 hard knock life	6b76	
+vol 3	5la7,65t0	5la7:5,65t0:8
+vol 3 in the r we trust	ky6	
+vol 3 life		65t0:8
+vol 3 life and		65t0:8
+vol 3 life and times		65t0:8
+vol 3 life and times of		65t0:8
+vol 3 life and times of s		65t0:8
+vol 3 life and times of s carter	65t0	
+vol 3 the		5la7:5
+vol 3 the life and times of shawn carter	65t0	
+vol 3 the subliminal		5la7:5
+vol 3 the subliminal verses	5la7	
+vol ha	192g	
+vol iv of the author s works including travels into several remote nations of the world in four parts by lemuel gulliver first a surgeon and then a captain of several ships	50sn	
+vrchoslavice	431y	
+wendolene ramsbottom	34x9	
+widuchowa commune	20rx	
+william aughe ghere	ytk	
+yaaqub ibn ishaq al kindi	3mvs	
+yohann		4tta:2,62zn:2
+yohann gene	4tta	
+yohann gourcuff	3wfy	
+yohann lasimant	62zn	
+zarivar	6fe2	6fe2:3
+zarivar rural		6fe2:3
+zarivar rural district	6fe2	
+zhon gershel	32d	

@@ -1,0 +1,478 @@
+abrahamson lenny	5tzx	
+acb league	ob2	
+acb seasons	ob2	
+acb teams	ob2	
+admate	2ypb	
+ajdin		68d2:2
+ajdin maksumic	68d2	
+akune	5j31	
+akune kagoshima	5j31	
+alhassane		2y7k:2,4e7c:2
+alhassane issoufou	4e7c	
+alhassane keita	2y7k	
+bafta	9jb	960:2,cth:7,dad:10,f96:9,fbq:5,fud:9,gd4:5,gqf:6,iku:5,kw0:6,mdp:10,o7r:6,xee:9,1bcw:6,1co0:9,1nvr:5,4z66:4,61d5:7
+bafta academy fellowship	960	
+bafta academy fellowship award	960	
+bafta award	n3j	cth:7,dad:10,f96:9,fbq:5,fud:9,gd4:5,gqf:6,iku:5,kw0:6,mdp:10,o7r:6,xee:9,1bcw:6,1co0:9,1nvr:5,61d5:7
+bafta award best film music	kw0	
+bafta award best film music 1968 1979	kw0	
+bafta award best film music 19681979	kw0	
+bafta award best film music 1980 1999	kw0	
+bafta award best film music 20002019	kw0	
+bafta award for		cth:7,dad:10,f96:9,fbq:5,fud:9,gd4:5,gqf:6,iku:5,kw0:6,mdp:10,o7r:6,xee:9,1bcw:6,1co0:9,1nvr:5,61d5:7
+bafta award for best		cth:7,dad:10,f96:9,fbq:5,fud:9,gd4:5,gqf:6,iku:5,kw0:6,o7r:6,xee:9,1bcw:6,1co0:9,1nvr:5,61d5:7
+bafta award for best actor	xee	f96:9,xee:9
+bafta award for best actor 1952 1959	xee	
+bafta award for best actor 19521959	xee	
+bafta award for best actor 1960 1979	xee	
+bafta award for best actor 19601979	xee	
+bafta award for best actor 1980 1999	xee	
+bafta award for best actor 19801999	xee	
+bafta award for best actor 20002019	xee	
+bafta award for best actor in		f96:9,xee:9
+bafta award for best actor in a		f96:9,xee:9
+bafta award for best actor in a leading		xee:9
+bafta award for best actor in a leading role	xee	
+bafta award for best actor in a supporting		f96:9
+bafta award for best actor in a supporting role	f96	
+bafta award for best actress	1co0	fud:9,1co0:9
+bafta award for best actress 1952 1959	1co0	
+bafta award for best actress 19521959	1co0	
+bafta award for best actress 1960 1979	1co0	
+bafta award for best actress 19601979	1co0	
+bafta award for best actress 1980 1999	1co0	
+bafta award for best actress 19801999	1co0	
+bafta award for best actress 2000 2019	1co0	
+bafta award for best actress 20002019	1co0	
+bafta award for best actress in		fud:9,1co0:9
+bafta award for best actress in a		fud:9,1co0:9
+bafta award for best actress in a leading		1co0:9
+bafta award for best actress in a leading role	1co0	
+bafta award for best actress in a supporting		fud:9
+bafta award for best actress in a supporting role	fud	
+bafta award for best adapted		gqf:6
+bafta award for best adapted screenplay	gqf	
+bafta award for best adapted screenplay 1983 1999	gqf	
+bafta award for best adapted screenplay 19831999	gqf	
+bafta award for best adapted screenplay 2000 2019	gqf	
+bafta award for best adapted screenplay 20002019	gqf	
+bafta award for best british		1bcw:6
+bafta award for best british actor	xee	
+bafta award for best british actress	1co0	
+bafta award for best british film	1bcw	
+bafta award for best direction	iku	
+bafta award for best direction 1968 1984	iku	
+bafta award for best direction 19681984	iku	
+bafta award for best direction 1985 2009	iku	
+bafta award for best direction 19852009	iku	
+bafta award for best direction 2010 2034	iku	
+bafta award for best direction 20102034	iku	
+bafta award for best editing	gd4	
+bafta award for best editing 1968 1984	gd4	
+bafta award for best editing 19681984	gd4	
+bafta award for best editing 1985 2009	gd4	
+bafta award for best editing 19852009	gd4	
+bafta award for best editing 2010 2034	gd4	
+bafta award for best editing 20102034	gd4	
+bafta award for best film	fbq	dad:10
+bafta award for best film from any source	fbq	
+bafta award for best film music	kw0	
+bafta award for best film music 1968 1979	kw0	
+bafta award for best film music 1980 1999	kw0	
+bafta award for best film music 19801999	kw0	
+bafta award for best film music 2000 2019	kw0	
+bafta award for best film not		dad:10
+bafta award for best film not in		dad:10
+bafta award for best film not in the		dad:10
+bafta award for best film not in the english		dad:10
+bafta award for best film not in the english language	dad	
+bafta award for best foreign film	dad	
+bafta award for best foreign language film	dad	
+bafta award for best game	6hqv	
+bafta award for best makeup	61d5	61d5:7
+bafta award for best makeup and		61d5:7
+bafta award for best makeup and hair	61d5	
+bafta award for best makeup hair	61d5	
+bafta award for best original		kw0:6,o7r:6
+bafta award for best original music	kw0	
+bafta award for best original screenplay	o7r	
+bafta award for best original screenplay 1983 1999	o7r	
+bafta award for best original screenplay 19831999	o7r	
+bafta award for best original screenplay 2000 2019	o7r	
+bafta award for best original screenplay 20002019	o7r	
+bafta award for best picture	fbq	
+bafta award for best score	kw0	
+bafta award for best sound	1nvr	
+bafta award for best special		cth:7
+bafta award for best special visual		cth:7
+bafta award for best special visual effects	cth	
+bafta award for best supporting actor	f96	
+bafta award for best supporting actor 1985 2009	f96	
+bafta award for best supporting actor 2010 2034	f96	
+bafta award for best supporting actor 20102034	f96	
+bafta award for best video game	6hqv	
+bafta award for most		mdp:10
+bafta award for most promising		mdp:10
+bafta award for most promising newcomer		mdp:10
+bafta award for most promising newcomer to		mdp:10
+bafta award for most promising newcomer to leading		mdp:10
+bafta award for most promising newcomer to leading film		mdp:10
+bafta award for most promising newcomer to leading film roles	mdp	
+bafta award for outstanding british film	1bcw	
+bafta award fore best makeup	61d5	
+bafta awards	n3j	
+bafta fellowship	960	
+bafta film award	n3j	
+bafta film award for newcomer to leading film roles	mdp	
+bafta film awards	n3j	
+bafta for best actor	xee	
+bafta for best actress	1co0	
+bafta for best direction	iku	
+bafta for best drama series	2d3g	
+bafta for best supporting actor	f96	
+bafta for best supporting actress	fud	
+bafta games awards	48i2	
+bafta org	9jb	
+bafta rising		4z66:4
+bafta rising star	4z66	4z66:4
+bafta rising star award	4z66	
+bafta television award	13xs	
+bafta television awards	13xs	
+bafta tv award	13xs	
+bafta tv award for best drama series	2d3g	
+bafta tv award for best drama series 1992 2009	2d3g	
+bafta tv award for best drama series 19982009	2d3g	
+bafta tv award for best drama series 20102029	2d3g	
+bafta tv awards	13xs	
+bafta video games award for best game	6hqv	
+bafta video games awards	48i2	
+bafta videogame awards	48i2	
+berastegi	1aoj	
+bislee	2tyj	
+blommer science library	wr	
+borysfen boryspil	iyp	
+bourth	2st3	
+candida	276a,4fg0,6fm7	3hmu:3,4amf:2,5rz8:2
+candida av	4fg0	
+candida avellino	4fg0	
+candida campania	4fg0	
+candida famata	276a	
+candida first name	6fm7	
+candida fungus	276a	
+candida genus	276a	
+candida given name	6fm7	
+candida infection	38kb	
+candida infections	38kb	
+candida italy	4fg0	
+candida lycett		3hmu:3
+candida lycett green	3hmu	
+candida millionairess	5rz8	
+candida millonaria	5rz8	
+candida rose betjeman	3hmu	
+candida royal	4amf	
+candida royale	4amf	
+candida royalle	4amf	
+candida rugosa	276a	
+candida septicaemia	6ya	
+candida species	276a	
+candida vaginitis	2jt4	
+chambuf	29o3,2e3q	
+chambuf cote d or	29o3	
+chambuf loire	2e3q	
+charce		2mse:5
+charce saint		2mse:5
+charce saint ellier		2mse:5
+charce saint ellier sur		2mse:5
+charce saint ellier sur aubance	2mse	
+concealer moth	5s2	
+concealer moths	5s2	
+crusjer	78r	
+cryptocephalus	f3h	
+datla venkata narasaraju	1y2a	
+david graham	3dbc	5fu5:3
+david graham footballer born 1978	3dbc	
+david graham phillips	5fu5	
+david graham russell	5l2q	
+david graham wilson	5p8s	
+david petrarca	4yyo	
+decapitate	1pw	
+donacivola	1qu	
+dribble and spitz	69l2	
+dribble spitz	69l2	
+echele cabeza al casco de juan pablo montoya	1351	
+elcito	qlf	
+eledoninae	5e4a	
+elledge stephen	3hp7	
+elon	6clm	mgz:2,sy6:2,3l97:2
+elon college	sy6	
+elon first name	6clm	
+elon given name	6clm	
+elon honor code	sy6	
+elon ilan	6clm	
+elon lindenstrauss	3l97	
+elon mascot	sy6	
+elon musk	mgz	
+elon musk s submarine	mgz	
+elon name	6clm	
+elon r musk	mgz	
+elon university	sy6	
+esparraguera	20ma	
+etouvy	4e1y	
+exoprosopa	1ivk	
+extremadura	m3e	3pes:2
+extremadura cf	hug	
+extremadura spain	m3e	
+extremadura ud	3pes	
+fc strogino		rn6:3
+fc strogino moscow	rn6	
+feruz islam	5nny	
+fumata bianca	fdn	
+george tabori	1hvr	
+george tabori comments	1hvr	
+gerlando buzzanca	lio	
+geth unit	5omz	
+gmina bielsk	o2q	ep8:3
+gmina bielsk podlaski	ep8	
+gmina szemud	nnr	
+got 6	21w2	
+got game		5ts5:3
+got game entertainment	5ts5	
+got me singing	3t2i	
+got season 1	3sii	
+got season 2	3dr0	
+got season 4	4t7e	
+got season 6	21w2	
+got to know the woman	4tx8	
+got you	4oln	
+got you by the balls	5j02	
+got you jade ewen song	4oln	
+graian		knk:2
+graian alps	knk	
+gwanghae	5iiq	
+gwanghae film	5iiq	
+gwanghae the man who became king	5iiq	
+gwanghae wang i doen namja	5iiq	
+henflingen	4x8p	
+herwig		4mjv:2,5u31:2
+herwig franz schopper	4mjv	
+herwig kogelnik	5u31	
+herwig schopper	4mjv	
+hh	1ppq,3q8y	
+hh 2d	3qci	
+hh fowler	63lp	
+hh kitchener	1ltj	
+hh kung	3rmv	
+hh munro	3jqv	
+hh pope pius xi	1avb	
+hh princess alexandra of denmark	5b8w	
+hh richardson	r6r	
+hh sheikh mansour bin zayed al nahyan	4whp	
+hh sheikha jawahar bint hamad al thani	1s30	
+horazdovice	195z	
+increase in heart rate	4j9z	
+increase of asthma in children	9d2	
+izturis cesar david	5qkg	
+izturis maicer eduardo	210v	
+james dreyfus	60ql	
+jitex		179k:3
+jitex bk	179k	
+jitex bk jg93	179k	
+jitex molndal		179k:3
+jitex molndal bk	179k	
+john blu	1gy	
+john harsanyi	35fk	
+kujas lake	znz	
+kunio	34hf	3aij:2,44r8:2,5bm5:2,627n:2
+kunio first name	34hf	
+kunio given name	34hf	
+kunio hatoyama	44r8	
+kunio kishida	627n	
+kunio matsuoka	5bm5	
+kunio yanagida	5bm5	
+kunio yanagita	5bm5	
+kunio yonenaga	3aij	
+kyrulo grygorovych rozumovsky	4f42	
+kyrulo rozumovsky	4f42	
+lajran		26hz:3
+lajran rural		26hz:3
+lajran rural district	26hz	
+le gout rothschild	g2d	
+letoile somme	1zlr	
+lijstverbinding	hcb	
+lordsburg college	2ekb	
+loud	1dbj	bfq:2
+loud concert tour	1dbj	
+loud fast rules	1jdz	
+loud hill	6bh6	
+loud love music	hnm	
+loud n rare	oi1	
+loud noises	5ydv	
+loud noises bad meets evil song	5ydv	
+loud program	45ac	
+loud records	bfq	
+loud rihanna	1dbj	
+loud rihanna album	1dbj	
+loud robot	1jqf	
+loud tv program	45ac	
+loud tv series	45ac	
+lswr	ffs	54gv:3
+lswr class n15	54gv	
+lswr n15		54gv:3
+lswr n15 class	54gv	
+lswr secondary routes	ffs	
+luftstreitkraefte	1gzw	
+malherbe		4m1p:3
+malherbe sur		4m1p:3
+malherbe sur ajon	4m1p	
+maraqanda	7nt	
+meinhof	4fei	
+meinhof ulrike	4fei	
+meinhof ulrike marie	4fei	
+michael bouble	mtr	
+mitava	80u	
+mohabbatien	nff	
+nauticus	1ml5	
+nazelles		2anl:2
+nazelles negron	2anl	
+oenb	rnm	
+oliola	2g6g	
+olzon	5dp0	
+osie commune	1xw4	
+osie wood	49h1	
+ozeville	32ge	
+parkingstones swimming to cambodia	4b0u	
+paul efthemios tsongas	3c3r	
+payena	6aff	
+peter albert david singer	1muu	
+plectrum banjo	3ih	
+ponerini	1dfq	
+popperazzi	qft	
+prince oldenburgsky	23nj	
+provostry	11ad	
+provostry of weienburg	ivd	
+provostry of weissenburg	ivd	
+przykona commune	12dg	
+qymnastics sports	gd	
+raiamas	55lq	
+recv	5d30	
+robert beightler	5vv6	
+robert marshall 46er	5jh3	
+robert marshall axelrod	2gnv	
+roisin		1gau:2
+roisin marie murphy	1gau	
+roisin murphy	1gau	
+romine andrew	4xum	
+ronielle		4vrm:3
+ronielle faria		4vrm:3
+ronielle faria gomes	4vrm	
+ronielle faria gomez	4vrm	
+ronielle gomes	4vrm	
+rotating neutron star	34ez	
+rotating service structure	66e	
+rotating variable	1g77	
+rugenwalde	4414	
+rwy	5cwy	
+sacchromyces cerevisiae	6c7g	
+sadinet	55ds	
+sahabah	466	
+sahayadri	gfd	
+saint esprit	3ubo	
+san salvador	3zz	pqm:4,114b:4
+san salvador city el salvador	3zz	
+san salvador de		114b:4
+san salvador de jujuy	114b	
+san salvador ecuador	3zz	
+san salvador el salvador	3zz	
+san salvador f		pqm:4
+san salvador f c	pqm	
+san salvador fc	pqm	
+saparmurad atajevich niyazov	166b	
+scenarist	21	
+sempad	44yk	
+sempad king of armenia	44yk	
+sempad of armenia	44yk	
+sha anxi province	cun	
+sha biyah	2zbe	
+sha money	4y62	4y62:3
+sha money xl	4y62	
+sha na		381y:3
+sha na na	381y	
+sha shi	1jf2	
+sha tian district	q1n	
+sha tin		q1n:3
+sha tin district	q1n	
+sha tin sports association	2dvv	
+sha ul	3dx8	
+sha wan	5hsl	
+shamanistic	33qb	
+shqipon bektashi	6cgh	
+shqipon bektasi	6cgh	
+shqipon beqtasi	6cgh	
+shynn zhang	314e	
+simferopol	67h	19zf:2
+simferopol raion	19zf	
+simferopol ukraine	67h	
+smarties	an6,43oh	
+smarties book prize	an6	
+smarties candy	43oh	
+smarties chocolate	43oh	
+smarties nestle	43oh	
+smarties nestle rowntree s	43oh	
+smarties prize	an6	
+steinbrunn		1zd0:3,1zrl:3
+steinbrunn le		1zd0:3,1zrl:3
+steinbrunn le bas	1zrl	
+steinbrunn le haut	1zd0	
+svanemollen station	43fp	
+swink sylvania	1zgm	
+synneuria	4jtt	
+tegenaria	52gi	
+tegucigalpa	60o	
+tegucigalpa d c	60o	
+tegucigalpa francisco morazan	60o	
+the kennel		42e4:4
+the kennel murder		42e4:4
+the kennel murder case	42e4	
+the kennel murder case film	42e4	
+the sleepers	x4i	
+the traffic		1u48:3
+the traffic policeman	1u48	
+the veterinarians adopted children	4zv4	
+theatres	4pa	3ym7:3
+theatres des		3ym7:3
+theatres des vampires	3ym7	
+theatres of military operations	11aj	
+thomas jefforson	9j4	
+timms stephen	69qu	
+trasaghis	4bp9	
+trexall	18zh	
+tschars	58u7	
+uglette	5h2s	
+uruzgan	1ks4	1ks4:2
+uruzgan province	1ks4	
+venta		2kih:3,3ua2:3
+venta 2 kuldiga	5ure	
+venta belgarum	3us	
+venta de		3ua2:3
+venta de banos	3ua2	
+venta de banos palencia	3ua2	
+venta de banos spain	3ua2	
+venta del		2kih:3
+venta del moro	2kih	
+venta ventspils	5ure	
+vierschanzentournee	17v4	
+villamantilla	4uys	
+warburton1368 denys prychynenko	55hn	
+warburton1368 mark ridgers	4zuj	
+welshpoole	20w5	
+wemaers		3fmy:2
+wemaers cappel	3fmy	
+william oldfather	5yah	
+wingnut		5ua6:2
+wingnut entertainment	hn7	
+wingnut films	5ua6	
+wingnut films company	5ua6	
+wingnut films production company	5ua6	
+wpsl	g1b	
+yeman	ly	
+zalewo commune	lfr	

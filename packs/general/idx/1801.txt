@@ -1,0 +1,536 @@
+75002	fdk	
+aaiun	lr3	
+abacus2007 ac1	mp8	
+acroanthes	35dp	
+alvdalens kommun	17cu	
+appuram		6cjt:4
+appuram bengal		6cjt:4
+appuram bengal ippuram		6cjt:4
+appuram bengal ippuram thiruvithamkoor	6cjt	
+autodromo		11tw:4,1ma0:3
+autodromo de cancun	3lvp	
+autodromo de interlagos	11tw	
+autodromo di imola	1co9	
+autodromo dino ferrari	1co9	
+autodromo do estoril	5hf2	
+autodromo enzo e dino ferrari	1co9	
+autodromo fernanda pires da silva	5hf2	
+autodromo hermanos		1ma0:3
+autodromo hermanos rodriguez	1ma0	
+autodromo internazionale enzo e dino ferrari	1co9	
+autodromo jose		11tw:4
+autodromo jose carlos		11tw:4
+autodromo jose carlos pace	11tw	
+autodromo juan y oscar galvez	280i	
+autodromo nazionale di monza	fz8	
+autodromo nazionale monza	fz8	
+autodromo oscar alfredo galvez	280i	
+bartholomew	b1c,kvi	kvi:3,lon:2,2wup:2
+bartholomew barry morris goldwater	1kk9	
+bartholomew county	lon	
+bartholomew county in	lon	
+bartholomew county indiana	lon	
+bartholomew cubbins	h1x	
+bartholomew de las casas	4fg9	
+bartholomew first name	b1c	
+bartholomew freundlich	50yc	
+bartholomew given name	b1c	
+bartholomew goldwater	1kk9	
+bartholomew henry allen	66zn	
+bartholomew i	3uoh	
+bartholomew i of constantinople	3uoh	
+bartholomew j simpson	36p5	
+bartholomew mcghee	499g	
+bartholomew name	b1c	
+bartholomew of constantinople	3uoh	
+bartholomew of istanbul	3uoh	
+bartholomew ogbeche	2wup	
+bartholomew roberts blossom	1xp2	
+bartholomew s hospital	4mql	
+bartholomew sholto	5ha6	
+bartholomew stupak	6ckl	
+bartholomew surname	b1c	
+bartholomew t stupak	6ckl	
+bartholomew the		kvi:3
+bartholomew the apostle	kvi	
+bartholomew thomas bart stupak	6ckl	
+bartholomew thomas stupak	6ckl	
+bartholomew van der helst	600n	
+borowa commune	4gzu	
+brestskaja oblast	eoe	
+briceni		12jy:2
+briceni county	12jy	
+briceni county moldova	12jy	
+briceni district	12jy	
+brixington	qv8	
+brzyska commune	4hr7	
+buchanesque	pwe	
+bunty		5juj:3
+bunty aur		5juj:3
+bunty aur babli	5juj	
+bunty aur babli soundtrack	5juj	
+bunty aur bubbli	5juj	
+bunty aur bubly	5juj	
+bunty or bubli	5juj	
+campomarino	4etb	
+cavaglia	395w	
+cephalomyrma	2byp	
+champaubert	3kcs	
+classicist	4u66	
+classicist architecture	1gs	
+classicist art movement	7z3	
+classicist poetics	7z3	
+classicist style	7z3	
+classicist weimar world heritage site	481l	
+clecy	1kg1	
+clysm	6foq	
+coloret di montalban	276s	
+crystalography	4943	
+czestochovia	7pa	
+dabbi	63ty	
+david graf	1aca	
+deitrich bonhoeffer	1xx6	
+deitrich bonhoffer	1xx6	
+dongduk		1821:4
+dongduk women		1821:4
+dongduk women s		1821:4
+dongduk women s university	1821	
+druentia	31d9	
+dussel	5eq8	
+edsger		19ie:3
+edsger dijkstra	19ie	
+edsger dikjstra	19ie	
+edsger djikstra	19ie	
+edsger dykstra	19ie	
+edsger w		19ie:3
+edsger w dijkstra	19ie	
+edsger w dijkstra prize	14ny	
+edsger w dijkstra prize in distributed computing	14ny	
+edsger w dykstra	19ie	
+edsger wybe dijkstra	19ie	
+edsger wybe dykstra	19ie	
+eigenberg david	47wm	
+fabius	s8t	
+fabius cunctator	53yw	
+fabius maximum cunctator	53yw	
+fabius maximus	53yw	
+fabius maximus aemilianus	4zir	
+fabius maximus cunctator	53yw	
+fabius maximus iii	53yw	
+fabius maximus rullianus	43j3	
+fabius maximus verrucosus	53yw	
+fabius quintus	s8t	
+fabius rullianus	43j3	
+fabius the delayer	53yw	
+fatty2k10 paul james	6c9r	
+fc torpedo		237:3,61r:4,6ok:3,93d:3,cph:4,crk:4,f2l:4,okv:3,190i:5,19mu:4,22jk:3,30mx:3
+fc torpedo 2 moscow	237	
+fc torpedo 2008 kutaisi	93d	
+fc torpedo armavir	6ok	
+fc torpedo arzamas	1ny3	
+fc torpedo belaz		61r:4
+fc torpedo belaz zhodino	61r	
+fc torpedo d moscow	237	
+fc torpedo gorky	190i	
+fc torpedo kadino		19mu:4
+fc torpedo kadino mahilyow	19mu	
+fc torpedo kadino mogilev	19mu	
+fc torpedo kaspiysk	fqs	
+fc torpedo kirovohrad	7qc	
+fc torpedo kokchetav	dlk	
+fc torpedo kokshetau	dlk	
+fc torpedo kurgan	1zfr	
+fc torpedo kutaisi	93d	
+fc torpedo lutsk	4gh	
+fc torpedo luzhniki	237	
+fc torpedo luzhniki d moscow	237	
+fc torpedo luzhniki moscow	237	
+fc torpedo lyubertsy	4gvk	
+fc torpedo mahilyow	19mu	
+fc torpedo maz		crk:4
+fc torpedo maz minsk	crk	
+fc torpedo metallurg	cph	
+fc torpedo metallurg moscow	5zy	
+fc torpedo miass	22jk	
+fc torpedo minsk	crk	
+fc torpedo mogilev	19mu	
+fc torpedo mogilyov	19mu	
+fc torpedo moscow	237	
+fc torpedo naberezhnye chelny	3na	
+fc torpedo nizhniy novgorod	190i	
+fc torpedo nn		190i:5
+fc torpedo nn nizhny		190i:5
+fc torpedo nn nizhny novgorod	190i	
+fc torpedo pavlovo	30mx	
+fc torpedo rg	f2l	
+fc torpedo rg moscow	f2l	
+fc torpedo rostov on don	28c	
+fc torpedo ryazan	1x5n	
+fc torpedo ska minsk	crk	
+fc torpedo stalingrad	3bw	
+fc torpedo taganrog	6mg	
+fc torpedo togliatti	458	
+fc torpedo ulyanovsk	6a3	
+fc torpedo viktoria nizhny novgorod	190i	
+fc torpedo vladimir	8s6	
+fc torpedo volzhskiy	67z	
+fc torpedo volzhsky	67z	
+fc torpedo yelets	hox	
+fc torpedo zaporizhia	okv	
+fc torpedo zaporizhya	okv	
+fc torpedo zaporizhzhia	okv	
+fc torpedo zaporizhzhya	okv	
+fc torpedo zhodino	61r	
+fc torpedo zil	cph	cph:4,f2l:4
+fc torpedo zil moscow	cph,f2l	
+fc torpedo zil moscow 2003	f2l	
+fgaas	5vcr	
+gainer steve	3ykm	
+ghostbuster 2	rjp	
+gmina kamieniec	16gd	27ig:3
+gmina kamieniec zabkowicki	27ig	
+gmina komarow		12qt:3
+gmina komarow osada	12qt	
+gu	345,3be	
+gu 230	qif	
+gu administrative division	kng	
+gu changwei	2uhl	
+gu dezhao	1vd4	
+gu eacute ret	qc7	
+gu feng	1e6i	
+gu gaa fai	rtc	
+gu goomba	6hiu	
+gu hye seon	4oea	
+gu ja cheol	3g1l	
+gu jiahui	rtc	
+gu juji	4g1u	
+gu jun	4k5l	
+gu law center	2h1	
+gu long	38df	
+gu long s wuxia novels	38df	
+gu nam middle school	51y	
+gu of south korea	kng	
+gu prince imperial hoeun	5kn4	
+gu prince of korea	5kn4	
+gu sang		5aut:3
+gu sang bum	5aut	
+gu tianle	mk9	
+gu wei wei	4dpw	
+gu weijun	55mg	
+gu weiwei	4dpw	
+gu zhen fu	60g0	
+gu zhenfu	60g0	
+haitai tigers	179a	
+haudivillers	3d9t	
+heinavesi	14zp	
+heleb	3go	
+hellin	10vl	4isz:2
+hellin cf	4isz	
+hellin deportivo	4isz	
+hesperioidea	2bd	
+ibargoiti	2di0	
+ichthyosaurs	651c	
+improvizational comedy	6985	
+improvizational theater	6985	
+improvizational theatre	6985	
+injo		637z:3
+injo of		637z:3
+injo of joseon	637z	
+intersport arena	4kj0	
+jangles	1bhu	
+jazennes	3cwz	
+john northcott	5zli	
+john tower	4e54	
+kabiguru	e77	
+kanave		6dwu:2
+kanave kalaiyadhe	6dwu	
+kraevsky	5ti5	
+kyong ju	pbm	
+la junquera	1lww	
+lasino	5kqf	
+le mioche	47fk	
+leetma	588y	
+maria aleandro robledo	1asj	
+marshs landing	xpc	
+marshs landing california	xpc	
+matara	wf3	5ocm:2
+matara district	5ocm	
+matara sri lanka	wf3	
+metalwork cutting machine	3vne	
+michael basil cosmopoulos	6cqr	
+michael cheetham	67fi	
+michael pence	16eq	
+michael polywka	5aaq	
+morken harff	1i7g	
+morvilliers	3bz4	
+morvilliers aube	3bz4	
+moviefilm	c	
+nathiya	3mg3	
+nebuchadnezzar		5cak:2
+nebuchadnezzar ii	5cak	
+nebuchadnezzar ii of babylonia	5cak	
+nebuchadnezzar the great	5cak	
+new chennai international airport	790	
+newb	61ca	
+newsreader	1vx	
+niegosawice commune	1emx	
+noun	1aoi	
+noun cases	h5i	
+noun cases in english	h5i	
+noun substantive	1aoi	
+odyssey2	3qou	
+ojo de la cerradura	66uy	
+ojo de vidrio	57cn	
+orochi	5tpa	
+orochi musou	5tpa	
+orochi warriors	5tpa	
+pahlawan nasional indonesia	7db	
+pedder mtr	5mqv	
+pedder station	5mqv	
+peter hood ballantine frelinghuysen	5bwp	
+peter hood ballantine frelinghuysen ii	5bwp	
+peter hood ballantine frelinghuysen jr	5bwp	
+peter stastny	17pd	
+politic	3dl	
+politic system	3iak	
+poncey		2ps1:4,35nr:3
+poncey les		35nr:3
+poncey les athee	35nr	
+poncey sur		2ps1:4
+poncey sur l		2ps1:4
+poncey sur l ignon	2ps1	
+posenergy	5hls	
+pradelles	2kj5,3o38	3ew0:3
+pradelles en		3ew0:3
+pradelles en val	3ew0	
+pradelles haute loire	2kj5	
+pradelles nord	3o38	
+prierio	3rjh	
+prince akeem	1new	
+protesto	1er8	
+psychical	mjb	
+puppeteer	48l	
+rocco		sl7:4,1g4y:3,1u1s:2,3c6a:2,40s8:2,4elx:2,598i:2,6cld:2,6cxv:2
+rocco and		sl7:4
+rocco and his		sl7:4
+rocco and his brothers	sl7	
+rocco antonio tano	3c6a	
+rocco d		1g4y:3
+rocco d assunta	1g4y	
+rocco dassunta	1g4y	
+rocco e i suoi fratelli	sl7	
+rocco et ses freres	sl7	
+rocco granata	6cld	
+rocco milde	598i	
+rocco papaleo	1u1s	
+rocco placentino	40s8	
+rocco quinn	6cxv	
+rocco ritchie	47s	
+rocco s cafe	cfx	
+rocco sabato	4elx	
+rocco siffredi	3c6a	
+rocco siffredi adult actor	3c6a	
+rocco sifredi	3c6a	
+rocco tanica	1lim	
+rocco tano	3c6a	
+rocco visconte	67kc	
+salonican front	599z	
+satyen		3f7s:2
+satyen bose	1an1	
+satyen kappu	3f7s	
+schenkman richard	5x2q	
+shabats	bgz	
+shirley	473	dex:2,gc5:2,k0u:2,omr:2,p6x:2,r3o:2,13bq:2,1c3u:2,1c7k:2,1coi:2,1dgx:2,1mu9:2,1v3y:2,28ah:2,29bn:3,2h5x:3,2l99:2,2pe5:2,2qtv:2,2xta:2,3o95:2,3ukv:2,45i0:2,4cqp:2,4d34:2,4ejl:2,4vwj:3,50bq:2,538a:2,5zkr:3,6417:2
+shirley a chisholm	3ukv	
+shirley anita chisholm	3ukv	
+shirley anita st hill chisholm	3ukv	
+shirley ann		29bn:3,5zkr:3
+shirley ann field	2h5x	
+shirley ann grau	5zkr	
+shirley ann jackson	29bn	
+shirley ann jackson version 2	29bn	
+shirley ann richards	303x	
+shirley anne		2h5x:3
+shirley anne field	2h5x	
+shirley babashoff	4ejl	
+shirley bassett	k0u	
+shirley bassey	k0u	
+shirley bassie	k0u	
+shirley beaty	dex	
+shirley black	gc5	
+shirley booth	3o95	
+shirley brimberg	2xta	
+shirley brimberg clarke	2xta	
+shirley c williams	1mu9	
+shirley chisholm	3ukv	
+shirley chisholm comments	3ukv	
+shirley chisolm	3ukv	
+shirley clamp	45i0	
+shirley clarke	2xta	
+shirley crowley	5mil	
+shirley de la hunty	538a	
+shirley douglas	2pe5	
+shirley eaton	28ah	
+shirley feeney	44pq	
+shirley first name	473	
+shirley frances babashoff	4ejl	
+shirley fry	4cqp	
+shirley fry irvin	4cqp	
+shirley given name	473	
+shirley grau	5zkr	
+shirley hardie jackson	1coi	
+shirley hazard	2l99	
+shirley hazzard	2l99	
+shirley henderson	13bq	
+shirley hodgson	6417	
+shirley horn	1c7k	
+shirley irvin	4cqp	
+shirley jackson	1coi	
+shirley jackson mathematician	29bn	
+shirley jackson physicist	29bn	
+shirley james	2krk	
+shirley jane black	gc5	
+shirley jane temple	gc5	
+shirley jane temple black	gc5	
+shirley jones	r3o	
+shirley june fry	4cqp	
+shirley knight	omr	
+shirley knight hopkins	omr	
+shirley luster	1xkb	
+shirley m		4vwj:3
+shirley m tilghman	4vwj	
+shirley macclaine	dex	
+shirley maclaine	dex	
+shirley maclane	dex	
+shirley maclean beaty	dex	
+shirley mae jones	r3o	
+shirley manson	2qtv	
+shirley marie tilghman	4vwj	
+shirley mason	1dgx	
+shirley mason actor	1dgx	
+shirley mason actress	1dgx	
+shirley mcclaine	dex	
+shirley mclaine	dex	
+shirley mortimer	18bn	
+shirley name	473	
+shirley natasja clamp	45i0	
+shirley ontario	23ep	
+shirley penrose	6417	
+shirley robert	5w83	
+shirley schrift	aqk	
+shirley scott	p6x	
+shirley stoler	4d34	
+shirley strickland	538a	
+shirley strickland de la hunty	538a	
+shirley temple	gc5	
+shirley temple black	gc5	
+shirley temple s pussy	rtf	
+shirley the shirelles	493n	
+shirley tilghman	4vwj	
+shirley v hodgson	6417	
+shirley v horn	1c7k	
+shirley valentine	1v3y	
+shirley valentine film	1v3y	
+shirley valerie horn	1c7k	
+shirley veronica bassey	k0u	
+shirley verrett	50bq	
+shirley victoria hodgson	6417	
+shirley victoria penrose	6417	
+shirley vivien teresa brittain	1mu9	
+shirley vivien teresa brittain williams	1mu9	
+shirley vivien teresa brittain williams baroness williams of crosby	1mu9	
+shirley vivien teresa brittain williams of crosby	1mu9	
+shirley vogel	2vid	
+shirley walker	1c3u	
+shirley williams	1mu9	
+shirley williams baroness williams of crosby	1mu9	
+shirley wong	sns	
+shirley yamaguchi	308r	
+spaihts	5tz3	
+sscs	53hg	
+stapam	5n57	
+sumvald	3fdz	
+svolvaer	2ej1	
+svolvaer norway	2ej1	
+syosset	16vv	
+syosset long island	16vv	
+syosset new york	16vv	
+syosset ny	16vv	
+taktakishvili	4bom	
+tartutic	1mxg	
+terangganu	twy	
+tetrastylis	dc1	
+the babymakers	12vo	
+the clancys	3yh5	
+the gaggle	htz	
+the irony		350x:4,3src:5
+the irony of		350x:4,3src:5
+the irony of american history	297b	
+the irony of fate	350x	3src:5
+the irony of fate 2	3src	
+the irony of fate continuation	3src	
+the irony of fate or enjoy your bath	350x	
+the irony of your perfection	2e8t	
+the razors		5j02:3
+the razors edge	5j02	
+the razors edge ac dc album	5j02	
+the razors edge album	5j02	
+the razors edge tour	5j02	
+thodi		5rts:2
+thodi kodallu	5rts	
+thoiras	1lmu	
+tihange	e4p	
+utulsa	40l	
+veneranda	6259	
+villeray saint michel parc extension	54dr	
+villeray saint michel parc extension montreal	54dr	
+villeray st michel parc extension	54dr	
+vratza	psc	
+vsejany	483n	
+warrior	a8e,1llx	6ds2:3
+warrior 2010 film	1llx	
+warrior 2011 film	1llx	
+warrior and the slave girl	3l2i	3l2i:6
+warrior and the sorceress	3rte	3rte:5
+warrior angel	du2	
+warrior avril lavigne song	ejd	
+warrior cats	x7w	
+warrior civilization	a8e	
+warrior code	a8e	
+warrior culture	a8e	
+warrior dance	3wq	
+warrior ethos	a8e	
+warrior king	2b1o	
+warrior of waverly street	4buk	
+warrior people	a8e	
+warrior poet a biography of audre lorde	1rbj	
+warrior poets	194t	
+warrior prince	4zvq	
+warrior s		6ds2:3
+warrior s husband	3xt3	3xt3:4
+warrior s refuge	6ds2	
+warrior s refuge warriors	6ds2	
+warrior s way	3kz6	3kz6:4
+warrior society	a8e	
+warrior soul book	4nrt	
+warrior soul the memoir of a navy seal	4nrt	
+warrior soul the memoir of a navy seal temp	4nrt	
+warrior valga	v69	
+warrior war horse	3j23	
+warrior within	52gd	
+warrior women	3ta8	
+wiiware	28mt	
+william linn		55ge:3
+william linn westermann	55ge	
+yehudah amichai	2bde	
+yehudah bauer	5yku	
+yehudah glick	3zse	
+yehudah halevi	4cab	
+ykgm test	6fx6	
+yor	3j90	
+yor hunter from the future	3j90	
+yor the		3j90:6
+yor the hunter		3j90:6
+yor the hunter from		3j90:6
+yor the hunter from the		3j90:6
+yor the hunter from the future	3j90	

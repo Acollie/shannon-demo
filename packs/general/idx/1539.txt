@@ -1,0 +1,382 @@
+1935	1e6l	2l5s:4,4m84:4,5z7j:2
+1935 36		2l5s:4
+1935 36 cypriot		2l5s:4
+1935 36 cypriot cup	2l5s	
+1935 36 cypriot first division	2tg6	
+1935 ad	1e6l	
+1935 ce	1e6l	
+1935 ekstraklasa	5z7j	
+1935 fa		4m84:4
+1935 fa cup		4m84:4
+1935 fa cup final	4m84	
+1935 nobel peace prize	4u4c	
+1935 yangtze river flood	8m4	
+1935 year	1e6l	
+a princess		4ref:4,6gop:4
+a princess for		6gop:4
+a princess for castlebury	6gop	
+a princess for christmas	6gop	
+a princess of		4ref:4
+a princess of mars	4ref	
+a princess of mars film	x68	
+a princess of mars movie	x68	
+acidified	4iu7	
+adirondack		138a:2,2n8x:2
+adirondack mountain	138a	
+adirondack mountains	138a	
+adirondack mountains comments	138a	
+adirondack park	2n8x	
+adirondack park preserve	2n8x	
+adirondack region	138a	
+adirondack state forest preserve	2n8x	
+adirondack state park	2n8x	
+adirondack theater festival	kar	
+aerospatiale	1dkj	
+aerospatiale alenia atr42 300	25q2	
+aerospatiale as 332	kme	
+aerospatiale as355	37ip	
+aerospatiale as355 f2	37ip	
+aerospatiale atr 72	1ewp	
+aerospatiale sa 321	kme	
+aerospatiale sa 321 super frelon	3ewt	
+aerospatiale sa 332 super puma	kme	
+aerospatiale super frelon	3ewt	
+aerospatiale super puma	kme	
+aevion	atn	
+alexander gillespie raymond	3nu1	
+alexander hertzen	334k	
+almonacid		2zpf:3,4btb:4,4kgs:3
+almonacid de		2zpf:3,4btb:4,4kgs:3
+almonacid de la		4btb:4
+almonacid de la cuba	4btb	
+almonacid de la cuba spain	4btb	
+almonacid de la cuba zaragoza	4btb	
+almonacid de toledo	2zpf	
+almonacid de toledo spain	2zpf	
+almonacid de toledo toledo	2zpf	
+almonacid de zorita	4kgs	
+almonacid de zorita guadalajara	4kgs	
+almonacid de zorita spain	4kgs	
+ardenay		3ucv:3
+ardenay sur		3ucv:3
+ardenay sur merize	3ucv	
+asmfc	2je	
+avinash	3t26	33jk:2
+avinash dixit	33jk	
+avinash k dixit	33jk	
+avinash kamalakar dixit	33jk	
+avinash kannada actor	3t26	
+bhanu		4yz3:2
+bhanu actress	5yng	
+bhanu chander	4yz3	
+bhanu george	5yng	
+bhanu priya	s84	
+blazin		51o8:2
+blazin squad	51o8	
+borgia	5ioo	
+borgia calabria	5ioo	
+borgia cz	5ioo	
+borgia italy	5ioo	
+boru brian	2ad7	
+bracknell	pg3	3a7x:2
+bracknell berkshire	pg3	
+bracknell district	3a7x	
+bracknell england	pg3	
+bracknell forest	3a7x	
+bracknell forest ua	3a7x	
+bracknell uk	pg3	
+byst	1xr9	
+celebral palsy	hdv	
+chacenay	3f1w	
+chysoptera	stp	
+cooscounty	ua	
+csca bucuresti	2zp	
+csca chisinau	lih	
+csca kiev	8et	
+csca kyiv	8et	
+csca rapid	lih	
+csca rapid chisinau	lih	
+csca steaua chisinau	lih	
+cuartango	2kh3	
+cucciago	3rjd	
+cuxac		250o:2,2958:3
+cuxac cabardes	250o	
+cuxac d		2958:3
+cuxac d aude	2958	
+demesman	8th	
+demonte	1pan	
+draeco rosa	323q	
+dzaoudzi	5c4o	52s2:4
+dzaoudzi pamandzi		52s2:4
+dzaoudzi pamandzi airport	52s2	
+dzaoudzi pamandzi international		52s2:4
+dzaoudzi pamandzi international airport	52s2	
+ergr evans	2j6u	
+evanier mark	48ti	
+excavation	2ym	
+excavation archaelogy	otz	
+excavation archaeology	otz	
+excavation archeology	otz	
+franzensbad	22z4	
+gendarm	1ubm	
+geogis	3c7	
+gmina skolyszyn	2cm9	
+gottfried	5sp	6ne:4,axw:3,11g6:2,14nb:2,1il7:2,289l:2,2jm2:3,2qx2:2,2wiq:2,2ywr:2,3c13:2,3e99:2,3id9:3,3lbt:2,400v:3,43es:3,46oy:3,4kea:2,4mus:2,4nv4:2,4wah:2,4wau:2,4yth:6,51bq:2,5kow:5,5oix:2,5rt2:2
+gottfried 8th		4yth:6
+gottfried 8th prince		4yth:6
+gottfried 8th prince of		4yth:6
+gottfried 8th prince of hohenlohe		4yth:6
+gottfried 8th prince of hohenlohe langenburg	4yth	
+gottfried achenwall	4kea	
+gottfried august		400v:3,46oy:3
+gottfried august buerger	46oy	
+gottfried august burger	46oy	
+gottfried august homilius	400v	
+gottfried ben	2qx2	
+gottfried benn	2qx2	
+gottfried bohm	289l	
+gottfried burger	46oy	
+gottfried cramm	43es	
+gottfried daneels	4tas	
+gottfried einem	3id9	
+gottfried first name	5sp	
+gottfried given name	5sp	
+gottfried graf		5kow:5
+gottfried graf von		5kow:5
+gottfried graf von bismarck		5kow:5
+gottfried graf von bismarck schoenhausen	5kow	
+gottfried graf von bismarck schonhausen	5kow	
+gottfried haberler	3lbt	
+gottfried heinrich		2jm2:3
+gottfried heinrich bach	2jm2	
+gottfried hermann	5z3i	
+gottfried honegger	4wah	
+gottfried honegger lavater	4wah	
+gottfried huppertz	5oix	
+gottfried john	1il7	
+gottfried keller	2ywr	
+gottfried kinkel	4wau	
+gottfried kinkel comments	4wau	
+gottfried kirch	3c13	
+gottfried kirche	3c13	
+gottfried kolditz	4nv4	
+gottfried kothe	4mus	
+gottfried lessing	3e99	
+gottfried liebnitz	axw	
+gottfried osann	5rt2	
+gottfried prince of hohenlohe langenburg	4yth	
+gottfried reinhardt	11g6	
+gottfried rudolph otto ehrenberg	3xww	
+gottfried schadow	3ghj	
+gottfried schatz	2wiq	
+gottfried semper	14nb	
+gottfried von		3id9:3,43es:3
+gottfried von bismarck	5kow	
+gottfried von bouillon	3gwn	
+gottfried von cramm	43es	
+gottfried von einem	3id9	
+gottfried von haberler	3lbt	
+gottfried von herder award	dgr	
+gottfried von jacquin	39tq	
+gottfried von kniller	2vfp	
+gottfried von leibnitz	axw	
+gottfried wagner	51bq	
+gottfried wilhelm	axw	6ne:4,axw:3
+gottfried wilhelm bitzer	467	
+gottfried wilhelm leibniz	axw	6ne:4
+gottfried wilhelm leibniz prize	6ne	
+gottfried wilhelm leibniz scientific community	k81	
+gottfried wilhelm leibniz universitaet hannover	alv	
+gottfried wilhelm leibniz universitat hannover	alv	
+gottfried wilhelm leibniz university hanover	alv	
+gottfried wilhelm osann	5rt2	
+gottfried willhem leibniz	axw	
+hassa		20yo:5
+hassa bint		20yo:5
+hassa bint ahmad al sudairi	20yo	
+hassa bint ahmed		20yo:5
+hassa bint ahmed al		20yo:5
+hassa bint ahmed al sudairi	20yo	
+hijar	2hw4	
+hijar spain	2hw4	
+hijar teruel	2hw4	
+hungerford	2wsy	4jed:4
+hungerford archers	2wsy	
+hungerford berkshire	2wsy	
+hungerford town	4jed	4jed:4
+hungerford town f		4jed:4
+hungerford town f c	4jed	
+hungerford town fc	4jed	
+jossu	3vm	
+jumpei	5pm8	
+karpuzlu	zsi	
+kasabian	z7y	
+kasabian band	z7y	
+kasabian singles	z7y	
+keelin		6532:2
+keelin winters	6532	
+kelantan	uix	925:3
+kelantan darul naim	uix	
+kelantan f		925:3
+kelantan f a	925	
+kelantan f c	925	
+kelantan fa	925	
+kelantan fa president s cup team	925	
+kelantan football association	925	
+kelantan goalscorer season 2012	925	
+kelantan malaysia	uix	
+kelantan state	uix	
+kiely		4cz7:2
+kiely williams	4cz7	
+kobane kurt	ocw	
+kobane offensive	5p9i	
+koichiro	5dus	2q72:2
+koichiro gemba	2q72	
+koichiro genba	2q72	
+krizz		523c:2
+krizz kaliko	523c	
+la amiga	3hev	
+la betia ovvero in amore per ogni gaudenza ci vuole sofferenza	5q2c	
+la betia ovvero in amore per ogni gaudenzia ci vuole sofferenza	5q2c	
+laisne department	pr	
+landhelgisgsla islands	3331	
+langholm	5c7y	
+langholm dumfriesshire	5c7y	
+laoling	2iii	
+laoling county	2iii	
+laoling shandong	2iii	
+le bignon	2mgs	2y5h:4,3mf0:3
+le bignon du		2y5h:4
+le bignon du maine	2y5h	
+le bignon mirabeau	3mf0	
+leodringas	3w39	
+limanton	32sh	
+lmagrib	bp	
+longipontain	19gh	
+lukou		199c:2
+lukou district	199c	
+madhavan actor	pal	
+madhavan balaji ranganathan	pal	
+matila de los canos del rio	3yus	
+michael lentz	6dmf	
+miyashima	53yj	
+naseer		4j9a:2
+naseer ismail	4j9a	
+naseer ud din miraat khan	61md	
+natty gann	x5m	
+nauroy	2b6u	
+nefertiri	37ex	
+neoplasma malignum prostatae	1yg	
+novias kristen stewart 2004 2009	18x1	
+ombela poko	22in	
+osovk	34o0	
+padavona	w5b	
+palindromes	1bkw	
+palindromes film	1bkw	
+palindromes movie	1bkw	
+palombe	dcw	
+paska commune	18ks	
+passionarity	1r59	
+patrimonito	v0	
+pavlodarskaya oblast	10oz	
+peter porter	5gpr	
+peter porter poet	5gpr	
+phidippus	15mc	
+phidippus genus	15mc	
+phidippus spider	15mc	
+picander	3jy9	
+poseidone	csa	
+qayrawan	msc	
+robert barrington		4roh:3
+robert barrington ward	4roh	
+rowingat1900summerolympics	4wk6	
+rozinante	6h34	
+sadbhavna divas	12xw	
+saeffle	5tyi	
+saeffle municipality	xk4	
+san cristoforo	47sf	
+san cristoforo al	47sf	
+san cristoforo al lago	yes	
+saraphi	1l7r	
+saraphi district	1l7r	
+sarria	3tl5,53mg	3nny:3
+sarria barcelona metro	53mg	
+sarria barcelona valles line	53mg	
+sarria barcelonavalles line	53mg	
+sarria de		3nny:3
+sarria de ter	3nny	
+sarria lugo	3tl5	
+sarria metro station	53mg	
+sarria railway station	53mg	
+sarria station	53mg	
+sawyers charles	6c8e	
+schocken		4yqj:2
+schocken books	4yqj	
+schocken verlag	4yqj	
+shamen	2w5d	2w5d:2
+shamen band	2w5d	
+sheqalim tractate	4cps	
+snezhnevsky	5kkb	
+somerville	6le,glv	6h1:2
+somerville borough nj	glv	
+somerville college	6h1	
+somerville college oxford	6h1	
+somerville hall	6h1	
+somerville jesus ball	6h1	
+somerville ma	6le	
+somerville mass	6le	
+somerville massachusetts	6le	
+somerville massachusetts political history	6le	
+somerville n j	glv	
+somerville new jersey	glv	
+somerville nj	glv	
+somerville oxford	6h1	
+spaam	yr6	
+srirangam srinivasa rao	65z5	
+srirangam srinivasarao	65z5	
+sternschanze		3i1b:2
+sternschanze railway station	3i1b	
+sternschanze station	3i1b	
+sturt	msb,2x0s	
+sturt charles	2x0s	
+tamazirt	uhv	
+taussac	2plg	1irm:3
+taussac la		1irm:3
+taussac la billiere	1irm	
+tells archaeology	6f4	
+temulin	5buy	
+the fletcher		5vj:7
+the fletcher school	5vj	5vj:7
+the fletcher school of		5vj:7
+the fletcher school of law		5vj:7
+the fletcher school of law and		5vj:7
+the fletcher school of law and diplomacy	5vj	
+the geffen		51c0:4
+the geffen company	51c0	
+the geffen film		51c0:4
+the geffen film company	51c0	
+the geffen film company inc	51c0	
+the jones experience	cte	
+the jones experience inc	2vnz	
+the nationals western australia	4nwm	
+the osbourne kids	cue	
+toden		1f1g:3
+toden arakawa		1f1g:3
+toden arakawa line	1f1g	
+travagliato	1rqu	
+tura 04 bonn	ik2	
+ushkowitz	1gyy	
+velayat e bamian	13pk	
+velayat e zabol	17tf	
+vilejka vobasc	1ndv	
+visco	5azc	
+visco friuli	5azc	
+visco italy	5azc	
+waist	6ctu	5f0:3,3e90:2
+waist belt	5yle	
+waist circumference	6ctu	
+waist coat	6eo8	
+waist deep	3e90	
+waist length		5f0:3
+waist length hair	5f0	
+william grigahcine	5env	

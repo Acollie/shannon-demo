@@ -1,0 +1,673 @@
+academy	gwh,4jwx	18p:5,1c8:7,1ek:6,1g6:7,1i7:5,1kn:6,1le:6,1p4:6,1pl:5,1qs:6,1s4:5,1sj:5,28q:2,2c2:7,2ic:5,2n2:7,2vi:6,2x4:4,316:6,322:7,34t:6,3ir:7,3n6:8,3z6:5,4c6:5,599:7,5je:6,7u0:4,7vk:6,8el:6,9lu:3,apg:5,f1r:6,fam:5,fh2:4,fmn:2,lrx:5,lyw:3,nos:5,qcg:5,u14:3,xgi:5,125g:3,13h7:4,16c3:3,1l0b:8,1vo4:5,2iju:5,3vja:5,4g0t:2
+academy at lincoln	42x	
+academy award	fmn	18p:5,1c8:7,1g6:7,1i7:5,1kn:6,1le:6,1p4:6,1pl:5,1qs:6,1s4:5,1sj:5,2c2:7,2ic:5,2n2:7,2vi:6,316:6,322:7,34t:6,3ir:7,3n6:8,4c6:5,599:7,5je:6,7vk:6,f1r:6,6fvl:5
+academy award best art direction	1p4	
+academy award best costume design	2vi	
+academy award best foreign language film	3ir	
+academy award best picture	18p	
+academy award best short subject novelty	3n6	
+academy award best short subject one reel	3n6	
+academy award best short subject two reel	3n6	
+academy award for		18p:5,1c8:7,1g6:7,1i7:5,1kn:6,1le:6,1p4:6,1pl:5,1qs:6,1s4:5,1sj:5,2c2:7,2ic:5,2n2:7,2vi:6,316:6,322:7,34t:6,3ir:7,3n6:8,4c6:5,599:7,5je:6,7vk:6,f1r:6,6fvl:5
+academy award for achievement in directing	1sj	
+academy award for adapted music score	316	
+academy award for adapted screenplay	1c8	
+academy award for animated short film	2n2	
+academy award for best		18p:5,1c8:7,1g6:7,1i7:5,1kn:6,1le:6,1p4:6,1pl:5,1qs:6,1s4:5,1sj:5,2c2:7,2ic:5,2n2:7,2vi:6,316:6,322:7,34t:6,3ir:7,3n6:8,4c6:5,599:7,5je:6,7vk:6,f1r:6
+academy award for best actor	1pl	
+academy award for best actor in a leading role	1pl	
+academy award for best actor in a supporting role	1kn	
+academy award for best actress	1s4	
+academy award for best actress in a supporting role	1le	
+academy award for best adapted screenplay	1c8	
+academy award for best animated		2n2:7,7vk:6
+academy award for best animated feature	7vk	
+academy award for best animated short	2n2	2n2:7
+academy award for best animated short film	2n2	
+academy award for best art direction	1p4	
+academy award for best art direction set decoration	1p4	
+academy award for best cinematography	2ic	
+academy award for best costume	2vi	2vi:6
+academy award for best costume design	2vi	
+academy award for best directing	1sj	
+academy award for best directing comedy picture	1sj	
+academy award for best directing dramatic picture	1sj	
+academy award for best director	1sj	
+academy award for best director of a comedy picture	1sj	
+academy award for best documentary	322	2c2:7,322:7
+academy award for best documentary feature	322	322:7
+academy award for best documentary feature film	322	
+academy award for best documentary picture	322	
+academy award for best documentary short	2c2	2c2:7
+academy award for best documentary short film	2c2	
+academy award for best documentary short subject	2c2	
+academy award for best editing	1qs	
+academy award for best effects	34t	
+academy award for best effects special effects	34t	
+academy award for best film		1qs:6
+academy award for best film editing	1qs	
+academy award for best foreign film	3ir	
+academy award for best foreign language film	3ir	
+academy award for best international		3ir:7
+academy award for best international feature		3ir:7
+academy award for best international feature film	3ir	
+academy award for best leading actor	1pl	
+academy award for best live		3n6:8
+academy award for best live action		3n6:8
+academy award for best live action short	3n6	3n6:8
+academy award for best live action short film	3n6	
+academy award for best make up and hairstyling	599	
+academy award for best makeup	599	599:7
+academy award for best makeup and		599:7
+academy award for best makeup and hairstyling	599	
+academy award for best movie	18p	
+academy award for best music original song	f1r	
+academy award for best music scoring	316	
+academy award for best music scoring of a musical picture	316	
+academy award for best original		316:6,f1r:6
+academy award for best original music score	316	
+academy award for best original musical or comedy score	316	
+academy award for best original score	316	
+academy award for best original song	f1r	
+academy award for best picture	18p	
+academy award for best production		1p4:6
+academy award for best production design	1p4	
+academy award for best score adaptation or treatment	316	
+academy award for best screenplay adaptation	1c8	
+academy award for best short film color	3n6	
+academy award for best short film live action 2 reels	3n6	
+academy award for best short film novelty	3n6	
+academy award for best short subject cartoons	2n2	
+academy award for best short subject live action subjects	3n6	
+academy award for best song	f1r	
+academy award for best sound	1i7	5je:6
+academy award for best sound editing	5je	
+academy award for best sound mixing	1i7	
+academy award for best special effects	34t	
+academy award for best special visual effects	34t	
+academy award for best story	4c6	
+academy award for best supporting		1kn:6,1le:6
+academy award for best supporting actor	1kn	
+academy award for best supporting actress	1le	
+academy award for best visual		34t:6
+academy award for best visual effects	34t	
+academy award for best writing		1c8:7,1g6:7
+academy award for best writing adaptation	1c8	
+academy award for best writing adapted		1c8:7
+academy award for best writing adapted screenplay	1c8	
+academy award for best writing original		1g6:7
+academy award for best writing original screenplay	1g6	
+academy award for best writing screenplay	1c8	
+academy award for bestoriginal screenplay	1g6	
+academy award for comedy direction	1sj	
+academy award for costume design	2vi	
+academy award for directing	1sj	
+academy award for directing comedy picture	1sj	
+academy award for documentary feature	322	
+academy award for documentary short subject	2c2	
+academy award for editing	1qs	
+academy award for film editing	1qs	
+academy award for foreign language film	3ir	
+academy award for live action short film	3n6	
+academy award for makeup	599	
+academy award for original music score	316	
+academy award for original score	316	
+academy award for original screenplay	1g6	
+academy award for outstanding motion picture	18p	
+academy award for outstanding picture	18p	
+academy award for outstanding production	18p	
+academy award for short film novelty	3n6	
+academy award for sound	1i7	
+academy award for sound editing	5je	
+academy award for sound effects editing	5je	
+academy award for sound mixing	1i7	
+academy award for technical		6fvl:5
+academy award for technical achievement	6fvl	
+academy award for visual effects	34t	
+academy award for writing adapted screenplay	1c8	
+academy award for writing motion picture story	4c6	
+academy award for writing original screenplay	1g6	
+academy award of merit	fmn	
+academy awards	fmn	
+academy awards animated feature	7vk	
+academy awards art direction	1p4	
+academy awards best actor	1pl	
+academy awards best actress	1s4	
+academy awards best film	18p	
+academy awards best picture	18p	
+academy awards best supporting actor	1kn	
+academy awards best supporting actress	1le	
+academy awards cinematography	2ic	
+academy awards costume design	2vi	
+academy awards doc	fmn	
+academy awards documentary feature	322	
+academy awards for best short subject cartoons	2n2	
+academy awards foreign language film	3ir	
+academy awards makeup	599	
+academy awards music original song	f1r	
+academy awards short film animated	2n2	
+academy awards short film live action	3n6	
+academy awards visual effects	34t	
+academy awards writing screenplay adaptation	1c8	
+academy awards writing screenplay original	1g6	
+academy chain	28q	
+academy chains	28q	
+academy colarossi	1dop	
+academy converter	28q	
+academy creatures	4ugh	
+academy fellowship	960	
+academy for the dramatic arts in krakow	56l4	
+academy francais	1jy	
+academy honorary		u14:3
+academy honorary award	u14	
+academy honourary award	u14	
+academy in athens	gwh	
+academy in lawrenceville	4otm	
+academy is		36jb:3
+academy jullian	2uf	
+academy nj	16x	
+academy of		1ek:6,2x4:4,3z6:5,7u0:4,8el:6,9lu:3,apg:5,fam:5,fh2:4,lrx:5,lyw:3,nos:5,qcg:5,xgi:5,125g:3,13h7:4,16c3:3,1l0b:8,1vo4:5,2iju:5,3vja:5,5jz1:7,5ndg:6,5njl:6,5znl:9,6cd8:6,6hmd:17,6how:5
+academy of advertising art	fh2	
+academy of agriculture	2464	3vja:5
+academy of agriculture of		3vja:5
+academy of agriculture of france	3vja	
+academy of antwerp	36ob	
+academy of art	fh2	fh2:4
+academy of art college	fh2	
+academy of art munich	3z6	
+academy of art u	fh2	
+academy of art university	fh2	
+academy of art urban knights track and field	fh2	
+academy of arts	2x4	2x4:4,1l0b:8
+academy of arts and letters	2du	
+academy of arts architecture		1l0b:8
+academy of arts architecture and		1l0b:8
+academy of arts architecture and design		1l0b:8
+academy of arts architecture and design in		1l0b:8
+academy of arts architecture and design in prague	1l0b	
+academy of arts berlin	2x4	
+academy of arts munich	3z6	
+academy of athens	lyw	
+academy of athens modern	lyw	
+academy of brera	3zg	
+academy of bucharest	3zm	
+academy of canadian		6hmd:17
+academy of canadian cinema		6hmd:17
+academy of canadian cinema and		6hmd:17
+academy of canadian cinema and television		6hmd:17
+academy of canadian cinema and television award		6hmd:17
+academy of canadian cinema and television award for		6hmd:17
+academy of canadian cinema and television award for best		6hmd:17
+academy of canadian cinema and television award for best performance		6hmd:17
+academy of canadian cinema and television award for best performance by		6hmd:17
+academy of canadian cinema and television award for best performance by an		6hmd:17
+academy of canadian cinema and television award for best performance by an actor in a continuing leading dramatic role	1u39	
+academy of canadian cinema and television award for best performance by an actress		6hmd:17
+academy of canadian cinema and television award for best performance by an actress in		6hmd:17
+academy of canadian cinema and television award for best performance by an actress in a		6hmd:17
+academy of canadian cinema and television award for best performance by an actress in a continuing leading dramatic role	1f06	
+academy of canadian cinema and television award for best performance by an actress in a leading		6hmd:17
+academy of canadian cinema and television award for best performance by an actress in a leading role	6hmd	
+academy of choreographic art	u36	
+academy of country		6how:5
+academy of country music		6how:5
+academy of country music awards	6how	
+academy of country music awards 2014	6how	
+academy of cracow	2fm	
+academy of dorpat	2lt	
+academy of drama and film in budapest	p5k	
+academy of drama arts in zagreb	13h7	
+academy of dramatic		13h7:4
+academy of dramatic art	13h7	
+academy of dramatic art university of zagreb	13h7	
+academy of dramatic arts	go1	
+academy of dramatic arts in belgrade	4k2a	
+academy of dramatic arts in zagreb	13h7	
+academy of economic studies	1su6	
+academy of esperanto	16c3	
+academy of europe	1ao	
+academy of fine		3z6:5,apg:5,fam:5,lrx:5,qcg:5,2iju:5,5njl:6,6cd8:6
+academy of fine arts		3z6:5,apg:5,fam:5,lrx:5,qcg:5,2iju:5,5njl:6,6cd8:6
+academy of fine arts belgrade	4k2a	
+academy of fine arts cracow	c2r	
+academy of fine arts finland	6cd8	
+academy of fine arts florence	2iju	
+academy of fine arts helsinki	6cd8	
+academy of fine arts in belgrade	4k2a	
+academy of fine arts in cracow	c2r	
+academy of fine arts in duesseldorf	gre	
+academy of fine arts in dusseldorf	gre	
+academy of fine arts in florence	2iju	
+academy of fine arts in krakow	c2r	
+academy of fine arts in munich	3z6	
+academy of fine arts in prague	qcg	
+academy of fine arts in the hague	2o4o	
+academy of fine arts in vienna	apg	
+academy of fine arts in warsaw	fam	
+academy of fine arts istanbul	40d1	
+academy of fine arts krakow	c2r	
+academy of fine arts munich	3z6	
+academy of fine arts nuremberg	lrx	
+academy of fine arts of		5njl:6,6cd8:6
+academy of fine arts of brera	3zg	
+academy of fine arts of florence	2iju	
+academy of fine arts of helsinki	6cd8	
+academy of fine arts of milan	3zg	
+academy of fine arts of milan italy	3zg	
+academy of fine arts of rome	5njl	
+academy of fine arts of st luke	un6	
+academy of fine arts of venice	6cep	
+academy of fine arts prague	qcg	
+academy of fine arts rome	5njl	
+academy of fine arts rotterdam	5760	
+academy of fine arts university of the arts helsinki	6cd8	
+academy of fine arts venice	6cep	
+academy of fine arts vienna	apg	
+academy of fine arts warsaw	fam	
+academy of france	1jy	
+academy of honor	6y7	
+academy of inscriptions	2fu	
+academy of inscriptions and belles lettres	2fu	
+academy of justine henin and carlos rodrigues	sfi	
+academy of learning	125g	
+academy of lynxes	1xk	
+academy of mathematics and science in kentucky	8fq	
+academy of military medicine	nyc	
+academy of mining and metallurgy	1qdj	
+academy of mining and metallurgy in cracow	1qdj	
+academy of moral and political science	3h5	
+academy of moral and political sciences	3h5	
+academy of moral and political sciences france	3h5	
+academy of music		xgi:5,1vo4:5
+academy of music and dramatic arts	5ndg	
+academy of music and dramatic arts in bratislava	5ndg	
+academy of music and theatre in hamburg	yy3	
+academy of music hanns eisler berlin	4rcz	
+academy of music in		xgi:5,1vo4:5
+academy of music in belgrade	4k2a	
+academy of music in katowice	1vo4	
+academy of music in krakow	xgi	
+academy of music in prague	7u0	
+academy of musical arts in prague	7u0	
+academy of newark	3xa	
+academy of performing		7u0:4,5ndg:6
+academy of performing arts	7u0	5ndg:6
+academy of performing arts in		5ndg:6
+academy of performing arts in bratislava	5ndg	
+academy of performing arts in prague	7u0	
+academy of philadelphia	i4	
+academy of political and moral sciences	3h5	
+academy of rouen	1be6	
+academy of saint luke	un6	
+academy of san fernando	6wo	
+academy of san luca	un6	
+academy of science	9lu	
+academy of science and literature	8el	
+academy of science of france	xj	
+academy of science of romania	3zm	
+academy of science of sweden	sh	
+academy of science riga	38v1	
+academy of sciences	9lu	1ek:6,8el:6,nos:5,5jz1:7,5znl:9
+academy of sciences and		8el:6,5jz1:7,5znl:9
+academy of sciences and arts	7lx	5znl:9
+academy of sciences and arts of		5znl:9
+academy of sciences and arts of republika srpska	5znl	
+academy of sciences and arts of the		5znl:9
+academy of sciences and arts of the republic of srpska	5znl	
+academy of sciences and arts of the republika		5znl:9
+academy of sciences and arts of the republika srpska	5znl	
+academy of sciences and humanities		5jz1:7
+academy of sciences and humanities in		5jz1:7
+academy of sciences and humanities in hamburg	5jz1	
+academy of sciences and literature	8el	8el:6
+academy of sciences and literature mainz	8el	
+academy of sciences france	xj	
+academy of sciences humanities and fine arts	lyw	
+academy of sciences of		1ek:6,nos:5
+academy of sciences of azerbaijan	19cu	
+academy of sciences of azerbaijan ssr	19cu	
+academy of sciences of estonia	180p	
+academy of sciences of georgia	16fx	
+academy of sciences of german democratic republic	46w	
+academy of sciences of moldova	nos	
+academy of sciences of moldovan ssr	nos	
+academy of sciences of republic of moldova	nos	
+academy of sciences of the		1ek:6
+academy of sciences of the armenian ssr	2w1k	
+academy of sciences of the azerbaijan ssr	19cu	
+academy of sciences of the ddr	46w	
+academy of sciences of the gdr	46w	
+academy of sciences of the german democratic republic	46w	
+academy of sciences of the soviet union	qk	
+academy of sciences of the u s s r	qk	
+academy of sciences of the ukrainian ssr	5ox	
+academy of sciences of the union of soviet socialist republics	qk	
+academy of sciences of the ussr	qk,1ek	
+academy of sciences of ukraine	5ox	
+academy of st cyr	43o	
+academy of st luke	un6	
+academy of the arts berlin	2x4	
+academy of the bran	bzr	
+academy of the curious as to nature	ev	
+academy of the fine arts in warsaw	fam	
+academy of the people s republic of romania	3zm	
+academy of the three noblest arts	5kq	
+academy of theatre in warsaw	7z4	
+academy of tobacco studies	1f6p	
+academy of tomorrow	1fhe	
+academy of venice	6cep	
+academy of vienna	apg	
+academy of vilnius	4g2	
+academy of wilno	4g2	
+academy real	5e4	
+academy school	28q	
+academy schools	28q	
+academy schools england	28q	
+academy schools in england	28q	
+academy special achievement award	1q09	
+academy trust	28q	
+acheron french frigate	e53	
+alexander glazunov	2xex	
+alexander glazunov comments	2xex	
+allouagne	1qzs	
+anarchism	6ha	
+anarchism and marxism	72l	
+anarchism communism	276x	
+anarchism did you know	6ha	
+anarchism did you know 1	6ha	
+anarchism did you know 3	6ha	
+anarchism did you know 6	6ha	
+anarchism did you know 7	6ha	
+anarchism selected article june 2007	6ha	
+anarchism selected article march 2007	6ha	
+anarchism selected article november 2005	6ha	
+anarchism selected article november 2008	6ha	
+anarchism selected article october 2006	6ha	
+anarchism selected article october 2008	6ha	
+anarchism selected image 10	6ha	
+anarchism selected image 13	6ha	
+anarchism selected image 25	6ha	
+anarchism selected image 9	6ha	
+anarchism selected quote 11	6ha	
+anarchism selected quote 2	6ha	
+angeliki		3kn7:2
+angeliki laiou	3kn7	
+apsaraawardforbestfilm	6f01	
+arlin specter	2117	
+arlin spector	2117	
+aversa	is3	
+aversa diocese of	is3	
+aversa doc	is3	
+aversa normanna	180g	
+bakare michael	55v5	
+bedzin	wlu	179c:2
+bedzin county	179c	
+blackford		1mmc:2
+blackford county	1mmc	
+blackford county in	1mmc	
+blackford county indiana	1mmc	
+ceggia	3ih7	
+chabris	1rfu	
+cineriz	cxg	
+computimes	4qtp	
+coryanthes	6faq	
+dappy	4s7j	
+dappy from n dubz	4s7j	
+david gregorie	4yi4	
+dictatorial herr	d0t	
+dok dobuje kisa u ritmu tam tama	27xr	
+dudibres	3own	
+dunakeszi	47wy	
+economics	2mb	
+economics city of bangladesh in chittagong division	30ix	
+economics empiricism	2mb	
+economics game	9ny	
+economics of hypertension	5rb	
+economics of ra one	2um5	
+economics of slavery	c3u	
+economics of spam	54ex	
+edward davis ed wood jr	11ub	
+edward davis wood jr	11ub	
+enarquie	3rd	
+enjott		5s7t:2
+enjott schneider	5s7t	
+ethmia	3ct	
+euarthropoda	1fv8	
+ezidxane	25i9	
+fc vizela	h0c	
+flowery	5rum	
+flowery twats	11x4	
+fondation corboud	5a57	
+fondation europeenne des metiers de l image et du son	393k	
+fondation nicolas hulot	638j	
+fondation nicolas hulot pour la nature et l homme	638j	
+garicke	6238	
+garrebourg	1j9n	
+gedsc imaging corp	84z	
+gilyarovsky	5961	
+gmina ladzice	1iy9	
+gmina swinice		whp:3
+gmina swinice warckie	whp	
+greymane	1nvz	
+guilford	u1f,3oqq	ufp:2,15bh:2
+guilford center	u1f	
+guilford college	15bh	
+guilford connecticut	u1f	
+guilford county	ufp	
+guilford county nc	ufp	
+guilford county north carolina	ufp	
+guilford ct	u1f	
+guilford dudley	2z6v	
+guilford vermont	3oqq	
+guilford vt	3oqq	
+gyser	j8i	
+habitable zone	3gow	
+habri	470l	
+habri ceske budejovice district	470l	
+heir		6hvf:4
+heir apparent	6bzh	
+heir fragrance	nvg	
+heir to		6hvf:4
+heir to nsbygaard	3qmz	3qmz:4
+heir to the		6hvf:4
+heir to the empire	6hvf	
+heir to the empire trilogy	6hl4	
+heir to thomas edison	1e4u	
+heir today gone tomorrow	68de	
+history painting	1zr	
+hopeh	8jl	
+horozonti	5ues	
+ilonka kovacs	32sg	
+jean foucquet	45zq	
+joanes weirus	5rce	
+john kemp	5fr0	
+john tristan	1dq4	1dq4:5
+john tristan count		1dq4:5
+john tristan count of		1dq4:5
+john tristan count of valois	1dq4	
+john tristan of france	1dq4	
+kabwe	3zf7	5r4t:2,63sl:4
+kabwe broken hill	3zf7	
+kabwe kasongo	5r4t	
+kabwe warriors	63sl	63sl:4
+kabwe warriors f		63sl:4
+kabwe warriors f c	63sl	
+kabwe warriors football club	63sl	
+kabwe zambia	3zf7	
+kindia		3sf7:2,5jbw:2
+kindia governorate	3sf7	
+kindia prefecture	5jbw	
+kindia prefecture guinea	5jbw	
+kindia region	3sf7	
+kindia region guinea	3sf7	
+kirn	2si1	
+kuga yoshiko	1ws5	
+la maddalena	28gd	
+la maddalena island	28gd	
+la maddalena italy	28gd	
+lambertseterbanen	4mfe	
+lano	2psk	
+lano haute corse	2psk	
+lano upper corsica	2psk	
+louis stromeyer	1xq2	
+madis	11g8	
+madis first name	11g8	
+madis given name	11g8	
+malene		4v8a:2
+malene schwartz	4v8a	
+mangiati vivi	4iqc	
+maximian	5ag3	
+maximian emperor	5ag3	
+maximian herculeus	5ag3	
+mcmxxvi	1a2r	
+mcqueen	40w6	
+mcqueen alexander	2zkk	
+mcqueen film	2zkk	
+mcqueen steve	l6m	
+mcqueen surname	40w6	
+metaphor	24vg	
+modem	sp2	
+national lifeboat institution	e5z	
+ngugi		28rd:4
+ngugi wa		28rd:4
+ngugi wa thiong	28rd	28rd:4
+ngugi wa thiong o	28rd	
+ngugi wa thiongo	28rd	
+nihawand	5sn6	
+nissi		2fbz:3
+nissi commune	2fbz	
+nissi parish	2fbz	
+nissi rural		2fbz:3
+nissi rural municipality	2fbz	
+nissi vald	2fbz	
+noiseworks	3n20	
+opstini	6egv	
+opstini of macedonia	e1h	
+ousmane		12hk:2,2ecw:3,3acu:2,3vo0:2,44fg:2,4lvp:2,4qsb:4,5kbq:2,5kyf:2,5qlk:2
+ousmane barry	4lvp	
+ousmane coulibaly	5qlk	
+ousmane dabo	44fg	
+ousmane diarra	5kbq	
+ousmane diarra malian athlete	5kbq	
+ousmane n		2ecw:3,4qsb:4
+ousmane n doye	2ecw	
+ousmane n gom		4qsb:4
+ousmane n gom camara	4qsb	
+ousmane sanou	3vo0	
+ousmane sembene	12hk	
+ousmane traore	3acu	
+ousmane viera	5kyf	
+percepts	6au2	
+peter osaze odemwingie	1lfl	
+poinson		2wwx:3,3lgs:3
+poinson les		2wwx:3,3lgs:3
+poinson les grancey	3lgs	
+poinson les nogent	2wwx	
+prechac	2d3i,31mq	
+prechac gers	31mq	
+prechac gironde	2d3i	
+pregl fritz	3dpu	
+priista	x0	
+prince friso	2d8x	2d8x:5
+prince friso of		2d8x:5
+prince friso of orange		2d8x:5
+prince friso of orange nassau	2d8x	
+rechovot	bxe	
+robert ritter		59df:4
+robert ritter von		59df:4
+robert ritter von greim	59df	
+ronaldinho	14zt	
+ronaldinho gaucho	14zt	
+rosey	3n7v,3srb	
+rosey haute saone	3srb	
+rosey o donnell	1czg	
+rosey saone et loire	3n7v	
+saint chels	380q	
+saint faust	2t2y	
+schoomaker	6dn0	
+schwierige liebe	2fc5	
+scullin james henry	5l6l	
+sheinhardt wig company	6py	
+shoaib		4crt:2
+shoaib mansoor	4crt	
+sinocnemis	3lkv	
+supremes	9ir	9ir:2
+talange	2kg7	
+terpsikhore	234w	
+tesco	117a	
+tesco direct	117a	
+tesco dvd rental	117a	
+tesco homeplus	117a	
+tesco hypermarket	117a	
+tesco metro	117a	
+tesco phoneshop	117a	
+tesco plc	117a	
+tesco s	117a	
+tesco tech support	117a	
+tesco vin plus	117a	
+the crimean khanate	4ssy	
+the crimean war	1zf	
+the doves	1h54	
+the microstructure of dynamic hedging	4g6g	
+the missiles		lb5:4
+the missiles of		lb5:4
+the missiles of october	lb5	
+the pepsi center	6g9f	
+the pepsi cola girl	1d7g	
+the pepsi company	fvl	
+the sunshine		199f:3
+the sunshine band	wct	
+the sunshine boys	199f	
+the sunshine boys 1975 film	199f	
+theeqar	2bk8	
+thomas aldredge	1ezv	
+thomas hollway	579i	
+trafalgar		2o4v:2
+trafalgar campus	7tq	
+trafalgar middle school nelson bc	1ykv	
+trafalgar middle school nelson british columbia	1ykv	
+trafalgar square	2o4v	
+trafalgar square london england	2o4v	
+trinchesia	6dpy	
+truro	8ty,iud	m6o:4
+truro bus station	8ty	
+truro canada	iud	
+truro city	m6o	m6o:4
+truro city f		m6o:4
+truro city f c	m6o	
+truro city fc	m6o	
+truro city football club	m6o	
+truro civil parish	8ty	
+truro cornwall	8ty	
+truro cp	8ty	
+truro england	8ty	
+truro heights nova scotia	iud	
+truro n s	iud	
+truro nova scotia	iud	
+truro ns	iud	
+tyen	2x99	
+tyen station	2x99	
+viciaceae	1cvd	
+virupapur gaddi	5e4s	
+vommit	fs9	
+wattensee	fkf	
+whatsitsname	6an9	
+william welsh	58ai	
+william welsh actor	58ai	
+workshops	5gk1	
+yates		27td:2
+yates colored high school	6605	
+yates colored senior high school	6605	
+yates county	27td	
+yates county new york	27td	
+yates county ny	27td	
+yates david	2u2n	
+yates frances	522k	
+yates frank	5qkq	
+yates high	6605	
+yates high school	6605	
+yates paradigm	522k	
+yates peter	zxi	
+yates senior high school	6605	
+yates thesis	522k	
+zokkomon	5gzv	

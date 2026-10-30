@@ -1,0 +1,303 @@
+194950		2tvr:4
+194950 cypriot		2tvr:4
+194950 cypriot cup	2oa9	
+194950 cypriot first		2tvr:4
+194950 cypriot first division	2tvr	
+900s	2964	
+900s bc	25wy	
+900s bce	25wy	
+900s century	1n5z	
+900s decade	2964	
+achromobacter	6ay3	
+achromobacter cycloclastes	6ay3	
+ahvaz	8qg	
+alleyway	qg7	
+alpharita constantia anderson	40tn	
+baccin	44d8	
+belgorodskaja oblast	hvh	
+bikas given name	2tke	
+bikas surname	2tke	
+boussey	33pe	
+bricis	500w	
+brokers	29na	
+carosino	3gv7	
+chabrac	3vbt	
+cica draza	5b26	
+cica tv	5q3y	
+cica tv 7	5q3y	
+cosack	168z	
+dasavatara	3hex	
+dasavatara of vishnu	3hex	
+decko koji obecava	5l7z	
+domme	262x	
+domme dordogne	262x	
+edukators	4tm1	4tm1:2
+erszebet magyarorszaagi	v7m	
+esquilache	5ty9	
+faivie	3s3s	
+fc moskva	5zy	
+flecktones	3jov	
+fluimicil infantil	63ew	
+fortel		2ri2:3
+fortel en		2ri2:3
+fortel en artois	2ri2	
+fruto de tentacion	5z4j	
+fruto prohibido	5z4j	
+fulminant hepatitis	djb	
+garrys mod	5g5b	
+generalized cone	6ev2	
+generalized markup	9wx	
+generalized oedema	r8c	
+generalized pentagonal number	6f0u	
+generalized variable length integers	2ekp	
+george cadogan		5oti:5
+george cadogan 5th		5oti:5
+george cadogan 5th earl		5oti:5
+george cadogan 5th earl cadogan	5oti	
+ghfc	2m3a	
+gobineau	63v2	
+gonbade kavoos	59cf	
+guptas	2cdr	
+henry ian		2uw1:4
+henry ian cusick	2uw1	2uw1:4
+henry ian cusick chavez	2uw1	
+hodierna		4fg3:3
+hodierna of		4fg3:3
+hodierna of jerusalem	4fg3	
+hodierna of rethel	4fg3	
+hodierna of tripoli	4fg3	
+hori yuji	1l10	
+hunspach	20fg	
+iawski	1m2w	
+inglewood	4rd	8pw:3,32rv:2,4sn7:3
+inglewood ca	4rd	
+inglewood california	4rd	
+inglewood california usa	4rd	
+inglewood high		4sn7:3
+inglewood high school	4sn7	
+inglewood high school california	4sn7	
+inglewood kiev	32rv	
+inglewood ontario	17v3	
+inglewood park		8pw:3
+inglewood park cemetery	8pw	
+inglewood united	32rv	
+inglewood united fc	32rv	
+inglewood united sc	32rv	
+intergral	6fc6	
+ismaily		b09:2
+ismaily sc	b09	
+kainu	1v0c	
+kayne		3w5w:2,5m10:2
+kayne mclaggon	5m10	
+kayne simeon mclaggon	5m10	
+kayne takagi	3w5w	
+kayne vincent	3w5w	
+kayne west	6nd	
+kha khan	vek	
+kha y	63f	
+khilafat	5qle	
+khilafat qurtuba	4d2r	
+kimon	464m	3a82:2
+kimon aegean sea	5ul	
+kimon class destroyer	1ck2	
+kimon georgiev	3a82	
+kimon georgiev stoyanov	3a82	
+lafeline	2g2g	
+lagoon	8ut	
+lagoon islands	3jw	
+lagoon languages	38s4	
+lagoon of szczecin	4jag	
+lagoon of venice	x29	
+latitude	6hh6	2s5a:2
+latitude 0 degrees n	6hmz	
+latitude 0 degrees s	6hmz	
+latitude 82 degrees s	3j	
+latitude 84 degrees n	4oi	
+latitude 84 degrees s	3j	
+latitude 85 degrees n	4oi	
+latitude 86 degrees n	4oi	
+latitude 86 degrees s	3j	
+latitude 87 degrees n	4oi	
+latitude 88 north	64uu	
+latitude 89 degrees n	4oi	
+latitude 90 degrees n	6gdw	
+latitude 90 degrees s	6gst	
+latitude circle	73v	
+latitude circles	73v	
+latitude margaritaville	d3q	
+latitude parallel	73v	
+latitude parallels	73v	
+latitude zero	2s5a	
+latitude zero film	2s5a	
+ligneyrac	3jio	
+luetschental	3cvu	
+luetschental be	3cvu	
+luetschental bern	3cvu	
+luetschental berne	3cvu	
+luetschental switzerland	3cvu	
+macedonians	xge	
+macedonians nation	xge	
+macedonians people	xge	
+macedonians regional group	2bd5	
+macedonians slavic	xge	
+macedonians slavic ethnic group	xge	
+macedonians slavs	xge	
+makayla	b3n	
+masakatsu	69f2	3w1s:2,3zi0:2
+masakatsu first name	69f2	
+masakatsu funaki	3w1s	
+masakatsu given name	69f2	
+masakatsu miyamoto	3zi0	
+miyake	4pap	
+miyake surname	4pap	
+montirat	23si,3bnt	
+montirat aude	3bnt	
+montirat tarn	23si	
+mortelle randonnee	1nh7	
+mukhran		4pa1:2
+mukhran machavariani	4pa1	
+mukhran machavariani i	4pa1	
+mycorrhizal	3tg	
+mycorrhizal fungi	3tg	
+naver		628n:2
+naver com	628n	
+naver corp	628n	
+naver corporation	628n	
+naver korea	628n	
+neelakanta	5y4c	
+neelakanta director	5y4c	
+neelakanta reddy	5y4c	
+negotin	nsq	
+negotin municipality	nsq	
+nerijus		2zy3:2,4ehd:2,4sws:2,5d3b:2,6e5d:2
+nerijus astrauskas	2zy3	
+nerijus barasa	4sws	
+nerijus radzius	5d3b	
+nerijus valskis	4ehd	
+nerijus vasiliauskas	6e5d	
+neurology	2f4	
+nguoi bac ky	1jwr	
+nguoi viet	1jwr	
+olmecas	6hlb	
+opm	2iz6	
+opm band	2iz6	
+orlowa	y35	
+ottinger richard	5grr	
+padasjoki	4lxd	
+panderma	p14	
+panelak	4ezl	
+panelak serial	4ezl	
+panelak tv series	4ezl	
+panelak tv show	4ezl	
+paul 2011	12sl	
+pelotas	ehu	
+pelotas brazil	ehu	
+peruvian		9e3:3,hm9:3,llg:2,4726:3
+peruvian aprista party	wdb	
+peruvian first division	9e3	
+peruvian football league	9e3	
+peruvian league	9e3	
+peruvian national football team	2ue	
+peruvian national soccer team	2ue	
+peruvian nationalist		4726:3
+peruvian nationalist party	4726	
+peruvian navy	llg	
+peruvian penguin	3s4z	
+peruvian president	yjp	
+peruvian presidential line of succession	yjp	
+peruvian primera		9e3:3
+peruvian primera division	9e3	
+peruvian regions	27yn	
+peruvian segunda		hm9:3
+peruvian segunda division	hm9	
+peruvian western cordillera	q4c	
+placentalia	zw9	
+planescape		4mcw:2
+planescape torment	4mcw	
+pluc		1vnv:3
+pluc l		1vnv:3
+pluc l hermitage	1vnv	
+podzemlje	1773	
+pompilid	2xa7	
+pompilid wasp	2xa7	
+pompilid wasps	2xa7	
+porsanggu	169u	
+princedoms	6tn	
+procanbid	fjo	
+pubert	xo2	
+pubert addams	xo2	
+quadrant 904	4t39	
+rajsthaan	1m4	
+rangsdorf	22th	
+richard lagravenese	1o54	
+ridgewood	fz5	
+ridgewood new jersey	fz5	
+ridgewood nj	fz5	
+ridgewood village bergen county new jersey	fz5	
+ridgewood village new jersey	fz5	
+robersart	3kk0	
+ruthenian	55o8	3itz:2
+ruthenian catholic eparchy of suprasl	43bc	
+ruthenian language	55o8	
+ruthenian languages	55o8	
+ruthenian orthodox church	95w	
+ruthenian uniate church	3v1j	
+ruthenian voivodeship	3itz	
+ruthenian voivodship	3itz	
+ryutsu		kry:3,5njm:4
+ryutsu keizai		kry:3,5njm:4
+ryutsu keizai university	kry	5njm:4
+ryutsu keizai university f c	5njm	
+ryutsu keizai university fc	5njm	
+ryutsu keizai university football club	5njm	
+sir jean lomer gouin	4pyq	
+sutee		3yis:2
+sutee suksomkit	3yis	
+takeashot	6doh	
+tancrou	1zpk	
+tatsunosuke hasegawa	4f54	
+the bartered		2zzi:3
+the bartered bride	2zzi	
+the bartered bride 1932 film	2zzi	
+the bop decameron	tkt	
+the jasmine		2r6w:3
+the jasmine genus	2r6w	
+thomas grace gabel	2wr1	
+trachylepis	1mtj	
+triathalon	1uo	
+tsugo no miya	wl4	
+tubuliflorae	6f08	
+un argentino en new york	4z6q	
+unhq	3bdz	
+united city		4fhh:4
+united city f		4fhh:4
+united city f c	4fhh	
+vepesid	1qwv	
+vepesid j	1qwv	
+vimpellois	24yy	
+waynedale	31d	
+william demarest	ivo	
+william isaac		3f2f:3
+william isaac thomas	3f2f	
+xandra band	3bie	
+xandra rocha	5gqe	
+yangon	2qg	lvl:4,5cpo:3
+yangon airport	5cpo	
+yangon burma	2qg	
+yangon international	5cpo	5cpo:3
+yangon international airport	5cpo	
+yangon myanmar	2qg	
+yangon rangoon	2qg	
+yangon united	lvl	lvl:4
+yangon united f		lvl:4
+yangon united f c	lvl	
+yangon united fc	lvl	
+yangon united football club	lvl	
+yangon university	ii7	
+yangon university of medicine 1	61h2	
+yangon untied f c	lvl	
+yarkov	5dup	
+zamia	gwr	
+zdiretz	2rfs	
+zhozef kotin	42ef	
+zhozef nisefor neps	5ldf	

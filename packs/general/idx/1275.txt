@@ -1,0 +1,483 @@
+adhi actor	5jc6	
+aif	6cof,6fm8	
+akademisk		82l:2
+akademisk bk	82l	
+akademisk boldklub	82l	
+akademisk boldklub and boldklubben af 1893	82l	
+akademisk boldklub gladsaxe	82l	
+akwizgran	2bu	
+alatskivi		146n:3
+alatskivi commune	146n	
+alatskivi parish	146n	
+alatskivi rural		146n:3
+alatskivi rural municipality	146n	
+alatskivi vald	146n	
+aldershot	7lh	3wp:4,48u:3
+aldershot england	7lh	
+aldershot f		48u:3
+aldershot f c	48u	
+aldershot fc	48u	
+aldershot hampshire	7lh	
+aldershot hants	7lh	
+aldershot town	3wp	3wp:4
+aldershot town f		3wp:4
+aldershot town f c	3wp	
+aldershot town fc	3wp	
+aldershot town football club	3wp	
+aldershot united kingdom	7lh	
+aleth	3s58	
+alexander doni	4i3p	
+allmightyduck s shortcut	fm0	
+altonaer		2tiu:4
+altonaer fc		2tiu:4
+altonaer fc 93	2tiu	
+altonaer fc hamburg	2tiu	
+altonaer fc von		2tiu:4
+altonaer fc von 1893	2tiu	
+amaru		4t6o:2
+amaru entertainment	4t6o	
+amaru naruto	1vb0	
+amaru records	4t6o	
+amrom	6fhu	
+andews family name	bm3	
+andromache	3qku	
+aristoeteles	7jf	
+attorney	17	kok:3,1q5h:6,1val:4,2t4u:4,63xr:4
+attorney at		kok:3
+attorney at law	kok	
+attorney for		2t4u:4
+attorney for the		2t4u:4
+attorney for the defense	2t4u	
+attorney general		1q5h:6,1val:4,63xr:4
+attorney general ashcroft	440h	
+attorney general california	63xr	
+attorney general canada	3fhz	
+attorney general england and wales	1q5h	
+attorney general for		1q5h:6,1val:4
+attorney general for australia	1val	
+attorney general for england	1q5h	1q5h:6
+attorney general for england and		1q5h:6
+attorney general for england and wales	1q5h	
+attorney general of		63xr:4
+attorney general of australia	1val	
+attorney general of california	63xr	
+attorney general of canada	3fhz	
+attorney general of canada and minister of justice	3fhz	
+attorney general of england	1q5h	
+attorney general of england and wales	1q5h	
+attorney general of ohio	1np4	
+attorney general of south carolina	yb2	
+attorney general of the united states	clk	
+attorney general of the united states of america	clk	
+attorney of law	kok	
+bartemius crouch jr	6h1y	
+bartemius crouch junior	6h1y	
+benbadhanabongse	lv9	
+bergische universitat wuppertal	15pe	
+bergische university of wuppertal	15pe	
+bouchet	3yfc	
+bouchet drome	3yfc	
+boyens andrew	3aev	
+budysin	auj	
+buenafuente	4m62	
+c10h7cl2n3o	f4i	
+canete	3btk	1lt5:3,2ana:2,3hgu:4
+canete cuenca	3btk	
+canete de		3hgu:4
+canete de las		3hgu:4
+canete de las torres	3hgu	
+canete de las torres cordoba	3hgu	
+canete de las torres spain	3hgu	
+canete la		1lt5:3
+canete la real	1lt5	
+canete la real malaga	1lt5	
+canete la real spain	1lt5	
+canete province	2ana	
+carapicuiba	11lf	
+carapicuiba brazil	11lf	
+carapicuiba sao paulo	11lf	
+carapicuiba sao paulo brazil	11lf	
+carapicuiba sp	11lf	
+casorezzo	4sin	
+chatou	p72	
+chatou france	p72	
+cottonwood	2r62	yk2:2
+cottonwood arizona	2r62	
+cottonwood az	2r62	
+cottonwood county	yk2	
+cottonwood county minnesota	yk2	
+cottonwood county minnesota comments	yk2	
+cottonwood county mn	yk2	
+cottonwood park	1g5f	
+coulejia	6ewa	
+cuma bala	dur	
+cuma italy	6614	
+diligent media corporation	192v	
+dogok		632z:2
+dogok station	632z	
+domany	ku5	
+dongkha	3iol	
+doratoperas	3r33	
+druries house	1au	
+edward ernest judge reinhold	10fv	
+edward ernest judge reinhold jr	10fv	
+edward said	1161	
+edward said s	1161	
+einalon s	cx1	
+eluthere irenee dupont	65ao	
+energetyk row rybnik	2llu	
+entertainers	nj8	
+enveitg	1shy	
+enveitg railway station	5pv4	
+espanha futebol clube	6cpq	
+exar		5owa:2
+exar rosales	5owa	
+folkways		wtu:2
+folkways record label	wtu	
+folkways records	wtu	
+foussignac	28st	
+fragata		51d0:2
+fragata sarmiento	51d0	
+fragata sarmiento film	51d0	
+gieen	3t1n	u6y:2,5vhk:2,6dup:2
+gieen 46ers	6dup	
+gieen district	u6y	
+gieen germany	4vv	
+gieen hauptbahnhof	5vhk	
+gieen hesse	u6y	
+gieen hessen	4vv	
+gieen railway station	5vhk	
+gieen region	3t1n	
+gieen station	5vhk	
+gielda papierow wartosciowych	hfk	
+gielda papierow wartosciowych w warszawie	hfk	
+gladwyn		57j0:2
+gladwyn jebb	57j0	
+gladwyn jebb 1st baron gladwyn	57j0	
+glastonbury	199a,24pb	
+glastonbury 2000	6hmg	
+glastonbury center	24pb	
+glastonbury conn	24pb	
+glastonbury connecticut	24pb	
+glastonbury ct	24pb	
+glastonbury england	199a	
+glastonbury somerset	199a	
+glowno	4r6f	
+glowno commune	rrz	
+gmina grudziadz	vk8	
+gorecki	2zll	
+gorecki henryk	2zll	
+greipel	rwp	
+haberdash	6hsk	
+hafnarfjordur	n01	
+hambye	1ufn	
+hamengku buwono ix	4it3	
+hamengku buwono ix sri sultan	4it3	
+hamengku buwono x	51x3	
+haneken	4mpg	
+haraiva	eag	
+hilton	qmb	h06:3,kbf:2,4cji:2,5pw6:2
+hilton a armstrong jr	4cji	
+hilton argyll and bute	422h	
+hilton armstrong	4cji	
+hilton c buley library	lo6	
+hilton d bell intermediate school	ldv	
+hilton first name	qmb	
+hilton garza	3yzp	
+hilton given name	qmb	
+hilton head	h06	h06:3
+hilton head island	h06	
+hilton head island sc	h06	
+hilton head island south carolina	h06	
+hilton head s c	h06	
+hilton head sc	h06	
+hilton head south carolina	h06	
+hilton head south carolina usa	h06	
+hilton hhonors	kbf	
+hilton honors	kbf	
+hilton hospitality inc	kbf	
+hilton hotel corporation	kbf	
+hilton hotels corporation	kbf	
+hilton inc	kbf	
+hilton international	kbf	
+hilton julius armstrong jr	4cji	
+hilton moreira	5pw6	
+hilton name	qmb	
+hilton richard	6c4b	
+hilton worldwide	kbf	
+hilton worldwide holdings	kbf	
+hilton worldwide holdings inc	kbf	
+huerrem	1ixa	
+huerrem sultan	1ixa	
+ilahabad	6g7	
+izaourt	310c	
+james frey	2ve9	
+james hoffa	4rpv	
+james hoffa jr	4rpv	
+james jean parks	55o4	
+jaqueline		33ew:2,59ra:2
+jaqueline barton	33ew	
+jaqueline carey	3imq	
+jaqueline dewit	3pmg	
+jaqueline du pre	3bb4	
+jaqueline dupre	3bb4	
+jaqueline mourao	59ra	
+jaqueline wilson	hnn	
+kaizo		5wvj:2
+kaizo hayashi	5wvj	
+kds samrau ufa	ss9	
+kiiev	jd	
+le rouret	31mz	
+liberec	6qe	afb:2,1d5a:2
+liberec 2009	3wl	
+liberec czech republic	6qe	
+liberec district	afb	
+liberec region	1d5a	
+liberec tigers	t9q	
+liberec white tigers	t9q	
+limisso	4pc	
+lior	35nd	3o7l:2,4ns5:2,4ud7:2,4zbc:2,54zz:2
+lior ashkenazi	4zbc	
+lior asulin	3o7l	
+lior first name	35nd	
+lior full metal alchemist	32w6	
+lior fullmetal alchemist	32w6	
+lior given name	35nd	
+lior jan	4ns5	
+lior jean	4ns5	
+lior rafaelov	54zz	
+lior refaelov	54zz	
+lior reuven	4ud7	
+lucera	iss	
+lucera fg	iss	
+lysekils kommun	1eqg	
+mahabad	2wl5	
+mahabad and piranshahr	2wl5	
+mahabad and piranshahr mukrian	2wl5	
+mahabad piranshahr	2wl5	
+mahabad piranshahr mokrian	2wl5	
+mahabad west azerbaijan	2wl5	
+maki	26sq	22pq:2,2jzm:2,2mz5:2,2ull:2
+maki first name	26sq	
+maki fumihiko	1ndk	
+maki given name	26sq	
+maki goto	2jzm	
+maki horikita	2mz5	
+maki japanese name	26sq	
+maki kuroudo	625f	
+maki mandela	4xvp	
+maki name	26sq	
+maki nishikino	2oax	
+maki oguro	22pq	
+maki ohguro	22pq	
+maki tabata	2ull	
+maki tabata cyclist	2ull	
+manavista	1cmn	
+mcx	blw	
+meharry		1262:3
+meharry medical		1262:3
+meharry medical college	1262	
+montautour	2620	
+morainvilliers	2hvx	
+morasthite	iox	
+mosheh	hbm	
+mosheh sofer	1wih	
+muhaddith	ckm	
+muhlacker	2fdh	
+muhteshem yuezyil	2qk7	
+muntinglupa	o00	
+muntinglupa city	o00	
+noureen		2u53:2
+noureen dewulf	2u53	
+noxubee		40rj:2
+noxubee county	40rj	
+noxubee county mississippi	2rw5	
+noxubee county ms	40rj	
+oedf	6gb8	
+ooka makoto	5h1z	
+ooka shohei	5ie2	
+osce	bf4	
+osce troika	bf4	
+otterman army	pr0	
+ovetum	4dd	
+pacfic islands rugby union team	689c	
+paramilitaristic	iv5	
+perissiodactyla	4j3b	
+peter gabriel	bpg,2jm7	
+peter gabriel 1980 album	2jm7	
+peter gabriel 3	2jm7	
+peter gabriel comments	bpg	
+peter gabriel iii	2jm7	
+peter gabriel melt	2jm7	
+peter robinson	11pe,53zv	
+peter robinson author	11pe	
+peter robinson musician	uq6	
+peter robinson northern ireland politician	53zv	
+peter robinson novelist	11pe	
+pharmacist	37y	
+pharmacist accreditation	37y	
+pharmacist prescriber	37y	
+prangins	4h9x	
+prangins switzerland	4h9x	
+prangins vaud	4h9x	
+prangins vd	4h9x	
+prelat	66f	
+proangiosperm	18c9	
+raop tour	3xoo	
+rasigueres	2b5n	
+rencontre a paris	1lyu	
+riez	18qs	
+rijssen		1dmo:2
+rijssen holten	1dmo	
+robert choate darnton	1s64	
+romanillos	1drc	4vu8:3
+romanillos de		4vu8:3
+romanillos de atienza	4vu8	
+romanillos de atienza guadalajara	4vu8	
+romanillos de atienza spain	4vu8	
+saint guinoux	1ni7	
+scanfs	2znb	
+seirbheis nam priosan albannach	51an	
+skaraborg	79a	16vc:2,574j:3
+skaraborg air		574j:3
+skaraborg air wing	574j	
+skaraborg county	16vc	
+sociedad		74k:3,74t:3,b4y:3,6d89:5
+sociedad anonima	3vw	
+sociedad de naciones	4ad3	
+sociedad de responsabilidad limitada	4uh	
+sociedad deportiva		74k:3,74t:3,b4y:3
+sociedad deportiva amorebieta	1h5d	
+sociedad deportiva aucas	b4y	
+sociedad deportiva compostela	dhe	
+sociedad deportiva eibar	4pj	
+sociedad deportiva huesca	74t	
+sociedad deportiva indautxu	2pyj	
+sociedad deportiva lemona	17sb	
+sociedad deportiva noja	303b	
+sociedad deportiva ponferradina	74k	
+sociedad deportiva ponferradina s a d	74k	
+sociedad deportiva rayo cantabria	5o13	
+sociedad deportivo quito	6m0	
+sociedad espanola		6d89:5
+sociedad espanola de		6d89:5
+sociedad espanola de automoviles de turismo	p3r	
+sociedad espanola de construccion		6d89:5
+sociedad espanola de construccion naval	6d89	
+sociedad espanola de construccion naval secn	6d89	
+sociedad limitada	2vs	
+sociedad limitada unipersonal s l u	4uh	
+sociedad madrid foot ball club	1v5	
+speedy	4ikn	
+speedy city	qg	
+speedy film	4ikn	
+speedy gonzales hot rod racers	3w73	
+speedy keen	5963	
+speedy keene	5963	
+speedy movie	4ikn	
+speedy singhs	6ara	
+speedy singhs 2011 film	6ara	
+stormaktstiden	4s7c	
+swazi premier league	47xk	
+tamilan	5pho	
+tangier	7kj	2on2:4,4z4g:2
+tangier morocco	7kj	
+tangier tetouan	4z4g	2on2:4
+tangier tetouan al		2on2:4
+tangier tetouan al hoceima	2on2	
+tangier tetuan	2on2	
+tdanna	ya	
+teshia	p2g	
+the jeffersons	4cil	
+thomas arthur capel	4py6	
+thomas arthur darvill	41gm	
+thomas arthur reiter	19ua	
+thomas arthur steitz	22mg	
+tilmia	5zyx	
+tnsu	xtt	
+transdevtsl brisbane ferries	1pkg	
+tukura michael	4oe0	
+turbo	jl9,1wly,2i45	2ngp:2,35yv:5,62zz:2
+turbo a		35yv:5
+turbo a power		35yv:5
+turbo a power rangers		35yv:5
+turbo a power rangers movie	35yv	
+turbo a power rangers movie album	35yv	
+turbo a power rangers movie soundtrack	35yv	
+turbo antioquia	2i45	
+turbo builders club	6fjw	
+turbo character	1wly	
+turbo charged prelude	5o3p	
+turbo charged prelude to 2 fast 2 furious	5o3p	
+turbo colombia	2i45	
+turbo film	1wly	
+turbo folk	2ngp	
+turbo franchise	1wly	
+turbo gastropod	jl9	
+turbo genus	jl9	
+turbo grafix 16	4g0	
+turbo grafx 16	4g0	
+turbo grafx 16 kanye west	6nd	
+turbo jet	12it	
+turbo king national football league	2lgk	
+turbo king national soccer league	2lgk	
+turbo man	15e6	
+turbo mollusc	jl9	
+turbo national football league	2lgk	
+turbo national soccer league	2lgk	
+turbo out run	62zz	
+turbo outrun	62zz	
+turbo prop	5uv5	
+turbo prop engines	5uv5	
+turbo racing league	1wly	
+turbo roundabout	4n1p	
+turbo roundabouts	4n1p	
+turbo shaft	59u7	
+turbo shek	3wq2	
+turbo snail	jl9	
+turbo soundtrack	1wly	
+turbo super stunt squad	1wly	
+turbo tastic	ept	
+turbo twenty three	16ao	
+tuthankamen	1i77	
+umcolumbia	1b3	
+united allegiance society	byb	
+unjustified		2khx:2
+unjustified absence	2khx	
+urozhai maykop	5tl	
+vandross	flv	
+vaudevillian	16zm	
+visaroff michael	ocp	
+watermael		xdc:2
+watermael boisfort	xdc	
+watermael boitsfort	xdc	
+watermael boitsfort watermaal bosvoorde	xdc	
+weitzel godfrey	5dzh	
+yakuroda municipality	3b4z	
+yerevan	11k	7vo:3,mxm:4,3svn:7
+yerevan armenia	11k	
+yerevan conservatory	mxm	
+yerevan demonstrations 1988	mco	
+yerevan film studio	1ewm	
+yerevan governorate	4f2g	
+yerevan komitas		mxm:4
+yerevan komitas state		mxm:4
+yerevan komitas state conservatory	mxm	
+yerevan polytechnic institute	lw1	
+yerevan polytechnic university	lw1	
+yerevan province ottoman empire	11k	
+yerevan state		7vo:3,3svn:7
+yerevan state academy of fine arts	67cv	
+yerevan state conservatory	mxm	
+yerevan state institute		3svn:7
+yerevan state institute fine arts	67cv	
+yerevan state institute of		3svn:7
+yerevan state institute of economy	4bml	
+yerevan state institute of theatre		3svn:7
+yerevan state institute of theatre and		3svn:7
+yerevan state institute of theatre and cinematography	3svn	
+yerevan state institute of theatrical arts	3svn	
+yerevan state musical conservatory	mxm	
+yerevan state pedagogical university	1dc5	
+yerevan state university	7vo	
+yerevan ussr	11k	

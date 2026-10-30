@@ -1,0 +1,355 @@
+201617		nf8:3,rxy:3,uxw:4,wbb:4,zra:4,10vm:4,184z:4,1kxe:3,1lvv:3,1mfm:2,1qiv:3,1sik:3,1v84:3,23wq:3,28p2:3,2c1q:2,2hye:6,2il4:3,2q00:4,2uif:3,3073:5,31dp:3,3i78:7,3vav:4,4hq3:3,4sdi:4,4x2x:4
+201617 2		1kxe:3
+201617 2 bundesliga	1kxe	
+201617 3		1qiv:3
+201617 3 liga	1qiv	
+201617 argentine		184z:4
+201617 argentine primera		184z:4
+201617 argentine primera division	184z	
+201617 austrian		4x2x:4
+201617 austrian football		4x2x:4
+201617 austrian football bundesliga	4x2x	
+201617 belgian		3073:5
+201617 belgian first		3073:5
+201617 belgian first division		3073:5
+201617 belgian first division a	3073	
+201617 belgian pro league	3073	
+201617 bundesliga	1mfm	
+201617 cypriot		nf8:3,uxw:4,wbb:4,zra:4,2hye:6
+201617 cypriot cup	nf8	2hye:6
+201617 cypriot cup for		2hye:6
+201617 cypriot cup for lower		2hye:6
+201617 cypriot cup for lower divisions	2hye	
+201617 cypriot first		uxw:4
+201617 cypriot first division	uxw	
+201617 cypriot second		zra:4
+201617 cypriot second division	zra	
+201617 cypriot third		wbb:4
+201617 cypriot third division	wbb	
+201617 ekstraklasa	3bgl	
+201617 eredivisie	2c1q	
+201617 figure		10vm:4
+201617 figure skating		10vm:4
+201617 figure skating season	10vm	
+201617 isu		3i78:7
+201617 isu grand		3i78:7
+201617 isu grand prix		3i78:7
+201617 isu grand prix of		3i78:7
+201617 isu grand prix of figure		3i78:7
+201617 isu grand prix of figure skating	3i78	
+201617 la		23wq:3
+201617 la liga	23wq	
+201617 liga		3vav:4
+201617 liga mx		3vav:4
+201617 liga mx aggregate table	3vav	
+201617 liga mx relegation table	3vav	
+201617 liga mx season	3vav	
+201617 ligue		1sik:3
+201617 ligue 1	1sik	
+201617 nofv		1v84:3
+201617 nofv oberliga	1v84	
+201617 premier		1lvv:3
+201617 premier league	1lvv	
+201617 primeira		2il4:3
+201617 primeira liga	2il4	
+201617 russian		2q00:4
+201617 russian premier		2q00:4
+201617 russian premier league	2q00	
+201617 scottish		4hq3:3
+201617 scottish premiership	4hq3	
+201617 serie		28p2:3
+201617 serie a	28p2	
+201617 snooker		rxy:3
+201617 snooker season	rxy	
+201617 stok elite division	25i1	
+201617 super		2uif:3
+201617 super lig	2uif	
+201617 superleague		31dp:3
+201617 superleague greece	31dp	
+201617 svb hoofdklasse	3u64	
+201617 ukrainian		4sdi:4
+201617 ukrainian premier		4sdi:4
+201617 ukrainian premier league	4sdi	
+a bhim singh	l0i	
+a handful		4aa5:4,5p7t:4
+a handful of		4aa5:4,5p7t:4
+a handful of dust	4aa5	
+a handful of dust film	4aa5	
+a handful of love	5p7t	
+a handful of love film	5p7t	
+adyliget	2g9z	
+aiyaa	5ba8	
+algorerhythms u s route 40 alternate western maryland	65ms	
+angelholm	xdt	o03:2
+angelholm municipality	o03	
+apendicitus	oom	
+ashvetia	3lqg	
+athislus	6223	
+batyk		1t9i:2
+batyk gdynia	1t9i	
+beneharnum	1fis	
+bettik	6gc8	
+bitis	5e5l	
+boulieu		3a8p:3
+boulieu les		3a8p:3
+boulieu les annonay	3a8p	
+boyishness	2pt	
+brace birds of tokyo album	1z3i	
+brace birds of tokyo song	1z3i	
+brace expansion	3g44	
+brace paine	2flj	
+brace song	1z3i	
+bustince		3m71:2
+bustince iriberry	3m71	
+callisto	1irx	
+callisto astronomy	1irx	
+callisto moon	1irx	
+callisto the moon	1irx	
+capricorn	8nq	8nq:2,t7w:2,4qoy:3
+capricorn 1	t7w	
+capricorn constellation	nie	
+capricorn district	4qoy	4qoy:3
+capricorn district municipality	4qoy	
+capricorn limpopo	4qoy	
+capricorn municipality	4qoy	
+capricorn one	t7w	
+capricorn records	8nq	
+capricorn two	t7w	
+chaponost	1wiy	
+charles sheldon		5oyz:3
+charles sheldon whitehouse	5oyz	
+chatte	2990	
+chiangmai	gnx	yga:3
+chiangmai f		yga:3
+chiangmai f c	yga	
+chiangmai fc	yga	
+chiangmai united	yga	
+chiangmai united fc	yga	
+cremella	5i2k	
+dalarna	pbz	mo2:2
+dalarna county	mo2	
+dalarna laen	mo2	
+dalarna lan	mo2	
+dalbyo	1unv	
+dingolfing	1j4r	t1w:2
+dingolfing landau	t1w	
+dingolfing landau district	t1w	
+doordarshan	187e	
+dtva	16ug	
+ecry sur aisne	1tfr	
+eutrichotis	n7m	
+fc zelja	5ogw	
+feke	g3o	
+feke district	g3o	
+fireball	4lft	4lft:2
+fireball ceremony	2uaa	
+fireball willow smith s song	1yla	
+fireball willow smith song	1yla	
+fireball willow song	1yla	
+franc3	8qo	
+george herbert	3tfs	2uix:6,4m4q:6,5b6n:3,5n96:6,5p5b:3
+george herbert 11th		2uix:6
+george herbert 11th earl		2uix:6
+george herbert 11th earl of		2uix:6
+george herbert 11th earl of pembroke	2uix	
+george herbert 13th		5n96:6
+george herbert 13th earl		5n96:6
+george herbert 13th earl of		5n96:6
+george herbert 13th earl of pembroke	5n96	
+george herbert 13th earl of pembroke 10th earl of montgomery	5n96	
+george herbert 2nd baron herbert of lea	5n96	
+george herbert 5th		4m4q:6
+george herbert 5th earl		4m4q:6
+george herbert 5th earl of		4m4q:6
+george herbert 5th earl of carnarvon	4m4q	
+george herbert allen	3p3t	
+george herbert bert walker	5b6n	
+george herbert earl of carnarvon	4m4q	
+george herbert hitchings	4l8c	
+george herbert leigh mallory	4z0e	
+george herbert mead	5p5b	
+george herbert putnam	22ab	
+george herbert walker	5b6n	
+george herbert walker i	5b6n	
+george herbert walker sr	5b6n	
+george herbert war of the worlds	5a6w	
+george waggoner	u5x	
+giosuae carducci	3ie9	
+glicourt	3i2n	
+gripe maria	50u6	
+grodziczno commune	1evn	
+gubenko	2fpl	
+gumulcine	wy4	
+guten abend herr wallenberg	2yqc	
+haj ve		37jd:3
+haj ve slezsku	37jd	
+henry uche		5b2l:3
+henry uche agbo	5b2l	
+hold		1blu:4,22ly:3,2i9e:3,2v8r:3,2vw5:2,4hsr:3,4xzd:4,5141:4
+hold back		1blu:4,4xzd:4
+hold back the		1blu:4,4xzd:4
+hold back the dawn	1blu	
+hold back the night	4xzd	
+hold back the night film	4xzd	
+hold em		22ly:3
+hold em jail	22ly	
+hold it		5141:4
+hold it against		5141:4
+hold it against me	5141	
+hold it against me britney spears song	5141	
+hold it against me song	5141	
+hold me weezer song	6aba	
+hold my hand tour	1eho	
+hold my own	51dv	
+hold on chord overstreet song	4loc	
+hold on dear brother	6258	
+hold on starsailor song	1sd4	
+hold on to your dream	1go1	
+hold on young buck song	6a9i	
+hold that		2v8r:3,4hsr:3
+hold that ghost	2v8r	
+hold that lion	4hsr	
+hold that lion 1947	4hsr	
+hold that lion 1947 film	4hsr	
+hold the throne	3a8v	
+hold them jail	22ly	
+hold tight for the satellite	4iw9	
+hold up	2vw5	
+hold up 1985 film	2vw5	
+hold up a la milanaise	1q5g	
+hold up film	2vw5	
+hold you to it	17ea	
+hold your		2i9e:3
+hold your man	2i9e	
+ittosei	1iok	
+james jeffrey	2q46	
+julianus apostata	1xnu	
+julianus didius	3ism	
+julianus imperator	1xnu	
+keopuolani	4rri	
+ketav sofer	5uia	
+kradolf		2lri:2
+kradolf schoenenberg	2lri	
+kradolf schoenenberg switzerland	2lri	
+kradolf schoenenberg tg	2lri	
+kradolf schoenenberg thurgau	2lri	
+kradolf schonenberg	2lri	
+kradolf schonenberg switzerland	2lri	
+kradolf schonenberg tg	2lri	
+kradolf schonenberg thurgau	2lri	
+kyrkomotet	150s	
+le goff alberta	4qwc	
+le goff jacques	3u7t	
+leignes		27lb:3
+leignes sur		27lb:3
+leignes sur fontaine	27lb	
+marcenod	2l6w	
+metabolise	4ykp	
+mgsr	5kn5	
+minecraft	wm2	
+minecraft 2019 film	wm2	
+minecraft dungeons	wm2	
+minecraft educational edition	wm2	
+minecraft film	wm2	
+minecraft order of the stone	wm2	
+minecraft playstation 4	wm2	
+minecraft pocket edition	wm2	
+minecraft ps3	wm2	
+minecraft xbox	wm2	
+minecraft xbox 360	wm2	
+miramont		1wkx:3,1x9o:2,2b32:3,2c68:3,2n0b:2,2tic:3
+miramont d		2tic:3
+miramont d astarac	2tic	
+miramont de		1wkx:3,2b32:3,2c68:3
+miramont de comminges	2c68	
+miramont de guyenne	1wkx	
+miramont de quercy	2b32	
+miramont latour	2n0b	
+miramont sensacq	1x9o	
+moretsu pirates	12ec	
+motorized artillery	luz	
+motorized recreation	650v	
+motorized unit	1jhk	
+muscovite	6fh1	
+muscovite kingdom	6w3	
+muscovite mica	6fh1	
+muscovite oblast	4ld	
+muscovite polish war 1654 1667	2n7s	
+muscovite polish war 16541667	2n7s	
+muscovite russia	p9w	
+muscovite tsardom	6w3	
+natamycine	20z2	
+neverwere	2sff	
+novelists	36	
+olmi		1m8n:2
+olmi cappella	1m8n	
+onore balzak	8c6	
+onore de balzak	8c6	
+onore domje	5dmj	
+onore viktoren dome	5dmj	
+ordizan	2r8z	
+peter bolesaw schmeichel	1t5g	
+petrykaw raion	4fls	
+plouneventer	1kxh	
+ravelli thomas	3k69	
+renassance	cck	
+rfa	3i2t	
+rzhev	2psb	
+rzhev urban okrug	2psb	
+saacy		1j99:3
+saacy sur		1j99:3
+saacy sur marne	1j99	
+san ti	5100	
+sciamberi	63p	
+shil3039 oussc	ea	
+spearhead band	261h	
+stine		4jxc:2
+stine bramsen	3np5	
+stine stengade	4jxc	
+sudostroitel astrakhan	bkh	
+sudostroitel kaspiysk	fqs	
+sudostroitel nikolayev	9e4	
+suppedaneum	38ec	
+sverdrup		6awd:2
+sverdrup mountains	6awd	
+tabebuia	2eas	
+tambovskaa oblast	igq	
+testudinidae	2t2o	
+thalassoma	1wj8	
+the out		10sm:4,2m69:4
+the out of		10sm:4,2m69:4
+the out of towners	10sm,2m69	
+the out of towners 1970 film	10sm	
+the out of towners 1999 film	2m69	
+the rum		1j56:3,6gfm:3
+the rum diary	1j56,6gfm	
+the rum diary film	1j56	
+the rum diary novel	6gfm	
+the transported man	ktv	
+thomas cowperthwait eakins	r2p	
+thomas pinckney	3jd4	
+timetravel	484	
+tombense	dv5	dv5:3
+tombense fc	dv5	
+tombense futebol		dv5:3
+tombense futebol clube	dv5	
+torched up	1wgb	
+travesio	53fi	
+undeclared	4on7	
+undeclared episodes	4on7	
+undeclared tv series	4on7	
+undeclared tv show	4on7	
+undeclared war with france	23uy	
+unito	ct0	
+vilamos	3k7y	
+villamediana	2ekh	
+villamediana palencia	2ekh	
+villamediana spain	2ekh	
+viwatchaichok	5za4	
+vrah visnuloka	5h1a	
+william bailey	280u	
+william bailey actor	280u	
+zarem		10e7:4
+zarem rud	10e7	10e7:4
+zarem rud rural		10e7:4
+zarem rud rural district	10e7	

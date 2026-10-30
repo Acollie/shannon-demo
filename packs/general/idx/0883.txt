@@ -1,0 +1,283 @@
+1cmbg	6ead	
+abkhasia	76x	
+abstract		4q6:2,569:2,vvk:3,6f8c:3
+abstract algebraic variety	1oey	
+abstract art	569	
+abstract artwork	569	
+abstract attributes	eex	
+abstract base class	6fcu	
+abstract board game	vvk	
+abstract category	3h0x	
+abstract concept	2il	
+abstract data		6f8c:3
+abstract data structure	6f8c	
+abstract data structures	6f8c	
+abstract data type	6f8c	
+abstract data types	6f8c	
+abstract datatype	6f8c	
+abstract expresionism	4q6	
+abstract expression	4q6	
+abstract expressionism	4q6	
+abstract expressionism philosophical context	4q6	
+abstract expressionist	4q6	
+abstract expressionists	4q6	
+abstract game	vvk	
+abstract group	q0t	
+abstract manifold	55hr	
+abstract mathematical object	fwc	
+abstract mathematical problems	7dw	
+abstract model	3llm	
+abstract noun	1aoi	
+abstract set theory	cq8	
+abstract strategy	vvk	vvk:3
+abstract strategy game	vvk	
+abstract strategy games	vvk	
+abstract superclass	6fcu	
+abstract syntax tree interpreter	5n77	
+abstract topological space	10w2	
+abstract variety	1oey	
+abstract vector space	4a25	
+abstract zionism	2fxt	
+affi	4m7v	
+aghidhel river	2xie	
+alguaire	3bv8	
+all3media	1i6o	
+almeirim	55e2	
+almeirim municipality	55e2	
+andezeno	5ida	
+bathsheba	62td	17la:4,3qgj:4,4p7j:4
+bathsheba at		17la:4,3qgj:4,4p7j:4
+bathsheba at her		17la:4,3qgj:4,4p7j:4
+bathsheba at her bath	17la,3qgj,4p7j,62td	
+bathsheba at her bath rembrandt	3qgj	
+bathsheba at her bath veronese	17la	
+bathsheba memling	4p7j	
+bathsheba with king david s letter	62td	
+beverino	3jcc	
+brakehage	1bm3	
+bressanone	by6	
+bunkyo	bqr	bqr:2
+bunkyo city	bqr	
+bunkyo ku	bqr	
+bunkyo ku tokyo	bqr	
+bunkyo tokyo	bqr	
+busovice	3iov	
+castletv	v9x	
+chascomus	5q0t	
+cossano		3mui:2,5dko:2
+cossano belbo	3mui	
+cossano canavese	5dko	
+crypturopus	4wc0	
+currie		938:2,5355:2
+currie cup	938	
+currie graham	5355	
+cyrstal lake broward county fl	adx	
+cyrstal lake broward county florida	adx	
+david ke bruce	5jpl	
+dhoby		3t3f:4
+dhoby ghaut		3t3f:4
+dhoby ghaut mrt		3t3f:4
+dhoby ghaut mrt station	3t3f	
+dhoby ghaut station	3t3f	
+digong	1sk8	
+digong roa	1sk8	
+drumglass primary school	15ir	
+dupnica	13qm	
+edward saxon	4f2o	
+elivelton	2aco	2aco:3
+elivelton alves		2aco:3
+elivelton alves rufino	2aco	
+emamali rahmanov	28pu	
+escairon	1zwh	
+fluid	5dni	2dxf:4,6f7j:2
+fluid capacity	psf	
+fluid dynamicist	6f7j	
+fluid dynamics		2dxf:4
+fluid dynamics fluid mechanics	6f7j	
+fluid dynamics prize	2dxf	2dxf:4
+fluid dynamics prize aps	2dxf	
+fluid mechanics	6f7j	
+fluid mechanics comments	6f7j	
+fluid mosaic	22bs	
+fluid oils	y2f	
+fluid physics	6f7j	
+fluid suspended gyrostabilized platform	xlu	
+freemium	gem	
+freemium business model	gem	
+fruhjahr	4p7a	
+gavrelle	1u60	
+giraffidae	3enx	
+goergei	4zle	
+gotloeb frege	1mnq	
+goulds mill	16b9	
+goulds mill vermont	16b9	
+goulds ontario	6dr1	
+hdos 5 0	8zn	
+heliodorus		3nvm:3
+heliodorus of		3nvm:3
+heliodorus of emesa	3nvm	
+huntly	2km3,32t7	5oud:3
+huntly aberdeenshire	2km3	
+huntly f		5oud:3
+huntly f c	5oud	
+huntly fc	5oud	
+huntly new zealand	32t7	
+huntly primary school	32t7	
+huntly scotland	2km3	
+illuka		2eqb:3
+illuka parish	2eqb	
+illuka rural		2eqb:3
+illuka rural municipality	2eqb	
+illuka vald	2eqb	
+ixelles	4x5	4x5:2,5a9y:2
+ixelles cemetery	5a9y	
+ixelles elsene	4x5	
+jakobsson	2ek1	
+james lablache stewart	it2	
+james norval harald robertson justice	e3s	
+kako	1pci	
+kako akishino princess of japan	6a06	
+kako bubanj kaze	1zwn	
+kako bubanj kaze album	1zwn	
+kako bubanj kaze song	1zwn	
+kako je poceo rat na mom otoku	5a6z	
+kako je poceo rat na mom otoku 1996	5a6z	
+kako je propao rokenrol	68ka	
+kap	2kv8	
+kap verde	1dx	
+karlstadt		10af:3
+karlstadt am		10af:3
+karlstadt am main	10af	
+kimageshop	3d3a	
+koopaling	6hmh	
+lickin county	hpj	
+lickin county oh	hpj	
+linkville oregon	yn9	
+lippard lucy	5kzc	
+louis ck	nz5	
+massula	148o	
+microcomputers	265a	
+miraveche	2xzp	
+miraveche burgos	2xzp	
+miraveche spain	2xzp	
+montroy	2fef	
+montroy charente maritime	2fef	
+mord		4phm:4
+mord im schwarzen cadillac	49am	
+mord ist		4phm:4
+mord ist mein		4phm:4
+mord ist mein geschaft	4phm	
+mord ist mein geschaft liebling	4phm	
+mord sith	3rdx	
+morgex	5btu	
+negros	2y9r	g7i:2
+negros island	2y9r	
+negros occidental	cs6	
+negros occidental province	cs6	
+negros oriental	g7i	
+negros oriental province	g7i	
+negros philippines	2y9r	
+nerk twins	2ud	
+nogara	3dfv	
+ortsteil	i	
+osieck commune	2d83	
+paul ernst	46vr	
+paul ernst american writer	46vr	
+paul motion	tk1	
+peilz island	1i6k	
+poiseidon	csa	
+poncelet		if1:2
+poncelet prize	if1	
+poundian	15ld	
+presidant	4gs	
+promonotory	2vfh	
+puglie	8tm	
+pyongan bukto	hs9	
+pyongan namdo	uwe	
+pyongan pukto	hs9	
+rhonnda	1u82	
+richard eyre	1i6l	
+rimini	5ky	6up:2,2q1a:5,31ta:2
+rimini basket	1hly	
+rimini calcio	6up	
+rimini calcio f c	6up	
+rimini calcio fc	6up	
+rimini cfc	6up	
+rimini f c 1912	6up	
+rimini fc	6up	
+rimini football club 1912	6up	
+rimini italy	5ky	
+rimini province	je3	
+rimini rimini	31ta	2q1a:5
+rimini rimini un		2q1a:5
+rimini rimini un anno		2q1a:5
+rimini rimini un anno dopo	2q1a	
+robert peguy	631i	
+robert swink	1z2k	
+roundhay rufc	8k3	
+saint bomer		1lpr:4
+saint bomer les		1lpr:4
+saint bomer les forges	1lpr	
+sanjuro	53zu	
+scharsterland	1085	
+sexaginta prista	9uk	
+shack		2xfn:2,5scz:4,5y63:2
+shack out		5scz:4
+shack out on		5scz:4
+shack out on 101	5scz	
+silberbauer michael	3vyb	
+skorcz commune	1cmg	
+st pankraz	3i0i	
+st pankraz s pancrazio	3i0i	
+st pankraz san pancrazio	3i0i	
+st pankraz south tyrol	3i0i	
+st philips academy	16x	
+subtribe	w8	
+subtribe biology	w8	
+sumqayt	in5	
+sumqayt shri	in5	
+sumqayt shri azerbaijan	in5	
+sunyi previn	5zne	
+symphonie der liebe	30ys	
+symphonie pastorale	3wi7	
+taxon	2	
+taxon authority	34nx	
+taxon doc	2	
+taxon rank	2mwu	
+the adversary	2nys,5tbm	
+the adversary film	2nys	
+the adversary westworld	5tbm	
+the everly		nna:3
+the everly brothers	nna	
+the miami dolphins	164	
+the miami norland senior high school	5rm6	
+the miami northwestern senior high school	1wy6	
+the supersuckers	1xz8	
+thomas wylie footballer	5git	
+tickly cough	1a2h	
+toxicologist	6fo2	
+trachypremnon	8b3	
+tressa	3e5	
+tsol	2mfp	
+tyber	utd	
+tydal	1hgu	1hgu:2
+tydal municipality	1hgu	
+ulan		i5u:2
+ulan baator	4sm	
+ulan bataar	4sm	
+ulan bator mongolia	4sm	
+ulan batur	4sm	
+ulan chap	1hec	
+ulan majorat commune	1e51	
+ulan ude	i5u	
+ulan ude russia	i5u	
+ulan ude urban okrug	i5u	
+vahagaragiri venkata giri	4qu6	
+valsinni	40so	
+vanterpool	4uc6	
+vignory	1zck	
+viserba	5ky	
+vuletich	59a9	
+w2tod	5kgg	
+withville virginia	1oq1	
+yisin	4hob	

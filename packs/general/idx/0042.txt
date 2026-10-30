@@ -1,0 +1,310 @@
+agenore		eai:2
+agenore incrocci	eai	
+aloha	1tff	2oyi:4,39wk:3,6clh:5
+aloha bobby		2oyi:4
+aloha bobby and		2oyi:4
+aloha bobby and rose	2oyi	
+aloha film	1tff	
+aloha le		6clh:5
+aloha le chant		6clh:5
+aloha le chant des		6clh:5
+aloha le chant des iles	6clh	
+aloha scooby		39wk:3
+aloha scooby doo	39wk	
+aloha state	1do	
+applie iigs	a4f	
+arbraoth angus	jtu	
+arbraoth forfarshire	jtu	
+asemanabad		6bk4:3
+asemanabad rural		6bk4:3
+asemanabad rural district	6bk4	
+assumption		e8x:3,z54:2
+assumption cathedral	5abm	
+assumption cathedral in moscow	5abm	
+assumption college	z54	
+assumption day	e8x	
+assumption edu	z54	
+assumption greyhounds	z54	
+assumption greyhounds baseball	z54	
+assumption greyhounds football	z54	
+assumption greyhounds men s basketball	z54	
+assumption greyhounds track and field	z54	
+assumption lake	157b	
+assumption of		e8x:3
+assumption of holy mary	e8x	
+assumption of mary	e8x	
+assumption of our lady	e8x	
+assumption of the blessed virgin	e8x	
+assumption of the virgin mary into heaven	e8x	
+assumption university	z54	
+assumption university of windsor	9gy	
+atmsphere	1smr	
+barante	5n17	
+basarwa	5yjv	
+bbcone	yg	
+beatle george	56n	
+beatle john	4du	
+beatle paul	3qc	
+beatle ringo	8sz	
+bickenholtz	36tm	
+bicske	1q98	167b:2
+bicske district	167b	
+bicske fejer	167b	
+bicske hungary	167b	
+biventraria	1084	
+bodunha	68cu	
+borderland	5c0y	
+borderland 2007 film	5c0y	
+borderland film	5c0y	
+borderland mami kawada song	1nzf	
+borderland unrated director s cut	5c0y	
+brebotte	247f	
+bredelar	4uf6	
+buontalenti	4svo	
+callionymid	6907	
+caloire	2w42	
+cdl obelix sandbox	1nmp	
+celebrated jumping frog of calaveras county	6h7e	6h7e:7
+celebrated players	4yu5	
+celebrated players film corporation	4yu5	
+cenation	16ff	
+charles ainslie crichton	p6e	
+crimping pliers	4p6s	
+cryptographically	ma8	
+curlu	2h3v	
+cyperorchis	27jr	
+david kellogg lewis	1dzf	
+desulphovibrio	198f	
+donnghal	5liq	
+enguidanos	4ge3	
+epeleustia	4pm	
+fabianki commune	1ymx	
+frederick marlow	5ovg	
+galileo	fvc,2qao,2x4i	hf0:2
+galileo 1968 film	2qao	
+galileo 1974 film	2x4i	
+galileo 1975 film	2x4i	
+galileo galila	hf0	
+galileo galilaei	hf0	
+galileo galilay	hf0	
+galileo galile	hf0	
+galileo galilei	hf0	
+galileo galilei comments	hf0	
+galileo galilei film	2qao	
+galileo galileo galileo galileo	3hf7	
+galileo horse	fvc	
+galileo s finger	hf0	
+galileo seven	4qir	4qir:3
+gebrselassie	1e9b	
+gilgamesh enkidu and the netherworld	6gkk	
+gilgamesh enkidu and the underworld	6gkk	
+gilgamesh epic	6gkk	
+gilgamesh epic of gilgamesh	6gkk	
+gilgamesh epos	6gkk	
+gmina gomunice	1b4w	
+gmina poniawy		xfg:3
+gmina poniawy bramura	xfg	
+gmina zyrakow	3gjv	
+gurugrama	9n7	
+gwynn michael	4u9f	
+gwynn stephen	62x0	
+haggui	28im	
+hanbalism	40mm	
+hlotse district	48cj	
+houdelmont	2802	
+hurlingham trieste	zh1	
+i compagni	1jve	
+ime	60p4	
+ime udoka	20pg	
+john edensor		1iw9:3
+john edensor littlewood	1iw9	
+kantor north europe	v88	
+kedzierzyn		1jpp:2,1m7k:3
+kedzierzyn kozle	1jpp	1m7k:3
+kedzierzyn kozle county	1m7k	
+kes	h8q,28c2	
+kes film	28c2	
+khmer	7t3	1cxr:2,6gt1:2
+khmer calendar	1kq	
+khmer dialects	7t3	
+khmer empire	6gt1	
+khmer empire comments	6gt1	
+khmer empire disamubigation	6gt1	
+khmer language	7t3	
+khmer people s revolutionary party	3165	
+khmer phonology	7t3	
+khmer republic	1cxr	
+khmer republic national football team	boo	
+khmer rogue	6ggf	
+khmer rouge	6ggf	
+khmer rouge regime	12z3	
+khmer rouges	6ggf	
+kiwity commune	21bu	
+koryakskiy avtonomnyy okrug	n98	
+koryakskiy avtonomnyy okrug russia	n98	
+le	56g9,5nct	
+legnica	97j	17w0:2
+legnica county	17w0	
+legnica germany	97j	
+legnica poland	97j	
+lepanges		1wgu:3
+lepanges sur		1wgu:3
+lepanges sur vologne	1wgu	
+londesborough ontario	67da	
+mamoutou		5a8i:2,5elj:3
+mamoutou coulibaly	5a8i	
+mamoutou n		5elj:3
+mamoutou n diaye	5elj	
+mandleson	3iz0	
+mangeshkar lata	1ia6	
+michael tremain	4iez	
+michael tremain sinterniklaas	4iez	
+molyneux stefan	2yhl	
+moyenmoutier	1cu7	
+moyenmoutier abbey	1cu7	
+mukalla	4veb	
+mukalla city district	4veb	
+murat	c77,17b1,2j5l	1eba:3,27bl:2,2u62:2,3eek:2,3k24:2,3r8w:2,3th8:2,4adg:2,4ruz:2,4vv9:2,4w3g:2,4xfb:2,4xu5:2,4yqz:2,4zf6:2,50k3:2,5nea:2,5rhv:2,5stw:2,617k:2,61kf:3,67ox:2,6ajt:2,6db0:2
+murat agaks	4rh5	
+murat akca	5nea	
+murat akin	4adg	
+murat akn	4adg	
+murat akyuez	4zf6	
+murat akyuz	4zf6	
+murat allier	2j5l	
+murat boz	3k24	
+murat cantal	17b1	
+murat ceylan	5stw	
+murat daudovich zekokh	67ox	
+murat duruer	4vv9	
+murat erdogan	3th8	
+murat first name	c77	
+murat given name	c77	
+murat gomleshko	50k3	
+murat hacioglu	2u62	
+murat hacoglu	2u62	
+murat hudavendigar	2d0p	
+murat i	2d0p	
+murat ibrahim		61kf:3
+murat ibrahim uslu	61kf	
+murat ii	213a	
+murat iii	1wqe	
+murat iv	1xj7	
+murat kalkan	4ruz	
+murat kayal	6db0	
+murat kayali	6db0	
+murat khan	61md	
+murat name	c77	
+murat ocak	4yqz	
+murat onur	6ajt	
+murat sahin	4w3g	
+murat salar	27bl	
+murat sozgelmez	617k	
+murat sur		1eba:3
+murat sur vebre	1eba	
+murat suyumagambetov	3r8w	
+murat tleshev	4xfb	
+murat tosun	4xu5	
+murat v	zqt	
+murat yakin	3eek	
+murat yakn	3eek	
+murat yildirim footballer	5rhv	
+murat yldrm	5rhv	
+murat yldrm footballer	5rhv	
+murat zekokh	67ox	
+napoleone	5u21	
+napoleone ad austerlitz	12r0	
+napoleone film	39kc	
+napoleone first name	5u21	
+napoleone given name	5u21	
+new xavier school	1gx6	
+ogogo album	3xks	
+orrissa	2ux	
+orthographies	25qr	
+otello	3b1y,5y3x	a5t:2,nc6:2,1ipj:2
+otello 1906 film	5y3x	
+otello 1986 film	3b1y	
+otello colangeli	a5t	
+otello martelli	nc6	
+otello toso	1ipj	
+pelagic coast	ckd	
+pewds	252o	
+phlaeodes	klz	
+pradieres	42b0	
+pritt denis nowell	5dhx	
+ramnicu		tpb:2,1pte:2
+ramnicu sarat	1pte	
+ramnicu valcea	tpb	
+ramnicu valcea romania	tpb	
+ramnicu vilcea	tpb	
+refraction error	1mwo	
+refraction games	xvf	
+refraction ocular	1mwo	
+refraction or accommodation disorder	1mwo	
+relatives	5usu	
+relatives 2006 film	5usu	
+relatives of harry potter	11sg	
+remigius		3db3:3
+remigius fresenius	46h2	
+remigius of		3db3:3
+remigius of rouen	3db3	
+repeat		4bob:2
+repeat killers	11x	
+repeat performance	4bob	
+robert ford	3kbo	
+robert ford outlaw	3kbo	
+robert ford westworld	u47	
+rolandjoffefilms	1i1x	
+sardegna	a38	
+satc2	sdn	
+saurida	3xkc	
+saurida fish	3xkc	
+saurida genus	3xkc	
+schadow friedrich wilhelm	5vsd	
+schadow johann gottfried	3ghj	
+schattenhalb	3j8e	
+schattenhalb be	3j8e	
+schattenhalb bern	3j8e	
+schattenhalb berne	3j8e	
+schattenhalb switzerland	3j8e	
+sedze		2rxj:2
+sedze maubecq	2rxj	
+sinalco league	3fav	
+sinalco superleague	3fav	
+slashes	2o1v	
+soleanna	1h50	
+souspierre	3gol	
+spurflower	3tfc	
+steen	yld,18ez	3rgk:2,4ru5:2,6dru:2
+steen first name	18ez	
+steen fladberg	6dru	
+steen given name	18ez	
+steen j	1275	
+steen jan	1275	
+steen skovgaard	3rgk	
+steen sture the old	67jh	
+steen surname	yld	
+steen thychosen	4ru5	
+tandem bus	6cu4	
+tandem compound	e18	
+tandem compound locomotive	e18	
+tandem cylinder	e18	
+terebra	7kx	
+terrakotta	1e0n	
+tervuren	10ov	
+tf1vision	59m	
+the carolines	458l	
+the patty duke syndrome	jv2	
+the tusculum review	3a97	
+tobolsky urban okrug	ld5	
+tokimasa	1pci	
+typhoeus	3xxk	
+ubide	4ble	
+uhrik		1s37:2
+uhrik truckers	1s37	
+usawc	2gr	
+willstatter	1bif	
+willstatter richard	1bif	
+yanqing	3u8f	3u8f:2
+yanqing county	3u8f	
+yanqing district	3u8f	

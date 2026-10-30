@@ -1,0 +1,1148 @@
+1985	2xzy	16u5:5,1pl2:4,2pav:7,2pu5:7,39z8:6,3ohd:2,3tg5:4,4m00:4,5cm5:7,5f7z:7
+1985 86		16u5:5
+1985 86 algerian cup	pvs	
+1985 86 bundesliga	1zum	
+1985 86 cypriot		16u5:5
+1985 86 cypriot cup	ecr	
+1985 86 cypriot first division	11om	
+1985 86 cypriot second division	1j1l	
+1985 86 cypriot third		16u5:5
+1985 86 cypriot third division	16u5	
+1985 86 ekstraklasa	4a7t	
+1985 86 fuball bundesliga	1zum	
+1985 86 fussball bundesliga	1zum	
+1985 a	rfx	
+1985 ad	2xzy	
+1985 badminton		2pav:7,2pu5:7,39z8:6,4m00:4,5cm5:7,5f7z:7
+1985 badminton world		2pav:7,2pu5:7,39z8:6,4m00:4,5cm5:7,5f7z:7
+1985 badminton world championships	4m00	2pav:7,2pu5:7,39z8:6,5cm5:7,5f7z:7
+1985 badminton world championships men		2pu5:7,5cm5:7
+1985 badminton world championships men s		2pu5:7,5cm5:7
+1985 badminton world championships men s doubles	2pu5	
+1985 badminton world championships men s singles	5cm5	
+1985 badminton world championships mixed		39z8:6
+1985 badminton world championships mixed doubles	39z8	
+1985 badminton world championships women		2pav:7,5f7z:7
+1985 badminton world championships women s		2pav:7,5f7z:7
+1985 badminton world championships women s doubles	2pav	
+1985 badminton world championships women s singles	5f7z	
+1985 ce	2xzy	
+1985 eurovision song contest	hal	
+1985 fis nordic world ski championships	nl8	
+1985 gent wevelgem	3ohd	
+1985 gentwevelgem	3ohd	
+1985 iaaf		1pl2:4
+1985 iaaf world		1pl2:4
+1985 iaaf world cup	1pl2	
+1985 ibf world championships	4m00	
+1985 ibf world championships men s doubles	2pu5	
+1985 ibf world championships men s singles	5cm5	
+1985 ibf world championships mixed doubles	39z8	
+1985 ibf world championships women s doubles	2pav	
+1985 ibf world championships women s singles	5f7z	
+1985 paris open	q4t	
+1985 super bowl	6gsn	
+1985 superbowl	6gsn	
+1985 the blue hearts	1d64	
+1985 the blue hearts song	1d64	
+1985 tour		3tg5:4
+1985 tour de		3tg5:4
+1985 tour de france	3tg5	
+1985 ugandan coup d etat	5dhe	
+1985 virginia slims of boston	5ek0	
+1985 wings	4we7	
+1985 world badminton championships	4m00	
+1985 world cup in athletics	1pl2	
+a 53 issy les moulineaux	7tl	
+a lebourg	5c0h	
+a ressha de ikou	4iqv	
+a ressha de ikou md	4iqv	
+aareschlucht innertkirchen meiringen	nt5	
+abadgaran	5w54	
+abadgaran regime	5w54	
+abscbn	3st	
+abscbn broadcasting corporation	3st	
+abscbn corporation	3st	
+abscbn network	3st	
+aerol	58vl	
+albiceleste	1fs	
+anjeer halwa	6ew3	
+antivillain	28t7	
+aristocles	6nw	
+aristocles matthew spirou	5u98	
+aristocles matthew spyrou	5u98	
+aristocles spyrou	5u98	
+ascari	uzr	
+attenti al buffone	38y9	
+augsburger		1qoj:2
+augsburger ev	1qoj	
+augsburger panther	1qoj	
+augsburger panthers	1qoj	
+aule metele	4u8d	
+baderbahn molli	4zxk	
+bading pob bgy 22	1bcd	
+beardmore sb3d	i5j	
+beebarian	4dh4	
+bergs kommun	127h	
+bloodbrothers	1nxh	
+bloodbrothers 1978 film	1nxh	
+boctaoe	4s1q	
+carantilly	3pba	
+carolee		440g:2
+carolee schneeman	440g	
+carolee schneemann	440g	
+casalgrasso	4ybw	
+chaabane		5iph:2
+chaabane merzekane	5iph	
+challex	3g4w	
+charodey	3550	
+chauvenet		h2l:2
+chauvenet prize	h2l	
+chauvenet prizes	h2l	
+chiuduno	51xs	
+chrysomelid	5d0	
+constantinos	7uy	623k:2
+constantinos a doxiadis	5n56	
+constantinos apostolos doxiadis	5n56	
+constantinos apostolou doxiadis	5n56	
+constantinos bodinos	5xcr	
+constantinos cavafis	4dg7	
+constantinos christoforou	623k	
+constantinos christophorou	623k	
+constantinos doxiades	5n56	
+constantinos doxiadis	5n56	
+constantinos karamanlis	1h8z	
+constantinos karatheodori	1tju	
+constantinos name	75a	
+constantinos simitis	2aer	
+constantinos stephanopoulos	2mck	
+cooperstown	mto,6gp5	
+cooperstown new york	mto	
+cooperstown ny	mto	
+cryogeysers	j8i	
+cuilapa	4eog	
+cuilapa santa rosa	4eog	
+cystiscidae	6fb8	
+daf	3thf	
+daf car bv	3thf	
+daf cars	3thf	
+daf trucks	3thf,4n87	
+daf trucks aida	4n87	
+daf trucks cote d or gazelle	4n87	
+daf trucks cycling team	4n87	
+daf trucks lejeune	4n87	
+daf trucks lejeune pz	4n87	
+daf trucks nv	3thf	
+daf trucks teve blad	4n87	
+daf trucks teve blad rossin	4n87	
+debian		26v1:4
+debian free		26v1:4
+debian free software		26v1:4
+debian free software guidelines	26v1	
+debian packager	1djw	
+dorkuato dasso	3fzw	
+dramatises	bw0	
+dreamhigh	2v7h	
+elibyrge	3gx	
+elybirge	3gx	
+emannuel kant	d51	
+ennio	5o7h	30h:2,akv:3,ere:2,kqk:2,nix:2,p9r:2,147n:2,156j:2,3sq8:3,4epa:3,53yl:2,5vh4:2
+ennio antonelli	kqk,53yl	
+ennio antonelli actor	kqk	
+ennio balbo	147n	
+ennio cardinal antonelli	53yl	
+ennio cerlesi	5vh4	
+ennio de		akv:3,3sq8:3
+ennio de concini	akv	
+ennio de giorgi	3sq8	
+ennio fantastichini	156j	
+ennio flaiano	nix	
+ennio girolami	p9r	
+ennio guarnieri	ere	
+ennio moricone	30h	
+ennio morricone	30h	
+ennio morricone comments	30h	
+ennio quirino		4epa:3
+ennio quirino visconti	4epa	
+exterminating angel	2mlc	2mlc:3
+fixing the shadow	4t0j	
+flexural atopic dermatitis	1s48	
+flexural candidiasis	38kb	
+flexural candidosis	38kb	
+flexural toppling	1dk6	
+fnsb	133d	
+for 200 grand you get nothing now	4cnm	
+for a		smr:5,20bp:5,3fqj:4,3i2p:5,3tkl:5
+for a cop s hide	2608	
+for a democratic and prosperous moldova electoral bloc	2hg7	
+for a few		smr:5,20bp:5,3i2p:5
+for a few dollars		smr:5,3i2p:5
+for a few dollars less	3i2p	
+for a few dollars more	smr	
+for a few extra		20bp:5
+for a few extra dollars	20bp	
+for a fist in the eye	5h6o	
+for a good		3tkl:5
+for a good time		3tkl:5
+for a good time call	3tkl	
+for a moment		3fqj:4
+for a moment freedom	3fqj	
+for a pessimist i m pretty optimistic	65va	
+for a price	yql	
+for a woman	60xm	
+for all		sqi:3
+for all mankind	sqi	
+for answer	6d6l	
+for att inte tala om alla dessa kvinnor	3tu0	
+for better		3lx8:4
+for better for		3lx8:4
+for better for worse	3lx8	
+for better for worse 1919 film	3lx8	
+for club play only pt 5	55h7	
+for colored		2161:3
+for colored girls	2161	
+for colored girls who have considered suicide when the rainbow is enuf film	2161	
+for davuatri	3q04	
+for distinguished labour	5ee	
+for england james	fg6	
+for estonia	2bfm	
+for eyes		5ig3:3
+for eyes only	5ig3	
+for freedom ep	4nwp	
+for greater glory	2548	
+for greater glory aka cristiada	2548	
+for greater glory film	2548	
+for greater glory the true story of cristiada	2548	
+for heaven		4q30:4,61bh:4
+for heaven s		4q30:4,61bh:4
+for heaven s sake	4q30,61bh	
+for heaven s sake 1926 film	4q30	
+for heaven s sake 1950 film	61bh	
+for him	4fgq	
+for him song	4fgq	
+for his		48r0:3
+for his son	48r0	
+for keeps	4hjv	
+for keeps film	4hjv	
+for kids	3m8c	
+for life		1duh:3
+for life music	1duh	
+for life music entertainment	1duh	
+for life music entertainment inc	1duh	
+for life records	1duh	
+for love		1ug0:4,1w8t:5,2xbu:4,3rdb:4,4hvw:5,4wek:4,4x69:4
+for love alone trump novel	1cf0	
+for love and		1ug0:4,4wek:4
+for love and gold	1ug0	
+for love and honor	4wek	
+for love of		1w8t:5,3rdb:4
+for love of ivy	3rdb	
+for love of the		1w8t:5
+for love of the game	1w8t	
+for love of the game film	1w8t	
+for love of the game movie	1w8t	
+for love only		4hvw:5
+for love only for		4hvw:5
+for love only for love	4hvw	
+for love or		2xbu:4,4x69:4
+for love or money	2xbu,4x69	
+for love or money 1963 film	2xbu	
+for love or money 1993 film	4x69	
+for martha	5w1b	
+for maximum value	2taf	
+for me		2o8h:5
+for me and		2o8h:5
+for me and my		2o8h:5
+for me and my gal	2o8h	
+for me and my gal film	2o8h	
+for men		3y5g:3
+for men only	3y5g	
+for men only 1938 film	3y5g	
+for min heta ungdoms skull	60iy	
+for my		507s:3
+for my dad	whv	
+for my fans	2wif	
+for my father	507s	
+for now dick clark so long	u29	
+for now i am winter	426q	
+for once in my life trijntje oosterhuis album	430d	
+for one hundred thousand dollars for a killing	36ba	
+for pete		1wlq:4
+for pete s		1wlq:4
+for pete s sake	1wlq	
+for pete s sake film	1wlq	
+for profit	r	
+for profit military contractor	15hv	
+for queen		2f9d:4
+for queen and		2f9d:4
+for queen and country	2f9d	
+for queen country	2f9d	
+for richer		5fbb:4
+for richer or		5fbb:4
+for richer or poorer	5fbb	
+for roseanna	5k4o	
+for russia without lawlessness and corruption	435b	
+for sale		6hs8:6
+for sale baby		6hs8:6
+for sale baby shoes		6hs8:6
+for sale baby shoes never		6hs8:6
+for sale baby shoes never used	6hs8	
+for sale baby shoes never worn	6hs8	
+for sale the beatles album	5icc	
+for sentimental reasons dinah shore album	1bu3	
+for sentimental reasons dinah shore asv album	1bu3	
+for sentimental reasons dinah shore proper records album	1bu3	
+for stevie wonder s eyes only braille	6h41	
+for thais	1jy2	
+for thais party	1jy2	
+for the		1fas:3,5q1x:11,5rhb:5,60iy:7
+for the boys	1fas	
+for the defence of moscow	3ku	
+for the dishwasher	2gc1	
+for the fame	5n7w	
+for the glory album	4u5j	
+for the heart i once had	4ndo	
+for the honor of the regiment	5pny	
+for the life of the world	3g5i	
+for the love		5rhb:5
+for the love of		5rhb:5
+for the love of benji	5rhb	
+for the love of metal	32kv	
+for the love of money dr dre song	6h1f	
+for the love of the game	1w8t	
+for the night to control	5d89	
+for the sake		60iy:7
+for the sake of		60iy:7
+for the sake of my		60iy:7
+for the sake of my intemperate		60iy:7
+for the sake of my intemperate youth	60iy	
+for the victory against germany	177	
+for the victory over germany	177	
+for the victory over japan	9e2	
+for the world		5q1x:11
+for the world is		5q1x:11
+for the world is hollow		5q1x:11
+for the world is hollow and		5q1x:11
+for the world is hollow and i		5q1x:11
+for the world is hollow and i have		5q1x:11
+for the world is hollow and i have touched		5q1x:11
+for the world is hollow and i have touched the		5q1x:11
+for the world is hollow and i have touched the sky	5q1x	
+for the world is hollow and i have touched the sky star trek the original series	5q1x	
+for the world is hollow and i have touched the sky tos episode	5q1x	
+for those		66nf:4
+for those in		66nf:4
+for those in peril	66nf	
+for those in peril 1944 film	66nf	
+for veneto with carraro	3ui	
+for whom		umr:5,6g4x:5,6g80:5
+for whom the		umr:5,6g4x:5,6g80:5
+for whom the bell		umr:5,6g4x:5,6g80:5
+for whom the bell tolls	umr,6g4x,6g80	
+for whom the bell tolls 1943 film	umr	
+for whom the bell tolls apocalyptica song	6g4x	
+for whom the bell tolls film	umr	
+for whom the bell tolls metallica song	6g4x	
+for whom the bells toll	6g80	
+for whom the bells toll apocalyptica song	6g4x	
+for y		5oro:5
+for y ur		5oro:5
+for y ur height		5oro:5
+for y ur height only	5oro	
+for you	6h64	
+for you demi lovato song	6gfn	
+for you i ll wait	1dss	
+for you prince	6h64	
+for you prince album	6h64	
+for you prince song	6h64	
+for your		kn5:4,38rk:3,4kpz:4,4ybt:3,6fjl:4
+for your consideration	38rk	
+for your consideration film	38rk	
+for your entertainment	4ybt	
+for your entertainment album	4ybt	
+for your eyes		kn5:4,6fjl:4
+for your eyes only	kn5,6fjl	
+for your eyes only film	kn5	
+for your eyes only short story	6fjl	
+for your eyes only short story collection	6fjl	
+for your height only	5oro	
+for your love		4kpz:4
+for your love only	4kpz	
+for your own good	63vp	
+for your pain and suffering	pk6	
+for your pain suffering	pk6	
+for yur height only	5oro	
+formiguera	1q14	
+fourchambault	1siw	
+franleu	29lh	
+franleu france	29lh	
+fridman alexei maksimovich	62sm	
+funiculaire	83u	
+gaucher airport	1t64	
+george golitzin	6fcb	
+glonass		ykk:2
+glonass m	ykk	
+gmina bodzechow	xpp	
+gmina lniano	3d2m	
+gmina turobin	zj9	
+golder s green	3r3z	
+hetaerae	1pv9	
+hispanized southeast asia	3l	
+holocausto musician	36i0	
+hottest	1nma	
+hottest film	1psv	
+hottest new director	1psv	
+hottest place in the world	2p0u	
+hottest state	6589	6589:3
+hottest thing	3ik3	
+igor	2exq,2h2l	9qj:2,psm:5,y1z:2,yar:2,14cp:2,187b:2,1f46:2,1kgq:2,1mik:2,1qa7:2,1v64:2,1xhp:2,20bl:2,251q:2,25sf:2,262y:2,278k:2,2ae0:2,2axw:2,2ezz:2,2f5t:2,2g3m:2,2gef:2,2hne:2,2i77:2,2j0d:2,2l5y:2,2ltj:2,2m1a:2,2op6:2,2rwo:2,2t1j:2,2tw8:2,2u13:2,2uh0:2,2y5c:2,31my:2,32ao:2,339g:2,33zd:4,38m3:2,3a8c:2,3cje:2,3df5:2,3e5a:2,3hiy:2,3ih1:2,3kzr:2,3m80:2,3poc:2
+igor 2007 film	2exq	
+igor 2008	2exq	
+igor 2008 film	2exq	
+igor akinfeev	3a8c	
+igor akinfeyev	3a8c	
+igor aksenov	52mu	
+igor aksyonov	52mu	
+igor albert rinck de camargo	5g43	
+igor albert rinck de diver camargo	5g43	
+igor aleksandrovich gavrilin	3qtx	
+igor aleksandrovich kravchuk	2g3m	
+igor aleksandrovich moiseyev	1xhp	
+igor alexandrovich moiseyev	1xhp	
+igor alexandrovich novikov	3m80	
+igor alexsandrovich moiseyev	1xhp	
+igor anatolyevich ledyakhov	3poc	
+igor and red elvises	33zd	
+igor angulo	2l5y	
+igor ansoff	5vzd	
+igor anton	2hne	
+igor anton hernandez	2hne	
+igor aramovich ter ovanesyan	3zni	
+igor avdeev	4p5q	
+igor avdeyev	4p5q	
+igor axenov	52mu	
+igor axyonov	52mu	
+igor azovskiy	4lz2	
+igor azovsky	4lz2	
+igor b frenkel	4bgv	
+igor belanov	2f5t	
+igor belanow	2f5t	
+igor bendovski	5vla	
+igor bendovsky	5vla	
+igor bendovskyi	5vla	
+igor bogdanovic	43ea	
+igor borisovich dmitriev	44hw	
+igor borisovich dmitriyev	44hw	
+igor borisovich korolyov	25sf	
+igor bragin	68xz	
+igor budan	2op6	
+igor budisa	4fgt	
+igor bugaev	4mpo	
+igor bugaiov	4mpo	
+igor burzanovic	5i5i	
+igor byrlov	684m	
+igor cavalera vocalist	1aco	
+igor chernyshov	5m0l	
+igor chislenko	4f3v	
+igor chugainov	5ou0	
+igor chugaynov	5ou0	
+igor chumachenko	4p07	
+igor costrov	4j22	
+igor cvitanovic	57ws	
+igor d novikov	6b7k	
+igor de		4374:3,5g43:3
+igor de camargo	5g43	
+igor de souza	4374	
+igor de souza fonseca	4374	
+igor diakonoff	61as	
+igor diakonov	61as	
+igor djuric	5ncq	
+igor djuric swiss footballer	5ncq	
+igor dmitriev	44hw	
+igor dmitrievich novikov	6b7k	
+igor dmitriyevich novikov	6b7k	
+igor dmitriyevich sergeyev	2gef	
+igor dmitriyevich spassky	2y5c	
+igor dobrovolski	1qa7	
+igor dobrovolskiy	1qa7	
+igor dobrovolsky	1qa7	
+igor dubrovskikh	68dh	
+igor duric born 1988	5ncq	
+igor e tamm	yar	
+igor emmanoeilovitsj grabar	2tw8	
+igor emmanuelovich grabar	2tw8	
+igor emmanuilovic grabar	2tw8	
+igor emmanuilovich grabar	2tw8	
+igor evgenievich tamm	yar	
+igor evgenyevich tamm	yar	
+igor fedorovich stravinsky	9qj	
+igor film	2exq	
+igor first name	2h2l	
+igor frenkel	4bgv	
+igor fydorovich stravinsky	9qj	
+igor fyodorovich stravinskij	9qj	
+igor gaidar	22sb	
+igor gal	4ais	
+igor gavrilin	3qtx	
+igor gavrilin footballer	3qtx	
+igor girkin	2j0d	
+igor given name	2h2l	
+igor gjuzelov	5u6w	
+igor glebov	3mku	
+igor gluscevic	5867	
+igor golban	5xcy	
+igor gonzalez	4pik	4pik:4
+igor gonzalez de		4pik:4
+igor gonzalez de galdeano	4pik	
+igor gonzalez de galdeano aranzabal	4pik	
+igor gonzalez galdeano	4pik	
+igor gorbachev	1mik	
+igor gorbachyov	1mik	
+igor gorbatenko	4gni	
+igor gorynin	5li6	
+igor grabar	2tw8	
+igor grkajac	4z0a	
+igor grokhovski	67bl	
+igor grokhovskiy	67bl	
+igor grokhovsky	67bl	
+igor gurinovich	3p7q	
+igor gurinovitch	3p7q	
+igor i sikorsky	14cp	
+igor ibaka	3pnj	
+igor ii	678a	678a:4
+igor ii of		678a:4
+igor ii of kiev	678a	
+igor ii olgovich	678a	
+igor ilinsky	1f46	
+igor iljinsky	1f46	
+igor ilyinsky	1f46	
+igor ivan sigorsky	14cp	
+igor ivan sikorsky	14cp	
+igor ivanov	62bj	
+igor ivanovich sigorsky	14cp	
+igor ivanovich sikorsky	14cp	
+igor ivanovich strelkov	2j0d	
+igor ivanovich sukachyov	3900	
+igor ivanovitch dobrovolski	1qa7	
+igor jancevski	5n5g	
+igor joksimovic	511i	
+igor jose		6aux:5
+igor jose marigo		6aux:5
+igor jose marigo de		6aux:5
+igor jose marigo de castro	6aux	
+igor jovanovic	4fyg	
+igor jovicevic	43xl	
+igor jugovic	5hio	
+igor karkaroff	6h1y	
+igor kichigin	4old	
+igor kirillov	3vqk	
+igor kirilov	3vqk	
+igor kiselyov	4x9h	
+igor klejch	6dsf	
+igor kolivanov	3pwg	
+igor kolyvanov	3pwg	
+igor kon	4xu2	
+igor konstantinovich of russia	26d3	
+igor konstantinovich romanov	26d3	
+igor korneev	38m3	
+igor korneiev	38m3	
+igor korneyev	38m3	
+igor korniets	5lnn	
+igor korniyets	5lnn	
+igor korobov	2t1j	
+igor korol	5hlc	
+igor korolev	25sf	
+igor kostiuk	68vz	
+igor kostolevsky	5ig6	
+igor kostrov	4j22	
+igor kostyuk	68vz	
+igor kovalevich	3hiy	
+igor kozlov	67dg	
+igor kralevski	5heu	
+igor kravchuk	2g3m	
+igor kriushenko	59ly	
+igor krutoy	4d5g	
+igor kurchatov	187b	
+igor kushev	5iv0	
+igor kvasha	4in9	
+igor lagoyda	53th	
+igor lambarschi	5w2t	
+igor lambarski	5w2t	
+igor lambarskiy	5w2t	
+igor lambarsky	5w2t	
+igor lambulic	5zwr	
+igor larionov	1kgq	
+igor lazic	5vjy,6bye	
+igor lazic bosnian footballer	6bye	
+igor lazic footballer born 1967	6bye	
+igor lebedev	567i	
+igor lebedev politician	567i	
+igor lediakhov	3poc	
+igor lediakov	3poc	
+igor ledyakhov	3poc	
+igor lewczuk	5pbq	
+igor logvinov	4o5h	
+igor lolo	3df5	
+igor luzyakin	6a28	
+igor m		61as:3
+igor m d jakonov	61as	
+igor m diakonoff	61as	
+igor m diakonov	61as	
+igor m ternov	3kzr	
+igor makarov	6c4x	
+igor makarov footballer born 1961	5yp1	
+igor makarov footballer born 1970	6c4x	
+igor manojlovic	5nkm	
+igor markevich	2m1a	
+igor markevitch	2m1a	
+igor maslennikov	3e5a	
+igor matic	4ca6	
+igor mel		694q:3
+igor mel chuk	694q	
+igor mel cuk	694q	
+igor melchuk	694q	
+igor melcuk	694q	
+igor menschikov	52sa	
+igor menshchikov	52sa	
+igor michailowich diakonoff	61as	
+igor mihailovich shalimov	2i77	
+igor mikhailovich d iakonov	61as	
+igor mikhailovich diakonov	61as	
+igor mikhaylovich shalimov	2i77	
+igor milosevic	45hx	
+igor mirceta	4jpg	
+igor mitreski	42wc	
+igor mitrevski	42wc	
+igor moiseev	1xhp	
+igor moiseyev	1xhp	
+igor morozov	4s8v	
+igor mostarlic	4urb	
+igor movie	2exq	
+igor musa	5p0s	
+igor name	2h2l	
+igor nascimento		5w30:3
+igor nascimento soares	5w30	
+igor netto	2rwo	
+igor newerly	4j20	
+igor nikolaev	2uh0	
+igor nikolaevich smirnov	5khu	
+igor nikolayev	2uh0	
+igor nikolayevich luzyakin	6a28	
+igor nikolayevich rodionov	32ao	
+igor nikolayevich smirnov	5khu	
+igor novakovic	5tjp	
+igor novikov	3m80,6b7k	
+igor novikov athlete	3m80	
+igor novikov pentathlete	3m80	
+igor oberberg	31my	
+igor obert	6cb4	
+igor of chernigov and kiev	678a	
+igor okhrimenko	6frg	
+igor p volk	262y	
+igor paderin	6cs4	
+igor palachev	4uju	
+igor palachov	4uju	
+igor palachyov	4uju	
+igor pamic	3ryb	
+igor pankratiev	3gov	
+igor pankratyev	3gov	
+igor pavlov computer programmer	16yt	
+igor pavlovic	6ckx	
+igor pavlovic footballer born 1986	6ckx	
+igor pesic	5xbv	
+igor petkovic	636w	
+igor petrenko	4zkk	
+igor petrovich petrenko	4zkk	
+igor petrovich semshov	4p2t	
+igor petrovich vladimirov	339g	
+igor petrovich volk	262y	
+igor pisanjuk	5zuc	
+igor portnyagin	57u2	
+igor prahic	5ohd	
+igor prins	52nz	
+igor r shafarevich	y1z	
+igor rabitov	2mwi	
+igor radionov	32ao	
+igor radovic	4gw7	
+igor radulov	1v64	
+igor radusinovic	52x2	
+igor rakocevic	251q	
+igor red elvises	33zd	
+igor rodionov	32ao	
+igor rostislavovich shafarevich	y1z	
+igor rozhkov	587n	
+igor s ivanov	62bj	
+igor s kon	4xu2	
+igor savchenko	3ih1	
+igor semeniuk	55ml	
+igor semshov	4p2t	
+igor sergeyev	2gef	
+igor sergeyevich ivanov	62bj	
+igor sergeyevich paderin	6cs4	
+igor sergeyevich strelbin	5qye	
+igor sergeyevich ulanov	20bl	
+igor shafarevich	y1z	
+igor shalimov	2i77	
+igor shevchenko	3cje	
+igor shitov	527u	
+igor shkvirin	2u13	
+igor shkvyrin	2u13	
+igor shpilband	2ae0	
+igor shtukin	65a2	
+igor sigorsky	14cp	
+igor sikorski	14cp	
+igor sikorsky	14cp	psm:5
+igor sikorsky kyiv		psm:5
+igor sikorsky kyiv polytechnic		psm:5
+igor sikorsky kyiv polytechnic institute	psm	
+igor simutenkov	4g1i	
+igor smirnov	5khu	
+igor smirnov politic	5khu	
+igor smolnikov	2ltj	
+igor sorriso	35ud	
+igor souza	5bxr	
+igor spassky	2y5c	
+igor sphilband	2ae0	
+igor stanisavljevic	5t23	
+igor stechkin	2ezz	
+igor stefanovic	4ei2	
+igor stepanov	464p	
+igor stimac	4z68	
+igor stojakovic	5sab	
+igor stravinskii	9qj	
+igor stravinskij	9qj	
+igor stravinsky	9qj	
+igor stravinsky comments	9qj	
+igor strawinski	9qj	
+igor strawinsky	9qj	
+igor strelbin	5qye	
+igor strelkov gru	2j0d	
+igor strelkov officer	2j0d	
+igor sukachev	3900	
+igor sypniewski	45jm	
+igor talankin	49em	
+igor talikov	2axw	
+igor talkov	2axw	
+igor tamm	yar	
+igor tarlovskiy	5s9c	
+igor tarlovsky	5s9c	
+igor taskovic	9cj,64zh	
+igor ter		3zni:3
+igor ter ovanesyan	3zni	
+igor ter owanesjan	3zni	
+igor ternov	3kzr	
+igor the		33zd:4
+igor the red		33zd:4
+igor the red elvises	33zd	
+igor tigirlas	5jmu	
+igor titov	3fa3	
+igor tkachenko	5bqw	
+igor tkachenko footballer	5bqw	
+igor tomasic	4627	
+igor tsigirlash	5jmu	
+igor tudor	43m4	
+igor ulanov	20bl	
+igor uric born 1988	5ncq	
+igor usminski	67u9	
+igor usminskiy	67u9	
+igor usminsky	67u9	
+igor vadimovich shevchenko	3cje	
+igor valentinovich korobov	2t1j	
+igor valeryevich chugainov	5ou0	
+igor valeryevich golban	5xcy	
+igor vasilevich kurchatov	187b	
+igor vasilyevich gorynin	5li6	
+igor vasilyevich kurchatov	187b	
+igor vekovischev	6805	
+igor vekovishchev	6805	
+igor vitalyevich simutenkov	4g1i	
+igor vladimirov	339g	
+igor vladimirovich		5yp1:3
+igor vladimirovich akinfeev	3a8c	
+igor vladimirovich akinfeyev	3a8c	
+igor vladimirovich korneyev	38m3	
+igor vladimirovich kvasha	4in9	
+igor vladimirovich lebedev	567i	
+igor vladimirovich lebedev politician	567i	
+igor vladimirovich makarov	5yp1	
+igor vladimirovich usminsky	67u9	
+igor volk	262y	
+igor volkov	68jn	
+igor volkov footballer	68jn	
+igor voronkov	50b6	
+igor vrablic	4upp	
+igor vsevolodovich girkin	2j0d	
+igor vujanovic	5rx5	
+igor y tamm	yar	
+igor yakovlevich stechkin	2ezz	
+igor yaroslavich	278k	
+igor yasinskiy	4xca	
+igor yasinsky	4xca	
+igor yasulovich	4ly8	
+igor yevgenevich tamm	yar	
+igor yevgenyevich tamm	yar	
+igor yuryevich makarov	6c4x	
+igor yuryevich nikolayev	2uh0	
+igor yushchenko	5wvp	
+igor yuzov	33zd	
+igor zenkovich	4ho7	
+igor zhabchenko	3w1g	
+igor zikovic	5g9w	
+infectious	cqr	31a:2,mp7:2,1hfz:3
+infectious bone		1hfz:3
+infectious bone disease	1hfz	
+infectious colitis	6en5	
+infectious diarrhea	a9g	
+infectious diarrhoea	4sx1	
+infectious disease	cqr	
+infectious disease and tropical medicine	31a	
+infectious disease in the 20th century	51kj	
+infectious disease medical speciality	31a	
+infectious disease medical specialty	31a	
+infectious disease medicine	31a	
+infectious disease specialist	31a	
+infectious diseases	31a,cqr	
+infectious diseases and tropical medicine	31a	
+infectious diseases medicine	31a	
+infectious endocarditis	4o19	
+infectious medicine	31a	
+infectious music	mp7	
+infectious osteitis	4cxp	
+infectious pneumonia	m2	
+infectious records	mp7	
+introvigne massimo	3i3n	
+irrende seelen	45sr	
+iztaccihuatl	6gzu	
+javene	1ort	
+jeannot		114e:2
+jeannot szwarc	114e	
+jhoom		44zs:3
+jhoom barabar		44zs:3
+jhoom barabar jhoom	44zs	
+jhoom barabar jhoom soundtrack	44zs	
+john kyl	66kj	
+john obi	2s8s	
+john obi mikel	2s8s	
+john wolyniec	4nch	
+judete	xn2	
+kashira	myg	
+kashira 2	myg	
+kashira urban settlement	myg	
+kilimandscharo	3ovx	
+koekelare	35v7	
+koekelare belgium	35v7	
+lauxaniidae	1q9a	
+le viager	1ahl	
+levande kyrkas i stockholms domkyrkoforsamling jesus i centrum	150s	
+lutsk	97x	
+makdougall brisbane prize	10l	
+marcela		62q7:2
+marcela topor	62q7	
+marthemont	3og1	
+mcgee thomas d arcy	5u55	
+meignard	4p1q	
+melica	fc1	
+metarie cemetery	169f	
+metarie la	k1o	
+metarie louisiana	k1o	
+metectkh	5l3s	
+metectkh continental cyclingteam	5l3s	
+metectkh cycling team p b mantel	5l3s	
+michael circhton	e8m	
+morlange	26bw	
+morlange les remelange	1c0n	
+morphogenesis	4pi0	
+motzart	3dy	
+nandabayin	2vyy	
+narathiwat	1cr2	
+narathiwat province	1cr2	
+narathiwat province thailand	1cr2	
+national exchange for automated trading	24tr	
+naturno	1s2p	
+nepticula	2xy	
+ouderamstel	28bm	
+paakea	267j	
+pearraig	2zn5	
+personification	118o	
+phaio	6eqn	
+pichincha		11nd:2
+pichincha province	11nd	
+pichincha province ecuador	11nd	
+plattduutsch	1i6q	
+plattduutsch language	1i6q	
+prudhviraj	bpw	
+ptgdr	5jvt	
+ptgdr gene	5jvt	
+ravennese	4nd	
+realm	gna	578h:3
+realm and conquest	ies	
+realm navy	3ek8	
+realm of		578h:3
+realm of darkness	446t	
+realm of fear	578h	
+realm of fear star trek the next generation	578h	
+realm of fear tng episode	578h	
+realm of gondor	1i0y	
+realm of scotland	547	
+realm of the commonwealth	1ker	
+realm of the dead	6gyl	
+realm of the fur	6gdt	
+realm of the senses	163x	
+realm world of warcraft	1hex	
+reeled silk	1b37	
+robert ladd thorndike	5vj5	
+roethenbach an der pegnitz	5k60	
+rotanah kiri	1dkt	
+rueun	253g	
+rueun gr	253g	
+rueun graubuenden	253g	
+rueun graubunden	253g	
+rueun grisons	253g	
+rueun switzerland	253g	
+ruksana	5wze	
+saint yon	2yq2	
+sangroor district	16ng	
+scoundrel		3pdd:2,656f:2
+scuola	4bhs	10kb:3,61ti:3
+scuola della carita	v8b	
+scuola di		61ti:3
+scuola di ladri	61ti	
+scuola normale	10kb	10kb:3
+scuola normale di pisa	10kb	
+scuola normale superiore	10kb	
+scuola normale superiore di pisa	10kb	
+sdiratt	19ze	
+seldjuqs	38os	
+senica	1udp	sgq:2
+senica district	sgq	
+senica fc	7n0	
+sette		3syd:5,4izy:4,4whc:5
+sette cervelli per un colpo perfetto	5emr	
+sette contro la morte	3yhl	
+sette dollari sul rosso	2ko2	
+sette donne per i macgregor	2u2s	
+sette donne per i mcgregor	2u2s	
+sette giorni		3syd:5
+sette giorni all		3syd:5
+sette giorni all altro		3syd:5
+sette giorni all altro mondo	3syd	
+sette note in nero	3xyc	
+sette orchidee macchiate di rosso	1np6	
+sette ore di guai	1w3i	
+sette pistole per i macgregor	26z8	
+sette scialli		4whc:5
+sette scialli di		4whc:5
+sette scialli di seta		4whc:5
+sette scialli di seta gialla	4whc	
+sette uomini		4izy:4
+sette uomini d		4izy:4
+sette uomini d oro	4izy	
+sette uomini d oro nello spazio	5oha	
+sette volte sette	16hp	
+seyd mohammad khatami	335p	
+sfio	5g8	
+sfio party	5g8	
+sfio socialist party	5g8	
+shugoro yamamoto prize	37f6	
+sigara	267c	
+suippes	2wcm	
+tabajdi	69r8	
+tabajdi csaba	69r8	
+tabletpc	rfr	
+telenor	xl8	52dr:3
+telenor ab	xl8	
+telenor asa	xl8	
+telenor culture		52dr:3
+telenor culture award	52dr	
+telenor group	xl8	
+telenor media	xl8	
+telenor mobil	xl8	
+telenor venture	xl8	
+the gustav adolf secondary school	19v6	
+the orplid		160y:3
+the orplid mystery	160y	
+the rival	2jdb	
+the rival film	2jdb	
+the toad elevating moment	3cvc	
+the world		bo0:7,jg6:5,121n:4,12ct:5,19fu:4,1ktg:6,1tv2:5,1uey:5,1vxv:5,2083:5,2pt3:5,2ugd:5,31y3:5,3q2v:5,3qg3:4,46nk:4,4iyp:4,5m08:7,5qge:4,5sw0:4,6gw0:5
+the world academy		bo0:7
+the world academy of		bo0:7
+the world academy of sciences		bo0:7
+the world academy of sciences twas		bo0:7
+the world academy of sciences twas prize	bo0	
+the world according		1vxv:5
+the world according to		1vxv:5
+the world according to garp	1vxv	
+the world according to garp film	1vxv	
+the world according to garp movie	1vxv	
+the world according to jim	3s4n	
+the world championship in team handball for men	17mc	
+the world condemns		46nk:4
+the world condemns them	46nk	
+the world court	4uf0	
+the world ends		3q2v:5
+the world ends with		3q2v:5
+the world ends with you	3q2v	
+the world ends with you final remix	3q2v	
+the world food prize	17et	
+the world golf hall of fame	7c9	
+the world gone		3qg3:4
+the world gone mad	3qg3	
+the world heavyweight championship	6hjm	
+the world i knew	ztq	
+the world in		1tv2:5
+the world in his		1tv2:5
+the world in his arms	1tv2	
+the world in my pocket	4k13	
+the world is		jg6:5,5sw0:4
+the world is a cartoon	6evk	
+the world is hollow and i have touched the sky	5q1x	
+the world is not		jg6:5
+the world is not enough	jg6	
+the world is not enough film	jg6	
+the world is ours	5sw0	
+the world is ours film	5sw0	
+the world is yours ep	4emg	
+the world moves		19fu:4
+the world moves on	19fu	
+the world now	141u	
+the world of		2083:5,2pt3:5,2ugd:5,4iyp:4,5qge:4
+the world of apu	54f1	
+the world of balance	301r	
+the world of don		2pt3:5
+the world of don camillo	2pt3	
+the world of donovan 1969 album	api	
+the world of donovan 1972 album	api	
+the world of fatwas	5i69	
+the world of henry		2083:5
+the world of henry orient	2083	
+the world of kanako	4iyp	
+the world of mana	3bik	
+the world of maria gaetana agnesi mathematician of god	5tjz	
+the world of nagaraj	5qge	
+the world of noon	1wqz	
+the world of suzie		2ugd:5
+the world of suzie wong	2ugd	
+the world of suzie wong film	2ugd	
+the world of warcraft	1hex	
+the world of warcraft movie	j34	
+the world poker tour	63p0	
+the world renowned famu gospel choir	a7k	
+the world s		121n:4,12ct:5,1ktg:6,1uey:5,31y3:5
+the world s best sf short stories	4n3u	
+the world s biggest fish fry	15qj	
+the world s earliest known board games	174	
+the world s end	121n	
+the world s end film	121n	
+the world s end movie	121n	
+the world s fastest		31y3:5
+the world s fastest indian	31y3	
+the world s foremost authority	3dag	
+the world s greatest		12ct:5,1uey:5
+the world s greatest athlete	12ct	
+the world s greatest comics magazine	22rr	
+the world s greatest criminal mind	lfl	
+the world s greatest lover	1uey	
+the world s image centre	1di	
+the world s largest fish fry	15qj	
+the world s largest lesson	4bvz	
+the world s most		1ktg:6
+the world s most beautiful		1ktg:6
+the world s most beautiful swindlers	1ktg	
+the world s most beautiful woman	1s6l	
+the world s strongest	2aud	
+the world s strongest guy	2aud	
+the world s strongest man	wju	
+the world s strongest man competition	wju	
+the world series	ajf	
+the world snooker championship	8jm	
+the world sphinxes	57at	
+the world stage	2565	
+the world the		5m08:7
+the world the flesh		5m08:7
+the world the flesh and		5m08:7
+the world the flesh and the		5m08:7
+the world the flesh and the devil	5m08	
+the world the flesh and the devil 1959 film	5m08	
+the world the flesh the devil an enquiry into the future of the three enemies of the rational soul	y6x	
+the world trade organisation	6qn	
+the world trade organization	6qn	
+the world wars	6hlh	
+the world will break your heart	4us6	
+the world won		6gw0:5
+the world won t		6gw0:5
+the world won t listen	6gw0	
+the world wont listen	6gw0	
+the world wrestling federation entertainment incorporated	dri	
+trearskrigen	4fw1	
+tukhachevskiy	398x	
+uiowa	152	
+unabridged audio book	6eq6	
+valentinia	3y80	
+valozhyn	5a2d	
+valozhyn district	2qtj	
+valozhyn raion	2qtj	
+vizzolo		1eic:2
+vizzolo predabissi	1eic	
+wallstrom	3jfd	
+wanderers	1mp7	9ye:3,1mp7:2
+wanderers f		9ye:3
+wanderers f c	9ye	
+wanderers fc	9ye	
+wanderers football club	9ye	
+wapo	15fm	
+wapo com	15fm	
+weaponry	9hv	
+weaponry cartridges	3sj	
+weaponry deal	73g	
+wikistats	8sm	
+wilbur		9jt:3,s7u:2,3xh7:4,4kve:5,54eh:3
+wilbur abbott	54eh	
+wilbur addison smith	s7u	
+wilbur and orville wright	6gyk	
+wilbur begar selvmord	4kve	
+wilbur brucker	4xzw	
+wilbur charlotte s web	6fkc	
+wilbur cortez		54eh:3
+wilbur cortez abbott	54eh	
+wilbur cross		9jt:3
+wilbur cross medal	9jt	
+wilbur l		3xh7:4
+wilbur l cross medal	9jt	
+wilbur l ross	3xh7	3xh7:4
+wilbur l ross jr	3xh7	
+wilbur louis ross	3xh7	
+wilbur louis ross jr	3xh7	
+wilbur lucious cross medal	9jt	
+wilbur lucius cross medal	9jt	
+wilbur m brucker	4xzw	
+wilbur m bruckner	4xzw	
+wilbur orville wright	6gyk	
+wilbur richard	105a	
+wilbur ross	3xh7	
+wilbur ross jr	3xh7	
+wilbur smith	s7u	
+wilbur turnblad	1q4i	
+wilbur wants		4kve:5
+wilbur wants to		4kve:5
+wilbur wants to kill		4kve:5
+wilbur wants to kill himself	4kve	
+wilbur wonka	prg	
+wilbur wright middle school	1yt	
+wilbur wright middle school ohio	1yt	
+william levi		2wox:3
+william levi dawson	2wox	
+william levi dawson politician	2wox	
+winaretta edmond de polignac	4epn	
+woodwaxes	2q6f	
+wookies	6hr2	
+xyratex	36yd	
+yasothon	1cfx	
+yasothon province	1cfx	
+yasothon province thailand	1cfx	
+zakarya		4yt5:2
+zakarya bergdich	4yt5	
+zaria	1e7w	
+zaria balti	c8o	
+zaria nigeria	1e7w	
+zaria of orange nassau	2d8x	

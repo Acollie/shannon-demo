@@ -1,0 +1,486 @@
+a couch		4fcp:5
+a couch in		4fcp:5
+a couch in new		4fcp:5
+a couch in new york	4fcp	
+abdulkhakim		62a8:2
+abdulkhakim ismailov	62a8	
+adippe	1yno	
+adippe carim	1yno	
+agrophila	1100	
+alexander buchan	55pa	
+alexander buchan meteorologist	55pa	
+altendorf	2869	
+altendorf schwyz	2869	
+altendorf switzerland	2869	
+altendorf sz	2869	
+asperger		6efo:2
+asperger s disease	6efo	
+asperger syndrome	6efo	
+asperger syndrome and reproductive health	6efo	
+atulathiri	5qs4	
+bhaga river	5llu	
+blanknberge	2ikr	
+bobojan gafurov	4wgs	
+bobojan gafurovich gafurov	4wgs	
+borbala cillei	3aen	
+bubovice	3do6	
+butyriboletus	47r6	
+canard enchaine	xm9	
+cevin		4qyq:2
+cevin key	4qyq	
+chapelfield lnr	2rha	
+charles bronfman	5uet	
+charles proctor		60rs:3
+charles proctor sifton	60rs	
+cmolas commune	3q3a	
+coal	n73	21zp:4,27vn:2,5rzy:2
+coal bed	n73	
+coal board	57aj	
+coal business	n73	
+coal capital	314d	
+coal chamber	5rzy	
+coal chamber band	5rzy	
+coal county	27vn	
+coal county ok	27vn	
+coal county oklahoma	27vn	
+coal fired	n73	
+coal magnate	g3p	
+coal mine disaster	l91	
+coal mine disasters in the united states	l91	
+coal miner		21zp:4
+coal miner s		21zp:4
+coal miner s daughter	21zp	
+coal miner s daughter film	21zp	
+coal miner s daughter original motion picture soundtrack	21zp	
+coal miner s daughter soundtrack	21zp	
+coal miner s daughter the loretta lynn story	21zp	
+coal mining disasters in the united states	l91	
+coal mining mogul	g3p	
+coal pulverization	n73	
+coal seam	n73	
+coal tycoon	g3p	
+computerized algebra system	3cp6	
+computerized algebra systems	3cp6	
+computerized animation	3yr2	
+contraception	6exe	
+corvettes	3w2	
+craiova	5ix	
+craiova romania	5ix	
+criquebeuf		2xar:3,40nc:3
+criquebeuf la		2xar:3
+criquebeuf la campagne	2xar	
+criquebeuf sur		40nc:3
+criquebeuf sur seine	40nc	
+crisanto bosch	4jzp	
+current		143i:2,1olp:2
+current 93	1olp	
+current affair	143i	
+current affairs	143i	
+current affairs news format	143i	
+current australian military deployments	4dj9	
+current computer and video games events sources	1z	
+current dalai lama	svl	
+current diagnostic criteria for bipolar disorder	2lm	
+current equipment of the iraqi army	6f9e	
+current events august 2002	ivv	
+current events brazil	1g	
+current events brazil breaking	1g	
+current events brazil special	1g	
+current events canada	g	
+current events canada arc box	g	
+current events canada archive box	g	
+current events japan	o	
+current events july 2002	ivv	
+current events may 2002	ivv	
+current events september 2002	ivv	
+current events video gaming	1z	
+current for the future	4pps	
+current g20 countries	sz9	
+current government of the united kingdom	vas	
+current hardcover	5gb	
+current issues and events	4hy	
+current king of morocco	14bm	
+current living tirthankars	2ncw	
+current mood album	4rdn	
+current ocean	5yzv	
+current political issues of the united states	1kws	
+current president of argentina	gjw	
+current prime minister of canada	css	
+current research in evolutionary biology	11nz	
+current reversal	3sxa	
+current roster ironi nahariya	4p8a	
+current sauce	bp6	
+current sensing resistor	5sv5	
+current shortland street living arrangements	fal	
+david garibaldi musician	3wdk	
+directive		ax6:5
+directive european union	ax6	
+directive of		ax6:5
+directive of the		ax6:5
+directive of the european		ax6:5
+directive of the european union	ax6	
+dnester	yhl	
+dnester river	yhl	
+edward rooney	1hz9	
+eiffel		1sc0:2,2lrp:2
+eiffel 65	2lrp	
+eiffel 65 band	2lrp	
+eiffel alexandre gustave	184y	
+eiffel tour	1sc0	
+eiffel tower	1sc0	
+eiffel tower france	1sc0	
+eiffel tower paris in france	1sc0	
+eiffel towers den bosch	1cba	
+eire agus an bhreatain mhor	1q15	
+eire canal	6h86	
+eisei amamoto	1q1o	
+eliseu	4ocx	
+eliseu pereira	4ocx	
+eliseu pereira dos santos	4ocx	
+eremia		222b:2
+eremia grigorescu	222b	
+esotsm	10hj	
+europaleague	lhj	
+eurosceptics	huh	
+fc aberdeen	24e	
+fortuneteller	6fto	
+futureworld	xie	
+galadrial	2tl4	
+gmina wilkolaz	1vqh	
+gorowo iaweckie commune	hrh	
+gorowo ilaweckie commune	hrh	
+gotha	67s,p93,4i87	
+gotha district	p93	
+gotha town	67s	
+greece	3h	2yr:6,5lt:6,70k:6,80i:6,dhr:8,fc3:6,ito:11,19nd:7,1jpj:6,1vge:6,30tl:6,3733:6,3md4:6
+greece among the ruins of missolonghi	30tl	
+greece at the eurovision song contest	1jpj	
+greece fc	2yr	
+greece fifth division	3lmv	
+greece football federation	6dk	
+greece footballs clubs association	3lmv	
+greece footballs clubs association five division	3lmv	
+greece footballs clubs associations five division	3lmv	
+greece in		1jpj:6
+greece in 4th century bc	32e	
+greece in eurovision	1jpj	
+greece in the		1jpj:6
+greece in the eurovision		1jpj:6
+greece in the eurovision song		1jpj:6
+greece in the eurovision song contest	1jpj	
+greece in the eurovision song contest 1977	1jpj	
+greece in the eurovision song contest 1978	1jpj	
+greece in the eurovision song contest 1981	1jpj	
+greece in the eurovision song contest 1986	1jpj	
+greece in the eurovision song contest 1987	1jpj	
+greece in the eurovision song contest 1988	1jpj	
+greece in the eurovision song contest 1994	1jpj	
+greece in the eurovision song contest 1996	1jpj	
+greece in the eurovision song contest 1997	1jpj	
+greece in the eurovision song contest 2019	1jpj	
+greece language	x4	
+greece larissa	8y0	
+greece men		2yr:6,80i:6,dhr:8,ito:11,19nd:7
+greece men s		2yr:6,80i:6,dhr:8,ito:11,19nd:7
+greece men s national		2yr:6,80i:6,dhr:8,ito:11,19nd:7
+greece men s national basketball		80i:6
+greece men s national basketball team	80i	
+greece men s national football		2yr:6
+greece men s national football team	2yr	
+greece men s national under		dhr:8,ito:11
+greece men s national under 16		ito:11
+greece men s national under 16 and		ito:11
+greece men s national under 16 and under		ito:11
+greece men s national under 16 and under 17		ito:11
+greece men s national under 16 and under 17 basketball		ito:11
+greece men s national under 16 and under 17 basketball team	ito	
+greece men s national under 16 basketball team	ito	
+greece men s national under 19		dhr:8
+greece men s national under 19 and under 18 basketball team	dhr	
+greece men s national under 19 basketball		dhr:8
+greece men s national under 19 basketball team	dhr	
+greece men s national water		19nd:7
+greece men s national water polo		19nd:7
+greece men s national water polo team	19nd	
+greece miki	2xun	
+greece military	5yyg	
+greece military national football team	3wu7	
+greece national		5lt:6,70k:6,fc3:6,3md4:6
+greece national basketball team	80i	
+greece national football team	2yr	
+greece national under		5lt:6,70k:6,fc3:6,3md4:6
+greece national under 16 football team	fc3	
+greece national under 17		fc3:6
+greece national under 17 football		fc3:6
+greece national under 17 football team	fc3	
+greece national under 18 football team	70k	
+greece national under 19		70k:6
+greece national under 19 football		70k:6
+greece national under 19 football team	70k	
+greece national under 20		3md4:6
+greece national under 20 football		3md4:6
+greece national under 20 football team	3md4	
+greece national under 21		5lt:6
+greece national under 21 football		5lt:6
+greece national under 21 football team	5lt	
+greece navy	4x4	
+greece olympia	19ju	
+greece on		30tl:6
+greece on the		30tl:6
+greece on the ruins		30tl:6
+greece on the ruins of		30tl:6
+greece on the ruins of missolonghi	30tl	
+greece prime minister	a03	
+greece thebes	1lec	
+greece u21	5lt	
+greece under 21 football team	5lt	
+greece women		1vge:6,3733:6
+greece women s		1vge:6,3733:6
+greece women s national		1vge:6,3733:6
+greece women s national basketball		3733:6
+greece women s national basketball team	3733	
+greece women s national football		1vge:6
+greece women s national football team	1vge	
+gzyra	30ld	
+hansen	2of,5hu3	69cb:2
+hansen brothers	110g	
+hansen clark	69cb	
+hansen clarke	69cb	
+hansen family name	2of	
+hansen hashim clarke	69cb	
+hansen jesper	4osg	
+hansen s disease	sw1	
+hansen surname	2of	
+hansen theofilus edvard	59f2	
+henarejos	4gwo	
+henry dickens	1bdw	
+henry torrens	67yk	
+hoffspace	nce	
+hsue k o	gag	
+hsue shen tsien	4e5q	
+hyperdex 1 sect	50uv	
+innsbruck	292	8es:3,5kuz:2
+innsbruck 1964	1ug	
+innsbruck 1976	1n1	
+innsbruck 2012	iko	
+innsbruck austria	292	
+innsbruck central station	5kuz	
+innsbruck hauptbahnhof	5kuz	
+innsbruck hbf	5kuz	
+innsbruck hc	60y8	
+innsbruck land	8es	8es:3
+innsbruck land district	8es	
+innsbruck university	5on	
+innsbruck winter youth olympic games	iko	
+jaulgonne	3udb	
+jodownik commune	23st	
+jullundar	9j0	
+jyoti mishra	5t2w	
+jyoti prakash mishra	5t2w	
+kenjirou	3qfa	
+kenjirou tsuda	4wo8	
+khordha		1xrm:2
+khordha district	1xrm	
+kigali	cac	
+kigali city	cac	
+kigali province	cac	
+kigali province rwanda	cac	
+kigali rwanda	cac	
+kigali ville	cac	
+kiribas	3t2	
+kotch	2dsj	
+kotch brothers	3vhw	
+krakko	u0	
+la violenza quinto potere	24zv	
+lacy		5de2:3
+lacy chabert	zi8	
+lacy j		5de2:3
+lacy j dalton	5de2	
+langen	21qx	
+langen hesse	21qx	
+langen hessen	21qx	
+lauta	5bgf	
+lindpere	4mwr	
+loblaw	4a0l	4a0l:2
+loblaw companies	4a0l	
+loblaw companies inc	4a0l	
+loblaw companies limited	4a0l	
+loblaw companies ltd	4a0l	
+loblaw groceteria co ltd	4a0l	
+lohithadas	nms	
+machecourt	1v3x	
+malouda	21bj	
+malvin		3cil:2
+malvin calvin	24mr	
+malvin ginah kamara	3cil	
+malvin greston whitfield	1kwb	
+malvin kamara	3cil	
+malvin whitfield	1kwb	
+maniyan pilla raju	19gi	
+maniyan pillai raju	19gi	
+mapsman template tyne and wear metro	j6w	
+maria forescu	m4o	
+maria korda	18p5	
+medllin	2t4	
+menage	3jld	4fn7:3,500f:3
+menage a		500f:3
+menage a troi	500f	
+menage a troi star trek the next generation	500f	
+menage a troi tng episode	500f	
+menage all		4fn7:3
+menage all italiana	4fn7	
+mestolobes	1bmj	
+michael crawford	1n94,3rcv	
+michael crawford footballer	3rcv	
+michael crawford kittian footballer	3rcv	
+michael crawford kittitian footballer	3rcv	
+molinicos	3j4p	
+montecchia	2vjm	2vjm:3
+montecchia di		2vjm:3
+montecchia di crosara	2vjm	
+morticians	dj7	
+mwc	62ta	
+netherbeast		5sk5:2
+netherbeast inc	5sk5	
+netherbeast incorporated	5sk5	
+nott john	5gbs	
+nott m forest	1j1	
+nott s county	1el	
+octandrorchis	2fpg	
+oenipons	292	
+ostrowice commune	s4i	
+palmfly	36vh	
+parana	1du,eqn	3lm:2,neb:2
+parana argentina	eqn	
+parana city	eqn	
+parana clube	3lm	
+parana entre rios	eqn	
+parana river	neb	
+parana river brazil paraguay and argentina	neb	
+parana state	1du	
+pascual		21v0:2,2t41:3
+pascual antonio aguilar barraza	uqa	
+pascual de		2t41:3
+pascual de gregorio	2t41	
+pascual jordan	21v0	
+paul hasluck	3w7c	
+paul hasluck comments	3w7c	
+peter eastoe	5lr2	
+peter rees	5yqq	5yqq:4
+peter rees baron		5yqq:4
+peter rees baron rees	5yqq	
+plantaginaceae	r6b	
+polesella	33l0	
+prebaetic		5f54:2
+prebaetic system	5f54	
+prince ileana of romania	2hsk	
+prince pedro		5172:7
+prince pedro augusto		5172:7
+prince pedro augusto 5th		5172:7
+prince pedro augusto 5th prince		5172:7
+prince pedro augusto 5th prince of		5172:7
+prince pedro augusto 5th prince of kohary	5172	
+prince pedro augusto of saxe coburg and gotha	5172	
+prince pedro carlos of orleans and braganza	6aos	
+prince pedro carlos of orleans braganca	6aos	
+prince pedro carlos of orleans braganza	6aos	
+prince pedro de alcantara of orleans braganza	2jb5	
+prince pedro duke of coimbra	116a	
+prince pedro gastao of orleans and braganza	2gij	
+prince pedro gastao of orleans braganca	2gij	
+prince pedro gastao of orleans braganza	2gij	
+prince pedro gaston of orleans braganca	2gij	
+prince pedro henrique of orleans braganca	24zt	
+prince pedro henrique of orleans braganza	24zt	
+prince pedro luis of orleans and braganza	4hpv	
+prince pedro luis of orleans braganca	4hpv	
+prince pedro luis of orleans braganza	4hpv	
+prince pedro luiz of orleans braganza	4hpv	
+prince pedro of saxe coburg and gotha	5172	
+princess melody the little mermaid	1z6b	
+prinia	2ajb	
+prsanna actor	24gq	
+respects your freedom	auc	
+richard lasalle	17k6	
+richland	o8q	isd:2,uj9:2,1487:2,1dd3:2,29n5:2,2htu:2,3ha7:2
+richland center	2htu	
+richland center wi	2htu	
+richland center wisconsin	2htu	
+richland county	isd,uj9,1487,1dd3,29n5,3ha7	
+richland county il	29n5	
+richland county illinois	29n5	
+richland county montana	3ha7	
+richland county mt	3ha7	
+richland county nd	1dd3	
+richland county north dakota	1dd3	
+richland county oh	uj9	
+richland county ohio	uj9	
+richland county sc	1487	
+richland county south carolina	1487	
+richland county wi	isd	
+richland county wisconsin	isd	
+richland wa	o8q	
+richland washington	o8q	
+robert bald	5kfw	
+robert findley	4a1c	
+ronline wikipedia ombudsman	4yfr	
+saceur	3l5y	
+sakaguti hironobu	18dq	
+saliyan	6ap4	
+sayyed ahmad khan	3s0p	
+sayyed ahmed khan	3s0p	
+sayyed ali muhammad shirazi	4bp1	
+sayyed hassan nasrallah	4wv6	
+sayyed hassan nasrallah comments	4wv6	
+sayyed mohammad khatami	335p	
+sayyed qutb	3980	
+sibillini		3at3:2,434y:4
+sibillini mountains	3at3	434y:4
+sibillini mountains national		434y:4
+sibillini mountains national park	434y	
+sibillini mounts	3at3	
+sibillini national park	434y	
+sir ed	1k4u	
+sir ed davey	64c2	
+siriwannawari	5q7v	
+siriwannawari nariratana	5q7v	
+strahan michael	4n8u	
+sturno	578f	
+supergold card	5mkv	
+tevfik	58f8	38ob:2,4bql:2,61hc:2
+tevfik altindag	61hc	
+tevfik altndag	61hc	
+tevfik first name	58f8	
+tevfik given name	58f8	
+tevfik koese	38ob	
+tevfik kose	38ob	
+tevfik pasa	4bql	
+the chill baldur s gate	33b1	
+the chill grill	433d	
+thomas meeres	64vk	
+thomas mulgrew	6693	
+thomas transtromer	35h0	
+thyonaea	6exk	
+titas	xxc	
+titas band	xxc	
+titas do ie ie	xxc	
+tuerkmen	1di7	
+tzanko tzvetanov	4fe3	
+tze toeng mau	fvz	
+tze tung mao	fvz	
+ueshiba morihei	yq9	
+underbeatables	psg	
+vacansoleil	t8b	t8b:2
+vacansoleil dcm	t8b	
+vacansoleil pro cycling team	t8b	
+verismo by starbucks	d4l	
+vesuvian	18vs	
+vityebsk region	cpn	
+wanli	2qx6	
+wanli emperor	2qx6	
+wanli emperor of china	2qx6	
+winterfair gifts	2rju	
+woodrushes	235y	
+zaenal		533p:2
+zaenal arief	533p	
+zaenal arif	533p	

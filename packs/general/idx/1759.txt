@@ -1,0 +1,690 @@
+62d fighter		1vw4:3
+62d fighter interceptor squadron	1vw4	
+62d fighter squadron	1vw4	
+62d fighter squadron interceptor	1vw4	
+62d fighter squadron interceptor twin engine	1vw4	
+62d fighter squadron jet	1vw4	
+62d fighter squadron jet propelled	1vw4	
+62d fighter squadron twin engine	1vw4	
+62d fighter squadron united states	1vw4	
+62d tactical fighter squadron	1vw4	
+aalgard f k	69or	
+aditya	3p9h	ed6:2,pl8:2,2cqx:2,5mwu:3
+aditya 369	2cqx	
+aditya actor	3p9h	
+aditya chopra	ed6	
+aditya kannada actor	3p9h	
+aditya pancholi	pl8	
+aditya pudipeddi	68eq	
+aditya roy		5mwu:3
+aditya roy kapoor	5mwu	
+aditya roy kapur	5mwu	
+aethelbald of wessex	3tqu	
+ajeya bharat	4bjd	
+ajeya bharat party	4bjd	
+alaskey	1i9i	
+alpenpark karwendel	wto	
+alphabeat	3np5	
+arnol d	j4d	
+asnapper	66ey	
+azamun	4nc0	
+backup		5s71:2
+backup accident	1uj	
+backup goalie	s5	
+backup goaltender	s5	
+backup plan	2hj4	
+backup software	5s71	
+badly		2mz7:3
+badly drawn		2mz7:3
+badly drawn boy	2mz7	
+baloyi brian	4nov	
+batan islands	1nnf	
+bathism	64g4	
+bayatinia	5u4p	
+beisan	3eor	
+betxi	4lou	
+bhikkhu	6u5	
+bialetti montecatini	45jj	
+bidzinszczyzna	21zm	
+blackness	2sn	
+borbonic	6z9	
+buluwayo	6h5	
+butter	jtt,2tv2	
+butter 2011 film	2tv2	
+butter 2012 film	2tv2	
+butter pat	jtt	
+calignac	3dzg	
+canale	2ups	d2s:2,1ecj:3,3dve:3,4oy8:2
+canale 5	d2s	
+canale cn	2ups	
+canale cuneo	2ups	
+canale d		1ecj:3
+canale d agordo	1ecj	
+canale d alba	2ups	
+canale d isonzo	307n	
+canale di		3dve:3
+canale di verde	3dve	
+canale monterano	4oy8	
+canale piedmont	2ups	
+canale trentino alto adige sudtirol	yes	
+candelo	3bnx	
+carisey	3q5w	
+centola	401p	
+chiers	4mly	
+chiers river	4mly	
+cockney		5pn2:2
+cockney rebel	16sq	
+cockney rejects	5pn2	
+congresswomen	6gd5	
+cuideiru	2w2m	
+cusack john	d5c	
+donji		k4f:2
+donji srem	dk3	
+donji srem pecinci	dk3	
+donji vakuf	k4f	
+draza		5b26:2
+draza mihailovic	5b26	
+draza mihailovich	5b26	
+draza mihajlovic	5b26	
+dubrovnic	4mk	
+dunlendish	fnw	
+echizen	33bc	
+echizen fukui	33bc	
+echizen japan	33bc	
+edenek scasny	4lmg	
+esl music	5p14	
+esl records	5p14	
+fatimah	z15	3dun:3,5ye9:4
+fatimah al zahra	z15	
+fatimah alzahra	z15	
+fatimah alzahraa	z15	
+fatimah bint		3dun:3,5ye9:4
+fatimah bint al		5ye9:4
+fatimah bint al hasan	5ye9	
+fatimah bint amr	647f	
+fatimah bint asad	3dun	
+fatimah bint hasan	5ye9	
+fatimah bint muhammad	z15	
+fatimah binte amr	647f	
+fatimah comments	z15	
+fatimah jinnah	6390	
+fatimah name	gw9	
+fc kallon	1gk9	
+fc olimpiyets nizhny novgorod	ylk	
+figueres	fbi	
+figueres ferrer	4l4t	
+figueres girona	fbi	
+figueres spain	fbi	
+frankestein	1k57	
+fresnieres	3ja0	
+fudgee o cookies	46y9	
+geordieland	9h2	
+gergor ivanovich gurdyev	412b	
+gmina drezdenko	oja	
+gmina zuromin	12dn	
+goniopholidae	2ufk	
+gts olimpia	2hl0	
+hafar	3r0g	3r0g:3
+hafar al		3r0g:3
+hafar al batin	3r0g	
+hafar albatin	3r0g	
+hafar el batin	3r0g	
+hsblmhc1	6ex7	
+hyo lin	4gcd	
+hyo lyn	4gcd	
+hyo rin	4gcd	
+james ruffin webb	18hw	
+james saumarez		4jev:6
+james saumarez 1st		4jev:6
+james saumarez 1st baron		4jev:6
+james saumarez 1st baron de		4jev:6
+james saumarez 1st baron de saumarez	4jev	
+james saumarez 1st baron de saumarez gcb	4jev	
+james saumarez 1st baron de saumarez or sausmarez gcb	4jev	
+james talent	646m	
+javert seetharaman	2oix	
+jellinek ad	5d5w	
+jellinek adolf	5d5w	
+jellinek award	3pp6	
+jellinek memorial award	3pp6	
+john q	qf3	
+john q a brackett	5tgl	
+john q a ward	443r	
+john q adams	kc6	
+john q baker	6d30	
+john q munch	3tmn	
+kangra	10vi,5ni1	10vi:2
+kangra district	10vi	
+kangra himachal pradesh	5ni1	
+kangra india	5ni1	
+kangra punjab	5ni1	
+katina		299s:2,56ju:2
+katina film	48t3	
+katina papa	56ju	
+katina paxinou	299s	
+katina sergeevna	2uyj	
+kervens		5n87:2
+kervens belfort	5n87	
+kervens belfort fils	5n87	
+kervens fils belfort	5n87	
+killam taran	1v9u	
+kimishige		4r4p:2
+kimishige ishizaka	4r4p	
+kimtaku	18e5	
+kinnear david	52s3	
+kippei		3b1d:2
+kippei shiina	3b1d	
+kittenball	2g7	
+kulik grigory ivanovich	1t40	
+la farge oliver	5g32	
+la valigia		19hx:4
+la valigia dei		19hx:4
+la valigia dei sogni	19hx	
+ladozhskoe ozero	158f	
+lanteuil	2fyk	
+le desert	2tss	
+le desert de feu	2n4z	
+lizoain	3w6p	3w6p:4
+lizoain arriasgoiti		3w6p:4
+lizoain arriasgoiti lizoainibar		3w6p:4
+lizoain arriasgoiti lizoainibar arriasgoiti	3w6p	
+lubaga division	63nu	
+luze	1qd0,26ga,28pv	
+luze chrudim district	1qd0	
+luze czech republic	1qd0	
+luze haute saone	28pv	
+malans	3kpd,3pms	
+malans gr	3kpd	
+malans graubuenden	3kpd	
+malans graubunden	3kpd	
+malans grisons	3kpd	
+malans haute saone	3pms	
+malans switzerland	3kpd	
+maria corazon aquino	17x5	
+maria corazon aquino cojuangco	17x5	
+maria corazon aquino y cojuangco y sumulong	17x5	
+maria corazon cojuangco aquino	17x5	
+maria corazon sumulong cojuangco aquino	17x5	
+mendoza	6d9,1u6l	g54:2
+mendoza argentina	6d9	
+mendoza given name	1u6l	
+mendoza name	1u6l	
+mendoza province	g54	
+mendoza surname	1u6l	
+meriania	2pwu	
+meritamen	20ob,691l	
+meritamen daughter of thutmose iii	691l	
+meritamen wife of amenhotep i	5p7i	
+metacarpal tubercled toad	qyn	
+metacarpal tubercled toads	qyn	
+metropolitan	4up,1uzl,51xw	2th:4,3jk:4,7m6:4,82f:2,8ly:4,abh:4,afh:4,ba1:5,cla:3,cve:4,dp1:4,jeg:4,k5l:4,lqh:4,nyn:4,q2c:6,q7x:3,t8z:2,t99:4,uzc:5,14eg:2,16b0:2,1i8s:4,1jqe:2,1tnt:4,1usq:7,1wr8:3,2b6m:4,2fu8:5,4kpr:2,516h:3,5g1l:2,5uc8:4
+metropolitan 1935 film	1uzl	
+metropolitan 1990 film	51xw	
+metropolitan achbishop	4up	
+metropolitan and metropolitan district railways	5g1l	
+metropolitan and st john s wood railway	5g1l	
+metropolitan arc	o7y	
+metropolitan archbishop	4up	
+metropolitan archdiocese of burgos	5321	
+metropolitan archdiocese of lyon and vienne	3iir	
+metropolitan area	82f	
+metropolitan area italy	5uc8	
+metropolitan area of copenhagen	39xa	
+metropolitan area of manila	6ul	
+metropolitan area puerto rico	82f	
+metropolitan area united states	82f	
+metropolitan areas	82f	
+metropolitan areas in italy	5uc8	
+metropolitan areas of italy	5uc8	
+metropolitan art museum	2th	
+metropolitan atlanta		uzc:5
+metropolitan atlanta rapid		uzc:5
+metropolitan atlanta rapid transit		uzc:5
+metropolitan atlanta rapid transit authority	uzc	
+metropolitan atlanta rapid transit authority bus routes	uzc	
+metropolitan avenue grand street ind crosstown line	5p8x	
+metropolitan avenue ind crosstown line	5p8x	
+metropolitan avenue lorimer street new york city subway	5p8x	
+metropolitan bilbao	17wb	
+metropolitan bishop	4up	
+metropolitan bishop comments	4up	
+metropolitan bishops	4up	
+metropolitan books	7w3	
+metropolitan bordeaux	i6n	
+metropolitan borough	1jqe	1usq:7,2b6m:4
+metropolitan borough council	1jqe	
+metropolitan borough councils	1jqe	
+metropolitan borough london	1usq	
+metropolitan borough of		1usq:7,2b6m:4
+metropolitan borough of barnsley	s1h	
+metropolitan borough of bolton	2vnf	
+metropolitan borough of bradford	m7b	
+metropolitan borough of calderdale	1ser	
+metropolitan borough of coventry	23j	
+metropolitan borough of doncaster	kq6	
+metropolitan borough of doncaster comments	kq6	
+metropolitan borough of dudley	4rt4	
+metropolitan borough of england	1jqe	
+metropolitan borough of gateshead	4qna	
+metropolitan borough of hackney	2b6m	
+metropolitan borough of kirklees	1k8x	
+metropolitan borough of knowsley	1pef	
+metropolitan borough of leeds	fs1	
+metropolitan borough of liverpool	gn	
+metropolitan borough of manchester	ik	
+metropolitan borough of oldham	1ku2	
+metropolitan borough of oldham council	1ku2	
+metropolitan borough of rotherham	u3b	
+metropolitan borough of salford	auv	
+metropolitan borough of sandwell	117o	
+metropolitan borough of sefton	szv	
+metropolitan borough of sheffield	xg	
+metropolitan borough of solihull	2eml	
+metropolitan borough of south tyneside	5dib	
+metropolitan borough of st helens	3frs	
+metropolitan borough of stockport	l8f	
+metropolitan borough of sunderland	j3k	
+metropolitan borough of tameside	1r3d	
+metropolitan borough of the		1usq:7
+metropolitan borough of the county		1usq:7
+metropolitan borough of the county of		1usq:7
+metropolitan borough of the county of london	1usq	
+metropolitan borough of wakefield	jcb	
+metropolitan borough of walsall	237d	
+metropolitan borough of wigan	rgw	
+metropolitan borough of wirral	icp	
+metropolitan borough of wolverhampton	2id	
+metropolitan boroughs	1jqe	
+metropolitan boroughs of london	1usq	
+metropolitan boroughs of the county of london	1usq	
+metropolitan boroughs of the london	1usq	
+metropolitan brest	4kpr	
+metropolitan britain	2yu	
+metropolitan cammell carriage and wagon company	3mi8	
+metropolitan cathedral of buenos aires	5feu	
+metropolitan cathedral of saint mary of the assumption	5sub	
+metropolitan cebu	4mgw	
+metropolitan cebu development and coordinating board	4mgw	
+metropolitan cebu development council	4mgw	
+metropolitan cities in italy	5uc8	
+metropolitan cities of italy	5uc8	
+metropolitan city	3k4n	3jk:4,7m6:4,8ly:4,abh:4,afh:4,ba1:5,cve:4,dp1:4,jeg:4,k5l:4,lqh:4,nyn:4,t99:4,1tnt:4,5uc8:4
+metropolitan city of		3jk:4,7m6:4,8ly:4,abh:4,afh:4,ba1:5,cve:4,dp1:4,jeg:4,k5l:4,lqh:4,nyn:4,t99:4,1tnt:4,5uc8:4
+metropolitan city of bari	t99	
+metropolitan city of bologna	k5l	
+metropolitan city of busan	2m9	
+metropolitan city of cagliari	1tnt	
+metropolitan city of capital rome	8ly	
+metropolitan city of catania	jeg	
+metropolitan city of daegu	51y	
+metropolitan city of daejeon	8ed	
+metropolitan city of florence	nyn	
+metropolitan city of genoa	cve	
+metropolitan city of gwangju	7ma	
+metropolitan city of incheon	4gp	
+metropolitan city of italy	5uc8	
+metropolitan city of messina	afh	
+metropolitan city of milan	7m6	
+metropolitan city of naples	abh	
+metropolitan city of palermo	dp1	
+metropolitan city of reggio		ba1:5
+metropolitan city of reggio calabria	ba1	
+metropolitan city of rome	8ly	
+metropolitan city of rome capital	8ly	
+metropolitan city of turin	3jk	
+metropolitan city of venice	lqh	
+metropolitan combined statistical area	y76	
+metropolitan council transit operations	sib	
+metropolitan davao	5ck3	
+metropolitan denver	60ra	
+metropolitan direct property and casualty insurance company	16ro	
+metropolitan district	1jqe	
+metropolitan district council	1jqe	
+metropolitan district councils	1jqe	
+metropolitan district electric traction company	5juq	
+metropolitan district of bradford	m7b	
+metropolitan district of leeds	ve	
+metropolitan districts	1jqe	
+metropolitan elevated railway	1ix6	
+metropolitan expressway	5fkq	
+metropolitan florence	nyn	
+metropolitan france	t8z	
+metropolitan government	2xd6	
+metropolitan government of nashville and davidson county	vy	
+metropolitan government of nashville and davidson county tennessee	xky	
+metropolitan government of nashville and davidson county tn	xky	
+metropolitan greater nancy	1em1	
+metropolitan groove merchants	21sg	
+metropolitan ilarion ivan ohienko	65x4	
+metropolitan institution	1wpl	
+metropolitan isidore	581s	
+metropolitan john	3iwu	
+metropolitan kirill	2vda	
+metropolitan kirill gundyaev of smolensk and kaliningrad	2vda	
+metropolitan lagos	1m5	
+metropolitan las vegas nevada	hj8	
+metropolitan las vegas nv	hj8	
+metropolitan life	16ro	
+metropolitan life insurance	16ro	
+metropolitan life insurance co	16ro	
+metropolitan life insurance company	16ro	
+metropolitan lille	509	
+metropolitan line	14eg	
+metropolitan line london underground	14eg	
+metropolitan lyon	8yb	
+metropolitan manila	6ul	
+metropolitan mogila	4ndj	
+metropolitan mohyla	4ndj	
+metropolitan montreal	3ynz	
+metropolitan muesum	2th	
+metropolitan municipalities of italy	5uc8	
+metropolitan museum		2th:4
+metropolitan museum new york	2th	
+metropolitan museum of		2th:4
+metropolitan museum of art	2th	
+metropolitan museum of art new york	2th	
+metropolitan museum of arts	2th	
+metropolitan museum of modern art	2th	
+metropolitan museum of new york	2th	
+metropolitan nikodim rotov of leningrad	51g3	
+metropolitan of nicaea bessarion	34go	
+metropolitan opera		516h:3
+metropolitan opera house	516h	
+metropolitan opera house lincoln center	516h	
+metropolitan opera house minneapolis	rs	
+metropolitan philaret	66u0	
+metropolitan pictures	13es	
+metropolitan pictures corporation	13es	
+metropolitan police	16b0	1i8s:4
+metropolitan police commissioner	5zob	
+metropolitan police f		1i8s:4
+metropolitan police f c	1i8s	
+metropolitan police fc	1i8s	
+metropolitan police football club	1i8s	
+metropolitan police force	16b0	
+metropolitan police of 1829	16b0	
+metropolitan police service	16b0	
+metropolitan police service mps	16b0	
+metropolitan police traffic operation control centre	abc	
+metropolitan railway	5g1l	
+metropolitan railway company	5g1l	
+metropolitan region	82f	
+metropolitan region hannover braunschweig gottingen wolfsburg	2l7z	
+metropolitan region of santiago	19tz	
+metropolitan religion	4up	
+metropolitan rennes	c4d	
+metropolitan san francisco	jf1	
+metropolitan school of design	2aa	
+metropolitan see of burgos	5321	
+metropolitan see of lyon	3iir	
+metropolitan see of milan	ioq	
+metropolitan see of palermo	29c9	
+metropolitan see of turin	28a6	
+metropolitan st john s wood railway	5g1l	
+metropolitan st louis	5d94	
+metropolitan state		1wr8:3,2fu8:5
+metropolitan state college	2fu8	
+metropolitan state college of denver	2fu8	
+metropolitan state university	1wr8	2fu8:5
+metropolitan state university of		2fu8:5
+metropolitan state university of denver	2fu8	
+metropolitan statistical		cla:3
+metropolitan statistical area	cla	
+metropolitan statistical areas	cla	
+metropolitan subway	2k9	
+metropolitan title	4up	
+metropolitan toronto zoo	pbp	
+metropolitan train	264	
+metropolitan transit		q2c:6
+metropolitan transit authority		q2c:6
+metropolitan transit authority boston	4uw	
+metropolitan transit authority new york	q7x	
+metropolitan transit authority of		q2c:6
+metropolitan transit authority of harris		q2c:6
+metropolitan transit authority of harris county	q2c	
+metropolitan transit authority of harris county texas	q2c	
+metropolitan transit authority of harris county tx	q2c	
+metropolitan transit authority of new york city	q7x	
+metropolitan transit system	u1d	
+metropolitan transportation		q7x:3
+metropolitan transportation authority	q7x	
+metropolitan transportation authority boston	4uw	
+metropolitan transportation authority new york	q7x	
+metropolitan transportation authority of new york	q7x	
+metropolitan underground railway	5g1l	
+metropolitan vladimir	5m6i	
+metropolitan vladimir sabodan	5m6i	
+metropolitan vocational high school	6g62	
+metropolitan volodymyr	5m6i	
+metropolitan volodymyr sabodan	5m6i	
+metropolitan volodymyr viktor sabodan	5m6i	
+meurthe	wa,2xyw	zr:3
+meurthe and moselle	zr	
+meurthe departement	wa	
+meurthe department	wa	
+meurthe et		zr:3
+meurthe et moselle	zr	
+meurthe river	2xyw	
+moengka	4eyl	
+mytishchi	bkk	
+mytishchi urban settlement	bkk	
+nabringhen	360g	
+naceradec	2fxu	
+observe		233a:3
+observe and		233a:3
+observe and protect	233a	
+observe and report	233a	
+octocentenary	3fxz	
+ortucchio	3vlt	
+overijssel	c13	
+overijssel departement	c13	
+pagoda	15gd	
+patriarch	c9x	vui:3,1j8j:3,4tg5:4,51ff:4,5x19:5
+patriarch abraham	fvv	
+patriarch ad personam	c9x	
+patriarch alexey i	2nil	
+patriarch alexey i of moscow	2nil	
+patriarch alexey ii of moscow	1j8j	
+patriarch alexey ii of russia	1j8j	
+patriarch alexi i	2nil	
+patriarch alexi ii	1j8j	
+patriarch alexis ii of moscow	1j8j	
+patriarch alexius		1j8j:3
+patriarch alexius i of moscow	2nil	
+patriarch alexius ii	1j8j	
+patriarch alexy i	2nil	
+patriarch alexy i of moscow	2nil	
+patriarch alexy i of russia	2nil	
+patriarch alexy ii of russia	1j8j	
+patriarch and patriarchate	c9x	
+patriarch athanasius i of alexandria	126q	
+patriarch athenagoras	5u98	
+patriarch athenagoras i of constantinople	5u98	
+patriarch athenagoras of constantinople	5u98	
+patriarch bartholomew	3uoh	
+patriarch bartholomew i	3uoh	
+patriarch bartholomew i of constantinople	3uoh	
+patriarch bartholomew of constantinople	3uoh	
+patriarch christian churches	c9x	
+patriarch church	c9x	
+patriarch constantine	l8b	
+patriarch cyril i of alexandria	5pp1	
+patriarch cyril i of moscow	2vda	
+patriarch cyril of moscow	2vda	
+patriarch elect kirill of moscow	2vda	
+patriarch filaret feodor romanov	51ff	
+patriarch filaret of moscow	51ff	
+patriarch filaret of moscow and all rus	51ff	
+patriarch fotios		5x19:5
+patriarch fotios ii	5x19	5x19:5
+patriarch fotios ii of		5x19:5
+patriarch fotios ii of constantinople	5x19	
+patriarch ignatios of constantinople	55jz	
+patriarch ignatius i of constantinople	55jz	
+patriarch ignatius of constantinople	55jz	
+patriarch john i of constantinople	2iva	
+patriarch kirill i	2vda	
+patriarch kirill i of moscow	2vda	
+patriarch kirill i of russia	2vda	
+patriarch mark i	yjf	
+patriarch mark i of alexandria	yjf	
+patriarch of		vui:3
+patriarch of alexandria	vui	
+patriarch of contstantinople	4ag	
+patriarch of istanbul	4ag	
+patriarch of new rome	4ag	
+patriarch of the church of alexandria	vui	
+patriarch of the see of saint mark	9p0	
+patriarch of the see of st mark	9p0	
+patriarch of the west	c9x	
+patriarch of venice	lir	
+patriarch pavle		4tg5:4
+patriarch pavle ii	4tg5	
+patriarch pavle of		4tg5:4
+patriarch pavle of serbia	4tg5	
+patriarch philaret		51ff:4
+patriarch philaret of		51ff:4
+patriarch philaret of moscow	51ff	
+patriarch photios ii of constantinople	5x19	
+patriarch photius ii	5x19	
+patriarch photius ii of constantinople	5x19	
+patriarch pimen	4dlt	
+patriarch pimen i	4dlt	
+patriarch pimen i of moscow	4dlt	
+patriarch pimen of moscow	4dlt	
+patriarch slipyj	5jdx	
+patriarch theophylact of constantinople	5qcg	
+patriarch theophylactus	5qcg	
+patriarch theophylaktos	5qcg	
+patriarch theophylaktos of constantinople	5qcg	
+patriarch tikhon	4h5u	
+patriarch tikhon of moscow	4h5u	
+pellizzaro	5c51	
+periana	2bvv	
+periana malaga	2bvv	
+periana spain	2bvv	
+pleuronectiform	4zpm	
+pnumh penh	489	
+pnumh penn	489	
+porel	1asg	
+prince preston	507l	
+prince preston jr	507l	
+ptericoptus	5coh	
+renaissant	2uxa	
+robert cailliau	67a9	
+robert lepage	202k	
+rolfe		gay:2,npp:2
+rolfe john	6gpq	
+rolfe kent	npp	
+rolfe sedan	gay	
+roquettes	3ejc	
+salting ski race course	i2	
+saude telemark	1eee	
+semidopsis	364m	
+setanta	1s1l	1nrp:2
+setanta records	1nrp	
+similau	19tj	
+sitifi	k6y	
+siversky donets	4f0o	
+slick		1y40:2
+slick birds of prey	5455	
+slick ric	3nd0	
+slick rick	1y40	
+sollana	2g0x	
+superdivision	1qe5	
+szm	h62	
+texaco	48ud	
+texaco company	48ud	
+texaco corporation	48ud	
+texaco inc	48ud	
+texaco online	48ud	
+texaco petroleum	48ud	
+texaco petroleum company	48ud	
+the burnt orange heresy	3f6b	
+the quah	122a	
+the quireboys	62nj	
+the tell tale head	6app	
+thillombois	2zid	
+thomas sowunmi	3q6n	
+tovarochloa	p2d	
+tradition	1t8i	
+tradition philosophy	1t8i	
+tradition responsibility prosperity 09	29kd	
+vila		59i:4,aik:4,d78:3,q60:4,yq2:2,zzs:2,187o:4,1oqy:2,206j:5,23f0:2,2820:2,2ejg:3,2lea:4,2mnz:2,2s1h:4,33g2:2,3c8a:2,3ir2:4,3m7v:3,4yek:5
+vila concepcion	1x32	
+vila d eivissa	ykq	
+vila da praia	3ckz	
+vila da praia da vitoria	3ckz	
+vila de		3m7v:3
+vila de cangas	33f7	
+vila de cruces	3m7v	
+vila do		d78:3,2ejg:3
+vila do bispo	2ejg	
+vila do bispo municipality	2ejg	
+vila do conde	d78	
+vila do conde municipality	d78	
+vila franca		187o:4,2lea:4
+vila franca de		187o:4
+vila franca de xira	187o	
+vila franca de xira municipality	187o	
+vila franca do		2lea:4
+vila franca do campo	2lea	
+vila franca do campo azores	2lea	
+vila franca do campo municipality	2lea	
+vila joiosa	1btw	
+vila nova		59i:4,aik:4,q60:4,2s1h:4,3ir2:4,4yek:5
+vila nova da		2s1h:4
+vila nova da barquinha	2s1h	
+vila nova da barquinha municipality	2s1h	
+vila nova de		aik:4,q60:4,3ir2:4,4yek:5
+vila nova de cerveira	3ir2	
+vila nova de cerveira municipality	3ir2	
+vila nova de famalicao	q60	
+vila nova de famalicao municipality	q60	
+vila nova de foz		4yek:5
+vila nova de foz coa	4yek	
+vila nova de foz coa municipality	4yek	
+vila nova de gaia	aik	
+vila nova de gaia municipality	aik	
+vila nova de gaia portugal	aik	
+vila nova de ourem	1jdd	
+vila nova de portimao	xjc	
+vila nova f c	59i	
+vila nova futebol		59i:4
+vila nova futebol clube	59i	
+vila real	zzs,12d1,1oqy	206j:5
+vila real cf	495	
+vila real de		206j:5
+vila real de s antonio	206j	
+vila real de santo		206j:5
+vila real de santo antonio	206j	
+vila real de santo antonio municipality	206j	
+vila real district	1oqy	
+vila real municipality	zzs	
+vila real portugal	zzs	
+vila real spain	12d1	
+vila real villarreal	12d1	
+vila rica	2ced	
+vila rica de ouro preto	2ced	
+vila rica do ouro preto	2ced	
+vila rodona	33g2	
+vila salazar east timor	54mb	
+vila salazar portuguese timor	54mb	
+vila sana	3c8a	
+vila seca	2mnz	
+vila velha	yq2	
+vila velha brazil	yq2	
+vila verde	2820	
+vila verde braga	2820	
+vila verde municipality	2820	
+vila vicosa	23f0	
+vila vicosa municipality	23f0	
+william nobles	1edb	
+william nobles cinematographer	1edb	
+xiaogong yisheng huangdi	5hmu	
+zhemchuzhina budyonnovsk	1c1j	
+zhemchuzhina kuban sochi	590	
+zhemchuzhina lukoil budyonnovsk	1c1j	
+zhemchuzhina sochi	590	
+zhemchuzhina yalta	1bjt	
+zory	1f9s	

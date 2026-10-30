@@ -1,0 +1,433 @@
+2090 2099	29eg	
+3000		sf5:2,130k:3,1vnz:4
+3000 b c	2oht	
+3000 m	sf5	
+3000 m s chase	130k	
+3000 m st	130k	
+3000 m steeple	130k	
+3000 m steeplechase	130k	
+3000 meter	sf5	
+3000 meter run	sf5	
+3000 meter steeplechase	130k	
+3000 meters	sf5	
+3000 meters steeplechase	130k	
+3000 metre	sf5	
+3000 metre run	sf5	
+3000 metre steeplechase	130k	
+3000 metres	sf5	130k:3
+3000 metres hurdles	130k	
+3000 metres indoor	sf5	
+3000 metres run	sf5	
+3000 metres st	130k	
+3000 metres steeplechase	130k	
+3000 miles		1vnz:4
+3000 miles to		1vnz:4
+3000 miles to graceland	1vnz	
+3000 s b c	2c4v	
+a capella	93w	
+abtahi		6fi7:2
+abtahi mehdi	6fi7	
+admiralty		lru:2,1bkq:2,1w3l:2,3f94:4,4anj:2
+admiralty brass	uxl	
+admiralty island languages	1w3l	
+admiralty islands	1w3l	
+admiralty m		3f94:4
+admiralty m class		3f94:4
+admiralty m class destroyer	3f94	
+admiralty mountains	1bkq	
+admiralty mtr	4anj	
+admiralty mtr station	4anj	
+admiralty range	1bkq	
+admiralty shipyard	lru	
+admiralty shipyards	lru	
+admiralty station	4anj	
+admiralty station mtr	4anj	
+admiralty yard	lru	
+aesopica	6gko	
+affricated	19ry	
+agbatana	4vus	
+agyneta	61x	
+akseli	6b03	1fyq:3,58s5:2
+akseli first name	6b03	
+akseli gallen		1fyq:3
+akseli gallen kallela	1fyq	
+akseli given name	6b03	
+akseli kallela	1fyq	
+akseli oxenstierna	43xa	
+akseli pelvas	58s5	
+akseli valdemar gallen kallela	1fyq	
+alexander george claire	3y90	
+alexander george clare	3y90	
+alexander george marquess of bath thynn	4kft	
+alexander george montagu cadogan	62fd	
+alexander george russell	3di3	
+alexander george thynn	4kft	
+alexander george thynn marquess of bath	4kft	
+alexander george thynne 7th marquess of bath	4kft	
+alexander payne	18n0	
+alexander payne comments	18n0	
+anata ga iru kagiri	68t2	
+anata ga iru kagiri a world to believe in	68t2	
+anata no shikihime kyouikutan	jd6	
+anata o omo hodo	17a1	
+anata wo omou hodo	17a1	
+aphididae	n4y	
+arauco		3t57:2,420l:2
+arauco province	420l	
+arauco war	3t57	
+arik		61l3:2
+arik boke	5auk	
+arik buka	5auk	
+arik ejiafur	4lwc	
+arik yanko	61l3	
+asassination	2bhz	
+avram	fvv	2dr6:2,4e9w:2
+avram ben mordecai	14i7	
+avram benaroya	4qv0	
+avram burg	5o7u	
+avram davidson	4e9w	
+avram goldfaden	5g7f	
+avram heffner	56sd	
+avram hershko	2dr6	
+avram moishe schwartz	5gj3	
+avram noam chomsky	9sl	
+avram papadopoulos	3tro	
+babinksi	5bsm	
+bagridae	1slk	
+bican	2npq	
+bitmap bros	5q43	
+bitmap brothers	5q43	5q43:3
+bitmap editor	a90	
+bitmap editors	a90	
+bitmap font	1vos	
+bitmap fonts	1vos	
+bitmap graphic editor	a90	
+bitmap graphics editor	a90	
+bitmap graphics programs	a90	
+bitmap graphics software	a90	
+bitmap image editor	a90	
+bitmap image file format	301z	
+blabea	94d	
+blackehart stephen	2jwz	
+boasson hagen	i30	
+bombshelter	5pqo	
+botticino	4nrh	
+botticino mattina	4nrh	
+botticino sera	4nrh	
+buido	16x7	
+canelos and macas	3qvq	
+cang sai gon f c	3q25	
+carnation band	19e	
+ceda jovanovic	5yjh	
+celal pasha	4swo	
+celal talabani	55bp	
+celal talebani	55bp	
+celal tallebani	55bp	
+chimia		55v8:3
+chimia ramnicu		55v8:3
+chimia ramnicu valcea	55v8	
+chimia ramnicu valcea in europe	5p2h	
+christiania	8n	
+christiania norway	8n	
+christiania skiteklub	2bly	
+christiania university	us	
+cindy	5vp,5e68	1dwk:2,1iws:2,1kqq:2,1xs5:2,5jnp:2,5tv6:2,66b0:2
+cindy clausen	1kqq	
+cindy clerico	17s2	
+cindy crawford	1iws	
+cindy crawford actress	1iws	
+cindy crawford filmography	1iws	
+cindy crosby	3zy6	
+cindy film	5e68	
+cindy first name	5vp	
+cindy given name	5vp	
+cindy h mccain	5jnp	
+cindy hampton	5u51	
+cindy hensley	5jnp	
+cindy hensley mccain	5jnp	
+cindy klassen	1kqq	
+cindy lauper	f36	
+cindy lou hensley	5jnp	
+cindy lou hensley mccain	5jnp	
+cindy mccain	5jnp	
+cindy pickett	66b0	
+cindy sherman	1xs5	
+cindy walters	5tv6	
+cindy williams	1dwk	
+commensacq	3xox	
+comunication	emq	
+cosma		4kil:3
+cosma composer	f00	
+cosma shiva		4kil:3
+cosma shiva hagen	4kil	
+david dantoni	43de	
+david lazaro	56em	
+demokratik sol parti	4qaz	
+derr richard	4d3i	
+dyplomatyczna zona	3zg4	
+edward wakefield	2pk2	
+edward wakefield 1774 1854	2pk2	
+edward wakefield 17741854	2pk2	
+edward wakefield statistician	2pk2	
+eiland van dordrecht	42q	
+elisandro		6cgt:3
+elisandro naressi		6cgt:3
+elisandro naressi roos	6cgt	
+elisandro naressi ross	6cgt	
+epicureus	15v1	
+espanola	2ute	
+espanola micropolitan statistical area	ref	
+espanola n m	2ute	
+espanola new mexico	2ute	
+espanola new mexico comments	2ute	
+espanola new mexico micropolitan area	ref	
+espanola nm	2ute	
+espanola nm micropolitan statistical area	ref	
+espanola nm msa	ref	
+espanola nm sa	ref	
+etuworop sir	251x	
+fantastischen vier	1at2	
+fc clacton	16wt	
+galactoxylon	lfo	
+generali	1nki	22n0:3
+generali group	1nki	
+generali ladies		22n0:3
+generali ladies linz	22n0	
+generali okapi aalstar	4t5m	
+generali open	2up9	
+generali open kitzbuhel	2up9	
+generali romania	1nki	
+golmaal		4cdw:2,5ivf:3,5pnt:2
+golmaal 1	5ivf	
+golmaal 2	4cdw	
+golmaal 2006 film	5ivf	
+golmaal 3	5pnt	
+golmaal 3 film	5pnt	
+golmaal fun		5ivf:3
+golmaal fun unlimited	5ivf	
+golmaal returns	4cdw	
+golmaal series	5ivf	
+gomphrenoids	6f7f	
+gonfreville	3hk9	1m70:3,2yty:2
+gonfreville caillot	2yty	
+gonfreville l		1m70:3
+gonfreville l orcher	1m70	
+gorgondy	kuq	
+grco roman wrestling	265q	
+guermantes	2xqo	
+gunzenhausen	rmm	
+heiress	11tg	11tg:2
+heiress fragrance	nvg	
+heiress heir fragrance	nvg	
+heiress maria of the duchies of galicia	4rza	
+heiress records	nvg	
+helleniko olympic complex	5h5j	
+henry jepson		4xv9:3
+henry jepson latham	4xv9	
+hinojosa		1qtb:3
+hinojosa del		1qtb:3
+hinojosa del duque	1qtb	
+hinojosa del duque cordoba	1qtb	
+hinojosa del duque spain	1qtb	
+hunderford primary school	9e5	
+iachini	44hn	
+illustrate	1q03	
+jacobstadt	dnu	
+jainism	71b	
+jainism and mahavira	4c95	
+jaypur	5h4	
+john houston stockton	228i	
+john stroeder	3ozm	
+john webster	3bof	
+jumpin		10wy:3,68e5:3
+jumpin cat music	46mk	
+jumpin jack		10wy:3,68e5:3
+jumpin jack flash	10wy,68e5	
+jumpin jack flash film	10wy	
+jumpin jack flash movie	10wy	
+jumpin jack flash song	68e5	
+kaptan derya	17bt	
+kaptan i derya	17bt	
+kaptan pasa	17bt	
+kaptan pasha	17bt	
+katarinu zrinsku	64z5	
+kendell jackson	4140	
+kendell jenner	15hm	
+kochadaiyaan	4j78	
+kochadaiyaan the legend	4j78	
+komodo		1wn5:2
+komodo dragon	1wn5	
+komodo dragon fact sheet	1wn5	
+komodo dragons	1wn5	
+komodo island monitor	1wn5	
+komodo monitor	1wn5	
+komodo monitor lizard	1wn5	
+korror	4yg3	
+kotar zeljezno okolica	sa0	
+la morera		3as0:4
+la morera de		3as0:4
+la morera de montsant	3as0	
+lagrace		2h67:2
+lagrace dieu	2h67	
+le chasseur de chez maxim s	3ikz	
+le golem	5o10	
+leedsbeckett ac uk	o2z	
+macgillycuddy		4w5v:3
+macgillycuddy s		4w5v:3
+macgillycuddy s reeks	4w5v	
+macgillycuddy s reeks ridge walk	4w5v	
+magnetospheric convection and magnetic storms	6hrr	
+magnetospheric imaging instrument	4som	
+malda	3foq	16yc:2
+malda district	16yc	
+malda lleida	3foq	
+marchpane	6ful	
+marilao	1ol6	
+marilao bulacan	1ol6	
+mencia		64vd:4
+mencia de haro	64vd	
+mencia lopez		64vd:4
+mencia lopez de		64vd:4
+mencia lopez de haro	64vd	
+merignies	25l8	
+michael jaffe	5vu4	
+micropolis game	ncf	
+micropolis video game	ncf	
+microptericina	eqw	
+mlacolm in the middle	33rv	
+muenchwilen district	187x	
+muenchwilen tg	25bi	
+muenchwilen thurgau	25bi	
+mussloini	clb	
+nailly	1sqv	
+nebeska tema	27xr	
+nebeska udica	350u	
+neuenkirchen	3ro1	438w:2
+neuenkirchen kreis steinfurt	3ro1	
+neuenkirchen voerden	438w	
+neuenkirchen vorden	438w	
+neuenkirchen westphalia	3ro1	
+ochestraic	10i	
+octopuses	3ly0	
+octopuses or octopi	3ly0	
+oftamology	61a	
+oloron	e51	e51:3
+oloron france	e51	
+oloron sainte		e51:3
+oloron sainte marie	e51	
+ovorhangaj	mw8	
+parrita		23vy:2
+parrita canton	23vy	
+payments network	4fmz	
+payments system	4fmz	
+peloponnesian		1pge:2
+peloponnesian peninsula	2zt	
+peloponnesian war	1pge	
+peloponnesian wars	1pge	
+peter russia	8i	
+petworth	1i1g	5fok:2
+petworth england	1i1g	
+petworth house	5fok	
+petworth house and park	5fok	
+petworth sussex	1i1g	
+petworth west sussex	1i1g	
+piccola posta	4m9w	
+piccola roma	bdk	
+pksubban1	2rph	
+pontruet	35zr	
+ratiopharm		3n7j:2
+ratiopharm ulm	3n7j	
+rhett		4cu6:2,4e8w:2,5fer:2
+rhett akins	4cu6	
+rhett atkins	4cu6	
+rhett davies	4e8w	
+rhett miller	5fer	
+rhett thomas	24d2	
+richard perry	3lfe	
+rifles	1kf,8gt	5bw1:2
+robbinsville	2y1c	2y1c:2
+robbinsville n j	2y1c	
+robbinsville new jersey	2y1c	
+robbinsville nj	2y1c	
+robbinsville township	2y1c	
+robbinsville township mercer county new jersey	2y1c	
+robbinsville township new jersey	2y1c	
+ryouhei	35e2	
+saab35	1hsh	
+sanda	3eir	4134:3
+sanda beef	3eir	
+sanda gargantua	2cup	
+sanda hyogo	3eir	
+sanda raskovic		4134:3
+sanda raskovic ivic	4134	
+santales	5j3p	
+scholtzia	635b	
+siegen	9e8,25n5	110y:2
+siegen bas rhin	25n5	
+siegen germany	9e8	
+siegen wittgenstein	110y	
+siegen wittgenstein district	110y	
+soissons	ay8	
+soissons france	ay8	
+spich	qkn	
+swiecki	vog	
+sylvester	3eck	9ko:2,1uyl:2,2ogi:2,37xu:2,3vu7:2,4neq:2,5p7a:2
+sylvester alphonse metzetti	3ly8	
+sylvester disco	3eck	
+sylvester e stallone	9ko	
+sylvester enzio stallone	9ko	
+sylvester gardenzio stallone	9ko	
+sylvester gray	3vu7	
+sylvester groth	37xu	
+sylvester harold	5dfq	
+sylvester hurd	3eck	
+sylvester ii	2ogi	
+sylvester james	3eck	
+sylvester james comments	3eck	
+sylvester james joseph	11ob	
+sylvester kelly	7ng	
+sylvester l weaver	4neq	
+sylvester l weaver jr	4neq	
+sylvester levay	1uyl	
+sylvester mccoy	5p7a	
+sylvester metzetti	3ly8	
+sylvester muckelroy	376l	
+sylvester pat weaver	4neq	
+sylvester singer	3eck	
+sylvester singer comments	3eck	
+sylvester sly stone stewart	3jpk	
+sylvester stallone	9ko	
+sylvester stalone	9ko	
+sylvester stewart	3jpk	
+sylvester szmyd	36ke	
+sylvester szymyd	36ke	
+sylvester weaver	4neq	
+sylvester weaver executive	4neq	
+sylvester weaver jr	4neq	
+sylvester william	1x9p	
+tamanac indians	6fqm	
+tekstilshik ivanovo	7kf	
+the mists		4wni:4
+the mists of		4wni:4
+the mists of avalon	4wni	
+the mists of avalon miniseries	4wni	
+the mists of avalon tv miniseries	4wni	
+tinkoff	ddw	cnz:2,vqc:3
+tinkoff 2016	cnz	
+tinkoff saxo	ddw	vqc:3
+tinkoff saxo 2014	vqc	
+tiquinho	4xhe	
+tiquinho soares	3vml	
+trollheimen	4yge	
+trollheimen comments	4yge	
+trollheimen mountain range	4yge	
+trollheimen mountains	4yge	
+tukkum	1nv1	
+tushar kapoor	vsw	
+ulaanbator	4sm	
+unom	3pw	
+vegha	4ix4	
+wienhausen	2ufj	
+yimpas		1dib:2
+yimpas yozgatspor	1dib	
+zbecno	2yxx	

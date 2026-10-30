@@ -1,0 +1,387 @@
+abbreviation	xir	
+agong	5lma	
+alrighty then	1l8e	
+aquinas		hrg:2,43yj:2
+aquinas college	hrg,43yj	
+aquinas college grand rapids	43yj	
+aquinas college manning	hrg	
+aquinas college michigan	43yj	
+aquinas college mount henry	hrg	
+aquinas college perth	hrg	
+aquinas college perth comments	hrg	
+aquinas college perth sport	hrg	
+aquinas edu	43yj	
+aquinas saints	43yj	
+aquinas wa edu au	hrg	
+arborio	2d57	
+arborio italy	2d57	
+arborio piedmont	2d57	
+arborio vc	2d57	
+arthies	2s7d	
+artiste	76	
+attaichnus	5yqi	
+audere est facere	184	
+authentication		41cf:2
+authentication protocol	41cf	
+authentication protocols	41cf	
+bheer	2w2	
+boissey	2ig2,2p0m	
+boissey ain	2ig2	
+boissey calvados	2p0m	
+boissey calvados france	2p0m	
+botnet	2jwm	
+bourdeilles	1hhi	
+bourdeilles france	1hhi	
+byfeld hall	yk7	
+carota	36vd	
+charles amoah	59w0	
+charles horace		4rik:3
+charles horace mayo	4rik	
+chottagram	816	
+civilised	5dpz	
+clezio	hml	
+corso		553k:2
+corso salani	553k	
+cranopsis	624u	
+cranopsis gastropod	624u	
+david house productions	3og9	
+david mcallister	1rx4	
+david mcallister politician	1rx4	
+dharan	55sj	
+dharan kumar	55sj	
+dharan music composer	55sj	
+dharan music director	55sj	
+drippin how u luv that	6hhs	
+elapids	rau	
+erneville		1x2n:3
+erneville aux		1x2n:3
+erneville aux bois	1x2n	
+etalong	2d3b	
+euronext2	fco	
+fc neftchi	k6q	k6q:3
+fc neftchi baki	5d7	
+fc neftchi baku	5d7	
+fc neftchi fergana	k6q	
+feltbeats	142u	
+filiano	54ei	
+fourteen		1qsg:2,550t:3
+fourteen eighties	27vh	
+fourteen fifties	2863	
+fourteen forties	2b8c	
+fourteen helpers	550t	
+fourteen holy		550t:3
+fourteen holy helpers	550t	
+fourteen hours	1qsg	
+fourteen hours film	1qsg	
+fourteen martyrs	550t	
+fourteen million leagues from earth	5j6q	
+fourteen nineties	24ul	
+fourteen saints	550t	
+fourteen seventies	29tc	
+fourteen sixties	28ww	
+fourteen tens	2a7e	
+fourteen thirties	2938	
+fourteen twenties	26o5	
+freiburg	6z5	1f1:3,1vcf:3,3sc9:4
+freiburg breisgau	1f1	3sc9:4
+freiburg breisgau central		3sc9:4
+freiburg breisgau central station	3sc9	
+freiburg breisgau hauptbahnhof	3sc9	
+freiburg brg hbf	3sc9	
+freiburg canton	3jn	
+freiburg central station	3sc9	
+freiburg germany	1f1	
+freiburg government		1vcf:3
+freiburg government region	1vcf	
+freiburg hauptbahnhof	3sc9	
+freiburg hbf	3sc9	
+freiburg i b	1f1	
+freiburg i br	1f1	
+freiburg i u	6z5	
+freiburg i ue	6z5	
+freiburg im		1f1:3
+freiburg im breisgau	1f1	
+freiburg im breisgau hauptbahnhof	3sc9	
+freiburg im uechtland	6z5	
+freiburg in baden	1f1	
+freiburg in schlesien	2wmm	
+freiburg region	1vcf	
+freiburg swiss city	6z5	
+freiburg switzerland	6z5	
+freiburg university	33y	
+gacelperfinian usurp pocketreparser aung san	4oq4	
+gacelperfinian usurp pocketreparser aung san suu kyi	gor	
+gacelperfinian usurp pocketreparser burma	be	
+gacelperfinian usurp pocketreparser david thewlis	je2	
+gacelperfinian usurp pocketreparser luc besson	a99	
+gacelperfinian usurp pocketreparser michael aris	3byw	
+gacelperfinian usurp pocketreparser michelle yeoh	vhx	
+gacelperfinian usurp pocketreparser national league for democracy	1bqz	
+gacelperfinian usurp pocketreparser the lady 2011 film	36z5	
+gayo julio cesar	ffu	
+gayo music	14x	
+george rochford	3jkt	
+gharb		4fc3:5
+gharb al istiwa iyah	52yr	
+gharb al istiwa iyah state	52yr	
+gharb al istiwa iyah state sudan	52yr	
+gharb bahr al ghazal	5d98	
+gharb bahr al ghazal state	5d98	
+gharb bahr al ghazal state sudan	5d98	
+gharb e		4fc3:5
+gharb e karun	4fc3	4fc3:5
+gharb e karun rural		4fc3:5
+gharb e karun rural district	4fc3	
+gisbert		5axq:2
+gisbert wuestholz	5axq	
+gisbert wustholz	5axq	
+gmina biszcza	3jyl	
+gmina koczygowy	10eb	
+gnojnik commune	60p1	
+godapski	3v4b	
+hendry		1pqc:2,4hq4:2
+hendry county	1pqc	
+hendry county fl	1pqc	
+hendry county florida	1pqc	
+hendry kurniawan saputra	4ora	
+hendry stephen	snj	
+hendry thomas	4hq4	
+hezarmasjed	4kgi	4kgi:3
+hezarmasjed rural		4kgi:3
+hezarmasjed rural district	4kgi	
+hobsovice	2t3n	
+huddle	6hur	
+hypertension induced by pregnancy	4nzw	
+hypertension malignant	2wci	
+hypertension pulmonary	6byb	
+interrotron	1aov	
+iraina	l6l	
+james parrot	eut	
+juzur al qamar	2tp	
+krotoschin	1wql	
+lapinlahti	4smx	
+lipetsk	cdt	jqd:2
+lipetsk oblast	jqd	
+lipetsk russia	cdt	
+lipetsk urban okrug	cdt	
+ludwing van beethoven	587	
+ludwing von koopa	6hmh	
+lung		r1:2
+lung adenocarcinoma	5lvo	
+lung cancer	r1	
+lung carcinoma	r1	
+lung ch i	1bwa	
+lung cheng	7rw	
+lung collapse	4l5s	
+lung congestion	1zyi	
+lung diseases interstitial	1rqo	
+lung doctor	a2i	
+lung edema	1zyi	
+lung endometriosis	4l5s	
+lung failure	1x2x	
+lung hai railway	o15	
+lung kong	5n47	
+lung medicine	a2i	
+lung neoplasia	r1	
+lung neoplasm	r1	
+lung rocket	4yip	
+lung sihung	51ru	
+lung ti	r9n	
+lung yan	1t36	
+lung yen	1t36	
+maddow	3uld	
+maddow rachel	3uld	
+maguma	1vg8	
+maguma gorath	1vg8	
+maidan	6cuj	15d8:3
+maidan 1982 film	6cuj	
+maidan province	15d8	
+maidan wardak	15d8	15d8:3
+maidan wardak province	15d8	
+mannheimer erc	15xe	
+mannheimer fc viktoria 97	m8h	
+mannheimer fg union 97	m8h	
+maryport	2hf5	
+maryport cumbria	2hf5	
+maryport urban district	2hf5	
+measured	fuk	
+mezilesi	4fst	
+mezilesi nachod district	4fst	
+mezzano	3azl	
+michael rodriguez	2l0j	
+michael rodriguez footballer	2l0j	
+michael shepherd	l6n	
+michael shepherd pseudonym of robert ludlum	l6n	
+midgeymay aron erlichman deuce	1ahs	
+molecular	1wg4	mcz:2,5r0a:2
+molecular and atomic elements	6lx	
+molecular and cell biology	47jc	
+molecular and structural biology	mcz	
+molecular approach	mcz	
+molecular biological	mcz	
+molecular biologist	mcz	
+molecular biologists	mcz	
+molecular biology	mcz	
+molecular biology research	mcz	
+molecular bonds	69au	
+molecular cell biology	47jc	
+molecular chemistry	20e	
+molecular compound	1wg4	
+molecular disrupter device	2fsg	
+molecular disruption device	2fsg	
+molecular diversity preservation international	55zr	
+molecular entity	5r0a	
+molecular hydrogen	23i	
+molecular immobilization	rrr	
+molecular immobilization charmed	rrr	
+molecular mechanisms of memory	2lc9	
+molecular nitrogen	160	
+molecular radius	1wg4	
+molecular scale biology	mcz	
+molecular size	1wg4	
+molecular spectroscopy	4a2c	
+molecular structure	1wg4	
+molecular structure elucidation	emk	
+molecular theory	1wg4	
+mongar		u38:2
+mongar district	u38	
+montrealers	8m	
+neversoft	27k7	
+neversoft entertainment	27k7	
+oberplanitz	8gb	
+oberwart	290c	ise:2
+oberwart district	ise	
+olsberg moselle	1owz	
+ozolnieku novads	3d9q	
+pakirri es gordo	gau	
+paullus		4207:3
+paullus aemilius		4207:3
+paullus aemilius lepidus	4207	
+pcupr	5g0t	
+percote moth	2oc2	
+peter barry brown	4r7c	
+peter ressel	3x6s	
+pontificial academy of sciences	56j	
+princess norina matchabelli	5bob	
+raibareilly district	2e2n	
+robert kirshner	50mw	
+roxann		61q:2
+roxann biggs	61q	
+roxann biggs dawson	61q	
+roxann caballero	61q	
+roxann dawson	61q	
+saato	5x6	
+saina		1w22:2
+saina nehwal	1w22	
+saint mabyn	1lli	
+san leo	1bl3	
+saroscelis	dhm	
+savannah	2nz,3jrx,3m5s,3nws	f39:6,1p2f:3,3ng4:2
+savannah a d atlanta bees	f39	
+savannah a d savannah bees	f39	
+savannah a datlanta bees	f39	
+savannah a dsavannah bees	f39	
+savannah anne kathleen phillips	2u4t	
+savannah chatham metropolitan georgia	2nz	
+savannah city	2nz	
+savannah city georgia	2nz	
+savannah college		f39:6
+savannah college of		f39:6
+savannah college of art		f39:6
+savannah college of art and		f39:6
+savannah college of art and design	f39	
+savannah college of art design	f39	
+savannah elephant	3hvc	
+savannah first name	3m5s	
+savannah ga	2nz	
+savannah georgia	2nz	
+savannah georgia u s state	2nz	
+savannah given name	3m5s	
+savannah missouri	3nws	
+savannah mo	3nws	
+savannah nix	1nko	
+savannah o neal	2qyy	
+savannah phillips	2u4t	
+savannah phillips british royal family	2u4t	
+savannah spirits	3ng4	
+savannah state	1p2f	1p2f:3
+savannah state college	1p2f	
+savannah state navbox	1p2f	
+savannah state university	1p2f	
+savannah tenn	3jrx	
+savannah tennessee	3jrx	
+savannah tn	3jrx	
+schlagefestivalen	juo	
+schulze	4itf	
+silurid	67v7	
+silurid catfish	67v7	
+sintaro	1qqr	
+sintaro abe	4136	
+sintaro isihara	uuo	
+stevenage	g4x	302:3
+stevenage borough	302	
+stevenage borough f c	302	
+stevenage borough fc	302	
+stevenage borough football club	302	
+stevenage england	g4x	
+stevenage f		302:3
+stevenage f c	302	
+stevenage fc	302	
+stevenage outer orbital path	g4x	
+stevenage urban district	g4x	
+superhuey	5x64	
+swish		5wyi:2
+swish swish	5wyi	
+swish swish bish	5wyi	
+swish swish katy perry song	5wyi	
+swish swish song	5wyi	
+sysmic	le6	
+tappan adney	3x6j	
+tariverdiyev	1x5o	
+teravada	hy5	
+the baker		55k9:4
+the baker s		55k9:4
+the baker s wife	55k9	
+the baker s wife film	55k9	
+the fakir 2017 film	18v1	
+the fisher		135s:3,62cz:4
+the fisher king	135s	
+the fisher king film	135s	
+the fisher king movie	135s	
+the fisher of		62cz:4
+the fisher of songs	62cz	
+the movistar open	3z2r	
+the revengers	1n20	
+the revengers film	1n20	
+the tobolowsky files	gwj	
+the victoria albert	rbo	
+the victoria and albert	rbo	
+the victoria and albert museum	rbo	
+the victoria cross	19d	
+the victoria falls	66yt	
+the wilby		13j4:3
+the wilby conspiracy	13j4	
+thiergeville	20pi	
+thiergeville france	20pi	
+tiler brian	5xef	
+tournemire	38vo	
+tournemire aveyron	38vo	
+tournemire charles	5du7	
+tribiano	4rj1	
+trone	2163	
+troussencourt	411h	
+udup	jg7	
+vanderburgh	1ibs	1ibs:2
+vanderburgh county	1ibs	
+vanderburgh county in	1ibs	
+vanderburgh county indiana	1ibs	
+vermaland	woe	
+vsu	or9	
+westbahn austria	49kz	
+zabno commune	z87	
+zahiruddin mahomet	x56	
+zahiruddin mahomet babar	x56	
+zahiruddin mohammad	x56	
+zahiruddin mohammad babur	x56	
+zilah	uml	
+zords	w8i	

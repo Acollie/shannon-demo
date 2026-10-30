@@ -1,0 +1,315 @@
+198485		d6v:3,150k:4,1bzb:4,23dx:3,4580:2
+198485 bundesliga	23dx	
+198485 cypriot		d6v:3,150k:4,1bzb:4
+198485 cypriot cup	d6v	
+198485 cypriot first		150k:4
+198485 cypriot first division	150k	
+198485 cypriot second		1bzb:4
+198485 cypriot second division	1bzb	
+198485 cypriot third division	132d	
+198485 ekstraklasa	4580	
+198485 fuball		23dx:3
+198485 fuball bundesliga	23dx	
+198485 fussball bundesliga	23dx	
+abharrud	6emd	6emd:3
+abharrud rural		6emd:3
+abharrud rural district	6emd	
+actinomycete	4ou7	
+alaffoula	nfn	
+aldaran	12th	
+alexander maurocordatos	3eun	
+alsike	ico	
+americus	x3r	
+americus ga	x3r	
+americus georgia	x3r	
+americus high school	x3r	
+americus historic district	x3r	
+americus vespucci	5mlj	
+americus vespucius	5mlj	
+arquian	3c1o	
+bahmayi		rzy:7,1ju4:7
+bahmayi ye		rzy:7,1ju4:7
+bahmayi ye sarhadi		rzy:7,1ju4:7
+bahmayi ye sarhadi ye		rzy:7,1ju4:7
+bahmayi ye sarhadi ye gharbi	1ju4	1ju4:7
+bahmayi ye sarhadi ye gharbi rural		1ju4:7
+bahmayi ye sarhadi ye gharbi rural district	1ju4	
+bahmayi ye sarhadi ye sharqi	rzy	rzy:7
+bahmayi ye sarhadi ye sharqi rural		rzy:7
+bahmayi ye sarhadi ye sharqi rural district	rzy	
+banknotes	14yt	
+banknotes of the eastern caribbean dollar	1sdo	
+benylan	5tjt	
+besttelse	42z2	
+birkebeineren		50d7:3
+birkebeineren ski		50d7:3
+birkebeineren ski stadium	50d7	
+birkebeineren skistadion	50d7	
+bjorkarnas stad	5rr	
+bofrost		2r7a:4
+bofrost cup	2r7a	2r7a:4
+bofrost cup on		2r7a:4
+bofrost cup on ice	2r7a	
+bofrost cup on oce	2r7a	
+bofrost steria	32fh	
+breakout	1bpe,53xp,6fyj,6gcl	389c:2
+breakout 1975 film	1bpe	
+breakout arcade game	6gcl	
+breakout boost	6gcl	
+breakout clone	389c	
+breakout clones	389c	
+breakout cyrus album	6fyj	
+breakout dream song	1tzf	
+breakout game	389c	
+breakout miley album	6fyj	
+breakout miley cyrus album	6fyj	
+breakout platinum editions	6fyj	
+breakout video game	6gcl	
+caesarodunum	36f	
+callidula	1wpk	
+calzan	3umq	
+chapllin	2tw6	
+chenghua	4s2o	4s2o:2
+chenghua emperor	4s2o	
+chenghua emperor of china	4s2o	
+chenghua era	4s2o	
+chichee	2ul8	
+cisneriana university	3po2	
+conflagrates	74e	
+davenport	56c,4uli	
+davenport charles	5s5u	
+davenport guy	46it	
+davenport ia	56c	
+davenport iowa	56c	
+davenport peter	3658	
+decalog	6eym	
+deposes	ksh	
+derlis		2dzr:2,3lut:2,4u9b:2,57jh:2,5nju:2
+derlis alberto gonzalez galeano	4u9b	
+derlis cardozo	57jh	
+derlis david meza colli	3meo	
+derlis florentin	2dzr	
+derlis francisco soto	5nju	
+derlis gomez	3lut	
+derlis gonzalez	4u9b	
+derlis javier florentin noguera	2dzr	
+derlis soto	5nju	
+eilhard		3590:2,59mw:2
+eilhard ernst gustav wiedemann	59mw	
+eilhard mitscherlich	3590	
+eilhard wiedemann	59mw	
+eutinasia	54v4	
+fc delta		zw8:3
+fc delta dobrogea tulcea	zw8	
+fc delta tulcea	zw8	
+gibancer	4sqq	
+gmina ruciane		qjv:3
+gmina ruciane nida	qjv	
+graduate	sgu	sgu:2,2r37:3
+graduate and professional student assembly	im	
+graduate diploma in accountancy	1or9	
+graduate diploma in engineering	6k7	
+graduate faculty of political and social science	3z5	
+graduate fellowship	5ek2	
+graduate institute	5swp	
+graduate institute for international studies	5swp	
+graduate institute for international studies geneva	5swp	
+graduate institute geneva	5swp	
+graduate institute in geneva	5swp	
+graduate institute of cooperative leadership	1b3	
+graduate institute of geneva	5swp	
+graduate institute of international studies	5swp	
+graduate institute of international studies and development	5swp	
+graduate library school university of chicago 1928 1979	1r8h	
+graduate library school university of chicago 1928 1989	1r8h	
+graduate of oxford	tol	
+graduate photographers award	cst	
+graduate program	16dk	
+graduate programs	16dk	
+graduate research center of the southwest	3m8u	
+graduate school	16dk	
+graduate school fellowship	5lr9	
+graduate school of advanced science and engineering	1fb	
+graduate school of basic medical sciences	mx5	
+graduate school of business at columbia university	4bn	
+graduate school of design	56y	
+graduate school of global information and telecommunication studies	1fb	
+graduate school of international studies	1uz2	
+graduate school of international studies gsis	1uz2	
+graduate school of international studies university of denver	1uz2	
+graduate school of japanese applied linguistics	1fb	
+graduate school of journalism at columbia university	3nv	
+graduate school of professional psychology at university of denver	36g	
+graduate schools	16dk	
+graduate student	16dk	
+graduate students	16dk	
+graduate students association des etudiant e s diplome e s	2lu	
+graduate students association university of ottawa	2lu	
+graduate theological		2r37:3
+graduate theological union	2r37	
+graduate university	16dk	
+grown		syl:3,17no:2
+grown ups	17no	syl:3
+grown ups 2	syl	
+grown ups 2010 film	17no	
+grown ups 3	syl	
+grown ups film	17no	
+grown ups film version 2	17no	
+grown woman beyonce knowles song	2a9a	
+grown woman beyonce song	2a9a	
+gungoren b s	58iv	
+gungoren belediye spor	58iv	
+gungoren belediyespor	58iv	
+gymnastikos	52h	
+gymnastikos olympia	1tw5	
+gymnastikos syllogos peristeriou	no8	
+handmation	5vy1	
+haripad	4y9s	
+henry ireton	5oho	
+hmezad mass grave	480k	
+hmezad mass grave vojnik	480k	
+honhai	t9l	
+hypercriticism	4ph9	
+ichneumonid	9ta	
+indya	e	
+intervenion	4fqs	
+inventor	w0	
+inventor of email	4hah	
+inventor patent	v8s	
+inventor u s patent law	v8s	
+inventor wolfhart willimczik	w0	
+iphone4 s	24kv	
+itonuki gifu	373c	
+james fenimore		ndj:3
+james fenimore cooper	ndj	
+jewel	n5r,1xrk	4dk:2,4pg6:2,5blk:2,5mgl:3
+jewel beetle	4dk	
+jewel box baseball	cvr	
+jewel box park	cvr	
+jewel box stadium	cvr	
+jewel bug	4b8r	
+jewel carmen	4pg6	
+jewel cash cash song	4x61	
+jewel cobb	5mgl	
+jewel entertainer	n5r	
+jewel kilcher	n5r	
+jewel lichen	5lwz	
+jewel musician	n5r	
+jewel of the four souls	4w5s	
+jewel of the mediterranean	5j0	
+jewel of the nile	1wtu	1wtu:5
+jewel p cobb	5mgl	
+jewel plummer	5mgl	5mgl:3
+jewel plummer cobb	5mgl	
+jewel robbery	5blk	
+jewel singer	n5r	
+jewel stink bug	4b8r	
+jewel weed	11k6	
+john alder	67fo	
+john alder british musician	67fo	
+john karlsen	p48	
+john rabe	1g5z	
+john rabe film	1g5z	
+jurques	1e6p	
+kalpa	x9d	
+kalpa kuopio	x9d	
+khvoy	17dq	
+kisbekes	4s1d	
+kitahirosima	4zjr	
+kitahirosima hokkaido	4zjr	
+korogi satomi	13qb	
+la glacerie	4jb1	
+lemond	6b6a	
+lesmana	55k6	
+loughrea	5sp6	
+loughrea co galway	5sp6	
+loviisa	xv8	
+magnoludoviciens	3wm	
+maranga	4m1b	
+marpat	4kvz	
+matanzas	ahi	10ri:2
+matanzas cuba	ahi	
+matanzas province	10ri	
+mignaud	4p1q	
+millionrdrengen	5afa	
+mizutani yuko	3tn5	
+mizutani yuuko	3tn5	
+monpert	5bld	
+moontide	1gv0	
+motorgliding	5t8e	
+mulege		2fa1:2
+mulege municipality	2fa1	
+muthukulam		65cf:3
+muthukulam ragavan pilla	65cf	
+muthukulam raghava pilla	65cf	
+muthukulam raghavan		65cf:3
+muthukulam raghavan pilla	65cf	
+muthukulam raghavan pillai	65cf	
+mycologists	bem	
+nindana	20s	
+ougeinia	5wcv	
+persecaria	2cji	
+pfalzweyer	3kc9	
+pfaue	3j0q	
+phage	42t2	
+phage shadow death	8pq	
+phage star trek voyager	42t2	
+phage voy	42t2	
+phage voyager episode	42t2	
+piella bakewell	3w3c	
+planguenoual	4gu3	
+pvo	1axx	
+pvo strany	1axx	
+rachmanianoff	cty	
+rassina	3i3k	
+regimen de franco	2dc3	
+rhs	34yg	
+ridicule	3wvu	
+ridicule film	3wvu	
+robert iv of worms	5g76	
+robert iv the strong	5g76	
+robert urich	1t3y	
+sabrinareinehr sandbox	6f5c	
+seperate customs territory of taiwan penghu kimmen and matsu	4cwb	
+seperate development	66sm	
+shaurya sports fest	db3	
+slovenscina	1it	
+spheniscine	3gon	
+spooked pretty maids album	50tk	
+stenoma	34h	
+suchedniow commune	52cn	
+suggar	782	
+taube		58ag:3
+taube family tennis stadium	58ag	
+taube stadium	58ag	
+taube tennis		58ag:3
+taube tennis center	58ag	
+taube tennis stadium	58ag	
+tekla	67hj	
+tekla first name	67hj	
+tekla given name	67hj	
+tekla justyna krzyzanowska	65p	
+tekla roza radziwill	nhb	
+the focus	8rf	
+the jerry doyle show	5pji	
+thomas ayad	1oly	
+thon pennsylvania	in8	
+thryduulf r to other wiki	23d	
+timothee		3i4i:2,3qzw:2,6bg6:2
+timothee atouba	3i4i	
+timothee chalamet	6bg6	
+timothee kolodziejczak	3qzw	
+tkl	49js	
+ustashe	1n0l	
+ustashe croatia	spa	
+venloo	ci9	
+vorkshire	2bb	
+weyergans	2t4m	
+whalehunter	2spg	
+witzmannsberg	3v2z	
+wyatting	1e39	
+xuhui	135m	135m:2
+xuhui district	135m	
+xuhui district shanghai	135m	
+xuhui qu	135m	
+xuhui shanghai	135m	

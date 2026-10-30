@@ -1,0 +1,546 @@
+501	1vc9	
+501 3	pwv	
+501 3 c	pwv	
+501 c	4yn8	pwv:4,4yn8:3
+501 c 1 organization	4yn8	
+501 c 10	4yn8	
+501 c 19	4yn8	
+501 c 2	4yn8	
+501 c 3	pwv	pwv:4
+501 c 3 charitable organization	pwv	
+501 c 3 corporation	pwv	
+501 c 3 non profit organization	pwv	
+501 c 3 nonprofit organization	pwv	
+501 c 3 not for profit organization	pwv	
+501 c 3 organization	pwv	
+501 c 4	4yn8	
+501 c 5	4yn8	
+501 c 6	4yn8	
+501 c 7	4yn8	
+501 c 8	4yn8	
+501 c organization	4yn8	
+501 c3	pwv	
+501 charitable organization	4yn8	
+a tribute to elliott smith	r9l	
+a tribute to the black emperors	2g3q	
+a16	4yqk	
+a16 autoroute	4yqk	
+a16 autoroute france	4yqk	
+a16 motorway	4yqk,62m8	
+a16 motorway france	4yqk	
+a16 motorway netherlands	62m8	
+abotabad	1agc	
+aertson	4lxg	
+ahin	3vvh	
+alesta x bershka	10t1	
+alexander gabriel decamps	5r88	
+alexander r		5gkt:3
+alexander r bolling	5gkt	
+alexander r luria	4k2f	
+alexander r todd	106m	
+alexander r todd baron todd	106m	
+annalist	bgl	
+antje	25od	5itk:2,5oa0:2,5qd3:2,5wiw:2,6cwb:2
+antje blumenthal	6cwb	
+antje buschschulte	5itk	
+antje first name	25od	
+antje given name	25od	
+antje traue	5oa0	
+antje vollmer	5qd3	
+antje weisgerber	5wiw	
+archeress	15r	
+argentan	kfp	
+argentan falaise gap	2vrc	
+argentan falaise pocket	2vrc	
+argentan france	kfp	
+balassagyarmat	sk4	
+beachworm	6ae3	
+boorstin	18yw	
+boorstin daniel j	18yw	
+bournemouth	1sz,38n	3sf2:3
+bournemouth a f c	1sz	
+bournemouth afc	1sz	
+bournemouth and boscombe athletic f c	1sz	
+bournemouth and poole college of art	1cga	
+bournemouth and poole college of art and design	1cga	
+bournemouth arabs f c	3sf2	
+bournemouth arts institute	1cga	
+bournemouth borough	38n	
+bournemouth boscombe athletic	1sz	
+bournemouth boscombe athletic f c	1sz	
+bournemouth college of art	1cga	
+bournemouth dorset	38n	
+bournemouth england	38n	
+bournemouth eye	38n	
+bournemouth f		3sf2:3
+bournemouth f c	3sf2	
+bournemouth fc	3sf2	
+bournemouth film school	1cga	
+bournemouth poppies	3sf2	
+bournemouth poppies f c	3sf2	
+bournemouth rovers f c	3sf2	
+bournemouth united kingdom	38n	
+bravo	ar2,5ghc,5veo	2mo4:2,2rmb:3,5b39:2,5tji:2
+bravo 14	xnv	
+bravo acrobat	2mo4	
+bravo cuba	4jz	
+bravo media llc	ar2	
+bravo murillo	5fge	
+bravo musique	5tji	
+bravo nolan	tr8	
+bravo records	5970	
+bravo surname	5veo	
+bravo tv network	ar2	
+bravo two		2rmb:3
+bravo two zero	2rmb	
+bravo two zero film	2rmb	
+bravo u s tv channel	ar2	
+bravo u s tv network	ar2	
+bravo us cable network	ar2	
+bravo us tv channel	ar2	
+bravo us tv network	ar2	
+bullrings	1c6a	
+buntkarierten	2phd	
+caribbees	clr	
+carp	3o50	
+chachalacas	4qbx	
+charles gordone	3q9r	
+chojnicki	1zec	
+churcampa		5f1s:2
+churcampa province	5f1s	
+colensoa	on4	
+corentin		56tp:2,57g1:2
+corentin jean	56tp	
+corentin martins	57g1	
+corentin martins da silva	57g1	
+doues	49cx	
+duzaj		6b0p:3
+duzaj rural		6b0p:3
+duzaj rural district	6b0p	
+earthworks art	1l3s	
+earthworks engineering	68k7	
+earthworks fortification	2f5	
+earthworks military	2f5	
+efc stahl	41wv	
+elden		2f30:2,4h5r:2
+elden campbell	4h5r	
+elden henson	2f30	
+elden jerome campbell	4h5r	
+elden ryan ratliff	2f30	
+etrepillois	1ori	
+fairytales	3sy	
+foreword linkin park song	2j4p	
+frederick de cordova	145d	
+frederick de montmorency	xfj	
+frederick de schomberg	637k	
+froland	1d0k	1d0k:2
+froland municipality	1d0k	
+froncles	3h1m	
+george buchner	1zyb	
+george kipiani	4m24	
+george sydenham clarke	65zy	
+george sydenham clarke 1st baron sydenham of combe	65zy	
+glanebezirk	z4i	
+grandvelle		2tsj:4
+grandvelle et		2tsj:4
+grandvelle et le		2tsj:4
+grandvelle et le perrenot	2tsj	
+gueret	qc7	
+hardefoort	3pwl	
+harrowe atte hille	3q84	
+hulluuden highway	1ppq	
+hulluuden highway album	1ppq	
+indecent		27hm:2
+indecent assault	its	
+indecent proposal	27hm	
+indecent proposal music from the original motion picture soundtrack	27hm	
+indecent proposal soundtrack	27hm	
+islamia law college	6tk	
+john kirk singlaub	5onb	
+john kirk train varnedoe	51u0	
+kalhausen	22ac	
+katsusika	n1w	
+katsusika ku	n1w	
+katsusika tokyo	n1w	
+katuo okazaki	66ia	
+kesmark	y8p	
+kirori		2ceh:3
+kirori mal		2ceh:3
+kirori mal college	2ceh	
+kirori mal college university of delhi	2ceh	
+knighthoods	a4q	
+knighthoods of the bath	1f3v	
+kullampatti	5hsd	
+leogeats	31h9	
+lionello d este	4gjc	
+liriomyza	3ea0	
+lobon	4e0f	
+lobon badajoz	4e0f	
+lobon spain	4e0f	
+marcha hispanica	244s	
+marcha o muere	2y5l	
+marvelverse	mf	
+mexborough	wpf	1ca7:5
+mexborough athletic	1ca7	
+mexborough athletic oakhouse	1ca7	
+mexborough football club	1ca7	
+mexborough interchange	wpf	
+mexborough pocket	1ca7	
+mexborough pocket f c	1ca7	
+mexborough town	1ca7	1ca7:5
+mexborough town a		1ca7:5
+mexborough town a f		1ca7:5
+mexborough town a f c	1ca7	
+mexborough town athletic	1ca7	
+mexborough town athletic f c	1ca7	
+mexborough town f c	1ca7	
+mexborough town fc	1ca7	
+mexborough urban district	wpf	
+mexborough yorkshire	wpf	
+mezotur	2sh9	
+michael janota	569k	
+milson		51xg:4
+milson ferreira		51xg:4
+milson ferreira dos		51xg:4
+milson ferreira dos santos	51xg	
+mindanawon	2xm9	
+montreux	89y,2iu9	1q9e:2,1voz:2,2xep:2
+montreux chateau	1q9e	
+montreux jeune	2xep	
+montreux meurthe et moselle	2iu9	
+montreux switzerland	89y	
+montreux vaud	89y	
+montreux vd	89y	
+montreux vieux	1voz	
+nassigny	2f0w	
+noordzee	2xl	
+novodevichi cemetery	17a	
+omaha	1ec,i2y	5jmn:3
+omaha city	1ec	
+omaha class	5jmn	5jmn:3
+omaha class cruiser	5jmn	
+omaha class light cruiser	5jmn	
+omaha film festival	1ec	
+omaha henry doorly zoo	gqy	
+omaha henry doorly zoo and aquarium	gqy	
+omaha henry doorly zoo aquarium	gqy	
+omaha ne	1ec	
+omaha neb	1ec	
+omaha nebraska	1ec	
+omaha racers	1cbv	
+omaha s henry doorly zoo	gqy	
+omaha s henry doorly zoo and aquarium	gqy	
+omaha s henry doorly zoo aquarium	gqy	
+omaha s oracle	1aui	
+omaha trail	4zz6	4zz6:3
+omaha university	i2y	
+omaha zoo	gqy	
+ourselves alone	9ac	
+petru	g8k	4ie7:2,4vs9:2,5ibm:2,5y93:2,5z0b:2
+petru bogatu	5ibm	
+petru c lucinschi	4vs9	
+petru chiril lucinschi	4vs9	
+petru chiril lucinski	4vs9	
+petru daniel vadrariu	5ik2	
+petru first name	g8k	
+petru given name	g8k	
+petru hvorosteanov	5z0b	
+petru iv	4ie7	
+petru iv rares	4ie7	
+petru leuca	5y93	
+petru lucinschi	4vs9	
+petru lucinski	4vs9	
+petru movila	4ndj	
+petru rares	4ie7	
+petru rares comments	4ie7	
+petru rares of moldavia	4ie7	
+piaseczno	3vvv	29ne:2
+piaseczno commune	uz0	
+piaseczno county	29ne	
+picardy	mjl	
+picardy province	mjl	
+picardy region	mjl	
+podmoklany	43mg	
+prometo choris	62fw	
+provinciale	4loe	
+puigdemont	1o2v	
+reims	39a	2ygo:3,4h25:2,5dc2:2
+reims cathedral	5dc2	
+reims cathedral uwu	5dc2	
+reims fc	47y	
+reims france	39a	
+reims grand prix	4h25	
+reims gueux	4h25	
+reims la		2ygo:3
+reims la brulee	2ygo	
+remersdaal	3tv7	
+rockband 2	23ri	
+rockband 3	5qxl	
+rockband beatles	6a6z	
+rockband downloadable content	3r8b	
+ryswick	ikz	
+sandbag nintendo character	k5o	
+scuba steve	1zhd	
+seongkyungwan university	wqh	
+shelf mushrooms or bracket fungi	549u	
+shortie		5yu8:3
+shortie like		5yu8:3
+shortie like mine	5yu8	
+sidewinder aim 9	2bnz	
+sidewinder aim 9m	2bnz	
+sidewinder aim 9p	2bnz	
+sidewinder missile	2bnz	
+sidewinder sleeps tonite		6cyf:4
+siem		vke:2,1322:3
+siem reab	vke	
+siem reab province	1322	
+siem reap	vke	1322:3
+siem reap city	vke	
+siem reap province	1322	
+siem reip	vke	
+sir thomas		2sue:6,4ixs:5,4j6h:6,4nmw:5,4xmi:5,4xpw:5,58r8:3,5e3v:5,5pb5:5,5t4a:5,5zvn:5,62bn:5,66b4:3,66ct:5
+sir thomas acland 11th baronet	2sue	
+sir thomas arbuthnot	4pfj	
+sir thomas barclay	238t	
+sir thomas baring		4nmw:5
+sir thomas baring 2nd		4nmw:5
+sir thomas baring 2nd baronet	4nmw	
+sir thomas barlow		5e3v:5
+sir thomas barlow 1st		5e3v:5
+sir thomas barlow 1st baronet	5e3v	
+sir thomas bingham	4uat	
+sir thomas bingham mr	4uat	
+sir thomas bodley	5s5q	
+sir thomas boleyn	1x2b	
+sir thomas brisbane	3ikw	
+sir thomas brock	4j44	
+sir thomas broun smith	5lww	
+sir thomas browne	2c94	
+sir thomas browne on america	2c94	
+sir thomas buxton 3rd baronet	3trh	
+sir thomas cecil	3ivy	
+sir thomas dalyell 11th baronet	3f7d	
+sir thomas daniel courtenay	yxs	
+sir thomas dugdale	3a54	
+sir thomas dyke		2sue:6,4j6h:6
+sir thomas dyke acland		2sue:6,4j6h:6
+sir thomas dyke acland 11th		2sue:6
+sir thomas dyke acland 11th baronet	2sue	
+sir thomas dyke acland 12th		4j6h:6
+sir thomas dyke acland 12th baronet	4j6h	
+sir thomas ernest victor hurley	5z5q	
+sir thomas fairfax	1z4d	
+sir thomas finney	4s25	
+sir thomas francis fremantle	4qcj	
+sir thomas frankland		4xpw:5,5t4a:5,5zvn:5
+sir thomas frankland 2nd		5zvn:5
+sir thomas frankland 2nd baronet	5zvn	
+sir thomas frankland 3rd		5t4a:5
+sir thomas frankland 3rd baronet	5t4a	
+sir thomas frankland 6th		4xpw:5
+sir thomas frankland 6th baronet	4xpw	
+sir thomas frankland lewis	60gx	
+sir thomas frankland lewis 1st baronet	60gx	
+sir thomas fremantle	4qcj	
+sir thomas graham jackson	636e	
+sir thomas graham jackson 1st baronet	636e	
+sir thomas grosvenor		62bn:5
+sir thomas grosvenor 3rd		62bn:5
+sir thomas grosvenor 3rd baronet	62bn	
+sir thomas henry hall caine	2hpr	
+sir thomas henry holland	65mq	
+sir thomas hislop		4ixs:5
+sir thomas hislop 1st		4ixs:5
+sir thomas hislop 1st baronet	4ixs	
+sir thomas hoby	46kn	
+sir thomas iii parr	58r8	
+sir thomas inskip	5f7j	
+sir thomas john woodward	pvb	
+sir thomas jones woodward	pvb	
+sir thomas jones woodward obe	pvb	
+sir thomas lawrence	4nl8	
+sir thomas lawrence r a	4nl8	
+sir thomas lewis	53k8	
+sir thomas lewis 1st baronet	60gx	
+sir thomas livingstone mitchell	4nve	
+sir thomas loch	3f7d	
+sir thomas maclear	5edr	
+sir thomas maitland	60jn	
+sir thomas maitland british army officer	60jn	
+sir thomas makdougall brisbane	3ikw	
+sir thomas makdougall brisbane 1st baronet	3ikw	
+sir thomas meeres	64vk	
+sir thomas meers	64vk	
+sir thomas melling williams	5hkm	
+sir thomas metcalfe		4xmi:5
+sir thomas metcalfe 4th		4xmi:5
+sir thomas metcalfe 4th baronet	4xmi	
+sir thomas mitchell	4nve	
+sir thomas molyneux	66ct	66ct:5
+sir thomas molyneux 1st		66ct:5
+sir thomas molyneux 1st baronet	66ct	
+sir thomas munro	5pb5	5pb5:5
+sir thomas munro 1st		5pb5:5
+sir thomas munro 1st baronet	5pb5	
+sir thomas munro 1st baronet of linderits	5pb5	
+sir thomas noon talfourd	6236	
+sir thomas parr	58r8	
+sir thomas picton	66b4	
+sir thomas playford	3ems	
+sir thomas playford gcmg	3ems	
+sir thomas posthumous hoby	5txp	
+sir thomas sackville 1st earl of dorset	4rut	
+sir thomas sean connery	9jr	
+sir thomas seymour	1rzc	
+sir thomas smith qc	5lww	
+sir thomas stamford bingley raffles	4250	
+sir thomas stamford raffles	4250	
+sir thomas theophilus metcalfe 4th baronet	4xmi	
+sir thomas walter bannerman kibble	41es	
+sir thomas wentworth	4h1q	
+sir thomas wentworth 1st earl of strafford	4h1q	
+sir thomas williams	5eix	
+sir thomas wyat	2lnp	
+sir thomas wyatt	2lnp	
+sir thomas wyatt the elder	2lnp	
+sir thomas wynn 3rd baronet	5zba	
+smila	39y6	
+smila municipality	39y6	
+smila ukraine	39y6	
+smurfy	2w22	
+spetters	5okk	
+stormcloud	10u0	
+stuttgard	q7	
+surdres	2f2v	
+svasti		27xs:2
+svasti sobhana	27xs	
+svasti sobhon	27xs	
+svasti vatanavisishtha	27xs	
+szoloskert	nq5	
+thale	107m	
+the criterion		1sw1:3
+the criterion collection	1sw1	
+the officers		1vzv:10
+the officers of		1vzv:10
+the officers of the		1vzv:10
+the officers of the st		1vzv:10
+the officers of the st george		1vzv:10
+the officers of the st george militia		1vzv:10
+the officers of the st george militia company		1vzv:10
+the officers of the st george militia company in		1vzv:10
+the officers of the st george militia company in 1639	1vzv	
+the writer s tale	uz2	
+thomas masterson hardy	ka3	
+thomas petty	jxj	
+topcoat	zj6	
+ujinori hojo	5ro2	
+unimaas	dhj	
+universitatis coloniensis	3jb	
+universitatis islandiae	kou	
+universitatis novus mexico	2mh	
+universitatis tamperensis	2w60	
+universitatis tuftensis	1ve	
+ushuaia	1lhq,638j	
+ushuaia argentina	1lhq	
+ushuaia chile	1lhq	
+ushuaia tierra del fuego	1lhq	
+ushuaia tierra del fuego argentina	1lhq	
+vavunia	57y9	
+vignols	2ibt	
+vinaria	37f	
+vitaliy		2moy:2,2mx8:2,3xac:2,405z:2,42vu:2,4csv:2,4cyu:2,4s90:2,4ur6:2,4zgf:2,50vf:2,53r7:2,55m5:2,583j:2,59b2:2,5jjf:2,5l63:2,5mds:2,5vr4:2,5zzz:2,60wu:2,63dh:2,6bea:2,6dod:2
+vitaliy abramov	2moy	
+vitaliy alekseyevich fokin	5oli	
+vitaliy astakhov	6eaq	
+vitaliy atyushov	5ddo	
+vitaliy balamestny	5gf8	
+vitaliy balashov	4zgf	
+vitaliy balytskyi	4ur6	
+vitaliy berezovskyi	42vu	
+vitaliy bordiyan	5moa	
+vitaliy chochiev	6djo	
+vitaliy chochiyev	6djo	
+vitaliy churkin	3qcu	
+vitaliy fedorchuk	2wm8	
+vitaliy fedoriv	55m5	
+vitaliy fedorov	55m5	
+vitaliy fedotov	5mds	
+vitaliy grachev	2a41	
+vitaliy grachyov	2a41	
+vitaliy holubyev	583j	
+vitaliy hoshkoderya	63dh	
+vitaliy ivanko	4cyu	
+vitaliy kafanov	4s90	
+vitaliy klychko	1col	
+vitaliy kobzar	6dod	
+vitaliy komarnitskyy	3xac	
+vitaliy komarnytsky	3xac	
+vitaliy komarnytskyi	3xac	
+vitaliy kulev	5hal	
+vitaliy kulyov	5hal	
+vitaliy lanko	2uav	
+vitaliy ledenev	350m	
+vitaliy ledenyov	350m	
+vitaliy levchenko	60wu	
+vitaliy litvinov	642p	
+vitaliy lysenko	3a0o	
+vitaliy lysytsky	53r7	
+vitaliy lysytskyi	53r7	
+vitaliy marakhovski	2z8r	
+vitaliy marakhovskiy	2z8r	
+vitaliy marakhovsky	2z8r	
+vitaliy masol	5lqc	
+vitaliy nidbaikin	5tuz	
+vitaliy nidbaykin	5tuz	
+vitaliy panasyuk	5iwo	
+vitaliy papadopulo	5fqi	
+vitaliy parakhnevych	2mx8	
+vitaliy pavlov	5l63	
+vitaliy pavlov footballer born 1965	5l63	
+vitaliy pinyaskin	5j23	
+vitaliy pochuev	bnn	
+vitaliy postransky	4csv	
+vitaliy postranskyi	4csv	
+vitaliy pushkutsa	50vf	
+vitaliy raevskiy	5out	
+vitaliy rogozhkin	4lmc	
+vitaliy rozghon	68f8	
+vitaliy rozgon	68f8	
+vitaliy safronov	4laf	
+vitaliy samoilov	5zzz	
+vitaliy samoylov	5zzz	
+vitaliy semakin	68p4	
+vitaliy sevastyanov	1ng6	
+vitaliy shepetovski	4gs0	
+vitaliy shepetovskiy	4gs0	
+vitaliy shepetovsky	4gs0	
+vitaliy shumeiko	405z	
+vitaliy shumeyko	405z	
+vitaliy skish	6bea	
+vitaliy skysh	6bea	
+vitaliy starukhin	59b2	
+vitaliy suetov	661a	
+vitaliy timofeev	5mlr	
+vitaliy timofeyev	5mlr	
+vitaliy ushakov	2p02	
+vitaliy veselov	5yhh	
+vitaliy vitsenets	5jjf	
+vitaliy vizaver	5vr4	
+vitaliy vladasovich grachyov	2a41	
+vitaliy volodymyrovych klychko	1col	
+vitaliy zholobov	3378	
+vizianagaram	1cpz	ikt:2
+vizianagaram district	ikt	
+vujosevic	602n	
+wintris	40z2	
+womanhood	vm	
+xojayli district	5htw	
+yawhen		405b:2,4akm:2,4tut:2
+yawhen branavitski	4tut	
+yawhen lashankow	4akm	
+yawhen zhuk	405b	
+zamana	6cb3	
+zamana 1985	6cb3	
+zamana 1985 film	6cb3	
+zehun	498i	
+zirkus renz	1vto	

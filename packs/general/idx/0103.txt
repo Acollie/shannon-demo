@@ -1,0 +1,450 @@
+4th arrondissement		af5:4,4zms:4
+4th arrondissement of		af5:4,4zms:4
+4th arrondissement of marseille	4zms	
+4th arrondissement of paris	af5	
+4th asian games	7ec	
+4th australian brigade	67pa	
+4th australian infantry brigade	67pa	
+4th ave line	4qhc	
+4th b	s4z	s4z:4
+4th b way		s4z:4
+4th b way records	s4z	
+4th battalion canadian engineers	4kpw	
+4th bce	289u	
+4th book inheritance cycle	6gfb	
+4th brigade	67pa	
+4th brigade 1st cavalry division united states	5ydb	
+4th brigade australia	67pa	
+4th brigade combat team 101st airborne division united states	34l7	
+4th brigade combat team 1st cavalry division	5ydb	
+4th brigade combat team 1st cavalry division united states	5ydb	
+4th broadway	s4z	
+4th canadian		2xb3:3
+4th canadian armoured division	2xb3	
+4th canadian division	2xb3	
+4th canadian engineers	4kpw	
+4th canadian infantry division	2xb3	
+4th ce	1kds	
+4th cent	1kds	
+4th century	1kds	289u:3
+4th century a d	1kds	
+4th century ad	1kds	
+4th century bc	289u	
+4th century bce	289u	
+4th century ce	1kds	
+4th dimensional transition	6ewb	
+4th disciple	6g31	
+4th duke of anjou rene i	15rf	
+4th duke of bedford	2oxx	
+4th duke of buccleuch	4rg0	
+4th duke of devonshire william	1ywj	
+4th duke of grafton	3vos	
+4th duke of mantua vincenzo i gonzaga	1dch	
+4th duke of newcastle	4eyq	
+4th duke of northumberland	4ojj	
+4th duke of portland	42sc	
+4th duke of wellington	4oos	
+4th earl grey	3mtf	
+4th earl of aberdeen	1cjt	
+4th earl of bute	1q0n	
+4th earl of carlisle	3qjf	
+4th earl of ilchester	5rtg	
+4th earl of minto	4l3n	
+4th earl of orford horatio walpole	2nfs	
+4th earl of rosse	1w1p	
+4th earl of sandwich	1qyo	
+4th floor	3kqs	3kqs:3
+4th generation		6amu:4
+4th generation fighter	61t1	
+4th generation jet fighter	61t1	
+4th generation language	6amu	
+4th generation of video games	37hy	
+4th generation programming		6amu:4
+4th generation programming language	6amu	
+4th iaaf world championships in athletics	58b	
+4th infantry brigade australia	67pa	
+4th lord sudeley	4o9i	
+4th marchese of mantua francesco ii gonzaga	17p3	
+4th marquess of salisbury	14dd	
+4th marquess of waterford	65hw	
+4th millennium		2c4v:3
+4th millennium b c	2c4v	
+4th millennium bc	2c4v	
+4th millennium bce	2c4v	
+4th november	662b	
+4th of february airport	3umu	
+4th of february international airport	3umu	
+4th of july	6hfm	
+4th of july soundgarden	5dov	
+4th of july soundgarden song	5dov	
+4th of november	662b	
+4th parliament		35r:6,4n1:5
+4th parliament of		35r:6,4n1:5
+4th parliament of great		4n1:5
+4th parliament of great britain	4n1	
+4th parliament of king		35r:6
+4th parliament of king james		35r:6
+4th parliament of king james i	35r	
+4th period		5fiq:3
+4th period mystery	5fiq	
+4th planet	1mt	
+4th president of the united states	j9w	
+4th sector of marseille	ui	
+4th street song	2gxu	
+4th vice president of the united states	1o7h	
+4th winter olympic games	2ct	
+4th world war	6hlh	
+a320	6i3	
+a320 271n	1rqq	
+a320 airbus	6i3	
+a320 airliner	6i3	
+a320 enhanced	6i3	
+a320 flight control	6i3	
+abernathy ralph	5g69	
+abernathy ralph david	5g69	
+actuarian	hf9	
+aegilops	6adp	
+aisen	19ou	
+aisen of general carlos ibanez del campo region	19ou	
+aisen region	19ou	
+altidore	2fsq	
+amals kommun	1qf4	
+amendatory veto	6hgv	
+andjelko djuricic	57nv	
+andjelko savic	5u86	
+andjelko uricic	57nv	
+aravalli		3357:2
+aravalli district	3357	
+archeparchy	7re	
+ardit		6e9r:2
+ardit shaqiri	6e9r	
+arkansaspine bluff	1k5h	
+armaturka usti nad labem	gyi	
+backowice commune	1rdy	
+barabudur	6d3u	
+barfi	idb	
+barfi 2012 film	idb	
+bean	t3n,3g6l	
+bean 1997 film	t3n	
+bean 2	ttf	
+bean counter	4gj	
+bean eaters	162	
+bean film	t3n	
+bean flour	3uk	
+bean henry	3hkt	
+bean on holiday	ttf	
+bean poisoning	3g6l	
+bean pulse	3g6l	
+bean soundtrack	t3n	
+bean the movie	t3n	
+bean the ultimate disaster movie	t3n	
+bean theme mad pianos	t3n	
+bean weevil	56pd	
+benfica	1r8	
+benfica b	78l	
+benfica basket	2uxq	
+benfica basketball	2uxq	
+benfica castelo branco	1h4r	
+benfica de castelo branco	1h4r	
+benfica de luanda	2i82	
+benfica e castelo branco	1h4r	
+benfica lisboa	1r8	
+benfica lisbon	1r8	
+bibhatsu	1bhc	
+bilence	4944	
+billabong	52g9	
+billabong clothing	52g9	
+billabong international	52g9	
+billabong international limited	52g9	
+billabong internationl	52g9	
+billabong swimwear	52g9	
+billabong xxl	52g9	
+blakeburn elementary school	2o9p	
+blueray disc	2qr	
+booke	2e4q	
+carabantes	4t0d	
+carabantes soria	4t0d	
+carabantes spain	4t0d	
+ceair com	1maz	
+charite	2x9h	
+charite universitatsmedizin	2x9h	
+charite universitatsmedizin berlin	2x9h	
+charite university medicine berlin	2x9h	
+charles pearson journalist	46uj	
+conqueror		210z:2
+conqueror of shambala	24ak	
+conqueror of shamballa	24ak	
+corio	1xzh	
+corio piedmont	1xzh	
+corio to	1xzh	
+david quiroz	5j50	
+david rabe	2dv2	
+desseling	328b	
+diggy		5976:2
+diggy simmons	5976	
+djodogne	1hte	
+dyry	2w05	2w05:2
+dyry municipality	2w05	
+emmelinkx	sx7	
+exitelica	moj	
+fathi	4ooz	2t81:2,3au1:2
+fathi chebal	2t81	
+fathi chebel	2t81	
+fathi first name	4ooz	
+fathi given name	4ooz	
+fathi hassan	3au1	
+fc pasching	gqn	
+filiz		67gv:2
+filiz koc	67gv	
+floration	gcs	
+fuen taun	o8i	
+george bowen	4cci	
+george gregory lacava	r87	
+grozniy	8un	
+gsr	1l20	
+gustaakhiyaan	fcy	
+gustaakhiyaan film	fcy	
+haimar		2ax8:2
+haimar zubeldia	2ax8	
+haimar zubeldia agirre	2ax8	
+harrypotter	11sg	
+hksarg	17ug	
+hp8 film	g0b	
+humieres	1uh6	
+i lan county	sum	
+imbrilon	2jtz	
+imortal		1aia:2
+imortal d c	1aia	
+imortal dc	1aia	
+imortal desportivo	1aia	
+imortal desportivo club	1aia	
+imortal desportivo clube	1aia	
+iowo osada commune	195u	
+iranair	417o	
+james hendrix	77q	
+james sparks	5pfy	
+john bechtel	46xc	
+kemoko		3rb4:2
+kemoko camara	3rb4	
+kemoko camra	3rb4	
+kuppalli venkatappa puttappa	5d7r	
+kyrie		31lr:2
+kyrie andrew irving	31lr	
+kyrie erving	31lr	
+kyrie irvine	31lr	
+kyrie irving	31lr	
+kyrie rick ross song	ehq	
+la thiers	28ss	
+ladanian	65o4	
+ladanian tomlinson	65o4	
+landgraaf	21xq	
+le couperet	1tmn	
+louis suchet	5sb5	
+luilley	42io	
+macronola	eou	
+mandchuria	2tho	
+marcieux	2r1r	
+markaryds kommun	2py9	
+marlenheim	1jd3	
+mayfly	24zn	
+messinghausen	10yt	
+monceau		1k96:5,2shd:3,32lz:3,3pjl:3
+monceau le		1k96:5,32lz:3
+monceau le neuf		1k96:5
+monceau le neuf et		1k96:5
+monceau le neuf et faucouzy	1k96	
+monceau le waast	32lz	
+monceau les		3pjl:3
+monceau les leups	3pjl	
+monceau les mines	1dbw	
+monceau sur		2shd:3
+monceau sur oise	2shd	
+monovar	2s19	
+monovar monover	2s19	
+montmerrei	3efa	
+mouadh ibn jabal	60ti	
+nabulus	hw4	
+northbrook	pnb	
+northbrook il	pnb	
+northbrook illinois	pnb	
+northbrook park district	pnb	
+nozickian	263m	
+octaviano		6fhz:3
+octaviano a larrazolo	6fhz	
+octaviano ambrosio		6fhz:3
+octaviano ambrosio larrazolo	6fhz	
+octaviano larrazola	6fhz	
+octaviano larrazolo	6fhz	
+orkney	7uc	7uc:2
+orkney beef	7uc	
+orkney council area	7uc	
+orkney island	7uc	
+orkney islands	7uc	
+orkney islands council area	7uc	
+orkney isles council area	7uc	
+orkney lamb	7uc	
+orkney mainland	579j	
+otbcots	5e4f	
+pamdemia	k4c	
+pancaro	3sni	
+parking	54ic	10vx:2
+parking 1985 film	54ic	
+parking area	10vx	
+parking facility	10vx	
+parking lot	10vx	
+parking lots	10vx	
+paul reece	69oz	
+pec	5fl,du6	
+pec municipality	du6	
+pec pod		2cjq:3
+pec pod snezkou	2cjq	
+pec zwolle	5fl	
+pec zwolle 82	5fl	
+peja	du6	3t05:2
+peja drobnjak	2vm4	
+peja kosovo	du6	
+peja serbia	du6	
+peja stojakevic	3t05	
+peja stojakovic	3t05	
+peja stoyakovic	3t05	
+pirkanmaa	llz,3kb8	
+pirkanmaa constituency	3kb8	
+pirkanmaa electoral district	3kb8	
+pirkanmaa region	llz	
+pouvoir intime	5m2c	
+pseudodiphryllum	102p	
+pseudomugil	5inc	
+pyrgos elia greece	v6x	
+pyrgos ilia greece	v6x	
+pyrgos stratonos	1xr2	
+pyrgos thrace	6an	
+quincie		1nwt:3
+quincie en		1nwt:3
+quincie en beaujolais	1nwt	
+robert lui stivenson	8ln	
+roboam	4yqi	
+ruffa		44xq:2
+ruffa gutierrez	44xq	
+ruffa gutierrez bektas	44xq	
+ruffa guttierez bektas	44xq	
+rufo		57zx:3,65kz:2
+rufo emiliano		57zx:3
+rufo emiliano verga	57zx	
+rufo sanchez	65kz	
+rufo verga	57zx	
+sanofe	24ob	
+scytalis	45wb	
+secession of buenos aires	f38	
+shingo	sxx	1zyg:2,33rt:2,473v:2,4d8y:2,66sh:2
+shingo first name	sxx	
+shingo given name	sxx	
+shingo katori	473v	
+shingo kumabayashi	66sh	
+shingo mama	473v	
+shingo suzuki	4d8y	
+shingo tsurumi	1zyg	
+shingo yamashiro	33rt	
+shkelzen		35ms:2
+shkelzen gashi	35ms	
+shkelzen kelmendi	4kd	
+showa	o5t	
+showa 1	1a2r	
+showa 10	1e6l	
+showa 11	1eeb	
+showa 12	1fj7	
+showa 13	1eqq	
+showa 14	1cgj	
+showa 15	1awk	
+showa 16	172h	
+showa 17	18yg	
+showa 18	19pm	
+showa 19	1dsi	
+showa 2	1e5c	
+showa 20	1adg	
+showa 21	19kz	
+showa 22	19vx	
+showa 23	16oa	
+showa 24	1d06	
+showa 25	17vf	
+showa 28	1exz	
+showa 29	1da5	
+showa 3	1d4y	
+showa 30	1973	
+showa 31	1o84	
+showa 34	17gu	
+showa 35	1bt7	
+showa 36	19fn	
+showa 37	186m	
+showa 38	1ctj	
+showa 39	13yx	
+showa 4	1cst	
+showa 40	guz	
+showa 41	wvb	
+showa 42	ym7	
+showa 43	zec	
+showa 44	475e	
+showa 45	41ee	
+showa 46	yez	
+showa 47	vyk	
+showa 48	zl2	
+showa 49	1l9w	
+showa 5	1eii	
+showa 50	w10	
+showa 51	1hik	
+showa 52	2eez	
+showa 53	2pf4	
+showa 54	3l25	
+showa 55	w34	
+showa 56	kgi	
+showa 57	14iz	
+showa 59	2trg	
+showa 6	1bfu	
+showa 61	3a21	
+showa 62	2urs	
+showa 63	2y4z	
+showa 7	1an3	
+showa 8	1ckc	
+showa 9	17sm	
+showa emperor	o5t	
+showa of japan	o5t	
+showa province	3tb4	
+sloganeering	3i97	
+smeagol	6gmu	
+spinipogon	5y1q	
+supertuxkart	2zlf	
+tenthredinidae	1pym	
+the hustler	uiu	
+the hustler film	uiu	
+the hustler movie	uiu	
+the march	66d6	
+the march 1990 film	66d6	
+the march of literature	1kdo	
+the march of penguins	lox	
+the march of the penguin	lox	
+the march of the penguins	lox	
+the march sisters	6fyr	
+the ridiculous		18l2:3
+the ridiculous 6	18l2	
+the ridiculous 6 film	18l2	
+the ridiculous six	18l2	
+the sinner	1toa	
+the sinner 1940 film	1toa	
+the sinner 1951 film	4ida	
+the sinner crew	1to	
+thomas archibald barron	4men	
+thomas patten stafford	1g2x	
+trelawny		130l:2
+trelawny jamaica	130l	
+trelawny parish	130l	
+trelawny parish jamaica	130l	
+trisenox	emr	
+usfws	pdc	
+verdienstorden der bundesrepublik deutschland	4wa	
+vijaywada	dkw	
+vomp	2puy	
+walscheid	1s1o	
+weinheim	msr	
+weinheim bergstrae	msr	
+zindzi		4xvo:2
+zindzi mandela	4xvo	
+zindzi mandela hlongwane	4xvo	

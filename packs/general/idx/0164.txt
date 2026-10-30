@@ -1,0 +1,586 @@
+a 84538	4ik4	
+a arber	3s7a	
+a french		5paf:3
+a french gigolo	4wnj	
+a french woman	5paf	
+adelov	2xz5	
+alexander iashvili	3bvv	
+alexander marinesko	5wym	
+alhazen	3n9x	
+allergic asthma	9d2	
+allergic contact dermatitis airborne	6f1f	
+allergic contact dermatitis cement	6f1f	
+allergic contact stomatitis	6ewg	
+allergic dermatitis	1s48	
+allergic disease	1g5h	
+allergic fungal sinusitis	1hxp	
+allergic intrinsic eczema disorder	1s48	
+allergic reaction	1g5h	
+allergic vasculitis	1rb6	
+alsatian culture	ddt	
+alsatian plain	ddt	
+amravati	1g4n	1fnq:2
+amravati district	1fnq,1g4n	
+amravati maharashtra	1g4n	
+angjelina arianit komneni	4fnd	
+askani son	2ccr	
+baharampur	2k8z	
+baile		33cz:2
+baile an chaistil	3p8l	
+baile an t salainn	1mcz	
+baile atha cliath	bx	
+baile atha cliath county	3i0	
+baile bhainidh	5gcu	
+baile dhun leibhe	xv9	
+baile dhunleibhe	xv9	
+baile eilidh	slr	
+baile eoin	tqt	
+baile flamenco	l87	
+baile leibhinn	xv9	
+baile loch	h7h	
+baile mor	1ekv	
+baile na h uige	5pmw	
+baile nam feusgan	g7o	
+baile nua na harda	tk0	
+baile tusnad	33cz	
+bayer	vbc	2x9:3,b3a:4,1ksa:4,45zm:3
+bayer 04	2x9	2x9:3,b3a:4,1ksa:4
+bayer 04 leverkusen	2x9	b3a:4,1ksa:4
+bayer 04 leverkusen amateure	b3a	
+bayer 04 leverkusen ii	b3a	
+bayer 04 leverkusen seasons	2x9	
+bayer 04 leverkusen women	1ksa	
+bayer 05 uerdingen	5a2	
+bayer 05 uerdingen ii	5a2	
+bayer 5360	54ag	
+bayer a 173	64tf	
+bayer ag	vbc	
+bayer aspirin	vbc	
+bayer crop science	vbc	
+bayer cropscience	vbc	
+bayer giants		45zm:3
+bayer giants leverkusen	45zm	
+bayer group	vbc	
+bayer group india	vbc	
+bayer healthcare	vbc	
+bayer healthcare pharmaceuticals inc	vbc	
+bayer healthcare pharmaceuticals us company	vbc	
+bayer india	vbc	
+bayer leverkusen	2x9	
+bayer leverkusen ii	b3a	
+bayer motoren werke	4ng	
+bayer type	4q5z	
+bayer uerdingen	5a2	
+beuveille	2apk	
+bhaktra		1e9c:2
+bhaktra bimalabarna	1e9c	
+blainvillesaint jerome line amt	5ajn	
+blowup	165l	
+blowup film	165l	
+bordes	21xt,2iwm	2z7l:3
+bordes de		2z7l:3
+bordes de riviere	2z7l	
+bordes hautes pyrenees	21xt	
+bordes pyrenees atlantiques	2iwm	
+carcharhinus	1722	
+charles calvin		5utc:3
+charles calvin rogers	5utc	
+chr8	2tn	
+clunies ross award	dd0	
+collegium		1d1x:2
+collegium albertinum	5hu	
+collegium gulielmi et mariae in virginia	299	
+collegium invisibile	1d1x	
+collegium mariettensis	1s8y	
+collegium melitense	udv	
+collegium nordicum	2920	
+collegium romanum	2p0	
+collegium rudolphinum	535m	
+collegium wagnerianum	1wil	
+courbevoie	73a	
+courcelles	1z0r,27oo,2jtb,3jfz,3oqg	1bat:3,1fz5:2,200j:3,2590:3,26dv:3,26hh:3,2egs:3,2pjh:3,2qx7:3,2sv6:2,2tq0:3,348t:3,350o:3,39ue:3,3azi:3,3bcp:3,3ip9:2,3pgy:3,3pxn:3,3t0n:3,3vgr:2,3y0z:3,3y60:3,3zkf:3,3zq8:3
+courcelles au		3zkf:3
+courcelles au bois	3zkf	
+courcelles belgium	2jtb	
+courcelles charente maritime	1z0r	
+courcelles chaussy	1fz5	
+courcelles de		3azi:3
+courcelles de touraine	3azi	
+courcelles doubs	3oqg	
+courcelles en		26dv:3,2egs:3,3y0z:3
+courcelles en barrois	3y0z	
+courcelles en bassee	26dv	
+courcelles en montagne	2egs	
+courcelles epayelles	3ip9	
+courcelles fremoy	3vgr	
+courcelles la		3y60:3
+courcelles la foret	3y60	
+courcelles le		26hh:3,2tq0:3
+courcelles le comte	26hh	
+courcelles le roi	2tq0	
+courcelles les		2590:3,2pjh:3,350o:3,39ue:3,3t0n:3
+courcelles les gisors	39ue	
+courcelles les lens	2590	
+courcelles les montbard	350o	
+courcelles les montbeliard	3t0n	
+courcelles les semur	2pjh	
+courcelles loiret	2tq0	
+courcelles meurthe et moselle	27oo	
+courcelles sapicourt	2sv6	
+courcelles sous		2qx7:3,3pxn:3
+courcelles sous moyencourt	3pxn	
+courcelles sous thoix	2qx7	
+courcelles sur		1bat:3,200j:3,348t:3,3bcp:3,3pgy:3,3zq8:3
+courcelles sur aire	3bcp	
+courcelles sur nied	348t	
+courcelles sur seine	3zq8	
+courcelles sur vesle	1bat	
+courcelles sur vesles	1bat	
+courcelles sur viosne	3pgy	
+courcelles sur voire	200j	
+courcelles territoire de belfort	3jfz	
+crdsa	ekm	
+david fridmann	1b9i	
+disk	6cbn	465n:3
+disk array management program	fvx	
+disk drive spindle	2k8n	
+disk encryption		465n:3
+disk encryption software	465n	
+disk flower	195	
+disk geometry	6cbn	
+disk jockey	n2	
+disk kun	1ik6	
+disk mathematics	6cbn	
+disk original group	csg	
+disk structure	2k8n	
+disk subsystem	2k8n	
+disk system	1ik6	
+domnhall gleeson	19py	
+dyagilev	2784	
+eacus	5wt9	
+eckersberg	ns8	clq:2
+eckersberg medaillen	clq	
+eckersberg medal	clq	
+edwidge	2zkb	2zkb:2
+edwidge danticat	2zkb	
+electrodynamic moving off element	1ahq	
+fc dorostol		21e2:3
+fc dorostol 2003	21e2	
+fc dorostol silistra	21e2	
+fc progres		496x:3
+fc progres niedercorn	496x	
+fc progres niederkorn	496x	
+francofonte	4rwy	
+galar	1wkl	
+geomagnetic		6hrr:2
+geomagnetic solar storm	6hrr	
+geomagnetic storm	6hrr	
+geomagnetic storms	6hrr	
+gimbels passageway	4lkv	
+gradius	1bh0,1uie	1bh0:2
+gradius arc	1bh0	
+gradius arcade game	1bh0	
+gradius deluxe pack	1uie	
+gradius iii and iv resurrection myth	1bh0	
+gradius neo	1bh0	
+gradius neo imperial	1bh0	
+gradius portable	1bh0	
+gradius the slot	1bh0	
+gradius video game	1uie	
+greenleaf	3ez0,6gnl	
+greenleaf tv series	3ez0	
+half	40oj	e7i:2,14o4:2,1fzj:3,1hcd:3,1pmn:5,26ih:5,2jcj:2,2l2m:2,2sgb:4,2uqz:5,32uj:3,3c6p:3,3zbk:2,47n9:2,480l:3,49ru:3,4mfd:4,4og1:2,4wir:3,5lfz:2,5w3a:4,62s8:3,69of:3,6a96:3,6d0q:4
+half a		26ih:5,480l:3,4wir:3,6a96:3
+half a bride	4wir	
+half a century		26ih:5
+half a century of		26ih:5
+half a century of song	26ih	
+half a confession	6a96	
+half a life	480l	
+half a life star trek the next generation	480l	
+half a life tng episode	480l	
+half a woman half a shadow	3wdt	
+half a world away song	643y	
+half asian genius	ycw	
+half bath	5ema	
+half bathroom	5ema	
+half blood	2coi	
+half blood prince	2coi,3xgy	
+half blood prince character	3xgy	
+half blood prince film	e5s	
+half blooded	2coi	
+half bond	69au	
+half brothers	6bun	
+half cream	1qnp	
+half creatures	1gqo	
+half deck	6bat	
+half demon	axb	
+half dwarf early margaret	1rmx	
+half flower	4og1	
+half human	47n9	
+half human the story of the abominable snowman	47n9	
+half japanese	2l2m	
+half length portrait	1ab	
+half letter	6cjm	
+half life	2jcj	1hcd:3,1pmn:5,2uqz:5,4mfd:4,69of:3,6d0q:4
+half life 1	2jcj	
+half life 1 engine	1cil	
+half life 2	1hcd	1pmn:5,2uqz:5
+half life 2 aftermath	1pmn	
+half life 2 episode		1pmn:5,2uqz:5
+half life 2 episode 1	1pmn	
+half life 2 episode 2	2uqz	
+half life 2 episode 3	1bx6	
+half life 2 episode one	1pmn	
+half life 2 episode two	2uqz	
+half life 2 orange box	27yf	
+half life 2 the orange box	27yf	
+half life album	5dv0	
+half life blue		6d0q:4
+half life blue shift	6d0q	
+half life counter strike	2cf5	
+half life counterstrike	2cf5	
+half life day one	2jcj	
+half life decay	69of	
+half life duncan sheik song	1636	
+half life engine	1cil	
+half life episode 2	2uqz	
+half life episode two	2uqz	
+half life game	2jcj	
+half life games	1bx6	
+half life high definition pack	6d0q	
+half life ii	1hcd	
+half life opposing		4mfd:4
+half life opposing force	4mfd	
+half life platinum collection	2jcj	
+half life raising the bar	1hcd	
+half life series	1bx6	
+half life song	1636	
+half life source	2jcj	
+half life source deathmatch	2jcj	
+half life two	1hcd	
+half life uplink film	1bx6	
+half life video game	2jcj	
+half life2	1hcd	
+half life2 episode one	1pmn	
+half light album	2c60	
+half light i	5vdv	
+half light ii no celebration	5vdv	
+half light rostam batmanglij album	2c60	
+half line	6fg9	
+half live 2	1hcd	
+half man		2sgb:4
+half man half		2sgb:4
+half man half amazing	33ef	
+half man half biscuit	2sgb	
+half man half biscuit discography	2sgb	
+half man half dog vol 1	kgy	
+half marathon	e7i	
+half moon	5lfz	32uj:3,3c6p:3
+half moon bay	32uj	
+half moon bay ca	32uj	
+half moon bay california	32uj	
+half moon film	5lfz	
+half moon street	3c6p	
+half moon street film	3c6p	
+half naked truth	5x54	5x54:4
+half nelson	14o4	
+half nelson film	14o4	
+half open line segment	uqb	
+half orphan	5cu	
+half past		1fzj:3,5w3a:4
+half past dead	1fzj	5w3a:4
+half past dead 2	5w3a	
+half past dead 2002 film	1fzj	
+half pincer movement	1qnj	
+half price stefan payne	4kgc	
+half price0 stefan payne	4kgc	
+half shell	41sx	
+half shell heroes blast to the past	1x2c	
+half shot		49ru:3
+half shot shooters	49ru	
+half siblings	6bun	
+half sisters	6bun	
+half suit	5vt4	
+half thrash	5wt	
+half through arch bridge	evw	
+half track	3zbk	
+half tracks	3zbk	
+half turn tetrahedron	4tpl	
+half uncial	3zzv	
+half war	23uy	
+half wealth	8jg	
+half wits		62s8:3
+half wits holiday	62s8	
+henry laurence		179t:4
+henry laurence gantt		179t:4
+henry laurence gantt medal	179t	
+heterozostera	4u1i	
+hierarchical clustering method	2tlw	
+hierarchical clustering method asteroids	2tlw	
+hierarchical outline	5u4	
+hierarchical relationship	5ny6	
+hierarchical structure	5ny6	
+hierarchical ternary star	38cd	
+hooper	2os9	
+hooper film	2os9	
+hooper movie	2os9	
+hooper nicholas	2f48	
+hooper tom	1zxx	
+hunt	1z14	8n6:2,ic5:2,k9o:3,m6b:3,txw:2,2aun:3,2b4b:2,3usi:5
+hunt aaron	43s9	
+hunt arena	44yv	
+hunt brothers	36c4	
+hunt class	2aun	m6b:3,2aun:3,3usi:5
+hunt class destroyer	2aun	
+hunt class destroyer doc	2aun	
+hunt class mcmv	3usi	
+hunt class mine		3usi:5
+hunt class mine countermeasure vessel	3usi	
+hunt class mine countermeasures		3usi:5
+hunt class mine countermeasures vessel	3usi	
+hunt class minehunter	3usi	
+hunt class minesweeper	m6b	
+hunt class minesweeper 1916	m6b	
+hunt class minesweeper 1978	3usi	
+hunt colling	13u8	
+hunt collins	13u8	
+hunt construction		k9o:3
+hunt construction group	k9o	
+hunt county	txw	
+hunt county texas	txw	
+hunt county tx	txw	
+hunt e howard jr	5os1	
+hunt for eagle one	55we	55we:5
+hunt for red october	lh2,4wdy	lh2:5,4wdy:5
+hunt for red october film	lh2	
+hunt for the red october	4wdy	
+hunt hunt	5sma	
+hunt james	qu5	
+hunt jeremy	5moh	
+hunt lake	rbm	
+hunt powers	3aof	
+hunt roger	4bcg	
+hunt roman	4n1a	
+hunt stromberg	ic5	
+hunt surname	8n6	
+hunt the truth	5ry0	
+hunt type ii class destroyer	2aun	
+huntingtree primary school	19d9	
+hydrocarbon	673h	
+hydrocarbon classification	673h	
+i 196	464h	
+i 196 mi	464h	
+imunology	fjm	
+inglesheim	2npr	
+james gandolfini	iis	
+james talmage	4aoa	
+jenniffer hudson	d4p	
+jensen		3t3:2,4g28:2,5zkz:2
+jensen ackles	4g28	
+jensen automobile	5zkz	
+jensen beach campus of the florida institute of technology	juv	
+jensen button	o5z	
+jensen car	5zkz	
+jensen henning	52td	
+jensen john	4102	
+jensen motors	5zkz	
+jensen r ackles	4g28	
+jensen ranch elementary school	nhw	
+jensen ross ackles	4g28	
+jensen surname	3t3	
+john allyn berryman	23ka	
+john allyn smith	23ka	
+john allyn smith jr	23ka	
+john kirwan football player	5s9m	
+john kirwan soccer player	5s9m	
+keratsinion	3c0g	
+khsayarsha	1cke	
+kunvald	3dkv	
+la comarca		1kuu:5
+la comarca de		1kuu:5
+la comarca de utiel		1kuu:5
+la comarca de utiel requena	1kuu	
+la francaise des jeux	aaq	
+la francaise et l amour	1atq	
+la genete	3006	
+lasrs	105w	
+laubuka	6f9q	
+lecanora	2j2t	
+lecanora tartarea	2j2t	
+lekunberri france	1g7u	
+lohmen	4ibt	
+lohmen sachsen	4ibt	
+lohmen saxony	4ibt	
+manami		2uht:2,61lb:2
+manami gotoh	2uht	
+manami konishi	61lb	
+manami matsumae	2uht	
+mansac	3pbo	
+maraghe	1is2	
+martellus		5o6x:2
+martellus bennett	5o6x	
+martellus demond bennett	5o6x	
+masadah	6h0b	
+necessary		3jig:2
+necessary death of charlie countryman	1iit	1iit:6
+necessary roughness	3jig	
+necessary roughness film	3jig	
+neutra richard	2b8k	
+nusantara	5rv6	
+oluwole soyinka	1bx1	
+ongpin	4em9	
+orsimacha	6d6k	
+otvovice	2q7x	
+pachidendron	bn3	
+panopticlick	ma3	
+protektorat bohmen und mahren	11hv	
+protektorat cechy a morava	11hv	
+pseudothelphusoidea	2i9i	
+psychic	mjb	3ph0:2,3xyc:2
+psychic beacon	3qih	
+psychic blindness	33a4	
+psychic capital	3qi8	
+psychic comments	mjb	
+psychic phenomena	mjb	
+psychic phenomenon	mjb	
+psychic tv	3ph0	
+pursaklar s k	2fn4	
+qtek	blx	
+reichsfurstentum	pg1	
+roane		ltr:2,1fxd:2
+roane county	ltr,1fxd	
+roane county tennessee	1fxd	
+roane county tn	1fxd	
+roane county virginia	ltr	
+roane county west virginia	ltr	
+roane county wv	ltr	
+roane west virginia	ltr	
+robotron2084	6bi7	
+rompiendo fronteras	y3z	
+rowly	44m4	
+ryezhitsa	m10	
+sabugal	2bzs	
+sabugal municipality	2bzs	
+sabugal portugal	2bzs	
+saccourvielle	2iil	
+salami sandwich	7yq	
+sektioui	3csg	
+sjevjerodonets k	2yp1	
+slopne	389k	
+solre		209b:3
+solre le		209b:3
+solre le chateau	209b	
+st anna	f0z	
+st anna order	jl2	
+stateira	6gbn	
+stateira ii	6gbn	
+sternthinker farncombe institute	2py	
+superhero	1ga,17r9	648:2,17r9:2,18ut:2
+superhero by chingy	1m5r	
+superhero chingy song	1m5r	
+superhero comics	1ga	
+superhero fantasy	18ut	
+superhero fiction	18ut	
+superhero film	648,17r9	
+superhero films	648	
+superhero genre	18ut	
+superhero motion picture	648	
+superhero movie	648,17r9	
+superhero movies	648	
+superhero song	17r9	
+superhero team	1ga	
+superhero universe	f8x	
+surgeon	er	60em:2
+surgeon captain	bk5	
+surgeon colonel	jrb	
+surgeon lieutenant	wb5	
+surgeon rear admiral	3lx1	
+surgeon simulation cpr	60em	
+surgeon simulator	60em	
+surgeon simulator 2013	60em	
+surgeon vice admiral	c4n	
+sussen	5dpa	
+sylhet	dkk	z7b:2,1bpy:2
+sylhet bangladesh	1bpy	
+sylhet bibhag	1bpy	
+sylhet city	dkk	
+sylhet city corporation	dkk	
+sylhet district	z7b	
+sylhet division	1bpy	
+sylhet division bangladesh	1bpy	
+sylhet town	dkk	
+sylhet zila	z7b	
+tadj		4uqr:5
+tadj mahal	3y9v	
+tadj ol		4uqr:5
+tadj ol molouk	4uqr	4uqr:5
+tadj ol molouk ayromlou	4uqr	
+tadj ol molouk of		4uqr:5
+tadj ol molouk of iran	4uqr	
+tarnowskie		17jb:3,18xb:2
+tarnowskie gory	18xb	17jb:3
+tarnowskie gory county	17jb	
+terodactyl	4xvg	
+the aftermath iron maiden song	5jt8	
+the classification of living things	34nx	
+the office	4lb,30p3	5oag:3
+the office 2001 tv series	30p3	
+the office 2005 tv series	4lb	
+the office american	4lb	
+the office american series	4lb	
+the office american television series	4lb	
+the office american version	4lb	
+the office an american workplace	4lb	
+the office of scientific investigation and research	476l	
+the office u k	30p3	
+the office u k t v series	30p3	
+the office u k tv series	30p3	
+the office u s series	4lb	
+the office u s version	4lb	
+the office uk	30p3	
+the office uk series	30p3	
+the office uk television series	30p3	
+the office uk tv series	30p3	
+the office united states television series	4lb	
+the office us series	4lb	
+the office us version	4lb	
+the office usa	4lb	
+the office wife	5oag	
+the office wife 1930 film	5oag	
+theoni		35y6:3
+theoni aldredge	35y6	
+theoni athanasiou vachlioti	35y6	
+theoni v		35y6:3
+theoni v aldredge	35y6	
+theoni vachlioti aldredge	35y6	
+tick		3aao:3
+tick borne rickettsioses	6f9o	
+tick borne rickettsiosis	6f9o	
+tick clover	5wcv	
+tick tick		3aao:3
+tick tick tick	3aao	
+tick tock kesha song	5ism	
+tick tock treasury	43sj	
+tick trefoil	5wcv	
+tick trefoils	5wcv	
+tpe airport	2o4p	
+transmovement	4ymb	
+turist	3uor	
+un caso		2ms8:4
+un caso di		2ms8:4
+un caso di coscienza	2ms8	
+univega pro cycling team	1ccm	
+upl company limited	51ov	
+visogol	34gf	
+vuillecin	2js8	
+william pfeffer	1gfc	
+xhocc tdt	6d8	
+xhocc tv	6d8	
+yelawolf	2rj4	
+zainichi dialect	b1	
+zainichi kankokujin	53kr	
+zainichi koreans	53kr	
+zarina		18rk:2
+zarina wahab	18rk	
+zermat	vb6	

@@ -1,0 +1,291 @@
+abellinum	e68	
+adelphotropha	tf1	
+alexander afanasev	56g8	
+alexander khatskevich	4oib	
+alexander pell	4nht	
+anacleto		5xls:3
+anacleto agente		5xls:3
+anacleto agente secreto	5xls	
+arbus	22ys,51bd	
+arbus pyrenees atlantiques	22ys	
+arbus sardinia	51bd	
+barkhad		2u45:2
+barkhad abdi	2u45	
+bergisch		d0b:2
+bergisch born	cnf	
+bergisch gladbach	d0b	
+bergisch gladbach 09	44z0	
+bergisch markische station	1kxx	
+bergisch neukirchen	92a	
+bilecik	cm6	
+blindspot	3dcd	
+blindspot tv series	3dcd	
+bonsmoulins	3jzz	
+boves	1d9g,22ld	
+boves piedmont	22ld	
+boves somme	1d9g	
+brloh	4bm3	
+brloh cesky krumlov district	4bm3	
+bucklands nevada	1e0a	
+canet	1tow,2e3d	1fun:3,1wuu:3,3hxa:3,3jp4:4,3lyr:3,3szg:3
+canet aude	2e3d	
+canet d		3lyr:3
+canet d adri	3lyr	
+canet de		1wuu:3,3szg:3
+canet de mar	1wuu	
+canet de salars	3szg	
+canet en		1fun:3
+canet en roussillon	1fun	
+canet herault	1tow	
+canet lo		3hxa:3
+canet lo roig	3hxa	
+canet plage	1fun	
+canet roussillon		3jp4:4
+canet roussillon fc	3jp4	
+canet roussillon football		3jp4:4
+canet roussillon football club	3jp4	
+cangara	iok	
+cangzhou	xxn	quh:5
+cangzhou hebei	xxn	
+cangzhou mighty		quh:5
+cangzhou mighty lions		quh:5
+cangzhou mighty lions f		quh:5
+cangzhou mighty lions f c	quh	
+casari	4fb1	
+ceasarea	45bc	
+characteristic	eex	
+chari		4a9n:2
+chari nile languages	1yzb	
+chari river	4a9n	
+charles sellon	2f7r	
+chiavari	r25	
+chiavari italy	r25	
+colmier		2jcs:3,2vtl:3
+colmier le		2jcs:3,2vtl:3
+colmier le bas	2vtl	
+colmier le haut	2jcs	
+contamines	3btr	
+cormogens	2su3	
+dative	4z35	4z35:2
+dative case	4z35	
+dative of purpose	4z35	
+david vaudreuil	2fx7	
+ddlovato	h1c	
+derpt	2ki	
+ekon rigas feraios	60x0	
+elvedin		5d1r:2
+elvedin dzinic	5d1r	
+eponymous		3uu:3,3a5r:2
+eponymous archon	3a5r	
+eponymous chemical		3uu:3
+eponymous chemical reaction	3uu	
+erochloe	2cv4	
+evgueni	1id	
+evgueni charonov	4vc9	
+evgueni chazov	2t3v	
+evgueni petrov	2hi6	
+evgueni sidikhine	52al	
+flauto diritto	fl9	
+flauto dolce	fl9	
+flauto traverso	17jk	
+flirting	3vz4	2kbt:3,38ju:2
+flirting film	3vz4	
+flirting movie	3vz4	
+flirting scholar	38ju	
+flirting with		2kbt:3
+flirting with disaster	2kbt	
+flirting with disaster film	2kbt	
+flirting with disaster soundtrack	2kbt	
+fnba	40v	
+freestyle		3hn:2,llf:2,mb9:2,12vg:2,5tzv:2
+freestyle fellowship	5tzv	
+freestyle gymnastics	52h	
+freestyle house	llf	
+freestyle kickboxing	4q2	
+freestyle music	llf	
+freestyle releasing	mb9	
+freestyle skier	3hn	
+freestyle skiers	3hn	
+freestyle skiier	3hn	
+freestyle skiing	3hn	
+freestyle snowboarding	35k	
+freestyle wrestler	12vg	
+freestyle wrestling	12vg	
+gmina chelm	ky8	
+grandcamp		2nlq:2
+grandcamp maisy	2nlq	
+hamby rimini	1hly	
+helfling	1kpe	
+henry enfield		2t3l:3
+henry enfield roscoe	2t3l	
+hockeyallsvenskan	2z31	
+hockeyallsvenskan version 2	2z31	
+humpback multiple span arch	310	
+hvozdany	2ab0	
+hvozdany pribram district	2ab0	
+i wu	463r	
+intermittent		5xs8:2
+intermittent claudication	5xs8	
+intermittent claudication disorder	5xs8	
+intermittent claudication nos	5xs8	
+intermittent lake	4s	
+intermittent streams	xx	
+intermittent vascular claudication	5xs8	
+james nesbit	14kh	
+jaquelin		670u:3
+jaquelin h hume	670u	
+jaquelin holliday		670u:3
+jaquelin holliday hume	670u	
+john list	4y32	
+kenter canyon	1tdt	
+kenter canyon los angeles	1tdt	
+kenter canyon los angeles ca	1tdt	
+kenter canyon los angeles california	1tdt	
+kimiaei	49d9	
+kostanajskaja oblast	qdv	
+kovacs katalin	52ka	
+krapkowicki	2lmk	
+kubul	2w1	
+laia		56wf:2,5dn7:2
+laia marull	56wf	
+laia marull quintana	56wf	
+laia sanz	5dn7	
+laia sanz pla giribert	5dn7	
+laroux	4zre	
+le voyageur		3kgw:5
+le voyageur de		3kgw:5
+le voyageur de la		3kgw:5
+le voyageur de la toussaint	3kgw	
+le voyageur sans bagage film	4ud5	
+levoxacin	1ubz	
+lormont	10gt	
+louis ix	ip0,2e6r	ip0:4,1kez:5
+louis ix duke of bavaria	2e6r	
+louis ix landgrave of hesse darmstadt	1kez	
+louis ix of		ip0:4,1kez:5
+louis ix of bavaria	2e6r	
+louis ix of france	ip0	
+louis ix of hesse	1kez	1kez:5
+louis ix of hesse darmstadt	1kez	
+louis ix saint	ip0	
+ludwigs bemelmans	1yg2	
+ludwigs canal	6e5o	
+magnoliopsida	18c9	
+manchevski milcho	2i0a	
+maria dussauge ortiz	53xc	
+marigliano	1u4i	
+marigliano comments	1u4i	
+mashinostroitel kirov	7h9	
+mashinostroitel pskov	4vk4	
+mashinostroitel sergiyev posad	ano	
+masson	2a04	
+masson surname	2a04	
+mauvages	2rmt	
+maxims for revolutionists	c1w	
+meddle	2f1m	
+meddle album	2f1m	
+meddle pink floyd album	2f1m	
+michael galasso	4pja	
+michael irby	5ns1	
+mikita		5ed9:2
+mikita andrew	4qyj	
+mikita andy	4qyj	
+mikita bukatkin	5ed9	
+montot	2kbu	
+montot haute saone	2kbu	
+morduhai boltovskoi	3te0	
+mycoplasmas	18mk	
+nemossos	49m	
+new constitution	4630	
+orph	5cu	
+osc lille	37s	
+pantsil	1qyp	
+peter and		mlw:4
+peter and bobby farrelly	649t	
+peter and lois open a store	44mf	
+peter and paul		mlw:4
+peter and paul cathedral	mlw	
+peter and paul okoye	4p6r	
+peter and wendy novel	22sl	
+peter cundall	5iwi	
+polesovice	2yzk	
+ptolemus philometor	29rz	
+rabouillet	2mxk	
+richard adolf		1ou1:3
+richard adolf zsigmondy	1ou1	
+richarville	24m4	
+robert acquafresca	2peo	
+robert enke	1y4g	
+robert franklin palmer jr	502h	
+robert winch	326v	
+rondelet	56bo	
+schwallungen	4c1v	
+shoegazers	cjx	
+sille		2ddx:3,40jl:3
+sille le		2ddx:3,40jl:3
+sille le guillaume	2ddx	
+sille le philippe	40jl	
+sipg f c	f6j	
+sipg fc	f6j	
+soyuzdetfilm	73e	
+spiceball park banbury	bfa	
+stalowa		1tkd:2,1xx3:3
+stalowa wola	1tkd	1xx3:3
+stalowa wola county	1xx3	
+stimulantia	3cpu	
+tatum		186w:3
+tatum beatrice o neal	186w	
+tatum channing	j39	
+tatum lee	1fgt	
+tatum o		186w:3
+tatum o neal	186w	
+tatum o neil	186w	
+tatum oneal	186w	
+tatum t	2lp	
+terabitia	6frw	
+the benny		1uno:4
+the benny benassi show	1i55	
+the benny goodman		1uno:4
+the benny goodman story	1uno	
+the digital computer museum	4x2	
+the digital equipment corporation	ach	
+the digital underground	1oa9	
+the dio e p	12d2	
+the dio ep	12d2	
+the exclusive		64rp:7
+the exclusive beat		64rp:7
+the exclusive beat the		64rp:7
+the exclusive beat the devil		64rp:7
+the exclusive beat the devil s		64rp:7
+the exclusive beat the devil s tattoo	64rp	
+the newsboys	1fa8	
+turuk observatory	efr	
+unlv	6yn	
+wackness	2s1q	2s1q:2
+welk and lomi plo	6ghu	
+welk lawrence	39k4	
+wikiware	1tdh	
+winwood steve	pfj	
+wyatt		hxr:2,1blo:2,34au:2,5ec4:3,5iev:3
+wyatt berry stapp earp	1blo	
+wyatt c		5ec4:3
+wyatt c hedrick	5ec4	
+wyatt cooper	5iev	
+wyatt earp	hxr,1blo	
+wyatt earp film	hxr	
+wyatt earp lawman	1blo	
+wyatt earp movie	hxr	
+wyatt earp s family	3y1x	
+wyatt emory		5iev:3
+wyatt emory cooper	5iev	
+wyatt erp	1blo	
+wyatt hall actor	pp0	
+wyatt hawn russell	34au	
+wyatt hedrick	5ec4	
+wyatt james	24to	
+wyatt russell	34au	
+wyatt sir thomas	2lnp	
+yantra gabrovo	1jsb	
+yokary		wb7:2
+yokary liga	wb7	
+zakataly	47m0	

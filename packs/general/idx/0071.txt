@@ -1,0 +1,668 @@
+224th flight unit	blf	
+596 bc	2nfo	
+a ritci	259i	
+aaou	agj	
+abenteuerroman	2osq	
+alexander zarhi	1kwv	
+alkali		4hk0:2
+alkali grass	6f36	
+alkali group	4hk0	
+alkali metal	4hk0	
+alkali metal compound	4hk0	
+alkali metals	4hk0	
+arapongas	2uzt	1nwl:3
+arapongas esporte		1nwl:3
+arapongas esporte clube	1nwl	
+bahreman		2h7d:3
+bahreman rural		2h7d:3
+bahreman rural district	2h7d	
+bakhtier ashurmatov	4v7x	
+bellinca	6f81	
+best	15qv,3e9t	kls:6,17qb:5,1arf:4,1d61:5,1kvv:4,1mtw:3,1sbz:5,1vo7:4,249b:5,2ab3:2,2c0z:4,2m8c:2,3cu3:5,3lli:6,3mqz:6,3te6:6,3uzn:4,3y3f:4,3z1s:2,43gb:6,473s:2,4dvl:5,4mxy:3,4sb7:5,4vbh:3,4zyl:7,51w2:5,5b22:3,5d9v:3,6038:2,60br:3,638f:5,64en:4,64tv:7,6b69:5,6e7c:5,6g7v:6
+best actor	1pl	
+best actor academy award	1pl	
+best actor award cannes film festival	21vv	
+best actor in a leading role	1pl	
+best actor oscar	1pl	
+best actress	1s4	
+best actress award cannes film festival	a50	
+best actress empire award	2bqz	
+best actress in a leading role	1co0	
+best actress oscar	1s4	
+best adapted screenplay academy award	1c8	
+best adapted screenplay oscar	1c8	
+best album	47	
+best album of original score written for a motion picture or a television special	5u62	
+best alternative music album	m0y	
+best alternative music performance	m0y	
+best alternative video	6bhb	
+best american poetry	2x1h	2x1h:4
+best american poetry series	2x1h	
+best animated short	2n2	
+best animated short academy award	2n2	
+best animated short film	2n2	
+best arrangement accompanying vocalist s	6deg	
+best arrangement instruments and vocals	6deg	
+best art direction	1p4	
+best art direction interior decoration black and white	1p4	
+best art direction set decoration	1p4	
+best art direction set decoration black and white	1p4	
+best art direction set decoration color	1p4	
+best bar none	3gul	
+best baseball player espy award	4zyl	
+best breakthrough		17qb:5
+best breakthrough athlete		17qb:5
+best breakthrough athlete espy		17qb:5
+best breakthrough athlete espy award	17qb	
+best brewing company	6d19	
+best buds	yjr	
+best buds 2003 film	yjr	
+best buds film	yjr	
+best case scenario 25 years in beers	5onh	
+best cast show album	5rtt	
+best championship		638f:5
+best championship performance		638f:5
+best championship performance espy		638f:5
+best championship performance espy award	638f	
+best cinematography black and white	2ic	
+best cinematography color	2ic	
+best comeback		1sbz:5
+best comeback athlete		1sbz:5
+best comeback athlete espy		1sbz:5
+best comeback athlete espy award	1sbz	
+best comedy album	6g4h	
+best comedy performance	6g4h	
+best comedy recording	6g4h	
+best costume design	2vi	
+best costume design black and white	2vi	
+best costume design color	2vi	
+best country album	6fqs	
+best country song	430p	
+best crime		kls:6
+best crime novel		kls:6
+best crime novel in		kls:6
+best crime novel in swedish		kls:6
+best crime novel in swedish translation	kls	
+best damn thing	4qp5	4qp5:4
+best dance video	1gzk	
+best dancing in a video	1gzk	
+best day of my life		51p8:6
+best defense	2m8c	
+best direction	wmy	
+best director award	174e	
+best director award cannes film festival	174e	
+best director oscar	1sj	
+best documentary	322	
+best documentary oscar	322	
+best documentary short subject	2c2	
+best dramatic presentation long form	7ln	
+best dramatic presentation short form	7ln	
+best driver		64en:4
+best driver espy		64en:4
+best driver espy award	64en	
+best educational film	5h5	
+best exotic marigold hotel	1qwk	1qwk:5
+best exotic marigold hotel 2	17b0	
+best female		1d61:5,3mqz:6,3te6:6,64tv:7
+best female athlete		1d61:5
+best female athlete espy		1d61:5
+best female athlete espy award	1d61	
+best female college		3te6:6,64tv:7
+best female college athlete		3te6:6
+best female college athlete espy		3te6:6
+best female college athlete espy award	3te6	
+best female college basketball		64tv:7
+best female college basketball player		64tv:7
+best female college basketball player espy		64tv:7
+best female college basketball player espy award	64tv	
+best female pop vocal performance	527h	
+best female tennis		3mqz:6
+best female tennis player		3mqz:6
+best female tennis player espy		3mqz:6
+best female tennis player espy award	3mqz	
+best film	3e9t	
+best film not in the english language	dad	
+best flight meg album	4b8f	
+best football coach ever	11x9	
+best foreign film oscar	3ir	
+best friend madonna song	2wto	
+best friends	2ab3	
+best friends 1982 film	2ab3	
+best game		1kvv:4
+best game espy		1kvv:4
+best game espy award	1kvv	
+best george	tnt	
+best group video	1n08	
+best hard rock album	6gj4	
+best hard rock performance	6gj4	
+best heavy metal hard rock video	2hzw	
+best heavy metal video	2hzw	
+best house in london	31vy	31vy:5
+best in		1mtw:3
+best in show	1mtw	
+best in show film	1mtw	
+best in show movie	1mtw	
+best instrumental arrangement accompanying vocal s	6deg	
+best instrumental arrangement accompanying vocalist s	6deg	
+best instrumental composition written for a motion picture or for television	5u62	
+best instrumental jazz performance small group or soloist with small group	6guh	
+best intentions	w3p	w3p:3
+best international		6e7c:5
+best international athlete		6e7c:5
+best international athlete espy		6e7c:5
+best international athlete espy award	6e7c	
+best jazz instrumental album	6guh	
+best jazz instrumental album individual or group	6guh	
+best jazz instrumental performance group	6guh	
+best jazz instrumental performance individual or group	6guh	
+best jazz vocal album	6hdt	
+best jazz vocal performance	6hdt	
+best job in the world	4li2	4li2:6
+best jockey		1arf:4
+best jockey espy		1arf:4
+best jockey espy award	1arf	
+best kept secret leona lewis album	tpr	
+best kid	17a9	
+best known for playing the in the 1939 film the wizard of oz scarecrow the 1939 film the wizard of oz	1tt9	
+best known for playing the scarecrow in the 1939 fim the wizard of oz the kansas farm worker hunk in the 1939 film the wizard of oz	1tt9	
+best laid		5d9v:3
+best laid plans	5d9v	
+best laid plans 1999	5d9v	
+best laid plans 1999 film	5d9v	
+best little whorehouse in texas	z7p	z7p:6
+best live action short film	3n6	
+best long form music video	49p0	
+best major		4zyl:7
+best major league		4zyl:7
+best major league baseball		4zyl:7
+best major league baseball player		4zyl:7
+best major league baseball player espy		4zyl:7
+best major league baseball player espy award	4zyl	
+best makeup oscar	599	
+best male		249b:5,3lli:6,6b69:5,6g7v:6
+best male athlete		249b:5
+best male athlete espy		249b:5
+best male athlete espy award	249b	
+best male college		3lli:6
+best male college athlete		3lli:6
+best male college athlete espy		3lli:6
+best male college athlete espy award	3lli	
+best male golfer		6b69:5
+best male golfer espy		6b69:5
+best male golfer espy award	6b69	
+best male pop vocal album	4aqw	
+best male pop vocal performance	6chb	
+best male rock vocal performance	6h0w	
+best male tennis		6g7v:6
+best male tennis player		6g7v:6
+best male tennis player espy		6g7v:6
+best male tennis player espy award	6g7v	
+best male video	13fp	
+best man	3i71	1ozs:3,3cnh:3,3i71:3
+best man holiday	3a2v	3a2v:4
+best man worst friend	3cnh	
+best men	473s	
+best metal performance	6h7z	
+best moment		3uzn:4
+best moment espy		3uzn:4
+best moment espy award	3uzn	
+best music film	49p0	
+best music score substantially original	316	
+best music song	f1r	
+best music video	434m	
+best music video long form	49p0	
+best music video short form	434m	
+best musical show album	5rtt	
+best musical theater album	5rtt	
+best nba		3cu3:5
+best nba player		3cu3:5
+best nba player espy		3cu3:5
+best nba player espy award	3cu3	
+best nba player of 2008 2009	k5z	
+best netherlands	15qv	
+best new age album	61m6	
+best nfl		4sb7:5
+best nfl player		4sb7:5
+best nfl player espy		4sb7:5
+best nfl player espy award	4sb7	
+best night ever song	5pq2	
+best north brabant	15qv	
+best of	mn6	1vo7:4,3y3f:4,4dvl:5,4mxy:3
+best of album	mn6	
+best of both words concert	4qvm	
+best of both worlds		4jtv:5
+best of both worlds concert	4qvm	
+best of both worlds tour film	4qvm	
+best of both worlds van halen song	5ftg	
+best of crush 40 super sonic songs	1zul	
+best of culture beat	5qka	
+best of dic	27rl	
+best of enemies		1qih:4
+best of everything	2c0k	2c0k:4
+best of geri	14d2	
+best of goldfinger	34jt	
+best of goldfinger album	34jt	
+best of grand royal 12 s	cc2	
+best of joss stone 20032009		6c75:6
+best of love	2lm4	
+best of me	1dik	1dik:4
+best of me christina aguilera song	4oiw	
+best of red hot chili peppers		6hi2:7
+best of sepultura		5w4y:4
+best of ten best series the power station album	3b38	
+best of the		1vo7:4,3y3f:4,4dvl:5
+best of the badmen	1vo7	
+best of the beatles	5iyp	
+best of the best	3y3f	4dvl:5
+best of the best 1989 film	3y3f	
+best of the best 2	4dvl	
+best of the best ii	4dvl	
+best of the best westlife album	oyz	
+best of the class of floyd cramer	4zfs	
+best of the james tait black	6ad	
+best of the quireboys	62nj	
+best of times	1ol4	1ol4:4
+best of you	4mxy	
+best of you foo fighters song	4mxy	
+best of you song	4mxy	
+best of youth	11yt	11yt:4
+best offer	1dzm	1dzm:3
+best original musical or comedy score	316	
+best original score from a motion picture or television show	5u62	
+best original score oscar	316	
+best original screenplay	1g6	
+best original song score and its adaptation or adaptation score	316	
+best people	51nv	51nv:3
+best performance by an actor in a motion picture drama	k1c	
+best picture academy award	18p	
+best picture oscar	18p	
+best play		2c0z:4
+best play espy		2c0z:4
+best play espy award	2c0z	
+best pop album	2mke	
+best pop collaboration with vocals	5pc4	
+best pop duo group performance	6g0u	
+best pop duo performance	6g0u	
+best pop instrumental performance	5sen	
+best pop performance by a duo or group	6g40	
+best pop performance by a duo or group with vocal	6g40	
+best pop solo performance	6gdi	
+best pop video	3zze	
+best pop vocal album	2mke	
+best pop vocal performance by a duo or group	6g40	
+best pop vocal performance female	527h	
+best pop vocal performance male	6chb	
+best r b album	4n1u	
+best r b performance by a duo or group	4k5t	
+best r b performance by a duo or group with vocal	4k5t	
+best r b performance by a duo or group with vocals	4k5t	
+best r b song	zho	
+best r b soul single female	2dr9	
+best r b video	3hs6	
+best r b vocal performance by a duo group or chorus	4k5t	
+best r b vocal performance by a duo or group	4k5t	
+best rap album	1xyz	
+best rap solo performance	6hli	
+best rap song	6gg9	
+best rap sung collaboration	1gpv	
+best rap sung performance	1gpv	
+best rap video	6h3v	
+best record		43gb:6
+best record breaking		43gb:6
+best record breaking performance		43gb:6
+best record breaking performance espy		43gb:6
+best record breaking performance espy award	43gb	
+best reggae album	5eet	
+best rhythm blues recording	zho	
+best rock album	4qu8	
+best rock gospel album	6hk0	
+best rock or rap gospel album	6hk0	
+best rock performance	6ho8	
+best rock performance by a duo or group with vocal	540e	
+best rock song	2igx	
+best rock video	2hzw	
+best rock vocal performance by a duo or group	540e	
+best rock vocal performance male	6h0w	
+best science fiction of the year	6b6n	6b6n:7
+best score from an original cast show album	5rtt	
+best score soundtrack for a motion picture television or other visual media	5u62	
+best score soundtrack for visual media	5u62	
+best screenplay		60br:3
+best screenplay award	60br	
+best screenplay award cannes film festival	60br	
+best second		4vbh:3
+best second session	4vbh	
+best seller	3z1s	
+best seller film	3z1s	
+best sellers in stores	6h4u	
+best sf of the year	6b6n	
+best short form music video	434m	
+best short subject two reel	3n6	
+best song		5b22:3
+best song academy award	f1r	
+best song ema	rij	
+best song ever	5b22	
+best song ever one direction song	5b22	
+best song ever song	5b22	
+best song oscar	f1r	
+best song written for a motion picture television or other visual media	2jjv	
+best song written for visual media	2jjv	
+best sound effects	5je	
+best sound mixing	1i7	
+best sound recording	1i7	
+best spoken word album	dqh	
+best spoken word or non musical recording	dqh	
+best spoken word recording	dqh	
+best sports		51w2:5
+best sports movie		51w2:5
+best sports movie espy		51w2:5
+best sports movie espy award	51w2	
+best supporting actor oscar	1kn	
+best supporting actor oscars	1kn	
+best supporting actress oscar	1le	
+best supporting actress oscar in 2000	1le	
+best team espy award	3tl7	
+best thing usher song	687q	
+best things in life are free	2gkj	2gkj:7
+best traditional blues album	6hi5	
+best traditional blues recording	6hi5	
+best traditional pop vocal album	5xxj	
+best traditional pop vocal performance	5xxj	
+best troubador	pet	
+best union yuen long	14bk	
+best writing original screenplay	1g6	
+best writing screenplay based on material from another medium	1c8	
+best writing screenplay written directly for the screen	1g6	
+best writing story and screenplay	1g6	
+best writing story and screenplay written directly for the screen	1g6	
+best years of our lives	uu6	uu6:6
+betha		2u65:2
+betha sudhakar	2u65	
+blaszki commune	gzs	
+bloordanforth	1av9	
+bloordanforth line	1av9	
+bloordanforth subway	1av9	
+bloordanforth subway line	1av9	
+bloq quebecois	84k	
+bonnanaro	5400	
+bonnetable	1do3	
+camoens	1myp	
+camoens prize	1iwx	
+camurac	3yw4	
+celtia	3xvl	
+charles willson		486s:3
+charles willson peale	486s	
+coulmier		288b:3
+coulmier le		288b:3
+coulmier le sec	288b	
+diaconis	2r81	
+dorat	3hb0	
+dorat puy de dome	3hb0	
+durassian	okx	
+edbard kardelj	1nr1	
+elfthrith	2ciw	
+emocore music	4xb	
+emocore punk	4xb	
+errror	2d1z	
+ertra	1tm	
+frostbite	4f3z	1b81:3
+frostbite 1 0	1b81	
+frostbite 1 5	1b81	
+frostbite 2	1b81	
+frostbite 2006 film	4f3z	
+frostbite 3	1b81	
+frostbite engine	1b81	1b81:3
+frostbite engine 2	1b81	
+frostbite falls mn	14ok	
+frostbite game engine	1b81	
+genicourt	2e0x	40pl:3
+genicourt sur		40pl:3
+genicourt sur meuse	40pl	
+george elliott		6a12:3
+george elliott clarke	6a12	
+gephyromantis	1bpi	
+ginobli	4bx9	
+golfech	1xtx	
+gynecology	13jc	
+hado ken	dax	
+hagetmau	14j3	
+hellespontos	4f44	
+hepetis	7hp	
+herbal bitters	4pc7	
+herbal wine	63f	
+hig end smartphones	205u	
+hindsiclava	6elt	
+hoveyzeh		r8v:3
+hoveyzeh rural		r8v:3
+hoveyzeh rural district	r8v	
+imalayen	3ec0	
+ishizuka unsho	1nhr	
+ishizuka unshou	1nhr	
+italia	p	113i:2,2quk:6,5q5c:2
+italia 1	113i	
+italia a mano armata	3vgo	
+italia conti		2quk:6
+italia conti academy	2quk	2quk:6
+italia conti academy of		2quk:6
+italia conti academy of theatre		2quk:6
+italia conti academy of theatre arts	2quk	
+italia conti drama school	2quk	
+italia conti performing arts school	2quk	
+italia conti school of acting	2quk	
+italia conti stage school	2quk	
+italia coppola	5q5c	
+italia dei valori	27xg	
+italia dei valori lista di pietro	27xg	
+italia pennino	5q5c	
+italia s e rotta	4eee	
+italia serie a	7bp	
+italia serie b	bty	
+italia shooters	17cg	
+italia uno	113i	
+james noland	5uop	
+jamiah	r4i	
+jaro	2vwc	v8m:2
+jaro furth	v8m	
+jaro jakobstad	97e	
+jaro leyte	2vwc	
+jaro pietarsaari	97e	
+jietai	wna	
+jinshajiang	8m4	
+klementia of habsburg	1zsp	
+koridhallos greece	46dg	
+landa on the tauber	1lyj	
+libochovicky	46ic	
+ludacrismas	1mg3	
+meliphaga	5lhj	
+menaul christopher	5ubw	
+muntzenheim	2crk	
+national training school	btm	
+national training school for music	22q	
+niu	67f	
+niu huskies men s basketball	6fu9	
+niu tun	bq4	
+nizzle dj	447s	
+oberhausen	8p5	
+oberhausen arnheim railway	4a38	
+oberhausen arnhem railway	4a38	
+oberhausen germany	8p5	
+ophthalmidion	cz0	
+orica		cww:3,dca:3,lpa:3,107d:3,111r:3,2zl3:3
+orica ais	1bq1	2zl3:3
+orica ais 2014	2zl3	
+orica bikeexchange	j5m	dca:3
+orica bikeexchange 2016	dca	
+orica greenedge	j5m	lpa:3,107d:3,111r:3
+orica greenedge 2012	111r	
+orica greenedge 2013	107d	
+orica greenedge 2015	lpa	
+orica greenedge 2016	dca	
+orica scott	1bq1	cww:3
+orica scott 2017	cww	
+orica scott men 2017	cww	
+orica scott men s team	j5m	
+orica scott women s team	1bq1	
+oudincourt	3n3k	
+paul winfield	pc1	
+phasianoidea	5rd8	
+pheriannath	69zs	
+pini		476f:2
+pini balili	476f	
+poplar	srv	20vu:2
+poplar bluff	20vu	
+poplar bluff missouri	20vu	
+poplar bluff missouri micropolitan area	1md1	
+poplar bluff mo	20vu	
+poplar bluff mo micropolitan statistical area	1md1	
+poplar bluff mo msa	1md1	
+poplar bluff mo sa	1md1	
+poplar botany	1qbb	
+poplar london	srv	
+poplar london england	srv	
+poplar middlesex	srv	
+poplar tree	1qbb	
+poplar trees	1qbb	
+privacy fence	21en	
+privacy fencing	21en	
+privacy michael jackson s song	4xhu	
+privacy studio	5j4f	
+pseudoeurycea	1309	
+pseudoeurycea kuautli	1309	
+pseudoeurycea rubrimembris	1309	
+psi	ikg	
+psi bojonegoro	qlo	
+psi factor	476l	
+psi factor chronicles of the paranormal	476l	
+psi jakarta utara	wn2	
+psi kediri	l61	
+rammstein	jvy	
+rammstein air base	2gys	
+rammstein paris	jvy	
+rammstein single collection	jvy	
+randolphh army airfield	37ha	
+ricourt	3f42	
+rooftops	5a88	
+rooftops film	5a88	
+saint aubert	2ljd	27bg:4
+saint aubert nord	2ljd	
+saint aubert sur		27bg:4
+saint aubert sur orne	27bg	
+saint rafael	5jud	
+saint romphaire	3kwg	
+saint sauvier	229v	
+setsurou wakamatsu	6b9k	
+sobantu	7y5	
+sreenath	4s53	
+st more	10zc	
+staurites	1ajj	
+straight	559p	11h5:3,12ug:2,1609:3,1ooo:2,2swk:3,4dtl:3,4n92:2,5bec:2,63vx:2,6gqa:2
+straight 2	63vx	
+straight 24	1ooo	
+straight 4	1609	
+straight 4 engine	1609	
+straight 6	4n92	
+straight 6 engine	4n92	
+straight and hook bowling	87n	
+straight angle	1l43	
+straight back syndrome	vj2	
+straight bourbon	4laz	
+straight edge film	4uul	
+straight edge pxk	68hb	
+straight engine	1ooo	
+straight for the knife	4hae	
+straight four	1609	1609:3
+straight four engine	1609	
+straight from the gut	347q	
+straight from the heart 1999 film	67gu	
+straight hall	lby	
+straight into the fire	4v02	
+straight jack	5hb6	
+straight line	6fg9	
+straight line between two points	uqb	
+straight line comedy	i6l	
+straight line segment	uqb	
+straight man double act	i6l	
+straight michael	3o0l	
+straight of bosphorus	5qug	
+straight of georgia	14yh	
+straight of malacca	xwk	
+straight out of compton 2	3wgn	
+straight out of compton film	11h5	
+straight outta		11h5:3,4dtl:3
+straight outta burbank	1e7o	
+straight outta campton	4dtl	
+straight outta compton	11h5,4dtl	
+straight outta compton 2015 film	11h5	
+straight outta compton 20th anniversary	4dtl	
+straight outta compton album	4dtl	
+straight outta compton film	11h5	
+straight outta compton n w a album	4dtl	
+straight outta crompton	4dtl	
+straight play	9p	
+straight pull	n5u	
+straight pull action	n5u	
+straight pull bolt action	n5u	
+straight pull gun	n5u	
+straight pull guns	n5u	
+straight pull rifle	n5u	
+straight records	559p	
+straight six	4n92	
+straight six engine	4n92	
+straight stair	wq6	
+straight story	wjf	wjf:3
+straight talk	5bec	
+straight through cable	3xy6	
+straight time	12ug	
+straight to		2swk:3
+straight to dvd	xvv	
+straight to dvd ii past present and future hearts	1wxu	
+straight to hell	2swk	
+straight to hell film	2swk	
+straight to stream	xvv	
+straight to the bank 50 cent album	4nz9	
+straight to tv films	7j	
+straight to video	xvv	
+straight twin	63vx	
+straight twin engine	63vx	
+straight two	63vx	
+straight up	6gqa	
+straight up down	6h39	
+straight up down bruno mars song	6h39	
+straight up down song	6h39	
+straight up paula abdul single	6gqa	
+straight up paula abdul song	6gqa	
+straight way school	irp	
+tacheng		3k86:2
+tacheng prefecture	3k86	
+taigs	y4d	
+tajiki	ofu	
+tajiki language	ofu	
+tajiki persian	ofu	
+teseny	62l3	
+the elite squad	2ygx	
+the elite squad 2	3l06	
+the lbc	1cg	
+the manakin family	6ag9	
+the survivors	5h1e	
+the survivors star trek the next generation	5h1e	
+the survivors tng episode	5h1e	
+topolka commune	pcj	
+tranducer	6dfz	
+treat		kyf:2
+treat her gently lonely old people	5vci	
+treat myself album	13s0	
+treat myself meghan trainor album	13s0	
+treat williams	kyf	
+triprotic acid	4iu7	
+twiligh	6eqc	
+upu2	v7w	
+vallanca	2mht	
+vicars	56l	
+vicars forane	czq	
+vicars general	1b5m	
+vicars machine gun	r9e	
+vukman	5a3r	
+winterbottom michael	18mu	
+xeroxparc	4ttr	
+yalova	q1f	
+yerablur	5t7t	

@@ -1,0 +1,439 @@
+312in floppy	1my	
+81 2 film	nar	
+81 2 women	1kz7	
+81 album	25om	
+81 deerhoof	25om	
+akademic sofia	f4e	
+akademic sofia basketball	1a1v	
+alexander ostlund	3tte	
+antrum cardiacum	4u85	
+arsenii		2mcb:2
+arsenii yatseniuk	2mcb	
+azumgurh	qdr	
+badulla	4xfu	2ubz:2
+badulla district	2ubz	
+bakrkoy	m40	
+bakrkoy istanbul	m40	
+baldassar da siena	4h0k	
+baldassar peruzzi da siena	4h0k	
+baldato	5ixs	
+ballarat	6sh	
+ballarat australia	6sh	
+ballarat city	s1u	
+ballarat comments	6sh	
+ballarat mc victoria	6sh	
+ballarat vic	6sh	
+ballarat victoria	6sh	
+ballarat victoria comments	6sh	
+ballarat west victoria	6sh	
+basedow graves disease	64ya	
+belgianfootball	6mu	
+bellery desfontaines typeface	397c	
+bema	3a6u	
+bema lombardy	3a6u	
+bema so	3a6u	
+bengfu	1113	
+boneless meat	747	
+bouglinois	1rck	
+boxset	1lj2	
+chapterhouse		6gbx:2
+chapterhouse dune	6gbx	
+charging chasseur		5f3u:3
+charles lemaire	pfc	
+chelignathus	68nq	
+ciciliano	3qps	
+coelogyne	17dg	
+communis europae praeceptor	1esu	
+dfy	1o0a	
+diable de siberie	15ya	
+dillwynella	6eow	
+ecdysozoa	6fmt	
+edward earl of wessex	1qv7	
+eghezee	3x5d	
+embeth		1pj2:2
+embeth davidtz	1pj2	
+embeth davis	1pj2	
+euba	hyu	
+eupterote	nu6	
+fc dniester ovdiopol	q6c	
+fc dniester ovidiopol	q6c	
+fc slutsksakhar slutsk	djc	
+ferncliff		gec:2
+ferncliff cemetery	gec	
+ferncliff cemetery and mausoleum	gec	
+ferncliff mausoleum	gec	
+garrha	109s	
+gentamicin	3f81	
+gentamicin gentamycin	3f81	
+gentamicin sulfate	3f81	
+george bernard		c1w:3,1qod:3
+george bernard dantzig	1qod	
+george bernard shaw	c1w	
+george bernard shaw comments	c1w	
+george bernard shaw old	c1w	
+gmina lipsk	19nr	
+gmina lubawka	2kyt	
+gmina lubien	4k41	ggq:3
+gmina lubien kujawski	ggq	
+gmina malogoszcz	14cn	
+gmina marcinowice	1fos	
+grossorzechau	398u	
+guodao	h1b	
+hemisphaera	maz	
+henry fitzhenry	11sh	
+hochimin	1yn8	
+insming	22z2	
+jalani		1r0c:2
+jalani sidek	1r0c	
+janville	30om	1wnn:3
+janville calvados	30om	
+janville sur		1wnn:3
+janville sur juine	1wnn	
+kasp netscher	5evp	
+konstantinova banja	qao	
+konstantinova banya	qao	
+kuno		4pyu:2
+kuno becker	4pyu	
+kuno becquer	4pyu	
+kyiv	jd	8rl:2,hvp:2,2smv:8,37n0:3,5ci8:3,5xyw:11
+kyiv boryspil airport	3yhw	
+kyiv caves	5ci8	
+kyiv caves dormition lavra	5ci8	
+kyiv governorate	1850	
+kyiv institute trade economics	lut	
+kyiv metro	hvp	
+kyiv national		2smv:8,5xyw:11
+kyiv national economic		2smv:8
+kyiv national economic university	2smv	2smv:8
+kyiv national economic university named		2smv:8
+kyiv national economic university named after		2smv:8
+kyiv national economic university named after vadym		2smv:8
+kyiv national economic university named after vadym hetman	2smv	
+kyiv national i		5xyw:11
+kyiv national i k		5xyw:11
+kyiv national i k karpenko		5xyw:11
+kyiv national i k karpenko kary		5xyw:11
+kyiv national i k karpenko kary theatre		5xyw:11
+kyiv national i k karpenko kary theatre cinema		5xyw:11
+kyiv national i k karpenko kary theatre cinema and		5xyw:11
+kyiv national i k karpenko kary theatre cinema and television		5xyw:11
+kyiv national i k karpenko kary theatre cinema and television university	5xyw	
+kyiv national trade and economy university	lut	
+kyiv national university of trade and economics	lut	
+kyiv oblast	8rl	
+kyiv pechersk		5ci8:3
+kyiv pechersk lavra	5ci8	
+kyiv polytechnic institute	psm	
+kyiv province	8rl	
+kyiv region	8rl	
+kyiv shevchenko university	4th	
+kyiv sports pallace	1nqq	
+kyiv state institute of theatrical arts	5xyw	
+kyiv style bandura	nul	
+kyiv sviatoshyn		37n0:3
+kyiv sviatoshyn raion	37n0	
+kyiv trade and economics university	lut	
+kyiv trade economics university	lut	
+kyiv university	4th	
+la chartreuse de parme	1bkh	
+le cheylard	1zi6	
+le vesinet	i17	
+leutze	52ht	
+leutze emanuel gottlieb	52ht	
+louchats	2o8x	
+louis daniel armstrong	e8h	
+lumumbists	41ht	
+lychakivskiy cemetery	98k	
+lyotard	1v5j	
+lyotard jean francois	1v5j	
+mackinaw county	tll	
+mackinaw county michigan	tll	
+manius	3tvg	
+manius acilius aviola consul 122	6fms	
+manius praenomen	3tvg	
+mannheimkarlsruhebasel		11ez:2
+mannheimkarlsruhebasel railway	11ez	
+mbokani	3b6m	
+memramcook	2i60	
+memramcook centre new brunswick	2i60	
+memramcook east new brunswick	2i60	
+memramcook nb	2i60	
+memramcook region	2i60	
+mennonitism	5tul	
+michael deluca	1gfp	
+michael edwards brown	wuj	
+mongolyn ardchilsan nam	3esr	
+mongolyn ardyn nam	moa	
+mongolyn ezent guren	rny	
+mosquee de tsingoni	456c	
+muchedent	2bsg	
+national indoor arena	108f	
+national indoor soccer league	3t2y	
+new jazz records	1qi	
+nonsense on stilts	31lz	
+nonsense upon stilts	31lz	
+olonne	4cpq	4cpq:3
+olonne sur		4cpq:3
+olonne sur mer	4cpq	
+ongc		wus:3
+ongc f		wus:3
+ongc f c	wus	
+ongc fc	wus	
+ongc mumbai	wus	
+openside flanker	12s	
+orkoien	4le6	
+otwock	14dp	1mxm:2
+otwock county	1mxm	
+paniliakos	b70	b70:3
+paniliakos f		b70:3
+paniliakos f c	b70	
+paros	2xlh	
+paros island	2xlh	
+patriarchal basilica of aquileia	tq2	
+patriarchal basilica of st peter in rome	f9f	
+patriarchal basilica of st peter in vatican	f9f	
+patriarchal basilica of st peter in vatican city	f9f	
+patriarchal caliphate	bcd	
+patriarchal see	5fz9	
+patriarchal vicar	56l	
+patriarchal vicariate	56l	
+pepita		393o:2
+pepita serrador	393o	
+peter aloysius muller	39z3	
+phragmataecia	117w	
+podhradi	39gf	
+podhradi jicin district	39gf	
+poochandi	301y	
+poochandi 2014 film	301y	
+pooled funds	6ava	
+pooled investment	6ava	
+pooled investment fund	6ava	
+princess regina of saxe meiningen	2h7w	
+pullman	upv	
+pullman berth	6err	
+pullman brown	6pz	
+pullman car	6err	
+pullman hotels	12fk	
+pullman richmond	a8z	
+pullman sleeping car	6err	
+pullman wa	upv	
+pullman wa micropolitan statistical area	upv	
+pullman wa msa	qh8	
+pullman wa sa	qh8	
+pullman wash	upv	
+pullman washington	upv	
+pullman washington micropolitan area	upv	
+quinctilian	43q6	
+rancid	1j9m	
+rancid band	1j9m	
+rancid records	1j9m	
+remirea	dcx	
+robert lehr	412f	
+robert lemaitre	5axb	
+rosamund		16r7:2,1kpt:2,3gs6:2
+rosamund john	3gs6	
+rosamund kwan	1kpt	
+rosamund kwan chi lam	1kpt	
+rosamund lehmann	2n7q	
+rosamund pike	16r7	
+rosamund pike filmography	16r7	
+rox	232	
+rox rommell	7rk	
+rufete	27cc	
+ruston	fxh	4nj2:3
+ruston high		4nj2:3
+ruston high school	4nj2	
+ruston la	fxh	
+ruston la micropolitan statistical area	3mx1	
+ruston la msa	3mx1	
+ruston la sa	3mx1	
+ruston louisiana	fxh	
+ruston louisiana micropolitan statistical area	3mx1	
+ruston micropolitan area	3mx1	
+ruston micropolitan statistical area	3mx1	
+sackperson	6haw	
+saint avold	k5x	
+saint avold 1st canton	61m0	
+saint avold 2nd canton	6048	
+sclerosomatidae	7sp	
+scouts	thj	2b6q:6
+scouts club	34k8	
+scouts guide		2b6q:6
+scouts guide to		2b6q:6
+scouts guide to the		2b6q:6
+scouts guide to the zombie		2b6q:6
+scouts guide to the zombie apocalypse	2b6q	
+scouts of the plains	3pcc	
+scouts online	4d81	
+scouts sports	thj	
+scouts vs zombies	2b6q	
+sphaeromariscus	dcx	
+st milburgh	5yy7	
+steppen fechit	1m8s	
+steppen fetchit	1m8s	
+stoffler	5vzl	
+tauberbischofsheim	1lyj	
+tenrec sandbox	10sw	
+the counselor	156s	
+the counselor 2013 film	156s	
+the counselor film	156s	
+the goldblum	dqe	
+the master	16ku,5zmn	15fn:4,1a9e:4,1s1f:4,24y9:4,32fc:4,3h1q:4,51ul:3,521w:4,5fvq:5
+the master 2012	16ku	
+the master 2012 film	16ku	
+the master and		15fn:4,1a9e:4,1s1f:4,24y9:4
+the master and fellows of the college of the great hall of the university of oxford	21q	
+the master and margaret	24y9	
+the master and margaret 1972 film	24y9	
+the master and margarita	15fn,1a9e,1s1f	
+the master and margarita 1994 film	15fn	
+the master and margarita 2005 miniseries	1s1f	
+the master and margarita 2005 tv miniseries	1s1f	
+the master and margarita film 1994	15fn	
+the master and margarita miniseries	1s1f	
+the master and margarita miniseries 2005	1s1f	
+the master and margarita tv miniseries	1s1f	
+the master and margherita	1a9e	
+the master and the margarita	1a9e	
+the master blaster	21i5	
+the master cheif	6hgw	
+the master chief	6hgw	
+the master detective lives dangerously	4hql	
+the master doctor who	5zmn	
+the master dr who	5zmn	
+the master fallout	6hud	
+the master fellows and scholars of the college of the most holy and undivided trinity in the town and university of cambridge	gx	
+the master margarita	1a9e	
+the master mind		5fvq:5
+the master mind of		5fvq:5
+the master mind of mars	5fvq	
+the master of		32fc:4,3h1q:4,521w:4
+the master of ballantrae	32fc	
+the master of ballantrae 1953 film	32fc	
+the master of ballantrae film	32fc	
+the master of disguise	3h1q	
+the master of flemalle	2us0	
+the master of nuremberg	521w	
+the master of the world 1934 film	2kcq	
+the master of the world 1935 film	2kcq	
+the master original motion picture soundtrack	16ku	
+the master singers of nurnberg	6h10	
+the master time lord	5zmn	
+the master touch	51ul	
+the master wardens and assistants of the guild fraternity or brotherhood of the most glorious and undivided trinity and of st clement in the parish of deptford strond in the county of kent	rgo	
+the policemen	4rai	
+theirry henry	16ri	
+thomas kouzmanis	61ks	
+tindersticks	2npb	
+toowoomba	6ch	aal:2,2tqu:2
+toowoomba australia	6ch	
+toowoomba carnival of flowers	6ch	
+toowoomba city	6ch	
+toowoomba city council queensland	6ch	
+toowoomba north	2tqu	
+toowoomba qld	6ch	
+toowoomba queensland	6ch	
+toowoomba region	aal	
+toowoomba regional council	aal	
+traditional		gt:3,351:2,4sb:4,30nv:2,3955:2,69lj:2
+traditional animation	69lj	
+traditional architecture	1k6m	
+traditional british pub	202	
+traditional building	1k6m	
+traditional buildings	1k6m	
+traditional cel animation	69lj	
+traditional cheso ortography	3ev2	
+traditional chinese garden	1120	
+traditional chinese massage	6fgn	
+traditional clothing	30nv	
+traditional costume	30nv	
+traditional costumes in sweden	30nv	
+traditional counties of england	11ip	
+traditional counties of ireland	1yxn	
+traditional counties of wales	6en1	
+traditional country	7b2	
+traditional country music	6u	
+traditional county	11ip	
+traditional county of carmarthenshire	3b4	
+traditional county of england	11ip	
+traditional dance	uhm	
+traditional dances	uhm	
+traditional diet	2otf	
+traditional districts of norway	4qzb	
+traditional doom	3j9	
+traditional doom metal	3j9	
+traditional dress	30nv	
+traditional english counties	11ip	
+traditional ethnic garment	30nv	
+traditional farming	4gn	
+traditional fishing village	5v8f	
+traditional folk		gt:3
+traditional folk music	gt	
+traditional gentlemen s clubs	1fbf	
+traditional history	1ahj	
+traditional irish music	2sx7	
+traditional leader	4sb	4sb:4
+traditional leader or		4sb:4
+traditional leader or chief	4sb	
+traditional liberalism	1d71	
+traditional metaphysics	3955	
+traditional music of northern ireland	2sx7	
+traditional music of pakistan	1f6x	
+traditional music of the republic of ireland	2sx7	
+traditional number system	3odi	
+traditional poetry	jv	
+traditional pop	351	
+traditional pop music	351	
+traditional pop standards	351	
+traditional popular music	351	
+traditional provinces of portugal	5nfp	
+traditional publishing	maq	
+traditional region	7od	
+traditional russian units of measurement	5g0v	
+traditional school	3955	
+traditional sludge	a77	
+traditional song	gt	
+traditional songs	gt	
+traditional songs of oriel amhrain oirialla	645z	
+traditional systems of measurement	1hab	
+traditional taekwondo	1sq	
+traditional wrestling	3y0	
+tusell javier	3imy	
+ulvik	1cue	1cue:2
+ulvik municipality	1cue	
+ulvik norway	1cue	
+un ecosoc	6gm8	
+utomlyonnye solntsem	1kxp	
+utomlyonnye solntsem 2	4v0z	
+utomlyonnye solntsem 2 predstoyanie	4v0z	
+valsequillo		4grn:4
+valsequillo de		4grn:4
+valsequillo de gran		4grn:4
+valsequillo de gran canaria	4grn	
+valsequillo de gran canaria las palmas	4grn	
+valsequillo las palmas	4grn	
+vergilio	z8g	
+versatile commodore emulator	6cbx	
+virdhunagar district	myy	
+vyf brakke fonteinen	3y9a	
+warching	3d41	
+wenlock shropshire	4i6v	
+williamis de souza silva	2d6a	
+williamis souza	2d6a	
+wywh pink floyd album	5tgr	
+yourlocalguardian	nyh	
+yue	q9	
+yue cantonese	hz4	
+yue chinese	hz4	
+yue chinese language	hz4	
+yue chinese redirects	q9	
+yue dialect family	hz4	
+yue du	2zyf	
+yue hua	4fes	
+yue language	hz4	
+yue shan	6gjq	
+yue shang chong huo	5ir6	
+yue varieties	hz4	
+yue xiu district	j0m	
+yurmala	cds	
+zaubermaus	44n5	

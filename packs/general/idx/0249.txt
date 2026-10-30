@@ -1,0 +1,387 @@
+500s	25k6	
+500s bc	2gv8	
+500s bce	2gv8	
+500s century	1gl4	
+500s decade	25k6	
+alert		5qsb:4,63ay:2
+alert in		5qsb:4
+alert in the		5qsb:4
+alert in the mediterranean	5qsb	
+alert management inc	dux	
+alert music	63ay	
+alert music inc	63ay	
+alert records	63ay	
+alert records inc	63ay	
+alnasteini	9ey	
+alvise	d9	
+amocom chisinau	557x	
+antbird	1drs	
+antbird family	1drs	
+anthicidae	5fqp	
+anzal		1ai3:5
+anzal e		1ai3:5
+anzal e jonubi	1ai3	1ai3:5
+anzal e jonubi rural		1ai3:5
+anzal e jonubi rural district	1ai3	
+archips	9us	
+ardy	103m	4v69:2
+ardy b wiranata	4v69	
+ardy bernardus wiranata	4v69	
+ardy wiranata	4v69	
+asterodae	6f08	
+azaz	1dpj	
+azaz district	1dpj	
+babtism	1nfd	
+baroville	28xz	
+belton	2zi3	
+belton texas	2zi3	
+belton tx	2zi3	
+berchtesgadener alpen	uua	
+berchtesgadener alps	uua	
+berchtesgadener land	pw7	
+berchtesgadener land district	pw7	
+blechrophanes	5s4d	
+boies david	60sk	
+bowie	1ceg	wge:2,1b8z:3,5ek8:2
+bowie anthony	2r24	
+bowie center for the performing arts	1ceg	
+bowie county	wge	
+bowie county texas	wge	
+bowie county tx	wge	
+bowie david	3a9	
+bowie discography	6hmg	
+bowie lam	5ek8	
+bowie lam bo yee	5ek8	
+bowie maryland	1ceg	
+bowie md	1ceg	
+bowie normal school	1b8z	
+bowie st	1b8z	
+bowie state	1b8z	1b8z:3
+bowie state bulldogs basketball	1b8z	
+bowie state college	1b8z	
+bowie state university	1b8z	
+bowie state university department of public safety	1b8z	
+btafc	roi	
+cartmell hall	198z	
+cerons	2xcb	
+chandlerism	q46	
+chittenden		juy:2
+chittenden county	juy	
+chittenden county vermont	juy	
+chittenden county vt	juy	
+cholargos	3e7h	
+cholargos greece	3e7h	
+cuisiner	kf7	
+delirious	1hnz,2gdf,33rw	
+delirious 1991 film	2gdf	
+delirious 2	1hnz	
+delirious 2006 film	33rw	
+delirious comments	1hnz	
+delirious movie	2gdf	
+delirious musicians	1hnz	
+dermocortal	2hh7	
+dewoitine	5be3	
+dibra	43wt	1a70:2
+dibra county	1a70	
+dibra e madhe	43wt	
+dusejov	38ro	
+edward rutherford	660z	
+elmendorf		2zuj:4
+elmendorf ab	2zuj	
+elmendorf afb	2zuj	
+elmendorf afb airfield management	2zuj	
+elmendorf afb alaska	2zuj	
+elmendorf air		2zuj:4
+elmendorf air force		2zuj:4
+elmendorf air force base	2zuj	
+elmendorf air force base alaska	2zuj	
+elmendorf airfield	2zuj	
+elmendorf army airfield	2zuj	
+elmendorf field	2zuj	
+enginedriver	uyf	
+espejon	4340	
+espejon soria	4340	
+espejon spain	4340	
+eukaryotic cell	1whg	
+eukaryotic cells	1whg	
+eukaryotic organism	1whg	
+flano javier	3lhn	
+forel	2xg8	3yv4:3
+forel sur		3yv4:3
+forel sur lucens	3yv4	
+forel sur lucens switzerland	3yv4	
+forel sur lucens vaud	3yv4	
+forel sur lucens vd	3yv4	
+funnel ant	1p8l	
+funnel ants	1p8l	
+funnel web tarantulas	2leb	
+ggp inc	edp	
+gmina orla	190l	
+gudjonsson	2u4a	
+hutte	14wm	
+iguanomorpha	3o9c	
+ijzs	jky	
+jablines	23di	
+james dens		5i0w:4
+james dens da		5i0w:4
+james dens da silva	5i0w	
+jangalapatty	1ua5	
+jean arthur	nxn	
+jean arthur comments	nxn	
+jean arthur rimbaud	17r4	
+john fox	3j49	2x7o:3,61kv:3
+john fox burgoyne	2x7o	
+john fox jr	3j49	
+john fox novelist	3j49	
+john fox strangways	61kv	
+john fox sullivan	5h0w	
+jukkasjaervi	5gt1	
+jukkasjaervi lapland court district	5gt1	
+jukkasjaervi sweden	5gt1	
+kann ingen sorg	4y2l	
+kingbird	622g	
+kluizen	2qsg	
+kostel	wn0	wn0:2
+kostel municipality	wn0	
+krakovany	4bcc	
+krakovany kolin district	4bcc	
+kuenlun	4p4f	
+latirus	hoo	
+llandaf	2rj3	
+lohho	1jfs	
+loza	2l4u	
+loza plzen north district	2l4u	
+ludolph of swabia	3err	
+malappuram	1ehx	83q:2
+malappuram district	83q	
+marsevinc	e2t	
+med city	5z9	
+med kaerlig hilsen	5sag	
+med krlig		5sag:3
+med krlig hilsen	5sag	
+med livet som insats	4wgh	
+med school	20l	
+med student	20l	
+med sud	5wp0	
+med sud i eyrum vid spilum endalaust	5wp0	
+medis	2jll	
+meitantei conan	531w	
+meitantei conan goka no himawari	2kv4	
+meitantei conan kindaichi shounen no jikenbou	2fmp	
+melanophryniscus	3sqh	
+melinda		1658:2,1fuo:3,1kbq:2
+melinda and		1fuo:3
+melinda and melinda	1fuo	
+melinda ann french	1658	
+melinda ann gates	1658	
+melinda dillon	1kbq	
+melinda french	1658	
+melinda french gates	1658	
+melinda gates	1658	
+melinda jackson	2gpd	
+melinda melinda	1fuo	
+melinda rose dillon	1kbq	
+melinda wendee lee	4acd	
+membracidae	3x7r	
+mensiversary	3fxz	
+meraaker line	3g7a	
+meraaker railroad	3g7a	
+meraaker railway	3g7a	
+milka		5eaa:2
+milka babovic	5eaa	
+milka vasaryova	2v92	
+mousehunt film	1rmi	
+national monuments		17sj:6
+national monuments ireland	4m9	
+national monuments of		17sj:6
+national monuments of bosnia		17sj:6
+national monuments of bosnia and		17sj:6
+national monuments of bosnia and herzegovina	17sj	
+national monuments of chile	5tsb	
+national monuments of ireland	4m9	
+national monuments of ireland doc	4m9	
+nerun	f54	
+nerun kot	f54	
+netherfield a f c	nz8	
+new jedi order	6ght	6ght:4
+new jedi order edge of victory conquest	6aa8	
+new jedi order edge of victory i conquest	6aa8	
+nuvvostanante		4tu6:2
+nuvvostanante nenoddantana	4tu6	
+ocnogyna	6et4	
+ocrisiodes	6f7y	
+ortharbela	6daz	
+paradou	3de5	1rnt:2
+paradou ac	1rnt	
+patricians	3n2	
+paul jarrico	5lxu	
+peritonitis	1b2a	
+peter hitchens	30y5	
+peter hitchens books	30y5	
+peter hitchens comments	30y5	
+petriolo	522o	
+pfft you was gone	3749	
+phymatodes	2636	
+polyortha	1l3x	
+porte	4esa	1t32:2,4jfc:3,5jgo:3,5vu7:2
+porte aperte	3k84	
+porte aperte film	3k84	
+porte avions charles de gaulle r 91	47c1	
+porte chiuse	3p5a	
+porte d aval	1jr4	
+porte des		5jgo:3
+porte des lilas	1wgv,5jgo	
+porte des lilas cinema	1wgv	
+porte des lilas film	1wgv	
+porte des lilas paris metro	5jgo	
+porte du		4jfc:3
+porte du ried	4jfc	
+porte italy	4esa	
+porte maillot	5vu7	
+porte maillot paris metro	5vu7	
+porte piedmont	4esa	
+porte puymorens	1t32	
+porte to	4esa	
+predalone 50	24e7	
+predalone t b a	24e7	
+pretin	2hwy	
+princess jalilah bint al ali	153n	
+princess jalilah bint ali	153n	
+qaasuitsup	3zb	
+qaasuitsup kommunia	3zb	
+qaasuitsup municipality	3zb	
+rail		16e:2,2s6:5,16no:2,29ln:2,2ev4:4,66a7:4,69ok:4,6fit:4
+rail accident	23p	66a7:4
+rail accident investigation		66a7:4
+rail accident investigation branch	66a7	
+rail bank	16no	
+rail bird	29ln	
+rail bridge	b8	
+rail car	5brd	
+rail carriage	5brd	
+rail club		2ev4:4
+rail club du		2ev4:4
+rail club du kadiogo	2ev4	
+rail club kadiogo	2ev4	
+rail collision	23p	
+rail corp	2s6	
+rail corporation		2s6:5
+rail corporation new		2s6:5
+rail corporation new south		2s6:5
+rail corporation new south wales	2s6	
+rail crash	23p	
+rail diasters	23p	
+rail disasters	23p	
+rail family	29ln	
+rail gauge 1435 mm	9k	
+rail gauge in india	5yw	
+rail gauge in russia	99f	
+rail gauges	5yi5	
+rail industry	16e	
+rail merger	14i1	
+rail passenger service act	629	
+rail road	16e	
+rail shooter	1fy	
+rail shooters	1fy	
+rail spur	38zj	
+rail to trail	16no	
+rail to trails	16no	
+rail tracks	1qnt	
+rail tracks width	5yi5	
+rail trail	16no	
+rail trails	16no	
+rail train	2ad	
+rail transport	16e	69ok:4,6fit:4
+rail transport in		69ok:4,6fit:4
+rail transport in bangladesh	2qjo	
+rail transport in christmas island	196v	
+rail transport in hungary	69ok	
+rail transport in indiana	b7	
+rail transport in kansas	p8	
+rail transport in luxembourg	g13	
+rail transport in mayotte	8nl	
+rail transport in melilla	lg2	
+rail transport in pakistan	13tq	
+rail transport in russia	6fit	
+rail transport in serbia	1d99	
+rail transport in slovenia	tqu	
+rail transport in sumatra	166m	
+rail transport in the altai republic	ql5	
+rail transport in the canary islands	7bm	
+rail transport in tibet	byz	
+rail transport in tuva	iv4	
+rail transport in xinjiang	818	
+rail transport in yogyakarta	a56	
+rail transport in zanzibar	ldq	
+rail transportation	16e	
+rail travel	16e	
+rail tunnel	2o5	
+rail vehicle	2ad	
+rail way	16e	
+rauschwitz	5sw6	
+rawse	ehq	
+rmah	5ruw	
+robert beresford brown	my6	
+robert quine	59tu	
+robert tapert	11dc	
+rosemead	1wxl	
+rosemead ca	1wxl	
+rosemead california	1wxl	
+rosemead school of psychology	ofk	
+ryecorn	3vrl	
+saku	37kv	1rmy:3,2g3e:2,4qwl:3
+saku antero koivu	2g3e	
+saku commune	1rmy	
+saku koivu	2g3e	
+saku kuosmanen	4cva	
+saku nagano	37kv	
+saku parish	1rmy	
+saku pekka		4qwl:3
+saku pekka sahlgren	4qwl	
+saku rural		1rmy:3
+saku rural municipality	1rmy	
+saku vald	1rmy	
+samoana	3chr	
+sapone	12xl	
+sapone department	12xl	
+sebutones	15w7	
+sef torres 1903	cvj	
+suids	3hjb	
+superfuzz film	2sf3	
+supermercado de walmart	a62	
+sweeding	2jse	
+tabariyyah	ddn	
+tanvi		5fub:2
+tanvi azmi	5fub	
+terdat iii	5vds	
+the bahamas	1gp	
+the empress		4fc0:4,4nqd:4
+the empress and		4fc0:4
+the empress and i	4fc0	
+the empress frederick	q86	
+the empress maud matilda	rne	
+the empress of		4nqd:4
+the empress of china	4nqd	
+the empress of china film	4nqd	
+the empress of mars doctor who	5mfc	
+the empress of the blues	2lfq	
+the empress yang kwei fei	42vj	
+the maestro king of the cowboy artists	3n75	
+tiruchchirappalli district	cgk	
+tomie		6398:2
+tomie de paola	6398	
+tomie depaola	6398	
+tomie nagasaki	4mhm	
+toses	3pey	
+tupin		39hu:3
+tupin et		39hu:3
+tupin et semons	39hu	
+umich	70	
+umich dearborn	1f7y	
+uzan	2psc	
+uzan pyrenees atlantiques	2psc	
+vana diel	3qvk	
+vana parnu	8e8	
+vlotho	4t9p	
+xermade	4x5j	
+zopot	myd	

@@ -1,0 +1,847 @@
+80x86	8dp	
+a flock		2030:4
+a flock of		2030:4
+a flock of seagull s	2030	
+a flock of seagulls	2030	
+akhmin	3zly	
+alexander	bl,c7z,eyg,1xqw,303m,3lq8	8iv:2,9cw:2,a8i:3,a9n:2,f0f:3,fhh:2,hmm:4,hsl:4,ibj:2,jsy:2,kht:4,l81:2,lm0:4,lzw:2,muy:2,mv1:2,n9o:3,p2j:2,pum:2,rsg:2,s9c:3,t42:10,ta8:2,uf3:2,v1n:2,vtm:3,w32:2,w9u:2,we1:2,x3t:2,ykt:2,yx8:3,106m:2,10nf:2,12ti:2,12wi:4,137j:2,14h6:2,14vq:2,16o4:6,16pf:6,173a:2,175x:3,18n0:2,18ti:2,19c4:2,19gz:2,19k8:2,1adl:2,1af6:2
+algernon	1m46	1hkt:6,1pew:6,2rw3:6,38i4:2,3eie:6,4ojj:6,4qkt:2,4ycz:3,5pn6:2,5xcl:2
+algernon ashton	5pn6	
+algernon bennet langton ashton	5pn6	
+algernon blackwood	4qkt	
+algernon c swinburne	4ycz	
+algernon charles		4ycz:3
+algernon charles swinburne	4ycz	
+algernon first name	1m46	
+algernon george percy	2rw3	
+algernon george percy 6th duke of northumberland	2rw3	
+algernon given name	1m46	
+algernon henry blackwood	4qkt	
+algernon herbert	5xcl	
+algernon james bond	14kx	
+algernon name	1m46	
+algernon percy	2rw3	1hkt:6,2rw3:6,3eie:6,4ojj:6
+algernon percy 10th		3eie:6
+algernon percy 10th earl		3eie:6
+algernon percy 10th earl of		3eie:6
+algernon percy 10th earl of northumberland	3eie	
+algernon percy 1st		1hkt:6
+algernon percy 1st earl		1hkt:6
+algernon percy 1st earl of		1hkt:6
+algernon percy 1st earl of beverley	1hkt	
+algernon percy 4th		4ojj:6
+algernon percy 4th duke		4ojj:6
+algernon percy 4th duke of		4ojj:6
+algernon percy 4th duke of northumberland	4ojj	
+algernon percy 6th		2rw3:6
+algernon percy 6th duke		2rw3:6
+algernon percy 6th duke of		2rw3:6
+algernon percy 6th duke of northumberland	2rw3	
+algernon percy lord lovaine	1hkt	
+algernon seymour		1pew:6
+algernon seymour 7th		1pew:6
+algernon seymour 7th duke		1pew:6
+algernon seymour 7th duke of		1pew:6
+algernon seymour 7th duke of somerset	1pew	
+algernon seymour earl of hertford	1pew	
+algernon sidney	38i4	
+algernon sidney or sydney	38i4	
+algernon swinburne	4ycz	
+algernon sydney	38i4	
+amory		3bhs:2
+amory amo houghton jr	5a9p	
+amory b lovins	3bhs	
+amory blaine	6h2x	
+amory bloch lovins	3bhs	
+amory houghton jr	5a9p	
+amory lovens	3bhs	
+amory lovings	3bhs	
+amory lovins	3bhs	
+aor	6dja	
+araeosoma	5w15	
+areca	6f4p	
+areca genus	6f4p	
+astrakhanskaya oblast	uo0	
+astrakhanskaya oblast russia	uo0	
+bakio	4mpk	
+bandan		mgu:3
+bandan rural		mgu:3
+bandan rural district	mgu	
+bronzell	bxz	
+bustamante y rivero	6381	
+carbody locomotive	2f3x	
+carbody unit	2f3x	
+carmo	ovb	
+cernic	3o8d	
+chanoy	44nh	
+cimo ticino	1xsi	
+correction and detention facilities	1iw	
+danepils	11b	
+demersville montana	sw3	
+drommen om julen	t1k	
+dunaberg	7sj	
+dunmow flitch	3iq7	
+dx	1hjj	
+dx iw	4nx5	
+dx line	1p74,5903	
+ec2	4vj	
+ec2 band	16h0	
+ec2 s c1	inh	
+eniwa	4ywe	
+eniwa hokkaido	4ywe	
+eniwa japan	4ywe	
+eniwa shi	4ywe	
+ensae		1u2b:2
+ensae graduate school of economics statistics and finance	1u2b	
+ensae paris	1u2b	
+ensae paristech	1u2b	
+fellner		1ha6:2
+fellner and helmer	1ha6	
+fellner helmer	1ha6	
+francaltroff	1ezy	
+gembaku no ko	3th7	
+george getgood	3rz5	
+givors	o50	
+glance background	48c9	
+gmina agow	15z4,1now	
+gmina agow lubusz voivodeship	1now	
+gmina agow swietokrzyskie voivodeship	15z4	
+gmina dobra	qyo,2bsw,4bm4,4j29	
+gmina dobra greater poland voivodeship	qyo	
+gmina dobra lesser poland voivodeship	2bsw	
+gmina dobra lobez county	4j29	
+gmina dobra obez county	4j29	
+gmina dobra police county	4bm4	
+grimm	7v0	
+grimm brothers	1dbk	
+grimm fairy tale	icn	
+grimm fairy tales	icn	
+grimm jacob 1785 1863	wbg	
+grimm jakob	wbg	
+grimm s fairy tales	icn	
+grimm tv	7v0	
+grimm tv series	7v0	
+grimm tv show	7v0	
+grumann aerospace	uij	
+guarinis	4ng1	
+guatteria	1rnm	
+happy	4395,65hr	98y:3,ynh:3,17ym:2,1g7f:3,1mp8:2,1n7z:2,1v3u:3,1wka:2,1x0s:3,2fnr:2,2sql:3,35ei:4,377k:2,38la:4,38m1:5,3b9z:2,3gei:3,3j5o:2,3vlh:2,3vz0:2,3yw0:2,40tr:2,45z9:3,47e1:2,494h:2,4n90:2,4r8z:2,4uph:2,509l:3,51e7:2,55n8:2,5wms:2,60w7:3,64pz:3
+happy 2006 film	65hr	
+happy 4th	6hfm	
+happy accidents	4n90	
+happy accidents 2000 film	4n90	
+happy accidents film	4n90	
+happy acres alberta	2xbk	
+happy berry yum yum	4qqw	
+happy birthday		35ei:4
+happy birthday to		35ei:4
+happy birthday to me	35ei	
+happy birthday to me film	35ei	
+happy birthday to me movie	35ei	
+happy campers	4uph	
+happy campers 2001 film	4uph	
+happy campers film	4uph	
+happy can		3gei:3
+happy can already	3gei	
+happy chandler	3b9z	
+happy chandler sr	3b9z	
+happy christmas happy new year	5fgk	
+happy christmas to you from me	638x	
+happy christmas war is over	38m1	
+happy clouds	2skn	
+happy dan the whistling dog	hcx	
+happy days	17ym,2fnr	38la:4
+happy days 1929 film	2fnr	
+happy days again	17ym	
+happy days in		38la:4
+happy days in aranjuez	38la	
+happy days tv series	17ym	
+happy easter	494h	
+happy end	5wms	
+happy end 2009 film	5wms	
+happy ending	33g4	33g4:3
+happy endings	1n7z,51e7	
+happy endings film	51e7	
+happy endings tv series	1n7z	
+happy event	3tnr	
+happy ever		60w7:3,64pz:3
+happy ever after	60w7,64pz	
+happy ever after 1932 film	60w7	
+happy ever after 1954 film	64pz	
+happy ever after film	60w7	
+happy face records	1ujv	
+happy family	55n8	
+happy family 2010 film	55n8	
+happy feet	1wka	1g7f:3
+happy feet 2	1g7f	
+happy feet 2 in 3d	1g7f	
+happy feet 2006 film	1wka	
+happy feet 3d	1wka	
+happy feet 4d	1wka	
+happy feet film	1wka	
+happy feet film series	1wka	
+happy feet music from the motion picture	1wka	
+happy feet ost	1wka	
+happy feet two	1g7f	
+happy from despicable me ii	4395	
+happy gabba	3j5o	
+happy ghost		57qz:3
+happy gilmore	1mp8	
+happy gilmour	1mp8	
+happy glorious	1pzs	
+happy go		1v3u:3,509l:3
+happy go lovely	509l	
+happy go lucky	1v3u	
+happy hairston	40tr	
+happy harada	567n	
+happy hard	3j5o	
+happy hardcore	3j5o	
+happy harry hard on	2b89	
+happy harry hardon	2b89	
+happy hawaii	25ri	
+happy hoes	2o8g	
+happy holidays to you album	3eos	
+happy holidays you bastard	5lg5	
+happy hollow school	3jts	
+happy home designer	6g5l	
+happy home series	4qzd	
+happy khmas	38m1	
+happy land	3yw0	
+happy land film	3yw0	
+happy landing	47e1	
+happy landing film	47e1	
+happy little trees	2skn	
+happy madison	ynh	ynh:3
+happy madison productions	ynh	
+happy madison productions doc	ynh	
+happy mas	38m1	
+happy mondays	3vlh	
+happy new		1x0s:3,45z9:3
+happy new year	1d67,1x0s,45z9	
+happy new year 1973 film	1kyu	
+happy new year 1987 film	45z9	
+happy new year 2	1x0s	
+happy new year 2013 film	1x0s	
+happy new year 2014 film	1x0s	
+happy parliament	35r	
+happy pharrell song	4395	
+happy pharrell williams song	4395	
+happy rabbit character	3481	
+happy rave	3j5o	
+happy rhodes	3vz0	
+happy road	1ufo	1ufo:3
+happy roads	3vz0	
+happy smekday	2pwp	
+happy smekday film	2pwp	
+happy texas	4r8z	
+happy texas film	4r8z	
+happy texas movie	4r8z	
+happy thank you more please	38wc	
+happy that you re here	3srs	
+happy thieves	2c8q	2c8q:3
+happy time	3a11	3a11:3
+happy together	377k	
+happy together 1997 film	377k	
+happy tooth women s racing	69hv	
+happy trails pt 2 jumping the shark	2sql	
+happy tree		2sql:3
+happy tree friends	2sql	
+happy tree friends and friends	2sql	
+happy tree friends slap happy	2sql	
+happy vagabonds	69cq	69cq:3
+happy valley		98y:3
+happy valley a a	98y	
+happy valley aa	98y	
+happy valley athletic association	98y	
+happy valley shiillong	hnx	
+happy valley shillong	hnx	
+happy valley utah county	jqa	
+happy village	529g	529g:3
+happy wanderers	4vdu	
+happy xmas		38m1:5
+happy xmas war		38m1:5
+happy xmas war is		38m1:5
+happy xmas war is over	38m1	
+iuppiter	y7r	
+iuppiter mythology	y7r	
+japanstudio	10qu	
+jean gossaert	4mug	
+jedlicze commune	5lo6	
+juilley	2dzp	
+juscelino		2n5u:2
+juscelino kubitscheck	2n5u	
+juscelino kubitschek	2n5u	
+juscelino kubitschek de oliveira	2n5u	
+juscelino kubitshek	2n5u	
+karppinen pertti	5npq	
+keshub		63b9:3
+keshub chandra sen	63b9	
+keshub chunder		63b9:3
+keshub chunder sen	63b9	
+kroger	2taf	
+kroger co	2taf	
+kroger company	2taf	
+kroger marketplace	2taf	
+kroger s	2taf	
+kythira	43v4	
+kythira province	43v4	
+kythira town	43v4	
+la endemoniada	67sb	
+la endemoniada 1968 film	67sb	
+la endemoniada film	67sb	
+la tessoualle	39pe	
+lamas		530o:2
+lamas province	530o	
+lapanouse	33z6	2swd:3
+lapanouse de		2swd:3
+lapanouse de cernon	2swd	
+lenart	4tqp	
+lenart meri	2dee	
+lenart municipality	4tqp	
+lenart slovenia	4tqp	
+lenart v slovenskih goricah slovenia	4tqp	
+leucodolichopus	p1n	
+leycester	1ol	
+lian hearn	4f2p	
+lian yun gang	10zm	
+lian zhan	4jmr	
+limoise	3l8j	
+lunts	4et2	
+luttange	1jkp	
+maua	43rs	
+maua sao paulo	43rs	
+mezritch	2ch6	
+mlw	1jem	
+mlw worthington	1jem	
+mondevert	2hex	
+montamarta	3n0n	
+montamarta spain	3n0n	
+montamarta zamora	3n0n	
+montemonaco	3ug6	
+montesano	438o	29a2:3,3lig:2
+montesano salentino	3lig	
+montesano scalo	29a2	
+montesano sulla		29a2:3
+montesano sulla marcellana	29a2	
+montesano wa	438o	
+montesano washington	438o	
+neodrepta	m3b	
+neowise	2gli	
+nessa holt	491z	
+nondkeil	2xbc	
+ofc	3tle	
+ofc akademik svishtov	1kn6	
+ofc bdin vidin	swj	
+ofc belasitsa petrich	ew2	
+ofc charleville	566r	
+ofc dorostol silistra	21e2	
+ofc etar		1drv:4
+ofc etar veliko		1drv:4
+ofc etar veliko tarnovo	1drv	
+ofc kom berkovitsa	69y4	
+ofc lokomotiv mezdra	46vc	
+ofc nesebar	edh	
+ofc neugersdorf	50yp	
+ofc pirin blagoevgrad	9f8	
+ofc pomorie	lje	
+ofc sliven	9pl	9pl:3
+ofc sliven 2000	9pl	
+ofc spartak pleven	bwq	
+ofc vihren sandanski	aru	
+ogemaw		1g5o:2
+ogemaw county	1g5o	
+ogemaw county mi	1g5o	
+ogemaw county michigan	1g5o	
+onthophagus	1ek4	
+oscard niemeyer	iag	
+palomares		47he:3
+palomares del		47he:3
+palomares del rio	47he	
+palomares del rio sevilla	47he	
+palomares del rio seville	47he	
+palomares del rio spain	47he	
+phunsukh wangdu	1r7g	
+policyholder	fgb	
+prieglius	5pvi	
+prince narinaga	4joo	
+pronouns	6cqg	
+ramaswamy venkataraman	2alb	
+revelstoke	4v41	
+revelstoke bc	4v41	
+revelstoke british columbia	4v41	
+richard baker	3jhw,4n7n	
+richard baker australian politician	4n7n	
+richard baker game designer	3jhw	
+richard podolor	53wl	
+ritonavir	4ik4	
+riviere	2f46,3ru6	vmb:3,13yt:3,24fq:4,2jc6:3,2kf5:3,2nrq:2,2xq6:2,3a1y:2,45pd:2,4gx8:3,5d6w:2
+riviere aux		4gx8:3
+riviere aux outardes	4gx8	
+riviere aux outardes quebec	4gx8	
+riviere batiscan	2xq6	
+riviere bonaventure	5d6w	
+riviere bonaventure quebec	5d6w	
+riviere de la paix	1ow2	
+riviere de la paix canada	1ow2	
+riviere des		2kf5:3
+riviere des outaouais	glh	
+riviere des prairies	2kf5	
+riviere du		vmb:3,13yt:3
+riviere du detroit	1qo0	
+riviere du loup	vmb,13yt	
+riviere du loup county regional municipality quebec	13yt	
+riviere du loup en haut	1etm	
+riviere du loup qc	vmb	
+riviere du loup quebec	vmb	
+riviere du loup quebec canada	vmb	
+riviere du loup regional county municipality	13yt	
+riviere du loup regional county municipality quebec	13yt	
+riviere du moulin	rle	
+riviere du moulin quebec	rle	
+riviere gatineau	533b	
+riviere indre et loire	3ru6	
+riviere koksoak	2nrq	
+riviere koksoak quebec	2nrq	
+riviere la paix	1ow2	
+riviere la paix alberta	25bq	
+riviere malbaie quebec	1hk2	
+riviere pas de calais	2f46	
+riviere pilote	45pd	
+riviere richelieu	603t	
+riviere saas		24fq:4
+riviere saas et		24fq:4
+riviere saas et gourby	24fq	
+riviere saint francois	5q5w	
+riviere salee	3a1y	
+riviere st francois	5q5w	
+riviere sur		2jc6:3
+riviere sur tarn	2jc6	
+robert devereux		1mbc:6,1zc8:6
+robert devereux 2nd		1mbc:6
+robert devereux 2nd earl		1mbc:6
+robert devereux 2nd earl of		1mbc:6
+robert devereux 2nd earl of essex	1mbc	
+robert devereux 2nd earl of essex kg	1mbc	
+robert devereux 3rd		1zc8:6
+robert devereux 3rd earl		1zc8:6
+robert devereux 3rd earl of		1zc8:6
+robert devereux 3rd earl of essex	1zc8	
+robert devereux second earl of essex	1mbc	
+sawa commune	oni	
+seena		1nqj:2
+seena owen	1nqj	
+sir abraham hume	4yyy	
+sir abraham hume 2nd baronet	4yyy	
+skjervy	1cp8	1cp8:2
+skjervy municipality	1cp8	
+somdej phra boroma orasadhiraj chao fah maha vajiralongkorn sayam makutrajakuman	1662	
+somdej phra srinagarindra boromarajajonani	4jhz	
+somdej ya	4jhz	
+st pauls	6as	
+st pauls cathedral	tn9	
+st pauls crompton street	3dta	
+st pauls girls	cei	
+st pauls girls school	cei	
+st pauls ontario	9xr	
+st pauls school barnes	39u	
+st pauls school hyde	2407	
+st pauls school london	39u	
+st pauls school north canton	2201	
+studentenverbindung	6cd5	
+sydney	9l,3a6,be6	uz:2,6y8:2,776:3,7ok:2,8gd:4,8mq:3,cgj:3,fxs:2,lfq:2,m76:2,ocy:2,sq3:2,tkw:2,uem:2,ujz:5,unw:3,11es:5,11h7:2,12q2:2,1768:2,1c69:2,1d45:2,1exh:3,1gbq:2,1iz2:2,1mpz:2,1nax:2,1r7f:2,1ur5:3,1veo:3,1zr4:2,2b2g:2,2dsu:2,2jme:4,2rfm:2,3bod:3,3f0b:3,3f9o:3,3lhk:2,3tmj:2,49tw:4,4h1g:2,4kdw:2,4psn:5,4tsa:2,4zi0:2,51yl:4,5ctd:3,5h3q:2,5k49:2
+sydney 1938	qw1	
+sydney 2000 olympics	5i	
+sydney 2000 paralympic games	1fz	
+sydney a franklin	g9y	
+sydney a franklin jr	g9y	
+sydney aires	uem	
+sydney airport	2b2g	
+sydney airport bikie killing	2b2g	
+sydney ap	2b2g	
+sydney au nsw	9l	
+sydney australia	9l	
+sydney australian football club	uz	
+sydney ayers	uem	
+sydney ayres	uem	
+sydney baseball stadium	5sq7	
+sydney beauclerk	4q6i	
+sydney bechet	4u4n	
+sydney blackmer	l4d	
+sydney blythe	m76	
+sydney boehm	1768	
+sydney box	11h7	
+sydney box productions	11h7	
+sydney boys	49tw	49tw:4
+sydney boys high	49tw	49tw:4
+sydney boys high school	49tw	
+sydney bracey	1xu3	
+sydney bracy	1xu3	
+sydney brenner	sq3	
+sydney bromley	4tsa	
+sydney buchman	xot	
+sydney bulldogs	1d6n	
+sydney buxton	4psn	4psn:5
+sydney buxton 1st		4psn:5
+sydney buxton 1st earl		4psn:5
+sydney buxton 1st earl buxton	4psn	
+sydney camm	4h1g	
+sydney celtics	bwv	
+sydney central railway station	17cf	
+sydney central station	17cf	
+sydney chaplin	tkw,1nax	
+sydney chaplin actor	1nax	
+sydney chaplin american actor	tkw	
+sydney chapman	1iz2	
+sydney chapman astronomer	1iz2	
+sydney chapman mathematician	1iz2	
+sydney charles buxton	4psn	
+sydney charles buxton 1st earl buxton	4psn	
+sydney charles houghton davis	5obm	
+sydney charles houghton sammy davis	5obm	
+sydney city	9l	
+sydney city council	111z	
+sydney city roosters	ocy	
+sydney city sc	u7u	
+sydney city soccer club	u7u	
+sydney cole	5if2	
+sydney conservatorium	8gd	8gd:4
+sydney conservatorium of		8gd:4
+sydney conservatorium of music	8gd	
+sydney convention		ujz:5
+sydney convention and		ujz:5
+sydney convention and exhibition		ujz:5
+sydney convention and exhibition centre	ujz	
+sydney convention centre	ujz	
+sydney convention exhibition centre	ujz	
+sydney croatia	8mq	
+sydney crosby	3zy6	
+sydney dickens	2jme	
+sydney e paget	jdq	
+sydney earl chaplin	tkw	
+sydney earle chaplin	tkw	
+sydney entertainment		3bod:3
+sydney entertainment center	3bod	
+sydney entertainment centre	3bod	
+sydney exhibition centre	ujz	
+sydney exhibition convention centre	ujz	
+sydney f c	7ok	
+sydney faculty of medicine	unw	
+sydney faculty of science	12d	
+sydney fairbrother	5k49	
+sydney farber	63p7	
+sydney fc	7ok,lfq	64jq:3
+sydney fc prague	64jq	
+sydney fc w league	lfq	
+sydney film	4pu9	
+sydney first name	3a6	
+sydney football club	uz	
+sydney franklin	g9y	
+sydney franklin jr	g9y	
+sydney futures exchange	4b7y	
+sydney giants	bwv	
+sydney given name	3a6	
+sydney godolphin	3nim	
+sydney godolphin godolphin	3nim	
+sydney goodfellow	5soj	
+sydney grammar	1exh	1exh:3
+sydney grammar school	1exh	
+sydney grammar school cadet corps	1exh	
+sydney greenstreet	1c69	
+sydney hakoah	u7u	
+sydney herald	4reg	
+sydney herald news	4reg	
+sydney high	49tw	
+sydney high school	49tw	
+sydney hook	22av	
+sydney howard	1zr4	
+sydney indoor	1mpz	
+sydney international	2rfm	51yl:4
+sydney international airport	2b2g	
+sydney international aquatic centre	11es	
+sydney international regatta		51yl:4
+sydney international regatta centre	51yl	
+sydney irwin pollack	fxs	
+sydney james actor	j1z	
+sydney james webb 1st baron passfield	2i90	
+sydney jd	cgj	
+sydney john hill	1nax	
+sydney jones library	37b	
+sydney kignsford smith airport	2b2g	
+sydney kimmel	36kj	
+sydney kings	12q2	
+sydney kings roster	12q2	
+sydney kingsford smith airport	2b2g	
+sydney kingsford smith international airport	2b2g	
+sydney lady		3f0b:3
+sydney lady morgan	3f0b	
+sydney lanier	5p23	
+sydney lassick	4zi0	
+sydney law		cgj:3
+sydney law school	cgj	
+sydney leroux	1r7f	
+sydney llb	cgj	
+sydney lotterby	1d45	
+sydney lowe	4mbb	
+sydney lumet	dgp	
+sydney mbbs	unw	
+sydney md	unw	
+sydney med	unw	
+sydney medical	unw	unw:3
+sydney medical program	unw	
+sydney medical school	unw	
+sydney metropolitan area	9l	
+sydney mobius	1jmx	
+sydney morgan	3f0b	
+sydney morning hearld	4reg	
+sydney morning herald	4reg	4reg:4
+sydney movie	4pu9	
+sydney n s	be6	
+sydney n s w	9l	
+sydney n s w australia	9l	
+sydney new south wales australia	9l	
+sydney newman	3tmj	
+sydney newman comments	3tmj	
+sydney nolan	39ux	
+sydney north	m13	
+sydney north new south wales	m13	
+sydney nova scotia	be6	
+sydney nova scotia former city	be6	
+sydney ns	be6	
+sydney olympic	776	776:3,11es:5
+sydney olympic arts festival	5i	
+sydney olympic f c	776	
+sydney olympic fc	776	
+sydney olympic football club	776	
+sydney olympic games	5i	
+sydney olympic park		11es:5
+sydney olympic park aquatic		11es:5
+sydney olympic park aquatic centre	11es	
+sydney olympic park sports centre	3r7a	
+sydney olympic sharks	776	
+sydney olympic soccer team	776	
+sydney olympic stadium	128q	
+sydney opera	1ur5	1ur5:3
+sydney opera house	1ur5	
+sydney opera house australia	1ur5	
+sydney opera house concert hall	1ur5	
+sydney opera house in pop culture	1ur5	
+sydney owen	604d	
+sydney owenson	3f0b	
+sydney paget	jdq	
+sydney paralyampic organising committee	1fz	
+sydney paralympic organising committee	1fz	
+sydney paralympics	1fz	
+sydney peace		1veo:3
+sydney peace foundation	1veo	
+sydney peace prize	1veo	
+sydney plaatjies	5h3q	
+sydney poitier	byi,3f9o	
+sydney polack	fxs	
+sydney pollack	fxs	
+sydney pollack films	fxs	
+sydney pollak	fxs	
+sydney pollock	fxs	
+sydney porter	1chy	
+sydney prague	64jq	
+sydney rae leroux dwyer	1r7f	
+sydney railway company	2qg4	
+sydney railway station new south wales	17cf	
+sydney railway station sydney	17cf	
+sydney rome	2c74	
+sydney roosters	ocy	
+sydney roosters 2010	ocy	
+sydney roosters nrlw	ocy	
+sydney roosters seasons	ocy	
+sydney roosters squad 2002 nrl premiers	ocy	
+sydney roosters squad 2002 nrl premiership	ocy	
+sydney school of geosciences	12d	
+sydney school of public health	unw	
+sydney sheldon	g61	
+sydney showground	5sq7	
+sydney showground homebush	5sq7	
+sydney showground homebush bay	5sq7	
+sydney showground olympic park	5sq7	
+sydney smirke	3lhk	
+sydney smith	4kdw	2jme:4
+sydney smith haldimand		2jme:4
+sydney smith haldimand dickens	2jme	
+sydney spirit	6e69	
+sydney stock exchange	4b7y	
+sydney suburban railways	6y8	
+sydney sussex college	61c	
+sydney swans	uz	
+sydney swans football club	uz	
+sydney symphony	5ctd	5ctd:3
+sydney symphony orchestra	5ctd	
+sydney tafler	1gbq	
+sydney tamiia		3f9o:3
+sydney tamiia poitier	3f9o	
+sydney terminal	17cf	
+sydney terminal railway station sydney	17cf	
+sydney terminal station	17cf	
+sydney trains	6y8	
+sydney uni	12d	
+sydney united	8mq	8mq:3
+sydney united 58 fc	8mq	
+sydney united fc	8mq	
+sydney united football club	8mq	
+sydney university	12d	
+sydney webb	2i90	
+sydney white	2dsu	
+sydney white 2007 film	2dsu	
+sydney white and the seven dorks	2dsu	
+sydney white soundtrack	2dsu	
+tasman		8wx:2,b88:2,1mox:2
+tasman district	b88	
+tasman district new zealand	b88	
+tasman higgins	1mox	
+tasman nelson nz	b88	
+tasman new zealand	b88	
+tasman nz	b88	
+tasman region	b88	
+tasman sea	8wx	
+tasman trophy	5b0g	
+tasman trophy netball league	5b0g	
+television	d7o,608p	5f:2,7j:2,8r:2,ah:2,jm:2,uq:2,v3:2,36j:2,8di:2,aif:2,xio:4,1c12:2,2io3:3,4bjt:2,4d96:3,65td:2
+television actor	k	
+television adaptation	dq	
+television algerienne	4liu	
+television and production exponents	4vmj	
+television and production exponents inc	4vmj	
+television announcer	54o	
+television anthology series	3w7	
+television asahi	690	
+television baftas	13xs	
+television band	608p	
+television broadcasts limited	2ej	
+television broadcasts ltd	2ej	
+television channel	jm	
+television channels	jm	
+television channels using the showtime name	26au	
+television comedy	3ai	
+television companies	jm	
+television company	ah	
+television corporation	ah	
+television corporations	ah	
+television coverage	27hu	
+television critics association award	wei	
+television critics association awards	wei	
+television directing	uq	
+television director	uq	
+television documentaries	1em	
+television documentary	1em	
+television episode	d7	
+television espanola	1c12	
+television event	36j	
+television executive producer	v3	
+television fantasy	3sl	
+television federal	mbo	
+television federal s a	mbo	
+television film	7j	
+television films	7j	
+television food network	c9a	
+television francaise 1	59m	
+television franchise	5l4	
+television game show	2ts	
+television history	e63	
+television host	8r	
+television industries	d7o	
+television journalist	x	
+television land	24qp	
+television magazine	1z8o	
+television match official	7mp	
+television mini series	yt	
+television miniseries	yt	
+television movie	7j	
+television movies	7j	
+television nacional	xio	xio:4
+television nacional de		xio:4
+television nacional de chile	xio	
+television network	8di	
+television networks	8di	
+television new		2io3:3
+television new zealand	2io3	
+television new zealand limited	2io3	
+television new zealand ltd	2io3	
+television news	140j	
+television news anchor	1vx	
+television news channel	140j	
+television news magazine	1z8o	
+television news show	3h3	
+television of		4d96:3
+television of catalonia	4d96	
+television ontario	5q3y	
+television ownership	e63	
+television personality	h0t	
+television pilot	aif	
+television pilots	aif	
+television play	65td	
+television plays	65td	
+television presenter	8r	
+television presenters	8r	
+television producer	v3	
+television producers	v3	
+television production	4bjt	
+television production company	wtk	
+television program	5f	
+television programme	5f	
+television pundit	bit	
+television radio cinema	5dqr	
+television recording studio	4bjt	
+television rights	27hu	
+television s invention	e63	
+television science fiction	5wg	
+television score	7yr	
+television serie	5f	
+television series	5f	
+television show host	8r	
+television sitcom	xn	
+television soundtrack	g07	
+television soundtracks	g07	
+television special	36j	
+television specials	36j	
+television spectacular	36j	
+television standard	xu9	
+television standards	xu9	
+television star	k	
+television station	ah	
+television stations	ah	
+television studio	4bjt	
+television subscription	6e3o	
+television tokyo	63h	
+television vod systems	48kn	
+tennysonian	j7v	
+the illusionist	1eyz,2el6	
+the illusionist 2006 film	1eyz	
+the illusionist 2009 film	2el6	
+the illusionist 2010 film	2el6	
+the necromonger way	193j	
+the psychology of giving gifts	4zdj	
+the waxahachie daily light	10sc	
+tholocephalidae	5jzs	
+tobol	5212	
+tobol kostanay	9kp	
+tobol kurgan	1zfr	
+tobol neftekhim tobolsk	232y	
+tobol river	5212	
+tobol sk	ld5	
+tobol tobolsk	232y	
+tomson		6cdd:2
+tomson highway	6cdd	
+tonu		67am:2
+tonu trubetski	67am	
+tonu trubetsky	67am	
+tosyo	4uu	
+towcester c of e primary school	8la	
+trembley point	18w2	
+triangulam galaxy	2vzf	
+tubersent	2jzg	
+vengaboys	359t	
+vibius	6f74	
+villamanrique	2e36	
+wislawa szymborska	1udu	
+zyzzyx		6go0:2
+zyzzyx rd	6go0	
+zyzzyx rd film	6go0	
+zyzzyx road	6go0	
+zyzzyx road film	6go0	

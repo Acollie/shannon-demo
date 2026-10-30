@@ -1,0 +1,511 @@
+511 bc	3vkf	
+609 600 bc	35ql	
+609 bce	35ql	
+a28 autoroute	5gx0	
+a28 motorway	5gx0,6e59	
+a28 motorway france	5gx0	
+a28 motorway netherlands	6e59	
+a28 road netherlands	6e59	
+agosto novel	37kf	
+albieres	3ui1	
+alcazarband	yb5	
+alk3	129t	
+ancylistes	4nlt	
+ancylistes chevrolat	4nlt	
+annay	23qf,40dh	2941:3,35o1:3
+annay la		2941:3
+annay la cote	2941	
+annay nievre	40dh	
+annay pas de calais	23qf	
+annay sous lens	23qf	
+annay sur		35o1:3
+annay sur serein	35o1	
+apostolican	1ss4	
+augie	1riq	4te0:2
+augie award	ef0	
+augie edu	1riq	
+augie march	4te0	
+augie march band	4te0	
+bandung	56o	giy:4
+bandung barat	2tel	
+bandung city	56o	
+bandung indonesia	56o	
+bandung institute		giy:4
+bandung institute of		giy:4
+bandung institute of technology	giy	
+bandung raya	7ls	
+bandung technological institute	giy	
+bandung west java	56o	
+barding cooking technique	23k3	
+bearfort	2p5w	
+bierne	26w1,329b	
+butterflyfish	5uh0	
+cenotaphs	2cl2	
+cheilopalatoschisis	1l5k	
+chinhuangtao	t2i	
+coings	3s0f	
+crillon	2hla	3dmv:3
+crillon le		3dmv:3
+crillon le brave	3dmv	
+crillon oise	2hla	
+cureggio	4ylz	
+datastructure	hed	
+depicting	6bok	
+dirkjan struik	5ny1	
+doncho		69wu:2
+doncho donev	69wu	
+doohickey	6an9	
+dowaai	83d	
+ebrahima sawaneh	4h5q	
+edward watson short	3qh8	
+edward watson short baron glenamara	3qh8	
+elf	1fiy,6hgg	
+elf children	udx	
+elf deck	4ci8	
+elf elfs elves	6hgg	
+elf film	1fiy	
+elf inheritance	6fy9	
+elf metal	1wx	
+elf middle earth	udx	
+elf movie	1fiy	
+elf oil and gas	fql	
+elf oil and gas ltd	fql	
+elf power	3bex	
+elf rpg	6hgg	
+ellobioidea	67m6	
+erasmo	poe,58tc	
+erasmo first name	58tc	
+erasmo given name	58tc	
+euclidiana	6ewh	
+fantoni udine	1wwd	
+farrukhabad		2eku:2
+farrukhabad district	2eku	
+finding	33x9	lnr:2,z5h:2,zsd:2,1ibb:2,31z6:3,5q7b:2,5smv:2,66ux:2
+finding altamira	3th2	
+finding amanda	5q7b	
+finding dory	lnr	
+finding dory 2	lnr	
+finding dory original motion picture soundtrack	lnr	
+finding dory soundtrack	lnr	
+finding fanny	5smv	
+finding fanny fernandes	5smv	
+finding forester	1ibb	
+finding forever	66ux	
+finding forever album	66ux	
+finding forrester	1ibb	
+finding judas house episode	p1o	
+finding multiple roots	1cik	
+finding my way back home song	q3s	
+finding nemo	z5h	
+finding nemo 2	lnr	
+finding nemo 3d	z5h	
+finding nemo characters	z5h	
+finding nemo escape to the big blue	z5h	
+finding nemo film	z5h	
+finding nemo ii	lnr	
+finding nemo soundtrack	z5h	
+finding neverland	zsd	
+finding neverland film	zsd	
+finding private ryan	jk4	
+finding t a t u	5ssw	
+finding t at u	5ssw	
+finding tatu	5ssw	
+finding the truth in judging the companinons	24fb	
+finding the truth in judging the companions	24fb	
+finding vivian		31z6:3
+finding vivian maier	31z6	
+finding you jack vidgen song	5l77	
+frederick mitterand	2gco	
+freedonia	3yr8	
+freedonia the west wing	3yr8	
+garber matthew	5cir	
+garber victor	r0t	
+gauck	1fzv	
+gauck joachim	1fzv	
+ghetto	nvv	k2l:5,6dr5:2
+ghetto bells	1uyq	
+ghetto dreams	6dr5	
+ghetto extraordinary	30jd	
+ghetto in		k2l:5
+ghetto in nazi		k2l:5
+ghetto in nazi occupied		k2l:5
+ghetto in nazi occupied europe	k2l	
+ghetto life album	1vv8	
+ghetto litzmannstadt	538m	
+ghetto mentality	nvv	
+ghetto music	3q4z	
+ghetto rose	2dic	
+gms	5spv	
+gms software	5spv	
+golshifte farahani	1doo	
+helse breugel	5h2v	
+hmnb		2prf:2
+hmnb chatham	xqh	
+hmnb devonport	2prf	
+hmnb portsmouth	3jsy	
+hoeje taastrup	10ex	
+hvidovre	3uig	gmr:2,oya:2
+hvidovre if	gmr	
+hvidovre kommune	oya	
+hvidovre municipality	oya	
+i motion	51vh	
+irony nahariya	4p8a	
+irony of fate	350x	350x:4
+irony of fate 2	3src	3src:5
+irony rishon lezion	8ud	
+jaggesh	4rha	
+janes addiction	1qjm	
+john abineri	633r	
+john ehle	5ucb	
+john pym	5oly	
+julialang	427q	
+kandi	3nch	3x6m:2
+kandi benin	3nch	
+kandi borgou	3nch	
+kandi burruss	3x6m	
+kandi girl	3x6m	
+kelheim	gpg,129n	
+kelheim district	gpg	
+kerozene	1nqt	
+kidsticks	19os	
+kjbenhavn	es	
+krog	4zgo	
+krog family name	4zgo	
+krog surname	4zgo	
+kurenevskokrasnonoarmeiskaya line	26wu	
+landsbro sweden	11dv	
+le bourget	1ck9	1o8i:4
+le bourget du		1o8i:4
+le bourget du lac	1o8i	
+le bourget france	1ck9	
+le bourget seine saint denis	1ck9	
+le six	5wtj	
+leongatha	3in3	
+leongatha railway line	17ie	
+leongatha railway line victoria	17ie	
+leongatha victoria	3in3	
+liers	1bf1	
+lism	5i8s	
+livonir		44zw:2
+livonir ruschel	44zw	
+lobas	3xwn	
+mankatha	3jnl	
+mankatha 2	3jnl	
+mankatha 2 the game begins	3jnl	
+mankatha ii	3jnl	
+maratus	50z4	
+marginellas	9pb	
+marinette	15xy	mj2:2,42qo:2
+marinette county	mj2	
+marinette county wi	mj2	
+marinette county wisconsin	mj2	
+marinette marine	42qo	
+marinette marine corporation	42qo	
+marinette wi	15xy	
+marinette wisconsin	15xy	
+marinette wisconsin micropolitan area	15xy	
+mirad		5dta:5
+mirad los		5dta:5
+mirad los lirios		5dta:5
+mirad los lirios del		5dta:5
+mirad los lirios del campo	5dta	
+montberaud	2vcp	
+nagaiah	ibw	
+nagrand	5seb	
+narseus	5yid	
+nicoleta	472h	
+norchi dinamoeli	2ry1	
+paget	37li,5o25	4kw2:2
+paget bermuda	5o25	
+paget brewster	4kw2	
+paget parish	5o25	
+paget parish bermuda	5o25	
+parametanarsia	5hzo	
+pelosia	6eng	
+perfumery	tkn	
+pergamenum	dan	
+prince adolph frederick duke of cambridge	my2	
+quoeux haut mainil	25ms	
+raco d ademuz	4dnh	
+rauranum	2963	
+reem	61yu	
+reem first name	61yu	
+reem given name	61yu	
+ribair		4vbg:2
+ribair rodriguez	4vbg	
+ricketsia	2gn0	
+rsca	2uu	
+sandball	z04	
+sapieha	19qc	
+sapieha family	19qc	
+schoeneberg	qg3	
+schwarzzennegger	9te	
+sepidrood		4l7q:4
+sepidrood f c	4l7q	
+sepidrood rasht		4l7q:4
+sepidrood rasht f		4l7q:4
+sepidrood rasht f c	4l7q	
+sepidrood rasht s c	4l7q	
+sepidrood s c c	4l7q	
+shape	2fhg	6gjd:3
+shape comments	2fhg	
+shape halloween	6h85	
+shape of		6gjd:3
+shape of jazz to come	6gy3	6gy3:6
+shape of things	3xyi	3xyi:4
+shape of things to come		612p:6
+shape of water	24ca	24ca:4
+shape of water film	24ca	
+shape of you	6gjd	
+shape the future	5grk	
+silicon	axf	q2e:3,22gm:2,2dp5:2,2i1a:2,3xz5:2,4i23:2
+silicon allee	4c	
+silicon avatar	3xz5	
+silicon avatar star trek the next generation	3xz5	
+silicon avatar tng episode	3xz5	
+silicon comments	axf	
+silicon crystalization	axf	
+silicon dioxide	2i1a	
+silicon element	axf	
+silicon graphics	22gm	
+silicon graphics computer systems	22gm	
+silicon graphics inc	22gm	
+silicon graphics incorporated	22gm	
+silicon graphics international corp	22gm	
+silicon graphics workstation	22gm	
+silicon iv oxide	2i1a	
+silicon planet	6ff7	
+silicon roadmap	4599	
+silicon spa	6pu	
+silicon synapse	n85	
+silicon valley	2dp5,4i23	q2e:3
+silicon valley ca	4i23	
+silicon valley calif	4i23	
+silicon valley california	4i23	
+silicon valley classic	q2e	
+silicon valley series	2dp5	
+silicon valley television series	2dp5	
+silicon valley tv	2dp5	
+silicon valley tv series	2dp5	
+silicon valley tv show	2dp5	
+sir denis thatcher	2lbw	
+sir denis thatcher 1st baronet	2lbw	
+sir denis william brogan	5qv7	
+sony		121:5,150:2,1rw:4,1y3:3,27s:2,5vg:3,6br:2,6jg:3,6pe:3,987:3,cgv:3,k6x:3,pdi:2,we7:3,19s7:2,1j3a:2,1l89:3,2h25:3,39b6:3,3dzk:5,3gkp:2,4qz1:3,4qz8:4,5kr9:2
+sony 550	h0i	
+sony 550 music	h0i	
+sony aath channel 8	k6x	
+sony android watch	cgv	
+sony animation	2h25	
+sony bend	4623	
+sony bmg	121	121:5
+sony bmg australia	5vg	
+sony bmg masterworks	3gkp	
+sony bmg music		121:5
+sony bmg music entertainment	121	121:5
+sony bmg music entertainment inc	121	
+sony bmg nashville	we7	
+sony bmg norte	6pe	
+sony bmg tv	121	
+sony bono	12ng	
+sony cellphones	cgv	
+sony classical	pdi	
+sony classical records	pdi	
+sony classics	6jg	
+sony communications	27s	
+sony company	27s	
+sony computer	1y3	
+sony computer entertainment america	1y3	
+sony computer entertainment america inc	1y3	
+sony computer entertainment company	1y3	
+sony computer entertainment group	1y3	
+sony computer entertainment inc	1y3	
+sony computer entertainment incorporated	1y3	
+sony computer entertainment korea	1y3	
+sony computer entertainment of america	1y3	
+sony corporation	27s	
+sony cuh zct1e	abu	
+sony discos	6pe	
+sony dwi		4qz1:3
+sony dwi kuncoro	4qz1	
+sony electronic publishing	1j3a	
+sony electronic publishing ltd	1y3	
+sony entertainment		k6x:3
+sony entertainment television	k6x	
+sony entertainment television comments	k6x	
+sony entertainment television india	k6x	
+sony entertainment television india comments	k6x	
+sony ericcson	cgv	
+sony ericcson open	10po	
+sony erickson	cgv	
+sony ericsson	cgv	
+sony ericsson ab	cgv	
+sony ericsson championships	sau	
+sony ericsson empire awards	slu	
+sony ericsson k608i	cgv	
+sony ericsson mobile communications	cgv	
+sony ericsson mobile communications ab	cgv	
+sony ericsson mobile phones	cgv	
+sony ericsson wta tour	jq	
+sony europe	27s	
+sony formats	27s	
+sony group	27s	
+sony hd	k6x	
+sony hit bit	2xq	
+sony hitbit	2xq	
+sony imagesoft	1j3a	
+sony india	k6x	
+sony interactive	1y3	1y3:3
+sony interactive entertainment	1y3	
+sony interactive entertainment llc	1y3	
+sony interactive studios america	2hxd	
+sony japan	1rw	
+sony legacy	fvp	
+sony masterworks	3gkp	
+sony mobile		cgv:3
+sony mobile communications	cgv	
+sony mobile communications ab	cgv	
+sony move	38vn	
+sony music		1rw:4,5vg:3,6pe:3,we7:3
+sony music australia	5vg	
+sony music entertainment		1rw:4
+sony music entertainment australia	5vg	
+sony music entertainment international	1rw	
+sony music entertainment japan	1rw	
+sony music entertainment japan inc	1rw	
+sony music entertainment japan japanese music business	1rw	
+sony music entertainment new zealand	5vg	
+sony music in japan	1rw	
+sony music japan	1rw	
+sony music labels inc	1rw	
+sony music latin	6pe	
+sony music nashville	we7	
+sony music records	1rw	
+sony nashville	we7	
+sony ngp	2sx	
+sony norde	5kr9	
+sony norte	6pe	
+sony online	p9j	
+sony online austin	p9j	
+sony online entertainment	p9j	
+sony online entertainment llc	p9j	
+sony orbis	1uq	
+sony phone	cgv	
+sony picture classics	6jg	
+sony pictures	6br	6jg:3,987:3,2h25:3,3dzk:5,4qz8:4
+sony pictures animation	2h25	
+sony pictures animation inc	2h25	
+sony pictures classics	6jg	
+sony pictures entertainment	6br	
+sony pictures entertainment inc	6br	
+sony pictures entertainment motion picture group	3dzk	
+sony pictures home entertainment	d3z	
+sony pictures international releasing	6br	
+sony pictures kids		4qz8:4
+sony pictures kids zone	4qz8	
+sony pictures motion		3dzk:5
+sony pictures motion picture		3dzk:5
+sony pictures motion picture group	3dzk	
+sony pictures networks	65px	
+sony pictures networks india	65px	
+sony pictures releasing	3dzk	
+sony pictures television	987	
+sony pictures television international	987	
+sony pictures television networks	987	
+sony pictures uk	d3z	
+sony play station	6g2g	
+sony play station iv	1uq	
+sony playstaion	150	
+sony playstation	150	
+sony playstation 1	150	
+sony playstation 2	kd	
+sony playstation 4	1uq	
+sony playstation2	kd	
+sony ps x	6g2g	
+sony ps1	150	
+sony ps2	kd	
+sony psp	1gn	
+sony red	1scx	
+sony s marvel universe	2yik	
+sony s marvel unviverse	2yik	
+sony sab	19s7	
+sony san diego	2y9w	
+sony santa monica	49hi	
+sony sendai		39b6:3
+sony sendai f c	39b6	
+sony sendai fc	39b6	
+sony smartshot	1asf	
+sony smartshot cyber shot	1asf	
+sony soho		1l89:3
+sony soho square	1l89	
+sony soho2	1l89	
+sony sony corporation japan	27s	
+sony spc 700	17v	
+sony store	27s	
+sony studio liverpool	b80	
+sony style	27s	
+sony television	k6x	
+sony television production	987	
+sony tri star	5fr	
+sony tv	6br	
+sony vita	2sx	
+sony wonder	4qz8	
+ssa prokom trefl sopot	mm9	
+starogardzki	yzu	
+sumai	omv	
+sunbeam	665i	61pe:2
+sunbeam 20 9	665i	
+sunbeam automobile	665i	
+sunbeam car	665i	
+sunbeam car company	665i	
+sunbeam motor car company	665i	
+sunbeam sirdar	665i	
+sunbeam tonneau	665i	
+suzzan roshan	v4c	
+the 20		670i:4
+the 20 20		670i:4
+the 20 20 experience	670i	
+the 20 20 experience 1 of 2	670i	
+the 20 20 experience album	670i	
+the 20 20 experience justin timberlake album	670i	
+the 20 sack pyramid	6g4p	
+the astronomical code of the rigveda	65s3	
+the fluttering hearts	635u	
+the hare and the pineapple	4w9h	
+the hare genus	4obt	
+the san		30ue:4
+the san fernando valley	yh4	
+the san francisco		30ue:4
+the san francisco conservatory of music	wfj	
+the san francisco story	30ue	
+thomas chamberlin	5002	
+tramar		lzg:2
+tramar dillard	lzg	
+veranda s willems accent	iu0	
+veranda s willems crelan	28ft	
+veverske		49rc:2
+veverske kninice	49rc	
+vijayanagaram	ikt	
+vijayanagaram district	ikt	
+whalemen	2spg	
+wincenty	1cg8	3o0g:2,4981:2,4lhv:2
+wincenty first name	1cg8	
+wincenty given name	1cg8	
+wincenty kadlubek	4lhv	
+wincenty kadubek	4lhv	
+wincenty krasinski	3o0g	
+wincenty witos	4981	
+wincenty z krakowa	4lhv	
+woredas	1qe	
+woredas of ethiopia	1qe	
+xjet	4m7y	
+xjet airlines	4m7y	
+yodel adle eedle idle oo	l0t	
+yuming	1ygs	
+yuming bei	gkw	
+zhdanovskaya locomotive depot	1iv8	
+zhdanovskaya railroad station	2tio	
+zodarioidea	gwp	
+zoila augusta emperatriz chavarri del castillo	24jv	
+zoku miyamoto musashi ichijoji no ketto	37pg	
+zoku otoko wa tsurai yo	5ki4	

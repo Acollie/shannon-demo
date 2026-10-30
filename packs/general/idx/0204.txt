@@ -1,0 +1,366 @@
+34gbc	2lbu	
+409400 bc	25x2	
+500509	25k6	
+90 99	2pv8	
+90 bedford street	cfx	
+90 degrees north	6gdw	
+90 nachte und ein tag	3yhl	
+90 s	183d	
+alga bishkek	n1j	
+alga frunze	n1j	
+alga pvo bishkek	n1j	
+alga riif bishkek	n1j	
+alkibiades	2jru	
+ankashu	bwh	
+ankashu region	bwh	
+arbitrage	yuu	
+arbitrage film	yuu	
+arbitrage movie	yuu	
+beruit	1dd	
+bizarre		1rtc:2,2849:2,4qso:2
+bizarre bizarre	1rtc	
+bizarre creations	2849	
+bizarre developer	2849	
+bizarre game developer	2849	
+bizarre records	4qso	
+boulin	2lpl	
+buff	1ub7	
+buff brick	3gr	
+buff hoon	4o20	
+ceskoslovensko	c7	
+champsecret	20lk	
+chynice	3ktv	
+citrous	dby	
+coloso de santa ursula	3y75	
+cornbeefwood	35mc	
+costermansstad	1xfk	
+daido river	4ugt	
+daring		vo3:4
+daring club		vo3:4
+daring club bruxelles	1kbo	
+daring club de bruxelles	1kbo	
+daring club molenbeek	1kbo	
+daring club motema		vo3:4
+daring club motema pemba	vo3	
+daring club motema pembe	vo3	
+daring de bruxelles	1kbo	
+daring young man	59le	59le:4
+david onley	5ihz	
+dieterich buxtehude	5hr4	
+dieterich buxtehude comments	5hr4	
+dromersheim	142g	
+dwarfgate war	11oi	
+dwarfgate wars	11oi	
+e112	a6l	
+elements caliban album	4z2f	
+elements cefn druids a f c	258a	
+elements cefn druids f c	258a	
+elements of a novel	dts	
+elements of a poem	jv	
+elements of a story	dts	
+elements of a yarn	dts	
+elements of an orbit	4df0	
+elements of architecture	3gy	
+elements of fiction	dts	
+elements of information system	2tsi	
+elements of poetry	jv	
+elements of pure economics	4ilm	
+elements of short story	cn	
+elements of user interfaces	3kqo	
+ems	qwk,20gr	
+ems river	qwk	
+ems river germany	qwk	
+evanilson	3lag	3lag:3
+evanilson aparecido		3lag:3
+evanilson aparecido ferreira	3lag	
+fc liverpool	15o	
+filevski	2zan	
+fiumara	38ui	
+fiumara rc	38ui	
+floringhem	3zm3	
+furnarioidea	xd0	
+garland	gr8,xmv	1wlk:2,4cct:2
+garland county	1wlk	
+garland county ar	1wlk	
+garland county arkansas	1wlk	
+garland genesis	vkg	
+garland greene	r9t	
+garland jeffreys	4cct	
+garland jeffries	4cct	
+garland maria	1emi	
+garland surname	xmv	
+garland tex	gr8	
+garland texas	gr8	
+garland texas comments	gr8	
+garland tx	gr8	
+garland victor	58t3	
+gashead	1l2	
+george ridgwell	3cnx	
+gmina zbrosawice	12pl	
+gruen victor	4ylh	
+guttenberg press	6gxm	
+guttenberg steve	qyd	
+haskins		v92:2
+haskins medal	v92	
+hecking	2nq7	
+hosny		3ur9:3
+hosny abd		3ur9:3
+hosny abd rabo	3ur9	
+ilida		2z0b:2
+ilida municipality	2z0b	
+instep	4zk0	
+interclube	zmw	
+interclube luanda	zmw	
+jales otacilio	5lu8	
+jean aug dom ingres	bio	
+jepson turner belita gladys olive lyne	4ztx	
+jogvan	ila	
+jogvan first name	ila	
+jogvan given name	ila	
+john ashworth nelder	5zpn	
+john ashworth ratcliffe	4dhc	
+john magufuli	46o6	
+john thompson	3hft,3j2h	
+john thompson basketball	3hft	
+john thompson basketball coach	3hft	
+john thompson english footballer	5dv8	
+john thompson ii	3hft	
+john thompson jr	3hft	
+john thompson jr basketball	3hft	
+john thompson junior	3hft	
+john thompson leckie	568w	
+kahpowearah	6hno	
+kalifoni	3m	
+katif taylor	4d5y	
+kiskeya	2v65	
+komoren	2tp	
+kunal	3rmb	2z3z:2,5mak:2,5stf:2,6ak9:2
+kunal agarwal	3krg	
+kunal agarwal productions	3krg	
+kunal avadana	ou2	
+kunal kapoor	5mak	
+kunal khemu	2z3z	
+kunal kohli	6ak9	
+kunal kohli productions	6ak9	
+kunal nayyar	5stf	
+kunal roy kapoor	6c2v	
+lemba basuala	56hu	
+localitiescluj	5jk	
+lubao	1q7z	
+lubao pampanga	1q7z	
+luenell	5bel	
+luenell campbell	5bel	
+mahashweta devi	1w4d	
+mariaa amparo munoz 1st countess of vista alegre	3zwn	
+mckee andrew	65uw	
+mckee maria	2ny2	
+meskill	65v5	
+michael b		38v4:3
+michael b enzi	4pzl	
+michael b jordan	38v4	
+michael b oren	2ego	
+mihat frasheri	5efb	
+missoura	6d	
+mkds	6g9h	
+modritz	4hl4	
+narshingdi	1tb5	
+nicu		4al8:2
+nicu ceausescu	4al8	
+nicu iorga	1jgs	
+nicu n iorga	1jgs	
+nsb	eig	
+nsb anbud	1sff	
+nsb gjovikbanen	1sff	
+nsb gjvikbanen	1sff	
+nsb gods	5x3f	
+nsb napoli	4v91	
+nsb rieti	4v91	
+nsb type 63	13nh	
+oceanfront	r79	
+onomatopoeia james naismith	6blm	
+openrefine	53rs	
+oshika miyagi	14ff	
+passins	2i1w	
+pescasseroli	1djg	
+peter surname	3l6n	
+phenotil	64tf	
+pk	3k,3mw,1zpz	
+pk 2	1zpz	
+pk 2014 film	1zpz	
+pk ba	nu1	
+pk dick	5cf	
+pk droid	fei	
+pk film	1zpz	
+pk is	3s1	
+pk joseph	430r	
+pk kelkar library	9ct	
+pk ljq	2eva	
+pk pb	gjc	
+pk sd	kgf	
+pk subban	2rph	
+pleskau	92y	
+pleskau embach	58et	
+prince orsini	3uh3	
+promintory	2vfh	
+rasteau	24ip	
+rawlsian	1n1m	
+record	1flq	5v:2,a5:2,mme:2,seu:2,2kbq:2,5twy:2
+record breaking world poker tour first prizes	63p0	
+record chart	mme	
+record charts	mme	
+record collection	2kbq,5twy	
+record collection album	5twy	
+record companies	a5	
+record company	a5	
+record coproducer	5v	
+record distribution	3wnv	
+record distributors	3wnv	
+record exec	6s0	
+record executive	6s0	
+record industry executive	6s0	
+record keeper	22m	
+record label	a5	
+record labels	a5	
+record lable	a5	
+record napoli	zqf	
+record network	1flq	
+record networks	1flq	
+record of a journey to the west	2b1x	
+record of a living being	30mh	
+record of the year	1hvx	
+record of the year grammy	1hvx	
+record plant	seu	
+record plant black	seu	
+record plant black truck	seu	
+record plant coporation	seu	
+record plant east	seu	
+record plant in new york	seu	
+record plant in new york city	seu	
+record plant ny	seu	
+record plant studios	seu	
+record plant west	seu	
+record player machine gun	5182	
+record producer	5v	
+record societies	nau	
+record society	nau	
+record studio	5b4	
+record town	60tm	
+record tv	1flq	
+record tv network	1flq	
+ronaldo	ekm,ve2	3hy7:4,45oe:3,47uq:2,4r8b:2,5c77:2,5ys8:2
+ronaldo 7	ekm	
+ronaldo assis de moreira	14zt	
+ronaldo conceicao	47uq	
+ronaldo conceicao silveira	47uq	
+ronaldo de assis moreira	14zt	
+ronaldo de lima	ve2	
+ronaldo fenomeno	ve2	
+ronaldo giovanelli	45oe	
+ronaldo goalkeeper	45oe	
+ronaldo guiaro	5c77	
+ronaldo luis nazario de lima	ve2	
+ronaldo luiz nazario de lima	ve2	
+ronaldo mendes	5ys8	
+ronaldo nazario	ve2	
+ronaldo nazario de lima	ve2	
+ronaldo rodrigues		3hy7:4
+ronaldo rodrigues de		3hy7:4
+ronaldo rodrigues de jesus	3hy7	
+ronaldo soares	45oe	45oe:3
+ronaldo soares giovanelli	45oe	
+ronaldo vanin	4r8b	
+sabbatic witchcraft	1b2s	
+saint gand	3bpg	
+saint geniez	25zp	24lh:4,29w3:7,2fgx:4
+saint geniez d		24lh:4,29w3:7
+saint geniez d olt	24lh	29w3:7
+saint geniez d olt et		29w3:7
+saint geniez d olt et d		29w3:7
+saint geniez d olt et d aubrac	29w3	
+saint geniez o		2fgx:4
+saint geniez o merle	2fgx	
+sciota	5ygi	
+sciota moth	5ygi	
+semaines musicales internationales d orleans	3g0	
+sheperd fairey	4xp7	
+sheperd fairy	4xp7	
+sheperd ferry	4xp7	
+smokin		10er:2,2nyx:5
+smokin aces	10er	2nyx:5
+smokin aces 2	2nyx	2nyx:5
+smokin aces 2 assasins ball	2nyx	
+smokin aces 2 assassins		2nyx:5
+smokin aces 2 assassins ball	2nyx	
+smokin joe frazier	1k2c	
+smokin section tom scott album	1d58	
+smokin seventeen	16ao	
+spr wisa pock	3sun	
+st blasien	2lnr	
+starshyna	5h0f	
+steenkerke	15ns	
+tanganyica	1ju7	
+tankaman		1jgq:3
+tankaman rural		1jgq:3
+tankaman rural district	1jgq	
+taskentu	1wp	
+the greatful dead	575	
+the greatful dead band	575	
+the joan collins fanclub	5wh8	
+the miserable		6gpo:3
+the miserable mill	6gpo	
+the miserable mill or hypnotism	6gpo	
+the miserable ones	p9h	
+the uar	3v5z	
+the wonders	4rtd	1fgw:4
+the wonders fictional band	1inl	
+the wonders film	4rtd	
+the wonders of		1fgw:4
+the wonders of aladdin	1fgw	
+tnaf	3kdw	
+toshima	hvm	
+toshima ku	hvm	
+toshima ku tokyo	hvm	
+toshima tokyo	hvm	
+toshima tokyo ward	hvm	
+tough		1ve1:2,2htz:5,2n9c:2,3sja:5,61v1:2,65tj:4
+tough and the mighty		3c4q:5
+tough enough	61v1	
+tough enough 1983 film	61v1	
+tough guys	1ve1,2n9c	2htz:5,3sja:5,65tj:4
+tough guys 1960 film	2n9c	
+tough guys 1974 film	14r6	
+tough guys 1986 film	1ve1	
+tough guys don		2htz:5
+tough guys don t		2htz:5
+tough guys don t dance	2htz	
+tough guys don t dance film	2htz	
+tough guys easy		65tj:4
+tough guys easy girls	65tj	
+tough guys film	1ve1	
+tough guys of		3sja:5
+tough guys of the		3sja:5
+tough guys of the prairie	3sja	
+tough juice	3qd3	
+tough mama	5ica	
+tough save	6hv3	
+tough winter	6aeo	
+trolltech qt	3it	
+umgd	hq	
+unreno	84q	
+usrat muhammad ali	wg8	
+viali william	3jp0	
+vid	4tcp,6fkw	
+vid belec	4y3s	
+vid company	4tcp	
+vid first name	6fkw	
+vid game	1z	
+vid given name	6fkw	
+vid mask	4tcp	
+vid tv company	4tcp	
+vid vagen	2u38	
+voie romaine	1b14	
+vpro	5shi	
+wacko jacko	434	
+william andrews clark	4g7f	
+william andrews clark sr	4g7f	
+william andrews clarke	4g7f	

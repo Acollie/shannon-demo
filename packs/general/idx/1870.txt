@@ -1,0 +1,596 @@
+2af	qa5	
+a strindberg	fiz	
+academian	gwh	
+adb	ejt	
+adb unit of account	dl0	
+alesandro mandzoni	1ixx	
+angariinae	6017	
+argelers de la marenda argeles sur mer	1g5u	
+asomugha	562j	
+autant lara	u3h	
+babaef i	uba	
+barcelona	e4	4ip:3,6ni:2,mn5:6,s5t:2,xbs:2,167z:4,1bfj:4,1eh1:4,1m8u:4,1qf0:4,2hjf:4,3aw9:2,3rx5:4,6354:3
+barcelona 1992 olympic bid	7b	
+barcelona 1992 paralympic games	347	
+barcelona 2010	e4t	
+barcelona 2013	dp4	
+barcelona 92	7b	
+barcelona airport	4n89	
+barcelona anzoategui	s5t	
+barcelona arc de triomf railway station	4l5k	
+barcelona atletic	3u8	
+barcelona b	3u8	
+barcelona basket	c8f	
+barcelona basquet	c8f	
+barcelona c	arz	
+barcelona catalonia	e4	
+barcelona cathedral	1nyy	
+barcelona cf	1c4	
+barcelona circuit	1d9s	
+barcelona city	e4	6354:3
+barcelona city council	6354	
+barcelona conservatory	1msb	
+barcelona de guayaquil	4ip	
+barcelona districts	1xom	
+barcelona el clot arago railway station	5hbd	
+barcelona el prat	4n89	
+barcelona el prat airport	4n89	
+barcelona football club	1c4	
+barcelona games	7b	
+barcelona guayaquil	4ip	
+barcelona international airport	4n89	
+barcelona la sagrera meridiana railway station	3de9	
+barcelona madrid high speed rail line	48wo	
+barcelona madrid high speed railway	48wo	
+barcelona metro	6ni	167z:4,1bfj:4,1eh1:4,1qf0:4,2hjf:4,3rx5:4
+barcelona metro line		167z:4,1bfj:4,1eh1:4,1qf0:4,2hjf:4,3rx5:4
+barcelona metro line 1	167z	
+barcelona metro line 2	2hjf	
+barcelona metro line 3	1eh1	
+barcelona metro line 4	1qf0	
+barcelona metro line 5	1bfj	
+barcelona metro line 9	3rx5	
+barcelona metropolitan transport	glx	
+barcelona new york	4icx	
+barcelona olympic games	7b	
+barcelona olympics	7b	
+barcelona open	xbs	
+barcelona open banc sabadell	xbs	
+barcelona open banco sabadell	xbs	
+barcelona open bancsabadell	xbs	
+barcelona open tennis	xbs	
+barcelona paralympics	347	
+barcelona passeig de gracia railway station	1nrl	
+barcelona pl catalunya	1tmc	
+barcelona pl espanya	3mio	
+barcelona placa catalunya	1tmc	
+barcelona placa catalunya railway station	1tmc	
+barcelona placa espanya	3mio	
+barcelona provincial		mn5:6
+barcelona provincial council		mn5:6
+barcelona provincial council local		mn5:6
+barcelona provincial council local museum		mn5:6
+barcelona provincial council local museum network	mn5	
+barcelona s		4ip:3
+barcelona s c	4ip	
+barcelona sants	1m8u	1m8u:4
+barcelona sants railway		1m8u:4
+barcelona sants railway station	1m8u	
+barcelona sc	4ip	
+barcelona school of informatics	1c05	
+barcelona spain	e4	
+barcelona sporting club	4ip	
+barcelona street circuit	1d9s	
+barcelona subway	6ni	
+barcelona summer olympics	7b	
+barcelona tech	1c05	
+barcelona university	2t7	
+barcelona venezuela	s5t	
+barcelona zoo	3aw9	
+begiristain	36sg	
+borohradek	44j8	
+boulaide	4mi6	
+bromegrass	1255	
+campagnano	21rz	21rz:3
+campagnano di		21rz:3
+campagnano di roma	21rz	
+campagnano romano	21rz	
+cancale	2erk	
+cancale bay	2erk	
+carmiel	2a3k	
+cas cn	31y	
+cas den haan	5s9q	
+cas gwent	11er	
+cas matrix character	1g6c	
+cas name	kel	
+cas tigers	2kd	
+cecelice	2y6m	
+ch 118 iroquois	34u6	
+ch 67	3mgo	
+ch an buddhism	2yo9	
+ch ang an	le4	
+ch ang ch un	72g	
+ch ang chiang	8m4	
+ch ang chih	1bmm	
+ch ang chou	gpz	
+ch ang chun	72g	
+ch ang lo	2tu4	
+ch ang sha	6yb	
+ch ang shu	1xt8	
+ch ang te	1abw	
+ch angwon	qsh	
+ch ao chou	1bt2	
+ch bratislava	88t	
+ch chaplin	2tw6	
+ch charan singh	32sx	
+ch class submarine	q12	
+ch d rauch	4gdm	
+ch de wailly	4lsb	
+ch en ch eng	52xp	
+ch en chou	1f15	
+ch en k ai ko	w4f	
+ch en k aiko	w4f	
+ch en tu hsiu	4856	
+ch en yin k o	5hcb	
+ch en yu jen	49rq	
+ch eng te	1427	
+ch eng tu	4jl	
+ch engtu	4jl	
+ch f daubigny	3hme	
+ch frisch	ohy	
+ch ge	4cv	
+ch gordon lennox	3w6f	
+ch herford	5gj7	
+ch honour	30nf	
+ch i ch ao liang	4h74	
+ch ien hsueh sen	4e5q	
+ch ien lung	k3i	
+ch ien nu yu hun	xz8	
+ch ien nue yu hun	xz8	
+ch ih feng	16z9	
+ch in ch ao	6f1p	
+ch in dynasty	6f1p	
+ch in erh shih	6g1u	
+ch in huang tao	t2i	
+ch in shih huang ti	3ovj	
+ch in shih huangti	3ovj	
+ch in shihhuang	3ovj	
+ch in state	4nkg	
+ch in unification	51zu	
+ch ing dynasty	823	
+ch ing hua ta hsueh	5cv	
+ch ing tai	823	
+ch ing tao	4wd	
+ch ing yang	2fi1	
+ch ing yuan	2g3k	
+ch ing yuan county	2g3k	
+ch ing yuean	as6	
+ch inghai	ltn	
+ch iung	hq5	
+ch j de la vallee poussin	3wcj	
+ch le brun	11kw	
+ch natoire	3dkp	
+ch oe un hui	4vi7	
+ch onan	1hvc	
+ch ongjin	3byy	
+ch ongjin north korea	3byy	
+ch ongjin si	3byy	
+ch ongju	oil	
+ch p daubigny	3hme	
+ch pander	5cml	
+ch rell	1c4f	
+ch s chaplin	2tw6	
+ch tis	1ii1	
+ch u fu	2r7d	
+ch uan	6pf	
+ch uan fa	2zz0	
+ch uean chou	n23	
+ch umo	4udq	
+ch unch on	19jo	
+ch ung chen	4y07	
+ch ung ming island	5nwz	
+ch ungch ong province south korea	1dv2	
+ch ungch ongbuk do	1dv2	
+ch ungch ongnam do	12l4	
+ch ungju	2dvk	
+ch verlat	58aa	
+ch vernet	4aas	
+ch waddington	21d1	
+chaafboard	10jk	
+champdotre	27g2	
+charles ashford	11oj	
+cherniahovsk	vl0	
+chochion	3yy	
+damcevski	5qnk	
+david garcia		4yoz:3,5745:5
+david garcia de		5745:5
+david garcia de la		5745:5
+david garcia de la cruz	5745	
+david garcia footballer born 1980	4yoz	
+david garcia footballer born 1981	5745	
+david garcia haro	4yoz	
+david garcia mitogo	4ff4	
+djoliba	qmu	qmu:2
+djoliba ac	qmu	
+djoliba athletic club	qmu	
+eleniak	1k2a	
+epistemological	14zb	
+epistemological theory	14zb	
+ethiopia	h3	8yq:6
+ethiopia air	4ht0	
+ethiopia airlines	4ht0	
+ethiopia highland	612g	
+ethiopia highlands	612g	
+ethiopia men		8yq:6
+ethiopia men s		8yq:6
+ethiopia men s national		8yq:6
+ethiopia men s national football		8yq:6
+ethiopia men s national football team	8yq	
+ethiopia national football team	8yq	
+ethiopia somalia war	33jw	
+ethiopia song	4xwl	
+firebird		10y3:2
+firebird software	10y3	
+firebird software label	10y3	
+firebird software ltd	10y3	
+fl0w	5cds	
+gdank	1d2	
+george radziwill	4qfe	
+ghandhar	fmt	
+gmina kodawa	uhi,22ip	
+gmina kodawa greater poland voivodeship	uhi	
+gmina kodawa lubusz voivodeship	22ip	
+graffiting	4ow5	
+hacon i	27du	
+hacon iv	3d20	
+hacon of norway and sweden	35a0	
+hacon v	3p5s	
+hacon vi	35a0	
+hattusas	5sjh	
+hattush	5sjh	
+hempstead	s9a,1elk,3ar7	11ra:2
+hempstead county	11ra	
+hempstead county ar	11ra	
+hempstead county arkansas	11ra	
+hempstead long island	s9a	
+hempstead new york	s9a	
+hempstead new york town	s9a	
+hempstead new york village	1elk	
+hempstead ny	s9a	
+hempstead texas	3ar7	
+hempstead town nassau county new york	s9a	
+hempstead town new york	s9a	
+hempstead tx	3ar7	
+hempstead village	1elk	
+hempstead village nassau county new york	1elk	
+hempstead village new york	1elk	
+henning		g5x:2,hzc:2,vdb:2,1cuy:2,1k6c:2,2qbm:2,3wgr:2,4d4b:2,4tkz:2,4ytr:2,50mo:2,51xr:2,52td:2,53f8:2,58pp:2,5bkz:3,5myg:2,5y4g:2,66t1:2,6ea6:2
+henning astrup	66t1	
+henning astrup 1864 1896	66t1	
+henning astrup 18641896	66t1	
+henning astrup architect	66t1	
+henning astrup born 1864	66t1	
+henning bahs	1k6c	
+henning berg	2qbm	
+henning burger	4tkz	
+henning carlsen	4d4b	
+henning georg mankell	hzc	
+henning gobel larsen	3wgr	
+henning grieneisen	6ea6	
+henning hamilton	53f8	
+henning hauger	50mo	
+henning jensen	52td	
+henning karmark	g5x	
+henning kristiansen	1cuy	
+henning larsen	3wgr	
+henning linden	5y4g	
+henning lohner	51xr	
+henning mankell	hzc	
+henning moritzen	vdb	
+henning munk		5bkz:3
+henning munk jensen	5bkz	
+henning otte	4ytr	
+henning palner	58pp	
+henning stille berg	2qbm	
+henning voscherau	5myg	
+houkiboshi	27xc	
+igiebor	5350	
+jean baudin	48jo	
+jean sarkozy	6cr6	
+jean sarkozy de nagy bocsa	6cr6	
+john maxwell	13w7,5anj	
+john maxwell british army officer	5anj	
+john maxwell coetzee	qki	
+john maxwell general	5anj	
+john maxwell producer	13w7	
+liebenfels	57fj	
+loughery david	4kxj	
+maa	790	
+maa airport	790	
+maa amma mahalakshmi	5uee	
+maa moskwa	52gc	
+maa moskwa little moscow	52gc	
+maa wies commune	vde	
+macanet		1py6:3,2t0c:4
+macanet de		1py6:3,2t0c:4
+macanet de cabrenys	1py6	
+macanet de la		2t0c:4
+macanet de la selva	2t0c	
+mazeray	2qii	
+medichi	ffa	
+melanocarcinoma	s5u	
+michail		5fhx:2
+michail a sholokhov	10rk	
+michail a suslov	2v5z	
+michail aleksandrovic bakunin	1bpk	
+michail aleksandrovich sholokhov	10rk	
+michail andreevich miloradovich	5a0y	
+michail botvinov	3nm9	
+michail botwinnik	4edi	
+michail bulgakov	n0o	
+michail chodorkovsky	3sfp	
+michail chodorkowskij	3sfp	
+michail christodoulou mouskos	3jjj	
+michail eminescu	2693	
+michail fiodorovich larionov	5px9	
+michail fjodorovitsch larionoff	5px9	
+michail glinka	2oqu	
+michail illarionovich kutusov	1tx3	
+michail ivanovich glinka	2oqu	
+michail iwanowitsch glinka	2oqu	
+michail jur evic lermontov	wm4	
+michail kakiouzis	39pj	
+michail kalasnikov	hb8	
+michail kazimierz ogineski	4d93	
+michail kedrov	5fhx	
+michail khodorkovsky	3sfp	
+michail kutuzov	1tx3	
+michail leonidowitsch gromow	onz	
+michail leontjewitsch mil	5yl6	
+michail lermontov	wm4	
+michail papaconstantinou	5m28	
+michail papakonstantinou	5m28	
+michail popov	5rhz	
+michail prochorov	4221	
+michail rousajew	4622	
+michail sholokhov	10rk	
+michail solochov	10rk	
+michail stasinopoulos	4j5w	
+michail timofeyevich kalashnikov	hb8	
+michail trikoglou	3cq	
+michail v lomonossov	q6m	
+michail wassiljewitsch lomonossow	q6m	
+michail zoscenko	4xdl	
+michail zoshtchenko	4xdl	
+moeskroen	ils	
+nasopharyngitis	57k3	
+nazideutschland	p6	
+oaths in freemasonry	mq5	
+olendon	2fky	
+onychia	18n7	
+opoeteren	14c9	
+parken	36yt	36yt:2
+parken stadion	36yt	
+parken stadium	36yt	
+rgbea gnome software	r52	
+robert elliot actor	43f9	
+robert elliot kahn	1542	
+robert ivanovich rozhdestvensky	2nq1	
+sac	4y0b	
+sac and fox war	21j4	
+sac city	28l7	
+sac county	358z	
+sac county ia	358z	
+sac county iowa	358z	
+sac de		6d2q:3
+sac de noeuds	6d2q	
+sac de nuds	6d2q	
+sac fungi	udo	
+sac fungus	udo	
+sac li sa plin	6c4	
+sac lo	6c4	
+sac republic fc	n3b	
+sac spider	5c2q	
+sac spiders	5c2q	
+sac state	bc0	
+sac state university	bc0	
+salva		3bcz:2,3s3h:2,4sbq:2
+salva ballesta	3bcz	
+salva chamorro	3s3h	
+salva sevilla	4sbq	
+salva victor	4smh	
+sanitz	2fim	
+sardu nirajului	38gi	
+seez	3hnz	
+sequential	52ob	
+sequential arts	2ew	
+sequential culture medium	6ho0	
+sequential file	aq1	
+sequential media	6ho0	
+sequential one	u9u	
+seraphina		5med:2
+seraphina sforza	5med	
+seraphina sforza blessed	5med	
+serges		5pk0:2
+serges deble	5pk0	
+shreve		61mw:3
+shreve harmon and lamb	61mw	
+shreve lamb	61mw	61mw:3
+shreve lamb and blake	61mw	
+shreve lamb and harmon	61mw	
+shreve lamb blake	61mw	
+shreve lamb harmon	61mw	
+shreve lamb harmon associates	61mw	
+shreve mackenzie	6f4o	
+siauliai	8f8	wlc:2
+siauliai basketball club	3wc3	
+siauliai city municipality	8f8	
+siauliai city municipality council	8f8	
+siauliai county	wlc	
+soverato	4uzj	
+spain	v	1nm:6,20r:7,2pq:6,2rd:6,35l:7,3h4:6,3si:7,4rs:6,hjj:5,kkz:7,nr4:6,14nj:4,1xhs:9,60bg:4,63vs:4
+spain 1982	1yb	
+spain 82	1yb	
+spain air force	24w8	
+spain and portugal	xue	
+spain army	3iku	
+spain cordoba	31v	
+spain cuisine	4yom	
+spain davis		63vs:4
+spain davis cup		63vs:4
+spain davis cup team	63vs	
+spain football national team	1nm	
+spain france border	2itp	
+spain in		nr4:6
+spain in eurovision	nr4	
+spain in the		nr4:6
+spain in the eurovision		nr4:6
+spain in the eurovision song		nr4:6
+spain in the eurovision song contest	nr4	
+spain in the roman era	2vvr	
+spain john paul young song	1qoy	
+spain men		1nm:6
+spain men s		1nm:6
+spain men s national		1nm:6
+spain men s national football		1nm:6
+spain men s national football team	1nm	
+spain military	4vxo	
+spain national		20r:7,2pq:6,2rd:6,35l:7,3h4:6,3si:7,4rs:6,hjj:5,14nj:4
+spain national amateur		hjj:5
+spain national amateur football		hjj:5
+spain national amateur football team	hjj	
+spain national football team	1nm	
+spain national football team kit	1nm	
+spain national futsal		14nj:4
+spain national futsal team	14nj	
+spain national soccer team	1nm	
+spain national team	1nm	
+spain national under		20r:7,2pq:6,2rd:6,35l:7,3h4:6,3si:7,4rs:6
+spain national under 16		3si:7
+spain national under 16 association		3si:7
+spain national under 16 association football		3si:7
+spain national under 16 association football team	3si	
+spain national under 16 football team	3si	
+spain national under 17		35l:7
+spain national under 17 association		35l:7
+spain national under 17 association football		35l:7
+spain national under 17 association football team	35l	
+spain national under 17 football team	35l	
+spain national under 18		2pq:6
+spain national under 18 football		2pq:6
+spain national under 18 football team	2pq	
+spain national under 19		2rd:6
+spain national under 19 football		2rd:6
+spain national under 19 football team	2rd	
+spain national under 20		3h4:6
+spain national under 20 football		3h4:6
+spain national under 20 football team	3h4	
+spain national under 21		20r:7
+spain national under 21 association		20r:7
+spain national under 21 association football		20r:7
+spain national under 21 association football team	20r	
+spain national under 21 football team	20r	
+spain national under 23		4rs:6
+spain national under 23 football		4rs:6
+spain national under 23 football team	4rs	
+spain olympic football team	4rs	
+spain pm	l09	
+spain s first division clubs	9qf	
+spain s higher council for scientific research	14qe	
+spain s prime minister	l09	
+spain s superior council for scientific investigations	14qe	
+spain toledo	33c	
+spain u 19 cup	1coz	
+spain u 19 league	5l81	
+spain u21	20r	
+spain under		60bg:4
+spain under franco	2dc3	
+spain under the		60bg:4
+spain under the restoration	60bg	
+spain wine	1jsw	
+spain women		kkz:7,1xhs:9
+spain women s		kkz:7,1xhs:9
+spain women s football team	kkz	
+spain women s national		kkz:7,1xhs:9
+spain women s national association		kkz:7
+spain women s national association football		kkz:7
+spain women s national association football team	kkz	
+spain women s national football team	kkz	
+spain women s national under		1xhs:9
+spain women s national under 19		1xhs:9
+spain women s national under 19 association		1xhs:9
+spain women s national under 19 association football		1xhs:9
+spain women s national under 19 association football team	1xhs	
+spain women s national under 19 football team	1xhs	
+spain women s soccer team	kkz	
+swap it out	5ivy	
+tahsil	pup	
+tahsil tahasil	pup	
+tartuffe	4q7p	
+tartuffe 1926 film	4q7p	
+tartuffe film	4q7p	
+tatuno	3c7a	
+tbhsl	2v66	
+tenn	i6	
+tenn tom	4b12	
+tenn tom waterway	4b12	
+tenn william	4831	
+ternopol	a3u	
+ternopol oblast	qlj	
+the almost		3vyl:4
+the almost perfect		3vyl:4
+the almost perfect crime	3vyl	
+the hermitage st petersburg	ds7	
+the hermitage western cape	4f3b	
+thivars	3nx9	
+thomas brock	4j44	
+thomas brock sculptor	4j44	
+thomas haeler	1nvx	
+thuringian		1b0d:2,5cja:2
+thuringian forest	1b0d	
+thuringian highland	5cja	
+thuringian highlands	5cja	
+thuringian saale	upo	
+thuringian slate mountains	5cja	
+thuringian vogtlandian slate mountains	5cja	
+thyridid	3f36	
+thyridid moths	3f36	
+tim4christ17	5u	
+travelled	ytr	
+trlan hmdov	2v2p	
+turntable bridge	6f4r	
+turntable ferry	bjq	
+ujdombovar	2a24	
+united as one	6gqu	
+university for music and drama	5ndg	
+university for music and drama in bratislava	5ndg	
+university for national and world economics	1tos	
+uromyces	5w0l	
+valea		2b0p:3
+valea cufundoasa	iso	
+valea dacilor	1yj8	
+valea lui		2b0p:3
+valea lui mihai	2b0p	
+valea neagra maramures	chz	
+valea parului river siret	2nc6	
+venticano	4duv	
+verite si je mens	63gv	
+verite sur bebe donge	3g5j	
+vestonicka venuse	3ltp	
+vodnany	1d2k	
+xeros palo alto research center	4ttr	
+xlte	521q	
+yaacov hodorov	3ice	
+yaacov yossef	3huh	
+yaacov ziv	3n4e	
+ylitornio	1kkc	
+yuzhno		13ud:2,4p8l:3
+yuzhno kuril sky	4p8l	
+yuzhno kurilskii	4p8l	
+yuzhno kurilskii raion	4p8l	
+yuzhno kurilsky		4p8l:3
+yuzhno kurilsky district	4p8l	
+yuzhno kurilsky urban okrug	4p8l	
+yuzhno sakhalinsk	13ud	
+yuzhno sakhalinsk urban okrug	13ud	
+yuzhno sakhalisnk	13ud	

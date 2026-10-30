@@ -1,0 +1,339 @@
+ajebitimi		5xf0:2
+ajebitimi gideon	5xf0	
+akaji		1gy0:2
+akaji maro	1gy0	
+alexander courage	2fib	
+alexander griboyedov	2xup	
+aliacensis	4mno	
+arly		3q69:2
+arly jover	3q69	
+asahiko prince kuni	uhk	
+audenaarde	bkw	
+bacca s ceremonial blade	3mzt	
+baghian province	p4f	
+bagyidaw	672j	
+bantan		3mgz:2
+bantan line	3mgz	
+barcea mica	12wz	
+bidrece		6afo:2
+bidrece azor	6afo	
+bisnovat	34kw	
+bithynia	4n2o,5kpk	
+bithynia gastropod	4n2o	
+bithynia genus	4n2o	
+bithynia prima	5kpk	
+bithynia secunda	5kpk	
+bizhbuliaksky raion	5bpe	
+bloodiness	14a2	
+bohanka	3fnv	
+boljo on	2b7p	
+boljo on cebu	2b7p	
+boopac	1ngb	
+byuh	1f8x	
+casuarius australis	446r	
+casuarius novaehollandiae	446r	
+chalcides	21kj	
+champorcher	33io	
+charles bassett	3af5	
+charles bassett ii	3af5	
+charles doolittle		2x1w:3,61v3:4
+charles doolittle walcott	2x1w	61v3:4
+charles doolittle walcott medal	61v3	
+charles lebrun	11kw	
+chlorociboria	51k6	
+chlorociboria aeruginosa	51k6	
+crepidophryne	1e74	
+danni minogue	l7p	
+darzab		z7e:3
+darzab rural		z7e:3
+darzab rural district	z7e	
+debrecin	50h	
+diaphane	2dzc	
+dwts au	3509	
+dwts us	11tc	
+eidsvoll	l1n	l1n:2,5byv:2
+eidsvoll municipality	l1n	
+eidsvoll station	5byv	
+eidsvoll tf	6e4t	
+eidsvoll turn	6e4t	
+elenore		22lh:2
+elenore abbott	22lh	
+elenore plaisted	22lh	
+elenore plaisted abbott	22lh	
+emirates	ny,3d5u	57d:6,mgq:2
+emirates air line	3d5u	
+emirates airline	3d5u	
+emirates airline cabins	3d5u	
+emirates airline cabins and services	3d5u	
+emirates airline services	3d5u	
+emirates airlines	3d5u	
+emirates club	mgq	
+emirates fa cup	45k	
+emirates men		57d:6
+emirates men s		57d:6
+emirates men s national		57d:6
+emirates men s national football		57d:6
+emirates men s national football team	57d	
+emirates of saudi arabia	60g2	
+escuintla	1tnx	38qq:2
+escuintla department	38qq	
+escuintla escuintla	1tnx	
+ff6	301r	
+fiuranza	ia	
+george weiss	5vej	
+george weiss songwriter	5vej	
+gmina lubichowo	xg6	
+gmina pilzno	2t9u	
+guerpont	3r2j	
+harjedalen		pq7:2
+harjedalen municipality	pq7	
+harjedalen sweden	pq7	
+henry ii	lt9,16z4,1uuj	jfk:4,lt9:4,1ccw:4,1f3j:5,1m8v:4,27ax:5,2uqc:5,2ut9:5,3285:4,332i:4,460j:6,46ci:6,46g0:7,4i6g:5,4jwd:5,4ro0:5
+henry ii count		2uqc:5
+henry ii count of		2uqc:5
+henry ii count of champagne	2uqc	
+henry ii count of luxembourg	5avm	
+henry ii count of nassau siegen	2gad	
+henry ii curmantle of england	lt9	
+henry ii de bourbon prince de conde	2miz	
+henry ii de conde	2miz	
+henry ii duc de guise	46g0	
+henry ii duke		1f3j:5,2ut9:5,460j:6,46ci:6,4jwd:5
+henry ii duke of		1f3j:5,2ut9:5,460j:6,46ci:6,4jwd:5
+henry ii duke of austria	16z4	
+henry ii duke of bavaria	2ut9	
+henry ii duke of brabant	1uuj	
+henry ii duke of brunswick		460j:6
+henry ii duke of brunswick grubenhagen	460j	
+henry ii duke of brunswick lueneburg	460j	
+henry ii duke of brunswick luneburg	460j	
+henry ii duke of brunswick wolfenbuettel	2yl1	
+henry ii duke of brunswick wolfenbuttel	2yl1	
+henry ii duke of burgundy	1kmv	
+henry ii duke of guise	46g0	
+henry ii duke of lorraine	1f3j	
+henry ii duke of munsterberg		46ci:6
+henry ii duke of munsterberg oels	46ci	
+henry ii duke of poland	1m8v	
+henry ii duke of saxony	2w4k	
+henry ii duke of silesia	1m8v	
+henry ii duke of silesia and poland	1m8v	
+henry ii duke of swabia	18y6	
+henry ii duke of swidnica	4jwd	
+henry ii duke of wroclaw	1m8v	
+henry ii england	lt9	
+henry ii gibbs	4hgf	
+henry ii guise	46g0	
+henry ii holy		27ax:5
+henry ii holy roman		27ax:5
+henry ii holy roman emperor	27ax	
+henry ii holy roman empire	27ax	
+henry ii hre	27ax	
+henry ii hrr	27ax	
+henry ii jasomirgott	16z4	
+henry ii king of england	lt9	
+henry ii king of france	jfk	
+henry ii lord		4i6g:5
+henry ii lord of		4i6g:5
+henry ii lord of mecklenburg	4i6g	
+henry ii margrave		4ro0:5
+henry ii margrave of		4ro0:5
+henry ii margrave of istria	4ro0	
+henry ii marquis of namur	3285	
+henry ii moore	i3x	
+henry ii of		jfk:4,lt9:4,1ccw:4,3285:4,332i:4,46g0:7
+henry ii of austria	16z4	
+henry ii of bavaria	2ut9	
+henry ii of bourbon conde	2miz	
+henry ii of brabant	1uuj	
+henry ii of brunswick grubenhagen	460j	
+henry ii of brunswick lueneburg	460j	
+henry ii of brunswick luneburg	460j	
+henry ii of brunswick wolfenbuettel	2yl1	
+henry ii of brunswick wolfenbuttel	2yl1	
+henry ii of castile	1ccw	
+henry ii of castile and leon	1ccw	
+henry ii of champagne	2uqc	
+henry ii of cyprus	332i	
+henry ii of england	lt9	
+henry ii of france	jfk	
+henry ii of istria	4ro0	
+henry ii of jerusalem	332i	
+henry ii of lorraine		46g0:7
+henry ii of lorraine duke		46g0:7
+henry ii of lorraine duke of		46g0:7
+henry ii of lorraine duke of guise	46g0	
+henry ii of luxembourg	5avm	
+henry ii of luxemburg	5avm	
+henry ii of mecklenburg	4i6g	
+henry ii of namur	3285	
+henry ii of navarre	1vj9	
+henry ii of poland	1m8v	
+henry ii of saxony	2w4k	
+henry ii of sicily	18y6	
+henry ii of silesia	1m8v	
+henry ii of swidnica	4jwd	
+henry ii of tyrol	2asn	
+henry ii plantagenet	lt9	
+henry ii prince of conde	2miz	
+henry ii the		1m8v:4
+henry ii the pious	1m8v	
+henry ii the proud	2w4k	
+henry ii the quarrelsome	2ut9	
+henry ii the saint	27ax	
+hiltrud	2xg0	
+hinnebergia	yom	
+hooghli river	47oj	
+infinitesimal calculus	5iwq	
+infinitesimal group	1kar	
+iorga nicolae	1jgs	
+james collins	3kin,4ap7,519g,59iq	
+james collins baseball	6fe5	
+james collins basketball	3kin	
+james collins bioengineer	4tng	
+james collins boston university	4tng	
+james collins english footballer	59iq	
+james collins footballer	519g	
+james collins footballer born 1983	519g	
+james collins footballer born 1990	59iq	
+james collins welsh footballer	519g	
+james orsini	3uh3	
+jicineves	2crc	
+john east hawley	6992	
+john koestler	2hgj	
+jons	ucl,22im	ucl:3,51qd:2
+jons berzelius	ucl	
+jons jacob		ucl:3
+jons jacob berzelius	ucl	
+jons jakob baron berzelius	ucl	
+jons jakob berzelius	ucl	
+jons oskar backlund	3rph	
+jons rhone	22im	
+jons svanberg	51qd	
+kacm	koj	
+kathode	6c95	
+kyoesti kallio	3ug2	
+la puttana del re	1xng	
+le braconnier		3pap:4
+le braconnier de		3pap:4
+le braconnier de dieu	3pap	
+leptomyrmex	1q8o	
+lietova	bf	
+lillan klot	520c	
+limana	1qla	
+louveciennes	l2f	
+louveciennes france	l2f	
+melodifestival	juo	
+mesigny	3syw	
+mhk spartak	2le1	
+miaolingian	654n	
+michael kay software engineer	5qc1	
+michael oliver	54ko,5t7c	
+michael oliver footballer born 1957	5t7c	
+michael oliver footballer born 1975	54ko	
+montmeyran	2nej	
+mormon	6h9l,6hip	
+mormon book of mormon	6hip	
+mormon book of mormon prophet	6hip	
+mormon chior	1jdk	
+mormon coulee	8tx	
+mormon mafia	3i4s	
+mormon maid	5f5k	
+mormon people	6h9l	
+mormon population statistics	6h9l	
+mormon prophet	6hip	
+mormon society	ke1	
+mormon tabernacle choir	1jdk	
+mormon tea	1f9c	
+mormon temple	3y7v	
+mormon temples	3y7v	
+nellyville	6bkf	
+nellyville album	6bkf	
+oaken disney	b9k	
+panjabis	18fp	
+paschimi champaran	1mwm	
+paschimi champaran district	1mwm	
+percoidei	mf8	
+peter coyne	4v7o	
+peter coyne footballer	4v7o	
+pfannkuch thomas	64o2	
+poof point	573o	573o:3
+princess ariel	3yhf	
+princess protection		2782:3
+princess protection program	2782	
+princess protection programme	2782	
+rawanda	1v4	
+relja		110h:2
+relja basic	110h	
+rhuddalian	4xnk	
+richard kadison	4o6o	
+riri	8bq	
+robert jerry lanier jr	28j7	
+rudess	1lo0	
+saudemont	2vb0	
+schweinfurt	e3x	evr:2
+schweinfurt district	evr	
+schweinfurt germany	e3x	
+serocourt	2ips	
+shaki	y6p	
+shaki azerbaijan	y6p	
+shaki district	y6p	
+shkodra	4zs	
+sinus arabicus	vlj	
+sinus headache	1hxp	
+sinus infection	1hxp	
+sinus infections	1hxp	
+sjalfstaedisflokkurinn	1erm	
+slaviansk	1kg3	
+stenis	4rl6	
+subrosia	6ggq	
+tarniv	9tv	
+tasso	3in0	
+tasso corse du sud	3in0	
+tear it down song	64dq	
+tear it up johnny burnette song	3880	
+tear it up queen song	4jy8	
+tear it up young jeezy song	6ghw	
+tear jerker	3xy	
+tear jerkers	3xy	
+the crucible	167s,1do5,27a8	
+the crucible 1957 film	167s	
+the crucible 1996 film	1do5	
+thomas joshua tom elliott	5a6x	
+timeframe	vnz	
+timonium	3h6j	
+timonium maryland	3h6j	
+timonium md	3h6j	
+tobi miller	4il1	
+tobi schweinsteiger	49yx	
+trexler park	548	
+unzip	4qge	
+valdaora	2ucd	
+viacom18	3uyw	x0k:2
+viacom18 motion pictures	x0k	
+viacom18 studios	x0k	
+vildfaglar	4vp0	
+widow		2mm3:2,5mo6:2
+widow couderc	1kty	1kty:3
+widow kadijah	1us2	
+widow moira	6azj	
+widow s cruse	5qh5	
+widow s tears	204u	
+widow s thrill	2vd9	
+widow six seven	1cz4	
+widow spider	3an7	
+widow spiders	3an7	
+widow suicide	9i	
+wilksbury pennsylvania	5au	
+wilui river	4mmk	
+wisdot	5nl	
+wisdot state traffic operations center	5nl	
+wzgorze sw maksymiliana	5pp	
+xaverian weekly	4274	
+zakes		26og:2
+zakes makgona mokae	26og	
+zakes mokae	26og	
+zorba		1h6d:3
+zorba the		1h6d:3
+zorba the greek	1h6d	
+zorba the greek film	1h6d	

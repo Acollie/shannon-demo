@@ -1,0 +1,467 @@
+1100s	29kr	
+1100s bce	26ex	
+1100s century	1f0f	
+1100s decade	29kr	
+220s	28d8	2acn:2
+220s bc	2acn	
+220s bce	2acn	
+597 bce	2nfo	
+a fuckin way of life	5oi7	
+a1010	1mx	
+admixture concrete	2dp	
+alkeyhall	18iu	
+analyzing	51ml	
+auctionweb	12bg	
+avtodor	1mj7	
+avtodor bmk vladikavkaz	9g5	
+avtodor olaf vladikavkaz	9g5	
+avtodor ordzhonikidze	9g5	
+avtodor saratov	1mj7	
+avtodor vladikavkaz	9g5	
+aylabrown	5lzh	
+bakerloo	1gm6	1gm6:2
+bakerloo line	1gm6	
+bakerloo line london underground	1gm6	
+bastar		2fqo:2
+bastar district	2fqo	
+bkv	lre	
+bkv elore		pde:3
+bkv elore sc	pde	
+bkv elore sport klub	pde	
+bkv zrt	lre	
+buccheri	4gkb	
+burreli	673u	
+camboulazet	3c21	
+cargaison blanche	2p7i	
+cargaison clandestine	4h14	
+cebrones		3gf5:3
+cebrones del		3gf5:3
+cebrones del rio	3gf5	
+cebrones del rio leon	3gf5	
+cebrones del rio spain	3gf5	
+chamlian armenian school	2tv	
+chazy chaz	p0i	
+claveria	2475	
+claveria misamis oriental	2475	
+cosmopterigidae	905	
+crapulinksy	pdt	
+david louhoungou	4zm6	
+david sutcliffe	5hav	
+distelhausen	1lyj	
+durlach	1scs	
+fc alatau dzhambul	b9t	
+fc brestbytkhim brest	55q9	
+fcr	g6i	
+fcr malmo	g6i	
+flathead		x39:2
+flathead county	x39	
+flathead county montana	x39	
+flathead county mt	x39	
+flathead pass	yna	
+fosses	1v4u	30re:3,43ft:3
+fosses et		30re:3
+fosses et baleyssac	30re	
+fosses la		43ft:3
+fosses la ville	43ft	
+gaoual		662l:2
+gaoual prefecture	662l	
+gaoual prefecture guinea	662l	
+gazaupouy	3a8o	
+gazax		3osk:3
+gazax et		3osk:3
+gazax et baccarisse	3osk	
+gennep	1e38	
+gerit	1sa9	1sa9:3
+gerit rural		1sa9:3
+gerit rural district	1sa9	
+gladiatorial	3siu	
+gladiatorial combat	3siu	
+gladiatorial games	3siu	
+glassner jonathan	504e	
+gmina nowy		juu:4,uer:3,xjv:3,17nz:3,1a9s:3,1dho:3,1e03:3,21uo:3,2hal:3,2ife:3
+gmina nowy duninow	1e03	
+gmina nowy dwor	2ife	juu:4
+gmina nowy dwor gdanski	juu	
+gmina nowy kaweczyn	xjv	
+gmina nowy korczyn	1a9s	
+gmina nowy staw	17nz	
+gmina nowy targ	uer	
+gmina nowy tomysl	1dho	
+gmina nowy wisnicz	21uo	
+gmina nowy zmigrod	2hal	
+gommeville	3yln	
+hannibel lecter	2t6k	
+hannibel lector	2t6k	
+harman	2775	2775:3
+harman becker	2775	
+harman group	2775	
+harman hals	5y2p	
+harman int l industries	2775	
+harman international	2775	2775:3
+harman international ind inc	2775	
+harman international industries	2775	
+harman international industries in	2775	
+harman music group	2775	
+harman pro	2775	
+harman pro group	2775	
+harman professional	2775	
+harman verelst	4u9t	
+hif	ba6	
+hlukhiv	tj1	
+hlukhiv municipality	tj1	
+hlukhiv ukraine	tj1	
+hovezi	2xyb	
+hovezi vsetin district	2xyb	
+ica0	3md1	
+jfru	11td	
+john alvbage	4nyi	
+josico	51yo	
+jourgnac	27q6	
+kare		3omi:2,51h8:2,5jiy:2
+kare bergstrm	3omi	
+kare ingebrigtsen	5jiy	
+kare isaachsen willoch	51h8	
+kare willoch	51h8	
+katinka	2u38	5ja4:2
+katinka farago	5ja4	
+katinka film	2u38	
+katinka ingabogavanana	lb6	
+katinka ingabogovinanana	lb6	
+keszthely	ylr	139r:2
+keszthely district	139r	
+kool		t0p:3,v82:3,19an:2,3s6l:3,56w3:3
+kool a		56w3:3
+kool a d	56w3	
+kool ad	56w3	
+kool aid kush convertibles	5sse	
+kool and the gang	t0p	
+kool desktop environment	13py	
+kool dj herc	6gxo	
+kool dj hercules	6gxo	
+kool g		v82:3
+kool g rap	v82	
+kool g rap dj polo	v82	
+kool gang	t0p	
+kool herc	6gxo	
+kool herc the herculoids	6gxo	
+kool keith	19an	
+kool mo dee	3s6l	
+kool moe		3s6l:3
+kool moe dee	3s6l	
+kool n the gang	t0p	
+kool the		t0p:3
+kool the gang	t0p	
+kossi		2uhb:2
+kossi agassa	2uhb	
+krattigen	4n5m	
+krattigen be	4n5m	
+krattigen bern	4n5m	
+krattigen berne	4n5m	
+krattigen switzerland	4n5m	
+laquila	5xd	5ei9:3
+laquila calcio 1927	cda	
+laquila rugby		5ei9:3
+laquila rugby club	5ei9	
+lavernty beria	13h6	
+le olimpiadi		3kq4:4
+le olimpiadi dei		3kq4:4
+le olimpiadi dei mariti	3kq4	
+lielvardes novads	3wsv	
+llanfair ym muallt	6316	
+llanfair ym muallt builth wells	6316	
+lovere	15c2	
+ludacris	8ld	
+ludacris rapper	8ld	
+ludacris singles	8ld	
+macauley		4f2j:2
+macauley calkin	vyr	
+macauley caulkin	vyr	
+macauley chrisantus	4f2j	
+macauley culkin	vyr	
+maladziecna	1c6k	2819:2,3a98:2
+maladziecna district	3a98	
+maladziecna voblast	2819	
+manno	359b	
+manno sanon	4fxg	
+manno switzerland	359b	
+manno ti	359b	
+manno ticino	359b	
+maria dolina	5xfu	
+maria palmer	32wg	
+marliac	2xcu	
+merchantofvenice	5qpo	
+mirren dame helen	dpf	
+mittuniversitetet	1lxc	
+myo	428	
+nausicaan	5fhg	
+nirailways	f2n	
+nit	ezq	
+nit championships	ezq	
+nit tournament	ezq	
+nitobe		3nwv:2
+nitobe inazo	3nwv	
+nitobe inazou	3nwv	
+notaries and scribes	cnp	
+oajaca	1th	
+payu india	53kq	
+peneidae	1rk5	
+penygaer school	a1s	
+percussionist	5b2	
+petrassi	3lzf	
+prednisone	2ajs	
+puertoricanmusic	2qk4	
+radio	7y7,21iz	dc:2,ru:2,2m8:2,aot:2,b2m:2,hd2:2,mmr:2,nhf:5,zqu:2,12wu:2,1jnc:3,29bx:3,2kr8:2,3041:4,366r:2,3n7x:2,3pcg:2,3y2d:2,4jac:3,4kqi:3,5nqu:2,5pd1:5,5rd9:2,608i:2,61pq:4
+radio 2003 film	21iz	
+radio 4	17p2	
+radio activity	m67	
+radio adaptation	2m8	
+radio and television broadcasting	27hu	
+radio and television stations	27hu	
+radio andy	3v8b	
+radio angel	24tx	
+radio announcer	54o	
+radio antenna	4yhd	
+radio audizioni italiane	dz4	
+radio band	2kr8	
+radio bar	3y2d	
+radio belgrade 3	3041	
+radio boy	33uz	
+radio broadcast	ru,7y7	
+radio broadcaster	7y7,27hu	
+radio broadcasters	27hu	
+radio broadcasting	7y7	
+radio broadcasting network	zqu	
+radio broadcasts	7y7	
+radio canada	8k9	
+radio caracas television	ghk	
+radio caracas television c a	ghk	
+radio caracas television internacional	ghk	
+radio caracas tv	ghk	
+radio cd player	5nqu	
+radio celebrity	dc	
+radio chart	mme	
+radio city	3luq	
+radio co producer	b2m	
+radio common carrier	a9p	
+radio communication		29bx:3
+radio communication station	29bx	
+radio communications	7y7	
+radio coproducer	b2m	
+radio corporation of america	3ei	
+radio correlator	aot	
+radio day	3n7x	
+radio day film	3n7x	
+radio days	12wu	
+radio deutsche welle	4emu	
+radio drama	2m8	
+radio drama in japan	2m8	
+radio dw	4emu	
+radio e		5pd1:5
+radio e televisao		5pd1:5
+radio e televisao bandeirantes ltda	4i34	
+radio e televisao de		5pd1:5
+radio e televisao de portugal	5pd1	
+radio e x p	43ah	
+radio episode	d7	
+radio fenerbahce	qx1	
+radio film	21iz	
+radio flyer	3pcg	
+radio flyer film	3pcg	
+radio format	608i	
+radio formats	608i	
+radio formats doc	608i	
+radio four	17p2	
+radio france	mmr	1jnc:3
+radio france international	1jnc	
+radio france internationale	1jnc	
+radio free		4jac:3
+radio free europe	4jac	
+radio free europe hib tone version	4jac	
+radio free europe song	4jac	
+radio free l a	tpm	
+radio freq transmitter	hd2	
+radio frequency integrated circuit	11pi	
+radio frequency transmitter	hd2	
+radio friendly song	54c2	
+radio genre	608i	
+radio head	dgf	
+radio host	dc	
+radio in		nhf:5
+radio in england	nhf	
+radio in northern ireland	nhf	
+radio in scotland	nhf	
+radio in the		nhf:5
+radio in the uk	nhf	
+radio in the united		nhf:5
+radio in the united kingdom	nhf	
+radio interferometry	aot	
+radio jock	dc	
+radio jockey	dc	
+radio jockeys	dc	
+radio jocks	dc	
+radio keith orpheum	11n	
+radio keith orpheum entertainment	11n	
+radio luxembourg french	b2c	
+radio majak	5rd9	
+radio marriage	5ec7	5ec7:3
+radio masts and tower	1orb	
+radio masts and towers	1orb	
+radio mayak	5rd9	
+radio mirchi senthil	5jm5	
+radio monash	5qr	
+radio munich	3wb3	
+radio network	zqu	
+radio networks	zqu	
+radio no jikan welcome back mr mcdonald	3uy6	
+radio observatory	aot	
+radio parade		61pq:4
+radio parade of		61pq:4
+radio parade of 1935	61pq	
+radio personalities	dc	
+radio personality	dc	
+radio philippine network	4kqi	
+radio philippines		4kqi:3
+radio philippines network	4kqi	
+radio play	2m8	
+radio popular boavista	5w5l	
+radio popular onda	5w5l	
+radio popularboavista	5w5l	
+radio presenter	dc	
+radio producer	b2m	
+radio program	ru	
+radio program boss	dc	
+radio programme	ru	
+radio programs	ru	
+radio pulsar	34ez	
+radio pulsars	34ez	
+radio raheem	jhq	
+radio raheem character	jhq	
+radio raheem dtrt	jhq	
+radio ranch	5p2k	
+radio rebel	366r	
+radio rebel soundtrack	366r	
+radio receiver	5nqu	
+radio receivers	5nqu	
+radio serial	2m8	
+radio series	ru	
+radio shack trs 80	uqr	
+radio show	ru	
+radio show genre	ru	
+radio shows	ru	
+radio sljeme	1zan	
+radio spectrum	2kr8	
+radio spectrum doc	2kr8	
+radio star person	dc	
+radio station	7y7,29bx	
+radio stations	7y7,29bx	
+radio studio	5b4	
+radio syndication	1xt	
+radio teilifis eireann	9mp	
+radio teledifusao portuguesa	5pd1	
+radio telefis eireann	9mp	
+radio telescope	aot	
+radio telescope at jodrell bank	4aau	
+radio telescope at kitt peak	k4l	
+radio telescopes	aot	
+radio television		3041:4
+radio television belge	2h4z	
+radio television belge de la communaute francaise	2h4z	
+radio television belge francofone	2h4z	
+radio television belge francophone	2h4z	
+radio television belgrade	3041	
+radio television beograd	3041	
+radio television espanola	301w	
+radio television ireland	9mp	
+radio television luxembourg	hrf,11c4	
+radio television of		3041:4
+radio television of belgrade	3041	
+radio television of ireland	9mp	
+radio television of portugal	5pd1	
+radio television of serbia	3041	
+radio television serbia	3041	
+radio television zagreb	1zan	
+radio televison of serbia	3041	
+radio televizija srbije	3041	
+radio tellurium	1fkn	
+radio theater	2m8	
+radio theatre	2m8	
+radio time	3uy6	
+radio tokyo	clg	
+radio tower	1orb	
+radio tower bonhoure	1cy	
+radio towers	1orb	
+radio transmitter	hd2	
+radio transmitters	hd2	
+radio tube triode	1vmj	
+radio valve	1vmj	
+radio y television espanola	301w	
+rociana		4gty:3
+rociana del		4gty:3
+rociana del condado	4gty	
+rociana del condado huelva	4gty	
+rociana del condado spain	4gty	
+ruling class	206r	206r:3
+ruling ring	6g9a	
+ruling voice	3l65	3l65:3
+samajwadi	nxi	nxi:2
+samajwadi party	nxi	
+satte		4wuv:3
+satte pe		4wuv:3
+satte pe satta	4wuv	
+scotus	429a	
+scotus blessed john duns	2ggi	
+scotus johannes duns	2ggi	
+scotus john duns	2ggi	
+scotus viator	5mmu	
+seniga	40fm	
+signing into law	1nmg	
+signing of peace in the hall of mirrors versailles 28 june 1919		17mm:13
+sir antony beevor	2yan	
+sir antony gormley	1cn4	
+sir antony hoare	11ze	
+sir antony jay	vor	
+sir antony mark david gormley	1cn4	
+sir antony sher	1rsg	
+slam		6hpu:3
+slam bamboo	dcy	
+slam book	2cvp	
+slam death metal	19e	
+slam dunk		6hpu:3
+slam dunk contest	6hpu	
+slam dunk film	4yo3	
+slam metal	19e	
+soenke wortmann	27yb	
+sonchus	5li3	
+sonchus agrestis	5li3	
+splendrillia	a69	
+stepin		1m8s:2
+stepin fechit	1m8s	
+stepin fetchit	1m8s	
+sweetmeat	a0w	
+symmetrischema	qxy	
+syoonen ai	4qp	
+the defenders	1bxx	
+the defenders 2017 tv series	1bxx	
+the defenders miniseries	1bxx	
+the defenders the defenders episode	1bxx	
+the dickies	60zy	
+the ebro river	kbo	
+tirthankars	2ncw	
+ueckermuende	1lc4	
+uninhabited aerial vehicles	c0b	
+unsw australia	2hu	
+unsw chancellors	2hu	
+unsw press	2hu	
+unsw sydney	2hu	
+unsw vice chancellors	2hu	
+uodalric	3pf	
+uriah		hs8:2
+uriah heep	hs8	
+uriah heep band	hs8	
+william sapphire	66na	
+yeddo	5a3	
+zacorisca	1apn	
+zelino		2wx4:2
+zelino municipality	2wx4	
+zelino opstina	2wx4	
+zelino opstina republic of macedonia	2wx4	

@@ -1,0 +1,567 @@
+543 bce	2ab9	
+admiral	2kb,e64,xcu	k3p:2,txm:3,1376:4,1t1w:2,293k:2,2wta:2,3h02:4,3vga:3,4vcq:5,690b:2
+admiral 2015 film	2kfn	
+admiral abraham duquesne	58fk	
+admiral anderson	13i3	
+admiral andreas miaoulis	254e	
+admiral anson	3k7h	
+admiral augustus keppel	201h	
+admiral axel berg	32d2	
+admiral beatty	1sm4	
+admiral bedford clapperton trevelyan pim	5cco	
+admiral benbow inn	18ro	
+admiral blake	4pfk	
+admiral bligh	4u37	
+admiral boscawen	59vj	
+admiral boseawen	59vj	
+admiral butterfly	47f,690b	
+admiral byrd	1201	
+admiral canaris	205b	
+admiral chabanenko	2str	
+admiral chester nimitz	3xsy	
+admiral chester w nimitz	3xsy	
+admiral chester william nimitz	3xsy	
+admiral class		4vcq:5
+admiral class battleship	4vcq	
+admiral class ironclad	4vcq	
+admiral class pre		4vcq:5
+admiral class pre dreadnought		4vcq:5
+admiral class pre dreadnought battleship	4vcq	
+admiral coligny	1off	
+admiral collingwood	67h7	
+admiral cornwallis	5v7p	
+admiral croft	62b6	
+admiral cunningham	2s17	
+admiral d argenlieu	4tzf	
+admiral d estaing	3wgj	
+admiral darlan	4nmr	
+admiral david g farragut	3l1e	
+admiral david g farragut statue	3l1e	
+admiral david glasgow farragut	3l1e	
+admiral de coligny	1off	
+admiral de france	txm	
+admiral dewey	3sxb	
+admiral doenitz	o6q	
+admiral donitz	o6q	
+admiral duckworth	5opb	
+admiral duperre	5hwk	
+admiral earl hardwicke	2lhi	
+admiral earnest j king	2zzs	
+admiral edward vernon	63ui	
+admiral erich raeder	3vzc	
+admiral ernest j king	2zzs	
+admiral farragut	3l1e	3vga:3
+admiral farragut academy	3vga	
+admiral fitzroy	2ghr	
+admiral flota sovetskovo soyuza kuznetsov	1t1w	
+admiral general aladeen	1dg8	
+admiral george anson 1st baron anson pc rn	3k7h	
+admiral george cockburn	1kqe	
+admiral george rodney	5htp	
+admiral grace hopper	w8a	
+admiral hargreaves	syq	
+admiral hill	6eb	
+admiral hood	2yg3	
+admiral hopper	w8a	
+admiral horatio nelson	wnp	
+admiral horthy	22nc	
+admiral hoskins	4q1s	
+admiral howe	3i2a	
+admiral hyde parker	5ymx	
+admiral hyman rickover	37pi	
+admiral isoroku yamamoto	4d58	
+admiral james stirling	65ot	
+admiral james stockdale	26ei	
+admiral janeway	2owi	
+admiral jellicoe	5chl	
+admiral john byng	38na	
+admiral joseph sydney yorke	2cg0	
+admiral king	2zzs	
+admiral kirk	a8x	
+admiral kolchak	41q3	
+admiral kuznetsov	1t1w	
+admiral kuznetsov class	5ee5	
+admiral kuznetsov class aircraft carrier	5ee5	
+admiral lazarev	3kxq	
+admiral leahy	taa	
+admiral lord beresford	3p04	
+admiral lord richard howe	3i2a	
+admiral maarten tromp	575t	
+admiral mahan	5g58	
+admiral makaroff	2gt1	
+admiral makarov	5be0	
+admiral michael g mullen	581c	
+admiral michael j mullen	581c	
+admiral michael mullen	581c	
+admiral mike mullen	581c	
+admiral miklos horthy	22nc	
+admiral moffett	5jml	
+admiral movie	293k	
+admiral mullen	581c	
+admiral nimitz	3xsy	
+admiral norton alfi kabiljo	1li0	
+admiral norton sandbox alfi kabiljo	1li0	
+admiral of		txm:3,1376:4,3h02:4
+admiral of france	txm	
+admiral of the		1376:4,3h02:4
+admiral of the blue	e64	
+admiral of the fleet	1376,3h02	
+admiral of the fleet david richard beatty 1st earl beatty	1sm4	
+admiral of the fleet john rushworth jellicoe 1st earl jellicoe	5chl	
+admiral of the fleet john rushworth jellicoe 1st earl jellicoe gcb om gcvo	5chl	
+admiral of the fleet lord keyes	4fqf	
+admiral of the fleet louis francis albert victor nicholas mountbatten 1st earl mountbatten of burma	ujq	
+admiral of the fleet of the soviet union kuznetsov aircraft carrier	1t1w	
+admiral of the fleet of the soviet union kuznetsov class aircraft carrier	5ee5	
+admiral of the fleet roger john brownlow keyes 1st baron keyes	4fqf	
+admiral of the fleet royal navy	1376	
+admiral of the fleet sir francis william austen	306a	
+admiral of the fleet uk	1376	
+admiral of the fleet united kingdom	1376	
+admiral of the ocean sea	ikw	
+admiral of the red	e64	
+admiral of the white	e64	
+admiral of the white royal navy	e64	
+admiral peary	2mdq	
+admiral pellew	2cmp	
+admiral phillip	52wg	
+admiral porter	5f1z	
+admiral r e byrd	1201	
+admiral radford	4psb	
+admiral raeder	3vzc	
+admiral rank	2kb	
+admiral raphael semmes	5db6	
+admiral raymond a spruance	3b7a	
+admiral richard byrd	1201	
+admiral richard e byrd	1201	
+admiral rickover	37pi	
+admiral roaring currents	1won	1won:4
+admiral robert blake	4pfk	
+admiral robert l j long	4ozc	
+admiral rodney	5htp	
+admiral roebuck	l05	
+admiral royal navy	e64	
+admiral s	2kb	
+admiral saumarez	4jev	
+admiral scheer	2tes	
+admiral sir charles napier	3z5u	
+admiral sir david beatty	1sm4	
+admiral sir ernest charles thomas troubridge	27ym	
+admiral sir ernest charles thomas troubridge kcmg mvo	27ym	
+admiral sir harry keppel	5lyv	
+admiral sir hyde parker	5ymx	
+admiral sir james saumarez	4jev	
+admiral sir john borlase warren 1st baronet	3xku	
+admiral sir john jellicoe	5chl	
+admiral sir yorke	2cg0	
+admiral spruance	3b7a	
+admiral stockdale	26ei	
+admiral superintendent chatham	xqh	
+admiral superintendent pembroke	br3	
+admiral superintendent pembroke dockyard	br3	
+admiral superintendent plymouth	2prf	
+admiral thomas alexander cochrane	1t14	
+admiral thomas moorer	3rhg	
+admiral tirpitz	1ovr	
+admiral tom moorer	3rhg	
+admiral toyoda	4val	
+admiral tromp	575t	
+admiral uk	e64	
+admiral united states	xcu	
+admiral ushakov	2wta	
+admiral ushakov film	2wta	
+admiral vernon	63ui	
+admiral vladivostok	k3p	
+admiral von tirpitz	1ovr	
+admiral wilhelm canaris	205b	
+admiral william daniel leahy	taa	
+admiral william leahy	taa	
+admiral yamamoto	4d58	
+admiral yamamoto the untold story of the pacific war	3rdj	
+admiral yamomoto	4d58	
+admiral zaarin	6dlq	
+admiral zozulya class	467k	
+admiral zumwalt	2hrc	
+afrikaans	84e	
+afrikaans language	84e	
+afrikaans western cape dialect	84e	
+alcobendas	1htk	
+alcobendas spain	1htk	
+alexander rybakov	5nh6	
+alexander rybakov ice hockey	5nh6	
+alizay	2z5p	
+almudaina	4paw	
+ameesha patel	1f8t	
+anthophilodes	1jg0	
+attleborough ma	w9g	
+attleborough massachusetts	w9g	
+attleborough pennsylvania	1wsu	
+auros	203b	
+beirach	5ogs	
+benu	13gs	
+benu da	13gs	
+bersillies	3xec	
+beurey	24pq	1q5u:3,3moi:2
+beurey bauguay	3moi	
+beurey sur		1q5u:3
+beurey sur saulx	1q5u	
+beylerbeyi		3c6h:3
+beylerbeyi s		3c6h:3
+beylerbeyi s k	3c6h	
+beylerbeyi sk	3c6h	
+bonastre	2omg	
+charles lamac	gv7	
+clairmarais	2ns2	
+codaw	4c72	
+david bryan	3clk	
+david bryan rashbaum	3clk	
+david camilleri	68dv	
+david hindi film	4gv1	
+dentry	aq1	
+devran		4wqd:2
+devran ayhan	4wqd	
+diderms	cc	
+divoff andrew	1xvv	
+eindhoven	3yc	gxq:4,4q7q:4
+eindhoven academy of industrial design	3zwy	
+eindhoven central		4q7q:4
+eindhoven central railway		4q7q:4
+eindhoven central railway station	4q7q	
+eindhoven football club	2u6	
+eindhoven netherlands	3yc	
+eindhoven noord brabant	3yc	
+eindhoven north brabant	3yc	
+eindhoven railway station	4q7q	
+eindhoven university	gxq	gxq:4
+eindhoven university of		gxq:4
+eindhoven university of technology	gxq	
+enter		v2e:3,v5z:2,2b80:3,3pgu:3,4q1a:3,4qjr:2,5sia:2
+enter into force	5wub	
+enter laughing	5sia	
+enter laughing film	5sia	
+enter sandman	4qjr	
+enter sandman song	4qjr	
+enter shakari	v5z	
+enter shikari	v5z	
+enter shikari members	v5z	
+enter some aliases	17h9	
+enter the		v2e:3,2b80:3,3pgu:3,4q1a:3
+enter the dragon	v2e	
+enter the dragon 1973	v2e	
+enter the fat one	4ubc	
+enter the ghetto zone	3xdz	
+enter the matrix	4q1a	
+enter the matrix original soundtrack from the videogame	4q1a	
+enter the ninja	2b80	
+enter the pitch	1s2	
+enter the realm	1jop	
+enter the void	3pgu	
+esca	52pv	
+esca fish anatomy	52pv	
+esporte		2ys:3,3ko:3,58z:4,9fo:5,asg:4,asx:3,bwn:4,cky:3,igv:4,m9o:3,w7b:3,1etz:3,1j9i:5,1vb6:5,209o:4,29h9:5,2mug:3,367l:4,3t3l:4,4q18:4,55m2:4,5wj3:3,61dq:3,69z4:3,6b71:3,6bux:7,6bw1:3,6d81:3
+esporte clube		2ys:3,3ko:3,58z:4,9fo:5,asg:4,asx:3,bwn:4,cky:3,igv:4,m9o:3,w7b:3,1etz:3,1j9i:5,1vb6:5,209o:4,29h9:5,2mug:3,367l:4,3t3l:4,4q18:4,55m2:4,5wj3:3,61dq:3,69z4:3,6b71:3,6bux:7,6bw1:3,6d81:3
+esporte clube agua		55m2:4
+esporte clube agua santa	55m2	
+esporte clube aguia		3t3l:4
+esporte clube aguia negra	3t3l	
+esporte clube avenida	61dq	
+esporte clube bahia	2ys	
+esporte clube barreira	d99	
+esporte clube comercial	6d81	
+esporte clube comercial ms	6d81	
+esporte clube cruzeiro	2mug	
+esporte clube cruzeiro rs	2mug	
+esporte clube democrata	m9o	
+esporte clube flamengo	6b71	
+esporte clube goias	3os	
+esporte clube guarani	5wj3	
+esporte clube internacional	1etz	29h9:5
+esporte clube internacional de		29h9:5
+esporte clube internacional de lages	29h9	
+esporte clube internacional de santa maria	1etz	
+esporte clube internacional lages	29h9	
+esporte clube internacional sc	29h9	
+esporte clube itauna	6bw1	
+esporte clube juventude	3ko	
+esporte clube mamore	69z4	
+esporte clube noroeste	asx	
+esporte clube novo		bwn:4
+esporte clube novo hamburgo	bwn	
+esporte clube passo		4q18:4
+esporte clube passo fundo	4q18	
+esporte clube pelotas	cky	
+esporte clube pinheiros basketball	2455	
+esporte clube primeiro		6bux:7
+esporte clube primeiro passo		6bux:7
+esporte clube primeiro passo de vitoria da conquista	6bux	
+esporte clube primeiro passo vitoria		6bux:7
+esporte clube primeiro passo vitoria da		6bux:7
+esporte clube primeiro passo vitoria da conquista	6bux	
+esporte clube rio		209o:4
+esporte clube rio verde	209o	
+esporte clube santo		58z:4
+esporte clube santo andre	58z	
+esporte clube sao		asg:4,igv:4,367l:4
+esporte clube sao bento	asg	
+esporte clube sao jose	igv	
+esporte clube sao luiz	367l	
+esporte clube taubate	w7b	
+esporte clube tigres		1vb6:5
+esporte clube tigres do		1vb6:5
+esporte clube tigres do brasil	1vb6	
+esporte clube ulbra	kmu	
+esporte clube vitoria	2re	
+esporte clube xv		9fo:5,1j9i:5
+esporte clube xv de		9fo:5,1j9i:5
+esporte clube xv de novembro	9fo,1j9i	
+esporte clube xv de novembro jau	1j9i	
+esporte clube xv de novembro piracicaba	9fo	
+esporte espectacular	3mg	
+estela inda	21ho	
+faux	41yd	1our:3,1xkn:2,2ax2:2,32hd:2,34wg:2,3p4h:3
+faux ardennes	41yd	
+faux chateau	2nc3	
+faux chateaux	2nc3	
+faux documentary	xo3	
+faux dordogne	3p4h	
+faux en		3p4h:3
+faux en foret	21lk	
+faux en perigord	3p4h	
+faux fresnay	2ax2	
+faux la		1our:3
+faux la montagne	1our	
+faux mazuras	32hd	
+faux mono	17k4	
+faux tuscan style	6fy	
+faux vesigneul	1xkn	
+faux villecerf	34wg	
+fc ugolshchik prokopyevsk	1hcq	
+fertilising	666h	
+fichtelgebirge	28qy	
+fichtelgebirge mountains	28qy	
+flp	rrt	
+gafsa	1j3h	58r3:2
+gafsa governorate	58r3	
+gafsa tunisia	1j3h	
+gensler	55zq	
+gillaume	2soo	
+goffman	2ko3	
+gord		4iu3:2,4qpn:2
+gord bamford	4iu3	
+gord campbell	6dyo	
+gord downey	4qpn	
+gord downie	4qpn	
+gord howe	1lw3	
+gord sinclair	e9i	
+gribouille	37wp	
+gribouille film	37wp	
+hauptmannian	yrc	
+hifk	1cw9	wno:2,yvb:2
+hifk football club	yvb	
+hifk fotboll	yvb	
+hifk helsinki	1cw9	
+hifk hockey	wno	
+hifk ice hockey	wno	
+hifk soccer	yvb	
+hkamti		3ki:2
+hkamti district	3ki	
+hnd	9ow	
+hnd airport	9ow	
+horch zwickau	gto	
+huhanrong passenger dedicated line	3u8u	
+iind olympic winter games	3e7	
+ivancice	v5j	
+james waldegrave		4vpm:5
+james waldegrave 2nd		4vpm:5
+james waldegrave 2nd earl		4vpm:5
+james waldegrave 2nd earl waldegrave	4vpm	
+jean santos		47ud:3
+jean santos muntubila	47ud	
+jiva album	10yu	
+john hasecoster	64y4	
+john napier	2qj1,5l5m	
+john napier footballer	5l5m	
+john napier neper	2qj1	
+john napier of merchiston	2qj1	
+john napier turner	2fdc	
+john napier tye	5yek	
+john napier wyndham turner	2fdc	
+jonghea	pno	
+junin	12vb	gu2:2
+junin buenos aires	12vb	
+junin buenos aires province	12vb	
+junin department	gu2	
+junin department of peru	gu2	
+junin department peru	gu2	
+junin region	gu2	
+kelso	1ein	
+kelso ontario	1335	
+kelso roxburghshire	1ein	
+kelso scotland	1ein	
+kelso scottish borders	1ein	
+koelliker	1mlw	
+koronowo commune	hrt	
+kranichsteiner		3koa:2
+kranichsteiner literaturpreis	3koa	
+kuyavia pomerania	gs5	
+kuyavia pomerania voivodeship	gs5	
+labridae	z0n	
+macintoshes	c99	
+maghul	u6x	
+makiko	6dkr	5jng:2,5o95:2,5sxk:2
+makiko esumi	5o95	
+makiko first name	6dkr	
+makiko given name	6dkr	
+makiko hayashi	4s6r	
+makiko tanaka	5jng	
+makiko watanabe	5sxk	
+malcin	2sks	
+marburg	2c6	mny:2
+marburg an der drau	3ux	
+marburg an der lahn	2c6	
+marburg biedenkopf	mny	
+marburg city	2c6	
+marburg germany	2c6	
+marburg lahn	2c6	
+maxiseries	1pb	
+mikra britannia	2br	
+nicobium	o57	
+nishapur	j7l	2iqr:2
+nishapur county	2iqr	
+npws	76g	
+oreilla	3vgd	
+orlamond william	58zt	
+ouarzazate		25sm:2
+ouarzazate province	25sm	
+overlorded	mxp	
+palagonia	5oib	
+palodhia	4wdu	
+panny z wilka	1nnz	
+parviopuntia	p0j	
+paul hammerich	67vu	
+paul ricour	14wj	
+pompignac	2b6a	
+prestenice	45vt	
+priesthill zion methodist	dgx	
+psychiatrists	qw	
+puessans	3ja1	
+puffer fish	5ffs	
+puffer fishes	5ffs	
+puffer jacket	11iw	
+queige	2a67	
+reamur	4ysl	
+rensing michael	3wq5	
+rheydt	1vrl	
+robilante	52nf	
+saccular	ibh	
+saccular aneurysm	1f2n	
+saint suliac	2b81	
+sapore		5hin:7
+sapore di		5hin:7
+sapore di mare	2vox	5hin:7
+sapore di mare 2	5hin	5hin:7
+sapore di mare 2 un		5hin:7
+sapore di mare 2 un anno		5hin:7
+sapore di mare 2 un anno dopo	5hin	
+saugerties	33vg	
+saugerties new york	33vg	
+saugerties ny	33vg	
+saugerties town new york	33vg	
+saugerties town ulster county new york	33vg	
+skyboom	7g3	
+skyboom shield	7g3	
+spotsylavania county	hgq	
+srokowo commune	jfu	
+stenus	5akr	
+streetside records	60tm	
+synedoche new york	1xxz	
+syrups	16ei	
+szklarska		1nm1:2
+szklarska poreba	1nm1	
+tem hansen	5rcr	
+tem motorway	it7	
+terri		10cr:2,44bm:2,508r:2
+terri bradshaw	4gli	
+terri clark	10cr	
+terri flores	zm8	
+terri fox	1rny	
+terri garr	ran	
+terri gross	5ebc	
+terri hatcher	1bzt	
+terri irwin	508r	
+terri mcguinty	66jy	
+terri mcmillan	4h92	
+terri morales	11oj	
+terri r irwin	508r	
+terri raines	508r	
+terri raines irwin	508r	
+terri sue feldshuh	1ukc	
+terri windling	44bm	
+the butterflyfish family	5uh0	
+the contaminated		5tk8:3
+the contaminated man	5tk8	
+the fabulous		1scj:4,3exd:3
+the fabulous baker		1scj:4
+the fabulous baker boys	1scj	
+the fabulous beach boys	17k4	
+the fabulous cadillacs	3w5l	
+the fabulous destiny of amelie poulain	cye	
+the fabulous stains	5ojs	
+the fabulous thunderbirds	3exd	
+the fabulous wealthy tarts	2c3m	
+the fabulous world of jules verne	52wf	
+the matrix	lxz	sjp:3,wrn:3,1g6c:3
+the matrix 1999	lxz	
+the matrix 1999 film	lxz	
+the matrix 2	sjp	
+the matrix 3	wrn	
+the matrix film	lxz	
+the matrix film series	1g6c	
+the matrix ii	sjp	
+the matrix reloaded	sjp	
+the matrix revolution	wrn	
+the matrix revolutions	wrn	
+the matrix series	1g6c	
+the matrix trilogy	1g6c	
+the rastafari messiah	xsb	
+the silmarrillion	9b9	
+thusis	1ndi,5tfm	
+thusis circle	5tfm	
+thusis gr	1ndi	
+thusis graubuenden	1ndi	
+thusis graubunden	1ndi	
+thusis grisons	1ndi	
+thusis kreis	5tfm	
+thusis switzerland	1ndi	
+tino		tf6:2,19h2:2,1ze9:2,2nen:2,317a:2,5nlv:2,5r8g:2,63v7:2,69yw:2
+tino asprilla	2hor	
+tino bianchi	2nen	
+tino buazzelli	19h2	
+tino carraro	317a	
+tino costa	40gr	
+tino lagator	69yw	
+tino lettieri	5nlv	
+tino nunez	5r8g	
+tino rossi	1ze9	
+tino scotti	tf6	
+tino semmer	63v7	
+trechus	2sv	
+trechus rivularis	2sv	
+vilna	11r	
+vilna lithuania	11r	
+washingtonpost	15fm	
+washingtonpost com	15fm	
+william fernando		3hvy:4
+william fernando da		3hvy:4
+william fernando da silva	3hvy	
+xiu xiu	1hii	
+xiu xiu band	1hii	
+xiu xiu for life the first 5 years	1hii	
+xiu xiu larsen	1hii	
+yizhak	1qs7	
+yizhak ben zvi	4i39	
+yizhak rabin	1gcj	
+ysyk kol oblasty	1voj	
+ysyk kol province	1voj	
+ysyk kol region	1voj	
+zarici	4db7	

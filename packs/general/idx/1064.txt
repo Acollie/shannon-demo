@@ -1,0 +1,494 @@
+197273		150d:4,15cj:4,191s:4,23a8:3,517r:2
+197273 bundesliga	23a8	
+197273 cypriot		150d:4,15cj:4,191s:4
+197273 cypriot cup	gi1	
+197273 cypriot first		150d:4
+197273 cypriot first division	150d	
+197273 cypriot second		15cj:4
+197273 cypriot second division	15cj	
+197273 cypriot third		191s:4
+197273 cypriot third division	191s	
+197273 ekstraklasa	517r	
+197273 fuball		23a8:3
+197273 fuball bundesliga	23a8	
+197273 fussball bundesliga	23a8	
+530s	28xs	2l89:2
+530s bc	2l89	
+530s bce	2l89	
+a dark		4cau:3
+a dark sky preserve	f0r	
+a dark truth	4cau	
+aerton senna	ajq	
+alexander mackenzie	44qt,5qw7	5kiw:6
+alexander mackenzie composer	5qw7	
+alexander mackenzie musician	5qw7	
+alexander mackenzie politician	44qt	
+alexander mackenzie stuart	5kiw	5kiw:6
+alexander mackenzie stuart baron		5kiw:6
+alexander mackenzie stuart baron mackenzie		5kiw:6
+alexander mackenzie stuart baron mackenzie stuart	5kiw	
+ameenah		6d0n:3
+ameenah firdaus gurib fakim	6d0n	
+ameenah gurib	6d0n	6d0n:3
+ameenah gurib fakim	6d0n	
+amending formula	6bsq	
+balamb garden	5v8o	
+bergenfield	20rh	
+bergenfield borough bergen county new jersey	20rh	
+bergenfield borough new jersey	20rh	
+bergenfield n j	20rh	
+bergenfield new jersey	20rh	
+bergenfield nj	20rh	
+bmonkey	3ivm	
+bobsleighat1988winterolympics	3rpl	
+bosphurus university	vvn	
+bothroyd	1w5y	
+boussois	3mey	
+boussois souchon neuvesel	sgl	
+breuningsweiler	24jx	
+brightwood indianapolis	qg	
+brightwood massachusetts	2t2	
+cammarata	2llp	
+castelfranci	5smf	
+cercyra city	k1i	
+cercyra island	7ow	
+chaiyaphum	v4h,3egl	
+chaiyaphum mueang chaiyaphum	3egl	
+chaiyaphum province	v4h	
+chaiyaphum province thailand	v4h	
+chaiyaphum town	3egl	
+chiat ura	50v7	
+chinatsu yoshikawa	1uiz	
+chrysobalanaceae	3qms	
+cj	3l37	
+cj barnes	2g5p	
+cj bruton	2wd4	
+cj cherre	jkj	
+cj cherryh	jkj	
+cj cregg	5rey	
+cj ducasse	3md9	
+cj e m	1l2d	
+cj e m film business division	7o0	
+cj e m film division	7o0	
+cj e m music	r2m	
+cj e m music and live	r2m	
+cj e m music content division	r2m	
+cj e m music performance division	r2m	
+cj e m pictures	7o0	
+cj enm		7o0:4,1l2d:4
+cj enm entertainment		1l2d:4
+cj enm entertainment division	1l2d	
+cj enm films		7o0:4
+cj enm films television	7o0	
+cj entertainment	7o0	
+cj grand theft auto	6h8w	
+cj johnson	6h8w	
+cj mac	61di	
+cj n	2vl	
+cj rhodes	4ghc	
+cj sapong	5sm9	
+cj seoul tower	6h6s	
+cj sturckow	3rso	
+cj wallace basketball	4pv2	
+cliffy b	5z4n	
+cliffy biro	o3y	
+cliffy bleszinski	5z4n	
+dange		2liw:3
+dange saint		2liw:3
+dange saint romain	2liw	
+dasybela	1n3	
+dominik		2ov4:2,3vpe:2,44ju:2,4722:3,4foz:2,4s7a:2,4wg6:2,5aep:3,5bqr:2,5r1i:2
+dominik duka	5bqr	
+dominik glavina	5r1i	
+dominik graf	2ov4	
+dominik hasek	3vpe	
+dominik hasek hockey player	3vpe	
+dominik hasek ice hockey	3vpe	
+dominik hashek	3vpe	
+dominik hieronim		4722:3
+dominik hieronim radziwi	4722	
+dominik hieronim radziwill	4722	
+dominik hofbauer	44ju	
+dominik jaroslav duka	5bqr	
+dominik nerz	4s7a	
+dominik schmidt	4wg6	
+dominik stroh		5aep:3
+dominik stroh engel	5aep	
+dominik werling	4foz	
+dorstenia	p2v	
+dorstenia arifolioa	p2v	
+dsph	4aad	
+elbflorenz	qs	
+epictectus	4c1e	
+ethiopic bible	qri	
+fabrateria nova	2ksz	
+fabrateria vetus	1iih	
+fc unirea		axd:3,36vn:3
+fc unirea 2006 alba iulia	gqa	
+fc unirea 2015 urziceni	axd	
+fc unirea alba iulia	gqa	
+fc unirea chiajna	axd	
+fc unirea dej	36vn	
+fc unirea urziceni	axd	
+fc unirea urziceni ii	axd	
+formulae	1u2v	
+formulae of gravity	lxu	
+frederick moore vinson	5ffq	
+fullers 1845	4htp	
+fullers brewery	4htp	
+fullers golden pride	4htp	
+fullers organic honey dew	4htp	
+funchal	6v6	
+funchal madeira	6v6	
+funchal madeira islands	6v6	
+fylke	3s8j	
+gasteroenterology	4ug	
+george benjamin	5llp	
+george benjamin composer	5llp	
+gmina lwowek	15b4	u5r:3
+gmina lwowek slaski	u5r	
+gmina stubno	4khf	
+gourbera	3w7k	
+goyencourt	31w4	
+graestorp municipality	3zp9	
+grevillia	3b9	
+grottaminarda	2axr	
+hawkes		4mqm:3
+hawkes bay	duy	4mqm:3
+hawkes bay new zealand	duy	
+hawkes bay region	duy	
+hawkes bay ru	4mqm	
+hawkes bay rugby football union	4mqm	
+hawkes bay rugby union	4mqm	
+hawkes bluff elementary school	2zt6	
+heraclite	461w	
+hfbk	1555	
+hfbk dresden	1555	
+hoang	6px	gkd:6
+hoang anh		gkd:6
+hoang anh gia		gkd:6
+hoang anh gia lai	gkd	gkd:6
+hoang anh gia lai club	gkd	
+hoang anh gia lai f		gkd:6
+hoang anh gia lai f c	gkd	
+hoang ho	rsm	
+hoang ngoc liem	601i	
+hoang surname	6px	
+holling	2fu2	
+holling moselle	2fu2	
+holoxan	4rr5	
+hongbo zhao	2u7h	
+james hemings	3f6e	
+james vanderbeek	1det	
+jargeau	12l3	
+jlk7e	4w3q	
+jobete	10b	
+jobete music	10b	
+john creach	3j96	
+jump5	59jr	
+kangshu feng	6eu6	
+keinohrhasen	2iq3	
+kilworthy ontario	61ji	
+knute		12qb:4,4vgq:2
+knute de nelson	4vgq	
+knute nelson	4vgq	
+knute rector	5teb	
+knute rockne		12qb:4
+knute rockne all		12qb:4
+knute rockne all american	12qb	
+konarovice	3o75	
+kvarner rijeka	377	
+landskrona	g2w	7yn:2,uq8:2
+landskrona b o i s	7yn	
+landskrona bois	7yn	
+landskrona boll och idrottssallskap	7yn	
+landskrona kommun	uq8	
+landskrona municipality	uq8	
+landskrona sweden	g2w	
+landycakes	1s0o	
+larjets	4thu	
+le tholy	1ja1	
+leee	198	
+lettere	2hqk	
+lettere di una novizia	4ojq	
+leuna	2tri	
+lissotesta	1s65	
+loray	3ro5	
+mac	c99,59rq	
+mac 10	2neo	
+mac ahlberg	obq	
+mac alejandre	4s2n	
+mac and		127o:3
+mac and me	127o	
+mac and rachel	3yr	
+mac and rachel cory	3yr	
+mac apple	c99	
+mac bundy	4w86	
+mac clelland	22bu	
+mac computer	c99	
+mac cozier	5bzq	
+mac davis	1t7s	
+mac davis improvement	1t7s	
+mac davis lyricist	1t7s	
+mac demarco	5ce3	
+mac donnell douglas	ujn	
+mac donnell douglas corp	ujn	
+mac donnell douglas dc 9 82	41xh	
+mac donnell douglas md 82	41xh	
+mac dre	18p2	
+mac e van valkenburg	5w3q	
+mac easmainn	4ihq	
+mac elliot	1387	
+mac family	c99	
+mac film	59rq	
+mac gyver	1h84	
+mac lane	14x0	
+mac lee green	yff	
+mac linebacker	l9	
+mac mahon	1hwo	
+mac mathias	4nss	
+mac mcdonald	5vj7	
+mac me	127o	
+mac miller	13b8	13b8:3
+mac miller songs	13b8	
+mac mohan	4f4c	
+mac murchaidh	8wa	
+mac n brad	11xb	
+mac n brad the first 48	11xb	
+mac operating		3jx:3
+mac operating system	3jx	
+mac operating system version history	3jx	
+mac os	qc,3jx	
+mac os 10	qc	
+mac os classic mac os	1kth	
+mac os history	3jx	
+mac os x	qc	
+mac os x iphone	mk	
+mac osx	qc	
+mac rebbenack	11n0	
+mac rebennack	11n0	
+mac roth	qlx	
+mac senate	3m0	
+mac sennett	3m0	
+mac sledge	167j	
+mac v wright	1t13	
+mac van		5w3q:3
+mac van valkenburg	5w3q	
+mac vaughn	1t13	
+mac wright	1t13	
+manois	3ldu	
+midler bette	clm	
+milon		3ggs:3
+milon la		3ggs:3
+milon la chapelle	3ggs	
+moletai		4xqb:3
+moletai district	4xqb	4xqb:3
+moletai district municipality	4xqb	
+nepavirus	3oj5	
+new caledonians	2t8	
+new clean government part	hmb	
+new clean government party	hmb	
+nipperdy	62b3	
+octavia		mwo:2,18as:3,1zkx:3,6a2f:2
+octavia 69 11 bc	1zkx	
+octavia ad 40 62	3t3k	
+octavia butler	18as	
+octavia e		18as:3
+octavia e butler	18as	
+octavia estelle butler	18as	
+octavia gens	6a2f	
+octavia l spencer	mwo	
+octavia lenora spencer	mwo	
+octavia minor	1zkx	
+octavia neronis	3t3k	
+octavia plant genus	5wyp	
+octavia spencer	mwo	
+octavia spencer filmography	mwo	
+octavia the		1zkx:3
+octavia the younger	1zkx	
+octavia thurina minor	1zkx	
+orvaux	3tik	
+parade	qj2	19ob:4,1lld:2
+parade en		19ob:4
+parade en sept		19ob:4
+parade en sept nuits	19ob	
+parade of nations	4ak9	
+pashondale	1k8g	
+persiraja	1zt4	1zt4:3
+persiraja aceh	1zt4	
+persiraja banda	1zt4	1zt4:3
+persiraja banda aceh	1zt4	
+peter sylvester bosz	3e4o	
+plasne	2tg1	
+poolhall		4dng:2
+poolhall junkies	4dng	
+prenom	13l	
+prenom carmen	4dfu	
+prince	4lc,537,rzw,1t2d,6f11,6gdl	6hw:2,7ej:3,8p9:3,dbl:4,drb:3,ei1:2,g2q:6,g4z:7,ira:3,lom:2,my2:5,nmf:5,o55:7,ofz:6,oqb:5,qmy:2,smd:7,sp9:4,syx:5,txa:7,tyw:5,v1x:7,vay:5,vlz:7,w9h:5,wey:4,wx9:4,x4p:6,xz5:5,y1s:5,yl7:2,yrd:6,yv9:6,z0b:7,znl:5,znr:4,zrc:5,10jg:5,10jv:5,10xc:5,10yk:7,1131:2,1154:5,115q:2,117d:7,119c:6,11pk:5,12c0:8,12d5:6,13co:2
+princess nora	69z9	69z9:5
+princess nora marchioness		69z9:5
+princess nora marchioness of		69z9:5
+princess nora marchioness of marino	69z9	
+princess nora of liechtenstein	69z9	
+princess teresa countess of flanders	2opj	
+princess teresa of the two sicilies	uat	
+princess wilhelmina		1zo8:5,3zjt:5
+princess wilhelmina amalia of brunswick luneburg	4r42	
+princess wilhelmina caroline		1zo8:5
+princess wilhelmina caroline of		1zo8:5
+princess wilhelmina caroline of denmark	1zo8	
+princess wilhelmina caroline of denmark and norway	1zo8	
+princess wilhelmina ernestine of denmark	25n4	
+princess wilhelmina of		3zjt:5
+princess wilhelmina of hesse		3zjt:5
+princess wilhelmina of hesse kassel	3zjt	
+princess wilhelmina of prussia 1751 1820	22o3	
+princess wilhelmina of prussia 17511820	22o3	
+princess wilhelmina of the netherlands	ukn	
+quinilon	ds6	
+raguse	4mk	
+razem tworzymy przyszosc	2r8	
+reithianism	3g62	
+repki	tuc	
+repki commune	tuc	
+rhaezuens	3ml7	
+rhaezuens gr	3ml7	
+rhaezuens grisons	3ml7	
+rheinland palatinate	1q5	
+rheinland pfalz	1q5	
+rheinland pfalz state germany	1q5	
+rhenish		3l5k:2
+rhenish confederation	mps	
+rhenish county palatine	5nfh	
+rhenish massif	3l5k	
+rhenish palatine	1q5	
+rhenish prussia	36z8	
+rhenish schiefergebirge	3l5k	
+rhenish slate mountains	3l5k	
+rhenish slate range	3l5k	
+rhyolites	3e0c	
+ritmo		22rb:5,64nh:4
+ritmo nuevo		22rb:5
+ritmo nuevo y		22rb:5
+ritmo nuevo y vieja		22rb:5
+ritmo nuevo y vieja ola	22rb	
+ritmo sal		64nh:4
+ritmo sal y		64nh:4
+ritmo sal y pimienta	64nh	
+rosenergoatom	3wzi	
+rupela	18ve	
+saa fleet	608y	
+sagya	5h98	
+seengen	1ion	
+seengen aargau	1ion	
+seengen ag	1ion	
+seengen switzerland	1ion	
+senra template east cambridgeshire	q7p	
+sokoy commune	mov	
+ssgt barry sadler	4vn2	
+st zeno	663a	
+st zeno of verona	663a	
+straengnaes municipality	p3l	
+suad		3pth:2,3sx6:2
+suad besirevic	3sx6	
+suad filekovic	3pth	
+suad hosni	37q1	
+suad husni	37q1	
+suad katana	58b9	
+sympistis	dod	
+tahsin		4xb8:2
+tahsin ozguc	4xb8	
+tahsin ozguec	4xb8	
+teaterhogskolan	kxy	
+teaterhogskolan i stockholm	kxy	
+the catcher		6g5w:5
+the catcher and the rye	6g5w	
+the catcher in		6g5w:5
+the catcher in the		6g5w:5
+the catcher in the rye	6g5w	
+the catcher in the rye comments	6g5w	
+the muscles from brussels	fo1	
+the nats	5ia	
+the pipe organs of blenheim palace	2o4r	
+the rachael papers	4epc	
+the ville	zh	
+thiruvananthapadmanabhapuram	2od	
+thuycidides	5cbb	
+tongatabu	1eg0	
+toujours et encore	1hw1	
+troubadour	4pw	
+troubadour lyric	4pw	
+troubadour poetry	4pw	
+tsrong tsong gompo	5dgo	
+tupiguarani	44t8	
+tupiguarani language	44t8	
+tupiguarani languages	44t8	
+uetliberg		4uau:4
+uetliberg railway	4uau	4uau:4
+uetliberg railway line	4uau	4uau:4
+uetliberg railway line s10	4uau	
+ugetsu	2f5p	
+ugetsu film	2f5p	
+ugetsu monogatari film	2f5p	
+ulyses		63g5:4
+ulyses petit		63g5:4
+ulyses petit de		63g5:4
+ulyses petit de murat	63g5	
+valec	3kve,49aa	
+valec karlovy vary district	3kve	
+valec trebic district	49aa	
+virviescas	3692	
+walton	55oz	c1a:2,j1o:4,nt8:3,15fs:2,1qqf:3,361v:4,36hv:2
+walton a albright jr	3n8k	
+walton algernon albright	3n8k	
+walton algernon albright jr	3n8k	
+walton and hersham	j1o	
+walton and hersham f c	j1o	
+walton and hersham fc	j1o	
+walton casuals	361v	361v:4
+walton casuals f		361v:4
+walton casuals f c	361v	
+walton casuals fc	361v	
+walton casuals football club	361v	
+walton county	36hv	
+walton county ga	36hv	
+walton county georgia	36hv	
+walton f c	j1o	
+walton fc	j1o	
+walton general hospital	55oz	
+walton goggins	15fs	
+walton h		1qqf:3
+walton h walker	1qqf	
+walton harris walker	1qqf	
+walton hersham	j1o	j1o:4
+walton hersham f		j1o:4
+walton hersham f c	j1o	
+walton hersham fc	j1o	
+walton hersham football club	j1o	
+walton hop	nt8	
+walton lancashire	55oz	
+walton liverpool	55oz	
+walton liverpool ward	55oz	
+walton merseyside	55oz	
+walton on		nt8:3
+walton on thames	nt8	
+walton on the hill	55oz	
+walton on the hill lancashire	55oz	
+walton road hospital	55oz	
+walton road stadium	5yjo	
+walton s five and dime	a62	
+walton s mountain	2x31	
+walton s mountain va	2x31	
+walton s mountain virginia	2x31	
+walton sanders goggins jr	15fs	
+walton simons	3b0w	
+walton st mary	154x	
+walton studios	c1a	
+walton upon thames	nt8	
+walton walker	1qqf	
+walton william	1cti	
+wanchai district	1jsd	
+william ludwig	25ue	
+wisznia maa commune	250x	
+wisznia mala commune	250x	
+woolahra	1j25	

@@ -1,0 +1,582 @@
+2r 3r 4s 5r 6r 2 2s 3s 4r 5r 3 4 dihydroxy 2 5 bis hydroxymethyl oxolan 2 yl oxy 6 hydroxymethyl oxane 3 4 5 triol	2upr	
+2r 3r 4s 5r 6r 2 2s 3s 4r 5r 3 4 dihydroxy 2 5 bis hydroxymethyl tetrahydrofuran 2 yl oxy 6 hydroxymethyl tetrahydropyran 3 4 5 triol	2upr	
+2r 3r 4s 5r 6r 2 2s 3s 4r 5r 3 4 dihydroxy 2 5 dimethylol tetrahydrofuran 2 yl oxy 6 methylol tetrahydropyran 3 4 5 triol	2upr	
+2r 3r 4s 5s 6r 2 2s 3s 4s 5r 3 4 dihydroxy 2 5 bis hydroxymethyl oxolan 2 yl oxy 6 hydroxymethyl oxane 3 4 5 triol	2upr	
+a minor	att,6fut	
+a minor consideration	4xyx	
+africaans	84e	
+agdam	2vet	
+agdam agdam	2vet	
+alexander adabashyan	4obx	
+ancora dollari per i macgregor	4t1m	
+aps	4mmi	
+aps atromitos athinon	6vh	
+aps medal for exceptional achievement in research	2l5	
+aps news	2l5	
+aps physics	2l5	
+aps zakynthos	1g40	
+argentre	2q9g	19op:3
+argentre du		19op:3
+argentre du plessis	19op	
+arthun	2vgw	
+ashols melu	53ll	
+asoa		gmg:2
+asoa valence	gmg	
+asymphorodes	f0g	
+austriaczka anna	13uy	
+autopista panamericana	3t7j	
+bazeljette	53fy	
+beba		1fu6:2,2eo4:2
+beba bidart	2eo4	
+beba loncar	1fu6	
+beba longar	1fu6	
+bessarion	34go	
+bessarion of nicaea	34go	
+bethania maria	5343	
+bouge		27p2:2
+bouge chambalud	27p2	
+bread	4e4,1prd,2qs7	1ago:4,1avy:3,1e7b:3,1qce:4,38bu:2,4b9o:3,4ibd:4,55fg:3,5ef5:3,5p26:3
+bread and		1avy:3,1e7b:3,4b9o:3,55fg:3,5ef5:3
+bread and butter plate	6feb	
+bread and chocolate	1avy	
+bread and circuses	4b9o	
+bread and circuses star trek	4b9o	
+bread and circuses star trek the original series	4b9o	
+bread and circuses tos episode	4b9o	
+bread and jam for frances children s book	1pp1	
+bread and roses	1e7b,5ef5	
+bread and roses 1967 film	5ef5	
+bread and roses 2000 film	1e7b	
+bread and roses magazine	1vhj	
+bread and tulips	55fg	
+bread baker	tr9	
+bread band	2qs7	
+bread circus store	5a6o	
+bread doc	4e4	
+bread dumpling	n9x	
+bread flour	3uk	
+bread group	2qs7	
+bread ka halwa	6ew3	
+bread love		1ago:4,1qce:4,4ibd:4
+bread love and		1ago:4,1qce:4,4ibd:4
+bread love and andalucia	4ibd	
+bread love and andalusia	4ibd	
+bread love and dreams	1qce	
+bread love and jealousy	1ago	
+bread making	4e4	
+bread of		5p26:3
+bread of happiness	5p26	
+bread of those early years	5jo6	5jo6:6
+bread palm	je0	
+bread peddler		4fcv:3,4yvb:3
+bread riots	auk	
+bread roll	38bu	
+bread rolls	38bu	
+bread round	4e4	
+bread television series	1prd	
+bread tree	je0	
+bread tv series	1prd	
+bread yeast	6c7g	
+bromley	7kw	8hu:3
+bromley borough	4m3	
+bromley bromley	7kw	
+bromley bromley london england	7kw	
+bromley england	7kw	
+bromley f		8hu:3
+bromley f c	8hu	
+bromley fc	8hu	
+bromley football club	8hu	
+bromley greater london	7kw	
+bromley kent	cqv	
+bromley london	7kw	
+bromley london borough	4m3	
+bromley london england	7kw	
+bromley news shopper	nyh	
+bromley pensnett primary school	1owa	
+bromley town london	7kw	
+cache	19mn	vgt:2
+cache 2005 film	19mn	
+cache county	vgt	
+cache county ut	vgt	
+cache county utah	vgt	
+cache film	19mn	
+cache hidden	19mn	
+cache movie	19mn	
+cache ut	vgt	
+cameroon	lk	3bj:6,nn9:6,1i64:6,1lae:7,4ldc:6,53ev:2,6cp4:5
+cameroon football team	3bj	
+cameroon german colony	1ngs	
+cameroon line	53ev	
+cameroon lions	3bj	
+cameroon men		3bj:6
+cameroon men s		3bj:6
+cameroon men s national		3bj:6
+cameroon men s national football		3bj:6
+cameroon men s national football team	3bj	
+cameroon national		nn9:6,1i64:6,4ldc:6
+cameroon national football team	3bj	
+cameroon national football team kits	3bj	
+cameroon national under		nn9:6,1i64:6,4ldc:6
+cameroon national under 17		4ldc:6
+cameroon national under 17 football		4ldc:6
+cameroon national under 17 football team	4ldc	
+cameroon national under 18 football team	4ldc	
+cameroon national under 20		nn9:6
+cameroon national under 20 football		nn9:6
+cameroon national under 20 football team	nn9	
+cameroon national under 23		1i64:6
+cameroon national under 23 football		1i64:6
+cameroon national under 23 football team	1i64	
+cameroon national union	6cp4	
+cameroon people		6cp4:5
+cameroon people s		6cp4:5
+cameroon people s democratic		6cp4:5
+cameroon people s democratic movement	6cp4	
+cameroon peoples democratic movement	6cp4	
+cameroon premiere division	dbe	
+cameroon u20 national football team	nn9	
+cameroon volcanic line	53ev	
+cameroon women		1lae:7
+cameroon women s		1lae:7
+cameroon women s national		1lae:7
+cameroon women s national association		1lae:7
+cameroon women s national association football		1lae:7
+cameroon women s national association football team	1lae	
+cameroon women s national football team	1lae	
+carine		5bus:2
+carine roitfeld	5bus	
+carisio	3ks3	
+cebazan	1mi7	
+chargaff erwin	37gi	
+chieve	4bx1	
+chieve italy	4bx1	
+chomolangma	h5z	
+ciribiribin album	waa	
+controposto	tf9	
+cricoceris	5d0	
+curacoa	6b5	
+cyrtogramme	xy5	
+duckbill dinosaur	yr1	
+dvx band	two	
+eleuter	3mda	
+erlenmeyer flask deformity	16ld	
+faroee islands	1x8	
+fc astoria		5asp:3
+fc astoria walldorf	5asp	
+fc astoria walldorf ii	5asp	
+felner	5fi1	
+formaldehyde releasing agent induced contact dermatitis	6f1f	
+frassineto	47pt	47pt:2
+frassineto po	47pt	
+gmina kadzido	1k0w	
+gyeongbokgung	5eip	
+gyeongbokgung palace	5eip	
+hadarom	1h9r	
+hadarom district	1h9r	
+hilario	5apt	
+hilario marrero	4mht	
+hilario silva	5apt	
+homeldange	19t4	
+hujand	n70	
+i figli		2i52:4,38be:4
+i figli del		38be:4
+i figli del leopardo	38be	
+i figli del marchese lucera	3cqq	
+i figli di		2i52:4
+i figli di nessuno	2i52	
+ikhnatun	oga	
+inborn amino acid metabolism disorder	1o8r	
+inborn carbohydrate metabolism disorder	5oto	
+inborn error of metabolism	1o8r	
+inborn errors of carbohydrate metabolism	5oto	
+inborn errors of metabolism	1o8r	
+inborn lysosomal enzyme disorder	6581	
+inborn metabolic disorder	1o8r	
+inborn metabolism disorder	1o8r	
+irreducible representation theory	69q4	
+isser		4uwz:2
+isser halperin	4uwz	
+isser harel	4uwz	
+isser maria	55ht	
+james farantino	189x	
+james mitchell	2jze,5hxr,62cb	
+james mitchell actor	2jze	
+james mitchell athlete	3lo8	
+james mitchell athletics	3lo8	
+james mitchell collins	64yc	
+james mitchell english footballer	5hxr	
+james mitchell footballer born 1897	5hxr	
+james mitchell jim collins	64yc	
+james mitchell writer	62cb	
+james sa corey	5k3s	
+javurek	2x6t	
+jewlach	4y12	
+johnnyjr drafthelioastro	2at3	
+karthik	bku	rqx:2,20dm:3,6b9y:2
+karthik actor	bku	
+karthik bala guha bala	uum	
+karthik kumar	6b9y	
+karthik muthuraman	bku	
+karthik raja	rqx	
+karthik siva		20dm:3
+karthik siva kumar	20dm	
+karthik sivakumar	20dm	
+katsulas	38hd	
+khomeini	1h71	
+kustanaisk	16u4	
+la nouaye	3irp	
+lamaseries	wy	
+langenhagen	19l0	
+leontis	12bs	
+llyswen altoona pennsylvania	a1y	
+mahlzow	r1t	
+mayism	y1x	
+mcmlxxiii	zl2	
+menassel nasser	4zab	
+menmaatre seti i	4q28	
+miglianico	3s5n	
+mookie		6cev:2
+mookie betts	6cev	
+mookie blaylock	7wg	
+mookie watkins	4qqt	
+mykanow commune	nsx	
+nanasipau u tuku aho	6c59	
+nannerl	55jl	
+nannerl mozart	55jl	
+narrative	h4x	anu:2,4uoq:2
+narrative arc	m37	
+narrative causality	1jyx	
+narrative device	16iq	
+narrative element	6c5s	
+narrative film	h6d	
+narrative modes	h4x	
+narrative movie	h6d	
+narrative poem	anu	
+narrative poems	anu	
+narrative poetry	anu	
+narrative verse	anu	
+narrative writer	h4x	
+nases	2w5w	
+national aeronautics		1ka:5
+national aeronautics and		1ka:5
+national aeronautics and space		1ka:5
+national aeronautics and space administration	1ka	
+national aeronautics space administration	1ka	
+nichele nichols	1tle	
+nyctimene	52dt	
+nyctimene genus	52dt	
+oazis yartsevo	5oiw	
+oblasts	4yig	
+oblasts of bulgaria	1n19	
+oblasts of kazakhstan	5dt8	
+oblasts of russia	rcg	
+oblasts of the russian empire	6f8l	
+oblasts of the russian federation	rcg	
+oblasts of the soviet union	2azz	
+oblasts of ukraine	2d2s	
+ontologic	39ns	
+otokowa tsuraiyo	lus	
+paha maa	23pk	
+paha sapa	17jm	
+parasitic		11o6:4,33uy:4
+parasitic animal	2orr	
+parasitic catfish	5759	
+parasitic disorder	2orr	
+parasitic fungus	1w3v	
+parasitic helminthiasis		11o6:4
+parasitic helminthiasis infectious		11o6:4
+parasitic helminthiasis infectious disease	11o6	
+parasitic protozoa		33uy:4
+parasitic protozoa infectious		33uy:4
+parasitic protozoa infectious disease	33uy	
+parasitic worm infection	11o6	
+parastagmatophora	2n0x	
+paul esser	14b2	
+pelplin commune	u3z	
+peotr kapitsa	myn	
+peotr nikolayevich wrangel	3nad	
+planter plantation owner	1rs	
+planter s wife	4z72	4z72:4
+poland	m	1qr:6,72q:6,a05:6,bgj:6,fk8:6,i52:6,y68:6,2oql:4,2tq2:3,2v51:6,45ku:4,5ad3:6
+poland 2014	1dh7	
+poland and lithuania	5g9	
+poland armed forces	1rrw	
+poland comes		2tq2:3
+poland comes first	2tq2	
+poland cross of merit	3z66	
+poland fc	1qr	
+poland i liga	9xg	
+poland ii liga	q6e	
+poland iii liga	vqs	
+poland in		2v51:6
+poland in eurovision	2v51	
+poland in eurovision song contest	2v51	
+poland in the		2v51:6
+poland in the eurovision		2v51:6
+poland in the eurovision song		2v51:6
+poland in the eurovision song contest	2v51	
+poland in the eurovision song contest 2019	2v51	
+poland is the most important	2tq2	
+poland men		1qr:6
+poland men s		1qr:6
+poland men s national		1qr:6
+poland men s national football		1qr:6
+poland men s national football team	1qr	
+poland men s national under 18 soccer team	i52	
+poland military	1rrw	
+poland national		72q:6,a05:6,bgj:6,fk8:6,i52:6,y68:6,2oql:4
+poland national football team	1qr	
+poland national football under 16 team	y68	
+poland national football under 17 team	fk8	
+poland national football under 18 team	i52	
+poland national football under 19 team	a05	
+poland national soccer team	1qr	
+poland national speedway		2oql:4
+poland national speedway team	2oql	
+poland national u 17 football team	fk8	
+poland national u 18 football team	i52	
+poland national u 19 football team	a05	
+poland national u 20 football team	bgj	
+poland national under		72q:6,a05:6,bgj:6,fk8:6,i52:6,y68:6
+poland national under 16		y68:6
+poland national under 16 football		y68:6
+poland national under 16 football team	y68	
+poland national under 17		fk8:6
+poland national under 17 football		fk8:6
+poland national under 17 football team	fk8	
+poland national under 18		i52:6
+poland national under 18 football		i52:6
+poland national under 18 football team	i52	
+poland national under 19		a05:6
+poland national under 19 football		a05:6
+poland national under 19 football team	a05	
+poland national under 20		bgj:6
+poland national under 20 football		bgj:6
+poland national under 20 football team	bgj	
+poland national under 21		72q:6
+poland national under 21 football		72q:6
+poland national under 21 football team	72q	
+poland olympic		45ku:4
+poland olympic football		45ku:4
+poland olympic football team	45ku	
+poland people s republic	iq6	
+poland prime minister	p8v	
+poland s new potato	14aq	
+poland saxony	13ks	
+poland soccer	1qr	
+poland speedway team	2oql	
+poland stock exchange	hfk	
+poland u 16 national football team	fk8	
+poland u 17 national football team	fk8	
+poland u 18 national football team	i52	
+poland u 19 national football team	a05	
+poland u 20 national football team	bgj	
+poland u 21	72q	
+poland u 21 national football team	72q	
+poland under 21 national football team	72q	
+poland women		5ad3:6
+poland women s		5ad3:6
+poland women s national		5ad3:6
+poland women s national football		5ad3:6
+poland women s national football team	5ad3	
+poltical science	444	
+prepulsid	edu	
+puffin		d7k:2
+puffin books	d7k	
+puffin post	d7k	
+remarque	r59	
+restpolen	1nxa	
+richard brautigan	10ga	
+richard bull	475n	
+richard bull actor	475n	
+richthofen ferdinand baron von	1fv4	
+richthofen manfred freiherr von	3i9n	
+robert venables vernon harcourt	62gh	
+roddi	4p1n	
+rother	k7y	
+rother district	k7y	
+rother district council	k7y	
+rother michael	2n58	
+rudjer boscovich	1d5j	
+rudjer boskovic	1d5j	
+rudjer joseph boscovich	1d5j	
+rudjer josip boscovich	1d5j	
+rudjer josip boskovic	1d5j	
+rybnick	eu0	
+sabine	8uo,6cgd	q8p:2,2eyz:2,2fqs:3,314y:2,3cfq:3,40sy:2,4sm7:2,4urq:2,4xhk:2,53gq:2,5onx:2,6b33:3
+sabine azema	q8p	
+sabine azima	q8p	
+sabine baetzing	3cfq	
+sabine batzing	3cfq	3cfq:3
+sabine batzing lichtenthaler	3cfq	
+sabine bergmann		6b33:3
+sabine bergmann pohl	6b33	
+sabine bethmann	5onx	
+sabine first name	8uo	
+sabine given name	8uo	
+sabine haudepin	40sy	
+sabine leutheusser	2fqs	2fqs:3
+sabine leutheusser schnarrenberger	2fqs	
+sabine lisicki	2eyz	
+sabine liziki	2eyz	
+sabine of ansbach	mb4	
+sabine of bavaria	1153	
+sabine of bavaria munich	1153	
+sabine of wurttemberg	1z3k	
+sabine peters	4urq	
+sabine schnarrenberger	2fqs	
+sabine sinjen	4sm7	
+sabine sun	314y	
+sabine surname	6cgd	
+sabine thalbach	53gq	
+sabine voelker	4xhk	
+sabine volker	4xhk	
+sacred		bbz:2,c2b:4,xwi:3,1sgx:4,2c2n:2,30bg:2,4e27:4,4ql4:2,556s:2,5edw:3,61he:2,6djv:2
+sacred 2	4e27	4e27:4
+sacred 2 fallen		4e27:4
+sacred 2 fallen angel	4e27	
+sacred 2 video game	4e27	
+sacred apostolic palace	ogd	
+sacred architecture	bbz	
+sacred art	s9i	
+sacred bones	5edw	5edw:3
+sacred bones records	5edw	
+sacred building	bbz	
+sacred buildings	bbz	
+sacred cave	1cp	
+sacred city	19rr	
+sacred city of anuradhapura	1i7r	
+sacred city of kandy	98g	
+sacred conclave	fdn	
+sacred conversation	kvx	
+sacred conversation bellini venice	5pjy	
+sacred feminine	55s	
+sacred geese of juno	20j8	
+sacred ground	556s	
+sacred ground star trek voyager	556s	
+sacred ground voyager episode	556s	
+sacred heart	4ql4,6djv	c2b:4,xwi:3,1sgx:4
+sacred heart college		c2b:4
+sacred heart college auckland	c2b	
+sacred heart college belmont nc	291o	
+sacred heart college michigan	1sgx	
+sacred heart convent	o9b	
+sacred heart hospital fictitious	e35	
+sacred heart hospital scrubs	e35	
+sacred heart major		1sgx:4
+sacred heart major seminary	1sgx	
+sacred heart of jesus	6djv	
+sacred heart of jesus devotion to the	6djv	
+sacred heart pioneers bowling	xwi	
+sacred heart pioneers men s lacrosse	xwi	
+sacred heart pioneers softball	xwi	
+sacred heart seminary	1sgx	
+sacred heart university	xwi	
+sacred heart university men s ice hockey	xwi	
+sacred heart weymouth	heq	
+sacred ii	4e27	
+sacred lie	5ys2	
+sacred monastery of the god trodden mount sinai	5idx	
+sacred music	12gu	
+sacred palace	ogd	
+sacred place	19rr	
+sacred places	19rr	
+sacred rite	uk0	
+sacred scripture	507	
+sacred site	19rr	
+sacred sites	19rr	
+sacred song	12gu	
+sacred star of milos	1ysk	
+sacred tafsir	hmf	
+sacred tapestry	5el7	
+sacred text	507	
+sacred waters	2c2n,30bg	
+sacred waters 1932 film	2c2n	
+sacred waters 1960 film	30bg	
+sacred woods	61he	
+sacred writings	507	
+salorno	12dw	12dw:5
+salorno sulla		12dw:5
+salorno sulla strada		12dw:5
+salorno sulla strada del		12dw:5
+salorno sulla strada del vino	12dw	
+sangapeddi district	vsg	
+schellebelle	4sdv	
+scos	99q	
+seitoku in	1u9k	
+seth4404 final	6fro	
+sharbani		69qd:2
+sharbani mukherjee	69qd	
+sharbani mukherji	69qd	
+skrinsky alexander	5a0f	
+smetanova		38sj:2
+smetanova lhota	38sj	
+solterre	3vyf	
+sur	2ky0,2uxk,4nc9,5emj	
+sur club	1b29	
+sur de la florida	dbz	
+sur film	2ky0	
+sur football club	1b29	
+sur gr	4nc9	
+sur graubuenden	4nc9	
+sur graubunden	4nc9	
+sur grisons	4nc9	
+sur la		28j1:5
+sur la piste		28j1:5
+sur la piste du		28j1:5
+sur la piste du marsupilami	28j1	
+sur la terre	18cd	
+sur lebanon	lxb	
+sur marrati	q95	
+sur mes levres	3os6	
+sur name	1h	
+sur oman	5emj	
+sur sc	1b29	
+sur sourire	4kv5	
+sur sports club	1b29	
+sur switzerland	4nc9	
+sur un arbre perche	2vtf	
+thaw		3rdq:2,5ky5:2
+the idolm ster	5ix9	
+the idolm ster live in slot	5ix9	
+the idolm ster movie kagayaki no mukogawa e	311n	
+touques	2gw2	
+touques calvados	2gw2	
+trabzonspor	41p,64m0	2fn3:2
+trabzonspor a s	41p	
+trabzonspor b k	2fn3	
+trabzonspor basketball	2fn3	
+trabzonspor basketbol kulubu dernegi	2fn3	
+trabzonspor basketbol takm	2fn3	
+trabzonspor bk	2fn3	
+trabzonspor dergisi	41p	
+trabzonspor football club	41p	
+trabzonspor medical park	2fn3	
+trabzonspor women	64m0	
+transnistria	6uv	
+transnistria autonomous region of moldova	cf7	
+transnistria autonomous territorial unit	cf7	
+transnistria autonomous territorial unit with special legal status	cf7	
+ulanqab	1hec	
+ulanqab inner mongolia	1hec	
+ulanqab prefecture	1hec	
+usanif	6hqm	
+usanif u s army northern ireland forces	6hqm	
+uzice	8de,20ze,2utz	
+uzice kutna hora	2utz	
+uzice kutna hora district	2utz	
+uzice melnik	20ze	
+uzice melnik district	20ze	
+uzice municipality	8de	
+varmus	2h4d	
+viren	24dl	
+waibop united	1k3v	
+wimbourne	mru	
+wimbourne railway station	mru	
+wimbourne town	4r0r	
+withymoor primary school	1owa	
+yowe	11lz	
+yuryaku	5v8t	
+yuryaku emperor	5v8t	
+yuryaku tenno	5v8t	
+zhetysu taldykorgan	91h	

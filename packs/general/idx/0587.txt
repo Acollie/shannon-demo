@@ -1,0 +1,648 @@
+2004	ccc	4x:3,18d:3,1jj:4,3k6:5,avd:4,19ai:7,1zub:2,211o:5,21gt:3,2mb8:4,2p5y:5,2vgo:4,3ov3:3,44x6:6,4pzd:3,4wuu:5,54jv:3,5eg5:6,5fgq:4,5ssm:6,6fb0:5
+2004 05		avd:4
+2004 05 bundesliga	203h	
+2004 05 cypriot		avd:4
+2004 05 cypriot cup	avd	
+2004 05 cypriot first division	wo5	
+2004 05 cypriot fourth division	1b9p	
+2004 05 cypriot second division	ydn	
+2004 05 cypriot third division	11a0	
+2004 05 ekstraklasa	3uyi	
+2004 05 fuball bundesliga	203h	
+2004 05 fussball bundesliga	203h	
+2004 05 national basketball association season	6h6p	
+2004 05 nba season	6h6p	
+2004 2005 nba season	6h6p	
+2004 a light knight s odyssey	3roo	
+2004 africa cup of nations	3k6	
+2004 african		3k6:5
+2004 african cup		3k6:5
+2004 african cup of		3k6:5
+2004 african cup of nations	3k6	
+2004 african nations cup	3k6	
+2004 ahs	5fgq	
+2004 american election	6fb0	
+2004 athens games	4x	
+2004 athens olympic games	4x	
+2004 athens olympics	4x	
+2004 athens paralympic games	18d	
+2004 athens paralympics	18d	
+2004 athens summer olympics	4x	
+2004 atlantic		5fgq:4
+2004 atlantic hurricane		5fgq:4
+2004 atlantic hurricane season	5fgq	
+2004 atlantic hurricane season named storms	5fgq	
+2004 australian		3ov3:3
+2004 australian open	3ov3	
+2004 bank		5eg5:6
+2004 bank of		5eg5:6
+2004 bank of the		5eg5:6
+2004 bank of the west		5eg5:6
+2004 bank of the west classic	5eg5	
+2004 chess olympiad	1ksz	
+2004 european championships	2s1	
+2004 european football championship	2s1	
+2004 european football championship results	2s1	
+2004 european football championship tournament details	2s1	
+2004 eurovision song contest	a6h	
+2004 f1 season	2p5y	
+2004 fia formula one world championship	2p5y	
+2004 ford world curling championships	jj8	
+2004 formula		2p5y:5
+2004 formula 1 season	2p5y	
+2004 formula one		2p5y:5
+2004 formula one season	2p5y	
+2004 formula one world		2p5y:5
+2004 formula one world championship	2p5y	
+2004 french		4pzd:3
+2004 french open	4pzd	
+2004 french open tennis	4pzd	
+2004 german		1jj:4
+2004 german presidential		1jj:4
+2004 german presidential election	1jj	
+2004 grand prix de denain	46r5	
+2004 hugo award for best dramatic presentation short form	7ln	
+2004 iaaf		211o:5
+2004 iaaf world		211o:5
+2004 iaaf world indoor		211o:5
+2004 iaaf world indoor championships	211o	
+2004 iaaf world indoor championships in athletics	211o	
+2004 ii	mx6	
+2004 krakozhia coup d etat	11zb	
+2004 masters	1zub	
+2004 masters snooker	1zub	
+2004 may caribbean floods	5ecn	
+2004 mercury music prize	1ba4	
+2004 olympic	4x	
+2004 olympic game	4x	
+2004 olympic games	4x	
+2004 olympics	4x	
+2004 paralympic games	18d	
+2004 paralympics	18d	
+2004 presidential election united states	6fb0	
+2004 retro hugo award for best novel	6jm	
+2004 roland garros	4pzd	
+2004 russian		2vgo:4
+2004 russian premier		2vgo:4
+2004 russian premier league	2vgo	
+2004 summer		4x:3,18d:3
+2004 summer olympic games	4x	
+2004 summer olympics	4x	
+2004 summer olympics games	4x	
+2004 summer paralympic games	18d	
+2004 summer paralympics	18d	
+2004 super bowl	6gti	
+2004 superbowl	6gti	
+2004 tennis at the summer olympics	1a1y	
+2004 tour		2mb8:4,44x6:6
+2004 tour de		2mb8:4
+2004 tour de france	2mb8	
+2004 tour of		44x6:6
+2004 tour of flanders		44x6:6
+2004 tour of flanders for		44x6:6
+2004 tour of flanders for women	44x6	
+2004 u s election	6fb0	
+2004 u s presidential election	6fb0	
+2004 uci		4wuu:5
+2004 uci road		4wuu:5
+2004 uci road world		4wuu:5
+2004 uci road world championships	4wuu	
+2004 uefa euro	2s1	
+2004 uefa european championship	2s1	
+2004 uefa european football championship	2s1	
+2004 united		6fb0:5
+2004 united states		6fb0:5
+2004 united states presidential		6fb0:5
+2004 united states presidential election	6fb0	
+2004 us presidential campaign	6fb0	
+2004 us presidential election	6fb0	
+2004 wimbledon	54jv	54jv:3
+2004 wimbledon championships	54jv	
+2004 world		19ai:7,5ssm:6
+2004 world allround		5ssm:6
+2004 world allround speed		5ssm:6
+2004 world allround speed skating		5ssm:6
+2004 world allround speed skating championships	5ssm	
+2004 world indoor championships in athletics	211o	
+2004 world single		19ai:7
+2004 world single distance		19ai:7
+2004 world single distance speed		19ai:7
+2004 world single distance speed skating		19ai:7
+2004 world single distance speed skating championships	19ai	
+2004 wta		21gt:3
+2004 wta tier i tournaments	21gt	
+2004 wta tier ii tournaments	21gt	
+2004 wta tier iii tournaments	21gt	
+2004 wta tier iv tournaments	21gt	
+2004 wta tier v tournaments	21gt	
+2004 wta tour	21gt	
+a vivaldi	j2i	
+aase kleveland	4uit	
+aase madsen	3n64	
+abdoulrazak boukari	4otv	
+abdoulrazak traore	3x9s	
+abdylas		4y1m:2
+abdylas maldybaev	4y1m	
+aichin	qwa	
+amana	16ad	
+america	4js,pvn,58on,6b0c	49q:3,4js:3,5dj:3,5ze:3,9t0:3,bmb:6,16m0:2,1a67:5,1ept:2,1rav:3,2dng:2,2lzs:2,2usn:4,33bp:2,35yw:4,45cu:3,620e:3,69zc:3,6eyi:3,6hhx:3
+america 12	18kw	
+america a citizen s guide to democracy inaction	6b0c	
+america america	1ept	
+america america book	1ept	
+america aruba	74a	
+america athletic conference	18kw	
+america award		35yw:4
+america award in		35yw:4
+america award in literature	35yw	
+america awards prize	35yw	
+america band	pvn	
+america band comments	pvn	
+america book	6b0c	
+america brazil	1k48	
+america brazilian tv series	58on	
+america cali	49q	
+america central	1e2g	
+america cochahuayco	5z20	
+america continent	15m	
+america cordillera	y26	
+america cup	6eyi	
+america de		49q:3
+america de cali	49q,37t7	
+america de cali football team	49q	
+america de natal	5dj	
+america de natal futebol clube	5dj	
+america del sur	2vq	
+america disney	1pjv	
+america do sul	2vq	
+america f c mg	4js	
+america f k yeah	1kdf	
+america farerra	16m0	
+america farrera	16m0	
+america fc	kiq	
+america fc mg	4js	
+america fc rj	5ze	
+america fc rn	5dj	
+america fc sp	9t0	
+america ferarra	16m0	
+america ferera	16m0	
+america fererra	16m0	
+america ferra	16m0	
+america ferrara	16m0	
+america ferrera	16m0	
+america film institute	k14	
+america football		5ze:3
+america football club	5ze	
+america football club mg	4js	
+america football club pe	69zc	
+america football club rio de janeiro	5ze	
+america football club rj	5ze	
+america football club rn	5dj	
+america football club teofilo otoni	620e	
+america fuck yeah	1kdf	
+america fuck yeah bummer remix	1kdf	
+america futebol		4js:3,5dj:3,9t0:3,620e:3,69zc:3
+america futebol clube	4js,5dj,9t0,620e,69zc	
+america futebol clube de natal	5dj	
+america futebol clube mg	4js	
+america futebol clube minas gerais	4js	
+america futebol clube pe	69zc	
+america futebol clube pernambuco	69zc	
+america futebol clube rio grande do norte	5dj	
+america futebol clube rj	5ze	
+america futebol clube rn	5dj	
+america futebol clube sao paulo	9t0	
+america futebol clube sp	9t0	
+america futebol clube teofilo otoni	620e	
+america georgine ferrera	16m0	
+america guide to democracy inaction	6b0c	
+america hoffman	25p5	
+america idol	1dz6	
+america latina	wmg	
+america mcgee	51jl	
+america men s soccer team	1n0	
+america mg	4js	
+america minas gerais	4js	
+america mineiro	4js	
+america mineiro football club	4js	
+america mineiro futebol clube	4js	
+america movil	2dng	
+america movil s a b de c v	2dng	
+america movil s a de c v	2dng	
+america movil sociedad anonima bursatil de capital variable	2dng	
+america music awards	1jyb	
+america national rugby team	17gk	
+america navy	33	
+america needs a healer	25lb	
+america novela	58on	
+america olivo	2lzs	
+america on watch	3eug	
+america online inc	h2i	
+america paulista futebol clube	9t0	
+america pe	69zc	
+america pe football club	69zc	
+america pe futebol clube	69zc	
+america records	33bp	
+america records france	33bp	
+america region	15m	
+america rj	5ze	
+america rn	5dj	
+america rugby team	17gk	
+america rugby union team	17gk	
+america rugiente	1qd6	
+america s	pvn	bmb:6,1a67:5,1rav:3,2usn:4,45cu:3,6eyi:3
+america s 11 most endangered historic places	bmb	
+america s age	dut	
+america s attic	2n9	
+america s boyfriend	szu	
+america s broadcasting company	qf	
+america s cup	6eyi	
+america s cup race	6eyi	
+america s dad	b3z	
+america s dead sea	4qrs	
+america s dream	45cu	
+america s finest city	je	
+america s first motion picture industry	9dt	
+america s got		2usn:4
+america s got talent	2usn	
+america s got talent holiday spectacular	2usn	
+america s got talent season 11	2usn	
+america s greatest rock and roll band	8ar	
+america s hardest working team	4b6	
+america s hour of decision	2vr2	
+america s invasion of whitehaven	2xyf	
+america s largest telephone company	hhp	
+america s mayor	1q92	
+america s midwest	6gjb	
+america s morning news	ozo	
+america s most		bmb:6
+america s most endangered		bmb:6
+america s most endangered historic		bmb:6
+america s most endangered historic places	bmb	
+america s most endangered places	bmb	
+america s most useful citizen	9sl	
+america s navy	33	
+america s next		1a67:5
+america s next top		1a67:5
+america s next top model	1a67	
+america s next top model mobile game	1a67	
+america s next topmodel	1a67	
+america s past time	3p	
+america s red clay court championships	30j1	
+america s sweetheart 2001	1rav	
+america s sweethearts	1rav	
+america s west arena	5ry9	
+america says	138v	
+america soap opera	58on	
+america sp	9t0	
+america sp football club	9t0	
+america sp futebol club	9t0	
+america supercontinent	15m	
+america telenovela	58on	
+america the		6hhx:3
+america the beautiful	6hhx	
+america the book	6b0c	
+america the book a citizen s guide to democracy inaction	6b0c	
+america the ep	1f6q	
+america to me	309l	
+america tv series	58on	
+america vancouver	hk	
+america west arena	5ry9	
+america west flight 1549	5alt	
+america will survive	694w	
+america women s national soccer team	7se	
+america women s soccer team	7se	
+america works	hyp	
+america world police	1kdf	
+anscenic	1hbg	
+anthemius	2u5u	
+aur der maur	1fqi	
+aur vin winery	20ew	
+aureilobivia	3h4t	
+baxan	67nk	
+bayeux	eq9	
+beecake	2b5o	
+beetebuerg	3r06	
+bellemagny	22ei	
+biharis	3tc3	
+billu	3sb4	
+billu barber	3sb4	
+brada		4lhp:2
+brada rybnicek	4lhp	
+broadwayseventh avenue line	10n0	
+bulin wall	4fpe	
+bundner herrschaft	yk	
+canute		191l:4,2g6l:4,3aiz:4,3qee:4,3yk7:4,4if8:2
+canute 6 of denmark	3aiz	
+canute duke		3yk7:4
+canute duke of		3yk7:4
+canute duke of estonia	3yk7	
+canute duke of reval	3yk7	
+canute duke of revalia	3yk7	
+canute ericson	3qee	
+canute i		3qee:4
+canute i of		3qee:4
+canute i of england	1lem	
+canute i of sweden	3qee	
+canute iv	191l	191l:4
+canute iv of		191l:4
+canute iv of denmark	191l	
+canute iv the saint	191l	
+canute lavard	4if8	
+canute sweynson	1lem	
+canute the lord	4if8	
+canute v	2g6l	2g6l:4
+canute v magnussen	2g6l	
+canute v of		2g6l:4
+canute v of denmark	2g6l	
+canute vi	3aiz	3aiz:4
+canute vi of		3aiz:4
+canute vi of denmark	3aiz	
+cassine	1nw1	
+caulkins tracy	4s9q	
+ceratorhine	14h3	
+cercomacra	69ba	
+chalinargues	18aj	
+chatwin bruce	180n	
+chiloe		1x85:2,4end:2
+chiloe island	4end	
+chiloe province	1x85	
+chiriphe	39ps	
+chuokoron		6byu:2
+chuokoron sha	6byu	
+chuokoron shinsha	6byu	
+clamecy	r0k,2r7v	
+clamecy aisne	2r7v	
+clamecy nievre	r0k	
+coordinate	19m6	19m6:2
+coordinate axis	19m6	
+coordinate change	19m6	
+coordinate curves	19m6	
+coordinate invariance	fni	
+coordinate line	19m6	
+coordinate system	19m6	
+coordinate system comments	19m6	
+coordinate system invariance	fni	
+coordinate system invariant	fni	
+coordinate systems	19m6	
+cruxifixion	37rl	
+cunardo	4c3x	
+dalquhurn	1s4g	
+designated	ja	2p7:4,1vhi:2,3u9w:2
+designated cities of japan	324e	
+designated city	324e	
+designated hitter	1vhi	
+designated hitter comments baseball	1vhi	
+designated hitter rule	1vhi	
+designated landmark	ja	
+designated landmarks	ja	
+designated place	2p7	2p7:4
+designated place of		2p7:4
+designated place of canada	2p7	
+designated player softball	2g7	
+designated survivor	3u9w	
+designated survivor tv series	3u9w	
+dumenza	1hai	
+durrenbuchig	1430	
+ecommerce	f85	
+ecommerce solution	f85	
+ecommerce system	f85	
+esfivard		1cs2:5
+esfivard e		1cs2:5
+esfivard e shurab	1cs2	1cs2:5
+esfivard e shurab rural		1cs2:5
+esfivard e shurab rural district	1cs2	
+fela	ptu	ptu:2
+fela anikulapo kuti	ptu	
+fela cuti	ptu	
+fela kuti	ptu	
+fela ransome kuti	ptu	
+fela s riff	4pt2	
+feval	1kxd	
+fireman	44a0	44a0:2,4h36:2,4xd9:4
+fireman fahrenheit 451	6fzz	
+fireman s axe	2gbb	
+fireman save		4xd9:4
+fireman save my		4xd9:4
+fireman save my child	4xd9	
+fireman save my child 1954 film	4xd9	
+fireman seaman	3x0w	
+gamen	3iaw	
+gartz	5o05	5o05:2
+gartz oder	5o05	
+georgenthal bei gablonz	4fe2	
+gmina pelplin	u3z	
+gmina przeclaw	5eox	
+godfather	fgy,4xnj	fgy:2,irm:2,27l1:2,2eqn:2
+godfather 1991	4xnj	
+godfather 1991 film	4xnj	
+godfather 2 game	588u	
+godfather 3	oq9	
+godfather 4	irm	
+godfather blackhand	27l1	
+godfather film	irm	
+godfather film series	irm	
+godfather game	27l1	
+godfather ii	dn8	588u:3
+godfather iii	oq9	
+godfather iv	irm	
+godfather movie	fgy	
+godfather of funk	oek	
+godfather of glasnost	1rfj	
+godfather of grunge	52u	
+godfather of soul	4p4	
+godfather of squash	6ebq	
+godfather of wine	8ga	
+godfather part 3	oq9	
+godfather part 4	irm	
+godfather part ii		dn8:4
+godfather part iii	oq9	oq9:4
+godfather saga	152d	152d:3
+godfather the don s edition the	27l1	
+godfather the game	27l1	
+godfather trilogy	irm	
+griwa	7sj	
+guide		6fa6:2
+guide book	6fa6	
+guide de la petite vengeance	61cb	
+guide henan	1rnx	
+guide me back home	490g	
+guide to railway investment projects	3c7	
+guide to recognizing your saints	2mr6	
+guofu	osw	
+henry quinteros	5hbj	
+hurricat	11oh	
+idot	54m	
+ioue mao	4oi8	
+iurisprudentia	dfu	
+james dalton	64q4	
+james dalton trumbo	j6c	
+james devereux	3l92	
+joghourt	1ns5	
+john adair	30w9	
+john kemeny	3gcx	
+john kemeny computer scientist	3ban	
+john kemeny film producer	3gcx	
+john kemeny filmmaker	3gcx	
+john kemeny producer	3gcx	
+john lovelock	4vlj	
+john weidman	5m4k	
+jonomacdrones sandbox	3aek	
+kazunomiya	5ptf	
+kazunomiya chikako naishinno	5ptf	
+kokenhausen	3ked	
+komna	4gch	
+la equidad	d23	
+la garde	1lgx,34dw,37xk	2j9l:3,2ovr:3
+la garde adhemar	2j9l	
+la garde alpes de haute provence	34dw	
+la garde freinet	2ovr	
+la garde isere	37xk	
+la garde var	1lgx	
+lefkadha greece	22is	
+lipowiec koscielny commune	1kie	
+litultovice	480j	
+loupmont	2e3g	
+luganssk	7f4	
+lundigan	12dm	
+lundigan william	12dm	
+lylat wars	1kcv	
+lylat wars 3d	3k0w	
+magelang	1x7h	
+magelang city	1x7h	
+malifecent	3qwd	
+mammea	6ean	
+maria luigi carlo zanobi salvadore cherubini	128l	
+maria luigi carlo zanobio salvatore cherubini	128l	
+maria luigi carlo zenobio salvatore cherubini	128l	
+maria luigi cherubini	128l	
+matveyeva	1q58	
+michael kohlhaas	1ep5	
+michael kohlhaas der rebell	3an2	
+michael kohlhaas film	1ep5	
+montagnani	lth	
+montbras	2t21	
+mothers		51f8:2
+mothers cry	51f8	
+mothers of invention	17i6	17i6:4
+mothers of the believers	68ut	
+mothers ruin	1szq	
+namyslow	1ol2	
+namyslow commune	get	
+namyslow county	1zy3	
+newberry	19zw	1oas:2
+newberry award	fp4	
+newberry county	1oas	
+newberry county sc	1oas	
+newberry county south carolina	1oas	
+newberry honor	fp4	
+newberry medal	fp4	
+newberry sc	19zw	
+newberry sc micropolitan statistical area	1oas	
+newberry sc msa	1oas	
+newberry sc sa	1oas	
+newberry south carolina	19zw	
+newberry south carolina micropolitan area	1oas	
+newberry winner	fp4	
+nooshin ebadi	4tcq	
+nue metal	34v	
+omaar jarun	24v8	
+ostermark	2xrd	
+paphiopedilinae	lsd	
+partisan	f04,17d0	ri5:3,17d0:2
+partisan cross	ri5	ri5:3
+partisan cross poland	ri5	
+partisan military	f04	
+partisan militia	f04	
+partisan paramilitary	f04	
+partisan rangers	f04	
+partisan records	17d0	
+partisan warfare	f04	
+pelagonija	9m4	
+pornographic		1cm:3,3mc:2,2v91:3
+pornographic actor actress	1cm	
+pornographic actors	1cm	
+pornographic actress	1cm	
+pornographic book	4dbk	
+pornographic film	3mc	1cm:3
+pornographic film actor	1cm	
+pornographic film actress	1cm	
+pornographic film star	1cm	
+pornographic films	3mc	
+pornographic literature	4dbk	
+pornographic movie	3mc	
+pornographic movies	3mc	
+pornographic novel	4dbk	
+pornographic parody		2v91:3
+pornographic parody film	2v91	
+pornographic photography	8u7	
+pornographic star	1cm	
+pornographic story	4dbk	
+proteinuric hypertension of pregnancy	4nzw	
+prsten		5rmm:3
+prsten i		5rmm:3
+prsten i vejlby	5rmm	
+prsten i vejlby 1931 film	5rmm	
+przysuski	1e43	
+regau	4fsb	
+ricked wicky	xmi	
+ripacandida	25ar	
+robert reynolds jones sr	574i	
+robert sydney 1st earl of leicester	35gt	
+robert sydney 2nd earl of leicester	23n8	
+robert sydney william kellard	46y2	
+rotarian club	2ius	
+rotg	2ddz	
+roxburghshire	3c7w	
+rude		2gbw:2
+rude awakening	2gbw	
+rude awakening 1989 film	2gbw	
+rude awakening film	2gbw	
+rude rum	2gzh	
+saale	upo	ejf:3,elo:3
+saale district	pt1	
+saale holzland	elo	elo:3
+saale holzland kreis	elo	
+saale holzland kreis district	elo	
+saale orla	ejf	ejf:3
+saale orla kreis	ejf	
+saale orla kreis district	ejf	
+saale river	upo	
+schwizerdutsch	8oq	
+shinee	u7c	
+shinee singles	u7c	
+shinee songs	u7c	
+shinee the best from now on	u7c	
+shutdown corner	x2	
+shutdown cornerback	x2	
+sobernheim	4l61	
+spouses of the presidents of argentina	gjw	
+spouses of the presidents of the united states	nxh	
+spouses of the vice presidents of the united states	3tbu	
+subspecifically	s2	
+sulphamethoxazol	5c63	
+sultanat misr al mamalik	1257	
+the groundstar		1zpt:3
+the groundstar conspiracy	1zpt	
+the namesake	1rai	
+the namesake 2007 film	1rai	
+the namesake film	1rai	
+the namesake movie	1rai	
+the ohio	5o4	
+the ohio icicle	20cj	
+the ohio players	2bsb	
+the ohio river	5o4	
+the ohio state buckeyes	1fpf	
+the sim 3	1mom	
+the tartars	459n	
+the tennis girl	2xp1	
+thomas hopfer	6c92	
+thomas villadsen	5mmt	
+thurageau	1wq3	
+titsingh isaac	5glp	
+ulceral	4sqq	
+vko	vub	
+vko airport	vub	
+voiceover agency	46i	
+waynad	hgs	
+zanzibari	ldq	

@@ -1,0 +1,537 @@
+a diplomatic		3zg4:3
+a diplomatic wife	3zg4	
+a goofy		yy9:3
+a goofy film	yy9	
+a goofy movie	yy9	
+a goofy movie 2	3yj8	
+abadasa taluka	46ed	
+abadasa tehsil	46ed	
+aeetis	62us	
+airfields	1ms	
+alexander 10th duke of hamilton	1znc	
+alexander 10th duke of hamilton douglas hamilton	1znc	
+alexander 10th duke of hamilton hamilton	1znc	
+amedeo	1dg3	exd:2,n65:2,v6h:2,3msf:2,4xms:2,54xy:2,56lw:2,5ja5:2
+amedeo 1st duke of aosta	1dg3	
+amedeo 3rd duke of aosta	2ayx	
+amedeo 3rd duke of savoia	2ayx	
+amedeo avogadro	56lw	
+amedeo biavati	5ja5	
+amedeo bordiga	63mc	
+amedeo carboni	3msf	
+amedeo clemente modigliani	v6h	
+amedeo conte de quaregna avogadro	56lw	
+amedeo conte di quaregna e ceretto avogadro	56lw	
+amedeo di savoia	2ayx	
+amedeo di savoia aosta	2ayx	
+amedeo duke of aosta	2ayx	
+amedeo ferdinando maria di savoia	1dg3	
+amedeo i of spain	1dg3	
+amedeo ii di savoia	58a6	
+amedeo ii of aosta	2ayx	
+amedeo ix of savoy	1a68	
+amedeo mangone	54xy	
+amedeo minghi	4xms	
+amedeo modigliani	v6h	
+amedeo modiliani	v6h	
+amedeo modiljani	v6h	
+amedeo nazzari	exd	
+amedeo novelli	n65	
+amedeo prince of belgium	4sa4	
+amedeo trilli	n65	
+amedeo umberto	2ayx	
+amedeo umberto duke of aosta	2ayx	
+amedeo vi count of savoy	593t	
+amedeo viii duke of savoy	1ke9	
+amedeo viii of savoy	1ke9	
+amelanchier	4mxr	
+anticolonialist	4q71	
+bassignana	1kem	
+batocas	3hri	
+beautician and the beast	4cll	4cll:5
+beautician hairdresser	gkh	
+bhees	6gc8	
+bloomburg pennsylvania	12jf	
+borei		3nzx:3
+borei class	3nzx	3nzx:3
+borei class submarine	3nzx	
+botoloph s town	d36	
+corsicana	jfo	6esz:4
+corsicana high school	6esz	
+corsicana independent		6esz:4
+corsicana independent school		6esz:4
+corsicana independent school district	6esz	
+corsicana isd	6esz	
+corsicana texas	jfo	
+corsicana texas micropolitan area	yq4	
+corsicana tx	jfo	
+corsicana tx micropolitan statistical area	yq4	
+corsicana tx msa	yq4	
+corsicana tx sa	yq4	
+david albahar	5cpw	
+david copperfield	wl7,2faf,4nng,55g4,5vdk	
+david copperfield 1911 film	5vdk	
+david copperfield 1922 film	55g4	
+david copperfield 1935 film	wl7	
+david copperfield comments	2faf	
+david copperfield dickens	2faf	
+david copperfield illusionist	4nng	
+david copperfield illusions	4nng	
+david copperfield magician	4nng	
+david copperfield novel	2faf	
+david copperfield novel comments	2faf	
+dobelice	4axd	
+earland charles	3hac	
+enable disable	3kqo	
+entrelacs	2rwl	
+entrelacs savoie	2rwl	
+epaux		21in:2
+epaux bezu	21in	
+evansville	4px,os3	
+evansville college	os3	
+evansville in	4px	
+evansville ind	4px	
+evansville indiana	4px	
+evansville indiana metropolitan area	4px	
+evansville nipissing district ontario	2skm	
+fable3	5wa8	
+falticeni	1ehk	
+famicon	1fa	
+famicon disc system	1ik6	
+famicon disk system	1ik6	
+fc nyva		b8c:3
+fc nyva pidhaitsi	b8c	
+fc nyva svitanok vinnytsia	cfb	
+fc nyva ternopil	b8c	
+fc nyva v vinnytsia	cfb	
+fc nyva vinnytsia	cfb	
+fontarabie	wt5	
+garges	1yxv	1yxv:3
+garges les		1yxv:3
+garges les gonesse	1yxv	
+garges les gonesses	1yxv	
+garla hutanilor	2nc6	
+garla siretel	2nc6	
+george foremen	26pw	
+george ley	66fm	
+gmina burzenin	rnk	
+gmina sosnowka	1vea	
+gmina sterdyn	qi3	
+gridlockd	1rma	
+hominids	6a5w	
+hormozgan	e0k	e0k:2
+hormozgan province	e0k	
+husni mubarak	pys	
+iapygidae	ipb	
+imams	6uu	
+irwell springs f c	10q1	
+jamielynn spears	379d	
+jascinda barrett	2ah6	
+john sivebk	3tj9	
+kazanlik	jzq	
+khodabandeh		5y70:2
+khodabandeh county	5y70	
+khojevanq	2s58	
+kimura	gxo	2f0x:3
+kimura ihei		2f0x:3
+kimura ihei award	2f0x	
+kimura kaela	1cse	
+kimura tae	3idj	
+kimura takeo	62an	
+kimura takuya	18e5	
+kimura yoshino	44oe	
+kinsale	13ae	
+kinsale ireland	13ae	
+kyle	2a0	nm6:2,1i3a:2,1iy0:2,1w3c:2,29sp:2,2j3x:2,2tco:2,2th3:2,30fk:2,32rw:3,335k:2,348o:2,36yz:2,39ge:2,3cif:2,3dgf:2,3p1m:2,3rm3:2,41az:2,4715:2,48yr:2,4ei3:2,4ghk:2,4h21:2,4h2c:2,4srk:2,5050:2,52wm:2,53zo:2,55v7:2,5pz5:2,5vl5:2,61r4:2
+kyle adrian ross critchell	4h2c	
+kyle allen actor	1spm	
+kyle andrew walker	30fk	
+kyle blain perry	335k	
+kyle brown	61r4	
+kyle brown soccer	61r4	
+kyle brown soccer player	61r4	
+kyle burns	44mn	
+kyle burns ftsk	44mn	
+kyle butler	47f9	
+kyle cameron	52wm	
+kyle canyon	5y4z	
+kyle carpenter	3p1m	
+kyle chandler	1w3c	
+kyle charles letheren	4srk	
+kyle corning	5xen	
+kyle critchell	4h2c	
+kyle culloo	4hei	
+kyle davies	348o	
+kyle davies soccer	348o	
+kyle donovan weaver	41az	
+kyle eastwood	1iy0	
+kyle ebecilio	5vl5	
+kyle egan richards	3dgf	
+kyle elliot korver	39ge	
+kyle even	5caa	
+kyle first name	2a0	
+kyle gaedele	6ha2	
+kyle gallner	2j3x	
+kyle gas	1i3a	
+kyle gass	1i3a	
+kyle given name	2a0	
+kyle hirons	10gh	
+kyle j		32rw:3
+kyle j white	32rw	
+kyle james	10an	
+kyle james anderson	10an	
+kyle jerome white	32rw	
+kyle joseph george lafferty	3cif	
+kyle killen	4h21	
+kyle kirchhoff	168h	
+kyle korver	39ge	
+kyle lafferty	3cif	
+kyle lavince lightbourne	36yz	
+kyle lehning	53zo	
+kyle lendo	4n02	
+kyle letheran	4srk	
+kyle letheren	4srk	
+kyle letheren comments	4srk	
+kyle lightbourne	36yz	
+kyle machlachlan	nm6	
+kyle maclachlan	nm6	
+kyle macy	2tco	
+kyle mclachlan	nm6	
+kyle merritt maclachlan	nm6	
+kyle milne cameron	52wm	
+kyle naughton	55v7	
+kyle neeley	5e0a	
+kyle nix	29sp	
+kyle norman	1nbw	
+kyle o shea	1y7f	
+kyle overmyer	13ap	
+kyle patrick reynish	5pz5	
+kyle patterson	4715	
+kyle perry	335k	
+kyle petterson	jf9	
+kyle porter	5050	
+kyle reid	495e	
+kyle reynish	5pz5	
+kyle richard gass	1i3a	
+kyle richards	3dgf	
+kyle sanders	3guo	
+kyle schmid	4ghk	
+kyle shutt	3pl4	
+kyle simmons	2kvr	
+kyle stephen joel ebecilio	5vl5	
+kyle steven gallner	2j3x	
+kyle thomas vassell	2th3	
+kyle vassell	2th3	
+kyle wakeman	39n7	
+kyle walker	30fk	
+kyle weaver	41az	
+kyle white	32rw	
+kyle wilson	48yr	
+kyle wilson english footballer	48yr	
+kyle wiltjer	4ei3	
+kyle xt	3rm3	
+kyle xu	3rm3	
+kyle xy	3rm3	
+kyle xy the soundtrack	3rm3	
+la scapigliata	5pb0	
+ladoganjarv	158f	
+le tourneur	2e9o	
+louis lyautey	52qd	
+louis tompkins wright	5hml	
+mardan	1s4b	2nr0:2
+mardan district	2nr0	
+mardan mc	1s4b	
+mardan municipal committee	1s4b	
+mardan pakistan	1s4b	
+maseru	tx8	4lng:2
+maseru district	4lng	
+maseru lesotho	tx8	
+meadowbank thistle	3ht	
+meadowbank thistle f c	3ht	
+meadowbank thistle fc	3ht	
+merleau ponty	2e0s	
+monilea	6ala	
+montbre	3gj8	
+montoulieu	2ewb,2rjy	
+montoulieu ariege	2rjy	
+montoulieu herault	2ewb	
+morhcella	ni2	
+myron	96k,239t,5gvf	2wfi:2,4cts:2,5ey6:2,5s2h:2,5tbh:3,5vc0:2
+myron brown	2wfi	
+myron first name	96k	
+myron given name	96k	
+myron healey	5s2h	
+myron herrick	5tbh	
+myron leon mike wallace	1p78	
+myron leon wallace	1p78	
+myron leon wallik	1p78	
+myron mccormick	5vc0	
+myron natwick	4urj	
+myron of eleutherae	5gvf	
+myron of eleutherai	5gvf	
+myron of thebes	5gvf	
+myron s scholes	5ey6	
+myron scholes	5ey6	
+myron t herrick	5tbh	
+myron the great	5gvf	
+myron timothy		5tbh:3
+myron timothy herrick	5tbh	
+myron waldman	4cts	
+myron wallace	1p78	
+myron wallik	1p78	
+national census	omf	
+national popular		4t8x:5
+national popular army	5mda	
+national popular vote		4t8x:5
+national popular vote compact	4t8x	
+national popular vote interstate		4t8x:5
+national popular vote interstate compact	4t8x	
+national popular vote movement	4t8x	
+nmb48	1ypb	
+nmb48 theater	1ypb	
+noakali	xg4	
+ntho sraom	4c1k	
+ofunne	d7b	
+pantomimic	1hwd	
+participant	vom	
+participant media	vom	
+participant productions	vom	
+pelita	7ls	
+pelita bakrie	7ls	
+pelita bandung raya	7ls	
+pelita jakarta	7ls	
+pelita jaya	7ls	
+pelita jaya jakarta	7ls	
+pelita jaya jawa barat	7ls	
+pelita krakatau steel	7ls	
+pelita krakatau steel cilegon	7ls	
+pelita solo	7ls	
+peter leonard brooke	6310	
+peter leonard brooke baron brooke of sutton mandeville	6310	
+peter leonard bullock	5rc4	
+peter leonard knight	5pag	
+pougnadoresse	3qqj	
+prestolonaslednik	3myx	
+reseau		6a9:3,dwv:4
+reseau de letat	4m3w	
+reseau de transport metropolitain	pen	
+reseau de transport metropolitain line	pen	
+reseau des transports metropolitains	pen	
+reseau est	1muq	
+reseau express		6a9:3
+reseau express regional	6a9	
+reseau ferre		dwv:4
+reseau ferre de		dwv:4
+reseau ferre de france	dwv	
+reseau gare de lyon	16r9	
+reseau mirabel info	vwa	
+reseau montparnasse	2r64	
+reseau nord	3jd0	
+reseau paris est	1muq	
+reseau paris lyon	16r9	
+reseau paris montparnasse	2r64	
+reseau paris nord	3jd0	
+reseau time	9ea	
+rhts	fs0	
+richard garnons		5f94:3
+richard garnons williams	5f94	
+richard vanigli	4jtf	
+ritz	3ufj	3ufj:2
+ritz hotel london	66v7	
+ritz hotel ltd	66v7	
+ritz london	66v7	66v7:3
+ritz o brien	15rd	
+ritz quantaray	4rnp	
+robert schomburgk	5d1g	
+saint loup	1x12,2ekf,2mcj,30qp,30x6,32m0,3isu,41id	1f6e:4,1nt0:3,1z0d:4,22dn:4,24hp:3,24yt:4,277i:4,284x:4,2a6g:4,2b2w:4,2blw:3,2pds:3,2s1d:3,2u9d:4,2vgb:3,2z10:4,3ycn:4,46zl:4
+saint loup allier	32m0	
+saint loup cammas	2pds	
+saint loup charente maritime	2mcj	
+saint loup creuse	30x6	
+saint loup d		2u9d:4
+saint loup d ordon	2u9d	
+saint loup de		1z0d:4,22dn:4,24yt:4,2z10:4,46zl:4
+saint loup de buffigny	24yt	
+saint loup de fribois	22dn	
+saint loup de gonois	46zl	
+saint loup de naud	1z0d	
+saint loup de varennes	2z10	
+saint loup des		284x:4,2b2w:4,3ycn:4
+saint loup des bois	3ycn	
+saint loup des chaumes	284x	
+saint loup des vignes	2b2w	
+saint loup en		2a6g:4
+saint loup en champagne	2a6g	
+saint loup geanges	2blw	
+saint loup hors	2s1d	
+saint loup jura	41id	
+saint loup lamaire	24hp	
+saint loup loir et cher	30qp	
+saint loup manche	3isu	
+saint loup nantouard	2vgb	
+saint loup nievre	3ycn	
+saint loup rhone	1x12	
+saint loup sur		1f6e:4,277i:4
+saint loup sur aujon	277i	
+saint loup sur semouse	1f6e	
+saint loup sur thouet	24hp	
+saint loup tarn et garonne	2ekf	
+saint loup terrier	1nt0	
+san giusto		51h0:3
+san giusto canavese	51h0	
+schools	4w	
+schools in arlington heights illinois	mro	
+schools in bujumbura	ck0	
+schools in dili	dsf	
+schools in greenwich connecticut	4me	
+schools in kalibo	1k8f	
+schools in roxas city	1gt2	
+schools in watauga county	2cdq	
+schools named for clara barton	5ks3	
+schools of islamic theology	1rhj	
+schools of medicine	20l	
+schools of medicine in india	ae9	
+schools of public health	3gmw	
+schools of the royal melbourne institute of technology	am7	
+schools of thought	3ldw	
+schools of tibetan buddhism	aec	
+schools out 1930 film	4mnc	
+schumacherian	3zz5	
+sendell	5tzg	
+slipice	41o4	
+spread	pt3,34a0	
+spread beaver	115j	
+spread film	34a0	
+spread food	pt3	
+spread gun	1fy	
+spread sheet	6ff3	
+sugizo	4qss	
+sunde kolmisoppi	5h7v	
+swell	1wda	4v8m:2
+swell dopa	1wda	
+swell steve	4v8m	
+taekwon do	1sq	
+takushoku		ma1:2
+takushoku university	ma1	
+terakelvin	6hak	
+the career		4ogu:5
+the career of		4ogu:5
+the career of a		4ogu:5
+the career of a chambermaid	4ogu	
+the cassandra		lty:3
+the cassandra crossing	lty	
+the etruscans	1zmd	
+the frozen		2pkz:3
+the frozen ground	2pkz	
+the frozen throne	3k8j	
+the frozen tundra	6gu8	
+the frozen wilds	4khs	
+the knights		43df:5,497f:5
+the knights of		43df:5,497f:5
+the knights of badassdom	3rjo	
+the knights of santiago	1dt8	
+the knights of the		43df:5,497f:5
+the knights of the cross	497f	
+the knights of the cross film	1sg2	
+the knights of the quest	43df	
+the knights templar deus ex	4nx5	
+the pythagorean theorem	6h3c	
+the swain school	548	
+torge		6b0z:2
+torge hollmann	6b0z	
+trond	jfx	4fyd:3,4jv9:2,50w4:2,57pj:2,5r2c:3
+trond andersen	57pj	
+trond braenne	50w4	
+trond brnne	50w4	
+trond fausa		5r2c:3
+trond fausa aurvaag	5r2c	
+trond fausa aurvag	5r2c	
+trond first name	jfx	
+trond fredrik		4fyd:3
+trond fredrik ludvigsen	4fyd	
+trond given name	jfx	
+trond grim	66i9	
+trond holter	4e85	
+trond name	jfx	
+trond ogrim	66i9	
+trond olsen	4jv9	
+trond teeny holter	4e85	
+trubbach schweiz	214t	
+trubbach switzerland	214t	
+tsay	b00	
+tsay ee kah	ep5	
+tutchev	574h	
+ujung pandang	jmw	
+urgal	6fy9	
+vasternorrland		xhk:2
+vasternorrland county	xhk	
+vasternorrland lan	xhk	
+vasternorrland sweden	xhk	
+vicoforte	2rp8	
+viimsi		2kl9:3
+viimsi commune	2kl9	
+viimsi parish	2kl9	
+viimsi rural		2kl9:3
+viimsi rural municipality	2kl9	
+viimsi vald	2kl9	
+villalobosus	vaw	
+while		1cne:4,1fe9:4,2tj9:4,38wj:5,49wu:4,5g8b:4,5hj4:4
+while nero fiddled	54f7	
+while rome burns	1ada	
+while skinning an onion	mnx	
+while the		1fe9:4,38wj:5,49wu:4,5g8b:4,5hj4:4
+while the attorney		38wj:5
+while the attorney is		38wj:5
+while the attorney is asleep	38wj	
+while the city		1fe9:4,5g8b:4,5hj4:4
+while the city sleeps	1fe9,5g8b,5hj4	
+while the city sleeps 1928 film	5hj4	
+while the city sleeps 1950 film	5g8b	
+while the city sleeps 1956 film	1fe9	
+while the patient		49wu:4
+while the patient slept	49wu	
+while we		1cne:4
+while we re		1cne:4
+while we re young	1cne	
+while we re young film	1cne	
+while you		2tj9:4
+while you were		2tj9:4
+while you were sleeping	2tj9	
+while you were sleeping film	2tj9	
+william bennett noise musician	3ug3	
+william dunlap homes	e4x	
+william dunlap homes new jersey	e4x	
+william dunlap homes nj	e4x	
+william ivan martin jr	5w9s	
+william p		436z:3,4y9p:4,5vcf:3,6353:3,65gc:3
+william p alston	2htp	
+william p blatty	17oh	
+william p c		4y9p:4
+william p c barton	4y9p	
+william p carleton	65gc	
+william p clements	561q	
+william p clements jr	561q	
+william p cole	670m	
+william p cole jr	670m	
+william p cooper	5k7c	
+william p fessenden	5vcf	
+william p frith	62gs	
+william p gislingham	181v	
+william p gramm	5ga5	
+william p kinsella	5a4c	
+william p lawrence	6353	
+william p neary	mlg	
+william p o brien	4qn8	
+william p rogers	436z	
+william p thurston	2bio	
+xhant tv	6d8	
+xinjing special municipality	72g	
+youko	da2	
+youko asagami	3x5o	
+youko hikasa	eoj	
+youko minamida	4fm9	
+youko shimomura	rbu	
+youko tsukasa	62od	
+zagorow commune	mwz	
+zelezniki		2e8i:2
+zelezniki municipality	2e8i	

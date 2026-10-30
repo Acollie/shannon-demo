@@ -1,0 +1,392 @@
+a zed		270i:4
+a zed and two noughts	270i	
+a zed two		270i:4
+a zed two noughts	270i	
+aarwangen	2i7v	
+aarwangen be	2i7v	
+aarwangen bern	2i7v	
+aarwangen berne	2i7v	
+aarwangen switzerland	2i7v	
+ablon	2om5	3z8h:3
+ablon sur		3z8h:3
+ablon sur seine	3z8h	
+aden	gfj	1e59:2,1gex:2,5xns:2
+aden b meinel	5xns	
+aden baker meinel	5xns	
+aden craiter	gfj	
+aden governorate	1e59	
+aden holger	5lvc	
+aden meinel	5xns	
+aden municipality	gfj	
+aden yemen	gfj	
+aden ym	gfj	
+aden young	1gex	
+afghanistna	dj	
+alega gang public enemy no 1 of cebu	2kv8	
+alega gang terror ng cebu	2kv8	
+alessandor petacchi	2cwi	
+apoplexy	3emy	
+aranea constellation	1r1h	
+astrochicken game	6afg	
+baliliphan	1fe5	
+bathtub	6h5j	
+bhilwara		378o:2
+bhilwara district	378o	
+bisignano	1nq0	
+bodeans	5byp	
+bogande		18z3:2
+bogande department	18z3	
+bolagna	x5	
+bullshido	3wq	
+cancri	9t2	
+carville	2ob8	2ce2:4,3zi1:3
+carville calvados	2ob8	
+carville la		3zi1:3
+carville la folletiere	3zi1	
+carville pot		2ce2:4
+carville pot de		2ce2:4
+carville pot de fer	2ce2	
+caschifellone	36eh	
+chaoyang	1gqv	d5o:2
+chaoyang beijing	d5o	
+chaoyang city	1gqv	
+chaoyang district	d5o	
+chaoyang district beijing	d5o	
+chaoyang liaoning	1gqv	
+chaoyang prefecture	1gqv	
+colligis		20kb:2
+colligis crandelain	20kb	
+comptime	3mi1	
+con	kog,5b0p	
+con air	r9t	
+con alma y vida	5jzb	
+con artists	1f6j	1f6j:3
+con blatsis	3v3g	
+con boutsianis	5j7h	
+con conrad	57jq	
+con de heem	56cc	
+con el		4vki:6,5teu:6
+con el dedo		4vki:6
+con el dedo en		4vki:6
+con el dedo en el		4vki:6
+con el dedo en el gatillo	4vki	
+con el diablo		5teu:6
+con el diablo en		5teu:6
+con el diablo en el		5teu:6
+con el diablo en el cuerpo	5teu	
+con first name	kog	
+con ganas de triunfar	2q48	
+con given name	kog	
+con gli occhi chiusi	61b2	
+con job	5b0p	
+con la morte alle spalle	52fx	
+con la muerte a la espalda	52fx	
+con la rabbia agli occhi	27e9	
+con law	5z1r	
+con lui cavalca la morte	5n68	
+con martin	4u1o	
+con men	5b0p	
+con men film	2c85	
+con name	kog	
+con of man	4rzm	
+con rispetto		521e:3
+con rispetto parlando	521e	
+cryptarch	4qbf	
+cucri	45ww	
+cyberpunks	qoy	
+dancourt	306l	1uto:2
+dancourt popincourt	1uto	
+dancourt seine maritime	306l	
+diosphaera	maz	
+dsi	v4p	
+dsi camera	v4p	
+dsi colors	v4p	
+dsi ll	v4p	
+dsi shop	v4p	
+dsi xl	v4p	
+elayon	5aer	
+emeliano zapata	5inf	
+epraim kishon	1p1e	
+eyjafjallajokull	5p74	
+eyjafjallajokull film	5p74	
+frechaut	4xkq	
+gaillan		3nd3:3
+gaillan en		3nd3:3
+gaillan en medoc	3nd3	
+garrisson keiller	2cyv	
+george langelaan	5id4	
+georgetta andre barry	2ya1	
+georgetta barry	2ya1	
+ghirardo fiammingo	3w4l	
+gmina wadysawow	10yl	
+goebelia	28yf	
+gorgin		5jrr:3
+gorgin khan	5g9n	
+gorgin rural		5jrr:3
+gorgin rural district	5jrr	
+gothpunk	2np3	
+grabiel de borbon	1o6j,3pn5	
+grubb alexander	2qs6	
+grubb jeff	1ujr	
+halprin lawrence	5zdn	
+hamaguti kyoko	55sb	
+hangman	eii	4lca:3,4nod:3,64pe:3
+hangman records	454f	
+hangman s		4lca:3,4nod:3,64pe:3
+hangman s curse	4lca	
+hangman s curse film	4lca	
+hangman s house	64pe	
+hangman s knot	4nod	
+hangman s knot film	4nod	
+heiteren	28hx	
+heligo	te	
+hitra	11uj	11uj:2
+hitra municipality	11uj	
+hkpop	3yo	
+hogskola	1fz4	
+holdsworth david	4rdh	
+holgate		42yo:4
+holgate road		42yo:4
+holgate road carriage		42yo:4
+holgate road carriage works	42yo	
+holgate road carriage works york	42yo	
+houari boumediene airport	4rlg	
+houari boumedienne airport	4rlg	
+ibon		3o51:2,3wed:3
+ibon gutierrez	3o51	
+ibon gutierrez fernandez	3o51	
+ibon perez		3wed:3
+ibon perez arrieta	3wed	
+idealogy	ysy	
+iesi	dw3	
+interaction widget	3kqo	
+interfacing technologies	3xy6	
+isenthal	1pjf	
+isenthal switzerland	1pjf	
+isenthal ur	1pjf	
+isenthal uri	1pjf	
+ithycythara	4i1w	
+ity with powiat rights	j0o	
+james loch	60qv	
+jean d		12bo:3,348y:3
+jean d albret	2dz1	
+jean d alembert	twg	
+jean d arc	n4r	
+jean d arcet	6120	
+jean d artois	5yg5	
+jean d avesnes	27vq	
+jean d estaing	3wgj	
+jean d orleans	63c7	
+jean d orleans comte de dunois	22if	
+jean d orleans duc de guise	2et4	
+jean d ormesson	348y	
+jean d yd	12bo	
+jean worms	44wj	
+john dombrowski roberts	25ev	
+john hagen	5gr2	
+john wydell	tr6	
+jsc	5u95	
+jsc atomenergoprom	38v7	
+jsc il	zxj	
+jsc information		fnc:5
+jsc information satellite		fnc:5
+jsc information satellite systems	fnc	fnc:5
+jsc information satellite systems reshetnev	fnc	
+jsc rushydro	1dgm	
+jsc russian railways	evt	
+jsc siberia airlines	2zz3	
+jsc transaero airlines	45jg	
+jsc tupolev	lsj	
+jsc united aircraft corporation	1t0q	
+junnitiro tanizaki	2bkj	
+kamichli	19tg	
+kazue		4odx:2
+kazue fukiishi	4odx	
+kreis	3ch	g2k:2,2rz4:2
+kreis 4 winterthur	5bua	
+kreis 6 winterthur	5i4y	
+kreis aachen	toq	
+kreis ahrweiler	cr0	
+kreis bergstrae	mrc	
+kreis bergstrasse	mrc	
+kreis boblingen	h5p	
+kreis borken	13t9	
+kreis cloppenburg	q4y	
+kreis coesfeld	18o5	
+kreis darmstadt dieburg	hd7	
+kreis dithmarschen	8lh	
+kreis duren	q8s	
+kreis euskirchen	1bgm	
+kreis grevesmuhlen	2p81	
+kreis gro gerau	p05	
+kreis gutersloh	11us	
+kreis heinsberg	1725	
+kreis herford	1n6z	
+kreis herzogtum lauenburg	78x	
+kreis heydekrug	1n36	
+kreis hoxter	zl5	
+kreis hunedoara	779	
+kreis in prussia	wuu	
+kreis kleve	1pgz	
+kreis lippe	paq	
+kreis mettmann	112h	
+kreis minden lubbecke	12nn	
+kreis neuwied	g4t	
+kreis nordfriesland	86h	
+kreis offenbach	u10	
+kreis olpe	2rz4	
+kreis ostholstein	mut	
+kreis paderborn	2fhs	
+kreis pinneberg	g2k	
+kreis plon	b3q	
+kreis recklinghausen	11gd	
+kreis rendsburg eckernforde	72j	
+kreis schams	49p3	
+kreis schleswig flensburg	80s	
+kreis segeberg	93h	
+kreis siegen wittgenstein	110y	
+kreis soest	1gcp	
+kreis steinburg	8wu	
+kreis steinfurt	qje	
+kreis stormarn	eyf	
+kreis unna	19tq	
+kreis viersen	1hsn	
+kreis warendorf	1heh	
+kreis wesel	155x	
+la que		2b3t:4
+la que se		2b3t:4
+la que se avecina	2b3t	
+leiotrichi race	sgh	
+lemgo	15lf	
+lemgo germany	15lf	
+lennonmccartney	3ekj	
+louis bromfield	2liq	
+loupia	347f	
+luble	37qk	
+metasia	dpa	
+methylergometrine	5jiq	
+methylergometrine maleate	5jiq	
+miao kexiu	5ph3	
+miao li hsien	w15	
+miao qiaowei	3wnz	
+montjardin castle	4tym	
+moonwalkers	3byh	
+moonwalkers film	3byh	
+mountainview college	967	
+mucosil	63ew	
+mucosil 10	63ew	
+nagma	105f	
+nagma actress	105f	
+nagma comments	105f	
+nagma khan	6122	
+national mall	4jzi	
+national mall district of columbia	4jzi	
+nettwerk	4ki	
+nettwerk music group	4ki	
+nettwerk productions	4ki	
+nettwerk records	4ki	
+nithin	1tyw	
+nordstrom tower	6h44	
+pardines	22hz	
+pardines puy de dome	22hz	
+peter b		3bnn:3
+peter b dervan	32rt	
+peter b hirsch	3xep	
+peter b kyne	3bnn	
+peter b medawar	26bj	
+peter b moore	61nl	
+peter b parker	198a	
+peter b r vanneck	4ssg	
+peter b struve	3hou	
+peter b wilson	3evb	
+peter eben	3fyb	
+peux		3ckv:3
+peux et		3ckv:3
+peux et couffouleux	3ckv	
+piscataway	gbi	
+piscataway new jersey	gbi	
+piscataway nj	gbi	
+piscataway township	gbi	
+piscataway township middlesex county new jersey	gbi	
+piscataway township new jersey	gbi	
+piscataway township nj	gbi	
+pisz		27tr:2
+pisz commune	hp3	
+pisz county	27tr	
+pozvol	4omt	
+princess beatriz countess of alburquerque	2wiy	
+professors	g1	
+psovlky	2y7f	
+pureisuteshon	6g2g	
+qoftsa	xn3	
+raincy	ofo	
+ridgetop music festival	1c4k	
+ridolini	rxa	
+rimr	at6	
+savezna republika jugoslavija	2yq	
+scagnello	4yuz	
+shamalyan	19im	
+shoebies	5a4	
+sintosian	eem	
+stableford brian	37ml	
+stationery	6f2w	5lua:4
+stationery stores	5lua	5lua:4
+stationery stores f		5lua:4
+stationery stores f c	5lua	
+stationery wares	6f2w	
+steenbergen	1w8j	
+steenbergen brabant	1w8j	
+steenbergen en kruisland	1w8j	
+stfnal	ai	
+tannois	3wyl	
+tenin	m15	
+the cessyl orchestra	3e54	
+the enclosed ground	dta	
+the obscure illness	47wd	
+the upsetters	194z	
+the winner		5u2y:5
+the winner takes		5u2y:5
+the winner takes it		5u2y:5
+the winner takes it all	5u2y	
+thomas cook diamond games	4p95	
+tonningen	5k1j	
+topher		1gso:2
+topher grace	1gso	
+tripterygiidae	36mv	
+uiuc college of law	iea	
+uiuc college of nursing	sg	
+uiuc law	iea	
+united european football association	3ng	
+united european left	st4	
+uralets nizhny tagil	vv9	
+uy	bg	
+vasile		20lb:2,3g8w:2,4bby:2,53xe:2,6b4u:2
+vasile alecsandri	53xe	
+vasile buhaescu	4bby	
+vasile bulgaroktonos	60qs	
+vasile caciureac	6b4u	
+vasile coselev	3g8w	
+vasile miriuta	20lb	
+vasile valentin nastase	5akk	
+vestspitsbergen	cet	
+wartburgkreis	qaq	
+wartburgkreis district	qaq	
+wartburgkreis rural district	qaq	
+weissenberg oberlausitz	3kcf	
+wideacre trilogy	1uwu	
+zhongshan	ebl	1u7d:2,5dj4:3
+zhongshan china	ebl	
+zhongshan city	ebl	
+zhongshan county guangdong	ebl	
+zhongshan district	1u7d	
+zhongshan district taipei	1u7d	
+zhongshan guangdong	ebl	
+zhongshan memorial middle school	ebl	
+zhongshan park		5dj4:3
+zhongshan park shanghai metro	5dj4	
+zhongshan park station	5dj4	
+zhongshan park station shanghai	5dj4	
+zhongshan park station shanghai metro	5dj4	
+zhongshan school of medicine	1fhj	
+zhongshan taipei	1u7d	
+zhongshan university	1fhj	

@@ -1,0 +1,692 @@
+5mt	4991	
+ageo	1fpc	
+ageo city	1fpc	
+ageo japan	1fpc	
+ageo saitama	1fpc	
+alcatraz	4wqa	jqx:2
+alcatraz island	jqx	
+alcatraz island usa	jqx	
+alexander krivets	5ee3	
+allemanche		2sdf:4
+allemanche launay		2sdf:4
+allemanche launay et		2sdf:4
+allemanche launay et soyer	2sdf	
+ambartsumian victor	rg2	
+ananarsia	9bs	
+anoye	2w8o	
+arctiinae	5iki	
+aynallu language	4vm	
+bailleulmont	1z4t	
+beauchery		21fc:3
+beauchery saint		21fc:3
+beauchery saint martin	21fc	
+benassay	3iv4	
+bouhans	30yy	3k0i:3,3z4n:3
+bouhans et		3k0i:3
+bouhans et feurg	3k0i	
+bouhans les		3z4n:3
+bouhans les lure	3z4n	
+brugnac	3l2w	
+budumir janosevic	5t0n	
+caion footballer	45lf	
+canuxploitation	3wk	
+canuxploitation films	3wk	
+capitaes de abril	3960	
+caramoran	1gvg	
+caramoran catanduanes	1gvg	
+caras		6kg:3
+caras severin	6kg	6kg:3
+caras severin county	6kg	
+caryophyllocece	1oi6	
+cervarese		36b3:3
+cervarese santa		36b3:3
+cervarese santa croce	36b3	
+charles etienne		5m6n:4
+charles etienne francois		5m6n:4
+charles etienne francois ruty	5m6n	
+charles judel	18lc	
+charles mcarthur ghankay taylor	4oxw	
+charles randolph charlie korsmo	5wbn	
+charles randolph korsmo	5wbn	
+charles randolph quirk	4ld3	
+charles randolph quirk baron quirk	4ld3	
+charles randolph quirk baron quirk cbe fba	4ld3	
+chenopod	6669	
+coheed	1c6y	1c6y:3
+coheed a n d cambria	1c6y	
+coheed and		1c6y:3
+coheed and cambria	1c6y	
+coheed cambria	1c6y	
+condiments	z3a	
+condiments doc	z3a	
+cpu architecture	3v1e,6aj2	
+cpu chip	9nb	
+cpu computer	zdh	
+cpu heart	zdh	
+cpu microarchitecture	1x6u	
+cpu slot	6cue	
+cpu socket	6cue	
+cpu sockets	6cue	
+credazzo	1ugz	
+cuccaro		45ww:2
+cuccaro monferrato	45ww	
+deconica	6cae	
+denner charles	z80	
+donnel jones	2o0c	
+echeta	67bg	
+enough	3fut	2xzz:2,4teg:2
+enough album	66u3	
+enough film	3fut	
+enough rope	4teg	
+enough rope film	4teg	
+enough said	2xzz	
+enough said film	2xzz	
+eternally		23xw:2
+eternally yours	23xw	
+eternally yours film	23xw	
+fc kaluga	9t1	
+feminax	26tg	
+fiume	3c2	cp8:3,20kj:2
+fiume city	3c2	
+fiume isonzo soca river	2pnb	
+fiume road		cp8:3
+fiume road graveyard	cp8	
+fiume tevere	utd	
+fiume veneto	20kj	
+fldb	5f5i	
+fyre novel	6eo5	
+gamlakarleby	9lh	45om:2
+gamlakarleby bk	45om	
+gamlakarleby bollklubb	45om	
+ganondorf	6gj8	
+ganondorf dragmire	6gj8	
+george carter	48cz	
+george carter basketball	48cz	
+glct	5qxg	
+glenn		8zj:2,fzt:2,izp:2,lgg:3,p9s:2,qqu:2,tbk:2,10t5:2,14rl:2,15ru:2,1801:2,1cwr:3,1fpa:4,1hon:2,1rm1:2,1sgt:8,1xqa:2,20zr:2,2ew9:2,2io7:3,2kq2:2,2x4g:2,3bar:2,3jg0:2,3o3i:2,3wp1:2,3xli:2,3yhq:2,3zd8:2,4fxo:2,4jd7:2,4jml:2,4n52:2,4vi9:2,52fo:2,55ag:2,55vt:3,5732:2,594e:2,5bqx:2,5cko:2,5cxd:2,5hnt:2,5p6b:2,5t9c:3,61mn:2,61sy:2,68xg:2
+glenn a jordan	1rm1	
+glenn alan medeiros	5hnt	
+glenn allen anzalone	20zr	
+glenn anton doc rivers	1xr6	
+glenn anton rivers	1xr6	
+glenn anzalone	20zr	
+glenn atle larsen	41qr	
+glenn barry	35bs	
+glenn beck	2kq2	
+glenn bott mole	59q0	
+glenn branca	3xli	
+glenn cavender	pah	
+glenn clifton jr	55g3	
+glenn close	fzt	
+glenn corbett	1xqa	
+glenn county	izp	
+glenn county ca	izp	
+glenn county california	izp	
+glenn cullen	1fgo	
+glenn curtiss	4jml	
+glenn danzig	20zr	
+glenn danzig comments	20zr	
+glenn danzig the power and fury orchestra	20zr	
+glenn david whelan	4vi9	
+glenn davis	3wp1	
+glenn davis american football	3wp1	
+glenn davis american football player	3wp1	
+glenn davis football player	3wp1	
+glenn davis halfback	3wp1	
+glenn doc rivers	1xr6	
+glenn e		1cwr:3
+glenn e plummer	1cwr	
+glenn edward greenwald	1hon	
+glenn edward lee beck	2kq2	
+glenn falls new york	kar	
+glenn farr	5bqx	
+glenn ferguson	52fo	
+glenn ficarra	61sy	
+glenn ford	8zj	
+glenn frey	qqu	
+glenn frey singer	qqu	
+glenn frye	qqu	
+glenn gould	14rl	
+glenn gould comments	14rl	
+glenn gray	5zcn	
+glenn greenwald	1hon	
+glenn gronkowski	5732	
+glenn grove morshower	1801	
+glenn h curtiss	4jml	
+glenn h curtiss motor co	ycr	
+glenn h curtiss motor company	ycr	
+glenn hammond curtiss	4jml	
+glenn hansard	21q4	
+glenn headley	vej	
+glenn helder	3yhq	
+glenn herbert gould	14rl	
+glenn hoddle	3jg0	
+glenn howerton	4jd7	
+glenn hughes	10t5	
+glenn hughes british musician	10t5	
+glenn hughes comments	10t5	
+glenn hysen	2ew9	
+glenn i seaborg	lgg	
+glenn ingvar hysen	2ew9	
+glenn jacobs politician	37t6	
+glenn johansson	270k	
+glenn john	sfv	
+glenn jordan	1rm1	
+glenn jr john herschell	sfv	
+glenn k		5t9c:3
+glenn k otis	5t9c	
+glenn kay otis	5t9c	
+glenn keeley	68xg	
+glenn krawczyk	13ig	
+glenn l		1fpa:4
+glenn l martin		1fpa:4
+glenn l martin company	1fpa	
+glenn langan	2x4g	
+glenn lee beck	2kq2	
+glenn leedy	ki2	
+glenn lewis frey	qqu	
+glenn little	3caf	
+glenn loovens	55ag	
+glenn martin company	1fpa	
+glenn matlock	4uzl	
+glenn medeiros	5hnt	
+glenn medieros	5hnt	
+glenn milchem	u8l	
+glenn miller	tbk	
+glenn miller comments	tbk	
+glenn miller his orchestra	tbk	
+glenn miller story	1f3u	1f3u:4
+glenn milstead	18cz	
+glenn morshower	1801	
+glenn morshower s the extra mile	1801	
+glenn most	2io7	
+glenn murray	3zd8	
+glenn myernick	61mn	
+glenn o		1sgt:8
+glenn o brien		1sgt:8
+glenn o brien s		1sgt:8
+glenn o brien s new		1sgt:8
+glenn o brien s new york		1sgt:8
+glenn o brien s new york beat		1sgt:8
+glenn o brien s new york beat movie	1sgt	
+glenn otis	5t9c	
+glenn plummer	1cwr	
+glenn ponder	54ek	
+glenn poole	5cko	
+glenn r davis	55vt	
+glenn r wichman	5gag	
+glenn rice	31ls	
+glenn rivers	1xr6	
+glenn robert		55vt:3
+glenn robert davis	55vt	
+glenn robson	4foh	
+glenn roeder	5cxd	
+glenn rothenburg	1xqa	
+glenn seaborg	lgg	
+glenn shadix	3o3i	
+glenn slater	4n52	
+glenn strange	p9s	
+glenn t seaborg	lgg	
+glenn t seaborg comments	lgg	
+glenn teodor sjoberg	lgg	
+glenn theodore		lgg:3
+glenn theodore seaborg	lgg	
+glenn tipton	4fxo	
+glenn tryon	15ru	
+glenn underground	5m35	
+glenn verbauwhede	5p6b	
+glenn victor roeder	5cxd	
+glenn vincent davis	2vgu	
+glenn w		2io7:3
+glenn w most	2io7	
+glenn warren bowerstock	66tp	
+glenn warren most	2io7	
+glenn wheatley	3bar	
+glenn whelan	4vi9	
+glenn wilson	594e	
+glenn wilson footballer	594e	
+glenn woodward davis	3wp1	
+gmina krzyzanowice	3fd7	
+guillaumes	1k9a	
+halictidae	2n9d	
+handel casadesus	1nmq	
+handel in london	7g5	
+handel operas	7g5	
+henry knox	2fck	
+hyanger	1e0f	1e0f:2
+hyanger municipality	1e0f	
+ibias	1l3h	
+ibias asturias	1l3h	
+ibias spain	1l3h	
+iphones	s5i	
+james addison baker	2epl	
+james addison baker iii	2epl	
+james addison iii baker	2epl	
+james bliedung	1cuz	
+jean sten	1275	
+john philipps	4rou	4rou:6
+john philipps 1st		4rou:6
+john philipps 1st baron st davids	4rou	
+john philipps 1st viscount		4rou:6
+john philipps 1st viscount st		4rou:6
+john philipps 1st viscount st davids	4rou	
+johnsoe	gb	
+kakushi ken oni no tsume	1uck	
+kakushi ken oni no tsumi	1uck	
+kakushi toride no san akunin	31nr	
+keio	31h,de1	31h:2,m70:4,1am0:2,310i:3
+keio corp	de1	
+keio corporation	de1	
+keio dentetsu	de1	
+keio electric railway	de1	
+keio gijuku daigaku	31h	
+keio gijuku university	31h	
+keio group	de1	
+keio inogashira line	310i	
+keio inokashira		310i:3
+keio inokashira line	310i	
+keio line	1am0	
+keio medical		m70:4
+keio medical science		m70:4
+keio medical science prize	m70	
+keio univ	31h	
+keio university	31h	
+kriss angel	3jc3	
+la poiteviniere	3n2n	
+la rubia		5mld:4,667y:3
+la rubia del		5mld:4
+la rubia del camino	5mld	
+la rubia mireya	667y	
+lennox		3el7:2,4ig9:2
+lennox anderson	9je	
+lennox berkeley	3el7	
+lennox character	oo4	
+lennox claudius lewis	4ig9	
+lennox claudius lewis cm cbe	4ig9	
+lennox lange	4gvm	
+lennox lewis	4ig9	
+lennox randal francis berkeley	3el7	
+lennox s rebellion	617x	
+lezignan	2txf	12gs:2,5ggt:2
+lezignan corbieres	12gs	
+lezignan hautes pyrenees	2txf	
+lezignan sangliers	5ggt	
+lezignan xiii	5ggt	
+libiya	yd	
+lycia	4ctk,6212	
+lycia band	4ctk	
+m83	2a9h	
+m83 band	2a9h	
+m83 discography	2a9h	
+m83 in popular culture	2a9h	
+mabie memorial school	66gr	
+mayu	6dq1	41qm:2
+mayu first name	6dq1	
+mayu given name	6dq1	
+mayu watanabe	41qm	
+mayu watanabe show	4uua	
+michael waszynski	rfb	
+montmerac	3a94	
+moscow	4h,xey	2d0:2,3u5:2,4ld:2,6fc:6,8sj:4,ayn:2,bfm:6,blw:2,brt:7,d4g:3,m99:4,mqr:4,nu7:3,tiv:2,xqv:3,yun:4,zrm:4,18l8:3,193e:4,1b24:4,1rd7:3,1tv5:4,2hdb:5,2tio:2,34f6:6,3dbz:6,3dhx:3,3m5y:5,3qcf:8,4v1p:2,5uox:5
+moscow 1980	de	
+moscow 1980 olympic bid	de	
+moscow 1980 olympics	de	
+moscow 2013	58b	
+moscow academic art theatre	nu7	
+moscow academy of art	brt	
+moscow agricultural academy	1u87	
+moscow architectural		1rd7:3
+moscow architectural institute	1rd7	
+moscow armenian cemetery	2fji	
+moscow art		8sj:4,nu7:3
+moscow art school	brt	
+moscow art theater school	8sj	
+moscow art theatre	nu7	8sj:4
+moscow art theatre school	8sj	
+moscow arts theatre	nu7	
+moscow aviation		d4g:3
+moscow aviation institute	d4g	
+moscow aviation institute named after s ordzhonikidze	d4g	
+moscow aviation institute named after sergo ordzhonikidze	d4g	
+moscow aviation institute state technical university	d4g	
+moscow aviation institute state university of aerospace technologies	d4g	
+moscow ballet school	3m5y	
+moscow bolshoi theatre	1njs	
+moscow canoeing and rowing basin	429f	
+moscow central		zrm:4,18l8:3
+moscow central circle	18l8	
+moscow central circle line	18l8	
+moscow central ring	zrm	zrm:4
+moscow central ring railway	zrm	
+moscow choreographic academy	3m5y	
+moscow choreographic institute	3m5y	
+moscow circle railway	zrm	
+moscow commerical institute	wlj	
+moscow conservatoire	2d0	
+moscow conservatory	2d0	
+moscow conservatory of music	2d0	
+moscow daylight time	ayn	
+moscow decree time	ayn	
+moscow does		3dbz:6
+moscow does not		3dbz:6
+moscow does not believe		3dbz:6
+moscow does not believe in		3dbz:6
+moscow does not believe in tears	3dbz	
+moscow does not believe in tears film	3dbz	
+moscow domodedovo	119j	
+moscow domodedovo airport comments	119j	
+moscow duchy	p9w	
+moscow ecclesiastical seminary	xqv	
+moscow engineering and physics institute	sun	
+moscow engineering physics institute national research nuclear university	sun	
+moscow engineering physics institute state university	sun	
+moscow exchange	blw	
+moscow film festival	yun	
+moscow film school	37w	
+moscow geological exploration institute	62rw	
+moscow geological prospecting institute	62rw	
+moscow governorate	tiv	
+moscow guberniya	tiv	
+moscow helicopter plant	1jdu	
+moscow higher technical school	a6r	
+moscow id	xey	
+moscow id micropolitan statistical area	1sbn	
+moscow id msa	1sbn	
+moscow id sa	1sbn	
+moscow idaho	xey	
+moscow idaho micropolitan area	1sbn	
+moscow imperial bolshoi theatre	1njs	
+moscow imperial conservatory	2d0	
+moscow imperial university	sc	
+moscow inner ring railroad	zrm	
+moscow institute		bfm:6
+moscow institute for railway engineering	1okl	
+moscow institute of		bfm:6
+moscow institute of architecture	1rd7	
+moscow institute of culture	2hdb	
+moscow institute of engineering physics	sun	
+moscow institute of finance	1lfc	
+moscow institute of international relations	6fc	
+moscow institute of physics		bfm:6
+moscow institute of physics and		bfm:6
+moscow institute of physics and technology	bfm	
+moscow institute of physics and technology state university	bfm	
+moscow institute of steel	39px	
+moscow institute of steel and alloys	39px	
+moscow institute of steel and alloys state technological university	39px	
+moscow institute of transport engineers	1okl	
+moscow international		yun:4
+moscow international film		yun:4
+moscow international film festival	yun	
+moscow international film festival award	yun	
+moscow kremlin	2zq7	
+moscow kremlin state historical and cultural museum reserve	2zq7	
+moscow literature institute	a52	
+moscow little ring railroad	zrm	
+moscow little ring railway	zrm	
+moscow maggie	3te2	
+moscow mathematical		3dhx:3
+moscow mathematical society	3dhx	
+moscow mechanical institute	sun	
+moscow mechanical institute of munitions	sun	
+moscow medical academy	1pze	
+moscow metro	3u5	
+moscow metro line 1	1dfx	
+moscow metro line 10	1gt7	
+moscow metro line 14	18l8	
+moscow metro line 2	1hak	
+moscow metro line 3	1mts	
+moscow metro line 5	4smg	
+moscow metro line 6	1c91	
+moscow metro line 7	1iv8	
+moscow metro line 8	1joc	
+moscow metro line 9	188i	
+moscow metro system	3u5	
+moscow museum of fine arts	2gv0	
+moscow music conservatory	2d0	
+moscow news trophy	3642	
+moscow oblast	4ld	
+moscow oblast atlant	72i	
+moscow olympic games	de	
+moscow on		1tv5:4
+moscow on the		1tv5:4
+moscow on the hudson	1tv5	
+moscow patriarchate	95w	
+moscow pedagogical		m99:4
+moscow pedagogical state		m99:4
+moscow pedagogical state university	m99	
+moscow philharmonic dramatic school	59k	
+moscow philharmonic school	59k	
+moscow philharmonic society music and drama school	59k	
+moscow physical technical institute	bfm	
+moscow power		mqr:4
+moscow power engineering		mqr:4
+moscow power engineering institute	mqr	
+moscow princedom	p9w	
+moscow principality	p9w	
+moscow railway	2tio	
+moscow railways	2tio	
+moscow region	4ld	
+moscow ring railway line	zrm	
+moscow river	107y	
+moscow rus	p9w	
+moscow s higher school of economics	1la7	
+moscow school	brt	brt:7
+moscow school for painting sculpture and architecture	brt	
+moscow school of		brt:7
+moscow school of art and industry	1gqy	
+moscow school of painting	brt	brt:7
+moscow school of painting sculpture		brt:7
+moscow school of painting sculpture and		brt:7
+moscow school of painting sculpture and architecture	brt	
+moscow school of painting sculpturing and architecture	brt	
+moscow shanghai	2o6n	
+moscow sheremetyevo	1b00	
+moscow sheremetyevo airport	1b00	
+moscow skate	3642	
+moscow social university	679d	
+moscow spartacus hc	4sq	
+moscow spartak	1xc	
+moscow spartakus hc	4sq	
+moscow standard time	ayn	
+moscow state		6fc:6,193e:4,1b24:4,2hdb:5,34f6:6,3m5y:5,3qcf:8
+moscow state academy		3m5y:5
+moscow state academy of		3m5y:5
+moscow state academy of choreography	3m5y	
+moscow state art and cultural university	2hdb	
+moscow state conservatoire	2d0	
+moscow state conservatory	2d0	
+moscow state film institute	37w	
+moscow state institute		6fc:6,2hdb:5
+moscow state institute of		6fc:6,2hdb:5
+moscow state institute of culture	2hdb	
+moscow state institute of foreign relations	6fc	
+moscow state institute of international		6fc:6
+moscow state institute of international relations	6fc	
+moscow state institute of international relations at the russian foreign ministry	6fc	
+moscow state institute of international relations mgimo university	6fc	
+moscow state law		1b24:4
+moscow state law university	1b24	
+moscow state linguistic		193e:4
+moscow state linguistic university	193e	
+moscow state medical university	1pze	
+moscow state pedagogical institute	m99	
+moscow state pedagogical institute of foreign languages	193e	
+moscow state pedagogical university	m99	
+moscow state stroganov academy of industrial and applied arts	1gqy	
+moscow state technical university	a6r	
+moscow state university		34f6:6,3qcf:8
+moscow state university for international relations	6fc	
+moscow state university of		34f6:6,3qcf:8
+moscow state university of civil		34f6:6
+moscow state university of civil engineering	34f6	
+moscow state university of culture and arts	2hdb	
+moscow state university of economics		3qcf:8
+moscow state university of economics statistics		3qcf:8
+moscow state university of economics statistics and		3qcf:8
+moscow state university of economics statistics and informatics	3qcf	
+moscow state university of international relations	6fc	
+moscow state university of railway engineering	1okl	
+moscow state v i lenin pedagogical institute	m99	
+moscow strategic defensive	1j6j	
+moscow subway	3u5	
+moscow summer time	ayn	
+moscow sun		5uox:5
+moscow sun yat		5uox:5
+moscow sun yat sen		5uox:5
+moscow sun yat sen university	5uox	
+moscow technical state university	a6r	
+moscow theological		xqv:3
+moscow theological academy	xqv	
+moscow theological academy and seminary	43pf	
+moscow theological academy seminary	43pf	
+moscow theological institute	43pf	
+moscow theological seminary	43pf	
+moscow time	ayn	
+moscow time zone	ayn	
+moscow timiryazev agricultural academy	1u87	
+moscow underground	3u5	
+moscow university for women	m99	
+moscow ussr	4h	
+moscow view	1oat	
+moscow vko	vub	
+moscow vnukovo airport	vub	
+moscow wa	xey	
+moscow zero	4v1p	
+moscow zhongshan university	5uox	
+muennerstadt	5a5l	
+muennerstadt muennerstadt	5a5l	
+municipalite de la cote nord du golfe st laurent	4yuy	
+municipalite locale	55e	
+municipalite regionale de comte	cyk	
+municipalite regionale de comte d antoine labelle	up8	
+murano	1qic	
+murano island	1qic	
+nagchukha	1y6h	
+nana2	6841	
+new hebrides national football team	b4a	
+obertilliach	4rc5	
+overboelare	o0x	
+penitencier	67dd	
+perleberg	173t	
+pervez		2826:2
+pervez fateh ali khan	1dzd	
+pervez musharaf	2826	
+pervez musharraf	2826	
+peter lascy	2a0s	
+peter urban gad	388v	
+poniewicz	9rr	
+ponsacco	2guf	
+prionophyllum	tg9	
+proboscideans	44os	
+projections	3seo	
+projections star trek voyager	3seo	
+projections voy	3seo	
+projections voyager episode	3seo	
+proof	2rjc,4u5d	1xdc:3,35mk:4
+proof 2005 film	2rjc	
+proof of		1xdc:3,35mk:4
+proof of life	1xdc	
+proof of life scott stapp song	4vcm	
+proof of the		35mk:4
+proof of the man	35mk	
+proof positive 2006 album	1bmg	
+proof rapper	4u5d	
+pulici	4u9c	
+punto		57lu:2
+punto arenas	mfx	
+punto banco	11mg	
+punto de la cruz	286r	
+punto fijo	57lu	
+punto fijo falcon venezuela	57lu	
+puttur	6924	
+puttur karnataka	6924	
+recruitment in the australian army	4lk	
+recruitment in the canadian army	65g	
+recruitment in the pakistan armed forces	4e3i	
+recruitment in the royal australian air force	ax9	
+recruitment in the royal australian navy	25j	
+recruitment in the royal canadian air force	e1z	
+recruitment in the royal canadian navy	26d	
+recruitment in the royal new zealand navy	178f	
+recruitment in the united states air force	2wmw	
+recruitment in the united states coast guard	l8l	
+recruitment in the united states navy	33	
+roosendaalse boys combinatie roosendaal	agb	
+sabas	2024	
+salala oman	1p4t	
+scelerats	66ov	
+scherpenzeel friesland	r0v	
+selenium	gvg	
+selenium compounds	gvg	
+selenium physical properties	gvg	
+selenium poisoning	gvg	
+sessionman	6ffd	
+shakhlin	2lti	
+simonsen steve	4ma6	
+sionne	2vqw	
+sir soane	33ay	
+slovenehood	5cph	
+smederevo	h4o	
+smederevo municipality	h4o	
+smederevo opstina	h4o	
+st carlo borromeo	s57	
+st xi	e73	
+strizkov praha	gvn	
+suits	rov	
+suits series	rov	
+suits tv series	rov	
+suits u s tv series	rov	
+suits xl	201w	
+sundhouse	1tac	
+swellendam	4f3b	2u27:3
+swellendam local		2u27:3
+swellendam local municipality	2u27	
+swellendam municipality	2u27	
+swellendam municipality western cape	2u27	
+swellendam south africa	4f3b	
+swellendam western cape	4f3b	
+tengku		5j71:4
+tengku hazman	5j71	5j71:4
+tengku hazman raja		5j71:4
+tengku hazman raja hassan	5j71	
+tesetice	2j7j,49v1	
+tesetice olomouc district	2j7j	
+tesetice znojmo district	49v1	
+the cheryl cole foundation	upi	
+the diceman	gg7	
+the double	1sk9,44av,4uuf	19lw:5,2mgi:3,46kw:3,4qf7:4,5uv9:3
+the double 0		4qf7:4
+the double 0 kid	4qf7	
+the double 1934 film	44av	
+the double 2011 film	4uuf	
+the double 2012 film	1sk9	
+the double 2013 film	1sk9	
+the double bed	2mgi	
+the double blue	1lh	
+the double duchess	63pq	
+the double headed dog network	46xy	
+the double life		19lw:5
+the double life of		19lw:5
+the double life of veronica	19lw	
+the double life of veronique	19lw	
+the double man	46kw,5uv9	
+the double man 1967 film	46kw	
+the double man 1976 film	5uv9	
+the double o kid	4qf7	
+trikay	x31	
+uztm	2drg	
+warluzel	39ii	
+wayikra	6265	
+wilella cather	arg	
+wilella sibert cather	arg	
+william gladstone	lpm	
+william johnson	3rau	
+william johnson 1715 1774	3rau	
+william johnson 1st baronet	3rau	
+william menezes	6612	
+william plantagenet	11sh	
+wsl 1	2etl	
+zakharov mark	1g3t	
+zayniddin tadjiyev	5er4	
+zayniddin tadzhiev	5er4	

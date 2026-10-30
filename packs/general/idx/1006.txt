@@ -1,0 +1,424 @@
+a6 autoroute	2tip	
+a6 autoroute france	2tip	
+a6 france	2tip	
+a6 motorway	2tip	
+a6 motorway france	2tip	
+acinonyx jubatus	15am	
+acinonyx rex	15am	
+adeilson		42dv:4
+adeilson pereira		42dv:4
+adeilson pereira de		42dv:4
+adeilson pereira de mello	42dv	
+agha	2msp	20kf:2,4pvd:3
+agha actor	2msp	
+agha ali abbas qizilbash	20kf	
+agha hashar		4pvd:3
+agha hashar kashmiri	4pvd	
+agha jani	5i1u	
+agha jani kashmiri	5i1u	
+agha mohammad yahya khan	44sv	
+agha mohammed yahya khan	44sv	
+agha muhammad yahya khan	44sv	
+agha salma	5z89	
+agha talish	20kf	
+agha yahya khan	44sv	
+airel	31c1	
+amon	6ezb	1n6e:2,4287:2,4duk:2
+amon amar	4287	
+amon amarth	4287	
+amon amarth band	4287	
+amon amarth middle earth	6hlr	
+amon amarth the band	4287	
+amon goeth	4duk	
+amon goethe	4duk	
+amon goth	4duk	
+amon leopold goeth	4duk	
+amon leopold goth	4duk	
+amon ra	6ezb	
+amon re	6ezb	
+amon tobin	1n6e	
+anaximandros	3o5d	
+annibal	3di9	
+annibal caraggi	176h	
+annibal caraz	176h	
+annibal carracche	176h	
+annibal carraccius	176h	
+annibal cartocci	176h	
+annibal de gasparis	38lp	
+anoplocnephasia	1eer	
+antiulcer drug	1ara	
+aris		2oo:4,3pn:4,7r5:4,4gly:2
+aris b c	7r5	
+aris bc	7r5	
+aris bc thessaloniki	7r5	
+aris bern	2ju2	
+aris bsa thessaloniki	7r5	
+aris egnatia bank	7r5	
+aris f c	3pn	
+aris f c thessaloniki	3pn	
+aris fc	3pn	
+aris fc seasons	3pn	
+aris galanopoulos	4gly	
+aris jonathan	4r93	
+aris kindt	5pnh	
+aris limassol	2oo	2oo:4
+aris limassol f		2oo:4
+aris limassol f c	2oo	
+aris limassol fc	2oo	
+aris michael	3byw	
+aris thesaloniki	3pn	
+aris thessaloniki		3pn:4,7r5:4
+aris thessaloniki b		7r5:4
+aris thessaloniki b c	7r5	
+aris thessaloniki f		3pn:4
+aris thessaloniki f c	3pn	
+aris thessaloniki fc	3pn	
+aris tt bank	7r5	
+aris zygos	i3v	
+asiatics	6hsv	
+asitane	1ou	
+aurice	3da6	
+autumnal crocus	1151	
+balaclava	65mp	
+balaclava 1928 film	65mp	
+balaclava film	65mp	
+bandeirante	2mv4	
+binocular band	33aa	
+c13h12f2n6o	2qe1	
+caytelyn	k2y	
+champsanglard	33y5	
+chaulnes	1fni	
+chaulnes france	1fni	
+chindwara district	zxs	
+chvalkovice	3oxg	
+chvalkovice nachod district	3oxg	
+clavulina	1a0a	
+cleorini	2xm3	
+cordilera region	2p6o	
+coulaines	415o	
+cravanche	408p	
+crave	3g4s	o2j:2
+crave entertainment	o2j	
+crave games	o2j	
+crave tv network	3g4s	
+david macdonald	xr4	
+david macdonald director	xr4	
+david tamburrino	67bk	
+dinanath mangeshkar	5f0l	
+disturbia	1yop	
+disturbia 2007 film	1yop	
+disturbia film	1yop	
+disturbia movie	1yop	
+douglasia moth	2l6n	
+echinomya	dno	
+eichmann	31k3,67q5	
+eichmann 2010 film	67q5	
+eichmann film	67q5	
+eichmann trial	31k3	
+einhorn richard	63n2	
+ekushe padak	3ja	
+episcop	74	
+erythema	6fj9	
+erythema chronic figurate	6fj9	
+estagell estagel	1flg	
+fayetville north carolina	6o2	
+flessera	6enz	
+frederick russell jones	j30	
+fsioniljose rosalessaga	1xko	
+gendreville	2hz5	
+gmina lewin		1gi2:3,20lq:3
+gmina lewin brzeski	1gi2	
+gmina lewin klodzki	20lq	
+gmina lewin kodzki	20lq	
+grinland	17z	
+henridorff	17l8	
+henry merrivale	3kds	
+horrors		3hox:2,4zql:5
+horrors of		4zql:5
+horrors of the		4zql:5
+horrors of the black		4zql:5
+horrors of the black museum	4zql	
+horrors of war book	12cp	
+horrors of war historical reality and philosophy	12cp	
+hypertriglyceridaemia	1z1c	
+icebear	g00	
+ilioupolis	2byl	
+ilioupolis greece	2byl	
+insurgence	3fnz	
+iruvar	4ubf	
+jean iv	63c7	
+jean iv de baviere	35oj	
+jean iv de bretagne	1t1v	
+jean iv de montfort	1t1v	
+jean iv of armagnac	2aka	
+jean iv of brittany	1t1v	
+jean iv of france	63c7	
+jean tatlian	2sd7	
+john cullum	2mw9	
+john furcolo	4goc	
+john stephens lopez	j9z	
+jolenta helen of hungary	1s98	
+jolenta of poland	1s98	
+juilly	2glq,38mg	
+juilly cote d or	38mg	
+juilly seine et marne	2glq	
+kapangan	2sc1	
+kapangan benguet	2sc1	
+kohawk	1awt	
+kovne	27z	
+krytolian	5sb2	
+kunemil	48eq	
+la frasnee	40hm	
+la vancelle	2b2s	
+lavender		114l:3
+lavender brown matilda character	6adg	
+lavender hill		114l:3
+lavender hill mob	114l	
+lavender matilda character	6adg	
+lavender mist	1etp	
+le guislain	3ihk	
+ledeg	3u48	
+leidschendam	15en	ti7:2
+leidschendam voorburg	ti7	
+leucemia	1ma	
+lifetime	5yy	
+lifetime achievement grammy	6bg	
+lifetime achievement tony award	58h6	
+lifetime cable	5yy	
+lifetime channel	5yy	
+lifetime doc	5dg5	
+lifetime entertainment	133y	
+lifetime movie	5yy	
+lifetime network	5yy	
+lifetime television	5yy	
+lifetime television movie	5yy	
+lifetime television network	5yy	
+lifetime tv	5yy	
+lifetime tv channel	5yy	
+liparidae	5cpt	
+livadiakos		2276:2
+livadiakos livadion	2276	
+macomb	1hwl	r36:2
+macomb city	1hwl	
+macomb county	r36	
+macomb county mi	r36	
+macomb county michigan	r36	
+macomb il	1hwl	
+macomb il micropolitan statistical area	14wv	
+macomb il msa	14wv	
+macomb il sa	14wv	
+macomb illinois	1hwl	
+macomb illinois micropolitan area	14wv	
+madstyle	4qqw	
+matissean	e5t	
+mdma	698e	
+mdma neurotoxicity	698e	
+mdma therapy	698e	
+menetou		1vk5:2,26sj:2,2epi:2
+menetou couture	26sj	
+menetou ratel	1vk5	
+menetou salon	2epi	
+michael porechenkov	65sn	
+michael rummenigge	5492	
+montu		2ilq:2
+montu beccaria	2ilq	
+mosson	3b1u	
+mosson cote d or	3b1u	
+mum	5got	
+mum band	5got	
+mum city	saq	
+mum comments	5got	
+nagako kuni	1kg4	
+nagako kuniyoshi	1kg4	
+nagamasu oda	250g	
+nakkila	2ddt	
+national rubgy league	ru5	
+national soccer		z64:3,4ftk:3
+national soccer league	z64	
+national soccer league australia	z64	
+national soccer stadium	4ftk	
+national soccer stadium at exhibition place	3cwe	
+national soccer stadium samoa	4ftk	
+national soccer stadium toronto	3cwe	
+national soccer team of france	1n4	
+national soccer team of ireland	279	
+norsk		9fl:3,1btq:2
+norsk arbeiderpresse	16t4	
+norsk biografisk		9fl:3
+norsk biografisk leksikon	9fl	
+norsk bokmal	1mdv	
+norsk film	1btq	
+norsk kulturrads aerespris	rd8	
+norsk kulturrads respris	rd8	
+norsk kundebarometer	12kc	
+norsk kvinnesaksforening	1mz3	
+norsk nynorsk	1ojs	
+norsk rikskringkasting	15yo	
+norsk transport	4p28	
+norsk transport as	4p28	
+norsk transportaktieselskab	4p28	
+norsk transportaktieselsksap	4p28	
+northpole	6gdw	
+omhex	4i0h	
+ornifle ou le courant d air	v6d	
+pathinenkizhkanakku	3387	
+paul corkum	36vj	
+paul joanovitch	4imk	
+perso arab	6ezy	
+perso arabic	6ezy	
+perso arabic alphabet	6ezy	
+perso arabic script	6ezy	
+perso roman wars	1v2m	
+peter joachim frohlich	2b83	
+pinecrest ontario	vx9	
+porrera	31r0	
+qiu	xvz	
+qiu chengtong	slm	
+qiu daxin	20jw	
+qiu li	5voh	
+qiu litao	m0d	
+qiu shuzhen	3er9	
+qiu surname	xvz	
+raincheval	38us	
+ranefer	4e98	
+rapina		1b5a:3
+rapina al sole	2w2p	
+rapina parish	1b5a	
+rapina rural		1b5a:3
+rapina rural municipality	1b5a	
+rapina vald	1b5a	
+raye		2v0u:3
+raye sur		2v0u:3
+raye sur authie	2v0u	
+reinhardtsdorf	3jog	3jog:2
+reinhardtsdorf schoena	3jog	
+reinhardtsdorf schona	3jog	
+renew america	6fz8	
+richard melville hall	a9s	
+roboticists	1cln	
+sagauche county	2duw	
+saint sardos	1pkc	
+saint sardos tarn et garonne	1pkc	
+sandy	3jd,ycf,24q1,3298,4utl	19xo:2,1mr9:2,1vrf:2,31o7:2,3298:2,386z:2,40vl:2,47aw:2,49gu:2,4gao:2,4gex:2,4m1l:2,4r0f:2,4rcy:2,4w7t:2,5fgg:2,5hb5:2,5k9k:2,5mng:2,6363:2,6ghd:2
+sandy barbosa	587w	
+sandy baron	31o7	
+sandy bedfordshire	4utl	
+sandy beds	4utl	
+sandy blond	2if	
+sandy bookstaver	3ibw	
+sandy brazilian singer	24q1	
+sandy brown	4r0f	
+sandy brown footballer	4r0f	
+sandy brown footballer born 1879	4r0f	
+sandy brown scottish footballer born 1878	4r0f	
+sandy brown scottish footballer born 1879	4r0f	
+sandy bull	386z	
+sandy bullock	gct	
+sandy calder	1fcj	
+sandy city ut	ycf	
+sandy city utah	ycf	
+sandy clark	4m1l	
+sandy cochrane	4gex	
+sandy courage	2fib	
+sandy danny	19xo	
+sandy davie	5mng	
+sandy dennis	1mr9	
+sandy denny	19xo	
+sandy duncan	40vl	
+sandy duncan actress	40vl	
+sandy eggo	je	
+sandy england	4utl	
+sandy faber	3ez1	
+sandy first name	3jd	
+sandy fly	46s0	
+sandy given name	3jd	
+sandy grease	ti4	
+sandy green mathematician	4jk1	
+sandy hill	3rmh	
+sandy hill new york	3rmh	
+sandy hook ontario	45je	
+sandy howard	47aw	
+sandy in disneyland	184n	
+sandy jardine	5k9k	
+sandy jenkins	18if	
+sandy kofacs	6ghd	
+sandy kofax	6ghd	
+sandy koufax	6ghd	
+sandy koufax comments	6ghd	
+sandy lam	5fgg	
+sandy lane cray wanderers stadium	ptf	
+sandy lane stadium	5xe	
+sandy lane worksop	5xe	
+sandy leah	24q1	
+sandy leah lima	24q1	
+sandy levin	5p2p	
+sandy loam	5e87	
+sandy mackendrick	33yu	
+sandy magnus	33qg	
+sandy meisner	2654	
+sandy municipality	3298	
+sandy name	3jd	
+sandy okoro	6dv6	
+sandy olson	ti4	
+sandy olsson	ti4	
+sandy park	3lzs	
+sandy patty	5bw5	
+sandy pearlman	4rcy	
+sandy pesavento	49gu	
+sandy point chile	mfx	
+sandy point ontario	1k6l	
+sandy point saint kitts	l4e	
+sandy powell	1vrf	
+sandy powell costume designer	1vrf	
+sandy robertson	4gao	
+sandy robertson footballer born 1971	4gao	
+sandy singer	24q1	
+sandy tait	4w7t	
+sandy thom	52mx	
+sandy tom	52mx	
+sandy ut	ycf	
+sandy utah	ycf	
+sandy west	49gu	
+sandy wilson	6363	
+sandy woodward	5hb5	
+sandy zevon	qlv	
+saranskeksport saransk	2h6g	
+schwyzerduetsch	8oq	
+seikan in	5ptf	
+serpiente de cascabel	27lw	
+seveso	2edn	5hmp:3
+seveso railway		5hmp:3
+seveso railway station	5hmp	
+sionko	2veu	
+socrate	jjg	
+sorigny	2r7f	
+spielburg	5ve	
+sprague de camp	5jd	
+sprague electric railway motor company	5g5x	
+the benthin		49qs:3
+the benthin family	49qs	
+the clovers	ico	
+the reckless		1mck:3
+the reckless moment	1mck	
+the stoker	6hlx	
+todai	vk	
+toivon tuolla puolen	2pnp	
+trasparente	2vre	
+university cisneriana	3po2	
+useras	2thi	
+useras les useres	2thi	
+utv ignition		1tlf:3
+utv ignition entertainment	1tlf	
+utv ignition games	1tlf	
+utv india	2k7n	
+utv motion		av3:3
+utv motion pictures	av3	
+utv records	hq	
+utv software		2k7n:3
+utv software communications	2k7n	
+vincinboon	5bcl	
+volynska oblast	hlm	
+walford gazette	49f	
+walford steve	5ulw	
+waot lp	e4d	
+win2k	u11	

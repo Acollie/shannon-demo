@@ -1,0 +1,305 @@
+195556		1ran:4
+195556 cypriot		1ran:4
+195556 cypriot first		1ran:4
+195556 cypriot first division	1ran	
+40s	140h	
+40s bc	26m7	
+40s bce	26m7	
+abainville	388y	
+adalton		54fc:3
+adalton luis		54fc:3
+adalton luis juvenal	54fc	
+anhilpur	4vm9	
+anhilpur patan	4vm9	
+audenge	3zvc	
+bhatneri language	260	
+bolozon	1l1z	
+burgfarrnbach	6wq	
+buriatya	m35	
+candon	27eh	
+candon city	27eh	
+candon ilocos sur	27eh	
+cansano	3wiy	
+cavarzere	13fn	
+cehnice	3o6c	
+chek lap kok airport	2jk9	
+chek law dak gung	63ca	
+chotyn	36yg	
+colombo	1m1,hhe	h9g:2
+colombo 8	65yo	
+colombo academy	376	
+colombo ceylon	1m1	
+colombo comments	1m1	
+colombo district	h9g	
+colombo law college	5ejr	
+colombo sevens	5dns	
+colombo sri lanka	1m1	
+colombo surname	hhe	
+colombo university	2dh6	
+cusano		2uzg:2,3yh1:2
+cusano milanino	3yh1	
+cusano mutri	2uzg	
+danial danny dyer	10oq	
+danial davari	3ub9	
+danial defoe	tuf	
+danial khan	evd	
+danial o connell	2bkr	
+dpc 2015	13qh	
+dpc 2016	1476	
+elijah	5qh5	iqj:2,qdy:4,5033:2,5ksn:2
+elijah cummings	5ksn	
+elijah e cummings	5ksn	
+elijah eliot	6edl	
+elijah eugene cummings	5ksn	
+elijah fed by ravens	5qh5	
+elijah jordan wood	iqj	
+elijah parish		qdy:4
+elijah parish lovejoy		qdy:4
+elijah parish lovejoy award	qdy	
+elijah s chair	5qh5	
+elijah s cup	5qh5	
+elijah tana	5033	
+elijah the prophet	5qh5	
+elijah the tishbite from tishby	5qh5	
+elijah wilhelm sandbox big brother 18 u s	2hcy	
+elijah wood	iqj	
+escazeaux	3as6	
+etrepagny	27a5	
+ficeae	7w0	
+fidea	69w8	
+fidea cycling team	69w8	
+flaubert gustave	nv1	
+flaubert in egypt	nv1	
+fleute a neufte trous	fl9	
+fuzinomiya	19zr	
+g4l	4gyd	
+gear box	1zek	
+gear of war 3	6bmu	
+gear reduction	1zek	
+ghoulardi film company	18be	
+gig	4360	
+gig airport	4360	
+gig harbor	1qfp	
+gig harbor city center washington	1qfp	
+gig harbor wa	1qfp	
+gig harbor washington	1qfp	
+gig harbour	1qfp	
+gig venue	3xu	
+gig young	ip5	
+glitterbeat records	1hqd	
+gmina gorno	2gu3	
+hazardous environment combat unit half life	1bx6	
+hermit	yxx	
+hermit cookie	jr8	
+hermit of peking	4g7p	
+hermit scientist	38bf	
+hierophasis	6fky	
+hooty and the blowfish	23ki	
+hroznatin	2yk1	
+huddlestone	3shh	
+indooroopilly reach	1a63	
+intraepidermal carcinoma	110j	
+inuktutut	27zh	
+ironclads	dye	
+james gore king	43q7	
+james lomell	37rm	
+japanil		6di8:2
+japanil kalyanaraman	6di8	
+jaraiz		2o9o:4
+jaraiz de		2o9o:4
+jaraiz de la		2o9o:4
+jaraiz de la vera	2o9o	
+jaraiz de la vera caceres	2o9o	
+jaraiz de la vera spain	2o9o	
+jean iris bayley	qwp	
+jean iris murdoch	qwp	
+john arden	5l75	
+john arden ferguson	2auc	
+john holm author	5e9e	
+kerama	5wax	5wax:2
+kerama archipelago	5wax	
+kerama islands	5wax	
+kerama kaikyo	5wax	
+kerama retto	5wax	
+kreidefelsen auf rugen	397v	
+lannebert	414i	
+longueauboulogne		2rhf:2
+longueauboulogne railway	2rhf	
+louis hereditary		3w66:6
+louis hereditary prince		3w66:6
+louis hereditary prince of		3w66:6
+louis hereditary prince of lorraine	2oav	
+louis hereditary prince of mecklenburg		3w66:6
+louis hereditary prince of mecklenburg schwerin	3w66	
+madiera	b4t	
+manzanera	3swk	
+manzanera spain	3swk	
+manzanera teruel	3swk	
+maria jolina perez magdangal	56xa	
+mcmxlii	18yg	
+menifee		39nw:2
+menifee county	39nw	
+menifee county kentucky	39nw	
+menifee county ky	39nw	
+michael james		4toy:3
+michael james adams	4toy	
+michael james coulson	64yg	
+michael james fitzgerald	446c	
+michael james foreman	4rs7	
+michael james grant ireland	22xw	
+michael james lighthill	204k	
+michael james massimino	3flv	
+michael james mcculley	5hbc	
+michael james mike vogel	1a7z	
+michael james mike williamson	5693	
+michael james ness	4upt	
+michael james noonan	4lxt	
+michael james owen	15in	
+michael james owen pallett	2oj5	
+michael james steuart dewar	67v2	
+michael james stewart dewar	67v2	
+michael james vogel	1a7z	
+michael james way	5d89	
+michael james williams	2vrd	
+michael james williamson	5693	
+michael james woods	4qax	
+mikail markhasev	5rom	
+mikail yurevich lermontov	wm4	
+minna	wi8,2xwc	14xc:2,4pew:2,4pqn:2,5ywq:2
+minna canth	4pqn	
+minna first name	wi8	
+minna given name	wi8	
+minna gombel	14xc	
+minna gombell	14xc	
+minna haapkyla	5ywq	
+minna jorgensen	4pew	
+minna jrgensen	4pew	
+minna maria erika haapkyla	5ywq	
+minna stern	1921	
+mizubischi	j89	
+mocacity	1mv1	
+moot the hoople	1hlv	
+muinos	46o7	
+nago	19us	
+nago okinawa	19us	
+nago torbole	2zze	
+namsos	n89	n89:2
+namsos municipality	n89	
+neononia	53iy	
+ninville	24fi	
+novohrad volyns kyi	21hv	
+novohrad volynsky	21hv	
+novohrad volynskyi	21hv	
+novohrad volynskyy	21hv	
+oushak	ihq	
+panofsky	27op	29hn:2
+panofsky prize	29hn	
+panofsky prize in experimental particle physics	29hn	
+paul donnelly	6cyq	
+paul donnelly defender	6cyq	
+paul donnelly english footballer	6cyq	
+paul donnelly footballer born 1981	6cyq	
+paul eugene gillmor	546d	
+paul eugene henri gauguin	i1q	
+paul eugene louis deschanel	3064	
+perejeslav	325c	
+peter coyote	lar	
+peter fieber	5dcz	
+posun yun	5jfn	
+prince henri		16dm:4,3uii:4,5fjj:5
+prince henri count		5fjj:5
+prince henri count of		5fjj:5
+prince henri count of chambord	5fjj	
+prince henri d		16dm:4,3uii:4
+prince henri d orleans	16dm,3uii	
+prince henri duke of aumale	107s	
+prince henri of orleans	3uii	
+princess ljubica petrovic njegos of montenegro	1bfw	
+prosecutors	9em	
+pudd		5xgf:3,5xgg:3
+pudd n head wilson	5xgg	
+pudd nhead		5xgf:3,5xgg:3
+pudd nhead wilson	5xgf,5xgg	
+pudd nhead wilson comments	5xgg	
+pudd nhead wilson film	5xgf	
+punchy	3esi	
+punchy somme	3esi	
+pyranees	50n	
+qadar axmat khant ramzan	1os7	
+qapla	32qn	
+queensmen	tb	
+reiter thomas	19ua	
+riudaura	3i1c	
+robert chartoff	so1	
+rosult	216b	
+schweiker richard	60j1	
+shalal		pgn:7
+shalal and		pgn:7
+shalal and dasht		pgn:7
+shalal and dasht e		pgn:7
+shalal and dasht e gol	pgn	pgn:7
+shalal and dasht e gol rural		pgn:7
+shalal and dasht e gol rural district	pgn	
+shipbreaking	17vw	
+shuk	66jk	
+sinograph	ipz	
+sommering	4k2z	
+strumjani municipality	1gq7	
+sulvalki	p6q	
+svtb	4xo3	
+swatou	ofq	
+the chrysler building	2lkm	
+the hayman kupa band	5ofr	
+the zhongtong emperor	177d	
+tiquisia	o0	
+trebinje	n1l	
+trebinje municipality	n1l	
+uhorska skalica	18ru	
+un amour		167d:4
+un amour de		167d:4
+un amour de poche	1wcq	
+un amour de swann	167d	
+un amour de swann 1984 film	167d	
+un amour de swann film	167d	
+un amour en allemagne	2lho	
+uttarakaanda	28is	
+vaccaro	4wyp	
+vaccaro surname	4wyp	
+vapnik	4es6	
+vapnik s principle	4es6	
+verbz	207s	
+vollore		285h:2,2y6z:2
+vollore montagne	285h	
+vollore ville	2y6z	
+vukasin		2o83:2,4bkx:2,4sgh:2,58a2:2,5gu1:2
+vukasin aleksic	4bkx	
+vukasin jovanovic	58a2	
+vukasin mrnjavcevic	2o83	
+vukasin of serbia	2o83	
+vukasin poleksic	4sgh	
+vukasin radomir poleksic	4sgh	
+vukasin tomic	5gu1	
+vukasin trivunovic	6c6v	
+walenstadt	xtk	
+walenstadt sg	xtk	
+walenstadt st gallen	xtk	
+walenstadt switzerland	xtk	
+woollcott alexander	5g5v	
+woollcott alexander humphreys	5g5v	
+xiberu	qod	
+yiyang	15td	
+yiyang hunan	15td	
+yong	t35	5ps4:3
+yong hwa	2ub4	
+yong in	1ajg	5ps4:3
+yong in university	5ps4	
+yong joc	2j43	
+yong myung moon	4tuu	
+yong rong	4rvf	
+yong san gu	2muz	
+yong sung yoo	2en7	
+yong tcheou fou	1hzp	
+yong zheng	vug	
+zakharchenko alexander	4rq6	
+ziyu	6gvk	
+zygoglossum	r6	

@@ -1,0 +1,371 @@
+a chamberlain	2vx2	
+agalloch	1td4	
+agalloch band	1td4	
+agalloch discography	1td4	
+akassou	624p	
+akassou jean bamptiste	624p	
+alexander alabama	1oiy	
+altarejos	4gph	
+argentina	2d	1fs:4,3nt:6,aiq:6,f7k:3,g1c:5,lqf:6,1aip:2,3lro:7,4xg7:7
+argentina 1978	2wn	
+argentina 78	2wn	
+argentina brazil war	631c	
+argentina brunetti	1aip	
+argentina confederation	5qhi	
+argentina cordoba	2nt	
+argentina ferrau	1aip	
+argentina football team	1fs	
+argentina in mexico 1986	1zh	
+argentina in mexico 86	1zh	
+argentina independiente	2my	
+argentina information	2d	
+argentina men		3lro:7
+argentina men s		3lro:7
+argentina men s national		3lro:7
+argentina men s national field		3lro:7
+argentina men s national field hockey		3lro:7
+argentina men s national field hockey team	3lro	
+argentina men s national football team	1fs	
+argentina national		1fs:4,3nt:6,aiq:6,g1c:5,lqf:6
+argentina national football		1fs:4
+argentina national football team	1fs	
+argentina national football team kit	1fs	
+argentina national football team kits	1fs	
+argentina national football team under 23	lqf	
+argentina national rugby		g1c:5
+argentina national rugby team	g1c	
+argentina national rugby union		g1c:5
+argentina national rugby union team	g1c	
+argentina national u 20 football team	3nt	
+argentina national under		3nt:6,aiq:6,lqf:6
+argentina national under 17		aiq:6
+argentina national under 17 football		aiq:6
+argentina national under 17 football team	aiq	
+argentina national under 18 football team	3nt	
+argentina national under 20		3nt:6
+argentina national under 20 football		3nt:6
+argentina national under 20 football team	3nt	
+argentina national under 21 rugby union team	g1c	
+argentina national under 22 football team	lqf	
+argentina national under 23		lqf:6
+argentina national under 23 football		lqf:6
+argentina national under 23 football team	lqf	
+argentina national under20 football team	3nt	
+argentina olympic football team	lqf	
+argentina olympic team	lqf	
+argentina open	2688	
+argentina primera division	64i	
+argentina provinces	2p6b	
+argentina republic	2d	
+argentina rugby union team	g1c	
+argentina rugby union tours	g1c	
+argentina sono		f7k:3
+argentina sono film	f7k	
+argentina sono film s a c i	f7k	
+argentina sono film saci	f7k	
+argentina u 17	aiq	
+argentina u 20	3nt	
+argentina u 23	lqf	
+argentina u20	3nt	
+argentina under 20 national football team	3nt	
+argentina women		4xg7:7
+argentina women s		4xg7:7
+argentina women s national		4xg7:7
+argentina women s national association		4xg7:7
+argentina women s national association football		4xg7:7
+argentina women s national association football team	4xg7	
+argentina women s national football team	4xg7	
+arhinencephaly	69f7	
+aspheterism	72l	
+atsuko	2h76	1v8v:2,2xah:2,38lh:2,4214:2,5us9:2
+atsuko chiba	1on1	
+atsuko first name	2h76	
+atsuko given name	2h76	
+atsuko ikeda	38lh	
+atsuko maeda	1v8v	
+atsuko name	2h76	
+atsuko takahata	5us9	
+atsuko tanaka	4214	
+atsuko tanaka voice actress	4214	
+atsuko yuya	2xah	
+audition	2tnc	6ga2:2
+audition 1999 film	2tnc	
+banghaz	djl	
+banghaz municipality	djl	
+banghaz municipality libya	djl	
+bankjob	1mdz	
+barbadan	1kj	
+bartholdi frederic auguste	2gov	
+bayu sutha	68y6	
+birbhum	h9e	h9e:2
+birbhum district	h9e	
+borstal		66j8:2
+borstal boy	66j8	
+borstal boy film	66j8	
+broomfield	15hb	
+broomfield aberdeenshire	5unr	
+broomfield co	15hb	
+broomfield colorado	15hb	
+broomfield colorado usa	15hb	
+broomfield county	15hb	
+broomfield county co	15hb	
+broomfield county colorado	15hb	
+chevreaux	1pxi	
+clemensia	xtm	
+corneilhan	2i0w	
+cuidado		54me:4,5ahr:4
+cuidado con		54me:4,5ahr:4
+cuidado con las		54me:4,5ahr:4
+cuidado con las colas	5ahr	
+cuidado con las mujeres	54me	
+curiosities of literature	64cf	
+cuyahoga		eab:2,1y1s:2,5i27:2
+cuyahoga county	eab	
+cuyahoga county oh	eab	
+cuyahoga county ohio	eab	
+cuyahoga county ohio comments	eab	
+cuyahoga falls	1y1s	
+cuyahoga falls oh	1y1s	
+cuyahoga falls ohio	1y1s	
+cuyahoga river	5i27	
+cuyahoga river fire	5i27	
+danjahandz	38un	
+david ernest apter	60ae	
+donaueschingen	1cb3	
+donaueschingen comments	1cb3	
+drumnbass	30s	
+editha mccormick	52bi	
+ekranas	gsz	
+ekranas panevezys	gsz	
+eremorchis	4yz	
+erythraia	1tm	
+etf	46od	
+eulalie		1u1o:2
+eulalie jensen	1u1o	
+evergnicourt	2tyy	
+falera	36d9	
+falera gr	36d9	
+falera graubuenden	36d9	
+falera graubunden	36d9	
+falera grisons	36d9	
+falera switzerland	36d9	
+fc zvezda		9wp:3,ijo:3,2rhj:3,3082:3
+fc zvezda 2005 perm	10i9	
+fc zvezda bgu	r45	
+fc zvezda bgu minsk	r45	
+fc zvezda dzhizak	stj	
+fc zvezda gorodische	3082	
+fc zvezda gorodishche	3082	
+fc zvezda irkutsk	9wp	
+fc zvezda jizzakh	stj	
+fc zvezda kirovograd	7qc	
+fc zvezda kirovohrad	7qc	
+fc zvezda minsk	r45	
+fc zvezda moscow	g9s	
+fc zvezda moskva	g9s	
+fc zvezda perm	2rhj	
+fc zvezda rus gorodische	3082	
+fc zvezda rus gorodishche	3082	
+fc zvezda ryazan	e45	
+fc zvezda serpukhov	ijo	
+fc zvezda tiraspol	f3g	
+fc zvezda va bgu minsk	r45	
+fc zvezda yunis sib irkutsk	9wp	
+felleries	296f	
+ferrette	295w	
+filipo brunelleschi	29si	
+frampton peter	12j0	
+frk mllers		2uur:3
+frk mllers jubilum	2uur	
+frk mollers jubilaeum	2uur	
+frk nitouche	4lo2	
+frk vildkat	1zn9	
+gendy tartakovsky	2k5f	
+giran county	sum	
+goodhue		ltk:2
+goodhue bertram grosvenor	4ss2	
+goodhue county	ltk	
+goodhue county mn	ltk	
+greter manchester	at7	
+grigulevich	3dox	
+hasler	2hxy	
+haudrecy	3b8u	
+hayashi		3a2u:2,652y:2
+hayashi doshun	652y	
+hayashi nobukatsu	652y	
+hayashi razan	652y	
+hayashi senjuro	63gz	
+hayashi tadasu	3a2u	
+hayashi toshisuke	20ez	
+hayashi yoshiki	ldg	
+hayashi yumika	5sws	
+heihe	2u2c	
+heihe city	2u2c	
+heihe heilongjiang	2u2c	
+heihe prefecture	2u2c	
+hgtv	4dbu	
+hgtv com	4dbu	
+hgtv magazine	4dbu	
+hgtv united states	4dbu	
+hgtv usa	4dbu	
+inventaire suisse des biens culturels d importance nationale et regionale	2ijf	
+james dennis russell	4b27	
+john paterson	6329	
+john paterson footballer	6329	
+john sheyer	4hmf	
+kamehime	1u9k	
+kerkom bij sint truiden	edg	
+kigeli		5dh6:4
+kigeli v	5dh6	5dh6:4
+kigeli v king of rwanda	5dh6	
+kigeli v ndahindurwa	5dh6	
+kigeli v of		5dh6:4
+kigeli v of rwanda	5dh6	
+kjardla	5em8	
+klytemnastra	3enk	
+lahore	15a	
+lahore cbd	15a	
+lahore city	15a	
+lahore government college	7bk	
+lahore pk	15a	
+lahore punjab	15a	
+lahore subah	15a	
+lahore topics	15a	
+letheobia	31fg	
+liezen	1t10	etb:2
+liezen district	etb	
+louis herthum	5weg	
+mbfgw	1ccu	
+mbfgw 2	2ft9	
+menorca	1036	23vq:2
+menorca basket	23vq	
+menorca basquet	23vq	
+menorca island	1036	
+metachandini	mxz	
+michael riva	40s4	
+mieczylaw karlowicz	5wdz	
+mirid	8w8	
+mirid bug	8w8	
+mirid bugs	8w8	
+nampo	3pj1	
+nampo north korea	3pj1	
+nampo si	3pj1	
+new egyptian kingdom	6gvj	
+new testamant	arr	
+nordstgrnlands nationalpark	a9e	
+osmeriformes	5tn5	
+oxfordshire	4z6	52yd:3
+oxfordshire county		52yd:3
+oxfordshire county council	52yd	
+oxfordshire county hall	4z6	
+oxfordshire england	4z6	
+parnas	435b	
+paul bartram		5e3n:3
+paul bartram dague	5e3n	
+paul keen mokeski	438a	
+pbm	328l	
+pbm airport	328l	
+peio	2w2j	
+peio bilbao	3t4m	
+pelopponesian war	1pge	
+peter haberle	4xkl	
+pisutoru opera	66j5	
+plancy		1aau:3
+plancy l		1aau:3
+plancy l abbaye	1aau	
+psfl	666f	
+radial		tcb:2,15gw:2
+radial drainage	6hl2	
+radial drainage system	6hl2	
+radial engine	15gw	
+radial engine stationary	15gw	
+radial engines	15gw	
+radial lead resistor	5sv5	
+radial piston	15gw	
+radial piston engine	15gw	
+radial speed	tcb	
+radial velocities	tcb	
+radial velocity	tcb	
+radial velocity curve	tcb	
+rdy	2d5g	
+rdy municipality	2d5g	
+redditch	gwt	ash:4
+redditch district council	gwt	
+redditch england	gwt	
+redditch f c	ash	
+redditch united	ash	ash:4
+redditch united f		ash:4
+redditch united f c	ash	
+redditch united fc	ash	
+redditch united football club	ash	
+regla	2m37	
+regla cuba	2m37	
+regla la habana cuba	2m37	
+richard chamberlain	s0w	
+richard chamberlain actor	s0w	
+rienhold niebuhr	297b	
+robert neagoe	4m5s	
+romancatholicchurch	4v	
+saavedra		5m18:2
+saavedra javier	5a5v	
+saavedra lamas	4yh4	
+saavedra partido	5m18	
+saavedra ramirez de baquendano angel de duque de rivas	51cl	
+saavedra remirez de baquedano angel de	51cl	
+saent malo	74g	
+salahaddin		4zwt:2
+salahaddin governorate	39sl	
+salahaddin kazimov	4zwt	
+salahaddin province	39sl	
+sanshiro		3a8e:2,4itc:4
+sanshiro sugata	3a8e	4itc:4
+sanshiro sugata 1943 film	3a8e	
+sanshiro sugata 1943 movie	3a8e	
+sanshiro sugata part		4itc:4
+sanshiro sugata part ii	4itc	
+shalimar	5z5k	
+shalimar 1978 film	5z5k	
+shoto sword	5agm	
+singles	21tc,36di	
+singles 1992 film	21tc	
+singles 8185		641a:3
+singles charts	mme	
+singles music	t	
+singles puy de dome	36di	
+singles songs	t	
+sir hiss	s6k	
+sivasagar	3ps8	1sn1:2
+sivasagar district	1sn1	
+skripka oleg yurievich	273t	
+tarichina	2qi6	
+telemundo	sc0	
+telemundo argentina	sc0	
+telemundo media	sc0	
+telemundo mexico	sc0	
+telemundo s	sc0	
+telemundo spain	sc0	
+telemundo television network	sc0	
+telemundo usa	sc0	
+teleoptik	7h3	
+teleoptik zemun	7h3	
+the arabia of the sauds	f6	
+the insane clown posse	mht	
+the insane warrior	3pzt	
+the nude	44d	1ts5:3
+the nude bomb	1ts5	
+the nude maja	4cm3	
+the promus companies	3um3	
+therevidae	6f9v	
+torgmash lyubertsy	4gvk	
+tosima ku	hvm	
+tosima ku tokyo	hvm	
+tosima tokyo	hvm	
+trafficone	3elx	
+tralles	t2s	
+trinay	3bzh	
+tvnz1	31qf	
+unhygienic	2m5q	
+venga a prendere il caffe da noi	5yy5	
+venga boys	359t	
+vomitive	fs9	
+yemeda	4asq	

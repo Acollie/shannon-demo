@@ -1,0 +1,401 @@
+12eme arrondissement paris	b76	
+1680s	27t0	
+a prayer		1vfy:5
+a prayer for		1vfy:5
+a prayer for the		1vfy:5
+a prayer for the dying	1vfy	
+aedile	crh	
+almorah	1r1r	
+amilton		63yt:2
+amilton prado	63yt	
+antiflag	1btp	
+apa	6mm	
+apa award		70i:8,2vsn:8
+apa award for		70i:8,2vsn:8
+apa award for distinguished		70i:8
+apa award for distinguished scientific		70i:8
+apa award for distinguished scientific contributions		70i:8
+apa award for distinguished scientific contributions to		70i:8
+apa award for distinguished scientific contributions to psychology	70i	
+apa award for lifetime contributions to psychology	2vsn	
+apa award for outstanding		2vsn:8
+apa award for outstanding lifetime		2vsn:8
+apa award for outstanding lifetime contributions		2vsn:8
+apa award for outstanding lifetime contributions to		2vsn:8
+apa award for outstanding lifetime contributions to psychology	2vsn	
+apa org	6mm	
+ashurmatov	4v7x	
+aunou		299k:3,3nqt:3
+aunou le		3nqt:3
+aunou le faucon	3nqt	
+aunou sur		299k:3
+aunou sur orne	299k	
+auteur de l offrande a la patrie	35bm	
+bastion	1tor	
+bastion game	1tor	
+bastion video game	1tor	
+berengaria		1fw5:3,1tnq:3,1zxn:3,20sn:6,2jbx:3,5lrd:3
+berengaria of		1fw5:3,1tnq:3,1zxn:3,20sn:6,2jbx:3,5lrd:3
+berengaria of barcelona	1zxn	
+berengaria of castile	1tnq	20sn:6
+berengaria of castile lady		20sn:6
+berengaria of castile lady of		20sn:6
+berengaria of castile lady of guadalajara	20sn	
+berengaria of leon	2jbx	
+berengaria of navarre	5lrd	
+berengaria of portugal	1fw5	
+berengaria princess of portugal	1fw5	
+berry	3ww	xyp:2,1vmt:2,276v:3,2ugp:2,44ke:2,5z99:4
+berry allen field	iqa	
+berry aneurysm	1f2n	
+berry au		276v:3
+berry au bac	276v	
+berry bill	18rv	
+berry bonds	1ot3	
+berry botanical	3ww	
+berry botanical definition	3ww	
+berry botanical use	3ww	
+berry botany	3ww	
+berry bouy	2ugp	
+berry brian	5xzi	
+berry gordy	xyp	
+berry gordy jnr	xyp	
+berry gordy jr	xyp	
+berry gordy s last dragon	2qbs	
+berry gordy s the last dragon	2qbs	
+berry is		5z99:4
+berry is on		5z99:4
+berry is on top	5z99	
+berry ken	4fnh	
+berry kroeger	1vmt	
+berry kroger	1vmt	
+berry like	3ww	
+berry matt	1rdv	
+berry powel	44ke	
+berry powell	44ke	
+berry sugar	782	
+blackfellow	151v	
+bodilis	27zc	
+brangaza	99z	
+cardial arrhythmia	18iq	
+carlsbad	6cp,b19,18l1	
+carlsbad artesia nm micropolitan statistical area	1gya	
+carlsbad artesia nm msa	1gya	
+carlsbad artesia nm sa	1gya	
+carlsbad bohemia	6cp	
+carlsbad ca	b19	
+carlsbad calif	b19	
+carlsbad california	b19	
+carlsbad classic	zeu	
+carlsbad czech republic	6cp	
+carlsbad n m	18l1	
+carlsbad new mexico	18l1	
+carlsbad new mexico micropolitan area	1gya	
+carlsbad nm	18l1	
+carlsbad region	17xq	
+cateri	2nxr	
+ceratioidea	52pv	
+charles dante gabriel rossetti	ner	
+chiangsu	62f	
+chlamydastis	ec5	
+citizenfour	nfb	
+citizenfour film	nfb	
+cizova	2yzy	
+clairfayts	417j	
+comsci	42y	
+creepshow	1aq4	4x7q:2
+creepshow 2	4x7q	
+creepshow film	1aq4	
+cryllic	1nq	
+cryllic alphabet	1nq	
+cryllic languages	2u2g	
+cujskaja oblast	ynz	
+cytoxan lyoph	oo6	
+darkman	1in3	3bem:6,4ifa:5
+darkman 2	3bem	
+darkman 3	4ifa	
+darkman ii		3bem:6
+darkman ii the		3bem:6
+darkman ii the return		3bem:6
+darkman ii the return of		3bem:6
+darkman ii the return of durant	3bem	
+darkman iii		4ifa:5
+darkman iii die		4ifa:5
+darkman iii die darkman		4ifa:5
+darkman iii die darkman die	4ifa	
+darkman movie	1in3	
+darkman x	iyk	
+documenta	44ae	4dah:2,5xu4:2
+documenta 13	5xu4	
+documenta 14	4dah	
+documenta xiv	4dah	
+dolly		5gu:3,284u:2,30ae:3,4m99:2,4svh:7,52av:2
+dolly bell	5nif	
+dolly bellfield	58q2	
+dolly davis	52av	
+dolly gets		30ae:3
+dolly gets ahead	30ae	
+dolly haas	284u	
+dolly macht karriere	30ae	
+dolly madison	6ggd	
+dolly menga	4m99	
+dolly pardon	5gu	
+dolly parton	5gu	5gu:3,4svh:7
+dolly parton celebrity theatre	3rg5	
+dolly parton dean	5gu	
+dolly parton s		4svh:7
+dolly parton s christmas		4svh:7
+dolly parton s christmas of		4svh:7
+dolly parton s christmas of many		4svh:7
+dolly parton s christmas of many colors	4svh	
+dolly parton s christmas of many colors circle of love	4svh	
+dolly payne todd	6ggd	
+dolly rebecca parton	5gu	
+dolly rebecca parton dean	5gu	
+dolly sisters	1z9o	1z9o:3
+dolly todd	6ggd	
+donosti	2fs	
+dumpling	n9x	
+echallon	1lwx	
+erc	hyj	
+erc ingolstadt	1tpu	
+ermoupoli	1m8j	
+esblygeois	2rum	
+ettenhausen zh	1gjw	
+exophya	cpw	
+ferolles	3n98	2dbi:2
+ferolles attilly	2dbi	
+fickel	1fwf	
+frederick m		5zaz:3,60wb:4
+frederick m bernthal	5zaz	
+frederick m franks	60wb	60wb:4
+frederick m franks jr	60wb	
+frederick m vinson	5ffq	
+froningen	2j8q	
+fuentespreadas	403f	
+fuentespreadas spain	403f	
+fuentespreadas zamora	403f	
+glorvina	3f0b	
+gmina koniecpol	rdp	
+goshu	5hpz	
+goshu province	5hpz	
+gpw	hfk	
+greenheys manchester	69ys	
+hagedet	3qka	
+halidom	6ayj	
+hardi		24cs:2
+hardi pardaillan	24cs	
+harthaknut iii	3a1u	
+harthaknut iii of denmark	3a1u	
+heumen	1ybv	
+highfield house	sjz	
+hohu	1mgb	
+i cinque		65hu:4
+i cinque dell		65hu:4
+i cinque dell adamello	65hu	
+imuran	4nc0	
+iodene	a30	
+ippolito		424a:4,49ti:3
+ippolito d		49ti:3
+ippolito d este	49ti	
+ippolito i d este	49ti	
+ippolito i deste	49ti	
+ippolito ii		424a:4
+ippolito ii d		424a:4
+ippolito ii d este	424a	
+james bennett	66z1	
+james bennett footballer born 1988	66z1	
+james bennett stewart	5sai	
+john passos	19k1	
+john southworth ritter	h2p	
+kaadhar	1zq1	
+karie kahimi	568c	
+kazunri yamauchi	5vdr	
+kristiina	19o8	4v5u:2
+kristiina first name	19o8	
+kristiina given name	19o8	
+kristiina ojuland	4v5u	
+kurros	23ak	
+le beaucet	30xq	
+le temple	28x7,2dls	282h:4
+le temple gironde	28x7	
+le temple loir et cher	2dls	
+le temple sur		282h:4
+le temple sur lot	282h	
+lehrter bahn	453x	
+lehrter bahnhof	137r	
+lehrter stadtbahnhof	137r	
+lehrter station	137r	
+louplande	391j	
+lushunkou	z2y	z2y:2
+lushunkou district	z2y	
+lushunkou qu	z2y	
+magalore	8vs	
+malmohus		1t57:2
+malmohus county	1t57	
+malmohus lan	1t57	
+malmohus lans norra	1t57	
+malmohus lans sodra	1t57	
+mastibek		6534:2
+mastibek tashmukhamedov	6534	
+mediterreanean progressive	4y6w	
+mesopaganism	20yy	
+michael dorris	53cr	
+michael hahn	53y1	
+moia	1j1v	
+nanyang	rp2	
+nanyang city	rp2	
+nanyang henan	rp2	
+nanyang public school	gwq	
+new castle	eug,otw,1na4	7kz:3
+new castle country police department	7kz	
+new castle county	7kz	
+new castle county council	7kz	
+new castle county de	7kz	
+new castle county delaware	7kz	
+new castle county delaware sandbox	7kz	
+new castle county police department	7kz	
+new castle de	otw	
+new castle del	otw	
+new castle delaware	otw	
+new castle historic district new castle delaware	otw	
+new castle in	1na4	
+new castle in micropolitan statistical area	kdl	
+new castle in msa	kdl	
+new castle in sa	kdl	
+new castle indiana	1na4	
+new castle indiana micropolitan area	kdl	
+new castle nsw	3hh	
+new castle pa	eug	
+new castle pa micropolitan statistical area	106s	
+new castle pa msa	106s	
+new castle pa sa	106s	
+new castle pennsylvania	eug	
+new castle pennsylvania micropolitan area	106s	
+nombela	2ieo	
+nombela spain	2ieo	
+nombela toledo	2ieo	
+nurmagambetov	2fxp	
+oddball 102 dalmatians	z4x	
+oddball 102 dalmations	z4x	
+palpatine	6ggj	
+palpatine as a ruler	6ggj	
+palpatine darth sidious	6ggj	
+paul young	2c3m,5t2l	
+paul young football	5t2l	
+paul young footballer	5t2l	
+paul young q tips singer	2c3m	
+paul young singer and guitarist	2c3m	
+paul young singer born 1956	2c3m	
+paul young soccer	5t2l	
+paul young streetband q tips and solo singer	2c3m	
+peter georg		5to0:3
+peter georg bang	5to0	
+posada		2xoz:3
+posada alexander	6dx5	
+posada de		2xoz:3
+posada de valdeon	2xoz	
+posada de valdeon leon	2xoz	
+posada de valdeon spain	2xoz	
+precious	1bdp	5p7m:2,67jc:2
+precious 2009	1bdp	
+precious 2009 film	1bdp	
+precious based on the novel push by sapphire	1bdp	
+precious bodily fluids	hfl	
+precious dede	67jc	
+precious emuejeraye	5p7m	
+precious film	1bdp	
+precious gems	1xrk	
+precious gemstone	1xrk	
+precious stone	1xrk	
+precious stones	1xrk	
+puertorriqueno	v7	
+regulating act	smw	
+richard goddard		5ri8:3
+richard goddard crawley	5ri8	
+richard sharpe	1oof	
+richard sharpe character	1oof	
+richard sharpe fictional character	1oof	
+richard sharpe fictional character published order	1oof	
+robert cornelius corddry	s4j	
+robert craufurd	5gm9	
+robert scannewin	6aa6	
+rrethi i matit	3m85	
+ruschlikon	22x7	
+ruschlikon switzerland	22x7	
+ruschlikon zh	22x7	
+ruschlikon zurich	22x7	
+ryuutaroo hasimoto	5te9	
+sectarian violence in nigeria	5p	
+skydeck ledge	247w	
+smyrni	2ec1	
+sommepy		1olu:2
+sommepy tahure	1olu	
+stolberg	k2f	1wam:2
+stolberg harz	1wam	
+stolberg rheinland	k2f	
+stolberg rhineland	k2f	
+stolberg rhld	k2f	
+stolberg saxony anhalt	1wam	
+sudomerice		2z62:3
+sudomerice u		2z62:3
+sudomerice u bechyne	2z62	
+surfjam steve	157u	
+thae korean surname	34uu	
+the basketball		1rd2:3
+the basketball diaries	1rd2	
+the basketball diaries film	1rd2	
+the basketball diaries soundtrack	1rd2	
+the cinema		609l:3,65v6:3
+the cinema guild	609l	
+the cinema murder	65v6	
+the miracle	26i5,652t	2iwj:3,2m1s:5,369s:3,3dlw:6,3g5f:3,3u3g:5,4x8c:4,56d1:3,5c6r:3,5mez:3
+the miracle 1959 film	26i5	
+the miracle album	652t	
+the miracle child	5c6r	
+the miracle in		4x8c:4
+the miracle in valby	4x8c	
+the miracle man	56d1,5mez	
+the miracle man 1919 film	5mez	
+the miracle man 1932 film	56d1	
+the miracle match	29gn	
+the miracle mile shot	4dtl	
+the miracle mile shot photograph of rap group n w a	4dtl	
+the miracle of		2m1s:5,3dlw:6,3u3g:5
+the miracle of father		2m1s:5
+the miracle of father malachia	2m1s	
+the miracle of marcelino	5eqh	
+the miracle of morgan		3dlw:6
+the miracle of morgan s		3dlw:6
+the miracle of morgan s creek	3dlw	
+the miracle of morgans creek	3dlw	
+the miracle of the		3u3g:5
+the miracle of the bells	3u3g	
+the miracle on 34th street	11hn	
+the miracle queen	652t	
+the miracle rider	369s	
+the miracle woman	2iwj	
+the miracle worker	3g5f	
+the miracle worker 1962 film	3g5f	
+thomas alexander cochrane	1t14	
+thomas alexander dekker	21rh	
+thomas alexander heatherwick	2z6b	
+titose	2dei	
+titose hokkaido	2dei	
+trhala	p12	
+valdeci		2yln:4
+valdeci basilio		2yln:4
+valdeci basilio da		2yln:4
+valdeci basilio da silva	2yln	
+vroil	3w9l	
+whitwell	4p55	
+whitwell derbyshire	4p55	
+whitwell music festival	4p55	
+wxwigets	dxl	
+xes 2014 film	d38	
+yorck	2c9t	
+zacapa	26rb	4ar1:2
+zacapa department	4ar1	
+zacapa guatemala	26rb	
+zacapa municipality	26rb	
+zacapa zacapa	26rb	

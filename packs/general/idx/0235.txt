@@ -1,0 +1,433 @@
+aborticide	g93	
+adler	cna	15xe:2,5iu6:2
+adler alfred	336k	
+adler allison	2js0	
+adler charlie	26xb	
+adler fels	5iu6	
+adler gilbert	2ngk	
+adler guido	61z4	
+adler jens	5jnc	
+adler jerry	3phk	
+adler lawrence cecil	21td	
+adler lou	1fm5	
+adler mannheim	15xe	
+adler margot	5hbo	
+adler mark	3x0r	
+adler nicky	2law	
+adler renata	6ds0	
+adler rene	4srh	
+adler richard	3w9v	
+adler ross	3w9v	
+adler sara	3tx2	
+adler sarah	40ca	
+adler steven	4sxm	
+adler surname	cna	
+adler tag	7yb	
+adler thomas	5a6d	
+adler victor	2z0w	
+adler willie	1vre	
+agnieres	2mpy	3ww4:3
+agnieres en		3ww4:3
+agnieres en devoluy	3ww4	
+aillas	1kw1	
+alchoholic beverage	fbn	
+alexander gustav adolf graf von schleinitz	646s	
+ambient		2mu:2,5qh6:2
+ambient breakbeat	o9t	
+ambient drone	xrk	
+ambient dub	2mu	
+ambient genre	2mu	
+ambient groove	2mu	
+ambient house	5qh6	
+ambient industrial	ehj	
+ambient music	2mu	
+ambient pressure diving	11z4	
+ambient rock	2ks	
+ambient techno	bl1	
+antibiotic	2svm	
+antibiotic classification	2svm	
+aucun	2xfr	
+babinops	3elp	
+bcsff	4wrg	
+beaudry quebec	dht	
+bedevilled	4rr7	
+bedevilled 1955 film	4rr7	
+belgorod	dtm	hvh:2
+belgorod dnestrovsky	x3d	
+belgorod oblast	hvh	
+belgorod region	hvh	
+belgorod urban okrug	dtm	
+blera	2mes,68rs	
+blera hoverfly	68rs	
+bolama	5f6c	
+bolama guinea bissau	5f6c	
+bosschaert ambrosius the elder	5kha	
+brndende sprgsmal	2njp	
+calogero	2aws	
+calogero cala	1rlb	
+calogero joseph salvatore maurici	2aws	
+calogero lorenzo palminteri	snw	
+calogero maurici	2aws	
+calogero singer	2aws	
+camalodunum	45i	
+canonica		4mdd:3
+canonica d		4mdd:3
+canonica d adda	4mdd	
+canonica dadda	4mdd	
+carmelita		3grm:2,4d10:2
+carmelita fox	69i5	
+carmelita geraghty	4d10	
+carmelita gonzalez	3grm	
+carranza bizkaia	1fyc	
+carranza spain	1fyc	
+casterman	2dm5	
+casterman publishing	2dm5	
+champagnegaloppen	4hrs	
+changji		4fvr:4
+changji hui		4fvr:4
+changji hui autonomous		4fvr:4
+changji hui autonomous prefecture	4fvr	
+checheyigen	4ah9	
+chirau	1wcm	
+chivasso	yag	
+chotenov	2cep	
+chowkow	1slw	
+cichov	3lb0	
+corsanini	62m4	
+daimyou	2v6	
+danika mckellar	1nba	
+david emile durkheim	1wsf	
+david vinkeboons	5bcl	
+deneuve	8vm	
+dimmu	1o2c	1o2c:2
+dimmu borgir	1o2c	
+dimmu borigr	1o2c	
+dmosin commune	127g	
+dromroe	rlp	
+dzb zevenkamp	2qov	
+egoitz		55ng:3
+egoitz jaio	55ng	55ng:3
+egoitz jaio gabiola	55ng	
+elsau	4wbi	
+elsau switzerland	4wbi	
+elsau zh	4wbi	
+elsau zuerich	4wbi	
+elsau zurich	4wbi	
+enseigne de port	13px	
+enseigne de vaisseau	13px	
+enseigne de vaisseau de premiere classe	13px	
+esko		5gwh:2,630b:2
+esko aho	630b	
+esko nikkari	5gwh	
+esko tapani aho	630b	
+esko vilhelm nikkari	5gwh	
+everglades	6gx2	2jhs:3
+everglades miami dade county fl	6gx2	
+everglades miami dade county florida	6gx2	
+everglades national		2jhs:3
+everglades national park	2jhs	
+everglades national park fl	2jhs	
+everglades national park florida	2jhs	
+feng	edk,3d8k	16eh:2,4g7l:2,4u1b:3,69zu:2
+feng chun		4u1b:3
+feng chun kai	4u1b	
+feng cuifan	3njx	
+feng delun	2jz8	
+feng hongyuan	rpm	
+feng hua	5mw5	
+feng huang	63ix	
+feng ku	1e6i	
+feng surname	edk	
+feng tien	4wn7	
+feng tsui fan	3njx	
+feng wu ma	rpm	
+feng wuma	rpm	
+feng xiaogang	16eh	
+feng xiaoting	4g7l	
+feng zhang	69zu	
+fivetweezy	43nl	
+fluprowit	63ew	
+foissac	43bv	
+foissac aveyron	43bv	
+fusarium	1y7h	39wv:2
+fusarium infection	1y7h	
+fusarium infections	1y7h	
+fusarium oxysporum	39wv	
+gmina tarnogrod	22xy	
+gsf development driller	5bxf	
+gsf jack ryan	5bxf	
+guewenheim	1ksk	
+guivry	1oes	
+halleson tiago barbosa honorato	650n	
+hellbenders	1xjn	1xjn:2
+hikaru	2xgc	bce:2,fnb:2,1uzn:2,2pa7:2,5rok:2
+hikaru first name	2xgc	
+hikaru given name	2xgc	
+hikaru hayashi	1uzn	
+hikaru kato	fnb	
+hikaru midorikawa	2pa7	
+hikaru mita	5rok	
+hikaru sulu	fnb	
+hikaru utada	bce	
+hikaru utada singles albums	bce	
+hormilla	43pj	
+hysterocladia	60in	
+infesta fc	67z1	
+isarcus	57jw	
+jargonium	u50	
+jiandang weiye	mwb	
+john faranyear	1nt3	
+juliane	xjj	27k6:2,2ozw:2,3vdf:2,5i4c:2,6cij:2
+juliane benda	3vdf	
+juliane diller	6cij	
+juliane first name	xjj	
+juliane given name	xjj	
+juliane hough	1e00	
+juliane koehler	5i4c	
+juliane koepcke	6cij	
+juliane kohler	5i4c	
+juliane kopcke	6cij	
+juliane lorenz	2ozw	
+juliane margaret koepcke	6cij	
+juliane marie of brunswick wolfenbuttel	1bnp	
+juliane marie von braunschweig wolfenbuttel	1bnp	
+juliane of hesse darmstadt	2n60	
+juliane of hesse philippsthal	5c5t	
+juliane of nassau dillenburg 1546 1588	17j3	
+juliane of nassau dillenburg 15461588	17j3	
+juliane of nassau dillenburg 1587 1643	10gm	
+juliane of saxe coburg	1xrg	
+juliane of saxe coburg saalfeld	1xrg	
+juliane reichardt	3vdf	
+juliane schenk	27k6	
+juliane sophie af danmark	4wpg	
+juliane sophie of denmark	4wpg	
+juliane sperr	2t5b	
+kamron	s9u	
+kingwana language	emy	
+kiskoroes	2e9i	
+kosaku		34ev:2,5ic0:2
+kosaku yamada	34ev	
+kosaku yoshida	5ic0	
+kosaku yosida	5ic0	
+la destra	4roy	
+la grigonnais	3p58	
+leukema	1ma	
+louestault	4ad4	
+loxalate	ffb	
+lymanbensonia	5my2	
+mahwah	129y	
+mahwah new jersey	129y	
+mahwah nj	129y	
+mahwah township bergen county new jersey	129y	
+mahwah township new jersey	129y	
+mahwah township nj	129y	
+massue ensombo	4n7i	
+mazhai varum arikuri	68h4	
+meinersen	4ou9	
+menorah primary school	3r3z	
+messain	dhy	
+michael aizenman	52lb	
+michael blessing	rbh	
+milburg	5yy7	
+miniopteridae	1plr	
+mykonos	5tb3	
+mykonos island	5tb3	
+nabarl	279t	
+nicean empire	5m8i	
+orchids	5ks	
+palaeoology	3ou	
+paul hedqvist	65es	
+paumotus	j2r	
+pekinologist	5c1z	
+pew die pie	252o	
+pew treasure island	18ro	
+placental	zw9	
+placental mammal	zw9	
+placental mammals	zw9	
+porreres	2oqx	
+prijepolje	9q5	
+prijepolje municipality	9q5	
+rahway	jol	
+rahway city new jersey	jol	
+rahway city union county new jersey	jol	
+rahway n j	jol	
+rahway new jersey	jol	
+rahway nj	jol	
+rahway township essex county new jersey	jol	
+rawlsianism	1n1m	
+richard ruston kharsedji sorabji	62e2	
+robert raymond		570n:5
+robert raymond 1st		570n:5
+robert raymond 1st baron		570n:5
+robert raymond 1st baron raymond	570n	
+robert wieckiewicz	3rd4	
+saint savournin	3jh3	
+samer	1k6y	4lw5:2
+samer saed	4lw5	
+samer saeed	4lw5	
+samer saeed mejbel	4lw5	
+samer saeed mujbel	4lw5	
+sangrur		16ng:2
+sangrur district	16ng	
+saurel	6emj	
+semolina	1u9q	
+semolina durhum	1u9q	
+semolina durum	1u9q	
+senate	h86,url	13bh:4,13s6:3,41wi:4,5vez:2
+senate bill	1nmg	
+senate candidate	h86	
+senate candidate 5	4oox	
+senate candidate number 5	4oox	
+senate committee on the judiciary	6hof	
+senate designate	url	
+senate house	5vez	
+senate house and institute of education university of london and attached railings	5vez	
+senate house library	5vez	
+senate house london	5vez	
+senate house london university	5vez	
+senate house university of london	5vez	
+senate judiciary committee	6hof	
+senate liberal		13s6:3
+senate liberal caucus	13s6	
+senate majority leader reid	1w4b	
+senate of		13bh:4,41wi:4
+senate of arizona	xhc	
+senate of az	xhc	
+senate of republika		41wi:4
+senate of republika srpska	41wi	
+senate of rome	6ha5	
+senate of serampore		13bh:4
+senate of serampore college	13bh	
+senate of serampore college university	13bh	
+senate of serampore university	13bh	
+senate of the confederate states	6hnt	
+senate of the republic of srpska	41wi	
+senate of the republika srpska	41wi	
+senate of venice	424	
+senate president	13kx,17vc	
+senate president of the philippines	13kx	
+senate united states	url	
+shirkov	3cpb	
+sir stamford raffles	4250	
+sollefte	xqn	
+sonnac	1xbc	2yj7:4
+sonnac charente maritime	1xbc	
+sonnac sur		2yj7:4
+sonnac sur l		2yj7:4
+sonnac sur l hers	2yj7	
+staged accident crime ring	2ur	
+starokostyantyniv	481r	
+stogies film	5inn	
+strawbs	jbp	
+subles	2b6k	
+the bering sea	rtg	
+the census at bethlehem	4ura	
+the census bureau	59zf	
+the ethiopian empire	wjs	
+the fascinating		4a8h:4
+the fascinating mrs		4a8h:4
+the fascinating mrs francis	4a8h	
+the flying		274i:3,3krf:4,41vo:3,5919:3,5zdl:3,6ee0:3
+the flying burrito		3krf:4
+the flying burrito bros	3krf	
+the flying burrito brothers	3krf	
+the flying classroom	41vo	
+the flying classroom 1954 film	41vo	
+the flying deuces	274i	
+the flying fifty five	5l5s	
+the flying fleet	6ee0	
+the flying g	5nu1	
+the flying graysons	2o58	
+the flying leathernecks	2eij	
+the flying sikh	4bpc	
+the flying squad	5919	
+the flying squad 1940 film	5919	
+the flying swords of dragon gate	112y	
+the flying tomato	4eb8	
+the flying torpedo	5zdl	
+the kelly		1dcl:3
+the kelly family	1dcl	
+thermae	69ne	54du:2
+thermae carolinae	6cp	
+thermae himeraeae	1anp	
+thermae himerenses	1anp	
+thermae pannonicae	9wb	
+thermae romae	54du	
+thermae selinuntiae	134q	
+thermae selinuntinae	134q	
+thomas matthew delonge jr	qgs	
+tongling	23rg	
+tongling anhui	23rg	
+urania	1p3y	1gi4:3
+urania geneva	1gi4	
+urania geneve	1gi4	1gi4:3
+urania geneve sport	1gi4	
+urania geneve sports	1gi4	
+urania genf	1gi4	
+urania muse	1p3y	
+valtiovarainministeri	vzj	
+vatican		2yt:2,kvm:2,139t:2
+vatican apostolic library	139t	
+vatican biblioteca vaticana	139t	
+vatican cameos	3cy9	
+vatican citizenship	2yt	
+vatican city	2yt	
+vatican city history	2yt	
+vatican city library	139t	
+vatican library	139t	
+vatican museums	kvm	
+vatican museums and galleries	kvm	
+vatican palace	ogd	
+vatican pornography conspiracy	139t	
+vatican rag	1wz6	
+vatican tapes	1rk8	1rk8:3
+vatican va	8bv	
+vehkleja	3v8k	
+vexin		12gn:3
+vexin sur		12gn:3
+vexin sur epte	12gn	
+vme head not found	4rmz	
+vyronas	509y	
+vyronas greece	509y	
+vyronas municipality	509y	
+waldberg demmin	wya	
+wason		2p0x:2
+wason libardo renteria cuesta	2p0x	
+wason renteria	2p0x	
+william finley	3p2z	
+william finley actor	3p2z	
+winning	djr,47qt	feo:3,4awr:4,5twh:2
+winning 1969 film	47qt	
+winning a battle losing the war song	5t1p	
+winning back		4awr:4
+winning back his		4awr:4
+winning back his love	4awr	
+winning eleven	1m7i	
+winning eleven 10	68d0	
+winning eleven ds	1m7i	
+winning eleven play maker	3pcm	
+winning eleven play maker 2008	3pcm	
+winning eleven play maker 2009	4bty	
+winning eleven pro evolution soccer	1m7i	
+winning eleven pro evolution soccer 2007	68d0	
+winning eleven wii	3pcm	
+winning eleven x	68d0	
+winning entertainment		feo:3
+winning entertainment group	feo	
+winning film	47qt	
+winning of barbara worth	4y1k	4y1k:5
+winning streak	5twh	
+winning streak film	5twh	
+winning team	38zw	38zw:3
+winning the answers	347q	
+winning the blue vase	3bnn	
+winning the lottery	6f5a	
+winning through	2045	
+winning ticket	6abw	6abw:3
+winning women	w3x	
+zam department	1b7p	
+zam rural		4me7:3
+zam rural district	4me7	
+zellwiller	1ato	
+zvyozd	34ao	

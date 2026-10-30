@@ -1,0 +1,648 @@
+10033	4vrc	
+2050 2059	1tip	
+a clarinet	1jq	
+a hitchhikers guide to the galaxy	3k9w	
+algorhthym	27m	
+arkrm	pbc	
+azigram	d9k	
+berman rick	1alq	
+bertangles	2iac	
+blepharomastix	ee2	
+bossuet bishop of meaux	4uws	
+bossuet jacques benigne	4uws	
+bouhet	2nl5	
+bouhet france	2nl5	
+bracelets	kvz	
+brisben	r8	
+cadolive	3p5w	
+castelbelforte	49rr	
+chalmers	bgn	bgn:4,4wvx:2
+chalmers a johnson	4wvx	
+chalmers aaron	5qjc	
+chalmers ashby johnson	4wvx	
+chalmers david	5a0m	
+chalmers innovation	bgn	
+chalmers institute of technology	bgn	
+chalmers johnson	4wvx	
+chalmers tekniska hogskola	bgn	
+chalmers thomas	4itp	
+chalmers university	bgn	bgn:4
+chalmers university of		bgn:4
+chalmers university of technology	bgn	
+cinnyris	p98	
+clus	388g	
+cmc international	lv3	
+cmc msu	49qd	
+cmc publikum	79o	
+cmc records	lv3	
+coinventor	v8s	
+cologne	p7,3l80	mvl:2,z9s:3,1uwj:3,42zg:3
+cologne aachen high speed line	5hbp	
+cologne aachen high speed railway	5hbp	
+cologne aachen railway	5hbp	
+cologne airport	42zg	
+cologne blue skin	2cnn	
+cologne bonn	42zg	42zg:3
+cologne bonn airport	42zg	
+cologne cathedral	mvl	
+cologne central		z9s:3
+cologne central station	z9s	
+cologne conservatorium	cuu	
+cologne conservatory	cuu	
+cologne dance label	dv	
+cologne deutz	27w1	
+cologne ec	1nzi	
+cologne european summit	1cua	
+cologne frankfurt high speed rail line	4j6r	
+cologne frankfurt high speed railway	4j6r	
+cologne gers	3l80	
+cologne government		1uwj:3
+cologne government region	1uwj	
+cologne hbf	z9s	
+cologne hochschule fur musik	cuu	
+cologne musikhochschule	cuu	
+cologne region	1uwj	
+cologne rhine main high speed railway	4j6r	
+cologne s bahn	4ya	
+cologne sharks	1nzi	
+cologne university	3jb	
+cologne university of music	cuu	
+coppreuniz	11ix	
+cornforth john	1b9s	
+cremona	4go	
+cremona italy	4go	
+cremona luigi	1us7	
+cremona moth	hrk	
+cremona province	4kz	
+cremona violins	4go	
+david andrew coles	68r2	
+david andrew gemmell	1myx	
+david andrew leo fincher	zfl	
+david andrew mcintosh	3xu6	
+david andrew patterson	3qkc	
+david andrew platt	1x0v	
+david andrew roy white	2lgy	
+david andrew seaman	2114	
+david andrew seaman mbe	2114	
+david andrew sitek	28t0	
+david andrew wilkie	5d4p	
+david henrie	3rcu	
+david leitch	3kjj	
+david leitch actor	3kjj	
+david leitch director	3kjj	
+david leitch filmmaker	3kjj	
+dinos	3s5d	1x83:2,2ino:2,39uv:2
+dinos dimopoulos	39uv	
+dinos iliopoulos	2ino	
+dinos katsouridis	1x83	
+edward lawrie		5pqt:3
+edward lawrie tatum	5pqt	
+edward shackleton	512i	512i:4
+edward shackleton baron		512i:4
+edward shackleton baron shackleton	512i	
+enes	4fat	4345:2,5goq:2,5xix:2,5zji:2
+enes bilal	374r	
+enes demirovic	4345	
+enes fermino	5goq	
+enes genus	4fat	
+enes mesanovic	5xix	
+enes rujovic	5zji	
+eroica	2wa3,3km0	
+eroica 1949 film	3km0	
+eroica 1958 film	2wa3	
+esaiah		6a0m:3
+esaiah pello		6a0m:3
+esaiah pello benson	6a0m	
+facebooker	owh	
+factorable number	2d8w	
+fegg hayes	2cx	
+fgcu	2e1w	
+firing party	1hz	
+firing squad	1hz	
+fizuli		5ea1:2
+fizuli mammedov	5ea1	
+fizuli town	5790	
+freres lumiere	2xak	
+freres petard	5h36	
+fucecchio	132s	
+gainesville	3ge,i5y,16re	
+gainesville brawner s farm	3mkj	
+gainesville fl	3ge	
+gainesville fla	3ge	
+gainesville florida	3ge	
+gainesville ga	i5y	
+gainesville georgia	i5y	
+gainesville texas	16re	
+gainesville texas micropolitan area	1mvm	
+gainesville tx	16re	
+gainesville tx micropolitan statistical area	1mvm	
+gainesville tx msa	1mvm	
+gainesville tx sa	1mvm	
+galewice commune	w8r	
+gardais	1uzf	
+gilpin faust	13g1	
+gmina tryncza	4ky1	
+goreyesque	1hcf	
+gudeman	4k8a	
+gurdaspur	1ktm	1244:2
+gurdaspur district	1244	
+gurdaspur india	1ktm	
+haaltert	562a	
+halarchaeum acidiphilum	2jxe	
+haram		13bb:2,403p:6,4fmp:6
+haram al sharif	5rgq	
+haram ash sharif	5rgq	
+haram il sharif	5rgq	
+haram municipality	13bb	
+haram norway	13bb	
+haram rud		403p:6,4fmp:6
+haram rud e		403p:6,4fmp:6
+haram rud e olya	403p	403p:6
+haram rud e olya rural		403p:6
+haram rud e olya rural district	403p	
+haram rud e sofla	4fmp	4fmp:6
+haram rud e sofla rural		4fmp:6
+haram rud e sofla rural district	4fmp	
+henrik	2nc,1j78	93k:2,1g06:2,1isw:2,1j78:5,1sb9:2,1uhc:2,1wyu:2,26sn:2,2n5y:2,2nv2:2,2s78:2,3k3q:2,45cd:2,4nel:2,4run:2,52m5:2,52tj:2,540q:3,55x3:2,564t:2,58o0:2,5cvb:3,5dic:2,5h78:2,5lwp:2,5o0w:2,5qdg:3,5r22:2,5rgl:2,5vdq:2,5xe1:2,632x:2,64rb:2,66qu:2,699m:3,6hhq:2
+henrik abel	1d1y	
+henrik agerbeck	4run	
+henrik andersen	564t	
+henrik arnold thaulow wergeland	26sn	
+henrik arnold wergeland	26sn	
+henrik benzelius	64it	
+henrik bull	52tj	
+henrik carl joachim alain	5vgf	
+henrik carl peter dam	66qu	
+henrik dahl	5lwp	
+henrik dam	66qu	
+henrik edward larsson	1wyu	
+henrik first name	2nc	
+henrik galeen	1uhc	
+henrik given name	2nc	
+henrik golzius	5bkt	
+henrik gorecki	2zll	
+henrik hansted jensen	5vdq	
+henrik ibsen	93k	
+henrik jensen	5vdq	
+henrik jensen footballer born 1959	5vdq	
+henrik johan ibsen	93k	
+henrik karlsson	5h78	
+henrik kildentoft	52m5	
+henrik kjelsrud		5cvb:3
+henrik kjelsrud johansen	5cvb	
+henrik klingenberg	5r22	
+henrik larsen	2n5y	
+henrik larsson	1wyu	
+henrik ludvig selberg	632x	
+henrik malian	45cd	
+henrik malyan	45cd	
+henrik mkhitaryan	2hp5	
+henrik mohn	55x3	
+henrik moisander	58o0	
+henrik nielsen	5o0w	
+henrik nielsen footballer born 1965	5o0w	
+henrik nikolai		5qdg:3
+henrik nikolai kroyer	5qdg	
+henrik nikolai kryer	5qdg	
+henrik nikolaj kryer	5qdg	
+henrik nissen	1g06	
+henrik nordbrandt	4nel	
+henrik norlander	6hhq	
+henrik of denmark	1j78	
+henrik ojamaa	3k3q	
+henrik petrus berlage	2wgl	
+henrik prince		1j78:5
+henrik prince consort		1j78:5
+henrik prince consort of		1j78:5
+henrik prince consort of denmark	1j78	
+henrik prince of denmark	1j78	
+henrik prip	1isw	
+henrik risom	5xe1	
+henrik ruben		699m:3
+henrik ruben genz	699m	
+henrik sal saller	5wgs	
+henrik samuel		540q:3
+henrik samuel nyberg	540q	
+henrik sandberg	1sb9	
+henrik selberg	632x	
+henrik steffens	5dic	
+henrik steffens professor	5dic	
+henrik the artist	356a	
+henrik tikkanen	5rgl	
+henrik toft	64rb	
+henrik verwoerd	5wzd	
+henrik wergeland	26sn	
+henrik wiehe	2nv2	
+henrik wilhelm mesdag	4tyv	
+henrik willem mesdag	4tyv	
+henrik william mesdag	4tyv	
+henrik zetterberg	2s78	
+heretics	6fi9	6gq2:3
+heretics of		6gq2:3
+heretics of dune	6gq2	
+herzele	348i	
+heteranthocidium	rn0	
+hiddink	5n0v	
+hopeful the autobiography	1gf2	
+horrem	4312	
+imperfection	4ufy	
+imperfection star trek	4ufy	
+imperfection star trek voyager	4ufy	
+imperfection voy	4ufy	
+imperfection voyager episode	4ufy	
+ingersoll	3g24	
+ingersoll on	3g24	
+ingersoll ontario	3g24	
+ingersoll publications	6bwk	
+irlande	2br	
+isobail a brus	21wz	
+james martin	4q5n,5as1	
+james martin author	4q5n	
+james martin english footballer	5as1	
+james martin footballer born 1898	5as1	
+john harron	1nnh	
+johnia	2byp	
+kassa		5k0h:3
+kassa haile		5k0h:3
+kassa haile darge	5k0h	
+kassa haile giorgis	5emf	
+kassa haillu	5emf	
+kassa hailu	5emf	
+kassa hailu dargie	5k0h	
+kassa of kwara	5emf	
+kassa videk	8gu	
+kassa videk district	8gu	
+koppal		npc:2
+koppal district	npc	
+kouka		54t8:2
+kouka department	54t8	
+lahijan	2bxi	
+lavrente indico diaz	69f4	
+le beny		zu5:3
+le beny bocage	zu5	
+lilakoi moon	3gh3	
+lomnice	2g7s,2kjy	170e:3,2okr:3
+lomnice brno country district	2kjy	
+lomnice bruntal district	2g7s	
+lomnice nad		170e:3,2okr:3
+lomnice nad luznici	2okr	
+lomnice nad popelkou	170e	
+lydney	4rbf	
+lydney england	4rbf	
+lydney gloucestershire	4rbf	
+m6	e93,1jyg	
+m6 channel	e93	
+m6 films	e93	
+m6 france	e93	
+m6 hd	e93	
+m6 metropole television	e93	
+m6 motorway	1jyg	
+m6 motorway great britain	1jyg	
+m6 road	1jyg	
+m6 television channel	e93	
+m6 tv channel	e93	
+machault	22a9,2qdg	
+machault ardennes	2qdg	
+machault seine et marne	22a9	
+magalenien	5i89	
+mahanoy		3ac2:2
+mahanoy city	3ac2	
+mahanoy city pa	3ac2	
+mahanoy city pennsylvania	3ac2	
+malard		68xt:3
+malard rural		68xt:3
+malard rural district	68xt	
+marqas	l8a	
+matchmaker	3ri2,5dka	3ri2:2,5dka:2
+mcipollinigiordana	sjk	
+menorest	3jlo	
+metegol	psg	
+michael barry	3qd9	4bqf:3
+michael barry cyclist	3qd9	
+michael barry mike reid	4bqf	
+michael barry reid	4bqf	
+modern		3g:2,ej:2,2ac:2,4sd:2,68o:2,dso:7,ecz:3,lip:7,or6:2,wn7:3,y3d:5,16ch:2,1djf:2,1lhx:3,1myr:4,1nq7:4,1p5m:4,1rse:4,1y5h:4,2khg:2,2mqx:3,34dh:2,4ls9:2,4tb0:2,4tbk:2,59a6:3,5ge2:7,5pde:2,5zly:7,64bn:7,68bg:7,6c52:2
+modern ac	b5v	
+modern adult contemporary music	b5v	
+modern alloys	8qw	
+modern american spiritualism	6ffu	
+modern anthropology	8vp	
+modern antigone	3tx4	
+modern antipope	vso	
+modern architecture	2ac	
+modern architecure	2ac	
+modern art	4tbk	59a6:3
+modern art week	59a6	
+modern arts	4tbk	
+modern aviation	17s	
+modern boxing	uc	
+modern bulgarian	1rg	
+modern bulgarian language	1rg	
+modern cantonese language	q9	
+modern casanova	5l4e	
+modern chanson	3wa	
+modern chemistry	20e	
+modern chinese language	16h	
+modern civilization	5dpz	
+modern claimants to papacy	vso	
+modern classification of human race	1r8c	
+modern codes of football	1gfn	
+modern communication	emq	
+modern control theory	41qc	
+modern country	6u	
+modern dads	ba5	
+modern day warrior	2nle	
+modern death grind	98z	
+modern democracy	h3t	
+modern diplomacy	2xf6	
+modern dubarry	2bma	
+modern dutch	cz	
+modern economics	2mb	
+modern electric bass	25cb	
+modern empires	kyh	
+modern europe	4agm	
+modern european socialism	2j3	
+modern evolutionary theory	vk6	
+modern family	68o	1myr:4,1nq7:4,1p5m:4,1rse:4,1y5h:4
+modern family episodes	1ksv	
+modern family season		1myr:4,1nq7:4,1p5m:4,1rse:4,1y5h:4
+modern family season 1	1y5h	
+modern family season 2	1myr	
+modern family season 3	1p5m	
+modern family season 4	1nq7	
+modern family season 5	1rse	
+modern family tv series	68o	
+modern faroese	13q9	
+modern feminism	6oj	
+modern fencing	so	
+modern greek	ej	
+modern greek language	ej	
+modern greek language 1453	ej	
+modern gymnastics	52h	
+modern hardcore	2dl	
+modern hellenic	ej	
+modern history of bessarabia	3sjc	
+modern history of moldavia	aoa	
+modern history of muntenia	588s	
+modern history of wallachia	588s	
+modern humans	3g	
+modern israel	42	
+modern italian	2z	
+modern jazz	3e	wn7:3
+modern jazz quartet	wn7	
+modern kingdom of hungary	k4r	
+modern korean language	b1	
+modern laika	bj2	
+modern language		ecz:3
+modern language association	ecz	
+modern language association database	ecz	
+modern language convention	ecz	
+modern liberal	8w0	
+modern life	5pde	
+modern life film	5pde	
+modern literary arabic	2mqx	
+modern logic	ayj	
+modern love s silliness	1qxx	
+modern macedonian language	9vh	
+modern man arcade fire song	5vdv	
+modern man song	5vdv	
+modern materials	1env	
+modern math	685v	
+modern mathematics	685v	
+modern media	yiv	
+modern metalcore	51wq	
+modern minimalism	1ryi	
+modern mortar	gu8	
+modern movement	m03	
+modern movement architecture	2ac	
+modern myth	2199	
+modern new england	15xz	
+modern novel	1y	
+modern olympic games	rvv	
+modern pagan	6c52	
+modern paganism	6c52	
+modern parable	552x	
+modern pentathalon	4sd	
+modern pentathlete	4sd	
+modern pentathlon	4sd	lip:7,5ge2:7,5zly:7,64bn:7,68bg:7
+modern pentathlon at		lip:7,5ge2:7,5zly:7,64bn:7,68bg:7
+modern pentathlon at the		lip:7,5ge2:7,5zly:7,64bn:7,68bg:7
+modern pentathlon at the 1960		5zly:7
+modern pentathlon at the 1960 summer		5zly:7
+modern pentathlon at the 1960 summer olympics	5zly	
+modern pentathlon at the 1968		5ge2:7
+modern pentathlon at the 1968 summer		5ge2:7
+modern pentathlon at the 1968 summer olympics	5ge2	
+modern pentathlon at the 1976		64bn:7
+modern pentathlon at the 1976 summer		64bn:7
+modern pentathlon at the 1976 summer olympics	64bn	
+modern pentathlon at the 1988		68bg:7
+modern pentathlon at the 1988 summer		68bg:7
+modern pentathlon at the 1988 summer olympics	68bg	
+modern pentathlon at the 1988 summer olympics comments	68bg	
+modern pentathlon at the 2016		lip:7
+modern pentathlon at the 2016 summer		lip:7
+modern pentathlon at the 2016 summer olympics	lip	
+modern pentathlon footer	1agr	
+modern pirates	4tb0	
+modern platonism	1uy9	
+modern polish	d8	
+modern political science	444	
+modern post hardcore	2mn	
+modern prometheus	1k57	
+modern quantum mechanical	sbl	
+modern r b	n0	
+modern records	16ch	
+modern regions of greece	6b36	
+modern religious movement	255y	
+modern romance	34dh	
+modern romance band	34dh	
+modern rome	y3d	y3d:5
+modern rome series		y3d:5
+modern rome series of		y3d:5
+modern rome series of 4	y3d	
+modern roundabout	4n1p	
+modern science	1gvl	
+modern spanish	w	
+modern sparta	2kek	
+modern spiritualist movement	6ffu	
+modern spiritualists	6ffu	
+modern standard		2mqx:3
+modern standard arabic	2mqx	
+modern standard hindi	5s	
+modern standard mandarin	16h	
+modern standard turkish	kc	
+modern state	a80	
+modern string quartet	4uk	
+modern style	1mw	
+modern synthpop	2w8	
+modern talking	or6	
+modern tamil	9r	
+modern theaters	2khg	
+modern theatres	2khg	
+modern times	1djf	dso:7,1lhx:3
+modern times 1936	1djf	
+modern times film	1djf	
+modern times group	1lhx	
+modern times photography		dso:7
+modern times photography in		dso:7
+modern times photography in the		dso:7
+modern times photography in the 20th		dso:7
+modern times photography in the 20th century	dso	
+modern turkish	kc	
+modern twain story the prince and the pauper	43cb	
+modern urban fantasy	wbe	
+modern vampires	4ls9	
+modern virgin	50w9	
+modern warfare 2 online multiplayer	1yv4	
+modern warfare 3	1eri	
+modern warfare 4	2fh8	
+modern warfare ii	1yv4	
+modern warfare reflex	1b1b	
+modern warfare video game	1b1b	
+modern western philosophy	1s9	
+modern witch	1b2s	
+modern witchcraft	1b2s	
+modern wushu	5lw3	
+mohron ync	uw	
+morogues	3aq5	
+moshonov michael	5ha3	
+national governing bodies	14t	
+national governing body	14t	
+national literature prize for narrative	1ah9	
+national literature prize for narrative spain	1ah9	
+nemanjic	1nvo	1nvo:2
+nemanjic dynasty	1nvo	
+nouvelobs	pvh	
+nouvelobs com	pvh	
+nouvelobs interactif	pvh	
+nuncq		1usy:2
+nuncq hautecote	1usy	
+oktavianus maniani	47l2	
+outerloop records	817	
+pagba	54q7	
+paxman	5b5g	
+peter ostroushko	39p4	
+phyllanthoideae	psl	
+placeres conyugales	43yc	
+poczyn	3cfv	3cfv:2
+poczyn zdroj	3cfv	
+poczyn zdroj commune	cpk	
+popocatepec	5hkc	
+prince nariyoshi	4joo	
+propagandhi	2wt3	
+punong barangay	3b3	
+qaid e azam	1ddw	
+quayle anthony	ofr	
+ravenoville	400d	
+robert gerhard	5iw1	
+robert yerkes	5q5g	
+rosedale cemetery los angeles	lok	
+rosedale station alberta	1naa	
+roundell		4crw:6
+roundell palmer		4crw:6
+roundell palmer 1st		4crw:6
+roundell palmer 1st earl		4crw:6
+roundell palmer 1st earl of		4crw:6
+roundell palmer 1st earl of selborne	4crw	
+roundell palmer selborne	4crw	
+rozwienica commune	68mg	
+rucqueville	371k	
+rudelle	2lvb	
+ryck boyd	14ti	
+safc	1g1	
+saint chef	2e3e	
+sardanola del valles	13my	
+sebnitz	nml	
+sebnitz valley railway	3nx6	
+semoun	283n	
+sg1	gnr	
+shenaz	5sr3	5sr3:2
+shenaz treasurewalla	5sr3	
+shenaz treasury	5sr3	
+shenaz treasurywala	5sr3	
+silybura	2v73	
+sms faq completion project	26k7	
+sms fur		4do1:3
+sms fur dich	4do1	
+sorup	2rzm	
+sovremennyy class destroyer	4pfx	
+st anschar	4j77	
+stele	z61	
+stele stela	z61	
+struve		3uxz:3
+struve geodetic		3uxz:3
+struve geodetic arc	3uxz	
+subligny	2nv6,2yim,3uf3	
+subligny cher	2nv6	
+subligny manche	3uf3	
+subligny yonne	2yim	
+supervisory special agent	11hs	
+szikszo	645j	
+talukas	pup	
+telefonaktiebolaget l m ericsson	15v3	
+the crab infraorder	1mib	
+the harimaya		5ovp:3
+the harimaya bridge	5ovp	
+the hongwu emperor	3sry	
+the rawhide		2nel:3
+the rawhide years	2nel	
+the staples center	1ei9	
+the staples centre	1ei9	
+the staples singers	4d2u	
+the swords of wayland	1tga	
+thomas sorenson	2ywp	
+tianjin	2q3	7ni:5,df6:2,rdf:4,1wv8:2,3z0z:4,56tc:3
+tianjin beijing rail	3e0o	
+tianjin binhai mass transit	df6	
+tianjin binhai new area	2s5y	
+tianjin china	2q3	
+tianjin fc	7ni	
+tianjin jinmen		7ni:5
+tianjin jinmen tiger		7ni:5
+tianjin jinmen tiger f		7ni:5
+tianjin jinmen tiger f c	7ni	
+tianjin kangshifu	7ni	
+tianjin lifei	7ni	
+tianjin metro	df6	
+tianjin municipality	2q3	
+tianjin municipality china	2q3	
+tianjin qinhuangdao high speed railway	3dvx	
+tianjin quanjian	rdf	
+tianjin quanjian f c	rdf	
+tianjin quanjian fc	rdf	
+tianjin railway		56tc:3
+tianjin railway station	56tc	
+tianjin runyulong	1ewh	
+tianjin runyulong f c	1ewh	
+tianjin samsung	7ni	
+tianjin songjiang	rdf	
+tianjin songjiang f c	rdf	
+tianjin subway	df6	
+tianjin taida	7ni	
+tianjin teda	7ni	
+tianjin teda f c	7ni	
+tianjin teda fc	7ni	
+tianjin tianhai		rdf:4
+tianjin tianhai f		rdf:4
+tianjin tianhai f c	rdf	
+tianjin tuanbo new city	rdf	
+tianjin university	1wv8	
+tianjin west		3z0z:4
+tianjin west railway		3z0z:4
+tianjin west railway station	3z0z	
+tianjin west station	3z0z	
+toshi kubota	l6w	
+tsaggaris		11db:2
+tsaggaris peledriou	11db	
+unbarred spiral galaxies	1hga	
+unpardonable sin	6cth	6cth:3
+uzech	3k0a	
+vandoies	43se	
+victoras		3bfv:2
+victoras iacob	3bfv	
+william cosgrave	3kvb	
+wx net	dxl	
+yeshivat haraayon hayehudi	1vla	
+yeshivat mercaz harav	17nq	
+yeshivat merkaz harav	17nq	

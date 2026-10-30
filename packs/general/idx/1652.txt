@@ -1,0 +1,762 @@
+1989	31nm,3kwo	k57:7,vou:3,19z0:5,1fac:5,1gl1:3,2nv7:4,3jhl:2,3s94:4,3v36:6,3v3r:7,4mwy:4,5da1:7,5dsm:7,6hlm:3
+1989 90		19z0:5
+1989 90 bundesliga	247l	
+1989 90 cypriot		19z0:5
+1989 90 cypriot cup	97q	
+1989 90 cypriot first division	10j8	
+1989 90 cypriot second division	14n0	
+1989 90 cypriot third		19z0:5
+1989 90 cypriot third division	19z0	
+1989 90 ekstraklasa	4chm	
+1989 90 fuball bundesliga	247l	
+1989 90 fussball bundesliga	247l	
+1989 90 lebanese premier league	vwe	
+1989 ad	31nm	
+1989 badminton		k57:7,3v36:6,3v3r:7,4mwy:4,5da1:7,5dsm:7
+1989 badminton world		k57:7,3v36:6,3v3r:7,4mwy:4,5da1:7,5dsm:7
+1989 badminton world championships	4mwy	k57:7,3v36:6,3v3r:7,5da1:7,5dsm:7
+1989 badminton world championships men		3v3r:7,5da1:7
+1989 badminton world championships men s		3v3r:7,5da1:7
+1989 badminton world championships men s doubles	3v3r	
+1989 badminton world championships men s singles	5da1	
+1989 badminton world championships mixed		3v36:6
+1989 badminton world championships mixed doubles	3v36	
+1989 badminton world championships women		k57:7,5dsm:7
+1989 badminton world championships women s		k57:7,5dsm:7
+1989 badminton world championships women s doubles	k57	
+1989 badminton world championships women s singles	5dsm	
+1989 batman film	jft	
+1989 ce	31nm	
+1989 deluxe	3kwo	
+1989 deluxe album	3kwo	
+1989 eurobasket	2pxi	
+1989 european basketball championship	2pxi	
+1989 eurovision song contest	idr	
+1989 fis nordic world ski championships	iel	
+1989 gent wevelgem	3jhl	
+1989 gentwevelgem	3jhl	
+1989 iaaf		1fac:5,3s94:4
+1989 iaaf world		1fac:5,3s94:4
+1989 iaaf world cup	3s94	
+1989 iaaf world cup in athletics	3s94	
+1989 iaaf world indoor		1fac:5
+1989 iaaf world indoor championships	1fac	
+1989 ibf world championships	4mwy	
+1989 ibf world championships men s doubles	3v3r	
+1989 ibf world championships men s singles	5da1	
+1989 ibf world championships mixed doubles	3v36	
+1989 ibf world championships women s doubles	k57	
+1989 ibf world championships women s singles	5dsm	
+1989 independent spirit awards	let	
+1989 invasion of panama	2fcg	
+1989 kremlin cup	1aby	
+1989 national basketball association finals	6hlm	
+1989 nba		6hlm:3
+1989 nba finals	6hlm	
+1989 sudirman		vou:3
+1989 sudirman cup	vou	
+1989 super bowl	6gjk	
+1989 superbowl	6gjk	
+1989 taylor swift album	3kwo	
+1989 tour		2nv7:4
+1989 tour de		2nv7:4
+1989 tour de france	2nv7	
+1989 virginia slims world championship series	1gl1	
+1989 world badminton championships	4mwy	
+1989 world cup in athletics	3s94	
+1989 wta		1gl1:3
+1989 wta tour	1gl1	
+a michel	zq5	
+abadin	3h6h	
+abadin lugo	3h6h	
+abadin spain	3h6h	
+acwii	5nsh	
+agriphila	1100	
+ahashwerosh	1cke	
+alcorse	2fey	
+andris		48zh:2,6b22:2,6dcr:2
+andris berzins	48zh	
+andris berzins 1944	48zh	
+andris berzins born 1944	48zh	
+andris berzins latvian politician	48zh	
+andris berzins latvian president	48zh	
+andris berzins latvian president elect	48zh	
+andris berzins president elect	48zh	
+andris liepa	6b22	
+andris piebalgs	6dcr	
+antonin	9x2	adf:2,1hu6:2,1lv4:2,1oe8:2,3fsp:2,468n:2,4kel:2,4wky:2,4yk3:2,5hnh:2,5nnj:2,5rqu:2,63l2:2,65xg:3,66j6:2
+antonin artaud	1oe8	
+antonin benevic	5hnh	
+antonin bennewitz	5hnh	
+antonin bucek	5nnj	
+antonin carvan	63l2	
+antonin cyril		65xg:3
+antonin cyril stojan	65xg	
+antonin dolohov	6h1y	
+antonin dvoak	adf	
+antonin dvorak	adf	
+antonin dvorak comments	adf	
+antonin first name	9x2	
+antonin g scalia	1hu6	
+antonin given name	9x2	
+antonin janousek	5rqu	
+antonin kinsky	4yk3	
+antonin leopold dvorak	adf	
+antonin magne	4wky	
+antonin marie joseph artaud	1oe8	
+antonin mercie	3fsp	
+antonin mrkos	1lv4	
+antonin panenka	468n	
+antonin reicha	ys7	
+antonin rejcha	ys7	
+antonin scalia	1hu6	
+antonin scalia supreme court nomination	1hu6	
+antonin vranicky	4kel	
+antonin zapotocky	66j6	
+aquiba ben joseph	3i6x	
+artie		13kt:2,3a66:2,3rxk:2,5fd4:5,5gjy:2
+artie butler	3rxk	
+artie costa	1b9u	
+artie fufkin	1lvq	
+artie johnson	4hr1	
+artie lang	5gjy	
+artie lange	5gjy	5fd4:5
+artie lange it s the whiskey talkin	5gjy	
+artie lange s		5fd4:5
+artie lange s beer		5fd4:5
+artie lange s beer league	5fd4	
+artie ortego	3a66	
+artie shaw	13kt	
+artie shaw and his orchestra	13kt	
+baronesses	8l2	
+bialon	4blj	
+blacha david	4zsl	
+bourgogneja	w7	
+bramladesh	6g0	
+buddhist		1nf:2,6u5:2,hs3:2,p7c:2
+buddhist books and texts	p7c	
+buddhist hybrid english	4ppy	
+buddhist literature	p7c	
+buddhist missionary	qt	
+buddhist monasteries in ladakh	3ref	
+buddhist monastery	1nf	
+buddhist monk	6u5	
+buddhist monks	6u5	
+buddhist mysticism	43k	
+buddhist nun	hs3	
+buddhist nunnery	hs3	
+buddhist nuns	hs3	
+buddhist pagodas	15gd	
+buddhist priest	6u5	
+buddhist religious philosophy	1y4	
+buddhist saint	jt	
+buddhist saying	1y4	
+buddhist scripture	p7c	
+buddhist scriptures	p7c	
+buddhist shrine	19rr	
+buddhist sutra	p7c,q5h	
+buddhist sutras	p7c	
+buddhist temple	1nf	
+buddhist temples	1nf	
+buddhist temples in south korea	eaf	
+buddhist text	p7c	
+buddhist texts	p7c	
+buddhist women monks	hs3	
+cahaignes	2z59	
+campneuseville	30l3	
+caniac		3cb7:3
+caniac du		3cb7:3
+caniac du causse	3cb7	
+carolei	5qh8	
+casilda	1sa8	
+chaneac	2px4	
+chingithamnaceae	1fqt	
+chtr nasdaq	27n1	
+chynna		39s2:2
+chynna doll	1ysv	
+chynna phillips	39s2	
+civry	4iry	2et5:3,2r5m:3
+civry en		2r5m:3
+civry en montagne	2r5m	
+civry la		2et5:3
+civry la foret	2et5	
+crimso	bzf	
+cusey	2ehx	
+david broderick	6ghp	
+deborrah kerr	i65	
+definitive		zq4:2
+definitive jux	zq4	
+definitive jux records	zq4	
+definitive juxtaposition	zq4	
+definitive therapy	g46	
+dindic	26n2	
+don2	1s5m	
+dragonets	6907	
+eily		2gu5:2
+eily malyon	2gu5	
+eily sophie lees craston	2gu5	
+erota thelei i zoi	mra	
+fahrafeld	32ib	
+fc salyut		5u5:3,62iz:3
+fc salyut belgorod	5u5	
+fc salyut energia belgorod	5u5	
+fc salyut energiya belgorod	5u5	
+fc salyut saratov	62iz	
+fc salyut yukos belgorod	5u5	
+flecha		60dr:3
+flecha de		60dr:3
+flecha de oro	60dr	
+frederick hawthorne	3y9u	
+freebsd	7zh	
+freebsd 5 0	7zh	
+freebsd 8	7zh	
+freebsd kernel	7zh	
+freebsd licence	2xm	
+freebsd project	7zh	
+gaja		2p3o:3,3wep:3
+gaja et		3wep:3
+gaja et villedieu	3wep	
+gaja la		2p3o:3
+gaja la selve	2p3o	
+gangwonbuk do	1fam	
+george l		42ne:3,45le:3
+george l beer prize	19o3	
+george l brown	42ne	
+george l butler	5b9x	
+george l carey	6cv9	
+george l f o brien	4dfd	
+george l johnson	45le	
+george l johnson basketball	45le	
+george l mosse	5vwo	
+george l murphy	pol	
+george l rapp	1vnd	
+george l rockwell	4e56	
+george l ruffin	5wme	
+george periolat	1hu4	
+golestan		2p6:2,1hpg:3
+golestan province	2p6	
+golestan rural		1hpg:3
+golestan rural district	1hpg	
+golestan rural district north khorasan province	1hpg	
+gorshkov class	1fif	
+grandval	3t0t	
+grandval france	3t0t	
+grandval puy de dome	3t0t	
+graziella	4ogd,6esg	33wo:2,46vn:2
+graziella 1954 film	4ogd	
+graziella first name	6esg	
+graziella galvani	46vn	
+graziella given name	6esg	
+graziella granata	33wo	
+guichen	1san	
+guioa	1s5j	
+haote normaundie	23l4	
+henry stanton	5gna	
+hjorring	14ry	
+hjorring if	19qp	
+hjorring municipality	i28	
+hjorring station	5oqd	
+ifosfamide	4rr5	
+ifosfamide mesna kit	4rr5	
+james blanchard	5eto	
+james blanchard politician	5eto	
+jdainhanson red bull records	3h61	
+jisatsu circle	4d4m	
+jisatsu curabu	4d4m	
+jisatsu saakuru	4d4m	
+jisatsu sakuru	4d4m	
+jokneam illit	1fnh	
+kaylagomes trevor noah	4qd3	
+khorloogiin		3qwj:2
+khorloogiin choibalsan	3qwj	
+khorloogiin choybalsan	3qwj	
+kingofthepirates com	372i	
+kolobkov	3r39	
+ksvk united	gbv	
+kurutas	270a	
+kurutas greece	270a	
+la derapade	5he7	
+landsmannschaft hannovera	1vg4	
+lbw entertainment	kgy	
+ledenice	26gb	
+lipnicki	46ne	
+lipnicki jonathan	46ne	
+locality settlement	d	
+lubraniec commune	ja6	
+lymphatic disease	6ems	
+lymphatic leukaemia	3vo1	
+lymphatic leukemia	3vo1	
+madomagi	3s9x	
+mandalas	6a8i	
+mantenay		1ndn:2
+mantenay montlin	1ndn	
+marcali	3n1i	1c1o:2
+marcali district	1c1o	
+martillac	3ax6	
+michael jordan	cxi,58b7	
+michael jordan actor	38v4	
+michael jordan basketball	cxi	
+michael jordan basketball player	cxi	
+michael jordan footballer	58b7	
+mickeymantle	3xck	
+molli		4zxk:2
+molli railway	4zxk	
+oligarchia	5ba0	
+oltris	4wp6	
+orge	5tth	
+ostedes	19au	
+pasqual		35i3:4
+pasqual festa campanile	i8k	
+pasqual maragall	35i3	35i3:4
+pasqual maragall i		35i3:4
+pasqual maragall i mira	35i3	
+percy		htt:3,ksf:7,qxk:8,rmw:2,197d:2,1bcx:2,1gc9:3,1q2m:3,1u5q:2,225e:4,2ea9:2,2saa:3,2urr:4,32aa:2,3dl5:3,3o4i:2,3o52:2,3q8b:3,3thi:2,448w:2,47p7:3,4aa1:2,4amr:2,4i1x:2,4o7y:2,4sqr:3,4xb3:2,4xqy:2,4zxt:2,51gc:2,55rs:2,5apx:2,5dtf:3,5ft7:3,5tav:2,5tg3:2,5zod:2,63sb:2,65nh:2,670n:2,6g57:2
+percy a williams	448w	
+percy adlon	3thi	
+percy alport molteno	63sb	
+percy archer clive	4xb3	
+percy b shelley	htt	
+percy barnfather	55rs	
+percy black	65nh	
+percy blakeney	68bx	
+percy blessed thomas	63yd	
+percy bridgman	1gc9	
+percy byshe shelley	htt	
+percy bysse shelley	htt	
+percy bysshe		htt:3
+percy bysshe shelley	htt	
+percy bysshe shelley comments	htt	
+percy bysshe shelly	htt	
+percy carey	4nll	
+percy charles		5dtf:3
+percy charles herbert black	65nh	
+percy charles pickard	5dtf	
+percy clark	670n	
+percy cleghorn stanley hobart	4o7y	
+percy clive	4xb3	
+percy colque	3o52	
+percy d standing	4zxt	
+percy darrell standing	4zxt	
+percy e sutton	4i1x	
+percy en		1q2m:3,3dl5:3
+percy en auge	3dl5	
+percy en normandie	1q2m	
+percy ernst		2saa:3
+percy ernst schramm	2saa	
+percy faith	4amr	
+percy faith and his orchestra	4amr	
+percy faith his orchestra	4amr	
+percy faith orchestra	4amr	
+percy g standing	4zxt	
+percy gardner	5zod	
+percy gibson	ey5	
+percy hamilton clark	670n	
+percy hansen	51gc	
+percy heath	4aa1,5apx	
+percy heath screenwriter	4aa1	
+percy heath writer	4aa1	
+percy helton	1u5q	
+percy henry 2nd baron of alnwick	5zu2	
+percy herbert	rmw	
+percy herbert actor	rmw	
+percy hobart	4o7y	
+percy howard hansen	51gc	
+percy isere	36ww	
+percy jackson	6g57	ksf:7,qxk:8,225e:4,2urr:4
+percy jackson 2	qxk	
+percy jackson and the battle of the labyrinth	53a5	
+percy jackson and the last olympian	5gt4	
+percy jackson and the lightning thief	ksf	
+percy jackson and the lightning thief film	ksf	
+percy jackson and the lightning thief novel	4m0u	
+percy jackson and the olympians	2urr	
+percy jackson and the olympians book 1	4m0u	
+percy jackson and the olympians book 2	4cnh	
+percy jackson and the olympians book 3	4s0q	
+percy jackson and the olympians book 4	53a5	
+percy jackson and the olympians book 5	5gt4	
+percy jackson and the olympians the lightning thief	ksf	
+percy jackson and the olympians the sea of monsters	2urr	
+percy jackson and the olympians the sea of monsters film	qxk	
+percy jackson and the sea of monsters	4cnh	
+percy jackson and the titan s curse	4s0q	
+percy jackson book 1	4m0u	
+percy jackson book 2	4cnh	
+percy jackson book 3	4s0q	
+percy jackson book 4	53a5	
+percy jackson book 5	5gt4	
+percy jackson book 6	50ta	
+percy jackson book character	6g57	
+percy jackson character	6g57	
+percy jackson e gli dei dell olimpo	2urr	
+percy jackson film	ksf	
+percy jackson film series	225e	
+percy jackson movie	225e	
+percy jackson percy jackson	6g57	
+percy jackson sea of monsters	qxk	
+percy jackson sea of monsters film	qxk	
+percy jackson series	2urr	
+percy jackson the		ksf:7,qxk:8,225e:4,2urr:4
+percy jackson the heroes of olympus	2v6d	
+percy jackson the lightning thief	ksf	
+percy jackson the olympians	225e,2urr	ksf:7,qxk:8
+percy jackson the olympians book 1	4m0u	
+percy jackson the olympians book 2	4cnh	
+percy jackson the olympians book 3	4s0q	
+percy jackson the olympians book 4	53a5	
+percy jackson the olympians book 5	5gt4	
+percy jackson the olympians book five	5gt4	
+percy jackson the olympians book four	53a5	
+percy jackson the olympians book one	4m0u	
+percy jackson the olympians book three	4s0q	
+percy jackson the olympians book two	4cnh	
+percy jackson the olympians sea of monsters	qxk	
+percy jackson the olympians the		ksf:7,qxk:8
+percy jackson the olympians the lightning		ksf:7
+percy jackson the olympians the lightning thief	ksf	
+percy jackson the olympians the sea		qxk:8
+percy jackson the olympians the sea of		qxk:8
+percy jackson the olympians the sea of monsters	qxk,4cnh	
+percy jackson the olympians the sea of monsters film	4cnh	
+percy jackson the titan s curse	4s0q	
+percy jackson titan s curse	4s0q	
+percy james patrick kent smith	5p7a	
+percy julian	47p7	
+percy kilbride	2ea9	
+percy l heath jr	5apx	
+percy l julian	47p7	
+percy lavon		47p7:3
+percy lavon julian	47p7	
+percy mackay	wnw	
+percy mackaye	5tg3	
+percy mackey	wnw	
+percy main productions	1ckj	
+percy marmont	197d	
+percy melmoth		5ft7:3
+percy melmoth walters	5ft7	
+percy molesworth sykes	4sqr	
+percy molsworth		4sqr:3
+percy molsworth sykes	4sqr	
+percy molteno	63sb	
+percy nelles	3q8b	
+percy oldacre	4xqy	
+percy olivares	32aa	
+percy pickard	5dtf	
+percy robert miller	h98	
+percy rojas	3o4i	
+percy shelly	htt	
+percy standing	4zxt	
+percy strong	1bcx	
+percy sutton	4i1x	
+percy sykes	4sqr	
+percy w		3q8b:3
+percy w bridgman	1gc9	
+percy w nelles	3q8b	
+percy walker nelles	3q8b	
+percy walters	5ft7	
+percy wetmore	vhn	
+percy whipp	5tav	
+percy william lewis	3hvg	
+percy williams	448w	1gc9:3
+percy williams bridgman	1gc9	
+percy williams sprinter	448w	
+percy wyndham lewis	3hvg	
+pgoi	8wg	
+physicochemistry	l9q	
+plesiosauria	5dp7	
+pouilley		1m7y:3
+pouilley les		1m7y:3
+pouilley les vignes	1m7y	
+praso	5flx	
+praso italy	5flx	
+ragna		5kmz:2
+ragna bjorg ingolfsdottir	5kmz	
+ragna ingolfsdottir	5kmz	
+rbi	6hs2	
+rbi baseball	6hs2	
+rbi menachem		3f0p:4
+rbi menachem mendel		3f0p:4
+rbi menachem mendel schneersohn	3f0p	
+rbi s	6hs2	
+reala	44lj	
+reala nights	44lj	
+rocheville	2dyp	
+rolette		2f8l:2
+rolette county	2f8l	
+rolette county nd	2f8l	
+rolette county north dakota	2f8l	
+saint therese of lisieux	5uua	
+seyh	6f25	
+sfic	3mj	
+shalomar	2hid	
+shanghai	tx,1upu,39mv	3pv:2,5th:4,8oi:3,b6a:4,f6j:4,gwq:4,qx4:5,17i7:2,1dl4:2,1ggy:4,1mvr:2,1sbd:3,25xp:4,2lyn:4,2m64:2,2n7p:3,3gjt:2,50np:2,5838:5,6d6y:2,6dzy:4
+shanghai 1935 film	39mv	
+shanghai 2008 film	1upu	
+shanghai 2009 film	1upu	
+shanghai 2010 film	1upu	
+shanghai 2015 film	1upu	
+shanghai 9th city	qx4	
+shanghai agfa	5th	
+shanghai architecture images	tx	
+shanghai auto industry corporation	23wm	
+shanghai automobile	23wm	
+shanghai automotive	23wm	
+shanghai automotive industries	23wm	
+shanghai automotive industry	23wm	
+shanghai automotive industry company	23wm	
+shanghai automotive industry corporation	23wm	
+shanghai beijing high speed railway	10if	
+shanghai bilibili sharks	50np	
+shanghai bund	4oif	
+shanghai cable 02	5th	
+shanghai center	6d6y	
+shanghai chiaotung university	gwq	
+shanghai china	tx	
+shanghai circuit	2n7p	
+shanghai city	tx	
+shanghai communications university	gwq	
+shanghai cosco	8jw	
+shanghai cosco huili	8jw	
+shanghai dawn	1dl4	
+shanghai dongfang	50np	
+shanghai dongfang sharks	50np	
+shanghai dongya	f6j	
+shanghai dongya f c	f6j	
+shanghai dongya fc	f6j	
+shanghai dragon tv	1uqi	
+shanghai drama	3nki	3nki:3
+shanghai drama academy	1sbd	
+shanghai drama institute	1sbd	
+shanghai east asia	f6j	
+shanghai east asia f c	f6j	
+shanghai express	17i7	
+shanghai express film	17i7	
+shanghai film	39mv	
+shanghai film festival	2lyn	
+shanghai fudan university	b50	
+shanghai gesture	1jml	1jml:3
+shanghai grand prix	4kjd	
+shanghai greenland	5th	
+shanghai greenland f c	5th	
+shanghai greenland shenhua	5th	
+shanghai greenland shenhua f c	5th	
+shanghai greenland shenhua fc	5th	
+shanghai guanghua university	1tgb	
+shanghai hengyuan	b6a	
+shanghai hongqiao		25xp:4
+shanghai hongqiao middle school	2m6m	
+shanghai hongqiao railway		25xp:4
+shanghai hongqiao railway station	25xp	
+shanghai int l film festival	2lyn	
+shanghai international	8jw	2lyn:4,2n7p:3
+shanghai international circuit	2n7p	
+shanghai international film		2lyn:4
+shanghai international film festival	2lyn	
+shanghai international port group f c	f6j	
+shanghai international tv festival	2lyn	
+shanghai jiao		gwq:4
+shanghai jiao tong	gwq	gwq:4
+shanghai jiao tong university	gwq	
+shanghai jiao tong university press	gwq	
+shanghai jiao tong university press co ltd	gwq	
+shanghai jiao tong university sjtu	gwq	
+shanghai jiaotong daxue	gwq	
+shanghai jiaotong university	gwq	
+shanghai jiaotong university press	gwq	
+shanghai jiucheng	qx4	
+shanghai kangbo	qx4	
+shanghai knights	1dl4	
+shanghai kunming high speed railway	h8t	
+shanghai kunming passageway	h8t	
+shanghai kunming passenger dedicated line	h8t	
+shanghai kunming railway	1lex	
+shanghai lake	wrz	
+shanghai liancheng	1ggy	
+shanghai liancheng zobon	1ggy	
+shanghai masters	2m64	
+shanghai masters snooker	2m64	
+shanghai metro	3pv	
+shanghai metro doc	3pv	
+shanghai metro line 1	1mb0	
+shanghai metro line 10	1r8d	
+shanghai metro line 11	yb4	
+shanghai metro line 12	2xu7	
+shanghai metro line 13	4qmf	
+shanghai metro line 16	4nor	
+shanghai metro line 2	1r1w	
+shanghai metro line 21	4nor	
+shanghai metro line 3	17v9	
+shanghai metro line 4	3kts	
+shanghai metro line 5	48vx	
+shanghai metro line 7	3b69	
+shanghai metro line 8	3mrj	
+shanghai metro line 9	2dxh	
+shanghai municipal area	tx	
+shanghai municipality china	tx	
+shanghai nan railway station	4jc0	
+shanghai nanjing high speed railway	wnt	
+shanghai nanjing intercity high speed railway	wnt	
+shanghai nanjing intercity rail	wnt	
+shanghai nanjing intercity railway	wnt,3u8u	
+shanghai nanzhan	4jc0	
+shanghai nights	1dl4	
+shanghai nobody	4q4w	
+shanghai noon	1mvr	
+shanghai noon 2	1dl4	
+shanghai normal university 1972 1980	1tgb	
+shanghai normal university 19721980	1tgb	
+shanghai port		f6j:4
+shanghai port f		f6j:4
+shanghai port f c	f6j	
+shanghai pudong	pbb	qx4:5
+shanghai pudong zhongbang	qx4	
+shanghai pudong zobon	qx4	qx4:5
+shanghai pudong zobon f		qx4:5
+shanghai pudong zobon f c	qx4	
+shanghai qiche gongye jituan zonggongsi	23wm	
+shanghai race circuit	2n7p	
+shanghai railway		5838:5
+shanghai railway bureau	b4d	
+shanghai railway group	b4d	
+shanghai railway station		5838:5
+shanghai railway station metro	5838	5838:5
+shanghai railway station metro station	5838	
+shanghai railway station shanghai metro	5838	
+shanghai railway station station	5838	
+shanghai school for television arts	1sbd	
+shanghai sharks	50np	
+shanghai shenghua	5th	
+shanghai shenhua	5th	5th:4
+shanghai shenhua f		5th:4
+shanghai shenhua f c	5th	
+shanghai shenxin	b6a	b6a:4
+shanghai shenxin f		b6a:4
+shanghai shenxin f c	b6a	
+shanghai shi	tx	
+shanghai sipg	f6j	
+shanghai sipg f c	f6j	
+shanghai sipg fc	f6j	
+shanghai south railway station	4jc0	
+shanghai south station	4jc0	
+shanghai south station station	4jc0	
+shanghai special municipality	tx	
+shanghai spell	3g4g	3g4g:3
+shanghai stars	qx4	
+shanghai stock		8oi:3
+shanghai stock exchange	8oi	
+shanghai subway	3pv	
+shanghai surprise	3gjt	
+shanghai sva	5th	
+shanghai tellace f c	f6j	
+shanghai theater academy	1sbd	
+shanghai theatre		1sbd:3
+shanghai theatre academy	1sbd	
+shanghai theatrical institute	1sbd	
+shanghai tower	6d6y	
+shanghai united		1ggy:4
+shanghai united f		1ggy:4
+shanghai united f c	1ggy	
+shanghai united fc	1ggy	
+shanghai west		6dzy:4
+shanghai west railway		6dzy:4
+shanghai west railway station	6dzy	
+shanghai wuhan chengdu high speed railway	3u8u	
+shanghai wuhan chengdu higher speed passenger corridor	3u8u	
+shanghai wuhan chengdu passenger dedicated line	3u8u	
+shanghai xi railway station	6dzy	
+shanghai xiyang sharks	50np	
+shanghai zhengquan jiaoyisuo	8oi	
+shanghai zhongbang	qx4	
+shanghai zhongxin	6d6y	
+shanghai zhongxin dasha	6d6y	
+shanghai zhongyuan	8jw	
+shanghai zobon	qx4	
+sigma	3t2i	14jz:2,3msg:2,4rnp:2
+sigma band	3t2i	
+sigma burwell	37rk	
+sigma club university of ibadan	ezz	
+sigma coatings montegranaro	1p42	
+sigma corp	4rnp	
+sigma corporation	4rnp	
+sigma djs	3t2i	
+sigma duo	3t2i	
+sigma force	6222	
+sigma group	3t2i	
+sigma pi	14jz	
+sigma quantaray	4rnp	
+sigma xi	3msg	
+sigma xi scientific research society	3msg	
+sigma xi society	3msg	
+sigma xi the scientific research honor society	3msg	
+sigma xi the scientific research society	3msg	
+sir geirge reid	1x0b	
+stimela song	5cbz	
+sundeck	6bat	
+tamukingsville	2gic	
+tarasis	5n0w	
+textual data	5r8z	
+textual differences in the bible	14mr	
+the conqueror	210z	
+the conqueror 1956 film	210z	
+the conqueror film	210z	
+the conqueror worm	4g6w	
+the conqueror worm film	4g6w	
+the pitcairn islands	11ag	
+the platinum blonde	pw1	
+the platinum gold gollection rick astley	q1m	
+the sri lankan civil war	kn9	
+thomas heftye	5ukx	
+thrinacia moth	k1r	
+tincho		2cmj:2
+tincho zabala	2cmj	
+trivers	4t7y	
+tselikov alexander	5lft	
+urreta	2ms6	
+viborg	6m3,ew4	72u:2,h7m:2,22gh:2
+viborg denmark	ew4	
+viborg f f	72u	
+viborg ff	72u	
+viborg governorate	3uyo	
+viborg hk	22gh	
+viborg hk a s	22gh	
+viborg municipality	h7m	
+viborg province	3uyo	
+vidak		59fj:2
+vidak bratic	59fj	
+viktoria		wsu:2,61ye:2,6blt:2
+viktoria 89 berlin	150t	
+viktoria alix helena luise beatrice prinzessin von hessen und bei rhein	p66	
+viktoria aschaffenburg	wsu	
+viktoria azarenka	11c2	
+viktoria baden	2arc	
+viktoria berlin	150t	
+viktoria brezhnev	61ye	
+viktoria brezhneva	61ye	
+viktoria character	5eyj	
+viktoria duchess of vermillandia	2arc	
+viktoria fc szombathely	6blt	
+viktoria feodorovna	122x	
+viktoria frankfurt	2l8	
+viktoria frankfurt oder	1hds	
+viktoria fyodorova	3q6a	
+viktoria hristova	4jb2	
+viktoria koln	azn	
+viktoria luise of prussia	1e1d	
+viktoria of saxe coburg saalfeld	1r0t	
+viktoria petrovna brezhneva	61ye	
+viktoria petrovna denisova	61ye	
+viktoria plzen	5xy	
+viktoria szombathely	6blt	
+viktoria tokareva	665s	
+viktoria von saxe coburg saalfeld	1r0t	
+vishakha		5blc:2
+vishakha singh	5blc	
+vltblnnk	3otl	
+william sleator	414q	
+william sleator iii	414q	
+wyeast	6gap	
+yakova	hl8	
+yurihonjo	mua	
+yurihonjo akita	mua	
+zazzaro	52cr	
+zespo parlamentarny ds zbadania przyczyn katastrofy tu 154m z 10 kwietnia 2010 r	d1y	

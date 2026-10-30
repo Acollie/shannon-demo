@@ -1,0 +1,636 @@
+1998	z0v	tl:3,1j8:4,29w:3,4hw:5,lj7:3,1379:7,1pu0:3,1wbo:4,1zq0:2,2elh:4,37gr:4,39xp:2,3b1n:5,3hfy:6,3i8m:5,3wuw:4,3xmc:3,4p7q:3,4qq2:3,4ufx:4,53dq:5
+1998 99 bundesliga	2346	
+1998 99 cypriot cup	bzo	
+1998 99 cypriot first division	109g	
+1998 99 cypriot fourth division	17l6	
+1998 99 cypriot second division	138x	
+1998 99 cypriot third division	16li	
+1998 99 ekstraklasa	3csy	
+1998 99 fuball bundesliga	2346	
+1998 99 fussball bundesliga	2346	
+1998 africa cup of nations	4hw	
+1998 african		4hw:5
+1998 african cup		4hw:5
+1998 african cup of		4hw:5
+1998 african cup of nations	4hw	
+1998 african nations cup	4hw	
+1998 asian		29w:3
+1998 asian games	29w	
+1998 australian		3xmc:3
+1998 australian open	3xmc	
+1998 ce	z0v	
+1998 chess olympiad	1omi	
+1998 cleveland browns season	13h	
+1998 commonwealth		1pu0:3
+1998 commonwealth games	1pu0	
+1998 commonwealth games medal count	1pu0	
+1998 european		1wbo:4
+1998 european athletics		1wbo:4
+1998 european athletics championships	1wbo	
+1998 european championships in athletics	1wbo	
+1998 eurovision song contest	f41	
+1998 f1 season	3b1n	
+1998 federation internationale de football association world cup	1j8	
+1998 fia formula one world championship	3b1n	
+1998 fifa		1j8:4
+1998 fifa world		1j8:4
+1998 fifa world cup	1j8	
+1998 fifa world cup schedule	1j8	
+1998 ford world curling championships	jj8	
+1998 formula		3b1n:5
+1998 formula 1 season	3b1n	
+1998 formula one		3b1n:5
+1998 formula one season	3b1n	
+1998 formula one world		3b1n:5
+1998 formula one world championship	3b1n	
+1998 french		4p7q:3
+1998 french open	4p7q	
+1998 gent wevelgem	39xp	
+1998 gentwevelgem	39xp	
+1998 giro		37gr:4
+1998 giro d		37gr:4
+1998 giro d italia	37gr	
+1998 grand		3i8m:5
+1998 grand prix		3i8m:5
+1998 grand prix de		3i8m:5
+1998 grand prix de denain	3i8m	
+1998 iaaf		3wuw:4
+1998 iaaf european championships in athletics	1wbo	
+1998 iaaf world		3wuw:4
+1998 iaaf world cup	3wuw	
+1998 japanese paralympic games	lj7	
+1998 japanese paralympics	lj7	
+1998 japanese winter paralympic games	lj7	
+1998 masters	1zq0	
+1998 masters snooker	1zq0	
+1998 nagano games	tl	
+1998 nagano olympics	tl	
+1998 nagano paralympics	lj7	
+1998 nagano winter paralympic games	lj7	
+1998 nagano winter paralympics	lj7	
+1998 olympic games	tl	
+1998 olympics	tl	
+1998 paralympics	lj7	
+1998 presidential election west wing	8gr	
+1998 russian		2elh:4
+1998 russian top		2elh:4
+1998 russian top division	2elh	
+1998 super bowl	6gtu	
+1998 superbowl	6gtu	
+1998 tour		4ufx:4
+1998 tour de		4ufx:4
+1998 tour de france	4ufx	
+1998 uci		53dq:5
+1998 uci road		53dq:5
+1998 uci road world		53dq:5
+1998 uci road world championships	53dq	
+1998 wimbledon	4qq2	4qq2:3
+1998 wimbledon championships	4qq2	
+1998 winter		tl:3,lj7:3
+1998 winter olympic	tl	
+1998 winter olympic bids	tl	
+1998 winter olympic games	tl	
+1998 winter olympics	tl	
+1998 winter paralympics	lj7	
+1998 world		1379:7,3hfy:6
+1998 world allround		3hfy:6
+1998 world allround speed		3hfy:6
+1998 world allround speed skating		3hfy:6
+1998 world allround speed skating championships	3hfy	
+1998 world cup	1j8	
+1998 world cup in athletics	3wuw	
+1998 world single		1379:7
+1998 world single distance		1379:7
+1998 world single distance speed		1379:7
+1998 world single distance speed skating		1379:7
+1998 world single distance speed skating championships	1379	
+1998 year	z0v	
+achern	1rnu	
+alota vagina	307g	
+anaxagorus	584n	
+aramco	1ikw	
+aramco associated company	1ikw	
+aramco brats	1ikw	
+beechcraft	291s	4f6d:3
+beechcraft 200 super king air	4f6d	
+beechcraft corporation	291s	
+beechcraft king		4f6d:3
+beechcraft king air	4f6d	
+beechcraft model 100 king air	4f6d	
+beechcraft tc 90	4f6d	
+beechcraft vc 6 king air	4f6d	
+belemnoidea	dg7	
+bhomika chawla	19xf	
+brandenstein	2png	
+braslovce municipality	1v6e	
+breeze air episode	5v24	
+breeze fly	1epu	
+bromeae	1255	
+bultmann	4wxe	
+bultmann rudolf	4wxe	
+carbs	iv0	
+catriona	4nnw	39j7:2,5kuq:4
+catriona first name	4nnw	
+catriona given name	4nnw	
+catriona le		5kuq:4
+catriona le may		5kuq:4
+catriona le may doan	5kuq	
+catriona lemay	5kuq	
+catriona lemay doan	5kuq	
+catriona maccoll	39j7	
+catriona mccoll	39j7	
+chitrangda singh	36ih	
+colecovision	2e58	
+conquense	jw0	
+copperblade	2hy	
+cwu	2c6u	
+dctalk	3awa	
+declan	caw	101j:2,21rw:2,4vqp:3,5voj:2,60by:2,6bd1:2
+declan aloysius macmanus	c71	
+declan christopher john	60by	
+declan donnelly	5voj	
+declan donnely	5voj	
+declan edge	6bd1	
+declan first name	caw	
+declan given name	caw	
+declan john	60by	
+declan joseph oliver donnelly	5voj	
+declan lowney	21rw	
+declan macmanus	c71	
+declan o		4vqp:3
+declan o brien	4vqp	
+declan patrick aloysius macmanus	c71	
+declan patrick aloysius mcmanus	c71	
+declan patrick macmanus	c71	
+declan quinn	101j	
+declan stump	1oaw	
+deutoronomy	5hb2	
+diplommatina	68ni	
+dostalek richard	42b6	
+dutronc	12pb	
+ectoparasitic infestations	2orr	
+entelegynae	3yjz	
+essegney	2spm	
+farnay	2v9q	
+genoapisa		5gti:2
+genoapisa railway	5gti	
+george diskant	2gv6	
+gippeswic	3l5	
+gmina doruchow	1uq7	
+gmina pawowice	3xye	
+greussenheim	41gy	
+hacettepe	2f4t	d2h:3,2f4t:2
+hacettepe s		d2h:3
+hacettepe s k	d2h	
+hacettepe sk	d2h	
+hacettepe spor kulubu	d2h	
+hacettepe universitesi	2f4t	
+hacettepe university	2f4t	
+hardhead	2eem	
+henry ix		3d4m:5
+henry ix duke		3d4m:5
+henry ix duke of		3d4m:5
+henry ix duke of bavaria	3d4m	
+henry ix of bavaria	3d4m	
+henry ix the black	3d4m	
+hipity hop music	3gl	
+hyojungo	4i	
+ikskiles novads	4glw	
+impregnation	666h	
+inhale	56zh	
+inhale duke dumont song	55h7	
+inhale film	56zh	
+irishtraditionalmusic	841	
+jamtand	17em	
+jean lefebvre	nzu	
+jedaias		2whq:3
+jedaias capucho		2whq:3
+jedaias capucho neves	2whq	
+john bellin	cxn	
+john koerner	3cr7	
+juliper league	da7	
+karadzic s cyrillic alphabet	1n9v	
+kazuko	6f39	2fig:2,3szf:2,4u9s:2
+kazuko first name	6f39	
+kazuko given name	6f39	
+kazuko shirakawa	4u9s	
+kazuko takatsukasa	2fig	
+kazuko yoshiyuki	3szf	
+kerepets	oow	
+kis fralthi	4yam	
+kis my		2fo7:3
+kis my ft2	2fo7	
+kis my t2	2fo7	
+kis ralari	4yam	
+konex		5018:2
+konex award	5018	
+konex awards	5018	
+konex foundation awards	5018	
+kshatrapa	ahk	
+kumia	6ewz	
+la brede	1ywg	
+laviron	427h	
+liliulani	1226	
+longmeadow	42hh	
+longmeadow hampden county ma	42hh	
+longmeadow hampden county massachusetts	42hh	
+longmeadow ma	42hh	
+longmeadow mass	42hh	
+longmeadow massachusetts	42hh	
+lorien		6gqu:2
+lorien legacies	6gqu	
+lostice	3v3w	
+lubochnia commune	xxj	
+luckeesarai district	3dyq	
+lvaria	w7	
+magreglio	2tgb	
+manobala	12ps	
+maoris	29mw	
+mardanish	543	
+maria gripe	50u6	
+marlin	1n01,3114	131l:2,527b:2,5q6z:2
+marlin brando	cey	
+marlin finding nemo	z5h	
+marlin firearms	5q6z	
+marlin firearms company	5q6z	
+marlin first name	3114	
+marlin given name	3114	
+marlin name	3114	
+marlin piana	527b	
+marlin rifle	5q6z	
+marlin skiles	131l	
+marlin skyles	131l	
+marlin software	5is4	
+marlin springs texas	1n01	
+marlin texas	1n01	
+marlin tx	1n01	
+maryus		5a4b:2
+maryus vaysberg	5a4b	
+merreikh omdurman	lr8	
+michael english showalter	3hrk	
+mirambeau	1wdj,2sr9	
+mirambeau charente maritime	1wdj	
+mirambeau haute garonne	2sr9	
+moovattupuzha	4kte	
+moovattupuzha river	4kte	
+ncurses	11rk	
+nerigean	2wmq	
+niewinni czarodzieje	5cme	
+novecento	the	
+novecento film	the	
+obvious		603u:2
+obvious child	603u	
+oldambt	oj8	
+oldambt municipality	oj8	
+paul shore	1l49	
+paul sugrue	5d4o	
+peter bembo	3kf6	
+potera	q9n	
+prinasura	4uzu	
+progg	6859	
+progg movement	6859	
+progg music	6859	
+puigpelat	42x1	
+radikaa sarathkumar	knn	
+radzanuv	1b9x	
+rapey	2zq2	
+ravshan		65p6:2
+ravshan bazarov	65p6	
+ravshan bozorov	65p6	
+redovan	4u6r	
+release		2vrm:5
+release entertainment	3fo	
+release of duke nukem forever	4itv	
+release pearl jam song	5a2n	
+release phonetics	2lub	
+release the		2vrm:5
+release the drones	sg8	
+release the kraken	n78	
+release the prisoners		2vrm:5
+release the prisoners to		2vrm:5
+release the prisoners to spring	2vrm	
+richard condie	4oi9	
+robarts john	54hl	
+roncegno	45gn	45gn:2
+roncegno terme	45gn	
+rovito	3373	
+saint amour	1wmd	2gqa:3
+saint amour bellevue	2gqa	
+saint amour jura	1wmd	
+sandal	p3a	
+sandal footwear	p3a	
+sandal punk	20r7	
+sandal wort	2cfn	
+sarvapelli radhakrishnan	1ajn	
+sgrigna	36r6	
+sir hart davis	5kyv	
+sir john		1gx8:5,28sy:3,2kve:5,3hg1:5,3v4a:5,3xku:6,47qy:5,482z:5,498a:5,4ma0:5,4sd8:5,525n:5,5m1k:6,5opb:5,5s5k:6,5skx:5,5tld:5,5u1f:5,5zta:5,605d:6,60q4:5
+sir john a macdonald	169y	
+sir john a mcdonald	169y	
+sir john abbott	39pr	
+sir john abercromby	3vop	
+sir john acton		2kve:5
+sir john acton 6th		2kve:5
+sir john acton 6th baronet	2kve	
+sir john alexander franklin	1nr3	
+sir john alexander macdonald	169y	
+sir john alot of merry englandes musyk thynge and ye grene knyghte	543l	
+sir john ambrose fleming	2fty	
+sir john arbuthnot		60q4:5
+sir john arbuthnot 1st		60q4:5
+sir john arbuthnot 1st baronet	60q4	
+sir john arbuthnot 1st bt	60q4	
+sir john arthur brabham	cx6	
+sir john arundell of lanherne	3jgw	
+sir john aspinall	59zz	
+sir john audley frederick aspinall	59zz	
+sir john b gurdon	1f3o	
+sir john baronet clerk	498a	
+sir john barrow	4pbt	
+sir john barrow 1st baronet	4pbt	
+sir john barry	3ex9	
+sir john bertram adams	5h03	
+sir john bertrand gurdon	1f3o	
+sir john betjeman	1x3v	
+sir john black jack mcewen	4f2c	
+sir john borlase		3xku:6
+sir john borlase warren	3xku	3xku:6
+sir john borlase warren 1st		3xku:6
+sir john borlase warren 1st baronet	3xku	
+sir john bowling	1l4u	
+sir john bowring	1l4u	
+sir john boyd orr	1hgq	
+sir john brian pendry	5bep	
+sir john brunner		5u1f:5
+sir john brunner 1st		5u1f:5
+sir john brunner 1st baronet	5u1f	
+sir john bt clerk	498a	
+sir john buchan	pwe	
+sir john cam hobhouse	3uui	
+sir john carew eccles	1dko	
+sir john charnley	5x11	
+sir john clements	2vtx	
+sir john clerk		498a:5
+sir john clerk 2nd		498a:5
+sir john clerk 2nd baronet	498a	
+sir john clerk of penicuik	498a	
+sir john clerk of penicuik 2nd baronet	498a	
+sir john clerk of pennicuik 2nd baronet	498a	
+sir john clerk of pennycuik 2nd baronet	498a	
+sir john clifford mortimer	pfb	
+sir john cornforth	1b9s	
+sir john cotesworth slessor	5dbb	
+sir john cowdery kendrew	1sve	
+sir john d beazley	2v56	
+sir john dalberg acton 8th baronet	1yt8	
+sir john dalrymple		605d:6
+sir john dalrymple hay		605d:6
+sir john dalrymple hay 3rd		605d:6
+sir john dalrymple hay 3rd baronet	605d	
+sir john dalton	1ajv	
+sir john dankworth	13od	
+sir john dashwood		5s5k:6
+sir john dashwood king		5s5k:6
+sir john dashwood king 4th		5s5k:6
+sir john dashwood king 4th baronet	5s5k	
+sir john davidson beazley	2v56	
+sir john de la pole 2nd duke of suffolk	3o0h	
+sir john de la pole 2nd duke of suffolk 2nd marquess of suffolk 5th earl of suffolk kg	3o0h	
+sir john denham	4wnl	
+sir john douglas cockcroft	1550	
+sir john duckworth	5opb	5opb:5
+sir john duckworth 1st		5opb:5
+sir john duckworth 1st baronet	5opb	
+sir john duke coleridge	21zt	
+sir john e gorst	3wc6	
+sir john e sulston	2d94	
+sir john eccles	1dko	
+sir john edward lennard jones	2rxp	
+sir john edward sulston	2d94	
+sir john eliot	4d91	
+sir john eliot gardiner	4vhe	
+sir john elley	61tt	
+sir john ernest walker	33oe	
+sir john esmonde		5tld:5
+sir john esmonde 14th		5tld:5
+sir john esmonde 14th baronet	5tld	
+sir john evans	4jay	
+sir john everett millais	qtz	
+sir john everett millais 1st baronet	qtz	
+sir john everett millais bt	qtz	
+sir john fitzgerald	50kg	
+sir john fowler	47qy	47qy:5
+sir john fowler 1st		47qy:5
+sir john fowler 1st baronet	47qy	
+sir john fowler first baronet	47qy	
+sir john fox burgoyne	2x7o	
+sir john francis davis 1st baronet	58q0	
+sir john frank charles kingman	40a5	
+sir john franklin	1nr3	
+sir john franklin kch frgs	1nr3	
+sir john frederick william herschel	32d	
+sir john frederick william herschel 1st baronet	32d	
+sir john french	29b6	
+sir john gellibrand	4qlz	
+sir john gielgud	bvi	
+sir john gilmour		3v4a:5,482z:5
+sir john gilmour 2nd		482z:5
+sir john gilmour 2nd baronet	482z	
+sir john gilmour 3rd		3v4a:5
+sir john gilmour 3rd baronet	3v4a	
+sir john gorst	3wc6	
+sir john gorton	2kce	
+sir john graham kerr	4ljn	
+sir john graves simcoe	4p93	
+sir john grey gorton	2kce	
+sir john guest	4b0v	
+sir john harding	3910	
+sir john herschel 1st baronet	32d	
+sir john herschel 1st bt	32d	
+sir john hicks	55qc	
+sir john hobhouse	3uui	
+sir john holbrook osborn	67pg	
+sir john houghton	4j62	
+sir john hubert marshall	5ylw	
+sir john hubert marshall cie	5ylw	
+sir john hurt	7d6	
+sir john hussey delaval	5356	
+sir john jack rankine goody	4z9f	
+sir john jacob astor	2dgl	
+sir john jacob jakie astor	2dgl	
+sir john james skehel	4rnk	
+sir john jellicoe	5chl	
+sir john joseph caldwell abbott	39pr	
+sir john josiah guest 1st baronet	4b0v	
+sir john keltie	3j5y	
+sir john kenneth tavener	2ouh	
+sir john kerr	4xhz	
+sir john kingman	40a5	
+sir john latham	3p70	
+sir john lavery	5s6y	
+sir john lennard jones	2rxp	
+sir john leon 4th baronet	1qdd	
+sir john lubbock	4sd8	4sd8:5
+sir john lubbock 3rd		4sd8:5
+sir john lubbock 3rd baronet	4sd8	
+sir john macdonald	169y	
+sir john macdonell	46bh	
+sir john macleod ball	36uc	
+sir john maddox	4n2r	
+sir john major	19fv	
+sir john malcolm	5zoy	
+sir john mark frederick smith	4po5	
+sir john marks templeton	4knn	
+sir john marshall	5ylw	
+sir john mcewen	4f2c	
+sir john meurig thomas	2ksc	
+sir john meurig thomas frs	2ksc	
+sir john millais 1st baronet	qtz	
+sir john mills	b69	
+sir john monash	1ch8	
+sir john mortimer	pfb	
+sir john ne soan	33ay	
+sir john nicks	44w1	
+sir john northcott	5zli	
+sir john norton		5m1k:6
+sir john norton griffiths		5m1k:6
+sir john norton griffiths 1st		5m1k:6
+sir john norton griffiths 1st baronet	5m1k	
+sir john owen		5zta:5
+sir john owen 1st		5zta:5
+sir john owen 1st baronet	5zta	
+sir john paul getty	3ajr	
+sir john paul getty kbe	3ajr	
+sir john philip key	32u2	
+sir john phillip key	32u2	
+sir john pope hennessy	5v27	
+sir john pople	vq7	
+sir john pratt	5vrn	
+sir john pringle 1st baronet	4sjt	
+sir john randolph	36db	
+sir john rankine goody	4z9f	
+sir john reith	3g62	
+sir john rennie	61b7	
+sir john richard hicks	55qc	
+sir john robert kerr	4xhz	
+sir john robert vane	39hd	
+sir john royden maddox	4n2r	
+sir john scott keltie	3j5y	
+sir john sealy edward townsend	3r03	
+sir john sealy edward townsend frs	3r03	
+sir john sealy townsend	3r03	
+sir john sealy townsend frs	3r03	
+sir john seymour 1474 1536	3a6m	
+sir john seymour 14741536	3a6m	
+sir john seymour 1484 1536	3a6m	
+sir john shaw lefevre	3o3w	
+sir john sinclair	1gx8	1gx8:5
+sir john sinclair 1st		1gx8:5
+sir john sinclair 1st baronet	1gx8	
+sir john sinclair wemyss arbuthnot	60q4	
+sir john slessor	5dbb	
+sir john smith	4po5	
+sir john smyth		3hg1:5
+sir john smyth 1st		3hg1:5
+sir john smyth 1st baronet	3hg1	
+sir john soane	33ay	
+sir john sparrow david thompson	3j2h	
+sir john sparrow thompson	3j2h	
+sir john spicer	5vsu	
+sir john stewart clark 3rd baronet	3u14	
+sir john suckling	57n1	
+sir john suckling poet	57n1	
+sir john sulston	2d94	
+sir john tavener	2ouh	
+sir john taylor coleridge	23fq	
+sir john templeton	4knn	
+sir john theodore houghton	4j62	
+sir john thomas duckworth	5opb	
+sir john thomas duckworth 1st baronet	5opb	
+sir john tomlinson brunner 1st baronet	5u1f	
+sir john townsend	3r03	
+sir john vanbrugh	3t7v	
+sir john vanburgh	3t7v	
+sir john vincent hurt	7d6	
+sir john w cornforth	1b9s	
+sir john warcup cornforth	1b9s	
+sir john warren	3xku	
+sir john warren 1st baronet	3xku	
+sir john wedgwood	525n	525n:5
+sir john wedgwood 2nd		525n:5
+sir john wedgwood 2nd baronet	525n	
+sir john william dawson	4e3q	
+sir john william frederic nott	5gbs	
+sir john william lubbock	4sd8	
+sir john william lubbock 3rd baronet	4sd8	
+sir john william maxwell aitken 2nd baronet	4f5l	
+sir john wolfe barry	3ex9	
+sir john woodville	28sy	
+sir john woolf	1ejo	
+sir john woolf and james woolf of romulus films	1ejo	
+sir john wrottesley		5skx:5
+sir john wrottesley 8th		5skx:5
+sir john wrottesley 8th baronet	5skx	
+sir john wyndham pope hennessy	5v27	
+sir john wynn	4ma0	4ma0:5
+sir john wynn 1st		4ma0:5
+sir john wynn 1st baronet	4ma0	
+sir john young stewart	fx2	
+sir mixa lot	25tw	
+slpd	s1r	
+smcmod	3d2u	
+sosiaalidemokraattinen puolue	b8v	
+sparti	2kek	
+sparti municipality	2kek	
+steatodism	52z4	
+stefanik	5hfe	
+tagbalaran	l37	
+tatsu yamashita	2en3	
+the cranberries	niv	
+the cranberries 2003 recording sessions	niv	
+the frisco		153o:3
+the frisco kid	153o	
+the gardener		224a:4
+the gardener of		224a:4
+the gardener of argenteuil	224a	
+the shoveller	1706	
+the statlers	ojc	
+the stranger	1c34,23z2,4j3f,5b1j,5mtm	1j5a:5,3v23:4,4w41:5,4w5t:3,4wh8:4
+the stranger 1931 film	4j3f	
+the stranger 1946 film	23z2	
+the stranger 1946 movie	23z2	
+the stranger 1962 film	4wrf	
+the stranger 1967 film	1c34	
+the stranger 1967 movie	1c34	
+the stranger 1987 film	5b1j	
+the stranger album	5mtm	
+the stranger and		1j5a:5
+the stranger and the		1j5a:5
+the stranger and the gunfighter	1j5a	
+the stranger in between	25tx	
+the stranger oddworld	54fa	
+the stranger returns	4w5t	
+the stranger s		3v23:4,4wh8:4
+the stranger s hand	3v23	
+the stranger s return	4wh8	
+the stranger when a stranger calls	2srh	
+the stranger wore		4w41:5
+the stranger wore a		4w41:5
+the stranger wore a gun	4w41	
+the unburnt	6fde	
+the volcano monsters	42jm	
+thomas carell	65gq	
+tlhabane	16pk	
+twasam	2dqg	
+ulrikke	5ncn	
+unearth	4xex	
+unearth band	4xex	
+unearth episode	43pp	
+urguray national football team	1z8	
+uwo	1ko	
+vadso	rsk	
+vargrof	8ma	
+ween	1128	
+ween band	1128	
+yerebuni	11k	
+zambellino	cxn	

@@ -1,0 +1,464 @@
+acquire	1rbd	
+acquire company	1rbd	
+acquire corp	1rbd	
+acquire game developer	1rbd	
+adamant plaster	32y2	
+agdere tartar	56xc	
+alexander baluyev	55gz	
+alexander sanchez	2qyx	
+alun	pxt	uyy:2,3ddn:2,4kuf:2,51ct:2,5h4y:3,60jt:2
+alun armstrong	uyy,4kuf	
+alun armstrong actor	uyy	
+alun armstrong english actor	uyy	
+alun armstrong english footballer	4kuf	
+alun armstrong footballer	4kuf	
+alun bollinger	3ddn	
+alun edward michael	51ct	
+alun evans	60jt	
+alun ffred		5h4y:3
+alun ffred jones	5h4y	
+alun first name	pxt	
+alun given name	pxt	
+alun michael	51ct	
+ampoigne	2utr	
+angrec	103u	
+aphantochilidae	7k8	
+asson	1dm2	
+aveiro	apa,20l8	
+aveiro district	20l8	
+aveiro portugal	apa	
+balanga	160e	
+balanga bataan	160e	
+balanga city	160e	
+balletmaster	7rd	
+bapu	9rq,n76	
+bapu artist	n76	
+bapu director	n76	
+bapu film director	n76	
+bapu ji	9rq	
+bcs	12oo	
+bcs champions	6he3	
+bcs championship	6he3	
+bcs championship game	6he3	
+bcs lovelace medal	44dx	
+bcs national		6he3:4
+bcs national champion	6he3	
+bcs national championship	6he3	6he3:4
+bcs national championship 2006 present	6he3	
+bcs national championship game	6he3	
+bcs national championship game comments	6he3	
+bcs ncg	6he3	
+bcs title game	6he3	
+belieze	1qd	
+brindabella		5b5s:2
+brindabella mountain range	5b5s	
+brindabella mountains	5b5s	
+brindabella range	5b5s	
+brindabella ranges	5b5s	
+britsh empire	bt3	
+brodre	29v2	
+brodre film	29v2	
+burying	293s	
+burying beetle	jf5	
+burying beetles	jf5	
+bydgostia	3iz	
+celluar telephone	a9p	
+centimeter gram second	6f5i	
+centimeter gram second system	6f5i	
+centimeter gram second system of units	6f5i	
+centimeter gram second unit	6f5i	
+centimeter gram second units	6f5i	
+champvert	1vnj	
+charles talleyrand	284m	
+charles talleyrand perigord	284m	
+chekiang	87z	
+chekiang university	nhe	
+circleville	1x24	
+circleville herald	1x24	
+circleville oh	1x24	
+circleville ohio	1x24	
+clannish	86x	
+collblanc	60s0	
+collblanc barcelona metro	60s0	
+confessions	1xjd	qce:5,1332:5,1406:4,1782:6,1kd9:4,2hie:5,2zz5:5,43t7:5,4tzy:4,4zfx:5,5dtu:4,5j6o:5,5ww5:5
+confessions 1991 album	1cmb	
+confessions 2004 album	1xjd	
+confessions album by dweezil zappa	1cmb	
+confessions dweezil zappa	1cmb	
+confessions interlude	1xjd	
+confessions of		qce:5,1332:5,1406:4,1782:6,1kd9:4,2hie:5,43t7:5,4tzy:4,4zfx:5,5dtu:4,5j6o:5,5ww5:5
+confessions of a		qce:5,1332:5,1406:4,1782:6,2hie:5,43t7:5,4tzy:4,4zfx:5,5dtu:4,5j6o:5
+confessions of a blood drinker	5egw	
+confessions of a cheat	5dtu	
+confessions of a conjuror	472t	
+confessions of a dangerous		qce:5
+confessions of a dangerous mind	qce	
+confessions of a dangerous mind film	qce	
+confessions of a lady		2hie:5
+confessions of a lady cop	2hie	
+confessions of a marriage counselor	5o8k	
+confessions of a nazi		1332:5
+confessions of a nazi spy	1332	
+confessions of a police		43t7:5
+confessions of a police captain	43t7	
+confessions of a police commissioner to the district attorney	43t7	
+confessions of a queen	4tzy	
+confessions of a shopaholic	1406	
+confessions of a shopaholic film	1406	
+confessions of a taxi		5j6o:5
+confessions of a taxi driver	5j6o	
+confessions of a teenage		1782:6
+confessions of a teenage drama		1782:6
+confessions of a teenage drama queen	1782	
+confessions of a teenage drama queen film	1782	
+confessions of a white widowed male	4ucv	
+confessions of a window		4zfx:5
+confessions of a window cleaner	4zfx	
+confessions of an		5ww5:5
+confessions of an american girl	5szv	
+confessions of an opium		5ww5:5
+confessions of an opium eater	5ww5	
+confessions of an opium eater film	5ww5	
+confessions of faith	4whv	
+confessions of felix		1kd9:4
+confessions of felix krull	1kd9	
+confessions of felix krull film	1kd9	
+confessions of georgia nicolson	3hoa	
+confessions of the d a man	4t3m	
+confessions on		2zz5:5
+confessions on a		2zz5:5
+confessions on a dance		2zz5:5
+confessions on a dance floor	2zz5	
+confessions on a dancefloor	2zz5	
+confessions remixed	2zz5	
+confessions series	2u95	
+confessions usher album	1xjd	
+coves	5xk	
+coves d arta	1ohe	
+coves darta	1ohe	
+cryonetworks	mef	
+dodecatheon	6fhv	
+emporer	b7t	
+emporer of china	9t3	
+emporer of japan	8p6	
+emporer of rome	cv7	
+emporer s cup	d8s	
+faro	gs1,2kb4,4gky	3tt0:3
+faro algarve	gs1	
+faro da padre	3ub0	
+faro district	2kb4	
+faro document	8qc	
+faro document 1979	8qc	
+faro et		3tt0:3
+faro et deo	3tt0	
+faro islands	1x8	
+faro portugal	gs1	
+fenimorea	2a3r	
+fujitv	5kh	
+ghazwah al ahzab	5w8u	
+ghazwah al khandaq	5w8u	
+gmina otmuchow	s0g	
+gostan zarian	4wfg	
+gowno	4r6f	
+gowno commune	rrz	
+graulhet	12sd	
+grodnenskaya oblast	dm2	
+guomingtang	2dx	
+hajmassy ilona	231l	
+hotan	3yl9	3f52:2
+hotan china	3yl9	
+hotan prefecture	3f52	
+hyperthermia	1z4c	
+i newton	bq4	
+jawahar lal nehru university	7j3	
+jawahar navodaya vidyalaya khumbong	pwz	
+john mcenery	2a6y	
+john mcenery actor	2a6y	
+juwanna		48xs:2
+juwanna mann	48xs	
+kazakhstan	fe	4uf:6,spv:3,uho:6,1cwh:3,24bi:3,338t:2
+kazakhstan cup	338t	
+kazakhstan first		1cwh:3
+kazakhstan first division	1cwh	
+kazakhstan first league	1cwh	
+kazakhstan football team	4uf	
+kazakhstan higher hockey league	24bi	
+kazakhstan hockey		24bi:3
+kazakhstan hockey championship	24bi	
+kazakhstan hockey championship seasons	24bi	
+kazakhstan hockey league	24bi	
+kazakhstan ice hockey championship	24bi	
+kazakhstan major hockey league	24bi	
+kazakhstan major league	24bi	
+kazakhstan men		4uf:6
+kazakhstan men s		4uf:6
+kazakhstan men s national		4uf:6
+kazakhstan men s national football		4uf:6
+kazakhstan men s national football team	4uf	
+kazakhstan national		uho:6
+kazakhstan national football team	4uf	
+kazakhstan national hockey league	24bi	
+kazakhstan national under		uho:6
+kazakhstan national under 21		uho:6
+kazakhstan national under 21 football		uho:6
+kazakhstan national under 21 football team	uho	
+kazakhstan premier		spv:3
+kazakhstan premier league	spv	
+kazakhstan super league	spv	
+kazakhstan superleague	spv	
+kazakhstan vyschaya liga	24bi	
+kleindal	2hzn	
+kokinwakashu	6bbi	
+kossacks	168z	
+kotlas	4li6	
+kotlas urban okrug	4li6	
+kristiansson	e5y	
+kymmenedalen	16r0	
+kyzylordinskaya	205m	
+kyzylordinskaya oblast	205m	
+kyzylordinskaya oblast province	205m	
+kyzylordinskaya oblast province kazakhstan	205m	
+le sourn	2eq3	
+limbersky david	4wax	
+llobregat	2pny	
+llobregat river	2pny	
+luggarus	bxy	
+lury	217i	217i:2,28o3:3
+lury municipality	217i	
+lury sur		28o3:3
+lury sur arnon	28o3	
+lury village	217i	
+luxembourgish air force	4isf	
+luxembourgish army	4isf	
+macrocarphus	3yin	
+maeagheaen	63j	
+mamiko		57tm:2
+mamiko noto	57tm	
+manwha	5w32	
+medofloxine	1st6	
+melide	24ad	3x99:3
+melide a		3x99:3
+melide a coruna	3x99	
+melide switzerland	24ad	
+melide ti	24ad	
+melide ticino	24ad	
+menchen	31jb	
+michael higdon	5clx	
+mirrored sphenoid	4tpl	
+murtafaatu l jawlan	1mbz	
+natla of atlantis	wwl	
+nerja	1utd	
+nerja malaga	1utd	
+nerja spain	1utd	
+neuroscientists	1qw	
+nivnice	2c36	
+oxalys	oly	
+parthenoi	54jd	
+parvarish	69dz	
+parvarish 1977 film	69dz	
+passiflora	dc1	
+passiflora ciliata	dc1	
+paul potter	279v	
+ponerorchis	19o5	
+povilas	43on	5lrj:2
+povilas first name	43on	
+povilas given name	43on	
+povilas vanagas	5lrj	
+presovsky kraj	wa1	
+pseudotortrix	b1n	
+refining industry	fn1	
+refining salt	kr3	
+rennaissance	cck	
+rennaissance music	5rbw	
+rennaissance revival	kz	
+repomen	1as3	
+richard liebreich	4lkl	
+rmi 9918	gaw	
+robert charlebois	4xaw	
+runzhi	fvz	
+saint hymer	1v2n	
+sarvesh		6f6e:2
+sarvesh murari	6f6e	
+secretory media otitis	1mqp	
+seedcoat	4ck4	
+seversky aircraft	58yx	
+seversky aircraft company	58yx	
+seversky aircraft corporation	58yx	
+seversky aviation	58yx	
+seversky aviation company	58yx	
+seversky aviation corporation	58yx	
+seversky donets	4f0o	
+seversky donets river	4f0o	
+sheela	j3h	6eja:2
+sheela actress	j3h	
+sheela kaur	6eja	
+sheela tamil actress	6eja	
+simonetta		3p2m:2,408z:2,5i5k:2
+simonetta cattaneo	5i5k	
+simonetta cattaneo de vespucci	5i5k	
+simonetta cattaneo vespucci	5i5k	
+simonetta januensis vespucci	5i5k	
+simonetta myriam sommaruga	408z	
+simonetta sommaruga	408z	
+simonetta stefanelli	3p2m	
+simonetta vespucci	5i5k	
+sir gallahad	5i4t	
+sir gallahad iii	5i4t	
+stelmet zielona gora	1xrv	
+stitary	2een	
+sutjeska film	wv2	
+sutjeska foca	6dk4	
+sutjeska movie	wv2	
+sutjeska niksic	8q2	
+t31 cannon	5660	
+tallard	1lt6	
+the goddess		5oko:5
+the goddess of		5oko:5
+the goddess of sagebrush		5oko:5
+the goddess of sagebrush gulch	5oko	
+the king	3pzg,5ymu	gtn:4,pl7:4,zyx:4,11pu:4,14x4:4,1kmf:4,1rxx:4,1uag:4,1xng:4,2a21:4,3acg:4,3k9s:5,4k4w:4,4lat:4,4wyx:5,582c:4,5aq8:3,5ouv:6,5wjl:5,66vq:4,68j4:4,69at:5,6anh:7
+the king 1936 film	3pzg	
+the king 2005 film	5ymu	
+the king and		1kmf:4,3acg:4,3k9s:5,5ouv:6
+the king and four		3k9s:5
+the king and four queens	3k9s	
+the king and i	1kmf,3acg	
+the king and i 1956 film	1kmf	
+the king and i 1999 film	3acg	
+the king and i faith evans album	j1g	
+the king and i soundtrack	1kmf	
+the king and other stories	gsh	
+the king and queen of canada	6cnx	
+the king and the		5ouv:6
+the king and the chorus		5ouv:6
+the king and the chorus girl	5ouv	
+the king cole trio	cen	
+the king david report	2m54	
+the king entertainer	386	
+the king hunting	5j8t	
+the king i faith evans album	j1g	
+the king i faith evans and the notorious b i g album	j1g	
+the king i soundtrack	1kmf	
+the king is		582c:4
+the king is alive	582c	
+the king is dancing	3s9w	
+the king mathers lp	1snj	
+the king murder	5aq8	
+the king of		pl7:4,zyx:4,11pu:4,1rxx:4,4k4w:4,4wyx:5,5wjl:5,66vq:4,68j4:4,69at:5,6anh:7
+the king of all media	27s5	
+the king of argentine rock	4iht	
+the king of biathlon	tc3	
+the king of cocaine	2e2s	
+the king of comedy	pl7	
+the king of comedy 1982 film	pl7	
+the king of comedy 1983	pl7	
+the king of comedy 1983 film	pl7	
+the king of comedy film	pl7	
+the king of crash	1xil	
+the king of dance mixtape	10sr	
+the king of fighters	11pu,1rxx	69at:5
+the king of fighters 2002	69at	
+the king of fighters 2002 challenge to ultimate battle	69at	
+the king of fighters 2002 unlimited match	69at	
+the king of fighters 94	1rxx	
+the king of fighters battle de paradise	1rxx	
+the king of fighters best collection	1rxx	
+the king of fighters film	11pu	
+the king of fighters r 2	1rxx	
+the king of fighters r 3	1rxx	
+the king of fighters rpg	1rxx	
+the king of fighters series	1rxx	
+the king of football	12my	
+the king of hollywood	av6	
+the king of jazz	1tk5	
+the king of jazz 1930 film	1tk5	
+the king of kings	zyx	
+the king of kings 1927 film	zyx	
+the king of kong	66vq	
+the king of kong a fistful of quarters	66vq	
+the king of kong a fistfull of quarters	66vq	
+the king of lunch	2t1d	
+the king of luxembourg	2mex	
+the king of marvin		5wjl:5
+the king of marvin gardens	5wjl	
+the king of naples	5psu	
+the king of paris	4k4w,68j4	
+the king of paris 1930 french language film	68j4	
+the king of paris 1930 german film	4k4w	
+the king of poggioreale	1z4v	
+the king of ragtime	1fkb	
+the king of rock n roll	386	
+the king of second bananas	55m0	
+the king of soccer	12my	
+the king of soul	4p4	
+the king of stamford bridge	41uy	
+the king of sting	6hem	
+the king of the		4wyx:5,6anh:7
+the king of the 360s	2m39	
+the king of the bla		6anh:7
+the king of the bla bla		6anh:7
+the king of the bla bla bla	6anh	
+the king of the hill	ms9	
+the king of the kongo	4wyx	
+the king of the mambo	576k	
+the king of the mountains	3h69	
+the king of the seven seas	6fhm	
+the king of tollywood	1b3f	
+the king s		gtn:4,14x4:4,1uag:4,1xng:4,2a21:4
+the king s choice	1uag	
+the king s great matter	155y	
+the king s guerrillas	4o8i	
+the king s hall and college of brasenose	2gb	
+the king s highway ontario	9fj	
+the king s highways ontario	9fj	
+the king s jester	14x4	
+the king s medal	2tr	
+the king s medal of merit	5mx	
+the king s quest companion	1gru	
+the king s speech	gtn	
+the king s speech film	gtn	
+the king s thief	2a21	
+the king s whore	1xng	
+the king s wrath	4dif	
+the king s yard deptford	ukk	
+the king smiles paris laughs	3uqz	
+the king steps		4lat:4
+the king steps out	4lat	
+the king sun	euj	
+the king who rained	1ck0	
+thomas galbraith		5dpx:5
+thomas galbraith 2nd		5dpx:5
+thomas galbraith 2nd baron		5dpx:5
+thomas galbraith 2nd baron strathclyde	5dpx	
+thomas galbraith born 1960	5dpx	
+thomas galbraith british peer	5dpx	
+thomas landry	5u5x	
+tonoshi	1xr0	
+trelon	1fk9	
+trolololol	2k34	
+unrestricted estimate	64lj	
+unrestricted generic top level domain	4jwx	
+unrestricted master s license	slp	
+unrestricted submarine warfare february 1915	5od8	
+unrestricted submarine warfare february 1917	5od8	
+unrestricted tld	4jwx	
+villeveque	1exa	
+vinton	316u	1c4k:2
+vinton cerf	pkd	
+vinton county	1c4k	
+vinton county air show	1c4k	
+vinton county oh	1c4k	
+vinton county ohio	1c4k	
+vinton g cerf	pkd	
+vinton gray cerf	pkd	
+vinton ia	316u	
+vinton iowa	316u	
+vinton p cerf	pkd	
+vinton smith	5m6f	
+virajjakam	560t	
+vostizza	2ma1	
+waarbeke	o0x	
+wass ted	5b63	
+wierre		1xdx:2
+wierre effroy	1xdx	
+willamsport pennsylvania	ax5	

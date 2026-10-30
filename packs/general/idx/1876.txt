@@ -1,0 +1,582 @@
+1938	1eqq	35g:4,qw1:4,151y:4,38cf:4,4v2m:4,5qan:4
+1938 39		38cf:4
+1938 39 cypriot		38cf:4
+1938 39 cypriot cup	38cf	
+1938 39 cypriot first division	3m75	
+1938 39 lebanese premier league	vwe	
+1938 ad	1eqq	
+1938 british		qw1:4
+1938 british empire		qw1:4
+1938 british empire games	qw1	
+1938 british empire games medal count	qw1	
+1938 ce	1eqq	
+1938 commonwealth games	qw1	
+1938 empire games	qw1	
+1938 european		151y:4,5qan:4
+1938 european aquatics		5qan:4
+1938 european aquatics championships	5qan	
+1938 european athletics		151y:4
+1938 european athletics championships	151y	
+1938 european championships in athletics	151y	
+1938 federation internationale de football association world cup	35g	
+1938 fifa		35g:4
+1938 fifa world		35g:4
+1938 fifa world cup	35g	
+1938 tour		4v2m:4
+1938 tour de		4v2m:4
+1938 tour de france	4v2m	
+1938 world cup	35g	
+1938 year	1eqq	
+2080s	1xd1	
+adjective	53i2	
+adjective order	53i2	
+akhmadulina	1svc	
+alcarras	3b8y	
+aloptaloe	bn3	
+ambarish	h5y	
+ambrines	373b	
+aonyx cinerea	6bej	
+aonyx cinereus	6bej	
+aqmola obls	rux	
+aqmola oblysy	rux	
+aqmola region	rux	
+archeabacteria	512h	
+asplundia	41zj	
+atimura	4zgl	
+baccalaureus in artibus	5x8	
+baccalaureus scientiarum	e24	
+baptist christian	7i7	
+baptist christianity	7i7	
+baptist church	7i7	
+baptist churches	7i7	
+baptist college of rhode island	me	
+baptist doc	7i7	
+baptist evangelical	7i7	
+baptist minister	7i7	
+baptist seminary	7i7	
+baptist tradition	7i7	
+baptist university in hong kong	1f14	
+bogelma	2snl	
+bongiovi	ak2	
+bontang		oed:2
+bontang f c	oed	
+bontang fc	oed	
+bontang football club	oed	
+bontang pkt	oed	
+borik zilina	9uf	
+cattegat	18h0	
+cernelele de sus	5ix	
+charles 14	15gy	
+cheyney		3l3b:4
+cheyney state college	3l3b	
+cheyney state teachers college	3l3b	
+cheyney university	3l3b	3l3b:4
+cheyney university of		3l3b:4
+cheyney university of pennsylvania	3l3b	
+chrisostomos		4qcv:4
+chrisostomos i		4qcv:4
+chrisostomos i of		4qcv:4
+chrisostomos i of athens	4qcv	
+chrisostomos michailidis	4mia	
+cityscape	1c6u	
+corconne	2b42	
+criminality	7bv	
+cyprinus	25br	
+cyril		ay5:3,g6j:2,pnv:3,10dd:2,1669:3,1siu:2,1wi1:6,20nu:2,25bu:2,28sr:2,2gtu:3,379s:2,3gcr:2,3o81:2,40d7:2,42cb:2,48lh:2,4lv4:2,50ho:2,51se:2,528t:3,54hb:2,5blo:2,5c3m:2,5g7c:2,5ha0:5,5i6j:2,5l3a:2,5p1e:2,5pp1:3,5w1q:2,5we6:2,5yj0:3,5z3w:2,6gba:2
+cyril and method	1hy8	
+cyril and methodius	1hy8	
+cyril and methodus	1hy8	
+cyril apostle to the slavs	1hy8	
+cyril asquith	1wi1	1wi1:6
+cyril asquith baron		1wi1:6
+cyril asquith baron asquith		1wi1:6
+cyril asquith baron asquith of		1wi1:6
+cyril asquith baron asquith of bishopstone	1wi1	
+cyril bristow	1siu	
+cyril brudenell bingham white	63qv	
+cyril brudenell white	63qv	
+cyril chapuis	54hb	
+cyril collard	3o81	
+cyril collard comments	3o81	
+cyril connolly	5w1q	
+cyril cusack	g6j	
+cyril degrasse tyson	1l5u	
+cyril delavanti	10dd	
+cyril delevanti	10dd	
+cyril domb	5i6j	
+cyril domoraud	28sr	
+cyril endfield	14a4	
+cyril fletch	rhq	
+cyril frankel	379s	
+cyril gardner	3gcr	
+cyril gautier	25bu	
+cyril gundyaev	2vda	
+cyril hanouna	5c3m	
+cyril henry spiers	5blo	
+cyril hinshelwood	2gtu	
+cyril holland	5p1e	
+cyril hume	20nu	
+cyril i of alexandria	5pp1	
+cyril j		ay5:3
+cyril j mockridge	ay5	
+cyril jackson astronomer	pnv	
+cyril james	5k59	
+cyril james cusack	g6j	
+cyril joseph ritchard	40d7	
+cyril kamar	3int	
+cyril kornbluth	1669	
+cyril l n newall	5ha0	
+cyril lemoine	48lh	
+cyril lionel robert james	5k59	
+cyril louis norton newall	5ha0	
+cyril louis norton newall 1st baron newall	5ha0	
+cyril lowe	5we6	
+cyril m		1669:3
+cyril m kornbluth	1669	
+cyril makanaky	379m	
+cyril mcneile	12st	
+cyril mockridge	ay5	
+cyril montague pennington richards	1i7l	
+cyril newall	5ha0	5ha0:5
+cyril newall 1st		5ha0:5
+cyril newall 1st baron		5ha0:5
+cyril newall 1st baron newall	5ha0	
+cyril newall first baron newall	5ha0	
+cyril norman		2gtu:3
+cyril norman hinshelwood	2gtu	
+cyril northcote parkinson	5ira	
+cyril o		5yj0:3
+cyril o reilly	5yj0	
+cyril o reilly actor	5yj0	
+cyril of		5pp1:3
+cyril of alexandria	5pp1	
+cyril ornadel	4lv4	
+cyril parkinson	5ira	
+cyril parlichev	5z3w	
+cyril pouget	4z44	
+cyril prlicev	5z3w	
+cyril prlichev	5z3w	
+cyril raker endfield	14a4	
+cyril ramaphosa	6gba	
+cyril ramaphosa foundation	6gba	
+cyril raymond	50ho	
+cyril regis	45qz	
+cyril richard	40d7	
+cyril ritchard	40d7	
+cyril rootham	42cb	
+cyril s smith	528t	
+cyril shaps	51se	
+cyril smith	5l3a	
+cyril spiers	5blo	
+cyril stanley		528t:3
+cyril stanley smith	528t	
+cyril v		pnv:3
+cyril v jackson	pnv	
+cyril vernon connolly	5w1q	
+cyril vladimirovich grand duke of russia	1w72	
+cyril wilde	cfn	
+cyril yechiel domb	5i6j	
+cyril zuma	5g7c	
+devens charles	4t71	
+dragsfjaerd	2491	
+dravus	1b7x	
+emmanuela marrone	499z	
+endometriosis	1eet	
+escola das americas	2hwx	
+fc polihraftekhnika oleksandria	8se	
+fc polihraftekhnika oleksandriya	8se	
+fedomatix	17mr	
+ff7r	6fq6	
+fontes	2fbd	
+foucauld	4hst	
+frrux ismaylov	5q4u	
+garrincha	1tq5	
+gigaannus	kp	
+gmina krasnystaw	25b8	
+godavari	2lrd	2lrd:2
+godavari ghat	otf	
+godavari river	2lrd	
+guaraldi	1j6b	
+guarena	1ian	
+hakanyacha	5iyi	
+hautefontaine	2qtm	
+hofmeist	3guw	
+huntingdonshire	c3b	
+huntingdonshire county council	c3b	
+huntingdonshire district	c3b	
+huntingdonshire district council	c3b	
+i devlet geray	4yqf	
+i robot	17y2,3iwh	
+i robot 2	17y2	
+i robot comments	3iwh	
+i robot episode	3iwh	
+i robot film	17y2	
+i robot movie	17y2	
+i robot novel	3iwh	
+ideologically	ysy	
+ingame	5x89	
+inks	tbc	
+irwin	d1o	l3q:2,t9d:2,13y9:2,38e7:3,3dag:2,46ab:3,5f1n:2,5lry:2,6eb6:2
+irwin a rose	5lry	
+irwin alan kniberg	1nw7	
+irwin allen	t9d	
+irwin allen ginsberg	mqf	
+irwin and joan jacobs	38e7	
+irwin c gunsalus	5f1n	
+irwin cobb	5okj	
+irwin corey	3dag	
+irwin elliott zucker	290j	
+irwin first name	d1o	
+irwin ginsberg	mqf	
+irwin given name	d1o	
+irwin gunsalus	5f1n	
+irwin i		46ab:3
+irwin i shapiro	46ab	
+irwin james	28lh	
+irwin kershner	13gw	
+irwin kniberg	1nw7	
+irwin m		38e7:3
+irwin m jacobs	38e7	
+irwin mark	gga	
+irwin mark jacobs	38e7	
+irwin martin cohn	2kl2	
+irwin panofsky	27op	
+irwin prize	4r88	
+irwin rommel	19bw	
+irwin rose	5lry	
+irwin s chanin school of architecture	4fp	
+irwin s cobb	5okj	
+irwin shapiro	46ab	
+irwin shaw	13y9	
+irwin sparkes	4tw8	
+irwin steve	1dy3	
+irwin winkler	l3q	
+irwin winkler films	l3q	
+irwin yablans	6eb6	
+irwin yablans company	6eb6	
+ivanna	8oo	
+jahangirnagar	1jp	
+james usher	5gr5	
+jardres	3mhz	
+jean clamageran	62hm	
+jeruslem	hu	
+kraselov	1z3z	
+ksistof lavrinovic	3gtr	
+la ley	2ohn	
+la ley band	2ohn	
+la ley banda	2ohn	
+la ley del deseo	38gj	
+lampronia	238s	
+lardaro	2mg5	
+lindsy lohan	jlz	
+lindsy vaughn	2izs	
+lives	oox	6rn:7,736:9,o5k:7
+lives are strange	3ucc	
+lives of		6rn:7,736:9,o5k:7
+lives of a bengal lancer	x7j	x7j:6
+lives of a cell	50o9	
+lives of artists	736	
+lives of dutch painters and paintresses		20i:7
+lives of flemish		6rn:7
+lives of flemish german		6rn:7
+lives of flemish german and		6rn:7
+lives of flemish german and dutch		6rn:7
+lives of flemish german and dutch painters	6rn	
+lives of noble grecians and romans	oox	
+lives of noble greeks and romans	oox	
+lives of others	1vhn	1vhn:4
+lives of plutarch	oox	
+lives of the		736:9,o5k:7
+lives of the english poets	o5k	
+lives of the most		736:9,o5k:7
+lives of the most eminent		o5k:7
+lives of the most eminent english		o5k:7
+lives of the most eminent english poets	o5k	
+lives of the most eminent painters sculptors and architects	736	
+lives of the most excellent		736:9
+lives of the most excellent italian painters sculptors and architects from cimabue to our times	736	
+lives of the most excellent painters	736	736:9
+lives of the most excellent painters sculptors		736:9
+lives of the most excellent painters sculptors and		736:9
+lives of the most excellent painters sculptors and architects	736	
+lives of the most excellent painters sculptors and architects from cimabue to our times	736	
+lives of the noble grecians and romans	oox	
+lives of the noble greeks	oox	
+lives of the noble greeks and romans	oox	
+lives of the noble romans	oox	
+lives of the painters	736	
+lives of the poets	o5k	
+lives plutarch	oox	
+lleida	6ij	
+lleida 1939	6ew	
+lleida esportiu	vs6	
+lleida esportiu seasons	vs6	
+lleida lleida	6ij	
+lleida province	spd	
+lleida spain	6ij	
+lusignan	rg5,1s4i	3xu5:2
+lusignan dynasty	rg5	
+lusignan family	rg5	
+lusignan petit	3xu5	
+lusignan vienne	1s4i	
+macenta		64t3:2
+macenta prefecture	64t3	
+macenta prefecture guinea	64t3	
+magnesia		3ae5:2
+magnesia litera	3ae5	
+magnesia litera prize	3ae5	
+magnesia negra	d59	
+magnesia turkey	fc7	
+mahilyowskaya voblasts	esp	
+mahler	noq,1jfz	
+mahler alma	2aoy	
+mahler film	1jfz	
+mahler gustav	noq	
+mahler s classification	62mh	
+mahler symphonies	noq	
+mamillaria	e2d	
+mapchchu khambab	4lmt	
+marly	1h2x,26je	m22:3,1tl8:2,27o3:3,2an5:3,3j77:3
+marly gomont	1tl8	
+marly goumont	1tl8	
+marly la		2an5:3
+marly la ville	2an5	
+marly le		m22:3
+marly le roi	m22	
+marly matalin	1u16	
+marly matlin	1u16	
+marly moselle	1h2x	
+marly nord	26je	
+marly sous		3j77:3
+marly sous issy	3j77	
+marly sur		27o3:3
+marly sur arroux	27o3	
+maternaty	4g7	
+matsunaga hiroshima	f35	
+midsummer		54h4:6,59hi:2,5lqh:2,62t6:2
+midsummer classic	6ggk	
+midsummer dream	62t6	
+midsummer eve		54h4:6
+midsummer eve bonfire		54h4:6
+midsummer eve bonfire on		54h4:6
+midsummer eve bonfire on skagen		54h4:6
+midsummer eve bonfire on skagen beach	54h4	
+midsummer madness	59hi,5lqh	
+midsummer madness 1920 film	5lqh	
+midsummer madness 1921 film	5lqh	
+midsummer madness 2007 film	59hi	
+midsummer madness film	59hi	
+midsummer murders	1fk0	
+midsummer night dream	1q5o	
+midsummer night s dream	uvg,1q5o	
+midsummer night s sex comedy	1by4	
+midsummer night sex comedy	1by4	
+mikulov	o1i	
+monbahus	2akm	
+mute		2d9:2,4gsh:2
+mute bmg	2d9	
+mute city	59u8	
+mute corporation	2d9	
+mute death customs	31c	
+mute full length film	58ns	
+mute record label	2d9	
+mute records	2d9	
+mute speech	5g4x	
+mute witness	4gsh	
+nonstop film	10yj	
+nottingham	1a2	1j1:4,gbd:3,11xo:4,14di:3,1q9d:2,378q:3
+nottingham california	kv9	
+nottingham charles howard 1st earl of	29np	
+nottingham england	1a2	
+nottingham enterprise zone	1a2	
+nottingham eprints	38y	
+nottingham etheses	38y	
+nottingham express		14di:3
+nottingham express transit	14di	
+nottingham forest	1j1	1j1:4
+nottingham forest f		1j1:4
+nottingham forest f c	1j1	
+nottingham forest f c youth academy	1j1	
+nottingham forest fc	1j1	
+nottingham forest football club	1j1	
+nottingham grammar school	gbd	
+nottingham high		gbd:3
+nottingham high school	gbd	
+nottingham hospitality	38y	
+nottingham house	1228	
+nottingham light rail	14di	
+nottingham nottinghamshire	1a2	
+nottingham panthers	1q9d	
+nottingham polytechnic	378q	
+nottingham r		11xo:4
+nottingham r f		11xo:4
+nottingham r f c	11xo	
+nottingham r u f c	11xo	
+nottingham rfc	11xo	
+nottingham rugby	11xo	
+nottingham rugby football club	11xo	
+nottingham tram system	14di	
+nottingham trams	14di	
+nottingham tramway	14di	
+nottingham trent	378q	378q:3
+nottingham trent polytechnic	378q	
+nottingham trent university	378q	
+nottingham ua	1a2	
+nottingham uk	1a2	
+nottingham uni	38y	
+nottingham united f c	5pas	
+nottingham united kingdom	1a2	
+nottingham university	38y	
+nottingham university college	38y	
+ochirossi	34vi	
+oks 1945 olsztyn	g4g	
+oks stomil olsztyn	g4g	
+paul driessen	5wza	
+paul driessen animator	5wza	
+paul herman	35i7	
+paul janvier	13tk	
+paul mcknight	5y2d	
+paul vinogradoff	41yy	
+peter beadle	3fsq	
+pirus	62m	
+podkarpacie province	gs8	
+podkarpacie voivodeship	gs8	
+podkarpacie voivodship	gs8	
+pokal der blauen schwerter	4105	
+pokal der blauen schweter	4105	
+pokal der blauen scwerter	4105	
+pokal hervis	1gwj	
+pokal nzs	1gwj	
+pokestop	1al4	
+potamkin		5h22:2
+potamkin prize	5h22	
+presario 2500	3y1j	
+psalisauridae	5jzs	
+pukhtun	ks8	
+qitaihe	4v76	
+qitaihe heilongjiang	4v76	
+rafeal schiedt	5smg	
+robert kaufman	44l6	
+robert walden	4t9w	
+rokaf	4h0z	
+rorgon		6988:5
+rorgon i		6988:5
+rorgon i count		6988:5
+rorgon i count of		6988:5
+rorgon i count of maine	6988	
+rorgon i of maine	6988	
+saint ansgar	4j77	
+salledes	2owh	
+san chirico		2ipm:3
+san chirico raparo	2ipm	
+sarm studios	50fv	
+sarm west	50fv	
+sarm west studios	50fv	
+seagal	g4q	
+seagal steven	g4q	
+selangor	aop	6m4:3,g7b:5
+selangor darul ehsan	aop	
+selangor f		6m4:3,g7b:5
+selangor f a	6m4	
+selangor f c	6m4	g7b:5
+selangor f c u		g7b:5
+selangor f c u 23	g7b	
+selangor fa	6m4	
+selangor fa president s cup	6m4	
+selangor football team	6m4	
+selangor malaysia	aop	
+selangor mbpj fc	2oh0	
+selangor mppj	2oh0	
+selangor mppj fc	2oh0	
+selangor national football team	aop	
+selangor pkns fc	g7b	
+selangor public bank	59u0	
+selangor public bank f c	59u0	
+selangor public bank fc	59u0	
+selangor public bank football club	59u0	
+selangor state	aop	
+shakhr i sabz	4x51	
+shootout	3pst	4ien:3
+shootout at		4ien:3
+shootout at the o k corral	31rw	
+shootout at the ok corral	31rw	
+shootout at wadala	4ien	
+slraranape	49n7	
+smallest asteroid	bv	
+smallest known asteroid	bv	
+smallest show on earth	362n	362n:5
+spartakusbund	314u	
+swin		3eg1:2
+swin cash	3eg1	
+tecla		1zia:2
+tecla scarano	1zia	
+tennesee	i6	
+tennesee titans	1dm	
+tennesee williams	exk	
+thanphuying poonsuk phanomyong	57yf	
+the cloudland company	4kk6	
+torlea alberta	5rcs	
+trevoux	1tk4	
+turushka	207l	
+uhelna	3yg4	21hh:2
+uhelna pribram	21hh	
+uncg	i95	
+uncg school of music theater and dance	i95	
+uncg school of music theatre and dance	i95	
+united counties		1276:3,20au:6,2s6e:6
+united counties football league	1276	
+united counties football league division one	1276	
+united counties football league premier division	1276	
+united counties league	1276	
+united counties league division one	1276	
+united counties leeds and grenville	2s6e	
+united counties of		20au:6,2s6e:6
+united counties of leeds		2s6e:6
+united counties of leeds and		2s6e:6
+united counties of leeds and grenville	2s6e	
+united counties of leeds and grenville ontario	2s6e	
+united counties of prescott		20au:6
+united counties of prescott and		20au:6
+united counties of prescott and russell	20au	
+united counties of prescott and russell ontario	20au	
+united counties one	1276	
+united counties premier	1276	
+usacmh	2ms0	
+virgen de la antigua	3ajd	
+virgen de la candelaria	6f1s	
+virgen de primera	fm6	
+virgen lemonade	6hmt	
+visnja vas 1 mass grave	480k	
+visnja vas 2 mass grave	480k	
+wangsimni		2zu9:2
+wangsimni station	2zu9	
+wanna		3cb8:2,5x93:4
+wanna be		5x93:4
+wanna be startin		5x93:4
+wanna be startin somethin	5x93	
+wanna be startin somethin 2008	5x93	
+wanna be starting something	5x93	
+wanna buy a duck	5j4c	
+wanna get away	1gqm	
+wanna get to know you that good	4y9l	
+wanna move diddy song	6c1j	
+wanna one	3cb8	
+wghof	7c9	
+william lemke	5o6j	
+wloclawek	jdt	
+wloclawek commune	gva	
+wloclawek county	tp1	
+wythenshawe	50o0	
+wythenshawe cheshire	50o0	
+wythenshawe greater manchester	50o0	
+wythenshawe manchester	50o0	
+yangjae		4uhw:2
+yangjae station	4uhw	
+yanick noah	1xg2	
+yisou	62eo	
+yogiism	3f12	
+yongzhou	1hzp	
+yongzhou hunan	1hzp	
+ypsitucky	czi	
+zhoukou	1slw	
+zhoukou henan	1slw	

@@ -1,0 +1,53 @@
+{
+  "note": "Extra questions (written for this demo, not from any exam) used only to test JS vs Python parity and quantisation. Not shown in the UI.",
+  "docs": [
+    {
+      "id": "un_charter",
+      "file": "qa/docs/un_charter.txt",
+      "questions": [
+        {"q": "What are the purposes of the United Nations?"},
+        {"q": "How many representatives may each Member have in the General Assembly?"},
+        {"q": "Can a Member be expelled from the United Nations?"},
+        {"q": "Who elects the non-permanent members of the Security Council?"},
+        {"q": "When does the General Assembly meet in regular session?"},
+        {"q": "Who convenes special sessions of the General Assembly?"},
+        {"q": "Does a Member in arrears lose its vote in the General Assembly?"},
+        {"q": "How many votes are needed for Security Council decisions on procedural matters?"},
+        {"q": "Which body adopts its own rules of procedure, including the method of selecting its President?"},
+        {"q": "What is the official language of the United Nations?"}
+      ]
+    },
+    {
+      "id": "us_constitution",
+      "file": "qa/docs/us_constitution.txt",
+      "questions": [
+        {"q": "How often are Representatives chosen?"},
+        {"q": "How long must a Senator have been a citizen?"},
+        {"q": "Who chooses the Speaker of the House?"},
+        {"q": "Who has the power to declare war?"},
+        {"q": "How long is the President's term of office?"},
+        {"q": "Can the President grant pardons?"},
+        {"q": "What is required to convict a person of treason?"},
+        {"q": "Who tries all impeachments?"},
+        {"q": "Where must bills for raising revenue originate?"},
+        {"q": "How many justices sit on the Supreme Court?"}
+      ]
+    },
+    {
+      "id": "moon",
+      "file": "qa/docs/moon.txt",
+      "questions": [
+        {"q": "What is the diameter of the Moon?"},
+        {"q": "Who stayed in orbit during Apollo 11?"},
+        {"q": "What causes the ocean tides on Earth?"},
+        {"q": "How long is the full cycle of the Moon's phases?"},
+        {"q": "What are the maria made of?"},
+        {"q": "Where has water ice been found on the Moon?"},
+        {"q": "Is the gravity on the Moon stronger than on Earth?"},
+        {"q": "How old is the Moon?"},
+        {"q": "Which mission was the last crewed mission to the Moon?"},
+        {"q": "How much does a ticket to the Moon cost?"}
+      ]
+    }
+  ]
+}

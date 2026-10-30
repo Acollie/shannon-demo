@@ -1,0 +1,256 @@
+1933	1ckc	2qtf:4
+1933 ad	1ckc	
+1933 ce	1ckc	
+1933 tour		2qtf:4
+1933 tour de		2qtf:4
+1933 tour de france	2qtf	
+1933 year	1ckc	
+a 25 bolleville	30km	
+abortive poliomyelitis	7fa	
+amygdaleae	6bn	
+andersonian college and museum	46e	
+andersonian institution	46e	
+andersonian university	46e	
+avitos gieen	6dup	
+avitos giessen	6dup	
+ballinamallard		63oi:4
+ballinamallard united	63oi	63oi:4
+ballinamallard united f		63oi:4
+ballinamallard united f c	63oi	
+ballinamallard united fc	63oi	
+ballinamallard united football club	63oi	
+barbaresco	3lsh	
+barbaresco cn	3lsh	
+barbaresco italy	3lsh	
+barbaresco piedmont	3lsh	
+bedous	3ch2	
+bedous france	3ch2	
+bilovec	uii	
+binasha	1xlx	
+biysk	1r1g	
+biysk urban okrug	1r1g	
+boiadeiro	2pqr	
+boiadeiro footballer born 1984	3k9x	
+bors	2yj1,3j9w	
+bors baignes sainte radegonde	3j9w	
+bors canton de baignes sainte radegonde	3j9w	
+bors canton de montmoreau saint cybard	2yj1	
+bors canton of baignes sainte radegonde	3j9w	
+bors canton of charente sud	3j9w	
+bors canton of montmoreau	2yj1	
+bors canton of montmoreau saint cybard	2yj1	
+bors canton of tude et lavalette	2yj1	
+bors de baignes	3j9w	
+bors de montmoreau	2yj1	
+bors montmoreau saint cybard	2yj1	
+burjerd	1aez	
+buttscratcher 2000	34zw	
+caley cuoco	101r	
+caley kuoco	101r	
+caley thistle	6sl	
+callotte	569f	
+camryn		1imz:2
+camryn manheim	1imz	
+camryn mannheim	1imz	
+carenno	4l48	
+challengers		3r0h:2
+challengers league	3r0h	
+crylic	1nq	
+cyf	4j2	
+darioritum	8wy	
+david milman	5fwv	
+deliciosamente		63dd:2
+deliciosamente amoral	63dd	
+devk arena	3ezk	
+dhsab	4dk1	
+eliade mircea	wqt	
+eliade radulescu	5ru8	
+endophleban	3roc	
+esosoc	6gm8	
+eulimella	h92	
+falsopriona	6fjn	
+ferrierois	32k4	
+foucheres	3d0x,3ni3	
+foucheres aube	3d0x	
+foucheres yonne	3ni3	
+frankston	160q,2ygj	
+frankston city	3dkr	
+frankston line	2ygj	
+frankston railway line	2ygj	
+frankston railway line melbourne	2ygj	
+frankston suburb	160q	
+frankston train line melbourne	2ygj	
+frankston victoria	160q	
+frederick edwin 1st earl of birkenhead smith	2gjy	
+frederick edwin church	2z71	
+frederick edwin smith	2gjy	
+frederick edwin smith 1st earl of birkenhead	2gjy	
+galapagan	zae	
+gentwevelgem	75c	
+george zinkhan	66kc	
+glenac	3dj1	
+granvella	677i	
+gulbadan		2jf9:2
+gulbadan begam	2jf9	
+gulbadan begum	2jf9	
+hkatv	4slc	
+hovannes toumanian	4636	
+hovannes tumanian	4636	
+hovannes tumanyan	4636	
+jailbait 1973 film	gt4	
+john lurie	1inw	
+karunaas	tmo	
+kemba		6cka:3
+kemba hudley		6cka:3
+kemba hudley walker	6cka	
+kemba walker	6cka	
+kremenets	znh	
+kremenets kiy state botanical garden	znh	
+la bohalle	4qbw	
+la renaudie	3qxl	
+liliwokalani	1226	
+lochinvar ontario	62x2	
+lofi	koh	
+lofi masters	c7b	
+lofi music	koh	
+louis heydt	y7o	
+marjatta		40s3:2
+marjatta raita	40s3	
+massena	2cuq	
+mazandran	2pw	
+mestsky okruh	5q59	
+metallurgists	231i	
+michael jakobsen	3d1y	
+misbun		390y:2
+misbun sidek	390y	
+mohuda	i6o	
+montegrino		2kkj:2
+montegrino valtravaglia	2kkj	
+moraleh	vu	
+moriah carey	72k	
+motown	10b	
+motown michigan	dy	
+motown music	10b	
+motown record company l p	10b	
+motown record corporation	10b	
+motown records	10b	
+motown records group	14g2	
+motown sound	10b	
+motown spinners	1mtp	
+mozdok	58gf	
+mozdok north ossetia	58gf	
+mozdok north ossetia alania	58gf	
+mozdok north ossetiaalania	58gf	
+mozdok republic of north ossetia alania	58gf	
+mozdok republic of north ossetiaalania	58gf	
+mozdok vladikavkaz	1bls	
+mozzecane	48x0	
+mutzig	138w	
+narcomantra	3i97	
+nintur	5r7t	
+paitone	4tyt	
+parthiepan	y6u	
+perpetual flower	hn	
+perpetual happiness	1u0b	
+perpetual license	1g0p	
+perpetual licensing	1g0p	
+perpetual licensing model	1g0p	
+perpetual licensing scheme	1g0p	
+perpetual testing initiative	18cw	
+pescosolido	5hmq	
+peter gzowski	66kb	
+peter gzowski festival of stories	66kb	
+peter ramus	5mc7	
+peter sastny	17pd	
+pimocide	e4c	
+prahy	aq	
+psilopogon	2lwy	
+qantas	mha	mha:2
+qantas aircraft	mha	
+qantas airlines	mha	
+qantas airways	mha	
+qantas airways limited	mha	
+qantas airways ltd	mha	
+qantas arena	3bod	
+qantas club	mha	
+qantas com au	mha	
+qantas credit union arena	3bod	
+qantas empire airways	mha	
+qantas fleet	mha	
+qantas group	mha	
+qantas limited	mha	
+qantas wallabies	1tx	
+reisner charles	pjh	
+rouge	2cd8	cbc:3
+rouge et le noir	1es4	
+rouge newspaper	5r3u	
+rouge noir stendhal	4hg6	
+rouge one	9yx	
+rouge parish	cbc	
+rouge rural		cbc:3
+rouge rural municipality	cbc	
+rouge vald	cbc	
+rouge venise	5he7	
+sacred2 video game	4e27	
+saint margaret	2afa	1cbm:4
+saint margaret of		1cbm:4
+saint margaret of antioch	2afa	
+saint margaret of hungary	25i6	
+saint margaret of scotland	1cbm	
+saint margaret the virgin	2afa	
+san fili	3jrk	
+satrapi	18v1	
+sir jos reynolds	10he	
+spaak charles	n0h	
+stojanovic	18ap	
+tagsdorf	2eoi	
+tali bai autonomous prefecture	1lms	
+tali yunnan	2ogk	
+technischen universitat darmstadt	ba8	
+the communist		54vx:3
+the communist manifesto	54vx	
+the communist party	9jk	
+the communist party of czechoslovakia	4ws	
+the fortune	1ib9	1fjk:3,2uxw:3,5z45:3
+the fortune cookie	1fjk	
+the fortune film	1ib9	
+the fortune teller	2uxw,5z45	
+the fortune teller 1956 film	5z45	
+the fortune teller caravaggio	2uxw	
+the jackson		ekp:3
+the jackson 4	ekp	
+the jackson 5	ekp	
+the jackson 5 tv performances	ekp	
+the jackson 5ive	ekp	
+the jackson brothers	ekp	
+the jackson five	ekp	
+the jackson school	492	
+the johnsonian	2rof	
+thomas bailey		5ffh:3
+thomas bailey aldrich	5ffh	
+thomas langmann	17y6	
+thugger	1exu	
+tiffin	14yb	
+tiffin oh	14yb	
+tiffin oh micropolitan statistical area	t49	
+tiffin oh msa	t49	
+tiffin oh sa	t49	
+tiffin ohio	14yb	
+tiffin ohio micropolitan area	t49	
+tolunay		39pn:2
+tolunay kafkas	39pn	
+united soccer league	jzz	
+vayoc jor	cii	
+vayoc jor province	cii	
+villabona	1h6f	
+wattis richard	te5	
+wielgomyny commune	v7i	
+william mayhew folger	3ud3	
+zeit des zorns	4751	
+zuid afrikaansche republiek	4sjc	
+zuid afrikaansche republik	4sjc	
+zuid afrikaanse republiek	4sjc	
+zuid brabant	3gv0	
+zuid holland	50j	
+zuid metro station	4h8d	
+zuid middelburg	8w2	

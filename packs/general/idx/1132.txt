@@ -1,0 +1,454 @@
+200607		azw:3,w8n:4,y83:4,14ux:4,1b91:4,1s41:3,37ti:2,3xtw:7,43o7:3
+200607 bundesliga	1s41	
+200607 cypriot		azw:3,w8n:4,y83:4,14ux:4,1b91:4
+200607 cypriot cup	azw	
+200607 cypriot first		w8n:4
+200607 cypriot first division	w8n	
+200607 cypriot fourth		1b91:4
+200607 cypriot fourth division	1b91	
+200607 cypriot second		y83:4
+200607 cypriot second division	y83	
+200607 cypriot third		14ux:4
+200607 cypriot third division	14ux	
+200607 ekstraklasa	37ti	
+200607 fuball		1s41:3
+200607 fuball bundesliga	1s41	
+200607 fussball bundesliga	1s41	
+200607 isu		3xtw:7
+200607 isu grand		3xtw:7
+200607 isu grand prix		3xtw:7
+200607 isu grand prix of		3xtw:7
+200607 isu grand prix of figure		3xtw:7
+200607 isu grand prix of figure skating	3xtw	
+200607 uefa		43o7:3
+200607 uefa cup	43o7	
+a class	36sc	2hi2:3,36sc:3,5quw:4
+a class destroyer	2hi2	
+a class destroyer 1913	2hi2	
+a class of submarines	36sc	
+a class submarine	36sc	
+a class submarine 1903	36sc	
+a class to		5quw:4
+a class to remember	5quw	
+ambrois javier	4ivs	
+andrassy gyula count	14rj	
+andrassy gyula count 1823 1890	14rj	
+andrassy gyula count 1860 1929	3c40	
+ankle joint amputation	5szz	
+ankle length dress	5tm	
+archernis	5nd0	
+ardei umpluti	6f7a	
+arochis	4w8e	
+bardoneche	1ouf	
+baziege	1xiq	
+benicia	1swi	
+benicia ca	1swi	
+benicia california	1swi	
+boubiers	2nwr	
+bourbon		10fk:2,16ht:2,18xn:3,1cdu:2,4laz:2
+bourbon allier	18xn	
+bourbon allier auvergne	18xn	
+bourbon allier auvergne france	18xn	
+bourbon auvergne	18xn	
+bourbon auvergne france	18xn	
+bourbon bowl	1vt9	
+bourbon county	10fk,16ht	
+bourbon county kansas	16ht	
+bourbon county kentucky	10fk	
+bourbon county ks	16ht	
+bourbon county ky	10fk	
+bourbon county middle school paris kentucky	10gx	
+bourbon county virginia	10fk	
+bourbon dynasty	6z9	
+bourbon family	6z9	
+bourbon flag	3tn3	
+bourbon france	46h,18xn	
+bourbon j archambault	18xn	
+bourbon kingdom of naples	kzl	
+bourbon kings of france	6z9	
+bourbon l		18xn:3
+bourbon l archambault	18xn	
+bourbon lancy	1cdu	
+bourbon orleans	v5u	
+bourbon parma	19rp	
+bourbon restoration in spain	60bg	
+bourbon two sicilies	4wav	
+bourbon whiskey	4laz	
+bourbon whisky	4laz	
+castagnede	325b,3n2v	
+castagnede haute garonne	325b	
+castagnede pyrenees atlantiques	3n2v	
+casteil	1rnk	
+caveman	1fyf	
+caveman film	1fyf	
+caveman lawyer	jmu	
+caveman movie	1fyf	
+caveman s valentine	37ci	37ci:4
+caveman the movie	1fyf	
+chatroom	1qre	
+chatroom film	1qre	
+chenedolle	324h	
+circourt	2ipj	1jfo:3
+circourt sur		1jfo:3
+circourt sur mouzon	1jfo	
+cismon		23ge:3
+cismon del		23ge:3
+cismon del grappa	23ge	
+clayes	2lhp	
+cornudella		1u80:3
+cornudella de		1u80:3
+cornudella de montsant	1u80	
+coverdale david	1mc1	
+coverdale house publishers	27tb	
+crespian	3wj3	
+cyclopinae	6au1	
+cyrilic	1nq	
+demigny	23bl	
+denjong	h0p	
+dfk dainava alytus	5dqh	
+dissentoma	2fe5	
+eadred	2ahu	4ux2:2
+eadred aetheling	4ux2	
+eadred of england	2ahu	
+eadred the weak	2ahu	
+eadred theling	4ux2	
+egidien	1bze	
+erzbistum koln	3kfc	
+eurohouse	2ix	
+exelon	1xm1	
+exelon corp	1xm1	
+exelon corporation	1xm1	
+exelon electric gas	1xm1	
+exelon energy	1xm1	
+exelon nuclear	1xm1	
+fc rassvet krasnoyarsk	5fh	
+fermi award	63h8	
+fermi prize	63h8	
+festieux	20oa	
+galapong	rbz	
+george ariyoshi	4khc	
+george feher	5s2s	
+george nathaniel 1st marquis curzon of kedleston curzon	1dtk	
+george nathaniel curzon	1dtk	
+george nathaniel curzon 1st marquess curzon of kedleston	1dtk	
+george nathaniel curzon 1st marquess of kedleston	1dtk	
+george nathaniel curzon marquess viscount scarsdale baron ravensdale curzon	1dtk	
+george nathaniel curzon marquis of kedleston	1dtk	
+george seaton	l38	
+george stephanopoulos	3tad	
+haitiella	pip	
+hazulu natal	8iq	
+henry baldwin	638k	
+henry baldwin judge	638k	
+henry wriothesley		5wxp:6
+henry wriothesley 3rd		5wxp:6
+henry wriothesley 3rd earl		5wxp:6
+henry wriothesley 3rd earl of		5wxp:6
+henry wriothesley 3rd earl of southampton	5wxp	
+hisanori		450g:2
+hisanori takada	450g	
+i bambini ci guardano	206t	
+ionospheric	6au3	
+ionospheric model	6au3	
+ionospheric studies	6au3	
+james hector	4f4j	
+john arnold	1phc	
+john arnold cinematographer	1phc	
+john goldwyn	3qsz	
+john goldwyn productions	3qsz	
+josiesley		2mok:3
+josiesley ferreira		2mok:3
+josiesley ferreira rosa	2mok	
+kelly	2mc,7a1,67m7	awi:2,hzj:2,opt:2,suo:2,zrb:3,172a:2,17dl:2,1c2k:2,1g39:2,1hxk:2,1icn:2,1jkq:2,1phd:2,1ps0:2,1ux4:2,1z64:2,2gsx:2,2lor:2,2sci:2,3cu2:2,3eig:2,3gyh:2,3i2e:3,3kpe:3,3pif:2,45ff:2,47xy:2,484r:2,4irb:2,4lqa:2,4pmy:2,4qy2:2,4x1g:2,51m6:2,56b9:2,5h4a:2,5k2i:2,5ow2:2,5smx:2,5vj9:2
+kelly a asbury	5ow2	
+kelly andrew johnson	5vj9	
+kelly ann hu	172a	
+kelly ann mcgillis	17dl	
+kelly ann parsons	1hxk	
+kelly anne conway	3b57	
+kelly anne e conway	3b57	
+kelly anne e fitzpatick	3b57	
+kelly anne elizabeth fitzpatrick	3b57	
+kelly anne fitzpatrick	3b57	
+kelly asbury	5ow2	
+kelly aston	3eig	
+kelly berville	4irb	
+kelly bishop	3gyh	
+kelly blackstock	awi	
+kelly braffet	5u5u	
+kelly brianne clarkson	awi	
+kelly brook	1hxk	
+kelly brooke	1hxk	
+kelly bryant that s so raven	433d	
+kelly chen	1g39	
+kelly chen wai lam	1g39	
+kelly clarckson	awi	
+kelly clarkson	awi	
+kelly clarkson s fourth studio album	4uf1	
+kelly clarkson singer	awi	
+kelly clarkston	awi	
+kelly curtis	4lqa	
+kelly dawn pickler	1pv1	
+kelly de almeida afonso	47xy	
+kelly deal	5lpj	
+kelly druyts	4qy2	
+kelly family	1dcl	1dcl:3
+kelly family name	7a1	
+kelly first name	2mc	
+kelly frank	446s	
+kelly freas	1zty	
+kelly garner	41ar	
+kelly given name	2mc	
+kelly grace	ksb	
+kelly haag	484r	
+kelly hayes musician	3cup	
+kelly hu	172a	
+kelly joe		3kpe:3
+kelly joe phelps	3kpe	
+kelly johnson	1z64,5k2i,5vj9	
+kelly johnson baseball	5vj9	
+kelly johnson engineer	1z64	
+kelly johnson guitarist	5k2i	
+kelly key	47xy	
+kelly kopowski	35ll	
+kelly le		3i2e:3
+kelly le brock	3i2e	
+kelly lebrock	3i2e	
+kelly lee osbourne	1phd	
+kelly lee ripa	1ux4	
+kelly lin	2lor	
+kelly lin hsi lei	2lor	
+kelly ling wan ting	33lk	
+kelly link	1ps0	
+kelly lynch	1c2k	
+kelly m ripa	1ux4	
+kelly macdonald	suo	
+kelly maria ripa	1ux4	
+kelly maria ripa consuelos	1ux4	
+kelly mark	1cv6	
+kelly martin	2n25	
+kelly mccarty	4pmy	
+kelly mcdonald	suo	
+kelly mcgillis	17dl	
+kelly mcgyllis	17dl	
+kelly middle school	8wf	
+kelly miller	2gsx	
+kelly miller basketball	2gsx	
+kelly miller basketball player	2gsx	
+kelly missal	bgc	
+kelly morgan	3eig	
+kelly name	7a1	
+kelly osborne	1phd	
+kelly osbourne	1phd	
+kelly osbourne live at the electric ballroom	1phd	
+kelly overton	45ff	
+kelly overton actress	45ff	
+kelly palzis	opt	
+kelly parker	56b9	
+kelly pickler	1pv1	
+kelly preston	opt	
+kelly price	3cu2	
+kelly reichardt	51m6	
+kelly reilly	1jkq	
+kelly ripa	1ux4	
+kelly ripa consuelos	1ux4	
+kelly rippa	1ux4	
+kelly roland	hzj	
+kelly rowan	2sci	
+kelly rowland	hzj	
+kelly rowland album	5tqo	
+kelly rowland s third album	5tqo	
+kelly rowland singles	hzj	
+kelly russell	5h4a	
+kelly russell musician	5h4a	
+kelly s		zrb:3
+kelly s heroes	zrb	
+kelly s heroes album	zrb	
+kelly s heroes soundtrack	zrb	
+kelly s kids	4fyh	
+kelly sam	59v7	
+kelly schaefer	5smx	
+kelly schafer	5smx	
+kelly sheridan	1icn	
+kelly smith	3pif	
+kelly surname	7a1	
+kelly vargas	1q2o	
+kelly wood	5smx	
+kelly youga	4x1g	
+kobuck		1bd3:2
+kobuck commune	2817	
+kobuck county	1bd3	
+kruc	4lyq	
+lysiella	102p	
+maleville	1skn	
+marcone	3tso	3tso:3
+marcone amaral	3tso	3tso:3
+marcone amaral costa	3tso	
+marcone amaral costa junior	3tso	
+marcone costa junior	3tso	
+maria paleologina	56g6	
+massat	3245	
+mastadon	47ua	
+mastadon band	18bz	
+metalicca	7yh	
+michael farfan	4nlr	
+michael hellawell	619l	
+miercurea		f83:2,38gi:2
+miercurea ciuc	f83	
+miercurea ciuc romania	f83	
+miercurea nirajului	38gi	
+murd3r 8y num8ers	3njs	
+namibiab republiki dib	rp	
+nansen	107v	aw7:3
+nansen fridtjof	107v	
+nansen medal	aw7	
+nansen refugee		aw7:3
+nansen refugee award	aw7	
+national association		16bz:8,1wjb:5,3esv:4,4gks:5
+national association foot ball league	3esv	
+national association football		3esv:4
+national association football league	3esv	
+national association for intercollegiate athletics	4gks	
+national association for intercollegiate basketball	4gks	
+national association for stock car auto racing	60qx	
+national association for the advancement of colored people	7b1	
+national association for the advancement of colored persons	7b1	
+national association for the advancement of coloured people	7b1	
+national association for the advancement of colred people	7b1	
+national association of		16bz:8,1wjb:5,4gks:5
+national association of black		16bz:8
+national association of black journalists		16bz:8
+national association of black journalists hall		16bz:8
+national association of black journalists hall of		16bz:8
+national association of black journalists hall of fame	16bz	
+national association of catholic chaplains	6h8	
+national association of educational		1wjb:5
+national association of educational broadcasters	1wjb	
+national association of educational broadcasters naeb	1wjb	
+national association of intercollegiate		4gks:5
+national association of intercollegiate athletics	4gks	
+national association of intercollegiate basketball	4gks	
+national association of jewish chaplains	6h8	
+national association of securities dealers automated quotation system	v5	
+national association of securities dealers automated quotations	v5	
+national association of securities dealers automatic quotation	v5	
+national association of securities dealers automatic quotation system	v5	
+national association of securities dealers automatic quotation systems	v5	
+national association of state universities and land grant colleges	4uan	
+ncr	6ul	
+ncr 5xxx	3dgo	
+ncr 7500	3dgo	
+ncr 7510 basic 6	3dgo	
+ncr 7530	3dgo	
+ncr 7530 basic 6	3dgo	
+ncr 8200	3dgo	
+ncr 8250	3dgo	
+ncr 8500	3dgo	
+ncr 8570	3dgo	
+ncr century 8200	3dgo	
+ncr corp	3dgo	
+ncr corporation	3dgo	
+ncr criterion 8500	3dgo	
+ncr criterion 8550	3dgo	
+ncr i 8100	3dgo	
+ncr i 8150	3dgo	
+ncr inc	3dgo	
+nibelle	21qz	
+nonhosonno	51cq	
+ntrs	4599	
+onville	1uhq	
+orogenies	3rdu	
+oussama		4on3:2,58dy:2
+oussama assaidi	58dy	
+oussama ben ladin	mz1	
+oussama souaidy	4on3	
+papilla	1ibz	
+paul ron	25lb	
+peltellinae	6eco	
+peter marler	4hvg	
+pitie		32qd:3
+pitie salpetriere		32qd:3
+pitie salpetriere hospital	32qd	
+polystachyeae	69re	
+postiglione	3jjz	
+prince abdul ilah	d7v	
+prince abdul majeed bin abdul aziz	cjc	
+pristimantis	364	
+pte	b0h	
+pte ltd	4j2	
+purp dogg	5v	
+qujar	17oq	
+radepont	213x	
+re4	1fqb	
+roj nemennuh sarton	49xq	
+romatic comedy	df	
+rumnick	1pte	
+saint rimay	2qn5	
+salacgriva		3sj2:2
+salacgriva municipality	3sj2	
+sameodes	64xi	
+sardinnia	a38	
+satchelmouth musician	e8h	
+schwarzenbach	1rsi	
+sestelo	560z	
+shiguru miyamoto	96c	
+starwarsspecies	6tv	
+steinmeier	14mv	
+strada	3wjl	
+strada la	3wjl	
+tatsuya	i31	kfg:2,2i65:2,39jp:2,44hp:2,54ra:2,5yuc:2
+tatsuya egawa	54ra	
+tatsuya first name	i31	
+tatsuya fuji	39jp	
+tatsuya fujiwara	2i65	
+tatsuya fuziwara	2i65	
+tatsuya given name	i31	
+tatsuya hujiwara	2i65	
+tatsuya kimura	5yuc	
+tatsuya masushima	44hp	
+tatsuya nakadai	kfg	
+the beggar		2b1n:3,2bzl:4,3tt5:3,4t59:5,5sll:3
+the beggar from		4t59:5
+the beggar from cologne		4t59:5
+the beggar from cologne cathedral	4t59	
+the beggar of cologne cathedral	4t59	
+the beggar s		2bzl:4
+the beggar s opera	2bzl	
+the beggar s opera film	2bzl	
+the beggar student	2b1n,3tt5,5sll	
+the beggar student 1927 film	5sll	
+the beggar student 1936 film	2b1n	
+the beggar student 1956 film	3tt5	
+the cross		36u9:4
+the cross of		36u9:4
+the cross of iron	p0f	
+the cross of lorraine	36u9	
+the cross of saint euphrosyne	15zf	
+the electrocutes	253d	
+the quiet	4oes	ozl:3,zry:3,379u:3,44c9:3,4op5:3
+the quiet american	zry,379u	
+the quiet american 1958 film	379u	
+the quiet american 2002 film	zry	
+the quiet american film	379u	
+the quiet beatle	56n	
+the quiet earth	44c9	
+the quiet earth film	44c9	
+the quiet man	ozl	
+the quiet one	q76	
+the quiet ones	4op5	
+the quiet ones 2014 film	4op5	
+the sweetheart break in	1klq	
+the travelling		48bt:3
+the travelling birds	3jn9	
+the travelling birds an adventure in flight	3jn9	
+the travelling players	48bt	
+the travelling wilburys	1pqe	
+uma6	1g7c	
+vyt les		3cvl:3
+vyt les belvoir	3cvl	
+wentzwiller	3lyj	
+william fruet	58vt	
+yetland	5yx	
+zalec	3k8y	
+zalec slovenia	3k8y	
+zul nun misri	3ucm	

@@ -1,0 +1,365 @@
+abdan		3c30:3
+abdan rural		3c30:3
+abdan rural district	3c30	
+abuser	6fb2	
+adema	5lki	
+adema band	5lki	
+albericus gentilis	6420	
+almtuna		16dt:2
+almtuna is	16dt	
+aolepan aorokin majel	4ir	
+archetypes	4wuo	
+aviernoz	43ke	
+babenbergers	2rrr	
+badgastein	43k8	
+baireuth	687	
+baronetage	cd	
+bennison andrew	4v26	
+berzeme	22j1	
+budeaeus	4g8x	
+canton journal	8u4	
+catheux	27rc	
+charles precourt	2m7i	
+charles wayland brooks	4tsn	
+chaste		4acw:3,4fmx:2
+chaste and		4acw:3
+chaste and pure	4acw	
+chaste susanne	4fmx	
+chaste susanne film	4fmx	
+chaste tree	1fyy	
+chaudeyrolles	3zaw	
+chlorhexidine	4l97	
+chlorhexidine gluconate	4l97	
+chopping		3e6l:2
+chopping mall	3e6l	
+ciardi john	2tyh	
+ciardi mark	5tmi	
+coma	1f12	9rc:2
+coma 1978 film	1f12	
+coma berenices	9rc	
+coma berenices constellation	9rc	
+coma black	5ob5	
+coma constellation	9rc	
+coma virgo cloud of galaxies	jrl	
+coma virgo cluster	jrl	
+corpse	1g4f	1mq3:2,41zg:4
+corpse bride	1mq3	
+corpse bride 2005 film	1mq3	
+corpse cupboard	i3k	
+corpse emily bride	1mq3	
+corpse for		41zg:4
+corpse for the		41zg:4
+corpse for the lady	41zg	
+corpse grinder	474c	
+corpse poison	1b2s	
+corpse vanishes	4903	4903:3
+cossak	168z	
+craco	5549	
+craco italy	5549	
+croce	1gsu	
+croce benedetto	3ebs	
+croce haute corse	1gsu	
+croce upper corsica	1gsu	
+david marr	6a1n	
+david marr journalist	6a1n	
+delavrancea	5pjf	
+dhirubhai	3xo8	3xo8:2
+dhirubhai ambani	3xo8	
+dhirubhai ambani comments	3xo8	
+dhirubhai deepwater kg2	5bxf	
+dipodarctus	66e1	
+dzhihat kyamil	673q	
+ekhtiarabad		1u55:3
+ekhtiarabad rural		1u55:3
+ekhtiarabad rural district	1u55	
+emanuele	acr	2fzn:2,2y6p:3,331f:6,35aq:2,3i09:2,3q9f:2,3tnk:2,3v8g:2,3zwh:2,417k:2,4aew:2,4btk:3,4dyc:2,4tn0:2,529p:2,53i5:2,5l9h:2,5ln5:2,5nmc:7,5r9g:3,62z3:2
+emanuele belardi	3v8g	
+emanuele berrettoni	3tnk	
+emanuele brioschi	5ln5	
+emanuele calaio	2fzn	
+emanuele concetti	3i09	
+emanuele conegliano	22vq	
+emanuele d		4btk:3
+emanuele d anna	4btk	
+emanuele del		2y6p:3
+emanuele del vecchio	2y6p	
+emanuele di		5r9g:3
+emanuele di zenzo	5r9g	
+emanuele ferraro	3q9f	
+emanuele filiberto	1ji1	331f:6
+emanuele filiberto 2nd duke of aosta	1ji1	
+emanuele filiberto di savoia	6ao8	
+emanuele filiberto duke d aosta	1ji1	
+emanuele filiberto duke of pistoia	2auo	
+emanuele filiberto duke of savoy	331f	
+emanuele filiberto i		331f:6
+emanuele filiberto i duke		331f:6
+emanuele filiberto i duke of		331f:6
+emanuele filiberto i duke of savoy	331f	
+emanuele filiberto ii of savoy	6ao8	
+emanuele filiberto of savoia aosta	1ji1	
+emanuele filiberto of savoy	331f	
+emanuele filiberto of savoy ii	6ao8	
+emanuele filiberto of savoy prince of venice	6ao8	
+emanuele filiberto prince of carignan	3qu4	
+emanuele filiberto prince of venice	6ao8	
+emanuele filiberto prince of venice and piedmont	6ao8	
+emanuele filiberto the prince of venice piedmont	6ao8	
+emanuele filiberto vojvoda pistoie	2auo	
+emanuele filippini	529p	
+emanuele first name	acr	
+emanuele giaccherini	417k	
+emanuele given name	acr	
+emanuele manitta	4tn0	
+emanuele morini	4dyc	
+emanuele nordi	62z3	
+emanuele pesaresi	35aq	
+emanuele pesoli	3zwh	
+emanuele ruspoli		5nmc:7
+emanuele ruspoli 1st		5nmc:7
+emanuele ruspoli 1st prince		5nmc:7
+emanuele ruspoli 1st prince of		5nmc:7
+emanuele ruspoli 1st prince of poggio		5nmc:7
+emanuele ruspoli 1st prince of poggio suasa	5nmc	
+emanuele suagher	53i5	
+emanuele testardi	4aew	
+emanuele troise	5l9h	
+emeritus	1e7q	
+emeritus fellow	1e7q	
+emeritus professor	1e7q	
+emeritus s	1e7q	
+emeritus status	1e7q	
+epicydas	215w	
+espejo	63j6	
+feul	6eqe	
+ffrr	mj3	
+ffrr records	mj3	
+ffrr technique	yy	
+fiddlestyles	2mi	
+filyovskaya	2zan	2zan:2
+filyovskaya line	2zan	
+finica	qdg	
+george jellicoe	2tft	2tft:5
+george jellicoe 2nd		2tft:5
+george jellicoe 2nd earl		2tft:5
+george jellicoe 2nd earl jellicoe	2tft	
+gestevision telecinco	1jjs	
+gestevision telecinco s a	1jjs	
+glacials	6fca	
+gymnochroma	413d	
+herny	1ksl	
+herny oscar	2kh4	
+hohenlohe	12xd,3qzl	
+hohenlohe district	12xd	
+hohenlohe family	3qzl	
+hohenlohe neuenstein	3qzl	
+hohenlohe ohringen	3qzl	
+hohenlohe waldenburg	3qzl	
+hohenlohe weikersheim	3qzl	
+idhra	yqg	
+indianwikipedian	38mq	
+izenave	1yte	
+jingjing guo	5q2a	
+john bonjovi	oi8	
+kan	3kya	
+kan baw za	1ncu	
+kan chau	2ncm	
+kan chou	s91	
+kan chou fu	s91	
+kan etsu		1kxy:3
+kan etsu expressway	1kxy	
+kan ichi		5x3i:3
+kan ichi terazawa	5x3i	
+kan in		1gxt:3
+kan in kotohito	1gxt	
+kan kimura	3kya	
+kan lho bod rigs rang skyong khul	33i3	
+kan mukai	52m6	
+kan musician	3kya	
+kan sawada	5t7j	
+kan singer	3kya	
+kan su	dz5	
+kan suh	dz5	
+kan title	4vw	
+kan yo on	2xv	
+kan yuet wai	5qgf	
+kelang	1k6p	
+kingkiller chronicle	6ha9	6ha9:3
+kingkiller chronicles	6ha9	
+kyushyu imperial university	hui	
+la maziere		2urq:5
+la maziere aux		2urq:5
+la maziere aux bons		2urq:5
+la maziere aux bons hommes	2urq	
+launoy	2lqa	
+launoy aisne	2lqa	
+le marais		3jrl:4
+le marais la		3jrl:4
+le marais la chapelle	3jrl	
+le trehou	2h2x	
+localverse	ovm	
+lomme	4jnb	
+lorestan	nwa	nwa:2
+lorestan province	nwa	
+loven	dwd	
+lozarn	4ca	
+lysimachian empire	uuc	
+macrourinae	4d4i	
+marash	l8a	
+mccartney	3qc	5upd:2
+mccartney 2	5upd	
+mccartney ii	5upd	
+mccartney lennon	3ekj	
+mccartney productions	2y4k	
+mccartney productions ltd	2y4k	
+mccartney wings	hie	
+melioideae	14am	
+mutawakkilite kingdom	3sy5	
+mutawakkilite kingdom of yemen	3sy5	
+nander district	13mr	
+neru	5xk5	
+neru footballer	5xk5	
+nishinomiya	a3j	
+nishinomiya hyogo	a3j	
+nishinomiya japan	a3j	
+nishinomiya shi	a3j	
+oetwil		3oa2:3
+oetwil a see	3oa2	
+oetwil am		3oa2:3
+oetwil am see	3oa2	
+oetwil am see switzerland	3oa2	
+oetwil am see zh	3oa2	
+oetwil am see zuerich	3oa2	
+oetwil am see zurich	3oa2	
+orze	2v7k	
+orze film	4hpw	
+orze polska nagroda filmowa	2v7k	
+osteosarcoma	4v0b	
+petron blaze boosters	ktr	
+pittsfield	7tw	
+pittsfield ma	7tw	
+pittsfield ma metropolitan statistical area	ijr	
+pittsfield ma msa	ijr	
+pittsfield mass	7tw	
+pittsfield massachusetts	7tw	
+pittsfield massachusetts metropolitan area	ijr	
+polyphemus	6gfv	
+qazaqsa	hqz	
+reporting from the scene	am4	
+reporting mark nyc	1jw0	
+riberac	2yhx	
+riberac france	2yhx	
+richard ledge	34hg	
+rimavska		9b2:3,1hzo:2
+rimavska sobota	1hzo	9b2:3
+rimavska sobota district	9b2	
+robert calverly trevelyan	4xoa	
+saint adalbert	1s2l	
+saint adalbert of prague	1s2l	
+samarkhand	7nt	
+sggw	1wqu	
+shahanama	e15	
+shintomei expressway	35c9	
+smb2	16l3	
+soundgarden	hnm	
+spilsby	3lmr	
+spilsby comments	3lmr	
+spilsby england	3lmr	
+spilsby lincolnshire	3lmr	
+st poelten	ckk	
+st poelten land	cln	
+stoechas	5isn	
+telekenesis	6gf3	
+the daffodil killer	21hq	
+the strawberry		2453:3,2vyi:3
+the strawberry blonde	2453	
+the strawberry hill boys	jbp	
+the strawberry statement	2vyi	
+the strawberry statement film	2vyi	
+tichotripis	bgk	
+tricensimae	1r21	
+tupi		fkn:3
+tupi f c	fkn	
+tupi fc	fkn	
+tupi football		fkn:3
+tupi football club	fkn	
+tupi guarani	44t8	
+tupi guarani language	44t8	
+tupi guarani languages	44t8	
+tupi language family	3j69	
+tupi language group	3j69	
+tupi languages	3j69	
+turski becej	2pyo	
+uza	3wym	
+uza france	3wym	
+uza landes	3wym	
+valmala	3orf,4vsf	
+valmala burgos	4vsf	
+valmala italy	3orf	
+valmala piedmont	3orf	
+valmala province of burgos	4vsf	
+valmala spain	4vsf	
+veigne	2j1p	
+vendargues	2jin	
+vezica	3c2	
+willugbaeya	54h0	
+yekabpils	yrq	
+yevgeniy		13ge:2,2r46:2,2t3v:2,4zq6:2,650i:2
+yevgeniy ageev	6727	
+yevgeniy ageyev	6727	
+yevgeniy arzhanov	4n83	
+yevgeniy blokhin	4zq6	
+yevgeniy branovitski	4tut	
+yevgeniy branovitsky	4tut	
+yevgeniy chazov	2t3v	
+yevgeniy chupin	4ppo	
+yevgeniy doga	2z4u	
+yevgeniy dolmatovsky	2r46	
+yevgeniy durnev	6487	
+yevgeniy dyachkov	5ogc	
+yevgeniy evstigneyev	13ge	
+yevgeniy gavryuk	4255	
+yevgeniy gerasimov	6cbp	
+yevgeniy kaleshin	41l6	
+yevgeniy kiselev	5ysf	
+yevgeniy kiseliov	5ysf	
+yevgeniy kiselyov	5ysf	
+yevgeniy klimov	5ec2	
+yevgeniy kornyukhin	38s0	
+yevgeniy kranatov	5nnh	
+yevgeniy krug	60ts	
+yevgeniy kryachik	4859	
+yevgeniy landis	5v1r	
+yevgeniy leonov	sqb	
+yevgeniy losev	5hm4	
+yevgeniy loshankov	4akm	
+yevgeniy matveev	1fi3	
+yevgeniy matveyev	1fi3	
+yevgeniy natalich	6bvn	
+yevgeniy ovshinov	685j	
+yevgeniy pankov	4qnn	
+yevgeniy perevertailo	5shf	
+yevgeniy pesegov	4pk2	
+yevgeniy plotnikov	4m6q	
+yevgeniy pluschenko	3l8r	
+yevgeniy plushenko	3l8r	
+yevgeniy primakov	19nu	
+yevgeniy ragoza	5s8d	
+yevgeniy rybakov	650i	
+yevgeniy savin	3gcy	
+yevgeniy savitskiy	13wk	
+yevgeniy shevchuk	5h0m	
+yevgeniy skachkov	5lph	
+yevgeniy slutskiy	63dk	
+yevgeniy sonin	3uqo	
+yevgeniy vesnik	175u	
+yevgeniy yarkov	5dup	
+yevgeniy yevstigneev	13ge	
+yevgeniy yevstigneyev	13ge	
+yevgeniy yevtushenko	1n3j	
+yevgeniy zavoyskiy	54ro	
+yevgeniy zharikov	4ljw	
+ymd	30j	
+ymd date	30j	
+yukiya		225z:2
+yukiya arashiro	225z	

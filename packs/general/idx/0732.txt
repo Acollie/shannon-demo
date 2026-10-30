@@ -1,0 +1,494 @@
+a quiet		4qok:6,6gch:3
+a quiet place	6gch	4qok:6
+a quiet place 2	6gch	
+a quiet place film	6gch	
+a quiet place in		4qok:6
+a quiet place in the		4qok:6
+a quiet place in the country	4qok	
+anchieta joseph	5by2	
+arignano	3bk0	
+ausseing	2gh6	
+bafetimbi		43z7:2
+bafetimbi gomis	43z7	
+ballieston	3503	
+barong family	447s	
+batman	aoz,jft,o1p,o82,1hd4,2cyr,6hs1,6hvl	ewz:2,iy2:6,ma2:2,o88:2,oo8:4,rwv:2,15bo:6,1peg:5,200o:3,220l:3,22oe:3,2k83:5,2kvn:3,2umi:3,2v1t:3,3190:5,35na:5,3luf:5,3mfr:3,4aa2:4,4oy6:3,4uyd:5,55ss:2,58xl:4,5l6x:2,5t3j:6,5vd4:3,5ykl:2,67iw:3,6fog:5
+batman 1943	2cyr	
+batman 1943 serial	2cyr	
+batman 1960	o1p	
+batman 1960s tv series	o1p	
+batman 1966 film	1hd4	
+batman 1966 movie	1hd4	
+batman 1989	jft	
+batman 1989 1997 film series	6hvl	
+batman 1989 film series	67iw	
+batman 1989 movie	jft	
+batman 1989 novel	jft	
+batman 19891997 film series	6hvl	
+batman 2005 film	ewz	
+batman 2008 film	ejq	
+batman 4	rwv	
+batman 5	ewz	
+batman 60s tv series	o1p	
+batman 7	j4o	
+batman 89	jft	
+batman aa	4oy6	
+batman adam west film	1hd4	
+batman adam west movie	1hd4	
+batman and		3mfr:3
+batman and robin	3mfr	
+batman and robin 1948 movie	3mfr	
+batman and robin 1997 film	rwv	
+batman and robin 1997 movie	rwv	
+batman and robin film	rwv	
+batman and robin movie	rwv	
+batman and robin serial	3mfr	
+batman arkham	2v1t	22oe:3,2kvn:3,2umi:3,2v1t:3,4oy6:3,58xl:4,5vd4:3
+batman arkham 0	22oe	
+batman arkham 1	4oy6	
+batman arkham 2	2kvn	
+batman arkham 3	22oe,2umi	
+batman arkham 4	2umi	
+batman arkham asylum	4oy6	
+batman arkham asylum 2	2kvn	
+batman arkham asylum game of the year edition 3d	4oy6	
+batman arkham asylum ii	2kvn	
+batman arkham asylum series	2v1t	
+batman arkham asylum video game	4oy6	
+batman arkham blackgate	58xl	
+batman arkham city	2kvn	
+batman arkham city armored edition	2kvn	
+batman arkham knight	2umi	
+batman arkham knights	2umi	
+batman arkham one	4oy6	
+batman arkham origins	22oe,5vd4	58xl:4
+batman arkham origins app	5vd4	
+batman arkham origins blackgate	58xl	
+batman arkham origins blackgate deluxe edition	58xl	
+batman arkham origins mobile	5vd4	
+batman arkham origins mobile video game	5vd4	
+batman arkham origins score	22oe	
+batman arkham series	2v1t	
+batman arkham series game	4oy6	
+batman arkham three	22oe	
+batman arkham two	2kvn	
+batman arkham underworld	2v1t	
+batman batman forever	o88	
+batman batman returns	ma2	
+batman batman the movie	1hd4	
+batman begins	ewz	
+batman begins 2005 film	ewz	
+batman begins 3	j4o	
+batman begins novelisation	ewz	
+batman begins novelization	ewz	
+batman begins the imax experience	ewz	
+batman begins trilogy	67iw	
+batman beyond		15bo:6
+batman beyond film	15bo	
+batman beyond return		15bo:6
+batman beyond return of		15bo:6
+batman beyond return of the		15bo:6
+batman beyond return of the joker	15bo	
+batman bruce wayne	aoz	
+batman building	6h9v	
+batman city	o82	
+batman comics	aoz	
+batman continues	ejq	
+batman damian wayne	6dvo	
+batman dark knight film	67iw	
+batman darknight	67iw	
+batman dc extended universe	6hs1	
+batman death and the maidens	2hi8	
+batman doc	aoz	
+batman duplicate	oo8	
+batman fan films	67iw	
+batman film	67iw	
+batman forever	o88	
+batman franchise	6hs1	
+batman franchise media	6hs1	
+batman gotham		220l:3
+batman gotham knight	220l	
+batman huntress cry for blood	2hi8	
+batman in		67iw:3
+batman in film	67iw	
+batman in film archive 1	67iw	
+batman in other media	6hs1	
+batman in popular media	6hs1	
+batman intimidation	ewz	
+batman iv	rwv	
+batman jaden smith song	264x	
+batman lego movie	30vw	
+batman mask		1peg:5
+batman mask fo the phantasm	1peg	
+batman mask of		1peg:5
+batman mask of phantasm	1peg	
+batman mask of the		1peg:5
+batman mask of the phantasm	1peg	
+batman mr		4aa2:4
+batman mr freeze		4aa2:4
+batman mr freeze subzero	4aa2	
+batman mystery		2k83:5
+batman mystery of		2k83:5
+batman mystery of the		2k83:5
+batman mystery of the batwoman	2k83	
+batman park northcote	2csh	
+batman petrolspor	55ss	
+batman quadrilogy	6hs1	
+batman return to arkham	2v1t	
+batman returns	ma2,5l6x	
+batman returns computer game	5l6x	
+batman returns game	5l6x	
+batman returns video game	5l6x	
+batman returns video game sega	5l6x	
+batman rise		6fog:5
+batman rise of		6fog:5
+batman rise of sin		6fog:5
+batman rise of sin tzu	6fog	
+batman robin	rwv	
+batman robin 1997 film	rwv	
+batman robin film	rwv	
+batman s butler	3ted	
+batman serial	2cyr	
+batman superman apocalypse	2w3g	
+batman superman dawn of justice	iy2	
+batman tas	oo8	
+batman teenage		4uyd:5,5t3j:6
+batman teenage mutant		4uyd:5,5t3j:6
+batman teenage mutant ninja		4uyd:5,5t3j:6
+batman teenage mutant ninja turtles	4uyd	5t3j:6
+batman teenage mutant ninja turtles adventures	5t3j	
+batman television series	o1p	
+batman the		oo8:4,35na:5
+batman the animated		oo8:4
+batman the animated movie	1peg	
+batman the animated series	oo8	
+batman the dark		35na:5
+batman the dark knight		35na:5
+batman the dark knight 2008 film	ejq	
+batman the dark knight returns	35na	
+batman the dark knight returns film	35na	
+batman the dark knight returns films	35na	
+batman the dark knight returns part 1	35na	
+batman the dark knight returns part 2	35na	
+batman the dark knight returns soundtrack	35na	
+batman the dark knight rises 2012 film	j4o	
+batman the dark knight rises film	j4o	
+batman the motion picture	jft	
+batman the motion picture anthology	67iw	
+batman the movie	jft,1hd4	
+batman the musical	6hs1	
+batman the mystery of the batwoman	2k83	
+batman tmnt	4uyd	
+batman tmnt adventures	5t3j	
+batman triumphant	67iw	
+batman turkey	o82	
+batman tv	o1p	
+batman tv series	o1p	
+batman tv show	o1p	
+batman under		3190:5
+batman under the		3190:5
+batman under the red		3190:5
+batman under the red hood	3190	
+batman v	ewz	iy2:6
+batman v superman		iy2:6
+batman v superman dawn		iy2:6
+batman v superman dawn of		iy2:6
+batman v superman dawn of justice	iy2	
+batman v superman enter the knight	iy2	
+batman vengeance	5ykl	
+batman veritas liberat	6hjx	
+batman versus dracula	3028	
+batman versus superman	iy2	
+batman versus superman dawn of justice	iy2	
+batman versus superman the dawn of justice	iy2	
+batman vs dracula	3028	3028:4
+batman vs superman	iy2	
+batman vs superman dawn of justice	iy2	
+batman vs superman film	iy2	
+batman xxx	3luf	3luf:5
+batman xxx a		3luf:5
+batman xxx a porn		3luf:5
+batman xxx a porn parody	3luf	
+batman year		200o:3
+batman year one	200o	
+batman year one film	200o	
+berlee records	2mm9	
+boulangists	4p0p	
+boussange	3okw	
+brouennes	1trw	
+cauldstream	6e95	
+climhazzard	6h65	
+colho	5728	
+conchata		22yu:2
+conchata ferrell	22yu	
+dagli		4jcf:4
+dagli appennini		4jcf:4
+dagli appennini alle		4jcf:4
+dagli appennini alle ande	4jcf	
+dagli appennini alle ande 1943 film	4jcf	
+david etoo	3jft	
+donya 2008	3h24	
+duqesne pa	1cl2	
+duqesne pennsylvania	1cl2	
+edward abdullai mobalaji olatunji afo oshodi	5ydp	
+eminescu michael	2693	
+eminescu mihai	2693	
+fc oradea	bhw	
+firmacort	4ttg	
+floreal mauritius	1w3u	
+frangart	18qo	
+george papanikolaou	5802	
+gmina zawonia	1fe8	
+gmina zelazkow	t6o	
+grodin charles	vuz	
+hansa		b20:2
+hansa canon	8rm	
+hansa international	b20	
+hansa music produktion	b20	
+hansa musik produktion	b20	
+hansa r	b20	
+hansa records	b20	
+hansa rostock	3nr	
+hansa rostock ii	3nr	
+harkridge lake	wrz	
+hayat		1bhn:4
+hayat davud		1bhn:4
+hayat davud rural		1bhn:4
+hayat davud rural district	1bhn	
+hedemark	fw2	
+hogi carmichael	1ojo	
+hypochalcea	68vi	
+immersion christianity	1nfd	
+immersion one	1bmg	
+immersion telepresence	yrx	
+intermezzo	2oy8	
+intermezzo 1939 film	2oy8	
+intermezzo a love story	2oy8	
+intermezzo no 1	20et	
+isadora	5j5x	1yt9:2
+isadora bjarkardottir barney	77w	
+isadora duncan	1yt9	
+isadora duncan comments	1yt9	
+isadora duncan s life	1yt9	
+isadora duncana	1yt9	
+isadora film	5j5x	
+jagapati		c3d:2
+jagapati babu	c3d	
+jambo stefan	5k21	
+james edmund		5wz3:3
+james edmund caan	ccw	
+james edmund fotheringham harting	5wz3	
+james edmund harting	5wz3	
+jaszbereny	11n6	
+jean chapot	5bom	
+jesselton	hv0	
+john houseman	l7a	
+john mclaughlin	t76,61u6,66sx,6b1x	
+john mclaughlin footballer born 1936	6b1x	
+john mclaughlin footballer born 1952	66sx	
+john mclaughlin host	61u6	
+john mclaughlin musician	t76	
+kampuchean communist party	1buk	
+kampuchean people s revolutionary party	3165	
+keurprins van saksen friedrich christian	sl4	
+kilbirnie		53nq:4
+kilbirnie ladeside	53nq	53nq:4
+kilbirnie ladeside f		53nq:4
+kilbirnie ladeside f c	53nq	
+kilbirnie ladeside fc	53nq	
+kohgiluyeh	2xrh	11j9:5,2xrh:2
+kohgiluyeh and		11j9:5
+kohgiluyeh and boyer		11j9:5
+kohgiluyeh and boyer ahmad	11j9	11j9:5
+kohgiluyeh and boyer ahmad province	11j9	
+kohgiluyeh and buyer ahmad	11j9	
+kohgiluyeh and buyer ahmad province	11j9	
+kohgiluyeh county	2xrh	
+kohgiluyeh e boyerahmad province	11j9	
+kohgiluyeh va boyer ahmad	11j9	
+kohgiluyeh va buyer ahmad	11j9	
+kurten	3r8y	
+la mannone sobieska	14pz	
+la neuvieme porte	znv	
+langa		1qwp:3,5q25:2
+langa de		1qwp:3
+langa de duero	1qwp	
+langa railway station	5q25	
+langa station	5q25	
+langa struer line	45o2	
+libretti	2zeo	
+libretti by eugene scribe	p77	
+linebackers	l9	
+loano	2jev	
+logicon	gc1	
+loxotropoides	6fjn	
+luger		5wf3:2
+luger carbine	5wf3	
+luger gl 1907	5wf3	
+luger p 08	5wf3	
+luger p08	5wf3	
+luger p08 pistol	5wf3	
+luger parabellum 08	5wf3	
+luger pistol	5wf3	
+mainsat	21wq	
+marlet steve	3pil	
+mastrils	4q61	
+mastrils gr	4q61	
+mastrils graubuenden	4q61	
+mastrils graubunden	4q61	
+mastrils grisons	4q61	
+mastrils switzerland	4q61	
+mequinenza	1fba	
+mequinenza reservoir	1fba	
+mequinenza spain	1fba	
+mequinenza zaragoza	1fba	
+miamiheatcoach	4av	
+miomir		4ohn:2
+miomir vukobratovic	4ohn	
+molen de stier	1um	
+municipalty	q1,phq	
+myeongjong		5wdp:3
+myeongjong of		5wdp:3
+myeongjong of joseon	5wdp	
+nailed	4u0b	
+nailed film	4u0b	
+new potatoes	a89	
+nju	qle	
+nju eine unverstandene frau	4lzt	
+nordwestbahn	br0	
+nordwestbahn gmbh	br0	
+nurn	50u7	
+occurrant	pz	
+oljehult	1u9o	
+oljehult parish	1u9o	
+ornarantia	3ivs	
+oxyspinel		6ba7:2
+oxyspinel group	6ba7	
+panik		4cn7:3
+panik film	2ro4	
+panik i		4cn7:3
+panik i familien	4cn7	
+panik in chicago	52gr	
+parce	1sig	1pq4:3
+parce sur		1pq4:3
+parce sur sarthe	1pq4	
+paul dimitrievitch romanovsky ilynsky	507u	
+paul maccready	5lw2	
+peter thurnham	606a	
+phaneropterinae	4l1z	
+pianottoli		3rsp:2
+pianottoli caldarello	3rsp	
+plogastel		2kt2:3
+plogastel saint		2kt2:3
+plogastel saint germain	2kt2	
+prasoxylon	1sn7	
+princess jellyfish	59or	
+pushtun people	ks8	
+qeqchi	6c9h	
+qeqchi language	6c9h	
+ribera	2s5q	doi:2,rx8:3,1a75:2,2huk:3,2jr3:3,2x7y:3,36n0:3,3vgs:4
+ribera ag	2s5q	
+ribera agrigento	2s5q	
+ribera alta	doi	2jr3:3
+ribera alta alava	2jr3	
+ribera alta comarca	doi	
+ribera alta comarque	doi	
+ribera alta erriberagoitia	2jr3	
+ribera baixa	1a75	
+ribera baja	3vgs	3vgs:4
+ribera baja alava	3vgs	
+ribera baja erribera		3vgs:4
+ribera baja erribera beita	3vgs	
+ribera baja erribera beitia	3vgs	
+ribera d		rx8:3,2x7y:3,36n0:3
+ribera d ebre	rx8	
+ribera d ondara	2x7y	
+ribera d urgellet	36n0	
+ribera del		2huk:3
+ribera del fresno	2huk	
+ribera del fresno badajoz	2huk	
+ribera del fresno extremadura	2huk	
+ribera del fresno spain	2huk	
+ribera dit l espagnolet	14gt	
+ribera italy	2s5q	
+ribera sicily	2s5q	
+robert fleers	5m66	
+rocabruna caup martin	10ec	
+roeux	446e	
+roost		2w52:2,3l6h:2
+roost records	3l6h	
+roost warendin	2w52	
+rostof	15uf	
+saint bernard	1cno,2sp7,2tne,40vj	
+saint bernard ain	2tne	
+saint bernard cote d or	40vj	
+saint bernard haut rhin	1cno	
+saint bernard isere	2sp7	
+saint bernard parish	1u44	
+saint bernard parish la	1u44	
+saint bernard parish louisiana	1u44	
+saint boil	31mu	
+san piero		3mdj:3,4ak2:4
+san piero a		4ak2:4
+san piero a sieve	4ak2	
+san piero patti	3mdj	
+spincourt	1aur	
+ssbns	9ki	
+supski	1c7g	
+tarpeda maz minsk	crk	
+tdsotm	1btj	
+the 4th		3kqs:3
+the 4th arrondissement of paris	af5	
+the 4th floor	3kqs	
+the 4th floor 1999 film	3kqs	
+the 4th kind	3hfr	
+the 4th of july	6hfm	
+the abbot		6aot:3
+the abbot constantine	6aot	
+the abbot constantine 1933 film	6aot	
+the arnolfini marriage	2cx6	
+the arnolfini portrait	2cx6	
+the gangsters	6cy9	
+the mammas and the papas	2cn0	
+the mammas and the pappas	2cn0	
+the resident	3tdl	
+the resident 2010 film	3tdl	
+the resident 2011 film	3tdl	
+the resident film	3tdl	
+the slugs new orleans band	4s5u	
+the unfaithful	2frb	1w2x:3,4c50:3,5lf1:3
+the unfaithful eckehart	4c50,5lf1	
+the unfaithful eckehart 1931 film	5lf1	
+the unfaithful eckehart 1940 film	4c50	
+the unfaithful wife	1w2x	
+thouve	3227	
+trta	832	
+trta ginza line	1tbr	
+trta marunouchi line	1i18	
+tvoyo novoye televideniye	2zh3	
+ultimos dias de la victima film	4wrk	
+ulug beig	31fq	
+ulug bek	31fq	
+un portal	1ci	
+valberto		59w8:4
+valberto amorim		59w8:4
+valberto amorim dos		59w8:4
+valberto amorim dos santos	59w8	
+vigornia	4jy	
+william ezra jenner	5y7c	
+yenibazar	6zl	
+zhan		12ox:3
+zhan antuan gudon	5m3h	
+zhan batist leron dalamber	twg	
+zhan batist simeon sharden	1w8m	
+zhan fransua mille	1mvu	
+zhan fuke	45zq	
+zhan kokto	gsr	
+zhan lang 2	1yg7	
+zhan lang ii	1yg7	
+zhan ogiust dominik engr	bio	
+zhan onore fragonar	1cb5	
+zhan rural		12ox:3
+zhan rural district	12ox	
+zhan yi mou	xjg	
+zhan yongran	1cgi	

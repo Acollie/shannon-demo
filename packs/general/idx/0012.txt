@@ -1,0 +1,521 @@
+100plus liga premier malaysia	1vpl	
+abrahamtelke	3fi6	
+acamapitzin	5h9j	
+albasini michael	1k2v	
+alila	4mpn	
+ameinias philosopher	3lo6	
+amphibious		106j:3,12pg:3,1bo5:3,1su0:2,3ccu:3
+amphibious afv	1su0	
+amphibious armoured fighting vehicle	1su0	
+amphibious assault		1bo5:3
+amphibious assault carrier	1bo5	
+amphibious assault ship	1bo5	
+amphibious assault ships	1bo5	
+amphibious assualt ship	1bo5	
+amphibious attack transport	3m7g	
+amphibious automobile	1su0	
+amphibious bus	1su0	
+amphibious cargo		106j:3
+amphibious cargo ship	106j	
+amphibious craft	1su0	
+amphibious forces	1g9x	
+amphibious ship	1bo5	
+amphibious tank	1su0	
+amphibious transport	1su0,3m7g	12pg:3
+amphibious transport dock	12pg	
+amphibious transport dock ship	12pg	
+amphibious transport docks	12pg	
+amphibious transport ship	3ccu	
+amphibious transport small	3m7g	
+amphibious trucks	1su0	
+amphibious vehicle	1su0	
+amphibious vehicles	1su0	
+amphibious warfare		3ccu:3
+amphibious warfare ship	3ccu	
+amphibious warfare ships	3ccu	
+amphibious warfare vessel	3ccu	
+apollosoyuz	4dli	
+apollosoyuz test project	4dli	
+aretesociety henderson state university honors college	1ll7	
+armiens	3vh	
+avalarian	6gn8	
+bluelegend school of health rehabilitation	9zr	
+brieg	eol	
+brucargo	1fey	
+budachas	1y4	
+burayevski district	3bgn	
+carmelites	a4s	
+carmelites of the ancient observance	a4s	
+charles keter	6h8l	
+charles leonard	53nf	
+charles leonard bennett	4prk	
+charles leonard jr	53nf	
+charles tolliver	4xua	
+charles yeager	1fau	
+charlott		1lax:2
+charlott daudert	1lax	
+cissatsuma	33b7	
+citizensparty of the citizenry	12vv	
+closterol	1h6y	
+clostridium	aeb	
+clostridium difficile enterocolitis	6aww	
+clostridium difficile infection	6aww	
+clostridium difficile intestinal infectious disease	6aww	
+clostridium infections	aeb	
+cmi	2a50	
+cologno		1wbi:3,2brx:2
+cologno al		1wbi:3
+cologno al serio	1wbi	
+cologno monzese	2brx	
+cologno monzese italy	2brx	
+coosje		2209:3
+coosje bruggen	2209	
+coosje van		2209:3
+coosje van bruggen	2209	
+coosje van bruggen oldenburg	2209	
+coyanza	2hhi	
+crocodylian	19mi	
+dapitan	1usg	
+dapitan city	1usg	
+dapitan zamboanga del norte	1usg	
+darvilen	3tdg	
+david ogden		mj8:3
+david ogden stewart	xlf	
+david ogden stiers	mj8	
+david rainford	5ehw	
+dekanovice	3glf	
+diota	6268	
+dorinel		29pw:2
+dorinel ionel munteanu	29pw	
+dorinel munteanu	29pw	
+dotd	53h	
+durga		20td:2
+durga khote	20td	
+economic	3jm	d6p:2,11xn:2,1zwb:2,2q2d:2,3mxm:5,3s1a:3,5jce:2,5m45:2,6emi:4,6eo7:2
+economic activity	2mb	
+economic affairs	3jm	3s1a:3
+economic affairs ministry	3s1a	
+economic analyst	25ko	
+economic analysts	25ko	
+economic and social council of the united nations	6gm8	
+economic and social council of the united nations ecosoc	6gm8	
+economic applications of game theory	1x0m	
+economic capital of pakistan	144	
+economic competition	5m45	
+economic crash of 1929	6hn3	
+economic crisis of 2008	3epc	
+economic development in schenectady new york	5kp	
+economic effects of daylight savings time	e5l	
+economic effects of immigration to the united states	q4m	
+economic effects of smoking	4h6z	
+economic effects of taxation	ri3	
+economic effects of violence	1aub	
+economic effects of world war i	2k	
+economic game	1x0m	
+economic good	2pih	
+economic goods	2pih	
+economic historian	6eo7	
+economic historians	6eo7	
+economic histories	6eo7	
+economic history	6eo7	
+economic impact of obesity	24m	
+economic impact of the 2005 atlantic hurricane season	1jn8	
+economic impact of the trans pacific partnership	5hda	
+economic impact of wind power	58h4	
+economic imperialism economics	2mb	
+economic indicator	2q2d	
+economic indicators	2q2d	
+economic inefficiencies	2mb	
+economic inequality in honduras	sv	
+economic issues	1zwb	
+economic liberal	11xn	
+economic liberal theory	11xn	
+economic liberalism	11xn	
+economic liberals	11xn	
+economic libertarianism	11xn	
+economic market	slq	
+economic national socialism	g2j	
+economic noninterventionism	11xn	
+economic pattern	2mb	
+economic policies	1zwb	
+economic policy	1zwb	
+economic policy advisory board	2mb	
+economic policy of augusto pinochet	1nz3	
+economic policy of hassan rouhani	25ce	
+economic policy of indira gandhi	k5e	
+economic policy of rodrigo duterte	1sk8	
+economic politics	4xu6	
+economic producer	d6p	
+economic production	d6p	
+economic region		6emi:4
+economic region of		6emi:4
+economic region of russia	6emi	
+economic regions of russia	6emi	
+economic regulator	64fo	
+economic sanctions against burma	be	
+economic science	2mb	
+economic secretary		3mxm:5
+economic secretary to		3mxm:5
+economic secretary to the		3mxm:5
+economic secretary to the treasury	3mxm	
+economic sector	5jce	
+economic sectors	5jce	
+economic simulation	9ny	
+economic simulation game	9ny	
+economic simulation games	9ny	
+economic strategist	69eb	
+economic strategy game	9ny	
+economic suicide	9i	
+economic system	3jm	
+economic theorist	5b	
+economic thought	2mb	
+economic tool	1zwb	
+economic trinity	cl9	
+electrifying	1myo	
+etousa	6hqm	
+evenhand soundtrack	1r96	
+fc tuggen	3z8s	
+gauville	1v82	30b2:3
+gauville la		30b2:3
+gauville la campagne	30b2	
+gauville orne	1v82	
+george nicholls		1whn:3
+george nicholls jr	1whn	
+gormley david	6cqs	
+guna	650y	
+guna film	650y	
+guna sekhar	3q5o	
+haaparanda	rw2	
+halava	6ew3	
+harisree		2kzz:2
+harisree ashokan	2kzz	
+harisree asokan	2kzz	
+henry mcleish	3pzs	
+henry mcleish comments	3pzs	
+hesperia	3fhx,4cki	
+hesperia butterflies	4cki	
+hesperia butterfly	4cki	
+hesperia ca	3fhx	
+hesperia california	3fhx	
+hesperia genus	4cki	
+hesperia skipper	4cki	
+i 440 ok	1qk0	
+indianola	1za0	
+indianola fl	1w01	
+indianola miss	1za0	
+indianola mississippi	1za0	
+indianola mississippi micropolitan area	v8q	
+indianola ms	1za0	
+indianola ms micropolitan statistical area	v8q	
+indianola ms msa	v8q	
+indianola ms sa	v8q	
+isra il	42	
+jahirsino baylon	4pss	
+jenissej	19ib	
+jmt	5lb8	
+jmt records	1imi	
+john maccain	e60	
+john shalikashvili	32gf	
+jokin		5qnv:2
+jokin arcaya	5qnv	
+jokin arcaya esparza	5qnv	
+jokin esparza	5qnv	
+khedivate	4d2b	4d2b:3
+khedivate of		4d2b:3
+khedivate of egypt	4d2b	
+kolabaskar	5f21	
+kwc	1tbo	
+la folle queen of castile jeanne	zb4	
+laurentia plant	on4	
+liepaya	7xa	
+limetree records	13mf	
+luerssen	1hwj	
+luerssen sohn	1hwj	
+luerssen werft	1hwj	
+maamoura morocco	18y7	
+madi saidou panandetiguini	3hwd	
+madi saidou panandetiguiri	3hwd	
+maiwar	1a63	
+manouk abeghian	3mki	
+maranhao	2i2	
+maranhao province	2i2	
+mariola		60my:2
+mariola fuentes	60my	
+matsudo	gnp	
+matsudo chiba	gnp	
+matsudo kan	2a4z	
+mielnik commune	1qfx	
+mikmod	68mm	
+mmviii	bfe	
+motives	5y5g	
+motives film	5y5g	
+motives movie	5y5g	
+motives murder cracking the case	16td	
+murroes primary school	1ow	
+nuceria	ts6	
+nuceria alfaterna	ts6	
+nuceria camellana	1p8x	
+nuka hiva	2xxx	
+nyrkiv	40	
+obersoultzbach	2is4	
+ouninpohja	4axp	
+pelucchi	3wol	
+percept	6au2	58cs:3
+percept picture		58cs:3
+percept picture company	58cs	
+periclean strategy	2uf5	
+philipsburgh	1fl4	
+philipsburgh new york	1fl4	
+polacak	jbk	
+poursac	2ojs	
+prince amoako	50fn	
+prince pavle	2rol	
+prince philip	oqb	oqb:5,3ujd:4
+prince philip designers		3ujd:4
+prince philip designers prize	3ujd	
+prince philip duke		oqb:5
+prince philip duke of		oqb:5
+prince philip duke of calabria	2zhr	
+prince philip duke of edinburgh	oqb	
+prince philip mountbatten	oqb	
+prince philip of bourbon two sicilies	2g1j	
+prince philip of greece	oqb	
+prince philip of hesse kassel	22gj	
+prince philip of hessen kassel	22gj	
+prince philip of saxe coburg and gotha	2n6m	
+prince philip of saxe coburg kohary	2n6m	
+prince philip of sicily	2zhr	
+prince philip of the two sicilies	2g1j	
+prince philip the duke of edinburgh	oqb	
+purnia		1zre:2
+purnia district	1zre	
+puttappa	5d7r	
+ravichandran	ceq,12z5	
+ravichandran actor	12z5	
+ravichandran tamil actor	12z5	
+revolutionary	53g	1fdh:6,1h9m:2,1hat:3,5a0o:5,5r3u:3,6832:2
+revolutionary alliance	byb	
+revolutionary committee		1fdh:6
+revolutionary committee of		1fdh:6
+revolutionary committee of the		1fdh:6
+revolutionary committee of the chinese		1fdh:6
+revolutionary committee of the chinese kuomintang	1fdh	
+revolutionary committee of the kmt	1fdh	
+revolutionary committee of the kuomintang	1fdh	
+revolutionary commune of paris	1kib	
+revolutionary communist		5r3u:3
+revolutionary communist league	5r3u	
+revolutionary communist league france	5r3u	
+revolutionary east	10lk	
+revolutionary france	15ol	
+revolutionary girl utena the movie	3ttq	
+revolutionary governing council	3y27	
+revolutionary greece	6ik	
+revolutionary guards	1ka3	
+revolutionary guards of iran	1ka3	
+revolutionary guardsmen	1ka3	
+revolutionary ideas	ksh	
+revolutionary institutional party	x0	
+revolutionary insurgent		5a0o:5
+revolutionary insurgent army		5a0o:5
+revolutionary insurgent army of		5a0o:5
+revolutionary insurgent army of ukraine	5a0o	
+revolutionary insurrectionary army	5a0o	
+revolutionary insurrectionary army of ukraine	5a0o	
+revolutionary insurrectionist army of ukraine	5a0o	
+revolutionary kuomintang	1fdh	
+revolutionary martyr	r13	
+revolutionary party tanzania	3va	
+revolutionary people s party of laos	38mo	
+revolutionary politics	ksh	
+revolutionary road	1h9m	
+revolutionary road film	1h9m	
+revolutionary socialism	6832	
+revolutionary socialist	6832	1hat:3
+revolutionary socialist party	1hat	
+revolutionary socialist party india	1hat	
+revolutionary socialst	6832	
+revolutionary state party	3va	
+revolutionary state party tanzania	3va	
+revolutionary syndicalism	3jfp	
+revolutionary syndicalist	3jfp	
+revolutionary trade unionist	3jfp	
+revolutionary unionism	3jfp	
+revolutionary volume 3	5q1y	
+revolutionary war lawyers	iqy	
+revolutionary wars of france	1u6	
+robert mcewen	3rad	
+safi	srl,6emw	
+safi first name	6emw	
+safi given name	6emw	
+safi morocco	srl	
+samariniotis	508m	
+sanfre	5ah7	
+saskanas centris	1gti	
+saskanas centrs	1gti	
+schrutedit08 sopranos s4	3tgi	
+schrutedit08 sopranos s6	29l8	
+sedar	19k4	
+sedar senghor	19k4	
+serbland	du4	
+siebethsburg	7cg	
+sindhupalchok district	dub	
+stacia fergia ferguson	ni7	
+stalk and slash	2vo	
+stalk eyed flies	6f2f	
+stalk eyed fly	6f2f	
+stalk forrest	zj7	
+stalk forrest group	zj7	
+stalk n slaher horror	2vo	
+stalk n slasher horror	2vo	
+starved for help	2t4z	
+starved to death	398h	
+strakonice	k09	516:2
+strakonice czech republic	k09	
+strakonice district	516	
+studded belt	5yle	
+suntan u	1jd	
+supreme		7js:2,jma:4,1e9a:4,2uz8:4,2wyu:4,3l5y:4,429a:6,5q83:2,5tbe:6,6hqf:7
+supreme akali party	l9p	
+supreme allied		2uz8:4,3l5y:4
+supreme allied commander		2uz8:4,3l5y:4
+supreme allied commander atlantic	2uz8	
+supreme allied commander europe	3l5y	
+supreme clientele ii blue cream	p8l	
+supreme clientele presents blue cream the wally era	p8l	
+supreme commander allied forces europe	3l5y	
+supreme commander of irish defence forces	vt0	
+supreme commander of the armed forces	2u1z	
+supreme commander of the egyptian armed forces	5615	
+supreme commander of the fleet of particular justice	6hh4	
+supreme commander of the indian armed forces	v2t	
+supreme confession	5q83	
+supreme council of the soviet union	5tbe	
+supreme council of the ussr	5tbe	
+supreme court	7js	jma:4,2wyu:4,429a:6,6hqf:7
+supreme court associate justice	fx5	
+supreme court associate justice scalia	1hu6	
+supreme court chief justice	173w	
+supreme court judge	7js	
+supreme court justice	7js	
+supreme court justice antonin g scalia	1hu6	
+supreme court justice antonin gregory scalia	1hu6	
+supreme court justices	7js	
+supreme court of		jma:4,2wyu:4,429a:6,6hqf:7
+supreme court of appeal		6hqf:7
+supreme court of appeal of		6hqf:7
+supreme court of appeal of south		6hqf:7
+supreme court of appeal of south africa	6hqf	
+supreme court of appeal south africa	6hqf	
+supreme court of appeals of south africa	6hqf	
+supreme court of appeals south africa	6hqf	
+supreme court of ohio	jma	
+supreme court of spain	2wyu	
+supreme court of the		429a:6
+supreme court of the united		429a:6
+supreme court of the united states	429a	
+supreme court of the unites states	429a	
+supreme court of the usa	429a	
+supreme court of united states	429a	
+supreme court spain	2wyu	
+supreme court u s	429a	
+supreme creator	b34	
+supreme ct	7js	
+supreme fascist	cfc	
+supreme head of malaysia	5lma	
+supreme headquarters international espionage law enforcement division	5imb	
+supreme law	4g9	
+supreme leader of myanmar	68zk	
+supreme league of the russian ice hockey championship	zz4	
+supreme moderator	1rxu	
+supreme music program	1klq	
+supreme order		1e9a:4
+supreme order of		1e9a:4
+supreme order of christ	1e9a	
+supreme order of hibiscus	5uhg	
+supreme order of the chrysanthemum	1q5m	
+supreme order of the most holy annunciation	m8b	
+supreme order of the star spangled banner	13w1	
+supreme parish and collegiate church	ob5	
+supreme ruler of malaysia	5lma	
+supreme soviet		5tbe:6
+supreme soviet of		5tbe:6
+supreme soviet of the		5tbe:6
+supreme soviet of the soviet		5tbe:6
+supreme soviet of the soviet union	5tbe	
+supreme soviet of the ussr	5tbe	
+supreme soviet of ussr	5tbe	
+supreme theatrical institute of shchepkin	dwp	
+suszec commune	4pjn	
+syleena		3cxc:2
+syleena johnson	3cxc	
+teuillac	3bjy	
+the divinci code	4rzm	
+the dove	2ka8,3x15	
+the dove 1927 film	2ka8	
+the dove 1974 film	3x15	
+the knockout	44jj	
+the layover mixtape	5bd8	
+tiffani		1guc:2
+tiffani amber thiessen	1guc	
+tiffani thiessen	1guc	
+tomaz	xi1	46su:2
+tomaz first name	xi1	
+tomaz given name	xi1	
+tomaz majer	66t2	
+tomaz pengov	46su	
+tortured	3exu,5uj9	3exu:2
+tortured 2008 film	5uj9	
+tortured film	5uj9	
+trozei	6b68	
+typography	8no,3vew	
+typography design	3vew	
+ufpr	568o	
+umeaa	5rr	
+vergezac	3z7e	
+vitruvius	56xb	
+vitruvius pollio	56xb	
+vonteego	30ki	30ki:2
+vonteego cummings	30ki	
+vonteego marfeek cummings	30ki	
+watches	h2b	
+workshop	3hvs,5gk1	
+workshop jazz records	10b	
+wr burnett	1c4p	
+wr grove	4gxv	
+wr king	3xmh	
+wr mysteries of the organism	1pi2	
+wr sickert	5n80	
+wrangellst		13ut:6
+wrangellst elias		13ut:6
+wrangellst elias national		13ut:6
+wrangellst elias national park	13ut	13ut:6
+wrangellst elias national park and		13ut:6
+wrangellst elias national park and preserve	13ut	
+yate	5zy4	38le:4
+yate gloucestershire	5zy4	
+yate rocks	5zy4	
+yate town	38le	38le:4
+yate town f		38le:4
+yate town f c	38le	
+yate town fc	38le	
+yate town football club	38le	
+yoon	69ny	4w74:3,4xeh:3,5107:3,5hb4:3
+yoon bo seon	5jfn	
+yoon gye sang	4xeh	
+yoon je		5hb4:3
+yoon je kyoon	5hb4	
+yoon ji sung	3cb8	
+yoon jin kim	2779	
+yoon jong		4w74:3,5107:3
+yoon jong hwan	5107	
+yoon jong shin	4w74	
+yoon jong sin	4w74	
+yoon jung hwan	5107	
+yoon korean name	69ny	
+yoon korean surname	69ny	
+yoon kye		4xeh:3
+yoon kye sang	4xeh	
+yoon po son	5jfn	
+yoon suk young	4f6q	
+yoon yeo jeong	4vxc	

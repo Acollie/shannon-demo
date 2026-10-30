@@ -1,0 +1,408 @@
+1958		2wb:4,62q:3,bvd:6,1147:4,1o0h:4,3mb4:4,6hoe:3
+1958 59		1147:4
+1958 59 cypriot		1147:4
+1958 59 cypriot cup	1147	
+1958 asian		62q:3
+1958 asian games	62q	
+1958 british		bvd:6
+1958 british empire		bvd:6
+1958 british empire and		bvd:6
+1958 british empire and commonwealth		bvd:6
+1958 british empire and commonwealth games	bvd	
+1958 british empire and commonwealth games medal count	bvd	
+1958 commonwealth games	bvd	
+1958 european		1o0h:4
+1958 european athletics		1o0h:4
+1958 european athletics championships	1o0h	
+1958 european championships in athletics	1o0h	
+1958 eurovision song contest	218l	
+1958 fdgb pokal final	4gfl	
+1958 federation internationale de football association world cup	2wb	
+1958 fifa		2wb:4
+1958 fifa world		2wb:4
+1958 fifa world cup	2wb	
+1958 fifa world cup sweden	2wb	
+1958 fis nordic world ski championships	3djr	
+1958 football world cup	2wb	
+1958 nascar sprint cup series	jt3	
+1958 national basketball association playoffs	6hoe	
+1958 nba		6hoe:3
+1958 nba playoffs	6hoe	
+1958 saint louis billikens men s soccer team	ih1	
+1958 tour		3mb4:4
+1958 tour de		3mb4:4
+1958 tour de france	3mb4	
+1958 world cup	2wb	
+abadal i de vinyals ramon d	4sih	
+agregation	5n6n	
+agregation in france	5n6n	
+albinoes	y04	
+alexander evgenievich fersmann	34ks	
+alexander evgenievich golovanov	55c0	
+alexander javakhishvili	3w6m	
+ambillou	3b5f	
+anopheles	tp6	
+anopheles darlingi	tp6	
+anopheles mosquito	tp6	
+anopheles quadrimaculatus	tp6	
+anthasthulu	62xg	
+arvfurstens		5u9f:2
+arvfurstens palats	5u9f	
+asqalan	erw	
+asymmetrical multiplayer video gaming	64	
+asymmetrical relationship	3c5y	
+bayit yehudi	2zwn	
+biochemicals	6es	
+brachy	2gtp	
+charles collett	2nn8	
+coder	2sb	
+czernahora	1o8j	
+dalou	42hl	
+dalou ariege	42hl	
+david hackworth	29jp	
+defencive linemen	3aw	
+demar star wars	549	
+druce portland case	60p8	
+edward lesaint	h42	
+eparchos	bj3	
+euxanthoides	cql	
+ewha	v2h	v2h:3
+ewha college	v2h	
+ewha university	v2h	
+ewha woman s university	v2h	
+ewha womans		v2h:3
+ewha womans university	v2h	
+ewha women s university	v2h	
+fc villa		5yz0:3
+fc villa clara	5yz0	
+filmauro	y3x	
+gars	33vw	
+gars alpes maritimes	33vw	
+gebro	4a48	
+geert	obn	443p:3,4g1g:2,5e7t:2,5lrw:2,5wcj:3,6496:2,664t:2
+geert albert bourgeois	5lrw	
+geert bourgeois	5lrw	
+geert de		443p:3
+geert de groot	5fwb	
+geert de kremer	2qse	
+geert de vlieger	443p	
+geert den		5wcj:3
+geert den ouden	5wcj	
+geert first name	obn	
+geert given name	obn	
+geert hammink	4g1g	
+geert hendrik hammink	4g1g	
+geert hofstede	664t	
+geert mak	5e7t	
+geert vilders	6496	
+geert wilders	6496	
+giberville	2vgp	
+gmina gorlice	1tks	
+gsies	3wdy	
+gsies valle di casies	3wdy	
+hasegawa tatsunosuke	4f54	
+holbyta	69zs	
+ingvild		4gxd:2,51rh:3
+ingvild flugstad		51rh:3
+ingvild flugstad ostberg	51rh	
+ingvild flugstad stberg	51rh	
+ingvild stensland	4gxd	
+james paget	37li	
+kele		3exo:2
+kele okereke	3exo	
+kirin		132v:2
+kirin city	qy2	
+kirin kiki	132v	
+kirin province	cx3	
+konigswerth	3ei5	
+kroonstad	14bc	
+kroonstad free state	14bc	
+krunichev center	2e47	
+krunichev okb	2e47	
+labruyere	33l4	3lmu:2
+labruyere cote d or	33l4	
+labruyere dorsa	3lmu	
+lastonezleft	2njh	
+laudrup brian	1knp	
+laudrup michael	155f	
+lavincourt	36uw	
+louslitges	2w1s	
+maigret	q90	11mx:4,1n2i:6,2waw:3
+maigret a		2waw:3
+maigret a pigalle	2waw	
+maigret et		1n2i:6
+maigret et l		1n2i:6
+maigret et l affaire		1n2i:6
+maigret et l affaire saint		1n2i:6
+maigret et l affaire saint fiacre	1n2i	
+maigret radio series	q90	
+maigret sets		11mx:4
+maigret sets a		11mx:4
+maigret sets a trap	11mx	
+maigret sets a trap film	11mx	
+maigret tend un piege	11mx	
+maigret tend un piege film	11mx	
+manufactured	2i7	
+manufactured band	2vp	
+manufactured collectable	4q8j	
+manufactured consent	5zu9	
+manufactured music	2vp	
+manufactured pop	2vp	
+margalo		50ae:2
+margalo gillmore	50ae	
+margalo gilmore	50ae	
+maria ouspenskaya	1vmc	
+marinko		3u80:2
+marinko galic	3u80	
+maykon		62fq:4
+maykon araujo	62fq	
+maykon daniel		62fq:4
+maykon daniel elias		62fq:4
+maykon daniel elias araujo	62fq	
+melrose	g1s,1v25	qze:2,1cnb:2,45mc:2
+melrose connecticut	4h3a	
+melrose ma	g1s	
+melrose massachusetts	g1s	
+melrose massachusetts comments	g1s	
+melrose park	1cnb	
+melrose park il	1cnb	
+melrose park illinois	1cnb	
+melrose place	qze,45mc	
+melrose place 1992	qze	
+melrose place 1992 tv series	qze	
+melrose place 2009 tv series	45mc	
+melrose place season summaries	qze	
+melrose place spin off	45mc	
+melrose place tv series	qze	
+melrose roxburghshire	1v25	
+melrose scotland	1v25	
+melrose scottish borders	1v25	
+melrose television series	45mc	
+melrose tv series	45mc	
+melrose tv show	45mc	
+mikko	8sl	2lb4:2,2tn0:2,47es:2,4q0g:2,5t5n:2,695f:2,6eji:2
+mikko einar juva	2lb4	
+mikko einar juvelius	2lb4	
+mikko first name	8sl	
+mikko given name	8sl	
+mikko hyyrynen	6eji	
+mikko johannes leppilampi	47es	
+mikko juva	2lb4	
+mikko juvelius	2lb4	
+mikko leppilampi	47es	
+mikko maekelae	2tn0	
+mikko makela	2tn0	
+mikko paatelainen	695f	
+mikko pukka	5t5n	
+mikko sumusalo	4q0g	
+moguer	18gs	
+moguer huelva	18gs	
+moguer spain	18gs	
+molezuelas		3k0s:4
+molezuelas de		3k0s:4
+molezuelas de la		3k0s:4
+molezuelas de la carballeda	3k0s	
+molezuelas de la carballeda spain	3k0s	
+molezuelas de la carballeda zamora	3k0s	
+moosthenning	1uei	
+muggs	4l75	
+myelomas	7vp	
+nanga		5f00:2
+nanga parbat	5f00	
+nanga parbat mountain	5f00	
+national politechnical institute	3ahk	
+nazis	g2j	
+nazis invaded france	8jq	
+newirth charles	3afn	
+nfs	l6y	
+nfs 11	4in1	
+nfs 5	6egy	
+nfs 7	53dr	
+nfs 8	5d9r	
+nfs c	1zmk	
+nfs carbon	1zmk	
+nfs hot pursuit	40lk	
+nfs hot pursuit 3	40lk	
+nfs hp	40lk	
+nfs mw2	4csy	
+nfs plot	l6y	
+nfs porsche	6egy	
+nfs pro street	4in1	
+nfs ps	4in1	
+nfs rivals	5iq0	
+nfs series	l6y	
+nfs shift	20v3	
+nfs the run	4gq1	
+nfs u	53dr	
+nfs u2	5d9r	
+nfs uc	2lmn	
+nfs undercover	2lmn	
+nfs underground	53dr	
+nfs xi	4in1	
+nizamye courts	17p	
+obersaasheim	24mm	
+offoy	39bq,3rbu	
+offoy oise	39bq	
+offoy somme	3rbu	
+orion	8fv,24xf,2mwz,6eoo	5ws:2,8g5:3,22r2:2,5bxv:3,5mtz:2,6h4x:3
+orion arm	22r2	
+orion astronomy	8fv	
+orion bataan	24xf	
+orion books	8g5	
+orion bridge	22r2	
+orion children s books	8g5	
+orion classics	5mtz	
+orion comic book	6eoo	
+orion comics	6eoo	
+orion constellation	8fv	
+orion cygnus arm	22r2	
+orion cygnus galactic arm	22r2	
+orion dc comics comic book	6eoo	
+orion entertainment	5ws	
+orion f c	2zhx	
+orion galactic arm	22r2	
+orion home video	5ws	
+orion instramental	413z	
+orion interactive	5ws	
+orion metallica song	413z	
+orion metallica track	413z	
+orion pictures	5ws	
+orion pictures corporation	5ws	
+orion publication	6eoo	
+orion publishing	8g5	8g5:3
+orion publishing group	8g5	
+orion pyrenees atlantiques	2mwz	
+orion s		5bxv:3
+orion s belt	5bxv	
+orion s belt film	5bxv	
+orion s key	5pgo	
+orion shall		6h4x:3
+orion shall rise	6h4x	
+orion spur	22r2	
+orion studios	5ws	
+orion television	5ws	
+orion television entertainment	5ws	
+orion uk	8g5	
+parawai school	14du	
+peist	5t5w	
+peist gr	5t5w	
+peist graubuenden	5t5w	
+peist graubunden	5t5w	
+peist grisons	5t5w	
+peist switzerland	5t5w	
+peter hamill	nj5	
+phaeomyiidae	4bt6	
+piasetzne	3vvv	
+pinilla		26f5:4,3q2u:3,3xg3:3,44ky:2
+pinilla de		26f5:4,3q2u:3
+pinilla de los		26f5:4
+pinilla de los barruecos	26f5	
+pinilla de los barruecos burgos	26f5	
+pinilla de los barruecos spain	26f5	
+pinilla de toro	3q2u	
+pinilla de toro spain	3q2u	
+pinilla de toro zamora	3q2u	
+pinilla del		3xg3:3
+pinilla del valle	3xg3	
+pinilla trasmonte	44ky	
+pinilla trasmonte burgos	44ky	
+pinilla trasmonte spain	44ky	
+polow		rc0:3
+polow da		rc0:3
+polow da don	rc0	
+polow da don production credits	rc0	
+polow the don	rc0	
+pressiat	3mk8	
+psara	18js,3t3b	
+psara greece	3t3b	
+psara moth	18js	
+psara town	3t3b	
+raffetot	2f7p	
+remeling	2csl	
+rihai	50v4	
+rjukan	556t	
+rjukan norway	556t	
+rodero	47zh	
+rozebeke	2ui2	
+saadya ibn yusuf al fayyumi	62nh	
+saint aunes	1zor	
+scipio		184i:2,1j52:6,3k2h:2,5jib:3
+scipio aemilianus	3k2h	
+scipio aemilianus africanus	3k2h	
+scipio africanus	184i	1j52:6
+scipio africanus junior	3k2h	
+scipio africanus major	184i	
+scipio africanus minor numantinus	3k2h	
+scipio africanus the		1j52:6
+scipio africanus the defeat		1j52:6
+scipio africanus the defeat of		1j52:6
+scipio africanus the defeat of hannibal	1j52	
+scipio africanus the elder	184i	
+scipio africanus the younger	3k2h	
+scipio asiaticus	5q4p	
+scipio borghese	2d7s	
+scipio cardinal borghese	2d7s	
+scipio maffei	63u8	
+scipio major	184i	
+scipio the		5jib:3
+scipio the african	184i,5jib	
+scipio the elder	184i	
+scipio the great	184i	
+scipio the younger	3k2h	
+segoncia	i2z	
+sharqia	1p6m	1p6m:2
+sharqia governorate	1p6m	
+sommer	3qlu	
+sommer i tyrol	2ogs	
+sommer michael	3qty	
+sommer tv series	3qlu	
+sommer vorm balkon	4zfy	
+sparganopseustis	63rn	
+subborgo vilhena	1bma	
+syunik	50v	50v:2
+syunik historic armenia	50v	
+syunik marz	50v	
+syunik province	50v	
+syunik region	50v	
+t43 class	3ib1	
+t43 class minesweeper	3ib1	
+takelman	68ee	
+taziri satosi	256s	
+the teddy		4j2g:3
+the teddy bear	4j2g	
+tianhe		rvr:2
+tianhe district	rvr	
+tianhe district guangzhou	rvr	
+tianhe ward	rvr	
+tightup	1en	
+tirupur	4zdm	
+tirupur district	10gv	
+toppserien	10yz	
+user		2jl1:2
+user adopting	6fwf	
+user community	6etd	
+user definable code page	22rl	
+user definable codepage	22rl	
+user gurgaon	9n7	
+user interface	2jl1	
+user interface chrome	15xd	
+user interfaces	2jl1	
+user license agreement	okz	
+user pages with gnd identifiers	4owz	
+user pages with nkc identifiers	4owz	
+user pages with selibr identifiers	4owz	
+user segment	5rk6	
+user sikar	5w3x	
+user suggestions	i4f	
+user the w	3zh9	
+villagatti	5ekt	
+witten	b2l	
+witten germany	b2l	
+wulumuqi	gtu	
+zamudio	1soy	
+zatoichi	2ql7	3t0h:3
+zatoichi 2003 film	2ql7	
+zatoichi 2010 film	3t0h	
+zatoichi kitano	2ql7	
+zatoichi the		3t0h:3
+zatoichi the last	3t0h	

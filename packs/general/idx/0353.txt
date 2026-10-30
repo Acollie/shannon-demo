@@ -1,0 +1,357 @@
+1894 sino japanese war	fyb	
+aahrus	34e	
+agricola george	3y36	
+agricola georgius	3y36	
+agricola gloria montecatini	45jj	
+agricola gnaeus julius	41op	
+alexander hope	5sli	
+allostenoperca	1xz3	
+amiandos	4mi8	
+ampleforth		8pb:2
+ampleforth abbey and college	8pb	
+ampleforth college	8pb	
+andreea	2cqi	
+andreea first name	2cqi	
+andreea given name	2cqi	
+anerastia	651o	
+antaxia	rbx	
+applefield	40eu	
+arequipa	8gc	hfz:2,14dy:2
+arequipa department	hfz	
+arequipa department of peru	hfz	
+arequipa peru	8gc,hfz	
+arequipa province	14dy	
+arequipa region	hfz	
+arequipa total	yju	
+arpadovici	jit	
+awood johnson	5ffk	
+basseterre	z7u	
+basseterre saint kitts	z7u	
+basseterre saint kitts and nevis	z7u	
+bialynichy raion	4t4f	
+broadwaylafayette street	5uz6	
+broadwaylafayette street chrystie local	5uz6	
+broadwaylafayette street new york city subway	5uz6	
+btbam	1xeu	
+bvld	fvs	
+cardona	1te8	
+cardona spain	1te8	
+charles muntz	17hl	
+chauny	yod	
+condom	rim	26af:3
+condom d		26af:3
+condom d aubrac	26af	
+condom en armagnac	rim	
+condom france	rim	
+condom gers	rim	
+condom town	rim	
+confl health	u76	
+cpop	25ym	
+darbonnay	3pxb	
+david walters	69ws	
+deejaying	n2	
+defra	4od2	
+dorunak		2p8k:3
+dorunak rural		2p8k:3
+dorunak rural district	2p8k	
+droogism	5n75	
+drummondville	cng	
+drummondville qc	cng	
+drummondville quebec	cng	
+ebcdic		4x0b:3
+ebcdic 8859	4x0b	
+ebcdic code		4x0b:3
+ebcdic code page	4x0b	
+ebcdic code pages	4x0b	
+edward critchley	5lac	
+eordea province	1hop	
+fc maladzyechna	utb	
+filicaia	3nk8	
+friel brian	2ecx	
+futk	cfy	
+germanicia	l8a	
+germanicia caesarea	l8a	
+gmina cisna	1kgi	
+gmina kolbudy	1org	
+gmina olszyna	3gsc	
+gouda	7qo	4ofx:3
+gouda netherlands	7qo	
+gouda of japan	55ab	
+gouda railway		4ofx:3
+gouda railway station	4ofx	
+gouda south holland	7qo	
+gouda tenno	55ab	
+governorate	bgm	1sw5:3,2akw:3,2ct2:3,39cn:3,5n5i:6,5tse:3,68cf:3
+governorate general	1a81	
+governorate general of batavia	p3t	
+governorate of		1sw5:3,2akw:3,2ct2:3,39cn:3,5n5i:6,5tse:3,68cf:3
+governorate of beja	4rc4	
+governorate of bessarabia	3vv7	
+governorate of chernigov	sek	
+governorate of conakry	714	
+governorate of courland	185j	
+governorate of egypt	1sw5	
+governorate of estonia	24ru	
+governorate of greater algiers	1a6f	
+governorate of idlib	2y1	
+governorate of iraq	39cn	
+governorate of jordan	68cf	
+governorate of kazan	y72	
+governorate of kherson	1zri	
+governorate of kindia	3sf7	
+governorate of kovno	1wyc	
+governorate of kuopio	4lhd	
+governorate of kurland	185j	
+governorate of labe	523b	
+governorate of leningrad	1kwm	
+governorate of mahdia	3lz0	
+governorate of mamou	6e4e	
+governorate of minsk	o4j	
+governorate of mogilev	24aq	
+governorate of moscow	tiv	
+governorate of new leon	4dj6	
+governorate of nikolaistad	3nh6	
+governorate of nikolayev	1zri	
+governorate of nzerekore	6e5y	
+governorate of olonets	4kza	
+governorate of olonez	4kza	
+governorate of palestine	5n5i	
+governorate of petrograd	1kwm	
+governorate of podolia	1nrm	
+governorate of poltava	ot3	
+governorate of reval	24ru	
+governorate of sfax	2dso	
+governorate of slonim	2vos	
+governorate of smolensk	1758	
+governorate of sohag	4zlr	
+governorate of sousse	2v1l	
+governorate of syria	5tse	
+governorate of taiz	kao	
+governorate of tallinn	24ru	
+governorate of taurida	3cly	
+governorate of tavastehus	5xv6	
+governorate of the		5n5i:6
+governorate of the countryside of damascus	3ihg	
+governorate of the state		5n5i:6
+governorate of the state of		5n5i:6
+governorate of the state of palestine	5n5i	
+governorate of tunisia	2ct2	
+governorate of vologda	21qj	
+governorate of vyborg	4wzo	
+governorate of yekaterinoslav	uza	
+governorate of yemen	2akw	
+governorate russia	bgm	
+governorate russian empire	bgm	
+guainia		2m1z:2
+guainia commissariat colombia	2m1z	
+guainia department	2m1z	
+guainia department comments	2m1z	
+guainia river	33ho	
+havenhurst	5yrj	
+hida	55kg	3tbs:2
+hida gifu	55kg	
+hida mountains	3tbs	
+hida range	3tbs	
+hida sanmyaku	3tbs	
+hida takayama	183h	
+hnlms abraham crijnssen	3d4j	
+hnlms van kinsbergen	3d4j	
+john halas	44oz	
+john moses	66uv	
+john moses american politician	66uv	
+john moses browning	q28	
+jopi heesters	q4e	
+kromosome	1op4	
+kuki	59m4	
+kuki bienzobas	5irr	
+kuki footballer	59m4	
+kuki ningyo	4ic3	
+ladugardsgarde	40g8	
+lae	2ttv	
+lae fc	29ra	
+lae international hotel	2ttv	
+lae papua new guinea	2ttv	
+lae pg mpl	2ttv	
+lalisa	6gmj	
+lalisa manoban	5np1	
+lalizolle	1rgt	
+lenhard euler	79b	
+lonzo anderson ball	6c8n	
+lonzo ball	6c8n	
+maartje	5c7q	
+maartje first name	5c7q	
+maartje given name	5c7q	
+maartje name	5c7q	
+maeterlink	zbh	
+magmoor	2s0w	
+magmoor caverns	2s0w	
+maibaum richard	105j	
+matougues	2mur	
+mauritshaus	13lu	
+maurs	1u92	
+meili	4w0e	
+miyu		5src:2
+miyu irino	5src	
+miyu miyu	5src	
+montagnier	4gnm	
+montevago	3m11	
+montgon	2vt3	
+naypyitaw	19w9	
+new yorks knicks	26r	
+new yorks lower east side	1l4y	
+new yorks modern art museum	9gz	
+niva	3w2r	
+niva prostejov district	3w2r	
+niva slavyansk na kubani	264e	
+niva vinnitsia	cfb	
+nonstate school	aip	
+oatdotm	642w	
+ongenda	5mpt	
+owain		1msj:2,2dec:2,3tlk:2,3ut1:3,40h6:3
+owain fon		3ut1:3
+owain fon williams	3ut1	
+owain glendower	2dec	
+owain glyn dwr	2dec	
+owain glyndwr	2dec	
+owain glyndwr day	2dec	
+owain gwynedd	1msj	
+owain gwynedd ap gruffydd	1msj	
+owain i of gwynedd	1msj	
+owain i of wales	1msj	
+owain iv of wales	2dec	
+owain sebastian yeoman	3tlk	
+owain tudor jones	40h6	
+owain tudur		40h6:3
+owain tudur jones	40h6	
+owain tudur jones old version	40h6	
+owain yeoman	3tlk	
+parvathamma		z5j:2
+parvathamma rajkumar	z5j	
+pawonkow commune	2clz	
+pereille	422q	
+persecuted	wtn	
+pipecock jackson	x3a	
+pipecock jakxon	x3a	
+plotinus	2oyh	
+povoletto	3qa9	
+presburg	16i	
+princess patricia	3iib	3iib:4
+princess patricia of		3iib:4
+princess patricia of connaught	3iib	
+proramming	qg2	
+pulcheriopolis	gft	
+pussycat album	1i1h	
+pussycat dolls	tdj	tdj:3
+pussycat dolls burlesque troupe	tdj	
+pussycat dolls singles2	tdj	
+pussycat juliana hatfield album	1i1h	
+pussycat missy elliott song	5wjb	
+quadratic plane curve	3g1t	
+robert moog	2sv4	
+rogers	e7z,1p53	10x3:2,2tlc:2
+rogers ar	1p53	
+rogers arkansas	1p53	
+rogers cable communications inc	2tlc	
+rogers carl	559s	
+rogers college of law	18kq	
+rogers com	2tlc	
+rogers communication	2tlc	
+rogers communications	2tlc	
+rogers communications inc	2tlc	
+rogers connecticut	3m8t	
+rogers county	10x3	
+rogers county ok	10x3	
+rogers county oklahoma	10x3	
+rogers cup	mmn	
+rogers cup presented by a e	mmn	
+rogers cup tennis	mmn	
+rogers cup tennis version 2	mmn	
+rogers kola	56ke	
+rogers masters	mmn	
+rogers richard	wdu	
+rogers roy	8sf	
+rogers surname	e7z	
+rogers tim	4w0p	
+rogers toronto blue jays	1ps	
+rogers will	p0x	
+rogers william pierce	436z	
+roquel payton	124c	
+sachar college of nursing	33ly	
+salavat		647:3,6920:3
+salavat ioulaiev oufa	647	
+salavat rural		6920:3
+salavat rural district	6920	
+salavat yulaev		647:3
+salavat yulaev ufa	647	
+salavat yulayev ufa	647	
+sauerstoff	se	
+sayed		5o6b:2,64o4:2
+sayed abul ala mawdudi	2vl1	
+sayed ali khamenei	1225	
+sayed badreya	5o6b	
+sayed hadi tabatabaei	614q	
+sayed kashua	64o4	
+sayed kotb	3980	
+sayed qashua	64o4	
+sayed qotb	3980	
+sayed qutb	3980	
+sevierville	2qku	
+sevierville tennessee	2qku	
+sevierville tennessee micropolitan area	vns	
+sevierville tn	2qku	
+sevierville tn micropolitan statistical area	vns	
+sevierville tn msa	vns	
+sevierville tn sa	vns	
+sibensko kninska zupanija	4xps	
+sir tom courtenay	yxs	
+sir tom finney	4s25	
+sir tom finney stadium	16ho	
+sir tom hopkinson	56zt	
+sir tom jones	pvb	
+sir tom jones woodward obe	pvb	
+sir tom leon blundell	5azk	
+sir tom stoppard	gn0	
+sir tom woodward	pvb	
+stainslaw ulam	1ggf	
+stalino oblast	9eg	
+stevensville on	1huc	
+stopvalve	2rk7	
+tamana	5kl3	
+tamana kumamoto	5kl3	
+tarshish	dcw	
+the gare de l est	1muq	
+the horrors	3hox	
+the lower		1mxl:3,3pc5:3
+the lower 48	qyh	
+the lower depths	1mxl,3pc5	
+the lower depths 1936 film	1mxl	
+the lower depths 1957 film	3pc5	
+the lower depths kurosawa	3pc5	
+the lower elements	2kcd	
+the lower minch	1i78	
+the publishing house of the romanian academy	3zm	
+the raccoon war	2smi	
+touzim	2afl	
+trebouxiophyceae	4qam	
+turban	4jc5	
+turban shell	17e9	
+turban snail	17e9	
+ubangi		55sf:2
+ubangi river	55sf	
+uthal industrial estate	144	
+valpolicella	5mok	
+valpolicella doc	5mok	
+valpolicella ripasso	5mok	
+valpolicella wine	5mok	
+vuotso	16mm	
+waveland park of des moines iowa	2ra	
+wittenbergplatz		58y3:3
+wittenbergplatz berlin u bahn	58y3	
+wittenbergplatz metro		58y3:3
+wittenbergplatz metro station	58y3	
+wladzui valentino liberace	2kb3	
+zostera	4u1i	
+zuchwil	1wrh	
+zuchwil so	1wrh	
+zuchwil solothurn	1wrh	
+zuchwil switzerland	1wrh	

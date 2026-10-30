@@ -1,0 +1,144 @@
+{
+ "format": "shannon-pack/1",
+ "id": "movies",
+ "title": "Movies (MetaQA / WikiMovies)",
+ "description": "Films with their directors, writers, actors, years, languages, genres, tags, IMDb votes and ratings.",
+ "license": "CC BY 3.0",
+ "attribution": "MetaQA (Zhang et al., 2018, 'Variational Reasoning for Question Answering with Knowledge Graph'), built on the WikiMovies knowledge base (Miller et al., 2016). CC BY 3.0; see LICENSE.txt.",
+ "relations": [
+  {
+   "id": "directed_by",
+   "label": "directed by",
+   "inverse_label": "director of"
+  },
+  {
+   "id": "written_by",
+   "label": "written by",
+   "inverse_label": "writer of"
+  },
+  {
+   "id": "starred_actors",
+   "label": "starring",
+   "inverse_label": "acted in"
+  },
+  {
+   "id": "release_year",
+   "label": "released in",
+   "inverse_label": "year of"
+  },
+  {
+   "id": "in_language",
+   "label": "in language",
+   "inverse_label": "language of"
+  },
+  {
+   "id": "has_tags",
+   "label": "tagged",
+   "inverse_label": "tag of"
+  },
+  {
+   "id": "has_genre",
+   "label": "genre",
+   "inverse_label": "genre of"
+  },
+  {
+   "id": "has_imdb_votes",
+   "label": "IMDb votes",
+   "inverse_label": "votes of"
+  },
+  {
+   "id": "has_imdb_rating",
+   "label": "IMDb rating",
+   "inverse_label": "rating of"
+  }
+ ],
+ "inverse_suffix": "^-1",
+ "counts": {
+  "entities": 43234,
+  "triples": 133582
+ },
+ "files": {
+  "entities": {
+   "path": "entities.txt",
+   "bytes": 628891,
+   "sha256": "91577dbfc93cadd7e4208f7e38cdf68b103d5e87373e73be3a970c577fbe097b"
+  },
+  "graph": {
+   "path": "graph.bin",
+   "bytes": 1202238,
+   "layout": "u32le head[T] | u32le tail[T] | u8 rel[T]",
+   "sha256": "ad0060abe326c57db28345f60d2abe815ca0f4b225352adbf17c035adbe14bc9"
+  },
+  "weights": {
+   "path": "weights.bin",
+   "bytes": 69196,
+   "dtype": "f32le",
+   "layout": {
+    "mu": {
+     "offset": 0,
+     "shape": [
+      384
+     ]
+    },
+    "sd": {
+     "offset": 384,
+     "shape": [
+      384
+     ]
+    },
+    "W": {
+     "offset": 768,
+     "shape": [
+      19,
+      384
+     ]
+    },
+    "b": {
+     "offset": 8064,
+     "shape": [
+      19
+     ]
+    },
+    "Le": {
+     "offset": 8083,
+     "shape": [
+      18,
+      16,
+      16
+     ]
+    },
+    "Me": {
+     "offset": 12691,
+     "shape": [
+      18,
+      16,
+      16
+     ]
+    }
+   },
+   "sha256": "a9239c5dc0fc917052b867e271ff6d5dd633479194bd219af98a5932eaada9aa"
+  }
+ },
+ "linker": {
+  "type": "longest-name-v1",
+  "weak_relations": [
+   "has_tags"
+  ],
+  "note": "names from the pack's own entity list; an entity whose every edge is a weak relation is used only when nothing else matches"
+ },
+ "scorer": {
+  "type": "operator-path-v1",
+  "encoder": "all-MiniLM-L6-v2",
+  "tok_dim": 384,
+  "max_tokens": 32,
+  "mask_token": "NE",
+  "dim": 16,
+  "max_hops": 3,
+  "top_k_walk": 20,
+  "no_revisit": true,
+  "tau": 30.21971321105957,
+  "tagger_classes": 19,
+  "source": "KG3b R2 (= KG10B C0 = KG3c ctl), seed 0, MetaQA 1+2-hop train",
+  "params_trained": 9620
+ }
+}

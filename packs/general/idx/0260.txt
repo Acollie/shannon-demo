@@ -1,0 +1,576 @@
+197071		15sn:4,1sqd:4,20e9:3,5dzx:2
+197071 bundesliga	20e9	
+197071 cypriot		15sn:4,1sqd:4
+197071 cypriot cup	zuh	
+197071 cypriot first		15sn:4
+197071 cypriot first division	15sn	
+197071 cypriot second		1sqd:4
+197071 cypriot second division	1sqd	
+197071 cypriot third division	1jeq	
+197071 ekstraklasa	5dzx	
+197071 fuball		20e9:3
+197071 fuball bundesliga	20e9	
+197071 fussball bundesliga	20e9	
+535 bce	2l89	
+aclant	2uz8	
+annoeullin	21mx	
+appliance	evx	
+ardea	1z7w	
+ardea italy	1z7w	
+ardea lazio	1z7w	
+ardea rm	1z7w	
+arrowwerse	4k1k	
+basrah	8er	
+basrah governorate	3z13	
+batistuta	2rvg	
+beachvolleyball	2ec	
+benlloch	2ws5	
+bergun		47xb:2
+bergun bravuogn	47xb	
+bergun bravuogn gr	47xb	
+bergun bravuogn graubunden	47xb	
+bergun bravuogn switzerland	47xb	
+bergun gr	47xb	
+bergun graubunden	47xb	
+bergun grisons	47xb	
+bergun switzerland	47xb	
+biennale07	6g85	
+bmt 1	1fim	
+bmt 11	16x9	
+bmt 14	1sxg	
+bmt 14th street canarsie line	3075	
+bmt 14th street line	3075	
+bmt 15	1sxg	
+bmt 16	2f6y	
+bmt 2	y4l	
+bmt 4	xba	
+bmt 60th street line	4pcc	
+bmt brightion line	38ks	
+bmt brighton		38ks:3
+bmt brighton beach line	38ks	
+bmt brighton line	38ks	
+bmt broadway		4pcc:3
+bmt broadway brooklyn line	1gwu	
+bmt broadway line	4pcc	
+bmt canarsie		3075:3
+bmt canarsie line	3075	
+bmt culver line	3qoa	
+bmt fifth avenue line	61jv	
+bmt forth avenue line	4qhc	
+bmt fourth		4qhc:4
+bmt fourth avenue		4qhc:4
+bmt fourth avenue line	4qhc	
+bmt fulton street line	2rl6	
+bmt jamaica		1gwu:3
+bmt jamaica line	1gwu	
+bmt liberty avenue line	2ud4	
+bmt manhattan bridge line	4pcc	
+bmt myrtle		4ife:4
+bmt myrtle avenue		4ife:4
+bmt myrtle avenue line	4ife	
+bmt third avenue elevated	61jv	
+bmt third avenue line	61jv	
+bronchopneumonia	m2	
+calendars of 2012	92x	
+carril jonathan	46o4	
+comoro islands	5wnd	
+cornago	4539	
+david cameron	pl1	
+david cameron comments	pl1	
+david cameron mp	pl1	
+depressaria	9ab	
+dfc compex	6cik	
+dfc prag	3kqz	
+dfc prague	3kqz	
+dfc praha	3kqz	
+dfc uk	1vv	
+dfc us	18l	
+doge		917:3,2per:3
+doge di venezia	917	
+doge of		917:3
+doge of venice	917	
+doge palace	2per	
+doge s		2per:3
+doge s palace	2per	
+doge s palace venice	2per	
+drahenice	4cbd	
+eored	3hhs	
+ezekiel		52hj:4,52wr:2
+ezekiel 25 17	ak4	
+ezekiel freiherr		52hj:4
+ezekiel freiherr von		52hj:4
+ezekiel freiherr von spanheim	52hj	
+ezekiel hopkins	52wr	
+ezekiel moss	cuo	
+ezekiel spanheim	52hj	
+ezekiel w dimond library	6wx	
+faithhill	lft	
+fc hollviken	5y5f	
+fikrat amirov	4ikg	
+fmp free		5vlt:4
+fmp free music		5vlt:4
+fmp free music production	5vlt	
+fmp records	5vlt	
+fmp zeleznik	iuj	
+fmp zeleznik belgrade	iuj	
+gafuriiskiy	4olq	
+gafuriiskiy district	4olq	
+gafuriiskiy raion	4olq	
+gerusalemme		3gy5:2
+gerusalemme liberata	3gy5,3smy	
+gerusalemme liberata film	3gy5	
+gerusalemme liberate	3smy	
+glover brian	2b6r	
+glover class frigate	3ms7	
+gmina jadow	1d0h	
+gravesand	630h	
+groebenzell	5bem	
+gvsu	sn6	
+gvsu edu	sn6	
+hamsalekha	c00	
+heinkels	rxs	
+hend		5iwe:2,5yz2:4
+hend khaleh		5yz2:4
+hend khaleh rural		5yz2:4
+hend khaleh rural district	5yz2	
+hend sabri	5iwe	
+hend sabry	5iwe	
+henry rowbotham	5znx	
+higasti ku sapporo	5rpp	
+hjk helsingfors	513	
+hjk helsinki	513	
+hjk helsinki women	1340	
+hmophilia	24if	
+horizont turnovo	2r7e	
+itablet	13en	
+khmelnitsky	bvz	
+khmelnitsky hmilnyk	bvz	
+khmelnitsky oblast	io7	
+khmelnitsky uprising	5fsr	
+kilmeny poem	5ifw	
+kour la petite	1snp	
+kruk	57gv	
+kruk and kuip	1bc	
+kyil khor	6a8i	
+la brigue	1etd	
+la vendedora		3qpf:4
+la vendedora de		3qpf:4
+la vendedora de fantasias	3qpf	
+lance	3lg9	c3x:2,v5v:2,152x:2,1ttu:2,2w30:2,3icp:2,3r8r:2,4a07:2,4p1r:2,4u39:2,552o:2,59v6:2,5ejn:2,5pnx:2,5wke:3,63xy:2,65je:2,6cty:2,6fim:2
+lance abbott	22y9	
+lance acord	4u39	
+lance amstrong	152x	
+lance armstrong	152x	
+lance armstrong 2	152x	
+lance armstrong comments	152x	
+lance armstrong proposal	152x	
+lance bangs	5ejn	
+lance bass	4a07	
+lance bass controversies	4a07	
+lance bean	12qi	
+lance black	17cn	
+lance black dustin	17cn	
+lance carr	63xy	
+lance comfort	v5v	
+lance constable a e pessimal	6hss	
+lance corporal	6fim	
+lance corporals	6fim	
+lance cpl	6fim	
+lance cronin	65je	
+lance dafadar	f33	
+lance davids	4p1r	
+lance duffadar	f33	
+lance duffardar	f33	
+lance edward armstrong	152x	
+lance edward gunderson	152x	
+lance fuller	3icp	
+lance gunderson	152x	
+lance hendrickson	c3x	
+lance hendriksen	c3x	
+lance hendrikson	c3x	
+lance henrickson	c3x	
+lance henriksen	c3x	
+lance henriksen comments	c3x	
+lance henrikson	c3x	
+lance james	4bdl	
+lance james henriksen	c3x	
+lance kermit	5ur7	
+lance key	3r8r	
+lance kirby	kv3	
+lance kramer	2w30	
+lance l		5wke:3
+lance l smith	5wke	
+lance l smith comments	5wke	
+lance legault	5pnx	
+lance mackey	552o	
+lance morril	1bny	
+lance olsen	59v6	
+lance parkin	6cty	
+lance reddick	1ttu	
+lance smith	5wke	
+lance weller	3jzf	
+leucos films	pal	
+liberalerna	a7f	
+linguistic contamination	4dse	
+linguistic continuum	2cwv	
+linguistic corpus	5r8z	
+linguistic diversity	1d1	
+linguistic fallacy	onx	
+linguistic families	1c6	
+linguistic family	1c6	
+linguistic flag	1sb	
+linguistic group	1c6	
+linguistic groups	1c6	
+linguistic history of china	x3	
+linguistic isolate	8ql	
+linguistic isolates	8ql	
+linguistic layers	3ln	
+linguistic norm	4oyb	
+linguistic phylum	1c6	
+linguistic science	3ln	
+linguistic skills	2jy1	
+linguistic variety	4oyb	
+malika	28za	
+malika e tarannum	w9e	
+malika e tarranum	w9e	
+malika first name	28za	
+malika given name	28za	
+malika sherawat	2iqj	
+mannerist	acu	
+mannerist architecture	acu	
+mannerist art	acu	
+mannerist painter	acu	
+mannerist period	acu	
+mannerist style	acu	
+manol es andronikos	4mva	
+martigna	385a	
+mikeoldfield	8qq	
+mikeoldfield com	8qq	
+molacillos	3o6f	
+molacillos spain	3o6f	
+molacillos zamora	3o6f	
+moonfleet	1t1o	
+moonfleet 1955 film	1t1o	
+natassa		2u4h:2
+natassa janics	4wws	
+natassa theodoridou	2u4h	
+nyilasi	5swg	
+orgon	388z	
+owensmouth california	zx6	
+partula	h67	
+partula gastropod	h67	
+partula genus	h67	
+partula snail	h67	
+paul osborn	4ztc	
+paul romanovsky ilyinsky	507u	
+pedagogic	gpw	
+phanopyrum	1jau	
+phyllomys	695a	
+piratry	5qy	
+plehedel	285a	
+polskie		vv8:3,46n0:5
+polskie gornictwo		46n0:5
+polskie gornictwo naftowe		46n0:5
+polskie gornictwo naftowe i		46n0:5
+polskie gornictwo naftowe i gazownictwo	46n0	
+polskie gornictwo naftowe i gazownictwo s a	46n0	
+polskie koleje panstwowe	6cf	
+polskie koleje panstwowe sa	6cf	
+polskie koleje panstwowe spoka akcyjna	6cf	
+polskie nagrania	vv8	vv8:3
+polskie nagrania muza	vv8	
+polskie nagrody filmowe	2v7k	
+polskie siy powietrzne	1bm4	
+polskie stronnictwo ludowe	iod	
+polskie towarzystwo historyczne	11mk	
+polskie towarzystwo naukowe na obczyznie	qjc	
+rimaucourt	3j1c	
+rob	161	
+rob atkinson	5xiz	
+rob b		67gz:3
+rob b hood	67gz	
+rob bar	4kzo	
+rob blanc	6763	
+rob bourdon	1jwi	
+rob bowman	mgn	
+rob bowman director	mgn	
+rob bowman filmmaker	mgn	
+rob brown	2v8u,422n	vhf:3
+rob brown actor	422n	
+rob brown musician	vhf	
+rob brown saxophonist	2v8u	
+rob bryden	2q7z	
+rob brydon	2q7z	
+rob burch	5sbp	
+rob burch footballer	5sbp	
+rob c pike	4a7b	
+rob cavallo	syv	
+rob cavestany	4iso	
+rob clotworthy	5gyj	
+rob cohen	wq2	
+rob corddry	s4j	
+rob cordrey	s4j	
+rob cordry	s4j	
+rob corn	5gzx	
+rob cornelius corddry	s4j	
+rob couhig	6e3s	
+rob d	5apw	
+rob daley	3hzm	
+rob davies	5xrh	
+rob davies footballer	5xrh	
+rob dawson	4te0	
+rob derbyshire	5s4x	
+rob dougan	5apw	
+rob dozier	2ky2	
+rob earnshaw	348r	
+rob echeverria	51dv	
+rob echiverria	51dv	
+rob edwards	2tme	
+rob edwards footballer born 1973	4zxv	
+rob edwards footballer born 1982	2tme	
+rob edwards scientist	1y1z	
+rob ehrlich	3mt1	
+rob elvins	6b3x	
+rob epstein	5gpx	
+rob estes	4eib	
+rob first name	161	
+rob ford	4pw6	
+rob fried	4n48	
+rob friend	2vhh	
+rob g pickett	4kyh	
+rob garza	3yzp	
+rob gates	2arw	
+rob gier	5o0e	
+rob given name	161	
+rob gommerman	zmc	
+rob grant	tm1	
+rob greenberg	6aau	
+rob gronk	40eq	
+rob gronkowski	40eq	
+rob gronowski	40eq	
+rob halford	3wv3	
+rob halford comments	3wv3	
+rob hardy	4twk	
+rob harris musician	kex	
+rob haworth	3t9q	
+rob hindmarch	61ox	
+rob holdstock	33ra	
+rob hotchkiss	sv2	
+rob houwer	1n1h	
+rob hubbard	qre	
+rob hudnut	ceb	
+rob hulse	4l7r	
+rob jachym	661i	
+rob james guitarist	3sqj	
+rob johnson	5gi3,6ben	
+rob johnson american football	5gi3	
+rob johnson baseball	6ben	
+rob johnson football player	5gi3	
+rob johnson footballer	5gi3	
+rob jones	3lht	
+rob jones footballer born 1979	3lht	
+rob kardashian	1ohf	
+rob kiernan	2vth	
+rob knepper	16e3	
+rob knighton	25pc	
+rob kozluk	5mxn	
+rob kurth	29r6	
+rob kurz	4uyk	
+rob laird drive character	4s1h	
+rob lazebnik	2d11	
+rob lee	lng,385r	
+rob lewis	6a5l	
+rob lewis entrepreneur	6a5l	
+rob lieberman	272a	
+rob lowe	ecm	
+rob maas	648x	
+rob macdonald football manager	3nhe	
+rob mallet stevens	4lrq	
+rob manfred	6hbn	
+rob manzoli	2i6l	
+rob marshall	3698	
+rob matthews	4vid	
+rob matthews footballer	4vid	
+rob mcconnell	4x2t	
+rob mcconnell the boss brass	4x2t	
+rob mcdonald	3nhe	
+rob mckillop	2bnr	
+rob mckinnon	599h	
+rob mcnaught	2t49	
+rob milsom	5hea	
+rob minkoff	2i2i	
+rob morrow	vru	
+rob muchamore	21gy	
+rob muldoon	5483	
+rob musician	4s7w	
+rob newman	5ppb	
+rob newman footballer	5ppb	
+rob nilsson	5ugl	
+rob oliver	55b6	
+rob page	56fg	
+rob pardo	6gkt	
+rob paris	59uc	
+rob pattinson	qeq	
+rob pattz	qeq	
+rob paulsen	nl2	
+rob paulson	nl2	
+rob pike	4a7b	
+rob plant	mff	
+rob purdie	68cx	
+rob quinn	4qst	
+rob ramage	34s7	
+rob ramos	5y12	
+rob reekers	5lel	
+rob reiner	hj9	
+rob reiner filmography	hj9	
+rob rensenbrink	3dak	
+rob renzetti	5qme	
+rob riggle	159r	
+rob rosenbaum	4bej	
+rob roy	19yz	16c7:5
+rob roy 1995 film	19yz	
+rob roy the		16c7:5
+rob roy the highland		16c7:5
+rob roy the highland rogue	16c7	
+rob rubin	44zv	
+rob ruijgh	56i4	
+rob ryerson	60eo	
+rob s bowman	mgn	
+rob s mob	5483	
+rob s party mix	18nu	
+rob sawyer	1jta	
+rob schiller	6add	
+rob schmidt	53ew	
+rob schneider	mb2	
+rob schnider	mb2	
+rob schnieder	mb2	
+rob schrab	4gic	
+rob scott	4gva	
+rob simmons	6ag7	
+rob simonsen	1z5x	
+rob sitch	3bsn	
+rob smigel	22cr	
+rob snodgrass	4u92	
+rob stanton bowman	mgn	
+rob stark	5wxq	
+rob stewart	5j9e	
+rob stewart actor	5j9e	
+rob swift	4kco	
+rob swire	1hbg	
+rob swire comments	1hbg	
+rob tapert	11dc	
+rob the bank	22kv	
+rob thomas	12dp,25zi	
+rob thomas musician	12dp	
+rob thomas writer	25zi	
+rob thomes	12dp	
+rob trujillo	4s8g	
+rob van winkle	1b7v	
+rob wainwright	3urj	
+rob wainwright rugby union	3urj	
+rob walton	3riu	
+rob webb	507w	
+rob witschge	3yal	
+rob wolleaston	56zx	
+rob wynia	5hg6	
+rob zabica	68of	
+rob zombie	g7m	
+rob zombie s h2	192e	
+rob zombie s halloween	128m	
+rob zombie s halloween ii	192e	
+robert le		18ib:3,22a4:3
+robert le bossu	2f25	
+robert le danois	22a4	
+robert le fort	5g76	
+robert le vigan	18ib	
+rudkobing	57a7	
+shaunae		433s:2
+shaunae miller	433s	
+shaunae miller uibo	433s	
+staphlococcus	ssq	
+supno commune	1so8	
+sutti	6193	
+sutti velu	6193	
+sybyl	6bym	
+synadenium	3rq	
+syphilis	wh1	
+syphilis complicating pregnancy childbirth or the puerperium	38ck	
+syphilis disease	wh1	
+syphilis testing	wh1	
+tauromenion	10x7	
+tfs 2016	e4v	
+tfs 2017	dcq	
+the protagonist		5sdk:4
+the protagonist saints		5sdk:4
+the protagonist saints row	5sdk	
+the situation room	4hjj	
+the situation room photograph	4hjj	
+the veronicas	ylp	
+thinning vine	s4o	
+thinning wine	s4o	
+tiere als baumeister	25p3	
+tobeisto matt pelissier	u5l	
+trichoscapa	54zt	
+tyoosi	1ueq	
+tyoosi tiba	1ueq	
+usmate		3mvf:2
+usmate velate	3mvf	
+valcarlos	3jjo	
+voyna i mir	28hn	
+wally	3lq,4lsb	16ct:2,1l1n:2,27ce:2,2f1h:2,2um4:2,38tq:2,3n8k:2,4eqf:3,4s0p:2,53p1:2,54d6:2,5934:2,5sq9:2,5v29:2,5we5:2,63sh:2
+wally akers	5sq9	
+wally albright	3n8k	
+wally barron	5kl4	
+wally bellett	53p1	
+wally broecker	24cc	
+wally cassell	2um4	
+wally champ	p8l	
+wally clark	63sh	
+wally clark english footballer	63sh	
+wally cox	27ce	
+wally de backer	21xw	
+wally debacker	21xw	
+wally film	lf2	
+wally first name	3lq	
+wally ford	evk	
+wally gardner	40hh	
+wally gilbert	1ejg	
+wally given name	3lq	
+wally gould	5we5	
+wally halsall	5v29	
+wally hinshelwood	5934	
+wally o		4eqf:3
+wally o connor	4eqf	
+wally of the vultures	48vd	
+wally patch	2f1h	
+wally pfister	1l1n	
+wally reid	ev7	
+wally scherra	16ct	
+wally schirra	16ct	
+wally schirra jr	16ct	
+wally shawn	d3h	
+wally shirra	16ct	
+wally sparks	omk	
+wally stott	336y	
+wally wales	1yai	
+wally walker	4s0p	
+wally ward	1tra	
+wally west	54d6	
+wally west comments	54d6	
+wally west flash	54d6	
+wally west i	54d6	
+wally wolodarsky	2ir0	
+wally wood	38tq	
+wally world	1020	
+waltrip brian	501k	
+webcaps	8p4	
+william burress	5vho	
+winterset	19i9,2363	
+winterset film	19i9	
+winterset ia	2363	
+winterset iowa	2363	
+yozhef		49tp:2,4jz3:2
+yozhef betsa	4jz3	
+yozhef sabo	49tp	
+yozhef szabo	49tp	
+zitarrosa	5j78	

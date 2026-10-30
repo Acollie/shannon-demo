@@ -1,0 +1,568 @@
+88th		6gz8:3
+88th academy		6gz8:3
+88th academy awards	6gz8	
+88th oscars	6gz8	
+88th parallel south	3j	
+adud		48ln:3
+adud ad dawla	48ln	
+adud ad dawlah	48ln	
+adud al		48ln:3
+adud al daula	48ln	
+adud al dawla	48ln	
+adud o dowleh	48ln	
+agnosia	33a4	
+ahudasht		12e1:3
+ahudasht rural		12e1:3
+ahudasht rural district	12e1	
+ahyos	6gq1	
+alexander hartdegen	1iou	
+alphonce mucha	25qe	
+alupka	4dy1	
+ancalidia	14ir	
+anomoclausiidae	6f7k	
+aratos of soloi	4aik	
+arch	1jst,4u36	310:2,8c8:2,1ln7:3,1qt7:2,3zim:2,4kpb:3,4u36:2,5obv:3
+arch a		4kpb:3
+arch a moore	4kpb	
+arch a moore jr	4kpb	
+arch a moore junior	4kpb	
+arch abbot	yv	
+arch alfred moore	4kpb	
+arch alfred moore jr	4kpb	
+arch bishop	e2	
+arch bridge	310	
+arch bridges	310	
+arch build system	4u36	
+arch city	mc	
+arch concrete dam	8c8	
+arch dam	8c8	
+arch de triumph	5adr	
+arch deacon	9dz	
+arch diocese	506	
+arch duke	271j	
+arch duke ferdinand	w3s	
+arch enemey	1qt7	
+arch enemy	1qt7	
+arch enemy band	1qt7	
+arch enemy band comments	1qt7	
+arch enemy comments	1qt7	
+arch enemy death metal band	1qt7	
+arch hall		5obv:3
+arch hall sr	5obv	
+arch harp	3qp	
+arch linux	4u36	
+arch marshal	6hw	
+arch moore jr	4kpb	
+arch nemesis	6f2o	
+arch oboler	3zim	
+arch of	ais	1ln7:3
+arch of triumph	1ln7	
+arch of triumph 1948 film	1ln7	
+arch operating system	4u36	
+arch rock corporation	87r	
+arch st louis	6g7u	
+arch structure	1jst	
+arch user repository	4u36	
+aronian	3bx8	
+attelboro	w9g	
+australia	j,152l,3nfn	1tx:5,3qs:8,59h:6,7v8:7,bkn:5,dcd:7,vvu:4,wva:9,yro:2,1tyc:4,4dio:4,4ppq:12,66c1:9,6f5f:6
+australia 1989 film	3nfn	
+australia 2008 film	152l	
+australia and oceania	6hny	
+australia and the southern ocean	981	
+australia billie		6f5f:6
+australia billie jean		6f5f:6
+australia billie jean king		6f5f:6
+australia billie jean king cup		6f5f:6
+australia billie jean king cup team	6f5f	
+australia captives held in guantanamo	1by1	
+australia constitutional monarchy	j	
+australia country	j	
+australia cricket team	4dio	
+australia darwin	9m9	
+australia davis		vvu:4
+australia davis cup		vvu:4
+australia davis cup team	vvu	
+australia day honours	r1r	
+australia design of the flag	4n5u	
+australia fed cup team	6f5f	
+australia film	152l	
+australia flag	4n5u	
+australia governor general	152u	
+australia greens	ys3	
+australia group	yro	
+australia kangaroos	bkn	
+australia landmass	ty1	
+australia men		3qs:8
+australia men s		3qs:8
+australia men s national		3qs:8
+australia men s national rugby league team	bkn	
+australia men s national rugby union team	1tx	
+australia men s national under		3qs:8
+australia men s national under 20		3qs:8
+australia men s national under 20 soccer		3qs:8
+australia men s national under 20 soccer team	3qs	
+australia military	4dj9	
+australia monarchy	j	
+australia movie	152l	
+australia nation state	j	
+australia national		1tx:5,59h:6,7v8:7,bkn:5,1tyc:4,4dio:4
+australia national badminton		1tyc:4
+australia national badminton team	1tyc	
+australia national cricket		4dio:4
+australia national cricket team	4dio	
+australia national library	4j2w	
+australia national olympic association football team	59h	
+australia national rugby		1tx:5,bkn:5
+australia national rugby league		bkn:5
+australia national rugby league team	bkn	
+australia national rugby union		1tx:5
+australia national rugby union side	1tx	
+australia national rugby union team	1tx	
+australia national under		59h:6,7v8:7
+australia national under 17		7v8:7
+australia national under 17 association		7v8:7
+australia national under 17 association football		7v8:7
+australia national under 17 association football team	7v8	
+australia national under 17 football team	7v8	
+australia national under 17 soccer team	7v8	
+australia national under 20 association football team	3qs	
+australia national under 20 football team	3qs	
+australia national under 20 soccer team	3qs	
+australia national under 23		59h:6
+australia national under 23 association football team	59h	
+australia national under 23 football team	59h	
+australia national under 23 soccer		59h:6
+australia national under 23 soccer team	59h	
+australia national women s football team	dcd	
+australia new guinea	ty1	
+australia olympic football team	59h	
+australia perth	13r	
+australia plate	ty1	
+australia pm	f2x	
+australia pub rock	26k1	
+australia rl	bkn	
+australia rugby league team	bkn	
+australia rugby union team	1tx	
+australia rugby union tours	1tx	
+australia rules football	ta	
+australia s foreign affairs minister	vqb	
+australia s largest sundial	2xhl	
+australia s minister for education	62l2	
+australia s nbl	huj	
+australia s prime minister	f2x	
+australia s state of victoria	7r	
+australia state	j	
+australia swinburne	pey	
+australia victoria	7r	
+australia women		dcd:7,wva:9,4ppq:12,66c1:9
+australia women s		dcd:7,wva:9,4ppq:12,66c1:9
+australia women s football soccer team	dcd	
+australia women s national		dcd:7,wva:9,4ppq:12,66c1:9
+australia women s national association		dcd:7
+australia women s national association football		dcd:7
+australia women s national association football team	dcd	
+australia women s national football soccer team	dcd	
+australia women s national football soccer team comments	dcd	
+australia women s national football team	dcd	
+australia women s national soccer team	dcd	
+australia women s national soccer team comments	dcd	
+australia women s national under		wva:9,66c1:9
+australia women s national under 17		66c1:9
+australia women s national under 17 association		66c1:9
+australia women s national under 17 association football		66c1:9
+australia women s national under 17 association football team	66c1	
+australia women s national under 17 football team	66c1	
+australia women s national under 17 soccer team	66c1	
+australia women s national under 19 soccer team	wva	
+australia women s national under 20		wva:9
+australia women s national under 20 association		wva:9
+australia women s national under 20 association football		wva:9
+australia women s national under 20 association football team	wva	
+australia women s national under 20 football team	wva	
+australia women s national under 20 soccer team	wva	
+australia women s national wheelchair		4ppq:12
+australia women s national wheelchair basketball		4ppq:12
+australia women s national wheelchair basketball team		4ppq:12
+australia women s national wheelchair basketball team at		4ppq:12
+australia women s national wheelchair basketball team at the		4ppq:12
+australia women s national wheelchair basketball team at the 2012		4ppq:12
+australia women s national wheelchair basketball team at the 2012 summer		4ppq:12
+australia women s national wheelchair basketball team at the 2012 summer paralympics	4ppq	
+australia women s soccer team	dcd	
+burghas	6an	
+burzyanski	4c9r	
+burzyanski district	4c9r	
+burzyanski raion	4c9r	
+cadd brian	344f	
+caiseal mumhan	2kdm	
+caramanico		1u27:2
+caramanico terme	1u27	
+castledown primary school	5pe	
+chapaev	4053,52je	
+chapaev film	4053	
+cnnwh	er3	
+concachampions	mhb	
+cuckoo		2c4j:2,4fz0:3
+cuckoo cavaliers	5kzo	
+cuckoo class		4fz0:3
+cuckoo class schooner	4fz0	
+cuckoo s calling	6grx	6grx:4
+cuckoo s nest film	k9u	
+cushions	3aop	
+daturas	6de1	
+david gates	1ktn	
+david gates singer	1ktn	
+david keilin	4nt7	
+demographer	3pz	
+diciottenni al sole	3zob	
+dignano	4e9c	
+dlaw	5hy	
+dreamwork animation	f8p	
+eciteles	8jt	
+emesinal	29vb	
+eppeville	30tm	
+erez		5gdh:2
+erez ben tulila	5gdh	
+erez tal	5gdh	
+fc mgu saransk	2h6g	
+fight	q10	13d4:2,4tn5:2,5uwf:2,5yph:4,6h36:4,6h6t:2
+fight between love and chastity	2wi4	
+fight club	13d4,5uwf	5yph:4
+fight club 1999 film	13d4	
+fight club book	5uwf	
+fight club film	13d4	
+fight club hindi film	5yph	
+fight club members		5yph:4
+fight club members only	5yph	
+fight club movie	13d4	
+fight club musical	5yph	
+fight club novel	5uwf	
+fight club rules	5uwf	
+fight club soundtrack	13d4	
+fight for freedom	6b7e	6b7e:4
+fight for my soul	4sng	
+fight for the matterhorn	3vmn	
+fight history of bruce lee	ehv	
+fight night	6h6t	
+fight night ea video game series	6h6t	
+fight night video game series	6h6t	
+fight north texas	4if	
+fight of		6h36:4
+fight of the		6h36:4
+fight of the century	6h36	
+fight or die	2sa0	
+fight or die film	2sa0	
+fight or flight ent	1sw7	
+fight or flight song	122t	
+fight the fury	5c9f	
+fight the future	rtd	
+fight to be free	50w8	
+fight vols fight	6h1g	
+flatten moselle	3omp	
+flirtation		1r93:2
+flirtation walk	1r93	
+gabarret	3u2g	
+geneva	vb,koa,uoy	1ib4:2,254o:4,478o:3,5swp:3
+geneva airport	478o	
+geneva canton	4cv	
+geneva ch ge	vb	
+geneva city new york	koa	
+geneva co al	1ib4	
+geneva co alabama	1ib4	
+geneva cointrin	478o	
+geneva cointrin international airport	478o	
+geneva competition	254o	
+geneva contrin international airport	478o	
+geneva county	1ib4	
+geneva county al	1ib4	
+geneva county alabama	1ib4	
+geneva geneva	vb	
+geneva grace stratton	3n1n	
+geneva grace stratton porter	3n1n	
+geneva graduate		5swp:3
+geneva graduate institute	5swp	
+geneva il	uoy	
+geneva illinois	uoy	
+geneva international		254o:4,478o:3
+geneva international airport	478o	
+geneva international music		254o:4
+geneva international music competition	254o	
+geneva lake	1i6k	
+geneva new york	koa	
+geneva ny	koa	
+geneva pope clement vii	50qc	
+geneva servette	b7k	
+geneva state university	42l	
+geneva statement on ukraine	645m	
+geneva switzerland	vb	
+geneva theological college	42l	
+geneva university	42l	
+geneva wine region	4cv	
+george goodwin dewey	3sxb	
+george kastriotis	2e96	
+george nelson	46ae	
+george nelson astronaut	46ae	
+george nicholas mclean	6dxz	
+george nicholas papanicolaou	5802	
+gmina bialosliwie	334u	
+groundwater	6brd	
+groundwater modeling system	5spv	
+guitry	469b	
+hayato		5pbe:2
+hayato juumonji	2vo5	
+hayato matsuo	5pbe	
+hayato matuo	5pbe	
+higashitabata	wgv	
+hilda	6ez	1fkj:2,47kw:2,4hve:2,4nff:2,57ei:6,59zj:2,5rfc:2,5upq:2
+hilda beemer	5upq	
+hilda beemer kuper	5upq	
+hilda bernard	4nff	
+hilda borgstroem	47kw	
+hilda borgstrom	47kw	
+hilda c heine	5rfc	
+hilda cathy heine	5rfc	
+hilda doolittle	4e3r	
+hilda doolittle h d	4e3r	
+hilda doris buck	53go	
+hilda first name	6ez	
+hilda given name	6ez	
+hilda gobbi	1fkj	
+hilda heine	5rfc	
+hilda isabel gorrindo sarli	1kd8	
+hilda kuper	5upq	
+hilda name	6ez	
+hilda rey	4hve	
+hilda runciman	57ei	57ei:6
+hilda runciman viscountess		57ei:6
+hilda runciman viscountess runciman		57ei:6
+hilda runciman viscountess runciman of		57ei:6
+hilda runciman viscountess runciman of doxford	57ei	
+hilda sarah bernard	4nff	
+hilda vaughn	59zj	
+hirtenlied	8ov	
+history matters	11w3	
+history matters an undergraduate journal of historical research	11w3	
+holesov	12pf	
+iatsu	23lg	
+ilawski	1m2w	
+instanbul 2012	q9s	
+is75 31r075 frank d paulo	2ya	
+istarska zupanija	21di	
+jabloko	q1v	
+jelgava	80u	r9g:2
+jelgava latvia	80u	
+jelgava municipality	r9g	
+john heisman	2b8r	
+john heisman comments	2b8r	
+john watts young	12bb	
+john wesley	19ih	2qe4:3,2yyy:3,5e7z:3
+john wesley harding	2yyy	
+john wesley harding album	2yyy	
+john wesley powell	2qe4	
+john wesley ship	5e7z	
+john wesley shipp	5e7z	
+julios caesar lopez	1kn0	
+kaaldolmar	lme	
+kobali alien race	2muf	
+kolaje	4ffe	
+la propuesta	30nu	
+lagaan	1l3t	
+lagaan once upon a time in india	1l3t	
+lagaan once upon a time in india 2001 film	1l3t	
+larynx cancer	n0t	
+louis khan	1rdn	
+manakins	6ag9	
+mapplewells primary and nursery school	prt	
+marchand desclaves	2261	
+mawski	18e1	
+mcchord	2bmy	2bmy:2
+mcchord afb	2bmy	
+mcchord afb wa	2bmy	
+mcchord afb washington	2bmy	
+mcchord air force base	2bmy	
+mcchord air force base washington	2bmy	
+mcchord air museum	2bmy	
+mcchord airforce base	2bmy	
+mcchord army airfield	2bmy	
+mcchord field	2bmy	
+medicis	ffa	
+meerssen	cgc	
+mercouri	wrt	
+metis varese	6wh	
+metrodome	3owh	
+metrodome station	4zl8	
+moisselles	2itd	
+moisselles france	2itd	
+monchen gladbach	7pd	
+mordella	26g	
+naessjoe	3sx1	
+naessjoe municipality	118y	
+nery	1po8	3h3v:2,48v4:2,49px:2
+nery alberto castillo	3h3v	
+nery alberto castillo confalonieri	3h3v	
+nery alberto pumpido	49px	
+nery bareiro	48v4	
+nery castillo	3h3v	
+nery castillo jr	3h3v	
+nery pumpido	49px	
+nery ruben bareiro zorrilla	48v4	
+new thrash	6gxt	
+ntstc	4if	
+oif	8g2	
+orzi nuovi	125s	
+oschatz	1jvi	
+oskemen	7ar	
+oskemen district	7ar	
+otscho torunarigha	5y6m	
+p5hng me a wy	45zo	
+palmdale	rzx	
+palmdale ca	rzx	
+palmdale calif	rzx	
+palmdale california	rzx	
+palmdale road	5oc5	
+pappi	699x	
+pappi film	699x	
+parrotfinch	6ep0	
+peekachu	6ghg	
+peirescius	2we6	
+plutonic rock	6eqd	
+plymco	4s16	
+plymco co op	4s16	
+polymath	1p92	
+prang besar	1af7	
+prete calabrese	5n0z	
+prete rosso	j2i	
+prince filipe	zny	
+princess kristina of norway	4zfw	
+raimondas		5b8h:2,6aim:2
+raimondas vainoras	6aim	
+raimondas zutautas	5b8h	
+rebellion	5nv,4g9u	vsv:2,4oe2:3
+rebellion a s 2005	5v0o	
+rebellion derby	nb1	
+rebellion developer	vsv	
+rebellion developments	vsv	
+rebellion games	vsv	
+rebellion group	vsv	
+rebellion in		4oe2:3
+rebellion in patagonia	4oe2	
+rebellion miniseries	4g9u	
+rebellion of 1483	1o8s	
+rebellion of 1745	fag	
+rebellion of 1798	11nv	
+rebellion of 1916	20wa	
+rebellion of david	4lk7	
+rebellion of lepidus	5a4k	
+rebellion of slaves	3f6t	
+rebellion oxford	vsv	
+rebellion publishing	vsv	
+rebellion rises	xvr	
+rebellion tv series	4g9u	
+redhorse	3j11	
+redhorse sucker	3j11	
+repel	31kw	
+richard schultz schweiker	60j1	
+robert bloch	ur0	
+robert jay		4p8e:3
+robert jay bobby roth	yhw	
+robert jay lifton	4p8e	
+robert rintje ritsma	2yj6	
+rocques	3ew9	
+rountzenheim	1htq	
+saint epain	1hql	
+saint gotthard		4xbj:3
+saint gotthard massif	4xbj	
+saint remi basilica	39a	
+saint remi cathedral	39a	
+savine ree urian	5wgo	
+sctv	44rj,4vdu	
+sctv indonesia	44rj	
+sctv network	4vdu	
+sepia	gcu	
+sepia cuttlefish	gcu	
+sepia genus	gcu	
+sepia subgenus	gcu	
+sevis	2r36	
+sevis seine maritime	2r36	
+shadowlands	2k2q	
+shadowlands 1993 film	2k2q	
+shadowlands movie	2k2q	
+shauliya	8f8	
+sir frederic bartlett	4ekk	
+sir frederic calland williams	3gxr	
+sir frederic charles bartlett	4ekk	
+sir frederic george kenyon	4was	
+sir frederic kenyon	4was	
+sir frederic truby king	5flp	
+sir frederic williams	3gxr	
+sir paul edmund de strzelecki	5mem	
+sir paul fildes	430c	
+sir paul getty	3ajr	
+sir paul hasluck	3w7c	
+sir paul m nurse	16av	
+sir paul maxime nurse	16av	
+sir paul mccartney	3qc	
+sir paul meernaa caedwalla hasluck	3w7c	
+sir paul meernaa caedwalla hasluck kg gcmg gcvo kstj	3w7c	
+sir paul nurse	16av	
+sir paul vinogradoff	41yy	
+sitopsis	6adp	
+smerinthus	6f81	
+stardust	jyh,32fi,60ur	1n79:2,1psv:2
+stardust 1974 film	32fi	
+stardust 1974 movie	32fi	
+stardust 2007 film	jyh	
+stardust award	1psv	
+stardust awards	1psv	
+stardust best actor award	1psv	
+stardust best actor in a negative role award	1psv	
+stardust best actress award	1psv	
+stardust best director award	1psv	
+stardust best film award	1psv	
+stardust book	60ur	
+stardust classics	dhp	
+stardust editor s choice for most promising director award	1psv	
+stardust exciting new face award	1psv	
+stardust hottest new film award	1psv	
+stardust hottest new filmmaker award	1psv	
+stardust memories	1n79	
+stardust novella	60ur	
+stardust style icon of the year award female	1psv	
+stardust style icon of the year award male	1psv	
+stardust the new menace award	1psv	
+stardust universe	3qst	
+starshy leytenant	86n	
+starshy sershant	7y8	
+strataeast	1gml	
+switzerdeutsch	8oq	
+taejong	48qu	48qu:3
+taejong of		48qu:3
+taejong of joseon	48qu	
+the courageous		2by4:6
+the courageous heart		2by4:6
+the courageous heart of		2by4:6
+the courageous heart of irena		2by4:6
+the courageous heart of irena sendler	2by4	
+the delfonics	5nb4	
+the divorcee	1nf2,4dto	
+the manitou	1aul	
+theat	4g0n	
+thmor koal	3g2a	
+thomas philipp grey	557m	
+thomas philipp weddell grantham	557m	
+transniestra	6uv	
+tytan armyansk	17bp	
+vandelicourt	2mc9	
+vindursar	183k	
+wachter stefan	629f	
+wakamatsu kohji	2q16	
+wakamatsu koji	2q16	
+wakamatsu kouji	2q16	
+wakamatsu kozi	2q16	
+waldecker	3i6b	
+wiazowna commune	zn3	
+william sefton fyfe	572y	
+winmo 6	13v7	
+winmo 6 1	13v7	
+zilon	4sqq	

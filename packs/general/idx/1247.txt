@@ -1,0 +1,501 @@
+2nd afghan war	urh	
+2nd aif	3xl5	
+2nd air division	1ajb	
+2nd air force usaf	qa5	
+2nd all africa games	490i	
+2nd anglo afghan war	urh	
+2nd anglo dutch war	1cg7	
+2nd arrondissement		fdk:4,rlc:4,3nxw:4
+2nd arrondissement of		fdk:4,rlc:4,3nxw:4
+2nd arrondissement of lyon	rlc	
+2nd arrondissement of marseille	3nxw	
+2nd arrondissement of paris	fdk	
+2nd australian imperial force	3xl5	
+2nd balkan war	qag	
+2nd baron aberconway	45ip	
+2nd baron baltimore	4jx8	
+2nd baron beaverbrook	4f5l	
+2nd baron grantham thomas robinson	3tke	
+2nd baron stanley of alderley	5zax	
+2nd baron strathclyde	5dpx	
+2nd baronet clerk	498a	
+2nd baronet of penicuik sir john clerk	498a	
+2nd baronet of sloane street	3oq3	
+2nd base	5bi	
+2nd baseman	5bi	
+2nd battalion queen s own rifles of canada	lex	
+2nd battle of bull run	3mkj	
+2nd battle of the marne	5bi5	
+2nd battle of ypres	2t3f	
+2nd bce	29jd	
+2nd boer war	1ck	
+2nd bombardment division	1ajb	
+2nd brigade 3rd infantry division	682i	
+2nd brigade 82nd airborne division	2o6e	
+2nd brigade combat team 101st airborne division	34l7	
+2nd brigade combat team 101st airborne division air assault	34l7	
+2nd brigade combat team 3rd infantry division united states	682i	
+2nd british infantry division	5rtd	
+2nd bt of sloane street	3oq3	
+2nd bulgarian empire	3e3j	
+2nd bundesliga football	gr7	
+2nd canadian		62og:3
+2nd canadian division	62og	
+2nd canadian rifle battalion	lex	
+2nd carthaginian war	hzf	
+2nd ce	1uc4	
+2nd century	1uc4	29jd:3
+2nd century a d	1uc4	
+2nd century ad	1uc4	
+2nd century b c	29jd	
+2nd century b c e	29jd	
+2nd century bc	29jd	
+2nd century bce	29jd	
+2nd century ce	1uc4	
+2nd chapter		3z9q:4
+2nd chapter of		3z9q:4
+2nd chapter of acts	3z9q	
+2nd chechen war	e16	
+2nd chorus	2281	
+2nd class cruiser	78r	
+2nd congo war	6hk9	
+2nd continental congres	6hc9	
+2nd continental congress	6hc9	
+2nd corinthians	429m	
+2nd crusade	ucw	
+2nd degree murder	4kdp	
+2nd division	39dk,5rtd	
+2nd division australia	39dk	
+2nd division british	5rtd	
+2nd division united kingdom	5rtd	
+2nd dragoon		19qm:3
+2nd dragoon regiment	19qm	
+2nd dragoon regiment france	19qm	
+2nd dragoon regiment nuclear biological and chemical	19qm	
+2nd duc de guise francois de lorraine guise	19wt	
+2nd duchess of fife	4uqi	
+2nd duke of abercorn	1eog	
+2nd duke of aosta	1ji1	
+2nd duke of argyll	3j6m	
+2nd duke of devonshire	51du	
+2nd duke of grafton	3w1b	
+2nd duke of wellington	2qc5	
+2nd duke of westminster	2wol	
+2nd earl grey	1820	
+2nd earl grosvenor	2i7c	
+2nd earl of arundel and surrey thomas howard	3aup	
+2nd earl of burlington	2hiy	
+2nd earl of burlington 2nd creation	2hiy	
+2nd earl of burlington of 2nd creation	2hiy	
+2nd earl of chatham	3lat	
+2nd earl of cork	4rez	
+2nd earl of essex	1mbc	
+2nd earl of essex robert devereux	1mbc	
+2nd earl of guilford	38j4	
+2nd earl of harrowby	5u2u	
+2nd earl of shelburne	3jvf	
+2nd earl of snowdon	4q36	
+2nd earl of sunderland	3f3a	
+2nd earl of westmorland	3qmd	
+2nd earl spencer	1glh	
+2nd el alamein	65rf	
+2nd february	6fry	
+2nd field regiment royal artillery	3zff	
+2nd foot guards	4uc3	
+2nd fuball bundesliga	gr7	
+2nd half	31hi	
+2nd harry potter book	1o5n	
+2nd iaaf world championships in athletics	iuf	
+2nd indochina war	u5	
+2nd infantry		5rtd:3
+2nd infantry division	5rtd	
+2nd infantry division british army	5rtd	
+2nd infantry division united kingdom	5rtd	
+2nd intercolonial war	2rsx	
+2nd italo abyssinian war	yjz	
+2nd kashmir war	l4p	
+2nd khordad movement	6eme	
+2nd law		2x1x:3
+2nd lieutenant	7tz	
+2nd lieutenent	7tz	
+2nd lt	7tz	
+2nd major	2gq	
+2nd manassas	3mkj	
+2nd marquess of breadalbane john campbell	5r2u	
+2nd marquess of salisbury	4973	
+2nd marquess of westminster	40lx	
+2nd massachusetts militia regiment	kcr	
+2nd millenium	23im	
+2nd millenium ad	23im	
+2nd millenium bc	2lgc	
+2nd millenium bce	2lgc	
+2nd millennium	23im	2lgc:3
+2nd millennium ad	23im	
+2nd millennium b c	2lgc	
+2nd millennium bc	2lgc	
+2nd millennium bce	2lgc	
+2nd millennium ce	23im	
+2nd moscow state medical university	4dv1	
+2nd moscow state university	m99	
+2nd msmi	4dv1	
+2nd nature tlc	w67	
+2nd of february	6fry	
+2nd of khordad	6eme	
+2nd of khordad movement	6eme	
+2nd parliament		3ew:6,404:5
+2nd parliament of		3ew:6,404:5
+2nd parliament of great		404:5
+2nd parliament of great britain	404	
+2nd parliament of king		3ew:6
+2nd parliament of king charles		3ew:6
+2nd parliament of king charles i	3ew	
+2nd persian gulf war	17kv	
+2nd person singular pronoun	69uf	
+2nd president of the czech republic	191y	
+2nd president of the united states	hac	
+2nd prince chun	1ur2	
+2nd princess chun	5cas	
+2nd punic war	hzf	
+2nd rate	1k3s	
+2nd regiment of foot guards	4uc3	
+2nd reich	st	
+2nd riga forest cemetery	dxn	
+2nd seminole war	5unm	
+2nd spanish republic	1tas	
+2nd stage of the tour de france 2005	3rqh	
+2nd vice president of the united states	9j4	
+2nd viennese school	3lfo	
+2nd viscount melbourne	2cqw	
+2nd viscount townshend	1lwc	
+2nd winter olympic games	3e7	
+2nd world war	1m	
+9x18mm makarov	267w	
+9x18mm wp	267w	
+abdyl		51nj:2
+abdyl bey frasheri	51nj	
+abdyl frasheri	51nj	
+acanthaceae	hpf	
+agnicourt		3gkk:3
+agnicourt et		3gkk:3
+agnicourt et sechelles	3gkk	
+akela and the bee	2kak	
+alexander bugera	5nz9	
+anarjavri	2giz	
+anergates	41xl	
+ankylosauridae	2063	
+apremont	1u4x,27f6,2dzj,2hz2,3l0l,42t0	1adw:3,2b1z:3
+apremont ain	1u4x	
+apremont ardennes	3l0l	
+apremont haute saone	2dzj	
+apremont la		1adw:3
+apremont la foret	1adw	
+apremont oise	27f6	
+apremont savoie	2hz2	
+apremont sur		2b1z:3
+apremont sur allier	2b1z	
+apremont vendee	42t0	
+arachnidae	3t32	
+arkprijs		tgk:5
+arkprijs van		tgk:5
+arkprijs van het		tgk:5
+arkprijs van het vrije		tgk:5
+arkprijs van het vrije woord	tgk	
+ashbery john	qnj	
+aywan kiyakhurra	546s	
+badhrinaadh	5yzl	
+benadalid	4bx2	
+benadalid malaga	4bx2	
+benadalid spain	4bx2	
+binnu		4yis:2
+binnu dhillon	4yis	
+braun	3ugd	
+braun alexander	2ugb	
+braun nicholas	3t72	
+braun surname	3ugd	
+bunny	1by6,35xc,6c1y	qpe:4,4z8u:2,50wj:4
+bunny 2005 film	6c1y	
+bunny and		50wj:4
+bunny and the		50wj:4
+bunny and the bull	50wj	
+bunny animal	35xc	
+bunny boiler	1453	
+bunny boiling	1453	
+bunny drop film	5k4f	
+bunny garnett	46wo	
+bunny koshland	5y58	
+bunny lake		qpe:4
+bunny lake is		qpe:4
+bunny lake is missing	qpe	
+bunny livingston	4z8u	
+bunny livingstone	4z8u	
+bunny logo	32r1	
+bunny matthew dear album	3voe	
+bunny o riley	4z8u	
+bunny park	xc7,4841	
+bunny rabbit	35xc	
+bunny rabbits	35xc	
+bunny sailor moon	58ob	
+bunny slope	1xd	
+bunny the bull	50wj	
+bunny tsukino	58ob	
+bunny wailer	4z8u	
+bunny watson character	32lc	
+bunny wigglesworth	2w48	
+bysantium	1nl	
+catus	25uv	
+catus lot	25uv	
+chiedi		63c4:3
+chiedi la		63c4:3
+chiedi la luna	63c4	
+chrissette michelle	2bxz	
+cichlid	8fe	
+cichlid fish	8fe	
+civilise	5dpz	
+clonazepam	4v4n	
+clonazepam klonopin	4v4n	
+commendation		r4x:2
+commendation medal	r4x	
+commendation medal united states	r4x	
+commendation ribbon	r4x	
+crouais	2ffy	
+despotovac	1ojn	
+despotovac municipality	1ojn	
+deyala governorate	2zfd	
+discarding sabot shell	3sd2	
+exumed	293s	
+fc albertin slonim	3dcj	
+fc dolgiye prudy dolgoprudny	e1k	
+fc south tyrol	bjp	
+feuquieres	2ihl	2drc:3
+feuquieres en		2drc:3
+feuquieres en vimeu	2drc	
+feuquieres en vimeu france	2drc	
+feuquieres oise	2ihl	
+fluntern		2ujd:2
+fluntern cemetery	2ujd	
+genertel trieste	zh1	
+george cantor	1sz0	
+georgsmarienhuette	18f3	
+gmina byton	1rzy	
+goniobasis	6c4g	
+gosaga	553a	
+gosaga emperor	553a	
+gosaga emperor of japan	553a	
+gosaga of japan	553a	
+gouchow commune	1ahb	
+henry addington	3ttm	3ttm:5
+henry addington 1st		3ttm:5
+henry addington 1st viscount		3ttm:5
+henry addington 1st viscount sidmouth	3ttm	
+henry addington 1st viscount sidmouth pc	3ttm	
+henry addington lord sidmouth	3ttm	
+henry addington sidmouth	3ttm	
+hikmat nazem el koudsi	616u	
+honheim	25pb	
+hopper a bug s life	1bed	
+hopper dennis	7ex	
+hopper edward	1o3b	
+hopper grace murray	w8a	
+hopper hedda	fd4	
+hopper rejected	1o3b	
+hopper william	1330	
+hopper window	m43	
+hubilie	177d	
+iichro hatayama	5po8	
+isopto frin	4vdq	
+jalunga cape verde	3aep	
+john goldfarb		1cqj:5
+john goldfarb please		1cqj:5
+john goldfarb please come		1cqj:5
+john goldfarb please come home	1cqj	
+kaluza	65xy	
+kvetinov	48f6	
+kwichaan nyava	hcz	
+lakshminath		4hcu:2
+lakshminath bezbaroa	4hcu	
+lakshminath bezbarua	4hcu	
+lakshminath bezbaruah	4hcu	
+lapierre dominique	3asm	
+lassen	4i0v	dow:2,zbm:4
+lassen county	dow	
+lassen county ca	dow	
+lassen county california	dow	
+lassen national park	zbm	
+lassen national park california	zbm	
+lassen park	zbm	
+lassen park california	zbm	
+lassen peak national monument	zbm	
+lassen state highway	6347	
+lassen volcanic	zbm	zbm:4
+lassen volcanic national		zbm:4
+lassen volcanic national park	zbm	
+lassen volcanic park	zbm	
+layia	5q7d	
+lemlanti	5kne	
+loromontzey	3gci	
+manj		1qlm:3
+manj rural		1qlm:3
+manj rural district	1qlm	
+mariuccio bonavolonta	vvp	
+matabiau	4l6j	
+matabiau train station	4l6j	
+maytime	1f3b	
+maytime 1937 film	1f3b	
+mazzara	17sz	
+mazzara del vallo	17sz	
+measure	5yv3	3uu2:3
+measure for		3uu2:3
+measure for measure	3uu2	
+measure for measure 1943 film	3uu2	
+measure for measure film	3uu2	
+measure mathematics	5yv3	
+measure mathematics comments	5yv3	
+measure measure theory	5yv3	
+measure of a man		4cp5:5
+measure of weight	6cd4	
+measure theoretic	5yv3	
+measure theoretic probability theory	5w3	
+measure theory	5yv3	
+mentally challenged	3h8o	
+mentally handicapped	3h8o	
+mentally retarded	3h8o	
+miliy balakirev	45zr	
+mixalot	25tw	
+moiremont	3ovo	
+monguia	1ex9	
+oah	ntg	
+oah magazine of history	ntg	
+obika jonathan	4esm	
+obsee	1z01	
+oppose communism	uj8	
+paul garelli	65rv	
+pellet ore	5ek	
+peter bogdanovich	jl4	
+peter bogdanovich filmography	jl4	
+peter bogdanovich films	jl4	
+plovdiv	2u2,lou	
+plovdiv bulgaria	2u2	
+plovdiv district	lou	
+plovdiv province	lou	
+plovdiv region	lou	
+popcore	21l	
+pringui	2ui0	
+radm	3lx1	
+rajadhirat	42o3	
+rccv	3gg	
+reimerink	5wfc	
+rewers	3paw	
+saarijarvi	2nxv	
+scads	3v78	
+serampore university	13bh	
+serifs	35pd	
+sheikdom of ajman	52kg	
+shigekatsu katsuta	4uiu	
+shoichiro		5aup:2
+shoichiro toyoda	5aup	
+shoichiro toyoda temp	5aup	
+shoichiro toyota	5aup	
+siluri umani	22uz	
+sirindhorn	2374	2374:3
+sirindhorn princess		2374:3
+sirindhorn princess maha chakri	2374	
+sirindhorn princess royal	2374	
+sirindhorn thepratanasuda	2374	
+skeltal	4m74	
+sobolev vladimir stepanovich	3s8v	
+soekarno	16vx	14ms:4
+soekarno hatta		14ms:4
+soekarno hatta airport	14ms	
+soekarno hatta international		14ms:4
+soekarno hatta international airport	14ms	
+solano		md0:2
+solano california	md0	
+solano county	md0	
+solano county ca	md0	
+solano county california	md0	
+soldato di ventura	1031	
+southaustraliagovernors	2p14	
+sreetview	3xcj	
+start		1l68:2,3lnk:5,4t5x:3
+start cheering	1l68	
+start fc	7c2	
+start it		4t5x:3
+start it up	4t5x	
+start it up song	4t5x	
+start jumpin	59jr	
+start kristiansand	7c2	
+start of injection	iga	
+start stefanie sun album	3h4s	
+start the		3lnk:5
+start the revolution		3lnk:5
+start the revolution without		3lnk:5
+start the revolution without me	3lnk	
+start trek ii	yce	
+start trek voyager	4tw	
+start ulyanovsk	6a3	
+sund	2sqw	
+sund norway	2sqw	
+tabassum fatima hashmi	fmr	
+tabassum hashmi	fmr	
+technopolist	563q	
+the avalon hill game company	1ijl	
+the inn		2572:5,3orl:6
+the inn of		3orl:6
+the inn of the		3orl:6
+the inn of the sixth		3orl:6
+the inn of the sixth happiness	3orl	
+the inn on		2572:5
+the inn on the		2572:5
+the inn on the river	2572	
+the port augusta dispatch newcastle and flinders chronicle	32x1	
+the port authority	qv6	
+the port authority of new york and new jersey	qv6	
+the port authority of ny nj	qv6	
+the port pirie advertiser	2ava	
+the squits	2vaf	
+theoderichshafen	6gu	
+tlrx	51pq	
+tosstal		2cyx:3
+tosstal railway		2cyx:3
+tosstal railway line	2cyx	
+trilium	10qf	
+trixago	34uj	
+ubs	1dqr	
+ubs ag	1dqr	
+ubs ag usa	1dqr	
+ubs bank	1dqr	
+ubs bank canada	1dqr	
+ubs financial services	1dqr	
+ubs global asset management	1dqr	
+ubs group ag	1dqr	
+ubs investment bank	1dqr	
+ubs open	2kl8	
+ubs open gstaad	2kl8	
+ubs paine webber	1dqr	
+ubs warburg	1dqr	
+ubs wealth management	1dqr	
+ujsoly commune	34kt	
+valy		16i8:2
+valy arnheim	16i8	
+vebre	4071	
+viridiscalculus maryland highway system	2lg	
+w3 browser	5si	
+w3 consortium	jfz	
+w3 org	jfz	
+w3 server	3193	
+weiden		p2m:4,4cpy:4
+weiden an		4cpy:4
+weiden an der		4cpy:4
+weiden an der march	4cpy	
+weiden bavaria	p2m	
+weiden i d opf	p2m	
+weiden in		p2m:4
+weiden in der		p2m:4
+weiden in der oberpfalz	p2m	
+weiden oberpfalz	p2m	
+westlauwers fries	4jlk	
+williamitejacobite war in ireland	436g	
+xanthidia	1dgt	
+yamadas	dny	
+zerubbabel	63sj	
+zollner pistons	28w	

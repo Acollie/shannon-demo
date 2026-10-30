@@ -1,0 +1,438 @@
+abdoliyeh		pe8:5,1ot2:5
+abdoliyeh ye		pe8:5,1ot2:5
+abdoliyeh ye gharbi	pe8	pe8:5
+abdoliyeh ye gharbi rural		pe8:5
+abdoliyeh ye gharbi rural district	pe8	
+abdoliyeh ye sharqi	1ot2	1ot2:5
+abdoliyeh ye sharqi rural		1ot2:5
+abdoliyeh ye sharqi rural district	1ot2	
+aethelflead	3r5b	
+agen	8hm	
+agen aquitaine	8hm	
+agen france	8hm	
+agen railway station	5jlp	
+andijan	121m	1nt9:2
+andijan province	1nt9	
+andijan region	1nt9	
+andijan uzbekistan	121m	
+anurs	5znl	
+arawak languages	343c	
+axeon cycling team	ru2	
+axeon hagens berman	ru2	
+bagneres		gbp:3,nn5:3
+bagneres de		gbp:3,nn5:3
+bagneres de bigorre	gbp	
+bagneres de luchon	nn5	
+baker	7st,tr9	ukz:2,1eae:2,1jzm:2,2mhm:4,3bbe:2,4d4n:2
+baker 13	1rc	
+baker bob	3w3c	
+baker city	1eae	
+baker city center oregon	1eae	
+baker city or	1eae	
+baker city oregon	1eae	
+baker colin	4jbk	
+baker county	1jzm,3bbe,4d4n	
+baker county alabama	1ni2	
+baker county fl	3bbe	
+baker county florida	3bbe	
+baker county ga	4d4n	
+baker county georgia	4d4n	
+baker county or	1jzm	
+baker county oregon	1jzm	
+baker family name	7st	
+baker gerry	3j05	
+baker herbert	1cef	
+baker howard	2rrh	
+baker howard h jr	2rrh	
+baker james	2epl	
+baker library hbs	p9	
+baker livorno	3vxg	
+baker method	26ae	
+baker mill pond new jersey	4bjk	
+baker nathan	58gs	
+baker newton diehl	47i0	
+baker or	1eae	
+baker oregon	1eae	
+baker rick	3j0i	
+baker s dozen concert series	fxu	
+baker s dozen residency	fxu	
+baker s field	3zu	
+baker s shop	zoa	
+baker s sugar	2upr	
+baker s wife	55k9	55k9:4
+baker scholar	p9	
+baker simon	146z	
+baker street		2mhm:4
+baker street nelson bc	1ykv	
+baker street station	2mhm	
+baker street tube		2mhm:4
+baker street tube station	2mhm	
+baker street underground station	2mhm	
+baker surname	7st	
+baker u	ukz	
+baker university	ukz	
+baker wilcats	ukz	
+benac	1nar	
+benac h	352c	
+benac hautes pyrenees	1nar	
+bernay	rn4	1glo:2,2j9n:3,38i5:3,4cby:3
+bernay en		38i5:3,4cby:3
+bernay en champagne	4cby	
+bernay en ponthieu	38i5	
+bernay eure	rn4	
+bernay saint		2j9n:3
+bernay saint martin	2j9n	
+bernay sarthe	4cby	
+bernay vilbert	1glo	
+bettine	bae	
+bettine von arnim	36ul	
+bkcppowerplus	6964	
+blackburg virginia	pfk	
+boreotrophon	18db	
+botryopanax	1jzn	
+branoux		2qux:3
+branoux les		2qux:3
+branoux les taillades	2qux	
+brunello	59uh	1byz:2
+brunello lombardy	59uh	
+brunello rondi	1byz	
+brunello va	59uh	
+buddyprisen	mjy	
+calatria	6v7	
+camui gackt	cso	
+carnin	38nk	
+cartridge	ud,3sj	
+cartridge based game	ud	
+cartridge case	3sj	
+cartridge electronic	ud	
+cartridge firearm	3sj	
+cartridge firearms	3sj	
+cartridge weaponry	3sj	
+castlebar	gih	
+castlebar mayo	gih	
+ceppo		4bh3:2
+ceppo morelli	4bh3	
+charles duke	2cos	1wh2:4,1wn3:4,2zk3:5,4g4c:4,4vhb:4,4xd8:4
+charles duke i of savoy	2tyd	
+charles duke jr	2cos	
+charles duke of		1wh2:4,1wn3:4,2zk3:5,4g4c:4,4vhb:4,4xd8:4
+charles duke of albany	1jhx	
+charles duke of alencon	40o2	
+charles duke of berry 1446 1472	2hji	
+charles duke of berry 14461472	2hji	
+charles duke of berry 1686 1714	40o2	
+charles duke of berry 16861714	40o2	
+charles duke of brittany	4g4c	
+charles duke of burgundy	1a1c	
+charles duke of calabria	4xd8	
+charles duke of cornwal	e8l	
+charles duke of cornwall	e8l	
+charles duke of durazzo	4vhb	
+charles duke of guise	23qp	
+charles duke of kendal	1gs2	
+charles duke of lorraine elboeuf	4mhj	
+charles duke of lower		2zk3:5
+charles duke of lower lorraine	2zk3	
+charles duke of lower lortharingia	2zk3	
+charles duke of lower lotharingia	2zk3	
+charles duke of mayenne	1wn3	
+charles duke of nevers	4kt2	
+charles duke of orleans	14nh	
+charles duke of penthievre	217j	
+charles duke of richmond	18qd	
+charles duke of vendome	1wh2	
+charles puth	2kld	
+charles rahmel jones	2dsq	
+chebyshov	ka8	
+cpt	28t	
+cpt 2016	d21	
+cpt alex mason	29hz	
+cpt beefheart	xbx	
+cpt holdings	5ayw	
+cpt jack sparrow	6gnt	
+cpt james cook	2px0	
+cristofer		545v:2
+cristofer michael	1u2c	
+cristofer soto	545v	
+david cubitt	50vb	
+david mullen	2quv	
+dorostolon	j1n	
+dzanum	51tb	
+edward theodore		2lvj:3
+edward theodore gein	58mn	
+edward theodore mcclintock	5a9s	
+edward theodore riley	2lvj	
+eeyou		gc8:6,uqe:2
+eeyou istchee	uqe	gc8:6
+eeyou istchee baie james	gc8	
+eeyou istchee james		gc8:6
+eeyou istchee james bay	gc8	gc8:6
+eeyou istchee james bay regional		gc8:6
+eeyou istchee james bay regional government	gc8	
+eeyou istchee territory	uqe	
+eeyou istchee territory equivalent to a regional county municipality	uqe	
+electrification	1myo	
+electrification of the automobile	2dtt	
+fabirama	3tfc	
+farfallon	3vei	
+fdny commissioner	6bjn	
+foochau	7uo	
+frankenberg	262p,2blz	
+frankenberg an der eder	2blz	
+frankenberg eder	2blz	
+frankenberg hesse	2blz	
+frankenberg sa	262p	
+frankenberg sachsen	262p	
+frankenberg saxony	262p	
+gaevleborgs laen	sgz	
+ganganagar district	2bmr	
+ganondorg	6gj8	
+gesvres	3a3v	2yfd:3
+gesvres le		2yfd:3
+gesvres le chapitre	2yfd	
+ghom	675	
+gmina wlodawa	1pqa	
+govisumber	4uqb	4uqb:2
+govisumber aymag	4uqb	
+govisumber prefecture	4uqb	
+govisumber province	4uqb	
+grahamland	4n2k	
+halocene	5bkg	
+hamdi		3jif:2,488u:2,642j:2
+hamdi harbaoui	488u	
+hamdi kasraoui	642j	
+hamdi salihi	3jif	
+hannsikaamotwani	1suq	
+hebecourt	2s11	
+hebecourt somme	2s11	
+herchel walker	4l4k	
+ischnocnemis	6b89	
+ishikawa	ofl	7ur:2
+ishikawa chu	4wlz	
+ishikawa hideo	64mu	
+ishikawa japan	7ur	
+ishikawa ken	7ur	
+ishikawa prefecture	7ur	
+ishikawa rika	4opb	
+ishikawa sayuri	3grf	
+ishikawa surname	ofl	
+ishimsky urban okrug	584f	
+jastrzebia commune	3hmg	
+jekk jekk tarr	5xm9	
+john pepusch	41dk	
+juneda	3ant	
+kalmthout	2v6o	
+kaplitz	1nqc	
+kapuzinergruft	ckb	
+kein		4xb9:4
+kein mann		4xb9:4
+kein mann zum		4xb9:4
+kein mann zum heiraten	4xb9	
+kein mehrheit fur die mitleid	huu	
+kein mitleid fur die mehrheit	huu	
+kentsina	10r1	
+khoja abdullah ansari	3q67	
+khrushchov	hyl	
+kirkbie strickland	f8l	
+le hanouard	3ijx	
+levono	171u	
+lhotky	3ge6	
+lhotky mlada boleslav district	3ge6	
+lizos	352l	
+loma	6gww	sbp:2,zeb:3,4t37:3
+loma de		4t37:3
+loma de ucieza	4t37	
+loma de ucieza palencia	4t37	
+loma de ucieza spain	4t37	
+loma linda	sbp	zeb:3
+loma linda biodiversity center	zeb	
+loma linda ca	sbp	
+loma linda california	sbp	
+loma linda nature center	zeb	
+loma linda school of medicine	zeb	
+loma linda university	zeb	
+loma linda university biodiversity center	zeb	
+loma linda university school of nursing	zeb	
+loma linda university school of pharmacy	zeb	
+loma linda university school of science and technology	zeb	
+loma montana	6gww	
+loma mt	6gww	
+luhans k	7f4	
+luhans k province	add	
+luhans k region	add	
+luhans ka	add	
+luhans ka oblast	add	
+mafiaen det er osse mig	4e2i	
+mastigion	r6	
+meinedo	2e42	
+metrosidereae	29yz	
+morsang		2j6t:3,2kxh:3
+morsang sur		2j6t:3,2kxh:3
+morsang sur orge	2kxh	
+morsang sur seine	2j6t	
+nathorst	4vp8	
+nazillispor	3tm8	
+new roads	376l	
+new roads la	376l	
+new roads louisiana	376l	
+noilhan	2c4f	
+nuloch	5an5	
+okrouhla	3nhn	3muj:2
+okrouhla blansko district	3nhn	
+okrouhla radoun	3muj	
+oksana		3avc:2,4sz4:2,5skj:2
+oksana aleksandrovna domnina	4sz4	
+oksana chusovitina	3avc	
+oksana domnina	4sz4	
+oksana stefanivna zabuzhko	5skj	
+oksana yatskaya	6a1d	
+oksana zabuzhko	5skj	
+orcines	1t9d	
+osteophorosis	1one	
+overriding mathematics	75s	
+overriding union	75s	
+peremysl	bik	
+phonogram records	jp	
+polczyn zdroj	3cfv	
+polczyn zdroj commune	cpk	
+polismordaren	6a3z	
+poliziano	4hw2	
+pontianak	1rg6	
+pontianak indonesia	1rg6	
+pontianak people	1rg6	
+prince waleed bin talal	u98	
+prunari	309k	
+ptocheuusa	6fa5	
+raclawice commune	1vhp	
+radley	58o	58o:2,1exe:2
+radley college	58o	
+radley college chronicle	58o	
+radley h metzger	1exe	
+radley hall	58o	
+radley henry metzger	1exe	
+radley metzger	1exe	
+radley school	58o	
+reinhold		ehk:2,12cw:2,1byc:2,1zhs:2,2327:2,297b:2,3m5d:2,4oom:2,4oph:2,4q78:2,5al1:2,5if7:2,5xou:2,600p:2,60c4:2
+reinhold begas	1zhs	
+reinhold bernt	2327	
+reinhold bocklet	3m5d	
+reinhold ernst glier	1byc	
+reinhold fanz	5xou	
+reinhold forster	3wdx	
+reinhold glier	1byc	
+reinhold gliere	1byc	
+reinhold haussermann	60c4	
+reinhold heil	12cw	
+reinhold l bocklet	3m5d	
+reinhold maier	600p	
+reinhold messner	5al1	
+reinhold moritsevich gliere	1byc	
+reinhold moritzevich gliere	1byc	
+reinhold moritzewitsch gliere	1byc	
+reinhold moritzovich gliere	1byc	
+reinhold muenzenberg	4oom	
+reinhold munzenberg	4oom	
+reinhold neibuhr	297b	
+reinhold niebuhr	297b	
+reinhold pauli	4q78	
+reinhold platz	4oph	
+reinhold r priebus	4xtp	
+reinhold richard reince priebus	4xtp	
+reinhold schneider	5if7	
+reinhold schunzel	ehk	
+rendalls	1au	
+richard deacon	15o1,50cq	
+richard deacon actor	15o1	
+richard deacon sculptor	50cq	
+richard rockefeller	4b2e	
+roncofreddo	5a6f	
+rouperroux		33nh:3
+rouperroux le		33nh:3
+rouperroux le coquet	33nh	
+ruoska	2rf2	
+sabar kantha	1cmx	
+sabar kantha district	1cmx	
+sahdol district	28eq	
+saint james	5x01	1zhe:3
+saint james barbados	5x01	
+saint james college shelbyville	1ted	
+saint james jamaica	1zhe	
+saint james of compostela	9xp	
+saint james of compostela order of	1dt8	
+saint james of compostella	9xp	
+saint james palace	13nc	
+saint james parish	1zhe	
+saint james parish barbados	5x01	
+saint james parish jamaica	1zhe	
+saint james parish la	2qoi	
+saint james parish louisiana	2qoi	
+saint james s palace	13nc	
+saint james the elder	9xp	
+saint james the great	9xp	
+saint james the just	4lgx	
+sakata	11p4	
+sakata city	11p4	
+sakata yamagata	11p4	
+sanguinetto	2nt5	
+sauropodus	1m2c	
+schwarzen	3oh7	
+shaohing	s2c	
+skalicka	3soy	
+skalicka prerov district	3soy	
+soldaterkammerater		4ixk:3,4qqq:3
+soldaterkammerater pa		4ixk:3
+soldaterkammerater pa bjornetjeneste	4ixk	
+soldaterkammerater pa bjrnetjeneste	4ixk	
+soldaterkammerater rykker		4qqq:3
+soldaterkammerater rykker ud	4qqq	
+staryj oskol	17os	
+strevi	3oi7	
+sundancetv	2spo	
+szasz thomas	4uqs	
+taga maynila	y2	
+the never ending story	16yy	
+the never ending tour	1nx7	
+the sorcerers	4b6m	
+the sorcerers film	4b6m	
+the sorcerers movie	4b6m	
+the willow genus	93b	
+tillotama		5s1i:2
+tillotama shome	5s1i	
+tivstip	3yf9	
+treacherous original demo recording	3r90	
+treacherous taylor swift song	3r90	
+troie	3ru0	
+typostrophism	5zw6	
+universe	ovm	
+universe air episode	5v24	
+universe fiction	f8x	
+universe home	175v	
+universe of monkey island	25jb	
+universe ours	ovm	
+universe steven	w84	
+universe thermodynamics	ovm	
+valinorean	14ra	
+volkswagen	g3e	79h:2,46p9:2
+volkswagen 1200	46p9	
+volkswagen 1303	46p9	
+volkswagen ag	79h	
+volkswagen aktiengesellschaft	79h	
+volkswagen audi group	79h	
+volkswagen beach bomb	58vy	
+volkswagen beetle	46p9	
+volkswagen financial services	79h	
+volkswagen financial services ag	79h	
+volkswagen group	79h	
+volkswagen group brands	79h	
+volkswagen industrial motor	79h	
+volkswagen marine	79h	
+volkswagen passenger cars	g3e	
+volkswagen r	g3e	
+volkswagen roccan	g3e	
+volkswagen super bug	46p9	
+volkswagen vocho	46p9	
+widescreen album	1tu8	
+widescreen rupert holmes album	1tu8	
+wilanow	5bmr	
+woon jae	3frj	
+wsm liga	227w	

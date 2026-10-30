@@ -1,0 +1,392 @@
+1949	1d06	9yk:5,2oa9:4,4mje:2,67ds:4
+1949 50		2oa9:4
+1949 50 cypriot		2oa9:4
+1949 50 cypriot cup	2oa9	
+1949 50 cypriot first division	2tvr	
+1949 ad	1d06	
+1949 ce	1d06	
+1949 cup final	67ds	
+1949 ekstraklasa	4mje	
+1949 fa		67ds:4
+1949 fa cup		67ds:4
+1949 fa cup final	67ds	
+1949 revolution	5y8	
+1949 west		9yk:5
+1949 west german		9yk:5
+1949 west german presidential		9yk:5
+1949 west german presidential election	9yk	
+1949 year	1d06	
+ahd	6c3x	
+aminazin	cat	
+aomori	agl	5tc:2
+aomori aomori	agl	
+aomori city	agl	
+aomori japan	5tc	
+aomori ken	5tc	
+aomori prefecture	5tc	
+arai	rul	
+arai akino	5pwj	
+arai hirofumi	1lvf	
+arai izumi	10nu	
+arai surname	rul	
+arai yumi	1ygs	
+archeologists	2ym	
+arquus	3emq	
+aruna		dje:2,2gqs:2,66yb:3
+aruna asaf		66yb:3
+aruna asaf ali	66yb	
+aruna dindane	2gqs	
+aruna irani	dje	
+atherosclosis	5nj9	
+balkesirspor	d3k	
+beckie	eqh	4ech:2
+beckie scott	4ech	
+beijingzhangjiakou		4ssb:4
+beijingzhangjiakou high		4ssb:4
+beijingzhangjiakou high speed		4ssb:4
+beijingzhangjiakou high speed railway	4ssb	
+beijingzhangjiakou intercity railway	4ssb	
+bellas		5udi:2
+bellas vistas	5udi	
+bouy	2zj4	2xd9:3
+bouy sur		2xd9:3
+bouy sur orvin	2xd9	
+bramhaputra	10ki	
+buero fellner helmer	1ha6	
+buero vallejo	3hkf	
+byshovets	5yr9	
+casalnuovo		2jyt:3,2x40:2
+casalnuovo di		2jyt:3
+casalnuovo di napoli	2jyt	
+casalnuovo monterotaro	2x40	
+cecchi biella	uq7	
+cetoniinae	3h6x	
+chieh yang	3exi	
+cipuljic	1y4s	
+citylife	5h3h	
+citylife milan	5h3h	
+costello		6gmg:2
+costello lou	kgp	
+costello music	6gmg	
+database	5z3,39ki	
+database backend	5z3	
+database development	5z3	
+database instance	5z3	
+database management software	5z3	
+database management system	5z3	
+database management systems	5z3	
+database manager	5z3	
+database programming	5z3	
+database queries	5z3	
+database query language	56xu	
+database systems	5z3	
+delacorte books	4hh	
+delacorte books for young readers	4hh	
+delacorte press	4hh	
+deltras	dzy	dzy:3
+deltras f		dzy:3
+deltras f c	dzy	
+deltras fc	dzy	
+deltras sidoarjo	dzy	
+dimitria	5bot	
+dimitria angeliki elena galas	3oet	
+discographer	9h	
+discworld	e2i,1jyx	6dcf:4
+discworld 2	6dcf	
+discworld 2 missing presumed	6dcf	
+discworld 2 mortality bytes	6dcf	
+discworld books	e2i	
+discworld games	e2i	
+discworld ii	6dcf	6dcf:4
+discworld ii missing		6dcf:4
+discworld ii missing presumed	6dcf	
+discworld ii mortality bytes	6dcf	
+discworld magic	1jyx	
+discworld novels	e2i	
+discworld series	e2i	
+discworld world	1jyx	
+dunga	1x9z	
+emiston	eta	
+equancourt	2jap	
+essau		469n:2
+essau kanyenda	469n	
+eurrhyparodes	6f0l	
+fc borjomi	35sv	
+fc borjomi 2 borjomi	35sv	
+fc servette	3yq	
+fc servette genf	3yq	
+feruchemist	3yig	
+filevskoye	2zan	
+follwoing	33sq	
+fortree city	o8i	
+gentle		3enr:2
+gentle art of murder	50p0	
+gentle fist	2bsq	
+gentle giant	3enr	
+gentle giant discography	3enr	
+gentle gunman	5luj	5luj:3
+gentle maggot	3ade	
+gentle people	loy	
+gentle sex	4094	4094:3
+gentle waves	2vsr	
+george dicenzo	2xwe	
+george monroe movie character	271m	
+george rodenbach	5djt	
+gheorghios papandreou	1url	
+gn	17e,3ha,3crd	
+gn curzon	1dtk	
+gn language	4ott	
+gn lewis	1iyh	
+gn watson	4m5c	
+gomrukcu baku	zsv	
+goose		5m4u:2
+goose and the gander	5nc9	5nc9:5
+goose creek texas	nga	
+goose gossage	5m4u	
+goose of sedan	4iz1	4iz1:4
+goose steps out	5keh	5keh:4
+goutham menon	1ino	
+goutham raju	he5	
+goutham vasudev menon	1ino	
+heathcote		2y50:2
+heathcote williams	2y50	
+highcrest middle school	jca	
+hurt	5d81	
+hurt comedy	1sri	
+hurt johnny cash cover song	5d81	
+hurt johnny cash song	5d81	
+hurt leona lewis song	5d81	
+hurt locker	16qm	16qm:3
+hurt locker film	16qm	
+hurt nine inch nails song	5d81	
+hurt william	a5q	
+jagatsinghpur		304f:2
+jagatsinghpur district	304f	
+jagten	2b4b	
+jalgpalliklubi sillamae kalev	vdf	
+james hampton	20l1	
+james hampton actor	20l1	
+james starlin	4b1m	
+jean martinelli	1d4e	
+jean riesener	5wgi	
+john polkinghorne	40ww	
+joko		28pq:2,3vic:2
+joko anwar	3vic	
+joko in	65e9	
+joko invoca dio e muori	3jym	
+joko widodo	28pq	
+kbp airport	3yhw	
+kbp instrument		ogj:4
+kbp instrument design		ogj:4
+kbp instrument design bureau	ogj	
+kbp tula	ogj	
+kleptones	5o7m	5o7m:2
+la bonne		1kyu:3
+la bonne annee	1kyu	
+lascabanes	45v3	
+le cop	3vy4	
+le terza madre the third mother	2lqg	
+lebedinets gubkin	99j	
+lenoncourt	200w	
+m00 000 special	3l2z	
+makeevka	nti	
+malat ya	eyi	
+massoia	2koq	
+melania		21m5:2
+melania knauss	21m5	
+melania knauss trump	21m5	
+melania knavs	21m5	
+melania trump	21m5	
+melania wallengren	1270	
+mmg	mej	
+mmg eastwest japan	mej	
+new lisbon angola	20zt	
+new lisbon brazil	79p	
+new lisbon ohio	1uao	
+noreen	66n7	5iea:2
+noreen e murray	5iea	
+noreen elizabeth murray	5iea	
+noreen elizabeth parker	5iea	
+noreen first name	66n7	
+noreen given name	66n7	
+noreen murray	5iea	
+noreen parker	5iea	
+nuevo		egf:2,vij:2,3kaj:2,3kk9:2
+nuevo baztan	3kaj	
+nuevo brunswick	111	
+nuevo grupo aeronautico	dux	
+nuevo grupo aeronautico s a de c v	dux	
+nuevo laredo	vij	
+nuevo laredo comments	vij	
+nuevo laredo mexico	vij	
+nuevo laredo tamaulipas	vij	
+nuevo laredo texas	vij	
+nuevo leon	egf	
+nuevo leon baja california	erk	
+nuevo leon mexico	egf	
+nuevo leon state	egf	
+nuevo maya	6f5g	
+nuevo pais	1k40	
+nuevo paraiso	1uqh	
+nuevo progreso	3kk9	
+nuevo progreso guatemala	3kk9	
+nuevo progreso san marcos	3kk9	
+nuevo reino de leon	egf	
+outkast	lll	
+outkast band	lll	
+ouyang jing	3rmj	
+phlin	2k08	
+piker lake	znz	
+pott s grove	iy8	
+pringy	1s7l,369h,3xwl	
+pringy haute savoie	1s7l	
+pringy marne	369h	
+pringy seine et marne	3xwl	
+queanbeyan	yu5	51qu:4
+queanbeyan new south wales	yu5	
+queanbeyan palerang	51qu	51qu:4
+queanbeyan palerang region	51qu	
+queanbeyan palerang regional		51qu:4
+queanbeyan palerang regional council	51qu	
+ratas	4wak	
+rennepont	2y5j	
+richardsonian	x3h	x3h:2
+richardsonian architecture	x3h	
+richardsonian romanesque	x3h	
+richardsonian romanesque architecture	x3h	
+richardsonian romanesque style	x3h	
+sanat		8vc:5,bk4:4
+sanat mes		8vc:5
+sanat mes kerman		8vc:5
+sanat mes kerman f		8vc:5
+sanat mes kerman f c	8vc	
+sanat mes kerman fc	8vc	
+sanat naft		bk4:4
+sanat naft abadan f c	bk4	
+sanat naft abadan fc	bk4	
+sanat naft f		bk4:4
+sanat naft f c	bk4	
+sanat naft fc	bk4	
+sanat naft football	bk4	
+sarrewald	2c4r	
+serpukhov	cn7	
+serpukhov urban okrug	cn7	
+sindaco	5m	
+sindaco di roma	smz	
+sindaco di roma capitale	smz	
+sindaco of rome	smz	
+skin	2cnn,3o8s,4kkj	8vo:2,994:2,21gg:2,2mbl:2,3reb:3,3vq4:2,5ww7:2,66gt:3,6gy7:2
+skin a max	1nbp	
+skin abscess	4hxl	
+skin allergy	1g5h	
+skin almost human	3hu1	
+skin and larder beetle	omm	
+skin and subcutaneous tissue disease	8vo	
+skin anthrax	624e	
+skin asthma	zm6	
+skin beetle	omm	
+skin beetles	omm	
+skin burn	3n93	
+skin cancer	994	
+skin cancer non melanoma	994	
+skin cancers	994	
+skin care product	e72	
+skin care products	e72	
+skin cell	2cnn	
+skin cell turnover	2cnn	
+skin companion ep	3axg	
+skin conditioning	8vo	
+skin deep	21gg	
+skin deep 1989 film	21gg	
+skin diamond	3vq4	
+skin diease	8vo	
+skin disease	8vo	
+skin doctor	34b	
+skin game	5ww7,6gy7	3nrv:3
+skin game novel	6gy7	
+skin game the dresden files	6gy7	
+skin graft	66gt	66gt:3
+skin graft records	66gt	
+skin i live in	ow8	ow8:5
+skin lotion	5fxp	
+skin malignancies	994	
+skin malignancy	994	
+skin musician	3o8s	
+skin musician comments	3o8s	
+skin of		3reb:3
+skin of evil	3reb	
+skin of evil star trek the next generation	3reb	
+skin of evil tng episode	3reb	
+skin redness	6fj9	
+skin seborrheic	5e8d	
+skin signs of hypothyroidism	2cnu	
+skin singer	3o8s	
+skin the remixes	3axg	
+skin ticket	6g46	
+skin to bone	5bpp	
+skin treatment	e72	
+skin treatment product	e72	
+skin treatment products	e72	
+skin treatments	e72	
+skirgieo	1gzd	
+slubice	49kf	
+slubice county	2p2m	
+slubice poland	49kf	
+sophronia	275i	
+sophronia jerusalem delivered	3smy	
+sophronia moth	275i	
+stepbrothers film	1oea	
+synapsid	i5x	
+szolnoki		f10:3
+szolnoki mav	f10	f10:3
+szolnoki mav fc	f10	
+tankred		2dde:2
+tankred dorst	2dde	
+the ancient		2zw9:3
+the ancient city of carthage	cc0	
+the ancient land of ys	5rvd	
+the ancient language inheritance cycle	6fy9	
+the ancient language of alalgaesia	6fy9	
+the ancient law	2zw9	
+the ancient near east	1520	
+the ancient rome	it	
+the ancient tale when the sun was god	2l1g	
+the ancient track the complete poetical works of h p lovecraft	6ll	
+the ancient track the complete poetical worksof h p lovecraft	6ll	
+the ancient world	4tgk	
+the cinncinatti kid	1dtw	
+the colors of love band	1keu	
+the schmidt family foundation	1exl	
+the shackleton expedition	hr5	
+thomas erskine		32oy:5,65bp:3
+thomas erskine 1st		32oy:5
+thomas erskine 1st baron		32oy:5
+thomas erskine 1st baron erskine	32oy	
+thomas erskine 1st lord erskine	32oy	
+thomas erskine perry	65bp	
+thomas gilchrist	67ws	
+thomas horster	5e6r	
+todogura	6fjr	
+toghan temuer	3v4y	
+toghan temur	3v4y	
+toleafoa j s blatter complex	4ftk	
+toleafoa j s blatter soccer stadium	4ftk	
+tutanhamon	1i77	
+ultracons	gst	
+vallis	fek	
+vallis planetary geology	fek	
+veljko	1ni0	1v8m:2,2a6z:2,2eft:2,39ra:2,5v4q:2
+veljko bulajic	1v8m	
+veljko first name	1ni0	
+veljko given name	1ni0	
+veljko kadijevic	2eft	
+veljko milojevic	17ys	
+veljko mrsic	39ra	
+veljko paunovic	2a6z	
+veljko paunovichshsjs	2a6z	
+veljko tuksa	5v4q	
+vilaniera	3d1c	
+viscaal	4ypi	
+william cc claiborne	4uyf	
+wirewolf	2bvi	
+xenian	1wn1	

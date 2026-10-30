@@ -1,0 +1,386 @@
+870s	2abs	
+a mattress on wheels	4tro	
+aad	6env	
+aad first name	6env	
+aad given name	6env	
+aad sassoon	3y1u	
+aad van wijngaarden	3he4	
+agdash district	cc1	
+agdash rayon	cc1	
+agriculturist	fl	
+akenside	5ssl	
+akenside mark	5ssl	
+alexander semin	2vzd	
+alissas	3d8i	
+amoriscoggin	5hje	
+anej		4mll:2
+anej lovrecic	4mll	
+anzor		3uof:2,6agz:2
+anzor dzamikhov	6agz	
+anzor kavazashvili	3uof	
+anzor nafash	4jyq	
+anzor ratmirovich dzamikhov	6agz	
+anzor yugorsky	1as8	
+arausio	c01	
+archimede		18g3:3
+archimede le		18g3:3
+archimede le clochard	18g3	
+azdoddoleh	48ln	
+azusa	15y4,682l	jk5:3
+azusa ca	15y4	
+azusa california	15y4	
+azusa first name	682l	
+azusa given name	682l	
+azusa nakano	4gwf	
+azusa pacific	jk5	jk5:3
+azusa pacific college	jk5	
+azusa pacific university	jk5	
+bakhtaran	13z	
+bakhtaran province	13z	
+belleray	43m6	
+belphegor		2f0p:5
+belphegor le fantome du louvre	2f0p	
+belphegor movie	2f0p	
+belphegor phantom		2f0p:5
+belphegor phantom of		2f0p:5
+belphegor phantom of the		2f0p:5
+belphegor phantom of the louvre	2f0p	
+beyssac	3nw7	
+bittium	15ei	
+bojo	zl0	
+brenno benedetti farrugia	4jqs	
+brookings	13ha	gof:2,18k6:2
+brookings county	18k6	
+brookings county sd	18k6	
+brookings county south dakota	18k6	
+brookings edu	gof	
+brookings institute	gof	
+brookings institute fellow	gof	
+brookings institute press	gof	
+brookings institution	gof	
+brookings or micropolitan statistical area	1leg	
+brookings or msa	1leg	
+brookings or sa	1leg	
+brookings oregon micropolitan area	1leg	
+brookings review	gof	
+brookings sd	13ha	
+brookings sd micropolitan statistical area	18k6	
+brookings sd msa	18k6	
+brookings sd sa	18k6	
+brookings south dakota	13ha	
+brookings south dakota micropolitan area	18k6	
+cacavas	4t22	
+calistus iii	4v5i	
+camaloden	45i	
+camboya	oy	
+cazador de recompensas	4zxc	
+chatahoochie	2vop	2vop:2
+chatahoochie river	2vop	
+chezery		1cx9:2
+chezery forens	1cx9	
+clariel the lost abhorsen	tzv	
+cloaknt	4eu7	
+commutative		35ww:2
+commutative group	2oex	
+commutative ring	35ww	
+commutative rings	35ww	
+critcism	4ph9	
+daniella	4ke	
+daniella bianchi	33oj	
+daniella mercury	19zk	
+daniella pick	ctg	
+david bowes		2opd:3
+david bowes lyon	2opd	
+david rosenbloom	2q1y	
+doggy		tsm:3,61yk:2
+doggy bag	61yk	
+doggy style		tsm:3
+doggy style records	tsm	
+donneville	3cic	
+doomgaze flux pavilion	4ru0	
+dreadnoughts	lo8	
+easthampshire	cv3	
+easthampshire sandbox	cv3	
+easthampshire testcases	cv3	
+erythrina	101s	
+estarapapax fox ninja shippuden bonds	1vb0	
+etruscans	1zmd	
+eudendrium	gkq	
+faltings	1mpb	
+faostatclassic	1y9o	
+filton	55p8	
+filton gloucestershire	55p8	
+filton park	55p8	
+genus	l	
+genus araneus	qky	
+genus biology	l	
+genus helix	6al0	
+genus homo	426x	
+genus name	l	
+genus zoology	l	
+gerb	1acr	
+gibeaumeix	3e3l	
+gmina sorkwity	oz7	
+goephanes	11yc	
+gonnostramatza	4l7w	
+greekitalian war	1xwc	
+hebburn	1ce3	69pg:4
+hebburn colliery	1ce3	
+hebburn f c	69pg	
+hebburn on tyne	1ce3	
+hebburn town	69pg	69pg:4
+hebburn town f		69pg:4
+hebburn town f c	69pg	
+hebburn town fc	69pg	
+helmets	og7	
+i groeneveld	chi	
+imogene		5qb6:2
+imogene coca	5qb6	
+imogene cocca	5qb6	
+imogene cunningham	62uk	
+imogene film	4omc	
+imogene heap	2490	
+imogene robertson	1qeq	
+imogene rogers	541h	
+infiniti	4mqa	2y3w:4
+infiniti pro series	5gxs	
+infiniti red		2y3w:4
+infiniti red bull		2y3w:4
+infiniti red bull racing	2y3w	
+iob internationale omnibusbahnhof betreibergesellschaft mbh	4th9	
+ischaliidae	5fqp	
+john kassir	2jtt	
+kaasinathuni vishwanath	jex	
+kaasinathuni viswanath	jex	
+kalakauas	3kr7	
+kaliokalani	49bt	
+kamigami no triforce	25i5	
+kashgarians	1hri	
+khammuan	2sgm	
+khammuan province	2sgm	
+kleingiehubel	3jog	
+la hallotiere	2w9k	
+lejre		1b8u:2
+lejre kommune	1b8u	
+lejre municipality	1b8u	
+luedinghausen	1yhd	
+luppy	1tsa	
+malkmus stephen	4b0j	
+marienborg		5td8:2
+marienborg livonia	40pw	
+marienborg railway station	5td8	
+marienborg station	5td8	
+mauremont	2rsn	
+maxlaab cinemas and entertainments	2hgm	
+mckop	5vyv	
+minneapolissaint		2iek:4,342b:2
+minneapolissaint paul	342b	2iek:4
+minneapolissaint paul airport	2iek	
+minneapolissaint paul international		2iek:4
+minneapolissaint paul international airport	2iek	
+moushmi chatterjee	qt4	
+moushmi chatterji	qt4	
+mvsei vaticani	kvm	
+nailloux	2ksy	
+naypaydaw	19w9	
+nazm		3qh7:2
+nazm hikmet	3qh7	
+nazm hikmet borzenski	3qh7	
+nazm hikmet ran	3qh7	
+nb	o57,1mdv	
+nb element	o57	
+nb i	8du	
+nb ii	udz	
+nb iii	1jk4	
+nb language	1mdv	
+nb norfolk	1rok	
+nebegleras konstantinos	57hq	
+nederduitse		53bz:3
+nederduitse gereformeerde		53bz:3
+nederduitse gereformeerde kerk	53bz	
+new line	32s	32s:3
+new line cinema	32s	
+new line cinemas	32s	
+new line court	l5x	
+new line film productions inc	32s	
+new line films	32s	
+new line ikebukuro station	zn7	
+new line productions	32s	
+new line productions inc	32s	
+new line records	3eo9	
+new line studio	32s	
+new line studios	32s	
+oosterspoorweg	3bet	
+overtaxed	2j33	2j33:2
+ovillers	1717	1717:3
+ovillers la		1717:3
+ovillers la boisselle	1717	
+paalaa	3pqn	
+pambujan	2v31	
+pambujan northern samar	2v31	
+paul hazard	5l41	
+pekistanoui	6i2	
+pennycuik	48ge	
+pheugopedius	6f7n	
+pinamox	22z0	
+premeditated arson	1wgb	
+premeditated homicide	cp	
+premeditated murder	cp	
+provinec of naples	5xw	
+prso	3kka	
+psychonaugts	2a4d	
+reap		pll:4
+reap book	40xi	
+reap the		pll:4
+reap the wild		pll:4
+reap the wild wind	pll	
+robert audrey	11jr	
+romanise	1xmg	
+rosawl	4rqh	
+rus	y	
+rus state	1787,1r8j	
+rus voivodeship	3itz	
+rus voivodship	3itz	
+saint front	28ea,2a2y	2l2h:4,3dl8:4
+saint front charente	2a2y	
+saint front haute loire	28ea	
+saint front sur		2l2h:4,3dl8:4
+saint front sur lemance	3dl8	
+saint front sur nizonne	2l2h	
+saint front sur nizonne france	2l2h	
+saint laszlo	1n6t	
+sasamon	1t92	
+sasamon burgos	1t92	
+sasamon spain	1t92	
+saskia	zyh	2f41:3,3apm:2,4x89:2,5sf5:2
+saskia as flora	5nc2	
+saskia bartusiak	4x89	
+saskia first name	zyh	
+saskia given name	zyh	
+saskia reeves	3apm	
+saskia rembrandt	2f41	
+saskia sassen	5sf5	
+saskia sassen koob	5sf5	
+saskia uylenburgh	2f41	
+saskia van		2f41:3
+saskia van uijlenburgh	2f41	
+saskia van uylenburch	2f41	
+saskia van uylenburg	2f41	
+saskia van uylenburgh	2f41	
+sewage drain	6er4	
+sewage system	6er4	
+sewage systems	6er4	
+sewage water system	6er4	
+sjk	oxc	
+sjk seinajoen jalkapallokerho	oxc	
+sjk seinajoki	oxc	
+sjtjuka b class submarine	550x	
+slovakia	6e	3z1:6,5f3:6,8rc:6,jyp:6,sf8:6,449z:6,4mgr:6,5lj3:6
+slovakia extraliga	1s9g	
+slovakia football team	3z1	
+slovakia in the eurovision song contest 2013	8cx	
+slovakia men		3z1:6
+slovakia men s		3z1:6
+slovakia men s national		3z1:6
+slovakia men s national football		3z1:6
+slovakia men s national football team	3z1	
+slovakia national		5f3:6,8rc:6,jyp:6,sf8:6,4mgr:6,5lj3:6
+slovakia national football team	3z1	
+slovakia national under		5f3:6,8rc:6,jyp:6,sf8:6,4mgr:6,5lj3:6
+slovakia national under 15		4mgr:6
+slovakia national under 15 football		4mgr:6
+slovakia national under 15 football team	4mgr	
+slovakia national under 16		5lj3:6
+slovakia national under 16 football		5lj3:6
+slovakia national under 16 football team	5lj3	
+slovakia national under 17		jyp:6
+slovakia national under 17 football		jyp:6
+slovakia national under 17 football team	jyp	
+slovakia national under 18		sf8:6
+slovakia national under 18 football		sf8:6
+slovakia national under 18 football team	sf8	
+slovakia national under 19		8rc:6
+slovakia national under 19 football		8rc:6
+slovakia national under 19 football team	8rc	
+slovakia national under 21		5f3:6
+slovakia national under 21 football		5f3:6
+slovakia national under 21 football team	5f3	
+slovakia national under 23 football team	3z1	
+slovakia women		449z:6
+slovakia women s		449z:6
+slovakia women s national		449z:6
+slovakia women s national football		449z:6
+slovakia women s national football team	449z	
+soccoro nm	2y2t	
+solente	2wfe	
+someday		2jrw:8
+someday is tonight	59rb	
+someday musical	bbx	
+someday someday maybe	11fw	
+someday someway	4r63	
+someday this		2jrw:8
+someday this pain		2jrw:8
+someday this pain will		2jrw:8
+someday this pain will be		2jrw:8
+someday this pain will be useful		2jrw:8
+someday this pain will be useful to		2jrw:8
+someday this pain will be useful to you	2jrw	
+someday this pain will be useful to you film	2jrw	
+sowunmi	3q6n	
+sowunmi thomas	3q6n	
+stryzow	1qo8	
+tachira	1h1d	
+tachira state	1h1d	
+the ashbourne portrait	3ga4	
+the beverly		34ni:3,3l5g:3,6g9k:3
+the beverly hillbillies	34ni,3l5g	
+the beverly hillbillies 1993 film	3l5g	
+the beverly hillbillies 1993 movie	3l5g	
+the beverly hillbillies film	3l5g	
+the beverly hillbillies movie	3l5g	
+the beverly hilton	6g9k	
+the cure	dg5,4p5u,56yl	
+the cure 1917 film	4p5u	
+the cure 1995	56yl	
+the cure 1995 film	56yl	
+the cure band	dg5	
+the cure for wellness	3k9p	
+the cure of folly	1mad	
+the cure the future pastimes tour	dg5	
+the cure the join hands tour	dg5	
+the cure the prayer tour	dg5	
+the cure the warm up tour	dg5	
+the morden	677e	
+the pinchcliffe		2xx6:4
+the pinchcliffe grand		2xx6:4
+the pinchcliffe grand prix	2xx6	
+the templar knights	2qec	
+the templar knights order of the temple	2qec	
+the templar legacy	5zwv	
+themistokles	5ml6	
+theused	1ewx	
+topo		5wv3:2
+topo galileo	5wv3	
+tsiolkovsky mission	awa	
+udmurtiya	k7q	
+udmurtiya republic russia	k7q	
+ummer	2fu1	
+vaupes		30ol:2
+vaupes commissariat colombia	30ol	
+vaupes department	30ol	
+vaupes department comments	30ol	
+vaupes region	30ol	
+vobasc	4yig	
+washtenaw		qq2:2
+washtenaw county	qq2	
+washtenaw county mi	qq2	
+washtenaw county michigan	qq2	
+wayanadu	hgs	
+wikiwawawa andis shala	5pns	
+wroclav	11h	
+xunquiera de ambia	3p2b	
+zacryptocerus	8so	
+zairean	uoi	
+znamya arzamas	1ny3	
+znamya noginsk	2ox9	
+znamya truda orekhovo zuyevo	5bz	

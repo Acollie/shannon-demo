@@ -1,0 +1,412 @@
+199899		bzo:3,109g:4,138x:4,16li:4,17l6:4,2346:3,3csy:2
+199899 bundesliga	2346	
+199899 cypriot		bzo:3,109g:4,138x:4,16li:4,17l6:4
+199899 cypriot cup	bzo	
+199899 cypriot first		109g:4
+199899 cypriot first division	109g	
+199899 cypriot fourth		17l6:4
+199899 cypriot fourth division	17l6	
+199899 cypriot second		138x:4
+199899 cypriot second division	138x	
+199899 cypriot third		16li:4
+199899 cypriot third division	16li	
+199899 ekstraklasa	3csy	
+199899 fuball		2346:3
+199899 fuball bundesliga	2346	
+199899 fussball bundesliga	2346	
+aeolus	6fqz	
+aeolus class cruiser	4nd0	
+aeolus son of hellen	2ne6	
+aeolus son of hippotes	6fqz	
+aeolus ulysses episode	ii9	
+alcolea	2kq6	2hre:3,2itg:3,2rh8:3,47dj:4
+alcolea almeria	2kq6	
+alcolea de		2hre:3,2rh8:3,47dj:4
+alcolea de cinca	2rh8	
+alcolea de cinca huesca	2rh8	
+alcolea de cinca spain	2rh8	
+alcolea de las		47dj:4
+alcolea de las penas	47dj	
+alcolea de las penas guadalajara	47dj	
+alcolea de las penas spain	47dj	
+alcolea de tajo	2hre	
+alcolea de tajo spain	2hre	
+alcolea de tajo toledo	2hre	
+alcolea del		2itg:3
+alcolea del pinar	2itg	
+alcolea del pinar guadalajara	2itg	
+alcolea del pinar spain	2itg	
+alcolea spain	2kq6	
+asoee	4aag	
+averil lavigne	ejd	
+bahcesarai	12ru	
+banners of inner mongolia	p57	
+barnoldswick		4zxg:4
+barnoldswick town		4zxg:4
+barnoldswick town f		4zxg:4
+barnoldswick town f c	4zxg	
+barnoldswick town f c 2003	4zxg	
+bendjedid	4cz3	
+bernieres	3zpn	1x7b:3,3jwu:3
+bernieres d		3jwu:3
+bernieres d ailly	3jwu	
+bernieres le		1x7b:3
+bernieres le patry	1x7b	
+bernieres seine maritime	3zpn	
+berroe	bi7	
+berulle	24rn	
+beteta	2pin	
+blaubeuren	2cvi	
+bonadventure pencroff	1byu	
+bones	be1,gx9,414w,68gu	4670:3,4b7k:2
+bones 2001 film	414w	
+bones animation studio	68gu	
+bones ashby	35lo	
+bones howe	4b7k	
+bones inc	68gu	
+bones mccoy	be1	
+bones radiohead song	5ns4	
+bones season		4670:3
+bones season 1	4670	
+bones series	gx9	
+bones studio	68gu	
+bones television series	gx9	
+bones the finder tv series	gx9	
+bones tv	gx9	
+bones tv series	gx9	
+bones tv show	gx9	
+borotalco	49uw	
+borotalco film	49uw	
+brzeznio commune	yj8	
+byrdae	1201	
+carmello anthony	1lik	
+castellbisbal	1xgb	
+cerostoma	ahc	
+ceyx	4jrw	
+ceyx bird	4jrw	
+ceyx genus	4jrw	
+ceyx kingfisher	4jrw	
+chappy ferrer	2301	
+combas	3qj7	
+composite	54bb	2d8w:2,54bb:2
+composite air strike force	6b4n	
+composite chordophone	99i	
+composite cone	7i9	
+composite cone volcano	7i9	
+composite data structure	hed	
+composite granite sinks	54bb	
+composite knot	6fp7	
+composite link	6fp7	
+composite material	54bb	
+composite materials	54bb	
+composite matrix	54bb	
+composite number	2d8w	
+composite numbers	2d8w	
+composite plant	195	
+composite signals organisation	4hjf	
+composite volcano	7i9	
+composite volcanoes	7i9	
+composite waste	6fmk	
+cosens spencer	4zyb	
+courcoue	3yna	
+crematogaster	8sq	
+demesmaeker mark	5b62	
+dobruska	1fxf	
+dravacsepely	5q3c	
+drifting		1z25:2
+drifting clouds	1z25	
+drifting clouds film	1z25	
+drifting mine	4vfw	
+drifting through static ep	5ull	
+drifting weeds	33m8	
+dystrichothorax	ttq	
+ectot		2v3t:3,2vkr:3
+ectot l		2v3t:3
+ectot l auber	2v3t	
+ectot les		2vkr:3
+ectot les baons	2vkr	
+emsworth	2p45	
+emsworth hampshire	2p45	
+epithamy of you	brk	
+epithamy of you nirvana album	brk	
+euur	5z6	
+failed	6fcd	
+failed star	1oew	
+fc gomelzheldortrans	4lig	
+fc grenchen	zii	
+feudatory	hfp	
+fundoianu	4sb1	
+funkcore	l9c	
+gleason	w8c	
+gmina dzierzaznia	x2e	
+greeley	gk8	4dyi:2
+greeley andrew	1lc5	
+greeley co	gk8	
+greeley co metropolitan statistical area	luj	
+greeley co msa	luj	
+greeley colorado	gk8	
+greeley colorado metropolitan area	luj	
+greeley county	4dyi	
+greeley county kansas	4dyi	
+greeley county ks	4dyi	
+greeley daily tribune	gk8	
+greeley horace	3se4	
+greeley metropolitan statistical area	luj	
+greeley msa	luj	
+gundlischwand	39rq	
+gundlischwand be	39rq	
+gundlischwand bern	39rq	
+gundlischwand berne	39rq	
+gundlischwand switzerland	39rq	
+harkov	1lw	
+harout	614u	
+harriet	4nx	s16:3,y19:2,17se:2,1gyw:2,1i6g:5,1kba:2,1n2t:7,1ol3:3,2m02:2,2rdw:2,2tvv:5,3d3y:3,3vcd:2,3ydl:2,4d9x:3,4dlp:2,4mei:2,5hxl:2,5qdf:2
+harriet ackers	1c96	
+harriet anderson	y19	
+harriet andersson	y19	
+harriet araminta ross tubman	1kba	
+harriet b stowe	s16	
+harriet bailey	18if	
+harriet beacher stowe	s16	
+harriet becher stowe	s16	
+harriet beecher		s16:3
+harriet beecher stowe	s16	
+harriet bosse	3ydl	
+harriet cooke	2rdw	
+harriet craig	2m02	
+harriet derbyshire	48jt	
+harriet dromey	17se	
+harriet e barney	1hvs	
+harriet e stowe	s16	
+harriet elizabeth abrams	1mh4	
+harriet elizabeth beecher stowe	s16	
+harriet elizabeth georgiana howard	1n2t	
+harriet elizabeth stowe	s16	
+harriet first name	4nx	
+harriet frank	3d3y	3d3y:3
+harriet frank jr	3d3y	
+harriet given name	4nx	
+harriet gray	2tmi	
+harriet harman	17se	
+harriet harris	4d9x	
+harriet hemings	4mei	
+harriet hilliard	3vcd	
+harriet hilliard nelson	3vcd	
+harriet jane hattie morahan	58nz	
+harriet keopuolani	4rri	
+harriet lee	5hxl	
+harriet leveson		2tvv:5
+harriet leveson gower		2tvv:5
+harriet leveson gower countess		2tvv:5
+harriet leveson gower countess granville	2tvv	
+harriet marineau	4dlp	
+harriet martineau	4dlp	
+harriet mary walter	1gyw	
+harriet michaels	3awt	
+harriet myrtle	5ab9	
+harriet nahienaena	3480	
+harriet name	4nx	
+harriet nelson	3vcd	
+harriet quimby	5qdf	
+harriet ruth harman	17se	
+harriet ruth harman qc mp	17se	
+harriet sansom		4d9x:3
+harriet sansom harris	4d9x	
+harriet shapiro	2vtq	
+harriet smith	4ax5	
+harriet sofie bosse	3ydl	
+harriet spencer	1yzh	
+harriet sutherland		1n2t:7
+harriet sutherland leveson		1n2t:7
+harriet sutherland leveson gower		1n2t:7
+harriet sutherland leveson gower duchess		1n2t:7
+harriet sutherland leveson gower duchess of		1n2t:7
+harriet sutherland leveson gower duchess of sutherland	1n2t	
+harriet taubman	1kba	
+harriet the		1i6g:5,1ol3:3
+harriet the spy	1ol3	1i6g:5
+harriet the spy 1996 film	1ol3	
+harriet the spy 2010 film	1i6g	
+harriet the spy blog		1i6g:5
+harriet the spy blog wars	1i6g	
+harriet the spy blog wars 2010 film	1i6g	
+harriet the spy film	1ol3	
+harriet the spy movie	1ol3	
+harriet the tortoise	4nx	
+harriet tubman	1kba	
+harriet tubman comments	1kba	
+harriet walter	1gyw	
+harriet waylett	2rdw	
+hayastan	c4	
+heinze richard	5d04	
+histrica	5brw	
+hydromechanics	6f7j	
+imperatorcaesardivifilivsavgvstvs	mus	
+jacobite		fag:4,5m3u:2
+jacobite period	5m3u	
+jacobite rebellion	5m3u	
+jacobite rebellion 1745	fag	
+jacobite rebellions	5m3u	
+jacobite revolution	5m3u	
+jacobite rising	5m3u	fag:4
+jacobite rising of		fag:4
+jacobite rising of 1745	fag	
+jacobite rising of 174546	fag	
+jacobite risings	5m3u	
+jacobite risings of 1745	fag	
+jacobite uprising	5m3u	
+jacobite uprisings	5m3u	
+jacobite war in ireland	436g	
+jacobite war in scotland	5m3u	
+jacobite wars	5m3u	
+jakoruda municipality	3b4z	
+jhonnier		4l0d:2
+jhonnier gonzalez	4l0d	
+jhonnier montano	2z4m	
+john cordoba	4l23	
+khurrianwala town	4mzn	
+krete	48f	
+krummhorn	4ww5	
+la hague	uew	
+la pola		2ky9:4
+la pola de		2ky9:4
+la pola de gordon	2ky9	
+la pola de gordon leon	2ky9	
+la pola de gordon spain	2ky9	
+laarbeek	2pdt	
+le seuil	1o0j	
+leedsville new york	2zws	
+lengauer thomas	5h2l	
+lugan	2xaj,2yas	
+lugan alps	163l	
+lugan aveyron	2xaj	
+lugan prealps	163l	
+lugan tarn	2yas	
+lursell	fh8	
+maletic stefan	4u8v	
+mangku	4eyl	
+maths	1fc	
+maths notation	4x55	
+maths olympiad	95q	
+michael pervukhin	4db9	
+mykhlik	4fk2	
+ossification of frontal	6ffi	
+ossification of frontal bone	6ffi	
+ossification of frontal bones	6ffi	
+ossification of temporal	5ygh	
+ossification of temporal bone	5ygh	
+ossification of temporal bones	5ygh	
+ossification of the frontal	6ffi	
+ossification of the frontal bones	6ffi	
+ossification of the temporal	5ygh	
+ossification of the temporal bone	5ygh	
+ossification of the temporal bones	5ygh	
+papleux	3fx2	
+pencho		59gs:2
+pencho petkov slaveykov	59gs	
+pencho slaveikov	59gs	
+pencho slavejkov	59gs	
+pencho slaveykov	59gs	
+perrey		4tc9:2
+perrey reeves	4tc9	
+picassian	8t0	
+piraces	47o4	
+piraces huesca	47o4	
+piraces spain	47o4	
+poseidon	csa,11q1	6hvm:4
+poseidon 2006 film	11q1	
+poseidon adventure	tud	tud:3,3515:3
+poseidon c 3 missile	1tjo	
+poseidon c3 missile	1tjo	
+poseidon enosichthon	csa	
+poseidon facts	csa	
+poseidon film	11q1	
+poseidon master		6hvm:4
+poseidon master of		6hvm:4
+poseidon master of atlantis	6hvm	
+poseidon missile	1tjo	
+poseidon missiles	1tjo	
+poseidon movie	11q1	
+poseidon mythology	csa	
+poseidon nuclear missile	1tjo	
+poseidon the sea king	csa	
+privas	tjl	
+prunoy	3hxx	
+ramasamy		5644:2
+ramasamy vairamuthu	5644	
+resurgence spring	g7c	
+rides and attractions at six flags discovery kingdom	5x8w	
+rides and attractions at six flags marine world	5x8w	
+robert faulk	2fu3	
+robert palmer	tpw,502h	
+robert palmer author producer	502h	
+robert palmer british singer	tpw	
+robert palmer musician	tpw	
+robert palmer singer	tpw	
+robert palmer writer	502h	
+robert stout	58zn	
+saint audrey	296j	
+salviato	57ha	
+sancedo	4cgn	
+sancedo leon	4cgn	
+sancedo spain	4cgn	
+sectors of the economy	5jce	
+selmanix	6ezg	
+semmering	4x7j	
+semmering austria	4x7j	
+semmering ort	4x7j	
+semmering ski resort	4x7j	
+senglea	46ag	
+sepolenski	29ty	
+sexophone show	42et	
+sir aston webb	2t3t	
+sir aston webb ra friba	2t3t	
+sir li ka shing	5tm9	
+sir mortimer wheeler	3fyp	
+skywalker nitron	65pd	
+skywalker twins	3vdc	
+swaffham	4uwd	
+swaffham museum	4uwd	
+swaffham norfolk	4uwd	
+tago yoshiko	6b0i	
+takayuki	l3u	1p32:2,2rji:2,3jug:2,3xqk:2,4grr:2,58mr:2,5t9g:2
+takayuki first name	l3u	
+takayuki funayama	5t9g	
+takayuki given name	l3u	
+takayuki hattori	3xqk	
+takayuki morimoto	3jug	
+takayuki suzuki	2rji	
+takayuki tami	4grr	
+takayuki tani	4grr	
+takayuki tanii	4grr	
+takayuki yamada	1p32	
+takayuki yamaguchi	58mr	
+takayuki yamaguchi footballer	58mr	
+tearbridge records	34n	
+the corian	r9m	
+the opium		3a4s:3
+the opium connection	sg3	
+the opium connection 1966 film	sg3	
+the opium connection 1972 film	52qs	
+the opium den	3a4s	
+the partnership novel	1z1z	
+the reaping	39n7	
+the reaping soundtrack	39n7	
+thomas browne	2c94	
+thomas browne died 1682	2c94	
+tiruchirappalli	e98	cgk:2
+tiruchirappalli district	cgk	
+tiruchirappalli india	e98	
+tk17	6bh	
+totes	294x	
+triguera	8cq	
+vialfre	5fd6	
+volumes	psf	
+volumes or capacities of other orders of magnitude	psf	
+waldwinter	2me7	
+westconn	2jir	
+wired	49ll	
+wired film	49ll	
+woodbrown	466c	
+worshipful company	ad6	
+zaitlin	52fg	

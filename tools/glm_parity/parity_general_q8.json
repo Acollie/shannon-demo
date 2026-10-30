@@ -1,0 +1,7243 @@
+{
+ "summary": {
+  "encoder": "q8",
+  "n": 200,
+  "split": "Mintaka dev (first N)",
+  "same_topics": 166,
+  "same_op": 197,
+  "same_top_path": 159,
+  "same_answer": 165,
+  "same_path_and_answer": 150,
+  "pct_top_path": 79.5,
+  "pct_answer": 82.5,
+  "pct_path_and_answer": 75,
+  "py_hits1": 19.5,
+  "node_ms_median": 179.3,
+  "node_ms_max": 2959.1,
+  "wall_s": 42.4
+ },
+ "rows": [
+  {
+   "id": "9ace9041",
+   "q": "What is the fourth book in the Twilight series?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 191,
+   "py": {
+    "topics": [
+     33524,
+     28,
+     85018
+    ],
+    "tlog": [
+     -0.08772292733192444,
+     -0.4903041422367096,
+     -1.3472132682800293
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       502,
+       235
+      ]
+     ],
+     [
+      0,
+      [
+       502,
+       503
+      ]
+     ],
+     [
+      0,
+      [
+       316,
+       317
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20310
+    }
+   },
+   "js": {
+    "topics": [
+     28,
+     33524,
+     85018
+    ],
+    "tlog": [
+     -0.24072784049038945,
+     -0.36839062623174695,
+     -1.6260130900448733
+    ],
+    "op": "set",
+    "top": [
+     [
+      1,
+      [
+       502,
+       235
+      ]
+     ],
+     [
+      1,
+      [
+       502,
+       503
+      ]
+     ],
+     [
+      1,
+      [
+       316,
+       317
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20310
+    }
+   }
+  },
+  {
+   "id": "88bdb808",
+   "q": "How many games are in the Uncharted series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 138.1
+  },
+  {
+   "id": "ecfd471d",
+   "q": "As of 2015, which group held the record for the most Grammy Awards of any group in history?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 328.3
+  },
+  {
+   "id": "5d8dc3ff",
+   "q": "Who is the oldest person to ever win an Academy Award in any category?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 211.6
+  },
+  {
+   "id": "118daa85",
+   "q": "Which Mario Kart games do not feature Link as a playable character?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 286.9,
+   "py": {
+    "topics": [
+     94406,
+     151051,
+     1122
+    ],
+    "tlog": [
+     -1.0809268951416016,
+     -1.1091902256011963,
+     -3.232758045196533
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      1,
+      [
+       351,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       234,
+       235
+      ]
+     ],
+     [
+      1,
+      [
+       76,
+       77
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 252907
+    }
+   },
+   "js": {
+    "topics": [
+     94406,
+     151051,
+     160456
+    ],
+    "tlog": [
+     -1.1145093156783359,
+     -1.2194630574426684,
+     -3.4338234673701993
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      1,
+      [
+       351,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       2078,
+       2079
+      ]
+     ],
+     [
+      1,
+      [
+       234,
+       235
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 252907
+    }
+   }
+  },
+  {
+   "id": "bcb4e4d7",
+   "q": "Which book in A Song of Ice and Fire also shares the name of a popular TV series?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 376.6,
+   "py": {
+    "topics": [
+     23267,
+     27694,
+     28
+    ],
+    "tlog": [
+     1.335721731185913,
+     -1.720868468284607,
+     -1.7482186555862427
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       351,
+       14
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       15
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 66074
+    }
+   },
+   "js": {
+    "topics": [
+     23267,
+     28,
+     27694
+    ],
+    "tlog": [
+     1.3473770227442925,
+     -1.400042005494491,
+     -1.7079454596867112
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       351,
+       14
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       15
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 66074
+    }
+   }
+  },
+  {
+   "id": "d2a31098",
+   "q": "Which Super Bowls have the Seahawks played in but not won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 137.8
+  },
+  {
+   "id": "a7b5322f",
+   "q": "Which finalist gymnast did not win first place in the 2021 Olympic games?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 156.8
+  },
+  {
+   "id": "26ebd827",
+   "q": "Did Risky Business come out before Top Gun?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 102,
+   "py": {
+    "topics": [
+     43590,
+     63679,
+     27
+    ],
+    "tlog": [
+     0.5135256052017212,
+     0.19485804438591003,
+     -1.8809176683425903
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       230,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       90,
+       149
+      ]
+     ],
+     [
+      1,
+      [
+       230,
+       272
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     43590,
+     63679,
+     27
+    ],
+    "tlog": [
+     0.36772030775185993,
+     -0.06070224916523402,
+     -1.7308898528760697
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       90,
+       149
+      ]
+     ],
+     [
+      1,
+      [
+       90,
+       149
+      ]
+     ],
+     [
+      1,
+      [
+       230,
+       -1
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "7f368fa5",
+   "q": "Which singer has earned more Academy Awards, Lady Gaga or Beyoncé?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 126
+  },
+  {
+   "id": "bab60554",
+   "q": "Who is older, Morgan Freeman or Anthony Hopkins?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 239.5
+  },
+  {
+   "id": "1eb7c1b3",
+   "q": "Who is older, Anthony Hopkins or George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 226
+  },
+  {
+   "id": "37336d45",
+   "q": "Which movie had the lowest production cost, Eraserhead or Little Miss Sunshine?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 206.4
+  },
+  {
+   "id": "b7057db6",
+   "q": "Who is older, Brad Pitt or George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 182.3
+  },
+  {
+   "id": "826528e6",
+   "q": "Did Gone With The Wind come out before 1940?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 131.8,
+   "py": {
+    "topics": [
+     17948,
+     188330,
+     60788
+    ],
+    "tlog": [
+     1.076820731163025,
+     -0.6208080053329468,
+     -0.9157341718673706
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       46,
+       47
+      ]
+     ],
+     [
+      1,
+      [
+       180,
+       47
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       3
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     17948,
+     188330,
+     60788
+    ],
+    "tlog": [
+     1.1087902454552607,
+     -0.5877206422188532,
+     -1.0875475242781873
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       180,
+       47
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       47
+      ]
+     ],
+     [
+      1,
+      [
+       180,
+       3
+      ]
+     ]
+    ],
+    "ans": true
+   }
+  },
+  {
+   "id": "6d4dced4",
+   "q": "Is Johnny Depp or Brad Pitt older?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 97.8,
+   "py": {
+    "topics": [
+     10931,
+     11920,
+     177290
+    ],
+    "tlog": [
+     1.330194354057312,
+     1.2528425455093384,
+     -2.1551716327667236
+    ],
+    "op": "compare",
+    "top": [
+     [
+      1,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      1,
+      [
+       2,
+       47
+      ]
+     ],
+     [
+      1,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 10931
+    }
+   },
+   "js": {
+    "topics": [
+     11920,
+     10931,
+     177290
+    ],
+    "tlog": [
+     1.2646334554849707,
+     1.1259036386638668,
+     -2.2185010279456456
+    ],
+    "op": "compare",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       47
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 10931
+    }
+   }
+  },
+  {
+   "id": "0492908a",
+   "q": "Who has won fewer Academy Awards for Best Actor, Tom Hanks or Leonardo DiCaprio?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 256.9
+  },
+  {
+   "id": "db942bdc",
+   "q": "Did the movie Goldfinger come out before Dr. No?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 165.9,
+   "py": {
+    "topics": [
+     18726,
+     145865,
+     168124
+    ],
+    "tlog": [
+     0.15051671862602234,
+     -1.355610966682434,
+     -1.7277874946594238
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       350,
+       351
+      ]
+     ],
+     [
+      0,
+      [
+       0,
+       1
+      ]
+     ],
+     [
+      2,
+      [
+       180,
+       47
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     18726,
+     145865,
+     168124
+    ],
+    "tlog": [
+     0.09728614222344967,
+     -1.4085045808016121,
+     -1.7805811378944467
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      2,
+      [
+       180,
+       47
+      ]
+     ],
+     [
+      1,
+      [
+       148,
+       149
+      ]
+     ],
+     [
+      2,
+      [
+       409,
+       -1
+      ]
+     ]
+    ],
+    "ans": true
+   }
+  },
+  {
+   "id": "2849ef8a",
+   "q": "Did the movie Diamonds Are Forever come out before 1974?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 180.4
+  },
+  {
+   "id": "2e488d77",
+   "q": "Which movie came out first, Avengers: Endgame or Jurassic World?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 193
+  },
+  {
+   "id": "750771e3",
+   "q": "Which movie is longer, Star Wars: Return of the Jedi or Star Wars: A New Hope?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 416.5
+  },
+  {
+   "id": "d7012a77",
+   "q": "How many The Chronicles of Narnia movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 226.1
+  },
+  {
+   "id": "e6245500",
+   "q": "How many times has Tom Cruise been nominated for an Academy Award for Best Actor?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 225.3
+  },
+  {
+   "id": "20188fe1",
+   "q": "How many Fantastic Beasts movies have been released so far?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 125,
+   "py": {
+    "topics": [
+     41744,
+     48626,
+     12
+    ],
+    "tlog": [
+     0.1441313922405243,
+     -0.8192803859710693,
+     -1.4639232158660889
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       101,
+       55
+      ]
+     ],
+     [
+      2,
+      [
+       225,
+       231
+      ]
+     ],
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     41744,
+     48626,
+     63861
+    ],
+    "tlog": [
+     0.0769726591448135,
+     -0.8331415488784567,
+     -1.4758279757895956
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      2,
+      [
+       70,
+       215
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  },
+  {
+   "id": "db39fd3c",
+   "q": "How many Oscars has Julia Roberts been nominated for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 126.9
+  },
+  {
+   "id": "877268eb",
+   "q": "How many movies are there in the Harry Potter saga?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 187.2
+  },
+  {
+   "id": "9fd5aabd",
+   "q": "How many Star Trek movies featured the Next Generation cast?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 183.9,
+   "py": {
+    "topics": [
+     303097,
+     12,
+     86562
+    ],
+    "tlog": [
+     -1.2681564092636108,
+     -1.4633269309997559,
+     -2.0500214099884033
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1,
+       150
+      ]
+     ],
+     [
+      1,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       160
+      ]
+     ]
+    ],
+    "ans": 22
+   },
+   "js": {
+    "topics": [
+     303097,
+     12,
+     18399
+    ],
+    "tlog": [
+     -1.1756833956671537,
+     -1.502308035855017,
+     -2.4104529495116074
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       240,
+       20
+      ]
+     ],
+     [
+      1,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       518,
+       20
+      ]
+     ]
+    ],
+    "ans": 1
+   }
+  },
+  {
+   "id": "7079d617",
+   "q": "How many movies in The Conjuring universe does Patrick Wilson appear in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 258.5
+  },
+  {
+   "id": "ec2a2453",
+   "q": "How many Resident Evil movies did Paul W. S. Anderson direct?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 294.3
+  },
+  {
+   "id": "cca194b5",
+   "q": "How many Best Actor Oscars has Jack Nicholson won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 146.1
+  },
+  {
+   "id": "52fe7a75",
+   "q": "How many titles are there in the Lord of the Rings series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 174.8
+  },
+  {
+   "id": "e25cd955",
+   "q": "How many Mortal Mombat movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 102,
+   "py": {
+    "topics": [
+     12,
+     88939,
+     36008
+    ],
+    "tlog": [
+     -0.7302881479263306,
+     -4.682753562927246,
+     -4.798526763916016
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1802,
+       2169
+      ]
+     ],
+     [
+      1,
+      [
+       1802,
+       2027
+      ]
+     ],
+     [
+      1,
+      [
+       1802,
+       1933
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     12,
+     88939,
+     36008
+    ],
+    "tlog": [
+     -0.8360958112612035,
+     -4.836053062554461,
+     -4.841588006963378
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1802,
+       2027
+      ]
+     ],
+     [
+      1,
+      [
+       1802,
+       2169
+      ]
+     ],
+     [
+      0,
+      [
+       225,
+       418
+      ]
+     ]
+    ],
+    "ans": 18
+   }
+  },
+  {
+   "id": "d6fd8ba5",
+   "q": "How many The Incredibles movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 113.1
+  },
+  {
+   "id": "e20f4cfd",
+   "q": "How many Hugh Jackman Wolverine movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.8
+  },
+  {
+   "id": "79eca99c",
+   "q": "How many Avengers movies has Spider-Man appeared in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 150.1
+  },
+  {
+   "id": "85785086",
+   "q": "How many movies has Bruce Willis acted in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 125.5
+  },
+  {
+   "id": "3a0a9ef4",
+   "q": "Which 1967 James Bond movie did not star Roger Moore?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 170.3
+  },
+  {
+   "id": "abdc5d93",
+   "q": "Which American movies were released in 2020 and didn't have a domestic gross of less than $200 million?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 425.1
+  },
+  {
+   "id": "a1b7c1e3",
+   "q": "Which actor participated in George of the Jungle but did not appear in George of the Jungle 2?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 406.4
+  },
+  {
+   "id": "903709ce",
+   "q": "Which Quentin Tarantino movie was nominated for Best Director in 1995 but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 196.8
+  },
+  {
+   "id": "0fc9e45a",
+   "q": "Which 1955 movie with James Dean was a hit but did not win an Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 336.4
+  },
+  {
+   "id": "f1d36d9f",
+   "q": "What was the title of the movie that Vanessa Kirby was nominated for but did not win?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 227.2,
+   "py": {
+    "topics": [
+     296431,
+     12,
+     46704
+    ],
+    "tlog": [
+     0.7566928863525391,
+     -1.7304191589355469,
+     -1.8387994766235352
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       2082
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       35
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 56970
+    }
+   },
+   "js": {
+    "topics": [
+     296431,
+     46704,
+     12
+    ],
+    "tlog": [
+     0.6626278179284248,
+     -1.8081847585974498,
+     -1.9174066627758226
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       1,
+       2082
+      ]
+     ],
+     [
+      2,
+      [
+       1,
+       35
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 56970
+    }
+   }
+  },
+  {
+   "id": "4f8f318c",
+   "q": "What was the first Alien movie that did not star Sigourney Weaver?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 218.6,
+   "py": {
+    "topics": [
+     16686,
+     28705,
+     12
+    ],
+    "tlog": [
+     1.7068618535995483,
+     -1.5993794202804565,
+     -1.9196168184280396
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       15
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       35
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 73094
+    }
+   },
+   "js": {
+    "topics": [
+     16686,
+     12,
+     28705
+    ],
+    "tlog": [
+     1.683907213261576,
+     -1.9753644095421365,
+     -2.017388521944058
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       150
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       15
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 73094
+    }
+   }
+  },
+  {
+   "id": "c1fd5a40",
+   "q": "Which Back to the Future movies did not take place in the future?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.1
+  },
+  {
+   "id": "1165fdd2",
+   "q": "Which movie about the development of Citizen Kane was nominated for Best Picture but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 252.8
+  },
+  {
+   "id": "f15a5a62",
+   "q": "Which 1993 Steven Spielberg movie does not star Liam Neeson?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165.9
+  },
+  {
+   "id": "998247c4",
+   "q": "Which Iron Man film did Don Cheadle not appear in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 243.3
+  },
+  {
+   "id": "0dba54c5",
+   "q": "Which 007 movies were nominated for Best Original Score at the Academy Awards and did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 248.4,
+   "py": {
+    "topics": [
+     20255,
+     207389,
+     12
+    ],
+    "tlog": [
+     1.3974179029464722,
+     -0.8077988624572754,
+     -1.4431191682815552
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       1900,
+       1807
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       17
+      ]
+     ],
+     [
+      2,
+      [
+       1,
+       2086
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 210411
+    }
+   },
+   "js": {
+    "topics": [
+     20255,
+     207389,
+     12
+    ],
+    "tlog": [
+     1.2950540442601768,
+     -0.8808807823449858,
+     -1.3466141324301917
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       1900,
+       1807
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       17
+      ]
+     ],
+     [
+      2,
+      [
+       353,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 121093
+    }
+   }
+  },
+  {
+   "id": "9e53da28",
+   "q": "Which baseball movie starring Kevin Costner was nominated for Best Picture in 1990 but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 233.9
+  },
+  {
+   "id": "6ce82c4a",
+   "q": "Which movie in 1999 was Cate Blanchett nominated for Best Performance by an Actress in a Leading Role but lost?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 551.2
+  },
+  {
+   "id": "a735999b",
+   "q": "Who was the director of The Goodfellas and attended school at New York University's School of Film?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 860.6
+  },
+  {
+   "id": "353c4540",
+   "q": "Which actress played an Avenger and was in Lost In Translation?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 352.1,
+   "py": {
+    "topics": [
+     13243,
+     14,
+     6982
+    ],
+    "tlog": [
+     0.7339478731155396,
+     -3.916454315185547,
+     -4.734249114990234
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       46,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       858
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       0
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 5
+    }
+   },
+   "js": {
+    "topics": [
+     13243,
+     14,
+     67148
+    ],
+    "tlog": [
+     0.743846766192905,
+     -3.7973070328393943,
+     -5.0437713467764995
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       46,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       858
+      ]
+     ],
+     [
+      0,
+      [
+       154,
+       0
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 5
+    }
+   }
+  },
+  {
+   "id": "8379d9e9",
+   "q": "Which actress who starred in White Christmas is also the aunt of George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 375.1,
+   "py": {
+    "topics": [
+     12573,
+     72640,
+     171642
+    ],
+    "tlog": [
+     1.2521339654922485,
+     -0.672315239906311,
+     -1.9088256359100342
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       20,
+       657
+      ]
+     ],
+     [
+      0,
+      [
+       20,
+       21
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 33
+    }
+   },
+   "js": {
+    "topics": [
+     12573,
+     72640,
+     171642
+    ],
+    "tlog": [
+     1.2625288077274404,
+     -0.6939120345600601,
+     -1.9304200463073975
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       20,
+       21
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 58994
+    }
+   }
+  },
+  {
+   "id": "0f41b6f4",
+   "q": "Which movie was directed by Spike Jonze and starred Joaquin Phoenix?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 206,
+   "py": {
+    "topics": [
+     23184,
+     36368,
+     12
+    ],
+    "tlog": [
+     1.459741234779358,
+     0.24947425723075867,
+     -2.0976648330688477
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       16
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 131824
+    }
+   },
+   "js": {
+    "topics": [
+     23184,
+     36368,
+     12
+    ],
+    "tlog": [
+     1.5066051250210575,
+     0.06039559312220927,
+     -2.0928339342834685
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       16
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 120714
+    }
+   }
+  },
+  {
+   "id": "24d038ec",
+   "q": "What is the name of the boxing movie that starred Sylvester Stallone as the lead and was the first in the series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 394.6
+  },
+  {
+   "id": "ed93c2a2",
+   "q": "Which pop vocal group performs at the wedding in Bridesmaids and was formed in Los Angeles in 1989?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 350.3,
+   "py": {
+    "topics": [
+     44295,
+     108,
+     60419
+    ],
+    "tlog": [
+     -0.08028355240821838,
+     -0.25988462567329407,
+     -0.4034138023853302
+    ],
+    "op": "set",
+    "top": [
+     [
+      1,
+      [
+       183,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       261,
+       463
+      ]
+     ],
+     [
+      1,
+      [
+       183,
+       1057
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 29477
+    }
+   },
+   "js": {
+    "topics": [
+     108,
+     44295,
+     60419
+    ],
+    "tlog": [
+     -0.20106189106998731,
+     -0.27524097520936974,
+     -0.5280122131035284
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       183,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       261,
+       463
+      ]
+     ],
+     [
+      0,
+      [
+       48,
+       49
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 29477
+    }
+   }
+  },
+  {
+   "id": "099aa784",
+   "q": "Which actress was in Cruella (2021) and has a child named Louise Jean McCary?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 313.5,
+   "py": {
+    "topics": [
+     1998,
+     462,
+     212830
+    ],
+    "tlog": [
+     -0.936663031578064,
+     -2.503518581390381,
+     -2.621098041534424
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       191,
+       190
+      ]
+     ],
+     [
+      0,
+      [
+       180,
+       181
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 13105
+    }
+   },
+   "js": {
+    "topics": [
+     1998,
+     212830,
+     462
+    ],
+    "tlog": [
+     -1.0273722482587049,
+     -2.6405710393720185,
+     -2.7118954430037934
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       90,
+       91
+      ]
+     ],
+     [
+      2,
+      [
+       191,
+       190
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 13105
+    }
+   }
+  },
+  {
+   "id": "b709aab6",
+   "q": "Which movie was produced by Steven Spielberg and came out in 1991?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.6
+  },
+  {
+   "id": "a220a791",
+   "q": "Which movie involved a character named Bruno Buckingham from 1995?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 2959.1,
+   "py": {
+    "topics": [
+     55113,
+     50649,
+     12
+    ],
+    "tlog": [
+     -1.1004860401153564,
+     -2.4627268314361572,
+     -2.5735363960266113
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       1,
+       458
+      ]
+     ],
+     [
+      2,
+      [
+       1,
+       74
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 56887
+    }
+   },
+   "js": {
+    "topics": [
+     55113,
+     50649,
+     48778
+    ],
+    "tlog": [
+     -1.5246468114886946,
+     -2.217827099618743,
+     -2.4825085347910565
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       231,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       15,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 56887
+    }
+   }
+  },
+  {
+   "id": "6666d6d3",
+   "q": "Which mobster movie directed by Francis Ford Coppola was based on a best-selling 1969 novel?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 436.7,
+   "py": {
+    "topics": [
+     10954,
+     56694,
+     70
+    ],
+    "tlog": [
+     1.2260969877243042,
+     -0.8742015361785889,
+     -1.8933602571487427
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       5,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       137,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20050
+    }
+   },
+   "js": {
+    "topics": [
+     10954,
+     56694,
+     70
+    ],
+    "tlog": [
+     1.2219527691875147,
+     -0.8798948696672384,
+     -1.6926321922642587
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       137,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       5,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20176
+    }
+   }
+  },
+  {
+   "id": "99a1c974",
+   "q": "Which actor has played Spider-Man after Marvel bought the rights for the movie again?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 231.4
+  },
+  {
+   "id": "2dbdd894",
+   "q": "Which movie was written by George Lucas and came out in 1973?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 225.8,
+   "py": {
+    "topics": [
+     11845,
+     46118,
+     199908
+    ],
+    "tlog": [
+     1.655650019645691,
+     -1.5695050954818726,
+     -1.669752836227417
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       137,
+       136
+      ]
+     ],
+     [
+      0,
+      [
+       5,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       137,
+       154
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 37690
+    }
+   },
+   "js": {
+    "topics": [
+     11845,
+     46118,
+     199908
+    ],
+    "tlog": [
+     1.5685397888167123,
+     -1.4565657209934022,
+     -1.7022213162836692
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       137,
+       136
+      ]
+     ],
+     [
+      0,
+      [
+       5,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 21942
+    }
+   }
+  },
+  {
+   "id": "12f2b568",
+   "q": "Which movie was directed by David Mickey Evans and starred Tom Guiry?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 222.7
+  },
+  {
+   "id": "85f17774",
+   "q": "Which movie was directed by Tony Kaye and starred Edward Norton?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 147,
+   "py": {
+    "topics": [
+     26112,
+     290412,
+     80423
+    ],
+    "tlog": [
+     1.6965998411178589,
+     -0.43041208386421204,
+     -1.4219409227371216
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       16
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       15
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 34751
+    }
+   },
+   "js": {
+    "topics": [
+     26112,
+     290412,
+     80423
+    ],
+    "tlog": [
+     1.7041100586096638,
+     -0.5024906874890488,
+     -1.4488882994318872
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       20,
+       21
+      ]
+     ],
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 150050
+    }
+   }
+  },
+  {
+   "id": "4c8888da",
+   "q": "Which actor starred in \"The Other Guys\" and was born in Boston, Massachusetts?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 250.7,
+   "py": {
+    "topics": [
+     45428,
+     20,
+     270
+    ],
+    "tlog": [
+     0.3109114468097687,
+     0.20613262057304382,
+     -0.3854619562625885
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       261,
+       190
+      ]
+     ],
+     [
+      0,
+      [
+       16,
+       184
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 246738
+    }
+   },
+   "js": {
+    "topics": [
+     45428,
+     20,
+     270
+    ],
+    "tlog": [
+     0.3541503360614916,
+     0.13403577534003616,
+     -0.3063158306034053
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       261,
+       190
+      ]
+     ],
+     [
+      0,
+      [
+       16,
+       184
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 23873
+    }
+   }
+  },
+  {
+   "id": "8ed4ce4f",
+   "q": "Which movie that involves a cross-country team stars Kevin Costner?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 370.9,
+   "py": {
+    "topics": [
+     16545,
+     1537,
+     12
+    ],
+    "tlog": [
+     2.0731701850891113,
+     -2.009748935699463,
+     -2.0755720138549805
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       15
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       57
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 82182
+    }
+   },
+   "js": {
+    "topics": [
+     16545,
+     1537,
+     573
+    ],
+    "tlog": [
+     2.0698841639629153,
+     -2.0427217807694715,
+     -2.0466225214353857
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       15
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       57
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 82182
+    }
+   }
+  },
+  {
+   "id": "605cd104",
+   "q": "Which actor starred in Saw II and was a founding member of New Kids on the Block?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 448.3,
+   "py": {
+    "topics": [
+     32250,
+     20,
+     48502
+    ],
+    "tlog": [
+     0.8857859373092651,
+     -0.4746665060520172,
+     -0.6865053176879883
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       190,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       43,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 37911
+    }
+   },
+   "js": {
+    "topics": [
+     32250,
+     20,
+     48502
+    ],
+    "tlog": [
+     0.8830483443445235,
+     -0.3227370619401916,
+     -0.5220571657712006
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       190,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       43,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 123034
+    }
+   }
+  },
+  {
+   "id": "2f724f11",
+   "q": "Which movie starred Chris Pratt and followed the character Star-Lord?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 209.8
+  },
+  {
+   "id": "7ebba131",
+   "q": "Which Grammy Award winning singer also starred in A Star is Born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 253.7
+  },
+  {
+   "id": "4055dbdc",
+   "q": "Which actor starred in The Town and also directed it?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.3
+  },
+  {
+   "id": "13e1f561",
+   "q": "Which movie was set in a German prison camp and won Best Picture in 1993?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 345.9,
+   "py": {
+    "topics": [
+     1976,
+     112290,
+     12
+    ],
+    "tlog": [
+     -1.5717777013778687,
+     -1.8976322412490845,
+     -2.2381746768951416
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       2086,
+       2071
+      ]
+     ],
+     [
+      1,
+      [
+       2086,
+       2025
+      ]
+     ],
+     [
+      1,
+      [
+       2086,
+       2079
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 134592
+    }
+   },
+   "js": {
+    "topics": [
+     1976,
+     112290,
+     12
+    ],
+    "tlog": [
+     -1.4159542251338606,
+     -1.9303665800185101,
+     -2.2006886201766953
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       2086,
+       2025
+      ]
+     ],
+     [
+      1,
+      [
+       34,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       2086,
+       2071
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 36134
+    }
+   }
+  },
+  {
+   "id": "bccd1dde",
+   "q": "When was the director of Slumdog Millionaire born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 102
+  },
+  {
+   "id": "85c0b1fb",
+   "q": "When was the director of Pulp Fiction born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 98.6,
+   "py": {
+    "topics": [
+     13684,
+     5084,
+     113184
+    ],
+    "tlog": [
+     1.9053457975387573,
+     -0.9765059947967529,
+     -2.754281520843506
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       240,
+       2068
+      ]
+     ],
+     [
+      0,
+      [
+       518,
+       2068
+      ]
+     ],
+     [
+      0,
+      [
+       240,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 351644
+    }
+   },
+   "js": {
+    "topics": [
+     13684,
+     5084,
+     113184
+    ],
+    "tlog": [
+     1.890978250560951,
+     -0.6699590477716777,
+     -2.7165282936212214
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       240,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       240,
+       2068
+      ]
+     ],
+     [
+      0,
+      [
+       518,
+       2068
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 113632
+    }
+   }
+  },
+  {
+   "id": "a1bee914",
+   "q": "How many kids does the lead actress of Silence of the Lambs have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 157.8
+  },
+  {
+   "id": "e1d742c2",
+   "q": "How many kids does the lead actress of A Few Good Men have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 255.1
+  },
+  {
+   "id": "48e38631",
+   "q": "How many actors played Sonny in Big Daddy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 126,
+   "py": {
+    "topics": [
+     92641,
+     20,
+     77577
+    ],
+    "tlog": [
+     0.27145859599113464,
+     -0.9003493785858154,
+     -2.118920087814331
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       70,
+       337
+      ]
+     ],
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      1,
+      [
+       101,
+       0
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     92641,
+     20,
+     77577
+    ],
+    "tlog": [
+     0.2133495775015447,
+     -1.0314396793648242,
+     -2.0928310469025675
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      1,
+      [
+       101,
+       225
+      ]
+     ],
+     [
+      0,
+      [
+       70,
+       646
+      ]
+     ]
+    ],
+    "ans": 1
+   }
+  },
+  {
+   "id": "6821b3e2",
+   "q": "Where did the actress who was the main star in Eat Pray Love go to college?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 345.7,
+   "py": {
+    "topics": [
+     59826,
+     145662,
+     165900
+    ],
+    "tlog": [
+     0.9382046461105347,
+     -0.4025881588459015,
+     -1.4554682970046997
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       16,
+       26
+      ]
+     ],
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       26
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 1810
+    }
+   },
+   "js": {
+    "topics": [
+     59826,
+     145662,
+     165900
+    ],
+    "tlog": [
+     0.965355556396706,
+     -0.5202320295927717,
+     -1.5730745414676115
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       16,
+       26
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 12232
+    }
+   }
+  },
+  {
+   "id": "421971a8",
+   "q": "Where is that actor that plays Peter Parker in the MCU from?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 199.1
+  },
+  {
+   "id": "4ad6bafd",
+   "q": "How many children did the actor who played Don Vito Corleone in Godfather have?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 305.9,
+   "py": {
+    "topics": [
+     187634,
+     20050,
+     20
+    ],
+    "tlog": [
+     0.5385290384292603,
+     -0.5332529544830322,
+     -0.5608272552490234
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       21,
+       1748
+      ]
+     ],
+     [
+      1,
+      [
+       1808,
+       1701
+      ]
+     ],
+     [
+      0,
+      [
+       74,
+       425
+      ]
+     ]
+    ],
+    "ans": 2
+   },
+   "js": {
+    "topics": [
+     187634,
+     20,
+     20050
+    ],
+    "tlog": [
+     0.5678127535118329,
+     -0.3932334516519384,
+     -0.4171122698013395
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       21,
+       1748
+      ]
+     ],
+     [
+      2,
+      [
+       1808,
+       1701
+      ]
+     ],
+     [
+      1,
+      [
+       21,
+       1742
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  },
+  {
+   "id": "bd85813c",
+   "q": "How old is the director of Spider-Man Homecoming?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165.6
+  },
+  {
+   "id": "6edaabbb",
+   "q": "How many children does the director of Inception have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 128.9
+  },
+  {
+   "id": "043b734e",
+   "q": "Where was the director of Avatar born?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 81.7,
+   "py": {
+    "topics": [
+     5084,
+     22766,
+     294678
+    ],
+    "tlog": [
+     -0.591495156288147,
+     -0.8815567493438721,
+     -2.5297176837921143
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       21,
+       6
+      ]
+     ],
+     [
+      1,
+      [
+       240,
+       12
+      ]
+     ],
+     [
+      1,
+      [
+       240,
+       6
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 1
+    }
+   },
+   "js": {
+    "topics": [
+     5084,
+     22766,
+     113184
+    ],
+    "tlog": [
+     -0.6083570454152112,
+     -0.9569953373466932,
+     -2.5992592187439643
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       21,
+       6
+      ]
+     ],
+     [
+      2,
+      [
+       21,
+       6
+      ]
+     ],
+     [
+      1,
+      [
+       240,
+       6
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 1
+    }
+   }
+  },
+  {
+   "id": "dfd012c8",
+   "q": "How many children does the lead actress in Clueless have?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 134.4,
+   "py": {
+    "topics": [
+     81661,
+     145662,
+     165900
+    ],
+    "tlog": [
+     -0.5125129222869873,
+     -2.376413345336914,
+     -3.4389724731445312
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       4,
+       20
+      ]
+     ],
+     [
+      1,
+      [
+       4,
+       20
+      ]
+     ],
+     [
+      2,
+      [
+       4,
+       20
+      ]
+     ]
+    ],
+    "ans": 5
+   },
+   "js": {
+    "topics": [
+     81661,
+     145662,
+     48850
+    ],
+    "tlog": [
+     -0.49051380550280477,
+     -2.3663863455920326,
+     -3.3440569036318126
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       4,
+       20
+      ]
+     ],
+     [
+      1,
+      [
+       4,
+       20
+      ]
+     ],
+     [
+      0,
+      [
+       240,
+       20
+      ]
+     ]
+    ],
+    "ans": 5
+   }
+  },
+  {
+   "id": "91f315a4",
+   "q": "How tall is the actor who played Deadpool?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 139.5
+  },
+  {
+   "id": "28ae20ee",
+   "q": "How tall is the actor who played Frodo?",
+   "topics_ok": true,
+   "op_ok": false,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 116,
+   "py": {
+    "topics": [
+     20,
+     5283,
+     262289
+    ],
+    "tlog": [
+     0.8985776901245117,
+     -0.2985113561153412,
+     -2.0543901920318604
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       21,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       21,
+       190
+      ]
+     ],
+     [
+      0,
+      [
+       225,
+       -1
+      ]
+     ]
+    ],
+    "ans": 20392
+   },
+   "js": {
+    "topics": [
+     20,
+     5283,
+     262289
+    ],
+    "tlog": [
+     0.8456139730544143,
+     -0.2918521066590994,
+     -2.0286916805347195
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       21,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       1810,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       21,
+       216
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 2235
+    }
+   }
+  },
+  {
+   "id": "802fbd23",
+   "q": "How old is the actor who played Luke Skywalker?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 126,
+   "py": {
+    "topics": [
+     180624,
+     20,
+     2111
+    ],
+    "tlog": [
+     1.4396408796310425,
+     0.9888237714767456,
+     -1.4446619749069214
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       23,
+       425
+      ]
+     ],
+     [
+      2,
+      [
+       23,
+       66
+      ]
+     ],
+     [
+      0,
+      [
+       1810,
+       1663
+      ]
+     ]
+    ],
+    "ans": 2
+   },
+   "js": {
+    "topics": [
+     180624,
+     20,
+     2111
+    ],
+    "tlog": [
+     1.426207181950902,
+     0.82769381414901,
+     -1.4431041212260312
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       1810,
+       1663
+      ]
+     ],
+     [
+      2,
+      [
+       23,
+       425
+      ]
+     ],
+     [
+      2,
+      [
+       23,
+       66
+      ]
+     ]
+    ],
+    "ans": 78
+   }
+  },
+  {
+   "id": "a516305f",
+   "q": "When was the actress who played Claire Dearing in Jurassic World born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 167.8
+  },
+  {
+   "id": "dc1a55dc",
+   "q": "How tall is the actor who plays John Wick?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 162.8,
+   "py": {
+    "topics": [
+     39169,
+     20,
+     85194
+    ],
+    "tlog": [
+     1.4134901762008667,
+     0.930884838104248,
+     -0.7431603670120239
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       21,
+       2054
+      ]
+     ],
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       1856,
+       1663
+      ]
+     ]
+    ],
+    "ans": 142
+   },
+   "js": {
+    "topics": [
+     39169,
+     20,
+     85194
+    ],
+    "tlog": [
+     1.4656306112629836,
+     0.9257863575488906,
+     -0.7705242379675751
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       1856,
+       1663
+      ]
+     ]
+    ],
+    "ans": 17
+   }
+  },
+  {
+   "id": "cd085a8c",
+   "q": "How many children does the director of Gangs of New York have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.3
+  },
+  {
+   "id": "07c04474",
+   "q": "In which year was the director of Taxi Driver born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 159.2
+  },
+  {
+   "id": "234caafb",
+   "q": "Where did the lead actor of John Wick grow up?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 192
+  },
+  {
+   "id": "7a5e5ab0",
+   "q": "How many kids does the lead actor of Troy have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 220.4
+  },
+  {
+   "id": "e5b42a17",
+   "q": "What was the title of the fourth Star Trek movie of the original series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 231.5
+  },
+  {
+   "id": "fde1e04f",
+   "q": "What was the fourth Avenger movie called?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 107.4
+  },
+  {
+   "id": "b039b044",
+   "q": "What was the title of the third movie in the second Star Wars trilogy to be released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 274.7
+  },
+  {
+   "id": "c31b6d9a",
+   "q": "What was Daniel Craig's last Bond movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 188.3
+  },
+  {
+   "id": "bbee5ae7",
+   "q": "What was Tom Cruise's second movie?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 142.9,
+   "py": {
+    "topics": [
+     15918,
+     12,
+     983
+    ],
+    "tlog": [
+     1.772180199623108,
+     -0.9485921859741211,
+     -1.8085190057754517
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 65461
+    }
+   },
+   "js": {
+    "topics": [
+     15918,
+     12,
+     366
+    ],
+    "tlog": [
+     1.8257740023232258,
+     -1.0055667709927403,
+     -1.7379981533452629
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       17,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       17,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       235,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 65461
+    }
+   }
+  },
+  {
+   "id": "6daba93f",
+   "q": "What was the first movie released that is considered part of the Marvel Cinematic Universe?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 201.8
+  },
+  {
+   "id": "7b7a98eb",
+   "q": "What was the first Star Wars movie to be released in theaters?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 179.5,
+   "py": {
+    "topics": [
+     8851,
+     93694,
+     220409
+    ],
+    "tlog": [
+     1.0123165845870972,
+     -0.7223548889160156,
+     -1.2581982612609863
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       786,
+       787
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       935,
+       787
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 21942
+    }
+   },
+   "js": {
+    "topics": [
+     8851,
+     93694,
+     220409
+    ],
+    "tlog": [
+     0.9295618486657456,
+     -0.804494796875624,
+     -1.3404842090702187
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       351,
+       34
+      ]
+     ],
+     [
+      0,
+      [
+       935,
+       787
+      ]
+     ],
+     [
+      0,
+      [
+       786,
+       787
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 301578
+    }
+   }
+  },
+  {
+   "id": "410887e6",
+   "q": "When was Sylvester Stallone first nominated for an Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 125.7
+  },
+  {
+   "id": "c1c0541b",
+   "q": "What was the second Child's Play movie chronologically?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 249.6,
+   "py": {
+    "topics": [
+     114551,
+     126060,
+     12
+    ],
+    "tlog": [
+     0.19327190518379211,
+     -0.8813735246658325,
+     -1.0043268203735352
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       350,
+       351
+      ]
+     ],
+     [
+      0,
+      [
+       136,
+       235
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 69375
+    }
+   },
+   "js": {
+    "topics": [
+     114551,
+     126060,
+     12
+    ],
+    "tlog": [
+     0.190093740127434,
+     -0.884604138929175,
+     -1.1929570337351965
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      2,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       136,
+       235
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 296833
+    }
+   }
+  },
+  {
+   "id": "770d9ad6",
+   "q": "What is the second Twilight movie?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 166.8,
+   "py": {
+    "topics": [
+     33524,
+     12,
+     85018
+    ],
+    "tlog": [
+     0.3798580467700958,
+     -0.7215172052383423,
+     -0.8764278888702393
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       502,
+       235
+      ]
+     ],
+     [
+      0,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       136,
+       519
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20310
+    }
+   },
+   "js": {
+    "topics": [
+     33524,
+     85018,
+     12
+    ],
+    "tlog": [
+     0.4893169004249459,
+     -0.7679220161455025,
+     -0.8429299542079324
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       502,
+       235
+      ]
+     ],
+     [
+      0,
+      [
+       35,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       502,
+       503
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20310
+    }
+   }
+  },
+  {
+   "id": "675275e6",
+   "q": "Who was the first African American to win the Academy Award for best actor?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 185.7,
+   "py": {
+    "topics": [
+     2217,
+     137,
+     20
+    ],
+    "tlog": [
+     2.497326612472534,
+     0.18286582827568054,
+     -0.20201954245567322
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       225,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       219,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 16899
+    }
+   },
+   "js": {
+    "topics": [
+     2217,
+     137,
+     207389
+    ],
+    "tlog": [
+     2.433894173316578,
+     0.22197058393547683,
+     -0.44004636103228995
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       219,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 16899
+    }
+   }
+  },
+  {
+   "id": "a43f3c50",
+   "q": "What was the first movie in the Peter Jackson Lord of the Rings trilogy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 279
+  },
+  {
+   "id": "9b26a692",
+   "q": "When did Jamie Foxx win his first Oscar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 121.4
+  },
+  {
+   "id": "9be11a41",
+   "q": "What was the first animated movie Kevin Hart ever starred in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 173.7
+  },
+  {
+   "id": "23ad7fbe",
+   "q": "What is the title of the first Harry Potter movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 151
+  },
+  {
+   "id": "c0c0bb29",
+   "q": "What is the second movie in the Pirates of the Caribbean series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 216.8
+  },
+  {
+   "id": "ccfda890",
+   "q": "What is the fourth movie in the Pirates of the Caribbean series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 207.5
+  },
+  {
+   "id": "b44df782",
+   "q": "What is the second movie in the Hobbit series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 188.2
+  },
+  {
+   "id": "95f1efb7",
+   "q": "Which Matrix movie is the longest?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 104.4
+  },
+  {
+   "id": "8e1db257",
+   "q": "What is the most amount of money an actor has received for one movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 300.7
+  },
+  {
+   "id": "87615bbd",
+   "q": "Which movie made the most money in the United States in 1978?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 199.2
+  },
+  {
+   "id": "234bfa40",
+   "q": "What is the longest Academy Award winning movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 141.1,
+   "py": {
+    "topics": [
+     20255,
+     12,
+     1609
+    ],
+    "tlog": [
+     0.9916741847991943,
+     -0.8087397813796997,
+     -0.9727410078048706
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       353,
+       231
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       81
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 14181
+    }
+   },
+   "js": {
+    "topics": [
+     20255,
+     12,
+     1609
+    ],
+    "tlog": [
+     0.983472369335257,
+     -0.8438924506956078,
+     -0.9296364257777852
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       353,
+       231
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       81,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 261843
+    }
+   }
+  },
+  {
+   "id": "d11e5377",
+   "q": "What is the shortest movie ever nominated for an Oscar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 164.1,
+   "py": {
+    "topics": [
+     1590,
+     12695,
+     12
+    ],
+    "tlog": [
+     0.6210366487503052,
+     -1.1003658771514893,
+     -1.303420066833496
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      1,
+      [
+       4,
+       5
+      ]
+     ],
+     [
+      2,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       154,
+       155
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 136850
+    }
+   },
+   "js": {
+    "topics": [
+     1590,
+     12695,
+     12
+    ],
+    "tlog": [
+     0.6158517784101746,
+     -1.112731314536419,
+     -1.36386547398881
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      2,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       4,
+       5
+      ]
+     ],
+     [
+      2,
+      [
+       77,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 296833
+    }
+   }
+  },
+  {
+   "id": "48f8bcb2",
+   "q": "Who is the youngest person to win a Best Director Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 238.2
+  },
+  {
+   "id": "0e964779",
+   "q": "What actor has been nominated for the most Academy Awards?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.8
+  },
+  {
+   "id": "ba902753",
+   "q": "Which Star Wars movie is the shortest?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 124.6,
+   "py": {
+    "topics": [
+     8851,
+     93694,
+     12695
+    ],
+    "tlog": [
+     0.940112829208374,
+     -0.7438700199127197,
+     -0.8516876697540283
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       786,
+       787
+      ]
+     ],
+     [
+      1,
+      [
+       786,
+       787
+      ]
+     ],
+     [
+      0,
+      [
+       4,
+       5
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 21942
+    }
+   },
+   "js": {
+    "topics": [
+     8851,
+     12695,
+     93694
+    ],
+    "tlog": [
+     0.8262100878765577,
+     -0.8540135106771782,
+     -0.8569004001596313
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       786,
+       787
+      ]
+     ],
+     [
+      2,
+      [
+       786,
+       787
+      ]
+     ],
+     [
+      0,
+      [
+       4,
+       5
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 21942
+    }
+   }
+  },
+  {
+   "id": "a300fc78",
+   "q": "Which Die Hard movie made the most money worldwide?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 159.1
+  },
+  {
+   "id": "e915c0bd",
+   "q": "Which Die Hard movie made the least money worldwide?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 153.5
+  },
+  {
+   "id": "f9bba15a",
+   "q": "What is the longest span between consecutive series installments?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 101.3
+  },
+  {
+   "id": "69709963",
+   "q": "Which season has more episodes in Into The Badlands?",
+   "topics_ok": true,
+   "op_ok": false,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 116.1,
+   "py": {
+    "topics": [
+     127294,
+     475,
+     49427
+    ],
+    "tlog": [
+     0.8814300298690796,
+     -1.3355169296264648,
+     -2.0592799186706543
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       1926,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       1926,
+       1931
+      ]
+     ],
+     [
+      0,
+      [
+       1926,
+       1807
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     127294,
+     475,
+     49427
+    ],
+    "tlog": [
+     0.9281779016059313,
+     -1.434063536539999,
+     -1.8701355379907834
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       1926,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       1926,
+       1931
+      ]
+     ],
+     [
+      0,
+      [
+       1926,
+       1807
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 303152
+    }
+   }
+  },
+  {
+   "id": "278cae5c",
+   "q": "Which Star Wars movie has the most screen time showing lightsabers?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 190.1,
+   "py": {
+    "topics": [
+     8851,
+     93694,
+     220409
+    ],
+    "tlog": [
+     0.1518942415714264,
+     -1.5123233795166016,
+     -2.0370030403137207
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       935,
+       787
+      ]
+     ],
+     [
+      0,
+      [
+       351,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       935,
+       787
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 12001
+    }
+   },
+   "js": {
+    "topics": [
+     8851,
+     93694,
+     220409
+    ],
+    "tlog": [
+     0.10252506275184903,
+     -1.5613316255408602,
+     -2.0858846100872097
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       351,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       935,
+       787
+      ]
+     ],
+     [
+      1,
+      [
+       935,
+       787
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 57856
+    }
+   }
+  },
+  {
+   "id": "24d536ed",
+   "q": "What is the longest movie from 2003?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 116.8
+  },
+  {
+   "id": "3c19a6a5",
+   "q": "What Star Wars movie made the most money?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 137.4
+  },
+  {
+   "id": "b1089832",
+   "q": "Who is the highest-grossing actor of all time?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 205.4
+  },
+  {
+   "id": "b11b82a9",
+   "q": "Which Harry Potter movie is the shortest?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 132.4
+  },
+  {
+   "id": "9e98509e",
+   "q": "What is the longest Star Wars movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 129.8
+  },
+  {
+   "id": "9fe7e72a",
+   "q": "Which female actor has won the most Oscars?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 110.5,
+   "py": {
+    "topics": [
+     20255,
+     20,
+     10034
+    ],
+    "tlog": [
+     0.15945467352867126,
+     -0.16217759251594543,
+     -2.0485098361968994
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       225,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       656,
+       225
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 18960
+    }
+   },
+   "js": {
+    "topics": [
+     20255,
+     20,
+     10034
+    ],
+    "tlog": [
+     0.006703968467861735,
+     -0.46260038694403927,
+     -2.0295276698654763
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       225,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       656,
+       225
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 46858
+    }
+   }
+  },
+  {
+   "id": "659b8717",
+   "q": "Has Neil Breen made 5 non-documentary feature movies as of 2021?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 190.6
+  },
+  {
+   "id": "d5fc9a0e",
+   "q": "Was Leonardo DiCaprio in Titanic?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 107,
+   "py": {
+    "topics": [
+     19307,
+     42870,
+     17674
+    ],
+    "tlog": [
+     1.6249150037765503,
+     0.018168538808822632,
+     -0.6358240842819214
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       216
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     19307,
+     42870,
+     17674
+    ],
+    "tlog": [
+     1.5648843787728457,
+     -0.010408647642690349,
+     -0.7811802164966093
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      2,
+      [
+       16,
+       216
+      ]
+     ],
+     [
+      1,
+      [
+       16,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       16,
+       -1
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "967d242b",
+   "q": "Did Tom Hanks receive an Oscar for Forrest Gump?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 199.5,
+   "py": {
+    "topics": [
+     10742,
+     1590,
+     301354
+    ],
+    "tlog": [
+     0.9850122928619385,
+     -0.927680253982544,
+     -0.965657114982605
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       180,
+       129
+      ]
+     ],
+     [
+      1,
+      [
+       23,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     10742,
+     301354,
+     1590
+    ],
+    "tlog": [
+     0.9899586536851624,
+     -0.8757234850272535,
+     -1.0045949276322275
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      2,
+      [
+       180,
+       129
+      ]
+     ],
+     [
+      2,
+      [
+       23,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "4997a262",
+   "q": "Was Apollo 13 nominated for Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 100.7
+  },
+  {
+   "id": "d63988ba",
+   "q": "Is Bong Joon-ho the director of Parasite and OldBoy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 181.3
+  },
+  {
+   "id": "bdad1565",
+   "q": "Has Tom Hanks has been nominated for Best Picture more than eight times?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 137.4,
+   "py": {
+    "topics": [
+     10742,
+     21431,
+     22253
+    ],
+    "tlog": [
+     0.6132698059082031,
+     -1.9258836507797241,
+     -3.290128469467163
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       0,
+       441
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     10742,
+     21431,
+     22253
+    ],
+    "tlog": [
+     0.568016401061983,
+     -1.9286744663071207,
+     -3.2621248064076434
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ],
+     [
+      0,
+      [
+       0,
+       441
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "be1ddb92",
+   "q": "Was Beyoncé in the Lion King?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 153.7,
+   "py": {
+    "topics": [
+     14991,
+     106606,
+     42993
+    ],
+    "tlog": [
+     0.812126636505127,
+     -0.4532097280025482,
+     -0.6370844841003418
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       70,
+       7
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       7
+      ]
+     ],
+     [
+      2,
+      [
+       70,
+       7
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     14991,
+     106606,
+     56428
+    ],
+    "tlog": [
+     0.7450613993217498,
+     -0.5569605614257999,
+     -0.7022413371052193
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       70,
+       7
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       7
+      ]
+     ],
+     [
+      0,
+      [
+       76,
+       77
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "56fccd56",
+   "q": "Did \"The Lord of the Rings\" have two installments?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 141.1
+  },
+  {
+   "id": "1b58d3b7",
+   "q": "Was Tom Cruise in 8 Mile?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 90.1,
+   "py": {
+    "topics": [
+     15918,
+     51276,
+     3270
+    ],
+    "tlog": [
+     1.0597327947616577,
+     0.9253066778182983,
+     -2.1912782192230225
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       47
+      ]
+     ],
+     [
+      1,
+      [
+       46,
+       47
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     15918,
+     51276,
+     366
+    ],
+    "tlog": [
+     1.0319119979130582,
+     0.8276081656508117,
+     -2.232682821779695
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       47
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "ac1a2fa9",
+   "q": "Is Halloween Kills a sequel to Halloween 2018?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162.7
+  },
+  {
+   "id": "df5ea37c",
+   "q": "Did Titanic win Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 74.3
+  },
+  {
+   "id": "27c58b4a",
+   "q": "Did Clint Eastwood retire from acting?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 70.6
+  },
+  {
+   "id": "f765865a",
+   "q": "Was Wings the first Academy Award winner for Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 148.5
+  },
+  {
+   "id": "eff739f6",
+   "q": "Did The Broadway Melody win Best Picture?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 111.2,
+   "py": {
+    "topics": [
+     81805,
+     97317,
+     9643
+    ],
+    "tlog": [
+     1.1330238580703735,
+     -2.6264381408691406,
+     -3.004751682281494
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       70,
+       71
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       71
+      ]
+     ],
+     [
+      0,
+      [
+       70,
+       31
+      ]
+     ]
+    ],
+    "ans": true
+   },
+   "js": {
+    "topics": [
+     81805,
+     97317,
+     133787
+    ],
+    "tlog": [
+     1.0928970979150796,
+     -2.6012404739006247,
+     -3.027185391830075
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       70,
+       71
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       71
+      ]
+     ],
+     [
+      2,
+      [
+       70,
+       71
+      ]
+     ]
+    ],
+    "ans": true
+   }
+  },
+  {
+   "id": "5dffe029",
+   "q": "Did Grand Hotel win Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 97.4
+  },
+  {
+   "id": "94d90f31",
+   "q": "Have Ryan Reynolds and Sandra Bullock ever starred in a movie together?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 291.5
+  },
+  {
+   "id": "7bbc3a01",
+   "q": "Did Shia LaBeouf star in the original 2007 Transformers movie?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 222.9,
+   "py": {
+    "topics": [
+     45860,
+     28043,
+     12
+    ],
+    "tlog": [
+     0.2821570336818695,
+     0.2792927920818329,
+     -1.950371503829956
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       46,
+       533
+      ]
+     ],
+     [
+      1,
+      [
+       46,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       6,
+       7
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     28043,
+     45860,
+     12
+    ],
+    "tlog": [
+     0.2564032495836545,
+     0.22196296428248594,
+     -1.890875799495266
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       46,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       533
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       7
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "9d420cf2",
+   "q": "Did John Williams compose for Raiders of the Lost Ark?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 177.5,
+   "py": {
+    "topics": [
+     30257,
+     7584,
+     77519
+    ],
+    "tlog": [
+     0.7664521932601929,
+     -0.21619221568107605,
+     -1.9609495401382446
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      1,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       46,
+       47
+      ]
+     ],
+     [
+      2,
+      [
+       24,
+       25
+      ]
+     ]
+    ],
+    "ans": false
+   },
+   "js": {
+    "topics": [
+     30257,
+     7584,
+     77519
+    ],
+    "tlog": [
+     0.7749874350126532,
+     -0.22405882442328862,
+     -1.9687329450742057
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      2,
+      [
+       24,
+       25
+      ]
+     ],
+     [
+      1,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      0,
+      [
+       76,
+       77
+      ]
+     ]
+    ],
+    "ans": false
+   }
+  },
+  {
+   "id": "83b1edf0",
+   "q": "Has Tom Hanks ever been in a movie with Emma Watson?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 266.1,
+   "py": {
+    "topics": [
+     32764,
+     10742,
+     241051
+    ],
+    "tlog": [
+     0.7347495555877686,
+     0.663266658782959,
+     -1.2803552150726318
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      1,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      2,
+      [
+       46,
+       3
+      ]
+     ]
+    ],
+    "ans": true
+   },
+   "js": {
+    "topics": [
+     10742,
+     32764,
+     241051
+    ],
+    "tlog": [
+     0.771452133528126,
+     0.5602934538650036,
+     -1.2890905928315015
+    ],
+    "op": "yesno",
+    "top": [
+     [
+      0,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      1,
+      [
+       2,
+       3
+      ]
+     ],
+     [
+      2,
+      [
+       46,
+       3
+      ]
+     ]
+    ],
+    "ans": true
+   }
+  },
+  {
+   "id": "6bb1e1f2",
+   "q": "Did Jordan Peele win Best Original Screenplay for Get Out in 2018?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 188.9
+  },
+  {
+   "id": "dd37ad48",
+   "q": "Did Pink Floyd's Wish You Were Here come out the same year as Bob Dylan's Blood on the Tracks?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 440.2
+  },
+  {
+   "id": "77babf94",
+   "q": "Who is older, Justin Timberlake or Nick Carter?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 173.7
+  },
+  {
+   "id": "ac5a2a9b",
+   "q": "Who has more Grammys, Adele or Taylor Swift?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 151.5,
+   "py": {
+    "topics": [
+     13396,
+     6317,
+     300703
+    ],
+    "tlog": [
+     1.133778691291809,
+     -0.48450008034706116,
+     -0.928065299987793
+    ],
+    "op": "compare",
+    "top": [
+     [
+      1,
+      [
+       215,
+       74
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       81
+      ]
+     ],
+     [
+      1,
+      [
+       81,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 18462
+    }
+   },
+   "js": {
+    "topics": [
+     13396,
+     6317,
+     300703
+    ],
+    "tlog": [
+     1.1430175098671573,
+     -0.5731265271477383,
+     -0.9188075892060533
+    ],
+    "op": "compare",
+    "top": [
+     [
+      1,
+      [
+       1,
+       81
+      ]
+     ],
+     [
+      1,
+      [
+       215,
+       74
+      ]
+     ],
+     [
+      0,
+      [
+       148,
+       149
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 9999
+    }
+   }
+  },
+  {
+   "id": "a2db3562",
+   "q": "Did Rob Zombie or Marilyn Manson direct House of 1000 Corpses?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165.9
+  },
+  {
+   "id": "42d870de",
+   "q": "Who is older John Lennon or Paul McCartney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 200.6,
+   "py": {
+    "topics": [
+     4836,
+     5682,
+     246307
+    ],
+    "tlog": [
+     2.476101875305176,
+     1.8796683549880981,
+     -0.7431575059890747
+    ],
+    "op": "compare",
+    "top": [
+     [
+      0,
+      [
+       191,
+       190
+      ]
+     ],
+     [
+      1,
+      [
+       191,
+       190
+      ]
+     ],
+     [
+      2,
+      [
+       74,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 5682
+    }
+   },
+   "js": {
+    "topics": [
+     4836,
+     5682,
+     246307
+    ],
+    "tlog": [
+     2.4526060261636835,
+     1.8342020959731464,
+     -0.7357775795729102
+    ],
+    "op": "compare",
+    "top": [
+     [
+      0,
+      [
+       61,
+       60
+      ]
+     ],
+     [
+      0,
+      [
+       191,
+       190
+      ]
+     ],
+     [
+      1,
+      [
+       61,
+       60
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 5682
+    }
+   }
+  },
+  {
+   "id": "a1f60c46",
+   "q": "Who was The Beatles' drummer for longer, Ringo Starr or Pete Best?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 175.8
+  },
+  {
+   "id": "7fa4dfcd",
+   "q": "Which Linkin Park album sold the most, Meteora or Hybrid Theory?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 197.6,
+   "py": {
+    "topics": [
+     11629,
+     189058,
+     15
+    ],
+    "tlog": [
+     0.3225925862789154,
+     -1.2035341262817383,
+     -1.3365751504898071
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       75,
+       14
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       15
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 118105
+    }
+   },
+   "js": {
+    "topics": [
+     11629,
+     15,
+     189058
+    ],
+    "tlog": [
+     0.24732877258692454,
+     -0.9867533841356568,
+     -1.3793824197756486
+    ],
+    "op": "set",
+    "top": [
+     [
+      0,
+      [
+       75,
+       14
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       15
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 118105
+    }
+   }
+  },
+  {
+   "id": "25812336",
+   "q": "Who sold more albums, The Beatles or Michael Jackson?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 203.3
+  },
+  {
+   "id": "c4c4db18",
+   "q": "Who has more Grammy Awards, Jay-Z or Kendrick Lamar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 190.5,
+   "py": {
+    "topics": [
+     6317,
+     8463,
+     22521
+    ],
+    "tlog": [
+     1.4620535373687744,
+     -2.7545084953308105,
+     -4.103802680969238
+    ],
+    "op": "compare",
+    "top": [
+     [
+      0,
+      [
+       215,
+       74
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       81
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       314
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 18462
+    }
+   },
+   "js": {
+    "topics": [
+     6317,
+     8463,
+     22521
+    ],
+    "tlog": [
+     1.3790316345717635,
+     -2.7915995074902153,
+     -4.110062166136558
+    ],
+    "op": "compare",
+    "top": [
+     [
+      0,
+      [
+       1,
+       81
+      ]
+     ],
+     [
+      0,
+      [
+       215,
+       74
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 9999
+    }
+   }
+  },
+  {
+   "id": "09a16546",
+   "q": "Who is older, Drake or Lil Wayne?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 196.7,
+   "py": {
+    "topics": [
+     8531,
+     13188,
+     177290
+    ],
+    "tlog": [
+     -1.080586314201355,
+     -1.1627814769744873,
+     -2.0299429893493652
+    ],
+    "op": "compare",
+    "top": [
+     [
+      2,
+      [
+       74,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       180,
+       47
+      ]
+     ],
+     [
+      0,
+      [
+       148,
+       149
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 13188
+    }
+   },
+   "js": {
+    "topics": [
+     13188,
+     8531,
+     177290
+    ],
+    "tlog": [
+     -1.1180776131363352,
+     -1.1741111548671217,
+     -1.9673014372964837
+    ],
+    "op": "compare",
+    "top": [
+     [
+      2,
+      [
+       180,
+       47
+      ]
+     ],
+     [
+      2,
+      [
+       74,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       148,
+       149
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 13188
+    }
+   }
+  },
+  {
+   "id": "9b837a58",
+   "q": "Who is older, John Lennon or Lil Wayne?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 214.4
+  },
+  {
+   "id": "b97c2e22",
+   "q": "Who has sold more records in their lifetime, Cardi B or Prince?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 223.2
+  },
+  {
+   "id": "989f737e",
+   "q": "Did Justin Bieber's album Believe come out before 2011?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 182.5
+  },
+  {
+   "id": "76eb487f",
+   "q": "Did R.E.M. release their first album before U2?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 312.7
+  },
+  {
+   "id": "91814c7d",
+   "q": "Who is older, Jay-Z or Nas?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.9
+  },
+  {
+   "id": "b7ec88e3",
+   "q": "Who is older, Madonna or Cher?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165.8
+  },
+  {
+   "id": "1d45a007",
+   "q": "Who is older, Mick Jagger or Steven Tyler?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 148.8
+  },
+  {
+   "id": "f5309afe",
+   "q": "Did the Slim Shady LP come out at the same time as the 8 Mile movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 299.9
+  },
+  {
+   "id": "7f0d30bb",
+   "q": "Who is older, Katy Perry or Dua Lipa?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 217.2
+  },
+  {
+   "id": "1572764c",
+   "q": "How many studio albums have Twenty One Pilots released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.8
+  },
+  {
+   "id": "f0a94197",
+   "q": "How many members were in T.Rex?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 81.4
+  },
+  {
+   "id": "4e1d0b92",
+   "q": "How many members were there in the Rolling Stones?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 119.8
+  },
+  {
+   "id": "bdc5507a",
+   "q": "How many albums has J-Kwon released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 89.5,
+   "py": {
+    "topics": [
+     289378,
+     15,
+     302425
+    ],
+    "tlog": [
+     -0.12956777215003967,
+     -0.2403048574924469,
+     -1.6253890991210938
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       20,
+       -1
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       1148
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       2078
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     289378,
+     15,
+     302425
+    ],
+    "tlog": [
+     -0.19699211593524174,
+     -0.20127477514566566,
+     -1.6926757460551662
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1,
+       1148
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       283
+      ]
+     ],
+     [
+      0,
+      [
+       20,
+       -1
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  },
+  {
+   "id": "25c59adb",
+   "q": "How many members of The Black Eyed Peas are male?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 152.6
+  },
+  {
+   "id": "89c2a3ea",
+   "q": "How many members are in ICP?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 71.2
+  },
+  {
+   "id": "563494d8",
+   "q": "How many people were originally part of Panic! At The Disco?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 153,
+   "py": {
+    "topics": [
+     48664,
+     1693,
+     73049
+    ],
+    "tlog": [
+     1.3394943475723267,
+     -1.6330788135528564,
+     -4.165100574493408
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      0,
+      [
+       190,
+       -1
+      ]
+     ],
+     [
+      2,
+      [
+       70,
+       215
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     48664,
+     1693,
+     264608
+    ],
+    "tlog": [
+     1.428806329629486,
+     -1.6697753912434905,
+     -4.123053436743301
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       70,
+       215
+      ]
+     ],
+     [
+      0,
+      [
+       190,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       70,
+       91
+      ]
+     ]
+    ],
+    "ans": 1
+   }
+  },
+  {
+   "id": "65800cc2",
+   "q": "How many members are currently in Panic! At The Disco?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 147
+  },
+  {
+   "id": "5030a213",
+   "q": "How many Grammy Award nominations did Drake receive in 2020?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 122.1,
+   "py": {
+    "topics": [
+     6317,
+     13188,
+     6811
+    ],
+    "tlog": [
+     0.726460337638855,
+     -1.8552906513214111,
+     -1.9630893468856812
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       81,
+       258
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       308
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       218
+      ]
+     ]
+    ],
+    "ans": 3
+   },
+   "js": {
+    "topics": [
+     6317,
+     6811,
+     13188
+    ],
+    "tlog": [
+     0.6714544138411227,
+     -2.0082616880651,
+     -2.1325617387149656
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       81,
+       308
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       258
+      ]
+     ],
+     [
+      0,
+      [
+       81,
+       158
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  },
+  {
+   "id": "1797edd5",
+   "q": "How many years has Jennifer Lopez won Best International Female Artist at the Italian Music Awards?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 271.8,
+   "py": {
+    "topics": [
+     10045,
+     302937,
+     258
+    ],
+    "tlog": [
+     1.2596006393432617,
+     -0.26210537552833557,
+     -1.7996456623077393
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       2,
+       365
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       858
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": 83
+   },
+   "js": {
+    "topics": [
+     10045,
+     302937,
+     107
+    ],
+    "tlog": [
+     1.146692080749694,
+     -0.3037111062730607,
+     -1.7903144301730465
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       181,
+       30
+      ]
+     ],
+     [
+      2,
+      [
+       365,
+       30
+      ]
+     ],
+     [
+      0,
+      [
+       2,
+       129
+      ]
+     ]
+    ],
+    "ans": 6
+   }
+  },
+  {
+   "id": "05be4884",
+   "q": "How many current members of AC/DC are there?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 101.9,
+   "py": {
+    "topics": [
+     11154,
+     166519,
+     88939
+    ],
+    "tlog": [
+     1.6246451139450073,
+     -0.6710665225982666,
+     -4.604016304016113
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       100,
+       191
+      ]
+     ],
+     [
+      1,
+      [
+       30,
+       2164
+      ]
+     ],
+     [
+      1,
+      [
+       30,
+       2042
+      ]
+     ]
+    ],
+    "ans": 2
+   },
+   "js": {
+    "topics": [
+     11154,
+     166519,
+     2164
+    ],
+    "tlog": [
+     1.767062047904142,
+     -0.7280502175725417,
+     -4.771241021820179
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       100,
+       191
+      ]
+     ],
+     [
+      1,
+      [
+       30,
+       2164
+      ]
+     ],
+     [
+      0,
+      [
+       148,
+       165
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  },
+  {
+   "id": "c614e7b6",
+   "q": "How many pop stars has Kesha written songs for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 150.7
+  },
+  {
+   "id": "3da12a47",
+   "q": "How many bands has Jack Antonoff been frontman for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 116.7
+  },
+  {
+   "id": "4d45c755",
+   "q": "How many Grammy Awards has Lorde won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 89.9
+  },
+  {
+   "id": "c110fb36",
+   "q": "How many Grammy Awards has Green Day won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 104.3
+  },
+  {
+   "id": "a8cd300a",
+   "q": "How many studio albums has Bruno Mars released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 119.2,
+   "py": {
+    "topics": [
+     15,
+     60172,
+     25885
+    ],
+    "tlog": [
+     -0.425813227891922,
+     -2.8065006732940674,
+     -3.2964181900024414
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       55,
+       2078
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       1948
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       1374
+      ]
+     ]
+    ],
+    "ans": 1
+   },
+   "js": {
+    "topics": [
+     15,
+     60172,
+     25885
+    ],
+    "tlog": [
+     -0.4150005814361391,
+     -2.9345220374672216,
+     -3.1797340623115984
+    ],
+    "op": "count",
+    "top": [
+     [
+      0,
+      [
+       1,
+       1948
+      ]
+     ],
+     [
+      2,
+      [
+       55,
+       2078
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       1374
+      ]
+     ]
+    ],
+    "ans": 4
+   }
+  },
+  {
+   "id": "8c8250b4",
+   "q": "How many studio albums does Ariana Grande have?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 124.1,
+   "py": {
+    "topics": [
+     25587,
+     15,
+     60172
+    ],
+    "tlog": [
+     1.6051570177078247,
+     -0.7190289497375488,
+     -2.8002524375915527
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1,
+       160
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       490
+      ]
+     ],
+     [
+      0,
+      [
+       0,
+       380
+      ]
+     ]
+    ],
+    "ans": 4
+   },
+   "js": {
+    "topics": [
+     25587,
+     15,
+     20157
+    ],
+    "tlog": [
+     1.604576485050495,
+     -0.5957381779090438,
+     -3.0136624654048254
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       1,
+       160
+      ]
+     ],
+     [
+      1,
+      [
+       1,
+       687
+      ]
+     ],
+     [
+      0,
+      [
+       75,
+       490
+      ]
+     ]
+    ],
+    "ans": 4
+   }
+  },
+  {
+   "id": "d3ad3b2d",
+   "q": "How many members were there in the original NSYNC music group?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 197.2
+  },
+  {
+   "id": "c30405ba",
+   "q": "How many Michael Jackson studio albums went platinum in the U.S.?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 340.7
+  },
+  {
+   "id": "71837ea5",
+   "q": "Which Grammy Award was Grenade nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": false,
+   "ms": 90.7,
+   "py": {
+    "topics": [
+     6317,
+     17801,
+     32533
+    ],
+    "tlog": [
+     0.9234169721603394,
+     -2.894284963607788,
+     -3.454422950744629
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       366,
+       367
+      ]
+     ],
+     [
+      1,
+      [
+       60,
+       369
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 20419
+    }
+   },
+   "js": {
+    "topics": [
+     6317,
+     17801,
+     32533
+    ],
+    "tlog": [
+     0.8754917019235929,
+     -2.8978904451233887,
+     -3.376101630753768
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       57,
+       -1
+      ]
+     ],
+     [
+      0,
+      [
+       366,
+       367
+      ]
+     ],
+     [
+      0,
+      [
+       1,
+       -1
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 117249
+    }
+   }
+  },
+  {
+   "id": "55f66920",
+   "q": "Which member of Boot Camp Clik is not from Bushwick, NY?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 150.4,
+   "py": {
+    "topics": [
+     301409,
+     301027,
+     169
+    ],
+    "tlog": [
+     1.157474160194397,
+     -0.878612756729126,
+     -1.3527487516403198
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       30,
+       646
+      ]
+     ],
+     [
+      2,
+      [
+       30,
+       646
+      ]
+     ],
+     [
+      1,
+      [
+       30,
+       42
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 7937
+    }
+   },
+   "js": {
+    "topics": [
+     301409,
+     301027,
+     169
+    ],
+    "tlog": [
+     1.1217967707969143,
+     -0.8377849265093946,
+     -1.3814716534125047
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      1,
+      [
+       30,
+       646
+      ]
+     ],
+     [
+      2,
+      [
+       30,
+       646
+      ]
+     ],
+     [
+      1,
+      [
+       30,
+       42
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 6042
+    }
+   }
+  },
+  {
+   "id": "73dc942d",
+   "q": "On which KISS album did Ace Frehley not appear, even though he was on the cover?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 278.9
+  },
+  {
+   "id": "73a3d800",
+   "q": "Which cofounding members were no longer part of the Destiny's Child lineup after 2000?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 292.2
+  },
+  {
+   "id": "44877c23",
+   "q": "Which MissA members were not born in South Korea?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.9
+  },
+  {
+   "id": "7014ca90",
+   "q": "Which Grammy Award was Shameika nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 83.7
+  },
+  {
+   "id": "517e977c",
+   "q": "Which member of UGK is not alive?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 86.2
+  },
+  {
+   "id": "1825249b",
+   "q": "Which category of the Billboard Music Awards was Lil Wayne most recently nominated for but didn't win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 283.7
+  },
+  {
+   "id": "8a228cb9",
+   "q": "How many members of The Beatles are not alive?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 106.4
+  },
+  {
+   "id": "0d045baf",
+   "q": "Which 2021 Grammy Award was Elaine Martone nominated for, but did not win?",
+   "topics_ok": true,
+   "op_ok": false,
+   "path_ok": true,
+   "answer_ok": false,
+   "ms": 115.9,
+   "py": {
+    "topics": [
+     6317,
+     5909,
+     17801
+    ],
+    "tlog": [
+     0.3389144837856293,
+     -1.7021855115890503,
+     -2.9758431911468506
+    ],
+    "op": "argmax",
+    "top": [
+     [
+      0,
+      [
+       100,
+       101
+      ]
+     ],
+     [
+      0,
+      [
+       366,
+       367
+      ]
+     ],
+     [
+      0,
+      [
+       30,
+       31
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 301960
+    }
+   },
+   "js": {
+    "topics": [
+     6317,
+     5909,
+     17801
+    ],
+    "tlog": [
+     0.22860808617533387,
+     -1.2898561586435626,
+     -2.939202750390665
+    ],
+    "op": "argmin",
+    "top": [
+     [
+      0,
+      [
+       100,
+       101
+      ]
+     ],
+     [
+      0,
+      [
+       366,
+       367
+      ]
+     ],
+     [
+      0,
+      [
+       30,
+       31
+      ]
+     ]
+    ],
+    "ans": {
+     "node": 213573
+    }
+   }
+  },
+  {
+   "id": "ec55cd70",
+   "q": "Which song was not the first rock-n-roll song to hit number one in the charts?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 350.6
+  },
+  {
+   "id": "4bfd87a7",
+   "q": "Which Grammy Award was Dirty Computer by Janelle Monáe nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165.8
+  },
+  {
+   "id": "c139e5ef",
+   "q": "Out of The Replacements' seven albums, how many did Bob Stinson not play on?",
+   "topics_ok": false,
+   "op_ok": true,
+   "path_ok": false,
+   "answer_ok": true,
+   "ms": 329.4,
+   "py": {
+    "topics": [
+     301306,
+     50827,
+     15
+    ],
+    "tlog": [
+     0.5212398767471313,
+     -1.1059292554855347,
+     -1.1159882545471191
+    ],
+    "op": "count",
+    "top": [
+     [
+      1,
+      [
+       70,
+       830
+      ]
+     ],
+     [
+      1,
+      [
+       70,
+       646
+      ]
+     ],
+     [
+      0,
+      [
+       6,
+       7
+      ]
+     ]
+    ],
+    "ans": 2
+   },
+   "js": {
+    "topics": [
+     301306,
+     15,
+     50827
+    ],
+    "tlog": [
+     0.6382387954717649,
+     -1.0368385980799373,
+     -1.0472100280114025
+    ],
+    "op": "count",
+    "top": [
+     [
+      2,
+      [
+       70,
+       830
+      ]
+     ],
+     [
+      2,
+      [
+       70,
+       646
+      ]
+     ],
+     [
+      2,
+      [
+       2168,
+       1663
+      ]
+     ]
+    ],
+    "ans": 2
+   }
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+1995	132x	c15:4,ehe:5,q1x:3,u3c:4,15ee:5,22e6:2,2l16:6,2m8b:7,2q9o:7,2stf:2,3ay6:4,3btm:5,3v6f:3,4lbs:3,4leo:4,4uly:3,5iut:4,5p1p:7,66d5:6
+1995 96		c15:4
+1995 96 bundesliga	21tj	
+1995 96 cypriot		c15:4
+1995 96 cypriot cup	c15	
+1995 96 cypriot first division	13lk	
+1995 96 cypriot fourth division	1gty	
+1995 96 cypriot second division	16mp	
+1995 96 cypriot third division	15wz	
+1995 96 ekstraklasa	2v5f	
+1995 96 fuball bundesliga	21tj	
+1995 96 fussball bundesliga	21tj	
+1995 96 ukhl season	2o0i	
+1995 a d	132x	
+1995 abn		66d5:6
+1995 abn amro		66d5:6
+1995 abn amro world		66d5:6
+1995 abn amro world tennis		66d5:6
+1995 abn amro world tennis tournament	66d5	
+1995 australian		3v6f:3
+1995 australian indoor championships	1mpz	
+1995 australian open	3v6f	
+1995 badminton		2l16:6,2m8b:7,2q9o:7,4leo:4,5p1p:7
+1995 badminton world		2l16:6,2m8b:7,2q9o:7,4leo:4,5p1p:7
+1995 badminton world championships	4leo	2l16:6,2m8b:7,2q9o:7,5p1p:7
+1995 badminton world championships men		2q9o:7,5p1p:7
+1995 badminton world championships men s		2q9o:7,5p1p:7
+1995 badminton world championships men s doubles	2q9o	
+1995 badminton world championships men s singles	5p1p	
+1995 badminton world championships mixed		2l16:6
+1995 badminton world championships mixed doubles	2l16	
+1995 badminton world championships women		2m8b:7
+1995 badminton world championships women s		2m8b:7
+1995 badminton world championships women s doubles	2m8b	
+1995 ce	132x	
+1995 eurobasket	2uxz	
+1995 european basketball championship	2uxz	
+1995 eurovision song contest	i9q	
+1995 f1 season	3btm	
+1995 fia formula one world championship	3btm	
+1995 fis nordic world ski championships	8jp	
+1995 florida gators football	3g2	
+1995 formula		3btm:5
+1995 formula 1 season	3btm	
+1995 formula one		3btm:5
+1995 formula one season	3btm	
+1995 formula one world		3btm:5
+1995 formula one world championship	3btm	
+1995 french		4uly:3,5iut:4
+1995 french open	4uly	
+1995 french open tennis	4uly	
+1995 french presidential		5iut:4
+1995 french presidential election	5iut	
+1995 gent wevelgem	2stf	
+1995 gentwevelgem	2stf	
+1995 gold flake open	1qlr	
+1995 gothenburg world championships	ehe	
+1995 iaaf		15ee:5
+1995 iaaf world		15ee:5
+1995 iaaf world indoor		15ee:5
+1995 iaaf world indoor championships	15ee	
+1995 iaaf world indoor championships in athletics	15ee	
+1995 ibf world championships	4leo	
+1995 ibf world championships men s doubles	2q9o	
+1995 ibf world championships men s singles	5p1p	
+1995 ibf world championships mixed doubles	2l16	
+1995 ibf world championships women s doubles	2m8b	
+1995 masters	22e6	
+1995 masters snooker	22e6	
+1995 nato air campaign in bosnia and herzegovina	2p38	
+1995 nato bombing campaign in bosnia and herzegovina	2p38	
+1995 nato bombing in bosnia and herzegovina	2p38	
+1995 nato bombing intervention in bosnia and herzegovina	2p38	
+1995 nato bombing of bosnia and herzegovina	2p38	
+1995 new delhi open	1qlr	
+1995 nordic skiing world championships	8jp	
+1995 pan		u3c:4
+1995 pan am games	u3c	
+1995 pan american		u3c:4
+1995 pan american games	u3c	
+1995 qatar coup d etat	ujw	
+1995 russian		3ay6:4
+1995 russian top		3ay6:4
+1995 russian top league	3ay6	
+1995 sudirman		q1x:3
+1995 sudirman cup	q1x	
+1995 super bowl	6gud	
+1995 superbowl	6gud	
+1995 wimbledon	4lbs	4lbs:3
+1995 wimbledon championships	4lbs	
+1995 world		ehe:5
+1995 world athletics indoor championships	15ee	
+1995 world badminton championships	4leo	
+1995 world championships		ehe:5
+1995 world championships in		ehe:5
+1995 world championships in athletics	ehe	
+1995 world indoor championships in athletics	15ee	
+1995 year	132x	
+83eme rallye automobile monte carlo	yj0	
+abaelard	1onq	
+addison	1yy6	gwe:2,i7e:2,24sf:2,47h3:4
+addison adele	4hwk	
+addison alves	47h3	47h3:4
+addison alves de		47h3:4
+addison alves de oliveira	47h3	
+addison arrows	vkg	
+addison biermer anaemia	2vuu	
+addison biermer anemia	2vuu	
+addison carver	1d3o	
+addison county	gwe	
+addison county vermont	gwe	
+addison county vt	gwe	
+addison dallas texas	1yy6	
+addison dallas tx	1yy6	
+addison e steele	4jl1	
+addison john	fv9	
+addison joseph	2ai0	
+addison m mcconnell	20bw	
+addison m mcconnell jr	20bw	
+addison mcconnell	20bw	
+addison miles	52fh	
+addison mitchell mcconnell	20bw	
+addison mitchell mcconnell jr	20bw	
+addison rafael	4t1d	
+addison richards	i7e	
+addison road line	1ht9	
+addison road route	1ht9	
+addison route	1ht9	
+addison s anaemia	2vuu	
+addison s anemia	2vuu	
+addison steele ii	4jl1	
+addison texas	1yy6	
+addison thomas	49yi	
+addison tx	1yy6	
+addison wesley	24sf	
+addison wesley longman	24sf	
+addison wesley professional	24sf	
+addison wesley publishing	24sf	
+addison wesley publishing company	24sf	
+addison wesley publishing company inc	24sf	
+adetus	fnx	
+alexander karl heinrich braun	2ugb	
+angos	20ah	
+antalya	5ha	9mu:2,1dhs:6
+antalya bb	1dhs	
+antalya bsb s k	1dhs	
+antalya buyuksehir belediyesi	1dhs	
+antalya buyuksehir belediyesi spor klubu	1dhs	
+antalya buyuksehir belediyesi spor kulubu	1dhs	
+antalya buyuksehir belediyespor	1dhs	
+antalya film festival	4oow	
+antalya golden orange film festival	4oow	
+antalya greater		1dhs:6
+antalya greater metropolitan		1dhs:6
+antalya greater metropolitan municipality		1dhs:6
+antalya greater metropolitan municipality sports		1dhs:6
+antalya greater metropolitan municipality sports club	1dhs	
+antalya international film festival	4oow	
+antalya province	9mu	
+antalya s k	5j8	
+antalya turkey	5ha	
+aparoid	20o9	
+arabicus sinus	vlj	
+argyle	23u7	
+argyle f c 1898 rulebook	1ld	
+argyle fc 1898 rulebook	1ld	
+argyle interest	3j6m	
+argyle scotland	23u7	
+arika	2dds	
+arika co ltd	2dds	
+arle nadja	3efu	
+artannes		30c4:3
+artannes sur		30c4:3
+artannes sur indre	30c4	
+asmolean museum	1qzm	
+bannerfish	5uh0	
+benedictine		1qdx:2,2iei:2
+benedictine abbey of saint germain des pres	56lk	
+benedictine college	1qdx	
+benedictine eagles	2iei	
+benedictine eagles football	2iei	
+benedictine kansas ravens	1qdx	
+benedictine ks ravens	1qdx	
+benedictine monasteries	wb	
+benedictine nuns	wb	
+benedictine order	wb	
+benedictine university	2iei	
+benedictine university at mesa	2iei	
+bezirkshauptmannschaften	bev	
+bielany commune	1191	
+bruxo de cosme velho	sk6	
+bruxo do cosme velho	sk6	
+carnas	1non	
+chakhir belghazouani	3grz	
+coast	ckd	1hje:2,370v:2,3yu7:3,4qhn:2,5aja:2,66it:3,695j:5
+coast battleship no 4	4tc3	
+coast battleship number 1	4dx7	
+coast battleship number 2	3lcq	
+coast defence ship	1myd	
+coast defense ship	1myd	
+coast guard	4qhn	695j:5
+coast guard academy	flm	
+coast guard cocktail	5oa2	
+coast guard commander western seaboard	4ye6	
+coast guard distinguished		695j:5
+coast guard distinguished service		695j:5
+coast guard distinguished service medal	695j	
+coast guard good conduct medal	3a1d	
+coast guard of india	4ye6	
+coast guard of the united states	l8l	
+coast guard reserve good conduct medal	3a1d	
+coast guard station lake tahoe	24l1	
+coast guard united states	l8l	
+coast guards	4qhn	
+coast line	r79,370v	
+coast line denmark	370v	
+coast mountain range	1hje	
+coast mountains	1hje	
+coast mountains doc	1hje	
+coast of		3yu7:3
+coast of skagerak	49dr	
+coast of skagerrak	49dr	
+coast of skeletons	3yu7	
+coast range california	3xht	
+coast ranges	1rgl	
+coast ranges california	3xht	
+coast run	ha7	
+coast salish	5aja	
+coast salish language	5aja	
+coast salish languages	5aja	
+coast salish linguistic group	5aja	
+coast salish territory	5aja	
+coast salishan languages	5aja	
+coast to		66it:3
+coast to coast	66it	
+coast to coast 1980 film	66it	
+coast to coast live on tour	ebi	
+cobain	ocw	
+cobain kurt	ocw	
+cobain montage of heck	314a	
+cogliate	32aq	
+corravillers	2sjm	
+cruzille	3fig	
+dalacin c	5f1a	
+dalacin c phosphate	5f1a	
+david holmes	19am	
+david holmes musician	19am	
+david holmes presents the free association	19am	
+david michod	2ft7	
+dominchino ghirlandaio	1fbh	
+downingia	63n0	
+dsdna	432v	
+earmuff convention	2nus	
+ernesaks	3251	
+esc2010	81a	
+escoville	2ekv	
+europarl constituency	5mo	
+fabbrica		3nh3:2
+fabbrica curone	3nh3	
+fabbrica d armi pietro beretta	x00	
+fabbrica d armi pietro beretta s p a	x00	
+facio sara	58l8	
+flety	3cq2	
+floren		10dw:2
+floren delbene	10dw	
+frisky bald guy	3qjb	
+frisky film	1ago	
+george pratt shultz	1nos	
+glorybower	4zgk	
+grades of beef	fju	
+gretchen	l9t	12vt:2,19pw:2
+gretchen first name	l9t	
+gretchen frances hahnen	2pxa	
+gretchen given name	l9t	
+gretchen michaela young	ah6	
+gretchen mol	12vt	
+gretchen moll	12vt	
+gretchen ross	vmi	
+gretchen wilson	19pw	
+gretchen witter	1pv0	
+gretchen young	ah6	
+henry mcmaster	5gax	
+henry mcmaster comments	5gax	
+iasip	1t5v	
+irancell cup	xu5	
+iridodictyum	4t1	
+jacotenente	2k1l	
+jean carolyn craighead	4o7e	
+jeufosse	2psr	
+jono grant musician	1o34	
+kazarun	3dfx	
+kickers		4rv:2,krp:2
+kickers emden	krp	
+kickers frankfurt	2l8	
+kickers offenbach	4rv	
+kickers offenbach squad	4rv	
+kickers stuttgart	49a	
+kickers wuerzburg	mok	
+kickers wurzburg	mok	
+knyszyn commune	3lcd	
+la baia di napoli	4277	
+lacebugs	2xsd	
+lavausseau	3kll	
+le buisson	2ihg	1pbp:4
+le buisson de		1pbp:4
+le buisson de cadouin	1pbp	
+le buisson de cadouin france	1pbp	
+le buisson france	1pbp	
+le buisson lozere	2ihg	
+le quatrieme mousquetaire	5pvg	
+leaburu	36am	
+licences	6ecs	
+lincom	4dme	
+lincom footballer	4dme	
+louis grand		u6h:3,26y9:3
+louis grand conde	26y9	
+louis grand dauphin	u6h	
+louis grand duke of hesse	1m4x	
+lubango	4hik	
+lubango angola	4hik	
+luchou	1rzm	
+luneray	1z89	
+macoris	8v6	
+macoris del mar	8v6	
+mallala	2ind	
+mandres	3t6u	1meb:3,1ppg:4,24xn:3,3ozi:3,3ypb:3
+mandres aux		1ppg:4
+mandres aux quatre		1ppg:4
+mandres aux quatre tours	1ppg	
+mandres en		3ypb:3
+mandres en barrois	3ypb	
+mandres eure	3t6u	
+mandres la		3ozi:3
+mandres la cote	3ozi	
+mandres les		1meb:3
+mandres les roses	1meb	
+mandres sur		24xn:3
+mandres sur vair	24xn	
+maria marchioness		40ox:4
+maria marchioness of		40ox:4
+maria marchioness of tortosa	40ox	
+matteawan	2msh	
+matteawan new jersey	3495	
+matteawan new york	2msh	
+matteawan nj	3495	
+matteawan ny	2msh	
+mazieres		2t77:3,39zp:2,3b5g:3,3m8f:3,42ak:3
+mazieres de		3b5g:3
+mazieres de touraine	3b5g	
+mazieres en		2t77:3,42ak:3
+mazieres en gatine	2t77	
+mazieres en mauges	42ak	
+mazieres naresse	39zp	
+mazieres sur		3m8f:3
+mazieres sur beronne	3m8f	
+mclovin	18ac	
+mdhs orange county ca	1xe9	
+metatropic dwarfism	3svf	
+michael moshonov	5ha3	
+milhuesa	3ac	
+mirefleurs	2qnp	
+mittromney	l07	
+molfetta	s1p	
+molfetta italy	s1p	
+molfetta terlizzi and giovinazzo	s1p	
+montanel	39gv	
+monyo	ku5	
+motoryacht	wkz	
+narendraprasad	1ila	
+nevermind	1ma8	
+nevermind album	1ma8	
+nevermind man	rhk	
+nevermind nirvana album	1ma8	
+nevermind the buttocks	1ull	
+new canaan	nz4	
+new canaan connecticut	nz4	
+new canaan ct	nz4	
+new canaan public schools	nz4	
+novograd	21hv	
+novograd volynskij	21hv	
+nvnv	4tu6	
+omnic crisis	5wk8	
+openuniversity edu	4vy	
+oratio da roma	3cjg	
+oratio gentileschi	3cjg	
+otuki	4la4	
+paul bannon	4ocj	
+pinnacle		3h2d:3
+pinnacle peak		3h2d:3
+pinnacle peak pictures	3h2d	
+pinnacle song	5ab6	
+pinnacle tone damli song	5ab6	
+piroz	5d7t	
+piroz i	5d7t	
+posht		wx4:4,xzz:5
+posht darband		wx4:4
+posht darband rural		wx4:4
+posht darband rural district	wx4	
+posht e		xzz:5
+posht e arbaba	xzz	xzz:5
+posht e arbaba rural		xzz:5
+posht e arbaba rural district	xzz	
+pribor	21yc	
+princess eleonore		26uy:6,4ify:6,5wex:4
+princess eleonore dorothea of anhalt dessau	1l3k	
+princess eleonore erdmuth of saxe eisenach	26uy	
+princess eleonore erdmuthe		26uy:6
+princess eleonore erdmuthe of		26uy:6
+princess eleonore erdmuthe of saxe		26uy:6
+princess eleonore erdmuthe of saxe eisenach	26uy	
+princess eleonore of		4ify:6,5wex:4
+princess eleonore of anhalt zerbst	5jwf	
+princess eleonore of belgium	5wex	
+princess eleonore of solms		4ify:6
+princess eleonore of solms hohensolms		4ify:6
+princess eleonore of solms hohensolms lich	4ify	
+princess eleonore wilhelmine of anhalt kothen	46l6	
+provincetown	11bz	
+provincetown ma	11bz	
+provincetown mass	11bz	
+provincetown massachusetts	11bz	
+provincetown town barnstable county ma	11bz	
+provincetown town barnstable county massachusetts	11bz	
+provincetown town ma	11bz	
+provincetown town massachusetts	11bz	
+qima	14pv	
+redlynx	5h1r	
+retiers	1a91	
+rhiryd ab owen gwynedd	4bg6	
+richard jobson	5q2o	
+richard jobson footballer	5q2o	
+robert grieg	r04	
+rong chun qin wang	4tvm	
+rong ru er	1wqc	
+rong zu er	1wqc	
+rong zuer	1wqc	
+saint coulomb	2jd5	
+santosse	2nhu	
+senakarta	2u1z	
+sevastopil	6gu	
+shaku bai rao gaikwad	555g	
+shaku yumiko	5dtj	
+shibuyakei	d5v	
+shoureikai	73q	
+shtern grigory mikhaylovich	4gvg	
+sigournais	2pac	
+sijena	301a	
+sirtech	2k95	
+snowskiing	82n	
+szczaniec commune	2pd4	
+taol	6f40	
+tarrasa	720	
+tarrasa cf	cks	
+the crisis	54gt	5v5v:4
+the crisis 1916 film	54gt	
+the crisis is		5v5v:4
+the crisis is over	5v5v	
+the former		23nf:4
+the former mattia		23nf:4
+the former mattia pascal	23nf	
+the former yugoslav republic of macedonia	hz	
+the hick from french lick	w2l	
+the misers heart	3kck	
+the property		43tf:3
+the property man	43tf	
+tobu	dgz	dgz:2,1c35:4,2hws:3,4zi2:3,525u:3
+tobu isesaki		2hws:3
+tobu isesaki line	2hws	
+tobu noda line	1c35	
+tobu railway	dgz	
+tobu skytree		525u:3
+tobu skytree line	525u	
+tobu tetsudo kabushiki gaisha	dgz	
+tobu tojo		4zi2:3
+tobu tojo line	4zi2	
+tobu tojo main line	4zi2	
+tobu urban		1c35:4
+tobu urban park		1c35:4
+tobu urban park line	1c35	
+tsmnia	sj	
+turriff	5zen	
+turriff aberdeenshire	5zen	
+uabirmingham	ket	
+utopia	2wof,4o9q	
+utopia 14	6h9u	
+utopia 1951 film	16oc	
+utopia american band	4o9q	
+utopia band	4o9q	
+utopia discography	4o9q	
+utopia hbo tv series	2wof	
+utopia miliyah kato album	2ikg	
+utopia pub	eml	
+utopia serena ryder album	143o	
+utopia series 3	2wof	
+utopia series 4	2wof	
+utopia uk tv series	2wof	
+valdemaras		37ko:2
+valdemaras adamkevicius	5pvf	
+valdemaras borovskis	5lkz	
+valdemaras martinkenas	37ko	
+vermeerthijs	62cy	
+weetwood playing fields	1oi	
+whitechurch stouffville ontario	32kr	
+william stratton	4xoq	
+wolves	4lf,ihs,408f	4wpz:4,4xqv:2,60t7:4
+wolves 2014 film	408f	
+wolves chronicles	4ehu	
+wolves fc	18w	
+wolves hunt		4wpz:4
+wolves hunt at		4wpz:4
+wolves hunt at night	4wpz	
+wolves of		60t7:4
+wolves of calla	1pvf	
+wolves of the calla	1pvf	
+wolves of wall		60t7:4
+wolves of wall street	60t7	
+wolves one direction song	6gl6	
+wolves the blackout ep	5llt	
+yaminasaw	4o5x	
+zavorotnyuk	4e8i	
+zheng		1vwd:2,2crf:2,3pr3:2,5kx0:2,5ll2:2
+zheng bo	3pr3	
+zheng chenggong	5r58	
+zheng county	7cv	
+zheng da university	k6j	
+zheng dingchun	25st	
+zheng haixia	5kx0	
+zheng jie	1vwd	
+zheng jie comments	1vwd	
+zheng mengzhun	5dos	
+zheng of ch in	3ovj	
+zheng of chin	3ovj	
+zheng of qin	3ovj	
+zheng peipei	2ehq	
+zheng sen	5r58	
+zheng shaoqiu	3avx	
+zheng siwei	5ll2	
+zheng xingjuan	2crf	
+zheng xingyuan	2crf	
+zheng xiuwen	26sc	
+zheng yijian	v0v	
+zheng yuanchang	4wbj	
+zheng yuling	3rca	
+zheng zeshi	5hel	
+zheng zhixun	111l	
+zheng zhongji	25dk	
+zheng zhouyong	5mjg	

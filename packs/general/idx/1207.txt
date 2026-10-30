@@ -1,0 +1,392 @@
+130	jk1	
+1610 1619	28dk	
+acapulco	8gw	8gw:3
+acapulco bay	8gw	
+acapulco de		8gw:3
+acapulco de juarez	8gw	
+acapulco goldie	5e9r	
+acapulco gro	8gw	
+acapulco guerrero	8gw	
+acapulco mexico	8gw	
+acapulco open	3s8t	
+agnsw	2edc	
+alligatoridae	5xdm	
+arrigorriaga	2bcb	
+aspres		1bao:3,2jt2:3
+aspres les		2jt2:3
+aspres les corps	2jt2	
+aspres sur		1bao:3
+aspres sur buech	1bao	
+bannu	3tpr	10at:2
+bannu city	3tpr	
+bannu district	10at	
+beng script	47zm	
+bichisciaba	ego	
+boardtown	qul	
+boekel	4yr9	
+bogdans		68th:2
+bogdans nesterenko	68th	
+bosnjak ivan	2kp3	
+botho		3mjf:2,4ubj:2
+botho graef	4ubj	
+botho strau	3mjf	
+botho strauss	3mjf	
+briosne		2mnb:3
+briosne les		2mnb:3
+briosne les sables	2mnb	
+c46h58n4o9	30lm	
+cagueno	gvo	
+callida	61se	
+capstar tx llc	562g	
+carettidae	588b	
+caribert i	2lk4	
+carqueiranne	3b78	
+carrigtohill	4wgr	
+censeau	23p9	
+charles leslie falconer	4xod	
+charles leslie falconer baron falconer of thoroton	4xod	
+charles leslie stevenson	5heb	
+charles renouard	5kms	
+cheops	uba	
+chestov	28x5	
+cirkvice	3my1	
+cirkvice kutna hora district	3my1	
+cirkvice u kutne hory	3my1	
+connells	5486	5486:2
+cufodontia	2sz4	
+cyclecross	2dn	
+david porter	31f3	
+david porter naval officer	31f3	
+degtiariov	32d4	
+deo proslosti	3kht	
+dharfur	6gdt	
+dijishi	453	
+dojima family	6f7m	
+eastside boyz	h2z	
+eastside christian school	82a	
+eastside oregon	1bry	
+eastside westside	4mke	
+egem west flanders	5me2	
+escalquens	1zp4	
+eskiya	3yft	
+eulophid	3oo	
+eyskens mark	3oyl	
+falcone	5eur	
+falcone crime family	5k11	
+falcone film	1qs9	
+falcone italy	5eur	
+falcone sicily	5eur	
+fc psj jihlava	bho	
+flagnac	31jj	
+foxmovies com	od	
+futur 80	57zf	
+generation		ao0:2,zxn:2,2i0y:2,2zmk:3,3ui9:2
+generation adidas	ao0	
+generation award	v52	
+generation doom	4pe4	
+generation ecologie	5kei	
+generation i	40py	
+generation i spy kids	40py	
+generation ii spy kids	40py	
+generation k demographics	5p5s	
+generation kill	zxn	
+generation kill miniseries	zxn	
+generation kill tv series	zxn	
+generation of		2zmk:3
+generation of 50	2zmk	
+generation of chaos exceed	1oj0	
+generation of electricity from nuclear power plants	40m	
+generation p	2i0y	
+generation p film	2i0y	
+generation v reactor	olc	
+generation war	3ui9	
+generation xi	4ab	
+george westinghouse	4h17	
+george westinghouse jr	4h17	
+gmina ilza	wwv	
+governed	6fx	
+gtones	6ln	
+gyula	75m,rqi	sll:2,14rj:2,25c4:2,2e3u:2,2q63:2,2wpo:2,2zun:2,385e:2,39eh:2,3c40:4,3fst:2,3qc7:2,4g92:2,4k2y:2,4k4u:2,4qxh:2,4swp:2,4vth:2,4zfc:2,5czg:2,5hrf:2,5n6q:2,5vi5:2,5w9e:2,5wpm:2,60fm:2,65xj:2
+gyula andrassy	14rj	3c40:4
+gyula andrassy jr	3c40	
+gyula andrassy the		3c40:4
+gyula andrassy the younger	3c40	
+gyula baghy	5ygy	
+gyula baratki	3abs	
+gyula baratky	3abs	
+gyula benko	5hrf	
+gyula bodola	3r6l	
+gyula bodrogi	5w9e	
+gyula count andrassy	14rj	
+gyula count andrassy 1823 1890	14rj	
+gyula count andrassy 1860 1929	3c40	
+gyula count andrassy de csikszentkiraly et krasznahorka	14rj	
+gyula count szapary de szapar muraszombat et szechy sziget	4k4u	
+gyula csortos	4swp	
+gyula feherva	dt6	
+gyula fehervar	dt6	
+gyula first name	75m	
+gyula given name	75m	
+gyula goemboes	4qxh	
+gyula gombos	4qxh	
+gyula gozon	25c4	
+gyula grosics	39eh	
+gyula hegedus	4zfc	
+gyula hegedus footballer	4zfc	
+gyula hernadi	2e3u	
+gyula horn	4k2y	
+gyula hungary	rqi	
+gyula illes	5czg	
+gyula kabos	65xj	
+gyula kallai	60fm	
+gyula lorant	2zun	
+gyula maar	5vi5	
+gyula moravcsik	3fst	
+gyula nagy	2wpo	
+gyula name	75m	
+gyula pados	4g92	
+gyula polgar	3qc7	
+gyula szabo	5n6q	
+gyula szapary	4k4u	
+gyula szengeller	385e	
+gyula szoreghy	sll	
+gyula toth	5wpm	
+gyula toth footballer	5wpm	
+gyula trebitsch	2q63	
+gyula zsengeller	385e	
+gyula zsivotzky	4vth	
+harskut	5871	
+heteroponera	3zri	
+hluboka		qcr:3
+hluboka nad		qcr:3
+hluboka nad vltavou	qcr	
+hoevelhof	3hx9	
+honjoh tasuku	3blx	
+i know		1he7:7,1rjs:6,2m95:5,6b1a:5
+i know him		6b1a:5
+i know him so		6b1a:5
+i know him so well	6b1a	
+i know him so well 2011	6b1a	
+i know i believe in nothing but it is my nothing	fp2	
+i know i dream the orchestral sessions	3fm7	
+i know it	3h3z	
+i know it madonna song	3h3z	
+i know it s gonna happen someday	5zmw	
+i know it s not meant for me	frx	
+i know places taylor swift song	3kwo	
+i know what		1he7:7
+i know what boys like film	1jvb	
+i know what i know	3h7e	
+i know what you		1he7:7
+i know what you did		1he7:7
+i know what you did last		1he7:7
+i know what you did last summer	1he7	
+i know what you did last summer film	1he7	
+i know what you did last summer movie	1he7	
+i know where		1rjs:6
+i know where i		1rjs:6
+i know where i m		1rjs:6
+i know where i m going	1rjs	
+i know where i m going film	1rjs	
+i know who		2m95:5
+i know who kileld me	2m95	
+i know who killed		2m95:5
+i know who killed me	2m95	
+i know you got soul book	1kt6	
+i know you have a girlfriend	5ijv	
+i know you know psych	lkh	
+i know you want to leave me	5jou	
+i know you won t	5uqq	
+indurain	4ehi	
+indurain miguel	4ehi	
+intermontane plateau	91l	
+izyaslavichi of polotsk	5doo	
+jagathi sreekumar	5l0	
+jarny	1axl	
+john debrito	3ov2	
+john mccrae	4pfg	
+kaoru		1uc0:2,3if4:2,5kvd:2,62c4:2
+kaoru amane	4dp1	
+kaoru kobayashi	3if4	
+kaoru kobayashi actor	3if4	
+kaoru osanai	5kvd	
+kaoru wada	62c4	
+kaoru yachigusa	1uc0	
+kaoru yatigusa	1uc0	
+karey		24wn:2
+karey kirkpatrick	24wn	
+keiichi	15p0	44jp:2,44r0:2,5yld:2
+keiichi first name	15p0	
+keiichi given name	15p0	
+keiichi hara	5yld	
+keiichi miyazawa	5z6w	
+keiichi namba	44r0	
+keiichi nanba	44r0	
+keiichi suzuki	44jp	
+keiichi suzuki composer	44jp	
+kerkouk	py9	
+killian darkwater	3f3h	
+killian press	kfo	
+krylya sovetov kuibyshev	2kp	
+krylya sovetov kuybyshev	2kp	
+krylya sovetov molotov	2rhj	
+krylya sovetov moscow	80j	
+krylya sovetov samara	2kp	
+krylya sovetov ufa	ss9	
+krylya sovietov samara	2kp	
+la princesa de los ursinos	6a9m	
+lauderhill	3l9c	
+lauderhill fl	3l9c	
+lauderhill florida	3l9c	
+leodore lionheart	ii3	
+leven tasmania	1wi2	
+list doc	6mq	
+lupulina	268w	
+lygranthoecia	8yg	
+mascali	42yw	
+maumusson	2igq,2ocu	
+maumusson loire atlantique	2igq	
+maumusson tarn et garonne	2ocu	
+meina	2fin	
+melgarejo	2z4d	
+michael stephen buccellato	3e61	
+michael stephen feld biophotonics award	ntq	
+michael stephen hellawell	619l	
+michael stephen lionel joseph	63ve	
+michael stephen seresin	1oo8	
+millicenti	3qkb	
+millstatt	473u	473u:3
+millstatt am		473u:3
+millstatt am see	473u	
+mougins	u6t	
+muslimites	1hdq	
+nahla aubry	cjv	
+neuropsych	60c1	
+nudebranch	2e0y	
+offenberg	39aa	
+orioncygnus arm	22r2	
+paballelo	26sf	
+penelles	3l6v	
+petrasiunu kapines	4agc	
+phrygian empire	455g	
+polypodium	3jwj	
+polypodium fern	3jwj	
+povrly	2ept	
+precheur	4fw6	
+preludeingmajor	6o8	
+prokofev	c0r	
+psychoanalysis	mgh	
+psychoanalysis doc	mgh	
+purbrook ontario	12x5	
+resita	ku5	
+resita montana	ku5	
+resita romana	ku5	
+resita romania	ku5	
+rheinberg	23j4	
+richard pottier	28vg	
+romanised	1xmg	
+rsk6	6ts	
+ryootaroo okiayu	3aub	
+ryootaroo shiba	5avb	
+sabzdasht		1alf:3
+sabzdasht rural		1alf:3
+sabzdasht rural district	1alf	
+sabzdasht rural district yazd province	1alf	
+saccharides	iv0	
+secstate	gef	
+semin	3gfh	
+semin alexander	2vzd	
+septemvridobrinishte		1d8r:2
+septemvridobrinishte narrow gauge line	1d8r	
+septemvridobrinishte railway	1d8r	
+siphona	6ff5	
+sran	ism	1bk3:2,2uwo:2,33cf:2,389m:2,3jed:2,416q:2,46ct:2,4b2p:2,4xgm:2,4xu1:2,528j:2,5hp4:2,5ipn:2,5krw:2,5qg3:2,61b9:2,62d6:2,665p:2,68nk:2,6dss:2
+sran baljak	3jed	
+sran blazic	416q	
+sran cebinac	4xu1	
+sran first name	ism	
+sran gasic	665p	
+sran given name	ism	
+sran gojkovic	1zwn	
+sran grujicic	68nk	
+sran kljajevic	6dss	
+sran knezevic	4os8	
+sran lakic	33cf	
+sran lopicic	4b2p	
+sran mimica	27gb	
+sran mrkusic	61b9	
+sran novkovic	46ct	
+sran obradovic	5ipn	
+sran orsovic	5krw	
+sran ostojic	4xgm	
+sran pecelj	389m	
+sran radonjic	2uwo	
+sran saper	528j	
+sran simovic	5qg3	
+sran stanic	62d6	
+sran stanic footballer born 1982	62d6	
+sran todorovic	1bk3	
+sran urosevic	5krw	
+sran vujaklija	5hp4	
+sran zika todorovic	1bk3	
+stasbourg ig roster	1052	
+stavelot	2so5	
+sterile abscess	4hxl	
+sterile cuckoo	236q	236q:3
+sterile water	49b	
+sterile water for irrigation	49b	
+sushmita		11tt:2,68k2:2
+sushmita mukherjee	68k2	
+sushmita sen	11tt	
+sverker		3huo:4
+sverker d a	3huo	
+sverker den aldre	3huo	
+sverker i		3huo:4
+sverker i clubfoot	3huo	
+sverker i klumpfot	3huo	
+sverker i kolson	3huo	
+sverker i of		3huo:4
+sverker i of sweden	3huo	
+sverker i the elder	3huo	
+sverker the elder	3huo	
+swasiland	2qq	
+szawle	8f8	
+tabanac	2nkn	
+takao	1oh4	23px:2,3tzx:2,40iv:2,4wt5:2,5af7:2
+takao doi	4wt5	
+takao koyama	40iv	
+takao name	1oh4	
+takao osawa	23px	
+takao saito	5af7	
+takao saito cinematographer	5af7	
+takao station	3tzx	
+takao station tokyo	3tzx	
+tattah subah	kgf	
+the aclu	k7d	
+the staggies	4lx	
+the uefa champions league	e4j	
+the waterboy	1vt9	
+the zombies	2svn	
+the zombies band	2svn	
+the zombies discography	2svn	
+therealboognish sandbox kid rock	lxr	
+tomahto	14tz	
+tonho	3hse	
+tonho gil	3hse	
+torpedoe	ltg	
+ummawiyy	9w1	
+uruma	58r4	
+uruma city	58r4	
+uruma okinawa	58r4	
+varricchio	2qts	
+vazofirin	4x4r	
+walce commune	24ve	
+warnow	23a4	
+warnow river	23a4	
+william gibbs		5hw4:3
+william gibbs mcadoo	5hw4	
+william gibbs mcadoo jr	5hw4	
+xuantong	11lv	
+xuantong era name	11lv	
+yeshayahou leibowitz	41fa	
+zeteolyga	1pj8	

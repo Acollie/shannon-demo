@@ -1,0 +1,545 @@
+75016	6re	
+aifc	6fm8	
+aifc file	6fm8	
+alexander molodchy	12ti	
+amazigh	4c51	
+amazigh language	uhv	
+amazigh people	4c51	
+andhrapradesh	nj	
+aptx 4869	531w	
+architype	4wuo	
+arques	1o7g,295d,3ng6	187f:3
+arques aude	295d	
+arques aveyron	3ng6	
+arques la		187f:3
+arques la bataille	187f	
+arques pas de calais	1o7g	
+articulo mortis	3qj	
+avrainville	1nlw,2vk6,3nj9	
+avrainville essonne	1nlw	
+avrainville meurthe et moselle	3nj9	
+avrainville vosges	2vk6	
+baells	35u6	
+baells huesca	35u6	
+baells spain	35u6	
+berberophone	uhv	
+bergholtz	23c1	
+bergholtz haut rhin	23c1	
+bern	13s	5z7:4,4mdc:3
+bern canton	123	
+bern ch	13s	
+bern city	13s	
+bern lucerne alps	1i7a	
+bern mittelland	5z7	5z7:4
+bern mittelland administrative		5z7:4
+bern mittelland administrative district	5z7	
+bern mittelland adminstrative district	5z7	
+bern rail station	4mdc	
+bern railway		4mdc:3
+bern railway station	4mdc	
+bern switzerland	13s	
+bern train station	4mdc	
+bern zollikofen	3zi8	
+bho	2o7k	
+biasotti list	nno	
+bocherini	4at9	
+busto		cbi:2,25vu:2,2zhz:3
+busto arsizio	cbi	
+busto de		2zhz:3
+busto de bureba	2zhz	
+busto de bureba burgos	2zhz	
+busto de bureba spain	2zhz	
+busto garolfo	25vu	
+buyyids	2ivq	
+byfield hall	yk7	
+castenedolo	27kf	
+castleford	iiw	2kd:2,2qbg:4
+castleford comments	iiw	
+castleford england	iiw	
+castleford f c	2kd	
+castleford rlfc	2kd	
+castleford tigers	2kd	
+castleford town		2qbg:4
+castleford town f		2qbg:4
+castleford town f c	2qbg	
+castleford west yorkshire	iiw	
+cateract	2rt8	
+chygrinsky	2ofe	
+conde		u5b:3,zrw:2,1182:2,1gqa:2,1lb9:4,1om7:3,1rpc:3,1vh6:3,21ak:3,21be:3,23t9:3,2be1:3,2io6:3,3021:3,33n4:3,3ekt:3,3k8i:3,3mhc:3,3uw4:2,547h:3
+conde b mccullough	547h	
+conde balcom		547h:3
+conde balcom mccullough	547h	
+conde cavalerie	19qm	
+conde de lemos	1dt3	
+conde de montemolin	17iy	
+conde de romanones	39ve	
+conde dracula	1xgw	
+conde dragons	19qm	
+conde en		1om7:3,3021:3
+conde en barrois	25xj	
+conde en brie	1om7	
+conde en normandie	3021	
+conde folie	3uw4	
+conde les		33n4:3,3ekt:3
+conde les autry	3ekt	
+conde les herpy	33n4	
+conde louis ii prince de	26y9	
+conde louis joseph de bourbon prince de	25po	
+conde maryse	60cc	
+conde mccullough	547h	
+conde museum	1182	
+conde nast	zrw	
+conde nast digital	zrw	
+conde nast international	zrw	
+conde nast publications	zrw	
+conde nast publications inc	zrw	
+conde nast web sites	zrw	
+conde naste	zrw	
+conde northen	1gqa	
+conde on the ifs	2io6	
+conde pontificio	2lf	
+conde sainte		2be1:3
+conde sainte libiaire	2be1	
+conde ste libiaire	2be1	
+conde sur		u5b:3,1lb9:4,1rpc:3,1vh6:3,21ak:3,21be:3,23t9:3,2io6:3,3k8i:3,3mhc:3
+conde sur aisne	1vh6	
+conde sur ifs	2io6	
+conde sur ifs france	2io6	
+conde sur iton	3k8i	
+conde sur l		1lb9:4
+conde sur l escaut	1lb9	
+conde sur marne	3mhc	
+conde sur moselle	1d84	
+conde sur noireau	u5b	
+conde sur sarthe	1rpc	
+conde sur seulles	21ak	
+conde sur suippe	21be	
+conde sur vesgre	23t9	
+cylindrolobus	6fui	
+dannine duncan avara	66oh	
+defendor	3ctx	
+defendor film	3ctx	
+doville	2wkq	
+dusan	5rj	1cya:2,1wxg:2,2c09:2,2n2u:2,2nmy:2,2odm:2,2oh3:2,36mz:2,3e1v:2,3i3p:2,3wu0:2,3yl7:2,3zrm:2,44pr:2,45q1:2,4719:2,4av0:2,4c73:2,4rqn:2,4tco:2,4tts:2,4ucx:2,4v6y:2,4whr:2,4wzl:2,5221:2,5b3i:2,5bgy:2,5bme:2,5fm2:2,5iod:2,5nrd:2,5p4y:2,5sne:2,5yje:2,64zt:2,65hg:2,6avg:2,6ekr:2
+dusan andelkovic	4av0	
+dusan andjelkovic	4av0	
+dusan anelkovic	4av0	
+dusan bajevic	5b3i	
+dusan basta	4rqn	
+dusan brkovic	4whr	
+dusan djokic	3i3p	
+dusan djordevic	4tts	
+dusan djordjevic	4tts	
+dusan djuric	45q1	
+dusan dokic	3i3p	
+dusan dordevic	4tts	
+dusan duric	45q1	
+dusan first name	5rj	
+dusan galis	4v6y	
+dusan given name	5rj	
+dusan ivkovic	2odm,6ekr	
+dusan ivkovic footballer	6ekr	
+dusan ivkovic footballer born 1990	6ekr	
+dusan ivkovic footballer born 1993	6ekr	
+dusan janicijevic	1cya	
+dusan janicijevic actor	1cya	
+dusan jelic	1wxg	
+dusan jelic koutsopoulos	1wxg	
+dusan kecman	4c73	
+dusan kerkez	5bme	
+dusan kljajic	5p4y	
+dusan kolarevic	6avg	
+dusan kosic	5221	
+dusan koutsopoulos	1wxg	
+dusan kovacevic	2c09	
+dusan kozisek	5sne	
+dusan kuciak	3wu0	
+dusan makavejev	2n2u	
+dusan micic	3zrm	
+dusan mihajlovic	5nrd	
+dusan mihajlovic football player	5nrd	
+dusan mihajlovic footballer	5nrd	
+dusan of serbia	247x	
+dusan okic	3i3p	
+dusan orevic	4tts	
+dusan pantelic	5fm2	
+dusan pasek	2nmy	
+dusan pernis	4ucx	
+dusan petkovic	2oh3	
+dusan petkovic footballer born 1974	2oh3	
+dusan petronijevic	64zt	
+dusan petrovic	65hg	
+dusan plavsic	5yje	
+dusan sakota	4tco	
+dusan savic	36mz	
+dusan savic footballer born 1985	36mz	
+dusan silni	247x	
+dusan simovic	3e1v	
+dusan sninsky	4wzl	
+dusan t simovic	3e1v	
+dusan the mighty	247x	
+dusan tomic	4rzz	
+dusan uric	45q1	
+dusan vasiljevic	44pr	
+dusan vasiljevic footballer	44pr	
+dusan veskovac	5bgy	
+dusan vidojevic	5iod	
+dusan vujosevic	602n	
+dusan vujovic	3yl7	
+dusan vukotic	4719	
+dziko la malawi	1t7	
+ecsenius	oge	
+eknath		322y:2
+eknath easwaran	322y	
+erioxantha	6fui	
+eskandar mirza	1qc7	
+eucreagra	4g8	
+fc nizhny		bcw:3,ylk:3
+fc nizhny novgorod	bcw,ylk	
+fc nizhny novgorod 2007	bcw	
+fc nizhny novgorod olimpiyets dyussh nizhny novgorod	bcw	
+fiona	5tj,5qhv	wx0:2,124d:2,2dfn:2,40ak:3,56hx:2,5f7d:2,5l2c:2,699c:2
+fiona apple	124d	
+fiona apple maggart	124d	
+fiona apple mcafee maggart	124d	
+fiona brewer	14qj	
+fiona bruce	5l2c	
+fiona douglas scott montagu baroness montagu of beaulieu	5plp	
+fiona first name	5tj	
+fiona flanagan	5qhv	
+fiona given name	5tj	
+fiona lewis	699c	
+fiona maggart	124d	
+fiona mary shaw	wx0	
+fiona mary watt	5f7d	
+fiona may	56hx	
+fiona o		40ak:3
+fiona o sullivan	40ak	
+fiona shaw	wx0	
+fiona singer	5qhv	
+fiona sit	2dfn	
+fiona watt	5f7d	
+fraenk schleck	1t7k	
+frige anglo saxon goddess	67vy	
+frige deity	67vy	
+garm clan	1xe2	
+geisel ernesto	4ms2	
+geisel library saint anselm college	22e3	
+george spanky mcfarland	vq0	
+gervex	28sw	
+gmina lobzenica	s12	
+gogoberishvili	3y55	
+hauze	2ye1	
+henry braham	4wam	
+henry newbolt	5shj	
+higasihirosima	1is7	
+huisnes		3kma:3
+huisnes sur		3kma:3
+huisnes sur mer	3kma	
+ibaraki	pzr,4lsl	49c:2
+ibaraki city	pzr	
+ibaraki ibaraki	4lsl	
+ibaraki japan	49c	
+ibaraki ken	49c	
+ibaraki osaka	pzr	
+ibaraki pref	49c	
+ibaraki prefecture	49c	
+ibaraki prefercture	49c	
+ibaraki shi	pzr	
+itano		6c5r:2
+itano district	6c5r	
+itano district tokushima	6c5r	
+itano tomomi	3gxd	
+jellachich	4oy3	
+jessye		5ir9:2
+jessye mae norman	5ir9	
+jessye norman	5ir9	
+john jane	5tl6	
+jonas	4f7p	qrh:2,1dcf:2,1tdj:6,2ogu:2,2ryo:2,2u73:2,2w9x:2,34c3:5,3ca8:2,3pr2:2,3pu3:2,46mi:2,4e4v:2,4fum:3,4k5c:2,4kb7:3,4m1a:2,4mu0:3,4q0t:2,4x11:2,4yv6:2,50gj:3,5bc4:2,5eu6:2,5gga:2,5gt9:2,5gwt:2,5kl5:2,5lvq:2,5qkl:2,5wtn:2,64py:2,67a2:3,6aoc:2,6cvb:2,6dbc:3
+jonas almtorp	5bc4	
+jonas altberg	l4o	
+jonas augusto		67a2:3
+jonas augusto bouvie	67a2	
+jonas axeldahl	5gga	
+jonas axeldal	5gga	
+jonas barry	qnj	
+jonas basanavicius	3pu3	
+jonas bjoerkman	2ryo	
+jonas bjorkman	2ryo	
+jonas bros	qrh	
+jonas brothers	qrh	1tdj:6
+jonas brothers 3d concert experience	1tdj	
+jonas brothers 3d movie	1tdj	
+jonas brothers band	qrh	
+jonas brothers burning up concert film	1tdj	
+jonas brothers the		1tdj:6
+jonas brothers the 3d		1tdj:6
+jonas brothers the 3d concert		1tdj:6
+jonas brothers the 3d concert experience	1tdj	
+jonas clark hall	42s	
+jonas de		4mu0:3
+jonas de roeck	4mu0	
+jonas delonge	qgs	
+jonas druppel	6dbc	
+jonas e salk	1dcf	
+jonas eduardo		4fum:3
+jonas eduardo americo	4fum	
+jonas edward salk	1dcf	
+jonas erik	l4o	
+jonas erik altberg	l4o	
+jonas erwig		6dbc:3
+jonas erwig druppel	6dbc	
+jonas fan van	4f7p	
+jonas ferdinand gabriel lippmann	1n1u	
+jonas gutierrez	3pr2	
+jonas heymans	5wtn	
+jonas hofmann	5gwt	
+jonas jessue		34c3:5
+jonas jessue da		34c3:5
+jonas jessue da silva		34c3:5
+jonas jessue da silva junior	34c3	
+jonas johansen	5kl5	
+jonas johansson author	6aoc	
+jonas jonasson	6aoc	
+jonas kamper	5eu6	
+jonas karlsson	2w9x	
+jonas karolis chodkevicius	635j	
+jonas kristupas glaubicas	5jyy	
+jonas kubilius	4m1a	
+jonas l a tv series	4f7p	
+jonas la	4f7p	
+jonas lauritz edemil lie	2u73	
+jonas lauritz idemil lie	2u73	
+jonas lie	2u73	
+jonas lie 1833 1908	2u73	
+jonas lie writer	2u73	
+jonas lossl	4x11	
+jonas love almqvist	58nr	
+jonas mark	63oh	
+jonas mekas	4e4v	
+jonas mellberg	qku	
+jonas or		4kb7:3
+jonas or ns	4kb7	
+jonas pate	4yv6	
+jonas qui aura 25 ans en l an 2000	1yyg	
+jonas ramalho	4q0t	
+jonas rasmussen	3ca8	
+jonas records	qrh	
+jonas salk	1dcf	
+jonas salley	46mi	
+jonas sandqvist	5lvq	
+jonas saulk	1dcf	
+jonas soundtrack	4f7p	
+jonas sternberg	ovx	
+jonas strifler	6cvb	
+jonas svedas	64py	
+jonas svensson	4k5c	
+jonas svensson footballer	4k5c	
+jonas t v series	4f7p	
+jonas thern	2ogu	
+jonas thor naes	4kb7	
+jonas thor ns	4kb7	
+jonas tor naes	4kb7	
+jonas tor ns	4kb7	
+jonas troest	5gt9	
+jonas tv series	4f7p	
+jonas van		50gj:3
+jonas van genechten	50gj	
+jonas vangenechten	50gj	
+jonas video game	4f7p	
+jonas wirmola	5qkl	
+kabul	2w1	spl:2,20s1:2,2u3k:2
+kabul af	2w1	
+kabul express	2u3k	
+kabul express 2006 film	2u3k	
+kabul muslimgauze 12 vinyl	21zf	
+kabul neighborhoods	2w1	
+kabul province	spl	
+kabul university	20s1	
+kaluthara	2td1	
+khpz	2abf	
+khpz factory	2abf	
+komazawa		j97:2
+komazawa university	j97	
+konstandinos karamanlis	2nos	
+konstandinos simitis	2aer	
+konstandinos stephanopoulos	2mck	
+la maria valle del cauca	i6m	
+lagunes		32q6:2
+lagunes region	32q6	
+lagunes region cote d ivoire	32q6	
+lapaglia anthony	ibb	
+lapaglia jonathan	5euh	
+le sauvage	z0z	
+linens	2rn9	
+lliga	9qf	
+lliga regionalista	604t	
+makela	1knc	
+manicouagan	1gzp	
+manicouagan county regional municipality quebec	1gzp	
+manicouagan regional county municipality	1gzp	
+manicouagan regional county municipality quebec	1gzp	
+marbache	29o5	
+marechausse corps	1ubm	
+maykop	o89	
+maykop republican urban okrug	o89	
+maykop urban okrug	o89	
+memoirist	3cm	
+metamorphosis	49s1	6ach:2
+metamorphosis novel	6ach	
+metamorphosis pillar album	4ozu	
+metamorphosis star trek	49s1	
+metamorphosis star trek episode	49s1	
+metamorphosis star trek the original series	49s1	
+metamorphosis story	6ach	
+metamorphosis tos episode	49s1	
+metapackage	1yiv	
+michael straight	3o0l	
+monogynaspida	4b97	
+muncas	kul	
+muscid	3bsk	
+muscid flies	3bsk	
+muscid fly	3bsk	
+mutehida qaumi movement altaf group	1rj1	
+nafpaktia	2nqs	2nqs:2
+nafpaktia municipality	2nqs	
+nazim	3hwh	3p12:2,616u:3,6det:2
+nazim adzhiev	3p12	
+nazim adzhiyev	3p12	
+nazim ajiev	3p12	
+nazim ajiyev	3p12	
+nazim al		616u:3
+nazim al kudsi	616u	
+nazim al qudsi	616u	
+nazim aliyev	6det	
+nazim first name	3hwh	
+nazim given name	3hwh	
+nazim hikmet	3qh7	
+nazim hikmet ran	3qh7	
+nazim name	3hwh	
+nazim qudsi	616u	
+ndar	gvk	
+ohira masayoshi	62go	
+ohme	31r4	
+padia	5wnm	
+pataveh		rdq:3
+pataveh rural		rdq:3
+pataveh rural district	rdq	
+pesterwitz	eup	
+pharmacies	18c6	
+pickens		11sl:2,25h7:2
+pickens co al	11sl	
+pickens co alabama	11sl	
+pickens county	11sl,25h7	
+pickens county al	11sl	
+pickens county alabama	11sl	
+pickens county high school	11sl	
+pickens county sc	25h7	
+pickens county south carolina	25h7	
+posusje	1vpe	
+prince bei	5oc8	
+przechlewo commune	uql	
+pulsar	34ez	
+qyzylorda	1836	
+qyzylorda oblysy	205m	
+qyzylorda province	205m	
+rasputina	3eq8	
+rasputina band	3eq8	
+rbny ii	rxw	
+refractory anaemia	1duo	
+refractory anemia	1duo	
+refractory chronic gout	12k4	
+refractory disease	at	
+refractory neutropenia	38rp	
+refractory status epilepticus	4755	
+refractory thrombocytopenia	69st	
+reports	1ewl	
+reports of my death are greatly exaggerated	8b7	
+rhianna	6h8c	
+rhianna hannah louise kenny	6h8c	
+rhianna singer	6h8c	
+rickettsia	2gn0	
+rickettsia infections	2gn0	
+robert ranke graves	n42	
+romeins keizer theodosius ii de jongere	25w7	
+romeins keizer tiberius	1lux	
+roznava	16lk	e1w:2
+roznava district	e1w	
+sderlund alexander	3om9	
+soraya	1o3a	
+soraya discography	1o3a	
+soraya musician	1o3a	
+soraya raquel lamilla	1o3a	
+soraya reina del desierto	3o6d	
+soundtracker zx spectrum	68mm	
+suda51	3grj	
+superettan	1193	
+sveton	4m15	
+taidc	y4d	
+tankettes	6elr	
+tasque	2adv	
+taverner s hill new south wales	1sxm	
+tepion	39vm	
+the baa baas	29b	
+the bermuda triangle	6hpk	
+the funny		3f6z:6
+the funny face		3f6z:6
+the funny face of		3f6z:6
+the funny face of the		3f6z:6
+the funny face of the godfather	3f6z	
+the funny paper	276	
+the ladykillers	1ngp,224e	
+the ladykillers 2004 film	1ngp	
+the ladykillers 2004 movie	1ngp	
+the shack	2xfn,5y63	
+the shack 1945 film	5y63	
+the shack 2017 film	2xfn	
+the shack film	2xfn	
+the shack music from and inspired by the original motion picture	2xfn	
+the tide	5bgq	
+thomas rongen	46e9	
+tif	1ddo	
+tif file	1ddo	
+tripodaula	3nik	
+twink	67fo	5o1s:2
+twink adler	67fo	
+twink caplan	5o1s	
+twink kee	j2h	
+twink musician	67fo	
+vegetable	7cf	y2f:2
+vegetable broth	5oc1	
+vegetable fats	y2f	
+vegetable fats and oils	y2f	
+vegetable fats and oils comments	y2f	
+vegetable fats oils	y2f	
+vegetable induced contact dermatitis	6f1f	
+vegetable kingdom	5td	
+vegetable market in amsterdam		4tks:5
+vegetable oil	y2f	
+vegetable oil fat	y2f	
+vegetable oils	y2f	
+vegetable packing plant	4il5	
+vegetable proteins	7cf	
+vegetable starch	1tue	
+vegetable tannin	4k6y	
+vegetable tannins	4k6y	
+vellerot		3cu1:3,3wy1:3
+vellerot les		3cu1:3,3wy1:3
+vellerot les belvoir	3wy1	
+vellerot les vercel	3cu1	
+venuseswilliams	f6p	
+wannsee	397x	
+wannsee railway station	6e79	
+wannsee station	6e79	
+william diehl	5rju	
+wyre	1qys	40w0:2
+wyre borough	1qys	
+wyre borough council	1qys	
+wyre council	1qys	
+wyre district	1qys	
+wyre forest	40w0	
+wyre forest district	40w0	
+wyre forest district council	40w0	
+xun zhou	12mh	
+yozimbo movie	1g3j	
+zhenis astana	c5g	

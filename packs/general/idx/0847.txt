@@ -1,0 +1,485 @@
+700s	2752	34ms:2
+700s bc	2bbp,34ms	
+700s bc decade	34ms	
+700s bce	2bbp	
+700s century	1rgs	
+700s decade	2752	
+achinese	351o	
+achinese language	351o	
+achinese war	bx7	
+achnatherum	6bfc	
+alvania	6ws	
+anglosaxon	3u28	
+aqtobe	vhm	
+aqtobe obls	kwb	
+aqtobe oblysy	kwb	
+aqtobe province	kwb	
+asnieres	996,2qyp	996:3,1fsf:3,1vc5:3,1w9h:3,20at:3,25c3:3,27pq:3,2eoa:3,2ojz:3,2owg:3,2pbx:3,31zp:3
+asnieres en		1vc5:3,2owg:3,2pbx:3
+asnieres en bessin	1vc5	
+asnieres en montagne	2owg	
+asnieres en poitou	2pbx	
+asnieres eure	2qyp	
+asnieres la		2eoa:3
+asnieres la giraud	2eoa	
+asnieres les		31zp:3
+asnieres les dijon	31zp	
+asnieres sous		20at:3
+asnieres sous bois	20at	
+asnieres sur		996:3,1fsf:3,1w9h:3,25c3:3,27pq:3,2ojz:3
+asnieres sur blour	2ojz	
+asnieres sur nouere	27pq	
+asnieres sur oise	1fsf	
+asnieres sur saone	1w9h	
+asnieres sur seine	996	
+asnieres sur seine france	996	
+asnieres sur vegre	25c3	
+babysitters	53x3	53x3:2
+babysitters club	6hs5	
+baffur gyan	3ew8	
+bazemont	1qs8	
+bolshevists	3rc2	
+bridgehampton	3ti0	
+bridgehampton new york	3ti0	
+bridgehampton ny	3ti0	
+brownlow		ama:2
+brownlow house or lurgan castle	l4v	
+brownlow kevin	5538	
+brownlow medal	ama	
+bulbazaur	6gxa	
+canendiyu	2cdz	
+canendiyu department	2cdz	
+champions	55a6	xd8:4
+champions 1983 film	55a6	
+champions 1984 film	55a6	
+champions 1992 film	1h3p	
+champions league	e4j	
+champions league 2014 15	4uiq	
+champions of		xd8:4
+champions of essendon	11l	
+champions of the		xd8:4
+champions of the earth	xd8	
+champions of the earth award	xd8	
+champions of the force card game	6gj0	
+champions series final	24af	
+choplifter	5y8l	
+christianunion	qzx	
+cizkov	23e2	
+cizkov plzen south district	23e2	
+cleavant		45a9:2
+cleavant derricks	45a9	
+cleavant derricks actor	45a9	
+cleavant derricks jr	45a9	
+clementia		2q9r:3,4cip:3,4j2j:3
+clementia of		2q9r:3,4cip:3,4j2j:3
+clementia of burgundy	2q9r	
+clementia of habsburg	1zsp	
+clementia of hungary	4cip	
+clementia of zahringen	4j2j	
+clevelandmarshall college of law	jm4	
+coff s harbour	w0c	
+conodont	556x	
+conodont apparatus	556x	
+conodont element	556x	
+conodont elements	556x	
+conodont teeth	556x	
+cornac	1jrk	
+cornac lot	1jrk	
+cuanza		wt4:3,15ym:3
+cuanza norte	15ym	15ym:3
+cuanza norte province	15ym	
+cuanza sul	wt4	wt4:3
+cuanza sul province	wt4	
+cyp19a1	455n	
+cyp19a1 gene	455n	
+druplet	5fp	
+dundin	211	
+edward cianelli	fws	
+elachyophtalma	3irr	
+enthesopathies	2gbl	
+epicur	15v1	
+esc2001	ft4	
+eusa album	1akx	
+fawcettville ontario	3837	
+geertruydenberg	2ayh	
+george homer ryan	3lbh	
+george homer ryan sr	3lbh	
+george seturidze	504f	
+ghodhbane	2k5w	
+glquake	1gl8	
+goleniow	1faw	1u2l:2
+goleniow commune	fyg	
+goleniow county	1u2l	
+hekabe	1ljm	
+heliports	3m2	
+hipocretes	1u65	
+hitonari		2hs8:2
+hitonari tsuji	2hs8	
+hitonari tuzi	2hs8	
+hulstea	e1l	
+humayoun	10rt	
+i took a trip on a gemini spaceship	6fnw	
+i took your name	5k32	
+i took your name song	5k32	
+i vtelloni	15rz	
+ideola	1stg	
+israelite moses	hbm	
+israelite tribes	5zep	
+james mcnulty footballer	3305	
+khs musician	1zb8	
+kontrabass	1rk	
+labasa		66pg:3
+labasa f		66pg:3
+labasa f c	66pg	
+labasa fc	66pg	
+lanegan	1e3o	
+lanegan mark	1e3o	
+laubendorf langenzenn	23d9	
+lefebure wely	4i8y	
+leptotrophon	1q5q	
+lool television show	n83	
+louis verneuil	4cn0	
+maeseyck	14c9	
+mahalle	nf	
+mariner	2rg	
+mariner 11	2m2w	
+mariner 12	106i	
+mariner cap	v1c	
+mariner xi	2m2w	
+mariner xii	106i	
+maysz	4r0c	
+mazirot	1t7g	
+mdot	4re	
+mdot sha	2iy	
+metabolically	4ykp	
+michael delura	4oo3	
+moers	kcp	
+moers germany	kcp	
+mogilyov	774	24aq:2
+mogilyov district	47pm	
+mogilyov governorate	24aq	
+mogilyov region	esp	
+moliminal	6hlw	
+mostaganem	16mx	2rtd:2
+mostaganem algeria	16mx	
+mostaganem district	16mx	
+mostaganem province	2rtd	
+mostaganem province algeria	2rtd	
+mrk vardar	330j	
+nanorana	2ycu	
+neoreligionists	255y	
+netan		66c5:2
+netan nico sansara	66c5	
+netan sansara	66c5	
+new waterford	6fbh	
+new waterford nova scotia	6fbh	
+new waterford ns	6fbh	
+nipperdey thomas	62b3	
+nonobjective artist	569	
+nonobjective artwork	569	
+novorizontino	61q0	
+oecolampadius john	676k	
+okres banovce nad bebravou	lve	
+okres banska bystrica	lol	
+okres bardejov	c0c	
+okres benesov	4ks	
+okres beroun	66n	
+okres blansko	4l8	
+okres breclav	89e	
+okres brno venkov	2yf	
+okres bruntal	89x	
+okres bytca	2l8s	
+okres cadca	15qh	
+okres ceska lipa	9e1	
+okres ceske budejovice	56s	
+okres cesky krumlov	bvh	
+okres cheb	bwi	
+okres chomutov	bo8	
+okres chrudim	57h	
+okres decin	ajw	
+okres dolny kubin	x1v	
+okres domazlice	6a5	
+okres dunajska streda	f7h	
+okres frydek mistek	7nn	
+okres galanta	o6c	
+okres havlickuv brod	4ol	
+okres hodonin	6j5	
+okres hradec kralove	5il	
+okres humenne	fgv	
+okres ilava	win	
+okres jablonec nad nisou	g73	
+okres jesenik	oda	
+okres jicin	544	
+okres jihlava	4kf	
+okres jindrichuv hradec	58m	
+okres karlovy vary	99y	
+okres karvina	10bo	
+okres kezmarok	pch	
+okres kladno	5a8	
+okres klatovy	5p5	
+okres kolin	688	
+okres komarno	n8r	
+okres kosice okolie	8gu	
+okres kromeriz	6v2	
+okres krupina	p28	
+okres kutna hora	6ab	
+okres kysucke nove mesto	320d	
+okres levice	av0	
+okres levoca	pf9	
+okres liberec	afb	
+okres liptovsky mikulas	h5t	
+okres litomerice	59l	
+okres louny	7o3	
+okres lucenec	i2g	
+okres malacky	vn3	
+okres martin	klx	
+okres medzilaborce	1ga9	
+okres melnik	7cy	
+okres michalovce	d7t	
+okres mlada boleslav	4fc	
+okres most	lqc	
+okres myjava	vkf	
+okres nachod	76n	
+okres namestovo	1a4o	
+okres nitra	fa3	
+okres nove mesto nad vahom	m34	
+okres nove zamky	fwo	
+okres novy jicin	9xy	
+okres nymburk	6bd	
+okres olomouc	5wf	
+okres opava	74s	
+okres ostrava mesto	16ww	
+okres pardubice	4zt	
+okres partizanske	14bz	
+okres pelhrimov	4ny	
+okres pezinok	1dci	
+okres piestany	109v	
+okres pisek	7ez	
+okres plzen jih	5w4	
+okres plzen mesto	143q	
+okres plzen sever	5li	
+okres poltar	1907	
+okres poprad	ps3	
+okres povazska bystrica	tmx	
+okres prachatice	8h2	
+okres praha vychod	4vd	
+okres praha zapad	6gz	
+okres prerov	5e6	
+okres presov	atl	
+okres pribram	4jo	
+okres prievidza	ghg	
+okres prostejov	5od	
+okres puchov	y2t	
+okres rakovnik	qmm	
+okres revuca	nid	
+okres rimavska sobota	9b2	
+okres rokycany	7lf	
+okres roznava	e1w	
+okres ruzomberok	104d	
+okres rychnov nad kneznou	70t	
+okres sabinov	ogf	
+okres semily	8ff	
+okres senec	t13	
+okres senica	sgq	
+okres snina	x35	
+okres sokolov	dn6	
+okres spisska nova ves	oze	
+okres stara lubovna	msx	
+okres strakonice	516	
+okres stropkov	nbm	
+okres sumperk	75v	
+okres svitavy	4t5	
+okres tabor	52e	
+okres tachov	9wk	
+okres teplice	gte	
+okres topolcany	h6o	
+okres trebic	3cc	
+okres trebisov	cqj	
+okres trencin	pxy	
+okres trnava	i15	
+okres trutnov	7gh	
+okres tvrdosin	1uqk	
+okres uherske hradiste	6zq	
+okres usti nad labem	oum	
+okres usti nad orlici	4wl	
+okres velky krtis	dzt	
+okres vranov nad toplou	dwi	
+okres vsetin	9bg	
+okres vyskov	6ke	
+okres zdar nad sazavou	391	
+okres ziar nad hronom	qo2	
+okres zilina	gaj	
+okres zlate moravce	t07	
+okres zlin	68i	
+okres znojmo	3vj	
+okres zvolen	uma	
+palontology	3ou	
+pharaohs	33h	
+pharaohs of egypt	33h	
+pharaohs of the ptolemaic dynasty	6h3y	
+pharaohs sandbox	33h	
+pharaohs woman	6174	6174:3
+piccadilly	1gvw,4mtx	jwt:2,32he:2,4ghe:4,4y34:2
+piccadilly film	4mtx	
+piccadilly incident	32he	
+piccadilly jim	4y34	
+piccadilly jim 1936 film	4y34	
+piccadilly line	jwt	
+piccadilly line london underground	jwt	
+piccadilly london	1gvw	
+piccadilly metrolink station	3bmw	
+piccadilly movie	4mtx	
+piccadilly null uhr zwolf	4ghe	
+piccadilly press	rpt	
+piccadilly railway station	3bmw	
+piccadilly records	4id	
+piccadilly tram stop	3bmw	
+piccadilly zero		4ghe:4
+piccadilly zero hour		4ghe:4
+piccadilly zero hour 12	4ghe	
+polytechnic		b6u:4,xzh:4,1c05:4,1erz:4
+polytechnic college	8xz	
+polytechnic degree	8xz	
+polytechnic institute in turin	1erz	
+polytechnic institute of advanced science	32nx	
+polytechnic institute of brooklyn	4yc	
+polytechnic institute of nyu	4yc	
+polytechnic institute of puerto rico	1c0w	
+polytechnic institute of riga	bzg	
+polytechnic movie	5f6k	
+polytechnic of east london	4jwv	
+polytechnic of lviv	zlw	
+polytechnic of north london	4adk	
+polytechnic of the south bank	2twc	
+polytechnic of turin	1erz	
+polytechnic of zuerich	4sl	
+polytechnic of zurich	4sl	
+polytechnic school		b6u:4
+polytechnic school of		b6u:4
+polytechnic school of kassel	10d4	
+polytechnic school of montreal	b6u	
+polytechnic singapore	8xz	
+polytechnic university		xzh:4,1c05:4,1erz:4
+polytechnic university brooklyn	4yc	
+polytechnic university in brooklyn	4yc	
+polytechnic university of		xzh:4,1c05:4,1erz:4
+polytechnic university of athens	bps	
+polytechnic university of bucharest	1qp8	
+polytechnic university of catalonia	1c05	
+polytechnic university of madrid	imc	
+polytechnic university of milan	xzh	
+polytechnic university of timisoara	4umw	
+polytechnic university of torino	1erz	
+polytechnic university of turin	1erz	
+polytechnic university of valencia	1luq	
+poniewiez	9rr	
+premyer liga	rnq	
+prompsat	3oc5	
+rapport till himlen	3byz	
+religions	4ck	
+religions denominations	hlt	
+risoba	34gk	
+rnlb	e5z	
+rund717 greater bunbury	ofn	
+sahorre	2p7y	
+sahyadris	gfd	
+saint geneys		3cfy:5
+saint geneys pres		3cfy:5
+saint geneys pres saint		3cfy:5
+saint geneys pres saint paulien	3cfy	
+saint macoux	2zg9	
+seranon	1tmb	
+sicoris	24zo	
+sierravision	4cu	
+sir chantrey	4h6h	
+socalist unity party of germany	29u	
+soeurdres	2f2v	
+soshun	4ica	
+sparkworkz	676v	
+spartakus nyredzchaza	710	
+starcon	61bp	
+tatry	4sac	
+the bob		un3:4
+the bob and tom show	un3	
+the bob crewe generation	57sa	
+the bob hawke prime ministerial centre	j2b	
+the bob seger system	iki	
+the bob tom		un3:4
+the bob tom show	un3	
+the europes	e0	
+the hardened criminals	h53	
+the music	4vir	1vzm:3,4gj1:3,4r9e:3,65od:7
+the music according		65od:7
+the music according to		65od:7
+the music according to antonio		65od:7
+the music according to antonio carlos		65od:7
+the music according to antonio carlos jobim	65od	
+the music and the mirror	594c	
+the music band	4vir	
+the music box	4gj1	
+the music box 1932 film	4gj1	
+the music box film	4gj1	
+the music business journal	1z6	
+the music lovers	4r9e	
+the music lovers the pyotr ilyich tchaikovsky story	4r9e	
+the music man	1vzm	
+the music man 1962 film	1vzm	
+the music man film	1vzm	
+the music of candyman	1dyi	
+the music of gta iv	1map	
+the music technology center at juilliard	1ad	
+the pawnbroker	1vm9	
+the pawnbroker film	1vm9	
+the ritz	3ufj	66v7:3
+the ritz club	66v7	
+the ritz film	3ufj	
+the ritz hotel	66v7	
+the ritz hotel london	66v7	
+the ritz london	66v7	
+the ritz london hotel	66v7	
+the transition of shad moss	kgy	
+the transition to shad mos	kgy	
+the transition to shad moss	kgy	
+thomas r		4br6:3
+thomas r carper	3g1s	
+thomas r carper comments	3g1s	
+thomas r cech	2n7u	
+thomas r harkin	4ywk	
+thomas r kimball	5fyp	
+thomas r malthus	2tyk	
+thomas r marshall	4br6	
+thomas r mcmillen actor	jet	
+thomas r pynchon jr	1nwk	
+thomas r r stebbing	563a	
+thomas r s broughton	4674	
+throckmorton		31us:2
+throckmorton county	31us	
+throckmorton county texas	31us	
+throckmorton county tx	31us	
+throckmorton nicholas	5yxy	
+tiruvarur	65f3	f67:2
+tiruvarur district	f67	
+tolan michael	4enm	
+tuzly		4xy0:2
+tuzly lagoons	4xy0	
+tuzly s lagoons	4xy0	
+twi language	2qqh	
+vangipurapu venkata sai laxman	56vt	
+varces		2gnd:4
+varces allieres		2gnd:4
+varces allieres et		2gnd:4
+varces allieres et risset	2gnd	
+vitalijs		3l1g:2,3p8q:2,5ho1:2,5zg1:2
+vitalijs astafjevs	3p8q	
+vitalijs jagodinskis	5ho1	
+vitalijs maksimenko	3l1g	
+vitalijs melnicenko	5zg1	
+vlissengen	csd	
+vyaas	13pn	
+waitu kubuli	1gl	
+wastelbread	6fma	
+weienfels	bh1	
+william cronon	2rb7	
+wodehousian	4iz	
+wolynska	3477	
+woodwinds	1jai	

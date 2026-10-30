@@ -1,0 +1,512 @@
+1804		6gz1:5
+1804 united		6gz1:5
+1804 united states		6gz1:5
+1804 united states presidential		6gz1:5
+1804 united states presidential election	6gz1	
+209200 bc	29a7	
+300309	2537	
+abidar		5489:3
+abidar rural		5489:3
+abidar rural district	5489	
+aibar	3p08	3p08:2
+aibar oibar	3p08	
+allada	52n0	
+amelecourt	2dhp	
+anaheim	4qr	31n:2,27rk:2,69bj:2
+anaheim amigos	69bj	
+anaheim ca	4qr	
+anaheim california	4qr	
+anaheim canyon	4qr	
+anaheim ducks	31n	
+anaheim kings	2md	
+anaheim landing	1fop	
+anaheim los angeles	4qr	
+anaheim mighty ducks	31n	
+anaheim servite	64vb	
+anaheim splash	27rk	
+apink	18za	
+apink bnn	18za	
+ardenais	3cis	
+asaff	2k3g	
+ayalena ginasabarga	mqf	
+ayun kara	abb	
+bakalyan richard	25td	
+basaraba	6fv9	
+bedoues	4s9f	2wn1:2
+bedoues cocures	2wn1	
+bernsdorf	2cye	
+bernsdorf bautzen	2cye	
+bernsdorf kamenz	2cye	
+bernsdorf oberlausitz	2cye	
+bernsdorf upper lusatia	2cye	
+binyamin	1j5o	
+binyamin ben eliezer	524q	
+binyamin benny elon	4fti	
+binyamin elon	4fti	
+binyamin fouad ben eliezer	524q	
+binyamin peled	441f	
+binyamin region	4sgq	
+binyamin ze ev begin	6a1c	
+binyamin ze ev herzl	2x21	
+blacktown	ya4	e84:3
+blacktown city		e84:3
+blacktown city demons	e84	
+blacktown city demons football club	e84	
+blacktown city fc	e84	
+blacktown city football club	e84	
+blacktown new south wales	ya4	
+blacktown north new south wales	ya4	
+blacktown south new south wales	ya4	
+blacktown sydney	ya4	
+blacktown west new south wales	ya4	
+blaziert	2c9d	
+braone	50yw	
+busher iran	vdc	
+capaccio	1zcw	1zcw:2
+capaccio paestum	1zcw	
+capaccio scalo	1zcw	
+checkhov	6dt	
+chimbote	y2a	
+chimbote peru	y2a	
+ciboure	1rit	
+cidamon	4o99	
+clevland browns	13h	
+clevland time zone	7t	
+communautes de communes	4nr	
+comvalius	4a34	
+david g		eqv:3,nqz:3,2i1i:3
+david g arnold	eqv	
+david g clark	68nn	
+david g farragut	3l1e	
+david g hartwell	2i1i	
+david g kendal	2j1v	
+david g kendall	2j1v	
+david g mccullough	nqz	
+david g phillips	5fu5	
+david g tyler	2vwh	
+desandans	4210	
+explosion	bx2,60nq,62zp	
+explosion 1923 film	60nq	
+explosion 1973 film	62zp	
+explosion film	62zp	
+explosion on the bullet train	295o	
+explosion pressure	3goz	
+felixtowe	1jag	
+felixtowe f 5	5jrn	
+fossilise	4mh0	
+george 4th viscount and 1st marquis townshend townshend	1va9	
+glava tour of norway	4veq	
+gmina sompolno	i2m	
+gudivada	3gwy	
+gudivada village in tenali mandal	3gwy	
+gusmania	5d6	
+hasankeyef	tby	
+heineman prize for mathematical physics	gvf	
+hinterreggio		5dmg:2
+hinterreggio calcio	5dmg	
+hongo kanata	5tc8	
+ilyusha	4dlc	
+inherit		1czl:3,3ocv:3
+inherit the		1czl:3,3ocv:3
+inherit the wind	1czl,3ocv	
+inherit the wind 1960 film	1czl	
+inherit the wind 1988 film	3ocv	
+introdacqua	4hn6	
+itv2	n6s	
+itv2 1	n6s	
+itv2 celebrity daredevils	n6s	
+itv2 hd	n6s	
+itv2 rumour	n6s	
+james lowell as the world turns	ayy	
+john kaada	1ssy	
+john tuzo		1kc8:3
+john tuzo wilson	1kc8	
+khojevank	2s58	
+kleczew commune	lwk	
+kralice		2uip:3,43wb:3
+kralice na		2uip:3
+kralice na hane	2uip	
+kralice nad		43wb:3
+kralice nad oslavou	43wb	
+kralyevo	5os	
+kuenzelsau	2tk0	
+la sauve	1kfm	
+lagaos	1m5	
+lami futebol clube	1b4v	
+le nom de la rose	lda	
+le nom des gens	2x3x	
+littleindia kuala lumpur	21m	
+lowland gods	v7n	
+lowland scots	ey6	
+lowland scots language	ey6	
+maestlin michael	5q1c	
+malarme	4a30	
+mammookka	3e3	
+masero lesotho	tx8	
+nagaraja t k sandbox	co	
+northumbreland	2cy	
+nourishments	126e	
+ontological	39ns	
+ontological distinction computer science	z20	
+ontological supernaturalism	20d	
+ordain	5zcr	
+ordain ordination	5zcr	
+osteichthyan	752	
+p3d0	9j2	
+paramilitary	iv5	iv5:2
+paramilitary force	iv5	
+paramilitary forces	iv5	
+paramilitary groups	iv5	
+paramilitary organization	iv5	
+paramilitary organizations	iv5	
+paramilitary partisan	f04	
+paramilitary unit	iv5	
+passengers	1lva,2riq	
+passengers 2008 film	2riq	
+passengers 2014 film	1lva	
+passengers 2015 film	1lva	
+passengers 2016	1lva	
+passengers 2016 film	1lva	
+passengers original soundtrack 1	3ncd	
+passengers original soundtracks 1	3ncd	
+passengers side project	3ncd	
+pennine		3ig:2
+pennine alps	3ig	
+pennine chain	2279	
+pennine dales	2279	
+pennine mountains	2279	
+pennine range	2279	
+pilavullakandi thekkeparambil usha	3qe8	
+pilavullakandi thekkevarambil usha	3qe8	
+pilavullakandi usha	3qe8	
+piratical	5qy	
+prayuth	4u29	
+prayuth chan o cha	4u29	
+prayuth chan ocha	4u29	
+prayuth jan ocha	4u29	
+prezihov		5yhs:2
+prezihov voranc	5yhs	
+pruning maceration	8vo	
+puntita	2ag7	
+raajpal yadav	xbi	
+ranger		5ts1:3
+ranger aircraft carrier	30r4	
+ranger and the temple of the sea	1z4g	
+ranger class aircraft carrier	30r4	
+ranger interstellar	mvq	
+ranger j audubon woodlore	3f7r	
+ranger jones	1vdx	
+ranger s	59fw	5ts1:3
+ranger s apprentice	5ts1	
+ranger s apprentice datequery	5ts1	
+ranger s apprentice series	5ts1	
+ranger s apprentice the ruins of gorlan	6gp1	
+ranger s fc	59fw	
+ranger us army	45da	
+ranger varese	6wh	
+retroflexing	3ajc	
+robert darene	4z5d	
+robert edward badham	52t3	
+robert edward brookmeyer	1hxa	
+robert edward dudley ryder	5sf2	
+robert edward fiennes clinton 19th earl of lincoln	1ztn	
+robert edward galer	45n1	
+robert edward holmes	61gv	
+robert edward iii turner	22s5	
+robert edward laycock	575r	
+robert edward lee jr	67s7	
+robert edward peter cecil gascoyne cecil 6th marquess of salisbury	5fc8	
+robert edward peter gascoyne cecil 6th marquess of salisbury	5fc8	
+robert edward randall	sc4	
+robert edward rubin	44zv	
+robert edward stevenson	k1q	
+robert edward turner	22s5	
+robert edward turner iii	22s5	
+robert edward wilson	ysz	
+robert zaehner	66so	
+romania	2m	1za:7,48t:6,aza:6,gzg:6,1fi2:5,1szs:5,4e23:6,4gsi:4,6fix:6
+romania a national rugby union team	1fi2	
+romania communist party	7zd	
+romania cup	eew	
+romania during world war i	1szs	
+romania during ww1	1szs	
+romania football team	1za	
+romania in		1szs:5,6fix:6
+romania in eurovision	6fix	
+romania in the		6fix:6
+romania in the eurovision		6fix:6
+romania in the eurovision song		6fix:6
+romania in the eurovision song contest	6fix	
+romania in the eurovision song contest 2002	6fix	
+romania in the eurovision song contest 2019	6fix	
+romania in world		1szs:5
+romania in world war		1szs:5
+romania in world war i	1szs	
+romania in wwi	1szs	
+romania men		1za:7
+romania men s		1za:7
+romania men s national		1za:7
+romania men s national association		1za:7
+romania men s national association football		1za:7
+romania men s national association football team	1za	
+romania moldavia	aoa	
+romania national		48t:6,aza:6,gzg:6,1fi2:5,4gsi:4
+romania national football team	1za	
+romania national futsal		4gsi:4
+romania national futsal team	4gsi	
+romania national rugby		1fi2:5
+romania national rugby union		1fi2:5
+romania national rugby union team	1fi2	
+romania national under		48t:6,aza:6,gzg:6
+romania national under 17		gzg:6
+romania national under 17 football		gzg:6
+romania national under 17 football team	gzg	
+romania national under 18 football team	aza	
+romania national under 19		aza:6
+romania national under 19 football		aza:6
+romania national under 19 football team	aza	
+romania national under 21		48t:6
+romania national under 21 football		48t:6
+romania national under 21 football team	48t	
+romania portal	2m	
+romania rugby union team	1fi2	
+romania rugby union tour	1fi2	
+romania rugby union tours	1fi2	
+romania wikipedia ii	2m	
+romania women		4e23:6
+romania women s		4e23:6
+romania women s national		4e23:6
+romania women s national football		4e23:6
+romania women s national football team	4e23	
+rouleau	1sam	
+rumbo the vandal	3fxw	
+saint geronimo	hqi	
+sainz		5elr:3
+sainz de		5elr:3
+sainz de baranda	5elr	
+sainz de baranda madrid metro	5elr	
+sanwui	2l9t	
+sepulchre	4bo	
+sepulchre holy	3bg1	
+sergije		5y7x:2
+sergije kresic	5y7x	
+shaabia	2zbe	
+shazlan		6dkq:2
+shazlan alias	6dkq	
+shindhu	1fw4	
+sitamon	27xf	
+steelers	4mlv	
+steelers pennsylvania	bqs	
+strorm giant	183k	
+suffern	od2	
+suffern middle school	od2	
+suffern n y	od2	
+suffern new york	od2	
+suffern ny	od2	
+swiss	6345	3q2:3,8oq:2,bki:4,dms:6,jf3:4,v83:3,116s:3,12jb:3,17mu:3,1kly:2,1nsb:4,1vqa:2,2b9i:2,2i63:5,2ijf:10,2kl8:2,3a28:2,3bv0:3,3fof:4,3rzm:3,3zgz:2,406i:3,4687:3,51n1:3,5xpb:3
+swiss 1 liga football	tmh	
+swiss 1 liga promotion	50pr	
+swiss 1 ligue promotion	50pr	
+swiss 2 liga	4ibg	
+swiss 2 liga football	4ibg	
+swiss a	eix	
+swiss a league	eix	
+swiss air	4kur	5xpb:3
+swiss air defense	5xpb	
+swiss air force	5xpb	
+swiss air lines ltd	1nsb	
+swiss airforce	5xpb	
+swiss airline	1nsb	
+swiss airlines	1nsb	
+swiss alpine		17mu:3
+swiss alpine club	17mu	
+swiss alps	1vqa	
+swiss american aviation	4thu	
+swiss army		406i:3
+swiss army chainsaw	83s	
+swiss army man	406i	
+swiss asia	4kur	
+swiss aviationtraining	1nsb	
+swiss beats	gy6	
+swiss beatz	gy6	
+swiss bolt	5qcs	
+swiss canton	1dr9	
+swiss cantons	1dr9	
+swiss central plateau	3a28	
+swiss challenge league	2l0k	
+swiss choir	169i	
+swiss christian democratic party	ija	
+swiss christian democratic people s party	ija	
+swiss communes	f9	
+swiss confederated states	2a	
+swiss confederation	2a	
+swiss conservative people s party	ija	
+swiss conspiracy	277k	277k:3
+swiss cultural property of national significance	2ijf	
+swiss cup	3zgz	
+swiss district	5hkz	
+swiss ecologist party	21rl	
+swiss exchange	3rzm	
+swiss family		116s:3,51n1:3
+swiss family robinson	116s,51n1	
+swiss family robinson 1940 film	51n1	
+swiss family robinson 1960	116s	
+swiss family robinson 1960 film	116s	
+swiss family robinson film	116s	
+swiss fed inst of technology zuerich switzerland	4sl	
+swiss federal		3q2:3,4687:3
+swiss federal council	4687	
+swiss federal council election 2011	5c8t	
+swiss federal government	4687	
+swiss federal institute of technology in lausanne	le6	
+swiss federal institute of technology zurich	4sl	
+swiss federal railways	3q2	
+swiss figure		3fof:4
+swiss figure skating		3fof:4
+swiss figure skating championships	3fof	
+swiss football		bki:4
+swiss football league	bki	bki:4
+swiss football league system	bki	
+swiss football team	2kv	
+swiss french jura	bsp	
+swiss french people	6345	
+swiss german	8oq	
+swiss german language	8oq	
+swiss german linguistics	8oq	
+swiss german people	6345	
+swiss german speakers	6345	
+swiss gotthard	4xbj	
+swiss government	4687	
+swiss gp	3bv0	
+swiss grand		3bv0:3
+swiss grand prix	3bv0	
+swiss green party	21rl	
+swiss indoors	2b9i	
+swiss int l	1nsb	
+swiss int l air lines	1nsb	
+swiss international	1nsb	1nsb:4
+swiss international air		1nsb:4
+swiss international air lines	1nsb	
+swiss international air lines ag	1nsb	
+swiss international air lines ltd	1nsb	
+swiss international airlines	1nsb	
+swiss international championships	2kl8	
+swiss intl air lines	1nsb	
+swiss intl air lines ag	1nsb	
+swiss inventory		2ijf:10
+swiss inventory of		2ijf:10
+swiss inventory of cultural		2ijf:10
+swiss inventory of cultural property	2ijf	2ijf:10
+swiss inventory of cultural property of		2ijf:10
+swiss inventory of cultural property of national		2ijf:10
+swiss inventory of cultural property of national and		2ijf:10
+swiss inventory of cultural property of national and regional		2ijf:10
+swiss inventory of cultural property of national and regional significance	2ijf	
+swiss italian	6345	
+swiss italian people	6345	
+swiss italians	6345	
+swiss jura	bsp	
+swiss leader index	3rzm	
+swiss liga 2	4ibg	
+swiss liga 2 football	4ibg	
+swiss literary		v83:3
+swiss literary archives	v83	
+swiss locomotive		2i63:5
+swiss locomotive and		2i63:5
+swiss locomotive and machine		2i63:5
+swiss locomotive and machine works	2i63	
+swiss maestro	afa	
+swiss miss	1kly	
+swiss miss film	1kly	
+swiss mittelland	3a28	
+swiss motorways	6bqg	
+swiss mountains	1vqa	
+swiss municipalities	f9	
+swiss national football team	2kv	
+swiss national soccer team	2kv	
+swiss nationals figure skating	3fof	
+swiss open	2kl8	
+swiss open gstaad	2kl8	
+swiss open tennis	2kl8	
+swiss people	6345	jf3:4
+swiss people s		jf3:4
+swiss people s party	jf3	
+swiss peoples party	jf3	
+swiss plateau	3a28	
+swiss president	1yyq	
+swiss promotion league	50pr	
+swiss rail	3q2	
+swiss socialist party	bsx	
+swiss sports		dms:6
+swiss sports personality		dms:6
+swiss sports personality of		dms:6
+swiss sports personality of the		dms:6
+swiss sports personality of the year	dms	
+swiss sportspersonality of the year	dms	
+swiss stock		3rzm:3
+swiss stock exchange	3rzm	
+swiss super		12jb:3
+swiss super league	12jb	
+swiss television	5win	
+swiss tv	5win	
+swiss universities of applied sciences	axe	
+swiss worldcargo	1nsb	
+the baseball boys	3ati	
+the cincinati kid	1dtw	
+thomas chalmers	4itp	
+tonsorial	531m	
+uberherrn	5m2f	
+uest love	3r74	
+vomiting	fs9	
+william j		t20:3,2a77:3,2okm:3,3ag9:3,44i2:3,4jgc:3,4o4k:3,68s3:3
+william j adams	9y4	
+william j adams jr	9y4	
+william j baumol	4f4u	
+william j becker	4jgc	
+william j begert	68s3	
+william j bell	2a77	
+william j brennan	44i2	
+william j brennan jr	44i2	
+william j brennan jr comments	44i2	
+william j bryan	215f	
+william j butler	t20	
+william j campbell actor	1k79	
+william j corcoran	4zsx	
+william j craft	1b39	
+william j cronon	2rb7	
+william j crowe	3ag9	
+william j crowe jr	3ag9	
+william j dally	55q0	
+william j donovan	2okm	
+william j durant	54zp	
+william j eggleston	4nid	
+william j gaynor	5sbb	
+william j hooker	2vrf	
+william j humphrey	2vsu	
+william j janklow	4fvl	
+william j kennedy	1kxj	
+william j knight	451z	
+william j l blair	6be3	
+william j laimbeer jr	4uq9	
+william j le petomane	1csa	
+william j levada	5jf3	
+william j mayo	639f	
+william j miller	5fox	
+william j mitchell	63wb	
+william j perry	2igf	
+william j pete knight	451z	
+william j pullman	j2d	
+william j r cavendish	3n03	
+william j rutter	4o4k	
+william j vanden heuvel	62rh	
+william j welsh	58ai	
+william j willem dafoe	aof	
+william j wilson	2e5a	
+wismilak international	55rp	
+womb	337s	
+womb cancer	24qb	
+womb film	337s	
+zlin	5t8	68i:2,1qqc:2
+zlin czech republic	5t8	
+zlin district	68i	
+zlin region	1qqc	

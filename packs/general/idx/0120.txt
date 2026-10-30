@@ -1,0 +1,594 @@
+400s	27en	25x2:2
+400s bc	1jp6,25x2	
+400s bc decade	25x2	
+400s bce	1jp6	
+400s century	1p83	
+400s decade	27en	
+a froehlich	51oj	
+aklavik	5vxz	
+aklavik northwest territories	5vxz	
+alexander svistunov	44nn	
+amosov mykola	2mle	
+amosov nikolai	2mle	
+archiepiscopal	e2	
+archiepiscopal see of cologne	3kfc	
+archiepiscopal see of lyon	3iir	
+archiveeditor andree tainsy	1fic	
+archiveeditor betty	3q30	
+archiveeditor les portes de la nuit	1ht4	
+archiveeditor quelques jours avec moi	3b5a	
+archiveeditor robert leuci	5r8c	
+audignon	38b1	
+barito putera	kcz	
+barito putera f c	kcz	
+barito putra	kcz	
+barito putra fc	kcz	
+bionomy	jqe	
+bookchin	4bvo	
+breaside preparatory school	7kw	
+bringin		6a8p:4
+bringin it all back home	2ax0	
+bringin on		6a8p:4
+bringin on the		6a8p:4
+bringin on the heartbreak	6a8p	
+camusian	eoo	
+cedartown	29ws	
+cedartown ga	29ws	
+cedartown ga micropolitan statistical area	2ovw	
+cedartown ga msa	2ovw	
+cedartown ga sa	2ovw	
+cedartown georgia	29ws	
+cedartown georgia micropolitan area	2ovw	
+charles louvin	5wrj	
+charlevoix	3a0g	s5b:2,1nyu:2
+charlevoix county	s5b	
+charlevoix county mi	s5b	
+charlevoix county michigan	s5b	
+charlevoix county regional municipality quebec	3a0g	
+charlevoix est	1nyu	
+charlevoix est county regional municipality quebec	1nyu	
+charlevoix est regional county municipality	1nyu	
+charlevoix est regional county municipality quebec	1nyu	
+charlevoix regional county municipality	3a0g	
+charlevoix regional county municipality quebec	3a0g	
+cherry	20bh,58uc,5uy8	lrr:2,o9c:2,t2h:2,19uh:2,1ggm:2,29fl:5,2knr:2,39k1:2,4fie:3,51we:3,59rg:2
+cherry 2000	1ggm	
+cherry and whites	2na	
+cherry blossom academy	1txo	
+cherry blossoms	59rg	
+cherry blossoms film	59rg	
+cherry bureau	1loo	
+cherry cheva	39k1	
+cherry chevapravatdumrong	39k1	
+cherry city california	ke3	
+cherry city of california	ke3	
+cherry city of california california	ke3	
+cherry county	o9c	
+cherry county ne	o9c	
+cherry county nebraska	o9c	
+cherry darling	1h3i	
+cherry falls	2knr	
+cherry first name	20bh	
+cherry fruit	58uc	
+cherry given name	20bh	
+cherry hill	t2h	
+cherry hill fire department	t2h	
+cherry hill n j	t2h	
+cherry hill new jersey	t2h	
+cherry hill nj	t2h	
+cherry hill police department	t2h	
+cherry hill township camden county new jersey	t2h	
+cherry hill township new jersey	t2h	
+cherry hill township nj	t2h	
+cherry jones	19uh	
+cherry juice	58uc	
+cherry keane	qty	
+cherry kearton		29fl:5
+cherry kearton medal	29fl	29fl:5
+cherry kearton medal and		29fl:5
+cherry kearton medal and award	29fl	
+cherry lana del rey song	6euo	
+cherry orchard	3ksl	3ksl:3
+cherry pie		51we:3
+cherry pie picache	51we	
+cherry pit	58uc	
+cherry point marine corps air station	5p05	
+cherry point mcas	5p05	
+cherry point north carolina	5p05	
+cherry poppin		4fie:3
+cherry poppin daddies	4fie	
+cherry popping daddies	4fie	
+cherry production in the united states	58uc	
+cherry productions	r5f	
+cherry project	2gw7	
+cherry qq3	215a	
+cherry red	lrr	
+cherry red books	lrr	
+cherry red records	lrr	
+cherry red tv	lrr	
+cherry steve	3jyj	
+cherry surname	5uy8	
+cherry tree	58uc	
+cherry trees	58uc	
+cherry valley massachusetts	3o6i	
+cherry wood	58uc	
+clere		2j7m:3,3c0p:3,3d1l:3
+clere du		3c0p:3
+clere du bois	3c0p	
+clere les		3d1l:3
+clere les pins	3d1l	
+clere sur		2j7m:3
+clere sur layon	2j7m	
+comunidade autonoma	3kre	
+concello de baiona	1pwt	
+david dhawan	lo1	
+david dhawan director	lo1	
+david dhawan films	lo1	
+dichostates	1psw	
+dilina	6f81	
+diplopappus	6e4m	
+dragontv	1uqi	
+drawno commune	lcu	
+drivergate	6bj2	
+eastvaal district	2ubv	
+edmlison dos santos sliva	4dfz	
+fanck	2bzp	
+fc antibes	51gq	
+fischbach friedrichshafen	edl	
+fischbach unrra displaced persons camp	1dl	
+folkloristic characters	kh7	
+forever	59ah,5sjx,5snt,656q	xg8:2,13ot:4,1hpl:2,23ud:2,44mn:4,4jkz:2,4nzi:2,53k6:2,5d6b:3,5fyj:2,5uj2:2,5y0q:2,5znc:2,68js:3,6gn3:9
+forever 1921 film	59ah	
+forever amber	xg8	
+forever amber film	xg8	
+forever and		13ot:4,5d6b:3
+forever and a		13ot:4
+forever and a day	13ot	
+forever and a day 1943 film	13ot	
+forever and a day novel	sty	
+forever and always lefty frizzell song	2pfw	
+forever and always taylor swift song	32n1	
+forever and ever	5d6b	
+forever and ever demis roussos album	5d6b	
+forever b	6b0	
+forever begins tomorrow	3tmt	
+forever came		68js:3
+forever came today	68js	
+forever chris brown song	5sjx	
+forever drake kanye west lil wayne and eminem song	5snt	
+forever drake song	5snt	
+forever eminem song	5snt	
+forever england	68tk	
+forever england film	68tk	
+forever enthralled	1hpl	
+forever female	5uj2	
+forever film	59ah	
+forever flowing	1rhq	
+forever for her	65du	
+forever for her is over for me	65du	
+forever free non fiction	2y25	
+forever house episode	155p	
+forever in		6gn3:9
+forever in blue	6gn3	6gn3:9
+forever in blue film	17wc	
+forever in blue the		6gn3:9
+forever in blue the fourth		6gn3:9
+forever in blue the fourth summer		6gn3:9
+forever in blue the fourth summer of		6gn3:9
+forever in blue the fourth summer of the		6gn3:9
+forever in blue the fourth summer of the sisterhood	6gn3	
+forever in the friend zone	5ftx	
+forever kanye west song	5snt	
+forever lil wayne song	5snt	
+forever love	5fyj	
+forever love last mix	5fyj	
+forever love x japan song	5fyj	
+forever mery	4jkz	
+forever mine	5y0q	
+forever peace	5znc	
+forever spice girls album	656q	
+forever strong	53k6	
+forever the		44mn:4
+forever the sickest		44mn:4
+forever the sickest kids	44mn	
+forever undecided	43u2	
+forever war		4y61:3
+forever warriors forever united	18p7	
+forever young	23ud,4nzi	
+forever young 1992 film	23ud	
+forever young 2015 film	4nzi	
+forever young movie	23ud	
+fresneville	3w6w	
+gardouch	1tkb	
+george friedrich haendel	7g5	
+george friedrich handel	7g5	
+george friedrich knapp	4are	
+george friedrich napp	4are	
+george friedrich wilhelm hegel	jg4	
+george phipps	5xmn	5xmn:6
+george phipps 2nd		5xmn:6
+george phipps 2nd marquess		5xmn:6
+george phipps 2nd marquess of		5xmn:6
+george phipps 2nd marquess of normanby	5xmn	
+george phipps marquess of normanby	5xmn	
+gmina kepice	qv4	
+gmina siechnice	1byq	
+goalie	3r	
+goalie hockey	s5	
+goalie nets	6hjc	
+goalie s anxiety at the penalty kick	2ps6	
+halichoeres	2o6g	
+hiratuka kanagawa	159m	
+ignatas		2u0h:2
+ignatas konovalovas	2u0h	
+innervation	53e	
+innervation of the viscera	2oey	
+innervation of viscera	2oey	
+isambard		yud:3
+isambard k brunel	yud	
+isambard kingdom		yud:3
+isambard kingdom brunel	yud	
+isambard kingdom bunuel	yud	
+itmo university	29dq	
+iwa 1	2gl	
+iwa wanja	31y0	
+james tindale	1xkf	
+james tomkins	40fw,52sm	
+james tomkins footballer	40fw	
+james tomkins rower	52sm	
+john gaddis	5hjn	
+kalen chase	fpo	
+klasnic	3nhi	
+klyazma	2yry	
+klyazma river	2yry	
+koichi	h8u	i7t:2,son:2,1006:2,1dnp:2,1wag:2,51sw:2,5n3g:2,5q8c:2,5ywy:2,6a5o:2
+koichi first name	h8u	
+koichi given name	h8u	
+koichi hashimoto	6a5o	
+koichi hashimoto footballer	6a5o	
+koichi ishii	5n3g	
+koichi mashimo	5q8c	
+koichi nakamura	5ywy	
+koichi sakamoto	1wag	
+koichi sato	1006	
+koichi sato actor	1006	
+koichi sugiyama	son	
+koichi tabo	pnn	
+koichi tanaka	51sw	
+koichi wakata	1dnp	
+koichi yamadera	i7t	
+kostomlaty	2cid	2cid:3,4dsm:3,4ffb:3
+kostomlaty nad		2cid:3
+kostomlaty nad labem	2cid	
+kostomlaty pod		4dsm:3,4ffb:3
+kostomlaty pod milesovkou	4ffb	
+kostomlaty pod ripem	4dsm	
+kvist william	43e5	
+la herliere	2mlg	
+la tieule	1ez5	
+lathomenon	fw5	
+lekhnath	1ay2	
+leywhollot	30ut	
+lgbtqq	321	
+lipusz commune	1wym	
+lizartza	2dwo	
+lose		62kn:4,6g36:2
+lose control evanescence song	5yt6	
+lose my life	69zj	
+lose myself erika jayne song	547n	
+lose yourself	6g36	62kn:4
+lose yourself to		62kn:4
+lose yourself to dance	62kn	
+lustral	5p48	
+lyley	59g4	
+maclennan david	5vat	
+maclennan david h	5vat	
+manorial duties	4qg0	
+manorial estate	4qg0	
+manorial feudalism	4qg0	
+manorial rights	4qg0	
+manorial system	4qg0	
+maria gens	3rab	
+maria giulia		305t:3
+maria giulia confalonieri	305t	
+massy	ssa,32b9,37k8	
+massy essonne	ssa	
+massy paris	ssa	
+massy sakurai	1kll	
+massy saone et loire	37k8	
+massy seine maritime	32b9	
+mental	4m5a	o1g:2,10fn:2
+mental 2012 film	4m5a	
+mental aquaduct records demo	v77	
+mental cube	1v6y	
+mental debilitation	10fn	
+mental defective	3h8o	
+mental defectives	3h8o	
+mental deficiency	3h8o	
+mental depression	108v	
+mental disabilites	10fn	
+mental disorder	10fn	
+mental dysfunction	10fn	
+mental facility	14oq	
+mental health	o1g	
+mental health disorder	10fn	
+mental health facility	14oq	
+mental health model	o1g	
+mental health of latino americans	64k9	
+mental health policies in the united states	o1g	
+mental health ward	14oq	
+mental healthcare in india	o1g	
+mental healthcare in the united states	o1g	
+mental hospital	14oq	
+mental hospitals	14oq	
+mental hygiene	o1g	
+mental illness and psychology	fm7	
+mental illness and violence	10fn	
+mental illness in children	o1g	
+mental illness in er	jel	
+mental illnesses	10fn	
+mental impairment	3h8o	
+mental instability	10fn	
+mental institute	14oq	
+mental institution	14oq	
+mental patient	10fn	
+mental philosophy	3501	
+mental recession	5ga5	
+mental retardation	3h8o	
+mental retardation autosomal recessive 15	3h8o	
+mental skill game	4xik	
+mental sport	107q	
+mental stability	o1g	
+mental telepathy	6fhs	
+mental testing	1467	
+mental transmission	6fhs	
+mental ward	14oq	
+mental wellness	o1g	
+mogilno		35ac:2
+mogilno commune	dtz	
+mogilno county	35ac	
+neman	l3i	
+neman hrodna	729	
+neman river	l3i	
+nerwen	2tl4	
+niac mitra	c2f	
+opkoms	5sv	
+otocompsa	s39	
+paul lance barnes	47tm	
+peter taylor	33ua,3zan,42m3	
+peter taylor author	4v3w	
+peter taylor editor	42m3	
+peter taylor football goalkeeper	33ua	
+peter taylor footballer born 1928	33ua	
+peter taylor footballer born 1953	3zan	
+peter taylor writer	4v3w	
+peter vo	1vx8	
+piave front	2cqa	
+pingrasa	b1n	
+pkd award	m8q	
+pkd coasters	1ekr	
+polesworth f c	4f0p	
+pomiechowek commune	1b1i	
+psalliota	wfl	
+ptilinopus	nm1	
+quarterly	65	
+ragah	1h52	
+reach		v2k:2,13wd:4,50di:2,61sc:6,6ea3:4
+reach for		13wd:4,6ea3:4
+reach for the		13wd:4,6ea3:4
+reach for the sky	13wd	
+reach for the sky 1956 film	13wd	
+reach for the sky movie	13wd	
+reach for the sky the douglas bader story	13wd	
+reach for the stars	6ea3	
+reach for the stars 2000 computer game	6ea3	
+reach for the stars computer game	6ea3	
+reach for the stars video game	6ea3	
+reach halo	68o4	
+reach me	50di	
+reach me 2013 film	50di	
+reach me film	50di	
+reach ontario	23ep	
+reach out		61sc:6
+reach out i		61sc:6
+reach out i ll		61sc:6
+reach out i ll be		61sc:6
+reach out i ll be there	61sc	
+reach out ill be there	61sc	
+reach out international records	3psq	
+reach plc	v2k	
+reach publishing company	v2k	
+reach regionals	v2k	
+reach township ontario	23ep	
+reach truck	1xd3	
+reach video game	68o4	
+reganbooks	61hy	
+religious	4o9	507:2,crg:2,g5m:2,hlt:2,ond:2,s9i:2,xqp:2,12gu:2,1gpu:3,66rq:2
+religious activities	uk0	
+religious anthropology	8vp	
+religious architecture	bbz	
+religious art	s9i	
+religious aspects of marriage	46q	
+religious body	crg	
+religious building	hlo	
+religious catholic	4o9	
+religious catholic church	4o9	
+religious catholicism	4o9	
+religious community	92h	
+religious concepts	4ck	
+religious congregation	92h,66rq	
+religious conservative	2z5	
+religious cult	69bu	
+religious denomination	hlt	
+religious denominations	hlt	
+religious dissident	2k78	
+religious doctrine	323w	
+religious doctrines	323w	
+religious epic	2kip	
+religious epic films	2kip	
+religious festival	ond	
+religious festivals	ond	
+religious gathering	ond	
+religious historian	6fl5	
+religious history	6fl5	
+religious holiday	ond	
+religious institute	92h	
+religious institute catholic	92h	
+religious institution	crg	
+religious institutions	crg	
+religious issues	4ck	
+religious jurisprudence resources	g1k	
+religious leader	52r	
+religious life	92h	
+religious military		1gpu:3
+religious military order	1gpu	
+religious minister	1tb	
+religious music	12gu	
+religious music doc	12gu	
+religious mystic	43k	
+religious office	10jw	
+religious order	92h,g5m	
+religious orders	g5m	
+religious orders and communities	92h	
+religious organisation	crg	
+religious organisations	crg	
+religious organization	crg	
+religious organizations	crg	
+religious painting	s9i,3eb2	
+religious perspectives on torture	nop	
+religious pilgrimage	6ez1	
+religious poverty	2yrk	
+religious propaganda	13s1	
+religious racism	2lod	
+religious relic	6ayj	
+religious relics	6ayj	
+religious restrictions on the consumption of beef	fju	
+religious rite	1cgy	
+religious ritual	uk0	
+religious sanctuary	iva	
+religious scriptures	507	
+religious sect	1n7e	
+religious separatism	1sbx	
+religious sister	3ef	
+religious society of friends	eby	
+religious song	12gu	
+religious structure	hlo	
+religious studies	xqp	
+religious study	xqp	
+religious text	507	
+religious tradition	4ck	
+religious traditions	4ck	
+religious tribunal	4l6k	
+religious veil	4r4q	
+religious views of hillary clinton	9ue	
+religious views of marriage	18qt	
+religious views of max planck	bwz	
+religious views on death	3qj	
+religious views on incest	4xg	
+religious views on sports	1q7	
+religious views on the holy spirit	143x	
+religious vilification	154g	
+religious western christianity	4o9	
+religious writings	507	
+rovino	2b0f	
+saint sebastian	hev	
+samoa	23o	df0:6,u4p:5,3912:3,5dvs:5
+samoa american	7sv	
+samoa men		df0:6
+samoa men s		df0:6
+samoa men s national		df0:6
+samoa men s national football		df0:6
+samoa men s national football team	df0	
+samoa national		u4p:5,3912:3
+samoa national association football team	df0	
+samoa national football team	df0	
+samoa national league	3912	
+samoa national rugby		u4p:5
+samoa national rugby team	u4p	
+samoa national rugby union		u4p:5
+samoa national rugby union team	u4p	
+samoa national under 21 rugby union team	u4p	
+samoa occupied	7sv	
+samoa queen		5dvs:5
+samoa queen of		5dvs:5
+samoa queen of the		5dvs:5
+samoa queen of the jungle	5dvs	
+samoa regina della giungla	5dvs	
+samoa rugby team	u4p	
+samoa rugby tours	u4p	
+samoa rugby union team	u4p	
+samoa rugby union tours	u4p	
+saumur	a93	
+saumur france	a93	
+saumur maine et loire	a93	
+shipshaw quebec	35oi	
+shuji	4uyv	1lge:2,3l3n:2
+shuji first name	4uyv	
+shuji given name	4uyv	
+shuji inai	3pm2	
+shuji nakamura	3l3n	
+shuji terayama	1lge	
+shuji tsushima	4dem	
+simulating	5wbe	
+sobkovice	4cno	
+soroki	1yv5	
+souanyas	35nq	
+soulsun	4kav	
+sparganothina	1a1t	
+sprouting broccoli	6h11	
+tabeuia	2eas	
+taye		12hv:2,33sd:2
+taye diggs	12hv	
+taye ismaila	33sd	
+taye ismaila taiwo	33sd	
+taye taiwo	33sd	
+tazio		14fo:3
+tazio giorgio		14fo:3
+tazio giorgio nuvolari	14fo	
+tazio nuvolari	14fo	
+texasaustin	nh	
+the marmot genus	5pem	
+the sylvia north story	vj9	
+thomas hulce	1jmy	
+toropov okb	4lvy	
+tortyra	2owu	
+tualitz county	bn8	
+udagamandalam	5c2	
+ungalia	32cp	
+urakusai	250g	
+va 12 u s navy	4lbj	
+va 15 u s navy	3v10	
+va 2a	3v10	
+va alexandria	2kr	
+va beach	5j9	
+va beach va	5j9	
+va bunko	531v	
+va comm univ	5y3	
+va doc	3qza	
+va hampton	8bw	
+va houston national cemetery	5y5h	
+va polytechnic institute and state university	45c	
+va savoir	2n7m	
+va state	7m	
+va tech	45c	
+va theory	3zxi	
+va vasilev victor vassiliev va vasiliev va vassilyev va vasil ev	3b4m	
+va vis et deviens	2hk3	
+va yikra	6265	
+vanoli basket	4pnh	
+vanoli cremona	4pnh	
+vanoli soresina	4pnh	
+varapodio	3r36	
+viano	3l33	
+viano do castelo	ohp	
+viano poschiavo	1b18	
+viano re	3l33	
+vodoun zombification	54zv	
+wachirawut	k8y	
+werra	1t6l	v1d:3
+werra meiner	v1d	v1d:3
+werra meiner district	v1d	
+werra meiner kreis	v1d	
+werra meissner	v1d	
+werra meissner kreis	v1d	
+werra valley	1t6l	

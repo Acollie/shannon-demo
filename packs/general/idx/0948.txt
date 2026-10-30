@@ -1,0 +1,1280 @@
+2016	c9g	11q:3,412:3,ar7:4,arl:3,b77:4,bpy:2,bul:4,c9f:2,cly:2,cmf:3,d11:3,di0:2,e4v:3,ex6:3,gn7:4,h5b:3,hzk:5,i7f:4,ieh:9,jsw:4,keu:5,kmb:4,kvl:4,lap:4,lpr:5,n8x:4,nme:4,nu8:4,oe6:6,p0z:6,po1:3,pzv:2,q8b:3,qkl:4,rk0:3,rz2:2,s00:4,s65:4,sg1:4,spw:6,trj:5,u5e:3,ud9:4,uhj:3,uol:4,v3j:2,w3c:2,w6j:2,wpy:3,wrg:4
+2016 17		25i1:5,3bgl:3
+2016 17 2 bundesliga	1kxe	
+2016 17 3 liga	1qiv	
+2016 17 argentine primera division	184z	
+2016 17 ascenso mx season	v48	
+2016 17 austrian football bundesliga	4x2x	
+2016 17 belgian first division a	3073	
+2016 17 belgian pro league	3073	
+2016 17 bundesliga	1mfm	
+2016 17 cordoba cf season	47u	
+2016 17 cypriot cup	nf8	
+2016 17 cypriot cup for lower divisions	2hye	
+2016 17 cypriot first division	uxw	
+2016 17 cypriot second division	zra	
+2016 17 cypriot third division	wbb	
+2016 17 ekstraklasa	3bgl	
+2016 17 eredivisie	2c1q	
+2016 17 la liga	23wq	
+2016 17 liga iv	wun	
+2016 17 liga mx season	3vav	
+2016 17 ligue 1	1sik	
+2016 17 nofv oberliga	1v84	
+2016 17 premier league	1lvv	
+2016 17 primeira liga	2il4	
+2016 17 professional u21 development league	6dcu	
+2016 17 russian premier league	2q00	
+2016 17 scottish premiership	4hq3	
+2016 17 serie a	28p2	
+2016 17 snooker season	rxy	
+2016 17 stok		25i1:5
+2016 17 stok elite		25i1:5
+2016 17 stok elite division	25i1	
+2016 17 super lig	2uif	
+2016 17 superleague greece	31dp	
+2016 17 ucam murcia cf season	y53	
+2016 17 ukrainian premier league	4sdi	
+2016 17 wnbl season	st7	
+2016 2017 scottish premiership	4hq3	
+2016 2017 snooker season	rxy	
+2016 abn		54m2:6
+2016 abn amro		54m2:6
+2016 abn amro world		54m2:6
+2016 abn amro world tennis		54m2:6
+2016 abn amro world tennis tournament	54m2	
+2016 abu		12i1:4
+2016 abu dhabi		12i1:4
+2016 abu dhabi tour	12i1	
+2016 acht van westerveld	5j7e	
+2016 ad	c9g	
+2016 afl		1pli:3,1w89:4
+2016 afl finals		1w89:4
+2016 afl finals series	1w89	
+2016 afl season	1pli	
+2016 ag2r la mondiale season	bxb	
+2016 american election	2nq3	
+2016 amgen		1yr3:5
+2016 amgen tour		1yr3:5
+2016 amgen tour of		1yr3:5
+2016 amgen tour of california	1yr3	
+2016 amgen tour of california womens race	1yr3	
+2016 amstel		1210:4
+2016 amstel gold		1210:4
+2016 amstel gold race	1210	
+2016 asian		30b5:7,4ue6:5
+2016 asian junior		30b5:7,4ue6:5
+2016 asian junior badminton		30b5:7,4ue6:5
+2016 asian junior badminton championships	4ue6	30b5:7
+2016 asian junior badminton championships mixed		30b5:7
+2016 asian junior badminton championships mixed doubles	30b5	
+2016 astana	bpy	
+2016 astana season	bpy	
+2016 atp		sg1:4
+2016 atp tour	sg1	
+2016 atp world		sg1:4
+2016 atp world tour	sg1	
+2016 australian		1up8:3
+2016 australian football league season	1pli	
+2016 australian open	1up8	
+2016 avc club volleyball championship	5pyb	
+2016 badminton		4mho:7,4sqh:8,5mhm:8,5mhn:5
+2016 badminton asia junior championships	4ue6	
+2016 badminton asia junior championships mixed doubles	30b5	
+2016 badminton world		4mho:7,4sqh:8,5mhm:8,5mhn:5
+2016 badminton world junior		4mho:7,4sqh:8,5mhm:8,5mhn:5
+2016 badminton world junior championships	5mhn	4mho:7,4sqh:8,5mhm:8
+2016 badminton world junior championships men		5mhm:8
+2016 badminton world junior championships men s		5mhm:8
+2016 badminton world junior championships men s doubles	5mhm	
+2016 badminton world junior championships mixed		4mho:7
+2016 badminton world junior championships mixed doubles	4mho	
+2016 badminton world junior championships women		4sqh:8
+2016 badminton world junior championships women s		4sqh:8
+2016 badminton world junior championships women s doubles	4sqh	
+2016 bardiani csf season	rrf	
+2016 bardianicsf season	rrf	
+2016 battle of mosul	38nd	
+2016 belgian		20cf:4
+2016 belgian grand		20cf:4
+2016 belgian grand prix	20cf	
+2016 belgium tour	37mw	
+2016 bene		2pg5:4
+2016 bene ladies		2pg5:4
+2016 bene ladies tour	2pg5	
+2016 bilderberg		3u2w:3
+2016 bilderberg conference	3u2w	
+2016 bmc		arl:3
+2016 bmc racing	arl	
+2016 bmc racing team season	arl	
+2016 boels		2qyt:5
+2016 boels rental		2qyt:5
+2016 boels rental ladies		2qyt:5
+2016 boels rental ladies tour	2qyt	
+2016 bora argon 18 season	lmv	
+2016 boraargon 18 season	lmv	
+2016 brabantse		10l3:3
+2016 brabantse pijl	10l3	
+2016 brd		5jow:4
+2016 brd bucharest		5jow:4
+2016 brd bucharest open	5jow	
+2016 bretagne classic ouest france	ud9	
+2016 bretagne classic ouestfrance	ud9	
+2016 bucharest open	5jow	
+2016 bwf world junior championships	5mhn	
+2016 bwf world junior championships boys doubles	5mhm	
+2016 bwf world junior championships girls doubles	4sqh	
+2016 bwf world junior championships mixed doubles	4mho	
+2016 cadel		1ow9:7
+2016 cadel evans		1ow9:7
+2016 cadel evans great		1ow9:7
+2016 cadel evans great ocean		1ow9:7
+2016 cadel evans great ocean road		1ow9:7
+2016 cadel evans great ocean road race	1ow9	
+2016 canadian		2e1o:4
+2016 canadian grand		2e1o:4
+2016 canadian grand prix	2e1o	
+2016 cannondale season	d21	
+2016 centennial american cup	138n	
+2016 centennial copa america	138n	
+2016 chatham cup	dew	
+2016 chicago		6hqb:4
+2016 chicago cubs		6hqb:4
+2016 chicago cubs season	6hqb	
+2016 clasica		trj:5,1gpk:4
+2016 clasica de		trj:5,1gpk:4
+2016 clasica de almeria	1gpk	
+2016 clasica de san		trj:5
+2016 clasica de san sebastian	trj	
+2016 concacaf men s olympic qualifying tournament	4hoe	
+2016 connecticut sun season	ejr	
+2016 copa america	138n	
+2016 copa america centenario	138n	
+2016 coup in turkey	22v9	
+2016 coupe		51y7:4
+2016 coupe banque		51y7:4
+2016 coupe banque nationale	51y7	
+2016 criterium		uol:4
+2016 criterium du		uol:4
+2016 criterium du dauphine	uol	
+2016 criterium international	24cf	
+2016 cup		5j3z:4
+2016 cup of		5j3z:4
+2016 cup of china	5j3z	
+2016 dalian		5j2j:6
+2016 dalian women		5j2j:6
+2016 dalian women s		5j2j:6
+2016 dalian women s tennis		5j2j:6
+2016 dalian women s tennis open	5j2j	
+2016 danmark		29cs:3
+2016 danmark rundt	29cs	
+2016 democratic		5stv:4,6hf8:5
+2016 democratic convention	5stv	
+2016 democratic national		5stv:4
+2016 democratic national convention	5stv	
+2016 democratic party		6hf8:5
+2016 democratic party platform	5stv	
+2016 democratic party presidential		6hf8:5
+2016 democratic party presidential primaries	6hf8	
+2016 dimension		d11:3
+2016 dimension data	d11	
+2016 dimension data season	d11	
+2016 direct		h5b:3
+2016 direct energie	h5b	
+2016 direct energie season	h5b	
+2016 dnc	5stv	
+2016 drapac cycling season	1476	
+2016 drentse		5j7e:5
+2016 drentse acht		5j7e:5
+2016 drentse acht van		5j7e:5
+2016 drentse acht van westerveld	5j7e	
+2016 dubai		1h6a:3
+2016 dubai tour	1h6a	
+2016 dwars		1aiu:4
+2016 dwars door		1aiu:4
+2016 dwars door vlaanderen	1aiu	
+2016 e3		123z:3
+2016 e3 harelbeke	123z	
+2016 eneco		rk0:3
+2016 eneco tour	rk0	
+2016 energiewacht		3awz:3
+2016 energiewacht tour	3awz	
+2016 esc	imp	
+2016 eschborn		26e2:5
+2016 eschborn frankfurt		26e2:5
+2016 eschborn frankfurt city		26e2:5
+2016 eschborn frankfurt city loop	26e2	
+2016 eschborn frankfurt rund um den finanzplatz	26e2	
+2016 estonian		54ju:4
+2016 estonian presidential		54ju:4
+2016 estonian presidential election	54ju	
+2016 etixx		b77:4
+2016 etixx quick		b77:4
+2016 etixx quick step	b77	
+2016 etixx quick step season	b77	
+2016 etixxquick step season	b77	
+2016 etoile		1rcl:4
+2016 etoile de		1rcl:4
+2016 etoile de besseges	1rcl	
+2016 euro	2o2	
+2016 euroeyes		po1:3
+2016 euroeyes cyclassics	po1	
+2016 european		ar7:4,gn7:4,29h5:6,516m:7
+2016 european allround		29h5:6
+2016 european allround speed		29h5:6
+2016 european allround speed skating		29h5:6
+2016 european allround speed skating championships	29h5	
+2016 european aquatics		gn7:4
+2016 european aquatics championships	gn7	
+2016 european athletics		ar7:4
+2016 european athletics championships	ar7	
+2016 european athletics championships medal table	ar7	
+2016 european championships in athletics	ar7	
+2016 european football championship qualifying	46l3	
+2016 european road		516m:7
+2016 european road championships women s time trial	516m	
+2016 european road championships women s under 23 time trial	516m	
+2016 european road cycling		516m:7
+2016 european road cycling championships		516m:7
+2016 european road cycling championships women		516m:7
+2016 european road cycling championships women itt	516m	
+2016 european speed skating championships	29h5	
+2016 eurovision	imp	
+2016 eurovision song contest	imp	
+2016 f1	hzk	
+2016 f1 season	hzk	
+2016 fdj season	c8d	
+2016 february tamil nadu meteorite incident	bt5	
+2016 festival luxembourgeois du cyclisme feminin elsy jacobs	3xct	
+2016 fia		1k9b:5
+2016 fia formula one world championship	hzk	
+2016 fia wec	1k9b	
+2016 fia world		1k9b:5
+2016 fia world endurance		1k9b:5
+2016 fia world endurance championship	1k9b	
+2016 fia world endurance championship season	1k9b	
+2016 florence sinkhole	ia	
+2016 formula		hzk:5
+2016 formula 1 season	hzk	
+2016 formula one		hzk:5
+2016 formula one season	hzk	
+2016 formula one world		hzk:5
+2016 formula one world championship	hzk	
+2016 fortuneo		kvl:4
+2016 fortuneo vital		kvl:4
+2016 fortuneo vital concept	kvl	
+2016 fortuneo vital concept season	kvl	
+2016 fortuneovital concept season	kvl	
+2016 four		11lc:5
+2016 four days		11lc:5
+2016 four days of		11lc:5
+2016 four days of dunkirk	11lc	
+2016 fremantle football club season	1pli	
+2016 french		1zll:5,2kew:3
+2016 french motorcycle		1zll:5
+2016 french motorcycle grand		1zll:5
+2016 french motorcycle grand prix	1zll	
+2016 french open	2kew	
+2016 french open tennis	2kew	
+2016 generali		5p01:4
+2016 generali ladies		5p01:4
+2016 generali ladies linz	5p01	
+2016 gent wevelgem	rz2	
+2016 gentwevelgem	rz2	
+2016 giro		kmb:4,nu8:4,1fqo:4,23rp:5
+2016 giro d		kmb:4,23rp:5
+2016 giro d italia	kmb	23rp:5
+2016 giro d italia femminile	23rp	
+2016 giro del		1fqo:4
+2016 giro del trentino	1fqo	
+2016 giro di		nu8:4
+2016 giro di lombardia	nu8	
+2016 giro rosa	23rp	
+2016 gp		ud9:4,2qu3:4
+2016 gp miguel		2qu3:4
+2016 gp miguel indurain	2qu3	
+2016 gp ouest		ud9:4
+2016 gp ouest france	ud9	
+2016 gp ouestfrance	ud9	
+2016 gran		wpy:3,4u6j:6
+2016 gran piemonte	wpy	
+2016 gran premio		4u6j:6
+2016 gran premio della		4u6j:6
+2016 gran premio della costa		4u6j:6
+2016 gran premio della costa etruschi	4u6j	
+2016 grand		oe6:6,p0z:6,1cz9:5,2q78:6
+2016 grand prix		oe6:6,p0z:6,1cz9:5,2q78:6
+2016 grand prix cycliste		oe6:6,p0z:6
+2016 grand prix cycliste de		oe6:6,p0z:6
+2016 grand prix cycliste de montreal	oe6	
+2016 grand prix cycliste de quebec	p0z	
+2016 grand prix de		1cz9:5
+2016 grand prix de denain	1cz9	
+2016 grand prix elsy jacobs	3xct	
+2016 grand prix motorcycle		2q78:6
+2016 grand prix motorcycle racing		2q78:6
+2016 grand prix motorcycle racing season	2q78	
+2016 grote		29fh:5
+2016 grote prijs		29fh:5
+2016 grote prijs jef		29fh:5
+2016 grote prijs jef scherens	29fh	
+2016 hamburg cyclassics	po1	
+2016 hearthstone world championship	1b5s	
+2016 herald		1slf:4
+2016 herald sun		1slf:4
+2016 herald sun tour	1slf	
+2016 holland ladies tour	2qyt	
+2016 iaaf		keu:5
+2016 iaaf world		keu:5
+2016 iaaf world indoor		keu:5
+2016 iaaf world indoor championships	keu	
+2016 iam	di0	
+2016 iam cycling season	di0	
+2016 il lombardia	nu8	
+2016 italian		1yqq:4
+2016 italian grand		1yqq:4
+2016 italian grand prix	1yqq	
+2016 japan		5jot:5
+2016 japan women		5jot:5
+2016 japan women s		5jot:5
+2016 japan women s open	5jot	
+2016 junior eurovision song contest	5uvn	
+2016 katusha	c9f	
+2016 korea		5hgt:3
+2016 korea open	5hgt	
+2016 kuurne brussels kuurne	w6j	
+2016 kuurnebrusselskuurne	w6j	
+2016 la		wrg:4,2tpb:8
+2016 la course		2tpb:8
+2016 la course by		2tpb:8
+2016 la course by le		2tpb:8
+2016 la course by le tour		2tpb:8
+2016 la course by le tour de		2tpb:8
+2016 la course by le tour de france	2tpb	
+2016 la fleche		wrg:4
+2016 la fleche wallonne	wrg	
+2016 la fleche wallonne feminine	2bk2	
+2016 ladies		1zoy:5
+2016 ladies tour		1zoy:5
+2016 ladies tour of		1zoy:5
+2016 ladies tour of norway	1zoy	
+2016 lampre		ex6:3
+2016 lampre merida	ex6	
+2016 lampre merida riders	ex6	
+2016 lampre merida season	ex6	
+2016 lampremerida season	ex6	
+2016 liege bastogne liege	w3c	
+2016 liegebastogneliege	w3c	
+2016 lotto		cmf:3,37mw:4
+2016 lotto belgium		37mw:4
+2016 lotto belgium tour	37mw	
+2016 lotto belisol belgium tour	37mw	
+2016 lotto soudal	cmf	
+2016 lotto soudal riders	cmf	
+2016 lotto soudal season	cmf	
+2016 lottosoudal season	cmf	
+2016 major		1afo:5
+2016 major league		1afo:5
+2016 major league baseball		1afo:5
+2016 major league baseball season	1afo	
+2016 milan san remo	uhj	
+2016 milano torino	v3j	
+2016 milanotorino	v3j	
+2016 milansan		uhj:3
+2016 milansan remo	uhj	
+2016 mlb playoffs	1afo	
+2016 mlb postseason	1afo	
+2016 mlb season	1afo	
+2016 monterrey		5s44:3
+2016 monterrey open	5s44	
+2016 motogp season	2q78	
+2016 movistar	cly	
+2016 movistar team season	cly	
+2016 nba		6hoz:3
+2016 nba finals	6hoz	
+2016 new york liberty season	ara	
+2016 nippo vini fantini season	p0a	
+2016 nippovini fantini season	p0a	
+2016 olympiad	11q	
+2016 olympics bids	11q	
+2016 omloop		1ayv:4
+2016 omloop het		1ayv:4
+2016 omloop het nieusblad	1ayv	
+2016 omloop het nieuwsblad	1ayv	
+2016 omloop het nieuwsblad women s race	3yg8	
+2016 omloop van het hageland	4s56	
+2016 one	pzv	
+2016 one pro cycling season	pzv	
+2016 orica greenedge riders	dca	
+2016 orica greenedge season	dca	
+2016 oricagreenedge season	dca	
+2016 orlando nightclub attack	4ea9	
+2016 orlando nightclub massacre	4ea9	
+2016 orlando shooting	4ea9	
+2016 orlando shootings	4ea9	
+2016 pacific		3hiw:4
+2016 pacific typhoon		3hiw:4
+2016 pacific typhoon season	3hiw	
+2016 pajot		4xez:4
+2016 pajot hills		4xez:4
+2016 pajot hills classic	4xez	
+2016 pan american championship	138n	
+2016 pan american cup	138n	
+2016 paralympic games	412	
+2016 paralympics	412	
+2016 paris		q8b:3
+2016 paris nice	x3z	
+2016 paris roubaix	10lx	
+2016 paris tours	q8b	
+2016 parisnice	x3z	
+2016 parisroubaix	10lx	
+2016 paristours	q8b	
+2016 philadelphia		3nmz:4
+2016 philadelphia cycling		3nmz:4
+2016 philadelphia cycling classic	3nmz	
+2016 porsche		5d63:5
+2016 porsche tennis		5d63:5
+2016 porsche tennis grand		5d63:5
+2016 porsche tennis grand prix	5d63	
+2016 postnord danmark rundt	29cs	
+2016 presidential		27jm:5
+2016 presidential cycling tour of turkey	27jm	
+2016 presidential election in the usa	2nq3	
+2016 presidential tour		27jm:5
+2016 presidential tour of		27jm:5
+2016 presidential tour of turkey	27jm	
+2016 pts	3hiw	
+2016 pulse orlando shooting	4ea9	
+2016 republican		6h93:5
+2016 republican party		6h93:5
+2016 republican party presidential		6h93:5
+2016 republican party presidential primaries	6h93	
+2016 republican party presidential primaries and caucuses	6h93	
+2016 rio	11q	
+2016 rio de janeiro olympic games	11q	
+2016 rio olympics	11q	
+2016 rio paralympic games	412	
+2016 rio paralympics	412	
+2016 rio summer paralympic games	412	
+2016 rio summer paralympics	412	
+2016 roland garros	2kew	
+2016 rosenborg		1fgk:4
+2016 rosenborg bk		1fgk:4
+2016 rosenborg bk season	1fgk	
+2016 saint louis billikens men s soccer team	ih1	
+2016 scheldeprijs	ygs	
+2016 settimana		3e2o:7
+2016 settimana coppi bartali	3e2o	
+2016 settimana coppi e bartali	3e2o	
+2016 settimana internazionale		3e2o:7
+2016 settimana internazionale coppi e bartali	3e2o	
+2016 settimana internazionale di		3e2o:7
+2016 settimana internazionale di coppi		3e2o:7
+2016 settimana internazionale di coppi e		3e2o:7
+2016 settimana internazionale di coppi e bartali	3e2o	
+2016 shooting at pulse	4ea9	
+2016 sibiu		3pp9:4
+2016 sibiu cycling		3pp9:4
+2016 sibiu cycling tour	3pp9	
+2016 snowden	14y7	
+2016 stanley cup champions pittsburgh penguins	1np	
+2016 strade		1cpu:3,30w4:4
+2016 strade bianche	1cpu	30w4:4
+2016 strade bianche women	30w4	
+2016 strade bianche womens race	30w4	
+2016 summer		11q:3,412:3
+2016 summer games	11q	
+2016 summer olympic games	11q	
+2016 summer olympics	11q	
+2016 summer paralympic games	412	
+2016 summer paralympics	412	
+2016 summer paralympics torch relay	412	
+2016 super bowl	6gid	
+2016 superbowl	6gid	
+2016 swedish football division 2	5ed	
+2016 tashkent		5skh:3
+2016 tashkent open	5skh	
+2016 team giant alpecin riders	e11	
+2016 team giant alpecin season	e11	
+2016 team giantalpecin riders	e11	
+2016 team giantalpecin season	e11	
+2016 team katusha season	c9f	
+2016 team lottonl jumbo riders	dmq	
+2016 team lottonl jumbo season	dmq	
+2016 team lottonljumbo season	dmq	
+2016 team sky season	b63	
+2016 team3m		5o7p:3
+2016 team3m season	5o7p	
+2016 the		30mc:5
+2016 the women		30mc:5
+2016 the women s		30mc:5
+2016 the women s tour	30mc	
+2016 three		185f:6
+2016 three days		185f:6
+2016 three days of		185f:6
+2016 three days of de		185f:6
+2016 three days of de panne	185f	
+2016 tinkoff season	cnz	
+2016 tirreno adriatico	x0c	
+2016 tirrenoadriatico	x0c	
+2016 tour		jsw:4,n8x:4,nme:4,qkl:4,s65:4,spw:6,yo5:4,121u:4,13ss:4,1avo:4,1b7i:4,1dv6:4,1h3z:5,1je5:4,1jo1:4,1l32:5,1pcn:4,1pjn:4,1w90:4,1w9d:4,20h2:4,2fnt:4,2j4d:4,2s38:6,3atr:5
+2016 tour de		jsw:4,n8x:4,nme:4,qkl:4,1b7i:4,1je5:4,1l32:5,1pjn:4,2fnt:4
+2016 tour de france	jsw	
+2016 tour de langkawi	1pjn	
+2016 tour de luxembourg	2fnt	
+2016 tour de pologne	qkl	
+2016 tour de romandie	n8x	
+2016 tour de san		1l32:5
+2016 tour de san luis	1l32	
+2016 tour de suisse	nme	
+2016 tour de wallonie	1b7i	
+2016 tour de yorkshire	1je5	
+2016 tour down		yo5:4
+2016 tour down under	yo5	
+2016 tour du		1h3z:5
+2016 tour du haut		1h3z:5
+2016 tour du haut var	1h3z	
+2016 tour la		1w9d:4
+2016 tour la provence	1w9d	
+2016 tour of		s65:4,spw:6,121u:4,13ss:4,1avo:4,1dv6:4,1jo1:4,1pcn:4,1w90:4,20h2:4,2j4d:4,2s38:6,3atr:5
+2016 tour of austria	1dv6	
+2016 tour of britain	1avo	
+2016 tour of california	s65	
+2016 tour of california women	1yr3	
+2016 tour of california women s race	1yr3	
+2016 tour of chongming		3atr:5
+2016 tour of chongming island	3atr	
+2016 tour of croatia	1pcn	
+2016 tour of flanders	121u	2s38:6
+2016 tour of flanders for		2s38:6
+2016 tour of flanders for women	2s38	
+2016 tour of norway	20h2	
+2016 tour of oman	13ss	
+2016 tour of qatar	1jo1	
+2016 tour of quatar	1jo1	
+2016 tour of slovenia	1w90	
+2016 tour of the		spw:6
+2016 tour of the basque		spw:6
+2016 tour of the basque country	spw	
+2016 tour of turkey	27jm	
+2016 tour of utah	2j4d	
+2016 trek		e4v:3
+2016 trek segafredo	e4v	
+2016 trek segafredo riders	e4v	
+2016 trek segafredo season	e4v	
+2016 treksegafredo season	e4v	
+2016 tro		1r24:4
+2016 tro bro		1r24:4
+2016 tro bro leon	1r24	
+2016 trofeo		20kg:3,320k:7
+2016 trofeo alfredo		320k:7
+2016 trofeo alfredo binda	320k	320k:7
+2016 trofeo alfredo binda comune		320k:7
+2016 trofeo alfredo binda comune di		320k:7
+2016 trofeo alfredo binda comune di cittiglio	320k	
+2016 trofeo laigueglia	20kg	
+2016 turkey military coup	22v9	
+2016 turkish		22v9:6
+2016 turkish coup	22v9	22v9:6
+2016 turkish coup attempt	22v9	
+2016 turkish coup d		22v9:6
+2016 turkish coup d etat	22v9	22v9:6
+2016 turkish coup d etat attempt	22v9	
+2016 turkish coup detat attempt	22v9	
+2016 typhoon season	3hiw	
+2016 uci		bul:4,ieh:9,lap:4,1clv:6,1nuy:5,2uct:9,3amj:10
+2016 uci europe		bul:4
+2016 uci europe tour	bul	
+2016 uci road		ieh:9,1nuy:5,2uct:9,3amj:10
+2016 uci road world		ieh:9,1nuy:5,2uct:9,3amj:10
+2016 uci road world championships	1nuy	ieh:9,2uct:9,3amj:10
+2016 uci road world championships men		ieh:9,2uct:9,3amj:10
+2016 uci road world championships men s		ieh:9,2uct:9,3amj:10
+2016 uci road world championships men s road		ieh:9
+2016 uci road world championships men s road race	ieh	
+2016 uci road world championships men s team		3amj:10
+2016 uci road world championships men s team time		3amj:10
+2016 uci road world championships men s team time trial	3amj	
+2016 uci road world championships men s time		2uct:9
+2016 uci road world championships men s time trial	2uct	
+2016 uci women		1clv:6
+2016 uci women s		1clv:6
+2016 uci women s world		1clv:6
+2016 uci women s world tour	1clv	
+2016 uci world		lap:4
+2016 uci world tour	lap	
+2016 uefa euro	2o2	
+2016 uefa european championship	2o2	
+2016 uefa european championships	2o2	
+2016 uefa european football championship	2o2	
+2016 united		lpr:5,2nq3:5
+2016 united states		lpr:5,2nq3:5
+2016 united states presidential		2nq3:5
+2016 united states presidential election	2nq3	
+2016 united states senate		lpr:5
+2016 united states senate elections	lpr	
+2016 unitedhealthcare season	1el7	
+2016 us		6ami:3
+2016 us open	6ami	
+2016 us open tennis	6ami	
+2016 vancouver international soccer challenge	652	
+2016 vattenfall cyclassics	po1	
+2016 verva activejet season	1f6b	
+2016 volta		s00:4,16n8:4,18sb:7,2hkc:4,3ylf:4
+2016 volta a		s00:4,3ylf:4
+2016 volta a catalunya	s00	
+2016 volta a la comunitat valenciana	18sb	
+2016 volta a portugal	3ylf	
+2016 volta ao		16n8:4
+2016 volta ao algarve	16n8	
+2016 volta ciclista		18sb:7
+2016 volta ciclista a		18sb:7
+2016 volta ciclista a la		18sb:7
+2016 volta ciclista a la comunitat		18sb:7
+2016 volta ciclista a la comunitat valenciana	18sb	
+2016 volta limburg		2hkc:4
+2016 volta limburg classic	2hkc	
+2016 vuelta		i7f:4,13a8:4,1bsv:4,1cyi:4,1kzr:4,1uaz:4,2eui:6,42r4:6
+2016 vuelta a		i7f:4,13a8:4,1bsv:4,1cyi:4,1kzr:4,1uaz:4,2eui:6
+2016 vuelta a andalucia	1bsv	
+2016 vuelta a asturias	1kzr	
+2016 vuelta a burgos	13a8	
+2016 vuelta a castilla		2eui:6
+2016 vuelta a castilla y		2eui:6
+2016 vuelta a castilla y leon	2eui	
+2016 vuelta a colombia	1cyi	
+2016 vuelta a costa rica	42r4	
+2016 vuelta a espana	i7f	
+2016 vuelta a murcia	1uaz	
+2016 vuelta ciclista		42r4:6
+2016 vuelta ciclista a		42r4:6
+2016 vuelta ciclista a costa		42r4:6
+2016 vuelta ciclista a costa rica	42r4	
+2016 wec	1k9b	
+2016 wimbledon	3zlz	3zlz:3
+2016 wimbledon championships	3zlz	
+2016 wimbledon championships boys singles	3zlz	
+2016 wimbledon championships men s singles	3zlz	
+2016 winner exit tour in seoul live cd	4oon	
+2016 women s stuttgart open	5d63	
+2016 world		z2f:7,135e:6,4wfb:3,6chf:6
+2016 world allround		135e:6
+2016 world allround speed		135e:6
+2016 world allround speed skating		135e:6
+2016 world allround speed skating championships	135e	
+2016 world endurance championship	1k9b	
+2016 world indoor athletics championships	keu	
+2016 world indoor championships	keu	
+2016 world junior badminton championships	5mhn	
+2016 world series	4wfb	
+2016 world single		z2f:7
+2016 world single distance		z2f:7
+2016 world single distance speed		z2f:7
+2016 world single distance speed skating		z2f:7
+2016 world single distance speed skating championships	z2f	
+2016 world single distances speed skating championships	z2f	
+2016 world sprint		6chf:6
+2016 world sprint speed		6chf:6
+2016 world sprint speed skating		6chf:6
+2016 world sprint speed skating championships	6chf	
+2016 wta		u5e:3,5fyi:3
+2016 wta finals	5fyi	
+2016 wta tour	u5e	
+2016 wta tour championships	5fyi	
+9	3ci,6j2,21jo,346b,6f3o	
+9 1 1	rru	
+9 1 1 emergency telephone number day	rru	
+9 1 1 system	rru	
+9 1 2 weeks	2hfd	
+9 10 dihydro 12 hydroxy 2 methyl 5 phenylmethyl ergotoman 3 6 18 trione	3roc	
+9 10 dihydroergotamine	3roc	
+9 10 secocholesta 5 7 10 19 trien 3 beta ol	51ut	
+9 10 secocholesta 5 7 10 trien 3 ol	51ut	
+9 11	axn	
+9 11 01 september 11	miv	
+9 11 attack	axn	
+9 11 memorial museum	6gw3	
+9 11 museum	6gw3	
+9 11 terrorist attacks	axn	
+9 11 the road to tyranny	6adi	
+9 129mmr	438h	
+9 18 mm	267w	
+9 19 mm luger	4sc	
+9 2009 animated film	21jo	
+9 3 society	15nq	
+9 5 weeks	2hfd	
+9 9 9	14y3	
+9 after coachella	3y1w	
+9 amr zaki	3k8g	
+9 bezirk	zys	
+9 bmt	3556	
+9 broadway 7 avenue local	yzs	
+9 brooklyn manhattan transit corporation service	3556	
+9 brooklynmanhattan transit corporation service	3556	
+9 cashmere cat song	3y1w	
+9 century	1mjt	
+9 character	21jo	
+9 dragons connelly novel	6c4u	
+9 dragons novel	6c4u	
+9 drake song	6gpz	
+9 evenings		5pd3:5
+9 evenings theatre		5pd3:5
+9 evenings theatre and		5pd3:5
+9 evenings theatre and engineering	5pd3	
+9 eyluel universitesi	573x	
+9 eyluel university	573x	
+9 eylul universitesi	573x	
+9 eylul university	573x	
+9 face	2on	
+9 from the nine worlds	6gr5	
+9 inch nails	cxd	
+9 lives	6e6f	
+9 lives az album	6e6f	
+9 mm browning short	1vq3	
+9 mm kurz	1vq3	
+9 mm luger parabellum	4sc	
+9 mm mak	267w	
+9 mm makarov	267w	
+9 mm parabellum	4sc	
+9 mm short	1vq3	
+9 mm x 19	4sc	
+9 mois ferme	2mws	
+9 month	6j2	
+9 month stretch	2mws	
+9 months	3is4	
+9 network	3ci	
+9 new york subway	yzs	
+9 nine	3l7g	
+9 old men	5244	
+9 paris metro	vlv	
+9 playing card	nol	
+9 que shimokawa mikuni self cover album	4b8k	
+9 queens film	4rxw	
+9 rota	3b1k	
+9 saves the day album	4del	
+9 songs	4bok	
+9 songs film	4bok	
+9 songs movie	4bok	
+9 the mobile game	21jo	
+9 to		1sly:3
+9 to 5	1sly	
+9 to 5 film	1sly	
+9 volt and 18 volt	69l2	
+9 volt warioware	69l2	
+9 west 57th street	39mn	
+9 x 17 mm short	1vq3	
+9 x 18 mm	267w	
+9 x 18 mm makarov	267w	
+9 x 18 mm pm	267w	
+9 x 19mm	4sc	
+9 x 19mm parabellum	4sc	
+9 x 33mmr	2a2q	
+9 years war	ekg	
+a change		4q0q:4
+a change of		4q0q:4
+a change of seasons	4q0q	
+a change of seasons film	4q0q	
+a maiden		35fy:5
+a maiden for		35fy:5
+a maiden for a		35fy:5
+a maiden for a prince	35fy	
+a mind		6dkd:4
+a mind endlessly voyaging	6dkd	
+a mind eternally voyaging	6dkd	
+a mind for ever voyaging	6dkd	
+a mind forever		6dkd:4
+a mind forever voyaging	6dkd	
+a speck of dust	sei	
+acampsia	3wny	
+alexander jagiellon	1fax	
+alexander karpotsev	2j1k	
+almanach	4gw0	
+amadeu		4oeg:4
+amadeu vives	4oeg	4oeg:4
+amadeu vives i		4oeg:4
+amadeu vives i roig	4oeg	
+att	hhp	
+att com	hhp	
+azarm banu begum	25gg	
+blind		10hf:3,17s7:2,2q5m:2,3f4b:2,3fe5:3,3xit:2,3xqm:2,4fqx:3,4hls:2,4mpv:2,4tl6:2,5952:3,5b2q:2,5fnc:2,5szr:2,66jv:2,6atm:2
+blind alley	3xqm	
+blind alley film	3xqm	
+blind banker	3nf7	3nf7:3
+blind bargain	656w	
+blind beauty	3k5w	
+blind boy grunt	2pb	
+blind bucky	3n8	
+blind chance	5b2q	
+blind date	2q5m,3xit	
+blind date 1959 film	3xit	
+blind date 1987 film	2q5m	
+blind dating	5fnc	
+blind dating film	5fnc	
+blind desire	66jv	
+blind dick	vrr	
+blind faith	6atm	
+blind film yiruma album	5dgs	
+blind fury	3f4b	
+blind gary davis	5m36	
+blind goddess		3vih:3
+blind guardian	17s7	
+blind guardian band	17s7	
+blind guy driving	5fnc	
+blind horizon	4mpv	
+blind justice	4tl6	
+blind justice television series	4tl6	
+blind justice tv series	4tl6	
+blind lemon	5952	5952:3
+blind lemon jefferson	5952	
+blind melon	5szr	
+blind mole rat	5e09	
+blind pew	18ro	
+blind pew treasure island	18ro	
+blind pig	4fqx	4fqx:3
+blind pig music	4fqx	
+blind pig records	4fqx	
+blind princess and the poet	5hk1	5hk1:6
+blind sheik	4m7j	
+blind sheikh	4m7j	
+blind side	1ec9	1ec9:3
+blind sight novel	14t3	
+blind sunflowers	4hls	
+blind texas marlin	10hf	
+blind thomas	pxq	
+blind variation and selective retention	5p3j	
+blind willie		10hf:3,3fe5:3
+blind willie johnson	10hf	
+blind willie johnson songs	10hf	
+blind willie mctell	3fe5	
+blind willie peanut	10hf	
+blind wink	22sc	
+blind wink productions	22sc	
+boogiewoogie	3o7n	
+boxfile	54fo	
+bremerhaven	apf	
+bremerhaven germany	apf	
+burgo de osma	113g	
+burgo de osma ciudad de osma	113g	
+burgo de osma ciudad de osma soria	113g	
+capulina	1gkt	
+carolignian	lhm	
+caternary rail line power	1n7	
+catevala	1sn3	
+charades song	6c51	
+charles galton		2m4l:3
+charles galton darwin	2m4l	
+chiusaforte	381b	
+chooreechillum	q9n	
+coccinine	epa	
+colpo	1gtz	
+colpo grosso a galata bridge	1ik8	
+colpo grosso alla napoletana	1nd9	
+colpo in canna	2rik	
+colpo maestro al servizio di sua maesta britannica	239j	
+colpo rovente	4lyw	
+cononia	3y2g	
+david duncan	5bf9	
+david duncan screenwriter	5bf9	
+david duncan writer	5bf9	
+david mainz	5fsq	
+deathshead	2men	
+decolletage	16gw	
+dro	1st1,3eca	
+dro italy	3eca	
+dro records	1st1	
+dro tn	3eca	
+dro trentino	3eca	
+eberndorf	41x5	
+ekitian	16oz	
+enyu emperor	45hd	
+enyu emperor of japan	45hd	
+enyu tenno	45hd	
+essere qui	499z	
+eudoxia		3x7q:3,4iqp:2,5wn7:3
+eudoxia dmitriyevna	5wn7	
+eudoxia dmitriyevna of suzdal	5wn7	
+eudoxia lukyanovna streshneva	4iqp	
+eudoxia of		3x7q:3,5wn7:3
+eudoxia of kiev	3x7q	
+eudoxia of kyiv	3x7q	
+eudoxia of moscow	5wn7	
+eudoxia of suzdal	5wn7	
+eudoxia streshneva	4iqp	
+executed	lf	
+executed by fire	4g6	
+executed by firing squad	1hz	
+executed by hanging	16n	
+fc kharkiv	j53	
+fc kharkiv 2	j53	
+fc kharkiv reserves	j53	
+fc kharkiv reserves and youth team	j53	
+fleure	2noq	
+fleure vienne	2noq	
+florizel street	6u8	
+fonsi	zx4	
+fontanafredda	24lz	
+fontanafredda siena	eo7	
+fridericiana	73b	
+froken kirkemus	3lxu	
+froken mollers jubilaeum	2uur	
+froken nitouche	4lo2	
+froken vildkat	1zn9	
+gallix quebec	1cys	
+gauthier		65rp:2
+gauthier diafutua	65rp	
+george bruns	w2b	
+gmina gorzyce	2ri0	
+gmina gorzyce silesian voivodeship	2ri0	
+golconda sultanate	4vgv	
+gueejar sierra granada	1z4s	
+gueejar sierra spain	1z4s	
+guennady ziuganov	2m0u	
+hareidim	3skl	
+healths	2tqf	
+hockeyettan	gnz	
+honfleur	n1u	
+interprted language	19on	
+investigate journalists	1gxl	
+investigate reporters	1gxl	
+jaffray melick	vx9	
+jaffray melick ontario	vx9	
+jaromerice	3joq	13rt:3
+jaromerice nad		13rt:3
+jaromerice nad rokytnou	13rt	
+jean gremillon	3jly	
+john gersen	4fty	
+john jonsson	5bat	
+k3g	292a	
+k3g music	292a	
+kazdemu		5kql:3
+kazdemu wolno		5kql:3
+kazdemu wolno kochac	5kql	
+khari		5o4q:2
+khari stephenson	5o4q	
+kitsuta	4cmg	
+kommunismi	2eg	
+kraches	4suc	
+la ginebrosa	48bh	
+la ginebrosa spain	48bh	
+la ginebrosa teruel	48bh	
+lauter lugen	62hb	
+lecluse	2yih	
+lipnik	3xv8	1brf:3
+lipnik commune	17br	
+lipnik nad		1brf:3
+lipnik nad becvou	1brf	
+lipnik trebic district	3xv8	
+louis therouz	19j0	
+lourches	32il	
+lubaczow		1r86:2
+lubaczow commune	2568	
+lubaczow county	1r86	
+madisonville	1qpk	
+madisonville kentucky	1qpk	
+madisonville kentucky micropolitan area	13e6	
+madisonville ky	1qpk	
+madisonville ky micropolitan statistical area	13e6	
+madisonville ky msa	13e6	
+madisonville ky sa	13e6	
+maletable	47qb	
+mandal		rsz:2
+mandal municipality	rsz	
+mandal norway	rsz	
+mandal runestone	rsz	
+mendavia	2q6q	
+miaklojus konstantinas ciurlionis	2yax	
+michael ensign	3a9r	
+mig31	1vfc	
+mongausy	2j5j	
+msal	1b24	
+nicephore		5ldf:2
+nicephore niepce	5ldf	
+odagiri jo	yf4	
+odagiri joe	yf4	
+ollscoil luimnigh	rlp	
+ollscoil na heireann gaillimh	c85	
+orochion	4bfh	
+outokumpu	2dno	
+outokumpu finland	2dno	
+ozmun building	mck	
+paul everett meehl	5sh3	
+peter uberroth	6gf1	
+phy yen province	1zwi	
+piranha	137a,5vgy	1834:2,1f0g:2,4jd5:4
+piranha 1978 film	137a	
+piranha 1995	5vgy	
+piranha 1995 film	5vgy	
+piranha 2	4jd5	
+piranha 2 the spawning	4jd5	
+piranha 2008 film	137a	
+piranha 2010 film	1834	
+piranha 3 d	1834	
+piranha 3d	1834	
+piranha 3d the sequel	1f0g	
+piranha 3dd	1f0g	
+piranha dd	1f0g	
+piranha ii	4jd5	4jd5:4
+piranha ii flying killers	4jd5	
+piranha ii the		4jd5:4
+piranha ii the spawning	4jd5	
+piranha part two the spawning	4jd5	
+plathian	z0u	
+popkid	134	
+rambo	15x4,6g2l	18kg:5,1d8u:2,3v09:2,5ytb:2
+rambo 1	1667	
+rambo 1982 film	1667	
+rambo 2	18kg	
+rambo 2008	15x4	
+rambo 2008 arcade game	6g2l	
+rambo 2008 film	15x4	
+rambo 3	1d8u	
+rambo 4	15x4	
+rambo 6	6g2l	
+rambo amadeus	3v09	
+rambo arcade	6g2l	
+rambo de leon	1iaz	
+rambo first		18kg:5
+rambo first blood	1667	18kg:5
+rambo first blood part		18kg:5
+rambo first blood part 1	1667	
+rambo first blood part 2	18kg	
+rambo first blood part 3	1d8u	
+rambo first blood part 4	15x4	
+rambo first blood part i	1667	
+rambo first blood part ii	18kg	
+rambo first blood part ii video game	18kg	
+rambo first blood part iii	1d8u	
+rambo first blood part iv	15x4	
+rambo franchise	6g2l	
+rambo i	1667	
+rambo ii	18kg	
+rambo ii first blood part iii	1d8u	
+rambo iii	1d8u,5ytb	
+rambo iii video game	5ytb	
+rambo iv	15x4	
+rambo iv in the serpent s eye	15x4	
+rambo iv pearl of the cobra	15x4	
+rambo last stand	6g2l	
+rambo media franchise	6g2l	
+rambo msx	6g2l	
+rambo oap	15x4	
+rambo on fire	6g2l	
+rambo petkovic	29cp	
+rambo s revenge	3nqe	
+rambo s revenge bbc sports personality of the year award	5076	
+rambo s revenge pages tony vaughan	5n42	
+rambo the last stand	6g2l	
+rambo to hell and back	15x4	
+rambo trilogy	6g2l	
+rambo v the savage hunt	6g2l	
+rambo vi	6g2l	
+rayados	4wn	
+rayados de monterrey	4wn	
+rchb	5fgy	
+reman cyrodiil	1taw	
+reman warbird scimitar	ukg	
+repair of breach in thames bank at dagenham coal duties act 1713	qlw	
+rijswijk	ikz	
+rijswijk netherlands	ikz	
+rothau	1ydi	
+rupes	1odo,4o2y	
+shadowtrooper	5j6v	
+sharq		20w9:7
+sharq al istiwa iyah	429k	
+sharq al istiwa iyah state	429k	
+sharq al istiwa iyah state sudan	429k	
+sharq va		20w9:7
+sharq va gharb		20w9:7
+sharq va gharb e		20w9:7
+sharq va gharb e shirgah	20w9	20w9:7
+sharq va gharb e shirgah rural		20w9:7
+sharq va gharb e shirgah rural district	20w9	
+shijiezhuang	biq	
+sir saint thomas more	10zc	
+slupski	1c7g	
+somewhere	1izu	1kxm:3,1rz3:3,1xwo:5,4lan:3,4r0n:4,5mlc:2,5qzb:3,6fz0:4
+somewhere 2010 film	1izu	
+somewhere beyond		4lan:3
+somewhere beyond love	4lan	
+somewhere far beyond song	17s7	
+somewhere film	1izu	
+somewhere i		1xwo:5
+somewhere i ll		1xwo:5
+somewhere i ll find		1xwo:5
+somewhere i ll find you	1xwo	
+somewhere in		1kxm:3,1rz3:3,4r0n:4,5qzb:3
+somewhere in america	51v8	
+somewhere in america jay z song	51v8	
+somewhere in berlin	1rz3	
+somewhere in brooklyn	6efw	
+somewhere in sonora	5qzb	
+somewhere in the		4r0n:4
+somewhere in the night	4r0n	
+somewhere in the night film	4r0n	
+somewhere in time	1kxm	
+somewhere in time film	1kxm	
+somewhere in time movie	1kxm	
+somewhere only		6fz0:4
+somewhere only we		6fz0:4
+somewhere only we know	6fz0	
+somewhere only we know single	6fz0	
+somewhere only we know song	6fz0	
+somewhere slow	5mlc	
+somewhere soundgarden song	5clb	
+sooth lanrikshire	87b	
+sotetsu	1x7o	3gz2:3
+sotetsu main		3gz2:3
+sotetsu main line	3gz2	
+strychnos	5d42	
+strychnos electri	5d42	
+sugary	782	
+sunmore	1711	
+superintendents of public instruction	ohu	
+takamatsu	faz	346e:2
+takamatsu expressway	346e	
+takamatsu f c	rgl	
+takamatsu in	4yru	
+takamatsu japan	faz	
+takamatsu kagawa	faz	
+tedskiaz fc tucson	1huo	
+telengana	11v	
+telengana national association	kyo	
+telengana rashtriya samiti	kyo	
+the candoli brothers	5mcj	
+the grapes		opd:4,52ph:4
+the grapes are ripe	2djm	
+the grapes of		opd:4,52ph:4
+the grapes of wrath	opd,52ph	
+the grapes of wrath film	opd	
+the grapes of wrath novel	52ph	
+the outfield	3ati	
+the outfield discography	3ati	
+the ptolemaic dynasty	6h3y	
+the watergate scandal	4f5s	
+thomas beck	3ywd	
+thomas beck footballer	3ywd	
+thomas hill	592l,5d6j,5gsu	
+thomas hill actor	592l	
+thomas hill athlete	5gsu	
+thomas hill athletics	5gsu	
+toshiie	4yos	
+toshiie maeda	4yos	
+toxicology	6fo2	
+trifurcula	h33	
+trsztena	3esk	
+twelve	1c9h	1p0y:4,23h6:3,4c8x:3,4lo6:3,5g23:2,6g6k:2
+twelve 2010 film	1c9h	
+twelve and holding	5nfd	
+twelve angry		4c8x:3
+twelve angry men	q8e,4c8x	
+twelve angry men 1954	4c8x	
+twelve angry men 1954 film	4c8x	
+twelve angry men 1957 film	q8e	
+twelve angry men studio one	4c8x	
+twelve angry men teleplay	4c8x	
+twelve angry men westinghouse studio one	4c8x	
+twelve apostles of jesus	1ss4	
+twelve books	7yk	
+twelve chairs	4rln	17ni:3,1ts3:3,23sn:3,4blh:3,4rln:3
+twelve chairs 1976 film	17ni	
+twelve cranial nerves	6ewn	
+twelve disciples	1ss4	
+twelve eighties	25zq	
+twelve fifties	29ug	
+twelve film	1c9h	
+twelve forties	2946	
+twelve hours of sebring	gfp	
+twelve hours to live	30y9	
+twelve hours to live 1956 film	18vo	
+twelve lost tribes of israel	5zep	
+twelve miles		4lo6:3
+twelve miles out	4lo6	
+twelve minor		23h6:3
+twelve minor prophets	23h6	
+twelve monkeys	zzb	
+twelve monkeys 12 monkeys	zzb	
+twelve monkeys 1995	zzb	
+twelve monkeys film	zzb	
+twelve nineties	29lk	
+twelve o		1p0y:4
+twelve o clock		1p0y:4
+twelve o clock high	1p0y	
+twelve olympians	6g6k	
+twelve plus one	1cnz	
+twelve point sphere	4tpl	
+twelve prophets	23h6	
+twelve publisher	7yk	
+twelve remixes of four songs	t9n	
+twelve seventies	26zp	
+twelve sixties	2bac	
+twelve tasks of asterix	1m2q	1m2q:5
+twelve tens	2ayb	
+twelve thirties	25mc	
+twelve tone scale	1ebj	
+twelve tone tonality	3u2i	
+twelve tribes	5zep	
+twelve tribes of israel	5zep	
+twelve twenties	25bv	
+twelve wheeler	47ua	
+twelve women	5g23	
+twelve years a slave	fjf	
+twelve years a slave film	fjf	
+tzar alexander i	lm0	
+tzar alexander ii	kht	
+tzar alexander iii	hmm	
+tzar alexey mihaylovich	nuf	
+tzar film	4mwv	
+tzar nicholas i	ipi	
+tzar of russia	3kar	
+tzar paul i	pa5	
+tzar reed	5iiv	
+tzar samoil	41if	
+tzar samuel	41if	
+tzar samuil	41if	
+ushaia	1lhq	
+ushaia argentina	1lhq	
+usze taham	4c1k	
+vegitable	7cf	
+vigy	1q5r	
+vitis	tfv,4mqv	1tgu:2
+vitis genus	tfv	
+vitis species	tfv	
+vitis sylvestris	1tgu	
+vitis vinefera	1tgu	
+vitis vinifera	1tgu	
+vitis vinifera l	1tgu	
+vitis vinifera subsp sylvestris	1tgu	
+vitis viniferia	1tgu	
+vodnik valentin	6239	
+waterhouse		1o00:3
+waterhouse district	1hi	
+waterhouse district kingston jamaica	1hi	
+waterhouse district of kingston	1hi	
+waterhouse district of kingston jamaica	1hi	
+waterhouse f		1o00:3
+waterhouse f c	1o00	
+waterhouse fc	1o00	
+waterhouse keith	38o5	
+wheelerimyrmex	61r0	
+william denslow	55ph	
+wilver d stargell	4nzz	
+wilver dornel stargell	4nzz	
+wilver stargell	4nzz	
+zip	4qge	
+zip archive	4qge	
+zip code 29407	1xa	
+zip code 29730	ipy	
+zip code 29731	ipy	
+zip code 29732	ipy	
+zip code 29733	ipy	
+zip code 29734	ipy	
+zip code 30009	qrc	
+zip code 30144	15sq	
+zip code 90210	1z4	
+zip file	4qge	
+zip file format	4qge	
+zip files	4qge	
+zip software	4qge	
+zip tomb raider	wwl	
+zoia		39sn:2
+zoia ceausescu	39sn	

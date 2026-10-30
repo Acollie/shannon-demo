@@ -1,0 +1,613 @@
+adap		29m0:5
+adap galo		29m0:5
+adap galo maringa	29m0	29m0:5
+adap galo maringa football		29m0:5
+adap galo maringa football club	29m0	
+adap galo maringa futebol clube	29m0	
+adap language	3iol	
+akinfeyev	3a8c	
+alexandermacpherson	1s8u	
+allenville penitentiary	11b2	
+amaechi		4ijb:2
+amaechi ottiji	4ijb	
+andegawen	1ezr	
+aniane	2lvu	
+antichan	2q6s	3os8:3
+antichan de		3os8:3
+antichan de frontignes	3os8	
+apartment	3w1z	zug:2,3qqo:2,4jw9:3,51uv:2,6bbv:2
+apartment 1303		4jw9:3
+apartment 1303 3d	4jw9	
+apartment block	1nr	
+apartment buildings	3w1z	
+apartment house	3w1z	
+apartment hunting	6bbv	
+apartment locator	fn8	
+apartment tower	1nr	
+apartment zero	3qqo	
+arunas		5p7y:2
+arunas klimavicius	5p7y	
+aspach	2gfa,2j8h	10en:3,1i1w:3,3j0d:2
+aspach haut rhin	2j8h	
+aspach le		10en:3,1i1w:3
+aspach le bas	1i1w	
+aspach le haut	10en	
+aspach michelbach	3j0d	
+aspach moselle	2gfa	
+augne	37rc	
+authoison	3cyz	
+bait	2gq8,2mou	1j66:2,2gq8:2
+bait 2000 film	2mou	
+bait 2012 film	1j66	
+bait 3d	1j66	
+bait al hekma	5b80	
+bait al hikma	5b80	
+bait al hikmah	5b80	
+bait island	2ytw	
+bait ul atiq mosque	15a	
+bait ul moqaddas	hu	
+bait yehudi	2zwn	
+barceloneta	48hx	
+barceloneta puerto rico	48hx	
+bassussarry	28ql	
+bellefonte	u61	
+bellefonte pa	u61	
+bellefonte pennsylvania	u61	
+beshear steve	5dpp	
+bethelhem	6jq	
+billiejoearmstrong	euq	
+biotrakson	17z5	
+blaisy		2uy9:2,3d4w:2
+blaisy bas	2uy9	
+blaisy haut	3d4w	
+bleneau	31qb	
+bode	2b0n	3o6t:2,45qq:2
+bode miller	3o6t	
+bode museum	45qq	
+bode river	2b0n	
+bode saale	2b0n	
+bode valley	2b0n	
+bolinaon people	2dkv	
+brainbreaker	mu2	
+bromsgrove	ht4,1nzv	c4o:4
+bromsgrove council	1nzv	
+bromsgrove district	1nzv	
+bromsgrove district council	1nzv	
+bromsgrove england	ht4	
+bromsgrove rovers	c4o	c4o:4
+bromsgrove rovers f		c4o:4
+bromsgrove rovers f c	c4o	
+bromsgrove rovers fc	c4o	
+bromsgrove rovers football club	c4o	
+bromsgrove society	ht4	
+brudner		63n6:2
+brudner prize	63n6	
+bruford	3onz	
+butterworth co australia ltd	2dba	
+butterworth george	5mr1	
+catapult song	6fzk	
+cedrasco	566k	
+charles edison	5bmb	
+charnas	3tf4	
+confolent		389x:3
+confolent port		389x:3
+confolent port dieu	389x	
+crowned song	16g3	
+cyclin dependent kinase inhibitor 2a	6fwz	
+daillancourt	44cm	
+databases	5z3	
+datha venkata narasaraju	1y2a	
+david diah	2fyl	
+davison art center	16j	
+davison peter	2x1c	
+davison university	9y8	
+dazaihu	3b1p	
+differentiable curve	i26	
+dithyrambos album	4b8f	
+donell		2o0c:2,3yov:2
+donell jones	2o0c	
+donell taylor	3yov	
+drepanulides	3rz2	
+enda		2mwm:2
+enda kenny	2mwm	
+enda patrick kenny	2mwm	
+eoacmaea	6fj8	
+eotvos		47l:3
+eotvos jozsef	4md6	
+eotvos lorand	1s2r	47l:3
+eotvos lorand tudomanyegyetem	47l	
+eotvos lorand tudomanyegyetem budapest	47l	
+eotvos lorand university	47l	
+eotvos principle	1s2r	
+eotvos university	47l	
+eotvos university of budapest	47l	
+fakr ad din ar razi	588v	
+fc luka koper	6tg	
+felix	3oqz	cz8:2,ftq:2,hak:2,n1x:2,v5l:2,12kh:2,13m2:3,17ut:2,195d:2,19iw:2,1car:2,1ghq:2,1kjc:5,1s56:2,1xba:2,1xhr:2,2lln:2,2mg9:2,2mw2:3,2nad:2,2pzr:2,2qh1:2,2s9g:3,2tqt:2,2tr9:2,2y21:2,2zpu:2,3517:3,36st:2,3f6y:2,3g4d:3,3hlk:2,3keh:2,3nsf:3,3rnu:2,3rqr:2,3snp:2,3suk:3,3v72:2,3xup:2,3z12:4,3z4g:2,41n5:5,42yv:3,43td:3,45fx:2,4aks:2,4bs0:2,4fxq:2,4hw7:2
+felix a pappalardi jr	2zpu	
+felix a vening meinesz	3z12	
+felix aboagye	2pzr	
+felix abraham hernandez	6guj	
+felix abraham hernandez garcia	6guj	
+felix ademola	3xup	
+felix adler	ftq,17ut	
+felix adler ii screenwriter	ftq	
+felix adler professor	17ut	
+felix adler screenwriter	ftq	
+felix adler society for ethical culture	17ut	
+felix adolphe eboue	50bd	
+felix alexandre guilmant	4nas	
+felix alexandrovich berezin	3v72	
+felix almeida felipe	2upl	
+felix almeria	3oqz	
+felix andries		3z12:4
+felix andries vening		3z12:4
+felix andries vening meinesz	3z12	
+felix anthony blanchard	5bnm	
+felix antoine blume	3tjf	
+felix anton dohrn	353b	
+felix araujo	5m5d	
+felix arvid ulf kjellberg	252o	
+felix august bernhard draeseke	5yac	
+felix aylmer	n1x	
+felix aylmer comments	n1x	
+felix baciocchi 1762 1841	62n3	
+felix baciocchi 17621841	62n3	
+felix basch	1s56	
+felix bastians	2tqt	
+felix berezin	3v72	
+felix blanchard	5bnm	
+felix bloch	2mg9	
+felix blumenfeld	506v	
+felix borel	16jz	
+felix borja	36st	
+felix boyd	vtt	
+felix bressart	v5l	
+felix browder	55tz	
+felix buxton	x49	
+felix c forrest	1cbs	
+felix candela	4hw7	
+felix candela outerino	4hw7	
+felix candela y outerino	4hw7	
+felix castor	3dsc	
+felix charles oudart	1xba	
+felix chong	5wki	
+felix chong man keung	5wki	
+felix christian klein	hak	
+felix consort of luxembourg	yrd	
+felix cruz	4seh	
+felix d		42yv:3
+felix d herelle	42yv	
+felix da		3517:3
+felix da house cat	3517	
+felix da housecat	3517	
+felix da housecat discography	3517	
+felix dafauce	195d	
+felix dahn	5bb0	
+felix danilo gomez	3bs4	
+felix de		3nsf:3,4zmb:3
+felix de jesus araujo razo	5m5d	
+felix de jesus fernandez christlieb	3keh	
+felix de lope de vega carpio	1hh0	
+felix de pomes	3nsf	
+felix de weldon	4zmb	
+felix derjinski	19iw	
+felix derjinsky	19iw	
+felix dherelle	42yv	
+felix doc blanchard	5bnm	
+felix domesticus	3so	
+felix draeseke	5yac	
+felix dupont	4ut1	
+felix dzerzhinskiy	19iw	
+felix dzerzhinsky	19iw	
+felix dzerzhynsky	19iw	
+felix dzherzhinsky	19iw	
+felix e		13m2:3
+felix e browder	55tz	
+felix e feist	13m2	
+felix earl browder	55tz	
+felix eboue	50bd	
+felix edler von munzberg weingartner	3suk	
+felix edmundovich dzerzhinsky	19iw	
+felix edmundovitch dzherzinsky	19iw	
+felix edouard	16jz	
+felix edouard emile borel	16jz	
+felix edouard justin emile borel	16jz	
+felix edward aylmer jones	n1x	
+felix european film awards	kpe	
+felix faur	3hlk	
+felix faure	3hlk	
+felix feist	13m2	
+felix felixovich yussupov	4fxq	
+felix felixovich yusupov	4fxq	
+felix fernandez	1xhr,3keh	
+felix fernandez actor	1xhr	
+felix fernandez christileb	3keh	
+felix fernandez footballer	3keh	
+felix francois faure	3hlk	
+felix frankfurter	4aks	
+felix furst zu schwarzenberg	4w04	
+felix g marchand	5cfp	
+felix gabriel		5cfp:3
+felix gabriel marchand	5cfp	
+felix gantmacher	54it	
+felix gilbert	4zhq	
+felix gonzales torres	5yp0	
+felix gonzalez		5yp0:3
+felix gonzalez torres	5yp0	
+felix gonzalez torrez	5yp0	
+felix gottwald	4izo	
+felix granander	5lzo	
+felix grundy	50nd	
+felix guattari	2y21	
+felix habsburg	2n7l	
+felix habsburg lothringen	2n7l	
+felix halfon	2nad	
+felix hausdorff	2lln	
+felix healy	53gg	
+felix henri bataille	4een	
+felix henrik valdemar christian	5rgj	
+felix hernandez	6guj	
+felix herngren	661v	
+felix hoppe		3g4d:3
+felix hoppe seyler	3g4d	
+felix houphouet	2s9g	1kjc:5,2s9g:3
+felix houphouet boigny	2s9g	1kjc:5
+felix houphouet boigny peace		1kjc:5
+felix houphouet boigny peace prize	1kjc	
+felix housdorff	2lln	
+felix hubert dherelle	42yv	
+felix is right on target	444q	
+felix jacinto prieto	3z4g	
+felix jacinto prieto partido	3z4g	
+felix jackson	2tr9	
+felix jacoby	6201	
+felix joachimson	2tr9	
+felix k zollicoffer	5hiu	
+felix karl		4yza:4
+felix karl ludwig		4yza:4
+felix karl ludwig machatschki	4yza	
+felix katongo	2qh1	
+felix kirk zollicoffer	5hiu	
+felix kjellberg	252o	
+felix klein	hak	
+felix kroos	45fx	
+felix leclerc	3snp	
+felix leiter	12kh	
+felix lieter	12kh	
+felix liston	34wv	
+felix lope de vega	1hh0	
+felix lope de vega carpio	1hh0	
+felix lope de vega y carpio	1hh0	
+felix luna	3rqr	
+felix luz	4bs0	
+felix machatschki	4yza	
+felix magath	1ghq	
+felix magro	3wj5	
+felix mandelssohn bartholdy	cz8	
+felix marie masse	3q94	
+felix martin andreas matthias blume	3tjf	
+felix martin julius steiner	4rle	
+felix martin musician	1ph3	
+felix mendelsohn	cz8	
+felix mendelsohn bartoldy	cz8	
+felix mendelson	cz8	
+felix mendelssohn	cz8	
+felix mendelssohn bartholdy	cz8	
+felix mendelssohn bartholdy college of music and theatre	5rg	
+felix mendelssohn bartoldy	cz8	
+felix mendelssohn college of music and theatre	5rg	
+felix mendelssohn comments	cz8	
+felix michel ngonge	44iy	
+felix micolta	4tr7	
+felix mikhailovich		506v:3
+felix mikhailovich blumenfeld	506v	
+felix monti	3rnu	
+felix montoya	5yag	
+felix mumba sunzu	5n3f	
+felix of		43td:3
+felix of austria	2n7l	
+felix of bourbon parma	yrd	
+felix of luxembourg	43td	
+felix oscar omar fo o	3ub3	
+felix otto	5ed5	57d1:3
+felix otto dessoff	57d1	
+felix otto mathematician	5ed5	
+felix oudart	1xba	
+felix pappalardi	2zpu	
+felix pasquale baciocchi	62n3	
+felix pomes	3nsf	
+felix potocki	2alq	
+felix prieto	3z4g	
+felix prince of schwarzenberg	4w04	
+felix prince schwarzenberg	4w04	
+felix prince zu schwarzenberg	4w04	
+felix prinz zu schwarzenberg	4w04	
+felix pyat	4z61	
+felix pyat vaillant	4z61	
+felix quero	52qj	
+felix quero lopez	52qj	
+felix ravaisson	5zmj	5zmj:3
+felix ravaisson mollien	5zmj	
+felix ricardo		2mw2:3
+felix ricardo torres	2mw2	
+felix rodriguez guitarist	4ow2	
+felix romano	51lq	
+felix s first movie	41n5	
+felix salten	1car	
+felix sanchez	5ul0	
+felix savart	5rcq	
+felix schwarzenberg	4w04	
+felix sesumaga	4tfx	
+felix spain	3oqz	
+felix stallings jr	3517	
+felix steiner	4rle	
+felix sunzu	5n3f	
+felix the		41n5:5
+felix the cat		41n5:5
+felix the cat film	41n5	
+felix the cat s first movie	41n5	
+felix the cat the		41n5:5
+felix the cat the movie	41n5	
+felix the housecat	3517	
+felix tilkin	637r	
+felix tilkins	637r	
+felix tisserand	3f6y	
+felix v	1ke9	
+felix van		65u3:3
+felix van groeningen	65u3	
+felix vening meinesz	3z12	
+felix von		3suk:3
+felix von habsburg	2n7l	
+felix von weingartner	3suk	
+felix w de weldon	4zmb	
+felix w deweldon	4zmb	
+felix wakefield	6077	
+felix weihs de weldon	4zmb	
+felix weingartner	3suk	
+felix weingartner edler von muenzberg	3suk	
+felix weingartner edler von munzberg	3suk	
+felix white	5oth	
+felix wong	5ujf	
+felix yat wah wong	5ujf	
+felix yousoupoff	4fxq	
+felix youssoupoff	4fxq	
+felix youssoupov	4fxq	
+felix yussoupov	4fxq	
+felix yussupov	4fxq	
+felix yusupov	4fxq	
+felix zolicoffer	5hiu	
+felix zollicoffer	5hiu	
+felix zu schwarzenberg	4w04	
+fushia	1hdi	
+geeksta	1oqa	
+geeksta rap	1oqa	
+gevgelia	31b1	
+gns science	3gsq	
+goog	r5z	
+grunt	zmo	
+grunt fish	5w98	
+grunt padre	4i3r	
+grunt records	zmo	
+herba sacra	5hg9	
+herrschaft greifensee	5qxi	
+herrschaft gruningen	4hvo	
+herrschaft territory	6fm0	
+hjelmeland	2si2	2si2:2
+hjelmeland municipality	2si2	
+hsg wetzlar	wol	
+hurts	265x	
+hurts duo	265x	
+i pad	13en	
+ialbuzi	5pdg	
+iisg	2uq	
+ijssel	2lmb	
+ijssel river	2lmb	
+inoui	5o8	
+instantaneous speed	4cos	
+instantaneous velocity	4uks	
+isine	eou	
+james demonaco	4qs0	
+josee	5o7t	5tuv:2
+josee dayan	5tuv	
+jwu	1h9q	
+kadhimayn	4k3v	
+kastrup airport	1jf1	
+kastrup international airport	1jf1	
+kinshasa	2q6	
+kinshasa airport	52gq	
+kinshasa brazzaville metropolitan area	2q6	
+kinshasa congo	2q6	
+kinshasa dr congo	2q6	
+kinshasa drc	2q6	
+kinshasa international airport	52gq	
+kinshasa n djili airport	52gq	
+kinshasa ndjili airport	52gq	
+kinshasa ndjili international airport	52gq	
+kinshasa province	2q6	
+kinshasa university	4gu4	
+kinshasa zaire	2q6	
+krasiczyn commune	4870	
+la trilogie marseillaise fanny	5qi0	
+lecture	5uud	
+lepe	2dq0	
+lepe huelva	2dq0	
+lepe spain	2dq0	
+lhuentse district	1yk1	
+llanllieni	2bdq	
+machinetranslation	1ft8	
+manciano	1334	
+manciano ar	1w3b	
+manciano arezzo	1w3b	
+manciano gr	1334	
+manciano grosseto	1334	
+manciano la misericordia	1w3b	
+manciano tuscany	1334	
+michael heseltine	3ylk	
+michael heseltine baron heseltine	3ylk	
+mindscience	3nlm	
+minnow rawls	604c	
+monacilioni	3mof	
+muai thai	6gut	
+myelobia	3r33	
+nistria	yhl	
+novgorodian	500j	
+novgorodian republic	500j	
+nuevos		12kn:2
+nuevos ministerios	12kn	
+nuevos ministerios madrid metro	12kn	
+nuevos ministerios metro de madrid	12kn	
+nuevos ministerios railway station	12kn	
+nuevos ministerios station	12kn	
+olbermann	4uk3	
+orlick	295c	
+outpost	5uc9	
+outpost 2007 film	5uc9	
+outpost 2008 film	5uc9	
+outpost 2009 film	4iv6	
+outpost 31	11v9	
+outpost entertainment	gbw	
+outpost film ii	4iv6	
+outpost in malaya	4z72	
+pandurii lignitul targu jiu	6i1	
+pandurii targu jiu	6i1	
+paul david	3m1p	6ed4:3
+paul david graf	1aca	
+paul david hewson	fq6	
+paul david mccrane	2u9m	
+paul david mcshane	3h9g	
+paul david miller	6ed4	
+paul david simpson	3qvh	
+paul david wellstone	3pdn	
+pero	5jix,5m9x	3n27:2,3xfv:2,5hul:2
+pero casevecchie	3n27	
+pero italy	5jix	
+pero lombardy	5jix	
+pero moth	5m9x	
+pero pejic	3xfv	
+pero skoric	5hul	
+pmm sarasate	58lc	
+potts		3hmz:2
+potts medal	nbb	
+potts point	3hmz	
+potts point new south wales	3hmz	
+potts point sydney	3hmz	
+potts virginia pepper	6hkk	
+premijer liga	12rn	
+premijer liga bosne i hercegovine	12rn	
+projectobx	269y	
+pseudoctenella	grs	
+pseudostixis	6etc	
+psyclapse company	b80	
+psyclapse megagame	1lyk	
+psyclapse software company	b80	
+purijagannadh	q8t	
+rahmfather	21i6	
+raynans	2cg8	
+redefinition	26bf	
+redefinition of marriage	46q	
+regenerated fiber	57fs	
+resham	5w0u	
+resham comments	5w0u	
+romainia	2m	
+roxolana	1ixa	
+rtx royal trux	4cnc	
+sagiga	6g67	
+sahabiyy	466	
+saint paulites	1fr	
+samarang	dsu	
+sandrans	2grd	
+schwiederstorf	5qck	
+secy	6g8	
+shahjahan	15dd	
+shekhar		1eod:2,4og9:2
+shekhar joseph	5tlh	
+shekhar kammula	4nnb	
+shekhar kapoor	1eod	
+shekhar kapur	1eod	
+shekhar suman	4og9	
+siemreab	vke	
+siemreab province	1322	
+sir horatio nelson	wnp	
+sir horatio vere	5h4d	
+skins	a7n,2cnn	3oah:3
+skins 2007 tv series	a7n	
+skins 2011 film	a7n	
+skins 2012 film	a7n	
+skins franchise	a7n	
+skins series		3oah:3
+skins series 1	3oah	
+skins tv series	a7n	
+skins uk tv series	a7n	
+sla frst frede	3he2	
+sla ortography	3ev2	
+sla sahin	4v0q	
+sogitec	14ek	
+sokalskyi raion	4a4c	
+solastalgia missy higgins album	1cv0	
+starfrontlet	6f43	
+stopinu novads	2p6u	
+susinthiran	49f5	
+synapsids	i5x	
+tetragoneuria	6fsr	
+th	y45,12i8	
+th 82	1eeo	
+th charlottenburg	3i1	
+th couture	3qda	
+th d	5awo	
+th darmstadt	ba8	
+th element	12i8	
+th fr	5pcs	
+th hannover	alv	
+th hermans	5akt	
+th huxley	sgh	
+th jefferson	9j4	
+th l w bischoff	4m7b	
+th nkfilm	s7j	
+th noeldeke	3jvw	
+th noldeke	3jvw	
+th o		1jmd:5
+th o i		1jmd:5
+th o i avgorou	1jmd	1jmd:5
+th o i avgorou fc	1jmd	
+th s couture	3qda	
+th stuttgart	6zj	
+th thynne	5muh	
+th vienna	859	
+th white	1x0n	
+the reflektors	t39	
+the simplest mathematics	19hj	
+thomas willoughby		4m8l:5
+thomas willoughby 1st		4m8l:5
+thomas willoughby 1st baron		4m8l:5
+thomas willoughby 1st baron middleton	4m8l	
+tracee		3t8r:3
+tracee ellis		3t8r:3
+tracee ellis ross	3t8r	
+tracee ross	3t8r	
+ueckermunde	1lc4	
+ukj	41fh	
+university cowan	rmx	
+vaissac	3bdo	
+valenciano	1o37	
+valenciano language	1o37	
+vandy	1gh,2ebl	
+vandy ardennes	2ebl	
+vandy taal	1gh	
+westmead	3x33	
+westmead new south wales	3x33	
+williamsville	1hwt	
+williamsville new york	1hwt	
+williamsville ny	1hwt	
+yazd	i8y	8a1:2
+yazd city yazd	i8y	
+yazd iran	i8y	
+yazd province	8a1	
+yugra khanty mansiysk	ai3	
+yugra nizhnevartovsk	1pyx	
+yujiulue anagui	4kys	
+zambrella	4u3o	
+ziba	2x97	
+ziba gastropod	2x97	
+zoologist	4bi	
+zoologist doc	4bi	

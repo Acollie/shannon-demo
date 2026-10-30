@@ -1,0 +1,612 @@
+201112		kjv:3,wmv:4,xn4:6,10v3:4,11je:4,13tg:4,1nju:6,1uy4:3,2td7:4,2vs5:2,36si:7
+201112 bundesliga	1uy4	
+201112 cypriot		kjv:3,wmv:4,xn4:6,10v3:4,11je:4,13tg:4
+201112 cypriot cup	kjv	xn4:6
+201112 cypriot cup for		xn4:6
+201112 cypriot cup for lower		xn4:6
+201112 cypriot cup for lower divisions	xn4	
+201112 cypriot first		wmv:4
+201112 cypriot first division	wmv	
+201112 cypriot fourth		13tg:4
+201112 cypriot fourth division	13tg	
+201112 cypriot second		11je:4
+201112 cypriot second division	11je	
+201112 cypriot third		10v3:4
+201112 cypriot third division	10v3	
+201112 ekstraklasa	2vs5	
+201112 fuball		1uy4:3
+201112 fuball bundesliga	1uy4	
+201112 fussball bundesliga	1uy4	
+201112 indonesia super league u 21	69hf	
+201112 isu		1nju:6,36si:7
+201112 isu grand		36si:7
+201112 isu grand prix		36si:7
+201112 isu grand prix of		36si:7
+201112 isu grand prix of figure		36si:7
+201112 isu grand prix of figure skating	36si	
+201112 isu speed		1nju:6
+201112 isu speed skating		1nju:6
+201112 isu speed skating world		1nju:6
+201112 isu speed skating world cup	1nju	
+201112 liga iv	wun	
+201112 russian		2td7:4
+201112 russian premier		2td7:4
+201112 russian premier league	2td7	
+201112 speed skating world cup	1nju	
+89th		1enw:4
+89th congress	1enw	
+89th u s congress	1enw	
+89th united		1enw:4
+89th united states		1enw:4
+89th united states congress	1enw	
+89th us congress	1enw	
+a manchester manufacturer	5rxy	
+abby83	fhf	
+abubacer	5vfa	
+abubacer aben tofail	5vfa	
+acceglio	2ju7	
+aiglepierre	26eb	
+alajuela	g2n	1axa:2,20z0:2
+alajuela canton	20z0	
+alajuela city	g2n	
+alajuela district	g2n	
+alajuela province	1axa	
+alitalia	2shf	
+alitalia airlines	2shf	
+alitalia com	2shf	
+alitalia compagnia aerea italiana	2shf	
+alitalia compagnia aerea italiana s p a	2shf	
+alitalia fleet	2shf	
+alitalia group	2shf	
+alitalia maintenance systems	2shf	
+alitalia s p a	2shf	
+alitalia societa aerea italiana	2shf	
+alitalia societa aerea italiana spa	2shf	
+allgaeu alps	8jf	
+arudy	1oyr	
+atkinson	6ett	
+atkinson family name	6ett	
+atkinson rick	4kcz	
+atkinson surname	6ett	
+aureville	1kyp	
+baggydome	3owh	
+banjos	3ih	
+beyal	5f00	
+beyal camp	5f00	
+boggie nights soundtrack	11ao	
+bravest of the brave award	159f	
+broncotis	34hi	
+brunville	4cub	
+cabidos	3ph8	
+cerdanya	5f0v	
+cerdanya comarca	p4a	
+cerdanya fall	5f0v	
+chandu		5nmm:3
+chandu the		5nmm:3
+chandu the magician	5nmm	
+chandu the magician film	5nmm	
+channan	3tk	
+charles maurras	32f1	
+cheddar bob	13kc	
+chlumetin	43vw	
+chotta		4v2v:2
+chotta mumbai	4v2v	
+chr20	39m	
+chysky	2why	
+cocquio		46ha:2
+cocquio trevisago	46ha	
+cthulu mythos	zi4	
+cuban		5wz:6,3yys:2,4b57:3,55rm:3,5qdh:4
+cuban airlines	689h	
+cuban communist party	kkm	
+cuban crisis	55rm	
+cuban fury	3yys	
+cuban genealogy	15xf	
+cuban independence	5qdh	
+cuban jazz	2vwj	
+cuban mark	22ww	
+cuban men		5wz:6
+cuban men s		5wz:6
+cuban men s national		5wz:6
+cuban men s national football		5wz:6
+cuban men s national football team	5wz	
+cuban missile		55rm:3
+cuban missile crisis	55rm	
+cuban missile crisis second holocaust	5i0o	
+cuban municipality	hvb	
+cuban national		4b57:3
+cuban national series	4b57	
+cuban news agency	9y	
+cuban presidency	21ki	
+cuban president	21ki	
+cuban quarantine	55rm	
+cuban son	2vzn	
+cuban war		5qdh:4
+cuban war for independence	5qdh	
+cuban war of		5qdh:4
+cuban war of independence	5qdh	
+cuban war of independence february 24 1895	5qdh	
+dalecarlians	2z4i	
+dalecarlians film	2z4i	
+david gilbert	6efk	
+david gilbert author	6efk	
+david lack	3t81	
+decorated architecture	4yl	
+decorated style	4yl	
+dfds	59mb	
+dfds a s	59mb	
+dfds container line	59mb	
+dfds lys line	59mb	
+dippach	2cft	
+elmohamady	4fhi	
+estocolmo	9e	
+eyeore	6h3e	
+fc cristinenc	8lx	
+fotis		46yw:2,5x7q:2,69b7:2,69e3:2
+fotis c kafatos	5x7q	
+fotis constantine kafatos	5x7q	
+fotis kafatos	5x7q	
+fotis katsikaris	46yw	
+fotis kipouros	69e3	
+fotis kouvelis	69b7	
+fotis kouvellis	69b7	
+franscesco filelfo	470k	
+frattamaggiore	1hrt	
+frazier	2nyf	
+frazier campbell	2w7y	
+frazier charles	3z7o	
+frazier crane	6dgq	
+frazier joe	1k2c	
+guardian	cz1	cz1:2,dez:5,11dq:2,3dxx:6,3luv:2,4v0s:3
+guardian and manchester evening news ltd	4v0s	
+guardian angel	2zaz	2zaz:3
+guardian angel muchamore novel	3oht	
+guardian angel robert muchamore novel	3oht	
+guardian award	dez	
+guardian children		dez:5
+guardian children s		dez:5
+guardian children s fiction		dez:5
+guardian children s fiction award	dez	
+guardian children s fiction prize	dez	
+guardian childrens fiction prize	dez	
+guardian direct cup	1ulk	
+guardian ethic	2em7	
+guardian highlander	2o27	
+guardian media	4v0s	4v0s:3
+guardian media group	4v0s	
+guardian media group plc	4v0s	
+guardian news and media	4v0s	
+guardian news and media limited	4v0s	
+guardian news and media ltd	cz1	
+guardian news media	4v0s	
+guardian news media ltd	4v0s	
+guardian news service	4v0s	
+guardian newspaper	cz1	
+guardian newspapers	4v0s	
+guardian newspapers limited	4v0s	
+guardian newspapers ltd	4v0s	
+guardian of forever	282u	
+guardian of light	4rcf	
+guardian of the baha i faith	5k30	
+guardian of the cause of god	5k30	
+guardian of the sacred spirit	6hbc	
+guardian of the spirit	6hbc	
+guardian prize	dez	
+guardian reader	cz1	
+guardian series co uk	nyh	
+guardian syndrome	2em7	
+guardian the		3dxx:6
+guardian the lonely		3dxx:6
+guardian the lonely and		3dxx:6
+guardian the lonely and great		3dxx:6
+guardian the lonely and great god	3dxx	
+guardian uk	cz1	
+guardian weekend	cz1	
+hashtrud		4n4h:2
+hashtrud county	4n4h	
+hedysaraceae	1cvd	
+heliothis	1hfh	
+houbunsha	5amo	
+inonu mustafa ismet	2o1o	
+jesc	234h	
+jesc 09	5m5p	
+jesc 2007	5t0s	
+jesc 2009	5m5p	
+jesc 2011	5nfs	
+jesc 2013	4wji	
+jesc 2014	50zb	
+jesc 2015	4i2z	
+jesc 2016	5uvn	
+jours		3jj0:3
+jours les		3jj0:3
+jours les baigneux	3jj0	
+jours tranquilles a clichy	3jnr	
+jours tranquils a clichy	3jnr	
+jullundur	9j0	
+jullundur district	26a	
+jullundur division	26a	
+karisiacum	20vh	
+khulna	mrz	19p3:2,1is6:2
+khulna bibhag	19p3	
+khulna city	mrz	
+khulna district	1is6	
+khulna division	19p3	
+khulna division bangladesh	19p3	
+khulna zila	1is6	
+larrikins film	f8p	
+lauzun	2g4u	
+le frestoy		2jce:3
+le frestoy vaux	2jce	
+le georgion	1j3e	
+leona	yv5	tpr:2,4okv:2,5f2f:2
+leona celinda doty	4okv	
+leona first name	yv5	
+leona given name	yv5	
+leona harriet woods	5f2f	
+leona lewes	tpr	
+leona lewis	tpr	
+leona lewis fourth studio album	tpr	
+leona libby	5f2f	
+leona louise lewis	tpr	
+leona marshall	5f2f	
+leona marshall libby	5f2f	
+leona roberts	4okv	
+leona singer	tpr	
+leona woods	5f2f	
+leona woods marshall	5f2f	
+leona woods marshall libby	5f2f	
+lupus	j9b	
+lupus and the brain	egc	
+lupus constellation	j9b	
+lupus erythematodes	egc	
+lupus erythematosus cutaneous	egc	
+lupus erythematosus systemic	egc	
+lupus s le	egc	
+lupus thunder	2g0u	
+lupus treatment	egc	
+lycoena	5b24	
+machchilipatnam	1683	
+malchus porphyry	3pwc	
+mckellen sir ian murray	dz2	
+meincraft	wm2	
+michael onslow	5k0b	5k0b:6
+michael onslow 7th		5k0b:6
+michael onslow 7th earl		5k0b:6
+michael onslow 7th earl of		5k0b:6
+michael onslow 7th earl of onslow	5k0b	
+michelle	225,68vm	gel:2,l7c:2,p6k:2,vhx:2,wlm:2,xy9:2,yqu:2,1525:2,16tv:2,1bsf:2,1fv1:2,1had:2,1j6o:3,1u3h:2,2cfr:2,2og3:2,31zv:2,32fy:2,38rx:2,3968:2,3wy4:2,4jut:2,4kr5:2,4kwd:2,4kz2:2,4oov:2,4ox0:2,4pk9:2,4qq4:2,4sze:2,53la:2,556n:2,55vc:2,59mt:2,5gnc:2,5h6g:3,5jqd:2,5rev:3,5run:2,5y16:2,6558:2,68uz:2,6g3q:3
+michelle alliot marie	3ycy	
+michelle anne sinclair	50km	
+michelle ansell	5w2w	
+michelle bachelet	l7c	
+michelle bachelet jeria	l7c	
+michelle barr	5run	
+michelle bauer	2cfr	
+michelle beatles song	68vm	
+michelle belladonna	50km	
+michelle benjamin	4g1a	
+michelle betos	3wy4	
+michelle branch	1bsf	
+michelle branch singles	1bsf	
+michelle brooke marciniak	3968	
+michelle christine trachtenberg	1fv1	
+michelle claire edwards	4kwd	
+michelle claire ryan	5y16	
+michelle cliff	4sze	
+michelle d		5h6g:3
+michelle d johnson	5h6g	
+michelle darnell	298d	
+michelle darnell 2016 film	298d	
+michelle darnell film	298d	
+michelle davaughn robinson obama	wlm	
+michelle de france	1j6o	
+michelle dockery	38rx	
+michelle dotrice	43sq	
+michelle edwards	4kwd	
+michelle edwards badminton	4kwd	
+michelle fairley	4pk9	
+michelle feynman	ntv	
+michelle first name	225	
+michelle forbes	31zv	
+michelle gilliam	1had	
+michelle given name	225	
+michelle gomez	2og3	
+michelle graham	4m9l	
+michelle grisham	6g3q	
+michelle guthrie	4qq4	
+michelle ingrid williams	p6k	
+michelle j krusiec	55vc	
+michelle jacquet branch landau	1bsf	
+michelle jaquet desevren branch	1bsf	
+michelle jasmin muntefering	5gnc	
+michelle jasmin schumann	5gnc	
+michelle jean	453n	
+michelle jenner	4jut	
+michelle jenner husson	4jut	
+michelle johnson	4oov	
+michelle johnson actress	4oov	
+michelle kholos	21a5	
+michelle krusiec	55vc	
+michelle kwan	6558	
+michelle kwan competitive record	6558	
+michelle l monaghan	yqu	
+michelle lambert	4kr5	
+michelle lavaughn obama	wlm	
+michelle lavaughn obama nee robinson	wlm	
+michelle lavaughn robinson	wlm	
+michelle lavaughn robinson obama	wlm	
+michelle lee	32fy	
+michelle lee dusick	3lmy	
+michelle leon	1o5r	
+michelle li	4kz2	
+michelle li badminton	4kz2	
+michelle li man shan	4kz2	
+michelle llaire edwards	4kwd	
+michelle lujan		6g3q:3
+michelle lujan grisham	6g3q	
+michelle lynn monaghan	yqu	
+michelle maclaren	16tv	
+michelle maglalang	59mt	
+michelle malkin	59mt	
+michelle marciniak	3968	
+michelle marie pfeiffer	gel	
+michelle marvin	5rev	
+michelle maulkin	59mt	
+michelle maxwell maclaren	16tv	
+michelle mccluskey	4hy8	
+michelle monaghan	yqu	
+michelle monique reis	32fy	
+michelle muntefering	5gnc	
+michelle name	225	
+michelle nolden	5jqd	
+michelle o	wlm	
+michelle obama	wlm	
+michelle of		1j6o:3
+michelle of france	1j6o	
+michelle of valois	1j6o	
+michelle paver	53la	
+michelle perrot	68uz	
+michelle pfeifer	gel	
+michelle pfeiffer	gel	
+michelle pfeiffer filmography	gel	
+michelle pfieffer	gel	
+michelle pheiffer	gel	
+michelle phifer	gel	
+michelle phiffer	gel	
+michelle phillips	1had	
+michelle reis	32fy	
+michelle renee forbes guajardo	31zv	
+michelle robinson obama	wlm	
+michelle rodriguez	xy9	
+michelle rodriquez	xy9	
+michelle ryan	5y16	
+michelle ryans	5y16	
+michelle schumann	5gnc	
+michelle shocked	556n	
+michelle sinclair	50km	
+michelle song	68vm	
+michelle suzanne dockery	38rx	
+michelle timms	3zl0	
+michelle tisdale	pxa	
+michelle trachtenberg	1fv1	
+michelle trachtenburg	1fv1	
+michelle triola	5rev	5rev:3
+michelle triola marvin	5rev	
+michelle valois	1j6o	
+michelle wallen	4ghs	
+michelle williams	p6k,1u3h	
+michelle williams actor	p6k	
+michelle williams actress	p6k	
+michelle williams singer	1u3h	
+michelle williams singer archive 1	1u3h	
+michelle wing kwan	6558	
+michelle wingshan kwan	6558	
+michelle wright	1525	
+michelle ye	4ox0	
+michelle ye xuan	4ox0	
+michelle yeoh	vhx	
+michelle yeoh choo kheng	vhx	
+michelle yip	4ox0	
+mictopsichia	1yae	
+mullet fish	6es7	
+mz ruby	69i5	
+mz twin	tw	
+naahar	d5d	
+neckarsulm	1dut	
+neckarsulm germany	1dut	
+niemes	4fx9	
+nitrate war	1tom	
+njogu		2sg1:3
+njogu demba	2sg1	2sg1:3
+njogu demba nyren	2sg1	
+nunnally		flc:2
+nunnally johnson	flc	
+oao aeroflot	akr	
+oao aviakompania sibir	2zz3	
+oao gaz	nda	
+oao gazprom	d61	
+oao lukoil	1oj2	
+oao moskovskaya birzha	blw	
+oao moskvitch	1uq0	
+oao rosneft	32ea	
+oao s p korolyov rocket and space corporation energia	9l3	
+obesotoma	3vmu	
+odesseus	25by	
+osny	244d	
+partille	4l2q	1w1z:2
+partille kommun	1w1z	
+partille municipality	1w1z	
+paul weigle	305y	
+peter mullan	x98	
+peter tachell	56hj	
+phasathj	31j	
+pigskin		2h2m:2
+pigskin parade	2h2m	
+pigskin parade film	2h2m	
+pirkkala	1fxk	
+plaine	1nxm	1yhh:3,2gki:2
+plaine bas rhin	1nxm	
+plaine de		1yhh:3
+plaine de walsch	1yhh	
+plaine haute	2gki	
+plaine wilhems	516a	
+pozezdrze commune	2ces	
+pratviel	2zbx	
+predoi	3ic9	
+qeysarya	45bc	
+quality		1rt6:2,25l6:2
+quality music	1rt6	
+quality of life		5t91:4
+quality of modelling languages	5a1h	
+quality records	1rt6	
+quality street	25l6	
+quality street 1937 film	25l6	
+quality street film	25l6	
+quality television	1z8e	
+quality televison	1wer	
+regency		2sm:3,a4d:2
+regency council	l5w	
+regency crisis of 1788	1vvp	
+regency dress	xfz	
+regency enterprises	a4d	
+regency enterprises comments	a4d	
+regency enterprises inc	a4d	
+regency fashion	xfz	
+regency fashions	xfz	
+regency government	l5w	
+regency kingdom	1zba	
+regency kingdom of poland	1zba	
+regency kingdom of poland 1916 1918	1zba	
+regency kingdom of poland 19161918	1zba	
+regency of		2sm:3
+regency of banyuwangi	4glh	
+regency of hungary	k4r	
+regency of indonesia	2sm	
+regency television	a4d	
+rubicom	6h96	
+s04	2m5	
+saffloz	3bfh	
+salm badenweiler	1scd	
+salm hoogstraten	12qa	
+salm leuze	4hzw	
+salm puttlingen	2fw7	
+sanjo	4u2a,5yak	4u2a:2
+sanjo city	4u2a	
+sanjo emperor	5yak	
+sanjo emperor of japan	5yak	
+sanjo ii	4rm2	
+sanjo niigata	4u2a	
+sanjo of japan	5yak	
+sanjo shi	4u2a	
+sanjo tenno	5yak	
+sarcastic shockwavelover phalanx	2vi5	
+scalping proclamation	4el6	
+segd	3blc	
+sepah e qods	4yot	
+sepah pasdaran	1ka3	
+sergipe	77f	
+sergipe brazil	77f	
+sergipe d el rei	77f	
+sergipe d el rey	77f	
+sergipe province	77f	
+sidmouth	x5a	
+sidmouth devon	x5a	
+sidmouth henry addington viscount	3ttm	
+spannarhyttan	5zc5	
+st anselm	1soi	
+st anselm archbishop of canterbury	1soi	
+st anselm college	22e3	
+st anselm hawks	22e3	
+st anselm hawks football	22e3	
+stars	43b,3fxf,4ypr	2nzt:4,2rfk:3,35hx:3,3whf:4,5v3e:3,5v3m:4
+stars and		3whf:4
+stars and guitars	2vyv	
+stars and planets	23k	
+stars and stripes		3whf:4
+stars and stripes forever	3whf	
+stars and stripes forever film	3whf	
+stars canadian band	3fxf	
+stars dancing on ice	51nu	
+stars demi lovato song	6gfn	
+stars fell on henrietta	56jl	56jl:5
+stars in		2nzt:4
+stars in my		2nzt:4
+stars in my crown	2nzt	
+stars in my crown film	2nzt	
+stars last me a lifetime	5bg4	
+stars lid	5v3m	
+stars look down	2lwl	2lwl:4
+stars of		5v3e:3,5v3m:4
+stars of eger	5v3e	
+stars of eger 1968 film	5v3e	
+stars of the		5v3m:4
+stars of the lid	5v3m	
+stars on earth	oua	
+stars on the ground	oua	
+stars over		2rfk:3,35hx:3
+stars over broadway	35hx	
+stars over colombo	2rfk	
+stars portal	bc	
+stars resident evil	jou	
+stars riga	q0r,56pr	
+stars shine	sle	sle:3
+stars simply red album	4ypr	
+stars third jersey	3g5	
+stars wars force arena	6hb0	
+stars will tell inspector palmu		4v84:6
+tainiste	30w6	
+tania	1ytk	clo:3,2yll:2
+tania blixen	1wxp	
+tania bunke	1ytk	
+tania davis	404t	
+tania first name	clo	
+tania given		clo:3
+tania given name	clo	
+tania la guerrillera	1ytk	
+tania raymonde	2yll	
+tania s unborn baby	fal	
+tania sikorsky von york	14cp	
+tania the guerrilla	1ytk	
+telanthropus	426x	
+terreblanche	64jd	
+tervis paernu	hcn	
+tervis parnu	hcn	
+the jacket	1gx5	
+the tigris	wlw	
+the tigris river	wlw	
+thorbecke	58wu	
+tomatsu haruka	299f	
+tropicana		6gp0:2
+tropicana dome	6gp0	
+tropicana field	6gp0	
+un drole de colonel	5c40	
+un drole de dimanche	42l5	
+un drole de paroissien	47cb	
+uportland	ssu	
+vibeuf	2d67	
+vizhupuram	rp1	
+waterlooville	1yts	
+waterlooville hampshire	1yts	
+wexford	83f,an3	17ji:2
+wexford borough council	an3	
+wexford corporation	an3	
+wexford county	17ji	
+wexford county ireland	83f	
+wexford county mi	17ji	
+wexford county michigan	17ji	
+wexford county wexford	an3	
+wexford ireland	an3	
+wexford town	an3	
+whalercanes	4pe	
+william talmash lord huntingtower	3nm6	
+wke	2vtt	
+wroght iron	6fkn	
+zambians	151	
+zeffie		3q4b:2
+zeffie tilbury	3q4b	
+zelkjo mijac	5jwr	
+zynga	udg	
+zynga casino	udg	
+zynga game network	udg	
+zynga game network inc	udg	
+zynga inc	udg	

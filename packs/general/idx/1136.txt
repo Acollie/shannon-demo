@@ -1,0 +1,600 @@
+1934	17sm	2z4:4,uo3:4,vlc:4,2s2n:4,5wdg:4
+1934 35		2s2n:4
+1934 35 cypriot		2s2n:4
+1934 35 cypriot cup	2s2n	
+1934 35 cypriot first division	2idr	
+1934 ad	17sm	
+1934 british		uo3:4
+1934 british empire		uo3:4
+1934 british empire games	uo3	
+1934 british empire games medal count	uo3	
+1934 british empire games progressive overall medal count	uo3	
+1934 ce	17sm	
+1934 commonwealth games	uo3	
+1934 empire games	uo3	
+1934 european		vlc:4
+1934 european athletics		vlc:4
+1934 european athletics championships	vlc	
+1934 european championships in athletics	vlc	
+1934 fa		5wdg:4
+1934 fa cup		5wdg:4
+1934 fa cup final	5wdg	
+1934 federation internationale de football association world cup	2z4	
+1934 fifa		2z4:4
+1934 fifa world		2z4:4
+1934 fifa world cup	2z4	
+1934 world cup	2z4	
+1934 year	17sm	
+197677		w6h:4,1af5:4,22i0:3,45st:2
+197677 bundesliga	22i0	
+197677 cypriot		w6h:4,1af5:4
+197677 cypriot cup	e3b	
+197677 cypriot first		w6h:4
+197677 cypriot first division	w6h	
+197677 cypriot second		1af5:4
+197677 cypriot second division	1af5	
+197677 cypriot third division	19n7	
+197677 ekstraklasa	45st	
+197677 fuball		22i0:3
+197677 fuball bundesliga	22i0	
+197677 fussball bundesliga	22i0	
+333 market		6hiv:3
+333 market street	6hiv	
+3cdsb	3bl8	
+a 22 italy	15i6	
+a subaltern	51rn	
+achen	1r63	
+achen moselle	1r63	
+alexander puzanov	5h63	
+amedspor	5o3o	
+anesthesia	6ehm	
+anesthesia 1929 film	6ehm	
+anesthesia pulling teeth	6adc	
+anesthesia pulling teeth song	6adc	
+arme kleine sif	6e99	
+arme violetta	67d5	
+asakusa	51qv	4j2k:2
+asakusa line	4j2k	
+asakusa tokyo	51qv	
+ausable		6azd:2
+ausable lake	6azd	
+ausable river	6azd	
+ausable river new york	6azd	
+aventurier	60l3	
+benaguasil	3w71	
+blankfort michael	4hbh	
+blegium	2p	
+blennhem palace	2o4r	
+blessing		3fwh:2
+blessing kaku	3fwh	
+blessing light	fjz	
+bort		1yfn:3,23vg:3
+bort cultural learnings of america for make benefit glorious nation of kazakhstan	14xs	
+bort habkern	2msj	
+bort l		1yfn:3
+bort l etang	1yfn	
+bort les		23vg:3
+bort les orgues	23vg	
+braszewice commune	15xk	
+calamotropha	ap5	
+campagnia	hov	
+cartesium	m4d	
+choquet bruhat yvette	34ax	
+chornaya molniya	2i15	
+clarecastle	6ea9	
+cluny	qy8	20rk:2,604m:3
+cluny brown	20rk	
+cluny la		604m:3
+cluny la sorbonne	604m	
+cluny la sorbonne paris metro	604m	
+cooh	49o	
+cya	6ge1	
+david carrick	5dpg	
+demigodz entertainment	4crp	
+dineir	ap0	
+dizzee	reu	reu:2
+dizzee rascal	reu	
+dizzee rascal singles	reu	
+dizzee rascal songs	reu	
+dominicain	4s3k	
+dordrecht	42q	4r0o:3
+dordrecht 90	5iv	
+dordrecht elst railway	2yxq	
+dordrecht nederland	42q	
+dordrecht netherlands	42q	
+dordrecht railway		4r0o:3
+dordrecht railway station	4r0o	
+eight		13nt:3,1do2:2,1l53:3,4jhu:3,4zlg:2,6h9p:6
+eight 2008 film	3dg3	
+eight and a half	nar	
+eight and one half	nar	
+eight below	1do2	
+eight below 2006 film	1do2	
+eight bit	6hhj	
+eight bit ascii	19p8	
+eight cousins	6h9p	6h9p:6
+eight cousins or		6h9p:6
+eight cousins or the		6h9p:6
+eight cousins or the aunt		6h9p:6
+eight cousins or the aunt hill	6h9p	
+eight days of happiness	4v9u	
+eight dot braille	dwz	
+eight heads in a duffel bag	2uv3	
+eight hundred warriors of hit	178j	
+eight is		4jhu:3
+eight is enough	4jhu	
+eight lane highway	51v	
+eight legged		13nt:3
+eight legged freaks	13nt	
+eight man football up lineman	125	
+eight men		1l53:3
+eight men out	1l53	
+eight men out 1988 film	1l53	
+eight millimeter	17wt	
+eight million ways to die	2v7a	
+eight o clock in the morning film	4evh	
+eight planets	xxe	
+eight point braille	dwz	
+eight pointed star	62rr	
+eight ranger	4zlg	
+eight simple rules	2g5p	
+eight simple rules for dating my teenage daughter	2g5p	
+eight stages of man	3msl	
+eight standing together	3jw	
+eight stories from the rest of the robots	5ji7	
+eight street middle school	zpz	
+eight treasure	rbz	
+eight women	1wyp	
+ephemeroptera	5nmr	
+experimentally	blm	
+ferottois	2240	
+filidor first name	3sg	
+frasne		2izw:3,33cn:3
+frasne le		2izw:3
+frasne le chateau	2izw	
+frasne les		33cn:3
+frasne les meulieres	33cn	
+gmina jasienica	38z8	
+graficar belgrade	2046	
+graficar beograd	2046	
+greasque	2ndk	
+groundhog		vr2:2
+groundhog day	vr2	
+groundhog day 1993 movie	vr2	
+groundhog day film	vr2	
+groundhog day movie	vr2	
+groundhog day time loop	l03	
+gudrun		3kw8:2,5e8k:2,5xth:2
+gudrun burwitz	3kw8	
+gudrun himmler	3kw8	
+gudrun j klinker	5xth	
+gudrun johanna rekers	5xth	
+gudrun klinker	5xth	
+gudrun mack	5e8k	
+gudrun wagner	5e8k	
+halofantrine	g7p	
+halofantrine hydrochloride	g7p	
+headache	rki	
+headache band	39ez	
+headache bands	39ez	
+headache disorders	rki	
+headache medical	rki	
+headache syndromes	rki	
+heilbronn	7ic	bbk:2
+heilbronn bockingen	7ic	
+heilbronn district	bbk	
+heilbronn germany	7ic	
+hohenfurt	24wz	
+horgan		2eqr:3
+horgan paul	46df	
+horgan rural		2eqr:3
+horgan rural district	2eqr	
+howedes	3w8t	
+ic32 db	5em9	
+idrtsklubben skovbakken	3s1k	
+ikeys	26z	
+impregnating	666h	
+ipek	du6	
+iqaluit	4fms	
+iqaluit nu	4fms	
+james lance	4bdl	
+james lance bass	4a07	
+john gijsbert alan heitinga	3kye	
+john haines footballer	32c2	
+john zachary		4ldn:3
+john zachary delorean	34ci	
+john zachary young	4ldn	
+kalvin		5bag:2
+kalvin harris	h0a	
+kalvin ter	5bag	
+kalvin ter budapest metro	5bag	
+kernforschungszentrum karlsruhe	73b	
+khelemba		5sxl:2
+khelemba singh	5sxl	
+kotel	3k96	
+kotel bulgaria	3k96	
+langhirano	2k2f	
+langhirano italy	2k2f	
+left	hyj	1ha:4,4bk:2,d16:2,19gl:2,1wk1:2,1ya9:2,2e5v:4,2gf5:4,2kvd:5,2sz6:3,35lk:2,3dyv:4,3r9k:2,3s5h:5,493o:3,5hz3:3,5iaw:2,5qmr:2,609d:4,66a8:3,6gne:2,6hfh:3
+left 4		2e5v:4,6hfh:3
+left 4 dead	38wv,6hfh	2e5v:4
+left 4 dead 1	38wv	
+left 4 dead 2	2e5v	
+left 4 dead demo	38wv	
+left 4 dead film	38wv	
+left 4 dead game	38wv	
+left 4 dead series	6hfh	
+left 4 dead two	2e5v	
+left 4 dead weapons	38wv	
+left alliance	1wk1	
+left alliance finland	1wk1	
+left and freedom	2gf5	
+left arm		1ha:4
+left arm orthodox	1ha	1ha:4
+left arm orthodox spin	1ha	
+left arm spin	1ha	
+left arm spin bowler	1ha	
+left bank kiev	jd	
+left bank river	1e	
+left behind	1ya9,3r9k,6gne	2kvd:5,3dyv:4,3s5h:5
+left behind 2013 film	1ya9	
+left behind 2014	1ya9	
+left behind 2014 film	1ya9	
+left behind characters	3r9k	
+left behind ii		3s5h:5
+left behind ii tribulation		3s5h:5
+left behind ii tribulation force	3s5h	
+left behind iii	2kvd	
+left behind series	3r9k	
+left behind slipknot song	6gne	
+left behind the		3dyv:4
+left behind the movie	3dyv	
+left behind tribulation force	3s5h	
+left behind world		2kvd:5
+left behind world at		2kvd:5
+left behind world at war	2kvd	
+left behind world at war movie	2kvd	
+left click	2uc	
+left communists of spain	3nwm	
+left democratic alliance	c8e	
+left denmark	cma	
+left diagonal	wp	
+left ecology		2gf5:4
+left ecology and		2gf5:4
+left ecology and freedom	2gf5	
+left ecology freedom	2gf5	
+left exit	f4r	
+left eye	uk4	
+left eye flounder	4tm9	
+left eye lisa lopes	uk4	
+left eye productions	uk4	
+left field	19gl	5hz3:3
+left field productions	5hz3	
+left field umpire	59p	
+left fielder	19gl	
+left for		66a8:3
+left for dead	66a8	
+left for dead 2	2e5v	
+left for dead 2007 horror film	66a8	
+left four dead	38wv	
+left front	5iaw,5qmr	
+left front france	5iaw	
+left front russia	5qmr	
+left front tire	sui	
+left green	493o	493o:3
+left green movement	493o	
+left greens	493o	
+left guard	wo	
+left half	u	
+left hand manga	1380	
+left hand of darkness	61c8	61c8:5
+left hand of god	2o7w	2o7w:5
+left hand of the law	4rf9	4rf9:6
+left handed dream	fd0	
+left handed guitar	3s	
+left handed gun	2u8c	2u8c:4
+left handed woman	2334	2334:4
+left invariant	1uos	
+left lateral decubitus position	13uu	
+left leaning	5g7	
+left liberal	8w0	
+left liberalism	8w0	
+left luggage	35lk	
+left luggage film	35lk	
+left main disease	i4t	
+left nationalism	2sz6	
+left nationalist	2sz6	
+left norway	2bp	
+left of centre	5g7	
+left of reckoning	6g1x	
+left of zed	ux4	
+left party	d16	
+left party communists	d16	
+left party france	1yqw	
+left party germany	8e6	
+left party of germany	8e6	
+left party of sweden	d16	
+left party sweden	d16	
+left partycommunists	d16	
+left political attitude	4bk	
+left politics	4bk	
+left radical party	1162	
+left radicalism	dyz	
+left reform party	cma	
+left rhine line	4vwn	
+left rhine railway	4vwn	
+left right		609d:4
+left right and		609d:4
+left right and centre	609d	
+left right centre	609d	
+left right chant	12mi	
+left sided heart failure	34q	
+left sided ulcerative colitis	mjv	
+left tackle	18v	
+left tern	2z68	
+left the jungle	t6f	
+left the jungle album	t6f	
+left to his own devices	1uyq	
+left to right	223u	
+left tributary	3xj	
+left turn at albuquerque	3481	
+left ventricular failure	34q	
+left wide midfielder	u	
+left wing	4bk	2sz6:3
+left wing democrat	1feg	
+left wing democrats	1feg	
+left wing extremism	dyz	
+left wing ice hockey	ez	
+left wing nationalism	2sz6	
+left wing nationalist	2sz6	
+left wing of islamic republic of iran	6eme	
+left wing politics	4bk	
+left wing professors	4bk	
+left winger ice hockey	ez	
+left winger politics	4bk	
+lezajski	2lia	
+liniewo commune	1m3o	
+lvther	56i3	
+magneto	1wwr	
+magneto comics	1wwr	
+magneto film	g59	
+magneto joseph comics	1wwr	
+magneto marvel comics	1wwr	
+magneto testament	1wwr	
+magneto u s a	4jau	
+mahavira	4c95	
+makkabim	2cq8	
+mapa de los sonidos de tokyo	4tcn	
+maramba	34rh	
+maresquel		3u3l:2
+maresquel ecquemicourt	3u3l	
+markian		2h3u:2
+markian mikhaylovich popov	2h3u	
+markian popov	2h3u	
+masoteras	3v4c	
+mbpj fc	2oh0	
+mestis	57q1	
+micromelaniidae	ev6	
+mnr	1rx5	
+montparnasse		319:2,1kcr:2
+montparnasse 19	1omq	
+montparnasse bienvenue	1kcr	
+montparnasse bienvenue paris	1kcr	
+montparnasse bienvenue paris metro	1kcr	
+montparnasse bienvenue station	1kcr	
+montparnasse bienvenuee	1kcr	
+montparnasse bienvenuee metro	1kcr	
+montparnasse bienvenuee paris	1kcr	
+montparnasse bienvenuee paris metro	1kcr	
+montparnasse cemetery	319	
+montparnasse paris metro	1kcr	
+montparnasse station	2r64	
+mosnes	2efy	
+nauta garona	zz	
+new regency	a4d	
+new regency pictures	a4d	
+new regency productions	a4d	
+nomadic people journal	42fq	
+obscure plasma records	t8e	
+obscure sports quarterly	y1q	
+odissha	2ux	
+ommatoptera	h57	
+osbiston	43ay	
+paphiopedilum	lsd	
+partnerml	d7u	
+pleyben	1o9o	
+polychora	c1x	
+prince dodo	38lm	
+princess minabe	206a	
+pseudomacalla	3nzy	
+psychadelic furs	2624	
+psychadelic metal	183	
+psychadelic rock	183	
+recretivo huelva	405	
+ribatejada	2mvg	
+robert cray	1kv5	
+robert cray band	1kv5	
+robert walter bob kasten jr	68tf	
+robert walter kasten jr	68tf	
+robert walter quarry	1tvg	
+robert walter timbrell	4ygv	
+rte2	12c7	
+saint arnulph	5kby	
+saint clotilda	4bq9	
+sara	5ao8	8pt:3,vma:2,xj1:2,yy1:2,z10:2,12a8:2,1ckx:2,1rmf:2,1xsq:2,25lw:2,2ky5:2,2n11:2,329y:3,3a25:2,3hvu:2,3jwn:2,3tx2:2,3u94:3,3wam:2,3wj4:2,41ct:2,49e0:2,4z6l:2,516z:2,59bv:2,5e6g:2,5fg4:3,5mc3:2,5rm7:2,5s93:2,60en:2,62eg:2,6blz:4
+sara adler	3tx2	
+sara allgood	xj1	
+sara alto	4bkg	
+sara b	1ckx	
+sara bareillas	1ckx	
+sara bareilles	1ckx	
+sara barellis	1ckx	
+sara barielles	1ckx	
+sara bay	k9y	
+sara bernar	3z55	
+sara bernard	3z55	
+sara bernhard	3z55	
+sara bernhardt	3z55	
+sara beth bareilles	1ckx	
+sara bey	k9y	
+sara blakely	3a25	
+sara blakely foundation	3a25	
+sara blloshmi	20tc	
+sara botsford	2n11	
+sara brightman	e5r	
+sara buri	vmd	
+sara buri province	vmd	
+sara buri province thailand	vmd	
+sara chalk	2lwk	
+sara chalke	2lwk	
+sara clarke	2tnf	
+sara coleridge	3wam	
+sara connor chronicles	1qjv	
+sara dabritz	59bv	
+sara daebritz	59bv	
+sara doorsoun	516z	
+sara doorsoun khajeh	516z	
+sara douglas	2ky5	
+sara douglass	2ky5	
+sara driver	62eg	
+sara errani	12a8	
+sara evans	yy1	
+sara evans singles	yy1	
+sara ferguson	2ar9	
+sara forestier	25lw	
+sara forsberg	3jwn	
+sara foster	3u94	
+sara foster actress	3u94	
+sara france	1jvc	
+sara fricker	vw0	
+sara garcia	8pt	8pt:3
+sara garcia hidalgo	8pt	
+sara gellar	ok1	
+sara geller	ok1	
+sara gilbert	1rmf	
+sara goldfarb	17ek	
+sara groves	3wj4	
+sara guasch	3hvu	
+sara guash	3hvu	
+sara gurling	4zux	
+sara haden	z10	
+sara harmer	1uhz	
+sara hedberg	1hko	
+sara heine	3tx2	
+sara hess	5e6g	
+sara jane		5fg4:3
+sara jane adventures	w0w	
+sara jane clarke lippincott	5fg4	
+sara jane lippincott	5fg4	
+sara jessica parker	me9	
+sara jewett	5pg4	
+sara karloff	8w1	
+sara lane actress	4442	
+sara larsson	4z6l	
+sara lawrence college	49g	
+sara leander	1hko	
+sara levitskaya	3tx2	
+sara levitsky	3tx2	
+sara lidman	5mc3	
+sara lippencott	5fg4	
+sara lippincott	5fg4	
+sara lynn evans	yy1	
+sara mahala redway smith	4xyq	
+sara maria forsberg	3jwn	
+sara marie henriette rosine bernard	3z55	
+sara mclachlan	c54	
+sara michael		3u94:3
+sara michael foster	3u94	
+sara michelle gellar	ok1	
+sara montiel	vma	
+sara mustonen	5s93	
+sara mustonen cyclist	5s93	
+sara mustonen lichan	5s93	
+sara name	t5	
+sara niemietz	49e0	
+sara orne jewett	5pg4	
+sara palen	rh5	
+sara palyn	rh5	
+sara paretsky	41ct	
+sara paulson	vzt	
+sara paxton	1xsq	
+sara payson willis parton	3g11	
+sara polley	px8	
+sara race to witch mountain	n3e	
+sara rebecca abeles	1rmf	
+sara rural		329y:3
+sara rural district	329y	
+sara ryder	2ggh	
+sara sanders	44da	
+sara silverman	sei	
+sara stanton	13pm	
+sara stina hedberg	1hko	
+sara sugarman	5rm7	
+sara tegan	1p4n	
+sara tendulkar	3elw	
+sara thunebro	60en	
+sara topelson	6blz	6blz:4
+sara topelson de		6blz:4
+sara topelson de grinberg	6blz	
+sara vaughn	e9r	
+sara videbeck	58nr	
+sara vowel	3wyo	
+sara vowell	3wyo	
+sara warneke	2ky5	
+sara wayne callies	3juz	
+schuessel	2vlh	
+scoeng	5am4	
+shoreham	k7f,2nd0	k7f:3
+shoreham beach	k7f	
+shoreham by		k7f:3
+shoreham by sea	k7f	
+shoreham vermont	2nd0	
+shoreham vt	2nd0	
+souracarta	dk8	
+springdale	13f7	
+springdale ar	13f7	
+springdale arkansas	13f7	
+springdale kentucky	1vr1	
+storo	45rn	
+suds foam	63o6	
+tamland	ci	
+ternelin	2dkt	
+thaas	376r	
+the camrose	asy	
+the camrose stadium	asy	
+the galactic empire strikes back	jli	
+the selling of america	3l0a	
+the soong		5lhw:3
+the soong sisters	5lhw	
+the soong sisters film	5lhw	
+thirsty		2ipa:3,40cw:2
+thirsty ear	2ipa	2ipa:3
+thirsty ear recordings	2ipa	
+thirsty ear records	2ipa	
+thirsty merc	40cw	
+trotskyism	gw6	
+ulgy betty	92f	
+valerijus		435g:2
+valerijus mizigurskis	435g	
+vendetta	53hl,577l,59ie,63sz	22r6:2,4s2x:3
+vendetta 1919 film	53hl	
+vendetta 1929 film	5n4v	
+vendetta 1950 film	59ie	
+vendetta 1999 film	63sz	
+vendetta dal		4s2x:3
+vendetta dal futuro	4s2x	
+vendetta dei gladiatori	47d7	
+vendetta di aquila nera	59eu	
+vendetta sarda	22r6	
+vendetta slipknot song	5jjk	
+visitakureyri is	dh2	
+westward		119h:4,387p:3
+westward ho		119h:4
+westward ho the		119h:4
+westward ho the wagons	119h	
+westward the		387p:3
+westward the women	387p	
+wey gey hey wghs	5tu4	
+wey yang	5198	
+wiccan order	5pat	
+wurselen	17pa	

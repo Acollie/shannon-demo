@@ -1,0 +1,59 @@
+{
+ "arch": {
+  "lin": 128,
+  "lout": 128,
+  "R": 4,
+  "K": 4096,
+  "d_vq": 64,
+  "vocab": 30522,
+  "d_model": 544,
+  "n_heads": 8,
+  "head_dim": 68,
+  "n_dec_layers": 3,
+  "n_idea_layers": 8,
+  "n_ideas": 32,
+  "bos_id": 101,
+  "min_gen_id": 999
+ },
+ "params": {
+  "trainable_total": 59453600,
+  "trainable_embedding": 16691008,
+  "trainable_nonembedding": 42762592,
+  "frozen": 22565376
+ },
+ "export_check": {
+  "n_windows": 24,
+  "variants": {
+   "mixed": {
+    "code_agreement": 0.9986979166666666,
+    "bpb_torch": 1.5421328394949054,
+    "bpb_onnx": 1.5424590838123493,
+    "bpb_rel_diff": 0.00021155396544880745,
+    "max_window_abs_diff": 0.001316134702106897,
+    "sizes_bytes": {
+     "encoder": 46508016,
+     "ideas": 30990181,
+     "decoder": 91467685
+    }
+   }
+  },
+  "shipped_candidate": {
+   "code_agreement": 0.9986979166666666,
+   "bpb_torch": 1.5421328394949054,
+   "bpb_onnx": 1.5424590838123493,
+   "bpb_rel_diff": 0.00021155396544880745,
+   "max_window_abs_diff": 0.001316134702106897,
+   "sizes_bytes": {
+    "encoder": 46508016,
+    "ideas": 30990181,
+    "decoder": 91467685
+   }
+  },
+  "precision": "encoder+decoder fp16w, ideas int8 per-channel",
+  "sizes_bytes": {
+   "encoder": 46508016,
+   "ideas": 30990181,
+   "decoder": 91467685
+  }
+ }
+}

@@ -1,0 +1,635 @@
+539 bce	2l89	
+a lawerence lowell	55uv	
+a phone	5cej	
+a world		3sg9:3,68t2:5
+a world alone	47me	
+a world apart	3sg9	
+a world apart 1988 film	3sg9	
+a world apart film	3sg9	
+a world beyond	rv9	
+a world of love	29nt	
+a world to		68t2:5
+a world to believe		68t2:5
+a world to believe in	68t2	
+a world to believe in himiko fantasia	68t2	
+abenra	1pyn	
+abenra denmark	1pyn	
+abenra municipality	14rx	
+acouba	djo	
+agentobjectverb	42h	
+akdot	68z	
+anapheles mosquito	tp6	
+andhradesa	nj	
+ascoli		2ze:4,93i:2,193t:2
+ascoli calcio	2ze	2ze:4
+ascoli calcio 1898	2ze	2ze:4
+ascoli calcio 1898 f c	2ze	
+ascoli calcio 1898 fc	2ze	
+ascoli picchio f c	2ze	
+ascoli picchio f c 1898	2ze	
+ascoli picchio fc	2ze	
+ascoli picchio fc 1898	2ze	
+ascoli piceno	93i	
+ascoli piceno province	8xm	
+ascoli satriano	193t	
+bardonecha	1ouf	
+berlie		5i31:2
+berlie doherty	5i31	
+berwin illinois	psq	
+birkbeck		6sy:4
+birkbeck college	6sy	
+birkbeck college london	6sy	
+birkbeck college university of london	6sy	
+birkbeck institute	6sy	
+birkbeck institution	6sy	
+birkbeck literary and scientific institution	6sy	
+birkbeck university	6sy	6sy:4
+birkbeck university college	6sy	
+birkbeck university of		6sy:4
+birkbeck university of london	6sy	
+birobidshansk	1pn6	
+bmx	d6n	
+bmx bikes	d6n	
+bmx biking	d6n	
+bmx rider	d6n	
+bmx track	d6n	
+bohally intermediate	ixo	
+brdc formula 4	12i2	
+brdc formula 4 winter championship	12i2	
+castelgomberto	2d8j	
+chauntelle dupree	41u8	
+clivilles cole	13wc	
+concepts	2il	
+concepts in the wheel of time series	14h7	
+concepts of democracy in republics	6gp	
+copains du dimanche	5bwb	
+crenudia	2eop	
+cubical graph	1ol8	
+damiano	1lft	ud3:2,1u2k:2,379w:2,3jie:2,3wb9:2,59pt:2,5jq9:2
+damiano caruso	1u2k	
+damiano cunego	379w	
+damiano damiani	ud3	
+damiano ferronetti	3jie	
+damiano first name	1lft	
+damiano given name	1lft	
+damiano longhi	5jq9	
+damiano tomassi	3wb9	
+damiano tommasi	3wb9	
+damiano zanon	59pt	
+dnjepr	dfb	
+dnjepr dnjepropetrovsk	3mo	
+dobromilice	48an	
+dogi di venezia	917	
+donauworth	1bel	
+drama	bw0,njj	25:2,9vb:6,go1:2,mm4:9,oqo:9,pkm:10,u0r:3,u5k:10,v44:6,zov:9,17bv:8,2zyi:4,3gwk:3,548z:4,5qd4:6
+drama after aristotele	bw0	
+drama art form	bw0	
+drama bc	6btv	
+drama cd	2m8	
+drama centre		3gwk:3
+drama centre london	3gwk	
+drama comedy	cg	
+drama critic	4p1	
+drama desk	u0r	9vb:6,mm4:9,oqo:9,pkm:10,u0r:3,u5k:10,v44:6,zov:9,17bv:8,5qd4:6
+drama desk award	u0r	9vb:6,mm4:9,oqo:9,pkm:10,u5k:10,v44:6,zov:9,17bv:8,5qd4:6
+drama desk award for		9vb:6,mm4:9,oqo:9,pkm:10,u5k:10,v44:6,zov:9,17bv:8,5qd4:6
+drama desk award for outstanding		9vb:6,mm4:9,oqo:9,pkm:10,u5k:10,v44:6,zov:9,17bv:8,5qd4:6
+drama desk award for outstanding actor		mm4:9
+drama desk award for outstanding actor in		mm4:9
+drama desk award for outstanding actor in a		mm4:9
+drama desk award for outstanding actor in a play	mm4	
+drama desk award for outstanding actress		oqo:9
+drama desk award for outstanding actress in		oqo:9
+drama desk award for outstanding actress in a		oqo:9
+drama desk award for outstanding actress in a musical	oqo	
+drama desk award for outstanding book		zov:9
+drama desk award for outstanding book of		zov:9
+drama desk award for outstanding book of a		zov:9
+drama desk award for outstanding book of a musical	zov	
+drama desk award for outstanding featured		pkm:10,u5k:10
+drama desk award for outstanding featured actor		pkm:10,u5k:10
+drama desk award for outstanding featured actor in		pkm:10,u5k:10
+drama desk award for outstanding featured actor in a		pkm:10,u5k:10
+drama desk award for outstanding featured actor in a musical	u5k	
+drama desk award for outstanding featured actor in a play	pkm	
+drama desk award for outstanding foreign play	5qd4	
+drama desk award for outstanding lyrics	v44	
+drama desk award for outstanding musical	9vb	
+drama desk award for outstanding new foreign play	5qd4	
+drama desk award for outstanding new play	5qd4	
+drama desk award for outstanding one		17bv:8
+drama desk award for outstanding one person		17bv:8
+drama desk award for outstanding one person show	17bv	
+drama desk award for outstanding play	5qd4	
+drama desk award for outstanding solo performance	17bv	
+drama desk awards	u0r	
+drama desk vernon rice award	u0r	
+drama documentaries	4ik	
+drama documentary	4ik,xo3	
+drama film	25	
+drama greece	njj	
+drama japan	9pd	
+drama macedonia	njj	
+drama movie	25	
+drama of		2zyi:4,548z:4
+drama of jealousy	1ioz	
+drama of the		2zyi:4,548z:4
+drama of the lark	548z	
+drama of the rich	2zyi	
+drama online library	656	
+drama per musica	hmg	
+drama period	9l0	
+drama school	go1	
+drama schools	go1	
+drapia	3z2k	
+edward horton	e5n	
+edyta		1x3e:2
+edyta gorniak	1x3e	
+edyta piecha	1eye	
+edyta piekha	1eye	
+epicycas	als	
+euskaltzaindia	1hej	
+falkenbach	54iz	
+fc energiya		67z:3,4ssk:3
+fc energiya bratsk	adz	
+fc energiya chaikovsky	4ssk	
+fc energiya chaykovskiy	4ssk	
+fc energiya chaykovsky	4ssk	
+fc energiya d kamyshin	7l3	
+fc energiya kamyshin	7l3	
+fc energiya pyatigorsk	5o7	
+fc energiya saratov	3xp	
+fc energiya tekstilshchik kamyshin	7l3	
+fc energiya uren	ion	
+fc energiya volzhsky	67z	
+fichte	1zcd	
+fichte johann gottlieb	1zcd	
+fichte s original insight	4vln	
+flasch	3n7z	
+flasch gr	3n7z	
+flasch graubunden	3n7z	
+flasch grisons	3n7z	
+flasch switzerland	3n7z	
+focha	7dy	
+fosdinovo	2qz6	
+frakland	6gdq	
+gideons daughter	4rqg	
+giordano	1h7r	1dej:2,20ii:2
+giordano bruno	1dej,20ii	
+giordano bruno award	1dej	
+giordano bruno film	20ii	
+giordano bruno nolano	1dej	
+giordano cardan	382f	
+giordano jordaens	1o1r	
+giordano surname	1h7r	
+glochisandra	14cs	
+gmina iwaniska	scl	
+gmina jodownik	23st	
+gottenhouse	3n7w	
+grapefestival	nrn	
+gulda	4aow	
+heteropodid	e8g	
+heteropodid spider	e8g	
+hohoho	6ch8	
+homoglossum	285p	
+james cosmo	10o9	
+jouy	2ziw	174s:3,2569:3,2e9s:3,2er7:3,2f22:3,2g6m:3,2nmf:3,2yx7:2,3bz0:3,3o4p:3,40pv:3
+jouy aux		2569:3
+jouy aux arches	2569	
+jouy en		174s:3,3o4p:3,40pv:3
+jouy en argonne	3o4p	
+jouy en josas	174s	
+jouy en pithiverais	40pv	
+jouy le		2er7:3,2f22:3,2nmf:3
+jouy le chatel	2er7	
+jouy le comte	1ts2	
+jouy le moutier	2nmf	
+jouy le potier	2f22	
+jouy mauvoisin	2yx7	
+jouy sous		3bz0:3
+jouy sous thelle	3bz0	
+jouy sur		2e9s:3,2g6m:3
+jouy sur eure	2g6m	
+jouy sur morin	2e9s	
+jouy victor joseph etienne de	4o5q	
+jouy yonne	2ziw	
+katterbach ansbach	80t	
+kenzi hamada	463d	
+kenzi miyazawa	3s7c	
+kenzi mizoguti	181f	
+kotzenbroda	p4h	
+krug dungeon siege	43dp	
+krug stillo	2zx8	
+kungalvs kommun	163f	
+la jonchere	3udj	
+laurenn lynn mcgraw	57rs	
+limelight	15uu,1ryz	
+limelight 1952 film	1ryz	
+limelight entertainment	44pi	
+limelight ltd	4do9	
+limelight records	15uu	
+lorrach	ezb,k4h	
+lorrach brombach	k4h	
+lorrach district	ezb	
+lorrach haagen	k4h	
+luohe	5d6y	
+luohe county	5d6y	
+luohe henan	5d6y	
+marcona almonds	20pa	
+marmarosch sziget	iso	
+marsaillaise	140w	
+masula	1683	
+maturion rosalinux	5bn4	
+meciclis	6faq	
+miletus	19qv,6acn	
+miletus butterfly	6acn	
+miletus genus	6acn	
+miletus in the middle ages	19qv	
+miletus philosophy	19qv	
+montgazin	332h	
+montrieux		3qre:3
+montrieux en		3qre:3
+montrieux en sologne	3qre	
+morawica commune	1avw	
+mosques	qy	
+nanbh	1bvy	
+new concorde	1vtt	
+ovyng s hostel cambridge	gx	
+paganity	20yy	
+peter ferdinand drucker	3pbe	
+peter gantzler	4noj	
+pomacanthus	6aq7	
+pomeroy	3cqo	
+pomeroy oh	3cqo	
+pomeroy ohio	3cqo	
+postscript	31j4	31j4:3
+postscript 3	31j4	
+postscript programming		31j4:3
+postscript programming language	31j4	
+pta	268o	
+pteromalidae	44og	
+raschau		5dkx:2
+raschau markersbach	5dkx	
+rhatische bahn	8u3	
+richerenches	2h7k	
+rodion		orw:2,18xx:2,47tj:2,5l8t:2,6hgy:3
+rodion dyachenko	50oy	
+rodion jakovlevic malinovskij	orw	
+rodion konstantinovich shchedrin	18xx	
+rodion kuzmin	47tj	
+rodion malinovsky	orw	
+rodion nakhapetov	5l8t	
+rodion raskolnikov	6hgy	
+rodion raskolnkov	6hgy	
+rodion romanovich		6hgy:3
+rodion romanovich raskolnikov	6hgy	
+rodion romanovitch raskolnikov	6hgy	
+rodion schedrin	18xx	
+rodion sergeyevich dyachenko	50oy	
+rodion shchedrin	18xx	
+rodion shehedrin	18xx	
+rodion yakovievich malinosky	orw	
+rodion yakovlevich malinovsky	orw	
+ron	r2	
+ron and diane	3srf	
+ron and tammys	62gq	
+ron aniello	6bof	
+ron artest	1m9o	
+ron asheton	3aos	
+ron b kitaj	65j8	
+ron baechle	1pe	
+ron barnes	5w3l	
+ron barnes footballer	5w3l	
+ron bass	1j13	
+ron behagen	3neg	
+ron blomberg	6h5r	
+ron bloomberg	6h5r	
+ron bracewell	5uhx	
+ron braunstein	1j7l	
+ron brewer	4m7u	
+ron brown	4s57	
+ron brown u s politician	4s57	
+ron browz	4w0m	
+ron bumblefoot		359k:3
+ron bumblefoot thal	359k	
+ron canada	3hy8	
+ron carey	41ac	
+ron carey actor	41ac	
+ron carter	1h2o	
+ron chernow	439v	
+ron clarke	46nr	
+ron clarke ald william	46nr	
+ron clements	24zf	
+ron crisp	6bdo	
+ron davies	2qx0,5mxs	
+ron davies british politician	5mxs	
+ron davies footballer born 1942	2qx0	
+ron davies welsh politician	5mxs	
+ron decker	2yhr	
+ron dellow	5rho	
+ron dellums	486v	
+ron dellums comments	486v	
+ron desantis	5syd	
+ron drever	4yd4	
+ron eldard	1oyk	
+ron ellis	3qyg	
+ron ellis basketball	3qyg	
+ron elving	qhx	
+ron ernest paul	25lb	
+ron fairway	56nx	
+ron fearon	3zql	
+ron ficarro	3fz4	
+ron first name	r2	
+ron flockhart	3c7v	
+ron flockhart auto racer	3c7v	
+ron flockhart auto racing	3c7v	
+ron flockhart racing driver	3c7v	
+ron flowers	4xc7	
+ron fogleman	6bh5	
+ron foos	49iu	
+ron fortunato	6a1b	
+ron frederick geesin	5sb9	
+ron futcher	2xzs	
+ron garan	2sf9	
+ron garcia	5vfj	
+ron geesin	5sb9	
+ron gilbert	2mvx	
+ron given name	r2	
+ron glass	40na	
+ron goodwin	l5k	
+ron graham mathematician	1qki	
+ron grainer	17ve	
+ron grainier	17ve	
+ron grandison	2yns	
+ron green	626b	
+ron green footballer	626b	
+ron harbertson	5kf5	
+ron harper	3yzx	
+ron harris detective	18wu	
+ron harry potter	3brw	
+ron hewitt	3ht3	
+ron hewitt footballer born 1928	3ht3	
+ron howard	8tf	
+ron howard american director	8tf	
+ron howard director	8tf	
+ron howard films	8tf	
+ron hubbard	h5v	
+ron husband	427y	
+ron hyatt	u2z	
+ron j livingston	17v8	
+ron jemery hyatt	u2z	
+ron jeremy	u2z	
+ron jeremy comments	u2z	
+ron jeremy hyatt	u2z	
+ron johnson	53vh	
+ron johnson baseball	53vh	
+ron johnson manager	53vh	
+ron kind	65p3	
+ron kitaj	65j8	
+ron klemencic	1gns	
+ron koperli	6bh7	
+ron kovic	64y2	
+ron l hubbard	h5v	
+ron lauder	29r3	
+ron lea	42ku	
+ron leavitt	553t	
+ron leibman	1cdc	
+ron lewis	500k	
+ron lewis basketball	500k	
+ron liebman	1cdc	
+ron livingston	17v8	
+ron ludington	5ryp	
+ron macfarlane	hum	
+ron mann	5gdn	
+ron mcnair	4ai0	
+ron mcquilter	3vej	
+ron mercer	4bfv	
+ron miller	n10	
+ron moodnick	1pol	
+ron moody	1pol	
+ron moore	3dsb	
+ron moore basketball	3dsb	
+ron n bracewell	5uhx	
+ron negrita joventut	anh	
+ron nevison	2o9c	
+ron newman cup	plg	
+ron nyswaner	5lar	
+ron o		28d7:3
+ron o neal	28d7	
+ron oliver	47vq	
+ron oneal	28d7	
+ron oxburgh	4y5f	
+ron paul	25lb	
+ron paul campaign	25lb	
+ron paul channel	25lb	
+ron paul newsletter controversy	25lb	
+ron pearlman	cyr	
+ron perelman	5p70	
+ron perlman	cyr	
+ron peter vlaar	51rq	
+ron prescott reagan	4aov	
+ron randell	y64	
+ron reagan	4aov	
+ron reagan jr	4aov	
+ron regan	4aov	
+ron regan jr	4aov	
+ron rifkin	1ij1	
+ron rivest	1j5i	
+ron robert		3i8l:3
+ron robert zieler	3i8l	
+ron ross	3a8j	
+ron roth	17ik	
+ron rowan	2v3h	
+ron santo	63t9	
+ron saunders	5t1f	
+ron sega	3en3	
+ron serling	7x1	
+ron sexmith	1715	
+ron sexsmith	1715	
+ron shelton	1vs8	
+ron silver	ogn	
+ron sinclair	1q7k	
+ron skip greer	14kb	
+ron smith	52kl,5lv7	
+ron smith defensive back	5lv7	
+ron smith footballer born 1936	52kl	
+ron sommer	ids	
+ron springett	4wd6	
+ron sterling	7x1	
+ron suskind	5rmg	
+ron sutter	39j5	
+ron tammys	62gq	
+ron thal	359k	
+ron the ref	4pe	
+ron tugnutt	60rx	
+ron underwood	11cx	
+ron v dellums	486v	
+ron vale	6aog	
+ron villone	5fgo	
+ron villone jr	5fgo	
+ron vlaar	51rq	
+ron w		n10:3
+ron w miller	n10	
+ron w miller comments	n10	
+ron washington	6bb2	
+ron wasserman	5m96	
+ron weasley	3brw	
+ron weiner	5jpz	
+ron white	2gfw	
+ron widen	3wdn	
+ron wigg	5k4i	
+ron william howard	8tf	
+ron williams	4iih	
+ron williams basketball	4iih	
+ron wood	11fl	
+ron wycherly	5z4v	
+ron wyden	3wdn	
+ron yeats	4elj	
+ruesselsheim	nux	
+ruesselsheim germany	nux	
+saint bede the venerable	2h0d	
+saint die	fqg	fqg:4
+saint die des		fqg:4
+saint die des vosges	fqg	
+sampson	ymb	194f:2
+sampson anthony	53v2	
+sampson county	194f	
+sampson county nc	194f	
+sampson county north carolina	194f	
+sampson first name	ymb	
+sampson given name	ymb	
+sampson king	1d85	
+sardieu	41cp	
+scheele		hbi:2
+scheele award	hbi	
+scotish clan	6mj	
+scotish clans	6mj	
+scotish fa	5nio	
+scotish football association	5nio	
+scotish national football team	12x	
+scotish national party	5fm	
+scotish parliament	3zf5	
+seddon richard	3kt6	
+shotts	2alz	
+shotts west lothian	2alz	
+shotts west lothian scotland	2alz	
+shurochkina maria	3m7c	
+soapbubble superstructure of galactic walls	572a	
+stay	3x3q,4zx4	1ebp:4,1mjp:2,1zgm:2,2001:2,43ms:2,4zqf:3,4zx4:4
+stay 2005 film	3x3q	
+stay 2006 film	5rl2	
+stay alive	1zgm	
+stay alive jose gonzalez song	3jl6	
+stay alive movie	1zgm	
+stay as		1ebp:4
+stay as you		1ebp:4
+stay as you are	1ebp	
+stay awake short story	3hwt	
+stay awake story	3hwt	
+stay away nirvana song	1ma8	
+stay bridge	849	
+stay cool	43ms	
+stay faraway		4zx4:4
+stay faraway so		4zx4:4
+stay faraway so close	4zx4	
+stay frosty	6g25	
+stay hungry	2001	
+stay hungry film	2001	
+stay madonna song	39k6	
+stay open diplo song	mc4	
+stay open song	mc4	
+stay stay stay taylor swift song	3r90	
+stay the night mariah carey song	4pz9	
+stay the way you are	1ebp	
+stay tuned	1mjp	
+stay tuned film	1mjp	
+stay tuned soundtrack	1mjp	
+stay with		4zqf:3
+stay with me	4zqf	
+stay with me ken hirai	13e4	
+stay with me sam smith song	4zqf	
+stay with me tonight quiet riot song	1ork	
+stilfs	2xsv	
+stilfs stelvio	2xsv	
+strade		2al1:2
+strade bianche	2al1	
+strade bianche eroica pro	2al1	
+struct algol 68	4pmc	
+struct c sharp	8vw	
+supercharge enter shikari song	v5z	
+surinam national football team	8mw	
+syllythria	3vq	
+teatro		4xdc:2
+teatro alla scala	1k12	
+teatro alla scala di milano	1k12	
+teatro buffo	10l9	
+teatro bufo	10l9	
+teatro de ulises	4xdc	
+teatro ulises	4xdc	
+theodoros	o6a	2huz:2,2puf:2,36iz:3,3co0:2,41dy:2,455r:3,4dsu:2,55f9:2,5cws:2,5pwv:2,5tw1:2,5yvn:2,62yh:2,6ebg:2
+theodoros angelopoulos	n9c	
+theodoros deligiannis	5cws	
+theodoros delyanni	5cws	
+theodoros dhiliyiannis	5cws	
+theodoros diligiannis	5cws	
+theodoros first name	o6a	
+theodoros given name	o6a	
+theodoros i komnenos laskaris	52vf	
+theodoros i laskaris	52vf	
+theodoros ii		36iz:3
+theodoros ii palaiologos	36iz	
+theodoros katsanevas	55f9	
+theodoros kolokotronis	2puf	
+theodoros metochites	5yvn	
+theodoros of epirus	2h51	
+theodoros pakaltsis	6ebg	
+theodoros palaiologos marquess of montferrat	4ml8	
+theodoros pangalos	3co0,4dsu	
+theodoros pangalos general	3co0	
+theodoros pangalos pasok mp	4dsu	
+theodoros pangalos politician	4dsu	
+theodoros papaloukas	27ve	
+theodoros roussopoulos	62yh	
+theodoros skylakakis	5pwv	
+theodoros the		455r:3
+theodoros the atheist	455r	
+theodoros tripotseris	5tw1	
+theodoros velkos	41dy	
+theodoros zagorakis	2huz	
+trainees	3xop	
+unfao	1y9o	
+varkonyi zoltan	361n	
+vezels		2sbg:2
+vezels roussy	2sbg	
+william knowlton	4ruw	
+zetsu	18k2	
+zetsu song	18k2	
+zhen di	2nyd	
+zhen pol friderik rikhter	31ro	
+zhen zidan	k59	
+zhen zong	35r8	
+zhongguo	1a	
+zhongguo dalu	6fqi	
+zhongguo dongfang hangkong gufen youxian gongsi	1maz	
+zhongguo gongchan dang	vp	
+zhongguo gongchandang	vp	
+zhongguo gongchandang zhongyang weiyuanhui zongshuji	3li0	
+zhongguo guoji hangkong	y95	
+zhongguo guoji hangkong gongsi	y95	
+zhongguo guomindang gemingweiyuanhui	1fdh	
+zhongguo renmin daxue	15rr	
+zhongguo renmin jiefang jun	1b17	
+zhongguo renmin jiefangjun haijun	76z	
+zhongguo renmin jiefangjun kongjun	1083	
+zhongguo she hui ke xue chu ban she	34yr	
+zhongguo shehui kexue chubanshe	34yr	
+zhongguo shehui kexueyuan	34yr	
+zhongguo sheke chubanshe	34yr	
+zhongguo shihua	599d	
+zhongguo shiyou tianranqi jituan gongsi	22ug	
+zhongguo wenhua daxue	4mdk	
+zhongguo yidong tongxin	4aq1	
+zhongguo yinhang	3cmx	
+zhongguo zhongyang dianshitai	vsb	
+zhongguo zuqiu xiehui chaoji liansai	xpa	
+zhongguo zuqiu xiehui jiaji liansai	139b	

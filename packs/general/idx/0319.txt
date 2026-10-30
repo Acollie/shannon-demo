@@ -1,0 +1,438 @@
+acnl	5tjv	
+alexander solzhenitsyn	nc0	
+allahabad	6g7	493j:3
+allahabad district	1058	
+allahabad rural		493j:3
+allahabad rural district	493j	
+allahabad university	6zh	
+allahabad uttar pradesh	6g7	
+ametroptila	63kj	
+andronikos		1b5b:3,31x1:3,48gd:5,4fxi:3,4lzv:2,4s4e:3
+andronikos i		4s4e:3
+andronikos i komnenos	4s4e	
+andronikos i komninos	4s4e	
+andronikos ii		1b5b:3
+andronikos ii palaiologos	1b5b	
+andronikos iii		31x1:3
+andronikos iii palaiologos	31x1	
+andronikos iii paleologos	31x1	
+andronikos iv		4fxi:3
+andronikos iv palaiologos	4fxi	
+andronikos komnenos	4lzv	
+andronikos komnenos sebastokrator	4lzv	
+andronikos komnenos son of john ii	4lzv	
+andronikos komnenos son of john ii komnenos	4lzv	
+andronikos palaiologos		48gd:5
+andronikos palaiologos despot	48gd	
+andronikos palaiologos lord		48gd:5
+andronikos palaiologos lord of		48gd:5
+andronikos palaiologos lord of thessalonica	48gd	
+andronikos palaiologos lord of thessalonike	48gd	
+andronikos palaiologos lord of thessaloniki	48gd	
+andronikos palaiologos son of manuel ii	48gd	
+andronikos v palaiologos lord of thessalonike	48gd	
+anemarrhenaceae	2ih1	
+animu	1qn	
+arianna		1jqc:2
+arianna dumbeldore	3n6c	
+arianna grande	jqr	
+arianna huffington	1jqc	
+arianna name	5clk	
+arianna s huffington	1jqc	
+arianna stassinolpoulos	1jqc	
+arianna stassinopoulos	1jqc	
+arianna stassinopoulos huffington	1jqc	
+bastilji	394j	
+batatyachi chaal	3jry	
+batatyachi chal	3jry	
+batatyachi chawl	3jry	
+bernadette		iu5:2,11vi:2,63kp:2
+bernadette chirac	63kp	
+bernadette chodron de courcel	63kp	
+bernadette cooper	2ss6	
+bernadette lafont	iu5	
+bernadette lazzara	11vi	
+bernadette o brien	c26	
+bernadette peters	11vi	
+bernadette therese marie chirac	63kp	
+bernadette therese marie chodron de courcel	63kp	
+berrigan	1hzf	1hzf:2
+berrigan shire	1hzf	
+berrigan shire council	1hzf	
+besloten		f7f:2
+besloten vennootschap	f7f	
+besloten vennootschap met beperkte aansprakelijkheid	f7f	
+betun	kk5	
+billlu	3sb4	
+boundaries	85c	
+boundaries and federation commission	5uub	
+boundaries of europe	e0	
+boundaries of imagination	n74	
+breechloader	3xc3	
+brink	1kfp	4r6k:3
+brink film	1kfp	
+brink of		4r6k:3
+brink of life	4r6k	
+brink s job	1bug	1bug:4
+burggaillenreuth	4jjm	
+caixer	1036	
+capuronetta	bmi	
+cardiffians	17m	
+cavallirio	4pgk	
+chagangdo	1li3	
+chinamieville	i88	
+chitcharoen	1z41	
+chlamidia	1wt5	
+chrysi avgi	5f71	
+chrysi avyi	5f71	
+chungcheng district	1lm8	
+corvids	2vn8	
+courseulles	1jce	1jce:3
+courseulles sur		1jce:3
+courseulles sur mer	1jce	
+dakovo	2oly	
+darlastun	3izb	
+dematteis j m	3exs	
+diasporas	bpo	
+dibdin charles	37i6	
+dibdin michael	2q1e	
+dzsoko roszics	3ygi	
+edward augustine st aubyn harney	5vqc	
+edward bell actor	147n	
+eike		3u91:2
+eike immel	3u91	
+electrogrind	98z	
+endorelation	3c5y	
+erton	4nlc	4nlc:2
+erton fejzullahu	4nlc	
+europop	cd7	
+fc lustenau	f7x	f7x:3
+fc lustenau 07	f7x	
+fc lustenau 1907	f7x	
+flancourt		31eb:2
+flancourt catelon	31eb	
+galatzi	6nr	
+garganvillar	1gd6	
+garravet	2ee1	
+genlis	1izh	
+genlis cote d or	1izh	
+george boleyn	3jkt	3jkt:4
+george boleyn 2nd viscount rochford	3jkt	
+george boleyn viscount		3jkt:4
+george boleyn viscount rochford	3jkt	
+germonville	3lz5	
+gmina mykanow	nsx	
+goole	2vb2	cdh:4,2nmt:4
+goole a		cdh:4
+goole a f		cdh:4
+goole a f c	cdh	
+goole a f c comments	cdh	
+goole afc	cdh	
+goole comments	2vb2	
+goole east riding of yorkshire	2vb2	
+goole f c	cdh	
+goole shipyards f c	2nmt	
+goole town	cdh	2nmt:4
+goole town f		2nmt:4
+goole town f c	2nmt	
+grenado	p3p	
+hautecloque	1p1r	
+hautecloque pas de calais	1p1r	
+henry cihoski	37kx	
+hochstatt	17ce	
+hornbeck william	1bx8	
+hyges von der goes	3y63	
+ianaul skii raion	58l5	
+ianaul skiy raion	58l5	
+ianaul sky	58l5	
+ichiban		2wgx:2
+ichiban records	2wgx	
+james byron dean	1gll	
+james mcneill		16id:3
+james mcneill whistler	16id	
+jaroka livia	6dud	
+jixi	1nqo	
+jixi heilongjiang	1nqo	
+john stuart	jei,172i	w6x:3,172i:6,1q0n:6,3ebt:5,47nl:6,5skw:3
+john stuart 1st		1q0n:6
+john stuart 1st marquess		1q0n:6
+john stuart 1st marquess of		1q0n:6
+john stuart 1st marquess of bute	1q0n	
+john stuart 1st marquis of bute	1q0n	
+john stuart 3d earl of bute	172i	
+john stuart 3rd		172i:6
+john stuart 3rd earl		172i:6
+john stuart 3rd earl of		172i:6
+john stuart 3rd earl of bute	172i	
+john stuart actor	jei	
+john stuart bell	24io	
+john stuart blackton	mm6	
+john stuart earl of bute	172i	
+john stuart lord		3ebt:5
+john stuart lord mount		3ebt:5
+john stuart lord mount stuart	3ebt	
+john stuart marquess of bute	1q0n	
+john stuart mcmillan	5a98	
+john stuart mill	w6x	
+john stuart mills	w6x	
+john stuart robertson	p6p	
+john stuart third earl of bute	172i	
+john stuart twist	24ni	
+john stuart williams	5skw	
+john stuart wortley		47nl:6
+john stuart wortley 2nd		47nl:6
+john stuart wortley 2nd baron		47nl:6
+john stuart wortley 2nd baron wharncliffe	47nl	
+john stuart wortley mackenzie 2nd baron wharncliffe	47nl	
+johnkerry com	qsx	
+kagisho		4jlz:2
+kagisho dikgacoi	4jlz	
+kagisho evidence dikgacoi	4jlz	
+karamshir	bbl	
+kenavo word	f1f	
+le lauzet		1lm4:3
+le lauzet ubaye	1lm4	
+leigad cowboy	20t1	
+lic benito juarez international	1plu	
+lyner david	561d	
+martii ahtisaari	1ux0	
+maulvi bazar district	1p94	
+megalithism	26fp	
+menkaure	4ndm	
+mercanary	mvm	
+michael hefele	583m	
+michael padge paget	wru	
+miggeldy higens	15vy	
+montecastrilli	2cmw	
+nammakal	42rq	
+nanto	3yha	
+nanto county	whw	
+nanto italy	3yha	
+nanto veneto	3yha	
+napoleonic	9cg	uk:2
+napoleonic army	43q2	
+napoleonic campaigns	uk	
+napoleonic empire	jdx	
+napoleonic empire wars	uk	
+napoleonic france	jdx	
+napoleonic french soldiers	43q2	
+napoleonic italian republic	5ndp	
+napoleonic italy	35eh	
+napoleonic kingdom of italy	35eh	
+napoleonic kingdom of naples	kzl	
+napoleonic kingdom of naples napoleonic	kzl	
+napoleonic kingdom of sicily	kzl	
+napoleonic occupation of rome	35eh	
+napoleonic republic of italy	5ndp	
+napoleonic war	uk	
+napoleonic war and participants	uk	
+napoleonic warfare	uk	
+napoleonic wars	uk	
+neurazy	3ke3	
+nizhagal ravi	1bcc	
+noboribetsu	5mge	
+noboribetsu hokkaido	5mge	
+nobuhiro	2lo0	4nyf:2,4vrx:2,5wns:2
+nobuhiro first name	2lo0	
+nobuhiro given name	2lo0	
+nobuhiro kiyotaki	4nyf	
+nobuhiro oda	39sc	
+nobuhiro takeda	4vrx	
+nobuhiro yamashita	5wns	
+ouderkerk	5luo	
+pergamene	393l	
+peter first name	4z	
+petercetera	1uu0	
+pierreval	2wls	
+possessors	11dk	11dk:2
+rainwort miners welfare f c	5jka	
+rantzwiller	2w6h	
+reu river	3myq	
+reu weida	1xn0	
+richard asa hartford	3vcy	
+richebourg	1cvi,1l4h,2299	
+richebourg haute marne	1l4h	
+richebourg pas de calais	1cvi	
+richebourg saint vaast	1cvi	
+richebourg yvelines	2299	
+rohozec	3dff	
+rohozec kutna hora district	3dff	
+rrosbanen	3do5	
+rytu prusija	dwc	
+safien	zp4	
+safien gr	zp4	
+safien graubuenden	zp4	
+safien graubunden	zp4	
+safien grisons	zp4	
+safien kreis	zp4	
+safien kries	zp4	
+safien switzerland	zp4	
+sasannach	6gzo	
+schoolhouse of saint gonlay	2gs5	
+seamine	4vfw	
+setsu	10kf	
+shawne		4v20:2
+shawne brian williams	4v20	
+shawne williams	4v20	
+shiite beliefs	1wb	
+shiite insurgency in yemen	12yz	
+shinejob	210w	
+sicalis	6aoz	
+sidorczuk	5sif	
+sigisoara	nq5	
+sissors	4i6j	
+slotsholmen	55p0	
+stews	f5j	
+sulechow	2tut	
+sulechow commune	s0y	
+suwon	e3n	54q:4,gl7:2,3rdm:2
+suwon airfield	e3n	
+suwon blue wings	54q	
+suwon bluewings	54q	
+suwon city	e3n	
+suwon city fc	gl7	
+suwon city football club	gl7	
+suwon city government fc	gl7	
+suwon city hall	gl7	
+suwon fc	gl7	
+suwon puwan	e3n	
+suwon samsung	54q	54q:4
+suwon samsung bluewings	54q	54q:4
+suwon samsung bluewings f c	54q	
+suwon samsung bluewings fc	54q	
+suwon samsung bluewings football club	54q	
+suwon si	e3n	
+suwon south korea	e3n	
+suwon station	3rdm	
+taketatsu	v93	
+taketatsu ayana	v93	
+temoc		561i:2
+temoc suarez	561i	
+the norse sagas	1o8h	
+the warsaw ghetto uprising	2ve5	
+the warsaw pact	3zct	
+the warsaw uprising	1m64	
+the whosoevers	4t7v	
+toojoo hideki	2v9r	
+trophonopsis	4pb0	
+tunhwang	48r4	
+tutenkhamen	1i77	
+ubermensch	ron	
+valduggia	23wf	
+vandre	2unu	5tks:3
+vandre charente maritime	2unu	
+vandre monteiro	5tks	
+vandre sagerillo monteiro	5tks	
+vandre sagrillo monteiro	5tks	
+vandre sagrilo		5tks:3
+vandre sagrilo monteiro	5tks	
+varshavsky alexander	2crn	
+viacheslav	v8c	1esb:2,2ton:2,3gsh:2,4hai:4,5kue:2
+viacheslav alexandrovich fetisov	1esb	
+viacheslav butsayev	22vu	
+viacheslav chornovil	2ton	
+viacheslav daev	4szl	
+viacheslav ekimov	3trt	
+viacheslav fetisov	1esb	
+viacheslav first name	v8c	
+viacheslav ganelin	4buh	
+viacheslav given name	v8c	
+viacheslav horbanenko	62tz	
+viacheslav i	4hai	4hai:4
+viacheslav i of		4hai:4
+viacheslav i of kiev	4hai	
+viacheslav i vladimirovich	4hai	
+viacheslav ivanovich ivanov	3pyr	
+viacheslav kernozenko	5kue	
+viacheslav kovneristov	5pcw	
+viacheslav lychkin	20ga	
+viacheslav lytchkin	20ga	
+viacheslav maltsev	5tor	
+viacheslav menzhinsky	43uv	
+viacheslav mihailovich molotow	pwg	
+viacheslav mihailovich scryabin	pwg	
+viacheslav mihailovich skriabin	pwg	
+viacheslav mikhailovich scryabin	pwg	
+viacheslav mikhaylovich scryabin	pwg	
+viacheslav of kiev	4hai	
+viacheslav petrovich volgin	3gsh	
+viacheslav scryabin	pwg	
+viacheslav skryabin	pwg	
+viacheslav slava alexandrovich fetisov	1esb	
+viacheslav slava fetisov	1esb	
+viacheslav starshinov	54gu	
+viacheslav sukristov	3zu1	
+viacheslav vladimirovich	4hai	
+viacheslav volgin	3gsh	
+vow	6agu	1f1c:2
+vow of poverty	2yrk	
+vrbatuv		3xm4:2
+vrbatuv kostelec	3xm4	
+warship	il6	
+warship doc	2x	
+warship game	1fa4	
+warship simulation	1fa4	
+westmark trier	7r9	
+wren	69ql	
+wren christopher	e8q	
+wren cristopher	e8q	
+wren family	69ql	
+wren keasler	3t3r	
+wren matthew	5lpd	
+wren s world	53qq	
+xylariaceaous	hzp	
+yosri		6aji:3
+yosri derma		6aji:3
+yosri derma raju	6aji	
+zhou	51k,7hb	w35:2,12mh:2,1kbl:2,486d:2,4v95:2,4wea:2,5lc6:2
+zhou administrative division	7hb	
+zhou administrative region	7hb	
+zhou administrative subdivision	7hb	
+zhou baihao	5dsz	
+zhou bi chang	4te2	
+zhou bichang	4te2	
+zhou bohao	5dsz	
+zhou caiqin	2zic	
+zhou chinese administrative division	7hb	
+zhou chinese province	7hb	
+zhou country subdivision	7hb	
+zhou dynasty	w35	
+zhou dynasty 1122 bc 256 bc	w35	
+zhou dynasty 690 705 ad	1wwl	
+zhou dynasty 690 ad 705 ad	1wwl	
+zhou empire	w35	
+zhou en lai	1kbl	
+zhou enlai	1kbl	
+zhou enlai comments	1kbl	
+zhou gong	3sh2	
+zhou gong dan	3sh2	
+zhou haodong	5lc6	
+zhou huajian	3fpg	
+zhou jie lun	n4m	
+zhou jielun	n4m	
+zhou king wu	3jsp	
+zhou kingdom	w35	
+zhou long	4wea	
+zhou mi	486d	
+zhou mi badminton	486d	
+zhou political division	7hb	
+zhou prefecture	7hb	
+zhou province	7hb	
+zhou region	7hb	
+zhou ritual system	w35	
+zhou run fa	fwk	
+zhou runfa	fwk	
+zhou shiming	56im	
+zhou shuren	1fgj	
+zhou state	w35	
+zhou surname	51k	
+zhou wen wang	44ag	
+zhou wenwang	44ag	
+zhou wu wang	3jsp	
+zhou wuwang	3jsp	
+zhou xingchi	gf4	
+zhou xun	12mh	
+zhou yaoping	4v95	
+zhou youguang	4v95	
+zhou ziyu	6gvk	
+zhou ziyu singer	6gvk	

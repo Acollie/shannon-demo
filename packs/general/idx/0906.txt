@@ -1,0 +1,391 @@
+1950	17vf	3lv:4,u7d:4,2n3t:4,40tp:4,4mg4:2
+1950 1959	137l	
+1950 51		2n3t:4
+1950 51 cypriot		2n3t:4
+1950 51 cypriot cup	2n3t	
+1950 51 cypriot first division	312q	
+1950 ad	17vf	
+1950 british		u7d:4,40tp:4
+1950 british empire		u7d:4
+1950 british empire games	u7d	
+1950 british empire games medal count	u7d	
+1950 british grand		40tp:4
+1950 british grand prix	40tp	
+1950 ce	17vf	
+1950 commonwealth games	u7d	
+1950 ekstraklasa	4mg4	
+1950 empire games	u7d	
+1950 federation internationale de football association world cup	3lv	
+1950 fifa		3lv:4
+1950 fifa world		3lv:4
+1950 fifa world cup	3lv	
+1950 s	137l	
+1950 sam collier memorial sebring grand prix of endurance six hours	gfp	
+1950 world cup	3lv	
+1950 year	17vf	
+3drealms	1usa	
+abdelhamid		3fsd:3,4sbx:2,5jhp:2
+abdelhamid abaaoud	4sbx	
+abdelhamid disambiguation	1c44	
+abdelhamid el		3fsd:3
+abdelhamid el kaoutari	3fsd	
+abdelhamid kermali	5jhp	
+aitorma	864	
+aleatory materialism	17hm	
+aluliina	40pw	
+andrai		6dvg:2
+andrai jones	6dvg	
+aonghus		64tn:2
+aonghus mac seamus mac domhnuill 8th of dunnyveg	28r1	
+aonghus mor	64tn	
+aonghus mor mac domhnaill	64tn	
+aonghus mor of islay	64tn	
+aulard	44we	
+ayodya	2njt	
+b12 deficiency anemia	2vuu	
+barinque	1vse	
+beijingxi railway station	1oac	
+beltline freeway	o7y	
+bengal	byh	16qc:5,1k39:2,5cgj:2,5tw3:2
+bengal bay	i6d	
+bengal bay of	i6d	
+bengal brigade	5cgj	
+bengal film		16qc:5
+bengal film journalists		16qc:5
+bengal film journalists association	16qc	16qc:5
+bengal film journalists association award	16qc	
+bengal film journalists association awards	16qc	
+bengal india	byh	
+bengal language	oa	
+bengal national college	job	
+bengal pakistan	uls	
+bengal presidency	1k39	
+bengal province	1k39	
+bengal rail	2qjo	
+bengal region	byh	
+bengal rifles	5cgj	
+bengal river	47oj	
+bengal state	155	
+bengal sultanate	4x1x	
+bengal tiger	5tw3	
+bengal tiger 1936 film	5tw3	
+bengal west	155	
+bithynians	5kpk	
+bleidenstadt	3pqk	
+blewitt david	3par	
+brebbia	46gj	
+buffalo	zk,2xcn	18r:2,28l:2,kyw:2,lki:2,ltv:4,s20:2,s93:2,zih:11,1fr5:2,1jua:2,1rro:4,1s0n:2,1vbw:2,1xl6:7,3690:2,3btv:2,3kv9:2,3lp7:2,3pcc:2,4e83:2,5uzn:2
+buffalo 66	1jua	
+buffalo akg		ltv:4
+buffalo akg art		ltv:4
+buffalo akg art museum	ltv	
+buffalo bell	5fwn	
+buffalo bill	3btv,3pcc,5uzn	zih:11,1xl6:7
+buffalo bill and		zih:11
+buffalo bill and the		zih:11
+buffalo bill and the indians	zih	zih:11
+buffalo bill and the indians 1976 movie	zih	
+buffalo bill and the indians or		zih:11
+buffalo bill and the indians or sitting		zih:11
+buffalo bill and the indians or sitting bull		zih:11
+buffalo bill and the indians or sitting bull s		zih:11
+buffalo bill and the indians or sitting bull s history		zih:11
+buffalo bill and the indians or sitting bull s history lesson	zih	
+buffalo bill character	5uzn	
+buffalo bill cody	3pcc	
+buffalo bill cody s wild west show	3pcc	
+buffalo bill comments	3pcc	
+buffalo bill fictional serial killer	5uzn	
+buffalo bill film	3btv	
+buffalo bill hero		1xl6:7
+buffalo bill hero of		1xl6:7
+buffalo bill hero of the		1xl6:7
+buffalo bill hero of the far		1xl6:7
+buffalo bill hero of the far west	1xl6	
+buffalo bill jr actor	40ro	
+buffalo bill jr film series	40ro	
+buffalo bill junior	40ro	
+buffalo bill l eroe del far west	1xl6	
+buffalo bill s wild west	3pcc	
+buffalo bill s wild west show	3pcc	
+buffalo bill the silence of the lambs	5uzn	
+buffalo bill this silence of the lambs	5uzn	
+buffalo bills	18r	
+buffalo bills roster	18r	
+buffalo bills wall of fame	18r	
+buffalo bisons nbl	23b	
+buffalo blizzard	lki	
+buffalo braves	2ri	
+buffalo butt	4she	
+buffalo city	1rro	1rro:4
+buffalo city local municipality	1rro	
+buffalo city metro	1rro	
+buffalo city metropolitan		1rro:4
+buffalo city metropolitan municipality	1rro	
+buffalo city municipality	1rro	
+buffalo city municipality eastern cape	1rro	
+buffalo city united states	zk	
+buffalo county	kyw,s20,3kv9	
+buffalo county ne	s20	
+buffalo county nebraska	s20	
+buffalo county sd	3kv9	
+buffalo county south dakota	3kv9	
+buffalo county wi	kyw	
+buffalo county wisconsin	kyw	
+buffalo cross roads pennsylvania	qud	
+buffalo dreams	4e83	
+buffalo fine arts academy	ltv	
+buffalo flash	9xm	
+buffalo girls	1fr5	
+buffalo girls 1995 film	1fr5	
+buffalo girls miniseries	1fr5	
+buffalo girls tv movie	1fr5	
+buffalo gnat	6f9x	
+buffalo grove	1s0n	
+buffalo grove il	1s0n	
+buffalo grove illinois	1s0n	
+buffalo horn pass	yna	
+buffalo lockport railroad	1jw0	
+buffalo man	kex	
+buffalo n y	zk	
+buffalo new york	zk	
+buffalo new york state	zk	
+buffalo new york usa	zk	
+buffalo ny bills	18r	
+buffalo oxen	2xcn	
+buffalo plains state	fm	
+buffalo sabers	28l	
+buffalo sabres	28l	
+buffalo soldiers	1vbw	
+buffalo soldiers 2001 film	1vbw	
+buffalo soldiers film	1vbw	
+buffalo spring feild	3lp7	
+buffalo spring field	3lp7	
+buffalo springfield	3lp7	
+buffalo springfield revisited	3lp7	
+buffalo stallions	s93	
+buffalo stampede film	53x8	
+buffalo state university	247	
+buffalo state university of new york	247	
+buffalo testicles	5vvu	
+buffalo tom	3690	
+buffalo trails	2xcn	
+buffalo u s	zk	
+buffalo us	zk	
+buffalo williams	18r	
+bunyol	314m	
+candijay	297q	297q:2
+candijay bohol	297q	
+cannarsa	4qg8	
+carrache annibal	176h	
+cesinha	39i8	
+cesinha footballer born 1989	5zfm	
+charles duncan michener	5y6j	
+chojna	m2e	
+chojna commune	nwe	
+chrisette		2bxz:2
+chrisette michele	2bxz	
+chrisette michelle	2bxz	
+clairac	1q5l	
+claton pitcher	38h1	
+cmoh	gg	
+combine	6hu8	
+combine advisor	6hu8	
+combine company	tfn	
+combine empire	6hu8	
+combine half life	6hu8	
+combine half life 2	6hu8	
+combine music	arj	
+combine music group	arj	
+correggia	gxs	
+credance clearwater revival	mr7	
+damo motasheel	3i89	
+darlanne		30rn:2
+darlanne fleugel	30rn	
+darlanne fluegel	30rn	
+david adjei	647j	
+dolf lundgren	h9m	
+dolf seilacher	5hhg	
+edward ryds smigly	27it	
+eisenbud david	5ym9	
+fc midtjylland	71v	
+fc midtjylland handbold	3qfu	
+feedle	32ql	
+florencio		3vcx:2
+florencio amarilla	3vcx	
+florencio cabre xavier	3klm	
+florencio xavier	3klm	
+garar		3shz:2
+garar gunnlaugsson	3shz	
+garnerans	1qwn	
+generational cohorts	3pz	
+giacchino michael	akx	
+giacchino puccini	po0	
+giacchino rossini	cs4	
+giussepe arcimboldo	2eyv	
+giussepe garibaldi	svr	
+gmina ysomice	1agj	
+gonatoparian suture	30f	
+hailies song	4x7b	
+hardrada	60bi	60bi:2
+hardrada dynasty	60bi	
+hquarters	1w0i	
+hyolin	4gcd	
+ichy	2g9e	
+industria borovsk	222s	
+industria de diseno textil s a	24kx	
+industria del matrimonio	4cm2	
+industria obninsk	222s	
+industria sarmei 1921 campia turzii	3j7i	
+industria sarmei campia turzii	3j7i	
+industria settlement	4mwl	
+ingvill flugstad oestberg	51rh	
+ivth olympic winter games	2ct	
+ivth republic	3uzg	
+james dorman weaver	5ti2	
+jauernig	2i7h	
+john cabrera	5nry	
+kawanishi	2m8s	
+kawanishi hyogo	2m8s	
+kelm	2dlg	
+khamene i	1225	
+klonopine	4v4n	
+kuninori prince kaya	3x2j	
+la fine del mondo nel nostro solito letto in una notte piena di pioggia	2cpr	
+la fine dell innocenza	2qnn	
+la fine e nota	405u	
+lameck michael	61et	
+lapd	af6	
+lapd hollenbeck division	af6	
+lapd medal for heroism	af6	
+lapd pacific division	af6	
+lapd west los angeles division	af6	
+lapd wilshire division	af6	
+le lou	h3d	3nz0:4
+le lou du		3nz0:4
+le lou du lac	3nz0	
+libpostproc	1joz	
+limavady	478w	
+liria	vsr	
+liria prizren	3j8o	
+loisail	2xl4	
+loriges	2vni	
+ludesse	3q9t	
+macrotheca	6f07	
+madremanya	4f15	
+magalla	3nzy	
+manjappada	mjc	
+manjappada fan club	mjc	
+mau5trap	3i5y	
+mau5trap records	3i5y	
+mau5trap ten year anniversary	3i5y	
+megeve	11t3	
+melleruds kommun	272s	
+menshn	4jfv	
+merciful angel	5i8c	
+merciful fate	43jo	
+micronodular basal cell carcinoma	6fp9	
+mironova maria	44tw	
+new dick van dyke show	4vrg	4vrg:6
+new testiment	arr	
+nograd		igw:2
+nograd county	igw	
+nordsen	2xl	
+octopods	3ly0	
+oroer	39pb	
+orthadox judaism	ujg	
+oyvind	lnb	
+oyvind leonhardsen	33wz	
+pantyrannosauria	40c6	
+parents	5ikg	
+parents 1989 film	5ikg	
+parents film	5ikg	
+parents terribles	5f45	
+parents weekend	4on7	
+paul steven	1n5j	
+paul steven jewell	60ha	
+paul steven jones	4c3u	
+perazhagan	6905	
+pervaiz musharraf	2826	
+planespottera320 sandbox aleksandr ivanovich babaev pilot	3rm6	
+planespottera320 sandbox georgi baevski	3vqq	
+planespottera320 sandbox pyotr bazanov	613d	
+pynchonian	1nwk	
+qemoy	22v4	
+qtv 11	1wer	
+qtv channel 11	1wer	
+qtv philippines	1wer	
+renazzo di cento	l2d	
+richard aldington	2wu4	
+robert pires	2d6r	
+rugen	15j8	
+rugen beach	15j8	
+rustenburg	16pk	3m4g:3
+rustenburg district	3m4g	
+rustenburg local		3m4g:3
+rustenburg local municipality	3m4g	
+rustenburg north west	16pk	
+saranggani	1pok	
+saranggani province	1pok	
+shebamiles	4ht0	
+siepraw commune	4xw5	
+spartacism	314u	
+stripperella	4sqe	
+syunic	50v	
+tallaght	67l7	
+the monitor lizard genus	idv	
+tip	4sjr	
+tip musician	9ve	
+tip nosed frog	vlq	
+tip nosed frogs	vlq	
+tip o		3do2:3
+tip o neal	3do2	
+tip o neill	3do2	
+tip o neill jr	3do2	
+tip of florida	6gx2	
+tip on		23dg:5
+tip on a		23dg:5
+tip on a dead		23dg:5
+tip on a dead jockey	23dg	
+tip oneill	3do2	
+tip t i harris	9ve	
+tomlab	3jgb	3jgb:2
+tomlab records	3jgb	
+treccani	1kfc	
+treccani doc	1kfc	
+treccani it	1kfc	
+trinoc	4qvd	
+tripunittura	2ulr	
+turntablism	1xu9	
+tyge brahe	10as	
+tyge ottesen	10as	
+tyge ottesen brahe	10as	
+urwah		49um:3
+urwah ibn		49um:3
+urwah ibn al zubayr	49um	
+urwah ibn zubayr	49um	
+veronese moth	18ej	
+vidya		vpa:2,57s5:2
+vidya balan	vpa	
+vidya sinha	57s5	
+villaroger	2oog	
+vizcayan	jhy	
+vororte	op5	
+wabasha		si0:2
+wabasha county	si0	
+wabasha county minnesota	si0	
+wabasha county mn	si0	
+waxy	4dfq	
+waxy cap	5i06	
+waxy caps	5i06	
+waxy horse	4dfq	
+waxy rice	rbz	
+whiteout	1yux	
+whiteout 2008 film	1yux	
+whiteout 2009	1yux	
+whiteout 2009 film	1yux	
+whiteout the cia drugs and the press	3fkb	
+william pereira	3pow	
+william pereira comments	3pow	
+yatch	wkz	
+yatch club	9is	

@@ -1,0 +1,522 @@
+1977	2eez,663u	f68:4,ixd:4,rri:7,x1o:7,zgl:7,1g6z:7,1ks3:5,1mtt:6,1muk:4,4hh4:4,4k7s:8,4t3s:4,5j3w:6,5of8:4
+1977 076a	106i	
+1977 084a	2m2w	
+1977 78		f68:4,1ks3:5
+1977 78 bundesliga	1wt2	
+1977 78 cypriot		f68:4,1ks3:5
+1977 78 cypriot cup	f68	
+1977 78 cypriot first division	xso	
+1977 78 cypriot second division	185v	
+1977 78 cypriot third		1ks3:5
+1977 78 cypriot third division	1ks3	
+1977 78 ekstraklasa	45c5	
+1977 78 fuball bundesliga	1wt2	
+1977 78 fussball bundesliga	1wt2	
+1977 ad	2eez	
+1977 amstel		1muk:4
+1977 amstel gold		1muk:4
+1977 amstel gold race	1muk	
+1977 ash album	663u	
+1977 badminton		rri:7,x1o:7,zgl:7,1g6z:7,1mtt:6,5of8:4
+1977 badminton world		rri:7,x1o:7,zgl:7,1g6z:7,1mtt:6,5of8:4
+1977 badminton world championships	5of8	rri:7,x1o:7,zgl:7,1g6z:7,1mtt:6
+1977 badminton world championships men		rri:7,x1o:7
+1977 badminton world championships men s		rri:7,x1o:7
+1977 badminton world championships men s doubles	rri	
+1977 badminton world championships men s singles	x1o	
+1977 badminton world championships mixed		1mtt:6
+1977 badminton world championships mixed doubles	1mtt	
+1977 badminton world championships women		zgl:7,1g6z:7
+1977 badminton world championships women s		zgl:7,1g6z:7
+1977 badminton world championships women s doubles	1g6z	
+1977 badminton world championships women s singles	zgl	
+1977 ce	2eez	
+1977 eurovision song contest	ow0	
+1977 iaaf		ixd:4,5j3w:6
+1977 iaaf world		ixd:4,5j3w:6
+1977 iaaf world cross		5j3w:6
+1977 iaaf world cross country		5j3w:6
+1977 iaaf world cross country championships	5j3w	
+1977 iaaf world cup	ixd	
+1977 ibf world championships	5of8	
+1977 ibf world championships men s doubles	rri	
+1977 ibf world championships men s singles	x1o	
+1977 ibf world championships mixed doubles	1mtt	
+1977 ibf world championships women s doubles	1g6z	
+1977 ibf world championships women s singles	zgl	
+1977 pacific		4hh4:4
+1977 pacific conference		4hh4:4
+1977 pacific conference games	4hh4	
+1977 seattle sounders season	b6d	
+1977 super bowl	6gqr	
+1977 superbowl	6gqr	
+1977 tampa bay rowdies season	8tu	
+1977 tokyo indoor	1v1j	
+1977 tour		4t3s:4
+1977 tour de		4t3s:4
+1977 tour de france	4t3s	
+1977 world		4k7s:8
+1977 world allround		4k7s:8
+1977 world allround speed		4k7s:8
+1977 world allround speed skating		4k7s:8
+1977 world allround speed skating championships		4k7s:8
+1977 world allround speed skating championships for		4k7s:8
+1977 world allround speed skating championships for women	4k7s	
+1977 world badminton championships	5of8	
+1977 world cup in athletics	ixd	
+1977 world cup of athletics	ixd	
+1977 year	2eez	
+8088	54gs	
+8088 microprocessor	54gs	
+abstractionist	569	
+achillies	1jhs	
+adventured of tintin	wne	
+alexander pavlovich		1p20:3
+alexander pavlovich alexandrov	3e7g	
+alexander pavlovich vinogradov	1p20	
+ankaraguecue	4i6	
+archail	3lis	
+atton	1rwj	
+aulas	3512	
+beghelli bologna	gg4	
+benedictus	4pdh,59pw	nt3:3
+benedictus caetani	59pw	
+benedictus david	5xn5	
+benedictus de		nt3:3
+benedictus de spinoza	nt3	
+benedictus first name	4pdh	
+benedictus given name	4pdh	
+benedictus pp xii	5huf	
+benedictus pp xiii	5491	
+benedictus pp xiv	5ci7	
+benedictus spinoza	nt3	
+benedictus xii	5huf	
+benedictus xiii	5491	
+benedictus xiv	5ci7	
+benedictus xv	3ag5	
+berdy		429d:2
+berdy kerbabayev	429d	
+bernolsheim	2hnk	
+botten		4x4f:2
+botten soot	4x4f	
+bouchamps		2voe:3
+bouchamps les		2voe:3
+bouchamps les craon	2voe	
+cardboard	2t1y	
+cardboard box metal gear	6g07	
+cardboard paper product	2t1y	
+carinacaris	1rk5	
+civitanovese		375x:2
+civitanovese calcio	375x	
+conglomerate	tfn,1xuo	
+conglomerate business	tfn	
+conglomerate companies	tfn	
+conglomerate company	tfn	
+conglomerate economics	tfn	
+conglomerate record label	1xuo	
+conglomerate records	1xuo	
+david delassus	4fqq	
+davidis teniers antverpiensis pictoris et a cubiculis ser mis principibus leopoldo guil archiduci et ioanni austriaco theatrum pictorium in quo exhibentur ipsius manu delineatae eiusque cura in aes incisae picturae archetipae italicae	5201	
+deaky	1f71	
+defluxion boarded up swan entrance	3nb7	
+diracje	3c2	
+dodds alberta	5rcs	
+egoshkin	5iua	
+etrechy	1ly6,1too,3swq	
+etrechy cher	1too	
+etrechy essonne	1ly6	
+etrechy marne	3swq	
+fc st		44z:3,4l9:3
+fc st gallen	4l9	
+fc st gallen 1879	4l9	
+fc st pauli	44z	
+fc st pauli ii	44z	
+fechain	36dh	
+firefight	3pst	31rw:6
+firefight at		31rw:6
+firefight at the		31rw:6
+firefight at the o		31rw:6
+firefight at the o k		31rw:6
+firefight at the o k corral	31rw	
+formigueres	1q14	
+george carruthers	5y3g	
+gmina kiko	1ga7	
+gmina resko	sip	
+goosebumps	1b0i,6gtk	
+goosebumps 2015 film	1b0i	
+goosebumps books	6gtk	
+goosebumps film	1b0i	
+goosebumps graphix	6gtk	
+goosebumps horror land	1b0i	
+goosebumps horrorland	1b0i	
+goosebumps movie	1b0i	
+goosebumps novella series	6gtk	
+goosebumps series	6gtk	
+goosebumps the game	6gtk	
+grazers	62db	
+grybow commune	10m3	
+guirlange	1bc6	
+henricius auceps	1aw2	
+henry waugh renny tailyour	5sgu	
+hesperange	59xz	
+hlybotskyi raion	19s6	
+iliya	1mlj	3rxe:2,49nw:2,5v5k:2
+iliya georgiyevich	1mlj	
+iliya gruev	3rxe	
+iliya ilf	2715	
+iliya iliev	5v5k	
+iliya nikolov	5k76	
+iliya valov	49nw	
+imalmus	13sn	
+ivailovgrad	oqr	
+jamacian	in	
+james gibbons parrot	eut	
+james gibbons parrott	eut	
+jarlsberg line	1vss	
+jgassens	41ky	
+khwarizmi	1nv6	
+kropacova		1zx2:2
+kropacova vrutice	1zx2	
+la poveda		2t73:4
+la poveda de		2t73:4
+la poveda de soria	2t73	
+la poveda de soria soria	2t73	
+la poveda de soria spain	2t73	
+laq	1977	
+lark	3rd3	
+lathaniel		6a1o:3
+lathaniel rowe		6a1o:3
+lathaniel rowe turner	6a1o	
+leystar	1mwu	
+litolff	5ak4	
+loderunner	22sz	
+loerrach	k4h	
+loerrach district	ezb	
+lubart	2csm	
+maizeray	3eyk	
+menevillers	3x4u	
+micromonospora	369r	
+micromonospora purpurea	369r	
+micromonospora rhodorangea	369r	
+mikeinguut elitnaurviat elemantary school	1y1f	
+millionarios	3rl	
+mostoles	ooa,5fds	
+mostoles central madrid metro	5fds	
+mostoles station	5fds	
+nanan fujian	5d3i	
+neotelphusa	2msi	
+neveldine	2v2b	
+neveldine mark	2v2b	
+niederdollendorf	10q9	
+nyland	hr3	
+okecie airport	22ep	
+okecie international airport	22ep	
+ossip		58rk:2
+ossip gurko	4uux	
+ossip mandelstam	2ccw	
+ossip zadkine	58rk	
+paramhansa yogananda	5wg4	
+paul musselwhite	3tz5	
+peter fitzgerald	5ig0,60c9	
+peter fitzgerald footballer	60c9	
+peter fitzgerald politician	5ig0	
+peter fitzgerald senator	5ig0	
+pirner	4do4	
+porkie pig	525z	
+pricewaterhousecooper	2113	
+pvt	b0h	
+pvt dimitri petrenko	29hz	
+pvt ltd	wq,4j2	
+pvt schine	51k7	
+pyle howard	2vpy	
+realis philosophia epilogistica	48cx	
+region	wz,3bpp,62la	503:2,9c7:7,ez9:3,pss:2,s4u:6,183s:4,1ncs:3,1vzj:3,277r:3,2sjf:5,33lu:3,3a6k:3,3bpp:3,52tp:3,5bss:3,5dix:3,5dt8:3,5g20:5,5t9y:3,5uub:3,5wig:3,62la:4,640m:3
+region 3 iran	4xmr	
+region 7 philippines	1msg	
+region administrative	wz	
+region aquitaine	p4w	
+region arequipa	hfz	
+region aysen del general carlos ibanez del campo	19ou	
+region bruxelles capitale	2j4	
+region center	ous	
+region central jutland	ixb	
+region centre	ous	
+region centre val de loire	ous	
+region class city	453	
+region cuisine	17av	
+region cusine	17av	
+region de aisen	19ou	
+region de antofagasta	1f6n	
+region de arica y parinacota	12xc	
+region de atacama	1whr	
+region de bruxelles capitale	2j4	
+region de coquimbo	1p2v	
+region de la araucania	p0l	
+region de los lagos	1b4s	
+region de los rios	3e40	
+region de magallanes y la antartica chilena	eid	
+region de murcia	ez9	
+region de tarapaca	18uw	
+region de thies	3np1	
+region de valparaiso	xmr	
+region del biobio	zg7	
+region del libertador general bernardo o higgins	240u	
+region del maule	1g9e	
+region des pays de loire	yg0	
+region du centre	ous	
+region dublin	3i0	
+region f	348	
+region flamande	1cih	
+region francais	3bpp	
+region france	3bpp	
+region geography	wz	
+region gotland	503	
+region guadeloupe	589	
+region guyane	aev	
+region halland	icf	
+region hannover	exy	
+region hanover	exy	
+region hovedstaden	cvw	
+region i	4hkw	
+region ii	2agg	
+region iii	1avq	
+region iv a	2c57	
+region iv b	37ur	
+region ix	4usn	
+region la araucania	p0l	
+region lima	hmk	
+region martinique	4r1	
+region metropolitana	19tz	
+region metropolitana de santiago	19tz	
+region midtjylland	ixb	
+region nordjylland	1211	
+region of		ez9:3,183s:4,1ncs:3,1vzj:3,277r:3,2sjf:5,33lu:3,3a6k:3,3bpp:3,52tp:3,5bss:3,5dix:3,5dt8:3,5g20:5,5t9y:3,5uub:3,5wig:3,62la:4,640m:3
+region of aachen	toq	
+region of abruzzo	mi6	
+region of aisen of general carlos ibanez del campo	19ou	
+region of ayacucho	5zq	
+region of biobio	zg7	
+region of brittany	mbn	
+region of burkina		62la:4
+region of burkina faso	62la	
+region of central jutland	ixb	
+region of chile	52tp	
+region of cote		2sjf:5
+region of cote d		2sjf:5
+region of cote d ivoire	2sjf	
+region of cusco	a24	
+region of donetsk	9eg	
+region of epirus	isb	
+region of finland	3a6k	
+region of france	3bpp	
+region of franconia	4en7	
+region of gujrat	mmf	
+region of halton	3kpg	
+region of india	2tnv	
+region of italy	277r	
+region of ivory coast	2sjf	
+region of japan	5dix	
+region of kazakhstan	5dt8	
+region of kurdistan	u45	
+region of la araucania	p0l	
+region of lazio	h6g	
+region of libertador general bernardo o higgins	240u	
+region of liepaja	7xa	
+region of lombardy	3um	
+region of macedonia	3xmz	
+region of madagascar	33lu	
+region of marche	r7r	
+region of mauritania	5bss	
+region of morocco	1vzj	
+region of murcia	ez9	
+region of namibia	5wig	
+region of niagara	v91	
+region of north jutland	1211	
+region of northern red sea	615n	
+region of o higgins	240u	
+region of palestine	8hl	
+region of paris	f8y	
+region of peel	200g	
+region of peel ontario	200g	
+region of piedmont	9r1	
+region of rebublican subordination	q0j	
+region of republican subordination	q0j	
+region of scotland	9c7	
+region of senegal	640m	
+region of somalia	5uub	
+region of south denmark	m16	
+region of southern denmark	m16	
+region of strathclyde	3nzc	
+region of tanzania	1ncs	
+region of the		183s:4,5g20:5
+region of the czech		5g20:5
+region of the czech republic	5g20	
+region of the lakes	1b4s	
+region of the marche	r7r	
+region of the maule	1g9e	
+region of the philippines	183s	
+region of the scottish parliament	9c7	
+region of umbria	yc8	
+region of uzbekistan	5t9y	
+region of valencia	kwu	
+region of waterloo	2235	
+region of waterloo municipalities	2235	
+region of waterloo ontario	2235	
+region of york	dig	
+region or		9c7:7,s4u:6
+region or constituency		9c7:7,s4u:6
+region or constituency of		9c7:7,s4u:6
+region or constituency of the		9c7:7,s4u:6
+region or constituency of the scottish		9c7:7
+region or constituency of the scottish parliament	9c7	
+region or constituency of the senedd	s4u	
+region parisienne	f8y	
+region quebec	4ao4	
+region reunion	5ms	
+region scotland	9c7	
+region sjaelland	pss	
+region sjlland	pss	
+region suddanemark	m16	
+region syddanmark	m16	
+region v	1qdc	
+region vi	193z	
+region vii	1msg	
+region viii	1xzq	
+region wallonne	ksl	
+region wallonne belgium	ksl	
+region x	2eaz	
+region xi	3icy	
+region xii	2st4	
+region xiii	3o5x	
+region xv	12xc	
+region zealand	pss	
+remereville	1pie	
+richard stanton	5e3k	
+rietz lake	157b	
+samonac	27fa	
+sarazen bridge	d85	
+sarcophogus	1gy8	
+senmon gakko	yj2	
+senmon gakkou	yj2	
+shellshock wildlife protection organisation	w0x	
+shellshock wildlife protection organization	w0x	
+shmuel		2t8s:3,33i9:2,4kxf:2,4lau:2,5j4z:2
+shmuel agmon	5j4z	
+shmuel agnon	2t8s	
+shmuel ben eliezer	4qq8	
+shmuel czaczkes	2t8s	
+shmuel eisenstadt	4kxf	
+shmuel n eisenstadt	4kxf	
+shmuel noah eisenstadt	4kxf	
+shmuel rosenthal	4lau	
+shmuel scheimann	5e2c	
+shmuel schneersohn	48eo	
+shmuel winograd	33i9	
+shmuel yosef		2t8s:3
+shmuel yosef agnon	2t8s	
+shmuel yosef czaczkes	2t8s	
+shoshones	6hrt	
+sir karl popper	qft	
+sir karl raimund popper	qft	
+sir karl raimund popper ch frs fba	qft	
+spot cat	6fhw	
+spot chicken	206d	
+spot cream	yzy	
+spot pass	4as	
+spot right there	5t72	
+spot the cat	6fhw	
+spot x studio	ks4	
+sterling	hm8,1psu,1w73,1xl8,3y3m	at5:2,h7a:2,j2s:2,1lng:2,3vj0:3,4hle:3,4pye:2,4ylo:2,5b6x:2,625t:3
+sterling a brown	3vj0	
+sterling allen		3vj0:3
+sterling allen brown	3vj0	
+sterling bruce	kz2	
+sterling castle	500h	
+sterling co	1w73	
+sterling co micropolitan statistical area	2uth	
+sterling cole	635t	
+sterling colorado	1w73	
+sterling colorado micropolitan area	2uth	
+sterling cooper	fim	
+sterling farms	12f5	
+sterling first name	hm8	
+sterling given name	hm8	
+sterling golden	t7v	
+sterling hayden	h7a	
+sterling heights	1lng	
+sterling heights mi	1lng	
+sterling heights michigan	1lng	
+sterling heights michigan usa	1lng	
+sterling holloway	j2s	
+sterling home entertainment	yeh	
+sterling il	1xl8	
+sterling il micropolitan statistical area	tjc	
+sterling il sa	tjc	
+sterling illinois	1xl8	
+sterling illinois micropolitan area	tjc	
+sterling k		4hle:3
+sterling k brown	4hle	
+sterling ma	3y3m	
+sterling mass	3y3m	
+sterling massachusetts	3y3m	
+sterling morrison	4ylo	
+sterling moss	evl	
+sterling old pap price	4pye	
+sterling price	4pye	
+sterling professor	at5	
+sterling professor of chemistry	at5	
+sterling professor of economics	at5	
+sterling professor of history	at5	
+sterling professor of law	at5	
+sterling professorship	at5	
+sterling r		625t:3
+sterling r cockrill	625t	
+sterling richard smith	ip8	
+sterling silliphant	10dm	
+sterling smith	ip8	
+sterling sports premiership	23f4	
+sterling township michigan	1lng	
+sterling va	1psu	
+sterling virginia	1psu	
+sterling wescott	5b6x	
+streptaxidae	49n5	
+suchomasty	3bj1	
+surreal theatre	8pm	
+susiec commune	wmd	
+symbologist	c66	
+telenetfidea	69w8	
+telenetfidea lions	69w8	
+the lg group	1u4s	
+thou	3ir5,3z7c	4iwm:5,5y88:4
+thou cher	3ir5	
+thou loiret	3z7c	
+thou shalt		4iwm:5,5y88:4
+thou shalt do the dance	yu1	
+thou shalt honor thy wife	4iwm	
+thou shalt honour		4iwm:5
+thou shalt honour thy		4iwm:5
+thou shalt honour thy wife	4iwm	
+thou shalt not		5y88:4
+thou shalt not kill	5y88	
+tintoritto	1ca3	
+toiseach	zfv	
+trademarked	17i	
+trunk	1o14	1hjr:2,5bqu:3,6gah:2
+trunk botany	1o14	
+trunk elephant	16mc	
+trunk line	1hjr	
+trunk line munich	qk8	
+trunk line munich s bahn	qk8	
+trunk music	6gah	
+trunk music novel	6gah	
+trunk muzik returns	2rj4	
+trunk of fun	6doh	
+trunk to		5bqu:3
+trunk to cairo	5bqu	
+uropedium	40id	
+veuxhaulles		2grq:3
+veuxhaulles sur		2grq:3
+veuxhaulles sur aube	2grq	
+walatta giyorgis	2wxl	
+weltanshauung	3mzk	
+wvo quine	1muw	

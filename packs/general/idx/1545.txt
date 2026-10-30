@@ -1,0 +1,468 @@
+adviser	16ps	
+alesund	6li	6li:2
+alesund kunstskole	6li	
+alesund municipality	6li	
+alesund norway	6li	
+alesund town	6li	
+alexander greek mythology	1w5i	
+alexander kaidanovsky	1ta4	
+alfredshems ik	o2h	
+algorithim	27m	
+allarmont	3hx5	
+anorthosis	218	218:3
+anorthosis ammochostou	218	
+anorthosis famagusta	218	218:3
+anorthosis famagusta f c	218	
+anorthosis famagusta fc	218	
+anorthosis famagusta fc ii	218	
+anorthosis fc	218	
+arrazua ubarrundia	3z9f	
+arun	f0p,xlk	10j7:3,1jp1:2,2obj:3,34o6:2,4ex4:3,5gsy:2,5i69:2
+arun district	xlk	
+arun district council	xlk	
+arun first name	f0p	
+arun gandhi	2obj	
+arun ghandhi	2obj	
+arun given name	f0p	
+arun govil	5gsy	
+arun jaitley	34o6	
+arun kumar	4ex4	10j7:3,4ex4:3
+arun kumar aravind	4ex4	
+arun kumar chatterjee	10j7	
+arun manilal		2obj:3
+arun manilal gandhi	2obj	
+arun name	f0p	
+arun nayar	znd	
+arun pandian	1wkk	
+arun pandiyan	1wkk	
+arun pandyan	1wkk	
+arun prasad	5qbu	
+arun prasad p a	5qbu	
+arun shouri	5i69	
+arun shourie	5i69	
+arun vijay	1jp1	
+arun vijay kumar	1jp1	
+arun vijayakumar	1jp1	
+arun vijaykumar	1jp1	
+baratili		45v2:3
+baratili san		45v2:3
+baratili san pietro	45v2	
+barzunian	1r8e	
+bbca	36lo	
+bodemuseum	45qq	
+boniperti	3i4g	
+bouillon	zj3,3edh	
+bouillon belgium	zj3	
+bouillon pyrenees atlantiques	3edh	
+boussay	36km,3pyv	
+boussay indre et loire	3pyv	
+boussay loire atlantique	36km	
+boutavent	3iu3	
+bradford	1ye,m7b,14fh,3xq0	147:5,1ye:4,2pk:6,3nk:2,eei:2,sr8:2,1o5p:3,31v6:2,4dw5:2,4dwa:2
+bradford books	kfo	
+bradford borough	m7b	
+bradford bulls	3nk	
+bradford bulls coaches	3nk	
+bradford bulls coaching staff	3nk	
+bradford bulls comments	3nk	
+bradford bulls rugby league	3nk	
+bradford by the sea	nby	
+bradford center vermont	3xq0	
+bradford city	147	147:5
+bradford city a		147:5
+bradford city a f		147:5
+bradford city a f c	147	
+bradford city a f c comments	147	
+bradford city a f c in european football	147	
+bradford city association football club	147	
+bradford city centre	1ye	
+bradford city f c	147	
+bradford city fc	147	
+bradford city football club	147	
+bradford claude brad dourif	fwb	
+bradford claude dourif	fwb	
+bradford comments	1ye	
+bradford county	eei,31v6	
+bradford county fl	31v6	
+bradford county florida	31v6	
+bradford county pa	eei	
+bradford county pennsylvania	eei	
+bradford cox	4dw5	
+bradford delson	14u9	
+bradford dillman	sr8	
+bradford district	m7b	
+bradford dourif	fwb	
+bradford england	1ye	
+bradford episcopal area	5den	
+bradford f c	2pk	
+bradford fc	2pk	
+bradford institute of technology	15cn	
+bradford james cox	4dw5	
+bradford marcel young	4dwa	
+bradford morse	61rt	
+bradford northern	3nk	
+bradford northern r l f c	3nk	
+bradford northern rlfc	3nk	
+bradford northern rugby league football club	3nk	
+bradford on		1o5p:3
+bradford on avon	1o5p	
+bradford on avon bradford on avon	1o5p	
+bradford on avon wiltshire	1o5p	
+bradford p raymond	16j	
+bradford pa	14fh	
+bradford pa micropolitan statistical area	qwo	
+bradford pa msa	qwo	
+bradford pa sa	qwo	
+bradford pals	1ye	
+bradford park		2pk:6
+bradford park avenue	2pk	2pk:6
+bradford park avenue a		2pk:6
+bradford park avenue a f		2pk:6
+bradford park avenue a f c	2pk	
+bradford park avenue a f c comments	2pk	
+bradford park avenue afc	2pk	
+bradford park avenue f c	2pk	
+bradford pennsylvania	14fh	
+bradford pennsylvania micropolitan area	qwo	
+bradford phillip delson	14u9	
+bradford plaza	9sk	
+bradford rlfc	3nk	
+bradford rugby club	2pk	
+bradford rugby league	2pk	
+bradford technical college	15cn	
+bradford town orange county vermont	3xq0	
+bradford town orange county vt	3xq0	
+bradford town vermont	3xq0	
+bradford town vt	3xq0	
+bradford university	15cn	
+bradford upon avon	1o5p	
+bradford vermont	3xq0	
+bradford vt	3xq0	
+bradford west		1ye:4
+bradford west yorkshire	1ye	1ye:4
+bradford west yorkshire england	1ye	
+bradford wiltshire	1o5p	
+bradford young	4dwa	
+brisky	4khh	
+canes	4c6t	fjl:2
+canes and walking sticks	6fp6	
+canes venatici	fjl	
+canes venatici constellation	fjl	
+cerrig y gwyddyl	5q0b	
+charles hubert hastings parry	25ol	
+charles hubert hastings parry 1st baronet	25ol	
+charles hubert itandje	3y9z	
+charles hubert parry	25ol	
+concreting	2dp	
+critique	4ph9	
+critique of political economy	4xu6,6gqn	
+critique of ptolemy	3n9x	
+critique of stalin	70q	
+critique of the sweden democrats	17jz	
+crowdies	shr	
+desp aves	79f	
+dimitri		844:2,2aj7:2,3vpj:2,3xse:2,4js0:3,4l3g:2,4nlz:2,4xj8:2,53c7:2,5kek:2,5xvb:2,6683:2
+dimitri afanasenkov	2r4g	
+dimitri amilakhvari	4l3g	
+dimitri amilakvari	4l3g	
+dimitri ananko	5lie	
+dimitri anastasia character	22r4	
+dimitri bashkirov	5kek	
+dimitri bashkirow	5kek	
+dimitri bertsekas	4xj8	
+dimitri buchowetzki	2aj7	
+dimitri egorov	1lcx	
+dimitri fedorowitsch egorov	1lcx	
+dimitri fofonov	53vw	
+dimitri from		4js0:3
+dimitri from paris	4js0	
+dimitri glinos	66n3	
+dimitri ii of russia	5izo	
+dimitri iosifovich ivanovski	5qz8	
+dimitri ivanovski	5qz8	
+dimitri kabalevsky	1139	
+dimitri kharine	2wjd	
+dimitri kirsanoff	5xvb	
+dimitri kirsanov	5xvb	
+dimitri kitsikis	3vf1	
+dimitri klimovich	5lnz	
+dimitri kondratyev	5s0c	
+dimitri konishev	3xse	
+dimitri konychev	3xse	
+dimitri konyshev	3xse	
+dimitri kozlov	19iv	
+dimitri lousteau	69i5	
+dimitri martin	3zx9	
+dimitri mbuyu	4nlz	
+dimitri mendelev	pb1	
+dimitri mironov	2pgn	
+dimitri mishkin	fg6	
+dimitri mitropoulos	6683	
+dimitri mitropoulos version 2	6683	
+dimitri nalivkin	53c7	
+dimitri of russia	2akr	
+dimitri of the don	2akr	
+dimitri p bertsekas	4xj8	
+dimitri panteli bertsekas	4xj8	
+dimitri pavlovich	1u2d	
+dimitri pavlovich of russia	1u2d	
+dimitri petrococchino	5k7n	
+dimitri sergeevich merezhkovski	1r7q	
+dimitri stepanovich bortniansky	56vc	
+dimitri stepanowitsch bortniansky	56vc	
+dimitri tatanashvili	3vpj	
+dimitri tatanashvilli	3vpj	
+dimitri tiomkin	844	
+dimitri tiompkin	844	
+dimitri ustinov	oih	
+dimitri vasilievich nalivkin	53c7	
+dimitri volkogonov	2jei	
+dimitri zedguinidze amilakhvari	4l3g	
+dimitri zinovievich tiomkin	844	
+disputation of martin luther on the power and efficacy of indulgences	6h95	
+disputation on the power of indulgences	6h95	
+dubrowsky	4pcb	
+dung	3s77	
+dung che sai duk	4e76	
+dung doubs	3s77	
+dung flies	63h3	
+dung fly	63h3	
+dung named	3fwq	
+eminaria	5ri4	
+erasta	3c18	
+eriksson	6ea	
+eriksson surname	6ea	
+esselbach	591l	
+fc norchi		2ry1:4
+fc norchi dinamo		2ry1:4
+fc norchi dinamo merani b tbilisi	2ry1	
+fc norchi dinamo tbilisi	2ry1	
+fc norchi dinamoeli	2ry1	
+fc norchi dinamoeli tbilisi	2ry1	
+fc svetogorets	6fsf	
+fc svetogorets svetogorsk	6fsf	
+fc voronezh	2y9	
+fd4	15ho	
+foetodon ferreus	wd0	
+friut	o33	
+gauleiter adolf wagner	3rpb	
+generalite de montauban	83z	
+genomic medicine	23w	
+genomic sequence	46fs	
+george cosmatos	2atc	
+ghyll enwiki	1s	
+goethe	71q,4wqs	3tz:3,dcl:7,gbh:2,poy:3,2vvz:2,4pqg:5
+goethe award	dcl	
+goethe de	2vvz	
+goethe in		4pqg:5
+goethe in the		4pqg:5
+goethe in the roman		4pqg:5
+goethe in the roman campagna	4pqg	
+goethe institut	2vvz	
+goethe institut inter nationes	2vvz	
+goethe institute	2vvz	
+goethe link		poy:3
+goethe link observatory	poy	
+goethe medaille	gbh	
+goethe medal	gbh	
+goethe prize	dcl	dcl:7
+goethe prize of		dcl:7
+goethe prize of the		dcl:7
+goethe prize of the city		dcl:7
+goethe prize of the city of		dcl:7
+goethe prize of the city of frankfurt	dcl	
+goethe s	71q	
+goethe s faust	4809	
+goethe universitat	3tz	
+goethe university	3tz	3tz:3
+goethe university frankfurt	3tz	
+goethe university frankfurt am main	3tz	
+goethe zentrum	2vvz	
+golmud	4epj	
+golmud qinghai	4epj	
+gradable adjective	53i2	
+haemet achel	57mw	
+henry bingham		653i:3
+henry bingham baring	653i	
+henry dillon		5ypf:5
+henry dillon 13th		5ypf:5
+henry dillon 13th viscount		5ypf:5
+henry dillon 13th viscount dillon	5ypf	
+henry dillon lee	5ypf	
+henry lapczyk	4z2j	
+hpv16l1 region	4j7j	
+huttoninid	4bt6	
+hythe	1kh3	
+hythe kent	1kh3	
+hythe kent comments	1kh3	
+indigestions	325p	
+irbel	lyu	
+jaideep		4j4w:2
+jaideep sahaney	4j4w	
+jaideep sahni	4j4w	
+john ashton	1k0j	
+john ashton actor	1k0j	
+john mathias engler	5ysj	
+juptner	5k5z	
+kike	9hx	4b5w:2,4j17:2
+kike acuna	3yfs	
+kike burgos	4b5w	
+kike footballer born 1988	5cd2	
+kike lopez	5cd2	
+kike mateo	4j17	
+kike sola	43qm	
+kunashiro island	36fw	
+kurilskoye	1x0h	
+la chamele	94e	
+lafitole	3c94	
+landschloss	y4	
+magnan	2e7q	
+magnan gers	2e7q	
+maria clotilde	2ab8	12ul:6
+maria clotilde of		12ul:6
+maria clotilde of naples		12ul:6
+maria clotilde of naples and		12ul:6
+maria clotilde of naples and sicily	12ul	
+maria clotilde of savoy	2ab8	
+mariapia conte	3fgy	
+mcmlxix	475e	
+meanwhile in the tardis	2pzb	
+meanwhile record label	4sfw	
+meanwhile records	4sfw	
+medimurska zupanija	5znr	
+meganesia	ty1	
+methrotrexate	18zh	
+mezair	4rnl	
+monetesque	fi2	
+morchies	3f32	
+muroc afb	cb7	
+muroc air base	cb7	
+muroc air force base	cb7	
+muroc army air field	cb7	
+muroc army airfield	cb7	
+muroc field	cb7	
+nenjiang prefecture	bkr	
+nepal	73	ajb:6,5nqs:3
+nepal a division league	4y8l	
+nepal adhirajya	73	
+nepal loktantrik primary school	a6x	
+nepal men		ajb:6
+nepal men s		ajb:6
+nepal men s national		ajb:6
+nepal men s national football		ajb:6
+nepal men s national football team	ajb	
+nepal national football team	ajb	
+nepal red	ajb	
+nepal s village development committees	dx	
+nepal standard		5nqs:3
+nepal standard time	5nqs	
+nepal time	5nqs	
+nepal time zone	5nqs	
+orgiva	1ns1	
+orgiva granada	1ns1	
+orgiva spain	1ns1	
+patten of barnes	2czd	
+paul merciadez	4vqm	
+pectidium	4d2g	
+pegram through truss bridge	2rf	
+persus	26yt	
+players	1lsn,3bpv	1lsn:2,48ox:3,574s:5,5cxo:5,6c60:5
+players 2011 film	3bpv	
+players film	3bpv	
+players no 6 trophy	29sf	
+players tour		48ox:3,574s:5,5cxo:5,6c60:5
+players tour championship	48ox	574s:5,5cxo:5,6c60:5
+players tour championship 2010		6c60:5
+players tour championship 2010 2011	6c60	
+players tour championship 2013		574s:5
+players tour championship 2013 2014	574s	
+players tour championship 2015		5cxo:5
+players tour championship 2015 2016	5cxo	
+portivene	4o76	
+portugalete	tz5	
+printed	4bb7	
+printed circuits conductor current capacity	6ape	
+printed text	4bb7	
+prokhladny	4gwb	
+prokhladny kabardino balkar republic	4gwb	
+prokhladny urban okrug	4gwb	
+quando		3ohr:4
+quando il sole scotta	532g	
+quando la		3ohr:4
+quando la coppia		3ohr:4
+quando la coppia scoppia	3ohr	
+quando le donne amano	1s7n	
+quando le donne avevano la coda	3kea	
+quando le donne persero la coda	3u3v	
+quando le donne si chiamavano madonne	464f	
+quando tramonta il sole	4vrr	
+raza	54rt	12ah:2,5f3o:2
+raza aslan	4cv5	
+raza film	54rt	
+raza jaffrey	5f3o	
+raza khani founder	1c54	
+raza murad	12ah	
+robert barrett browning	17gf	
+sabato	1bpo,1ppu	
+sabato domenica e venerdi	1ofl	
+sabato river	7s6	
+serpinski	14so	
+sfxtk	5ffm	
+shironamhin	54t1	
+shironamhin band	54t1	
+sir kamisese mara	4x19	
+solidstate records	a3x	
+st josemaria	3wbo	
+st josemaria escriva	3wbo	
+staples	37rk	37rk:2
+staples arena	1ei9	
+staples center	1ei9	
+staples center arena	1ei9	
+staples centre	1ei9	
+staples company	37rk	
+staples inc	37rk	
+staples singers	4d2u	
+staples snowbot	37rk	
+suothwark	a00	
+swallowed in the sea	54cd	
+taclaban	v67	
+tesson	34i6	
+the bluth group	5org	
+the equator	6hmz	
+the walls		2aqj:4,2hyv:4
+the walls of		2aqj:4,2hyv:4
+the walls of jericho	2aqj	
+the walls of jericho 1948 film	2aqj	
+the walls of jericho film	2aqj	
+the walls of malapaga	2hyv	
+thomas baines	60lb	
+thomas baines journalist	60lb	
+torontofc	5i8	
+wadim jusov	1mmp	
+well	i4f	153z:2
+well behaved women seldom make history	4p43	
+well catered funeral	4tro	
+well digger s daughter	4nh5	3c5w:5,4nh5:5
+well digging	i4f	
+well done 2	pob	
+well done 4	pob	
+well excuse me	9tt	
+well formed xml	7uw	
+well groomed bride	3wro	3wro:4
+well known trade mark	17i	
+well read	gwi	
+well tank	1vb	
+well water	i4f	
+well water contamination	i4f	
+well we all shine on	609u	
+xiyonji	2b1x	
+yanmar thimphu premier league	y1v	
+yemelyan		3vvo:2,5wp1:2
+yemelyan ivanovich pugachev	5wp1	
+yemelyan ivanovich pugachov	5wp1	
+yemelyan pugachev	5wp1	
+yemelyan pugachov	5wp1	
+yemelyan yaroslavsky	3vvo	
+yiyun		4hks:2
+yiyun li	4hks	
+youtah	kn	

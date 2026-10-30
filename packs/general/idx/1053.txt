@@ -1,0 +1,340 @@
+ailloncourt	3vua	
+alcohol	18iu	15jc:2,26gz:2
+alcohol abuse	15jc	
+alcohol and crimes	15jc	
+alcohol beverage	fbn	
+alcohol beverages	fbn	
+alcohol chemistry	18iu	
+alcohol dependence	26gz	
+alcohol dependency	26gz	
+alcohol distillation	dbk	
+alcohol drink	fbn	
+alcohol drinks	fbn	
+alcohol expectations	fbn	
+alcohol free	18iu	
+alcohol laws in delaware	138	
+alcohol misuse	15jc	
+alcohol problems	4ts	
+alcohol related crime	15jc	
+alcohol use disorder	4ts	
+alcohol use in adolescence	5zrd	
+alexander evseevich		3ink:3
+alexander evseevich braunstein	3ink	
+alumnium	4z8	
+amagney	3v47	
+aniello		3rpd:2
+aniello cutolo	3rpd	
+apolonius of perga	3571	
+artemizia gentilesca	krm	
+asterosedum	rv0	
+bahnstrecke berlin dresden	2atm	
+bahnstrecke berlin gorlitz	4b11	
+bahnstrecke berlindresden	2atm	
+bahnstrecke berlingorlitz	4b11	
+bahnstrecke hannover braunschweig	5flj	
+bahnstrecke hannover hamburg	4v2w	
+bahnstrecke hannoverbraunschweig	5flj	
+bahnstrecke hannoverhamburg	4v2w	
+bahnstrecke leipzig dresden	4655	
+bahnstrecke leipzig hof	27yz	
+bahnstrecke leipzigdresden	4655	
+bahnstrecke leipzighof	27yz	
+bahnstrecke luxemburg trier	3r83	
+bahnstrecke luxemburgtrier	3r83	
+baltijsk	10kc	
+batavier	4c0x	
+biggleswade	23jn	4teu:4
+biggleswade bedfordshire	23jn	
+biggleswade town	4teu	4teu:4
+biggleswade town f		4teu:4
+biggleswade town f c	4teu	
+biggleswade town fc	4teu	
+bosstones	1xwi	
+brasse	41tg	41tg:2
+brasse brannstrom	41tg	
+brubaker	1bba	
+brubaker ed	34bj	
+burohappold engineering	1m49	
+cahners publications	3dph	
+cahners publishing company	3dph	
+camber	1tcl	
+catodon whale	600t	
+challis christopher	iyc	
+charles bachman	3mkg	
+charles grassley	4nh7	
+chun	38cp,4tvm	50v4:3
+chun an	1hvc	
+chun di	4s2o	
+chun doo		50v4:3
+chun doo hwan	50v4	
+chun doohwan	50v4	
+chun du hwan	50v4	
+chun kai feng	4u1b	
+chun kiu yi chi ming	1j3x	
+chun paul	2my6	
+chun pui	2my6	
+chun sang ji hee	4g34	
+chun soft	1nls	
+chun soo lee	1xat	
+coccelians	5q12	
+cossato	1gq4	
+czejtsch	4gb7	
+david ehrenstrahl	4ka2	
+david letterman	1gxc	
+dayr az zawr	21r7,3xd7	
+dayr az zawr governorate	3xd7	
+dayr az zor	21r7	
+denezieres	38rl	
+deposition		25g6:3,4wju:2
+deposition of		25g6:3
+deposition of christ	25g6	
+deposition of christ bronzino	25g6	
+deposition raphael	4wju	
+depressive disorder	qmz	
+depressive disorder major	qmz	
+depressive mood	108v	
+depressive suicidal black metal	1kx	
+depressive symptoms	108v	
+elinore norrie calvert hill	pu3	
+englebelmer	2g5z	
+epekwitk	38a	
+fara		1z1v:3,2ahn:3,2cew:2,2ryk:3,2xqb:2,3guv:2,3mth:4,4bu3:4,50gf:2
+fara afghanistan	x9q	
+fara d adda	4bu3	
+fara department	2cew	
+fara doc	50gf	
+fara filiorum		2ahn:3
+fara filiorum petri	2ahn	
+fara gera		4bu3:4
+fara gera d		4bu3:4
+fara gera d adda	4bu3	
+fara gera dadda	4bu3	
+fara in		1z1v:3
+fara in sabina	1z1v	
+fara novarese	50gf	
+fara ob soci	20aq	
+fara olivana		3mth:4
+fara olivana con		3mth:4
+fara olivana con sola	3mth	
+fara sabina	1z1v	
+fara san		2ryk:3
+fara san martino	2ryk	
+fara vicentino	2xqb	
+fara williams	3guv	
+feeney mark	69f0	
+finegaelleader	7n1	
+floor		3qli:2
+floor ball	9av	
+floor jansen	3qli	
+floor mosaic	2m1m	
+floor sugar	27z9	
+floor valley	t7	
+fnrj	146	
+fuenterrabia	wt5	
+fuenterrabia spain	wt5	
+gattling gun	52ay	
+gejlarat		40q3:5
+gejlarat e		40q3:5
+gejlarat e sharqi	40q3	40q3:5
+gejlarat e sharqi rural		40q3:5
+gejlarat e sharqi rural district	40q3	
+gentili bellini	49cc	
+george homeier	22no	
+givira	g2o	
+gmina bobrowice	18pi	
+gmina szamocin	xpw	
+gwynnyth paltrow	g1e	
+helespont	4f44	
+hln	55r8	
+hln after dark	55r8	
+hln tv channel	55r8	
+hln tv network	55r8	
+hokuspokus	2bh5	
+hokuspokus film	2bh5	
+husson	3dnh	
+i buried paul	6c9u	
+ibexian	3qm8	
+ionic colonies of asia minor	6hb5	
+ionic salt	2snk	
+jacklyn		5h4v:2
+jacklyn jose	3sad	
+jacklyn rosen	6gsy	
+jacklyn sheryl rosen	6gsy	
+jacklyn wu	5h4v	
+jacklyn wu chien lien	5h4v	
+johnstown	8l6,2raj,4p74	
+johnstown cambria county pennsylvania	8l6	
+johnstown carmarthenshire	96x	
+johnstown city	8l6	
+johnstown city fulton county new york	2raj	
+johnstown city new york	2raj	
+johnstown county kilkenny	4p74	
+johnstown new york	2raj	
+johnstown ny	2raj	
+johnstown pa	8l6	
+johnstown pa metropolitan statistical area	8l6	
+johnstown pa msa	ate	
+johnstown pennsylvania	8l6	
+johnstown pennsylvania metropolitan area	8l6	
+johnstown somerset pa combined statistical area	8l6	
+johnstown somerset pa csa	8l6	
+kalamazooo mi	66j	
+kneehill alberta	1naa	
+kollwitz kaethe schmidt	2y2i	
+kollwitz kathe	2y2i	
+kollwitz kathe schmidt	2y2i	
+laumellum	2evr	
+le bon		2jia:3
+le bon et les mechants	2rzi	
+le bon plaisir	2jia	
+le bon renatus i	15rf	
+le bon roi dagobert	1md2	
+le bon roi dagobert 1984 film	1md2	
+lethrinops	2nop	
+lnp	av9	
+lnp serie a	7bp	
+louis benjamin		61sr:3
+louis benjamin francisco	35ba	
+louis benjamin francoeur	61sr	
+louis benjamin francour	61sr	
+louis benjamin francur	61sr	
+lucgarier	2rkn	
+machineguns	azi	
+maculopapular sarcoidosis	5b79	
+megevette	406x	
+menetrux		37c0:3
+menetrux en		37c0:3
+menetrux en joux	37c0	
+montech	24kl	
+nagazaki	5jy	
+neusandec	a11	
+neymarjr	1a1w	
+nices	3ae	
+nighttrain murders	25be	
+nynorsk	1ojs	25ah:3
+nynorsk literature		25ah:3
+nynorsk literature prize	25ah	
+nynorsk litteraturpris	25ah	
+nynorsk norwegian	1ojs	
+opinion		k6s:2
+opinion columnist	1e5	
+opinion journalism	k6s	
+opinion polling for the 2014 swedish general election	2f80	
+opinion polling for the polish presidential election 2015	67xc	
+ouadah	46us	
+owlery	6gd1	
+palawan	i0l	
+palawan cherry	6eo0	
+palawan province	i0l	
+pelister bitola	erg	
+perissolophia	2zh9	
+peter lovat fraser	5bbs	
+peter lovat fraser baron fraser of carmyllie	5bbs	
+pilnikov	45so	
+pleszew		1nok:2
+pleszew commune	y7e	
+pleszew county	1nok	
+pluteoid	qpk	
+ponceletia	6dv9	
+porphyrogenitus emperor constantine vii	48hj	
+precipice	3mt	
+probabilitytheory	5w3	
+psalms	3nq	
+psalms doc	3nq	
+rounding errors in algebraic processes	40xi	
+rounding of the cape	66kv	
+rybnitsa	3vdo	
+saxecoburggotski	x30	
+shen		1657:2,3taw:2,4upv:2
+shen ch uen	5ai	
+shen chen	5ai	
+shen county	1657	
+shen dianxia	2t62	
+shen diao xia lu	2cym	
+shen gua	3taw	
+shen hsi	cun	
+shen king	6ji	
+shen kua	3taw	
+shen kuo	3taw	
+shen long	4q0p	
+shen long badminton player	4q0p	
+shen mue 1	6hhy	
+shen mue 2	54q4	
+shen mue ii	54q4	
+shen xue	4upv	
+shen yang	4lm	
+shen zhen	5ai	
+shen zhou qi hao	59i1	
+shen zong	2qx6	
+sheptytsky	5i3x	
+sierrra leone	1kc	
+sleaford	188n	
+sleaford england	188n	
+sleaford lincolnshire	188n	
+slovenians	5cph	
+sonzay	2rq8	
+spennymoor	3raj	cp9:5,15ry:4
+spennymoor county durham	3raj	
+spennymoor settlement	3raj	
+spennymoor town	15ry	15ry:4
+spennymoor town f		15ry:4
+spennymoor town f c	15ry	
+spennymoor town fc	15ry	
+spennymoor united	cp9	cp9:5
+spennymoor united a		cp9:5
+spennymoor united a f		cp9:5
+spennymoor united a f c	cp9	
+spennymoor united f c	cp9	
+spennymoor united fc	cp9	
+springboks	3du	
+subhalekha		58qn:2
+subhalekha sudhakar	58qn	
+tattooed	2k1e	
+tattooed widow	5w5q	5w5q:3
+taxiarchis		3ckg:2
+taxiarchis fountas	3ckg	
+teror	3bo5	
+teror las palmas	3bo5	
+tfile	1qgu	
+the 80s	19n2	
+the buff medways	454f	
+the fizz	18ih	
+the sugarhill		6g6l:3
+the sugarhill gang	6g6l	
+the sugarhill gang discography	6g6l	
+the vidiot from uhf	41m5	
+the wheeling speech	1j2k	
+the windwards	2nms	
+thomas vinterburg	2f7v	
+threepio	6h3g	
+tigercats	1a8	
+tilakan	ant	
+unitedhealthcare	qr1	vz3:2,1el7:2,2jaf:4
+unitedhealthcare 2015	vz3	
+unitedhealthcare 2016	1el7	
+unitedhealthcare cycling team	qr1	
+unitedhealthcare maxxis	qr1	
+unitedhealthcare pro cycling men s team	qr1	
+unitedhealthcare pro cycling women s team	2jaf	
+unitedhealthcare professional cycling team	2jaf	
+unitedhealthcare women		2jaf:4
+unitedhealthcare women s		2jaf:4
+unitedhealthcare women s team	2jaf	
+unitedhealthcare womens team	2jaf	
+vauhini		3gh9:2
+vauhini studios	3gh9	
+vits		26w7:2
+vits rimkus	26w7	
+warchild star trek	6909	
+william ramsay	11l5	3x04:3
+william ramsay smith	3x04	
+william sealey gosset	62d9	
+william sealey gossett	62d9	
+willmington school of the bible	13tw	
+xhcns tdt	6d8	
+yanqi		47ru:4
+yanqi hui		47ru:4
+yanqi hui autonomous		47ru:4
+yanqi hui autonomous county	47ru	
+yanqi hui tribe autonomous county	47ru	
+zazu pitts	cv9	

@@ -1,0 +1,376 @@
+19	3ldk	
+19 2008 album	3ldk	
+19 adele album	3ldk	
+19 adele album comments	3ldk	
+19 adele s album	3ldk	
+19 century	ruh	
+19 entertainment	xt2	
+19 entertainment ltd	xt2	
+19 management	15gq	
+19 recordings	i2h	
+19 recordings ltd	i2h	
+19 records	i2h	
+19 red		52a1:3
+19 red roses	52a1	
+19 tv	15gq	
+200x	1k2e	
+413 records	16q	
+a30b	1l0i	
+adbk munchen	3z6	
+adebowale		58o9:2
+adebowale ogungbure	58o9	
+alange	2h9p	
+alange badajoz	2h9p	
+alange spain	2h9p	
+alasin single	2rf2	
+aleksiy yepishev	1rpw	
+aloung p houra alompra	3yhe	
+anbar governorate	wly	
+anbar province	wly	
+anbar region	wly	
+ascetic acid	14yy	
+asseco gdynia	mm9	
+asseco prokom	mm9	
+asseco prokom gdansk	mm9	
+asseco prokom gdynia	mm9	
+asseco prokom sopot	mm9	
+asseco resovia	361l	
+asseco resovia rzeszow	361l	
+aureliano		3qz2:2
+aureliano torres	3qz2	
+autistic disorder	asw	
+autistic meltdown	asw	
+autistic traits	asw	
+azit hakalba hatzanhanit	n83	
+bathe	3ogo	
+beiping	km	
+belfry	437q	
+belfry architecture	437q	
+benedictella	4nr3	
+beregszasz	25kb	
+bidonata	50gw	
+byelorussian		9kg:4
+byelorussian language	6gb	
+byelorussian offensive	388j	
+byelorussian s s r	9kg	
+byelorussian soviet		9kg:4
+byelorussian soviet socialist		9kg:4
+byelorussian soviet socialist republic	9kg	
+byelorussian ssr	9kg	
+byelorussian strategic offensive	388j	
+calamaro	1vqv	
+callionymus	bsu	
+castiglione	3bn3	nhx:3,o0z:3,y3f:3,19mo:3,2mzw:3,2tl1:3,35m3:3,36ix:3,3luy:3,3ofq:2,3xa3:2,48x1:2,49t6:3,4e59:3,4hkg:2,4u60:2,523r:3,55s8:3
+castiglione a		36ix:3
+castiglione a casauria	36ix	
+castiglione chiavarese	4u60	
+castiglione d		2mzw:3,35m3:3,523r:3
+castiglione d adda	35m3	
+castiglione d intelvi	523r	
+castiglione d orcia	2mzw	
+castiglione dadda	35m3	
+castiglione dei		2tl1:3
+castiglione dei genovesi	3luy	
+castiglione dei pepoli	2tl1	
+castiglione del		nhx:3,3luy:3
+castiglione del genovesi	3luy	
+castiglione del lago	nhx	
+castiglione della pescaia	22kh	
+castiglione della valle	18gv	
+castiglione delle		y3f:3
+castiglione delle stiviere	y3f	
+castiglione delle stiviere italy	y3f	
+castiglione di		o0z:3,49t6:3
+castiglione di forli	63m	
+castiglione di garfagnana	49t6	
+castiglione di ravenna	4nd	
+castiglione di sicilia	o0z	
+castiglione di val d orcia	2mzw	
+castiglione di vara	3jcc	
+castiglione falletto	3xa3	
+castiglione fiorentino	1w3b	
+castiglione haute corse	3bn3	
+castiglione in		55s8:3
+castiglione in teverina	55s8	
+castiglione messer		19mo:3,4e59:3
+castiglione messer marino	19mo	
+castiglione messer raimondo	4e59	
+castiglione olona	3ofq	
+castiglione tinella	4hkg	
+castiglione torinese	48x1	
+castiglione upper corsica	3bn3	
+castiglione vara	3jcc	
+catostomus	2z58	
+cautin	mzq	mzq:2
+cautin province	mzq	
+cefalonia	f9c	
+chint ao hu	1i2a	
+chk chk chk	4dnv	
+chnoocera	w7	
+colenel	1bi	
+collio	2blg	
+containment area for relocated yankees	owl	
+containment hierarchy	5ny6	
+crillic	1nq	
+crotalaria	4vme	
+dacki sportski klub	jjr	
+damaskios	3zvb	
+david benjamin dorfman	43tx	
+david benjamin james	1g3x	
+david fas	5boz	
+david fas rojo	5boz	
+david threlfall	32p0	
+dunmanway	4t7u	
+eldin		3ej1:2,40l1:2
+eldin adilovic	40l1	
+eldin jakupovic	3ej1	
+experimental		2ay:2,2fv:2,13iz:2,1c8h:2,5lng:4
+experimental aircraft	13iz	
+experimental airplane	13iz	
+experimental amateur built aircraft	62h6	
+experimental big band	gjg,1k3e	
+experimental centre		5lng:4
+experimental centre of		5lng:4
+experimental centre of cinematography	5lng	
+experimental cinema	1c8h	
+experimental classical music	2fv	
+experimental composers	2fv	
+experimental dance	bl1	
+experimental dance music	bl1	
+experimental design bureau	6fln	
+experimental electronic music	2fv	
+experimental film	1c8h	
+experimental filmmaker	1c8h	
+experimental filmmaking	1c8h	
+experimental films	1c8h	
+experimental folk	ntk	
+experimental group	blm	
+experimental heavy metal	8pv	
+experimental helicopter	13iz	
+experimental jazz	gjg	
+experimental metal	8pv	
+experimental method	blm	
+experimental music	2fv	
+experimental music genres	2fv	
+experimental noise	4i2	
+experimental particle physics	hvg	
+experimental post rock	2ks	
+experimental r b	vwm	
+experimental reactor	1xj0	
+experimental rechargeable battery types	6eot	
+experimental rock	2ay	
+experimental rock and roll	2ay	
+experimental sciences	blm	
+experimental sound	2fv	
+experimental techno	1lp	
+experimental television	e63	
+fali		4j1f:2
+fali mistry	4j1f	
+fasano	2qfk	
+fc ranger		59fw:3
+fc ranger s	59fw	
+flacara bucuresti	4ek	
+flacara medias	8mz	
+flacara moreni	5p2h	
+flacara petrosani	gu4	
+flacara ploiesti	4ek	
+fleurival david	42eb	
+forums skonto	8fo	
+gabbioneta		49z7:2
+gabbioneta binanuova	49z7	
+gabbioneta binanuova italy	49z7	
+geomorphologically	3g6k	
+george breitner	26jg	
+george casey	4xry	
+gestra ishmethit	4n8b	
+gjovalin kadeli	1khq	
+gmina szczytna	2znr	
+gondecourt	2cjy	
+heve city	4dt7	
+hr	5n	
+hr 8832	3alf	
+hr 8938 cephei	koo	
+hr fernsehen	1zjo	
+hr geiger	3gy0	
+hr haldeman	5see	
+hr macmaster	15qu	
+hr mcmaster	15qu	
+hr musik	dya	
+hr musik limited	dya	
+hr petit	2uhk	
+hr textron	29wj	
+hr vp	612b	
+i hsuan	1zg8	
+intra articular	2mlj	
+intra axial bleeding	hrd	
+intra axial hematoma	hrd	
+intra desktop search	3vde	
+intra italy	f6o	
+intra muscular injections	3aa0	
+intra specific hybrid	hvi	
+intra venous route	x4d	
+intra verbania	f6o	
+is0	2gl	
+jacoba	61s6	3hx7:2
+jacoba brink	kn5	
+jacoba countess of hainaut	3don	
+jacoba countess of holland	3don	
+jacoba first name	61s6	
+jacoba francisca maria smulders	1hhc	
+jacoba francisca maria smulderskillam	1hhc	
+jacoba given name	61s6	
+jacoba johanna ritsema	419o	
+jacoba of bavaria	3don	
+jacoba surie	3hx7	
+jacoba van beieren	3don	
+jacoba von beijeren	3don	
+jacoba wilhelmina hendrika van bruggen	2209	
+jebidiah bush	rxf	
+john hutchinson	5s4i	
+john hutchinson footballer	5s4i	
+john ireland	ccr	
+john ireland actor	ccr	
+judilson gomes	3wr1	
+judilson mamadu gomes	3wr1	
+judilson mamadu tuncara	3wr1	
+judilson mamadu tuncara gomes	3wr1	
+judilson tuncara gomes	3wr1	
+judoist	cx	
+kannam gu	mgy	
+karloe	119t	
+komunisticka partija jugoslavije	8cg	
+komunisticka strana cech a moravy	1k7s	
+komunisticka strana ceskoslovenska	4ws	
+krindachyovka	3um7	
+kuhmois	6694	
+la guillermie	3v05	
+la poudre aux yeux	40u5	
+le confort		3cyx:5
+le confort et		3cyx:5
+le confort et l		3cyx:5
+le confort et l indifference	3cyx	
+le vice e la vertu	1cqf	
+le vice et la vertu	1cqf	
+linnart		5q4t:2
+linnart maell	5q4t	
+linnart mall	5q4t	
+lolowah	3wgd	3wgd:5
+lolowah al faisal	3wgd	
+lolowah bint		3wgd:5
+lolowah bint faisal		3wgd:5
+lolowah bint faisal al		3wgd:5
+lolowah bint faisal al saud	3wgd	
+louis spears	3wiv	
+majgen	6h7,1a1m	
+manhandled	3whx,4s3m	
+manhandled 1924 film	3whx	
+manhandled 1949 film	4s3m	
+massepha	4q4n	
+mathgrind	mc1	
+meaford	48xt	
+meaford canada	48xt	
+meaford ontario	48xt	
+meldola	1q0t	
+mikawa		3pta:2
+mikawa kuni	3pta	
+mikawa province	3pta	
+minitran	1ym6	
+mukachev	kul	
+new star in the sky	64qn	
+nipper insect	6dwa	
+nswpl	1ymi	
+ondreville		2x5c:3
+ondreville sur		2x5c:3
+ondreville sur essonne	2x5c	
+osmose	do9	do9:2
+osmose productions	do9	
+osmose records	do9	
+otra y yo	66fr	
+pacifism	4uxc	
+pacifism and religion	4uxc	
+paul bradshaw	50d4	
+paul bradshaw footballer born 1956	50d4	
+pseudhypsa	npy	
+pszczew commune	1ovh	
+raab stefan	1c2b	
+rachmaninoff sergei	cty	
+recl guinness	5fwt	
+reflex	6ejz	
+reflex abnormal	6ejz	
+reflex blue	29x	
+reflex response	6ejz	
+reflex test	6ejz	
+rhynchopalpus	mrp	
+richard kitzbichler	5ohs	
+riverhead	214u	1z42:2
+riverhead books	1z42	
+riverhead hardcover	1z42	
+riverhead high school	214u	
+riverhead long island	214u	
+riverhead new york	214u	
+riverhead ny	214u	
+riverhead town new york	214u	
+riverhead town suffolk county new york	214u	
+riverhead trade	1z42	
+sack of babylon	2vrt	
+sack of berwick	27wt	
+sack of nablus 1242	hw4	
+sack of reggio di calabria	71z	
+san pawl il baar	2gzr	
+san pawl il bahar	2gzr	
+shanks michael	2g6v	
+shanks pony	13mi	
+siim		283t:2,5yf5:2
+siim kallas	283t	
+siim luts	5yf5	
+silicic acid	2i1a	
+silicic anhydride	2i1a	
+somogyszil	4joq	
+souja	5ppl	
+souja boy	1apt	
+souja okayama	5ppl	
+stdexcept	299b	
+stdexcept h	299b	
+superfudge	5ed7	
+survivor	pnx,1fx6,2o77	1sep:2,2kq3:2,2o77:2
+survivor 1988 novel	4kan	
+survivor band	1fx6	
+survivor film	pnx	
+survivor french tv series	4tjf	
+survivor records	2kq3	
+survivor series	1sep	
+survivor series 2019	1sep	
+survivor series 2020	1sep	
+survivor series traditional 5 on 5 tag team	1sep	
+survivor spain	3m84	
+tejan kabba	66nu	
+tejan kabbah	66nu	
+teruki		3t8u:2
+teruki miyamoto	3t8u	
+the martin company	1fpa	
+the martin county library system	1cqv	
+the martin luther king jr research and education institute	94	
+the martin luther university of halle wittenberg	26t	
+the unforgiven	25j3,5go1	
+the unforgiven 1960 film	25j3	
+the unforgiven 2	5go1	
+the unforgiven 3	5go1	
+the unforgiven film	25j3	
+the unforgiven ii	5go1	
+the unforgiven iii	5go1	
+the unforgiven metallica song	5go1	
+the unforgiven song	5go1	
+the voth	3vk0	
+timmi		5f30:2
+timmi johansen	5f30	
+trucker	3qtt	
+trucker max	6901	
+unterwiesenthal	22ca	
+veendam	1tn5	
+veendam plaats	1tn5	
+vidaillat	1v7f	
+virming	1ski	
+waldbroel	43p5	
+webmistress	6dbk	
+xiengyang	13cn	
+zawila	1iee	

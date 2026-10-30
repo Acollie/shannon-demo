@@ -1,0 +1,371 @@
+2tone records	1srs	
+57th		6e7p:4
+57th street		6e7p:4
+57th street 7th avenue bmt broadway line	6e7p	
+57th street bmt broadway line	6e7p	
+57th street seventh		6e7p:4
+57th street seventh avenue	6e7p	
+57th street seventh avenue bmt broadway line	6e7p	
+57th streetseventh avenue	6e7p	
+57th streetseventh avenue bmt broadway line	6e7p	
+acki sportski klub	jjr	
+adelhelmus	4v62	
+aeshna	1k9e	
+afformative	1bjj	
+ag2r	ao3	bxb:4,clp:4,hd9:4,vxp:4,z1i:4
+ag2r la		bxb:4,clp:4,hd9:4,vxp:4,z1i:4
+ag2r la mondiale	ao3	bxb:4,clp:4,hd9:4,vxp:4,z1i:4
+ag2r la mondiale 2013	z1i	
+ag2r la mondiale 2014	vxp	
+ag2r la mondiale 2015	hd9	
+ag2r la mondiale 2016	bxb	
+ag2r la mondiale 2017	clp	
+ag2r prevoyance	ao3	
+alagoas	50s	
+alagoas province	50s	
+allaudin	4dzn	
+amatha	qpu	
+ameno	33ge	
+ameno italy	33ge	
+antwone		2iqg:2
+antwone fisher	2iqg	
+antwone fisher film	2iqg	
+antwone fisher movie	2iqg	
+arockalypse		5gd1:2
+arquitectonica	17tp	
+asky	1j0f	1j0f:2
+asky municipality	1j0f	
+audes	2ygc	
+awtomobilist jekaterinburg	8r1	
+beastorizer	65ok	
+belebey	3nmj	
+belebey bashkortostan	3nmj	
+belebey urban settlement	3nmj	
+beleymas	3c2r	
+berggiesshuebel	1to5	
+brannon		ha2:2
+brannon braga	ha2	
+braulio	1jmt	2ial:2,3ag3:2,5uem:2
+braulio brizuela	5uem	
+braulio first name	1jmt	
+braulio given name	1jmt	
+braulio luna	2ial	
+braulio nobrega	3ag3	
+braulio nobrega rodriguez	3ag3	
+breed	2u4q	4csi:2,5dmc:2
+breed 77	5dmc	
+breed animal	2u4q	
+breed of dog	29e	
+breed seven seven	5dmc	
+brsch	243s	
+campfires	6hs3	
+charles fawcett actor	1ogq	
+charles jr barry	5i9b	
+charles jr keating	4ldk	
+charles jr mingus	b33	
+cofejs	5zm	
+david stephens	5zpt	
+drechterland	15bz	
+dzyanis		4ncj:2,4poy:2,6cpf:2
+dzyanis karolik	6cpf	
+dzyanis parechyn	4poy	
+dzyanis sashcheka	4ncj	
+edition book	8dr	
+edition books	8dr	
+edition breitkopf	690d	
+edition of contemporary music	1kr	
+edward bibbins aveling	66bl	
+emmentaler alpen	1i7a	
+enron field	6fzg	
+equennes		1jp5:2
+equennes eramecourt	1jp5	
+exertion interface	16qv	
+exertion interfaces	16qv	
+fc eherhiya yuzhnoukrainsk	4rbt	
+foulain	2ufl	
+ganz		4l2v:2
+ganz budapest	4l2v	
+ganz company	4l2v	
+ganz danubius	4l2v	
+ganz electro	4l2v	
+ganz mavag	4l2v	
+ganz works	4l2v	
+genclerbirligi	48w	48w:3
+genclerbirligi asasspor	d2h	
+genclerbirligi oftas	d2h	
+genclerbirligi s		48w:3
+genclerbirligi s k	48w	
+genclerbirligi sk	48w	
+genclerbirligi spor kulubu	48w	
+george cziffra	5l8w	
+gmina kobior	4mw9	
+guignemicourt	3b99	
+haggenschwil	213q	
+haggenschwil sg	213q	
+haggenschwil st gallen	213q	
+haggenschwil switzerland	213q	
+hai ando maiti kara	1p87	
+hai dian district	gy3	
+hai duong	1atm	
+hai duong province	1atm	
+hai duong province vietnam	1atm	
+hai hai		6biy:3
+hai hai nayaka	6biy	
+hai jun shao jiang	guk	
+hai k ou	wa6	
+hai kou	wa6	
+hai nan	hq5	
+hai phong	hdn	
+hai phong city	hdn	
+hai phong f c	16mu	
+hai phong fc	16mu	
+hai phong police f c	16mu	
+hai phong province	hdn	
+hai phong vietnam	hdn	
+hai tang	5y9m	
+hai ye maya	1s5m	
+hai yeh maya	1s5m	
+hai zhu district	1ifr	
+hammed karzai	1odw	
+hammed namouchi	4oof	
+homeboys of oz	ykr	
+huckabee sanders sarah	44da	
+hymn	dxi	62br:4
+hymn book	zki	
+hymn of		62br:4
+hymn of the		62br:4
+hymn of the nations	62br	
+hymn to red october	lh2,4wdy	
+icdx	th5	
+jean wallasek	32wv	
+jolaus	bp3	
+kingsolver	38ge	
+kobyli	21iu	
+la jaille		3bms:3
+la jaille yvon	3bms	
+la motte	1lxj,1prh	1adc:4,1igj:4,1m7g:4,1p9q:3,23yw:3,2dlv:4,2ecb:4,2okn:3,2qpz:4,3cwk:3,3h28:3,3mqb:4,3rne:3
+la motte chalancon	2okn	
+la motte cotes d armor	1lxj	
+la motte d		2dlv:4
+la motte d aigues	2dlv	
+la motte de		1adc:4
+la motte de galaure	1adc	
+la motte du		1m7g:4
+la motte du caire	1m7g	
+la motte en		1igj:4
+la motte en champsaur	1igj	
+la motte feuilly	3rne	
+la motte fouquet	3h28	
+la motte picquet		3mqb:4
+la motte picquet grenelle	3mqb	
+la motte picquet grenelle paris metro	3mqb	
+la motte saint		2ecb:4,2qpz:4
+la motte saint didier	2oqk	
+la motte saint jean	2ecb	
+la motte saint martin	2qpz	
+la motte servolex	1p9q	
+la motte ternant	3cwk	
+la motte tilly	23yw	
+la motte var	1prh	
+la repara		2x8p:3
+la repara auriples	2x8p	
+la vuelta	y6	4mi4:4
+la vuelta 2014	4x7	
+la vuelta a espana	y6	
+la vuelta de		4mi4:4
+la vuelta de rocha	4mi4	
+leake		1qtq:2
+leake county	1qtq	
+leake county mississippi	1qtq	
+leake county ms	1qtq	
+mandakini	1dwp	
+mandakini actress	1dwp	
+market	slq,17yg	eul:2,1h1p:2,1t38:2,477v:2,5zx2:2
+market and drumm market and main stations	5iib	
+market and drumm station	5iib	
+market and frankford line	1goa	
+market and main market and drumm stations	5iib	
+market and main station	5iib	
+market charter	eul	
+market competition	5m45	
+market cross oakham	21m0	
+market currency	1ta	
+market drayton	477v	
+market drayton shropshire	477v	
+market economics	slq	
+market forces	slq	
+market frankford	1goa	
+market frankford el	1goa	
+market frankford elevated	1goa	
+market frankford elevated line	1goa	
+market frankford line	1goa	
+market frankford subway	1goa	
+market hall	1h1p	
+market harborough	1t38	
+market harborough england	1t38	
+market house	1h1p	
+market libertarianism	dmb	
+market municipality	eul	
+market place	17yg	
+market places	17yg	
+market process	slq	
+market process economics	slq	
+market right	eul	
+market rights	eul	
+market size	slq	
+market square alexandria virginia	2kr	
+market square letterkenny	l5x	
+market state	6fvu	
+market street elevated	1goa	
+market theatre ledbury	1v49	
+market town	eul	
+market town privileges	eul	
+market towns	eul	
+market towns in england	eul	
+market trade	q08	
+market trader	17yg	
+market types	slq	
+market village	eul	
+market volume	slq	
+market warsop	5zx2	
+mesoregion		1f1q:3
+mesoregion brazil	1f1q	
+mesoregion of		1f1q:3
+mesoregion of brazil	1f1q	
+miseria e nobilta	3f25	
+moncheaux	34s5	338j:3
+moncheaux les		338j:3
+moncheaux les frevent	338j	
+msm6500	9uz	
+muenchenbuchsee	50o6	
+muenchenbuchsee be	50o6	
+muenchenbuchsee bern	50o6	
+muenchenbuchsee berne	50o6	
+muenchenbuchsee switzerland	50o6	
+najin seonbong	36q4	
+najin sonbong	36q4	
+najin sonbong si	36q4	
+national estuarine		1vs7:5
+national estuarine research		1vs7:5
+national estuarine research reserve	1vs7	1vs7:5
+national estuarine research reserve program	1vs7	
+national estuarine research reserve system	1vs7	
+new austin	1uqh	
+new national		4sid:3
+new national front	37z4	
+new national party	4sid	
+new national party egypt	1cuk	
+new national party grenada	4sid	
+new national party of grenada	4sid	
+offa name	6erz	
+paloukia	20j5	
+papillomaviruses	4j7j	
+permesianini	13zp	
+peter koezle	4e3w	
+photograph	ce1,6g8e	
+photograph def leppard song	6g8e	
+photograph printer	5ju2	
+pinillos javier	3r1a	
+polyteloptera	a92	
+premyslovice	2vku	
+pseudepidendrum	cpw	
+psillos	2x07	
+puttin	6k5	4h7k:4
+puttin on		4h7k:4
+puttin on the		4h7k:4
+puttin on the ritz	4h7k	
+puttin on the ritz film	4h7k	
+quatro		3umu:4
+quatro de		3umu:4
+quatro de fevereiro		3umu:4
+quatro de fevereiro airport	3umu	
+quatro de fevereiro international airport	3umu	
+quatro santelana	2lgg	
+ramma 1 2	3pm2	
+revtrud tambov	bt8	
+richard grayson earth two	2o58	
+richens michael	6e4a	
+robert mateusiak	1u8d	
+robert mccredie may	1q17	
+robert mccredie may baron may of oxford	1q17	
+robert mccredie may baron may of oxford om ac kt frs	1q17	
+rubeola	1z7u	
+saint basil	1u5y	
+saint basil of caesarea	1u5y	
+saint basil s cathedral	6g3g	
+saint basil the great	1u5y	
+saint dominique	1sup	
+sassoon		55yc:3
+sassoon david		55yc:3
+sassoon david sassoon	55yc	
+semecarpus	2y5r	
+silens	34rm	
+spaceprobe	81j	
+squaring the circle play	11s9	
+svatava	3tu9	
+svatava sokolov district	3tu9	
+svend	fkp	2003:2,2wau:2,3bai:2,3v4l:2,467t:2,4cun:2,5265:2,5c09:3,5i07:3,5ozj:2
+svend aage madsen	5c09	
+svend age		5c09:3
+svend age madsen	5c09	
+svend asmussen	3v4l	
+svend auken	5ozj	
+svend bille	2003	
+svend borchmann		5i07:3
+svend borchmann hersleb	5i07	
+svend estridsen	zit	
+svend first name	fkp	
+svend given name	fkp	
+svend hersleb	5i07	
+svend ii	zit	
+svend ii estridsen	zit	
+svend korsfarer	2lb7	
+svend methling	5265	
+svend olaf wamnes akstuft	4cun	
+svend olling	467t	
+svend rindom	3bai	
+svend tronkraever	2wau	
+svend tronkrver	2wau	
+svend tyvskg	2a0k	
+svend wam	4cun	
+tarbagatay prefecture	3k86	
+the gallipoli campaign	aeu	
+the roach	6g4p	
+the romance		35nc:5,5fcx:6
+the romance of		35nc:5,5fcx:6
+the romance of a poor young man	52dv	
+the romance of rosy		35nc:5
+the romance of rosy ridge	35nc	
+the romance of the rosebud and the butterfly	1jlo	
+the romance of transportation		5fcx:6
+the romance of transportation in		5fcx:6
+the romance of transportation in canada	5fcx	
+the run for the roses	d6c	
+the virus of life	5la7	
+the virus of life slipknot song	5la7	
+the virus of life song	5la7	
+the za		2do9:4
+the za bum		2do9:4
+the za bum circus	2do9	
+thread	aft	
+thread city	19ol	
+tooke thomas	5orz	
+torill		5zzl:2
+torill kove	5zzl	
+trended	2r5r	
+troo	27dt	
+un te con mussolini	267i	
+verdy du vernois	5vjw	
+verdy kawasaki	3fu	
+verdy kawasaki fc	3fu	
+verdy yomiuri	3fu	
+vetoes	6hgv	
+volquartz	6a2a	
+weopan	9hv	
+wetherell		5zkv:3
+wetherell and		5zkv:3
+wetherell and gage	5zkv	
+wetherell and harrison	5zkv	
+wetherell gage	5zkv	
+wetherell harrison	5zkv	
+yudhishthira	5k5y	

@@ -1,0 +1,563 @@
+abantis	2ukl	
+ajaccio	7aa	4an5:4
+ajaccio airport	4an5	
+ajaccio campo dell oro airport	4an5	
+ajaccio corsica	7aa	
+ajaccio napoleon		4an5:4
+ajaccio napoleon bonaparte	4an5	4an5:4
+ajaccio napoleon bonaparte airport	4an5	
+alighieri dante	e7a	
+alla	jsg	n6u:2,17x6:2,29i5:2,2gd1:2,3qpa:6,4feo:2,4hy4:2,63lf:9
+alla aleksandrovna kazanskaya	4feo	
+alla alskar alice	43ih	
+alla cappella	93w	
+alla conquista dell arkansas	3eu9	
+alla demidova	29i5	
+alla en		3qpa:6
+alla en el		3qpa:6
+alla en el setenta		3qpa:6
+alla en el setenta y		3qpa:6
+alla en el setenta y tantos	3qpa	
+alla female name	jsg	
+alla first name	jsg	
+alla given name	jsg	
+alla kazanskaya	4feo	
+alla konstantinovna tarasova	2gd1	
+alla l lobnya	1dos	
+alla mia		63lf:9
+alla mia cara		63lf:9
+alla mia cara mamma		63lf:9
+alla mia cara mamma nel		63lf:9
+alla mia cara mamma nel giorno		63lf:9
+alla mia cara mamma nel giorno del		63lf:9
+alla mia cara mamma nel giorno del suo		63lf:9
+alla mia cara mamma nel giorno del suo compleanno	63lf	
+alla nazimova	17x6	
+alla perfilova	4h44	
+alla pougacheva	n6u	
+alla pougachova	n6u	
+alla pougachyova	n6u	
+alla pugacheva	n6u	
+alla pugachova	n6u	
+alla pugachyova	n6u	
+alla pugatshova	n6u	
+alla pygacheva	n6u	
+alla rakha	4hy4	
+alla rakha khan	4hy4	
+alla ricerca di gregory	65y1	
+alla tarasova	2gd1	
+ants	k5g	4vit:2,59lf:2
+ants eskola	59lf	
+ants movie	1hvv	
+ants piip	4vit	
+armento	47s2	
+arnage	2x43	
+arnage primary school	5unr	
+arnage sarthe	2x43	
+asoc prof	1alg	
+avenged		1axc:2,3mv9:2
+avenged 7fold	1axc	
+avenged sevefold	1axc	
+avenged sevenfold	1axc,3mv9	
+avenged sevenfold album	3mv9	
+avenged sevenfold avenged sevenfold album	3mv9	
+avenged sevenfold song	1axc	
+berri		3hul:2
+berri de montigny	3hul	
+berri uqam	3hul	
+berri uqam metro station	3hul	
+berri uqam montreal metro	3hul	
+berri uqam station	3hul	
+blacksmith2	d1h	
+blacksmith2 mega immer	d1h	
+blacksmith2 mega simmer	d1h	
+blacksmith2 pictures	d1h	
+blacksmith2 sandbox	d1h	
+breteuil	1dk2,2lbq	
+breteuil eure	2lbq	
+breteuil oise	1dk2	
+breteuil sur iton	2lbq	
+breteuil sur noye	1dk2	
+bukhara	ces	21gw:2
+bukhara oblast	21gw	
+bukhara province	21gw	
+bukhara region	21gw	
+bulgarians	o37	
+castriota scanderbeg	2e96	
+catopta	3qbs	
+centropolis		54jm:2
+centropolis entertainment	54jm	
+chains	32yu,3y2j	3oqb:3
+chains 1949 film	32yu	
+chains of		3oqb:3
+chains of authority	ckm	
+chains of gold	3oqb	
+chains of hate	42q5	
+chains of misery	4yrp	
+chains of olympus	6g00	
+charles mcdougall	2yjv	
+charles sawyers	6c8e	
+chungchongnam do	12l4	
+cicadas cry	3svr	
+cirujales		49sm:3
+cirujales del		49sm:3
+cirujales del rio	49sm	
+cirujales del rio soria	49sm	
+cirujales del rio spain	49sm	
+connahs quay f c	nfr	
+conostalix	a9y	
+cuscutaceae	3b5u	
+destination		1gzq:2,1w50:2,29jw:2,3ejw:2,3oc3:2,4hwf:2,536x:2,65hx:2
+destination control system	4lc0	
+destination death	536x	
+destination films	29jw	
+destination gobi	3ejw	
+destination moon	3oc3	
+destination moon film	3oc3	
+destination moon rah	3oc3	
+destination murder	65hx	
+destination piovarolo	1w50	
+destination store	193	
+destination tokio	1gzq	
+destination tokyo	1gzq	
+destination unknown	4hwf	
+destination unknown 1933 film	4hwf	
+destination unknown film	4hwf	
+dimokratiko komma	4lz6	
+diplotyla	e6d	
+drummin drummin drummin	2z3c	
+edward gene rendell	6aee	
+eislingen	4bv5	4bv5:2
+eislingen fils	4bv5	
+fc bunyodkor	bzm	
+fc enerhiya		4rbt:3
+fc enerhiya yuzhnoukrainsk	4rbt	
+fc enerhiya yuzhnoukrayinsk	4rbt	
+fc saint gallen	4l9	
+feniers	20ux	
+galyorkin	3s0h	
+garbenteich	536o	
+george formby	1asn	
+george formby jr	1asn	
+george hoadly	61f8	
+gmina huszlew	1g81	
+gmina medrzechow	3gm6	
+gpg	3zen	
+gpg encryption	3zen	
+gpg net	4bmf	
+guetersloh	bad	
+guetersloh district	11us	
+guetersloh germany	bad	
+hardy	17yw,1gld	s1k:2,t2q:2,4o85:2
+hardy boy	dl9	
+hardy boys	dl9	dl9:3
+hardy boys digest	dl9	
+hardy boys treasure on the track	dl9	
+hardy charles	5lah	
+hardy county	t2q	
+hardy county virginia	t2q	
+hardy county west virginia	t2q	
+hardy county wv	t2q	
+hardy first name	17yw	
+hardy fox	jko	
+hardy given name	17yw	
+hardy greater manchester	1okt	
+hardy jenns	3zt0	
+hardy jonathan	53u5	
+hardy kirkland	4vac	
+hardy kruger	s1k	
+hardy lancashire	1okt	
+hardy manchester	1okt	
+hardy oliver	3m1	
+hardy rafn	4o85	
+hardy robert	xti	
+hardy surname	1gld	
+hardy thomas	ka3	
+hardy william smith	272f	
+heantune	2id	
+hertzsprung	4geh	
+hertzsprung ejnar	4geh	
+hohe		3m1t:2
+hohe boerde	3m1t	
+hohe borde	3m1t	
+hohe domkirche st peter und maria	mvl	
+hohe domkirche st petrus	mvl	
+hohe schule film	48wn	
+hohe schule university	47qk	
+hohe tauen national park	q3m	
+hohe tauern	q3m	
+hohe tauern national park	q3m	
+huevos de oro	5x2z	
+huevos little rooster s egg cellent adventure	3r44	
+iapx 86	5nzp	
+iapx 86 10	5nzp	
+iapx 86 series	8dp	
+iapx 88	54gs	
+iapx 88 10	54gs	
+ikeuchi yoshihiro	zcu	
+imeritia	2zoc	
+independence	b8z,19bs,31jw,3gc8,621s	6wf:2,8gq:2,10hr:2,1akt:3,1erm:2,43mk:3,5oqq:2,6f7s:2,6hfm:2
+independence 1976 film	621s	
+independence award	6wf	
+independence city missouri	b8z	
+independence city mo	b8z	
+independence county	10hr	
+independence county ar	10hr	
+independence county arkansas	10hr	
+independence cuyahoga county oh	31jw	
+independence cuyahoga county ohio	31jw	
+independence day	8gq,5oqq,6hfm	1akt:3
+independence day 1983 film	5oqq	
+independence day 1996	8gq	
+independence day 2	1akt	
+independence day 2 film	1akt	
+independence day 2 resurgence	1akt	
+independence day 3	1akt	
+independence day 4	8gq	
+independence day award	6wf	
+independence day ecuador	h5	
+independence day el salvador	u8	
+independence day forever part 1	8gq	
+independence day forever part 2	8gq	
+independence day guinea	17e	
+independence day ii	1akt	
+independence day of ecuador	h5	
+independence day part 2	1akt	
+independence day resurgence	1akt	
+independence day soundtrack	8gq	
+independence day u s	6hfm	
+independence day united states	6hfm	
+independence day united states of america	6hfm	
+independence day usa	6hfm	
+independence declaration	20y2	
+independence high school kansas	19bs	
+independence ia	3gc8	
+independence iowa	3gc8	
+independence jackson county missouri	b8z	
+independence jackson county mo	b8z	
+independence kansas	19bs	
+independence ks	19bs	
+independence middle school independence ohio	31jw	
+independence missouri	b8z	
+independence mo	b8z	
+independence movement	1sf2	
+independence movements	251v	
+independence ms	b8z	
+independence of catalonia	251v	
+independence of ceylon	10xa	
+independence of cuba	5qdh	
+independence of mexico	1b3h	
+independence of romania	c25	
+independence of slovenia	3btc	
+independence of south sudan	22e	
+independence oh	31jw	
+independence ohio	31jw	
+independence or		43mk:3
+independence or death	43mk	
+independence or death painting	43mk	
+independence organization	1sbx	
+independence party	1erm	
+independence party iceland	1erm	
+independence party morocco	1zk6	
+independence party of puerto rico	6dvd	
+independence party united kingdom	asv	
+independence referendum	6f7s	
+independence referendum bill	6f7s	
+independence referendums	6f7s	
+independence war of 1895	5qdh	
+independence wars of hispanic america	2eof	
+intruders	2m4y	
+intruders 2010 film	2m4y	
+intruders 2011 film	2m4y	
+james flight white	3yac	
+jean raspail	21hm	
+jem	55ew	
+jem griffiths	55ew	
+jem karacan	54kx	
+jem novel	ite	
+jem paul karacan	54kx	
+jem singer	55ew	
+jem singer comments	55ew	
+jem sultan	63cv	
+jem walker	2hfr	
+kimyou na kajitsu strange fruits	4yzb	
+kimyou na kajitsu strange fruits album	4yzb	
+kings	4g1a	ikn:2,m6f:4,tvb:3,wev:6,18wn:2,1ekr:2,1fp9:2,1qg7:2,1qz8:2,1rrk:3,1wdz:2,2jph:4,2p89:4,2z1d:3,4346:2,4mhx:2,5t1p:3,6a6k:2,6h0z:3
+kings 2009 tv series	4g1a	
+kings american tv series	4g1a	
+kings among scotland	sxv	
+kings and		1rrk:3
+kings and queen	1rrk	
+kings ash	4h1f	
+kings bowl lava field	5yfh	
+kings canyon		m6f:4
+kings canyon california	m6f	
+kings canyon national		m6f:4
+kings canyon national park	m6f	
+kings canyon national park ca	m6f	
+kings canyon national park california	m6f	
+kings canyon np	m6f	
+kings castle in warsaw	4ft3	
+kings college cambridge	617	
+kings college lagos	14ji	
+kings college london	mh	
+kings college london act 1997	mh	
+kings college school	69g	
+kings college school wimbledon	69g	
+kings colours	28h2	
+kings counsel	8on	
+kings county	ikn,18wn,1qg7	
+kings county ca	ikn	
+kings county california	ikn	
+kings county nova scotia	1qg7	
+kings county ny	8k	
+kings county pe	18wn	
+kings county pei	18wn	
+kings county prince edward island	18wn	
+kings cross	6a6k	
+kings cross london	6a6k	
+kings cross london england	6a6k	
+kings cyn nat pk ca	m6f	
+kings cyn nat pk california	m6f	
+kings dominion	1ekr	
+kings dominion halloween haunt	1ekr	
+kings episodes	4g1a	
+kings field	6him	
+kings go		2z1d:3
+kings go forth	2z1d	
+kings highway james bay song	1fvg	
+kings highway song	4x7h	
+kings highways	9fj	
+kings island	1qz8	
+kings island amusement park	1qz8	
+kings island construction	1qz8	
+kings island ohio	1qz8	
+kings island s	1qz8	
+kings langley	4mhx	
+kings langley hertfordshire	4mhx	
+kings lyn	b7l	
+kings lynn	b7l	
+kings lynn and west norfolk	aqg	
+kings lynn f c	8eg	
+kings lynn fc	8eg	
+kings lynn norfolk	b7l	
+kings lynn town	3mcb	
+kings lynn town f c	3mcb	
+kings mountain	4346	
+kings mountain nc	4346	
+kings mountain north carolina	4346	
+kings norton	1wdz	
+kings norton skate park	1wdz	
+kings ny	8k	
+kings of		tvb:3,2jph:4,2p89:4,5t1p:3,6h0z:3
+kings of alba longa	6d54	
+kings of bernicia	56u5	
+kings of characene	3rc6	
+kings of convenience	5t1p	
+kings of funk	dlx	
+kings of great britain	fi	
+kings of hanover	thc	
+kings of hungary	305u	
+kings of leon	tvb,6enc	
+kings of leon band	tvb	
+kings of leon monarchs	6enc	
+kings of pop cover artist	6cft	
+kings of qajar dynasty	17oq	
+kings of qin	4nkg	
+kings of rhythm	6h0z	
+kings of romania	c25	
+kings of savoy	6a7	
+kings of saxony	cgq	
+kings of summer	2y4j	2y4j:4
+kings of the		2jph:4,2p89:4
+kings of the road	2jph	
+kings of the sun	2p89	
+kings of wurttemberg	wen	
+kings park f c	5xgh	
+kings park primary school	38n	
+kings queens		wev:6
+kings queens gold		wev:6
+kings queens gold medal		wev:6
+kings queens gold medal for		wev:6
+kings queens gold medal for poetry	wev	
+kings quest	1gru	
+kings quest 3	66oe	
+kings quest 6	68de	
+kings quest i	5u9o	
+kings quest ii	6917	
+kings quest iii	66oe	
+kings quest iv	5a55	
+kings quest v	4wdt	
+kings quest vi	68de	
+kings road entertainment	1vl8	
+kings row	1fp9	
+kings school wimbledon	69g	
+kings third jersey	1p1	
+kings tv	4g1a	
+kings u s tv series	4g1a	
+kings us tv series	4g1a	
+kings valley	5f0s	
+kings walk golf course	b85	
+kings x	1n8w	
+kloge og vi gale	58n3	
+koflach	4hmc	
+krokoms kommun	wa7	
+kyrkslaett	rqw	
+lamoriciere	5dig	
+le cong		5agb:3
+le cong vinh	5agb	
+lynda	emi	1ryo:2,2wcv:2,3usz:2,4f0r:3,5ehz:6,5roj:3,62z4:4
+lynda bellingham	3usz	
+lynda bird	62z4	62z4:4
+lynda bird johnson	62z4	62z4:4
+lynda bird johnson robb	62z4	
+lynda carter	1ryo	
+lynda clark	5ehz	5ehz:6
+lynda clark baroness		5ehz:6
+lynda clark baroness clark		5ehz:6
+lynda clark baroness clark of		5ehz:6
+lynda clark baroness clark of calton	5ehz	
+lynda day	5roj	5roj:3
+lynda day george	5roj	
+lynda first name	emi	
+lynda given name	emi	
+lynda healy murder victim	2dz3	
+lynda j titchmarsh	4f0r	
+lynda johnson	62z4	
+lynda johnson robb	62z4	
+lynda la		4f0r:3
+lynda la plante	4f0r	
+lynda la plante productions	4f0r	
+lynda limner	ubs	
+lynda lynn smith	330m	
+lynda marchal	4f0r	
+lynda margaret clark	5ehz	
+lynda obst	2wcv	
+lynda petty	6g3j	
+lynda rosen obst	2wcv	
+lynda woodruff	4md1	
+mahring	45ba	
+maria riva	4y67	
+marija		3kht:2
+marija balas stevic	4okx	
+marija baskirceva	5j9b	
+marija baxa	43lj	
+marija il inicna ul janova	1von	
+marija karadordevic	1lou	
+marija karaorevic	1lou	
+marija sarapova	mft	
+marija serifovic	3kht	
+mcphatter	5ihk	
+miamoto	1njm	
+michael bikirakis	568a	
+michael parkinson	4onp	
+muralists	a3a	
+nemperor	4cd8	4cd8:2
+nemperor records	4cd8	
+olds	58zs	
+olds alberta	58zs	
+olds motor vehicle company	1u7p	
+olds motor works	1u7p	
+paroxysmal atrial fibrillation	1gsj	
+paroxysmal sleep	341v	
+paroxysmal ventricular fibrillation	127j	
+parviturbo	3bas	
+pdt utc 7	bj	
+perassay	37og	
+peter wilson	3ypv	
+peter wilson australian soccer	3ypv	
+peter wilson australian soccer player	3ypv	
+peter wilson english footballer	3ypv	
+peter wilson footballer born 1947	3ypv	
+peter wilson musician	4etz	
+peter wilson politician	3evb	
+plasmalemmal	22bs	
+prenzlauer		41oe:2
+prenzlauer berg	41oe	
+ralphlauren	4i8n	
+ramalah	qoi	
+rhini	fxf	
+robert donald blue	5hyd	
+robert donald cabana	2wu2	
+robert donald cabana colonel usmc ret	2wu2	
+rocafort de vallbona	491l	
+rosslyn		3g0j:4
+rosslyn ballston corridor	2xb	
+rosslyn park		3g0j:4
+rosslyn park f		3g0j:4
+rosslyn park f c	3g0j	
+rosslyn park f c temp	3g0j	
+rosslyn park fc	3g0j	
+rosslyn park football club rpfc	3g0j	
+ry30 trax	2hwi	
+saint geoire		3jzl:4
+saint geoire en		3jzl:4
+saint geoire en valdaine	3jzl	
+sariegu	51em	
+sartosona	501o	
+scansano	1fg5	
+schiedam	afx	3ypa:4
+schiedam centrum		3ypa:4
+schiedam centrum railway		3ypa:4
+schiedam centrum railway station	3ypa	
+schiedam centrum rotterdam metro	3ypa	
+schiedam centrum station	3ypa	
+schiedam centrum subway station	3ypa	
+schiedam centrum subwaystation	3ypa	
+schiedam holland	afx	
+schiedam netherlands	afx	
+scleractinia	1jl6	
+shedding at the wedding	4tro	
+shedding card game	4n9	
+shedding game	4n9	
+shedding loom	69do	
+simmons		ca7:2
+simmons college	ca7	
+simmons university	ca7	
+skalds	xa3	
+slomsek	56ll	
+slomsek anton martin	56ll	
+speedin	5tih	
+speedin back to my baby	56ad	
+sum41	qxh	
+sup telecom	1tha	
+svojetin	311e	
+taipana	570g	
+taminforma com br	2ack	
+tavernole		4cto:3
+tavernole sul		4cto:3
+tavernole sul mella	4cto	
+the italy national under 21 football team	1nw	
+the mitsubishi group	j89	
+the ratio	3ez	
+the worldwide federation of aramaic speakers	113s	
+the worldwide roman catholic church	4v	
+theresiopel	6du	
+tizi		oxt:2,uf9:3,5xw4:2
+tizi algeria	oxt	
+tizi ouzou	oxt	uf9:3
+tizi ouzou province	uf9	
+tizi rached	5xw4	
+tizi uzezzu	oxt	
+tizi wezzu	oxt	
+tizi wzzu	oxt	
+tobalina	1hom	
+tonightshow	4kyg	
+trefynwy	7qe	
+twistflower	1mki	
+ullan baator	4sm	
+unbelievable		40rt:6
+unbelievable adventures		40rt:6
+unbelievable adventures of		40rt:6
+unbelievable adventures of italians		40rt:6
+unbelievable adventures of italians in		40rt:6
+unbelievable adventures of italians in russia	40rt	
+unbelievable truth		4vev:3
+university concert hall	rlp	
+uoft	fd	
+vibraphonists	c6n	
+vikt mai yo	7cd	
+villespassans	2pey	
+winsauer michael	65dc	
+zulfiqar ali bhutto	17ue	
+zulfiqar bhutto	17ue	

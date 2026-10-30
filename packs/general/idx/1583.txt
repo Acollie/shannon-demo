@@ -1,0 +1,848 @@
+008 operation		3r1f:3
+008 operation exterminate	3r1f	
+101 airborne	34l7	
+101 alicia keys song	5z66	
+101 chodyangal	4xub	
+101 dalmatians	em6,14es	11wl:7,206d:4
+101 dalmatians 1961 film	em6	
+101 dalmatians 1961 movie	em6	
+101 dalmatians 1996 film	14es	
+101 dalmatians 1996 movie	14es	
+101 dalmatians 1997 tv series	206d	
+101 dalmatians 2	11wl	
+101 dalmatians ii	11wl	11wl:7
+101 dalmatians ii patch		11wl:7
+101 dalmatians ii patch s		11wl:7
+101 dalmatians ii patch s london		11wl:7
+101 dalmatians ii patch s london adventure	11wl	
+101 dalmatians the		206d:4
+101 dalmatians the series	206d	
+101 dalmatians tv series	206d	
+101 dalmatians tv show	206d	
+101 dalmations 2	11wl	
+101 reikiavik	1tdc	
+101 reykjavik	1tdc	
+101 reykjavik film	1tdc	
+101 tastiest places to chowdown	ko3	
+101 tower	35ut	
+37 19 24 55 n 121 53 32 21 w	1dr	
+37 2 c le matin	5mi7	
+37 2 degrees in the morning	5mi7	
+37 2 in the morning	5mi7	
+37 2 le matin	5mi7	
+37 2deg in the morning	5mi7	
+37 canadian		5iyl:4
+37 canadian brigade		5iyl:4
+37 canadian brigade group	5iyl	
+37 cbg	5iyl	
+37 days	3809	
+37 days tv series	3809	
+710 bc	4qc1	
+alexander russell bolling	5gkt	
+alexander zhuravlyov	6eez	
+alistairmaclean	m7j	
+alpe di mera	1k9q	
+alpe di pampeago	3o4v	
+alpe pampeago	3o4v	
+andegavensis ager	65j4	
+antananarrivo	9mh	
+asleep	1bz9	
+asleep at the wheels of steel	11dr	
+asleep smiths song	6gw0	
+asleep the smiths song	6gw0	
+ayatollahs	21u0	
+bantheville	3cq4	
+berrhoea	hst	
+birobidjan	1pn6	
+blello	5gu2	
+bornet	52aw	
+brightman sarah	e5r	
+bspc	4rop	
+burlov	2abp	2abp:2
+burlov municipality	2abp	
+capraesque	dui	
+cdeboghorsczhy onlysee	igf	
+cecal pellets	35xc	
+chukotko autonomous okrug	kz7	
+codie given name	9rn	
+conversations		481w:4,53ui:4
+conversations of the universe	2wqx	
+conversations with		481w:4,53ui:4
+conversations with my		481w:4
+conversations with my gardener	481w	
+conversations with other		53ui:4
+conversations with other women	53ui	
+coughing	1a2h	
+coupru	2dxq	
+courage	5z4g	lbo:3,2oh8:3,4kpq:4
+courage 1930 film	5z4g	
+courage alexander	2fib	
+courage d aimer	5mnn	
+courage fuyons	4kpq	
+courage league	slf	
+courage league division three	46no	
+courage league national division two	195p	
+courage let		4kpq:4
+courage let s		4kpq:4
+courage let s run	4kpq	
+courage of		2oh8:3
+courage of charlie chan	4i0y	
+courage of lassie	2oh8	
+courage under		lbo:3
+courage under fire	lbo	
+darevskia	6fwq	
+decaturian	14q7	
+demme jonathan	iuq	
+demonicinfluence roman persian war of 602 629	19x7	
+demonicinfluence romanpersian war of 602 629	19x7	
+disneyworld	5mi	
+dualshock2	abu	
+eanfleda	3h4r	
+elika prince of persia	yyk	
+etxauri	3dmh	
+eurodance	2ix	
+eyion	2ma1	
+fanna khusraw	48ln	
+fariman		1wz5:3
+fariman rural		1wz5:3
+fariman rural district	1wz5	
+fc veras	40up	40up:3
+fc veras nesvizh	40up	
+finavia	1cph	
+finavia abp	1cph	
+finavia corporation	1cph	
+finavia holding oy	1cph	
+finavia oyj	1cph	
+fujairah	21jh	
+fujairah club	1djp	
+fujairah emirate	21jh	
+fujairah government	21jh	
+fujairah sc	1djp	
+fujairah tower	21jh	
+gand	1lf	
+gand city	1lf	
+garbela	1b18	
+george balanchine	b84	
+george balanchine trust	b84	
+gilday gray	67g3	
+giornico	4sut	
+giornico switzerland	4sut	
+giornico ti	4sut	
+giornico ticino	4sut	
+giraffe constellation	bxs	
+giraffe giraffes	1qam	
+gmina budzyn	1iye	
+gmina ososina		18y8:3
+gmina ososina dolna	18y8	
+gnieznienski	13zj	
+godyns bay	4qal	
+gojira	2dly	
+gojira 1954	2cvo	
+gojira 1954 film	2cvo	
+gojira 1998 film	vud	
+gojira band	2dly	
+gojira ebira mosura nankai no daiketto	27n3	
+gojira fainaru uozu	xvc	
+gojira film	2cvo	
+gojira minira gabara oru kaiju dai shingeki	2x5a	
+gojira no gyakushu	42jm	
+gojira no musuko	2bhj	
+gojira tai gaigan	1ook	
+gojira tai gigan	1ook	
+gojira tai hedora	4kc5	
+gojira tai hedorah	4kc5	
+gojira tai megaro	22ap	
+gojira tai mekagojira	1iff	
+gojira vs mosura	2i62	
+guglielmus budaeus	4g8x	
+guglielmus de campellis	4s6s	
+gulph of mexico	aj7	
+gymnosoma	2n15	
+gymnosoma agchista	2n15	
+gymnosoma brevicorne	2n15	
+gymnosoma dubia	2n15	
+gymnosoma fuscohalteratum	2n15	
+gymnosoma inornata	2n15	
+gymnosoma latifrons	2n15	
+gymnosoma meridionalis	2n15	
+gymnosoma microcera	2n15	
+gymnosoma minuta	2n15	
+gymnosoma neotropicale	2n15	
+gymnosoma obliqua	2n15	
+gymnosoma orientalis	2n15	
+gymnosoma sicula	2n15	
+gymnosoma sylvatica	2n15	
+gymnosoma ventricosum	2n15	
+haiqu	29ak	
+haiqu county	29ak	
+haw fruit	a27	
+heterochorista	3mqg	
+holy		5na:3,68e:3,8bv:2,cl9:2,hc3:5,r0a:3,wkl:3,10jw:2,143x:2,1l1d:2,1vdn:2,20z6:2,23mz:2,2ad4:2,2kaj:2,2q96:3,33yx:2,3op9:2,42bm:3,4h64:6,598o:2,5bcc:2,5c6f:2,5ob5:2,5ssj:2,6b00:3
+holy and great friday	1vdn	
+holy baptism	1nfd	
+holy bible	2nl	
+holy blues	54y6	
+holy book	507	
+holy books	507	
+holy cathedral of etchmiadzin	k3e	
+holy child	2sd	
+holy child academy drexel hill	27ek	
+holy city of jerusalem	hu	
+holy cole	3mnc	
+holy cole trio	3mnc	
+holy conversation	kvx	
+holy conversation piero della francesca	2dc1	
+holy cross	43p	68e:3,r0a:3
+holy cross catholic primary school	2mxu	
+holy cross cemetery	68e,r0a	
+holy cross cemetery colma	r0a	
+holy cross cemetery colma california	r0a	
+holy cross cemetery culver city	68e	
+holy cross cemetery culver city california	68e	
+holy cross college of the	43p	
+holy cross college worcester ma	43p	
+holy cross elementary	6tj	
+holy cross of la palma	31pv	
+holy cross rc primary school	2mxu	
+holy crown of thorns	6b8w	
+holy day	ond	
+holy days	1xm	
+holy dexter	1cv2	
+holy empire	5na	
+holy family	3op9	
+holy family catholic primary school	s6o	
+holy family in egypt	5dnl	
+holy family newbridge	2jw7	
+holy family secondary	2jw7	
+holy family secondary school	2jw7	
+holy family sunday	3op9	
+holy friday	1vdn	
+holy ghost	143x	2q96:3
+holy ghost father	2q96	
+holy ghost fathers	2q96	
+holy girl	47ep	47ep:3
+holy goalie	40vp	
+holy god		4h64:6
+holy god here		4h64:6
+holy god here comes		4h64:6
+holy god here comes the		4h64:6
+holy god here comes the passatore	4h64	
+holy god it s the passatore	4h64	
+holy gospel	18fz	
+holy ground taylor swift song	3r90	
+holy head	1zef	
+holy heart of jesus	6djv	
+holy helper	550t	
+holy hip hop	8ds	
+holy innocents		4nt8:3
+holy kaiser	wkl	
+holy kiss of flesh	jko	
+holy land crusades	mu5	
+holy league great turkish war	1b8p	
+holy lie	5f9j	5f9j:3
+holy man	2ad4	
+holy man film	2ad4	
+holy marriage blessing ceremony of the parents of heaven and earth	4tuu	
+holy matrimony	1l1d,5ssj	
+holy matrimony 1943 film	1l1d	
+holy matrimony 1994 film	5ssj	
+holy modal rounders	5h6k	5h6k:4
+holy motors	2kaj	
+holy mount of athos	1mk1	
+holy mountain	1mk1	4ano:3
+holy mountain records	5v34	
+holy name school	usf	
+holy name technical school	254y	
+holy names		42bm:3
+holy names college	42bm	
+holy names university	42bm	
+holy order	10jw	
+holy orders	10jw	
+holy place	19rr	
+holy quarrel	5cf	
+holy queen	40or	40or:3
+holy queen isabel	1h9f	
+holy rap	8ds	
+holy records	20z6	
+holy relic	6ayj	
+holy relics	6ayj	
+holy right	1cv2	
+holy road	z4l	
+holy roar album	1wrk	
+holy roman		5na:3,wkl:3
+holy roman catholic	4v	
+holy roman church	75u	
+holy roman elector	6hw	
+holy roman emperor	wkl	
+holy roman emperor albert i	vgq	
+holy roman emperor albert ii	2xgn	
+holy roman emperor and german king frederick ii	gud	
+holy roman emperor and german king frederick iii	1cuo	
+holy roman emperor and german king henry iii	1dow	
+holy roman emperor and german king henry iv	1ccd	
+holy roman emperor and german king henry v	3bkl	
+holy roman emperor and german king henry vi	1b09	
+holy roman emperor and german king henry vii	26hi	
+holy roman emperor charles v	ihr	
+holy roman emperor charles vi	10xy	
+holy roman emperor charles vii	1cjp	
+holy roman emperor charles vii albert	1cjp	
+holy roman emperor conrad iv	1clj	
+holy roman emperor elect	wkl	
+holy roman emperor ferdinand ii	rvm	
+holy roman emperor ferdinand iii	wdp	
+holy roman emperor francis i	jo0	
+holy roman emperor francis ii	ho9	
+holy roman emperor franz stephan	jo0	
+holy roman emperor frederick ii of hohenstaufen	gud	
+holy roman emperor frederick iii	1cuo	
+holy roman emperor heinrich ii	27ax	
+holy roman emperor heinrich v	3bkl	
+holy roman emperor heinrich vi	1b09	
+holy roman emperor henry ii	27ax	
+holy roman emperor henry iii	1dow	
+holy roman emperor henry v	3bkl	
+holy roman emperor henry vi	1b09	
+holy roman emperor joseph i	16jf	
+holy roman emperor joseph ii	qw3	
+holy roman emperor karel v	ihr	
+holy roman emperor karl iv	dww	
+holy roman emperor karl vii	1cjp	
+holy roman emperor karol v	ihr	
+holy roman emperor leopold i	ohc	
+holy roman emperor lothair iii	2zjm	
+holy roman emperor lothar ii	2zjm	
+holy roman emperor lothar iii	2zjm	
+holy roman emperor louis iv	u2f	
+holy roman emperor massimiliano i	j4f	
+holy roman emperor matthia	1jlg	
+holy roman emperor matthias	1jlg	
+holy roman emperor maximilian i	j4f	
+holy roman emperor maximiliano i	j4f	
+holy roman emperor otto i	v45	
+holy roman emperor otto ii	1e94	
+holy roman emperor otto iii	3sgm	
+holy roman emperor otto iv	1txq	
+holy roman emperor rudolf ii	r4d	
+holy roman emperor rudolph ii	r4d	
+holy roman emperor siegmund	jbr	
+holy roman emperor zigmund luxembursky	jbr	
+holy roman emperor zikmund lucembursky	jbr	
+holy roman emperors	wkl	
+holy roman empire	5na	
+holy roman empire of german nation	5na	
+holy roman empire of the german nation	5na	
+holy roman empire states	2vd5	
+holy roman emporer	wkl	
+holy roman empress constance	292k	
+holy roman empress maria	idn	
+holy rome	5na	
+holy scripture	507	
+holy scriptures	2nl	
+holy seat	8bv	
+holy see	8bv	
+holy see of manila	3ejv	
+holy see of saint peter	f9f	
+holy see rome	8bv	
+holy see the	8bv	
+holy see vatican	8bv	
+holy see vatican city	8bv	
+holy sepulchre	3bg1	
+holy sepulchre church	3bg1	
+holy sigismund	jbr	
+holy smoke	33yx	
+holy sobor	764	
+holy sophia cathedral in novgorod	5mv1	
+holy spirit	143x	
+holy steve	55ki	
+holy sword legend 2	2444	
+holy table	3ljm	
+holy terror film	5jtp	
+holy text	507	
+holy tongue	5c6f	
+holy trinity	cl9	1ye0:3,6b00:3
+holy trinity cathedral	6b00	
+holy trinity cathedral addis ababa	6b00	
+holy trinity church cookham	36e6	
+holy trinity junior school guildford	48y	
+holy trinity junior school guildford comments	48y	
+holy valance	4283	
+holy vows	10jw	
+holy water soundgarden song	5clb	
+holy weapon	5bcc	
+holy week	598o	hc3:5
+holy week film	598o	
+holy week in		hc3:5
+holy week in paranaque		hc3:5
+holy week in paranaque city	hc3	
+holy wood	5ob5	
+holy wood in the shadow of the valley of death	5ob5	
+holy year	23mz	
+hundsbach	3hu7	
+hundsbach haut rhin	3hu7	
+iuhei	5swp	
+izernore	16ip	
+izo	36tz	
+izo hashimoto	5v32	
+jean vilar	5qjy	
+john colvin	3ild	
+john colvin diplomat	3ild	
+john dixie deans	4yss	
+john fowler	47qy	
+john fowler engineer	47qy	
+karmi el	2a3k	
+krencsey marianne	43b8	
+kurnikova	2ivb	
+la carapate	3b7f	
+laybach	11u	
+leatherby libraries	fwm	
+letmathe	f59	
+liassine		4e7a:2
+liassine cadamuro	4e7a	
+liassine cadamuro bentaiba	4e7a	
+light	1hss,5pxx	2a6:2,2xk:2,3og:2,5by:2,6lk:2,g0n:2,h60:2,odz:3,wyv:4,xp9:2,13ta:2,1448:2,1cqa:2,1gai:3,1mjk:2,1tbt:3,21t1:4,25t0:4,2ldl:2,2ohr:17,34sp:2,350g:4,3hz9:3,3lkq:6,3mf8:4,3vgi:2,4dnt:2,4jzy:2,4v5x:6,4vbx:2,57t3:3,5kr7:2,5m4h:3,5mzn:2,6cf8:2,6e0h:3
+light across the street	5e5d	5e5d:5
+light aircraft	5kr7	1tbt:3
+light aircraft carrier	1tbt	
+light alloy	jqy	
+light amplification by simulated emission of radiation	105w	
+light amplification by stimulated emissions of radiation	105w	
+light and		2ohr:17
+light and colour	2ohr	2ohr:17
+light and colour goethe		2ohr:17
+light and colour goethe s		2ohr:17
+light and colour goethe s theory	2ohr	2ohr:17
+light and colour goethe s theory the		2ohr:17
+light and colour goethe s theory the morning		2ohr:17
+light and colour goethe s theory the morning after		2ohr:17
+light and colour goethe s theory the morning after the		2ohr:17
+light and colour goethe s theory the morning after the deluge		2ohr:17
+light and colour goethe s theory the morning after the deluge moses		2ohr:17
+light and colour goethe s theory the morning after the deluge moses writing		2ohr:17
+light and colour goethe s theory the morning after the deluge moses writing the		2ohr:17
+light and colour goethe s theory the morning after the deluge moses writing the book		2ohr:17
+light and colour goethe s theory the morning after the deluge moses writing the book of		2ohr:17
+light and colour goethe s theory the morning after the deluge moses writing the book of genesis	2ohr	
+light anti tank weapon	1dm7	
+light armor	ul2	
+light armored vehicle	cps	
+light armoured cruiser	5by	
+light armoured vehicle	cps	
+light arms	4xm	
+light at the edge of the world	1dtz	1dtz:8
+light attack aircraft	is0	
+light bantamweight	a5i	
+light between oceans	3qjt	3qjt:4
+light black	woj	
+light blue	29x,1mjk	
+light blue color	1mjk	
+light bomb	p3p	
+light bombardment	6cf8	
+light bomber	6cf8	
+light bombers	6cf8	
+light brown	6pz	
+light bug	1u9n	
+light business jet	2952	
+light carrier	1tbt	
+light cavalry	34sp,4jzy	
+light cavalry 1935 french film	4jzy	
+light cavalry 1935 french language film	4jzy	
+light cavalry 1935 german film	34sp	
+light classical music	4vbx	
+light coke	6fx3	
+light colonel	b9y	
+light comments	5pxx	
+light cream	1qnp	
+light cruiser	5by	
+light cruisers	5by	
+light curtain puppet	61wr	
+light cylinder	34ez	
+light darkness	4vs7	
+light density line conrail	2f2g	
+light designer	ck2	
+light destroyer	ns	
+light emitting material	6f5e	
+light emitting materials	6f5e	
+light fingered george	47cb	
+light fish	52pv	
+light fleet carrier	1tbt	
+light flight	4l8w	
+light flyweight	6lk	
+light gaming	1mny	
+light gathering power	a0f	
+light generation	5pxx	
+light gone series	6hi4	
+light grasp	a0f	
+light green tea	5rtc	
+light grey	woj	
+light gun	13ta	1gai:3
+light gun game	1gai	
+light gun shooter	1gai	
+light guns	13ta	
+light hearted		6e0h:3
+light hearted isabel	6e0h	
+light heavyweight	2a6	
+light heavyweight boxer	2a6	
+light horse harry	39mx	
+light horse harry lee	39mx	
+light house	j9	
+light houses	j9	
+light icebreaker	6mt	
+light in		3mf8:4
+light in space	5pxx	
+light in the		3mf8:4
+light in the forest	1hou	1hou:5
+light in the piazza	3mf8	
+light in the piazza film	3mf8	
+light infantry	4dnt	
+light it		3hz9:3
+light it up	3hz9	
+light it up 1999	3hz9	
+light it up film	3hz9	
+light it up hot water music album	3ai0	
+light like	67b6	
+light lyric soprano	6c3v	
+light machine		odz:3
+light machine gun	odz	
+light machine guns	odz	
+light machinegun	odz	
+light manufacturing	2i7	
+light meal	1e7t	
+light micrscopy	3pnm	
+light middleweight	3og	
+light middleweight champion	3og	
+light middlewight	3og	
+light music	4vbx	
+light n lively doubles championships	4q87	
+light novel	g0n	
+light novels	g0n	
+light of		21t1:4,57t3:3
+light of day	57t3	
+light of the south	ag	
+light of truth		21t1:4
+light of truth award	21t1	
+light opera	1gdo	
+light operetta	6gc	
+light orchestral music	4vbx	
+light over		5m4h:3
+light over russia	5m4h	
+light over water	18sq	
+light particle	4yen	
+light physics	l0m	
+light quanta	4yen	
+light quantum	4yen	
+light rail	xp9	wyv:4,25t0:4,350g:4,4v5x:6
+light rail hong kong	g56	
+light rail in melbourne	mpg	
+light rail kcr	g56	
+light rail kcrc	g56	
+light rail line	g56	
+light rail mtr	g56	
+light rail route		350g:4
+light rail route 505	350g	
+light rail routes		4v5x:6
+light rail routes 705		4v5x:6
+light rail routes 705 and		4v5x:6
+light rail routes 705 and 706	4v5x	
+light rail station	3zj	
+light rail system	xp9	
+light rail transit	xp9	wyv:4,25t0:4
+light rail transit authority	25t0	
+light rail transit hong kong	g56	
+light rail transit kcr	g56	
+light rail transit singapore	wyv	
+light rail transit tuen mun	g56	
+light rail tuen mun	g56	
+light rail vehicle	xp9	
+light rail yuen long	g56	
+light rapid transit	wyv	
+light rapid transit singapore	wyv	
+light rapid transit singapore safety	wyv	
+light rapid transport	xp9	
+light records	1448	
+light reflection	5pxx	
+light region	1cqa	
+light regional council	1cqa	
+light rock	230	
+light role infantry	4dnt	
+light rum	2gzh	
+light s city	10c	
+light season	4m51	
+light ship	45f0	
+light ships	45f0	
+light sky blue	25e1	
+light sleeper	2ldl	
+light speed liedson	47nd	
+light stockhausen	23uj	
+light tank	h60	
+light tanks	h60	
+light the		3lkq:6
+light the fuse		3lkq:6
+light the fuse sartana		3lkq:6
+light the fuse sartana is		3lkq:6
+light the fuse sartana is coming	3lkq	
+light touch	3fuj	3fuj:3
+light treason	kur	
+light up drake	6fzf	
+light up drake song	6fzf	
+light up the sky christina aguilera song	4oiw	
+light vessel	45f0	
+light video game	ibz	
+light warriors	2w50	
+light wave	5pxx	
+light wavelength	5pxx	
+light waves	5pxx	
+light weapons	4xm	
+light weight	1t2	
+light weight concrete	5nwx	
+light weight java game library	53ue	
+light welterweight	2xk	
+light welterweight champion	2xk	
+light whipping cream	1qnp	
+light years	3vgi	
+light years kylie minogue album	3vgi	
+light years kylie minogue song	3vgi	
+likio	3d2c	
+lippert films	32w7	
+lippert pictures	32w7	
+lippert pictures inc	32w7	
+lippert productions	32w7	
+lippert studios	32w7	
+lissa in posen	ibt	
+macromphalina	4wxr	
+magha	4900	
+magha nakshatra	4900	
+maria perschy	22gc	
+mathaux	2m77	
+mcmxviii	23ya	
+meichow	15l7	
+melicucco	3uxw	
+michael ohoven	5sz0	
+montgesoye	2c42	
+najip jihanov	56lo	
+navbox default	5meb	
+navbox frederick ashton	4t4q	
+navbox go transit	3f41	
+navbox goosebumps	1g70	
+navbox singapore airlines	35g1	
+new tories	bw	
+parodied	fw9	
+paul dini	14s3	
+paul kilday	5749	
+pelophylax	2rpj	
+pelophylax sp aggr	2rpj	
+peter holmstroem	1snt	
+peter rohlinger	69bo	
+pharmalogical	o5g	
+pontypool	fvw,2smu	hgy:2
+pontypool film	2smu	
+pontypool leisure centre	fvw	
+pontypool movie	2smu	
+pontypool rfc	hgy	
+pontypool wales	fvw	
+previously the thomas young oration of the optical society	2nom	
+ptolemeus	19bk	
+qotr al iraq	165b	
+r91	47c1	
+raikkula		1oim:3
+raikkula parish	1oim	
+raikkula rural		1oim:3
+raikkula rural municipality	1oim	
+raikkula vald	1oim	
+richardsville new brunswick	usa	
+roebrt recorde	5uiq	
+romantics	4thl	30ox:2,4thl:2
+romantics anonymous	30ox	
+roscoea	2urw	
+royale		all:4,f3e:4,5d6q:2
+royale 2006 film	ewl	
+royale union		all:4,f3e:4
+royale union saint		all:4
+royale union saint gilloise	all	
+royale union tubize		f3e:4
+royale union tubize braine	f3e	
+rumsdorp	2lxd	
+sambo	15s7	
+sambo food	7yq	
+sambo martial art	15s7	
+sambo martial arts	15s7	
+sambo sport	15s7	
+san nazario	4lps	
+san nazario veneto	4lps	
+san nazario vi	4lps	
+sapromyzidae	1q9a	
+schiedea	51q3	
+serrone	59c1	
+sir philip		4nfw:5,4yzr:5,5etg:6
+sir philip albert gustave david sassoon	4nfw	
+sir philip albert gustave david sassoon 3rd baronet	4nfw	
+sir philip anthony hopkins	9h6	
+sir philip christison		4yzr:5
+sir philip christison 4th		4yzr:5
+sir philip christison 4th baronet	4yzr	
+sir philip cohen	4q2s	
+sir philip craven	5bqn	
+sir philip de malpas grey egerton	5etg	
+sir philip de malpas grey egerton 10th baronet	5etg	
+sir philip game	633j	
+sir philip green	4j00	
+sir philip grey		5etg:6
+sir philip grey egerton		5etg:6
+sir philip grey egerton 10th		5etg:6
+sir philip grey egerton 10th baronet	5etg	
+sir philip joseph hartog	593g	
+sir philip joubert	66yo	
+sir philip joubert de la ferte	66yo	
+sir philip martin bailhache	6602	
+sir philip neame	4ltz	
+sir philip nigel ross green	4j00	
+sir philip richardson 1st baronet	62v0	
+sir philip sassoon	4nfw	4nfw:5
+sir philip sassoon 3rd		4nfw:5
+sir philip sassoon 3rd baronet	4nfw	
+sir philip sidney	1n9k	
+sir philip sydney	1n9k	
+sir philip wigham richardson 1st baronet	62v0	
+sir philip woolcott game	633j	
+solberg	10vb	
+sommeilles	2h9g	
+specialty	11jl	2eu:2
+specialty channel	2eu	
+specialty channels	2eu	
+specialty chemical industry	2v5a	
+specialty film	8cm	
+specialty keyboards	l5	
+specialty law	4poq	
+specialty matches	259	
+specialty media	2eu	
+specialty movie	8cm	
+specialty networks	2eu	
+specialty news	2eu	
+specialty records	11jl	
+specialty service	2eu	
+specialty shop	193	
+specialty shops	193	
+specialty stores	193	
+specialty television	2eu	
+stanislaviv	5yj	
+subclass biology	3gu	
+tebeauville ga	wux	
+tebeauville georgia	wux	
+territoires du nord ouest	365	
+thammasat	1iu4	1iu4:2
+thammasat business school	1iu4	
+thammasat university	1iu4	
+thammasat university faculty of economics	1iu4	
+the crue	iy5	
+thei	oow	
+thonar	soz	
+throw		28bx:5,46el:2
+throw a fit ep	1nn1	
+throw a penny	6af	
+throw brass instrument	1jpv	
+throw down	46el	
+throw down film	46el	
+throw it all away	2giv	
+throw mama from the train	28bx	
+throw momma		28bx:5
+throw momma from		28bx:5
+throw momma from the		28bx:5
+throw momma from the train	28bx	
+throw music	1jpv	
+throw musical instrument	1jpv	
+throw weight	3g4r	
+throw ya l s up	5zph	
+tomoro taguchi	tn6	
+toufflers	2pub	
+troitsk	3sgf	
+troitsk chelyabinsk oblast	3sgf	
+tsuyoshi	sr3	3ie7:2,3k79:2,433n:2,4pdl:2,59md:2,5ds9:2
+tsuyoshi first name	sr3	
+tsuyoshi given name	sr3	
+tsuyoshi ihara	433n	
+tsuyoshi kusanagi	3k79	
+tsuyoshi mashabuchi	4pdl	
+tsuyoshi nagabuchi	4pdl	
+tsuyoshi sekito	3ie7	
+tsuyoshi yamanaka	59md	
+tsuyoshi yoshitake	5ds9	
+tupouto a lavaka	2hev	
+tupouto a lavaka ata	2hev	
+tupouto a tungi	3jk2	
+tupouto a ulukalala	6byv	
+undecideds	4dub	
+unterasbach	4vgw	
+valcebollere	25o9	
+vampiro negro	6726	
+vitruvian virtues	56xb	
+walke alexander	4745	
+wayside		6hh0:2
+wayside school	6hh0	
+wayside school book series	6hh0	
+william coblentz	5jv3	
+wolterdingen donaueschingen	1cb3	
+worcester	2g2,4jy,1egw	3t7:4,4ey:2,82j:2,8xr:2,evp:3,z31:2,1liz:3,4x2j:2,5eog:2,6a5d:2
+worcester abbey	5eog	
+worcester academy	4x2j	
+worcester archive	4jy	
+worcester cathedral	5eog	
+worcester cathedral chamber choir	5eog	
+worcester cathedral choir	5eog	
+worcester cathedral st peter s priory	5eog	
+worcester city	3t7	3t7:4
+worcester city council	4jy	
+worcester city f		3t7:4
+worcester city f c	3t7	
+worcester city fc	3t7	
+worcester city football club	3t7	
+worcester college	4ey	
+worcester college chapel	4ey	
+worcester college oxford	4ey	
+worcester college oxford university	4ey	
+worcester county	8xr,z31	
+worcester county cricket club	2zoq	
+worcester county free institute of industrial science	evp	
+worcester county ma	8xr	
+worcester county maryland	z31	
+worcester county massachusetts	8xr	
+worcester county md	z31	
+worcester engineers	evp	
+worcester england	4jy	
+worcester f c	3t7	
+worcester fc	3t7	
+worcester ma	2g2	
+worcester ma msa	8xr	
+worcester mass	2g2	
+worcester massachusetts	2g2	
+worcester massechusetts	2g2	
+worcester mountains	1egw	
+worcester nav	2g2	
+worcester normal school	1liz	
+worcester oxford	4ey	
+worcester park	6a5d	
+worcester poly engineers	evp	
+worcester polytechnic	evp	evp:3
+worcester polytechnic institute	evp	
+worcester priory	5eog	
+worcester rfc	82j	
+worcester rugby	82j	
+worcester rugby football club	82j	
+worcester south africa	1egw	
+worcester state		1liz:3
+worcester state college	1liz	
+worcester state lancers	1liz	
+worcester state lancers football	1liz	
+worcester state lancers track and field	1liz	
+worcester state university	1liz	
+worcester uk	4jy	
+worcester united kingdom	4jy	
+worcester van eps	1cdm	
+worcester warriors	82j	
+worcester wildfire	ygc	
+worcester worcestershire	4jy	
+wuyu	67al	
+xinxi county	5f9	
+yamagawaokachiyogamizu	31dm	
+zenjan	nmx	
+zizurkil	2ql3	
+zoza	3ia2	

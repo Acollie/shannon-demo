@@ -1,0 +1,714 @@
+15eme arrondissement paris	au7	
+a ali an nil state	4qr0	
+a ali an nil state sudan	4qr0	
+acheres	18he,34sc	2olb:3
+acheres cher	34sc	
+acheres la		2olb:3
+acheres la foret	2olb	
+acheres yvelines	18he	
+amanite	bqt	
+amenity song	h0a	
+anataractis	11kq	
+anchise		h2y:2
+anchise brizzi	h2y	
+angous	32z1	
+arethra franklin	6et	
+armoured branch	1jhk	
+armoured brigade	3r6	
+armoured car	cps	
+armoured car military	cps	
+armoured car robbery	3iiy	
+armoured carrier	8rp	
+armoured combat	1jhk	
+armoured combat vehicle	ul2	
+armoured core	6c4o	
+armoured cruiser	iuz	
+armoured cruisers	iuz	
+armoured defence ground strike vehicle	aj3	
+armoured division	yx	
+armoured fighting vehicle	ul2	
+armoured fighting vehicle classification	ul2	
+armoured fighting vehicles	ul2	
+armoured force	1jhk	
+armoured frigate	1m3	
+armoured hover train	4fzg	
+armoured lorries	cps	
+armoured lorry	cps	
+armoured memorial	477	
+armoured personnel carrier	8rp	
+armoured personnel carriers	8rp	
+armoured saint	4abm	
+armoured scale insect	4o7p	
+armoured spiders	1t8l	
+armoured tank	aj3	
+armoured units	1jhk	
+armoured vault	492q	492q:3
+armoured vests	s03	
+armoured warfare	1jhk	
+armoured weapon carriers	6elr	
+artscience	3f6l	
+artscience album	3f6l	
+artscience robert glasper album	3f6l	
+baazigar	3w8k	
+baazigar 1993 film	3w8k	
+barlow girl	5cka	
+barlow knife	1hid	
+benazirabad	5z2h	
+benedicta		459p:5
+benedicta henrietta	459p	459p:5
+benedicta henrietta of		459p:5
+benedicta henrietta of simmern	459p	
+benedicta henrietta of the		459p:5
+benedicta henrietta of the palatinate	459p	
+benedicta henrietta of the palatinate simmern	459p	
+benedicta of braganza	4fej	
+benedicta of portugal	4fej	
+benedicta princess of brazil	4fej	
+biscuts	rx2	
+blueprint	5lsu	4ko1:2
+blueprint 3	569y	569y:3
+blueprint film	5lsu	
+blueprint movie	5lsu	
+blueprint records	1f0u	
+bodie miller	3o6t	
+bonnemain	1fip	
+bonvaventure peeters	52x0	
+bqstqn bruins	163	
+bramton	6g0	
+brooklyns finest	1c6q	
+calebopolis	1b51	
+castniidae	1ret	
+cataclysm	6foq	
+charles barkla	2ozu	
+charodei	3550	
+chromodorididae	37pq	
+cimarosa	2qnz	
+cimarosa domenico	2qnz	
+cinderbiter productions	5y49	
+cunlhat	2zi9	
+daei	1gvu	
+dav bseb	67a	
+dav dav burliuk	5h10	
+dav letterman	1gxc	
+dav pilkey	2esb	
+dav tenniers	1580	
+deathrace 2000	wsf	
+dolcenera	3frd	
+domiyeh	5dmj	
+dongzhimen		4jfp:2
+dongzhimen station	4jfp	
+duena	14v0	
+duena de honor	ndh	
+edict of moulins	ago	
+edward neumeier	5z5b	
+elmidae	1r0p	
+equinodermata		4pp7:2
+equinodermata taxonomy	4pp7	
+euroscepticism	huh	
+extended		6l:2,19p8:2
+extended ascii	19p8	
+extended case method	i5l	
+extended character	19p8	
+extended characters	19p8	
+extended constructed response	1m2x	
+extended constructed respose	1m2x	
+extended lunar modules	6gsz	
+extended markup language	7uw	
+extended play	6l	
+extended play record	6l	
+extended player	6l	
+extended players	6l	
+extended tornado outbreak	1e2u	
+extended tornado outbreaks	1e2u	
+extended triangle	44t9	
+extended versions the smithereens album	1cu6	
+extended versions the smithereens live album	1cu6	
+fob	i01	
+fob band	i01	
+fob fall out boy	i01	
+fob james	5106	
+fob james jr	5106	
+forest	1j1,33q,1dvg,2oz5	1ts:4,2te:4,476:5,a85:2,avb:3,dxn:2,nb5:3,tjx:2,vco:2,won:2,1cb0:2,1jzj:2,1rs4:2,1ub5:3,23vu:3,24a1:3,28hg:2,3gue:2,3knk:3,41pl:3,4agk:4,51i3:2,58jo:2,5dg8:2,5hnz:4,5j8l:2,5y0o:3
+forest a harness	58jo	
+forest ackerman	1w1a	
+forest aggie sale	5dg8	
+forest arthur harness	58jo	
+forest bantu	50g	
+forest belgium	1dvg	
+forest brussels	1dvg	
+forest caterpillar hunter	6td	
+forest cemetery	dxn	
+forest cemetery riga	dxn	
+forest city		4agk:4,5y0o:3
+forest city enterprises	4agk	
+forest city enterprises inc	4agk	
+forest city london	5y0o	
+forest city nc micropolitan statistical area	yh2	
+forest city nc msa	yh2	
+forest city nc sa	yh2	
+forest city north carolina micropolitan area	yh2	
+forest city ratner	4agk	
+forest city ratner companies	4agk	
+forest city realty		4agk:4
+forest city realty trust	4agk	
+forest county	vco,1rs4	
+forest county pa	1rs4	
+forest county pennsylvania	1rs4	
+forest county wi	vco	
+forest county wisconsin	vco	
+forest court	14og	
+forest courts	14og	
+forest dweller	33q	
+forest en		1ub5:3
+forest en cambresis	1ub5	
+forest engineer	6fxm	
+forest engineering	6fxm	
+forest fires	hmx	
+forest frog	1ab0	
+forest frogs	1ab0	
+forest gate	tjx	
+forest gate college of music	4ix	
+forest glade primary	prt	
+forest glade primary school	prt	
+forest green		476:5
+forest green rovers	476	476:5
+forest green rovers f		476:5
+forest green rovers f c	476	
+forest green rovers fc	476	
+forest green rovers football club	476	
+forest grove	1jzj	
+forest grove city center oregon	1jzj	
+forest grove or	1jzj	
+forest grove oregon	1jzj	
+forest gump	cws	
+forest harness	58jo	
+forest heath	1cb0	
+forest heath district council	1cb0	
+forest heights ontario	4v4	
+forest hill	3gue	
+forest hill kent	3gue	
+forest hill library	3gue	
+forest hill london	3gue	
+forest hills	won	
+forest hills gardens	won	
+forest hills gardens new york	won	
+forest hills gardens queens	won	
+forest hills music festival	5pyz	
+forest hills new york	won	
+forest hills new york city	won	
+forest hills ny	won	
+forest hills queens	won	
+forest hills queens new york	won	
+forest hills stadium	5pyz	
+forest hills tennis stadium	5pyz	
+forest kelley	1cet	
+forest l		41pl:3
+forest l abbaye	41pl	
+forest landerneau	435p	
+forest lawn		1ts:4,2te:4,avb:3,23vu:3
+forest lawn cathedral city	23vu	
+forest lawn cemetery	avb,23vu	
+forest lawn cemetery buffalo	avb	
+forest lawn cemetery cathedral city	23vu	
+forest lawn cemetery glendale	1ts	
+forest lawn glendale	1ts	
+forest lawn hollywood hills	2te	
+forest lawn hollywood hills cemetery	2te	
+forest lawn memorial		1ts:4,2te:4
+forest lawn memorial park	1ts,2te	
+forest lawn memorial park cathedral city	23vu	
+forest lawn memorial park glendale	1ts	
+forest lawn memorial park hollywood hills	2te	
+forest laws	14og	
+forest lizard	3y5o	
+forest mark	4web	
+forest mars	58ea	
+forest metal	if	
+forest michael	25zk	
+forest mississippi	2oz5	
+forest montiers	28hg	
+forest ms	2oz5	
+forest negro	27wr	
+forest of		nb5:3,3knk:3,5hnz:4
+forest of ardennes	1uq9	
+forest of boland	3knk	
+forest of bondy	ec7	
+forest of bowland	3knk	
+forest of chantilly	4b3z	
+forest of dean	nb5	
+forest of dean district	nb5	
+forest of hope	3777	
+forest of love	5w12	
+forest of saint sauvant	1viy	
+forest of the		5hnz:4
+forest of the hanged	5hnz	
+forest park	5j8l	
+forest park branch	xug	
+forest park everett	a1h	
+forest park everett washington	a1h	
+forest park golf course	5j8l	
+forest park magnet school of global studies	cv8	
+forest park saint louis	5j8l	
+forest park st louis	5j8l	
+forest park st louis missouri	5j8l	
+forest patroller	4p0v	
+forest pitviper	1egs	
+forest preserve	25b	
+forest rangers	41wj	41wj:3
+forest reserve	6y1	
+forest saint		24a1:3
+forest saint julien	24a1	
+forest sale	5dg8	
+forest science	6fxm	
+forest sciences	6fxm	
+forest shrew	6fdk	
+forest side mauritius	1w3u	
+forest spirit	26dq	
+forest steven whitaker	a85	
+forest structure	33q	
+forest tree frog	r2d	
+forest tree frogs	r2d	
+forest treefrog	r2d	
+forest treefrogs	r2d	
+forest types	33q	
+forest vorst	1dvg	
+forest warrior	51i3	
+forest warriors	iwg	
+forest whitacre	a85	
+forest whitaker	a85	
+forest whittaker	a85	
+fossombrone	xph	
+galatina	uue	
+galatina italy	uue	
+genyete	34vv	
+george p		2atc:3,2pyn:4,4rfg:3,5zgw:3,659r:3
+george p b nolan	dbc	
+george p bond	448h	
+george p bush	5zgw	
+george p chrousos	33vs	
+george p cosmatos	2atc	
+george p efstathiou	50as	
+george p gooch	5z3v	
+george p l		2pyn:4
+george p l walker	2pyn	
+george p marsh	445y	
+george p merrill	659r	
+george p miller	46dj	
+george p murdock	5s3z	
+george p nichols	b6f	
+george p pelecanos	1jy3	
+george p putnam	4rfg	
+george p schultz	1nos	
+george p shultz	1nos	
+george p thomson	2ghv	
+george stoll	150b	
+girabola	poo	
+girabola teamlist	poo	
+gomiel	5om	
+gouaix	21q6	
+goyco	256r	
+gucevicius	4o62	
+hogbonou	ps4	
+hwang	6px	1dbp:3,2qiw:3,41fv:3,4af2:3,5sgp:3
+hwang chong ri	4af2	
+hwang hee		5sgp:3
+hwang hee chan	5sgp	
+hwang ho	rsm	
+hwang jang		4af2:3
+hwang jang lee	4af2	
+hwang jeong min	1dbp	
+hwang jeong ri	4af2	
+hwang jung		1dbp:3
+hwang jung min	1dbp	
+hwang mi yeong	2o1i	
+hwang mi yong	2o1i	
+hwang mi young	2o1i	
+hwang seon hong	2qiw	
+hwang sun		2qiw:3
+hwang sun hong	2qiw	
+hwang yoo mee	41fv	
+hwang yu		41fv:3
+hwang yu mi	41fv	
+issendolus	26fv	
+james jacob spigelman	69pm	
+john podesta	2ito	
+john sailor hunter	4dap	
+john tate	wsl	
+jonis		6bkx:2
+jonis khoris	6bkx	
+jonkowo commune	1xcj	
+kouvolan edustuskiekko	54ie	
+lestat	6hdy	6hdy:3
+lestat de		6hdy:3
+lestat de lioncourt	6hdy	
+lestat de valois	6hdy	
+lilongwe	1bw4	
+lilongwe malawi	1bw4	
+litera valley school	67a	
+louan		1rm4:3
+louan villegruis		1rm4:3
+louan villegruis fontaine	1rm4	
+marlies		47fr:2
+marlies raich	47fr	
+marlies schild	47fr	
+marlies theres moitzi	1cbg	
+mesterrieux	3a8r	
+michael tyler	1dgi	
+miucha	48c8	
+nakagawa	12zs	
+nakagawa haruka	5j29	
+nakagawa kotaro	5nzl	
+nakagawa koutarou	5nzl	
+nakagawa nobuo	4puh	
+nakagawa shoko	231p	
+nakagawa surname	12zs	
+nanoo nanoo	3x4n	
+naramore bain brady and johanson	1k90	
+naramore bain brady johanson	1k90	
+national library	5k2,4j2w	1c3:4,4iy8:4,4j2w:4,4rtj:3,57ps:4
+national library australia	4j2w	
+national library of		1c3:4,4iy8:4,4j2w:4,57ps:4
+national library of afghanistan	20s1	
+national library of australia	4j2w	
+national library of australia trove	4j2w	
+national library of austria	rnm	
+national library of england	3l3	
+national library of france	akk	
+national library of russia	57ps	
+national library of russia named after m saltykov shchedrin	57ps	
+national library of sweden	4iy8	
+national library of the united states	a5c	
+national library of vatican city	139t	
+national library of wales	1c3	
+national library paris	akk	
+national library station	4rtj	
+nephila	1wom	
+new waver	tu	
+nfdc	snk	
+niobe room	dap	
+oberbronn	1q5c	
+olsen	5fa	48ct:2
+olsen banden	15wm,48ct	
+olsen banden film	15wm	
+olsen banden gar amok	1k93	
+olsen banden i jylland	2p1i	
+olsen banden over alle bjerge	24kb	
+olsen banden pa spanden	1l6h	
+olsen banden pa sporet	1qmm	
+olsen banden ser rdt	1jvp	
+olsen banden ser rodt	1jvp	
+olsen bandens sidste bedrifter	1db0	
+olsen bandens sidste stik	2dnq	
+olsen bandens store kup	16s4	
+olsen family name	5fa	
+olsen gang	48ct	15wm:3
+olsen gang goes crazy	1k93	1k93:5
+olsen gang in a fix	1l6h	1l6h:6
+olsen gang in jutland	2p1i	2p1i:5
+olsen gang long gone	24kb	24kb:5
+olsen gang on the track	1qmm	1qmm:6
+olsen gang s big score	16s4	16s4:6
+olsen gang s last trick	2dnq	2dnq:6
+olsen gang sees red	1jvp	1jvp:5
+olsen lars	2kis	
+olsen merlin	2v2z	
+olsen sisters	1uhl	
+olsen surname	5fa	
+olsen twins	1uhl	
+paillet	393m	
+panathinaiko	z9j	
+panathinaiko stadio	z9j	
+panathinaiko stadium	z9j	
+perce	5408	
+perce pearce	5w0c	
+perce qc	5408	
+perce quebec	5408	
+percussion	5b2	5b2:2
+percussion instrument	5b2	
+percussion instruments	5b2	
+percussion music	5b2	
+percussion organ	4b8o	
+percussion section	5b2	
+physical	1nx	6lb:2,7n3:2,l9q:2,10fe:2,1nt7:2,1wzs:2,2nmo:2,3wus:2
+physical ailment	at	
+physical and logical storage	5ijw	
+physical attraction song	3h3z	
+physical bodies	1nt7	
+physical body	1nt7	
+physical body theosophy	1nt7	
+physical campus	ed3	
+physical chemist	l9q	
+physical chemistry	l9q	
+physical chemistry comments	l9q	
+physical climatology	4uyx	
+physical comparison of jaguars and leopards	1764	
+physical constant	1wzs	
+physical constant comments	1wzs	
+physical constants	1wzs	
+physical constants doc	1wzs	
+physical device	17cd	
+physical elements	6lx	
+physical enrique iglesias song	6aeh	
+physical entity	1nt7	
+physical event	pz	
+physical evidence of climate change	6fh8	
+physical exercise	2nmo	
+physical experiment	blm	
+physical feature	kq	
+physical features on india	69y7	
+physical field	6b6m	
+physical fitness test	1m2x	
+physical force	14qq	
+physical geology	4r9	
+physical hair styling	ihl	
+physical health	2tqf	
+physical immortalism	4cv1	
+physical immortality	4cv1	
+physical incapacity	6czd	
+physical infrastructure	3ln2	
+physical injury	5a56	
+physical map	olk	
+physical map cartography	olk	
+physical non chemical property of a material	10fe	
+physical object	1nt7	
+physical objects	1nt7	
+physical phemomenon	fw5	
+physical phenomena	fw5	
+physical phenomenon	fw5	
+physical processe	fw5	
+physical properties	10fe	
+physical property	10fe	
+physical property chemistry	10fe	
+physical property of object	10fe	
+physical property of system	10fe	
+physical property of thermodynamic system	6ehy	
+physical quantities	7n3	
+physical quantity	7n3	
+physical quantity of state thermodynamics	6ehy	
+physical region	97c	
+physical sign	6qw	
+physical skill game	107q	
+physical society of berlin	rft	
+physical subsystem	3wus	
+physical system	3wus	
+physical systems	3wus	
+physical terminal	6fx5	
+physical theory	bwj	
+physical tool	6lb	
+physical torture	nop	
+physical trainer	mkv	
+physical trauma	v5k,5a56	
+physical triple star	38cd	
+physical unit	6wv	
+physical units	6wv	
+physical violence	1aub	
+physical well being	2tqf	
+physical world	ovm	
+pikarec	3fgg	
+pontriagin	vpi	
+prathivi raj	bpw	
+prince johannes		4ggd:8
+prince johannes 11th		4ggd:8
+prince johannes 11th prince		4ggd:8
+prince johannes 11th prince of		4ggd:8
+prince johannes 11th prince of thurn		4ggd:8
+prince johannes 11th prince of thurn and		4ggd:8
+prince johannes 11th prince of thurn and taxis	4ggd	
+prince osakabe	1bia	
+przibram	am2	
+pseudoeupterote	5fx6	
+questione di cuore	66du	
+rbu 6000	6bft	
+rbu 6000 smerch 2	6bft	
+rectanguloid	21v6	
+regiao administrativa especial de macau	38i	
+regiao administrativa especial de macau da republica popular da china	38i	
+regiao autonoma da madeira	b4t	
+regiao norte do brasil	5wus	
+renovators	1sux	
+richard basehart	lmt	
+robert anthony de niro	685	
+robert anthony eden 1st earl of avon viscount eden of royal leamington spa	1bds	
+robert anthony eden viscount eden of leamington	1bds	
+robert anthony kowalski	5kq4	
+robert anthony mcgowan	19wn	
+robert anthony plant	mff	
+robert anthony rodriguez	jos	
+robert anthony salvatore	jrh	
+robert anthony taylor	4bi4	
+robert anthony thomson	2g8h	
+robert velline	1uq4	
+saint phalle niki de	1psl	
+schirrhein	255a	
+schonl	489o	
+september	6j2,42g3	axn:3,2b03:3,37ud:2,41d4:2,6etn:2
+september 08	6etn	
+september 11		axn:3
+september 11 1941	131v	
+september 11 2001 attack	axn	
+september 11 2001 hijackings	axn	
+september 11 2001 terrorist attack	axn	
+september 11 2001 united states attacks	axn	
+september 11 attacks	axn	
+september 11 museum	6gw3	
+september 11 terrorist attack	axn	
+september 11th 2001 terrorist attacks	axn	
+september 11th world trade center attacks	axn	
+september 13 2003	oob	
+september 1939 campaign	cby	
+september 1974	1l9w	
+september 1976	1hik	
+september 1978	2pf4	
+september 1979	3l25	
+september 1980	w34	
+september 1983	3suv	
+september 1984	2trg	
+september 1985	2xzy	
+september 1986	3a21	
+september 1987	2urs	
+september 1987 film	42g3	
+september 1987 movie	42g3	
+september 1988	2y4z	
+september 1990	2cbq	
+september 1991	1j3l	
+september 1992	1rc6	
+september 1993	2en6	
+september 1998	z0v	
+september 2001	kes	
+september 2003	oob	
+september 2010	b4j	
+september 2013	900	
+september 2013 iraq attacks	5kdr	
+september 2015	7en	
+september 2017	d0s	
+september 2018	5s4t	
+september 3 society	15nq	
+september 6 2003	oob	
+september 8	6etn	
+september 8 2003	oob	
+september 8th	6etn	
+september 9 2009	cq0	
+september affair	37ud	
+september artist	15lz	
+september eleven		2b03:3
+september eleven 1683	2b03	
+september laws	2nfq	
+september month	6j2	
+september morn	41d4	
+september pope	372m	
+september singer	15lz	
+september singles	15lz	
+september third society	15nq	
+serverette	2wgb	
+sestola	2wsm	
+shiming zhou	56im	
+shiming zou	56im	
+showjumping	g1l	
+sigfried		3yzc:2
+sigfried arno	hdj	
+sigfried count of ardennes	1y27	
+sigfried count of the ardennes	1y27	
+sigfried edstrom	64xe	
+sigfried held	3yzc	
+sigfried of luxembourg	1y27	
+sigfried of luxemburg	1y27	
+sigfried rumann	fro	
+stadium	af,63yn	69bq:2
+stadium arcadium	69bq	
+stadium arcadium album	69bq	
+stadium arcadium song	69bq	
+stadium australia	128q	
+stadium avilesino	m97	
+stadium jumping	g1l	
+stadium nacional	3zb3	
+stadium of light estadio da luz	4kd1	
+stadium of light lisbon	4kd1	
+stadium of the light	4kd1	
+stadium rock opera	63yn	
+sturmbataillon niederbayern	3il1	
+takev province	1gmw	
+takev province cambodia	1gmw	
+terajima shinobu	4oyt	
+terajima susumu	rzi	
+the eavesdropper	66uy	
+the marriage		sj7:5,2jmb:5,3etx:3,4u7u:3,646d:5,6ael:3,6ed1:6
+the marriage at cana veronese	11a4	
+the marriage circle	4u7u	
+the marriage counselor film	5o8k	
+the marriage nest	6ael	
+the marriage of		sj7:5,2jmb:5,646d:5,6ed1:6
+the marriage of a		6ed1:6
+the marriage of a young		6ed1:6
+the marriage of a young stockbroker	6ed1	
+the marriage of figaro film	407x	
+the marriage of luise		646d:5
+the marriage of luise rohrbach	646d	
+the marriage of maria		sj7:5
+the marriage of maria braun	sj7	
+the marriage of mr		2jmb:5
+the marriage of mr mississippi	2jmb	
+the marriage swindler	3etx	
+toeheaded	2if	
+tragedia lirica	8tp	
+trivero	11ke	
+tukhachevskii	398x	
+usmoi	1cxh	
+vercingetorix		3z6a:2
+vercingetorix millet	3z6a	
+vercingetorix monument	3z6a	
+vidadi		4mnx:2
+vidadi rzayev	4mnx	
+vihear	9oj	
+vilobi		2s3x:3
+vilobi d		2s3x:3
+vilobi d onyar	2s3x	
+waldsassen	3gp1	
+wardha	4sow	1s1x:2
+wardha district	1s1x	
+wishbone		kov:2
+wishbone ash	kov	
+wishbone ash band members	kov	
+work	1s9w,609k	411:3,24ea:2,69gs:6
+work activity management	9fh	
+work and pensions minister	1glt	
+work and pensions secretary	1glt	
+work arts	411	
+work bites	3sa9	
+work boats	9yb	
+work boot	1o3c	
+work boots	1o3c	
+work camp	6anx	
+work energy	m3h	
+work environment	302d	
+work fine arts	411	
+work group	24ea	
+work holiday	3r8	
+work is		69gs:6
+work is a		69gs:6
+work is a 4 letter word	69gs	
+work is a four		69gs:6
+work is a four letter		69gs:6
+work is a four letter word	69gs	
+work location	302d	
+work of		411:3
+work of art	411,1s9w	
+work of art album	22sh	
+work of art deborah cox album	22sh	
+work of god	5emq	
+work office	cu9	
+work on deck	1apt	
+work on top	5w8	
+work out	2nmo	
+work place	302d	
+work projects administration	2k8t	
+work records	24ea	
+work rihanna song	609k	
+work settlement	gtg	
+work shop	5gk1	
+work shops	5gk1	
+work site	302d	
+work song cinderelly cinderelly	g2l	
+work tour	1awd	
+work work work	609k	
+work work work work work	609k	
+yendor	5gag	

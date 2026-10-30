@@ -1,0 +1,519 @@
+aggie		1wpa:2
+aggie busmalis	ykr	
+aggie herring	1wpa	
+aggie moffat	42dq	
+aggie sale	5dg8	
+alexandr		1gg2:2,2lx1:2,3av3:2,411g:2,4j4p:2,4wwg:2,4x6o:2,5c4y:2,5jb4:2,5mri:2
+alexandr abdulkhalikov	4wa8	
+alexandr afanasiev	56g8	
+alexandr afanasyev	56g8	
+alexandr agapov	570e	
+alexandr alexandrovich bogdanov	33im	
+alexandr alexandrovich bunge	41mi	
+alexandr alferov	5s4g	
+alexandr alfyorov	5s4g	
+alexandr aliev	3ci2	
+alexandr aliyev	3ci2	
+alexandr alkhazov	68ak	
+alexandr alumona	3pj9	
+alexandr archipenko	5csh	
+alexandr arkhangelsky	4j4p	
+alexandr babiy	590g	
+alexandr balakhnin	69pt	
+alexandr barykin	2ukx	
+alexandr beliaev	2vaw	
+alexandr bogatyrev	4tqi	
+alexandr bogatyryov	4tqi	
+alexandr bogdanov	33im	
+alexandr borodin	14vq	
+alexandr borodyuk	2ixr	
+alexandr bortnikov	4dxb	
+alexandr boukharov	3dj8	
+alexandr budakov	3mue	
+alexandr bukharov	3dj8	
+alexandr burov	5bou	
+alexandr bylina	5qhq	
+alexandr cherkes	5r5k	
+alexandr chisty	5k5i	
+alexandr chvylja	3av3	
+alexandr covalenco	4wwg	
+alexandr danishevski	2vln	
+alexandr danishevskiy	2vln	
+alexandr danishevsky	2vln	
+alexandr dmitrijev	49b6	
+alexandr dovzhenko	x1c	
+alexandr dozmorov	4gzb	
+alexandr dutov	5wtm	
+alexandr epureanu	4ikf	
+alexandr eschenko	2r52	
+alexandr eshchenko	2r52	
+alexandr eshkin	50ek	
+alexandr familtsev	4zgr	
+alexandr filimonov	2fej	
+alexandr garmashov	5fvh	
+alexandr geynrih	3z9i	
+alexandr geynrikh	3z9i	
+alexandr glazunov	2xex	
+alexandr golban	50u8	
+alexandr gorbatov	1zy1	
+alexandr grantovski	5vze	
+alexandr grantovskiy	5vze	
+alexandr grantovsky	5vze	
+alexandr griboyedov	2xup	
+alexandr grin	4b9b	
+alexandr grishin	5nj1	
+alexandr gryazin	5spk	
+alexandr gurevich	60rb	
+alexandr gutor	5rc2	
+alexandr hackenschmied	411g	
+alexandr herzen	334k	
+alexandr ignatyev	5yol	
+alexandr ionov	5xy4	
+alexandr ivanchenkov	2wkj	
+alexandr ivanovich herzen	334k	
+alexandr j kaleri	2431	
+alexandr kaleri	2431	
+alexandr kapto	61br	
+alexandr karataev	2sz7	
+alexandr karatayev	2sz7	
+alexandr karelin	33km	
+alexandr kerzhakov	3wx8	
+alexandr khapsalis	5nrn	
+alexandr khrapkovski	5hun	
+alexandr khrapkovskiy	5hun	
+alexandr khrapkovsky	5hun	
+alexandr khromykov	6a6i	
+alexandr khvostunov	4eq9	
+alexandr kiryukhin	5e0f	
+alexandr kokorin	3uy9	
+alexandr kolobnev	2lx1	
+alexandr korotkov	5nvv	
+alexandr kosirin	57jp	
+alexandr krivoruchko	5f67	
+alexandr krutskevich	4yoo	
+alexandr kuchma	3egz	
+alexandr kukanos	5yot	
+alexandr kurnaev	6bvy	
+alexandr kurnayev	6bvy	
+alexandr kutikov	2ztr	
+alexandr kuzmichyov	4q8y	
+alexandr lavrentsov	5ule	
+alexandr lebed	2n9u	
+alexandr liapunov	1hm9	
+alexandr litvinenko	3xmi	
+alexandr malin	67hy	
+alexandr marenich	4n4a	
+alexandr marshal	3a9b	
+alexandr marteshkin	55sq	
+alexandr martsun	5k3t	
+alexandr mikhailovic vasilevskij	mfp	
+alexandr mostovoi	31wz	
+alexandr mozgovoy	5gsb	
+alexandr n yakovlev	1rfj	
+alexandr nenashkin	6ab0	
+alexandr nevidimy	5l2g	
+alexandr nevsky	rsg	
+alexandr nikolayevich shelepin	4lg1	
+alexandr novikov	14yv	
+alexandr osipovich gelfond	35n9	
+alexandr ostrovskij	w9u	
+alexandr papush	5pmy	
+alexandr petrovich karpinsky	4g9f	
+alexandr piskarev	59w1	
+alexandr podshivalov	6448	
+alexandr podymov	6e5q	
+alexandr polukarov	616f	
+alexandr pomazun	4sn5	
+alexandr popov biathlete	5pob	
+alexandr popov biathlete comments	5pob	
+alexandr porfirevich borodin	14vq	
+alexandr prizetko	62t3	
+alexandr prokhorov	1adl	
+alexandr ptushko	19ut	
+alexandr pushkin	8iv	
+alexandr ragulin	416m	
+alexandr reva	4syg	
+alexandr rolevich	3qp7	
+alexandr romankov	4x6o	
+alexandr salugin	59we	
+alexandr sayun	69n8	
+alexandr scriabin	jsy	
+alexandr shelepin	4lg1	
+alexandr sheshukov	4uvd	
+alexandr shmarko	52wc	
+alexandr shubladze	5c7n	
+alexandr shutov	545g	
+alexandr shvetsov	5c6v	
+alexandr sokurov	1af6	
+alexandr solop	4z7g	
+alexandr staschenyuk	5j1q	
+alexandr stashchenyuk	5j1q	
+alexandr storozhuk	5mgb	
+alexandr studzinsky	4c97	
+alexandr sukharev	59vw	
+alexandr suvorov	4pfr	
+alexandr svinin	5tjg	
+alexandr svistunov	44nn	
+alexandr tatarkin	6340	
+alexandr terentyev	68v5	
+alexandr tishkevich	34ea	
+alexandr troinin	63pz	
+alexandr troynin	63pz	
+alexandr tsarenko	5ceb	
+alexandr tsilyurik	42f0	
+alexandr vasilevskij	mfp	
+alexandr vezdenetski	5vzo	
+alexandr vezdenetskiy	5vzo	
+alexandr vezdenetsky	5vzo	
+alexandr viktorenko	1vqq	
+alexandr vinokourov	173a	
+alexandr vinokurov	173a	
+alexandr vladimirov	5x7s	
+alexandr vladimirovich popov	5pob	
+alexandr vlasov politician	3r3b	
+alexandr volkonsky	5mri	
+alexandr volkov	469p	
+alexandr y kaleri	2431	
+alexandr yakovlev	1gg2	
+alexandr yakushev	5iv0	
+alexandr yashin	4hxm	
+alexandr yeschenko	2r52	
+alexandr yeshchenko	2r52	
+alexandr yeshkin	50ek	
+alexandr yurievich kaleri	2431	
+alexandr zaboev	5c4y	
+alexandr zhulin	2ijo	
+alexandr zinoviev	1pnc	
+alexandr zubkov	5jb4	
+alexandr zulin	2ijo	
+ancistrobasis	6fmy	
+anisina	5mfz	
+ashod malakian	w8u	
+augier guillaume victor	613y	
+auzielle	2me3	
+ax	1tmn	1tmn:2
+ax armani exchange milano	9c0	
+ax les		1yro:3
+ax les thermes	1yro	
+ax rohmer	3nix	
+backstairs	65ua	
+bijnaur district	yis	
+bluffmaster	5xki	
+bluffmaster 2005 film	5xki	
+boritov	33dj	
+bosc		1wdw:3,2h8u:2,2vvw:4,2y0y:4,3e4c:2
+bosc bordel	3e4c	
+bosc guerard		2y0y:4
+bosc guerard saint		2y0y:4
+bosc guerard saint adrien	2y0y	
+bosc le		1wdw:3
+bosc le hard	1wdw	
+bosc mesnil	2h8u	
+bosc roger		2vvw:4
+bosc roger sur		2vvw:4
+bosc roger sur buchy	2vvw	
+brullioles	2p4z	
+buxerolles	3qkz,3z1r	
+buxerolles cote d or	3z1r	
+buxerolles vienne	3qkz	
+cavalgese	3o6b	
+chengelpet	69tv	
+crestien de troyes	3war	
+david le cluse	1acw	
+daylights savings time	e5l	
+ehrenkreuz fur frontkampfer	b9p	
+eliur	49vs	
+endiusa	205p	
+esclanedes	3pqz	
+falkland		5ye:2
+falkland conflict	3tw	
+falkland is	5ye	
+falkland island	5ye	
+falkland islands	5ye	
+falkland islands 1982	3tw	
+falkland islands conflict	3tw	
+falkland islands dependencies survey	3zzc	
+falkland islands people	5ye	
+falkland islands topics	5ye	
+falkland isles	5ye	
+falkland war	3tw	
+fedayee	1qj4	
+fedayee archive 1	1qj4	
+fielder		1qb6:2
+fielder baseball	61ay	
+fielder cook	1qb6	
+fielder s indifference	6hv6	
+fjell	1spa	
+flachgau	e8o	
+fujicolor	i1s	
+glycoside		3exv:3
+glycoside hydrolase	3exv	3exv:3
+glycoside hydrolase families	3exv	
+glycoside hydrolase sf	3exv	
+glycoside hydrolase superfamily	3exv	
+glycoside hydrolases	3exv	
+guyuk		5fnj:2
+guyuk khan	5fnj	
+hemicrepidius	gd6	
+hendrie		4ndq:2
+hendrie kruezen	4ndq	
+hendrie kruzen	4ndq	
+henry daniell	ko5	
+henry daniell comments	ko5	
+i kill		1h7a:4
+i kill you		1h7a:4
+i kill you kill	1h7a	
+imaginarium film	4vxg	
+imaginarium movie	4vxg	
+imaginarium nightwish album	5oxn	
+imaginarium of doctor parnassus	172y	172y:5
+imaginarium of dr parnassus	172y	
+imaginarium tour	tec	
+internet	7l8	5ug:2,eqi:3,g14:4,okm:2,rd0:3,tj3:3,y3j:2,1thu:2,30rj:2,3qh3:2,5n3k:4
+internet access provider	tj3	
+internet animation	3yr2	
+internet archive	y3j	
+internet archive collectors	y3j	
+internet archive doc	y3j	
+internet archive federal credit union	63yr	
+internet attack	4a6p	
+internet book database of fiction	136h	
+internet browsers	5si	
+internet cctlds	cym	
+internet child predator	6a93	
+internet clients	5quk	
+internet commerce	f85	
+internet communications service provider	tj3	
+internet communities	6etd	
+internet community	6etd	
+internet country code	4hg	
+internet country codes	4hg	
+internet cutoff	7l8	
+internet discussion	okm	
+internet disruption	7l8	
+internet domain suffixes	4hg	
+internet enabled phones	205u	
+internet encyclopedia	7ew	
+internet encyclopedia project	7ew	
+internet encyclopedias	7ew	
+internet engineering		5n3k:4
+internet engineering task		5n3k:4
+internet engineering task force	5n3k	
+internet exchange	eqi	eqi:3
+internet exchange point	eqi	
+internet explorer	1thu	
+internet extension	cym	
+internet fad	5ug	
+internet fads	5ug	
+internet forum	okm	
+internet games	29ev	
+internet hall		g14:4
+internet hall of		g14:4
+internet hall of fame	g14	
+internet hall of fame doc	g14	
+internet hoax	20n1	
+internet in the northern mariana islands	efk	
+internet jesus	17hp	
+internet json	45eu	
+internet keyboard	l5	
+internet mafia	44hc	
+internet mail and communications initiative	4ezc	
+internet marketplace	f85	
+internet mass media	ht8	
+internet media	ht8	
+internet meem	5ug	
+internet meme	5ug	
+internet memes	5ug	
+internet message board	okm	
+internet model	rd0	
+internet movie database	1dtm	
+internet movie databse	1dtm	
+internet page	4wd7	
+internet pages	4wd7	
+internet phenemenon	5ug	
+internet phenomena	5ug	
+internet phenomenon	5ug	
+internet portal	gtb	
+internet portals	gtb	
+internet protocol	30rj	rd0:3
+internet protocol family	rd0	
+internet protocol suite	rd0	
+internet protocols	rd0	
+internet provider	tj3	
+internet providers	tj3	
+internet router	6f9y	
+internet search engines	dzw	
+internet search engines and libraries	12m	
+internet server	4toz	
+internet service	tj3	tj3:3
+internet service provider	tj3	
+internet services provider	tj3	
+internet single	t	
+internet site	9s	
+internet spaceship	4ces	
+internet spaceship game	4ces	
+internet standard	3qh3	
+internet standards	3qh3	
+internet stream	p2p	
+internet surfing	1z5o	
+internet tld	cym	
+internet tlds	cym	
+internet urban legends	2199	
+internet virus	1w9n	
+internet websites	9s	
+internet worm	gnv	
+jussecourt		37s5:2
+jussecourt minecourt	37s5	
+kaho		30uv:2,5fnx:4
+kaho minami	30uv	
+kaho na pyar hai	5fnx	
+kaho naa		5fnx:4
+kaho naa pyaar		5fnx:4
+kaho naa pyaar hai	5fnx	
+kanzaka	656v	
+kanzaka hajime	656v	
+kissin		5t4y:2
+kissin cousins	5t4y	
+kojdanava	5cj2	
+la aztecs	c3o	
+leeseri	2fyo	
+leipsig	np	
+lenore		17cq:3,3o9l:2,5g7j:2,5vuj:2
+lenore blum	5vuj	
+lenore coffee	17cq	
+lenore j		17cq:3
+lenore j coffee	17cq	
+lenore lafount	5g7j	
+lenore lafount romney	5g7j	
+lenore romney	5g7j	
+lenore ulric	3o9l	
+lick	5kfg	pdk:2
+lick cardi b song	5qkp	
+lick observatory	pdk	
+lick observatory bulletin	pdk	
+maniche	20q8	
+maziya	1vsu	1vsu:3
+maziya s		1vsu:3
+maziya s rc	1vsu	
+maziya sports and recreation club	1vsu	
+maziya sports club	1vsu	
+michael romano versi	1ay6	
+moa abdellaoue	41x0	
+moa abdellaoui	41x0	
+mst3000	1cm6	
+naglowice commune	1lrr	
+nillumbik	1h48	
+nillumbik shire	1h48	
+oo7	ajz	
+oo7 james bond	ajz	
+orsonville	27n0	
+ostre linje	rpz	
+ostre sledovane vlaky	363a	
+ostre toten	r5l	
+pecska	4j37	
+pending trial	kw5	
+peter axelsson	3gh6	
+phlox	1gv9	
+phlox family	4sjk	
+poean	7k7	
+poliodendron	44gn	
+politologist	444	
+prompto	6gbd	
+quantom of solace	hou	
+rasi	1y99	
+rearhorse	64a9	
+rhazes	5wpa	
+rkelly	7ng	
+robert moses	3gg0	
+rosaura		3kjf:5
+rosaura a las 10	3kjf	
+rosaura a las diez	3kjf	
+rosaura at		3kjf:5
+rosaura at 10		3kjf:5
+rosaura at 10 o		3kjf:5
+rosaura at 10 o clock	3kjf	
+saint apollinaire	2s2j	
+saint apollinaire cote d or	2s2j	
+saint benin		1mc0:4,3uf6:4
+saint benin d		1mc0:4
+saint benin d azy	1mc0	
+saint benin des		3uf6:4
+saint benin des bois	3uf6	
+san ethnic group	5yjv	
+sattellite	c3h	
+sauropodomorphs	3q1k	
+scg country	2yq	
+scg power rangers	193k	
+schaeffer eye center crawfish boil	1dy	
+shangdong	6ro	
+shangdong lions	5keq	
+shangdong province	6ro	
+shangdong taishan	8af	
+sisacko moslavacka zupanija	pbe	
+spindle fire making	4ftv	
+spindle shrub	1op8	
+spindle tree	1op8	
+stevejobs	oc6	
+stratiomys	6exj	
+tagajou	5evr	
+tanita	14x7	14x7:2
+tanita tikaram	14x7	
+tarsul	40y5	
+taurunum	a2x	
+taurunum boys zemun	5e7	
+telma ortiz	29j3	
+teuchophanes	9w6	
+the chvrches	33p3	
+the omaha		4zz6:3
+the omaha henry doorly zoo	gqy	
+the omaha henry doorly zoo and aquarium	gqy	
+the omaha henry doorly zoo aquarium	gqy	
+the omaha s henry doorly zoo and aquarium	gqy	
+the omaha trail	4zz6	
+the omaha trail film	4zz6	
+the prisoner	1fnu,3prf	16rx:4,1let:4,1sl9:5,1tfs:5,1vy1:4,3z8q:6,4ouf:4
+the prisoner 1955 film	3prf	
+the prisoner 1990 film	62g7	
+the prisoner 2007 series	1fnu	
+the prisoner in the fuoco tower	406c	
+the prisoner of		16rx:4,1let:4,1sl9:5,1tfs:5,1vy1:4,3z8q:6,4ouf:4
+the prisoner of azkaban	310t	
+the prisoner of second		1sl9:5
+the prisoner of second avenue	1sl9	
+the prisoner of sex	bf1	
+the prisoner of shark		1tfs:5
+the prisoner of shark island	1tfs	
+the prisoner of the		3z8q:6
+the prisoner of the iron		3z8q:6
+the prisoner of the iron mask	3z8q	
+the prisoner of zenda	16rx,1let,1vy1,4ouf	
+the prisoner of zenda 1922 film	4ouf	
+the prisoner of zenda 1937 film	16rx	
+the prisoner of zenda 1952 film	1let	
+the prisoner of zenda 1979 film	1vy1	
+the prisoner tv series	1fnu	
+the rzarector	dlx	
+thomas adam babbington boulton	60uq	
+thomas geoffrey tom wilkinson	b94	
+thomas pitt	5gfs	
+trichi	e98	
+uladzmier niaklajeu	4lvv	
+vallieres	1rt5,3wcc	2nvr:3
+vallieres aube	3wcc	
+vallieres haute savoie	1rt5	
+vallieres les		2nvr:3
+vallieres les grandes	2nvr	
+veckersviller	1psn	
+waterbody	6n0	
+waterbody types	6n0	
+wirbul	1g94	
+yenisehr i fenar	8y0	
+yenisehr i fener	8y0	
+youngoak kim	5gon	
+zagebie		4y1:2,a44:2,6bal:2
+zagebie ii lubin	4y1	
+zagebie ii sosnowiec	a44	
+zagebie lubin	4y1	
+zagebie sosnowiec	a44	
+zagebie wabrzych	6bal	
+zwartewaterland	2p8o	

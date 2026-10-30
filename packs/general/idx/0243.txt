@@ -1,0 +1,636 @@
+8th all africa games	3igv	
+8th and market station	6cll	
+8th arrondissement		6z8:4
+8th arrondissement of		6z8:4
+8th arrondissement of paris	6z8	
+8th asian games	m7r	
+8th australian infantry brigade	5iqp	
+8th avenue bmt canarsie line	3tgy	
+8th avenue bmt canarsie line station	3tgy	
+8th avenue line	1jf3	
+8th brigade	5iqp	
+8th brigade australia	5iqp	
+8th centuries	1rgs	
+8th century	1rgs	2bbp:3
+8th century ad	1rgs	
+8th century b c	2bbp	
+8th century b c e	2bbp	
+8th century bc	2bbp	
+8th century bce	2bbp	
+8th crusade	36fi	
+8th division	5s1e	
+8th division australia	5s1e	
+8th duke of argyll	1ub8	
+8th duke of beaufort	3q40	
+8th duke of beccleuch	2xu5	
+8th duke of devonshire	27ju	
+8th duke of hamilton	3kz4	
+8th duke of wellington	27vw	
+8th iaaf world championships	pz1	
+8th iaaf world indoor championships	3ku0	
+8th iaaf world indoor championships in athletics	3ku0	
+8th infantry brigade australia	5iqp	
+8th international association of athletics federations world indoor championships	3ku0	
+8th market	6cll	
+8th market patco station	6cll	
+8th market septa station	6cll	
+8th market station	6cll	
+8th market station patco	6cll	
+8th marquess of tweeddale	2449	
+8th of september	6etn	
+8th president of the united states	1at4	
+8th sector of marseille	ui	
+8th september	6etn	
+8th street		6cll:3
+8th street philadelphia	6cll	
+8th street septa rapid transit station	6cll	
+8th street station	6cll	
+8th street station market frankford line	6cll	
+8th street station marketfrankford line	6cll	
+8th street station patco	6cll	
+8th street station philadelphia	6cll	
+8th street station septa	6cll	
+8th street8th and market station	6cll	
+8th vice president of the united states	1at4	
+8th winter olympic games	2ok	
+8th world indoor championships	3ku0	
+8th world indoor championships in athletics	3ku0	
+accuity	3dph	
+acquittal of o j simpson	3lwt	
+agriboz	hyu	
+airasca	4f8j	
+ammerschwihr	1c3o	
+annot	2a9q	
+aviala	2gv	
+biearusy	sr9	
+bodeguita	4a55	
+boncourt	2hb9,2hpa	1x20:3,2ojm:3
+boncourt aisne	2hb9	
+boncourt le		2ojm:3
+boncourt le bois	2ojm	
+boncourt meurthe et moselle	2hpa	
+boncourt sur		1x20:3
+boncourt sur meuse	1x20	
+borgaro		3yu2:2
+borgaro torinese	3yu2	
+budin	aag	
+caedmons call	61t4	
+caso	2yob	
+caso asturias	2yob	
+caso catania	3ca	
+caso di coscienza	2ms8	
+caso pisciotta	4q27	
+caso spain	2yob	
+centikelvin	6hak	
+charles chesnutt	46r0	
+cho	9g1,jxi,5c5r	
+cho byung		3htw:3
+cho byung kuk	3htw	
+cho cho	j73	
+cho d alexander	4vx2	
+cho den o	2529	
+cho den o trilogy	2529	
+cho hao li	5080	
+cho jae		2zwq:3,40s9:3
+cho jae hyeon	2zwq	
+cho jae hyun	2zwq	
+cho jae jin	40s9	
+cho jaejin	40s9	
+cho jeong seok	45xi	
+cho jeong suk	45xi	
+cho jeung young	5mn0	
+cho jin		3kkq:3,41bw:3
+cho jin ho	41bw	
+cho jin ho football	41bw	
+cho jin ho footballer	41bw	
+cho jin ung	3kkq	
+cho jin woong	3kkq	
+cho jung		45xi:3
+cho jung seok	45xi	
+cho jung suk	45xi	
+cho korean name	jxi	
+cho korean surname	jxi	
+cho kwang		5lb5:3
+cho kwang rae	5lb5	
+cho kyu hyun	56zw	
+cho kyuhyun	56zw	
+cho lam wong	5r27	
+cho min		662r:3
+cho min gook	662r	
+cho min kook	662r	
+cho min kuk	662r	
+cho name	jxi	
+cho o ro	5eq9	
+cho ramaswamy	4u7y	
+cho ramaswamy comments	4u7y	
+cho saiyajinda son goku	1si7	
+cho se		61ju:3
+cho se kwon	61ju	
+cho seung hee	37ts	
+cho seung hi	37ts	
+cho seung hui	37ts	
+cho sueng hui	37ts	
+cho sung		66kh:3
+cho sung hui	37ts	
+cho sung hwan	66kh	
+cho sung hwan footballer born 1982	66kh	
+cho surname	jxi	
+cho tat		52xx:3
+cho tat wah	52xx	
+cho won		3sp3:3
+cho won hee	3sp3	
+cho yo han	ux4	
+cho yong		5fy1:3
+cho yong hyung	5fy1	
+cho young		46jj:3,5mn0:3
+cho young cheol	46jj	
+cho young jeoung	5mn0	
+cho young jeung	5mn0	
+cho young wuk	wwu	
+cho yui	1voc	
+choki motobu	65u9	
+cognitive		coy:2,3nlm:2
+cognitive behavioral therapy book	38wz	
+cognitive bias	coy	
+cognitive biases	coy	
+cognitive decline	186t	
+cognitive impairment	186t	
+cognitive infiltration	5736	
+cognitive informatics	3nlm	
+cognitive science	3nlm	
+cognitive sciences	3nlm	
+cognitive scientist	3nlm	
+cognitive simulation	bfb	
+cognitive studies	3nlm	
+cognitive styles sternberg	69gx	
+columbiapresbyterian hospital	kyb	
+columbiapresbyterian medical center	kyb	
+corals	db3	
+coriscidae	6ch6	
+cranioleuca	3thm	
+cubist	cvk	
+cubist artist	cvk	
+cubist painting	cvk	
+daryn		13of:2,5reo:2
+daryn hinch	4zah	
+daryn okada	13of	
+daryn tufts	5reo	
+david dean rusk	2236	
+decreed	68im	
+dongmyeongseongwang	4udq	
+doritis	1ajj	
+durgapur	1od2	
+durgapur comments	1od2	
+durgapur municipal corporation	1od2	
+durgapur west bengal	1od2	
+durgapur west bengal comments	1od2	
+eirini kantakouzini	4p7w	
+eisernes kreuz	g41	
+eisernes kreuz 1 klasse	g41	
+eisernes kreuz 2 klasse	g41	
+engwar	fnw	
+esercito italiano	4m1g	
+expanse		1ab1:2,5bvd:2,644v:2
+expanse enterprise episode	5bvd	
+favanella	4o49	
+firmum	chg	
+framlingham	4dls	
+framlingham suffolk	4dls	
+genech	3jt1	
+george vogler	58o1	
+godella	41xj	
+gothic	29t9,61jb	12a:2,1r7:2,396:2,3x2:2,gf2:2,5buv:4,5io8:2
+gothic 3	5io8	
+gothic 4	5rir	
+gothic 4 arcania	5rir	
+gothic 4 genesis	5rir	
+gothic arch	1r7	
+gothic architecture	1r7	
+gothic architecture and art	gf2	
+gothic architecture by country	1r7	
+gothic architecture in italy	520r	
+gothic architectures	1r7	
+gothic art	gf2	
+gothic black metal	3x2	
+gothic cathedral	1r7	
+gothic cathedral of reims	5dc2	
+gothic church	1r7	
+gothic design	1r7	
+gothic doom	3j9,3x2	
+gothic era	gf2	
+gothic fantasy	1qmo	
+gothic folk	ntk	
+gothic fresco	gf2	
+gothic frescoes	gf2	
+gothic heavy metal	3x2	
+gothic hip hop	n9z	
+gothic iii	5io8	
+gothic iv	5rir	
+gothic metal	3x2	
+gothic metalcore	2dl	
+gothic music	396	
+gothic painting	gf2	
+gothic period	gf2	
+gothic pop	396	
+gothic punk	396	
+gothic revival	12a	
+gothic revival architecture	12a	
+gothic revival style	12a	
+gothic revival style architecture	12a	
+gothic rock	396	
+gothic rock music	396	
+gothic rune	1k02	
+gothic sculpture	gf2	
+gothic series	61jb	
+gothic tribes	38fy	
+gothic universe edition	61jb	
+gothic war		5buv:4
+gothic war 535 552	5buv	
+gothic war 535 553	5buv	
+gothic war 535 554	5buv	
+gothic war 535 562	5buv	
+gothic war 535552	5buv	
+gothic war 535554	5buv	
+gothic war 535562	5buv	
+gothic war 6th century	5buv	
+gothic war of		5buv:4
+gothic war of 535554	5buv	
+gothic wars 535 554	5buv	
+gothic wars 6th century	5buv	
+gothic wonderland	pa	
+grums	67m4	3roi:2
+grums kommun	3roi	
+grums municipality	3roi	
+grums sweden	3roi	
+handknattleiksfelag		27j0:2
+handknattleiksfelag kopavogs	27j0	
+henry coventry	3umv	
+hokuten	5zgc	
+homophysa	15o7	
+hv	pb4	
+hv 71	pb4	
+hv 71 jonkoping	pb4	
+hv bla	pb4	
+hv evatt	3izy	
+john sheperd barron	52im	
+khaleja	25zh	
+kirchdorf		rfn:2,1x7p:3,4tns:4
+kirchdorf a inn	1x7p	
+kirchdorf am		1x7p:3
+kirchdorf am inn	1x7p	
+kirchdorf am inn bayern	1x7p	
+kirchdorf an		4tns:4
+kirchdorf an der		4tns:4
+kirchdorf an der krems	4tns	
+kirchdorf an der krems district	rfn	
+kirchdorf barsinghausen	1ebo	
+kirchdorf district	rfn	
+knockshop	4bhp	
+la forest		435p:3
+la forest landerneau	435p	
+lanchou	iaw	
+le 11e commandement	487r	
+le bodeo	2n6x	
+le bu		385w:4
+le bu sur		385w:4
+le bu sur rouvres	385w	
+le spie amano i fiori	3jpf	
+le spie vengono dal semifreddo	3rrv	
+liuisville	zh	
+louis lerch	3qlj	
+mediasch	vjs	
+mendata	435q	
+michael varkonyi	jxl	
+michailo drahomanov	2ecc	
+michailo vasilievich ostrogradsky	1oai	
+micheas	iox	
+minissha		3aul:2
+minissha lamba	3aul	
+mmras	iy3	
+monestery	wy	
+montesarchio	1ldb	
+msvc120	6bjv	
+naganoken	4s3	
+necrosis	6fph	
+niedwelling	2ua6	
+noel	2ey,1lqc,4cc3	b6m:2,db0:2,pt4:2,qb9:2,s01:3,1j70:2,1koj:2,1t9q:2,2010:2,2122:2,2bf8:6,2ha1:2,2qu7:2,31m8:2,38zs:2,3hbb:2,3iht:2,3jw0:2,3ty2:2,3x6h:2,42fz:2,49b0:2,4b7h:2,4loz:3,4mxz:2,4so5:2,4tup:3,4v1j:2,4wwa:2,4xag:2,4zin:2,570t:2,595l:2,5n94:2,5q2p:2,5rz4:2,6228:2,675w:3
+noel albert gugliemi	5rz4	
+noel alonso	4mxz	
+noel alonso perez	4mxz	
+noel anthony clarke	2ha1	
+noel anthony hogan	595l	
+noel baker	31si	
+noel black	2122	
+noel blake	4v1j	
+noel brotherston	570t	
+noel brotherstone	570t	
+noel buxton	4loz	
+noel buxton 1st baron noel buxton	4loz	
+noel cantwell	4zin	
+noel chavasse	675w	
+noel clark	2ha1	
+noel clarke	2ha1	
+noel coward	db0	
+noel david redding	4b7h	
+noel de castelnau	2tjf	
+noel dempsey	6228	
+noel edmond	49b0	
+noel edmonds	49b0	
+noel edmunds	49b0	
+noel edouard de curieres de castelnau	2tjf	
+noel edouard marie joseph vicomte de curieres de castelnau	2tjf	
+noel edouard vicomte de curieres de castelnau	2tjf	
+noel edward buxton	4loz	
+noel edward buxton 1st baron noel buxton	4loz	
+noel edward noel buxton 1st baron noel buxton	4loz	
+noel feilding	42fz	
+noel fielding	42fz	
+noel film	4cc3	
+noel first name	2ey	
+noel g	5rz4	
+noel gallagher	pt4	2bf8:6
+noel gallagher s		2bf8:6
+noel gallagher s high		2bf8:6
+noel gallagher s high flying		2bf8:6
+noel gallagher s high flying birds	2bf8	
+noel gallagher s high flying birds band	2bf8	
+noel gallagher sitting here in silence	pt4	
+noel gallaghers high flying birds	2bf8	
+noel gallon	qb9	
+noel gay	3jw0	
+noel given name	2ey	
+noel godfrey		675w:3
+noel godfrey chavasse	675w	
+noel guglielmi	5rz4	
+noel gugliemi	5rz4	
+noel harrison	2010	
+noel hogan	595l	
+noel hunt	3x6h	
+noel hunt comments	3x6h	
+noel john christopher harrison	2010	
+noel joseph terence montgomery needham	1wbs	
+noel kaseke	4wwa	
+noel king	5n94	
+noel langley	1t9q	
+noel leeman	4hcs	
+noel lloyd george blake	4v1j	
+noel m		s01:3
+noel m smith	s01	
+noel madison	38zs	
+noel mamere	4so5	
+noel marie joseph edouard de curieres de castelnau	2tjf	
+noel marx	iuw	
+noel mary purcell	3hbb	
+noel mason		4tup:3
+noel mason macfarlane	4tup	
+noel moscovitch	38zs	
+noel movie	4cc3	
+noel nagle	37ve	
+noel nathaniel moscovitch	38zs	
+noel noel	2qu7	4loz:3
+noel noel buxton	4loz	
+noel noel buxton 1st baron noel buxton	4loz	
+noel pierce coward	db0	
+noel price	31m8	
+noel purcell	1koj,3hbb	
+noel purcell actor	1koj	
+noel purcell water polo	3hbb	
+noel purcell water polo and rugby union	3hbb	
+noel purcell water polo player	3hbb	
+noel redding	4b7h	
+noel rivera	zbk	
+noel roquevert	b6m	
+noel scott engel	pwn	
+noel sinibaldi	3ty2	
+noel streatfeild	1j70	
+noel streatfeild obe	1j70	
+noel streatfield	1j70	
+noel the west wing	1lqc	
+noel thomas david gallagher	pt4	
+noel valois	5q2p	
+noel whelan	3iht	
+noel whelan footballer	3iht	
+noel willman	4xag	
+northwest	1hre	365:2,www:2,15vp:4,164s:2,1lvr:3,1usj:2,2273:3
+northwest africa meteorites	bt5	
+northwest air disrict	qa5	
+northwest air district	qa5	
+northwest air lines	1usj	
+northwest airline	1usj	
+northwest airlines	1usj	
+northwest airlines accidents and incidents	1usj	
+northwest airlines corp	1usj	
+northwest airlines inc	1usj	
+northwest airlines worldweb	1usj	
+northwest arctic		1lvr:3
+northwest arctic borough	1lvr	
+northwest arctic borough ak	1lvr	
+northwest arctic borough alaska	1lvr	
+northwest arctic census area alaska	1lvr	
+northwest arctic county	1lvr	
+northwest coast of north america	6hmr	
+northwest delhi	1jla	
+northwest delhi district	1jla	
+northwest england	eq0	
+northwest eurasia	e0	
+northwest frontier film	3eso	
+northwest hawaiian islands	2fk6	
+northwest high school louisiana	o1l	
+northwest highlands	www	
+northwest holiness college	2273	
+northwest leicestershire	u8k	
+northwest missouri		15vp:4
+northwest missouri st	15vp	
+northwest missouri state	15vp	15vp:4
+northwest missouri state teachers college	15vp	
+northwest missouri state university	15vp	
+northwest missouri teachers college	15vp	
+northwest mounted police film	v2d	
+northwest nazarene	2273	2273:3
+northwest nazarene college	2273	
+northwest nazarene university	2273	
+northwest orient	1usj	
+northwest passage	164s	
+northwest passage 1940 film	164s	
+northwest passage film	164s	
+northwest passage movie	164s	
+northwest passage twin peaks	113x	
+northwest plateau	6hmr	
+northwest province	1hre	
+northwest province cameroon	1hre	
+northwest province south africa	ume	
+northwest rebellion	4rv0	
+northwest rebellion of 1885	4rv0	
+northwest region cameroon	1hre	
+northwest resistance	4rv0	
+northwest side chicago	fr2	
+northwest south africa	ume	
+northwest territorian	365	
+northwest territories	365	
+northwest territories nwt	365	
+northwest territory canada	365	
+northwest terrritory	365	
+northwest worldclub	1usj	
+northwest yonkers	40k	
+nortwest airways	1usj	
+obsd	d2b	
+okanawa	ucv	
+orcier	3rxi	
+papilionoidae	39q6	
+parmigianino	13zp	
+parmigianino francesco mazzuola	13zp	
+paul terence callaghan	5cpa	
+pegasas	5nwh	
+pevy	3k8a	
+pseudogenes	fzo	
+quirkian	4ld3	
+raaf	ax9	
+raaf air command	5sov	
+raaf home command	5sov	
+raaf operational command	5sov	
+raaf wing	ax9	
+ricadi	4s5p	
+rickon	59h9	59h9:2
+rickon stark	59h9	
+rovereto	cvn	
+rovereto italy	cvn	
+rumiantsev	1nvm	
+saco	148l	5sdt:2
+saco city maine	148l	
+saco city me	148l	
+saco defense	c7a	
+saco defense industries	c7a	
+saco maine	148l	
+saco me	148l	
+saco river	5sdt	
+saco river united states	5sdt	
+salageni river	2nc6	
+san ciriaco d ancona	6np	
+scribe	3u5j	
+scribe eugene	p77	
+scribe writing	3u5j	
+selmeczbanya	11wt	
+senandizh	wh6	
+sir blomfield	ysr	
+southcentral train operating company	a8y	
+st william of gellone	69nt	
+steam	2q7,49b	6n7:2,z0p:2,1v6j:2
+steam boat	5gz	
+steam boy	3ozy	
+steam burn	3n93	
+steam circuit	6n7	
+steam client	2q7	
+steam cloud	2q7	
+steam community	2q7	
+steam content delivery	2q7	
+steam cook	10tl	
+steam cooker	10tl	
+steam electric	4i1c	
+steam electric generator	4i1c	
+steam electric power plant	4i1c	
+steam electric power station	4i1c	
+steam engine	z0p	
+steam ferry	bjq	
+steam gaming	2q7	
+steam generating station	40m	
+steam launch	5gz	
+steam locamotive	6n7	
+steam loco	6n7	
+steam locomotive	6n7	
+steam machine	z0p	
+steam machines	z0p	
+steam market	2q7	
+steam navigation	z0p	
+steam negro	28zp	
+steam oven	587i	
+steam paddler	4bs	
+steam power plant	4i1c	
+steam power station	4i1c	
+steam powered	z0p	
+steam powered locomotive	6n7	
+steam powered machinery	z0p	
+steam powered ship	5gz	
+steam program	2q7	
+steam pump	nig	
+steam punk	20r7	
+steam railway	6n7	
+steam railway locomotive	6n7	
+steam railways	6n7	
+steam ship	rv,5gz	
+steam ships	rv	
+steam software	2q7	
+steam store	2q7	
+steam the turkish bath	124f	
+steam train	6n7	
+steam trains	6n7	
+steam tram	561g	
+steam tug	gja	
+steam turbine	1v6j	
+steam turbines	1v6j	
+steam tv	2q7	
+steam vessel	5gz	
+swapo	7mt	7mt:2
+swapo party	7mt	
+swapo party of namibia	7mt	
+tannant william edgeworth david	2jkc	
+tatlo dalawa isa	1n2e	
+tenno	8p6,44gm	
+tenno heika	8p6,wl4	
+tenno italy	44gm	
+tenno jimmu	4gdd	
+tenno no ryoriban	r5d	
+tenno tn	44gm	
+tenno trentino	44gm	
+terrades	2v7z	
+the dentist	5sb0	
+the dentist 1996 film	5sb0	
+the government central school	43qk	
+the government of hong kong	17ug	
+the government of ireland	30q5	
+the government of kerala	38wd	
+the government of the hong kong special administrative region	17ug	
+the government of the republic of korea	132y	
+the government of the united states	iym	
+the hook	5tmx	
+the hook 1963 film	5tmx	
+the news	y9a	
+the news corporation	ldu	
+the news corporation limited	ldu	
+the news major publication at choate weekly newspaper	etj	
+the news record cincinnati	2tq	
+the snowtown murders	638p	
+thomas haden		jet:3
+thomas haden church	jet	
+thomas haden church comments	jet	
+traversetolo	2okx	
+traversetolo italy	2okx	
+tresina lobi	6cw6	
+treventum	26az	
+troyekurovskoe cemetery	378	
+turnabout trial 3	5jdm	
+ugt union	11v2	
+ulcedin	5tz6	
+umusic	hq	
+vauchez	6czg	
+vercors	5c7w	4sz8:2
+vercors massif	4sz8	
+vercors mountains	4sz8	
+vercors plateau	4sz8	
+vercors writer	5c7w	
+vertabrate	31ak	
+vysotsky aleksej vladimirovich	232s	
+wargnies	3qz8	328a:3,3otn:3
+wargnies le		328a:3,3otn:3
+wargnies le grand	3otn	
+wargnies le petit	328a	
+wikimedian	5h0o	
+wilsonville	2bjf	
+wilsonville connecticut	397w	
+wilsonville or	2bjf	
+wilsonville ore	2bjf	
+wilsonville oregon	2bjf	
+wincoll	1h6	
+woster massachusetts	2g2	
+wroblew commune	13sa	
+yelisavetgrad	ajt	
+yuyama kunihiko	1e2w	

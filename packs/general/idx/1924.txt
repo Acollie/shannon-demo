@@ -1,0 +1,452 @@
+a passenger		6dg4:3
+a passenger disappeared	6dg4	
+aivar		4nyd:2,4y9c:2
+aivar anniste	4nyd	
+aivar rehemaa	4y9c	
+almoravid		2jrf:2
+almoravid caliphate	2jrf	
+almoravid dynasty	2jrf	
+almoravid emirate	2jrf	
+almoravid empire	2jrf	
+aprtheid	66sm	
+archetypal	4wuo	
+astemizole	ehy	
+bangladesh	81,5swl	5e5:3,9mr:6,oa9:4,1aml:6,1byw:3,230a:3,2qjo:2,3hol:3,5b1q:4,5mir:3,6c2t:6
+bangladesh air		5mir:3
+bangladesh air force	5mir	
+bangladesh awami		5e5:3
+bangladesh awami league	5e5	
+bangladesh awami league party	5e5	
+bangladesh campaign	hh4	
+bangladesh civil engineering construction	2ydf	
+bangladesh conflict	1byw	
+bangladesh football premier league	230a	
+bangladesh independence war	1byw	
+bangladesh islamic assembly	5b1q	
+bangladesh jamaat		5b1q:4
+bangladesh jamaat e		5b1q:4
+bangladesh jamaat e islami	5b1q	
+bangladesh jamat i islam	5b1q	
+bangladesh jatiotabadi dol	3hol	
+bangladesh jatiyatabadi dal	3hol	
+bangladesh league	230a	
+bangladesh liberation		1byw:3
+bangladesh liberation movement	1byw	
+bangladesh liberation war	1byw	
+bangladesh men		9mr:6
+bangladesh men s		9mr:6
+bangladesh men s national		9mr:6
+bangladesh men s national football		9mr:6
+bangladesh men s national football team	9mr	
+bangladesh music producer	5swl	
+bangladesh national		oa9:4,6c2t:6
+bangladesh national film		oa9:4
+bangladesh national film award for best cinematography	oa9	
+bangladesh national film awards	oa9	
+bangladesh national football team	9mr	
+bangladesh national party	3hol	
+bangladesh national under		6c2t:6
+bangladesh national under 23		6c2t:6
+bangladesh national under 23 football		6c2t:6
+bangladesh national under 23 football team	6c2t	
+bangladesh nationalist		3hol:3
+bangladesh nationalist party	3hol	
+bangladesh pakistani war of 1971	hh4	
+bangladesh people s league	5e5	
+bangladesh premier		230a:3
+bangladesh premier league	230a	
+bangladesh premier league football	230a	
+bangladesh producer	5swl	
+bangladesh professional football league	230a	
+bangladesh railway	2qjo	
+bangladesh railways	2qjo	
+bangladesh record producer	5swl	
+bangladesh sports control board	qm3	
+bangladesh standard time	wf	
+bangladesh under pakistan	uls	
+bangladesh university		1aml:6
+bangladesh university of		1aml:6
+bangladesh university of engineering		1aml:6
+bangladesh university of engineering and		1aml:6
+bangladesh university of engineering and technology	1aml	
+bangladesh university of engineering technology	1aml	
+bangladesh war of independence	1byw	
+bangladesh war of independence 1971	1byw	
+bangladesh war of liberation of 1971	1byw	
+baryon sweep	5oz7	
+bodenseekreis	kcv	
+boisseau	348g	
+c9092	2pxa	
+casual		1mny:2
+casual friendship	5wny	
+casual game	1mny	
+casual gamer	1mny	
+casual games	1mny	
+casual gaming	1mny	
+casual labour	3y9j	
+casual vacancy		6gun:3
+casual video gamer	1mny	
+casual y	s3g	
+chosebuz	99e	
+courboin	30uo	
+davenant william	3f38	
+delura michael	4oo3	
+domhnall		19py:2
+domhnall gleeson	19py	
+drambon	37e8	
+dvur		xo7:4
+dvur kralove	xo7	xo7:4
+dvur kralove nad		xo7:4
+dvur kralove nad labem	xo7	
+edward baines	50hb,5iu9	
+edward baines 1774 1848	5iu9	
+edward baines 17741848	5iu9	
+edward baines 1800 1890	50hb	
+edward baines 18001890	50hb	
+edward baines british politician	50hb	
+edward baines jr	50hb	
+edward baines mp for leeds 1859 74	50hb	
+edward baines mp for leeds 185974	50hb	
+emmigrate	vtd	
+escaudain	1j9l	
+ewoks		2j1q:5
+ewoks battle for endor	2j1q	
+ewoks the		2j1q:5
+ewoks the battle		2j1q:5
+ewoks the battle for		2j1q:5
+ewoks the battle for endor	2j1q	
+extinct town	jc	
+extinct volcano	2f7	
+extinct volcanoes	2f7	
+fabritius	1pya	
+fabritius karel	1pya	
+fifa2005	4yqh	
+fiozpur	2app	
+foxburo hot tubs	5zqm	
+franconia	4en7	
+franconia line	1ht9	
+franconia portal	4en7	
+franconia region	4en7	
+franconia route	1ht9	
+franconia saxony express	45jr	
+franconia saxony trunk line	45jr	
+franconia springfield line	1ht9	
+franconia springfield route	1ht9	
+frederick bernthal	5zaz	
+gabor	5cc	dw6:2,15rh:2,397f:3,3a3x:2,3d9v:2,3pbi:2,40bh:2,4apy:2,4jjs:2,4kaw:2,4ohc:2,4otb:2,4pc3:2,4va3:2,55en:2,58oa:2,5cmz:2,5dnv:2,5gza:2,5k8b:2,5m20:2,5mqq:2,65ub:3,693a:2,6df7:2,6dua:2
+gabor a		397f:3
+gabor a somorjai	397f	
+gabor bori	55en	
+gabor bukran	4jjs	
+gabor csupo	3pbi	
+gabor demjen	58oa	
+gabor denes	12wy	
+gabor dennis	12wy	
+gabor egressy	4kaw	
+gabor egressy footballer	4kaw	
+gabor eros	5cmz	
+gabor esterhazy	4apy	
+gabor esterhazy 1580 1626	4apy	
+gabor esterhazy 15801626	4apy	
+gabor eva	zo9	
+gabor first name	5cc	
+gabor gerstenmajer	5k8b	
+gabor given name	5cc	
+gabor gyepes	4otb	
+gabor joanovics	3a3x	
+gabor kiraly	3d9v	
+gabor koncz	6dua	
+gabor koos	6df7	
+gabor korolovszky	40bh	
+gabor magda	3u9u	
+gabor magdolna	3u9u	
+gabor marton	4pc3	
+gabor nagy	5gza	
+gabor nagy footballer born 1981	5gza	
+gabor nemeth	5mqq	
+gabor pal	5z0p	
+gabor pogany	dw6	
+gabor rajnai	3a3x	
+gabor rajnay	3a3x	
+gabor reviczky	5dnv	
+gabor rezso arpad gyorgy uros imre joanovics	3a3x	
+gabor sari	m9g	
+gabor somorjai	397f	
+gabor szabo	15rh	
+gabor torma	4va3	
+gabor varga	693a	
+gabor vaszary	65ub	
+gabor vayer	5m20	
+gabor vincze	4ohc	
+gabor von		65ub:3
+gabor von vaszary	65ub	
+gabor zsa zsa	m9g	
+gabor zsazsa	m9g	
+gburg	oyy	
+george handal	7g5	
+george pray	5ejg	
+gmina cmolas	3q3a	
+gnaw		1ivv:3
+gnaw their		1ivv:3
+gnaw their tongues	1ivv	
+goddelau	398a	
+gopal	ono	
+gopal bedi	tza	
+gopal krishna	ono	
+gopal reddy	iro	
+gopal reddy s	iro	
+gopal s reddy	iro	
+gopal sarvepalli	62ri	
+gorthol	6baf	
+goths	38fy	
+gutersloh	bad,11us	
+gutersloh district	11us	
+gutersloh germany	bad	
+gutersloh kreis	11us	
+heham kadymyan	5cj6	
+humming along	1636	
+humming bird	4isr	61h8:3
+humming bird moth	8go	
+humming birds	4isr	
+ibadan	7wb	
+ibadan nigeria	7wb	
+ibadan university	ezz	
+igolomia wawrzenczyce commune	1rtj	
+inme	4dda	
+inme itunes live london festival 2008	4dda	
+inme itunes live london festival 2008 ep	4dda	
+james rice	4nzy	
+jean moliere	lrd	
+john carmel cardinal heenan	5ztq	
+john carmel heenan	5ztq	
+john kennedy	688y	35zt:3
+john kennedy actor	mt0	
+john kennedy footballer born 1939	688y	
+john kennedy hurtado	4wgu	
+john kennedy northern irish footballer	688y	
+john kennedy o toole	35zt	
+john kennedy oswald	575u	
+john kennedy toole	35zt	
+juke		2eer:5,65re:3
+juke box		2eer:5
+juke box records	11jl	
+juke box urli		2eer:5
+juke box urli d		2eer:5
+juke box urli d amore	2eer	
+juke joint		65re:3
+juke joint chapel	1fva	
+juke joint jezebel	65re	
+kalingrad oblast	foi	
+kiad	2mmv	
+kohtla		19dn:2,3lr1:3
+kohtla commune	3lr1	
+kohtla jaerve	19dn	
+kohtla jaerve county	19dn	
+kohtla jarve	19dn	
+kohtla jarve county	19dn	
+kohtla parish	3lr1	
+kohtla rural		3lr1:3
+kohtla rural municipality	3lr1	
+kohtla vald	3lr1	
+kohtla yarve	19dn	
+kragujevac	5nt	
+kragujevac municipality	5nt	
+kragujevac sumadija	5nt	
+kragujevac university	5zxm	
+kranjska gora municipality	3zpj	
+kriti	48f	
+kriti periphery	48f	
+kwangju	7ma	
+kwangju kwangyokshi	7ma	
+kwangju metropolitan city	7ma	
+kwangju metropolitan city south korea	7ma	
+kwangju si	3to9	
+kweichow province	n6w	
+la baronia		2l6e:4
+la baronia de		2l6e:4
+la baronia de rialb	2l6e	
+la cluse	4d1k	30r0:4
+la cluse et		30r0:4
+la cluse et mijoux	30r0	
+lack commune	1q29	
+lack david	3t81	
+lack of appetite	4czq	
+lack of red blood cells disorder	1duo	
+lack of skin pigment	y04	
+le landin	3etd	
+le playist	5jy6	
+leos		z96:2,15bs:2,5wla:2
+leos carax	15bs	
+leos cermak	5wla	
+leos janaaek	z96	
+leos janacek	z96	
+leos janarek	z96	
+leucosyrinx	1fec	
+llandilo fawr	3kst	
+louis szekely	nz5	
+lowersilesianvoivodeshipcounties	cf5	
+mahweet	1ttx	
+marbois	3a4d	
+marg		1iv7:2
+marg delahunty	5ajm	
+marg helgenberger	1iv7	
+marg roosenboom	2ags	
+marisol	4m6w,5l23	4v1n:2,5l23:2,616w:2
+marisol actress	4m6w	
+marisol artist	5l23	
+marisol escobar	5l23	
+marisol maldonado	12dp	
+marisol nichols	4v1n	
+marisol sculptor	5l23	
+marisol touraine	616w	
+matuidi	3ov0	
+mcconaughey	h1f	
+mcconaughey matthew	h1f	
+megatall	g9	
+mercian bishop of dorchester	dc2	
+mercian bishops of dorchester	dc2	
+mercian dynasty	12el	
+michael carlyle hall	1epl	
+morais	5qp0	
+narcastet	3oos	
+national 9 11 memorial	6gw3	
+national 9 11 memorial and museum	6gw3	
+national 9 11 memorial museum	6gw3	
+national 9 11 museum	6gw3	
+national music institute	rho	
+new ro	4ls	
+octangle	5lvs	
+ome	31r4,4les	
+ome bs	4les	
+ome italy	4les	
+ome line	1od4	
+ome lombardy	4les	
+ome sen	1od4	
+ome tokyo	31r4	
+outlook 2010	5xb8	
+outlook 2013	5f99	
+outlook club	3qe	
+paul wheatcroft	4woe	
+philodendrons	184h	
+presence		582u:3
+presence of		582u:3
+presence of mind	582u	
+protogabunia	bmi	
+proussa	4gr	
+purvanov	5e0s	
+pussification	hqu	
+quinaglute	epa	
+raph	gyk	
+raph saadiq	1l3g	
+raph tmnt	gyk	
+richard alpert	40k7	
+richard cordray	5otv	
+richard rober	3zzm	
+rshvsm raf jelgava	s44	
+salmander grill	6624	
+satan	3kzb	1wss:3,3xhz:4,493v:3,4rjk:3,5sby:5,5yas:3
+satan 1920 film	3kzb	
+satan bug	1ty8	1ty8:3
+satan der rache	4rfd	
+satan film	3kzb	
+satan met		3xhz:4
+satan met a		3xhz:4
+satan met a lady	3xhz	
+satan never		4rjk:3
+satan never sleeps	4rjk	
+satan never sleeps 1962 film	4rjk	
+satan s		1wss:3,493v:3,5sby:5,5yas:3
+satan s alley	u7n	
+satan s brew	1wss	
+satan s graffiti or god s art	4cmf	
+satan s playground	5yas	
+satan s playground film	5yas	
+satan s satellites	505h	
+satan s school		5sby:5
+satan s school for		5sby:5
+satan s school for girls	5sby	
+satan s school for girls 1973 film	5sby	
+satan s skin	1kop	
+satan s slave	493v	
+satan s slave 1976 film	493v	
+satan s sluts	qxh	
+satan s tango	2pnz	
+seeman director	3xcg	
+seeman politician	3xcg	
+sennet whip	4dre	
+shahs	18sm	
+shahs of shirwan	t92	
+shushkevich	4n1t	
+sperre	538m	
+st genevieve missouri	2xcg	
+stuffed		6f7a:2
+stuffed bell peppers	6f7a	
+stuffed cabbage rolls	lme	
+stuffed capsicum recipe	6f7a	
+stuffed monkey head	6f7a	
+stuffed monkey heads	6f7a	
+stuffed pepper	6f7a	
+stuffed peppers	6f7a	
+stuy	50o	
+stuy hs	50o	
+talmassons	3wi0	
+tant que je vivrai	5btp	
+tebily didier yves drogba	1gjm	
+tebily drogba	1gjm	
+techonology	7i8	
+telsiai	y8g	496z:3
+telsiai district	496z	496z:3
+telsiai district municipality	496z	
+telsiai lithuania	y8g	
+thalictrum	4m0d	
+the closed systems of concepts in physics	3wus	
+the reanimator	2bjb	
+the spanish	1apv	1gtp:3,3015:3,34bz:3,41tw:3,4adu:3,5fqg:3,6bae:4
+the spanish american war	1i4	
+the spanish apartment	1jly	
+the spanish armada	6h5b	
+the spanish campaign	3vl	
+the spanish cape		6bae:4
+the spanish cape mystery	6bae	
+the spanish civil war	1mq	
+the spanish dancer	4adu	
+the spanish dancer 1923 film	4adu	
+the spanish earth	5fqg	
+the spanish gardener	41tw	
+the spanish gardener film	41tw	
+the spanish gypsy	3015	
+the spanish gypsy film	3015	
+the spanish main	1gtp	
+the spanish prisoner	34bz	
+the spanish society for naval construction	6d89	
+thomas lantos	49pw	
+thomas stieltjes	3shj	
+timurids	ty3	
+tokuroo fujiwara	pq8	
+toowong	3us8	
+toowong queensland	3us8	
+treebrowns	466c	
+tropp	7sc	
+tulf	5g3k	
+valbella	1i0e	
+vasov	19yl	
+vauchoux	2r2u	
+veseljko		47qm:2
+veseljko trivunovic	47qm	
+viscountcies	8ma	
+vomitting	fs9	
+vsmu	5ndg	
+vsmu in bratislava	5ndg	
+warschauer str	5sbc	
+warschauer strae	5sbc	
+warschauer strasse berlin	5sbc	
+warschauer strasse bvg	5sbc	
+william barbosa	5w4s	
+william barbosa da silva	3x5r	
+william sloane		3yoi:3,62ml:4
+william sloane coffin	3yoi	62ml:4
+william sloane coffin jr	3yoi	
+william sloane coffin sr	62ml	
+witoruwiusu	56xb	
+wobbly bridge	4p3i	
+woubrechtegem	348i	

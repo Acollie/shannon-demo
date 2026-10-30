@@ -1,0 +1,371 @@
+1997	16bt	l99:5,o80:3,18bm:7,1ick:5,1nja:6,23u5:2,2asi:4,2l5j:7,2n43:6,2yv0:5,3a7a:2,3t8k:7,3zl6:3,4j5t:4,4ueg:3,5968:3,599g:4,5dss:7,5je9:5,6hcm:3
+1997 1999	2fw2	
+1997 98 bundesliga	21zz	
+1997 98 cypriot cup	bvc	
+1997 98 cypriot first division	ypp	
+1997 98 cypriot fourth division	1r8t	
+1997 98 cypriot second division	11l6	
+1997 98 cypriot third division	109r	
+1997 98 ekstraklasa	2jys	
+1997 98 fuball bundesliga	21zz	
+1997 98 fussball bundesliga	21zz	
+1997 98 woking f c season	3xw	
+1997 a d	16bt	
+1997 amstel		4j5t:4
+1997 amstel gold		4j5t:4
+1997 amstel gold race	4j5t	
+1997 australian		3zl6:3
+1997 australian open	3zl6	
+1997 badminton		2l5j:7,2n43:6,3t8k:7,599g:4,5dss:7
+1997 badminton world		2l5j:7,2n43:6,3t8k:7,599g:4,5dss:7
+1997 badminton world championships	599g	2l5j:7,2n43:6,3t8k:7,5dss:7
+1997 badminton world championships men		2l5j:7,5dss:7
+1997 badminton world championships men s		2l5j:7,5dss:7
+1997 badminton world championships men s doubles	2l5j	
+1997 badminton world championships men s singles	5dss	
+1997 badminton world championships mixed		2n43:6
+1997 badminton world championships mixed doubles	2n43	
+1997 badminton world championships women		3t8k:7
+1997 badminton world championships women s		3t8k:7
+1997 badminton world championships women s doubles	3t8k	
+1997 ce	16bt	
+1997 cleveland browns season	13h	
+1997 eurobasket	320u	
+1997 european basketball championship	320u	
+1997 eurovision song contest	hqm	
+1997 f1 season	2yv0	
+1997 fia formula one world championship	2yv0	
+1997 fiba eurobasket	320u	
+1997 fis nordic world ski championships	86c	
+1997 ford world curling championships	jj8	
+1997 formula		2yv0:5
+1997 formula 1 season	2yv0	
+1997 formula one		2yv0:5
+1997 formula one season	2yv0	
+1997 formula one world		2yv0:5
+1997 formula one world championship	2yv0	
+1997 french		4ueg:3
+1997 french open	4ueg	
+1997 french open tennis	4ueg	
+1997 gent wevelgem	3a7a	
+1997 gentwevelgem	3a7a	
+1997 grand prix de denain	50tn	
+1997 iaaf		1ick:5
+1997 iaaf world		1ick:5
+1997 iaaf world indoor		1ick:5
+1997 iaaf world indoor championships	1ick	
+1997 ibf world championships	599g	
+1997 ibf world championships men s doubles	2l5j	
+1997 ibf world championships men s singles	5dss	
+1997 ibf world championships mixed doubles	2n43	
+1997 ibf world championships women s doubles	3t8k	
+1997 masters	23u5	6hcm:3
+1997 masters snooker	23u5	
+1997 masters tournament	6hcm	
+1997 russian		2asi:4
+1997 russian top		2asi:4
+1997 russian top league	2asi	
+1997 sudirman		o80:3
+1997 sudirman cup	o80	
+1997 super bowl	6gwh	
+1997 superbowl	6gwh	
+1997 uci		5je9:5
+1997 uci road		5je9:5
+1997 uci road world		5je9:5
+1997 uci road world cup	5je9	
+1997 wimbledon	5968	5968:3
+1997 wimbledon championships	5968	
+1997 world		l99:5,18bm:7,1nja:6
+1997 world allround		1nja:6
+1997 world allround speed		1nja:6
+1997 world allround speed skating		1nja:6
+1997 world allround speed skating championships	1nja	
+1997 world athletics championships	l99	
+1997 world badminton championships	599g	
+1997 world championships		l99:5
+1997 world championships in		l99:5
+1997 world championships in athletics	l99	
+1997 world indoor championships in athletics	1ick	
+1997 world single		18bm:7
+1997 world single distance		18bm:7
+1997 world single distance speed		18bm:7
+1997 world single distance speed skating		18bm:7
+1997 world single distance speed skating championships	18bm	
+1997 world snooker champion	2ghe	
+1997 year	16bt	
+9k11	4xmq	4xmq:2
+9k11 malyutka	4xmq	
+aeronautica civil	3gt1	
+aeronautica civil republica de colombia	3gt1	
+aeronautica macchi	14zj	
+aeronautica militaire	i2x	
+aeronautica militare	i2x	
+aeronautica militare italiana	i2x	
+ageyenkova	6fng	
+arcis		1mjs:3,1wc9:3
+arcis le		1wc9:3
+arcis le ponsart	1wc9	
+arcis ponsart	1wc9	
+arcis sur		1mjs:3
+arcis sur aube	1mjs	
+armya	41ky	
+asroc	4ftf	
+beinlausi ivarr	4zju	
+benajuy		5ua0:5
+benajuy ye		5ua0:5
+benajuy ye gharbi	5ua0	5ua0:5
+benajuy ye gharbi rural		5ua0:5
+benajuy ye gharbi rural district	5ua0	
+biumandara	2n8o	
+biumandara b languages	2n8o	
+booroondara	1kkj	
+borovia the big knights	4pes	
+brushfire	rfy	rfy:2
+brushfire records	rfy	
+buller		317t:2
+buller charles	5nn1	
+buller district	317t	
+buller district council	317t	
+buller district new zealand	317t	
+canandaigua	op6	
+canandaigua city new york	op6	
+canandaigua city ontario county new york	op6	
+canandaigua new york	op6	
+canandaigua ny	op6	
+caravaggio	chp,13ec,16lo,2gav,4utg	
+caravaggio 1941 film	2gav	
+caravaggio 1986 film	16lo	
+caravaggio 2007 film	4utg	
+caravaggio bg	13ec	
+caravaggio il pittore maledetto	2gav	
+caravaggio italy	13ec	
+caravaggio lombardy	13ec	
+caravaggio movie	16lo	
+chandana	4wem	
+chandana banarjee	4wem	
+chandana banerjee	4wem	
+changteh	1abw	
+charles barry	141i	5i9b:3
+charles barry ii	5i9b	
+charles barry jr	5i9b	
+charles barry junior	5i9b	
+charles barry sir	141i	
+charles barry sr	141i	
+charles barry the elder	141i	
+charles barry the younger	5i9b	
+chiamanda ngozi adichie	1k8b	
+chitinskaya	r6w	
+chitinskaya oblast	r6w	
+chitinskaya oblast russia	r6w	
+cognat		2ilj:2
+cognat lyonne	2ilj	
+croppers and pouters	6elx	
+denmarknorway	1eu3	
+desmo	13kh	
+desojo	47lh	
+digitaria	6b4s	
+djavulens oga	3rbn	
+doctrine	323w	4rxz:3
+doctrine and		4rxz:3
+doctrine and covenants	4rxz	
+doctrine and covenants of the church of jesus christ of latter day saints	4rxz	
+doctrine and covenants of the church of the latter day saints carefully selected from the revelations of god	4rxz	
+doctrine covenants	4rxz	
+doctrine in christianity trinity	cl9	
+doctrine of calvin	124k	
+doctrine of god	4aoc	
+einsetein	73h	
+ellsberg edward	5nm8	
+esc2012	8he	
+fauteuils d orchestre	28ok	
+flammarion	3jza	
+flammarion publishing	3jza	
+frederick archduke of austria	sm4	
+funsize	4g8k	
+garbagnate		1hq9:2,58xf:2
+garbagnate milanese	1hq9	
+garbagnate monastero	58xf	
+george duke	27jc	13uv:4,14bd:5,1rm8:5
+george duke of		13uv:4,14bd:5,1rm8:5
+george duke of bavaria	4mti	
+george duke of bavaria landshut	4mti	
+george duke of brunswick		14bd:5
+george duke of brunswick lueneburg	14bd	
+george duke of brunswick luneburg	14bd	
+george duke of cambridge	29sy	
+george duke of clarence	1t49	
+george duke of kent	13nj	
+george duke of leuchtenberg	25kp	
+george duke of mecklenburg	4e5a	
+george duke of mecklenburg strelitz	1l48	
+george duke of oldenburg	31vf	
+george duke of saxe		1rm8:5
+george duke of saxe altenburg	1rm8	
+george duke of saxony	13uv	
+george duke villiers	12fx	
+gymnasts	52h	
+hanafis	118l	
+ic55 db	5em9	
+inganno	2xud	
+inganno film	2xud	
+isone	30wj	
+isone switzerland	30wj	
+isone ti	30wj	
+isone ticino	30wj	
+james forrestal	40uj	
+ject runway	1btk	
+john caroll university	gfn	
+john swift	3u47	
+john swift footballer born 1995	3u47	
+juillac	2zkl,3pvx,43db	38fv:3
+juillac correze	43db	
+juillac gers	3pvx	
+juillac gironde	2zkl	
+juillac le		38fv:3
+juillac le coq	38fv	
+kaida akari	3vcl	
+kaymcgovern journal of a crime	2b7c	
+kikoku inoue	2prt	
+kraits	5wzx	
+krisnareddy	wqd	
+krymteplitsia molodizhne	ok7	
+kyparissos stefanos	65fo	
+lancie	2znw	
+le fayel	3oo4	
+lemdiyya	3y5k	
+litton ingalls shipbuilding	b7a	
+litton ingalls shipyard	b7a	
+loen entertainment	mgw	
+loen tree	mgw	
+luchow		q3f:3
+luchow dannenberg	q3f	q3f:3
+luchow dannenberg district	q3f	
+manado	yko	
+maves	267l	
+melamare	2k1z	
+meltina	3utk	
+mercaz	17nq	17nq:3
+mercaz harav	17nq	17nq:3
+mercaz harav kook	17nq	
+metamorphose des cloportes	1xwu	
+michael fox	3y0p	
+michael fox actor	ipl	
+michael fox american actor	3y0p	
+mirsaidov	5zop	
+mr6s4	gam	
+murlidhar	1r32	
+murlidhar devidas amte	56x5	
+mutua madrid open	2ud0	
+mutua madrilena madrid open	2ud0	
+mutua madrilena madrid open tennis	2ud0	
+mutua madrilena masters madrid	2ud0	
+national regulating autority	64fo	
+neipest	3wom	
+nitzsche phone	qgd	
+nomination committee	10g4	
+omnia gallia	1uf4	
+omnia opera galen	4ef7	
+paranemapogon	i9c	
+pascalia	4d2g	
+perbal	4ycd	
+pertwee michael	1fir	
+princess fadila of egypt	6cwy	
+radoszyce commune	s74	
+raghuvir yadav	29li	
+realtorscoach	3n2c	
+rivacre park	qj9	
+robert flay	6bv4	
+robert hans van gulik	1c5q	
+rudolfstadt	2nun	
+rugney	2ssm	
+sholem		3ruf:2,44sj:2,4nep:2
+sholem aleichem	44sj	
+sholem aleichem laughing in the darkness	44sj	
+sholem aleichem memorial foundation	44sj	
+sholem aleichim	44sj	
+sholem asch	4nep	
+sholem ash	4nep	
+sholem rabinovich	44sj	
+sholem rabinovitsh	44sj	
+sholem rabinowich	44sj	
+sholem schwarzbard	3ruf	
+signorelli	1r2n	
+sir murray gordon halberg	4esb	
+sir murray halberg	4esb	
+skiskyting	139	
+somnipathy	2sln	
+spornava	4gos	
+suriname	1uy	8mw:6
+suriname hoofdklasse	3u64	
+suriname javanese language	2ec3	
+suriname men		8mw:6
+suriname men s		8mw:6
+suriname men s national		8mw:6
+suriname men s national football		8mw:6
+suriname men s national football team	8mw	
+suriname national football team	8mw	
+suriname time	mg	
+szekelykeresztur	3ikm	
+taillette	2r32	
+taraktogenos	65wy	
+tchadanthropus	426x	
+teal		4tyy:2
+teal alexander bunbury	4tyy	
+teal bunbury	4tyy	
+teal lake minnesota	y4s	
+tecmo	chv	6gei:3
+tecmo keoi	dry	
+tecmo koei	dry	
+tecmo koei holdings	dry	
+tecmo koei holdings co ltd	dry	
+tecmo ltd	dry	
+tecmo super		6gei:3
+tecmo super bowl	6gei	
+tecmo super bowl snes	6gei	
+terrel owens	4w1p	
+the benbow inn	18ro	
+the chameleons	6g7l	
+the chameleons uk	6g7l	
+the lake		2efo:3,3fc4:3,68e6:4
+the lake calls	3fc4	
+the lake district	3fp	
+the lake erie quadrangle	fr4	
+the lake eyre yacht club	3loj	
+the lake house	2efo	
+the lake house film	2efo	
+the lake of		68e6:4
+the lake of souls	68e6	
+the lake of the damned	5hqq	
+theshadowcrow sandbox alain boghossian	3t16	
+theshadowcrow sandbox arman suren karamyan	2pqe	
+theshadowcrow sandbox eduard artyomovich markarov	5kz0	
+theshadowcrow sandbox karen asrian	unh	
+theshadowcrow sandbox khoren georgijevic hovhannisyan	3v01	
+theshadowcrow sandbox levon aronian	3bx8	
+thian shan mountains	135g	
+toddi gudjonsson	3ef1	
+tsagi	27ss	
+tudeshk		om2:3
+tudeshk rural		om2:3
+tudeshk rural district	om2	
+tumbatu dialect	emy	
+ulcisia castra	vb1	
+vestlandet	2o7v	
+wahb		2fz8:3
+wahb bin munabbih	2fz8	
+wahb ibn		2fz8:3
+wahb ibn munabbih	2fz8	
+wahb ibn munabbih abu abd allah al sana ani al dhimari	2fz8	
+waxvine	61s8	
+william evarts	5a5b	
+william shea	4opl	
+ws08	46my	
+yahia ben zakaria	4ow	
+yahia khan	44sv	
+zest online riddle	mu2	
+zilla 1998 film	vud	
+zilla panchayath davanagere	1yhj	
+zutphen	r3x	37wy:3
+zutphen netherlands	r3x	
+zutphen railway		37wy:3
+zutphen railway station	37wy	

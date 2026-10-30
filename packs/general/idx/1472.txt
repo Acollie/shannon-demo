@@ -1,0 +1,309 @@
+3sc	hsv	
+addisonwesley	24sf	
+addisonwesley professional	24sf	
+akraga	cgw	
+amedia	16t4	
+ancarano	2w7d	
+aruze	51ov	
+aruze corp	51ov	
+autobio	2e7	
+ballyduff	6fpk	
+ballyduff county kerry	6fpk	
+battagram		26g7:2
+battagram district	26g7	
+berrien	30fz	ih2:2
+berrien county	ih2	
+berrien county mi	ih2	
+berrien county michigan	ih2	
+berrien finistere	30fz	
+bhongprabai	mcm	
+blekinge	pj2	1ha2:2,4x5s:3
+blekinge air		4x5s:3
+blekinge air wing	4x5s	
+blekinge county	1ha2	
+blekinge gauge	1rf	
+blekinge laen	1ha2	
+blekinge lan	1ha2	
+blekinge province	pj2	
+bluebell madonna	14d2	
+bosongo	3oll	
+boucau	3p48	
+bron	3ebb	
+bron bron	p87	
+bsb	jwx	
+burroughs author	930	
+burroughs edgar rice	930	
+burroughs edgar rice 1875 1950	930	
+burroughs medal	kra	
+burroughs wellcome co	1qq5	
+burroughs wellcome foundation	27sk	
+burroughs william	cg9	
+chamelet	2sjg	
+charles denis		4ijy:3
+charles denis bourbaki	4ijy	
+charles denis sauter bourbaki	4ijy	
+charles denis soter bourbaki	4ijy	
+chikkin	aw8	
+chr4	2js	
+clubgoer	5ow	
+conran group	26pd	
+conran partners	26pd	
+cyclamens	330o	
+deivid	3is9	3is9:3
+deivid de		3is9:3
+deivid de souza	3is9	
+deivid rodriguez	46p7	
+desde		642c:4
+desde que		642c:4
+desde que amanece		642c:4
+desde que amanece apetece	642c	
+dharma		144s:2,40fk:2
+dharma and greg	40fk	
+dharma greg	40fk	
+dharma montgomery	40fk	
+dharma productions	144s	
+dharma teja	18t2	
+diving	11z4	7rf:6,4pvw:2,64qc:7
+diving at		7rf:6,64qc:7
+diving at the		7rf:6,64qc:7
+diving at the 1938 british empire games	qw1	
+diving at the 1950 british empire games	u7d	
+diving at the 1954 british empire and commonwealth games	mv3	
+diving at the 1958 british empire and commonwealth games	bvd	
+diving at the 1962 british empire and commonwealth games	afe	
+diving at the 1966 british empire and commonwealth games	8qz	
+diving at the 1970 british commonwealth games	7h6	
+diving at the 1974 british commonwealth games	88r	
+diving at the 1978 commonwealth games	b5h	
+diving at the 2015		64qc:7
+diving at the 2015 world		64qc:7
+diving at the 2015 world aquatics		64qc:7
+diving at the 2015 world aquatics championships	64qc	
+diving at the 2016		7rf:6
+diving at the 2016 summer		7rf:6
+diving at the 2016 summer olympics	7rf	
+diving at the world aquatics championships	2do4	
+diving beetle	88e	
+diving bell and the butterfly	z8d	z8d:6
+diving bell butterfly	z8d	
+diving medical examiner	4pvw	
+diving medical practitioner	4pvw	
+diving medical technician	4pvw	
+diving medicine	4pvw	
+diving medicine physiology and physics	4pvw	
+doria palmieri	4aov	
+duffield	43ae	
+duffield and company	s48	
+duffield and green	s48	
+duffield co	s48	
+duffield derbyshire	43ae	
+dunse	4703	
+dunse law	4703	
+dzambul dzabajew	502a	
+ecpathophanes	63xl	
+edrine	6t5	
+ersen		1yuo:2
+ersen martin	1yuo	
+estonya	2wms	
+f3ea	5n98	
+faridur		68i3:3
+faridur reza		68i3:3
+faridur reza sagar	68i3	
+faridur reza sagor	68i3	
+foreground music	4pg8	
+foundationtrilogy	4vwh	
+franxault	41uw	
+george clemenceau	2d82	
+george lynch	4sou	
+george lynch musician	4sou	
+gerhart		yrc:2,3zqy:2
+gerhart eisler	3zqy	
+gerhart frobe	gxl	
+gerhart froebe	gxl	
+gerhart hauptmann	yrc	
+gerhart johann hauptmann	yrc	
+gerhart johann robert hauptmann	yrc	
+gerhart richter	2sdh	
+ghojun miyagi	5ml0	
+gmina zychlin	rfu	
+gonnhorrea	sai	
+grandduchy of finland	16bq	
+guillemina de dinamarca	4v0t	
+hipparchia	49gl	
+hipparchia genus	49gl	
+hirano aya	1c6r	
+hirano english cram school	1bjm	
+hirano miki	60hy	
+i stan jolley	2y35	
+i stan jolly	2y35	
+idioms	nxa	
+infantry	1kf	t3e:3,6asn:3
+infantry battalion	d8h	
+infantry combat vehicle	t3e	
+infantry division	yx	
+infantry fighting		t3e:3
+infantry fighting vehicle	t3e	
+infantry fighting vehicles	t3e	
+infantry firearm	8gt	
+infantry mobility		6asn:3
+infantry mobility vehicle	6asn	
+infantry mortar	gu8	
+infantry regiment	1kf,1od	
+infantry rifle	25t8	
+infantry riflemen	1kf	
+infantry section carrier	8rp	
+infantry soldier	1kf	
+infantry warfare	1kf	
+iupi	23q9	
+james flinders	1zal	
+jean cabut	59fg	
+jell belly maxxis	4g98	
+jell o wrestling	3y0	
+jemen	ly	
+kaffeegesellschaft an der alster mit blick uber lombardsbrucke auf die stadt	36ex	
+kalaallisut	3gl2	
+kalaallisut alphabet	3gl2	
+kalaallisut language	3gl2	
+kerbcrawling	2ot	
+khamoon	2ikq	
+kragijevac	5nt	
+laire	3nxk	
+larande	ij6	
+lastet	1qwv	
+lopelat	1yci	
+louilley	42io	
+lucan	3z80	
+lucan lucanusi	3z80	
+lucan poet	3z80	
+marnaz	3ran	
+melchior		55u3:3,5l46:2,5n0o:3,5zsj:2
+melchior cardinal de polignac	5n0o	
+melchior de		55u3:3,5n0o:3
+melchior de cardinal polignac	5n0o	
+melchior de polignac	5n0o	
+melchior de vogue	55u3	
+melchior douglas	2m54	
+melchior lengyel	5zsj	
+melchior treub	5l46	
+meledandri	2746	
+menshiviks	4n5n	
+miezeg	2xu1	
+molinchart	281r	
+mootpoint	3vkk	
+needful		2d8l:2
+needful things	2d8l	
+needful things film	2d8l	
+nemophora	qj4	
+neosieversia	3wg1	
+new unity	1xbd	
+niedervisse	1z3f	
+noseum	46s0	
+nrnu mephi	sun	
+orathanadu		l3g:2
+orathanadu taluk	l3g	
+oury	4hde	
+oury burkina faso	4hde	
+passeriformes	dw7	
+pasupathy	2f3r	
+peter samuelson	5ja6	
+pgcmd	dbl	
+poliytechnic university of bucharest	1qp8	
+prince abdulaziz bin talal bin abdulaziz al saud	6dix	
+prince salman	8ph	
+prince salman bin abdul aziz	8ph	
+prince salman bin abdulaziz al saud	8ph	
+prince salman ibn abdulaziz	8ph	
+psapharacis	16b6	
+rakeysh	3rqy	3rqy:3
+rakeysh om prakash mehra	3rqy	
+rakeysh omprakash		3rqy:3
+rakeysh omprakash mehra	3rqy	
+rappaport mark	697z	
+ravenwood fictional security company	447g	
+richard son of william the conqueror	2uue	
+rodopi mountains	4waj	
+rodopi planina	4waj	
+rueda	35bp,4tud	23t0:3
+rueda de		23t0:3
+rueda de jalon	23t0	
+rueda de jalon spain	23t0	
+rueda de jalon zaragoza	23t0	
+rueda valladolid	4tud	
+rustdorp	iwe	
+rycobendazole	23p0	
+sequard	3uvz	
+shaike		3m9d:2
+shaike goldstein ophir	3m9d	
+shaike ofir	3m9d	
+shaike ophir	3m9d	
+silverstream software	yox	
+snipe flies	404v	
+snipe fly	404v	
+srebrenik	mfn	
+supercollider	46qd	
+suretone	6edk	6edk:2
+suretone records	6edk	
+tekhnologichesky		4lt3:2
+tekhnologichesky institut	4lt3	
+tekhnologichesky institut saint petersburg metro	4lt3	
+the squeeze	58yf	
+the squeeze 1978 film	58yf	
+the tain	34dc	
+the tandy corporation	4yvt	
+thomas santschi	1czs	
+thomas surname	36d	
+treia	2w8v	
+trofym lysenko	3ach	
+tulczyn	42pm	
+tverskaa oblast	9m0	
+unalloyed	8qw	
+verretto	5301	
+vihula		jul:3
+vihula commune	jul	
+vihula parish	jul	
+vihula rural		jul:3
+vihula rural municipality	jul	
+vihula vald	jul	
+vilayets	1e7e	
+vilayets of the ottoman empire	1e7e	
+villandry	2xdg	
+villemontais	3gdq	
+walsrode	yqw	
+walsrode germany	yqw	
+wards and electoral divisions in the united kingdom	19hi	
+wards and electoral divisions of the united kingdom	19hi	
+wards and electoral divisions of the untied kingdom	19hi	
+wards in the city of london	2emy	
+wards in the district of columbia	88c	
+wards in the united kingdom	19hi	
+wards of busan	2m9	
+wards of city of westminster	10x	
+wards of germany	46	
+wards of japan	6j4	
+wards of prague	aq	
+wards of puerto rico	bxm	
+wards of south korea	kng	
+wards of the city of london	2emy	
+wards of the city of westminster	10x	
+wards of the philippines	350	
+wards of the united kingdom	19hi	
+wards of tokyo	1dfj	
+wards of zimbabwe	nu3	
+wards uk	19hi	
+warehoused	3yq2	
+wasilla	1xqj	
+wasilla ak	1xqj	
+wasilla alaska	1xqj	
+wasilla churches	1xqj	
+yanbianese korean	22ke	
+yanbianese koreans	22ke	
+yoritotomo minamoto	3nts	
+yukirin	3jb5	
+zahray		151l:5,35wy:5
+zahray ye		151l:5,35wy:5
+zahray ye bala	151l	151l:5
+zahray ye bala rural		151l:5
+zahray ye bala rural district	151l	
+zahray ye pain	35wy	35wy:5
+zahray ye pain rural		35wy:5
+zahray ye pain rural district	35wy	

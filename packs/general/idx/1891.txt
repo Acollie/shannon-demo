@@ -1,0 +1,690 @@
+100m hurdles	11r6	
+100m sprint	64s	
+a proportional response	3vwm	
+accademia	v8b	1xk:4,bzr:3,un6:4,14z7:5,2qtl:2,6cep:6
+accademia brera	3zg	
+accademia carrara	2qtl	
+accademia carrara bergamo	2qtl	
+accademia carrara di belle arti di bergamo	2qtl	
+accademia carrara of bergamo	2qtl	
+accademia de lincei	1xk	
+accademia de nobili ecclesiastici	8fm	
+accademia dei lincei	1xk	
+accademia dei nobili ecclesiastici	8fm	
+accademia della		bzr:3
+accademia della belle arti di brera	3zg	
+accademia della crusca	bzr	
+accademia della cruscaor furfuratorum	bzr	
+accademia delle belle arti di firenze	2iju	
+accademia delle belle arti di roma	5njl	
+accademia delle belle arti di venezia	6cep	
+accademia di		un6:4,6cep:6
+accademia di belle		6cep:6
+accademia di belle arti	3zg	6cep:6
+accademia di belle arti di		6cep:6
+accademia di belle arti di brera	3zg	
+accademia di belle arti di firenze	2iju	
+accademia di belle arti di milano brera	3zg	
+accademia di belle arti di roma	5njl	
+accademia di belle arti di venezia	3zg,6cep	
+accademia di belle arti firenze	2iju	
+accademia di belle arti florence	2iju	
+accademia di belle arti in florence	2iju	
+accademia di belle arti of florence	2iju	
+accademia di belle arti of rome	5njl	
+accademia di belle arti of venice	6cep	
+accademia di belli arti of florence	2iju	
+accademia di brera	3zg	
+accademia di s luca rome	un6	
+accademia di san		un6:4
+accademia di san luca	un6	
+accademia di san luca rome	un6	
+accademia di san luke	un6	
+accademia di santa cecilia	14z7	
+accademia di scoltura pittura ed architettura civile	6cep	
+accademia florence	2iju	
+accademia nazionale		1xk:4,14z7:5
+accademia nazionale dei		1xk:4
+accademia nazionale dei lincei	1xk	
+accademia nazionale di		14z7:5
+accademia nazionale di san luca	un6	
+accademia nazionale di santa		14z7:5
+accademia nazionale di santa cecilia	14z7	
+accademia nazionale reale dei lincei	1xk	
+accademia nazionale s cecilia	14z7	
+accademia of venice	v8b	
+accademia san luca	un6	
+accademia santa cecilia	14z7	
+accademia venice	v8b	
+aileu		5m0b:2
+aileu administrative district	5m0b	
+aileu administrative district east timor	5m0b	
+aileu district	5m0b	
+aileu municipality	5m0b	
+almensilla	4m3s	
+almensilla sevilla	4m3s	
+almensilla seville	4m3s	
+almensilla spain	4m3s	
+andiast	5qe9	
+andiast gr	5qe9	
+andiast graubuenden	5qe9	
+andiast graubunden	5qe9	
+andiast grisons	5qe9	
+andiast switzerland	5qe9	
+anzarane	2qic	
+archimetzneria	tcy	
+asolo	tgn	466w:2
+asolo altarpiece	466w	
+assenee	3opr	
+aviciii	k1p	
+ayutthaya	r9b	16pd:3
+ayutthaya city	r9b	
+ayutthaya f		16pd:3
+ayutthaya f c	16pd	
+ayutthaya fc	16pd	
+ayutthaya football club	16pd	
+ayutthaya province	lri	
+babeosis	5b4t	
+beecher bibles	1knk	
+beecher charles	3jli	
+beecher stowe	s16	
+beecher tilton scandal case	1knk	
+berlinlehrte		453x:2
+berlinlehrte railway	453x	
+bismarckturm	6c5e	
+bollengo	2dvu	
+burdick hall memorial pool	9lj	
+bye bye		15qw:3,19pp:3,1jb1:3,3hjm:3,6glt:3
+bye bye birdie	15qw	
+bye bye birdie film	15qw	
+bye bye blackbird	3hjm	
+bye bye blackbird film	3hjm	
+bye bye bye	6glt	
+bye bye jupiter	4y08	
+bye bye lenin	16kc	
+bye bye love	1jb1	
+bye bye love film	1jb1	
+bye bye monkey	19pp	
+bye election	le	
+bye elections	le	
+bye see		4oz8:4
+bye see you		4oz8:4
+bye see you monday	4oz8	
+c22h24cln5o2	fkz	
+castrop		pej:2
+castrop rauxel	pej	
+charles colson	57wd	
+charles watkin williams wynn elder	2k3w	
+chirocalyx	101s	
+constructivist		5p1b:2
+constructivist architect	5p1b	
+constructivist architecture	5p1b	
+constructivist art	133f	
+constructivist movement	133f	
+constructivist painter	133f	
+craincourt	1bzp	
+cristiane	1ed5	1ed5:2
+cristiane rozeira	1ed5	
+cristiane rozeira de souza silva	1ed5	
+cristiane silva	1ed5	
+dereser anton	5uly	
+desmarest	66bn	
+drillo	5llz	
+elephantpox	3kn	
+elerondo	43oi	
+espondeilhan	3l9i	
+ettiene bonnot de condillac	4hrz	
+exaeretia	pla	
+george waddell	3umf	
+gmina przesmyki	1g3a	
+gmina zlotniki kujawskie	soa	
+gothaland	32ee	
+guento masscis	22yd	
+hangest		1dpn:3,2uqf:3
+hangest en		2uqf:3
+hangest en santerre	2uqf	
+hangest sur		1dpn:3
+hangest sur somme	1dpn	
+hangest sur somme france	1dpn	
+henry villard	67jj	
+hevatt packard	cce	
+hillel		3x82:2,4mxa:2,5rzk:3
+hillel fuerstenberg	3x82	
+hillel furstenberg	3x82	
+hillel i	5rzk	
+hillel s sandwich	5rzk	
+hillel sandwich	5rzk	
+hillel slovak	4mxa	
+hillel soudani	40lc	
+hillel the		5rzk:3
+hillel the aged	5rzk	
+hillel the elder	5rzk	
+hillel the elder comments	5rzk	
+hillel the great	5rzk	
+hlynov	blb	
+itsuno	5rs4	
+izquierda unida convocatoria por andalucia	1e2n	
+izquierda unida de la comunidad de madrid	1e2n	
+izquierda unida ezker batua de navarra	1e2n	
+izquierda unida la rioja	1e2n	
+izquierda unida los verdes convocatoria por andalucia	1e2n	
+izquierda unida spain	1e2n	
+jaemtland county	sda	
+jaemtland laen	sda	
+james aldridge	57pm	
+james brussel	64jz	
+james falconer kirkup	34wv	
+james macdaniel	57w5	
+john allse brook simon 1st viscount simon	1thk	
+john barasso	5urs	
+john dun	1ygm	
+jslc	1wfv	
+keson	agr	
+kinseyan	2opz	
+kirwanian	3w6t	
+kmt cpc united fronts	5y8	
+kmt doc	2dx	
+kmt revolutionary committee	1fdh	
+kolya	1wbb	
+kolya krassotkin	3u44	
+krivak		29q7:3
+krivak class	29q7	29q7:3
+krivak class frigate	29q7	
+krivak iii	29q7	
+krivak iii class	29q7	
+kukov	1jmx	
+la tragedie de la mine	26p9	
+la tragedie de salome	4k1u	
+la tragedie imperiale	15ya	
+le prenom	50wl	
+leon	1nc,8q5,oac,28o1	4ht:2,8uy:4,ay4:2,edn:2,fck:3,iid:2,lbc:2,ltb:2,vpg:2,xkl:2,124s:2,1461:3,16xh:2,17cw:2,18fl:2,18fq:2,1bwk:2,1c3f:2,1ceu:3,1dfd:2,1dn1:2,1fq7:2,1hqf:2,1mnp:3,1os3:2,1oyo:2,1vlh:2,1x2m:2,2359:2,2b4i:2,2dq6:2,2kg4:2,2l8l:2,2ld0:2,2mlo:2,2rlc:2,2tkc:2,2wqr:2,2y4r:2,314w:2,3376:2,34tw:2,35du:2,390s:2,3b6k:3,3dz0:3,3glt:2,3gtk:2,3jqj:2,3ky5:2
+leon abbett	65et	
+leon abgarovich orbeli	1oyo	
+leon actor	3s0y	
+leon alberti	1461	
+leon aloisius ludwig minkus	65ky	
+leon american singer	3s0y	
+leon ames	iid	
+leon ames actor	iid	
+leon and mary russell	18fq	
+leon and spinks michael spinks	5pjv	
+leon andreasen	4ji9	
+leon askin	1bwk	
+leon bakst	5ej9	
+leon balogun	2wqr	
+leon barry	2y4r	
+leon bary	2y4r	
+leon batista alberti	1461	
+leon battista		1461:3
+leon battista alberti	1461	
+leon belasco	vpg	
+leon belieres	465v	
+leon bell	5tzt	
+leon benett	18fl	
+leon benko	3ky5	
+leon benois	3z7y	
+leon best	35du	
+leon bloom	3zrg	
+leon blum	3zrg	
+leon bonnat	1c3f	
+leon boullemier	5pjr	
+leon bourgeois	4ljv	
+leon brillouin	2kg4	
+leon britain	2rlc	
+leon britisher	2rlc	
+leon brittan	2rlc	
+leon brittan baron brittan of spennithorne	2rlc	
+leon britten	2rlc	
+leon bronstein trotsky	ltb	
+leon brunschvicg	63lc	
+leon brunschvicq	63lc	
+leon brunschwicg	63lc	
+leon brunschwig	63lc	
+leon bullimer	5pjr	
+leon caffrey	47yd	
+leon castile and leon	8q5	
+leon cave	9po	
+leon chaim bach	glc	
+leon charles	3cd9	
+leon charles albert calmette	58qa	
+leon charles prudent van hove	5q5y	
+leon chestov	28x5	
+leon christoph goretzka	3t20	
+leon chua	3o4u	
+leon citro	2i9s	
+leon clarke	2b4i	
+leon clarke football player	2b4i	
+leon clarke footballer	2b4i	
+leon cogniet	124s	
+leon coignet	124s	
+leon constantine	2dq6	
+leon cooper	2mlo	
+leon cort	3gtk	
+leon county	1dn1,2359	
+leon county fl	2359	
+leon county florida	2359	
+leon county florida sheriff s office	2359	
+leon county sheriff s office	2359	
+leon county texas	1dn1	
+leon county tx	1dn1	
+leon da vinci	8an	
+leon dario		5o33:3
+leon dario munoz	5o33	
+leon daudet	1dfd	
+leon davidovich trotsky	ltb	
+leon de		8uy:4,fck:3,3dz0:3
+leon de huanuco	fck	
+leon de las aldamas	8uy	
+leon de las aldamas leon	8uy	
+leon de los		8uy:4
+leon de los aldama	8uy	
+leon de winter	3dz0	
+leon degrelle	5d01	
+leon denuelle	3cd9	
+leon department	4nk9	
+leon department nicaragua	4nk9	
+leon depasois mike	6civ	
+leon douglas	477a	
+leon e panetta	34tw	
+leon edel	6419	
+leon edward panetta	34tw	
+leon eisenberg	640p	
+leon erol	17cw	
+leon eroll	17cw	
+leon errol	17cw	
+leon erroll	17cw	
+leon f c	4tu	
+leon feihtvanger	1qny	
+leon festinger	2l8l	
+leon feuchtwanger	1qny	
+leon film	1ceu	
+leon film 1994	1ceu	
+leon first name	1nc	
+leon fl	2359	
+leon florida	2359	
+leon foucault	1os3	
+leon fyodorovich minkus	65ky	
+leon gambetta	3jqj	
+leon garfield	3sw9	
+leon garros is looking for his friend	6777	
+leon garros ishchet druga	6777	
+leon gerome	75f	
+leon given name	1nc	
+leon glovacki	5ewr	
+leon glowacki	5ewr	
+leon gordon	58c6	
+leon goretzka	3t20	
+leon guanajuato	8uy	
+leon halevy	4nsn	
+leon hebreo	5rii	
+leon hendrik jan van bon	5t4o	
+leon hendrix	67wh	
+leon henkin	3zzp	
+leon hennique	5qct	
+leon hougaard andreasen	4ji9	
+leon i of armenia	571f	
+leon ichaso	634m	
+leon ii of armenia	1q0d	
+leon jacome	3hni	
+leon janney	4zjv	
+leon jeanne	314w	
+leon jefferson iii	1nco	
+leon jessen	5hjw	
+leon joseph bonnat	1c3f	
+leon joseph florentin bonnat	1c3f	
+leon joseph marie ignace degrelle	5d01	
+leon kass	62e1	
+leon kelly	4s8q	
+leon kelly footballer	4s8q	
+leon kennedy	6gze	
+leon kimovsky	1fq7	
+leon kingdom hearts	6ho2	
+leon kirchner	5h5t	
+leon klimovsky	1fq7	
+leon knight	2ld0	
+leon kozlowski	5nsq	
+leon kozowski	5nsq	
+leon kruczkowski	3lci	
+leon lai	xkl	
+leon lai discography	xkl	
+leon lai ming	xkl	
+leon lalite	5tzt	
+leon landes	28o1	
+leon larive	lbc	
+leon lederman	1mnp	
+leon lederman physicist	1mnp	
+leon legge	5tmq	
+leon leon	8q5	
+leon lichtenstein	4hxc	
+leon lucev	2tkc	
+leon m		1mnp:3
+leon m lederman	1mnp	
+leon m uris	1hqf	
+leon maloney	4zra	
+leon marchlewski	5zgn	
+leon marcus uris	1hqf	
+leon mathot	3glt	
+leon max lederman	1mnp	
+leon maxime collignon	63sx	
+leon mckenzie	5zfl	
+leon mcsweeney	5lz0	
+leon melas	5m3l	
+leon mestel	4mks	
+leon mexico	8uy	
+leon michel gambetta	3jqj	
+leon mike	6civ	
+leon minkus	65ky	
+leon morin		3b6k:3
+leon morin pretre	3b6k	
+leon morin priest	3b6k	
+leon morin priest film	3b6k	
+leon n cooper	2mlo	
+leon neil cooper	2mlo	
+leon nicaragua	oac	
+leon nicolaevich bakst	5ej9	
+leon niemczyk	16xh	
+leon nikolaievich bakst	5ej9	
+leon nikolayevich bakst	5ej9	
+leon noel	5gyw	
+leon o		3o4u:3
+leon o chua	3o4u	
+leon of kakheti	471i	
+leon ong chua	3o4u	
+leon orbeli	1oyo	
+leon panetta	34tw	
+leon panikvar	5sie	
+leon petrazhitski	42n5	
+leon petrazycki	42n5	
+leon phelps	1m3w	
+leon portilla	4wp9	
+leon province	4ht	
+leon r kass	62e1	
+leon redbone	3rz1	
+leon richard kass	62e1	
+leon rippy	1vlh	
+leon robinson	3s0y	
+leon rochefort	3376	
+leon russell	18fq	
+leon russell records	18fq	
+leon russom	5bsg	
+leon s		6gze:3
+leon s kennedy	6gze	
+leon sapieha	476k	
+leon schiller	5rj2	
+leon schiller advanced state school for theatre	2c6k	
+leon schiller de schildenfeld	5rj2	
+leon schlesinger	edn	
+leon schlesinger productions	bhb	
+leon schlesinger studio	bhb	
+leon schlesinger studios	bhb	
+leon schlumpf	5tsc	
+leon schuster	4ri0	
+leon scott kennedy	6gze	
+leon see	5wvr	
+leon shamroy	ay4	
+leon shushter	4ri0	
+leon simon	65pz	
+leon sir brittan	2rlc	
+leon smurf	5tsc	
+leon spain	8q5	
+leon spinks	5pjv	
+leon stuckelj	4xde	
+leon stukelj	4xde	
+leon tadeusz kozowski	5nsq	
+leon the		1ceu:3
+leon the professional	1ceu	
+leon theremin	3loh	
+leon tolstoi	5k9	
+leon tolstoy	5k9	
+leon troksy	ltb	
+leon trotski	ltb	
+leon trotsky	ltb	
+leon trotsky archive1	ltb	
+leon trotzky	ltb	
+leon uris	1hqf	
+leon v of armenia	5ual	
+leon van		5q5y:3,5t4o:3
+leon van bon	5t4o	
+leon van hove	5q5y	
+leon vi ho sophos	25pj	
+leon vi of armenia	5ual	
+leon victor auguste bourgeois	4ljv	
+leon w		4ed7:3
+leon w johnson	4ed7	
+leon walras	4ilm	
+leon walther	390s	
+leon waycoff	iid	
+leon weintraub	6c8u	
+leon william johnson	4ed7	
+leon wood	49h1	
+leon wycoff	iid	
+leon xi pape	5y3m	
+leon zitrone	1x2m	
+lepiotaceae	ezw	
+linde	5r3x	
+linde surname	5r3x	
+lindenbergh		6bki:4
+lindenbergh francisco		6bki:4
+lindenbergh francisco da		6bki:4
+lindenbergh francisco da silva	6bki	
+lodi	b0k,omz,1ftu	2oq9:2
+lodi borough new jersey	1ftu	
+lodi ca	omz	
+lodi california	omz	
+lodi dodi snoop doggy dogg	6fyt	
+lodi italy	b0k	
+lodi lombardy	b0k	
+lodi new jersey	1ftu	
+lodi nj	1ftu	
+lodi province	8ex	
+lodi vecchio	2oq9	
+luninets district	4xa6	
+luninets raion	4xa6	
+lymp node	hav	
+m61a1	4wez	
+m61a1 vulcan	4wez	
+maerlyn s rainbow	19z9	
+maypherkat	5z6n	
+mazarin college	671l	
+mazarin jules	1ozx	
+mcfarland		1zpd:2
+mcfarland 2014 film	1zpd	
+mcfarland 2015 film	1zpd	
+mcfarland film	1zpd	
+mcfarland usa	1zpd	
+mefirst	4nyw	
+mestro	18j5	
+michael berenbaum	2ij5	
+mikkeli	asb	
+montguillon	2boi	
+morss	kcp	
+mychorizza	3tg	
+nastasio	56dh	
+natedog	rl2	
+national memorial hall mount herzl	46de	
+nelle harper lee	2ay4	
+nervesa		2383:3
+nervesa della		2383:3
+nervesa della battaglia	2383	
+nickiminajatvevo	7lo	
+nisavski okrug	2yje	
+nordstemmen	3iwa	
+oigny	3it1,3tnz	2iyn:3
+oigny cote d or	3tnz	
+oigny en		2iyn:3
+oigny en valois	2iyn	
+oigny loir et cher	3it1	
+olevano		259t:2,4tig:3,4xe0:3
+olevano di		4xe0:3
+olevano di lomellina	4xe0	
+olevano romano	259t	
+olevano sul		4tig:3
+olevano sul tusciano	4tig	
+omx	4i0h	
+omx ab	4i0h	
+omx exchanges	4i0h	
+omx helsinki	53w9	
+omx technology	4i0h	
+peter mc	4lva	
+petronella	30gb,4o4a	
+petronella film	4o4a	
+petronella first name	30gb	
+petronella given name	30gb	
+pillarite	4ozu	
+precorbin	4pk8	
+quaid		489p:4
+quaid e awam	17ue	
+quaid e azam international airport	3c2a	
+quaid e azam mohammed ali jinnah	1ddw	
+quaid e azam muhammad ali jinnah	1ddw	
+quaid e azam university	489p	
+quaid e milleth district	m4z	
+quaid e tehreek	5vt2	
+quaid i		489p:4
+quaid i azam		489p:4
+quaid i azam international airport	3c2a	
+quaid i azam university	489p	
+quaid i tehreek	5vt2	
+rabbies	5t4f	
+rhabdotaedoeagus	q9n	
+ritch battersby	1wvt	
+robert laughlin	4iis	
+robert zelick	3nfj	
+rockvil	6dkd	
+rockvil south dakota	6dkd	
+roubenides	4gwx	
+rykodisk	6nx	
+salbris	204a	
+serrieres	2uxm,3dio	21lr:3,3081:3,30vr:3
+serrieres ardeche	2uxm	
+serrieres de		30vr:3
+serrieres de briord	30vr	
+serrieres en		3081:3
+serrieres en chautagne	3081	
+serrieres saone et loire	3dio	
+serrieres sur		21lr:3
+serrieres sur ain	21lr	
+shadowsfall	2rmc	
+shailen manna	5orn	
+solstheim	1taw	
+stanislawiw	5yj	
+strazek	1fma	
+stud	24dq	24dq:2
+stud broadcast	clg	
+stud lancaster	44gw	
+stud piercing	10ek	
+stud s place	2om6	
+tani	5tb1	5qtl:2
+tani kei	37h8	
+tani naomi	1k7g	
+tani ryoko	2asy	
+tani stafsula	5qtl	
+tani surname	5tb1	
+tawus		37m1:3
+tawus ibn		37m1:3
+tawus ibn kaysan	37m1	
+taylorswiftvevo	ac4	
+the andore family	6edl	
+the gone world film	3u4x	
+the laughing		1ogb:3,5h80:3,5iau:3
+the laughing heart	i55	
+the laughing husband	5iau	
+the laughing policeman	1ogb,5h80	
+the laughing policeman film	1ogb	
+the laughing policeman novel	5h80	
+the path	1spm	18zn:5,68l6:4
+the path of		68l6:4
+the path of daggers	68l6	
+the path of fire	333z	
+the path of hope	4p87	
+the path of the one	1g6c	
+the path to		18zn:5
+the path to 9		18zn:5
+the path to 9 11	18zn	
+the path to 911	18zn	
+the path to ultimate strength	3boi	
+the path tv series	1spm	
+the protein interfaces surfaces and assemblies server	1rmr	
+the quo	9po	
+the water		1nk1:3,2rlj:3,4817:3,5x03:3
+the water babies	4817	
+the water babies film	4817	
+the water babies movie	4817	
+the water cube	ttc	
+the water diviner	1nk1	
+the water diviner film	1nk1	
+the water gipsies	5x03	
+the water gipsies film	5x03	
+the water horse	2rlj	
+the water horse film	2rlj	
+the water horse legend of the deep	2rlj	
+thomas bodstrom	3owq	
+tyugoku	5dxa	
+tyugoku region	5dxa	
+un gatto nel cervello	67ea	
+unsaid	5cla	5cla:2
+vapi	1fa7	
+vetremox	22z0	
+welfare		42bg:2
+welfare integrity act	4o5p	
+welfare integrity act of 2013	4o5p	
+welfare liberalism	8w0	
+welfare party	42bg	
+welfare work	54zq	
+westrehem	386i	
+wgr sprague	5n0t	
+yiannitsa	1l55	
+zero	36fk,55i9	pl0:3,1kmh:2,1zpf:2,3axm:2,55r9:2,56c1:2,57iy:2,5g0z:3,5oza:4
+zero 2009 film	55i9	
+zero 2014 film	2pfp	
+zero 7	3axm	
+zero address machine	2l2c	
+zero art	36fk	
+zero branco	1zpf	
+zero dark		pl0:3
+zero dark 30	pl0	
+zero dark thirty	pl0	
+zero dawn	4khs	
+zero days prong album	35jw	
+zero de conduite	5g0z	
+zero de conduite jeunes diables au college	5g0z	
+zero depth entry	1n3k	
+zero dragon ball	6gdx	
+zero effect	56c1	
+zero effect 1998 film	56c1	
+zero entry	1n3k	
+zero finding	1cik	
+zero for		5g0z:3
+zero for conduct	5g0z	
+zero hero	2g9v	
+zero holes	6bd8	
+zero hour	55r9	
+zero hour 1957 film	55r9	
+zero k book	jfn	
+zero marginal cost society	5dct	
+zero mostel	1kmh	
+zero no kiseki	60bp	
+zero no kiseki and ao no kiseki	60bp	
+zero patience	57iy	
+zero pokemon	374u	
+zero polynomial	1yyw	
+zero population growth film	5p44	
+zero pox	3kn	
+zero racers	59u8	
+zero seven	3axm	
+zero suit	6f19	
+zero suit samus	6f19	
+zero the hut	1gok	
+zero theorem	18tu	18tu:3
+zero theorem film	18tu	
+zero to hero hercules s song	c9k	
+zero to hero song	c9k	
+zero to ichi no aida	5xce	
+zero tolerence	2rxa	
+zero tolerence pastor troy album	2rxa	
+zero tsukihami no kamen	6g9t	
+zero unlimited	6evk	
+zero woman		5oza:4
+zero woman assassin		5oza:4
+zero woman assassin lovers	5oza	
+zero zero void	1q25	

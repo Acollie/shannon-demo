@@ -1,0 +1,21 @@
+General knowledge pack (Shannon GLM v1)
+
+Contents: a 303,149-entity core of Wikidata (labels, English aliases, 1,089 relations, 3,462,612 entity facts and
+1,044,490 date / quantity facts) as used by Shannon's KG15/KG16 experiments, plus trained scorer weights.
+
+Facts, labels and aliases come from Wikidata (https://www.wikidata.org), whose structured data is released under
+Creative Commons CC0 1.0 (public domain dedication): https://creativecommons.org/publicdomain/zero/1.0/
+The entity facts were selected through Wikidata5M (Wang et al., 2021, "KEPLER: A Unified Model for Knowledge Embedding
+and Pre-trained Language Representation", TACL; https://deepgraphlearning.github.io/project/wikidata5m). Wikidata5M is a
+derived dataset built from Wikidata and English Wikipedia; its distribution does not state a licence of its own. This
+pack ships only Wikidata facts (entity ids, relation ids, labels, aliases, dates and quantities) and no Wikipedia text,
+so the CC0 terms of the underlying Wikidata data apply to its contents. Date and quantity facts and the English labels
+were fetched from the Wikidata Query Service on 2026-10-25.
+
+Selection: the top 300,000 entities by Wikidata5M degree plus the entities annotated in the Mintaka train and dev
+questions (Mintaka: Sen et al., 2022, CC BY 4.0; no Mintaka question text is included in this pack). Facts are kept
+only when both ends are in the core.
+
+Scorer and linker weights: trained by the Shannon project on Mintaka train questions (KG16 R0, seed 1); released with
+this demo under the same terms as the rest of the repository.
+Encoder (not in this pack): sentence-transformers/all-MiniLM-L6-v2, Apache-2.0.

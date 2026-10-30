@@ -1,0 +1,298 @@
+247th pope	5ci7	
+aboen	3ejm	
+aceh	bx7	xep:2
+aceh besar	4iz5	
+aceh besar regency	4iz5	
+aceh indonesia	bx7	
+aceh language	351o	
+aceh province	bx7	
+aceh rebellion	bx7	
+aceh sultanate	xep	
+aceh tourism	bx7	
+aceh utara	2txw	
+aceh utara regency	2txw	
+ahkenaten	oga	
+ahmedabadtopics	31s	
+alexander gelfond	35n9	
+antialzheimer agent	1nn	
+antialzheimer s agent	1nn	
+arrondissements		x1w:3
+arrondissements and communes of haiti	q8	
+arrondissements in france	2kh	
+arrondissements of		x1w:3
+arrondissements of belgium	x1w	
+arrondissements of benin	2e2	
+arrondissements of france	2kh	
+arrondissements of france comments	2kh	
+arrondissements of haiti	z8t	
+arrondissements of senegal	cm5	
+arrondissements of the haute vienne departement	4qe	
+arrondissements of the territoire de belfort departement	a5o	
+arrondissements of the territoire de belfort department	a5o	
+bercta	3z5f	
+bezos expeditions	1xga	
+bidge	b8	
+bismuthous	m8w	
+bisu	5rsp	
+bougival	15ap	
+bubbio	3qbc	
+buttwil	3cp5	
+buttwil aargau	3cp5	
+buttwil ag	3cp5	
+buttwil switzerland	3cp5	
+called charles koch foundation	n7u	
+called giulio pippi giulio romano	24ax	
+called giulio romano giulio pippi	24ax	
+called julio romano giulio pippi	24ax	
+called parmegiano francis mazzola	13zp	
+called roger of bruges roger vander weyde	tna	
+called the roman peter mignard	4p1q	
+called third strike	6hrz	
+called titian tiziano vecelli cavaliere	7ko	
+called titian veccellio	7ko	
+charles ehresmann	39t6	
+coastal		zkf:2,1myd:3
+coastal battleship	1myd	
+coastal battleships	1myd	
+coastal brown bear	13lf	
+coastal city	3dbu	
+coastal corridor	zkf	
+coastal defence battleship	1myd	
+coastal defence ship	1myd	
+coastal defence vessel	6cn	
+coastal defense		1myd:3
+coastal defense command of the albanian army	45cx	
+coastal defense ship	1myd,6eor	
+coastal defense ships	1myd	
+coastal dunes	2rtr	
+coastal ecology	ckd	
+coastal ecosystem	ckd	
+coastal ecosystems	ckd	
+coastal feature	ckd	
+coastal formations	ckd	
+coastal headland	1c5	
+coastal lagoon	8ut	
+coastal lagoons	8ut	
+coastal landform	ckd	
+coastal lighthouse	j9	
+coastal marshes	ykc	
+coastal mountains	1hje	
+coastal new england	15xz	
+coastal ostrobothnia	12sk	
+coastal passageway	zkf	
+coastal plain research arboretum	1ar	
+coastal region	ckd	
+coastal resort town	8xh	
+coastal sanctuary	3qpr	
+coastal sharks	r7b	
+coastal south india	5yxb	
+coastal storm	10u0	
+coastal stream	12oe	
+coastal swahili	emy	
+coastal wetland	i3n	
+coastal zone olympic sports complex	5k8w	
+corbehem	3fjx	
+cuigy		3yy0:3
+cuigy en		3yy0:3
+cuigy en bray	3yy0	
+cuissai	35g0	
+damigny	2aro	
+david bystron	3yf6	
+delporte e	rl9	
+documentaly	64q6	
+elasmotheriine	14h3	
+eschentzwiller	21js	
+gandolfini	iis	
+gaolainn	3mk	
+glaad		3ayb:5,6f0z:5
+glaad excellence		6f0z:5
+glaad excellence in		6f0z:5
+glaad excellence in media		6f0z:5
+glaad excellence in media award	6f0z	
+glaad stephen		3ayb:5
+glaad stephen f		3ayb:5
+glaad stephen f kolzak		3ayb:5
+glaad stephen f kolzak award	3ayb	
+gmina grabica	ple	
+granges	20xf	2mqz:3,2s0i:2,30he:3,34wp:3,3821:2,3o8y:3,3z1j:3
+granges aumontzey	3821	
+granges la		3z1j:3
+granges la ville	3z1j	
+granges le		2mqz:3
+granges le bourg	2mqz	
+granges les		34wp:3
+granges les beaumont	34wp	
+granges narboz	2s0i	
+granges saone et loire	20xf	
+granges sur		30he:3,3o8y:3
+granges sur aube	3o8y	
+granges sur lot	30he	
+hardballchris	3fe8	
+helioupolis	2byl	
+hemel	9mw	9mw:2,dvv:5
+hemel hempstead	9mw	dvv:5
+hemel hempstead england	9mw	
+hemel hempstead f c	dvv	
+hemel hempstead fc	dvv	
+hemel hempstead hertfordshire	9mw	
+hemel hempstead town	dvv	dvv:5
+hemel hempstead town f		dvv:5
+hemel hempstead town f c	dvv	
+hemel hempstead town fc	dvv	
+hemel hempstead town football club	dvv	
+hemel hempsted	9mw	
+hoh	49b,3hdx	
+hoh oho	6ch8	
+huguette	6c1m	3p8r:2,4dmh:2,5d9m:3
+huguette clark	5d9m	
+huguette dreyfus	4dmh	
+huguette duflos	3p8r	
+huguette first name	6c1m	
+huguette given name	6c1m	
+huguette m clark	5d9m	
+huguette marcelle		5d9m:3
+huguette marcelle clark	5d9m	
+hypertriglycidemia	1z1c	
+ikaria	4oou	
+ikaria island	4oou	
+jaroszewicz piotr	4gid	
+jeffreymichaeltambor	g4j	
+john goodall	4gfy	
+kamenev	5n0f	
+kamenev lev borisovich	5n0f	
+kozaburo		5f6w:2
+kozaburo yoshimura	5f6w	
+kubrat		5eyi:4
+kubrat of bulgaria	5eyi	
+kubrat of panagiurishte	5eyi	
+kubrat prince		5eyi:4
+kubrat prince of		5eyi:4
+kubrat prince of panagiurishte	5eyi	
+kubrat prince of panagyurishte	5eyi	
+kulonos		50it:2
+kulonos hazassag	50it	
+kumassi	5ax	
+labute	1vhb	
+laromiguiere	64zc	
+louis margrave of baden baden	3qbj	
+machimia	16ov	
+magination press	6mm	
+markirch	v8x	
+mattheus mereaen	1w7c	
+mcmlx	1bt7	
+membrane integrity	22bs	
+metheola	nwz	
+miannay	2z49	
+michael oginski	4d93	
+msnm	41li	
+munsters scary little christmas	3cuq	3cuq:5
+nikkei amerikajin	s7e	
+nisa	4qth	1bf6:2,41hg:2
+nisa asgabat	1bf6	
+nisa municipality	4qth	
+nisa portugal	4qth	
+nisa saveljic	41hg	
+notary	cnp	
+oelleville	1icz	
+ollomonte	2xc2	
+onandi		2z02:2
+onandi lowe	2z02	
+ores	4eio	
+ores spain	4eio	
+ores zaragoza	4eio	
+orsolobidae	1qln	
+paul rembrandt harmensz van ryn	4c1	
+payra		1zog:4
+payra sur		1zog:4
+payra sur l		1zog:4
+payra sur l hers	1zog	
+persistent browser based game	1dj4	
+persistent cough	1a2h	
+persistent junctional reciprocating tachycardia	1aou	
+persistent lyme disease	2ykx	
+persistent pulmonary hypertension	6byb	
+persistent radical	6f38	
+persistent sore throat	27nx	
+poles	fn4	
+poles in kaliningrad	4t6	
+poles people	fn4	
+polywka michael	5aaq	
+pseudofrin	53pk	
+rangerboard	w8i	
+richard perle	6d2c	
+richard perle comments	6d2c	
+riffian	3i65	
+riffian insurgency	ir5	
+riffian italy	3i65	
+riffian rifiano	3i65	
+riffian south tyrol	3i65	
+riffian trentino alto adige sudtirol	3i65	
+rimbez		391u:3
+rimbez et		391u:3
+rimbez et baudiets	391u	
+romerito	42vy	
+roodewal western cape	1egw	
+saint sauvy	2uj8	
+salizzole	466l	
+samule eto	twe	
+schaars	4kbk	
+serigne	38yb	4hbu:2
+serigne diop	4hbu	
+serigne fallou diagne	5cbp	
+serigne kara	4yel	
+serigne modou kara mbodji	4yel	
+stauce	43vq	
+stockbridge	zrd,3xoz	
+stockbridge ga	3xoz	
+stockbridge georgia	3xoz	
+stockbridge library massachusetts	zrd	
+stockbridge ma	zrd	
+stockbridge mass	zrd	
+stockbridge massachusetts	zrd	
+syberberg	28lo	
+szilagy somylo	2avs	
+taiwanese	mva	mva:2,6hm8:2
+taiwanese air force	69u3	
+taiwanese austronesian languages	5xbr	
+taiwanese chinese	2rau	
+taiwanese hakka	6hm8	
+taiwanese heritage	6hm8	
+taiwanese hokkien	mva	
+taiwanese hokkien chinese	mva	
+taiwanese hokkien language	mva	
+taiwanese language	mva	
+taiwanese leader	1emj	
+taiwanese mandarin	2rau	
+taiwanese mandarin chinese	2rau	
+taiwanese mandarin language	2rau	
+taiwanese min nan	mva	
+taiwanese minnan	mva	
+taiwanese navy	6n9	
+taiwanese people	6hm8	
+taiwanese president	1emj	
+telimele		4jcs:2
+telimele prefecture	4jcs	
+telimele prefecture guinea	4jcs	
+thamazighth language	uhv	
+the attack of the 50ft woman	2jau	
+the professionals	2y89	
+the professionals 1966 film	2y89	
+the professionals 2011 film	199o	
+the robert cray band	1kv5	
+the robert stigwood organisation	9xs	
+thomas price	4zsu	
+timisoara	3r3	
+timisoara polytechnic	4umw	
+timisoara romania	3r3	
+timisoara saracens	37ra	
+timisoara saracnes	37ra	
+toxoplasmic encephalitis	6fvs	
+uncontrolled burn	hmx	
+uncontrolled fire	74e	
+verochio	1jbt	
+wavy 10 fan sandbox	4k5h	
+xtra		36z7:3
+xtra mile	36z7	36z7:3
+xtra mile recordings	36z7	
+xtra mile records	36z7	
+zoography	4bi	

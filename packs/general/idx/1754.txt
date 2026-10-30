@@ -1,0 +1,835 @@
+2014	6l5	f8:3,19p:3,1ft:4,4uc:4,4x7:4,61k:4,61p:3,78f:4,8co:3,9gh:4,dc9:5,egp:4,k15:5,k2c:4,kl7:4,o0f:3,qiq:3,u2k:3,u4h:6,ui3:4,w52:3,wgr:4,wtr:5,yw7:6,yw9:3,zgn:2,11ma:4,1dh7:7,1i35:6,1lwy:5,1mg2:5,1mht:2,1ntl:4,1p0j:5,1rem:5,2052:7,2077:6,21nn:6,22by:8,22g0:6,295e:4,29qz:4,2a93:6,2bax:6,2bup:5,2c10:4,2dyc:4,2em1:4,2f80:4,2mop:6
+2014 15 2 bundesliga	1yiw	
+2014 15 3 liga	1o09	
+2014 15 albion rovers f c season	3yj	
+2014 15 bundesliga	24lu	
+2014 15 cypriot cup	lte	
+2014 15 cypriot cup for lower divisions	2iyl	
+2014 15 cypriot first division	12y4	
+2014 15 cypriot fourth division	1go9	
+2014 15 cypriot second division	yhx	
+2014 15 cypriot third division	144f	
+2014 15 ekstraklasa	158h	
+2014 15 euro hockey league	45zn	
+2014 15 euroleague	1w58	
+2014 15 fuball bundesliga	24lu	
+2014 15 in snooker	2a5s	
+2014 15 isu speed skating world cup	1haa	
+2014 15 la liga	1v6n	
+2014 15 montenegrin second league	2bxo	
+2014 15 pro russian unrest in ukraine	645m	
+2014 15 queen s park f c season	4j5	
+2014 15 russian premier league	2k9t	
+2014 15 uefa champions league	4uiq	
+2014 15 uefa champions league final	671t	
+2014 15 welsh football league division three	2pad	
+2014 15 welsh football league division two	4kgf	
+2014 2015 snooker season	2a5s	
+2014 6		1rem:5
+2014 6 hours		1rem:5
+2014 6 hours of		1rem:5
+2014 6 hours of bahrain	1rem	
+2014 abn		586k:6
+2014 abn amro		586k:6
+2014 abn amro world		586k:6
+2014 abn amro world tennis		586k:6
+2014 abn amro world tennis tournament	586k	
+2014 ad	6l5	
+2014 aegon		5gdr:3
+2014 aegon classic	5gdr	
+2014 afl		k2c:4,2em1:4
+2014 afl finals		2em1:4
+2014 afl finals series	2em1	
+2014 afl grand		k2c:4
+2014 afl grand final	k2c	
+2014 africa cup of nations	3bi	
+2014 african		k15:5
+2014 african athletics championships	k15	
+2014 african championships		k15:5
+2014 african championships in		k15:5
+2014 african championships in athletics	k15	
+2014 african cup of nations	3bi	
+2014 african nations cup	3bi	
+2014 ag2r la mondiale riders	vxp	
+2014 ag2r la mondiale season	vxp	
+2014 ag2rla mondiale season	vxp	
+2014 agnieszka radwanska tennis season	12r8	
+2014 al wild card game	5qwq	
+2014 ale cipollini season	39ct	
+2014 american		5qwq:6
+2014 american grand prix	2bup	
+2014 american league		5qwq:6
+2014 american league wild		5qwq:6
+2014 american league wild card		5qwq:6
+2014 american league wild card game	5qwq	
+2014 anti yatsenyuk government unrest in ukraine	645m	
+2014 asiad	19p	
+2014 asian		19p:3,4jfa:5
+2014 asian games	19p	
+2014 asian junior		4jfa:5
+2014 asian junior badminton		4jfa:5
+2014 asian junior badminton championships	4jfa	
+2014 astana		22g0:6
+2014 astana bepink		22g0:6
+2014 astana bepink women s team season	22g0	
+2014 astana bepink womens		22g0:6
+2014 astana bepink womens team		22g0:6
+2014 astana bepink womens team season	22g0	
+2014 auensteiner		5z85:3
+2014 auensteiner radsporttage	5z85	
+2014 australian		yw9:3
+2014 australian open	yw9	
+2014 badminton		2n0i:7,2opx:6,2rcw:7,3r17:8,4al1:4,52si:7,5do4:7,5gsk:7
+2014 badminton world		2n0i:7,2opx:6,2rcw:7,3r17:8,4al1:4,52si:7,5do4:7,5gsk:7
+2014 badminton world championships	4al1	2n0i:7,2opx:6,2rcw:7,5do4:7,5gsk:7
+2014 badminton world championships men		2n0i:7,5do4:7
+2014 badminton world championships men s		2n0i:7,5do4:7
+2014 badminton world championships men s doubles	2n0i	
+2014 badminton world championships men s singles	5do4	
+2014 badminton world championships mixed		2opx:6
+2014 badminton world championships mixed doubles	2opx	
+2014 badminton world championships women		2rcw:7,5gsk:7
+2014 badminton world championships women s		2rcw:7,5gsk:7
+2014 badminton world championships women s doubles	2rcw	
+2014 badminton world championships women s singles	5gsk	
+2014 badminton world junior		3r17:8,52si:7
+2014 badminton world junior championships		3r17:8,52si:7
+2014 badminton world junior championships girl s doubles	3r17	
+2014 badminton world junior championships mixed		52si:7
+2014 badminton world junior championships mixed doubles	52si	
+2014 badminton world junior championships women		3r17:8
+2014 badminton world junior championships women s		3r17:8
+2014 badminton world junior championships women s doubles	3r17	
+2014 barcelona near miss	4n89	
+2014 belgium national football team results	24j	
+2014 bene		3cr2:4
+2014 bene ladies		3cr2:4
+2014 bene ladies tour	3cr2	
+2014 boels dolmans cycling team season	21n1	
+2014 bretagne		29qz:4
+2014 bretagne seche		29qz:4
+2014 bretagne seche environnement	29qz	
+2014 bretagne seche environnement season	29qz	
+2014 bretagneseche environnement season	29qz	
+2014 bwf world championships	4al1	
+2014 bwf world championships men s doubles	2n0i	
+2014 bwf world championships men s singles	5do4	
+2014 bwf world championships mixed doubles	2opx	
+2014 bwf world championships women s doubles	2rcw	
+2014 bwf world championships women s singles	5gsk	
+2014 bwf world junior championships girls doubles	3r17	
+2014 bwf world junior championships mixed doubles	52si	
+2014 candidates tournament	5d05	
+2014 caribbean		469g:3
+2014 caribbean cup	469g	
+2014 ce	6l5	
+2014 central		2mop:6
+2014 central american		2mop:6
+2014 central american and		2mop:6
+2014 central american and caribbean		2mop:6
+2014 central american and caribbean games	2mop	
+2014 champions league final	4icu	
+2014 chess olympiad	1lzd	
+2014 chrono gatineau	3qtb	
+2014 cma awards	6hgz	
+2014 commonwealth		61p:3
+2014 commonwealth games	61p	
+2014 conflict in donbass	9c9	
+2014 conflict in ukraine	9c9	
+2014 continental cup	78f	
+2014 copa centroamericana	2va8	
+2014 coupe		50ip:4
+2014 coupe banque		50ip:4
+2014 coupe banque nationale	50ip	
+2014 criterium		2c10:4
+2014 criterium du		2c10:4
+2014 criterium du dauphine	2c10	
+2014 cup		5872:4
+2014 cup of		5872:4
+2014 cup of china	5872	
+2014 cwg	61p	
+2014 dominika cibulkova tennis season	26xk	
+2014 drentse 8 van dwingeloo	551r	
+2014 east ukraine crisis	9c9	
+2014 ebola virus disease epidemic	3ctw	
+2014 ebola virus epidemic	3ctw	
+2014 ebola virus epidemic in west africa	3ctw	
+2014 ebola virus outbreak in nigeria	3ctw	
+2014 ebola west africa	3ctw	
+2014 eneco		u2k:3
+2014 eneco tour	u2k	
+2014 energiewacht		4frf:3
+2014 energiewacht tour	4frf	
+2014 ep election	ui3	
+2014 erondegemse pijl	6335	
+2014 erondegemse pijl erpe mere	6335	
+2014 europcar	zgn	
+2014 european		9gh:4,ui3:4,yw7:6,2a93:6,2bax:6
+2014 european athletics	9gh	9gh:4
+2014 european athletics championships	9gh	
+2014 european athletics championships medal table	9gh	
+2014 european championships in athletics	9gh	
+2014 european election	ui3	
+2014 european elections	ui3	
+2014 european men		2bax:6
+2014 european men s		2bax:6
+2014 european men s handball		2bax:6
+2014 european men s handball championship	2bax	
+2014 european parliament		ui3:4,yw7:6
+2014 european parliament election	ui3	yw7:6
+2014 european parliament election in		yw7:6
+2014 european parliament election in sweden	yw7	
+2014 european parliament elections	ui3	
+2014 european parliamentary election	ui3	
+2014 european women		2a93:6
+2014 european women s		2a93:6
+2014 european women s handball		2a93:6
+2014 european women s handball championship	2a93	
+2014 eurovision	8kz	
+2014 eurovision song contest	8kz	
+2014 f1 season	2bup	
+2014 family		5s2p:4
+2014 family circle		5s2p:4
+2014 family circle cup	5s2p	
+2014 fed		4n3s:3
+2014 fed cup	4n3s	
+2014 fia formula one world championship	2bup	
+2014 fifa		1ft:4,1p0j:5,3nyu:6,3yjk:6,44co:5,4bk6:6
+2014 fifa men s world cup	1ft	
+2014 fifa world		1ft:4,1p0j:5,3nyu:6,3yjk:6,44co:5,4bk6:6
+2014 fifa world cup	1ft	1p0j:5,3nyu:6,3yjk:6,44co:5,4bk6:6
+2014 fifa world cup brasil	1ft	
+2014 fifa world cup brazil	1ft	
+2014 fifa world cup closing ceremony	44co	
+2014 fifa world cup final	44co	
+2014 fifa world cup qualification	1p0j	3nyu:6,3yjk:6,4bk6:6
+2014 fifa world cup qualification afc	3yjk	
+2014 fifa world cup qualification concacaf	4bk6	
+2014 fifa world cup qualification uefa	3nyu	
+2014 fifa world cup qualifiers	1p0j	
+2014 fifa world cup qualifying	1p0j	
+2014 fivb		1dh7:7,2052:7
+2014 fivb men		1dh7:7
+2014 fivb men s		1dh7:7
+2014 fivb men s volleyball		1dh7:7
+2014 fivb men s volleyball world		1dh7:7
+2014 fivb men s volleyball world championship	1dh7	
+2014 fivb men s world championship	1dh7	
+2014 fivb volleyball men s world championship	1dh7	
+2014 fivb volleyball women s world championship	2052	
+2014 fivb women		2052:7
+2014 fivb women s		2052:7
+2014 fivb women s volleyball		2052:7
+2014 fivb women s volleyball world		2052:7
+2014 fivb women s volleyball world championship	2052	
+2014 fivb women s world championship	2052	
+2014 football world cup	1ft	
+2014 formula		2bup:5
+2014 formula 1	2bup	
+2014 formula 1 season	2bup	
+2014 formula one	2bup	2bup:5
+2014 formula one season	2bup	
+2014 formula one world		2bup:5
+2014 formula one world championship	2bup	
+2014 french		21nn:6,47f0:3
+2014 french open	47f0	21nn:6
+2014 french open women		21nn:6
+2014 french open women s		21nn:6
+2014 french open women s singles	21nn	
+2014 gaza		qiq:3
+2014 gaza war	qiq	
+2014 generali		5ot8:4
+2014 generali ladies		5ot8:4
+2014 generali ladies linz	5ot8	
+2014 gent wevelgem	4q84	
+2014 gentwevelgem	4q84	
+2014 giro	4uc	4uc:4,wtr:5
+2014 giro d		4uc:4,wtr:5
+2014 giro d italia	4uc	wtr:5
+2014 giro d italia femminile	wtr	
+2014 giro rosa	wtr	
+2014 glasgow commonwealth games	61p	
+2014 golden gate bridge deer crossing	35sh	
+2014 gooik geraardsbergen gooik	38gv	
+2014 gooikgeraardsbergengooik	38gv	
+2014 gp		2tyl:4
+2014 gp de		2tyl:4
+2014 gp de plouay	2tyl	
+2014 grand		44ca:5,5434:6
+2014 grand prix		44ca:5,5434:6
+2014 grand prix cycliste		5434:6
+2014 grand prix cycliste de		5434:6
+2014 grand prix cycliste de quebec	5434	
+2014 grand prix de		44ca:5
+2014 grand prix de denain	44ca	
+2014 grand prix de dottignies	4ark	
+2014 guangzhou		5qt7:6
+2014 guangzhou international		5qt7:6
+2014 guangzhou international women		5qt7:6
+2014 guangzhou international women s		5qt7:6
+2014 guangzhou international women s open	5qt7	
+2014 hearthstone world championship	1b5s	
+2014 iaaf		78f:4,dc9:5,11ma:4
+2014 iaaf continental		78f:4
+2014 iaaf continental cup	78f	
+2014 iaaf world		dc9:5,11ma:4
+2014 iaaf world indoor		dc9:5
+2014 iaaf world indoor championships	dc9	
+2014 iaaf world relays	11ma	
+2014 iihf		wgr:4
+2014 iihf world		wgr:4
+2014 iihf world championship	wgr	
+2014 incheon	19p	
+2014 incheon asian games	19p	
+2014 indian grand prix	2bup	
+2014 indoor athletics	dc9	
+2014 insurgency in donetsk	9c9	
+2014 insurgency in donetsk and luhansk oblasts	9c9	
+2014 insurgency in east ukraine	9c9	
+2014 internationaux		2077:6,5r6n:4
+2014 internationaux de		5r6n:4
+2014 internationaux de strasbourg	5r6n	
+2014 internationaux feminins		2077:6
+2014 internationaux feminins de		2077:6
+2014 internationaux feminins de la		2077:6
+2014 internationaux feminins de la vienne	2077	
+2014 intervention in iraq	1exw	
+2014 iraq crisis	10jr	
+2014 israel gaza conflict	qiq	
+2014 israel gaza war	qiq	
+2014 israel palestine war	qiq	
+2014 israelgaza conflict	qiq	
+2014 israelgaza war	qiq	
+2014 israeli gaza conflict	qiq	
+2014 israeligaza conflict	qiq	
+2014 isreal gaza conflict	qiq	
+2014 istanbul		5r86:3
+2014 istanbul cup	5r86	
+2014 japan		5mjm:5
+2014 japan women		5mjm:5
+2014 japan women s		5mjm:5
+2014 japan women s open	5mjm	
+2014 junior eurovision song contest	50zb	
+2014 kharkiv rsa raid	645m	
+2014 kobane offensive	5p9i	
+2014 l		22by:8
+2014 l open		22by:8
+2014 l open emeraude		22by:8
+2014 l open emeraude solaire		22by:8
+2014 l open emeraude solaire de		22by:8
+2014 l open emeraude solaire de saint		22by:8
+2014 l open emeraude solaire de saint malo	22by	
+2014 la		3x7t:8
+2014 la course		3x7t:8
+2014 la course by		3x7t:8
+2014 la course by le		3x7t:8
+2014 la course by le tour		3x7t:8
+2014 la course by le tour de		3x7t:8
+2014 la course by le tour de france	3x7t	
+2014 la fleche wallonne feminine	1bcl	
+2014 ladies		1lwy:5
+2014 ladies tour		1lwy:5
+2014 ladies tour of		1lwy:5
+2014 ladies tour of norway	1lwy	
+2014 le		2stj:5
+2014 le samyn		2stj:5
+2014 le samyn des		2stj:5
+2014 le samyn des dames	2stj	
+2014 masters	1mht	
+2014 masters snooker	1mht	
+2014 mercury prize	1ba4	
+2014 mexican grand prix	2bup	
+2014 military intervention against isil	1exw	
+2014 military intervention against isis	1exw	
+2014 nagrada		5hrx:4
+2014 nagrada ljubljane		5hrx:4
+2014 nagrada ljubljane tt	5hrx	
+2014 national		63vj:6
+2014 national league		63vj:6
+2014 national league wild		63vj:6
+2014 national league wild card		63vj:6
+2014 national league wild card game	63vj	
+2014 nato summit	o0f	
+2014 nba		6hf1:3
+2014 nba finals	6hf1	
+2014 ncaa division i men s volleyball tournament	12pd	
+2014 ncaa men s national collegiate volleyball tournament	12pd	
+2014 new york liberty season	ara	
+2014 newport summit	o0f	
+2014 nl wild card game	63vj	
+2014 nurnberger		5arz:3
+2014 nurnberger versicherungscup	5arz	
+2014 olympic games	f8	
+2014 omloop		4hoq:4
+2014 omloop het		4hoq:4
+2014 omloop het nieuwsblad	4hoq	
+2014 omloop het nieuwsblad women s race	5qm3	
+2014 omloop van het hageland	4g9g	
+2014 open de suede vargarda	4fk9	
+2014 orica ais season	2zl3	
+2014 oricaais season	2zl3	
+2014 pacific		4954:4
+2014 pacific typhoon		4954:4
+2014 pacific typhoon season	4954	
+2014 paralympic games	8co	
+2014 paralympics	8co	
+2014 paris roubaix	4n18	
+2014 parisroubaix	4n18	
+2014 parkhotel		2dyc:4
+2014 parkhotel valkenburg		2dyc:4
+2014 parkhotel valkenburg continental	2dyc	
+2014 parkhotel valkenburg continental team season	2dyc	
+2014 philadelphia		4jyy:4
+2014 philadelphia cycling		4jyy:4
+2014 philadelphia cycling classic	4jyy	
+2014 phoenix mercury season	azr	
+2014 pro		645m:6
+2014 pro russian		645m:6
+2014 pro russian conflict in ukraine	645m	
+2014 pro russian protests in ukraine	645m	
+2014 pro russian unrest		645m:6
+2014 pro russian unrest in		645m:6
+2014 pro russian unrest in ukraine	645m	
+2014 prorussian unrest in ukraine	645m	
+2014 protests in turkey	443c	
+2014 pts	4954	
+2014 rabo liv women cycling team season	236n	
+2014 raboliv women cycling team season	236n	
+2014 rio	44co	
+2014 rochester rhinos season	4mx	
+2014 russian		2t1k:5
+2014 russian invasion		2t1k:5
+2014 russian invasion of		2t1k:5
+2014 russian invasion of crimea	2t1k	
+2014 san antonio silver stars season	jds	
+2014 san antonio stars season	jds	
+2014 separatist federalist conflict in ukraine	645m	
+2014 sochi olympics	f8	
+2014 sochi winter games	f8	
+2014 sotchi	f8	
+2014 sotchi winter games	f8	
+2014 sotchi winter olympics	f8	
+2014 specialized lululemon season	1yom	
+2014 specializedlululemon season	1yom	
+2014 stanford classic	q2e	
+2014 strade		5cls:3
+2014 strade bianche	5cls	
+2014 super bowl	6glv	
+2014 superbowl	6glv	
+2014 swedish		2f80:4
+2014 swedish general		2f80:4
+2014 swedish general election	2f80	
+2014 tdf	61k	
+2014 team		2ozv:5
+2014 team europcar season	zgn	
+2014 team giant		2ozv:5
+2014 team giant shimano		2ozv:5
+2014 team giant shimano season	2ozv	
+2014 team giantshimano season	2ozv	
+2014 team sky season	ytc	
+2014 team tinkoff saxo season	vqc	
+2014 the		3oyc:5
+2014 the philadelphia cycling classic	4jyy	
+2014 the women		3oyc:5
+2014 the women s		3oyc:5
+2014 the women s tour	3oyc	
+2014 tinkoff saxo riders	vqc	
+2014 tinkoff saxo season	vqc	
+2014 tinkoffsaxo season	vqc	
+2014 topsport vlaanderen baloise season	1bzc	
+2014 topsport vlaanderenbaloise season	1bzc	
+2014 tour		61k:4,1i35:6,4ih9:4,53pa:4
+2014 tour de		61k:4
+2014 tour de france	61k	
+2014 tour of		1i35:6,4ih9:4,53pa:4
+2014 tour of flanders		1i35:6
+2014 tour of flanders for		1i35:6
+2014 tour of flanders for women	1i35	
+2014 tour of oman	53pa	
+2014 tour of qatar	4ih9	
+2014 tour of quatar	4ih9	
+2014 tro		295e:4
+2014 tro bro		295e:4
+2014 tro bro leon	295e	
+2014 tube stock	jwt	
+2014 uci		egp:4,kl7:4,1mg2:5
+2014 uci europe		egp:4
+2014 uci europe tour	egp	
+2014 uci road		1mg2:5
+2014 uci road world		1mg2:5
+2014 uci road world championships	1mg2	
+2014 uci world		kl7:4
+2014 uci world tour	kl7	
+2014 uefa		4icu:5
+2014 uefa champions		4icu:5
+2014 uefa champions league		4icu:5
+2014 uefa champions league final	4icu	
+2014 ukraine conflict	9c9	
+2014 united		5445:7
+2014 united states		5445:7
+2014 united states house		5445:7
+2014 united states house of		5445:7
+2014 united states house of representatives		5445:7
+2014 united states house of representatives elections	5445	
+2014 united states intervention in iraq	1exw	
+2014 unrest in southern and eastern ukraine	645m	
+2014 us		3iwx:3
+2014 us open	3iwx	
+2014 us open tennis	3iwx	
+2014 venus williams tennis season	f6p	
+2014 vuelta		4x7:4,3qck:4
+2014 vuelta a		4x7:4,3qck:4
+2014 vuelta a colombia	3qck	
+2014 vuelta a espana	4x7	
+2014 wales		o0f:3
+2014 wales summit	o0f	
+2014 war in ukraine	9c9	
+2014 washington mystics season	ay7	
+2014 wc	1ft	
+2014 west africa ebola outbreak	3ctw	
+2014 west africa ebola virus outbreak	3ctw	
+2014 west african ebola outbreak	3ctw	
+2014 west african ebola virus epidemic	3ctw	
+2014 wiggle		1ntl:4
+2014 wiggle honda		1ntl:4
+2014 wiggle honda season	1ntl	
+2014 wigglehonda season	1ntl	
+2014 wimbledon	4sj6	4sj6:3
+2014 wimbledon championship	4sj6	
+2014 wimbledon championships	4sj6	
+2014 winston		4ol3:5
+2014 winston salem		4ol3:5
+2014 winston salem cycling		4ol3:5
+2014 winston salem cycling classic	4ol3	
+2014 winter		f8:3,8co:3
+2014 winter olympic games	f8	
+2014 winter olympics	f8	
+2014 winter paralympic games	8co	
+2014 winter paralympics	8co	
+2014 women s tour	3oyc	
+2014 world		u4h:6,3tcd:3
+2014 world allround		u4h:6
+2014 world allround speed		u4h:6
+2014 world allround speed skating		u4h:6
+2014 world allround speed skating championships	u4h	
+2014 world chess championship	5d05	
+2014 world cup final	44co	
+2014 world cup in athletics	78f	
+2014 world cup qualification	1p0j	
+2014 world cup qualifier	1p0j	
+2014 world cup qualifiers	1p0j	
+2014 world cup qualifying	1p0j	
+2014 world indoor athletics championships	dc9	
+2014 world relays	11ma	
+2014 world series	3tcd	
+2014 wta		w52:3
+2014 wta tour	w52	
+aberc	45ip	
+akenaton	oga	
+atv	36aq,4slc	
+atv avrupa	36aq	
+atv enterprise limited	4slc	
+atv hong kong	4slc	
+atv kirshner	1sv6	
+atv turkey	36aq	
+bakhtiyor		4v7x:2
+bakhtiyor ashurmatov	4v7x	
+balarrasa	4lf1	
+bavorsko	tn	
+bcafc	147	
+binge and purge	5j73	
+binge machine gun kelly album	1uif	
+borgotaro	1ell	
+brenes	4axj	
+brenes sevilla	4axj	
+brenes seville	4axj	
+brenes spain	4axj	
+carmem		312s:3
+carmem de		312s:3
+carmem de oliveira	312s	
+carmem sousa de oliveira furtado	312s	
+chambolle		1ude:2
+chambolle musigny	1ude	
+cheesefest	7cu	
+chhunly		5ahb:2
+chhunly pagenburg	5ahb	
+chiellini	1q4t	
+chiemi		4p91:2
+chiemi eri	4p91	
+clotaire i	100q	
+clotaire i of the franks	100q	
+clotaire ii	2f3l	
+clotaire ii of neustria	2f3l	
+clotaire ii of the franks	2f3l	
+clove of garlic	5kmt	
+clove unit	1h93	
+clove weight	1h93	
+colombiandepartments	1dpx	
+corrales		2wlh:3,4il8:3
+corrales de		4il8:3
+corrales de duero	4il8	
+corrales del		2wlh:3
+corrales del vino	2wlh	
+corrales spain	2wlh	
+corrales zamora	2wlh	
+countryside	7kv	
+countryside aland	2ezp	
+croixdalle	1rxb	
+dadungh	2xq5	
+dangolsheim	3o5t	
+david buckley	2kxc	
+digraphis	6f2i	
+dorida	3cwi	3cwi:2
+dorida municipality	3cwi	
+dorida province	3cwi	
+drm japanese band	1tzf	
+dubos rene jules	33kb	
+edirne	6t5	erz:2
+edirne basket	3q3h	
+edirne province	erz	
+edirne province ottoman empire	56zl	
+edirne vilayet	56zl	
+electrosphere	6au3	
+ent	114v	
+ent cast	9dk	
+ent medicine	114v	
+ent specialist	114v	
+ent surgery	114v	
+farenheight 911	4gde	
+fc baikal		ccn:3
+fc baikal irkutsk	ccn	
+fc baikal ulan ude	2o49	
+firestars quest	695l	
+flinck	3jro	
+giampietro		4gs1:2
+giampietro perrulli	4gs1	
+giampietro perulli	4gs1	
+giampietro piovani	53ko	
+gide andre	12jl	
+gide charles	5vld	
+giusta manca di villahermosa	4hmr	
+gmina gietrzwad	szb	
+gmina ryman	151a	
+halyoke massachusetts	9qu	
+hassani	2udl	
+havanese	vj	
+herr		3s4m:6
+herr der welt	2kcq	
+herr lehmann film	5uwb	
+herr michael	322x	
+herr puntila		3s4m:6
+herr puntila and		3s4m:6
+herr puntila and his		3s4m:6
+herr puntila and his servant		3s4m:6
+herr puntila and his servant matti	3s4m	
+herr puntila and his servant matti 1960 film	3s4m	
+herr tartueff	4q7p	
+herr tartuff	4q7p	
+herr wolf	6b3	
+james trimble	5ljw	
+jean prouve	51mr	
+john clarks slater	1wnf	
+john dos		19k1:3
+john dos passos	19k1	
+john dos passos award	vsj	
+john dos passos comments	19k1	
+john dos passos novels	19k1	
+john dos passos prize	vsj	
+john dos passos prize for literature	vsj	
+kaiserliches archaeologisches institut	28m	
+knife	m6v	1x84:2,3koy:2,6c8j:3
+knife and the sword		1joa:5
+knife attack	60hc	
+knife blade	4yne	
+knife fight	3koy	
+knife fight film	3koy	
+knife intifada	3hwe	
+knife knives	m6v	
+knife of		6c8j:3
+knife of dreams	6c8j	
+knife of ice	5fzc	
+knife that killed me	5uex	5uex:5
+knife wrench	e35	
+kpac lalitha	od3	
+krommenie assendelft	bm2	
+limbrassac	2m1p	
+louis theroux	19j0	
+lunay	2b8n	
+manatsu no eve	46wd	
+manatsu no yoru no yume	30rc	
+mandan	3p0c	
+mandan city center north dakota	3p0c	
+mandan city north dakota	3p0c	
+mandan municipal golf course	3p0c	
+mandan nd	3p0c	
+mandan north dakota	3p0c	
+maria full		2piw:4
+maria full of		2piw:4
+maria full of grace	2piw	
+maria full of grace movie	2piw	
+maria gabriela stefania korwin piotrowska	55bz	
+mayiladuturai	4tfb	
+meester van de parel van brabant	59ux	
+melo	15d6,1lik	
+melo anthony	1lik	
+melo cerro largo	15d6	
+melo death	2tm	
+melo death metal	2tm	
+melo uruguay	15d6	
+minkatsh	kul	
+morbegno	1ckp	
+morbegno italy	1ckp	
+mouzens	3b1x,4ne2	
+mouzens dordogne	4ne2	
+mouzens tarn	3b1x	
+nechtan sceine	qlx	
+nephrologists	1plp	
+nirvana	brk,1r80	
+nirvana american band	brk	
+nirvana band	brk	
+nirvana band comments	brk	
+nirvana film	1r80	
+nirvana movie	1r80	
+nirvana nevermind	1ma8	
+nirvana s in utero	3e7r	
+nirvana s nevermind	1ma8	
+nirvana s smells like teen spirit	5pax	
+nirvana us band	brk	
+oparin	2207	
+oparin alexander	2207	
+oparin s life theory	2207	
+outriders		4xky:2
+palembang	pzu	
+palembang darussalam	pzu	
+palembang indonesia	pzu	
+palembang south sumatra	pzu	
+palestrina	nyj	
+palestrina giovanni periluigi da	2y0d	
+palestrina giovanni pierluigi da	2y0d	
+palestrina rm	nyj	
+palestrina rome	nyj	
+pannkakor	rw6	
+patrickobrianswork	yu0	
+pluecker	2nde	
+postplatyptilia	18ug	
+presentevillers	3frb	
+principato di filettino	1ys7	
+proverbs	5d3s	
+proverbs from sancho panza	6h8s	
+pudge rodriguez	4dj4	
+pudge rodriguz	4dj4	
+puff		1r58:2
+puff adders	5e5l	
+puff graham	2vr2	
+puff paste	1r58	
+puff pastries	1r58	
+puff pastry	1r58	
+puff up	k5o	
+pyhtaeae	585p	
+quadrilogy	6fne	
+raiford chatman davis	eqo	
+redroad fm	5g7h	
+reinhard	8xo	h8f:2,17jo:2,1rlz:2,1vdo:2,2m2q:2,2tes:2,35x7:2,3jqp:2,3vl9:2,4ioe:2,4jir:5,4qxm:2,4v2u:2,4yei:2,55ov:2,5a1q:2,5h9b:2,5pbr:6,5xim:2,623a:2,65eb:2,6auq:2,6cg9:2
+reinhard brandl	4yei	
+reinhard buetikofer	4ioe	
+reinhard butikofer	4ioe	
+reinhard cardinal marx	5h9b	
+reinhard christopher	3bty	
+reinhard first name	8xo	
+reinhard genzel	1rlz	
+reinhard given name	8xo	
+reinhard grindel	2m2q	
+reinhard haefner	4qxm	
+reinhard hafner	4qxm	
+reinhard hans butikofer	4ioe	
+reinhard hauff	6auq	
+reinhard heydrich	17jo	
+reinhard hoeppner	55ov	
+reinhard hoppner	55ov	
+reinhard iii		4jir:5
+reinhard iii count		4jir:5
+reinhard iii count of		4jir:5
+reinhard iii count of hanau	4jir	
+reinhard iii of hanau	4jir	
+reinhard iv		5pbr:6
+reinhard iv count		5pbr:6
+reinhard iv count of		5pbr:6
+reinhard iv count of hanau		5pbr:6
+reinhard iv count of hanau munzenberg	5pbr	
+reinhard jirgl	3jqp	
+reinhard justus reginald selten	1vdo	
+reinhard kolldehoff	h8f	
+reinhard lakomy	5a1q	
+reinhard lauck	3vl9	
+reinhard libuda	5xim	
+reinhard marx	5h9b	
+reinhard mey	35x7	
+reinhard mohn	623a	
+reinhard oppel	65eb	
+reinhard scheer	2tes	
+reinhard selten	1vdo	
+reinhard stumpf	4v2u	
+reinhard tristan eugen heydrich	17jo	
+reinhard voigt	4gb0	
+reinhard von scheer	2tes	
+reinhard wilhelm	6cg9	
+reinhard wilmbusse	15lf	
+rlscharfman	4c9t	
+rsl	1ri	
+rsl encore award	1cq5	
+segona		2wdw:2
+segona divisio	2wdw	
+st swithtin	5q4n	
+statsradiofonien	y8e	
+sumene	1pug	
+szechwan	6pf	
+tapio	120a	4izh:2,53de:2,5d7w:2
+tapio first name	120a	
+tapio given name	120a	
+tapio haemaelaeinen	4izh	
+tapio hamalainen	4izh	
+tapio heikkila	53de	
+tapio name	120a	
+tapio rautavaara	5d7w	
+the barkeleys of broadway	29tq	
+the scaw	1g5t	
+the skype guys	1fys	
+the withered arm	ka3	
+titusville	yhg,1p5d	
+titusville fl	yhg	
+titusville florida	yhg	
+titusville pa	1p5d	
+titusville pennsylvania	1p5d	
+tomonobu		41d5:2
+tomonobu itagaki	41d5	
+twinzor sandbox johanna kustannus	1pvq	
+unlady like rap group	bgf	
+upea capo d orlando	5s39	
+verlamchester	62t	
+victorino da feltre	3ita	
+victorino de feltre	3ita	
+viggianello	1zxd,3dw7	
+viggianello corse du sud	3dw7	
+vritz	3f4n	
+wattsian	3kz0	
+whiteman		3tsu:4
+whiteman afb	3tsu	
+whiteman air		3tsu:4
+whiteman air force		3tsu:4
+whiteman air force base	3tsu	
+wills		65xw:6
+wills helen	na5	
+wills hill		65xw:6
+wills hill 1st		65xw:6
+wills hill 1st marquess		65xw:6
+wills hill 1st marquess of		65xw:6
+wills hill 1st marquess of downshire	65xw	
+wills hill 2nd viscount hillsborough	65xw	
+wills mark	1n9q	
+wills moody	na5	
+yonghwa	2ub4	
+zir futbol klubu	52h7	
+zubair bin abdul muttalib	4mof	
+zubair ibn al awam	3etc	
+zubair ibn al awwam	3etc	
+zwenihorod	mrx	

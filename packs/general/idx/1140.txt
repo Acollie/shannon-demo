@@ -1,0 +1,552 @@
+199091		8x4:3,xkr:4,15lk:4,1fhx:4,22jm:3,46gm:2,693y:4
+199091 bundesliga	22jm	
+199091 cypriot		8x4:3,xkr:4,15lk:4,1fhx:4,693y:4
+199091 cypriot cup	8x4	
+199091 cypriot first		xkr:4
+199091 cypriot first division	xkr	
+199091 cypriot fourth		693y:4
+199091 cypriot fourth division	693y	
+199091 cypriot second		15lk:4
+199091 cypriot second division	15lk	
+199091 cypriot third		1fhx:4
+199091 cypriot third division	1fhx	
+199091 ekstraklasa	46gm	
+199091 fuball		22jm:3
+199091 fuball bundesliga	22jm	
+199091 fussball bundesliga	22jm	
+accura	1mb	
+aderno	1d5x	
+aeleus	6hul	
+aesculus	69d1	
+aesculus dupontii	69d1	
+aesculus species	69d1	
+alajar	4ijf	
+alajar huelva	4ijf	
+alajar spain	4ijf	
+allonne	2kzy,3brr	
+allonne deux sevres	2kzy	
+allonne oise	3brr	
+almansor	nbz	
+anauxesis	2nrn	
+apidosperma	2sz4	
+archon	22af	
+archon aisne	22af	
+archon directory	2zd6	
+archon eponymos	3a5r	
+archon of athens	3a5r	
+ardour estuary	20p4	
+avere vent anni	4z2s	
+avere ventanni	4z2s	
+banadir region	2lhz	
+baudreville	3nn4	
+baudreville manche	3nn4	
+bihac	peh	
+biom	3tb5	
+bronzesmith	22g	
+ceratophysetis	3ct	
+chudalani undi	5jak	
+chudalani vundi	5jak	
+common	8pk	3gc:2,2nus:2,34j3:2,42hg:3,44lc:2,57k3:2,5hku:3,5q5i:6
+common 4kids edits	3m8c	
+common actor	8pk	
+common alternative revolutionary force	4odw	
+common alternative revolutionary party	4odw	
+common anaconda	6fwo	
+common artist	8pk	
+common as light and love are red valleys of blood	5bb4	
+common assembly	12t0	
+common bottlenose		5hku:3
+common bottlenose dolphin	5hku	
+common brass	uxl	
+common burying beetle	jf5	
+common business oriented language	50qh	
+common caecilian	5c06	
+common caecilians	5c06	
+common carrot	36vd	
+common chimpanzee	1ab9	
+common chimpanzees	1ab9	
+common cold	57k3	
+common commercial policy mercosur	1ide	
+common criticisms of internet explorer	1thu	
+common domestic fowl	tve	
+common edge blackpool	3ij	
+common effects of heroine	19zm	
+common elements of tales	1i2u	
+common europe	6gv0	
+common executioner	eii	
+common flu	3fh	
+common fruit fly	69ow	
+common gameplay elements in the god of war series	3ga3	
+common gameplay elements in the guitar hero series	4ycb	
+common garden snail	6al0	
+common germanic futhark	2yvq	
+common good books	2cyv	
+common grape vine	1tgu	
+common greek	us4	
+common hangman	eii	
+common house mouse	n0x	
+common housecat	3so	
+common interest association	1j0	
+common lacewings	5jt9	
+common language search	8bh	
+common law		2wbg:3
+common law adoption	6fwf	
+common linnets		4nf2:3
+common lisp	2nus	
+common lisp programming language	2nus	
+common lisper	2nus	
+common logic	3261	
+common lousewort	3myu	
+common man		41or:3
+common man s party	jt6	
+common market	6gv0	
+common mica	6fh1	
+common misconceptions about birth control	6exe	
+common musician	8pk	
+common name	3gc	
+common names	3gc	
+common names for decks	6bat	
+common noun	6f1v	
+common nouns	6f1v	
+common pasta	ctu	
+common people	44lc	
+common people song	44lc	
+common pet parakeet	6h1p	
+common place	282	
+common profile for instant messaging	6aaf	
+common public		42hg:3
+common public license	42hg	
+common public license 1 0	42hg	
+common public license version 1 0	42hg	
+common rapper	8pk	
+common rapper comments	8pk	
+common red fox	3tyt	
+common sagebrush	6hor	
+common salt	1dod	
+common seal	1v8c	
+common seals	1v8c	
+common sense	8pk	
+common sense rapper	8pk	
+common sexton beetle	jf5	
+common singer	8pk	
+common stock company	26j3	
+common sugarbush protea	1x8f	
+common swallowtail	39q6	
+common tiger beetle 2	jdi	
+common tomato	14tz	
+common types of microscope	3pnm	
+common use facility	1gug	
+common use terminal	1gug	
+common wealth		5q5i:6
+common wealth award	5q5i	5q5i:6
+common wealth award for public service	5q5i	
+common wealth award of		5q5i:6
+common wealth award of distinguished		5q5i:6
+common wealth award of distinguished service	5q5i	
+common wealth awards	5q5i	
+common wealth awards of distinguished service	5q5i	
+common wealth countries	he0	
+common wealth games	2o9j	
+common words and phrases in modern greek	ej	
+common year	34j3	
+common years	34j3	
+common yoruba	mmc	
+common zebra	6b7y	
+constantinopolitan greek	hl6	
+constantinopolitan greek language	hl6	
+corno		3mmr:3,58bt:2
+corno di		3mmr:3
+corno di rosazzo	3mmr	
+corno giovine	58bt	
+cybergirl of the week	32r1	
+cyclara	x1z	
+derdiyok	3dzc	
+dicerca	399b	
+donuts	w8e	
+doobies	rhf	
+doubravcice	2dt4	
+facm	6eip	
+fastav zlin	8or	
+fc rapid	3l4	3l4:3,lih:3,318f:4
+fc rapid bucharest	3l4	
+fc rapid bucuresti	3l4	
+fc rapid ghidighici	lih	
+fc rapid ii		318f:4
+fc rapid ii bucuresti	318f	
+fc rapid mansfeldia hamm benfica	4mol	
+fedora13	17mr	
+feirense	7oe	
+finnish	hy	c9s:4,cj0:2,nqa:6,oaa:2,qwl:3,w1w:6,wvs:5,12k3:2,12sn:2,1ega:2,1xx9:2,2ecu:4,2oxf:3,2sk4:3,38oe:3
+finnish academy	nqa	nqa:6
+finnish academy of		nqa:6
+finnish academy of science	nqa	nqa:6
+finnish academy of science and		nqa:6
+finnish academy of science and letters	nqa	
+finnish academy of sciences	nqa	
+finnish air		qwl:3
+finnish air force	qwl	
+finnish air force reconnaissance squadron 12	4ik8	
+finnish air force reconnaissance squadron 16	4c0t	
+finnish air force squadron 12	4ik8	
+finnish air force squadron 16	4c0t	
+finnish air force training air wing	5f9i	
+finnish airforce	qwl	
+finnish airlines	16gu	
+finnish armed forces	2oxf	
+finnish army	1ega	
+finnish army 1939	1ega	
+finnish army aviation	1ega	
+finnish army order of battle winter war	1ega	
+finnish art academy	6cd8	
+finnish art association	6cd8	
+finnish art society	6cd8	
+finnish british war	je1	
+finnish broadcasting company	1g8e	
+finnish capital	ed	
+finnish centre	7l0	
+finnish christian league	3vmz	
+finnish civil		2sk4:3
+finnish civil war	2sk4	
+finnish civil war comments	2sk4	
+finnish congenital nephrosis	wdr	
+finnish council of state	oaa	
+finnish cup	1xx9	
+finnish defence		2oxf:3
+finnish defence force	2oxf	
+finnish defence forces	2oxf	
+finnish defense force	2oxf	
+finnish defense forces	2oxf	
+finnish dialects	hy	
+finnish education minister	4o72	
+finnish elite league	ssx	
+finnish evangelical lutheran church	gfk	
+finnish figure		2ecu:4
+finnish figure skating		2ecu:4
+finnish figure skating championships	2ecu	
+finnish flash	1o43	
+finnish football association	5yl	
+finnish foreign minister	1qhc	
+finnish foreign ministry	1qhc	
+finnish freedom cross	5epx	
+finnish freedom war	2sk4	
+finnish government	oaa	
+finnish grand duchy	16bq	
+finnish gulf	ffp	
+finnish highest football division	p1j	
+finnish land forces	1ega	
+finnish language	hy	
+finnish lapland	jwd	
+finnish league	ssx	
+finnish main road 4	55vd	
+finnish military forces	2oxf	
+finnish ministry of the interior	6bck	
+finnish municipality	2aq	
+finnish museum of games	obg	obg:5
+finnish national		38oe:3
+finnish national agency for education	oaa	
+finnish national football team	3kz	
+finnish national gallery	38oe	
+finnish national hockey league	ssx	
+finnish national men s ice hockey team	4jw7	
+finnish national road 4	55vd	
+finnish nationals figure skating	2ecu	
+finnish navy	cj0	
+finnish navy ship	cj0	
+finnish party	12sn	
+finnish people		wvs:5
+finnish people s		wvs:5
+finnish people s defence league	wvs	
+finnish people s defense league	wvs	
+finnish people s democratic		wvs:5
+finnish people s democratic league	wvs	
+finnish premier league	p1j	
+finnish president	ytn	
+finnish presidential election	ytn	
+finnish priests	1o9	
+finnish prime minister	sv6	
+finnish rail administration	c9s	
+finnish railways	13hc	
+finnish republic	35	
+finnish russian civic forum	50e9	
+finnish soccer team	3kz	
+finnish social democratic party	b8v	
+finnish society		w1w:6
+finnish society of		w1w:6
+finnish society of science and letters	w1w	
+finnish society of sciences		w1w:6
+finnish society of sciences and		w1w:6
+finnish society of sciences and letters	w1w	
+finnish syntax	hy	
+finnish transport		c9s:4
+finnish transport agency	c9s	
+finnish transport infrastructure		c9s:4
+finnish transport infrastructure agency	c9s	
+finnish war	12k3	
+finnish war of liberation	2sk4	
+finnish winter war	6ak	
+gado bloody roar	3plb	
+gerrows beach ontario	23ep	
+ginho	5iw2	
+glashutte	1876	
+glashutte sachsen	1876	
+glashutte saxony	1876	
+glimmer man	1ujk	1ujk:3
+gmina jodlownik	23st	
+goetene	5tdi	
+goetene municipality	273h	
+heitinga	3kye	
+holowesko		3yqi:4
+holowesko citadel		3yqi:4
+holowesko citadel hincapie		3yqi:4
+holowesko citadel hincapie sportswear	3yqi	
+holowesko citadel racing team	3yqi	
+insomnium	3k6b	
+insomnium band	3k6b	
+ironbar bassey	1nko	
+iryna	64tb	5fmc:2
+iryna berezhna	4i1n	
+iryna deriugina	5wqi	
+iryna derygina	5wqi	
+iryna deryugina	5wqi	
+iryna lutsenko	5zz8	
+iryna vilde	5fmc	
+iryna vilde polotniuk	5fmc	
+james franciscus	11sd	
+james michener	hz5	
+james moriarty	5l1j	
+joazeiro	zht	
+john mitchel	5mlu	
+john mitchel lounsbery	rbl	
+kahramanmarasspor	1c72	
+kampak yara	3j0a	
+khasanbi		632m:2
+khasanbi bidzhiev	632m	
+khasanbi bidzhiyev	632m	
+khasanbi bijiev	632m	
+khasanbi bijiyev	632m	
+khasanbi eduardovich bidzhiyev	632m	
+khris		6g34:2
+khris kellow	4hz7	
+khris middleton	6g34	
+koestlerian	zo2	
+koreyoshi		4rr9:2
+koreyoshi kurahara	4rr9	
+lancheres	3twp	
+loomis tv pilot	5d35	
+lutkiewicz	5q7l	
+macio herb brown	3bo2	
+macio parker	45p7	
+macio souza da silva	69br	
+michael maitland stewart	3wqd	
+michael maitland stewart baron fulham	3wqd	
+miecislaus johann count ledochowski	51dd	
+mien kampf	482f	
+mien yang	14do	
+mifunes sidste sang	3kxz	
+mildburga	5yy7	
+montowese	3gvj	
+montowese connecticut	3gvj	
+montowese ct	3gvj	
+nagelian	2yeu	
+negrondes	3rsr	
+neoconstructivism art	133f	
+npo energia	9l3	
+npo energiya	9l3	
+npo lavochkin	qng	
+npo mash	2vjc	
+npo mashinostroenia	2vjc	
+npo mashinostroeyenia	2vjc	
+npo mashinostroyenia	2vjc	
+npo mashinostroyeniya	2vjc	
+npo mashinostroyeniye	2vjc	
+npo pm	fnc	
+npo prikladnoi mekhaniki	fnc	
+odzki ks	4ie	
+odzki wschodni	1whd	
+origins beliefs	6f3y	
+origins of armenians	ty	
+origins of ashkenazi	cik	
+origins of chinese characters	ipz	
+origins of marvel comics	5d2	
+origins of punk rock	9a	
+origins of santa claus	6ch8	
+origins of symmetry	5fqz	
+origins of the egyptians	5lf0	
+origins of the olympic winter games	1w4z	
+origins of the sexual impulse	1h66	
+origins of the state	a80	
+origins of vampire beliefs	2w66	
+origins of vampire mythology	10zl	
+origins steve roach	1bmg	
+origins titans	4g4m	
+osburh	5rm1	
+oslov	28sz	
+osvracin	3m2i	
+packhoi	3ef8	
+panoral	41x4	
+paul flehr	ite	
+peter poulo ribbens	572	
+pholcidae	h87	
+pihem	393g	
+pimelles	3ox8	
+postlberger	57cm	
+precursor emissary	20yc	
+presle	2rqi	
+robert cortez scott	5uu6	
+robinocracy	vix	
+roccamena	4y6n	
+rochester	1di,5z9,eak,yn6,11na,1l28,365b,53as	170:3,4mx:2,5u0:4,g95:2,203k:2,2yx2:2,5zm2:2,65r3:2,6anc:2
+rochester americans	203k	
+rochester amerks	203k	
+rochester and rutherford hall	2wi	
+rochester anderson	1szx	
+rochester athenaeum and mechanics institute	5u0	
+rochester athenum and mechanics institute	5u0	
+rochester borough council	eak	
+rochester colts	170	
+rochester comedian	1szx	
+rochester flash	5zm2	
+rochester flyers	1cbv	
+rochester hill mi	2yx2	
+rochester hills	2yx2	
+rochester hills christian school	2yx2	
+rochester hills mi	2yx2	
+rochester hills michigan	2yx2	
+rochester hustlers	170	
+rochester in	365b	
+rochester indiana	365b	
+rochester insitute of technology	5u0	
+rochester institue of technology	5u0	
+rochester institute		5u0:4
+rochester institute of		5u0:4
+rochester institute of technology	5u0	
+rochester institute of technology campus	5u0	
+rochester jack benny	1szx	
+rochester kent	eak	
+rochester kent comments	eak	
+rochester lancers	g95,65r3	
+rochester lancers 1967 80	g95	
+rochester lancers 196780	g95	
+rochester lancers 2010	65r3	
+rochester lancers 2011 15	65r3	
+rochester lancers 201115	65r3	
+rochester lancers indoor	65r3	
+rochester lockport and niagara falls railroad company	1jw0	
+rochester mechanics institute	5u0	
+rochester medway	eak	
+rochester medway comments	eak	
+rochester methodist hospital	mck	
+rochester mi	yn6	
+rochester michigan	yn6	
+rochester minn	5z9	
+rochester minnesota	5z9	
+rochester mn	5z9	
+rochester monroe county new york	1di	
+rochester n y	1di	
+rochester new hampshire	11na	
+rochester new york	1di	
+rochester nh	11na	
+rochester ny	1di	
+rochester pa	1l28	
+rochester pennsylvania	1l28	
+rochester radio personality	1szx	
+rochester raging rhinos	4mx	
+rochester red		170:3
+rochester red wing	170	
+rochester red wings	170	
+rochester redwings	170	
+rochester rhinos	4mx	
+rochester royals	2md	
+rochester seagrams	2md	
+rochester tech tigers	5u0	
+rochester tribe	170	
+rochester uk	eak	
+rochester united kingdom	eak	
+rochester van jones	1szx	
+rochester victoria	53as	
+rochester yellowjackets	1va	
+rochester yellowjackets football	1va	
+rochester yellowjackets men s basketball	1va	
+rochester yellowjackets track and field	1va	
+rochester zeniths	6anc	
+safetula	1qzz	
+saint christoph	1t71	
+salernum	7jk	
+schaumberg illinois	1ecm	
+shangrila county	5ce0	
+shola		3yg5:2
+shola ameobi	3yg5	
+siecq	1ok5	
+simona		2ulw:2,30hb:2,4f11:2,4xx4:2,6by7:2
+simona de bovuar	ox4	
+simona frapporti	4f11	
+simona halep	2ulw	
+simona izzo	4xx4	
+simona paggi	30hb	
+simona stasova	6by7	
+sir malcom campbell	58ty	
+soif de l or	567p	
+spsc	467h	
+stabilimento		1ktl:3
+stabilimento technico triestino	1ktl	
+stabilimento tecnico		1ktl:3
+stabilimento tecnico triestino	1ktl	
+suleimaniyah	lil	
+swosu	4hu4	
+tailand	5w	
+tcherin	4p71	
+the deluge	1q1u,579d	
+the deluge film	1q1u	
+the deluge history	579d	
+the deluge movie	1q1u	
+the deluge polish history	579d	
+the doomsday		51ng:3,5xh0:3
+the doomsday flight	5xh0	
+the doomsday key	6222	
+the doomsday key rollins novel	6222	
+the doomsday machine	51ng	
+the doomsday machine star trek	51ng	
+the doomsday machine star trek the original series	51ng	
+the doomsday machine tos episode	51ng	
+the doomsday zone	1bvk	
+the monastery		4th8:4,5xs6:4
+the monastery of sao vicente de fora	pzk	
+the monastery s		4th8:4,5xs6:4
+the monastery s hunter	4th8,5xs6	
+the monastery s hunter 1935 film	5xs6	
+the monastery s hunter 1953 film	4th8	
+theoderich der groe	1sgc	
+theoderich i	573n	
+theoderich ii	5dlq	
+thomas philippon	6cxb	
+thomas schultz	3aeo	
+torgelow	2d9f	
+ttlg	xbz	
+turkvizyon	4tj9	
+turkvizyon song contest	4tj9	
+uchentein	46yi	
+ueno	5cmt	17hj:2,1x8g:4
+ueno imperial		1x8g:4
+ueno imperial grant		1x8g:4
+ueno imperial grant park	1x8g	
+ueno music academy	7gn	
+ueno music school	7gn	
+ueno park	1x8g	
+ueno station	17hj	
+ueno tokyo	5cmt	
+ueno village	5cmt	
+unf	yfl	
+uziel ben	4xo6	
+villasalto	3dat	
+villemonble	rum	
+vinticena	3veq	
+wikomierz	1my6	
+yichang	ofv	
+yichang china	ofv	
+yichang hubei	ofv	
+yichang wanzhou railway	18vw	
+yonah yahav	60w0	
+yvetot	11d5	2crw:2
+yvetot bocage	2crw	
+yvetot france	11d5	
+zielenzig	4xlk	

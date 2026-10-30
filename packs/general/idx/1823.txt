@@ -1,0 +1,786 @@
+73	zl2	
+a church	n57	
+a private		2mhg:3,3bdw:3,4jzh:4,57g4:4
+a private affair	2mhg	
+a private affair 2002 film	2mhg	
+a private function	3bdw	
+a private little		57g4:4
+a private little war	57g4	
+a private little war star trek the original series	57g4	
+a private little war tos episode	57g4	
+a private military company pmc	15hv	
+a private s		4jzh:4
+a private s affair	4jzh	
+acos	6eo4	
+afrobasket	1lg0	2gzm:2
+afrobasket women	2gzm	
+aigaion gigas	6agt	
+albanian	3ti	5mw:3,bmx:2,i8u:2,u0a:3,22dj:2,36bt:2,3e80:3,3ewv:3,45cx:3,537s:2
+albanian air		3e80:3
+albanian air brigade	3e80	
+albanian air force	3e80	
+albanian air forces command	3e80	
+albanian alps	2pt2	
+albanian army	3ewv	
+albanian communist party	ufn	
+albanian communists	1m5q	
+albanian cup	i8u	
+albanian democratic party	dgj	
+albanian first		u0a:3
+albanian first division	u0a	
+albanian football		5mw:3
+albanian football association	5mw	
+albanian football federation	5mw	
+albanian football team	37k	
+albanian grammar	3ti	
+albanian highest football division	bmx	
+albanian kingdom	537s	
+albanian kingdom 1928 1939	537s	
+albanian kingdom 1928 39	537s	
+albanian kingdom 19281939	537s	
+albanian kingdom 192839	537s	
+albanian kingdom 1939 1943	5716	
+albanian kingdom 1939 43	5716	
+albanian kingdom 19391943	5716	
+albanian kingdom 193943	5716	
+albanian labour party	ufn	
+albanian langage	3ti	
+albanian language	3ti	
+albanian languages	3ti	
+albanian muhammad ali	31s0	
+albanian national army	3ewv	
+albanian national football team	37k	
+albanian naval		45cx:3
+albanian naval brigade	45cx	
+albanian naval defense forces	45cx	
+albanian naval force	45cx	
+albanian naval forces	45cx	
+albanian naval forces command	45cx	
+albanian navy	45cx	
+albanian navy brigade	45cx	
+albanian occupied serbia	1he	
+albanian party of labour	ufn	
+albanian people	130	
+albanian phonology	3ti	
+albanian prime minister	32a7	
+albanian principality	4hhg	
+albanian royal		3ewv:3
+albanian royal army	3ewv	
+albanian second division	1te1	
+albanian supercup	22dj	
+albanian superliga	bmx	
+albanian under italy	5716	
+albrandswaard	2gaz	
+alcoyano	9ws	
+alexander godley	47if	
+alfiano	43n8	43n8:2
+alfiano natta	43n8	
+andry shevchenko	1ite	
+andry stoharenko	4vqz	
+ank2	3uf2	
+aurskog		qay:3
+aurskog hland	qay	qay:3
+aurskog hland municipality	qay	
+aurskog holand	qay	
+bartfa	ns1	
+beegees	6af	
+bgc	2vce	
+bilaspur	2ynl	1bnh:2,3eu3:2
+bilaspur chhatisgarh	2ynl	
+bilaspur chhattisgarh	2ynl	
+bilaspur district	1bnh,3eu3	
+bilaspur district chhattisgarh	1bnh	
+bilaspur district himachal pradesh	3eu3	
+bilaspur madhya pradesh	2ynl	
+bilaspur municipal corporation	2ynl	
+botryosphaeriales	1uqb	
+bunraku	3yll	
+bunraku film	3yll	
+castet	436e	
+cenekia	maz	
+charles frank	6blo	
+charles frank actor	6blo	
+charles frank bolden	1wfh	
+charles frank bolden jr	1wfh	
+charles frank byers	4g01	
+charles frank physicist	4kvk	
+cinema2home	1hfx	
+claquato	1mf0	
+claquato washington	1mf0	
+coleridge john duke 1st baron coleridge	21zt	
+coleridge sara	3wam	
+coleridge sir john taylor	23fq	
+condate redonum	2r4	
+condate riedonum	2r4	
+contrevoz	28c6	
+corca	86x,38cn	
+david yosef	5zoh	
+defending		489m:3
+defending your		489m:3
+defending your life	489m	
+deuchland	h	
+dolan		36y2:3
+dolan s		36y2:3
+dolan s cadillac	36y2	
+dolan s cadillac film	36y2	
+dolan xavier	22jy	
+dzhankoy	53tu	
+dzhankoy municipality	53tu	
+eems	qwk	
+ervin	fx1	261t:2,3kkm:2,45di:2,4rol:2,4zj0:2,5fw7:2,5hnl:2,67aw:2
+ervin anthony	4s0f	
+ervin bulku	5hnl	
+ervin carlisle elementary	o1h	
+ervin fakaj	4rol	
+ervin first name	fx1	
+ervin given name	fx1	
+ervin laszlo	5fw7	
+ervin lazar	67aw	
+ervin llani	4zj0	
+ervin nyiregyhazi	45di	
+ervin schulhof	5iz6	
+ervin schulhoff	5iz6	
+ervin sherdinger	pwo	
+ervin skela	261t	
+ervin zukanovic	3kkm	
+farghona	m1b	
+farghona wiloyati	11m0	
+fc brussels	71r	
+fc volochanin	dnx	dnx:5
+fc volochanin 89 vyshny volochyok	dnx	
+fc volochanin ratmir	dnx	dnx:5
+fc volochanin ratmir vyshniy volochyok	dnx	
+fc volochanin ratmir vyshny		dnx:5
+fc volochanin ratmir vyshny volochyok	dnx	
+fc volochanin vyshniy volochok	dnx	
+fc volochanin vyshny volochyok	dnx	
+ferronickel	501d	
+fontaniva	2c13	
+fossieux	1vjs	
+freesoiler kansas	4l04	
+frigate	1m3,2it	
+frigate chesapeake	3vgv	
+frigate ship	1m3	
+gaia	d7b,3vwz	
+gaia album	d7b	
+gaia armin van buuren	n74	
+gaia clube de ciclismo	42rx	
+gaia god	d7b	
+gaia goddess	d7b	
+gaia myth	d7b	
+gaia mythology	d7b	
+gaia spirit	d7b	
+gaia spirit of the earth	d7b	
+gaia terra final fantasy ix	4gee	
+gerstner sloan kettering graduate school of biomedical science	l6u	
+gerstner thomas	5df0	
+gipcy	1wbw	
+glennie heights queensland	v6p	
+gmina przeworno	10g5	
+gulou		4xz9:3,5sln:4
+gulou dajie	4xz9	4xz9:3
+gulou dajie station	4xz9	
+gulou drum		5sln:4
+gulou drum tower		5sln:4
+gulou drum tower station	5sln	
+gulou station ningbo	5sln	
+gulou station ningbo rail transit	5sln	
+harmanesti river	2nc6	
+hauterives	22nl	
+hauterives lozere	1d9u	
+heming	2hwu	
+homoesoma	ken	
+honnef	tku	
+inflamation	ebq	
+john janvier		613z:3
+john janvier black	613z	
+juvigny	1xpe,2ne1	19up:4,1q0e:3,255c:3,2kga:3,2qxv:3,4045:3,46jf:3
+juvigny aisne	1xpe	
+juvigny en		2kga:3
+juvigny en perthois	2kga	
+juvigny le		1q0e:3
+juvigny le tertre	1q0e	
+juvigny les		46jf:3
+juvigny les vallees	46jf	
+juvigny marne	2ne1	
+juvigny sur		255c:3,2qxv:3,4045:3
+juvigny sur loison	255c	
+juvigny sur orne	4045	
+juvigny sur seulles	2qxv	
+juvigny val		19up:4
+juvigny val d		19up:4
+juvigny val d andaine	19up	
+katycats	bi8	
+khoris	6bkx	
+kumase	5ax	
+kurdic	aij	
+kweon		44na:3
+kweon kab		44na:3
+kweon kab yong	44na	
+kweon kabyong	44na	
+kweon kap yong	44na	
+la houssiere	2190	
+laibach	125v	
+laibach band	125v	
+laibach slovenian band	125v	
+laniarius	38h4	
+latimer		2yca:3
+latimer a		2yca:3
+latimer a mccook	2yca	
+latimer jonathan	1bzz	
+latimer mccook	2yca	
+libungif	1rlp	
+limey	2gt3	1kcg:2,2gt3:2
+limey remenauville	1kcg	
+locronan	30dv	
+longas	32d8	
+longas spain	32d8	
+longas zaragoza	32d8	
+louis	d9,kkw,3fw6	6wu:3,7by:3,e8h:2,em0:2,euj:4,fbr:3,fi4:2,haf:2,hpv:2,hsx:2,ip0:4,itv:3,iz6:2,j6h:4,knt:3,kum:2,mk9:2,nkc:4,nng:3,nz5:3,o7s:4,oaq:3,os5:2,q0h:3,qe4:2,qg8:4,u2f:4,u6h:3,ujf:4,ujq:7,um7:5,vmz:3,vv3:2,w18:5,wbr:4,wjk:4,wra:5,y3e:3,y4m:3,y7o:3,ywk:2,zct:2,zdf:4,zl9:3,12h3:3,131e:4,13m3:2,14wx:4,1528:4,15np:5
+lytvyn volodymyr mykhaylovych	5umn	
+maerta of denmark	4bw0	
+maerta of sweden	1ibh	
+maerta toren	2os0	
+mantoo	4z78	
+margrit emily hyra	os2	
+margrit emily mary hyra	os2	
+margrit mary emily hyra	os2	
+margrit mary hyra	os2	
+margrit mead	1ahr	
+maushmi chatterjee	qt4	
+microdolomites	15fr	
+mignon		5wyc:2
+mignon anderson	5wyc	
+moksobo	4q54	
+mombaldone	5lkq	
+mompelgard	9f9	
+nameless	5iai	
+nameless film	5iai	
+nameless ghoul	3vce	
+nameless ghouls	3vce	
+new guangzhou railway station	23lz	
+new guangzhou station	23lz	
+nizhny	33e	33e:2,8n7:3,emc:2,4et1:3
+nizhny novgorod	33e	8n7:3,4et1:3
+nizhny novgorod coat of arms	33e	
+nizhny novgorod governorate	4et1	
+nizhny novgorod oblast	8n7	
+nizhny novgorod region	8n7	
+nizhny novgorod torpedo	5t3	
+nizhny novgorod torpedoes	5t3	
+nizhny novgorod urban okrug	33e	
+nizhny novogrod	33e	
+nizhny tagil	emc	
+nizhny tagil factory no 183	26my	
+nizhny tagil russia	emc	
+nizhny tagil state socio educational akademy	emc	
+nizhny tagil urban okrug	emc	
+orde rakic	3ypd	
+orde van de nederlandse leeuw	2q3v	
+orde van oranje nassau	42ai	
+papiamentu	3wrt	
+papiamentu language	3wrt	
+paslay	5g6r	
+paul craig hunt	6az3	
+paymaster		2dxb:2
+paymaster 1836 ltd	2dxb	
+paymaster captain	1x04	
+paymaster general	2dxb	
+paymaster general s department	2dxb	
+paymaster lieutenant commander	15go	
+paymaster rear admiral	3lx1	
+perkins		11fx:2
+perkins anthony	e7r	
+perkins charlotte	1lyt	
+perkins county	11fx	
+perkins county sd	11fx	
+perkins county south dakota	11fx	
+perkins v linkedin	2oqy	
+perkins v linkedin corporation	2oqy	
+peter mcgill	aqq	
+rembetiko	1r78	
+ricardo	2rgh,4aec,60ie	g6f:2,i9n:2,kps:2,li5:2,r6p:2,198g:2,1bax:2,1cd4:2,1dab:2,1igd:3,1kkz:2,1rpo:2,1ur3:2,1v61:2,264i:3,26e3:2,298r:2,2ptw:2,2uuq:2,2x0l:3,31om:2,32lk:2,33p5:2,33v9:2,33vc:2,39jm:2,3cgp:2,3e1t:2,3h6r:2,3ic7:2,3iyd:3,3jpo:2,3k5s:3,3kej:2,3ntj:2,3p8m:3,3w4i:2,3wfm:2,3x0n:2,411e:2,43bj:2,43t0:2,43te:3,43vs:4,43yf:2,44ce:2,45i4:3,47ea:2,4a3e:3,4ain:2
+ricardo adrian		619p:3
+ricardo adrian silva	oed,619p	
+ricardo alberto		4vt5:3
+ricardo alberto frione	4vt5	
+ricardo alberto gareca nardi	4ht2	
+ricardo alberto silveira de carvalho	1kkz	
+ricardo alberto trigueno	5s8h	
+ricardo albis	5kym	
+ricardo albisbeascoechea		5kym:3
+ricardo albisbeascoechea pertica	5kym	
+ricardo alegria	61fu	
+ricardo alegria gallardo	61fu	
+ricardo alemao	3i80	
+ricardo alexandre campos costa	5ftn	
+ricardo alexandre martins soares pereira	2rgh	
+ricardo alexis laborde leon	54rx	
+ricardo alonso	3ic7	
+ricardo andrade quaresma bernardo	26e3	
+ricardo andre de pinho sousa	33v9	
+ricardo andre pinho de sousa	33v9	
+ricardo andres		3iyd:3
+ricardo andres aparicio	3iyd	
+ricardo andreu	1ris	
+ricardo anthony clark	3w4i	
+ricardo antonio lavolpe	5h1k	
+ricardo antonio rossello nevares	4kl6	
+ricardo aparecido		5jdi:3
+ricardo aparecido tavares	5jdi	
+ricardo arjona	li5	
+ricardo arjona morales	li5	
+ricardo aronovich	198g	
+ricardo arriola	3k9u	
+ricardo baiano	45i4	
+ricardo baleia janota	5gki	
+ricardo bango	5ksp	
+ricardo batista	4jbt	
+ricardo bauleo	1bax	
+ricardo berna	5a4s	
+ricardo bitancort	5zi3	
+ricardo boffil	1ur3	
+ricardo bofill	1ur3	
+ricardo bofill levi	1ur3	
+ricardo bovio	3kej	
+ricardo brito alemao	3i80	
+ricardo bueno	57sq	
+ricardo cadena	4hvt	
+ricardo caruso		521m:3
+ricardo caruso lombardi	521m	
+ricardo carvalho	1kkz	
+ricardo castro		1igd:3
+ricardo castro rios	1igd	
+ricardo catchana	5xbx	
+ricardo cesar andreu	1ris	
+ricardo ciciliano	3cgp	
+ricardo clark	3w4i	
+ricardo cocciante	45hk	
+ricardo conord	kps	
+ricardo cortez	g6f	
+ricardo cortez comments	g6f	
+ricardo costa	1cd4,5ftn	
+ricardo costa portuguese footballer	1cd4	
+ricardo costa portuguese footballer born 1973	5ftn	
+ricardo da costa oliveira	3vhl	
+ricardo da rocha	4q6e	
+ricardo daniel bertoni	35tp	
+ricardo darin	r6p	
+ricardo david	3wl6	
+ricardo david paez	1rpo	
+ricardo de		4rmv:4
+ricardo de la		4rmv:4
+ricardo de la cierva	4rmv	
+ricardo de la cierva y hoces	4rmv	
+ricardo de sousa esgaio	4j65	
+ricardo dias	5kgj	
+ricardo diaz	4bcw	
+ricardo domingos barbosa pereira	4mso	
+ricardo dong puno jr	5bgt	
+ricardo dos santos felipe esteves	32lk	
+ricardo douglas packer	3xlf	
+ricardo duran	3ura	
+ricardo dwayne fuller	39jm	
+ricardo e alegria	61fu	
+ricardo e alegria gallardo	61fu	
+ricardo e brown	ut0	
+ricardo eliecer naftali reyes	1ht7	
+ricardo eliecer neftali reyes basoalto	1ht7	
+ricardo eliecer neftali reyes y basoalto	1ht7	
+ricardo eliezer neftali reyes basoalto	1ht7	
+ricardo emidio		43vs:4
+ricardo emidio ramalho		43vs:4
+ricardo emidio ramalho da silva	43vs	
+ricardo emidio ramalho silva	43vs	
+ricardo emido ramalho silva	43vs	
+ricardo emmanuel brown	ut0	
+ricardo esgaio	4j65	
+ricardo esteves	32lk	
+ricardo esteves dos santos	32lk	
+ricardo fargas		4z3x:3
+ricardo fargas roger	4z3x	
+ricardo faty	31om	
+ricardo felipe dos santos esteves	32lk	
+ricardo felipe santos esteves	32lk	
+ricardo fernandes footballer born april 1978	2x0l	
+ricardo fernandes silva	6de9	
+ricardo ferreira	4jb6	
+ricardo ferreira berna	5a4s	
+ricardo ferreira portuguese footballer	4jb6	
+ricardo ferretti	4inb	
+ricardo ferretti de oliveira	4inb	
+ricardo ferri	5ohn	
+ricardo filipe		68bi:4
+ricardo filipe rodrigues		68bi:4
+ricardo filipe rodrigues matos	68bi	
+ricardo footballer born 1971	4aec	
+ricardo footballer born 1976	2rgh	
+ricardo francisco		4a3e:3
+ricardo francisco rojas	4a3e	
+ricardo frione	4vt5	
+ricardo froilan lagos escobar	298r	
+ricardo fuller	39jm	
+ricardo gabbiadini	5l6b	
+ricardo gabriel alvarez	4rh9	
+ricardo gallego	3ntj	
+ricardo gallego redondo	3ntj	
+ricardo gareca	4ht2	
+ricardo gomes xavier	5vwi	
+ricardo gonzalez		4igr:3,4r28:3
+ricardo gonzalez bango	5ksp	
+ricardo gonzalez fonseca	4igr	
+ricardo gonzalez footballer	4igr,4r28	
+ricardo gonzalez reinoso	4r28	
+ricardo guillen	4ain	
+ricardo higa	590c	
+ricardo improta	3dp3	
+ricardo iribarren	6d7s	
+ricardo ismael rojas	4zbm	
+ricardo izecson dos santos leite	1g4z	
+ricardo j		5bl3:3
+ricardo j caballero	5bl3	
+ricardo j conord	kps	
+ricardo janota	5gki	
+ricardo jerez		4zdn:3
+ricardo jerez jr	4zdn	
+ricardo jesus	44ce	
+ricardo jesus da silva	44ce	
+ricardo jimenez		6607:3
+ricardo jimenez oreamuno	6607	
+ricardo jorge		6de9:5
+ricardo jorge caballero	5bl3	
+ricardo jorge da silva pinto pereira	40ac	
+ricardo jorge dos santos dias	5kgj	
+ricardo jorge fernandes		6de9:5
+ricardo jorge fernandes da		6de9:5
+ricardo jorge fernandes da silva	6de9	
+ricardo jorge fernandes silva	6de9	
+ricardo jorge guerreiro felisberto	5xbx	
+ricardo jorge oliveira ribeiro duarte	4jz0	
+ricardo jose araujo ferreira	4jb6	
+ricardo jose villar rodriguez	5npn	
+ricardo julian martinez pavon	4pzt	
+ricardo kaka	1g4z	
+ricardo kaschensky vilar	6bst	
+ricardo klement	31k3	
+ricardo la		5h1k:3
+ricardo la volpe	5h1k	
+ricardo laborde	54rx	
+ricardo lago santos baiano	45i4	
+ricardo lagos	298r	
+ricardo lagos escobar	298r	
+ricardo lavie	531y	
+ricardo lavolpe	5h1k	
+ricardo lee	1ujn	
+ricardo lobo	43bj	
+ricardo lopes		5k9n:4
+ricardo lopes de		5k9n:4
+ricardo lopes de oliveira	5k9n	
+ricardo lopes oliveira	5k9n	
+ricardo lopez felipe	4aec	
+ricardo lopez nuno diez	1v61	
+ricardo lucas	26ct	
+ricardo lucas figueredo monte raso	26ct	
+ricardo luigi pierre mbenga chang nehru o hara casaba iii	5ymp	
+ricardo luiz pozzi rodrigues	29kt	
+ricardo lumengo	5yze	
+ricardo lunari	2uuq	
+ricardo manuel andrade e silva sa pinto	5ibt	
+ricardo manuel ciciliano bustillo	3cgp	
+ricardo manuel silva sa pinto	5ibt	
+ricardo marsh	4msb	
+ricardo martinez	4pzt	
+ricardo matias		4wkq:3
+ricardo matias veron	4wkq	
+ricardo mena		6auz:3
+ricardo mena laguan	6auz	
+ricardo metzetti	3ly8	
+ricardo michel		63pa:3
+ricardo michel vazquez	63pa	
+ricardo miguel moreira da costa	1cd4	
+ricardo mion		521g:4
+ricardo mion varela costa	521g	
+ricardo mion varella		521g:4
+ricardo mion varella costa	521g	
+ricardo montalban	i9n	
+ricardo montolban	i9n	
+ricardo moran	4n0d	
+ricardo moran actor	4n0d	
+ricardo munguia		3k5s:3
+ricardo munguia footballer	3k5s	
+ricardo munguia perez	3k5s	
+ricardo muti	3w76	
+ricardo nascimento	3h6r,4xpo	
+ricardo nascimento brazilian footballer	4xpo	
+ricardo nunes	3x0n	
+ricardo nunez	4rfy	
+ricardo nuno		5rx1:5
+ricardo nuno oliveira		5rx1:5
+ricardo nuno oliveira da		5rx1:5
+ricardo nuno oliveira da rocha	5rx1	
+ricardo oliveira	43t0	
+ricardo osorio	3e1t	
+ricardo osorio mendoza	3e1t	
+ricardo p cruz sr elementary school	o8u	
+ricardo paez	1rpo	
+ricardo palacios	1v61	
+ricardo palma	5ii2	
+ricardo parada	62u8	
+ricardo passano	1dab	
+ricardo patrese	14td	
+ricardo pedriel	5c79	
+ricardo pedriel suarez	5c79	
+ricardo pereira	2rgh,4mso	
+ricardo pereira footballer	4mso	
+ricardo pereira footballer born 1993	4mso	
+ricardo pereira portuguese football goalkeeper	2rgh	
+ricardo perez	4i58	
+ricardo phillips	51g5	
+ricardo piglia	43yf	
+ricardo pinto	5f7c	
+ricardo pinto footballer	5f7c	
+ricardo portuguese football goalkeeper	2rgh	
+ricardo puno jr	5bgt	
+ricardo quaresma	26e3	
+ricardo ramos	67mv	
+ricardo ramos footballer	67mv	
+ricardo reis	3aeg	
+ricardo reis poet	3aeg	
+ricardo ribeiro		2x0l:3
+ricardo ribeiro fernandes	2x0l	
+ricardo roberto barreto da rocha	33p5	
+ricardo rocha	33p5,4q6e	
+ricardo rocha brazilian footballer born 1962	33p5	
+ricardo rocha footballer born 1962	33p5	
+ricardo rocha footballer born 1978	4q6e	
+ricardo rocha footballer born 1982	5rx1	
+ricardo rocha portuguese footballer	4q6e	
+ricardo rocha portuguese footballer born 1978	4q6e	
+ricardo rocha portuguese footballer born 1982	5rx1	
+ricardo rodriguez	2ptw	
+ricardo rodriguez autodrome	1ma0	
+ricardo rodriguez footballer	2ptw	
+ricardo rogerio de brito	3i80	
+ricardo rogerio de brito alemao	3i80	
+ricardo rojas	4zbm	
+ricardo ronceros	411e	
+ricardo rosello	4kl6	
+ricardo rossello	4kl6	
+ricardo sa		5ibt:3
+ricardo sa pinto	5ibt	
+ricardo sanchez	4rlo	
+ricardo sanchez footballer	4rlo	
+ricardo sanchez soccer	4rlo	
+ricardo santos		45i4:3
+ricardo santos lago	45i4	
+ricardo saprissa	4s8k	
+ricardo sergio rocha azevedo	4q6e	
+ricardo serna	33vc	
+ricardo soares		43te:3
+ricardo soares florencio	43te	
+ricardo sousa	33v9	
+ricardo sousa esgaio	4j65	
+ricardo souza		264i:3
+ricardo souza bovio	3kej	
+ricardo souza silva	264i	
+ricardo sraffa model	3wl6	
+ricardo strauss	k5d	
+ricardo trepa	4q3c	
+ricardo trigueno	5s8h	5s8h:3
+ricardo trigueno foster	5s8h	
+ricardo trogi	6dzo	
+ricardo valter		6bfv:4
+ricardo valter da		6bfv:4
+ricardo valter da costa	6bfv	
+ricardo vaz		3p8m:3
+ricardo vaz te	3p8m	
+ricardo velazquez	619c	619c:3
+ricardo velazquez bosco	619c	
+ricardo veron	4wkq	
+ricardo vila	67mv	
+ricardo vilar	6bst	
+ricardo villa	47ea	
+ricardo villalobos	4wvu	
+ricardo villalobos discography	4wvu	
+ricardo villar	3wfm,5npn	
+ricardo villar argentine footballer	5npn	
+ricardo villar brazilian footballer	3wfm	
+ricardo villar brazillian footballer	3wfm	
+ricardo vines	5pa6	
+ricardo walter da costa	6bfv	
+ricardo weslei		6crd:4
+ricardo weslei campelo	6crd	
+ricardo weslei de		6crd:4
+ricardo weslei de campelo	6crd	
+ricardo xavier	5vwi	
+ricardo zamora	3jpo	6hmw:3
+ricardo zamora martanez	3jpo	
+ricardo zamora martinez	3jpo	
+ricardo zamora trophy	6hmw	
+ricardo zielinski	50ms	
+ricsinsat	1o2z	
+robert evan brown	58no	
+robert evan brown jr	58no	
+robert shapiro lawyer	69iz	
+rula		6772:2
+rula jebreal	6772	
+rula jibreal	6772	
+saada		ugc:2
+saada governorate	ugc	
+sarule	576b	
+seltjarnarneskaupstaur	5dsp	
+semyonov tyan shansky	3n79	
+shishov	5i5c	
+signa	1ba5	
+signa italy	1ba5	
+sir arthur		3bk8:6,55x0:5
+sir arthur arnold	5iuc	
+sir arthur bliss	2ucj	
+sir arthur blomfield	ysr	
+sir arthur bomber harris	55x0	
+sir arthur c clarke	741	
+sir arthur conan doyle	5bt	
+sir arthur conan doyle s the lost world	59h1	
+sir arthur conan doyle the lost world	59h1	
+sir arthur coningham	4yr8	
+sir arthur currie	21d7	
+sir arthur david waley	35r3	
+sir arthur dyke		3bk8:6
+sir arthur dyke acland		3bk8:6
+sir arthur dyke acland 13th		3bk8:6
+sir arthur dyke acland 13th baronet	3bk8	
+sir arthur eddington	zru	
+sir arthur edward drummond bliss	2ucj	
+sir arthur edward kennedy	5bcx	
+sir arthur evans	1he4	
+sir arthur harden	4x6b	
+sir arthur harris	55x0	55x0:5
+sir arthur harris 1st		55x0:5
+sir arthur harris 1st baronet	55x0	
+sir arthur herbert dyke acland 13th baronet	3bk8	
+sir arthur john evans	1he4	
+sir arthur john gielgud	bvi	
+sir arthur kennedy	5bcx	
+sir arthur lee	5g6q	
+sir arthur lewis	5fl3	
+sir arthur nicholas winston soames pc	1q4e	
+sir arthur paget	54wt	
+sir arthur pinero	2p7n	
+sir arthur porritt	2pgu	
+sir arthur quiller couch	5xnf	
+sir arthur s sullivan	ri6	
+sir arthur schuster	1zmr	
+sir arthur seymour sullivan	ri6	
+sir arthur seymour sullivan mvo	ri6	
+sir arthur smith woodward	3089	
+sir arthur stanley eddington	zru	
+sir arthur stanley eddington om frs	zru	
+sir arthur sullivan	ri6	
+sir arthur t harris	55x0	
+sir arthur t quiller couch	5xnf	
+sir arthur tedder	216o	
+sir arthur thomas quiller couch	5xnf	
+sir arthur travers harris	55x0	
+sir arthur waley	35r3	
+sir arthur wellesley	fkw	
+sir arthur william blomfield	ysr	
+sir arthur william currie	21d7	
+sir arthur william tedder 1st baron	216o	
+sir arthur williams tedder 1st baron	216o	
+sir arthur wing pinero	2p7n	
+spira4u	1su0	
+sruz	eyp	
+stapeliae	1ows	
+subdivisions of bakhchysarai raion	13j7	
+subdivisions of belize	1qd	
+subdivisions of bhutan	1cz	
+subdivisions of canada	b89	
+subdivisions of cuba	9y	
+subdivisions of dnipropetrovsk	2sw	
+subdivisions of ecuador	h5	
+subdivisions of france	6dln	
+subdivisions of french guiana	aev	
+subdivisions of guadeloupe	589	
+subdivisions of guatemala	qr	
+subdivisions of honduras	sv	
+subdivisions of hong kong	44jo	
+subdivisions of jamaica	5rb3	
+subdivisions of kazakhstan	5dt8	
+subdivisions of kiev	1ds9	
+subdivisions of kuwait	1cv	
+subdivisions of kyiv	1ds9	
+subdivisions of lebanon	gr	
+subdivisions of liberia	1i9	
+subdivisions of malta	hnv	
+subdivisions of martinique	4r1	
+subdivisions of mayotte	8nl	
+subdivisions of monaco	2cg	
+subdivisions of new zealand	1r	
+subdivisions of nicaragua	185	
+subdivisions of palau	5d12	
+subdivisions of panama	nq	
+subdivisions of paraguay	4y5e	
+subdivisions of puerto rico	fjt	
+subdivisions of reunion	5ms	
+subdivisions of russia	pi	
+subdivisions of saint helena ascension and tristan da cunha	1kvo	
+subdivisions of saint lucia	6eif	
+subdivisions of saint pierre and miquelon	10od	
+subdivisions of seychelles	2bzz	
+subdivisions of south sudan	2l1a	
+subdivisions of the bahamas	1ma1	
+subdivisions of the cook islands	5nb	
+subdivisions of the czech republic	2y	
+subdivisions of the dominican republic	nw	
+subdivisions of the netherlands	4pgr	
+subdivisions of the netherlands antilles	6f6f	
+subdivisions of the palestinian territories	5n5i	
+subdivisions of the people s republic of china	upy	
+subdivisions of the principality of montenegro	2bqy	
+subdivisions of the sahrawi arab democratic republic	d39	
+subdivisions of the state of palestine	5n5i	
+subdivisions of the uk	4qsi	
+subdivisions of the united kingdom	4qsi	
+subdivisions of the united states	rbf	
+subdivisions of the united states minor outlying islands	1cxh	
+subdivisions of tokelau	p8c	
+subdivisions of ukraine	6epf	
+subdivisions of uruguay	4av7	
+subdivisions of western sahara	d39	
+sulabha		41sm:2
+sulabha deshpande	41sm	
+sulpitius severus	5pru	
+taganskokrasnopresnenskaya line	1iv8	
+taxxon	2	
+the selenge river	2vx1	
+toraqorgon		582p:2
+toraqorgon district	582p	
+torghabeh	16qn	
+turtle		4jvl:2
+turtle ant	8so	
+turtle diary	4jvl	
+turtle dove	56od	
+turtle doves	56od	
+turtle penis	3q8j	
+turtle reproduction	5naw	
+turtle s tale sammy s adventures	3q3x	
+turtle titan	gt3	
+turtle tunes	5awa	
+turtle van	ri9	
+ufoes	tjv	
+velbuzd	qao	
+volveras gloria estefan song	6att	
+vuegar nadirov	5a3w	
+waldaha	z9e	
+william fitchford	5tzs	
+william riker	52n4	
+worldviews	3mzk	
+xylocossus	6f22	
+xylopia	2e4a	
+xylopia frutescens	2e4a	
+ytterbic	1cx3	
+zachodniopomorskie	ka6	
+zachodniopomorskie voivodeship	ka6	
+zh classical	bd4	
+zh fleet	4em0	
+zh prever	1b5j	

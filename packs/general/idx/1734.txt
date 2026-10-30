@@ -1,0 +1,470 @@
+3d0	oj9	
+abano		tph:2
+abano bagni	tph	
+abano terme	tph	
+abano terme italy	tph	
+amphelictus	2uy2	
+anisoctena	khl	
+antivirus		4ll0:2
+antivirus scanner	4ll0	
+antivirus software	4ll0	
+argesul pitesti	9zw	
+arteriae	3do	
+arth	1lcc	
+arth schwyz	1lcc	
+arth switzerland	1lcc	
+arth sz	1lcc	
+auzat	1yp4	2rtt:3
+auzat la		2rtt:3
+auzat la combelle	2rtt	
+auzat sur allier	2rtt	
+avante garde	161z	
+balverines	59mg	
+balverines fable	f6a	
+bambaata	2rxy	
+baramulla		21ht:2
+baramulla district	21ht	
+baranovitch	gqr	
+barmer		1pe8:2
+barmer district	1pe8	
+barmer district comments	1pe8	
+benas	2ive	
+bezins		3nui:2
+bezins garraux	3nui	
+blavette actor	155z	
+blavette charles	155z	
+bombardment	22v1	
+bombardment of copenhagen	5r6h	
+brodec	3mne	
+brodec louny district	3mne	
+cejkovice	2m8g,41cz	
+cejkovice ceske budejovice district	41cz	
+cejkovice hodonin district	2m8g	
+centre	p4,1wn,ym0,5bt2	3xn:2,5ci:2,5g7:2,5qo:6,7i0:2,7l0:2,85v:2,a1o:2,ax4:2,ous:4,1f80:3,1nx9:3,1wgg:2,57f9:3
+centre back	12	
+centre back association football	12	
+centre basketball	f1	
+centre canadian football	1wn	
+centre catholic party of germany	a1o	
+centre chiefs	22cf	
+centre college	85v	
+centre college comments	85v	
+centre college of kentucky	85v	
+centre colonels	85v	
+centre colonels men s basketball	85v	
+centre colonels track and field	85v	
+centre county	ax4	
+centre county pa	ax4	
+centre county pennsylvania	ax4	
+centre d		5qo:6
+centre d esports		5qo:6
+centre d esports sabadell		5qo:6
+centre d esports sabadell futbol		5qo:6
+centre d esports sabadell futbol club	5qo	
+centre d esports sabadell futbol club s a d	5qo	
+centre d essais ferroviaires	666i	
+centre de recherche en astronomie astrophysique et geophysique	tbf	
+centre delaware	2fj	
+centre democrate humaniste	149e	
+centre department	5bt2	
+centre des hautes etudes militaires	43o	
+centre du		1f80:3
+centre du quebec	1f80	
+centre est	46br	
+centre est region	46br	
+centre est region burkina faso	46br	
+centre europeen pour la recherche nucleaire	hlj	
+centre field	2g5f	
+centre fielder	2g5f	
+centre for behavioral science	3qqq	
+centre for converging technologies	nf6	
+centre for ecological economics and water policy research	ha7	
+centre for environment and vocational studies chandigarh	ht9	
+centre for forensic and legal medicine	ojl	
+centre for iranian studies at the university of durham	1ct	
+centre for medieval studies	3rcf	
+centre for public integrity	mcu	
+centre for reformation and early modern studies university of birmingham	1fx	
+centre for research on socio cultural change	4vy	
+centre for scottish and celtic studies	zy	
+centre for sports surface technology	o9v	
+centre for the history of childhood	1aj	
+centre for values ethics and the law in medicine	unw	
+centre for vocational studies	ht9	
+centre forward	18	
+centre france	ous	
+centre gallery	5ss	
+centre georges		1nx9:3
+centre georges pompidou	1nx9	
+centre gridiron football	1wn	
+centre haiti	5bt2	
+centre half	12	
+centre hockey	p4	
+centre ice hockey	p4	
+centre left	5g7	
+centre left politics	5g7	
+centre leftists	5g7	
+centre line party	1ltr	
+centre mid	u	
+centre national d art contemporain georges pompidou	1nx9	
+centre national d art et de culture georges	1nx9	
+centre national d art et de culture georges pompidou	1nx9	
+centre national d etudes judiciaires	65lj	
+centre national d etudes spatiales	34se	
+centre national d etudes spatiales cnes	34se	
+centre national de la cinematographie	50g3	
+centre national de la recherche scientifique	bt7	
+centre national de recherche scientifique	bt7	
+centre national detudes spatiales	34se	
+centre national du cinema	50g3	
+centre national du cinema et de l image animee	50g3	
+centre nord	3fcy	
+centre nord region	3fcy	
+centre nord region burkina faso	3fcy	
+centre of automotive research	axe	
+centre of london	2nvx	
+centre of new zealand	66x	
+centre of studies in resources engineering iit bombay	bow	
+centre ouest	2moq	
+centre ouest region	2moq	
+centre ouest region burkina faso	2moq	
+centre party	3xn,7i0,7l0,a1o	
+centre party estonia	2fak	
+centre party germany	a1o	
+centre party liberal people s party	7l0	
+centre party norway	3xn	
+centre party of estonia	2fak	
+centre party of finland	7l0	
+centre party of norway	3xn	
+centre party of sweden	7i0	
+centre party sweden	7i0	
+centre party the	a1o	
+centre politics	3o6	
+centre pompidou	1nx9	
+centre pour la france	sp2	
+centre praying colonels	85v	
+centre province	ym0	
+centre province cameroon	ym0	
+centre region	ous,ym0	
+centre region cameroon	ym0	
+centre region france	ous	
+centre region of france	ous	
+centre research	3ffu	
+centre right	5ci	
+centre right politics	5ci	
+centre salif		57f9:3
+centre salif keita	57f9	
+centre sud region	4l3j	
+centre sud region burkina faso	4l3j	
+centre technique national fernand sastre	18co	
+centre to centre right	5ci	
+centre union	1wgg	
+centre val		ous:4
+centre val de		ous:4
+centre val de loire	ous	
+cerevisaphilia	5kzl	
+chazaustin9	4uuq	
+chiprovtsi	2p8h	
+chiprovtsi municipality	2p8h	
+chiprovtsi obshtina	2p8h	
+cojoined twin	2ypb	
+cojoined twins	2ypb	
+consular agent	1k7q	
+consular official	1k7q	
+consular prefect	4co	
+consular tribune	4q8l	
+consular tribunes	4q8l	
+contraltos	2jw	
+corpo della ragassa	4d17	
+cosmetic intolerance syndrome	6f1f	
+cpd	1wlu	
+cpd junior	539	
+dahntay	3fvz	3fvz:2
+dahntay jones	3fvz	
+dahntay lavall jones	3fvz	
+daughters		k65:5,3zfa:3,45ix:3,4yzy:2
+daughters courageous	4yzy	
+daughters of		k65:5,3zfa:3,45ix:3
+daughters of danaus	45ix	
+daughters of danaus novel	45ix	
+daughters of darkness	3zfa	
+daughters of destiny	1qbi	
+daughters of helena	60au	60au:4
+daughters of the		k65:5
+daughters of the american		k65:5
+daughters of the american revolution	k65	
+daughters of the american revolution dar	k65	
+daughters of the american revolution national society of the	k65	
+daughters of the revolution	k65	
+david garnett	46wo	
+david jensen	59ay	
+david jensen footballer	59ay	
+david jensen footballer born 1992	59ay	
+deadwood	flf,xk3	
+deadwood city	xk3	
+deadwood sd	xk3	
+deadwood season 1	flf	
+deadwood season 2	flf	
+deadwood series	flf	
+deadwood south dakota	xk3	
+deadwood south dakota comments	xk3	
+deadwood television	flf	
+deadwood television series	flf	
+deadwood tv	flf	
+deadwood tv series	flf	
+deis		5774:4
+deis breath		5774:4
+deis breath of		5774:4
+deis breath of fire	5774	
+deis breath of fire character	5774	
+doublespeak		2shx:2
+doublespeak award	2shx	
+eastward	4e1t	
+encipherments	69fm	
+esperia	24k7	
+estarabad		42au:3
+estarabad rural		42au:3
+estarabad rural district	42au	
+falkand islands	5ye	
+fc sokol		3xp:3
+fc sokol d saratov	3xp	
+fc sokol lukhovitsy	dmg	
+fc sokol pzhd saratov	3xp	
+fc sokol saratov	3xp	
+fromista	2bd9	
+fromista palencia	2bd9	
+fromista spain	2bd9	
+fruits	o33	3ixz:3
+fruits of		3ixz:3
+fruits of passion	3ixz	
+galvanized pipe	6a3n	
+gmina sulecin	whe	
+gmund	2f10	v09:2,5on4:3
+gmund am		5on4:3
+gmund am tegernsee	5on4	
+gmund district	v09	
+gmund lower austria	2f10	
+gmund niederosterreich	2f10	
+gonitis	1z6z	
+guadalaxara	8bt	
+hallgrimur		4yik:2
+hallgrimur jonasson	4yik	
+hanninen	5uzx	
+hattushash	5sjh	
+homage		3kv5:3
+homage for satan	22dp	
+homage to		3kv5:3
+homage to cezanne	3kv5	
+homage to the square	4nq5	
+huila	ufe	rks:2,ufe:2
+huila angola	ufe	
+huila angolan province	ufe	
+huila colombia	rks	
+huila department	rks	
+huila department comments	rks	
+huila province	ufe	
+ilybius	2rt6	
+inquira	5ww	
+james human name	2v	
+jean laurent	55fc	
+jean laurent bernin	d1l	
+jean laurent footballer	55fc	
+jenesien	58n1	
+jenesien san genesio	58n1	
+jenesien san genesio atesino	58n1	
+john deacon	1f71	
+john wolff international and comparative law library	2h1	
+juanm aka jm sandbox stub template sash	1naq	
+juanm sandbox stub template sash	1naq	
+kecskmet	9r6	
+kestenholz	3hge	
+kestenholz so	3hge	
+kestenholz solothurn	3hge	
+kestenholz switzerland	3hge	
+kiha software	v0y	
+kozintsev	wi7	
+kozlevich	5r3f	
+kuami		3qq4:2
+kuami agboh	3qq4	
+kukmin university	4m2y	
+kukmin unversity	4m2y	
+la nucia	4n79	
+la roda	15fz	1cj5:3,3ap3:4
+la roda albacete	15fz	
+la roda cf	1cj5	
+la roda de		3ap3:4
+la roda de andalucia	3ap3	
+la roda de andalucia sevilla	3ap3	
+la roda de andalucia seville	3ap3	
+la roda de andalucia spain	3ap3	
+levie	111v	
+libochovice	2dwu	
+livernon	245c	
+louis viardot	478a	
+lubchenco	4n0v	
+lucenilde		4kdn:4
+lucenilde pereira		4kdn:4
+lucenilde pereira da		4kdn:4
+lucenilde pereira da silva	4kdn	
+manorhouse	1xz	
+marcilla	3dfj	
+marcilla castle	3dfj	
+marlan		3yaa:2
+marlan o scully	3yaa	
+marlan scully	3yaa	
+masoorie	1x7j	
+mayans	6hl0	
+mehrajuddin		5msu:2
+mehrajuddin wadoo	5msu	
+mezzofanti	12bj	
+mezzofanti giuseppe	12bj	
+michael dugdale	2wof	
+michael stanislaw	50xr	
+milanchiasso railway	2qj2	
+milanchiasso railway line	2qj2	
+mixtapes	u9k	
+muhlenberg		ww9:2
+muhlenberg county	ww9	
+muhlenberg county kentucky	ww9	
+muhlenberg county ky	ww9	
+muhlenberg county schools	ww9	
+muhlenberg new jersey	76d	
+muhlenberg nj	76d	
+myggen	38ct	
+nicknaming	6a8	
+niilo	5q1a	
+niilo first name	5q1a	
+niilo given name	5q1a	
+nikodimos		5y5l:2
+nikodimos papavasiliou	5y5l	
+ningpo	9f1	
+nursi	4wp7	
+oceans	4fjc,4nwc	
+oceans 11	m2q,ws8	
+oceans 12	ihg	
+oceans 13	sw9	
+oceans 2009 film	4nwc	
+oceans 2010 film	4nwc	
+oceans 8	1rcp	
+oceans and oceanography	1dbh	
+oceans and seas that surround europe	p8a	
+oceans eight	1rcp	
+oceans eleven	m2q	
+oceans eleven 2001 film	m2q	
+oceans film	4nwc	
+oceans movie	4nwc	
+oceans of time axel rudi pell album	56gd	
+oceans thirteen	sw9	
+oceans thirteen actress	sw9	
+oceans twelve	ihg	
+oced	qow	
+oecomys	59k7	
+ojuland	4v5u	
+orf	n1b	
+orf broadcaster	n1b	
+orf television	n1b	
+parmenion	3i6s	
+pedrera	3vok	
+pedrera seville	3vok	
+peligros	34gc	
+peligros granada	34gc	
+peligros spain	34gc	
+perinal	qrx	
+perivaga	6ezg	
+peter diamandopoulos	5xld	
+pielgrzymka commune	3fbn	
+pievebovigliana	39ox	
+poola		3wua:2
+poola rangadu	3wua	
+portacomaro	5on5	
+posnan	1p8	
+praca	xh	
+reconquest of spain	pm7	
+retorics	2jy1	
+richard braithwaite	639c	
+richard cadette	4ogr	
+richard horner		5bvy:3
+richard horner thompson	5bvy	
+rihie rih film	1f5k	
+rihie rih s christmas wish	4u7g	
+robert goodwill	68kk	
+roleben	52zi	
+royer	1jak	
+royer collard	61lj	
+royer saone et loire	1jak	
+saunier duval prodir	1gfk	
+saunier duval scott	1gfk	
+saunier duvalprodir	1gfk	
+senftenberg	2t2k	
+shawntae harris	1acu	
+skaryszew commune	shq	
+skyhooks	2u30	
+skyhooks band	2u30	
+slawuta	5d18	
+softly		55lo:2
+softly softly	55lo	
+softly softly film	55lo	
+sokurov	1af6	
+sokurov alexander	1af6	
+starlings	4659	
+stilwater	5sdk	
+tamires	5b3s	5b3s:2
+tamires cassia dias gomes	5b3s	
+tamires dias	5b3s	
+tastrupgard	10ex	
+the raytheon company	ghp	
+the ric hes	4uum	
+the terror	3dds,5dxy	4yxr:5,5vjb:9
+the terror 1928 film	5dxy	
+the terror 1963 film	3dds	
+the terror of		4yxr:5,5vjb:9
+the terror of godzilla	3itw	
+the terror of rome		5vjb:9
+the terror of rome against		5vjb:9
+the terror of rome against the		5vjb:9
+the terror of rome against the son		5vjb:9
+the terror of rome against the son of		5vjb:9
+the terror of rome against the son of hercules	5vjb	
+the terror of the		4yxr:5
+the terror of the tongs	4yxr	
+the terror squad	yp0	
+tiankeng	52mg	
+tiskevicius family	63tk	
+totem lake	gmh	
+tuskacheshmeh	53bf	53bf:3
+tuskacheshmeh rural		53bf:3
+tuskacheshmeh rural district	53bf	
+un azteca en el azteca vol 1 en vivo	1qp0	
+united arab	ny	ny:3,1zo3:8,3sxg:8,3v5z:3
+united arab airlines	21c8	
+united arab emirat	ny	
+united arab emirate	ny	
+united arab emirates	ny	1zo3:8,3sxg:8
+united arab emirates government	ny	
+united arab emirates national		1zo3:8,3sxg:8
+united arab emirates national football team	57d	
+united arab emirates national under		1zo3:8,3sxg:8
+united arab emirates national under 20		1zo3:8
+united arab emirates national under 20 football		1zo3:8
+united arab emirates national under 20 football team	1zo3	
+united arab emirates national under 23		3sxg:8
+united arab emirates national under 23 football		3sxg:8
+united arab emirates national under 23 football team	3sxg	
+united arab erimates national football team	57d	
+united arab republic	3v5z	
+united arab republic national football team	3bn	
+united arab shipping company	5x7g	
+varduhi		4ma1:2
+varduhi varderesyan	4ma1	
+vereeniging	145x	
+vereeniging gauteng	145x	
+vereeniging transvaal	145x	
+viomenil	2h89	
+warmia and masuria	ljg	
+warmia i mazury	ljg	
+warmia masuria	ljg	
+warmia masuria voivodeship	ljg	
+warmia masurian voivodeship	ljg	
+warmia masurian voivodship	ljg	
+woikowitz	4ezy	
+yorkish	2ah	

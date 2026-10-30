@@ -1,0 +1,502 @@
+accidental		4u0b:2
+accidental fall	6f8e	
+accidental gunshot	2ja	
+accidental hero	1i2e	
+accidental heroes	glo	
+accidental husband	2j7b	2j7b:3
+accidental injury	5a56	
+accidental love	4u0b	
+accidental poisoning	2h7b	
+accidental records	33uz	
+accidental spy	59js	59js:3
+accidental tourist	1fhd	1fhd:3
+acumum	fie	
+aeverium	1t7e	
+ahuille	2scm	
+akira	78u,yzc,5bsu	eeu:2,iuu:2,m87:2,oe0:2,zva:2,136x:2,18et:2,19hs:2,1m5h:2,2ymg:2,30od:2,3m8z:2,4847:2,4syi:2,5ds5:2,5m7e:2,5uko:2,656s:2,65bo:2
+akira 1988 film	yzc	
+akira 2015 film	5bsu	
+akira 2016 hindi film	5bsu	
+akira character	78u	
+akira emoto	m87	
+akira endo	5m7e	
+akira endo biochemist	5m7e	
+akira fictional character	78u	
+akira film	yzc	
+akira first name	78u	
+akira given name	78u	
+akira ifukube	iuu	
+akira ikufube	iuu	
+akira iriye	65bo	
+akira ishida	18et	
+akira isida	18et	
+akira kaji	2ymg	
+akira kamiya	136x	
+akira kitamura	2r2v	
+akira kobayashi	30od	
+akira kubo	4847	
+akira kurasawa	eeu	
+akira kurosawa	eeu	
+akira kurosawa s dreams	2206	
+akira nakao	3m8z	
+akira name	78u	
+akira nishimura actor	18yy	
+akira senju	5uko	
+akira suzuki	4syi	
+akira suzuki chemist	4syi	
+akira takarada	19hs	
+akira terao	1m5h	
+akira tonomura	656s	
+akira toriyama	oe0	
+akira yamaoka	zva	
+akira yoshimura	5ds5	
+alexander pereira cardoso	3x8c	
+alocen	3loz	
+alocen guadalajara	3loz	
+alocen spain	3loz	
+amochostos	bej	
+anthrax	sxv,624e	
+anthrax american band	sxv	
+anthrax american band comments	sxv	
+anthrax band	sxv	
+anthrax band comments	sxv	
+anthrax band members	sxv	
+anthrax disease	624e	
+anthrax rock band	sxv	
+anthrax spore	624e	
+anthrax spores	624e	
+anthrax us band	sxv	
+apid	45no	
+arthez		1tka:3,40z1:3
+arthez d		40z1:3
+arthez d armagnac	40z1	
+arthez de		1tka:3
+arthez de bearn	1tka	
+athenian acropolis	135y	
+athenian agora	4gzx	
+athenian archon	3a5r	
+athenian empire	4o4o	
+athenian federation	4o4o	
+athenian tyranny	3a5r	
+athenian vase	tu2	
+athenian war	1pge	
+auchnagatt primary school	5unr	
+autouillet	24py	
+bancourt	1wd2	
+baratynsky	5d0c	
+bastnach	ta3	
+battenberg		38r7:2
+battenberg eder	38r7	
+battenberg family	5cbu	
+battenberg germany	38r7	
+battenberg hesse	38r7	
+benzenschwil	5wv7	
+benzenschwil aargau	5wv7	
+benzenschwil ag	5wv7	
+benzenschwil switzerland	5wv7	
+blessed	32b7	526c:3,5kgc:4
+blessed 2004 film	32b7	
+blessed agnes of bohemia	40sr	
+blessed agnes of prague	40sr	
+blessed amadeus ix of savoy	1a68	
+blessed are the rich	3k75	
+blessed benedict xi	5qsk	
+blessed brian	vqu	
+blessed busta rhymes album	5v4a	
+blessed by		526c:3
+blessed by fire	526c	
+blessed charles de foucauld	4hst	
+blessed charles eugene de foucauld	4hst	
+blessed charles the good count of flanders	2u5v	
+blessed cunegundes	1o2o	
+blessed disciples of hippocrates	1706	
+blessed don bosco	5tjr	
+blessed ferdinand	26os	
+blessed giovanni bosco	5tjr	
+blessed gregory x	529h	
+blessed hildegard of bingen	3f8g	
+blessed ida of boulogne	49df	
+blessed is the match	4fs5	
+blessed jeanne de valois	497c	
+blessed joan of portugal	5hyv	
+blessed joanna of portugal	5hyv	
+blessed john henry newman	1txp	
+blessed john of avila	5cwk	
+blessed john xxiii	12hf	
+blessed margaret		5kgc:4
+blessed margaret of		5kgc:4
+blessed margaret of hungary	25i6	
+blessed margaret of lorraine	3e2w	
+blessed margaret of savoy	5kgc	
+blessed margaret pole	26jx	
+blessed marie christine of savoy	3aqe	
+blessed maurus magnentius rabanus	3kmn	
+blessed mother	1bu	
+blessed mother guerin	3sr5	
+blessed notker	50hc	
+blessed notker balbulus	50hc	
+blessed peter canisius	5piz	
+blessed pope john paul ii	4os	
+blessed pope john xxiii	12hf	
+blessed princess margaret	26jx	
+blessed sacrament school laredo texas	8tq	
+blessed sacrament school savannah georgia	2nz	
+blessed sacrament school waterbury ct	5ux	
+blessed sancha of leon	2ukj	
+blessed seraphina sforza	5med	
+blessed theresa of kolkata	13zv	
+blessed thomas percy	63yd	
+blessed trinity	cl9	
+blessed urban v	62ti	
+blessed vincent kadlubek	4lhv	
+blessed william howard	4g5e	
+bravotv com	ar2	
+bridalveil	4r4q	
+bunden	yk	
+cbazinet sandbox	3ogh	
+cephalapoda	1qd5	
+cev women		5idt:5
+cev women s		5idt:5
+cev women s champions		5idt:5
+cev women s champions league	5idt	
+chamant	36gn	
+clamart	a37	
+clamart france	a37	
+concathedral	hos	
+copromyzidae	c59	
+courry	37tw	
+cuaitlahuac	5oks	
+cupameni	1fdi	
+david burton	2pps	
+david burton director	2pps	
+david burton wake	4wwc	
+david field ii	63v3	
+daysi duporty	3xo0	
+dingelstaedt	4n3d	
+djankoy	53tu	
+donegall	5d5	
+dongfang hangkong	1maz	
+dromaeosaur family	1e3l	
+duluth	43e,1aho	
+duluth and northeastern railroad	43e	
+duluth ga	1aho	
+duluth georgia	1aho	
+duluth georgia usa	1aho	
+duluth minn	43e	
+duluth minnesota	43e	
+duluth minnesota metropolitan area	43e	
+duluth mn	43e	
+duluth police department minnesota	43e	
+duluth short line railway	57f1	
+duluth st cloud glencoe and mankato railway	y87	
+duluth state teachers college	o54	
+duluth superior and western railway	3crd	
+duluth transfer railroad	57f1	
+duluth union depot and transfer company	57f1	
+duluth usa	43e	
+ecumenical		4ag:4
+ecumenical liberation army	xt9	
+ecumenical patriarch	4ag	4ag:4
+ecumenical patriarch athenagoras	5u98	
+ecumenical patriarch athenagoras i	5u98	
+ecumenical patriarch athenagoras i of constantinople	5u98	
+ecumenical patriarch bartholomew	3uoh	
+ecumenical patriarch bartholomew i	3uoh	
+ecumenical patriarch bartholomew i of constantinople	3uoh	
+ecumenical patriarch ignatios of constantinople	55jz	
+ecumenical patriarch of		4ag:4
+ecumenical patriarch of constantinople	4ag	
+ecumenical patriarch photius ii of constantinople	5x19	
+ecumenical patriarch theophylaktos of constantinople	5qcg	
+eddings	2g9i	
+eddings david	2g9i	
+edelherren	5q7o	
+ekuhurleni	nkt	
+elton	3ekz	53r:2,21yy:2,3ekz:3,3ouu:2,416s:3,4zhr:2,5cra:3,5k2l:2
+elton arabia	4zhr	
+elton brand	21yy	
+elton brown	3ouu	
+elton brown basketball	3ouu	
+elton brown basketball player	3ouu	
+elton cale	416s	
+elton divino		5cra:3
+elton divino celio	5cra	
+elton giovanni	5k2l	
+elton giovanni machado	5k2l	
+elton h john	53r	
+elton hercules john	53r	
+elton john	53r	
+elton john awards	53r	
+elton john s discography	53r	
+elton johns	53r	
+elton jose xavier gomes	4zhr	
+elton martins	5be8	
+elton pereira		416s:3
+elton pereira gomes	416s	
+elton rodrigues		3ekz:3
+elton rodrigues brandao	3ekz	
+elton rodriguez brandao	3ekz	
+elton tyron brand	21yy	
+elton v andrews	ite	
+emmbrook sports f c	30aq	
+enalapril	5o5p	
+enalapril maleate	5o5p	
+ermesinde		4oe3:6
+ermesinde of		4oe3:6
+ermesinde of bigorre	5wtu	
+ermesinde of luxembourg		4oe3:6
+ermesinde of luxembourg countess		4oe3:6
+ermesinde of luxembourg countess of		4oe3:6
+ermesinde of luxembourg countess of namur	4oe3	
+expendabelles	5ky6	
+farkasreti		hei:2
+farkasreti cemetery	hei	
+farkasreti temeto	hei	
+fehmiu	1h53	
+feldkirch	hmo,238c	mas:2
+feldkirch austria	hmo	
+feldkirch district	mas	
+feldkirch haut rhin	238c	
+feldkirch vorarlberg	hmo	
+ff17 en la pasta aguatero klo	4ehz	
+filandari	2pf8	
+fisz	67m8	
+geddis david	5g6t	
+geldenaken	1hte	
+gijeon	9fd	
+giou		34uk:3
+giou de		34uk:3
+giou de mamou	34uk	
+gmina koscierzyna	esh	
+grenadines		1qxj:2
+grenadines parish	1qxj	
+grenadines parish saint vincent and the grenadines	1qxj	
+gwcc	3dgq	
+hanestad ostfold	9rw	
+hanestad stfold	9rw	
+hue	fss,1yfa	
+hue and		2xqd:3
+hue and cry	2xqd	
+hue and cry 1947	2xqd	
+hue and cry film	2xqd	
+hue and cry movie	2xqd	
+hue city	fss	
+hue frederic forey	45um	
+hue vietnam	fss	
+ibuprofen	1x7g	
+ibuprofen potassium	1x7g	
+ibuprofen sodium	1x7g	
+ilisiakos	137q	137q:3
+ilisiakos a		137q:3
+ilisiakos a o	137q	
+ilisiakos f c	137q	
+inowroclawski	1bta	
+janowo commune	1n1z	
+jiangnan style	6gi9	
+johnstone	tqt	
+johnstone kamau	1tg2	
+johnstone renfrewshire	tqt	
+johnstone s paint trophy	149k	
+kentfield	33um	
+kentfield ca	33um	
+kentfield california	33um	
+kluf	4q74	
+koutokeino	zdk	
+krakatoan eruption	6g9c	
+kymry	phz	
+lahoish languages	6fwi	
+lambeosauridae	yr1	
+le plessier		2j2g:5,2ljx:3,2ss2:4,39le:3
+le plessier huleu	2ljx	
+le plessier rozainvillers	39le	
+le plessier sur		2j2g:5,2ss2:4
+le plessier sur bulles	2ss2	
+le plessier sur saint		2j2g:5
+le plessier sur saint just	2j2g	
+le tampon	2fp4	
+leninist	62qw	
+leninist communist youth league	p1v	
+leninist ideology	62qw	
+leninist komsomol prize	5jp	
+leninist prize	2gy	
+leninist socialism	2eg	
+leninist young communist league of the soviet union	p1v	
+lerk prostejov	1etr	
+list abstract data type	6f2n	
+loren		2czr:2,2yg9:2,3p49:2,47gh:2,4g0b:2
+loren bacall	cjw	
+loren bouchard	2czr	
+loren corey eiseley	4g0b	
+loren dean	2yg9	
+loren eiseley	4g0b	
+loren eisley	4g0b	
+loren g terveen	3p49	
+loren j shriver	47gh	
+loren james shriver	47gh	
+loren juarros	59y2	
+loren maazel	1l57	
+loren mcconnell	39n7	
+loren michaels	qh3	
+loren omuri	49n	
+loren shriver	47gh	
+loren sophia	and	
+loren talhaoui	1q8j	
+loren terveen	3p49	
+maale maldives	cre	
+maale thomas	5m43	
+maharan		4uke:2
+maharan radi	4uke	
+manners david	u2b	
+manners song	5qbs	
+manners sutton charles	5eso	
+mareno		28m1:3
+mareno di		28m1:3
+mareno di piave	28m1	
+mastaing	3zqj	
+meco	47gj	
+meco municipality	47gj	
+meco spain	47gj	
+meegisee county mi	vtw	
+meegisee county michigan	vtw	
+metrotorino	2dop	
+mezzanego	55j0	
+michael pook	6avf	
+micul paris	jr	
+monasterium	2gs	
+moreni	4v15	
+myers	1ckv	
+myers family name	1ckv	
+myers fl	8em	
+myers hall university of georgia	1ar	
+myers p z	56rn	
+myers pz	56rn	
+myers richard	3y00	
+myers station mckinneys state road	36ae	
+myers surname	1ckv	
+national historical park	ins	
+national historical parks	ins	
+national historical publications and records commission	15p3	
+nenigan	2y6g	
+ostergoetlands laen	pc3	
+paul due	r5n	
+paul krumpe	53yg	
+phragmacossia	5mci	
+pikpik carrots	3777	
+portage	18fi,33p9	j9k:2,m57:2,x2j:3
+portage county	j9k,m57	
+portage county oh	m57	
+portage county ohio	m57	
+portage county wi	j9k	
+portage county wisconsin	j9k	
+portage earthquake	6hci	
+portage la		x2j:3
+portage la prairie	x2j	
+portage la prairie man	x2j	
+portage la prairie manitoba	x2j	
+portage la prairie mb	x2j	
+portage lake golf course	tyh	
+portage mi	33p9	
+portage michigan	33p9	
+portage township kalamazoo county michigan	33p9	
+portage wi	18fi	
+portage wis	18fi	
+portage wisconsin	18fi	
+prince rastopchin	4azo	
+qingyuan	2g3k	
+qingyuan qingyuan county liaoning	2g3k	
+quadrempista	omh	
+raiko stolting	2s6f	
+rakosd	xyk	
+rambluzin		28n4:4
+rambluzin et		28n4:4
+rambluzin et benoite		28n4:4
+rambluzin et benoite vaux	28n4	
+ringgold		1m3p:2
+ringgold county	1m3p	
+ringgold county ia	1m3p	
+ringgold county iowa	1m3p	
+ringgold lardner	3ikt	
+ringgold w lardner	3ikt	
+ringgold wilmer lardner	3ikt	
+robert ludwig mond	57id	
+robosoldier	39td	
+runiz district	1nyx	
+saint hypomone	2r8o	
+san salito	ss8	
+san salito california	ss8	
+san tropez	do6	
+sarreinsming	2ux3	
+serozil	5n4h	
+sng	5ke	
+sng ee tze	3h4s	
+staffelstein	2deo	
+swartzwelder	jml	
+telemarket roma	bea	
+the flobots	5rqh	
+the hawk		6dus:4
+the hawk 1932 film	4dya	
+the hawk is		6dus:4
+the hawk is dying	6dus	
+the hawk of the nile	3zrr	
+the juillard school	1ad	
+the murderers are among us	5o9s	
+tokoro george	4p6y	
+un hq	3bdz	
+un revenant	4f4l	
+veruca		2yzv:2
+veruca salt	2yzv	
+veruca salt band	2yzv	
+veruca salt discography	2yzv	
+wasserwendi	42ew	
+wester chester united soccer club	2sgo	
+william frederick	1vk7	2rrn:6,36qk:6
+william frederick cody	3pcc	
+william frederick danvers smith	5duv	
+william frederick danvers smith 2nd viscount hambleden	5duv	
+william frederick durst	1vdf	
+william frederick lemke	5o6j	
+william frederick louis	o3m	
+william frederick margrave		36qk:6
+william frederick margrave of		36qk:6
+william frederick margrave of brandenburg		36qk:6
+william frederick margrave of brandenburg ansbach	36qk	
+william frederick philip duke of wurttemberg	1fh6	
+william frederick prince		2rrn:6
+william frederick prince of		2rrn:6
+william frederick prince of nassau		2rrn:6
+william frederick prince of nassau dietz	2rrn	
+william payne alston	2htp	
+william payne whitney	3be2	
+william taliaferro close	4md5	
+win 2k	u11	
+win 8	ob6	
+win 95 c	2l7a	
+win a		1rvq:6
+win a date		1rvq:6
+win a date with		1rvq:6
+win a date with tad		1rvq:6
+win a date with tad hamilton	1rvq	
+win butler	2t2f	
+win ce	42q3	
+win lose or draw tour	gnk	
+win mo	13v7	
+win one for the gipper	12qb	
+win place or show	5zb	
+win s		4y9h:3
+win s entertainment	4y9h	
+win s entertainment ltd	4y9h	
+win s movie production i e co ltd	4y9h	
+win seven	h8w	
+win store	3uc6	
+win the blue vase	3bnn	
+win win	32ew	
+win win film	32ew	
+win win movie	32ew	
+win xp	c2v	
+wuhua		12xt:2
+wuhua county	12xt	
+wuhua county guangdong	12xt	
+wuhua county meizhou	12xt	
+yoritomo	3nts	
+yoritomo minamoto	3nts	
+zeed	5yso	

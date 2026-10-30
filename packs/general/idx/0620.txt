@@ -1,0 +1,501 @@
+1470s	29tc	
+1x cd rom	r0	
+1x dvd rom	12l	
+2009	cq0	1bx:4,5r1:4,dyk:5,mnd:6,omq:3,yyl:7,1cxs:3,1dvd:3,1m7e:3,1or1:4,1yak:3,204b:2,2f8q:3,2jvm:6,2mcg:7,2n56:5,2ndp:7,2oxl:4,2p1v:3,2rm9:4,2uze:6,31e4:4,34p0:7,35jl:8,3aau:8,3ak0:4,3b2w:7,3gjh:3,3v1m:5,3w1h:4,47w1:3,4ccf:5,4hid:4,4lcv:4,4o4g:5,4sfp:5,4t7l:5,4vk9:4,4wh5:4,4x3c:3,539v:2,5457:5,55q3:3,56fn:4,5bpk:3,5c29:8,5fpq:5,5jg1:7,5qrt:7,6hm6:3
+2009 011a	122q	
+2009 071a	2gli	
+2009 10 bundesliga	23yv	
+2009 10 cypriot cup	l4j	
+2009 10 cypriot cup for lower divisions	svz	
+2009 10 cypriot first division	w5q	
+2009 10 cypriot fourth division	17uy	
+2009 10 cypriot second division	10f2	
+2009 10 cypriot third division	11gp	
+2009 10 ekstraklasa	2tpz	
+2009 10 fuball bundesliga	23yv	
+2009 10 fussball bundesliga	23yv	
+2009 10 isu speed skating world cup	1vp6	
+2009 10 speed skating world cup	1vp6	
+2009 10 uci europe tour	4t04	
+2009 2010 uci europe tour	4t04	
+2009 ad	cq0	
+2009 aegon		55q3:3
+2009 aegon classic	55q3	
+2009 afl		2rm9:4
+2009 afl finals		2rm9:4
+2009 afl finals series	2rm9	
+2009 all		35jl:8,3aau:8,3b2w:7,4ccf:5
+2009 all england		35jl:8,3aau:8,3b2w:7,4ccf:5
+2009 all england badminton		4ccf:5
+2009 all england badminton championships	4ccf	
+2009 all england super		35jl:8,3aau:8,3b2w:7
+2009 all england super series	4ccf	35jl:8,3aau:8,3b2w:7
+2009 all england super series men		35jl:8
+2009 all england super series men s		35jl:8
+2009 all england super series men s doubles	35jl	
+2009 all england super series mixed		3b2w:7
+2009 all england super series mixed doubles	3b2w	
+2009 all england super series women		3aau:8
+2009 all england super series women s		3aau:8
+2009 all england super series women s doubles	3aau	
+2009 amilcar cabral cup	3ty0	
+2009 arena football league season	1c7a	
+2009 asian		4lcv:4
+2009 asian athletics		4lcv:4
+2009 asian athletics championships	4lcv	
+2009 asian athletics championships results	4lcv	
+2009 asian championships in athletics	4lcv	
+2009 aussie open	1yak	
+2009 australian		1yak:3
+2009 australian open	1yak	
+2009 australian open tennis	1yak	
+2009 badminton		2jvm:6,2mcg:7,2ndp:7,4hid:4,5jg1:7,5qrt:7
+2009 badminton world		2jvm:6,2mcg:7,2ndp:7,4hid:4,5jg1:7,5qrt:7
+2009 badminton world championships	4hid	2jvm:6,2mcg:7,2ndp:7,5jg1:7,5qrt:7
+2009 badminton world championships men		2mcg:7,5qrt:7
+2009 badminton world championships men s		2mcg:7,5qrt:7
+2009 badminton world championships men s doubles	2mcg	
+2009 badminton world championships men s singles	5qrt	
+2009 badminton world championships mixed		2jvm:6
+2009 badminton world championships mixed doubles	2jvm	
+2009 badminton world championships women		2ndp:7,5jg1:7
+2009 badminton world championships women s		2ndp:7,5jg1:7
+2009 badminton world championships women s doubles	2ndp	
+2009 badminton world championships women s singles	5jg1	
+2009 bell		4x3c:3
+2009 bell challenge	4x3c	
+2009 budapest grand prix	5457	
+2009 bwf world championships	4hid	
+2009 bwf world championships men s doubles	2mcg	
+2009 bwf world championships men s singles	5qrt	
+2009 bwf world championships mixed doubles	2jvm	
+2009 bwf world championships women s doubles	2ndp	
+2009 bwf world championships women s singles	5jg1	
+2009 ce	cq0	
+2009 cervelo		4t7l:5
+2009 cervelo testteam		4t7l:5
+2009 cervelo testteam women		4t7l:5
+2009 cervelo testteam women season	4t7l	
+2009 challenge bell	4x3c	
+2009 chonburi f c season	9qw	
+2009 cma awards	6hgz	
+2009 confederations cup	5r1	
+2009 cup		56fn:4
+2009 cup of		56fn:4
+2009 cup of china	56fn	
+2009 davos incident	52o6	
+2009 dfs classic	55q3	
+2009 dsb		4o4g:5
+2009 dsb bank		4o4g:5
+2009 dsb bank lto season	4o4g	
+2009 dsb bank nederland		4o4g:5
+2009 dsb bank nederland bloeit	4o4g	
+2009 dsb banklto season	4o4g	
+2009 eurobasket	2pjt	
+2009 european		4sfp:5
+2009 european athletics		4sfp:5
+2009 european athletics indoor		4sfp:5
+2009 european athletics indoor championships	4sfp	
+2009 european basketball championship	2pjt	
+2009 european indoor athletics championships	4sfp	
+2009 european indoor championships	4sfp	
+2009 european indoor championships in athletics	4sfp	
+2009 eurovision song contest	7gl	
+2009 f1 season	2n56	
+2009 fia formula one world championship	2n56	
+2009 fifa		5r1:4
+2009 fifa confederations		5r1:4
+2009 fifa confederations cup	5r1	
+2009 fis nordic world ski championships	3wl	
+2009 formula		2n56:5
+2009 formula 1 season	2n56	
+2009 formula one		2n56:5
+2009 formula one season	2n56	
+2009 formula one world		2n56:5
+2009 formula one world championship	2n56	
+2009 french		2p1v:3
+2009 french open	2p1v	
+2009 french open tennis	2p1v	
+2009 gastein		5bpk:3
+2009 gastein ladies	5bpk	
+2009 gdf		5457:5
+2009 gdf suez		5457:5
+2009 gdf suez grand		5457:5
+2009 gdf suez grand prix	5457	
+2009 gent wevelgem	539v	
+2009 gentwevelgem	539v	
+2009 german		1bx:4
+2009 german presidential		1bx:4
+2009 german presidential election	1bx	
+2009 giro		3ak0:4
+2009 giro d		3ak0:4
+2009 giro d italia	3ak0	
+2009 grand		5c29:8
+2009 grand prix		5c29:8
+2009 grand prix de denain	2ku1	
+2009 grand prix sar		5c29:8
+2009 grand prix sar la		5c29:8
+2009 grand prix sar la princesse		5c29:8
+2009 grand prix sar la princesse lalla		5c29:8
+2009 grand prix sar la princesse lalla meryem	5c29	
+2009 iaaf world athletics championships	dyk	
+2009 iaaf world championship in athletics	dyk	
+2009 iaaf world championships	dyk	
+2009 iaaf world championships in athletics	dyk	
+2009 iaaf world indoor championships in athletics	41ov	
+2009 international thuringen rundfahrt der frauen	3v1m	
+2009 islamic interfactional war	6793	
+2009 junior eurovision song contest	5m5p	
+2009 lao league	xov	
+2009 lost		2f8q:3
+2009 lost memories	2f8q	
+2009 masters	204b	
+2009 masters snooker	204b	
+2009 mediterranean		3gjh:3
+2009 mediterranean games	3gjh	
+2009 nba		6hm6:3
+2009 nba finals	6hm6	
+2009 ncaa men s water polo championship	y6g	
+2009 pacific		3w1h:4
+2009 pacific typhoon		3w1h:4
+2009 pacific typhoon season	3w1h	
+2009 roland garros	2p1v	
+2009 ronde van vlaanderen	4wh5	
+2009 russian		2oxl:4
+2009 russian premier		2oxl:4
+2009 russian premier league	2oxl	
+2009 san diego open	4r7t	
+2009 screen actors guild strike	6hhd	
+2009 somali islamist inter factional war	6793	
+2009 somali islamist war	6793	
+2009 somalia war	6793	
+2009 southern california open	4r7t	
+2009 strasbourg and kehl summit	1cxs	
+2009 strasbourg kehl summit	1cxs	
+2009 strasbourgkehl		1cxs:3
+2009 strasbourgkehl summit	1cxs	
+2009 sudirman		omq:3
+2009 sudirman cup	omq	
+2009 super bowl	6grh	
+2009 superbowl	6grh	
+2009 tdf	1or1	
+2009 team		34p0:7
+2009 team columbia		34p0:7
+2009 team columbia high		34p0:7
+2009 team columbia high road		34p0:7
+2009 team columbia high road women		34p0:7
+2009 team columbia high road women season	34p0	
+2009 team columbia htc women season	34p0	
+2009 team columbiahigh road women season	34p0	
+2009 team columbiahtc women season	34p0	
+2009 thuringen		3v1m:5
+2009 thuringen rundfahrt		3v1m:5
+2009 thuringen rundfahrt der		3v1m:5
+2009 thuringen rundfahrt der frauen	3v1m	
+2009 time 100	61f9	
+2009 toray		5fpq:5
+2009 toray pan		5fpq:5
+2009 toray pan pacific		5fpq:5
+2009 toray pan pacific open	5fpq	
+2009 tour		1or1:4,2uze:6,31e4:4,4wh5:4
+2009 tour de		1or1:4,31e4:4
+2009 tour de france	1or1	
+2009 tour de luxembourg	31e4	
+2009 tour of		2uze:6,4wh5:4
+2009 tour of flanders	4wh5	2uze:6
+2009 tour of flanders for		2uze:6
+2009 tour of flanders for women	2uze	
+2009 trophee		4vk9:4
+2009 trophee eric		4vk9:4
+2009 trophee eric bompard	4vk9	
+2009 trophee eric bompard cachemire	4vk9	
+2009 uci		1m7e:3
+2009 uci protour	1m7e	
+2009 war in somalia	6793	
+2009 west kelowna fires	8rj	
+2009 western pacific typhoon season	3w1h	
+2009 wimbledon	47w1	47w1:3
+2009 wimbledon championships	47w1	
+2009 world		dyk:5,mnd:6,yyl:7
+2009 world athletics championships	dyk	
+2009 world badminton championships	4hid	
+2009 world championships		dyk:5
+2009 world championships in		dyk:5
+2009 world championships in athletics	dyk	
+2009 world championships in athletics medal table	dyk	
+2009 world economic forum	4nei	
+2009 world music awards	4sld	
+2009 world single		yyl:7
+2009 world single distance		yyl:7
+2009 world single distance speed		yyl:7
+2009 world single distance speed skating		yyl:7
+2009 world single distance speed skating championships	yyl	
+2009 world sprint		mnd:6
+2009 world sprint speed		mnd:6
+2009 world sprint speed skating		mnd:6
+2009 world sprint speed skating championships	mnd	
+2009 world tamil protests	kn9	
+2009 wta		1dvd:3
+2009 wta tour	1dvd	
+2009 wta tour singles	1dvd	
+790s	26qu	
+adelbodnerstrubel	49hz	
+afnorway	3ior	
+alexander sarruf	1lpg	
+alio	4elb	
+alisse	19ef	
+amygdalopsis	6bn	
+balfour	5kru	4kbz:2
+balfour andrew	5kns	
+balfour family name	5kru	
+balfour stewart	4kbz	
+balfour surname	5kru	
+bartres	2klo	
+bcie	5qks	
+beaumais	318c	
+beaumais calvados france	318c	
+benshengren	6hm8	
+beypazari	b1a	
+beypazari ankara	b1a	
+beypazari district ankara	b1a	
+bisnaga cactus	2ivx	
+bisnaga kingdom	16fd	
+borlaenge	l0h	
+borlaenge falun	zle	
+borlaenge municipality	zle	
+borlaenge sweden	zle	
+bracheilema	431g	
+bronzework	22g	
+buhl	1j55,2m4g,2sjl	24qv:2
+buhl baden	2m4g	
+buhl bas rhin	2sjl	
+buhl haut rhin	1j55	
+buhl lorraine	24qv	
+buhl rastatt	2m4g	
+caralis	585	
+chenailler		22ee:2
+chenailler mascheix	22ee	
+curtleigh productions	ad8	
+cuyp	5ytn	
+danbya	52jl	
+david thenier	1580	
+david weber	iz8	
+denier	3aa3	
+denier pas de calais	3aa3	
+dharwar	1is3	
+dharwar district	6qs	
+dicle river	wlw	
+dierikon	4cev	
+dierikon lu	4cev	
+dierikon lucerne	4cev	
+dierikon switzerland	4cev	
+djamolidin abdoesjaparov	3uuf	
+djamolidin abdoujaparov	3uuf	
+eiben	27ne	
+fell	2g3a	5vss:6
+fell in		5vss:6
+fell in love		5vss:6
+fell in love with		5vss:6
+fell in love with a		5vss:6
+fell in love with a boy	5vss	
+fell in love with a girl	5vss	
+fell landform	2g3a	
+fell topology	10w2	
+fell winter	1nmj	
+gentzen	5ctp	
+gmina proszowice	tpo	
+gmina zapolice	1ife	
+godwine earl of kent	2g7h	
+godwine earl of wessex	2g7h	
+godwine of wessex	2g7h	
+gum abscess	4hxl	
+gum cistus	1nrr	
+gum disease	nl5	
+gum elastic	51o4	
+gum rubber	51o4	
+gum syrup	16ei	
+gum tree	1qo	
+gum trees	1qo	
+hardlove	3log	
+hardlove album	3log	
+hargeville	2wi8	
+herrichini	20m7	
+horizontalism album	4o1j	
+horizontalism fink album	4o1j	
+ioshkar ola	s05	
+james badgett badge dale	1v5d	
+jengod george s boutwell	50zf	
+john hely		50a4:7
+john hely hutchinson	50a4	50a4:7
+john hely hutchinson 2nd		50a4:7
+john hely hutchinson 2nd earl		50a4:7
+john hely hutchinson 2nd earl of		50a4:7
+john hely hutchinson 2nd earl of donoughmore	50a4	
+john hely hutchinson baron hutchinson	50a4	
+john uhler jack lemmon iii	baj	
+john uhler lemmon iii	baj	
+karantua	1vre	
+karts	6h4t	
+katholikos	3qpd	
+kendangsari	6nk	
+kenwood tennessee	m2y	
+keskusta	7l0	
+kljuc	3fpi	
+kljuc 1965	3fpi	
+kljuc film	3fpi	
+knoeringue	2ubk	
+kopple	3mry	
+kopple barbara	3mry	
+krappitz	2dyj	
+ktei	lut	
+lamaist	aec	
+le passager clandestin	4gih	
+le passager de la pluie	3avl	
+le pontet	2zdw,3qt1	
+le pontet savoie	3qt1	
+le pontet vaucluse	2zdw	
+loknath metro station	1mys	
+loknath mishra	5153	
+marminiac	27ci	
+masfjorden	4baf	4baf:2
+masfjorden municipality	4baf	
+mijo		55w2:2,6bf0:2
+mijo dadic	55w2	
+mijo studenovic	6bf0	
+mikolaj czarny radziwill	4lxr	
+mikolaj firlej 1526	5v58	
+mikolaj firlej died 1526	5v58	
+mikolaj krzysztof radziwill the orphan	1wdg	
+mikolaj krzysztof sierotka radziwill	1wdg	
+mikolaj krzysztof the orphan radziwill	1wdg	
+mikolaj kurowski	5ora	
+mikolaj repnin	5565	
+mikolaj rudy radziwill	3mgm	
+mikolaj the black radziwill	4lxr	
+mikolaj the red radziwill	3mgm	
+monistrol		1g16:3,1t8c:3,273l:3,361g:3
+monistrol d		1t8c:3
+monistrol d allier	1t8c	
+monistrol de		273l:3,361g:3
+monistrol de calders	361g	
+monistrol de montserrat	273l	
+monistrol sur		1g16:3
+monistrol sur loire	1g16	
+moulineaux	2nkx	
+namur	65d,hxm	2xow:3
+namur administrative arrondissement	12mo	
+namur belgium	65d	
+namur city	65d	
+namur province	hxm	
+namur railway		2xow:3
+namur railway station	2xow	
+namur railway station belgium	2xow	
+namur wallonia	65d	
+oiratkhalkha languages	3jsh	
+orobanche	460x	
+princess raiyah	1jyl	1jyl:7
+princess raiyah bint		1jyl:7
+princess raiyah bint al		1jyl:7
+princess raiyah bint al hussein	1jyl	1jyl:7
+princess raiyah bint al hussein of		1jyl:7
+princess raiyah bint al hussein of jordan	1jyl	
+princess raiyah bint hussein	1jyl	
+princess raiyah of jordan	1jyl	
+pseudoalteromonas	124g	
+ptilaeola	e6d	
+pushto	aqn	
+pushto language	aqn	
+rainuccio farnese duke of parma	272p	
+raiponce	6ctt	
+robert mccammon	6422	
+rymbrand van ryn	4c1	
+sacajewa	6aqe	
+sachsisch bayerische eisenbahn	27yz	
+sachsisch bayerische eisenbahn compagnie	27yz	
+sachsisch bohmische eisenbahn	4j12	
+sachsisch bohmische staatseisenbahn	4j12	
+sachsisch regen	1fgf	
+sachsisch schlesische eisenbahngesellschaft	1b64	
+saint venant	1s3s	
+saint venant pas de calais	1s3s	
+sakharov		nue:2
+sakharov andrei dmitriyevich	tre	
+sakharov andrey dmitrievich	tre	
+sakharov award	nue	
+sakharov prize	nue	
+sakharov prize 1988 2000	nue	
+sakharov prize 19882000	nue	
+sakharov prize 2001 2025	nue	
+sakharov prize 2001 present	nue	
+sakharov prize for freedom of thought	nue	
+sakharov prize for the freedom of thought	nue	
+sakharov s third idea	4eeh	
+san roman		3xhl:4,486b:5
+san roman de		3xhl:4,486b:5
+san roman de bembibre	3xhl	
+san roman de los		486b:5
+san roman de los montes	486b	
+san roman de los montes spain	486b	
+san roman de los montes toledo	486b	
+sapirian	3jf7	
+saulce		2x76:3
+saulce sur		2x76:3
+saulce sur rhone	2x76	
+spellings	25qr	
+starvald demelain	1nvz	
+streamed audio	p2p	
+streamed media	p2p	
+szhd	4apc	
+tarleton baronets	5auv	
+tarleton fiske	ur0	
+tarleton helmet	5auv	
+terragnolo	3kwh	
+the batle of sutjeska film	wv2	
+the caucasus	14ze	
+the lakers	2cw	
+the sexes	6dgg	
+thomas hopkinson	56zt	
+thrombopaenia	69st	
+tingra	1064	
+tonya	2hxn	6gi0:2
+tonya cash	g3z	
+tonya first name	2hxn	
+tonya given name	2hxn	
+tonya harding	6gi0	
+tonya harding gillooly	6gi0	
+tonya kach	g3z	
+tonya maxene harding	6gi0	
+tonya maxene price	6gi0	
+tonya maxine harding	6gi0	
+tonya name	2hxn	
+tonya rutan	31bx	
+troodontoidea	1wtr	
+unternehmen		37ov:2
+unternehmen merkur	47fs	
+unternehmen michael	37ov	
+unternehmen zitadelle	47mc	
+varmonzey	3kbw	
+westfair	4a0l	
+westfair foods	4a0l	
+wladislaus	8dc	
+wladislaus herman of poland	27s8	
+wladislaus i herman of poland	27s8	
+wladislaus i the short	234j	
+wladislaus ii	ssh	
+wladislaus ii the exile of poland	15id	
+wladislaus iii spindleshanks	23ry	
+wladislaus iv	17ed	
+wladislaus the short	234j	
+wondermega	jcz	
+wraparound couch	34zf	
+xystodesmid	44o0	
+yandarbiev	514h	
+yasuzo		3ifa:2
+yasuzo masumura	3ifa	
+zdenka	6a2x	5c26:2
+zdenka braun	5c26	
+zdenka braunerova	5c26	
+zdenka cerar	4n7x	
+zdenka first name	6a2x	
+zdenka given name	6a2x	
+zdenka nee braun	5c26	

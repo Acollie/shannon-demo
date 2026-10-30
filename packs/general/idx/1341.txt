@@ -1,0 +1,705 @@
+25kvac	36c	
+a doll		28yc:4,3ouv:4,4vfi:4,4xn8:4,5jnv:4
+a doll house	4xn8	
+a doll s		28yc:4,3ouv:4,4vfi:4,4xn8:4,5jnv:4
+a doll s house	28yc,3ouv,4vfi,4xn8,5jnv	
+a doll s house 1918 film	4vfi	
+a doll s house 1918 movie	4vfi	
+a doll s house 1943 film	3ouv	
+a doll s house 1943 movie	3ouv	
+a doll s house 1944 film	20yp	
+a doll s house 1973 garland film	5jnv	
+a doll s house 1973 garland movie	5jnv	
+a doll s house 1973 jospeh losey film	28yc	
+a doll s house 1973 jospeh losey movie	28yc	
+a doll s house 1973 losey film	28yc	
+a doll s house 1973 losey movie	28yc	
+a doll s house 1973 patrick garland film	5jnv	
+a doll s house 1973 patrick garland movie	5jnv	
+a doll s house album	1254	
+a doll s house the beatles album	1254	
+a erman	2a0i	
+adversarial search	1729	
+aip iceland	49bu	
+aip org	jue	
+aip publishing	jue	
+aip television	4pl	
+aip tv	4pl	
+airstrike	faf	
+alexander viveros	3u19	
+ancram michael	4z4v	
+archibald		ncj:2,10wq:2,1bs6:2,1cyq:2,1k89:6,1n0m:2,2c82:2,31hf:5,3zmv:2,443m:2,45bo:2,4dfp:6,4hhx:6,4l0j:6,4lss:6,4q1p:5,4w7r:6,54gh:3,55p7:5,56dy:6,5al2:6,5bnv:6,5dz1:6,5e11:2,5e84:2,5fym:3,5juw:6,5rf9:2,5xgk:6,60dn:2,629r:6
+archibald 4th earl of douglas	5juw	
+archibald acheson	5dz1	5dz1:6
+archibald acheson 2nd		5dz1:6
+archibald acheson 2nd earl		5dz1:6
+archibald acheson 2nd earl of		5dz1:6
+archibald acheson 2nd earl of gosford	5dz1	
+archibald alec leach	ard	
+archibald alexander leach	ard	
+archibald archie clark robertson	5fym	
+archibald b roosevelt	1cyq	
+archibald belaney	4e70	
+archibald bell the cat	4lss	
+archibald bulloch roosevelt	1cyq	
+archibald campbell	56dy	4dfp:6,4w7r:6,54gh:3,56dy:6,5al2:6,629r:6
+archibald campbell 10th earl and 1st duke of argyll	629r	
+archibald campbell 10th earl of argyll	629r	
+archibald campbell 1st		56dy:6,629r:6
+archibald campbell 1st duke		629r:6
+archibald campbell 1st duke of		629r:6
+archibald campbell 1st duke of argyll	629r	
+archibald campbell 1st marquess		56dy:6
+archibald campbell 1st marquess of		56dy:6
+archibald campbell 1st marquess of argyll	56dy	
+archibald campbell 1st marquis of argyll	56dy	
+archibald campbell 3rd		4w7r:6
+archibald campbell 3rd duke		4w7r:6
+archibald campbell 3rd duke of		4w7r:6
+archibald campbell 3rd duke of argyll	4w7r	
+archibald campbell 7th		5al2:6
+archibald campbell 7th earl		5al2:6
+archibald campbell 7th earl of		5al2:6
+archibald campbell 7th earl of argyll	5al2	
+archibald campbell 8th earl and 1st marquess of argyll	56dy	
+archibald campbell 8th earl and 1st marquis of argyll	56dy	
+archibald campbell 8th earl of argyll	56dy	
+archibald campbell 9th		4dfp:6
+archibald campbell 9th earl		4dfp:6
+archibald campbell 9th earl of		4dfp:6
+archibald campbell 9th earl of argyll	4dfp	
+archibald campbell 9th earl of lord campbell lorne and kintyre argyll	4dfp	
+archibald campbell duke of argyll	4w7r	
+archibald campbell e garrett	60qj	
+archibald campbell marquess of lorne	6fx7	
+archibald campbell marquis of argyle	56dy	
+archibald campbell marquis of lorne	6fx7	
+archibald campbell of inverawe	6ay5	
+archibald campbell tait	54gh	
+archibald clark		5fym:3
+archibald clark robertson	5fym	
+archibald clement	5oa3	
+archibald competition	ncj	
+archibald constable	45bo	
+archibald constable and co	13vl	
+archibald constable and company	13vl	
+archibald constable and company ltd	13vl	
+archibald cox	5rf9	
+archibald cox jr	5rf9	
+archibald cronin	n7k	
+archibald david constable	45bo	
+archibald devine	5cw5	
+archibald douglas		4l0j:6,4lss:6,5bnv:6,5juw:6,5xgk:6
+archibald douglas 1st		5xgk:6
+archibald douglas 1st earl		5xgk:6
+archibald douglas 1st earl of		5xgk:6
+archibald douglas 1st earl of ormond	5xgk	
+archibald douglas 1st earl of ormonde	5xgk	
+archibald douglas 3rd		4l0j:6
+archibald douglas 3rd earl		4l0j:6
+archibald douglas 3rd earl of		4l0j:6
+archibald douglas 3rd earl of douglas	4l0j	
+archibald douglas 4th		5juw:6
+archibald douglas 4th earl	5juw	5juw:6
+archibald douglas 4th earl of		5juw:6
+archibald douglas 4th earl of douglas	5juw	
+archibald douglas 4th earl of douglas duke of touraine	5juw	
+archibald douglas 5th		4lss:6
+archibald douglas 5th earl		4lss:6
+archibald douglas 5th earl of		4lss:6
+archibald douglas 5th earl of angus	4lss	
+archibald douglas 6th		5bnv:6
+archibald douglas 6th earl		5bnv:6
+archibald douglas 6th earl of		5bnv:6
+archibald douglas 6th earl of angus	5bnv	
+archibald douglas duke of touraine	5juw	
+archibald douglas earl of angus	5xgk	
+archibald douglas hamilton 9th duke of hamilton	4hhx	
+archibald duke of argyll campbell	4w7r	
+archibald ernest clement	5oa3	
+archibald geikie	2c82	
+archibald geikiev	2c82	
+archibald gemmill	5dnx	
+archibald gerald archie thompson	3p5d	
+archibald goodall	63s7	
+archibald grimke	60dn	
+archibald h grimke	60dn	
+archibald haddock	4rnr	
+archibald hamilton		4hhx:6
+archibald hamilton 9th		4hhx:6
+archibald hamilton 9th duke		4hhx:6
+archibald hamilton 9th duke of		4hhx:6
+archibald hamilton 9th duke of hamilton	4hhx	
+archibald henry grimke	60dn	
+archibald henry macdonald sinclair	4q1p	
+archibald henry macdonald sinclair 1st viscount thurso	4q1p	
+archibald hill	10wq	
+archibald hunter	5e84	
+archibald j cronin	n7k	
+archibald joseph cronin	n7k	
+archibald lee goodall	63s7	
+archibald leitch	1bs6	
+archibald mac domhnuill 7th of dunnyveg	55p7	
+archibald macdonald		55p7:5
+archibald macdonald 7th		55p7:5
+archibald macdonald 7th of		55p7:5
+archibald macdonald 7th of dunnyveg	55p7	
+archibald macleish	1n0m	
+archibald mcleish	1n0m	
+archibald nettlefold	c1a	
+archibald percival 1st earl wavell	31hf	
+archibald percival 1st earl wavell wavell	31hf	
+archibald percival wavell	31hf	
+archibald percival wavell 1st earl wavell	31hf	
+archibald philip 5th earl of rosebery primrose	1k89	
+archibald philip primrose	1k89	
+archibald philip primrose 5th earl of rosebery	1k89	
+archibald philip primrose earl of rosebery	1k89	
+archibald philip primrose rosebery	1k89	
+archibald primrose	1k89	1k89:6
+archibald primrose 5th		1k89:6
+archibald primrose 5th earl		1k89:6
+archibald primrose 5th earl of		1k89:6
+archibald primrose 5th earl of rosebery	1k89	
+archibald primrose 5th earl of rosebery comments	1k89	
+archibald prize	ncj	
+archibald prize people s choice	ncj	
+archibald prize people s choice award	ncj	
+archibald rawlings	3zmv	
+archibald roe	63xi	
+archibald roosevelt	1cyq	
+archibald s belaney	4e70	
+archibald sinclair	4q1p	4q1p:5
+archibald sinclair 1st		4q1p:5
+archibald sinclair 1st viscount		4q1p:5
+archibald sinclair 1st viscount thurso	4q1p	
+archibald smith	5e11	
+archibald smith of jordanhill	5e11	
+archibald stansfeld belaney	4e70	
+archibald steve	22o4	
+archibald stirling	443m	
+archibald stirling british army officer	443m	
+archibald stirling general	443m	
+archibald stirling mp	443m	
+archibald stirling politician	443m	
+archibald tait	54gh	
+archibald the grim	4l0j	
+archibald the grim 3rd earl of douglas	4l0j	
+archibald v hill	10wq	
+archibald vivian hill	10wq	
+archibald wavell	31hf	31hf:5
+archibald wavell 1st		31hf:5
+archibald wavell 1st earl		31hf:5
+archibald wavell 1st earl wavell	31hf	
+archibald wavell 1st viscount wavell	31hf	
+bakke	3fvb	
+bakke surname	3fvb	
+baranawitschi	gqr	
+barkero	3mi2	
+baschi	5nc1	
+beyezid ii	14dt	
+bool balm bollective	69x4	
+canpech	pmg	
+carballo	2qkf	
+carballo a coruna	2qkf	
+characteristics of life	2ph7	
+characteristics of living things	2ph7	
+characteristics of muscle	428	
+characteristics of sinkholes	52mg	
+characteristics of software engineering	23qr	
+characteristics of sound	22e1	
+charis	4nls	5sxg:2
+charis first name	4nls	
+charis given name	4nls	
+charis kostakis	5dla	
+charis mavrias	4jv1	
+charis name	4nls	
+charis prep high school	umh	
+charis yulianto	5sxg	
+charles cozens		4zyb:3
+charles cozens spencer	4zyb	
+charles fefferman	3mp9	
+charles fefferman comments	3mp9	
+cherokee	1fmm,1mcd	tuv:2,vfj:2,12qu:2,1400:2,1644:2,1s2d:2,1zea:2,22s9:2
+cherokee baptist female college	370u	
+cherokee citizen	1mcd	
+cherokee co al	tuv	
+cherokee co alabama	tuv	
+cherokee co ga	1zea	
+cherokee county	tuv,vfj,12qu,1400,1644,1s2d,1zea,22s9	
+cherokee county al	tuv	
+cherokee county alabama	tuv	
+cherokee county ga	1zea	
+cherokee county georgia	1zea	
+cherokee county ia	1400	
+cherokee county iowa	1400	
+cherokee county kansas	vfj	
+cherokee county ks	vfj	
+cherokee county nc	22s9	
+cherokee county north carolina	22s9	
+cherokee county ok	12qu	
+cherokee county oklahoma	12qu	
+cherokee county sc	1s2d	
+cherokee county south carolina	1s2d	
+cherokee county texas	1644	
+cherokee county tx	1644	
+cherokee freedman	1mcd	
+cherokee freedmen	1mcd	
+cherokee ia	1fmm	
+cherokee indian	1mcd	
+cherokee iowa	1fmm	
+cherokee kid	69qz	69qz:3
+cherokee person	1mcd	
+cherokee river	kfh	
+cherokee spirituality and culture	1mcd	
+cherokee tribe	1mcd	
+counselor	156s	156s:2,1ct4:3
+counselor at		1ct4:3
+counselor at crime	1ct4	
+counselor at law	2din	
+counselor commander deanna troi	6dc0	
+counselor deanna troi	6dc0	
+counselor troi	6dc0	
+czechians	z1m	
+datives	4z35	
+david lockhart mure renton	5opx	
+david lockhart mure renton baron renton	5opx	
+david lockhart mure renton baron renton kbe qc td dl pc	5opx	
+david lockhart mure renton baron renton of huntingdon	5opx	
+david louis	bcx	
+delhi	118	59n:2,xl3:4,17th:2,1de5:4,24ol:2,495u:2,4dmq:2
+delhi 1982	8ng	
+delhi 2010	kwz	
+delhi 6	495u	
+delhi 6 2007 film	495u	
+delhi airport	34b6	
+delhi belly	4dmq	
+delhi belly 2	4dmq	
+delhi belly 2011 film	4dmq	
+delhi belly film	4dmq	
+delhi city	118	
+delhi commonwealth games	kwz	
+delhi commonwealth games 2010	kwz	
+delhi domestic airport	34b6	
+delhi dynamos	qc2	
+delhi dynamos f c	qc2	
+delhi dynamos fc	qc2	
+delhi dynamos football club	qc2	
+delhi fort	4c7z	
+delhi ganesh	17th	
+delhi gate red fort	4c7z	
+delhi heights	6cel	
+delhi howrah route	16xm	
+delhi india	118	
+delhi international airport	34b6	
+delhi international airport p limited	34b6	
+delhi isl team	qc2	
+delhi juniors	cu6	
+delhi mass rapid transit system	59n	
+delhi metro	59n	xl3:4
+delhi metro rail		xl3:4
+delhi metro rail coporation	59n	
+delhi metro rail corporation	xl3	
+delhi metro rail corporation limited	59n	
+delhi metro rail corporation ltd	xl3	
+delhi mrt	59n	
+delhi mrts	59n	
+delhi school		1de5:4
+delhi school of		1de5:4
+delhi school of economics	1de5	
+delhi school of journalism	2b9	
+delhi state	118	
+delhi subway	59n	
+delhi sultanate	24ol	
+delhi sultanate doc	24ol	
+delhi tobacco museum and heritage centre	2ty5	
+delhi union territory	118	
+delhi university	2b9	
+dlugoleka commune	m5f	
+dmc4se	33h5	
+dongfeng space center	1wfv	
+douala	3ql	
+douala cameroon	3ql	
+dreamfall		50c8:2
+dreamfall 2	50c8	
+dreamfall chapters	50c8	
+dreamfall chapters the longest journey	50c8	
+durango	euk,rqt,125n	
+durango biscay	rqt	
+durango bizkaia	rqt	
+durango city	ha8	
+durango co	125n	
+durango co micropolitan statistical area	3gia	
+durango colorado	125n	
+durango colorado micropolitan area	3gia	
+durango durango	ha8	
+durango spain	rqt	
+durango state	euk	
+eekkeri	6gkc	
+euskadiko txirrindularitza iraskundea	1ngq	
+evangelicalism	1ig2	
+fantin	310q	
+fantin latour	310q	
+fantin latour henri	310q	
+fc metallist petropavlovsk	hnc	
+fontevivo	5lw8	
+fontevivo italy	5lw8	
+fv 04 wurzburg	5yo7	
+fv 1911 neuendorf	8df	
+fv bonn	ik2	
+fv dresden		5svw:3
+fv dresden 06	5svw	
+fv dresden laubergast	5svw	
+fv dresden nord	3gop	
+fv gera sud	5vni	
+fv gera sued	5vni	
+fv germania konigshutte	5gys	
+fv homburg	9an	
+fv illertissen	69b2	
+fv illertissen ii	69b2	
+fv kaiserslautern	2gt	
+fv kassel	axv	
+fv kreuznach 07	6df1	
+fv laubegast dresden	5svw	
+fv metz	2qz	
+fv offenburg	5di1	
+fv phonix kaiserslautern	2gt	
+fv saarbrucken	3rc	
+fv saarbruecken	3rc	
+fv stuttgart	2i6	
+fv ulm 1894	upe	
+fv ulm 94	upe	
+fv wurzburg 04	5yo7	
+fv wurzburg 04 ii	5yo7	
+gadesco		5830:3
+gadesco pieve		5830:3
+gadesco pieve delmona	5830	
+gadesco pieve delmona italy	5830	
+geegaw	6an9	
+gmina bialaczow	1tho	
+gmina dabrowno	117m	
+gurcistan	g4	
+hadrosciurus	1nm3	
+harindranath		4nze:2
+harindranath chattopadhyay	4nze	
+harindranath chattopadhyaya	4nze	
+harri	ug7	25ke:2,3nvk:2,5a8u:2,61ib:2
+harri czepuck	61ib	
+harri first name	ug7	
+harri given name	ug7	
+harri hermanni holkeri	3nvk	
+harri holkeri	3nvk	
+harri kirvesniemi	25ke	
+harri nevanlinna	24be	
+harri tapani kirvesniemi	25ke	
+harri ylonen	5a8u	
+hayley	hcp	t4x:2,1ehi:2,1jye:2,1vlf:3,24pn:2,4bgf:2,4jt6:2
+hayley alcroft	24pn	
+hayley atwell	1vlf	
+hayley bell	3vmb	
+hayley bowden	4jt6	
+hayley catherine rose vivien mills	t4x	
+hayley cramer	25n7	
+hayley duff	28hl	
+hayley elizabeth		1vlf:3
+hayley elizabeth atwell	1vlf	
+hayley erbert	11tc	
+hayley first name	hcp	
+hayley from paramore	1jye	
+hayley given name	hcp	
+hayley kiyoko	24pn	
+hayley kiyoko alcroft	24pn	
+hayley mills	t4x	
+hayley moorwood	4jt6	
+hayley n williams	1jye	
+hayley nichole williams	1jye	
+hayley of paramore	1jye	
+hayley podschun	14aj	
+hayley romer	5h0w	
+hayley westenra	1ehi	
+hayley westenra footer	1ehi	
+hayley westernra	1ehi	
+hayley westrana	1ehi	
+hayley wickenheiser	4bgf	
+hayley williams	1jye	
+hayley williams paramore	1jye	
+hayley williams singer	1jye	
+hazlov	1r9i	
+herceg		l5a:2
+herceg novi	l5a	
+herceg novi municipality	l5a	
+herceg stjepan	4y7g	
+inda		33g6:2
+inda ledesma	33g6	
+james mason	8rr	
+james mason actor born 1909	8rr	
+james mason comments	8rr	
+james mason english actor	8rr	
+jean duceppe	56q3	
+juba	gxg	5kmp:2
+juba city	gxg	
+juba ii	5kmp	
+juba ii of mauretania	5kmp	
+juba ii of mauritania	5kmp	
+juba ii of numidia	5kmp	
+juba samtredia	vy6	
+juba south sudan	gxg	
+juba southern sudan	gxg	
+juba sudan	gxg	
+kadwad	4sby	
+kalyagin alexander	2jk1	
+kawajiri yoshiaki	58b2	
+kde	13py	
+kde applications	g3h	
+kde applications 5	g3h	
+kde doc	13py	
+kde gear	g3h	
+kde on windows	13py	
+kde org	13py	
+kde plasma workspaces 2	13py	
+kebmo	1rvj	
+kiernon hughes mason	5nwk	
+klopina	31kk	
+kurgen teppa	3abe	
+kurgen tyube	3abe	
+kyotanabe	1pqb	1pqb:2
+kyotanabe kyoto	1pqb	
+kyotanabe shi	1pqb	
+la sceriffa	3dsx	
+lavandou	2fyy	
+le vezier	3xze	
+leurini	4ooj	
+louis henry		5nxy:6
+louis henry i prince of conde	15np	
+louis henry ii prince of conde	2sku	
+louis henry morgan	3qar	
+louis henry prince		5nxy:6
+louis henry prince of		5nxy:6
+louis henry prince of nassau		5nxy:6
+louis henry prince of nassau dillenburg	5nxy	
+louis henry sullivan	2skh	
+magrin	2s4z	
+mahanuvara	98g	
+mahanuvara district	12q0	
+makkoshotyka	6x5	
+mansigne	3aw4	
+maria bianchi	51kc	
+mcn jr 4749	eem	
+michael thalassitis	3v2q	
+micropteryx	eqw	
+miniskirt pirates	12ec	
+miniskirt uchu kaizoku	12ec	
+mudge boy	5y7p	5y7p:3
+mujula	5kpr	
+mullaittivu district	2v9b	
+necropolises	107w	
+nervous		3rlm:2,69f7:3
+nervous diseases	12i4	
+nervous disorder	i3c	
+nervous fever	4xl	
+nervous pervis	4gog	
+nervous system	3rlm	69f7:3
+nervous system ep	6gaz	
+nervous system malformations	69f7	
+nervous system physiology	5axn	
+nervous system vertebrate	3rlm	
+nervous systems	3rlm	
+novidio	imi	
+nugaal	5hck	
+oda	4kzf	
+oda eichiro	5qs0	
+oda eiichiro	5qs0	
+oda eiichiroh	5qs0	
+oda eiichirou	5qs0	
+oda eiitiro	5qs0	
+oda eitiro	5qs0	
+oda gotoku	4526	
+oda gouiti	17ou	
+oda hidekatsu	4ooq	
+oda hideo	4ooq	
+oda hidetaka	2ecf	
+oda katsunaga	5il5	
+oda kazumasa	2qkn	
+oda krogh	4kzf	
+oda krohg	4kzf	
+oda lasson	4kzf	
+oda nagamasu	250g	
+oda nobuharu	32wq	
+oda nobuhide	1web	
+oda nobuhiro	39sc	
+oda nobukane	2vlw	
+oda nobukatsu	4bc0	
+oda nobumasu	250g	
+oda nobunaga	mlo	
+oda nobunaga in fiction	mlo	
+oda nobunga	mlo	
+oda nobuo	4bc0	
+oda nobutada	38h6	
+oda nobutaka	5d0q	
+oda nobutoki	31zz	
+oda nobuyuki	2cka	
+oda of		5m8l:3,5uh8:3
+oda of haldensleben	5m8l	
+oda of saxony	5uh8	
+oda shinji	32wq	
+oda tetsuro	24di	
+oda uraku	250g	
+oda urakusai	250g	
+oda van saksen	5uh8	
+oda von haldensleben	5m8l	
+oda yuraku	250g	
+oda yurakusai	250g	
+ohioan	7u	
+padikkatha methai	6ddy	
+pastored	2dh	
+peshwa bajirao	45w0	
+peshwa nanasaheb	4jqx	
+pewee	5fzk	
+pewee herman	uzn	
+polished diamond	8vu	
+polished rice medical	7vi	
+porvo	aym	
+posek	6ftw	
+posek hador	6ftw	
+poza		2cde:4,4rwn:4
+poza de		2cde:4
+poza de la		2cde:4
+poza de la sal	2cde	
+poza de la sal burgos	2cde	
+poza de la sal spain	2cde	
+poza rica	4rwn	4rwn:4
+poza rica de		4rwn:4
+poza rica de hidalgo	4rwn	
+poza rica mexico	4rwn	
+poza rica ver	4rwn	
+poza rica veracruz	4rwn	
+rafaello d urbino	7rl	
+richard doll	4bcj	
+richard doll comments	4bcj	
+richard tolman	3os0	
+riel		28z1:3
+riel les		28z1:3
+riel les eaux	28z1	
+riel louis	2sxj	
+robert fano	3mya	
+robert fano comments	3mya	
+romazy	24zl	
+sadruddhin aga khan	2opq	
+saint omer	c7e,2aed	3nio:4
+saint omer calvados	2aed	
+saint omer en		3nio:4
+saint omer en chaussee	3nio	
+saint omer en chaussee france	3nio	
+saint omer france	c7e	
+saint omer nord pas de calais	c7e	
+saint omer pas de calais	c7e	
+salesian fathers	k0y	
+salesian fathers of dom bosco	k0y	
+salesian missionaries	k0y	
+salesian of don bosco	k0y	
+salesian order	k0y	
+salesian society	k0y	
+salesian society of st john bosco	k0y	
+saljuq armenia	2nfe	
+saljuq empire	2nfe	
+salsigne	35ua	
+sarcy	3lcm	
+sawbridgeworth	3fab	
+sawbridgeworth hertfordshire	3fab	
+sawbridgeworth urban district	3fab	
+scionzier	2thf	
+shaandar	44gc	
+sirmione	2awm	
+snakeshit	3l4g	
+spalt	56w4	
+spalt stadt	56w4	
+stargunn	5a1s	
+stormy	3fgd	1tin:2,2s92:2,3fgd:2,4mzr:2,5yqa:2
+stormy crossing	5yqa	
+stormy daniels	3fgd	
+stormy daniels donald trump affair allegations	3fgd	
+stormy monday	4mzr	
+stormy monday film	4mzr	
+stormy sea in etretat	3xy9	
+stormy waters	1tin,3fgd	
+stormy waters film	1tin	
+stormy weather	2s92	
+stormy weather 1943 film	2s92	
+tair salakhov	1sgy	
+talinn conservatory	4vna	
+tally ho song	60oi	
+taroudannt	47vj	
+taroudannt province	ct5	
+taurus	8zg	2z2f:2,6h5s:3
+taurus 1	5d21	
+taurus 2	6b7l	
+taurus 3	3x8g	
+taurus astronomy	8zg	
+taurus constellation	8zg	
+taurus i	5d21	
+taurus ii	6b7l	
+taurus iii	3x8g	
+taurus impact systems	1xcc	
+taurus launch vehicle	691j	
+taurus molecular		6h5s:3
+taurus molecular cloud	6h5s	
+taurus mountains	2z2f	
+taurus mts	2z2f	
+taurus rocket	691j	
+taurus space launch vehicle	691j	
+taurus the bull	8zg	
+taurus xl	691j	
+the assignment	4a9m,5qzo	
+the assignment 1997 film	5qzo	
+the assignment 2016 film	4a9m	
+the chain	48l2	
+the chain 1984 film	48l2	
+the chain film	48l2	
+the hollowmen	4w2s	
+the hollywood		10ep:5,4mmh:3
+the hollywood review of 1929	10ep	
+the hollywood revue		10ep:5
+the hollywood revue of		10ep:5
+the hollywood revue of 1929	10ep	
+the hollywood sign	4mmh	
+the hollywood sign film	4mmh	
+the hollywood walk of fame	6gwa	
+the shinjuku incident	2hqb	
+the trapp		29iv:3,6157:5
+the trapp family	29iv	6157:5
+the trapp family in		6157:5
+the trapp family in america	6157	
+theatine	4g0n	13kb:2
+theatine church	13kb	
+theatine church munich	13kb	
+theatine church of st cajetan	13kb	
+theatine fathers	4g0n	
+theatine order	4g0n	
+therapsid	3ndb	
+thomas	3n,36d,hpn	7ii:3,8t4:3,9j4:2,9p2:2,aly:3,amx:2,fsd:2,hpn:2,hrz:2,i71:2,ivj:2,jet:3,ka3:2,ml4:2,mul:2,ozk:3,qil:2,r2p:2,sgh:3,t0g:3,tgs:3,tr1:5,u2l:2,wzq:2,x7i:6,y90:3,yqp:2,ys0:6,10zc:2,11bw:3,1256:2,13be:3,13pe:3,14lw:3,15t3:2,17y6:2,19g3:2,19j4:5,19ua:2,1a3t:3,1cdr:2,1cha:3,1cs0:7,1cxe:3,1cxv:2,1def:2,1dq1:2,1dsw:7,1du6:2,1e6e:4
+thorium	12i8	
+thorium processing	12i8	
+tifton	zpz	
+tifton ga	zpz	
+tifton ga micropolitan statistical area	3vxt	
+tifton ga msa	3vxt	
+tifton ga sa	3vxt	
+tifton georgia	zpz	
+tifton georgia micropolitan area	3vxt	
+toul	fnp	
+toul france	fnp	
+toul lorraine	fnp	
+toul meurthe et moselle	fnp	
+transformational activism	ua3	
+trypanis	58q3	
+vendegies		28fi:3,2fd0:3
+vendegies au		28fi:3
+vendegies au bois	28fi	
+vendegies sur		2fd0:3
+vendegies sur ecaillon	2fd0	
+villanua	4gpl	
+villanua huesca	4gpl	
+villanua spain	4gpl	
+wengi reichenbach im kandertal	2ju2	
+yubero javier	2owb	
+zhejianguniversity	nhe	

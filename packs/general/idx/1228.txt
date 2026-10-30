@@ -1,0 +1,409 @@
+a thief		46bl:4
+a thief in		46bl:4
+a thief in paradise	46bl	
+acheilognathus	yvs	
+agil		4whe:2
+agil mammadov	4whe	
+agil mammadov footballer born 1972	4whe	
+aharnaikos	134g	
+aharnaikos f c	134g	
+alexandrian age	1i1	
+alexandrian coptic church	30cz	
+alexandrian dialect	us4	
+alexandrian empire	f0f	
+alexandrian era	1i1	
+alexandrian oriental orthodox	30cz	
+alexandrian oriental orthodox church	30cz	
+alexandrian oriental orthodox patriarchate	30cz	
+alexandrian passenger train	3crd	
+alexandrian period	f0f	
+alexandrian pontiff	9p0	
+alexandrian union	d1r	
+alexandrian war	55na	
+alimera	532c	
+aministic	2usv	
+apsa	m3l	
+aschehoug		s6l:2
+aschehoug prize	s6l	
+balaives		3baq:3
+balaives et		3baq:3
+balaives et butz	3baq	
+bankside park banbury	bfa	
+bankside reservoirs	rd	
+bankside tate modern	mfh	
+batkivshchyna	h07	
+batkivshchyna party	h07	
+blaz		34x2:2
+blaz sliskovic	34x2	
+bottidda	4e9j	
+bourcia	1apf	
+boutabout	4c43	
+bouygues	33mc	
+bouygues group	33mc	
+bouygues telecom cycling team	bay	
+bouygues travaux publics	33mc	
+broadchurch	2xit	
+broadchurch season 2	2xit	
+broadchurch tv series	2xit	
+calot	569f	
+castolowitz	3odf	
+cephadroxil	67nk	
+cidde	4lq	
+cretacaeous	65kv	
+cylindropuntia	5hdr	
+dahlenheim	1qcn	
+david almond	17ck	
+david hall	5ose	
+david hall art director	16pt	
+david hall oklahoma governor	5ose	
+david home	yvd	
+david stuart	3odn,58t2	
+david stuart 1st earl of strathearn	3odn	
+david stuart brigadier general	58t2	
+david stuart michigan	58t2	
+david stuart michigan politician	58t2	
+david stuart sheppard	32uh	
+david stuart sheppard baron sheppard of liverpool	32uh	
+drouths	2br7	
+droylesden	3gbr	
+duoantiprism	6fw9	
+enkoepings sk	zul	
+fairleigh		1j8b:3
+fairleigh dickinson	1j8b	1j8b:3
+fairleigh dickinson florham devils	1j8b	
+fairleigh dickinson florham devils football	1j8b	
+fairleigh dickinson florham devils track and field	1j8b	
+fairleigh dickinson university	1j8b	
+fairleigh dickinsonflorham devils football	1j8b	
+fairleigh dickinsonflorham devils track and field	1j8b	
+farmstead	62os	158p:2
+farmstead cheese	158p	
+flainval	2pbg	
+flez		3gka:2
+flez cuzy	3gka	
+forth alberta	b5z	
+forth estuary	3j21	
+forth of firth	3j21	
+forth of july	6hfm	
+forth street works	imh	
+forth worth tex	1no	
+forth worth texas	1no	
+forth worth tx	1no	
+frederick guthrie	4cxg	
+frise	1zn0	
+frise somme	1zn0	
+frotey		2il9:3,3v7e:3
+frotey les		2il9:3,3v7e:3
+frotey les lure	3v7e	
+frotey les vesoul	2il9	
+girays	1veq	
+gmina potok		1zq4:3,4dqa:3
+gmina potok gorny	4dqa	
+gmina potok wielki	1zq4	
+goeynuek	aud	
+goeynuek turkey	aud	
+gouverneure generale du canada	dlb	
+hermosa	2kgw	vl1:2
+hermosa bataan	2kgw	
+hermosa beach	vl1	
+hermosa beach ca	vl1	
+hermosa beach california	vl1	
+hermosa valley greenbelt	vl1	
+heymans corneille jean francois	4azg	
+hildburghausen	nxy,ppp	
+hildburghausen district	ppp	
+hildburghausen germany	nxy	
+hornoy		xvq:3
+hornoy le		xvq:3
+hornoy le bourg	xvq	
+howden	3p90	
+howden comments	3p90	
+howden east riding of yorkshire	3p90	
+howden junior school	3p90	
+howden yorkshire	3p90	
+iiusfooter	q4m	
+inviscid	5h46	
+jacksen		3kyb:3
+jacksen f		3kyb:3
+jacksen f tiago	3kyb	
+jacksen ferreira tiago	3kyb	
+james voss	22jt	
+jarosik	3fac	
+john paintsil	1qyp	
+karthika		4x8f:2
+karthika menon	u6r	
+karthika nair	4x8f	
+kastriot		69ft:2
+kastriot kastrati	69ft	
+keel	5bw3	3lk:2
+keel band	5bw3	
+keel heavy metal band	5bw3	
+keel laying	3lk	
+kindly kill me	27cb	
+kode bryant	tsu	
+koninklijke		7mi:3,cjm:7,sx4:9,56su:3
+koninklijke academie		cjm:7
+koninklijke academie van beeldende kunsten	2o4o	
+koninklijke academie van beeldende kunsten in amsterdam	1uk6	
+koninklijke academie voor		cjm:7
+koninklijke academie voor nederlandse		cjm:7
+koninklijke academie voor nederlandse taal		cjm:7
+koninklijke academie voor nederlandse taal en		cjm:7
+koninklijke academie voor nederlandse taal en letterkunde	cjm	
+koninklijke academie voor schone kunsten	1yul	
+koninklijke academie voor schone kunsten antwerpen	36ob	
+koninklijke ahold n v	24js	
+koninklijke atletiek associatie gent	3qv	
+koninklijke beerschot antwerpen club	4r7	
+koninklijke beerschot voetbal en atletiek club	cqi	
+koninklijke belgische voetbalbond	6mu	
+koninklijke brill	1f9u	
+koninklijke brill nv	1f9u	
+koninklijke kpn	47ku	
+koninklijke luchtmacht	1z4f	
+koninklijke luchtvaart mij	uj3	
+koninklijke musea voor schone kunsten	1kz9	
+koninklijke musea voor schone kunsten van belgie	1kz9	
+koninklijke nederlandse academie van wettenshappen	1ei	
+koninklijke nederlandse akademie van wetenschappen	1ei	
+koninklijke philips		7mi:3
+koninklijke philips nv	7mi	
+koninklijke sportkring heist	2xnw	
+koninklijke sportvereniging waregem	qqs	
+koninklijke standaard		56su:3
+koninklijke standaard wetteren	56su	
+koninklijke sterrenwacht van belgie	fcr	
+koninklijke vlaamse		sx4:9
+koninklijke vlaamse academie		sx4:9
+koninklijke vlaamse academie van		sx4:9
+koninklijke vlaamse academie van belgie	sx4	sx4:9
+koninklijke vlaamse academie van belgie voor		sx4:9
+koninklijke vlaamse academie van belgie voor wetenschappen		sx4:9
+koninklijke vlaamse academie van belgie voor wetenschappen en		sx4:9
+koninklijke vlaamse academie van belgie voor wetenschappen en kunsten	sx4	
+koninklijke vlaamse academie voor taal en letterkunde	cjm	
+koninklijke voetbal club westerlo	67g	
+koninklijke voetbalclub kortrijk	6p9	
+kustanaiska oblast	qdv	
+liberty	19ac,4x25,5n8r	325:2,byl:4,inh:2,o96:4,re7:3,yay:2,13tw:2,1ekx:2,1smb:2,2nzo:2,475h:3,4ux5:3,50se:2,6bz2:2,6h61:2
+liberty 1929 film	4x25	
+liberty avenue elevated	2rl6	
+liberty bank stadium des moines	ixq	
+liberty baptist college	13tw	
+liberty baptist theological seminary	13tw	
+liberty bell	6h61	4ux5:3
+liberty bell center	6h61	
+liberty bell classic	4ux5	
+liberty bell philadelphia	6h61	
+liberty cabbage	4m5k	
+liberty california	4po	
+liberty canyon	sxg	
+liberty city free radio	5r9e	
+liberty class	inh	
+liberty college	13tw	
+liberty county	1ekx,2nzo	
+liberty county ga	1ekx	
+liberty county georgia	1ekx	
+liberty county texas	2nzo	
+liberty county tx	2nzo	
+liberty defending the people	o96	
+liberty doc	5n8r	
+liberty express airlines	63iu	
+liberty for the wolves is death for the lambs	3afw	
+liberty global	yay	
+liberty global europe	yay	
+liberty global inc	yay	
+liberty guard	4kzo	
+liberty guiding the people	o96	
+liberty hall academy	3yi	
+liberty hall oysterband	5gg3	
+liberty heights	1smb	
+liberty intermediate school lakenheath	44e2	
+liberty international airport	1esj	
+liberty korea	re7	re7:3
+liberty korea party	re7	
+liberty leading		o96:4
+liberty leading the		o96:4
+liberty leading the people	o96	
+liberty leading the people 28 july 1830	o96	
+liberty leading the people 28th july 1830	o96	
+liberty medal	1dpk	
+liberty media	6bz2	
+liberty media corp	6bz2	
+liberty media corporation	6bz2	
+liberty middle school camas washington	2pec	
+liberty missouri	19ac	
+liberty mo	19ac	
+liberty of peckham	nbl	
+liberty of southwark	a00	
+liberty of the fleet	iuk	
+liberty online academy	13tw	
+liberty online ministries	13tw	
+liberty oradea	1nbv	
+liberty party italy	bux	
+liberty professionals	byl	byl:4
+liberty professionals f		byl:4
+liberty professionals f c	byl	
+liberty professionals fc	byl	
+liberty records	325	
+liberty richard	5w9b	
+liberty riot	1c5y	
+liberty salonta	1nbv	
+liberty seguros	2qm1	
+liberty seguros team	2qm1	
+liberty seguros wuerth team	2qm1	
+liberty seguros wurth	2qm1	
+liberty seguros wurth team	2qm1	
+liberty ship	inh	
+liberty ships	inh	
+liberty stands		475h:3
+liberty stands still	475h	
+liberty statue of	19dh	
+liberty steak	ihf	
+liberty theological seminary	13tw	
+liberty theological seminary and graduate school	13tw	
+liberty u	13tw	
+liberty university helms school of government	13tw	
+liberty university online academy	13tw	
+liberty university school of business	13tw	
+liberty valance	xpe	
+liberty valence	xpe	
+liberty valley	xpe	
+liberty village manhattan beach california	jrt	
+liberty x	50se	
+litigants	4zax	
+liublinas	3j1	
+llega sartana	3lkq	
+lmvh	o3g	
+lotria	ken	
+lsl	7ss	
+ludsen	1vvb	
+m1o	19wb	
+majoros	3ff7	
+mattresses	5tn9	
+maximiani portas	3pd5	
+maximiani portaz	3pd5	
+mcmxxvii	1e5c	
+michael shinoda	dk1	
+monny moshonov	3yow	
+montanchez	1mdi	
+montgeard	26zt	
+mothe lode movie	2x3e	
+muchachas		468i:3
+muchachas que		468i:3
+muchachas que estudian	468i	
+neobaroque	16fg	
+nikitas		5bdd:2,67ey:2
+nikitas kaklamanis	67ey	
+nikitas m kaklamanis	67ey	
+nikitas platis	5bdd	
+olympiotes	2rg9	
+ostrows republic	10pv	
+ouu line	djq	
+ouu main line	djq	
+pavic milorad	2exw	
+phalangers	6ffm	
+photons	4yen	
+pleuradena	3rq	
+podhale		5tya:3
+podhale nowy		5tya:3
+podhale nowy targ	5tya	
+prestice	21uk	
+prince dhevan uthayavongse of siam the prince dhevavongse varopakarn	54ly	
+proce	6ghh	
+puducheri	h73	
+robert gadocha	4ho6	
+robert hewitt		1w0y:3
+robert hewitt wolfe	1w0y	
+sappho	2jf4	
+sappho fragment 1 hymn to aphrodite	2jf4	
+sappho of lesbos	2jf4	
+schwarzenegger arnold	9te	
+schwarzenegger institute for state and global policy	9te	
+sechilienne	357n	
+section	b9e	fnu:2,4lbo:3,4yg4:2
+section 26	73m	
+section 303	3y2	
+section 501 c	4yn8	
+section 501 c 3	pwv	
+section 92 14 court	5f2n	
+section botany	b9e	
+section du theatre francais	35bm	
+section eight		4lbo:3
+section eight artemis fowl	2kcd	
+section eight productions	4lbo	
+section element	3nlg	
+section francaise de l internationale ouvriere	5g8	
+section francaise de linternationale ouvriere	5g8	
+section headers of a chinese dictionary	5e0	
+section of land	6giu	
+section paloise	fnu	
+section patrol boat	6cn	
+section speciale	4yg4	
+seeding drug discovery initiative	27sk	
+senseless	3nt7	
+senseless film	3nt7	
+senseless movie	3nt7	
+sherwood	2few	1kqz:2,291y:2,2ktd:2,53qq:2,5eh6:3
+sherwood anderson	291y	
+sherwood c		5eh6:3
+sherwood c spring	5eh6	
+sherwood charles schwartz	2ktd	
+sherwood clark spring	5eh6	
+sherwood park	1kqz	
+sherwood park ab	1kqz	
+sherwood park alberta	1kqz	
+sherwood robert e	s7b	
+sherwood rowland	1c6l	
+sherwood schwartz	2ktd	
+sherwood smith	53qq	
+sherwood smith books	53qq	
+sherwood spring	5eh6	
+sherwood steve	4vc0	
+singai nagar	5c5y	
+stripsody	50sj	
+suderoy	1taj	
+sudfriedhof leipzig	419k	
+sugamuxi		6ete:2
+sugamuxi province	6ete	
+sura	52yt	
+sura river	52yt	
+sura taraweeh	a28	
+sura tarawih	a28	
+sutrieu	2c6h	
+talissieu	2cvb	
+the fireman	44a0,4h36	
+the fireman 1916 film	44a0	
+the fireman band	4h36	
+the fireman music	4h36	
+the horned king	3fov	
+thomas picketty	4eof	
+transylvanians	emm	
+trebek	3ixe	
+trevas bardette	17f4	
+trumpfzwang	4nwx	
+tuf kat list of drums	jlx	
+tuftscope	1ve	
+tuftscope the interdisciplinary journal of health ethics and policy	1ve	
+turquie	1w	
+uikyo ye	rg7	
+ulaan baataar	4sm	
+ulaan baatar	4sm	
+ulaan bataar	4sm	
+ulaan chab	1hec	
+ulaan chab inner mongolia	1hec	
+urruticoechea javier	1sjz	
+vibrac	42y3	
+vibrac charente maritime	42y3	
+vsehrdy	4gil	
+vsehrdy plzen north district	4gil	
+weddings	18qt	5c1e:3
+weddings parties		5c1e:3
+weddings parties anything	5c1e	
+wildland fire	hmx	
+william paterson	4sf7	
+william paterson judge	4sf7	
+william paterson jurist	4sf7	
+yervan	11k	
+zhuya commandery	hq5	
+zornotza	1bzw	

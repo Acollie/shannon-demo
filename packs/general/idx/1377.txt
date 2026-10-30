@@ -1,0 +1,824 @@
+150	2gwl	
+150 greenwich	3poe	
+150 greenwich street	3poe	
+1670 1679	28il	
+62 fis	1vw4	
+62 fits	1vw4	
+62 fs	1vw4	
+62 ps	1vw4	
+62 tfts	1vw4	
+a horse a spoon and a basin	3cvc	
+a horse and his boy	13su	
+a horse named comanche	1rcx	
+a zaz district	1dpj	
+abbottabod	1agc	
+abq	2bs	
+aguts	3k5h	
+almaty	2pz	o8b:2,4540:3
+almaty airport	4540	
+almaty international		4540:3
+almaty international airport	4540	
+almaty kazakhstan	2pz	
+almaty oblast	o8b	
+almaty oblysy	o8b	
+almaty province	o8b	
+almaty region	o8b	
+almaty united football club	2pz	
+amortality	64gf	
+badmitten	9z	
+barmbek		2q31:2
+barmbek railway station	2q31	
+barmbek station	2q31	
+barsenose	2gb	
+beaupreau	1c84	1dy8:3
+beaupreau en		1dy8:3
+beaupreau en mauges	1dy8	
+booboo		2rog:2
+booboo stewart	2rog	
+brindisi	az6	4elt:2
+brindisi basket	2szl	
+brindisi calcio	i9j	
+brindisi di montagna	4elt	
+brindisi italy	az6	
+brindisi montagna	4elt	
+brindisi province	pok	
+busani	5u94	
+busker	4yo	
+butleria cypselides	c7c	
+byzantinesasanian war of 602628	19x7	
+carloni talli	4apr	
+caughey mark	3q6z	
+centrolepis	3hmk	
+ceprovice	4aj4	
+chengdu	4jl	a5j:4,538k:3,5uhw:3
+chengdu blades	a5j	
+chengdu blades f c	a5j	
+chengdu blades fc	a5j	
+chengdu city	4jl	
+chengdu dujiangyan high speed railway	1wvq	
+chengdu dujiangyan intercity railway	1wvq	
+chengdu f 7 air guard	538k	
+chengdu f 7b	538k	
+chengdu five bull	a5j	
+chengdu five bull f c	a5j	
+chengdu five bull fc	a5j	
+chengdu ft 7 air guard	538k	
+chengdu ft 7s airguard	538k	
+chengdu j		538k:3
+chengdu j 7	538k	
+chengdu j7	538k	
+chengdu jj 7	538k	
+chengdu jz 7	538k	
+chengdu lidui intercity railway	1wvq	
+chengdu pengzhou intercity railway	1wvq	
+chengdu railway		5uhw:3
+chengdu railway bureau	i3u	
+chengdu railway station	5uhw	
+chengdu shi	4jl	
+chengdu tiancheng	a5j	a5j:4
+chengdu tiancheng f		a5j:4
+chengdu tiancheng f c	a5j	
+chengdu wuniu	a5j	
+chenimenil	25tk	
+chrysoclista	69rf	
+chunky		15zw:2
+chunky a	3t1z	
+chunky pandey	15zw	
+ciamician	45sp	
+cism	3wu7	
+collatines	wb	
+cozmin	26r5	
+curio	23gg,4q8j	
+curio switzerland	23gg	
+curio ti	23gg	
+curio ticino	23gg	
+curio twelfth night	33pu	
+curufinwe	2jtu	
+dawrey alshaheed fahed alahmed	1jkc	
+democraten 66	esw	
+democraticfarmerlabor party	4aa	
+disentry	a9g	
+dottoressa preferisce i marinai	4gxt	
+dricourt	37ax	
+druten	1qza	
+druten netherlands	1qza	
+duval	14yl	1ng2:2
+duval clear	20vw	
+duval college	ha7	
+duval county	1ng2	
+duval county fl	1ng2	
+duval county florida	1ng2	
+duval fl	1ng2	
+duval florida	1ng2	
+duval patrick	5uo7	
+duval surname	14yl	
+dylan	67u,3q9u	mkl:2,sto:2,1a05:2,1fks:2,1jkf:2,1o6e:2,2n8m:2,2x4d:3,2xip:2,30lo:5,3d2z:3,3pbs:3,3q3u:2,3vs4:2,4fmn:2,4fol:2,4moa:2,4r6v:4,5m2w:2,5ung:2,653f:2,67f9:2,69ic:2
+dylan 1973 album	3q9u	
+dylan a fool such as i	3q9u	
+dylan and		4r6v:4
+dylan and cole		4r6v:4
+dylan and cole sprouse	4r6v	
+dylan baker	mkl	
+dylan bob	2pb	
+dylan borlee	5m2w	
+dylan bruno	1a05	
+dylan christopher minnette	3q3u	
+dylan cuthbert	5m4g	
+dylan dog		30lo:5
+dylan dog dead		30lo:5
+dylan dog dead of		30lo:5
+dylan dog dead of night	30lo	
+dylan farrow	e37	
+dylan first name	67u	
+dylan given name	67u	
+dylan groenewegen	1o6e	
+dylan hughes	5ung	
+dylan joseph neal	4fmn	
+dylan kerr	2n8m	
+dylan kidd	67f9	
+dylan kwabena mills	reu	
+dylan lauren	69ic	
+dylan macallister	2xip	
+dylan marlais thomas	1jkf	
+dylan mcdermitt	sto	
+dylan mcdermot	sto	
+dylan mcdermott	sto	
+dylan mills	reu	
+dylan minnette	3q3u	
+dylan moran	653f	
+dylan name	67u	
+dylan neal	4fmn	
+dylan o		3d2z:3
+dylan o brien	3d2z	
+dylan obrien	3d2z	
+dylan or a fool such as i 1973 bob dylan album	3q9u	
+dylan penn	4moa	
+dylan spouse	4r6v	
+dylan sprouse	3pbs	3pbs:3
+dylan sprouse actor	3pbs	
+dylan surname	67u	
+dylan teuns	4fol	
+dylan thomas	1jkf	
+dylan thomas sprouse	4r6v	
+dylan tichenor	3vs4	
+dylan tomas	1jkf	
+dylan van		2x4d:3
+dylan van baarle	2x4d	
+dylan walsh	1fks	
+edw	6n	
+edw 2	q4z	
+edw 3	ukb	
+edw 4	pa8	
+edw 5	12yv	
+edw 6	17rt	
+edw 7	fgk	
+edw 8	m4x	
+edw landseer	2agy	
+eoghanacht	3spu	
+erekle i	62t5	
+erekle i of kakheti	62t5	
+erekle i of kartli	62t5	
+erekle ii	s8b	
+fc nurnberg	2fn	
+feissons		326a:3
+feissons sur		326a:3
+feissons sur salins	326a	
+forested	33q	
+forested wetland	met	
+fredlanea	5531	
+grammene	ly0	
+guikong	3o72	
+haardt	40w2	
+haardt mountains	40w2	
+haardt palatinate	40w2	
+haardt palatinate forest	40w2	
+haardt palatine forest	40w2	
+haardt pfalz	40w2	
+haardt pfalzerwald	40w2	
+hannoversche landsmannschaft	1vg4	
+hannoversche maschinenbau	1zs4	
+hannoversche maschinenbau ag	1zs4	
+hannoversche sudbahn	5m9l	
+harpalus	2qd	
+harpalus genus	2qd	
+herourvillette	3j33	
+huxa	65c2	
+hydrogenbomb	4eeh	
+illarramendi	3s5v	
+ivisa	p4t	
+jarrah		3vtb:2
+jarrah records	3vtb	
+jeru		4qiq:3
+jeru tha damaja	4qiq	
+jeru the		4qiq:3
+jeru the damaja	4qiq	
+joeseph	5z	
+joeseph cao	6dp6	
+joeseph dombrowski	4xss	
+joeseph lyons	zdu	
+joeseph weizenbaum	60ld	
+john baker	6d30	
+john baker hollister	5s3n	
+john baker musher	6d30	
+jyvaeskylae	4kr	
+jyvaeskylae finland	4kr	
+karleinz stockhausen	lyp	
+knopp guido	5y1g	
+knurow	1f59	
+kokor	4yg3	
+kopicki	4l88	
+koyasu takehito	2vo5	
+kupala		56ti:2
+kupala day	56ti	
+kupala night	56ti	
+laurahuette	tde	
+leninite	62qw	
+leytenant	7tz	
+ljubov orlova	170s	
+lots	4aa6	
+lots of irritating superfluous parentheses	ja8	
+malka opiekun	4jvv	
+marseillais	ui	
+marszaek pisudski	lml	
+marszaek sejmu	6fmb	
+marszaek senatu rzeczypospolitej polskiej	6fmb	
+martial		1bb:3,3wq:2,2qvb:4
+martial anthony	3hq1	
+martial art	3wq	
+martial art film	1bb	
+martial artist	3wq	
+martial arts	3wq	1bb:3,2qvb:4
+martial arts actor	1bb	
+martial arts actors	1bb	
+martial arts doc	3wq	
+martial arts fiction	1bb	
+martial arts film	1bb	
+martial arts films	1bb	
+martial arts genre	1bb	
+martial arts movie	1bb	
+martial arts movies	1bb	
+martial arts of		2qvb:4
+martial arts of shaolin	2qvb	
+martial arts tournament	3wq	
+martial dance	3wq	
+martial emperor of han	1kof	
+martial law 9 11 rise of the police state	6adi	
+martial school	3wq	
+martial science	3wq	
+martial sport	3wq	
+martial style	3wq	
+mature victor	ita	
+maximeatpr sandbox	6dx1	
+miles	4v9,4gbo,5w9h	6df:2,ejh:2,kbi:2,td4:4,z4g:2,1lpe:7,1vi5:2,23df:2,26w2:2,2q6p:3,2w1g:2,3llw:3,3orm:2,401r:2,43sg:2,47wb:7,4hn8:3,52fh:2,5npr:3,5u1e:2,5v0w:2,5yyq:2
+miles addison	52fh	
+miles alexander teller	26w2	
+miles and mud tires	5frn	
+miles anthony reid	5v0w	
+miles archer	16rn	
+miles away the truth is	4opf	
+miles axe copeland	4hn8	
+miles axe copeland iii	4hn8	
+miles barnyard	1jcq	
+miles bennet dyson	nnl	
+miles bennett dyson	nnl	
+miles bernard james baron miles	1azt	
+miles bonus	47hh	
+miles c dempsey	401r	
+miles city	1vi5	
+miles city montana	1vi5	
+miles city mt	1vi5	
+miles copeland		4hn8:3
+miles copeland iii	4hn8	
+miles david	6df	
+miles davies	6df	
+miles davis	6df	
+miles davis comments	6df	
+miles davis septet	6df	
+miles de gloucester	47wb	
+miles de gloucester 1st earl of hereford	47wb	
+miles de gloucester 1st earl of hereford lord of brecknock	47wb	
+miles deem	2ds9	
+miles dempsey	401r	
+miles dewey davis	6df	
+miles dewey davis iii	6df	
+miles dewey davis iii davis	6df	
+miles drentell	10qn	
+miles edwin godwin	4mcr	
+miles edwin godwin jr	4mcr	
+miles errant	2rju	
+miles first name	4v9	
+miles fisher	5u1e	
+miles fitzalan		1lpe:7
+miles fitzalan howard	1lpe	1lpe:7
+miles fitzalan howard 17th		1lpe:7
+miles fitzalan howard 17th duke		1lpe:7
+miles fitzalan howard 17th duke of		1lpe:7
+miles fitzalan howard 17th duke of norfolk	1lpe	
+miles francis stapleton fitzalan howard	1lpe	
+miles francis stapleton fitzalan howard 17th duke of norfolk	1lpe	
+miles franklin	23df	td4:4
+miles franklin award	td4	
+miles franklin literary		td4:4
+miles franklin literary award	td4	
+miles franklin literary award winners	td4	
+miles from		2q6p:3
+miles from home	2q6p	
+miles gilbert horton	2j5q	
+miles gilbert tim horton	2j5q	
+miles given name	4v9	
+miles godwin	4mcr	
+miles goodman	z4g	
+miles hendon	3bza	
+miles high	2llh	
+miles jones	43sg	
+miles joseph	5yyq	
+miles kane	3orm	
+miles kennedy	1k0b	
+miles malleson	kbi	
+miles mallison	kbi	
+miles mander	ejh	
+miles messervey	syq	
+miles messervy	syq	
+miles millar	2w1g	
+miles monroe	16kh	
+miles name	4v9	
+miles o		5npr:3
+miles o keefe	5npr	
+miles o keeffe	5npr	
+miles of		47wb:7
+miles of gloucester	47wb	47wb:7
+miles of gloucester 1st		47wb:7
+miles of gloucester 1st earl		47wb:7
+miles of gloucester 1st earl of		47wb:7
+miles of gloucester 1st earl of hereford	47wb	
+miles okeefe	5npr	
+miles peter kane	3orm	
+miles prower	3llw	
+miles queensland	4gbo	
+miles reid	5v0w	
+miles sarah	1ra6	
+miles stapleton fitzalan howard 17th duke of norfolk	1lpe	
+miles surname	5w9h	
+miles tails		3llw:3
+miles tails prower	3llw	
+miles tails prower archie character	3llw	
+miles tails prower character	3llw	
+miles tails prowler	3llw	
+miles teller	26w2	
+miles town	4gbo	
+miles webber	1lga	
+miles zuniga	4jau	
+mingna	2u6z	
+mingna wen	2u6z	
+mmxxl	1jco	
+molins		1cw1:3,2dcl:3
+molins de		1cw1:3
+molins de rei	1cw1	
+molins de rey	1cw1	
+molins sur		2dcl:3
+molins sur aube	2dcl	
+myelophila	5n8k	
+nahuala	467v	
+national lacrosse		125c:3
+national lacrosse league	125c	
+needlemouse	5lu3	
+niedersachsen	1kp	
+niedersachsen state germany	1kp	
+nyul	5d4u	
+pastoral		338r:2
+pastoral concert	338r	
+pastoral concert titian	338r	
+pastoral unincorporated area	47e	
+paul meyer	21dt	
+paul meyer philologist	21dt	
+paul r		1ofu:3,2ddd:3,4c9p:7,6eer:3
+paul r ehrlich	1ofu	
+paul r garabedian	3puv	
+paul r gross	6eer	
+paul r halmos	2c1c	4c9p:7
+paul r halmos lester		4c9p:7
+paul r halmos lester r		4c9p:7
+paul r halmos lester r ford		4c9p:7
+paul r halmos lester r ford award	4c9p	
+paul r halmos lester r ford awards	4c9p	
+paul r ilyinsky	507u	
+paul r krugman	w5i	
+paul r lepage	3vqy	
+paul r smith	3rt4	
+paul r willams	2ddd	
+paul r williams	2ddd	
+peirsol aaron	4abq	
+peyriat	2j0y	
+polishswedish war 16551660	579d	
+pridiviraj	bpw	
+prince naris	1z41	
+resident	3tdl	jou:2,ll4:3,x3k:3,znt:3,11oj:2,13z2:3,1fqb:3,1gla:5,31au:3,3cib:3,3tdl:2,3tol:3,3ypt:5,3ysa:3,4g6s:2,4qkb:2,5d30:4,5neg:4,6cei:4
+resident comissioner puerto rico	3ypt	
+resident commissioner		3ypt:5
+resident commissioner chatham dockyard	xqh	
+resident commissioner devonport dockyard	2prf	
+resident commissioner from puerto rico	3ypt	
+resident commissioner of		3ypt:5
+resident commissioner of puerto		3ypt:5
+resident commissioner of puerto rico	3ypt	
+resident commissioner plymouth dockyard	2prf	
+resident commissioners from puerto rico	3ypt	
+resident dj	n2	
+resident djs	n2	
+resident evii biohazard	5neg	
+resident evil	jou,11oj,4g6s,4qkb	ll4:3,x3k:3,znt:3,13z2:3,1fqb:3,1gla:5,31au:3,3cib:3,3tol:3,3ysa:3,5d30:4,5neg:4,6cei:4
+resident evil 1	4g6s	
+resident evil 1 5	3cib	
+resident evil 1996 video game	4g6s	
+resident evil 2	3cib	
+resident evil 2 1998 video game	3cib	
+resident evil 2 apocalypse	x3k	
+resident evil 2 dual shock edition	3cib	
+resident evil 2 reborn	3cib	
+resident evil 2002 film	11oj	
+resident evil 3		6cei:4
+resident evil 3 afterlife	znt	
+resident evil 3 extinction	13z2	
+resident evil 3 film	13z2	
+resident evil 3 nemesis	6cei	
+resident evil 3d	znt	
+resident evil 4	1fqb	
+resident evil 4 5	31au	
+resident evil 4 afterlife	znt	
+resident evil 4 film	znt	
+resident evil 4 story	1fqb	
+resident evil 4 ultimate hd edition	1fqb	
+resident evil 4 wii edition	1fqb	
+resident evil 5	58qv	
+resident evil 5 alternative edition	58qv	
+resident evil 5 film	ll4	
+resident evil 5 gold edition	58qv	
+resident evil 5 retribution	ll4	
+resident evil 6	3tol	
+resident evil 6 film	1gla	
+resident evil 6 the final chapter	1gla	
+resident evil 7	5neg	
+resident evil 7 biohazard	5neg	
+resident evil 8	5neg	
+resident evil afterlife	znt	
+resident evil afterlife 3d	znt	
+resident evil apocalypse	x3k	
+resident evil begins	4qkb	
+resident evil biohazard	5neg	
+resident evil city of the dead	3cib	
+resident evil code		5d30:4
+resident evil code veronica	5d30	
+resident evil code veronica book	5d30	
+resident evil code veronica x	5d30	
+resident evil code veronica x ps2	5d30	
+resident evil comic	jou	
+resident evil damnation	3ysa	
+resident evil deadly silence	4g6s	
+resident evil degeneration	31au	
+resident evil ds	4g6s	
+resident evil extinction	13z2	
+resident evil extinction online convoy game	13z2	
+resident evil extinction production history	13z2	
+resident evil extinction sequel	13z2	
+resident evil film	11oj	
+resident evil film series	4qkb	
+resident evil final chapter	1gla	
+resident evil five	58qv	
+resident evil franchise	jou	
+resident evil game	4g6s	
+resident evil hd remastered	4g6s	
+resident evil ii	3cib	
+resident evil iii	6cei	
+resident evil iv	1fqb	
+resident evil movie	11oj	
+resident evil movies games and books	jou	
+resident evil nemesis	6cei	
+resident evil nemesis book	6cei	
+resident evil retribution	ll4	
+resident evil retribution 3d	ll4	
+resident evil rising	4qkb	
+resident evil series	jou	
+resident evil series characters	jou	
+resident evil survivor 2 code veronica	5d30	
+resident evil the		1gla:5
+resident evil the final		1gla:5
+resident evil the final chapter	1gla	
+resident evil the final chapter 3d	1gla	
+resident evil the final chapter an imax 3d experience	1gla	
+resident evil the final chapter film	1gla	
+resident evil the stories	jou	
+resident evil the umbrella conspiracy	4g6s	
+resident evil three	6cei	
+resident evil two	3cib	
+resident evil uprising	3cib	
+resident evil v	58qv	
+resident evil vi	1gla	
+resident evil vi the final chapter	1gla	
+resident evil vii	5neg	5neg:4
+resident evil vii biohazard	5neg	
+resident evilcode veronica	5d30	
+resident evill 5	58qv	
+resident honors program	g7	
+resident shield	4ll0	
+resident system extension	1kvi	
+rethymnon	noa	
+rethymnon greece	noa	
+richard landis	57j2	
+richard potash	1xpo	
+robben		o8t:2,47dt:2
+robben eiland	o8t	
+robben ford	47dt	
+robben island	o8t	
+robben island museum	o8t	
+robben island prison	o8t	
+robben lee ford	47dt	
+robben s island	o8t	
+rode sebastian	4s0n	
+s9	1coj,4z88	
+s9 classification	1coj	
+saguntum	h1s	
+saint amadou	3ptb	
+sanka coffie	1p5l	
+shadow		xi0:4,1g3w:3,1lgg:5,1o8b:4,1yq1:2,22oq:2,23hx:2,24by:3,2h43:5,2kbz:3,2kqf:3,2vhn:7,36a6:10,3hjr:8,3j93:9,3m4r:6,414x:4,440o:9,4boa:6,4dv4:6,4f88:6,52ol:3,53wm:2,57c4:8,5dvw:2,5nxt:4,5o0m:4,5r41:7,5seq:2,5u3n:2,66my:2,69yu:4,6b0t:6,6cfq:7,6g8l:3,6h05:4
+shadow and light	5v5g	
+shadow business secretary	3hjr	
+shadow cabinet of alec douglas home	2s1t	
+shadow cabinet of clement attlee	10fz	
+shadow cabinet of edward heath 1974 1975	14io	
+shadow cabinet of edward heath 19741975	14io	
+shadow cabinet of george brown	399d	
+shadow cabinet of hugh gaitskell	2xi9	
+shadow cabinet of the united kingdom	3ss6	
+shadow cabinet uk	3ss6	
+shadow cat	6e4w	
+shadow chancellor	2h43	2h43:5
+shadow chancellor of		2h43:5
+shadow chancellor of the		2h43:5
+shadow chancellor of the duchy of lancaster	c28	
+shadow chancellor of the exchequer	2h43	
+shadow chief		4f88:6
+shadow chief secretary		4f88:6
+shadow chief secretary to		4f88:6
+shadow chief secretary to the		4f88:6
+shadow chief secretary to the treasury	4f88	
+shadow clock	3re2	
+shadow clone	2bsq	
+shadow conspiracy	1yq1	
+shadow dancer	23hx	
+shadow dancer film	23hx	
+shadow defence secretary	4boa	
+shadow director	4s8f	
+shadow economic secretary to the treasury	3mxm	
+shadow education	4ikr	
+shadow education minister	3m4r	
+shadow font	2pv	
+shadow foreign		2kqf:3
+shadow foreign secretary	2kqf	
+shadow gate	53pp	
+shadow health secretary	440o	
+shadow hedgehog	6g8l	
+shadow home		24by:3
+shadow home sec	24by	
+shadow home secretary	24by	
+shadow hours	5dvw	
+shadow hunter	4fur	
+shadow hunter tv series	4fur	
+shadow international development secretary	5r41	
+shadow kissed novel	2tl0	
+shadow leader		2vhn:7
+shadow leader of		2vhn:7
+shadow leader of the		2vhn:7
+shadow leader of the house		2vhn:7
+shadow leader of the house of		2vhn:7
+shadow leader of the house of commons	2vhn	
+shadow leader of the house of lords	tkz	
+shadow lord president of the council	eys	
+shadow lord privy seal	g17	
+shadow makers film	2hdz	
+shadow man	5seq	
+shadow man 2006 film	5seq	
+shadow minister for agriculture fisheries and food	4ptx	
+shadow minister for europe	394t	
+shadow minister for foreign affairs	2kqf	
+shadow minister for health and ageing	62zd	
+shadow minister for local government and housing	4uqc	
+shadow minister for overseas development	5r41	
+shadow minister for the cabinet office	49wh	
+shadow minister of agriculture fisheries and food	36xk	
+shadow morton	5u3n	
+shadow moses island	59ai	
+shadow moss	50o0	
+shadow of		xi0:4,1g3w:3,1lgg:5,1o8b:4,2kbz:3,414x:4,5nxt:4,5o0m:4,69yu:4,6h05:4
+shadow of a		1o8b:4,5nxt:4
+shadow of a doubt	1o8b,5nxt	
+shadow of a doubt 1943 film	1o8b	
+shadow of a doubt 1993 film	5nxt	
+shadow of doubt	2kbz	
+shadow of doubt 1998 film	2kbz	
+shadow of evil	1g3w	
+shadow of freedom	2hrz	
+shadow of mordor	60os	
+shadow of the		xi0:4,1lgg:5,414x:4,5o0m:4,69yu:4,6h05:4
+shadow of the beast	5o0m	
+shadow of the blair witch	3t3q	
+shadow of the cat	414x	
+shadow of the day	69yu	
+shadow of the eagle	57hn	57hn:5
+shadow of the guillotine	qp5	
+shadow of the hegemon	6h05	
+shadow of the thin		1lgg:5
+shadow of the thin man	1lgg	
+shadow of the torturer	6cfv	6cfv:5
+shadow of the vampire	xi0	
+shadow paymaster general	2dxb	
+shadow prime minister	tkz	
+shadow rising		6fin:3
+shadow s fall	2rmc	
+shadow scotland secretary	qf9	
+shadow scottish secretary	6b0t	
+shadow secretary		36a6:10,3hjr:8,3j93:9,3m4r:6,440o:9,4boa:6,4dv4:6,57c4:8,5r41:7,6b0t:6,6cfq:7
+shadow secretary of		36a6:10,3hjr:8,3j93:9,3m4r:6,440o:9,4boa:6,4dv4:6,57c4:8,5r41:7,6b0t:6,6cfq:7
+shadow secretary of state		36a6:10,3hjr:8,3j93:9,3m4r:6,440o:9,4boa:6,4dv4:6,57c4:8,5r41:7,6b0t:6,6cfq:7
+shadow secretary of state for		36a6:10,3hjr:8,3j93:9,3m4r:6,440o:9,4boa:6,4dv4:6,57c4:8,5r41:7,6b0t:6,6cfq:7
+shadow secretary of state for business		3hjr:8
+shadow secretary of state for business and		3hjr:8
+shadow secretary of state for business and trade	3hjr	
+shadow secretary of state for business energy and industrial strategy	3hjr	
+shadow secretary of state for business innovation and skills	3hjr	
+shadow secretary of state for children schools and families	3ss6	
+shadow secretary of state for culture		3j93:9
+shadow secretary of state for culture media		3j93:9
+shadow secretary of state for culture media and		3j93:9
+shadow secretary of state for culture media and sport	3j93	
+shadow secretary of state for defence	4boa	
+shadow secretary of state for digital culture media and sport	3j93	
+shadow secretary of state for education	3m4r	
+shadow secretary of state for education and science	3m4r	
+shadow secretary of state for education and skills	3m4r	
+shadow secretary of state for environment	36a6	36a6:10
+shadow secretary of state for environment and transport	4dv4	
+shadow secretary of state for environment food		36a6:10
+shadow secretary of state for environment food and		36a6:10
+shadow secretary of state for environment food and rural		36a6:10
+shadow secretary of state for environment food and rural affairs	36a6	
+shadow secretary of state for foreign affairs	2kqf	
+shadow secretary of state for foreign and commonwealth affairs	2kqf	
+shadow secretary of state for health	440o	440o:9
+shadow secretary of state for health and		440o:9
+shadow secretary of state for health and social		440o:9
+shadow secretary of state for health and social care	440o	
+shadow secretary of state for health and social services	440o	
+shadow secretary of state for housing and construction	62wk	
+shadow secretary of state for industry	3hjr	
+shadow secretary of state for international		5r41:7
+shadow secretary of state for international development	5r41	
+shadow secretary of state for local and devolved government affairs	62wk	
+shadow secretary of state for national heritage	3j93	
+shadow secretary of state for northern		6cfq:7
+shadow secretary of state for northern ireland	6cfq	
+shadow secretary of state for overseas development	2x2z	
+shadow secretary of state for prices and consumer protection	12j7	
+shadow secretary of state for scotland	6b0t	
+shadow secretary of state for social security	57c4	
+shadow secretary of state for social services	1glt	
+shadow secretary of state for the colonies	1fyz	
+shadow secretary of state for the environment	36a6	
+shadow secretary of state for the environment transport and the regions	4dv4	
+shadow secretary of state for the home department	24by	
+shadow secretary of state for the office of the deputy prime minister	62wk	
+shadow secretary of state for trade and industry	3hjr	
+shadow secretary of state for transport	4dv4	
+shadow secretary of state for transport local government and the regions	4dv4	
+shadow secretary of state for work		57c4:8
+shadow secretary of state for work and		57c4:8
+shadow secretary of state for work and pensions	57c4	
+shadow shogun	4tj3	
+shadow solicitor general for england and wales	1hn2	
+shadow solicitor general united kingdom	1hn2	
+shadow stalkers	1usa	
+shadow strike	3l5s	
+shadow tag	17qo	
+shadow the		52ol:3,6g8l:3
+shadow the hedgehog	52ol,6g8l	
+shadow the hedgehog archie character	6g8l	
+shadow the hedgehog archie characters	6g8l	
+shadow the hedgehog game	52ol	
+shadow the hedgehog game features	52ol	
+shadow the hedgehog original soundtrax	52ol	
+shadow the hedgehog video game	52ol	
+shadow the hedgehog video game features	52ol	
+shadow typeface	2pv	
+shadow valley film	5yrw	
+shadow verb	6et8	
+shadow wolf	sru	
+shizuoka	4y2	3bp:2,4oxf:2,5pi8:2
+shizuoka city	4y2	
+shizuoka f c	f9z	
+shizuoka fujieda myfc	f9z	
+shizuoka japan	3bp	
+shizuoka ken	3bp	
+shizuoka metropolitan area	4y2	
+shizuoka prefecture	3bp	
+shizuoka railway	5pi8	
+shizuoka railway co ltd	5pi8	
+shizuoka railway company	5pi8	
+shizuoka railway shizuoka shimizu line	48es	
+shizuoka railway shizuokashimizu line	48es	
+shizuoka shi	4y2	
+shizuoka shimizu line	48es	
+shizuoka shizuoka	4y2	
+shizuoka station	4oxf	
+showoff korman novel	1ath	
+shy48	1ril	
+skp bratislava	3bgz	
+skp dubravka	3bgz	
+skp fomei hradec kralove	846	
+skp spartak hradec kralove	846	
+skp union cheb	pf6	
+skp znojmo prace	n31	
+submatrices	13au	
+sulzmatt	1bn7	
+taiping	1yhq	6h3b:2
+taiping army	6h3b	
+taiping christianity	6h3b	
+taiping gongzhu	1sez	
+taiping heavenly army	6h3b	
+taiping malaysia	1yhq	
+taiping perak	1yhq	
+taiping princess	1sez	
+taiping rebellion	6h3b	
+taiping rebels	6h3b	
+taiping revolt	6h3b	
+taiping revolution	6h3b	
+taiping tian guo	6h3b	
+taiping tienguo	6h3b	
+taiping wang	6h3b	
+takuzo		5vmo:2
+takuzo kawatani	5vmo	
+talcum		49uw:2
+talcum powder	49uw	
+talcum powder 1982 film	49uw	
+talcum powder film	49uw	
+talohexal	do1	
+tankdozer	aj3	
+templehoff	47w4	
+thomas alexandre	3cpm	3cpm:3
+thomas alexandre davy de la pailleterie	3cpm	
+thomas alexandre dumas	3cpm	
+tiarnas na heireann	3pla	
+tierce	1yio	
+toldex	qxd	
+tropcial rainforests	6gg4	
+trucks	4t6j	
+trucks film	4t6j	
+umainefarmington	2olq	
+umainefarmington beavers	2olq	
+unbreak my heart	5svd	
+uraemia	6ez3	
+uwwhitewater	2dgt	
+vellidis	5eqb	
+venaus	3rap	
+villon		5xyy:3
+villon francois	572b	
+villon s		5xyy:3
+villon s wife	5xyy	
+vitold	upd	5r78:2,6736:2
+vitold fokin	5r78	
+vitold gombrovich	1pyl	
+vitold lvovich shmulyan	6736	
+vitold pavlovich fokin	5r78	
+vitold pavlovych fokin	5r78	
+vitold shmulyan	6736	
+vorsprung durch technik	bns	
+wager charles	5nek	
+wildgm	4q7	
+william mcclure johnston	5sbt	
+wisa	14w2	3wh:2,7wt:2,3sun:2,6bet:2
+wisa can pack krakow	6bet	
+wisa cracow	3wh	
+wisa ii krakow	3wh	
+wisa krakow	3wh,6bet	
+wisa krakow ssa	3wh	
+wisa krakow stadium	3wh	
+wisa pock	7wt,3sun	
+wisa pock handball	3sun	
+wrexham	66v	1w6:4,bme:3
+wrexham a		1w6:4
+wrexham a f		1w6:4
+wrexham a f c	1w6	
+wrexham afc	1w6	
+wrexham association football club	1w6	
+wrexham city status	66v	
+wrexham county		bme:3
+wrexham county borough	bme	
+wrexham denbighshire	66v	
+wrexham f c	1w6	
+wrexham fc	1w6	
+wrexham football club	1w6	
+wrexham gymnasium f c	31gd	
+wrexham wales	66v	
+xenix	5yl4	
+xenix os	5yl4	
+zaffelare	30ew	
+zaharia		67b5:2
+zaharia stancu	67b5	

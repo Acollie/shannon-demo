@@ -1,0 +1,370 @@
+110mh	11xc	
+60201	2ga	
+afyon	fx4	52qs:2
+afyon karahisar	fx4	
+afyon oppio	52qs	
+afyon province	d8w	
+agri ili	edm	
+agri ili province	edm	
+agri ili province turkey	edm	
+agri province	edm	
+aklan	osc	
+aklan province	osc	
+alacanti	1lzj	
+alcamo	fdo	
+alcamo sicily	fdo	
+aliminusa	44hl	
+antenna	4yhd	
+antenna electromagnetism	4yhd	
+antenna polarization	4yhd	
+antenna radio	4yhd	
+antenna radio comments	4yhd	
+antenna radio news	p91	
+antenna theory	4yhd	
+antigua	o94	2w9:3,7e5:8,kl3:2,xcv:3,xnf:2,4vdn:5,5nin:3
+antigua and		2w9:3,7e5:8,4vdn:5
+antigua and barbuda	2w9	7e5:8,4vdn:5
+antigua and barbuda men		7e5:8
+antigua and barbuda men s		7e5:8
+antigua and barbuda men s national		7e5:8
+antigua and barbuda men s national football		7e5:8
+antigua and barbuda men s national football team	7e5	
+antigua and barbuda national football team	7e5	
+antigua and barbuda premier		4vdn:5
+antigua and barbuda premier division	4vdn	
+antigua antigua and barbuda	o94	
+antigua barbuda	2w9	
+antigua barracuda	xcv	xcv:3
+antigua barracuda f c	xcv	
+antigua barracuda fc	xcv	
+antigua comments	o94	
+antigua gfc	xnf	
+antigua guatemala	kl3	
+antigua guatemala sacatepequez	kl3	
+antigua island	o94	
+antigua island antigua and barbuda	o94	
+antigua mia vida	5nin	
+antigua my		5nin:3
+antigua my life	5nin	
+antigua vida mia	5nin	
+arelaune		2jgj:3
+arelaune en		2jgj:3
+arelaune en seine	2jgj	
+artjom		3l1l:2
+artjom dmitrijev	3l1l	
+artjom rudnev	5aae	
+attila	6x9,1rtb,24yf	1dag:2,2ekj:2,2yzg:4,4gp3:2,4jxh:2,4kik:2,4ler:2,4ogf:2,4zls:2,555v:2,57xm:2,58e5:2,59pu:2,5bow:2,5pwo:2,5qu2:2,5tas:2,5vre:2,5y5y:2,67a6:2,6avo:2,6e5e:2
+attila 1954 film	1rtb	
+attila abonyi	57xm	
+attila andrusko	67a6	
+attila dorn	5tk1	
+attila dragoner	555v	
+attila filkor	2ekj	
+attila first name	6x9	
+attila flagello		2yzg:4
+attila flagello di		2yzg:4
+attila flagello di dio	2yzg	
+attila forrai	6avo	
+attila given name	6x9	
+attila hoerbiger	1dag	
+attila horbiger	1dag	
+attila hullam	5qu2	
+attila ilhan	4jxh	
+attila jozsef prize	197a	
+attila jozsef university	16kv	
+attila kovacs	4ogf	
+attila kovacs fencer	4ogf	
+attila kriston	59pu	
+attila kuttor	5y5y	
+attila ladinsky	4zls	
+attila ladinszky	4zls	
+attila ladynski	4zls	
+attila name	6x9	
+attila pinte	5vre	
+attila pinter	58e5,6e5e	
+attila pinter football manager	58e5	
+attila pinter footballer born 1966	58e5	
+attila pinter footballer born 1978	6e5e	
+attila polonkai	5pwo	
+attila simon	4ler	
+attila simon footballer born 1983	4ler	
+attila supka	5bow	
+attila szili	4kik	
+attila the hun	24yf	
+attila toekoeli	4gp3	
+attila tokoli	4gp3	
+attila yildirim	5tas	
+attila yldrm	5tas	
+biomes	3tb5	
+biomes sandbox	3tb5	
+bonvallet	2u6o	
+brenthiinae	4wa7	
+cadarcet	2pjr	
+castella	2fht	
+castella lot et garonne	2fht	
+cavaria		3ww3:3
+cavaria con		3ww3:3
+cavaria con premezzo	3ww3	
+cccsprandipolkowice	uaw	
+centovalli	29xt	
+centovalli municipality	29xt	
+centovalli ti	29xt	
+cetvrti covek	66af	
+chamesson	35q8	
+changkiakai	3vsr	
+character	8c,f6v,4ldu	3ve:2,iyw:2,t6m:2
+character 1997 film	4ldu	
+character 1997 movie	4ldu	
+character acting	3ve	
+character actor	3ve	
+character actors	3ve	
+character actress	3ve	
+character actress margo martindale	uo8	
+character actresses	3ve	
+character artiste	3ve	
+character coding system	iyw	
+character data representation architecture	iyw	
+character disorder	3iyj	
+character encoding	iyw	
+character encodings	iyw	
+character fighting techniques ranma 12	3pm2	
+character film	4ldu	
+character novel	g0n	
+character of quake 4	56ic	
+character part	3ve	
+character race	t6m	
+character recognition	6f8s	
+character role	3ve	
+character roles	3ve	
+character set	iyw	
+character shoe	hxc	
+character sign	f6v	
+character symbol	f6v	
+character typography	f6v	
+character user interface	69mv	
+character voice	p5	
+character word	f6v	
+cigarettes	4yip	51s6:5
+cigarettes whiskey		51s6:5
+cigarettes whiskey and		51s6:5
+cigarettes whiskey and wild		51s6:5
+cigarettes whiskey and wild women	51s6	
+cigarettes whisky et p tites pepees	51s6	
+clausenburg	2vl	
+critisicm	4p1	
+cukotskij avtonomnyj okrug	kz7	
+cukotskij avtonomnyy okrug	kz7	
+danmarksserien	4myw	
+david hosack	5zfi	
+deathwatch	2tqj	
+deathwatch 2002 film	2tqj	
+dolomite	15fr	
+dolomite alps	but	
+dolomite mountains	but	
+dolomite rocks	15fr	
+dowzdab	45yo	
+edward rohrbough	5xof	
+eresina	3uz8	
+ericacae	jx7	
+fascetti	5m0i	
+fc first vienna	5qu	
+febrile	ovo	
+febrile response	ovo	
+garter		1aio:2
+garter day	m25	
+garter robes	m25	
+garter service	m25	
+garter snake	1aio	
+garter snakes	1aio	
+ghostberry	4ch9	
+gianfrancesco		4261:2,4k4f:2
+gianfrancesco gonzaga	4261,5i6x	
+gianfrancesco gonzaga 1446 1496	4261	
+gianfrancesco gonzaga 14461496	4261	
+gianfrancesco gonzaga ii	17p3	
+gianfrancesco guarnieri	4k4f	
+gianfrancesco i	5i6x	
+gianfrancesco i gonzaga	5i6x	
+gianfrancesco i gonzaga marquess of mantua	5i6x	
+gianfrancesco i gonzaga marquis of mantua	5i6x	
+gianfrancesco i of gonzaga	5i6x	
+gmina obryte	1n4u	
+gmina pcim	40wb	
+gssd	1rx7	
+guitrancourt	22uq	
+hadsund	3wiw	
+hadsund denmark	3wiw	
+hanoverbraunschweig railway	5flj	
+henry mccarty	62gb	
+heym stefan	2m54	
+holbytla	69zs	
+hoyte		5hbu:3
+hoyte van		5hbu:3
+hoyte van hoytema	5hbu	
+jean geoffroy schweighaeuser	4uz0	
+john rolfe	6gpq	
+john rolfe english settler	6gpq	
+kerneria	v9k	
+khnh	202f	
+khorol david	5e14	
+khovanskii	5fyy	
+killbill	oah	
+kurenai	69rn	
+kurenai no buta	1rbl	
+kurenai song	69rn	
+kurenai x japan song	69rn	
+la legends	zo7	
+la metamorphose		1xwu:4
+la metamorphose des		1xwu:4
+la metamorphose des cloportes	1xwu	
+la scale	6exh	
+lauerz	2uv0	
+lauerz schwyz	2uv0	
+lauerz switzerland	2uv0	
+lauerz sz	2uv0	
+learjet	4thu	
+learjet 36a	4thu	
+learjet corporation	4thu	
+levada william	5jf3	
+lobiviopsis	3h4t	
+lugonia california	c3p	
+macgpg	3zen	
+maria gambrelli	1a1b	
+metropolitano de lisboa	1kp5	
+metropolitano de sao paulo	ddh	
+metropolitano do rio de janeiro	114y	
+montbenoit	2hlo	
+msw2000	u11	
+munsing	5csn	
+nanum kodeeswaran	n1e	
+nasjonalgalleriet	3fy7	
+nasjonalgalleriet oslo	3fy7	
+new ager	5zjx	
+nonexistant album	4143	
+nonexistant living sacrifice album	4143	
+olelo hawai i	4n14	
+olelo hawaii	4n14	
+oncy		3je2:3
+oncy sur		3je2:3
+oncy sur ecole	3je2	
+ordino	1dne	
+ozieres	32k9	
+peirre omidyar	3kn8	
+petrovna	4z	
+petrovna comments	4z	
+pince	3ny0	
+pince edward island	38a	
+polysyllabic chinese character	ipz	
+polysyllabic chinese morpheme	ipz	
+poonah	24o	
+prince antoine		10xc:5
+prince antoine duke		10xc:5
+prince antoine duke of		10xc:5
+prince antoine duke of montpensier	10xc	
+prince antoine philippe duke of montpensier	3xkn	
+projecteq	6gjz	
+provost	11ad	
+provost church	11ad	
+provost medieval official	11ad	
+provost of dumfries	6lv	
+provost of purdue university	1be	
+provost of the university of chicago	a0	
+provost religion	11ad	
+rajshri	1exq	1exq:2
+rajshri com	1exq	
+rajshri entertainment	1exq	
+rajshri pictures	1exq	
+rajshri productions	1exq	
+riudellots		424c:4
+riudellots de		424c:4
+riudellots de la		424c:4
+riudellots de la selva	424c	
+robert gier	5o0e	
+scrub hairstreak	4slg	
+scrub tv	e35	
+shagos	r9c	
+st xaviers college	h3n	
+st xaviers college calcutta	1ilg	
+st xaviers college kolkata	1ilg	
+st xaviers college mumbai	h3n	
+success	28x6,4604	671z:5
+success 1991 film	4604	
+success chingy song	1m5r	
+success company	28x6	
+success coporation	28x6	
+success corporation	28x6	
+success game company	28x6	
+success game developer	28x6	
+success is		671z:5
+success is the		671z:5
+success is the best		671z:5
+success is the best revenge	671z	
+success oriented management	7d1	
+success story song	5lsa	
+success through a positive mental attitude	5ao0	
+szczesny potocki	2alq	
+tamilsiddique	2839	
+tbc	bv9	
+tetanocentria	4ng8	
+tetropium	648l	
+the 2nd		2x1x:3
+the 2nd arrondissement of paris	fdk	
+the 2nd chapter of acts	3z9q	
+the 2nd decade in the cradle	2tqn	
+the 2nd decade in the cradle compilation	2tqn	
+the 2nd decade in the cradle waltari	2tqn	
+the 2nd law	2x1x	
+the 2nd law album	2x1x	
+the 2nd law isolated system	2x1x	
+the 2nd law muse album	2x1x	
+the 2nd world war	1m	
+the accused	1t95,2yio	
+the accused 1949 film	2yio	
+the accused 1988 film	1t95	
+the accused 1988 movie	1t95	
+the buds	18t	
+the hoodoo gurus	14ls	
+the lafarge		3bfr:3
+the lafarge case	3bfr	
+the shipwreck of the santa maria	6gml	
+the unsuspecting		40hd:3
+the unsuspecting angel	40hd	
+thomas sangster	2eig	
+thomas sorensen	2ywp	
+thomas sorensen footballer born 1984	5u26	
+tiong bahru constituency sports club	r15	
+tiong bahru csc	r15	
+tiong bahru united	r15	
+tiong bahru united f c	r15	
+tiong bahru united fc	r15	
+tiong bahru united football club	r15	
+trimeresia	q9n	
+trin	3wbh	
+trin country	3wbh	
+trin gr	3wbh	
+trin graubuenden	3wbh	
+trin graubunden	3wbh	
+trin grisons	3wbh	
+trin switzerland	3wbh	
+tubaroes azuis	5kj	
+ulundi	4vd0	
+ulundi kwazulu natal	4vd0	
+vet medicine	6fu3	
+vet profession	2hx	
+vet s office	2hx	
+vet science	6fu3	
+viewing point	23um	
+viewing the phrase	2yo9	
+viewing tower	9iq	
+vuelva		62vq:3
+vuelva el		62vq:3
+vuelva el primero	62vq	
+warnerbros	h8	
+warnerbros com	h8	
+xenocrate	4s5y	
+xivray		2e3h:3
+xivray et		2e3h:3
+xivray et marvoisin	2e3h	
+yorckstrae berlin u bahn	6f44	
+zbysov	mc3,3oq1	
+zbysov vyskov district	3oq1	

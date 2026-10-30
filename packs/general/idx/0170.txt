@@ -1,0 +1,564 @@
+1500m	c5i	
+200102		wjl:4,yhu:4,15w5:4,1arn:4,1y1g:3,38b0:2,4czf:3
+200102 bundesliga	1y1g	
+200102 cypriot		wjl:4,yhu:4,15w5:4,1arn:4
+200102 cypriot cup	bk6	
+200102 cypriot first		wjl:4
+200102 cypriot first division	wjl	
+200102 cypriot fourth		15w5:4
+200102 cypriot fourth division	15w5	
+200102 cypriot second		yhu:4
+200102 cypriot second division	yhu	
+200102 cypriot third		1arn:4
+200102 cypriot third division	1arn	
+200102 ekstraklasa	38b0	
+200102 fuball		1y1g:3
+200102 fuball bundesliga	1y1g	
+200102 fussball bundesliga	1y1g	
+200102 uefa		4czf:3
+200102 uefa cup	4czf	
+81tl	pnl	
+abdorrahman	56ji	
+aldemaro		2e6w:2
+aldemaro romero	2e6w	
+alexander jannus	61tx	
+altajskij kraj	7gp	
+ambridge	1okg	
+ambridge pa	1okg	
+ambridge pennsylvania	1okg	
+amical f c	14zz	
+amical fc	14zz	
+amical protection	1c3j	
+amical protectorate	1c3j	
+ammunition	y5f	
+ammunition for artillery	y5f	
+ammunition for infantry	y5f	
+andreu		1jd4:3,2q6c:3,3rlc:2,3zyc:2,4m62:2
+andreu buenafuente	4m62	
+andreu buenafuente moreno	4m62	
+andreu buenafuente moreno i love he	4m62	
+andreu fontas	3zyc	
+andreu guerao	2q6c	2q6c:3
+andreu guerao mayoral	2q6c	
+andreu mas		1jd4:3
+andreu mas colell	1jd4	
+andreu mas collel	1jd4	
+andreu nin	3rlc	
+andreu nin i perez	3rlc	
+andreu nin perez	3rlc	
+apsen co	hmn	
+arthouse	8cm	
+arthouse cinema	8cm	
+arthouse film	8cm	
+arthouse game	4i7s	
+azamara cruises	44ym	
+baltoro		4z8t:2
+baltoro muztagh	4z8t	
+batticalo	1tfi	
+batticalo district	1lz2	
+beemster	10e1	
+birtwistle sir harrison	4ydc	
+blob	3t48	17fc:2,3t48:2
+bouaye	2fp9	
+braconnier de dieu	3pap	
+bratuspantium	8pa	
+breuil	3is5,4eh0	24t2:3,2b47:3,2h04:2,2qga:2,2rv8:3,3bhz:3,3cdm:3
+breuil barret	2h04	
+breuil bois		2b47:3
+breuil bois robert	2b47	
+breuil la		3bhz:3
+breuil la reorte	3bhz	
+breuil le		24t2:3,3cdm:3
+breuil le sec	24t2	
+breuil le vert	3cdm	
+breuil magne	2qga	
+breuil marne	2rv8	
+breuil somme	3is5	
+breuil sur		2rv8:3
+breuil sur vesle	2rv8	
+brisbanite	r8	
+carlstads united bk	5xj7	
+chaleins	1smy	
+cliponville	248t	
+corcyra	7ow	
+corcyra city	k1i	
+cumana	rox	
+cumana venezuela	rox	
+dervio	1m2z	
+dihuk	3ww1	
+diplomas	6frn	
+dysimmune disease	128v	
+erville		wcp:2
+erville alderson	wcp	
+erville anderson	wcp	
+fearless	1a13,2cgt,32n1,4zcs	817:2,3aln:2,5jom:2
+fearless 1977 film	4zcs	
+fearless 1978 film	4zcs	
+fearless 1993 film	2cgt	
+fearless 2006	1a13	
+fearless 2006 film	1a13	
+fearless 2006 movie	1a13	
+fearless fuzz	4zcs	
+fearless girl	5jom	
+fearless nadia	3aln	
+fearless platinum edition	32n1	
+fearless platinum edition taylor swift album	32n1	
+fearless rapper	1v9l	
+fearless records	817	
+fearless taylor swift album	32n1	
+fearless vampire killers	2ny6	2ny6:4
+filmfareawardbestcomedian	1jbb	
+folembray	2afb	
+giannos kranidiotis	625c	
+gingers	6cnu	
+gmina drelow	1br3	
+gmina poajewo	61o1	
+gout	12k4	2ggg:2
+gout hollandois	35pd	
+gout rossignol	2ggg	
+grajal	4swb	4swb:3
+grajal de		4swb:3
+grajal de campos	4swb	
+grajal de campos leon	4swb	
+grajal de campos spain	4swb	
+granitic		1ojl:2
+granitic seychelles	1ojl	
+granitic seychelles forests	1ojl	
+grog	5acn	
+grog film	5acn	
+guymanuel homemchristo	1nf3	
+hancesti	3g8l	
+hancesti district	v8e	
+hewel hevelius	5uip	
+hit	1v14,64av,6hjp	1v14:2
+hit and		4egq:3,5t9m:3
+hit and away	uc	
+hit and run	4egq,5t9m	
+hit and run 2009 film	5t9m	
+hit and run 2012 film	4egq	
+hit baseball	6hjp	
+hit baseball statistics	6hjp	
+hit bit	2xq	
+hit em royce da 5 9 song	29mi	
+hit em song	29mi	
+hit entertainment	64av	
+hit entertainment plc	64av	
+hit gorica	6zs	
+hit list	5t10	
+hit list 1989 film	5t10	
+hit list novel	2upc	
+hit man contracts	3wfj	
+hit me		6hju:6
+hit me baby		6hju:6
+hit me baby one		6hju:6
+hit me baby one more		6hju:6
+hit me baby one more time	6eq7,6hju	
+hit me baby one more time song	6eq7	
+hit me baby one more time tv series	6hju	
+hit me baby one more time uk	6hju	
+hit parade		5otp:4
+hit parade of		5otp:4
+hit parade of 1943	5otp	
+hit run 2012 film	4egq	
+hit squad film	2syl	
+hit the		2fw4:3,3r6e:3,4lwe:3,5uq7:3
+hit the deck	2fw4,5uq7	
+hit the deck 1930 film	5uq7	
+hit the deck 1955 film	2fw4	
+hit the floor linkin park song	2j4p	
+hit the floor wilkinson and tc song	3zcn	
+hit the ground running	2k91	
+hit the ice	4lwe	
+hit the ice film	4lwe	
+hit the lights metallica song	6adc	
+hit the lights old	6adc	
+hit the road to dreamland	rw1	
+hit the saddle	3r6e	
+hit the wall song	1vre	
+hudson	56q,d4v,jv9,15db,1ail,2s3u,3edv,4poo	56q:2,a5a:2,dou:2,sov:2,13kl:2,1e9n:2,1ep3:3,1spj:4,25pu:3,34gz:5,391g:3,3rmh:2,49p6:4,4jhj:2,5oyb:4
+hudson and manhattan	2l5h	
+hudson and manhattan railroad company	2l5h	
+hudson automobile	49p6	
+hudson automobiles	49p6	
+hudson avenue elevated	61jv	
+hudson avenue line elevated	61jv	
+hudson bay	a5a	
+hudson bay company	1spj	
+hudson bay oil gas	1spj	
+hudson cars	49p6	
+hudson city st croix county wi	2s3u	
+hudson city st croix county wisconsin	2s3u	
+hudson city wi	2s3u	
+hudson city wisconsin	2s3u	
+hudson columbia county new york	jv9	
+hudson county	13kl	
+hudson county board of chosen freeholders	13kl	
+hudson county freeholder	13kl	
+hudson county new jersey	13kl	
+hudson county nj	13kl	
+hudson county ny	13kl	
+hudson county prosecutor of the pleas	13kl	
+hudson de		1ep3:3
+hudson de souza	1ep3	
+hudson entertainment	56q	
+hudson entertainment inc	56q	
+hudson falls	3rmh	
+hudson falls n y	3rmh	
+hudson falls new york	3rmh	
+hudson falls ny	3rmh	
+hudson first name	1ail	
+hudson fjord	dou	
+hudson given name	1ail	
+hudson hawk	1e9n	
+hudson heights quebec	4poo	
+hudson henry	4ty3	
+hudson hill	3urx	
+hudson ma	3edv	
+hudson manhattan railroad	2l5h	
+hudson manley ottmer	67vq	
+hudson mass	3edv	
+hudson massachusetts	3edv	
+hudson motor		49p6:4
+hudson motor car	49p6	49p6:4
+hudson motor car co	49p6	
+hudson motor car company	49p6	
+hudson motor company	49p6	
+hudson motors	49p6	
+hudson new jersey	13kl	
+hudson new york	jv9	
+hudson new york micropolitan area	mf5	
+hudson ny	jv9	
+hudson ny micropolitan statistical area	mf5	
+hudson ny msa	mf5	
+hudson ny sa	mf5	
+hudson oh	15db	
+hudson ohio	15db	
+hudson ohio comments	15db	
+hudson oka icebridge	4poo	
+hudson qc	4poo	
+hudson quebec	4poo	
+hudson river	dou	25pu:3
+hudson river emergency landing	5alt	
+hudson river n y and n j	dou	
+hudson river railroad	1jw0	
+hudson river school	25pu	
+hudson river united states	dou	
+hudson river virus	447g	
+hudson river waterhsed	dou	
+hudson rodrigues		5oyb:4
+hudson rodrigues dos		5oyb:4
+hudson rodrigues dos santos	5oyb	
+hudson s		1spj:4,391g:3
+hudson s bay	a5a,391g	1spj:4
+hudson s bay co	1spj	
+hudson s bay company	1spj	
+hudson s bay film	391g	
+hudson s bay oil and gas company	1spj	
+hudson s river	dou	
+hudson s strait	sov	
+hudson santos de souza	1ep3	
+hudson soft	56q	
+hudson soft co ltd	56q	
+hudson soft company limited	56q	
+hudson souza	1ep3	
+hudson straight	sov	
+hudson strait	sov	
+hudson surname	d4v	
+hudson taylor	4jhj	
+hudson town ma	3edv	
+hudson town massachusetts	3edv	
+hudson town middlesex county ma	3edv	
+hudson town middlesex county massachusetts	3edv	
+hudson valley		34gz:5
+hudson valley quickstrike		34gz:5
+hudson valley quickstrike lady		34gz:5
+hudson valley quickstrike lady blues	34gz	
+hudson whittaker	5z9g	
+hudson wi	2s3u	
+hudson wisconsin	2s3u	
+hudson woodbridge	5z9g	
+huelegu	24tm	
+iroise	6ep6	6ep6:2
+iroise marine park	6ep6	
+iroise passage	6ep6	
+iroise sea	6ep6	
+jgersborg		5ceg:2
+jgersborg station	5ceg	
+john leslie	4erv	
+john leslie coogan	l1c	
+john leslie dupre	4erv	
+john leslie dupree	4erv	
+john leslie mackie	5xkl	
+john leslie montgomery	zn4	
+john leslie nuzzo	4erv	
+john leslie porn actor	4erv	
+john leslie porn star	4erv	
+john leslie pornographic actor	4erv	
+john leslie prescott	227i	
+john seward	49wy	4kxx:4,5pea:4
+john seward johnson		4kxx:4,5pea:4
+john seward johnson i	4kxx	
+john seward johnson ii	5pea	
+kakuzo	4pom	
+kakuzo okakura	4pom	
+kardinaal godfried daneels	4tas	
+kirkkonummi	rqw	
+kuaiji	s2c	
+la barre	2xk9,3933	2xt7:4,3on6:4
+la barre de		2xt7:4
+la barre de monts	2xt7	
+la barre en		3on6:4
+la barre en ouche	3on6	
+la barre haute saone	2xk9	
+la barre jura	3933	
+lygephila	2un9	
+m41a 2 pulse rifle	jsm	
+m41a pulse rifle	jsm	
+macassan	jmw	
+maibara	5ahi	2ak7:2
+maibara shiga	5ahi	
+maibara station	2ak7	
+marnezia	42mg	
+mcmxxxii	1an3	
+mechelle	4n	
+michael vasilevich alexeiev	3t3d	
+mirbel	3jlh	
+munitis	3jjv	
+murtonia	5wcv	
+najas	3qgc	
+new realism	3ahb	
+new rules	6hi1	
+new rules dua lipa song	6hi1	
+new rules song	6hi1	
+nouveaux realistes	3ahb	
+nszz solidarity	4gso	
+odusseas kimon of greece	1var	
+ophis comics	3tj	
+ourfc	93m	
+overdosed	t4u	
+paissy	1o8m	
+paul samuelson	ms3	
+peter green	2a16	
+peter green musician	2a16	
+pionnat	1vjb	
+platanias	cwt	cwt:4
+platanias chania		cwt:4
+platanias chania f		cwt:4
+platanias chania f c	cwt	
+platanias f c	cwt	
+polytechnitis kai erimospitis	633h	
+prayer	lp6	45dt:2
+prayer celine dion song	658v	
+prayer for the dying	1vfy	
+prayer for you interlude	687q	
+prayer group	lp6	
+prayer in buddhism	lp6	
+prayer in judaism	1qgu	
+prayer kid cudi song		roj:5
+prayer room	3k7	
+que bella eres roma	5ps5	
+que he hecho yo para merecer esto	28ec	
+que la		1b2m:4
+que la bete meure	5igm	
+que la fete commence	1k21	
+que la lumiere		1b2m:4
+que la lumiere soit	1b2m	
+que lindo es michoacan	5g6z	
+que mas da	3fxx	
+que me		61m7:5
+que me toquen		61m7:5
+que me toquen las		61m7:5
+que me toquen las golondrinas	61m7	
+que mentira	6g0i	
+que que	232a	
+que rei		4paa:4
+que rei sou		4paa:4
+que rei sou eu	4paa	
+que reste t il	5he7	
+que sera miley cyrus	6aqr	
+que so	1bny	
+que so records	1bny	
+que viene valdez	4i06	
+que vuelvas	5fl7	
+republican		1v:2,5tv:4,7fb:4,ab7:4,hyj:4,uph:2,1qna:4,2u9z:3,4t4c:2,68cw:3,68xv:2
+republican china	7fu	
+republican democracy	6hm2	
+republican democratic party	5byl	
+republican era china	7fu	
+republican fascist		2u9z:3
+republican fascist party	2u9z	
+republican federation	uph	
+republican federation france	uph	
+republican form of government	6gp	
+republican france	goz	
+republican government	6gp	
+republican great depression	6giq	
+republican ideology	kqx	
+republican initiative alliance	4t4c	
+republican ireland	3tbz	
+republican left	hyj	hyj:4
+republican left of		hyj:4
+republican left of catalonia	hyj	
+republican monarchy	6eyc	
+republican nominee for lieutenant governor of kentucky	47k9	
+republican party	1v,68xv	5tv:4,ab7:4,1qna:4
+republican party armenia	1qna	
+republican party california	1de3	
+republican party elephant logo	1v	
+republican party france	gti	
+republican party germany	5v3b	
+republican party in the united states	1v	
+republican party iowa	ab7	
+republican party ireland	1xg	
+republican party jeffersonian	2be	
+republican party maine	spp	
+republican party minnesota	5tv	
+republican party north dakota	zaf	
+republican party of		5tv:4,ab7:4,1qna:4
+republican party of america	1v	
+republican party of armenia	1qna	
+republican party of california	1de3	
+republican party of france	gti	
+republican party of iowa	ab7	
+republican party of maine	spp	
+republican party of minnesota	5tv	
+republican party of nd	zaf	
+republican party of north dakota	zaf	
+republican party of oregon	2tra	
+republican party of puerto rico	68xv	
+republican party of russia	28nk	
+republican party of russia people s freedom party	28nk	
+republican party of the russian federation	28nk	
+republican party of the u s	1v	
+republican party of the united states	1v	
+republican party of the usa	1v	
+republican party of utah	3psj	
+republican party oregon	2tra	
+republican party presidential primaries 1968	6h4y	
+republican party presidential primaries 1976	6h0v	
+republican party presidential primaries 2000	6h3w	
+republican party presidential primaries 2008	6gft	
+republican party presidential primaries 2012	6gmv	
+republican party presidential primaries 2016	6h93	
+republican party puerto rico	68xv	
+republican party u s	1v	
+republican party us	1v	
+republican party usa	1v	
+republican party utah	3psj	
+republican peasants nationalist party	zqg	
+republican people		7fb:4
+republican people s		7fb:4
+republican people s army	2flf	
+republican people s party	7fb	
+republican people s party turkey	7fb	
+republican popular army	2flf	
+republican president	1qc6	
+republican presidential primaries 2008	6gft	
+republican primaries 2008	6gft	
+republican proposal	4t4c	
+republican radical and radical socialist party historical	gx6	
+republican rome	19s	
+republican spain	1tas	
+republican state	6gp	
+republican turkish		68cw:3
+republican turkish party	68cw	
+republican u s	1v	
+reterre	3gly	
+richard grant esterhuysen	l2p	
+richesa of lorraine	21tv	
+richesa of poland	30in	
+rosenau	3dxo	
+rosenau haut rhin	3dxo	
+ruptured abdominal aortic aneurysm disorder	my7	
+ruptured aneurysm	ibh	
+ruptured aortic aneurysm	my7	
+ruptured aortic aneurysm disorder	my7	
+ruptured aortic aneurysm nos disorder	my7	
+ruptured appendix	oom	
+ruptured bladder	48z3	
+ruptured brain artery	1f2n	
+ruptured thoracic aneurysm	my7	
+ruptured thoracic aortic aneurysm	my7	
+ruptured thoracic aortic aneurysm disorder	my7	
+rutskoy	2xw4	
+rutskoy aleksandr vladimirovich	2xw4	
+rutskoy alexander	2xw4	
+sacagawean	6aqe	
+saffiyah bint abd al muttalib	2tfh	
+saffiyah binte abd al muttalib	2tfh	
+saffiyah binte abdu l muttalib	2tfh	
+saffiyah binte abdul muttalib	2tfh	
+saint herent	25hj	
+schizophrenia	7cr	
+schizophrenia 1	7cr	
+schizophrenia and lsd	6fju	
+sectoid	6ewm	
+shayatin	axb	
+shishirun	bb8	
+sulislav	4d7w	
+suren		2eey:2
+suren yeremian	2eey	
+suren yeremyan	2eey	
+sythen	28cb	
+szinhaz es filmmuveszeti egyetem	p5k	
+szinhaz es filmmuveszeti foiskola	p5k	
+tableware	13kr	
+testosterone deficiency syndrome	2j9p	
+the backup plan	2hj4	
+the dam		11kd:3
+the dam busters	11kd	
+the dam busters 1954 film	11kd	
+the dam busters 2008 film	11kd	
+the dam busters film	11kd	
+the dam busters film remake	11kd	
+the dam busters movie	11kd	
+the dam of the yellow river	5n37	
+the dam on the yellow river	5n37	
+the garlic plant	5kmt	
+the hungover		4fac:3
+the hungover games	4fac	
+the mathematics		6dro:4
+the mathematics of		6dro:4
+the mathematics of magic	6dro	
+the moderates of sweden	51r	
+the point	ni	58w5:3
+the point kentucky	9eq	
+the point men	58w5	
+the point news	6d77	
+the tragedy of colombia	2i99	
+the tragedy of hamlet	i0a	
+the tragedy of hamlet prince of denmark	i0a	
+the tragedy of macbeth film	13pg	
+the tragedy of othello	17es	
+the tragedy of othello the moor of venice	17es	
+the tragedy of pudd nhead wilson	5xgg	
+the tragedy of puddn head wilson	5xgg	
+the tragedy of romeo and juliet	qp3	
+the tragedy of romeo juliet	qp3	
+the tragedy of the tunnel 29	ysn	
+the tragedy romeo and juliet	qp3	
+thelemite	48li	
+tika		5iux:2
+tika sumpter	5iux	
+tirthankara	2ncw	
+trevally	3v78	
+tuili	358m	
+unnai pol oruvan	69yh	
+unthinkable	1uts	
+vilassar		1ldk:3,25vb:3
+vilassar de		1ldk:3,25vb:3
+vilassar de dalt	25vb	
+vilassar de mar	1ldk	
+virescit boccaleone	o40	
+wazir	6aqh	
+wazir film	6aqh	
+wazir i darbar	3217	
+william sterling	15jy	635t:3
+william sterling cole	635t	
+william sterling director	15jy	
+william sterling hart	1k2r	
+wujin		4ay3:2
+wujin district	4ay3	
+yenal		68ou:2
+yenal tuncer	68ou	
+yerasa	53e6	

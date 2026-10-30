@@ -1,0 +1,546 @@
+acanthodactylus	3yn2	
+acanthodactylus aureus	3yn2	
+acanthodactylus boueti	3yn2	
+acanthodactylus felicis	3yn2	
+acanthodactylus grandis	3yn2	
+acanthodactylus haasi	3yn2	
+acanthodactylus hardyi	3yn2	
+acanthodactylus khamirensis	3yn2	
+acanthodactylus longipes	3yn2	
+acanthodactylus masirae	3yn2	
+acanthodactylus micropholis	3yn2	
+acanthodactylus nilsoni	3yn2	
+acanthodactylus opheodurus	3yn2	
+acanthodactylus schmidti	3yn2	
+acanthodactylus scutellatus	3yn2	
+acanthodactylus taghitensis	3yn2	
+acanthodactylus tilburyi	3yn2	
+acanthodactylus yemenicus	3yn2	
+ahuntsic		2kpe:2
+ahuntsic cartierville	2kpe	
+ahuntsic cartierville montreal	2kpe	
+alfredo	2cn	m82:2,oue:2,t65:2,tmb:2,17nm:2,199i:2,1a93:2,1am1:3,1aos:2,1h30:2,1mhc:3,1z1n:2,261o:2,2v2e:2,2zz6:2,3dvc:2,3fr9:2,3hux:2,3oxu:2,3qb6:2,3tq1:3,3yx8:2,40r7:2,41yr:3,42ry:2,43l8:4,44se:2,483t:3,498p:2,4bgs:2,4d25:2,4fx5:2,4fzu:2,4l38:3,4mnf:2,4mxx:2,4t6z:3,4vck:2,4vio:2,4vtp:3,528u:2,562v:2,56x8:3,5dcl:3,5g0e:2,5j5v:2,5j78:2,5jjg:2,5mks:2,5og8:2
+alfredo aglietti	42ry	
+alfredo alberto pacheco	4fx5	
+alfredo alcon	1a93	
+alfredo alfredo	199i	
+alfredo alvar	6crx	
+alfredo antonini producer	10ou	
+alfredo b		41yr:3
+alfredo b crevenna	41yr	
+alfredo balli trevino	2t6k	
+alfredo barnechea	5og8	
+alfredo bini	1aos	
+alfredo bryce	483t	483t:3
+alfredo bryce echenique	483t	
+alfredo buongusto	1nmx	
+alfredo cariello	3dvc	
+alfredo carricaberry	40r7	
+alfredo casella	5j5v	
+alfredo casero	4vio	
+alfredo castro	5mks,5qbc	
+alfredo castro actor	5mks	
+alfredo castro footballer	5qbc	
+alfredo catalani	5tur	
+alfredo ciriaco de vincenzi	4vck	
+alfredo ciriaco devincenzi	4vck	
+alfredo cocozza	1or6	
+alfredo crevenna	41yr	
+alfredo d		43l8:4
+alfredo d escragnolle		43l8:4
+alfredo d escragnolle taunay	43l8	
+alfredo d escragnolle taunay viscount of taunay	43l8	
+alfredo da silva castro	5qbc	
+alfredo david moreno	1z1n	
+alfredo de freitas dias gomes	4pv5	
+alfredo de vincenzi	4vck	
+alfredo del		4vtp:3
+alfredo del diestro	4vtp	
+alfredo devincenzi	4vck	
+alfredo di		1am1:3
+alfredo di stefano	1am1	
+alfredo di stefano laulhe	1am1	
+alfredo di stefano trophy	1am1	
+alfredo di stefano trophy testimonial match	1am1	
+alfredo distefano	1am1	
+alfredo donnarumma	528u	
+alfredo eduardo barreto de freitas noronha	4pno	
+alfredo esteves	4mxx	
+alfredo f		3tq1:3
+alfredo f mayo	3tq1	
+alfredo felix alcon	1a93	
+alfredo first name	2cn	
+alfredo foni	498p	
+alfredo giannetti	261o	
+alfredo given name	2cn	
+alfredo graciani	3oxu	
+alfredo guarini	3qb6	
+alfredo guzzoni	5r5j	
+alfredo hernandez	6135	
+alfredo hernandez footballer	6135	
+alfredo james pacino	b42	
+alfredo juan		4l38:3
+alfredo juan mayordomo	4l38	
+alfredo kulembe ribeiro	59w3	
+alfredo landa	17nm	
+alfredo le		4t6z:3
+alfredo le pera	4t6z	
+alfredo maria adriano d escragnolle taunay	43l8	
+alfredo maria adriano d escragnolle taunay viscount of taunay	43l8	
+alfredo martinelli	tmb	
+alfredo mayo	m82	
+alfredo mazzoni	62w5	
+alfredo mejia	4fzu	
+alfredo mejia la verg	4fzu	
+alfredo mendoza	3hux	
+alfredo molina	cw3	
+alfredo montori	t65	
+alfredo morales	4d25	
+alfredo moreno	1z1n	
+alfredo mostarda		56x8:3
+alfredo mostarda filho	56x8	
+alfredo mousinho esteves	4mxx	
+alfredo mozinho esteves	4mxx	
+alfredo ortuno	3yx8	
+alfredo pacheco	4fx5	
+alfredo pacino	b42	
+alfredo palacio	63uz	
+alfredo palacio gonzales	63uz	
+alfredo palacio gonzalez	63uz	
+alfredo pea	3fr9	
+alfredo pitto	5g0e	
+alfredo rafael		5dcl:3
+alfredo rafael sosa	5dcl	
+alfredo ramua	4mnf	
+alfredo reichlin	562v	
+alfredo rizzo	oue	
+alfredo robert	5jjg	
+alfredo rojas	2v2e	
+alfredo rojas argentine footballer	2v2e	
+alfredo s lim the untold story	3njo	
+alfredo santaelena	44se	
+alfredo stefano di stefano laulhe	1am1	
+alfredo stroesner	1h30	
+alfredo stroessner	1h30	
+alfredo stroessner matiauda	1h30	
+alfredo stroessner mattianda	1h30	
+alfredo stroner	1h30	
+alfredo strosner	1h30	
+alfredo strossner	1h30	
+alfredo talavera	4gdv	
+alfredo traverso	4bgs	
+alfredo varela	1mhc	1mhc:3
+alfredo varela jr	1mhc	
+alfredo varelli	2zz6	
+alfredo zitarrosa	5j78	
+alyosha		6h6x:2
+alyosha karamazov	6h6x	
+alyosha skvortsov	4sae	
+alyosha svanidze	3dwv	
+alzonne	1urd	
+andrezel	2iyb	
+ashmore aaron	2by3	
+ashmore edward bailey	5yev	
+autazavodskaja line	4su8	
+ayntab	a58	
+baccarin	1gw8	
+balticum	6fw1	
+bereg saski	25kb	
+biddleford maine	u4y	
+bruille		2f9r:3,2jsk:3
+bruille lez		2jsk:3
+bruille lez marchiennes	2jsk	
+bruille saint		2f9r:3
+bruille saint amand	2f9r	
+cantebury	44n	
+cantebury tales	6058	
+cavedine	3a62	
+chongzuo	369l	
+chongzuo guangxi	369l	
+cortan	2ajs	
+ctio	1dys	
+cytheris	6a9p	
+david faustino	5aeq	
+dcd2		jnm:2
+dcd2 records	jnm	
+delvine	4rsv	4bcz:2
+delvine district	4bcz	
+demetrio		2hd4:2,44uj:2
+demetrio albertini	2hd4	
+demetrio alessandro greco	44uj	
+demetrio greco	44uj	
+deterrence	483w	
+deterrence film	483w	
+deterrence movie	483w	
+dinastia e mehmet ali pashes	wg8	
+dinastia e muhamed ali pashes	wg8	
+ebersmoll model	6fql	
+edward sloman	z98	
+erdmessung	3d5f	
+estebrugge	26p3	
+etoloakarnania prefecture	4rht	
+everytimeidie	46lg	
+faf	1uyw	
+federov	13o0	
+frantishek shkroup	52wk	
+fredrik	3ni	1i0o:5,1muo:2,2fpb:2,2su9:2,2tbl:2,2udf:2,39yh:2,3ioa:2,3mff:2,4jot:2,4lbr:2,4ojc:2,4r7r:2,4xg9:2,4ztt:7,59tw:3,5ayu:2,5c6x:2,5fxx:2,5g6o:3,5r51:2,5tc2:2,5tuw:2,5xb9:2,60pt:2,668m:2,66w0:2
+fredrik adolf	4ztt	4ztt:7
+fredrik adolf of		4ztt:7
+fredrik adolf of sweden		4ztt:7
+fredrik adolf of sweden duke		4ztt:7
+fredrik adolf of sweden duke of		4ztt:7
+fredrik adolf of sweden duke of ostergotland	4ztt	
+fredrik august kittel	vwb	
+fredrik axel count von fersen	39sj	
+fredrik axel von fersen	39sj	
+fredrik barth	2udf	
+fredrik berglund	5fxx	
+fredrik bergstroem	2su9	
+fredrik bergstrom	2su9	
+fredrik bjoerck	4r7r	
+fredrik bjorck	4r7r	
+fredrik blom	5tuw	
+fredrik boeoek	60pt	
+fredrik book	60pt	
+fredrik brown	15nn	
+fredrik carl muelertz stoermer	2f9j	
+fredrik carl muelertz stormer	2f9j	
+fredrik carl mulertz stormer	2f9j	
+fredrik carl mulertz strmer	2f9j	
+fredrik casimir of hanau lichtenberg	5rl1	
+fredrik church	66w0	
+fredrik eklund	4xg9	
+fredrik first name	3ni	
+fredrik frans		1i0o:5
+fredrik frans av		1i0o:5
+fredrik frans av braunschweig		1i0o:5
+fredrik frans av braunschweig wolfenbuttel	1i0o	
+fredrik g gade	5sjo	
+fredrik georg gade buisnessman	5sjo	
+fredrik georg gade business	5sjo	
+fredrik georg gade businessman	5sjo	
+fredrik given name	3ni	
+fredrik gulsvik	5r51	
+fredrik holster	668m	
+fredrik i of sweden	14ks	
+fredrik lindstrom	5tc2	
+fredrik lindstrom writer	5tc2	
+fredrik ljungberg	1ke4	
+fredrik magle	4aut	
+fredrik midtsj	5ayu	
+fredrik midtsjo	5ayu	
+fredrik modin	2fpb	
+fredrik nordstroem	1muo	
+fredrik nordstrom	1muo	
+fredrik olausson	2tbl	
+fredrik olof esaias stoor	39yh	
+fredrik olof esaias stoor siekkinen	39yh	
+fredrik paasche	5xb9	
+fredrik pacius	4lbr	
+fredrik reinfeld	3mff	
+fredrik reinfeldt	3mff	
+fredrik rienfeldt	3mff	
+fredrik risp	3w15	
+fredrik sinding larsen	671c	
+fredrik soderstrom	4jot	
+fredrik sorensen	4qlv	
+fredrik srensen	4qlv	
+fredrik stang	4ojc	
+fredrik stenman	3ioa	
+fredrik stoor	39yh	
+fredrik ulvestad	5c6x	
+fredrik vilhelm ludvig norman	5nh2	
+fredrik vilhelm scholander	5g6o	
+fredrik vilhelm von buxhoevden	3iva	
+fredrik vilhelm von hessenstein	5joe	
+fredrik von		59tw:3
+fredrik von otter	59tw	
+fredrik wilhelm		5g6o:3
+fredrik wilhelm klumpp bugge	5bwd	
+fredrik wilhelm ludvig norman	5nh2	
+fredrik wilhelm rembert berg	44qy	
+fredrik wilhelm scholander	5g6o	
+fredrik wilhelm von otter	59tw	
+gandrayda	52n6	
+gmina lukta	rtj	
+gristmill	z6c	
+hadsel	11m2	11m2:2
+hadsel municipality	11m2	
+halenkovice	2x0d	
+hinterbruhl	4c44	
+hsee	ly1	
+i miracoli non si ripetono	4auj	
+iuje		3xq3:2
+iuje district	3xq3	
+jadraque	1vgt	
+jadraque guadalajara	1vgt	
+jadraque spain	1vgt	
+james cagney	d1f	
+jamica football team	3vo	
+jamor	era	
+jarule	knw	
+kaifeng	bbu	
+kaifeng china	bbu	
+kaifeng county	1kho	
+kaifeng henan	bbu	
+kaifeng shi	bbu	
+kairuan	msc	
+karachkina	6e35	
+karachkina l g	6e35	
+karuizawa	2nup	
+karuizawa japan	2nup	
+karuizawa machi	2nup	
+karuizawa nagano	2nup	
+karuizawa yukai annai	1l10	
+koenisberg	2k2	
+kolin	fqf	688:2
+kolin czech republic	fqf	
+kolin district	688	
+kubotite	3sam	
+la damigella		2mua:4
+la damigella di		2mua:4
+la damigella di bard	2mua	
+la damigella di bard film	2mua	
+la scoumoune	16h9	
+landegem	2lls	
+largactil	cat	
+laszlo		i68:2,wk6:2,17mv:2,19r0:2,1mi4:2,1q67:3,1qw3:2,2ui9:2,3psu:2,3u5v:2,486y:2,48i9:2,4iaw:2,4lx7:2,4vgo:2,4we4:2,4zyk:2,516e:2,52j1:2,59de:2,5bc1:2,5byq:2,5mh4:2,5non:2,5nvg:2,5ob0:2,5sd0:2,5szf:2,5v2v:2,5zcp:2,5zyg:2,612d:2,627w:2,64q0:2,66zg:2,68x9:2
+laszlo andras	1emg	
+laszlo andrew	1emg	
+laszlo babai	5mh4	
+laszlo balint	4we4	
+laszlo banhidi	5zcp	
+laszlo banhidy	5zcp	
+laszlo benedek	19r0	
+laszlo benedek films	19r0	
+laszlo bodnar	5ob0	
+laszlo bodrogi	52j1	
+laszlo boloni	486y	
+laszlo cseh	516e	
+laszlo czeh	5nvg	
+laszlo czeh footballer born in 1968	5nvg	
+laszlo dj	56i3	
+laszlo ervin	5fw7	
+laszlo farkashazy	68x9	
+laszlo fazekas	59de	
+laszlo hanyecz	1lqa	
+laszlo i	1n6t	
+laszlo i of hungary	1n6t	
+laszlo ii	51lw	
+laszlo iv	4vf1	
+laszlo kaszas	48i9	
+laszlo kiss	4zyk	
+laszlo kiss footballer	4zyk	
+laszlo klausz	4iaw	
+laszlo kleinheisler	5bc1	
+laszlo koeteles	5szf	
+laszlo koteles	5szf	
+laszlo kovacs	i68,612d	
+laszlo kovacs cinematographer	i68	
+laszlo kovacs footballer	612d	
+laszlo kover	5v2v	
+laszlo krasznahorkai	1qw3	
+laszlo kubala	1mi4	
+laszlo lajtha	3u5v	
+laszlo lencse	64q0	
+laszlo lovasz	17mv	
+laszlo lowenstein	bsc	
+laszlo maholy nagy	1q67	
+laszlo moholy		1q67:3
+laszlo moholy nagy	1q67	
+laszlo nagy	1q67	
+laszlo panaflex	i68	
+laszlo polgar	66zg	
+laszlo polgar chess player	66zg	
+laszlo pusztai	5byq	
+laszlo racz	44ot	
+laszlo radvanyi	503l	
+laszlo raffinsky	4lx7	
+laszlo rajk	5non	
+laszlo repasi	5zyg	
+laszlo sepsi	3psu	
+laszlo soloym	2ui9	
+laszlo solyom	2ui9	
+laszlo sternberg	4vgo	
+laszlo szabo	wk6	
+laszlo szabo actor	wk6	
+laszlo toekes	5sd0	
+laszlo tokes	5sd0	
+laszlo v	2tt4	
+laszlo weisz	1q67	
+laszlo wukovics	627w	
+laszlo ze	5nvg	
+lebanon	gr,j28,o8x,135w,15x3,16mi,1ucz,2mbn,354w,40k4	6yq:6,kdg:2,43gp:2
+lebanon 2009 film	1ucz	
+lebanon at the 2014 asian games	19p	
+lebanon civil war	2gnx	
+lebanon connecticut	15x3	
+lebanon county	kdg	
+lebanon county pa	kdg	
+lebanon county pennsylvania	kdg	
+lebanon ct	15x3	
+lebanon high school missouri	2mbn	
+lebanon in	354w	
+lebanon indiana	354w	
+lebanon kentucky	40k4	
+lebanon ky	40k4	
+lebanon law school	exf	
+lebanon men		6yq:6
+lebanon men s		6yq:6
+lebanon men s national		6yq:6
+lebanon men s national football		6yq:6
+lebanon men s national football team	6yq	
+lebanon missouri	2mbn	
+lebanon missouri micropolitan area	1dh0	
+lebanon mo	2mbn	
+lebanon mo micropolitan statistical area	1dh0	
+lebanon mo msa	1dh0	
+lebanon mo sa	1dh0	
+lebanon national football team	6yq	
+lebanon national soccer team	6yq	
+lebanon new hampshire	o8x	
+lebanon new jersey	43gp	
+lebanon nh	o8x	
+lebanon nh vt msa	o8x	
+lebanon oh	16mi	
+lebanon ohio	16mi	
+lebanon pa	j28	
+lebanon pa metropolitan statistical area	kdg	
+lebanon pa msa	kdg	
+lebanon parliament	6hlf	
+lebanon pennsylvania	j28	
+lebanon pennsylvania metropolitan area	kdg	
+lebanon s parliament	6hlf	
+lebanon seminary	v5w	
+lebanon soccer team	6yq	
+lebanon summer time	xtz	
+lebanon tennessee	135w	
+lebanon tn	135w	
+lebanon township	43gp	
+lebanon township hunterdon county new jersey	43gp	
+lebanon township minnesota	3oyd	
+lebanon township new jersey	43gp	
+lebanon township nj	43gp	
+lebanon township warren county ohio	16mi	
+leukosia	2zv	
+lymphocytic leukemia	3vo1	
+lynchings	1v53	
+maria sachsen coburg	13sb	
+messancy	2xu1	
+michael shumacher	6ku	
+mixo mosulisvili	195l	
+mrakotin	1mhz	
+mrakotin jihlava district	1mhz	
+nenadovic tower	ftt	
+neoplasticism	zlj	
+nesopupa	2150	
+new chinatown st louis	2eaj	
+noukchott	mnt	
+palomino creek	10jh	
+paul bethany	meq	
+peter infans of aragon	4eir	
+philidelphia	7a	
+philidelphia 76ers	2bc	
+philidelphia eagles	ye	
+pinkc	vlp	
+premeaux	2aie	2aie:2
+premeaux prissey	2aie	
+prince willem alexander	u3a	
+prince willem county	drb	
+prince willem of the netherlands	3a5v	
+przemyslid	cxv	
+puylausic	2g76	
+raaaaaaaandy	1fqn	
+rhaga	iqc	
+riccarda huch	3448	
+robert smigel	22cr	
+roling stone	5x35	
+sadler		dnc:3
+sadler s		dnc:3
+sadler s wells	dnc	
+sadler s wells ballet school	u36	
+sadler s wells horse	dnc	
+sadler s wells school	u36	
+saint cynog	10vf	
+sakht		mpi:4
+sakht sar		mpi:4
+sakht sar rural		mpi:4
+sakht sar rural district	mpi	
+sandwitch	7yq	
+scarabaeidae	6rk	
+setzu	41vp	
+squizzi	3o1c	
+st donat	2c8j	
+stenorhopalus	54ht	
+stowaway	2nvt	4gih:2
+stowaway 1936 film	2nvt	
+strisser		5dpk:3
+strisser pa		5dpk:3
+strisser pa sams	5dpk	
+strisser pa samso	5dpk	
+szenna	4xsy	
+tascininae	1ret	
+telepherique	158j	
+the hauge	oj	
+the prophecy	2njv	4eh9:3
+the prophecy 2	4eh9	
+the prophecy ii	4eh9	
+the prophecy iron maiden song	60zl	
+the raygar stadium	5qev	
+the reckoning	1wg0,5tle	
+the reckoning 1908 film	5tle	
+the reckoning 2003 film	1wg0	
+tolkin michael	251f	
+tumakooru	2qqb	
+turtola	2nrc	
+tvotr	29wc	
+ukhaatu khan	3v4y	
+ukhaatu khan emperor huizong of yuan	3v4y	
+ulwimi isixhosa	23an	
+valentinianus i	3qej	
+valentinianus ii	4qke	
+valentinianus iii	2nca	
+vileyka		4kb4:2
+vileyka district	4kb4	
+vileyka oblast	1ndv	
+vileyka raion	4kb4	
+vileyka voblast	1ndv	
+vileyka voblasts	1ndv	
+vladimirskaya oblast	iie	
+vladimirskaya oblast russia	iie	
+wizard		38ul:2
+wizard fantasy	3r8e	
+wizard fantasy archive1	3r8e	
+wizard of dribble	2st5	
+wizard of earthsea	631j	
+wizard of gore		636a:4
+wizard of oz		i2s:4,32i3:4,3e7i:4
+wizard of oz 1925 film	3e7i	
+wizard of oz 1939	i2s	
+wizard of oz 1939 film	i2s	
+wizard of oz book	1aqy	
+wizard of oz book series	nll	
+wizard of oz books	nll	
+wizard of the dome	l1o	
+wizard of the north	brp	
+wizard of waverly place	1oqv	
+wizard of westwood	3tzp	
+wizard of wishaw	ry1	
+wizard of yendor	5yx4	
+wizard paranormal	1t4y	
+wizard rock bands	631o	
+wizard s net	3b5u	
+wizard s rainbow	19z9	
+wizard s rule	3rdx	
+wizard s rules	3rdx	
+wizard works	5g37	
+yamaguti	h74	
+yamaguti kappei	q2x	
+yamaguti mituo	q2x	
+yamaguti prefecture	6zm	
+yamaguti yamaguti	h74	
+yamaguti yosiko	308r	
+zeadiatraea	101x	
+zizek	jky	
+zorawina commune	zz0	
+zorzone	1j3e	

@@ -1,0 +1,7 @@
+{"packs": [
+ {"id": "movies", "title": "Movies", "pick": "Movies", "detail": "MetaQA / WikiMovies graph: 43,234 entities, 133,582 facts, 9 relations", "bytes": 1900325, "status": "available", "default": true,
+  "placeholder": "e.g. who directed Memento"},
+ {"id": "general", "title": "General knowledge (Wikidata)", "pick": "General knowledge (Wikidata)", "detail": "A Wikidata core: 303,149 entities, 3.46M facts + 1.04M dates and quantities, 1,089 relations. Loads ~3 MB, then fetches the facts each question needs.", "status": "available",
+  "placeholder": "e.g. Who was Abraham Lincoln's first child?",
+  "preview": "gets about 1 in 5 open questions right (Mintaka dev: 21.1% with this pack, 22.8% on the full 4.8M-entity graph). Check the path it shows. ~23M parameters total (a 0.1M-parameter trained scorer on a frozen 22.7M MiniLM)."}
+]}

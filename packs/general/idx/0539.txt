@@ -1,0 +1,385 @@
+aguadilla	usd	
+aguadilla isabela pr metropolitan statistical area	usd	
+aguadilla isabela pr msa	usd	
+aguadilla isabela san sebastian pr msa	usd	
+aguadilla pr	usd	
+aguadilla puerto rico	usd	
+aguadilla puerto rico metropolitan area	usd	
+alexander rustow	4zey	
+alexander rustow comments	4zey	
+alimix	edu	
+amherstburg	1l0w	
+amherstburg on	1l0w	
+amherstburg ontario	1l0w	
+antakalnio kapines	531i	
+antran	384s	
+ardsley on hudson	38fm	
+associacao		28d:4,2xf:4,3kx:4,3ty:7,7un:4,7yj:5,bgh:3,bu6:3,c65:4,dn3:3,ds0:6,krx:3,qsb:3,tmy:3,15t2:3,19hh:3,1n1n:3,1zuv:3,20k2:3,2hso:3,33yc:3,468w:5,4gkw:4,4nap:4,4oq2:4,5d45:4,5nug:5,5uma:4,5vrd:3,63t7:3,6a19:3,6afx:5
+associacao academica		3ty:7
+associacao academica de		3ty:7
+associacao academica de coimbra		3ty:7
+associacao academica de coimbra o		3ty:7
+associacao academica de coimbra o a		3ty:7
+associacao academica de coimbra o a f	3ty	
+associacao academica de coimbra oaf	3ty	
+associacao academica de coimbra organismo autonomo de futebol	3ty	
+associacao atletica		2xf:4,bgh:3,dn3:3,krx:3,qsb:3,15t2:3,19hh:3,1zuv:3,20k2:3,33yc:3,5d45:4
+associacao atletica anapolina	krx	
+associacao atletica aparecidense	20k2	
+associacao atletica caldense	qsb	
+associacao atletica coruripe	33yc	
+associacao atletica de avanca	5jnt	
+associacao atletica flamengo	1zuv	
+associacao atletica francana	15t2	
+associacao atletica internacional	dn3	
+associacao atletica internacional de limeira	dn3	
+associacao atletica internacional limeira	dn3	
+associacao atletica ponte		2xf:4
+associacao atletica ponte preta	2xf	
+associacao atletica portuguesa	bgh,19hh	
+associacao atletica portuguesa rj	19hh	
+associacao atletica portuguesa santista	bgh	
+associacao atletica portuguesa santos	bgh	
+associacao atletica santa		5d45:4
+associacao atletica santa rita	5d45	
+associacao botafogo		5uma:4
+associacao botafogo futebol		5uma:4
+associacao botafogo futebol clube	5uma	
+associacao chapecoense		7un:4
+associacao chapecoense de		7un:4
+associacao chapecoense de futebol	7un	
+associacao cultural recreativa e esportiva atletico cidade	4sh2	
+associacao cultural recreativa e esportiva atletico cidade azul	4sh2	
+associacao de futebol chapecoense	7un	
+associacao desportiva		3kx:4,bu6:3,ds0:6,tmy:3,1n1n:3,468w:5,4gkw:4,5nug:5
+associacao desportiva atletica	5nug	5nug:5
+associacao desportiva atletica do		5nug:5
+associacao desportiva atletica do parana	5nug	
+associacao desportiva bahia		468w:5
+associacao desportiva bahia de		468w:5
+associacao desportiva bahia de feira	468w	
+associacao desportiva cabofriense	bu6	
+associacao desportiva centro		4gkw:4
+associacao desportiva centro olimpico	4gkw	
+associacao desportiva confianca	tmy	
+associacao desportiva da camacha	17c8	
+associacao desportiva de esposende	66sf	
+associacao desportiva de fafe	tr7	
+associacao desportiva de lousada	1kdx	
+associacao desportiva de machico	3zub	
+associacao desportiva do carregado	5d90	
+associacao desportiva ferroviaria	1n1n	
+associacao desportiva ferroviaria vale do rio doce	1n1n	
+associacao desportiva ferroviaria vale do rio doce players	1n1n	
+associacao desportiva limianos	5l1p	
+associacao desportiva lousada	1kdx	
+associacao desportiva os limianos	5l1p	
+associacao desportiva ovarense	q9p	
+associacao desportiva ovarense futebol	q9p	
+associacao desportiva recreativa		ds0:6
+associacao desportiva recreativa cultural icasa	ds0	
+associacao desportiva recreativa e		ds0:6
+associacao desportiva recreativa e cultural		ds0:6
+associacao desportiva recreativa e cultural icasa	ds0	
+associacao desportiva sanjoanense	1m27	
+associacao desportiva sao		3kx:4
+associacao desportiva sao caetano	3kx	
+associacao esportiva		2hso:3,5vrd:3,6a19:3,6afx:5
+associacao esportiva aracatuba	2hso	
+associacao esportiva santacruzense	6a19	
+associacao esportiva tiradentes	5vrd	
+associacao esportiva velo		6afx:5
+associacao esportiva velo clube		6afx:5
+associacao esportiva velo clube rioclarense	6afx	
+associacao ferroviaria		c65:4,4oq2:4
+associacao ferroviaria de		c65:4,4oq2:4
+associacao ferroviaria de desportos	c65	
+associacao ferroviaria de esportes	c65,4oq2	
+associacao ferroviaria de esportes women	4oq2	
+associacao internacional dos trabalhadores seccao portuguesa	fdr	
+associacao naval		7yj:5
+associacao naval 1o		7yj:5
+associacao naval 1o de		7yj:5
+associacao naval 1o de maio	7yj	
+associacao naval 1o maio	7yj	
+associacao olimpica		4nap:4
+associacao olimpica de		4nap:4
+associacao olimpica de itabaiana	4nap	
+associacao portuguesa		28d:4,63t7:3
+associacao portuguesa de		28d:4
+associacao portuguesa de desportos	28d	
+associacao portuguesa londrinense	63t7	
+associacao sportiva arapiraquense	ak0	
+astraeos	6fkd	
+azul	2n0w	1ehv:3
+azul argentina	2n0w	
+azul buenos aires	2n0w	
+azul buenos aires province	2n0w	
+azul claro		1ehv:3
+azul claro numazu	1ehv	
+azul mi dientes	j4s	
+azul mis dientes	j4s	
+badister	5znn	
+badonviller	16vz	
+barbonville	2e95	
+bloxwich	5stn	
+bloxwich walsall	5stn	
+bombers	sw,507f	4h40:3
+bombers b		4h40:3
+bombers b 52	4h40	
+bombers b 52 film	4h40	
+bombers team	11l	
+bratislav		4kty:2,5dfp:2
+bratislav ristic	4kty	
+bratislav zivkovic	5dfp	
+bratislav zivkovic footballer	5dfp	
+briollay	2on3	
+brusciano	3irg	
+caponago	5o9f	
+chatterbox	4u3n	
+chatterbox 1936 film	4u3n	
+chatterbox album	3dx2	
+choussy	2m1i	
+chrystallography	4943	
+colubridae	3s2o	
+cz12	1jcn	
+daniels anthony	3v1i	
+daniels charlie	kka	
+daniels jeff	ge9	
+daniels william	161y	
+davayat	3xyb	
+david biton	5fmd	
+denice	1p54,508o	
+diffused music	a6b	
+disabilities	6czd	
+disabilities people with	6czd	
+dollinger johann joseph ignaz von	58v9	
+drachenbronn		2h0z:2
+drachenbronn birlenbach	2h0z	
+drury		klw:2
+drury college	klw	
+drury university	klw	
+dyphteria	1sng	
+easy		8bb:2,1dwm:2,1ejy:2,1nj5:2,1paa:2,1rkh:2,2bbw:3,2i8l:2,2zp4:2,39zb:2,3cgj:3,48hi:5,4px6:2
+easy a	1rkh	
+easy a film	1rkh	
+easy beats	1p40	
+easy button	37rk	
+easy come easy go starflyer 59 double album	3h2c	
+easy core	21l	
+easy e	12se	
+easy eight	18uf	
+easy is the way the black donnellys	4us6	
+easy life	31de	
+easy listening	8bb	
+easy listening music	8bb	
+easy living	1paa,2i8l	
+easy living 1937 film	2i8l	
+easy living 1949 film	1paa	
+easy living 1949 movie	1paa	
+easy money	2zp4,4px6	48hi:5
+easy money 1948 film	4px6	
+easy money 2	2q0b	
+easy money 2010 film	2zp4	
+easy money ii	2q0b	
+easy money ii hard to kill	2q0b	
+easy money iii	48hi	48hi:5
+easy money iii life		48hi:5
+easy money iii life deluxe	48hi	
+easy papa johnson	5cgn	
+easy rider	1ejy	
+easy rider 2 the ride back	1ejy	
+easy rock	230	
+easy to		2bbw:3,3cgj:3
+easy to love	3cgj	
+easy to love 1953 film	3cgj	
+easy to wed	2bbw	
+easy virtue	1nj5,39zb	
+easy virtue 1928 film	39zb	
+easy virtue 2008 film	1nj5	
+easy virtue 2009 film	1nj5	
+easy way	49xa	49xa:3
+easy way out	5uxm	5uxm:4
+easy years	1dwm	
+erodoto	5psk	
+erran morad	qyl	
+ethelwulf	2whu	
+ethelwulf of wessex	2whu	
+euptera	1gsc	
+expertease	6c51	
+expertease song	6c51	
+eyio	2ma1	
+eyio greece	2ma1	
+fiammetta		34e0:2
+fiammetta baralla	34e0	
+frederick howard		3oca:6
+frederick howard 5th		3oca:6
+frederick howard 5th earl		3oca:6
+frederick howard 5th earl of		3oca:6
+frederick howard 5th earl of carlisle	3oca	
+garbow commune	28b1	
+gmina obrowo	181q	
+gmina osieczna	14y0,1ft1	
+gmina osieczna greater poland voivodeship	14y0	
+gmina osieczna pomeranian voivodeship	1ft1	
+gmina plaska	18ks	
+golbey	23b3	
+heillecourt	238v	
+hoblit	33r1	
+hoblit gregory	33r1	
+husaren		4qfv:3
+husaren in		4qfv:3
+husaren in berlin	4qfv	
+hyppolyte giraudoux	16yz	
+hyppolyte taine	6332	
+ilaiayaraja	1q3	
+jagannath	4jia	
+jagannath puri	15nm	
+james tissot	47z9	
+jjl blanc	2lic	
+jlster	15n0	
+john chrysostom	2iva	
+john coates mathematician	4jfz	
+john okwunwanne	54mf	
+kaiserjager	4aom	
+kaiserjager film	4aom	
+kappelen	2j0f	
+kappelen haut rhin	2j0f	
+khvoresh		1lst:6,480i:6
+khvoresh rostam		1lst:6,480i:6
+khvoresh rostam e		1lst:6,480i:6
+khvoresh rostam e jonubi	480i	480i:6
+khvoresh rostam e jonubi rural		480i:6
+khvoresh rostam e jonubi rural district	480i	
+khvoresh rostam e shomali	1lst	1lst:6
+khvoresh rostam e shomali rural		1lst:6
+khvoresh rostam e shomali rural district	1lst	
+knees and elbows	1yla	
+kogen hosshinno	1csx	
+kogen north korea	1fam	
+kogen nyudo shinno	1csx	
+kogen nyudoshinno	1csx	
+kogen province north korea	1fam	
+kogen province south korea	ipq	
+kogen south korea	ipq	
+koridallos	46dg	
+koridallos greece	46dg	
+kraozon	1p9j	
+layallpur	8g9	
+le bez	1qr3	
+leigne		2qrv:3
+leigne les		2qrv:3
+leigne les bois	2qrv	
+linares	joo,22k9	3dei:2
+linares chile	22k9	
+linares jaen	joo	
+linares province	3dei	
+linares spain	joo	
+linares unido	4xck	
+lky	y5b	
+luben	ria	
+lynch	ztd	5o86:2
+lynch david	b6n	
+lynch family	ztd	
+lynch jack	2eg4	
+lynch law	1v53	
+lynch mob	1v53,5o86	
+lynch mob band	5o86	
+lynch mob group	5o86	
+lynch name	ztd	
+lynch richard	yux	
+lynch surname	ztd	
+maria eugenia	690i	
+maria eugenia ignacia augustina de palafox portocarrero de guzman y kirkpatrick	18yx	
+massanet	isg	
+massanet de cabrenys	1py6	
+massangis	1wz2	
+mauricius	3yo7	
+merris	3h4e	
+michael christopher landes	30rg	
+mohiner ghoraguli	3pi7	
+msiq	2hwi	
+nafteks	cdn	
+nanjilnadu	pls	
+neersen	2orz	
+novelist	36	
+okhaldhunga		l0v:2
+okhaldhunga district	l0v	
+orozco	617c	
+orozco fiscal	4o65	
+orozco jonathan	3o64	
+orozco michael	4o65	
+pancalieri	27el	
+peg and pistol pete	3m5x	
+peg lyte	3pzw	
+peg o		49t3:4
+peg o my		49t3:4
+peg o my heart	49t3	
+peg o my heart 1933 film	49t3	
+peg pete	3m5x	
+peje	du6	
+pekkan	45zd	
+phytocoris	y0m	
+plecostigma	us8	
+pleurobema	1jrv	
+porterfield festival	mj2	
+prince achilles andreas of greece	1var	
+prince achilles andreas of greece and denmark	1var	
+qaragandy	8zq	
+raiders		nch:5,2e17:2
+raiders of		nch:5
+raiders of atlantis	548e	
+raiders of the		nch:5
+raiders of the end of the world	12du	
+raiders of the last ark	nch	
+raiders of the lost		nch:5
+raiders of the lost arc	nch	
+raiders of the lost ark	nch	
+raiders of the phantom menace	x3n	
+reminiscences of sherlock holmes	4f4y	
+resignations	6hdf	
+richard finman	ntv	
+rieka	3c2	
+rosello	3sqy	
+saint gineys		3pfm:4
+saint gineys en		3pfm:4
+saint gineys en coiron	3pfm	
+saint ismier	1ulb	
+saint mildgytha	6bp5	
+santantonino	4dvo	
+santantonino di susa	4grg	
+schorch christopher	2sjs	
+seabiscuit	13uo	
+seabiscuit film	13uo	
+seabiscuit movie	13uo	
+serendip foundation	fbx	
+seurre	1q7t	
+shatskikh	2uzs	
+speculantha	4yz	
+stavechurch	1b2o	
+the ordeal	5u1j	
+the scanners series	11r3	
+the timelords	1e8j	
+thwaite michael	4ekn	
+trappists	1a9y	
+traverseres	224r	
+trebusice	3hmj	
+trebusin	3fyz	
+trellebogene	x23	
+uddar meanchey province	22c6	
+ungarisch brod	t05	
+ungarisch hradisch	gwl	
+uterus cancer	24qb	
+valentia	4anp	
+vaudricourt	3k6s,3kft	
+vaudricourt pas de calais	3k6s	
+vaudricourt somme	3kft	
+vektrekz	5a3f	
+vidhu		11a9:3
+vidhu vinod		11a9:3
+vidhu vinod chopra	11a9	
+visagist	5wh	
+wigginsia	6fq1	
+zhangzhou	1bwa	
+zhangzhou prefecture	1bwa	
+zygoballus	5sn3	

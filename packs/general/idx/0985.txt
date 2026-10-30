@@ -1,0 +1,425 @@
+1710s	25xy	
+a camp	5rr2	
+abaham lincoln	9kv	
+abnormal gait	3vi9	
+abnormal hair	38v3	
+abnormal heart rhythm	18iq	
+abnormal involuntary movements	4ki9	
+abnormal loss of weight	4cz1	
+abnormal weight loss	4cz1	
+academe	gwh	
+alamannic graves	6epk	
+alexander glasunow	2xex	
+altmanesque	exc	
+archeogastropods	35ld	
+arystan		44x2:2
+arystan temirtau	44x2	
+attard	3jt8	
+bakary		2xv8:2,4csj:2,5eze:2,5gkr:2
+bakary diakite	2xv8	
+bakary sagna	4qez	
+bakary sako	4csj	
+bakary soro	5gkr	
+bakary soumare	5eze	
+baranavicy	gqr	
+baranavicy district	453g	
+baranavicy vobasc	tdc	
+baranavicy voblasc	tdc	
+bectero sasana	62u	
+belyaev alexander	2vaw	
+belyaev dmitry konstantinovich	62sf	
+bjugn	173n	173n:2
+bjugn municipality	173n	
+bootes	6u9	
+bootes constellation	6u9	
+chantilly	dnn,1rvz	4b3z:2,68sj:2
+chantilly city	dnn	
+chantilly forest	4b3z	
+chantilly france	dnn	
+chantilly lace	68sj	
+chantilly lace film	68sj	
+chantilly oise	dnn	
+chantilly plantation	1rvz	
+chantilly times	1rvz	
+chantilly va	1rvz	
+chantilly virginia	1rvz	
+charles simplex	2eiq	
+chiddes	2g9r,39sf	
+chiddes nievre	39sf	
+chiddes saone et loire	2g9r	
+cirignola	ly2	
+couperus	3fbk	
+crests digimon	2qj0	
+crni bombarder	3kus	
+crni ore	3c6y	
+czeremcha commune	19sr	
+dow	1ipn	
+dow brands	1ipn	
+dow chemical		1ipn:3
+dow chemical classic	40cv	
+dow chemical co	1ipn	
+dow chemical company	1ipn	
+dow chemical company foundation	1ipn	
+dow chemical corporation	1ipn	
+dow chemicals	1ipn	
+dow classic	40cv	
+dow com	1ipn	
+dow foo	4hl2	
+dow foundation	1ipn	
+dow jones	4v3c	4v3c:3
+dow jones and company	4v3c	
+dow jones co	4v3c	
+dow jones company	4v3c	
+dow jones company inc	4v3c	
+dow jones news service	4v3c	
+dow jones newswire	4v3c	
+dow kokam	1ipn	
+dow pharmaceutical sciences	1ipn	
+drusenheim	1ey2	
+dyan		10xp:2
+dyan cannon	10xp	
+edward paley	qye	
+eringen		2w6x:2
+eringen medal	2w6x	
+fc torino	1up	
+ferruzano	5888	
+fleisher	5p8k	
+foodstuff	gz	
+frente amplio party	mph	
+frente amplio uruguay	mph	
+frente da libertacao de mocambique liberation front of mozambique	22qo	
+frente de juventudes	2nlt	
+frente de libertacao de mocambique	22qo	
+frente para la victoria	ozz	
+frente popular de liberacion de saguia el hamra y rio de oro	2bcz	
+frente popular para la liberacion de saguia el hamra y rio de oro	2bcz	
+frente sandinista de liberacion nacional	5mal	
+galtara	6268	
+hang		10ha:2,1hia:3
+hang by the neck until dead	16n	
+hang chow	4p5	
+hang chow fu	4p5	
+hang dong	10ha	
+hang dong district	10ha	
+hang em		1hia:3
+hang em high	1hia	
+hang hang khong quoc gia viet nam	4fl5	
+hang kang	15nv	
+hang khong vietnam	4fl5	
+hang kiang	15nv	
+hang on chris janson song	3x5z	
+hang over	6hlz	
+hang overs	6hlz	
+hang river	15nv	
+hang seng stock exchange	2mr	
+hang tcheou fou	4p5	
+hang tuah state	d4o	
+harlington straker studios	1ph7	
+hein	2t38	
+hein van der niet	1a7j	
+henry hardinge	3stm	3stm:5
+henry hardinge 1st		3stm:5
+henry hardinge 1st viscount		3stm:5
+henry hardinge 1st viscount harding	3stm	
+henry hardinge 1st viscount hardinge	3stm	
+henry harrison bingham	506y	
+hopitaux de paris	3wws	
+i laureati	5gma	
+i miserabili	15rc	
+i miserabili 1948 film	15rc	
+i miserabili film 1948	15rc	
+james mceveley	3de8	
+jobby crossan	4tte	
+junta	3lbk	41na:5
+junta de		41na:5
+junta de villalba		41na:5
+junta de villalba de		41na:5
+junta de villalba de losa	41na	
+junta de villalba de losa burgos	41na	
+junta de villalba de losa spain	41na	
+karamay	3ru3	
+karamay city	3ru3	
+karamay xinjiang	3ru3	
+keywork	1c6y	
+kirjava	6f3e	
+la beauvoir	ox4	
+lans	3lks	22o1:3
+lans en		22o1:3
+lans en vercors	22o1	
+lans saone et loire	3lks	
+le doubs	2bee	
+le scaphandre et le papillon	z8d	
+le scaphandre et le papillon film	z8d	
+lindauer	6f9k	
+lindauer surname	6f9k	
+lomandra	4lpi	
+lubavich	32no	
+lula	2j5w	
+lula administration	11qm	
+lula carson mccullers	1rf4	
+lula carson smith	1rf4	
+lula carson smith mccullers	1rf4	
+lula da silva	11qm	
+lula italy	2j5w	
+lula la mas linda	45oi	
+lula mccullers	1rf4	
+lula sardinia	2j5w	
+lyczakow cemetery	98k	
+madio konate	569z	
+maholy nagy	1q67	
+manzano	2m76	
+manzano friuli	2m76	
+manzano italy	2m76	
+memnon ward of herodes atticus	28ze	
+metschn	138o	
+michael sommer	3qty	
+michael von		1145:3
+michael von erich	454t	
+michael von newlinski	1145	
+michael von newlinsky	1145	
+michael von oginski	4d93	
+mignaloux		20n0:2
+mignaloux beauvoir	20n0	
+mstislaw	4vz6	
+mstislaw district	4pri	
+mudaison	31cu	
+nairobi	23t	
+nairobi area	23t	
+nairobi area kenya	23t	
+nairobi comments	23t	
+nairobi international airport	3t7q	
+nairobi jomo kenyatta intl airport	3t7q	
+nairobi kenya	23t	
+nairobi metropolitan area	23t	
+nairobi municipality	23t	
+nairobi university	a3d	
+natoire	3dkp	
+neichiang	3l6e	
+nejef	g26	
+ohta gunma	11uv	
+ohta ku	7ye	
+ohta ku tokyo	7ye	
+ohta tokyo	7ye	
+oothout		2igj:3
+oothout zabriskie		2igj:3
+oothout zabriskie whitehead	2igj	
+patriots	5zp4	2sa1:2,3ysz:2
+patriots 1937 film	5zp4	
+patriots day	2sa1	
+patriots day film	2sa1	
+patriots film	5zp4	
+patriots hall of fame	1a1	
+patriots new england	1a1	
+pelargonia	1i68	
+pennsylvania	5a	y0:3,23m:4,293:4,5iu:6,9ze:2,12rv:2,1jfi:2,1uca:4,2x4h:3,607h:5
+pennsylvania academy	5iu	5iu:6
+pennsylvania academy of		5iu:6
+pennsylvania academy of fine art	5iu	
+pennsylvania academy of fine arts	5iu	
+pennsylvania academy of the		5iu:6
+pennsylvania academy of the fine		5iu:6
+pennsylvania academy of the fine arts	5iu	
+pennsylvania agricultural college	y0	
+pennsylvania college	1fil	
+pennsylvania college football	1fil	
+pennsylvania conference of the holiness christian church	5snx	
+pennsylvania department		23m:4,1uca:4
+pennsylvania department of		23m:4,1uca:4
+pennsylvania department of corrections	1uca	
+pennsylvania department of highways	23m	
+pennsylvania department of transporation	23m	
+pennsylvania department of transportation	23m	
+pennsylvania dot	23m	
+pennsylvania featured content	5a	
+pennsylvania gg1	2x4h	
+pennsylvania maps	5a	
+pennsylvania medical college	1fil	
+pennsylvania military cadets	bbc	
+pennsylvania military cadets men s basketball	bbc	
+pennsylvania museum and school of industrial art	bmy	
+pennsylvania museum and school of industrial arts	63t	
+pennsylvania museum of art	bmy	
+pennsylvania museum of fine arts	5iu	
+pennsylvania museum school of industrial art	63t	
+pennsylvania new york central transportation	1akb	
+pennsylvania new york central transportation company	1akb	
+pennsylvania petit truss	2rf	
+pennsylvania portal	5a	
+pennsylvania preparedness leadership institute	14f	
+pennsylvania rail road	9ze	
+pennsylvania railroad	9ze	2x4h:3
+pennsylvania railroad class gg1	2x4h	
+pennsylvania railroad co	9ze	
+pennsylvania railroad company	9ze	
+pennsylvania railroad gg1	2x4h	
+pennsylvania railway	9ze	
+pennsylvania real		607h:5
+pennsylvania real estate		607h:5
+pennsylvania real estate investment		607h:5
+pennsylvania real estate investment trust	607h	
+pennsylvania school of medicine	4yu	
+pennsylvania shipbuilding company	12af	
+pennsylvania state	y0	y0:3,293:4
+pennsylvania state route		293:4
+pennsylvania state route system	293	
+pennsylvania state university	y0	
+pennsylvania state university press	4cm1	
+pennsylvania station	1jfi	
+pennsylvania station 30th street	2qbo	
+pennsylvania station baltimore	5t32	
+pennsylvania station baltimore maryland	5t32	
+pennsylvania station lirr	1jfi	
+pennsylvania station manhattan	1jfi	
+pennsylvania station new york city njt station	1jfi	
+pennsylvania station newark	1zib	
+pennsylvania station newark light rail	1zib	
+pennsylvania station newark ncs station	1zib	
+pennsylvania station washington d c	1c0b	
+pennsylvania stoners	12rv	
+pennsylvania symbols	5a	
+pennsylvania system	9ze	
+pennsylvania things you can do	5a	
+pennsylvania township	sy	
+pennsylvania united states	5a	
+pennsylvania university	i4	
+pennsylvania university museum	51xu	
+pennsylvania university press	p44	
+petritoli	33w1	
+philatelists	66wu	
+philostratus	5rvk	
+philostratus atheniensis	5rvk	
+philostratus ii	5rvk	
+philostratus of athens	5rvk	
+pidakkozhi		6cfz:3
+pidakkozhi koovunna		6cfz:3
+pidakkozhi koovunna noottaandu	6cfz	
+pidakkozhi koovunna noottandu	6cfz	
+pinganli	4hfv	
+placente	3jlr	
+polit	7	
+pompeians	1reo	
+priluki	1sfq	
+pruniers		1qfy:3
+pruniers en		1qfy:3
+pruniers en sologne	1qfy	
+quimerch	2ik7	
+rachele		61ey:2
+rachele guidi	61ey	
+rachele guidi mussolini	61ey	
+rachele mussolini	61ey	
+revelations ep	4fkw	
+richard stephen dreyfuss	eze	
+richard stephen robbins	1cvv	
+rikuzentakata	2yd0	
+rikuzentakata iwate	2yd0	
+roebling		xap:2
+roebling john augustus	4ba4	
+roebling medal	xap	
+rolpa	m7w	m7w:2
+rolpa district	m7w	
+rugge	4thd	
+salzano	38hh	
+sancta caecilia	3aim	
+sancta conversazione	kvx	
+sandweiler	57oi	
+sandweiler luxembourg	57oi	
+saterland	4mk2	
+savvas	4j5f	2l79:2,3u4s:2,3un8:2,5dw4:2
+savvas exouzidis	3u4s	
+savvas first name	4j5f	
+savvas gentsoglou	3un8	
+savvas given name	4j5f	
+savvas kofidis	5dw4	
+savvas poursaitidis	2l79	
+saxonyanhalt	51l	
+seyid bargash	640k	
+spinozapremie	i99	
+sportbikes	1azv	
+sussmuth	45nc	
+tariano adaryll jackson	xpj	
+taruhito	5s11	
+terroles	3gme	
+the book		1d1c:3,1ixr:4,2hcb:4,45fl:4,6fo0:6,6gh1:4
+the book of		1ixr:4,2hcb:4,45fl:4,6fo0:6,6gh1:4
+the book of acts	103j	
+the book of amber	295b	
+the book of change chang	27ab	
+the book of daniel	2kz2	
+the book of daniel biblical book	2kz2	
+the book of deuteronomy	5hb2	
+the book of eli	1ixr	
+the book of eli 2010	1ixr	
+the book of enoch	63vl	
+the book of enoch the prophet	63vl	
+the book of esther	51lr	
+the book of exodus	100o	
+the book of genesis	b56	
+the book of giants	5g7t	
+the book of henry	45fl	
+the book of heraclius	6b4x	
+the book of hours prayers to a lowly god	qfi	
+the book of isaiah	g6z	
+the book of ishmael	42fd	
+the book of job	66fu	
+the book of judges	3yk4	
+the book of judith	4nhr	
+the book of knowledge about the companions	4okt	
+the book of leviticus	6265	
+the book of life	2hcb	
+the book of life 2	2hcb	
+the book of life 2014 film	2hcb	
+the book of mormon an account written by the hand of mormon upon plates taken from the plates of nephi	l8k	
+the book of obadiah	6hcn	
+the book of psalms	3nq	
+the book of ruth	6eny	
+the book of shadows	3t3q	
+the book of sir marco polo	4d1o	
+the book of taliesyn	6gh1	
+the book of the		6fo0:6
+the book of the battle of tambuka	6b4x	
+the book of the beast	wk7	
+the book of the dead lee	wk7	
+the book of the die	558c	
+the book of the giants	5g7t	
+the book of the living	13yf	
+the book of the mad	wk7	
+the book of the major classes	66mo	
+the book of the major classes book	66mo	
+the book of the new		6fo0:6
+the book of the new sun	6fo0	
+the book of tobit	63xz	
+the book of wonders	4d1o	
+the book of zef	4ctv	
+the book thief	1d1c	
+the book thief film	1d1c	
+the book thief movie	1d1c	
+tolna	4je2	10uv:2
+tolna county	10uv	
+tolna hungary	4je2	
+tolna megye	10uv	
+tongyeong	3k1f	
+tongyeong si	3k1f	
+trym		4x9o:2
+trym aunevik	4x9o	
+ustashas	1n0l	
+valenzano	5h2y	
+valenzano apulia	5h2y	
+valenzano italy	5h2y	
+vallant		349f:3
+vallant saint		349f:3
+vallant saint georges	349f	
+vasconcellea	6f9u	
+veszprem	9vl	ca9:2,20h0:2,320x:2
+veszprem city	9vl	
+veszprem county	ca9	
+veszprem district	20h0	
+veszprem fc	19zx	
+veszprem kc	320x	
+vindecy	2yuf	
+vitznauer bucht	2zou	
+vuchitern	1989	
+yongjo	5v1l	
+zanclognatha	4i7k	
+zeze	61u4	
+zeze takahisa	4uf8	
+zolder belgium	17bs	

@@ -1,0 +1,430 @@
+1863 insurrection	2fh0	
+1863 m sukilimas	2fh0	
+1863 polish revolution	2fh0	
+1863 uprising	2fh0	
+adailton		3ma4:5,43cs:3,4bkr:3
+adailton bolzan martins	4bkr	
+adailton dos		43cs:3
+adailton dos santos	43cs	
+adailton dos santos filho	3ma4	
+adailton footballer born 1977	4bkr	
+adailton footballer born 1983	3ma4	
+adailton jose		3ma4:5
+adailton jose dos		3ma4:5
+adailton jose dos santos	3ma4	3ma4:5
+adailton jose dos santos filho	3ma4	
+adailton martins		4bkr:3
+adailton martins bolzan	4bkr	
+adailton pereira coelho	20wu	
+apposition eye	1wdp	
+aq	43yj,4k19	
+aq bars kazan	5ur	
+aq bars qazan	5ur	
+aq bolagh		3t8q:4
+aq bolagh rural		3t8q:4
+aq bolagh rural district	3t8q	
+aq interactive	5nlq	
+aq interactive inc	5nlq	
+aq khan	271g	
+aq su		5k2m:4
+aq su rural		5k2m:4
+aq su rural district	5k2m	
+argao	1eo9	
+argao cebu	1eo9	
+argentorati	cq	
+artilery	80w	
+begunna	r9h	
+birmingham	jo,1dy,usf	yi:4,hhs:4,w2h:3,102v:5,12zq:5,1cj0:3,1qtl:4,37fu:5,3r5o:6,40cv:2,5zwo:3,6h18:2
+birmingham al	1dy	
+birmingham ala	1dy	
+birmingham alabama	1dy	
+birmingham and solihull r f c	12zq	
+birmingham art gallery	37fu	
+birmingham art gallery and museum	37fu	
+birmingham artistic figures	jo	
+birmingham barons	6h18	
+birmingham bears	2onp	
+birmingham bicycle company	1qtl	
+birmingham bluebirds	6h18	
+birmingham blues	yi	
+birmingham blues baseball	6h18	
+birmingham blues song	64uu	
+birmingham borough	jo	
+birmingham carriage wagon company	3r5o	
+birmingham chamberlain university	5zwo	
+birmingham city		yi:4,102v:5,1cj0:3,5zwo:3
+birmingham city art gallery	37fu	
+birmingham city council	1cj0	
+birmingham city councillor	1cj0	
+birmingham city councillors	1cj0	
+birmingham city f		yi:4
+birmingham city f c	yi	
+birmingham city fc	yi	
+birmingham city football club	yi	
+birmingham city l f c	102v	
+birmingham city ladies football club	102v	
+birmingham city lfc	102v	
+birmingham city managers	yi	
+birmingham city squad	yi	
+birmingham city students union	5zwo	
+birmingham city university	5zwo	
+birmingham city university birmingham polytechnic sandbox	5zwo	
+birmingham city w		102v:5
+birmingham city w f		102v:5
+birmingham city w f c	102v	
+birmingham classic	40cv	
+birmingham classic tennis	40cv	
+birmingham climate	jo	
+birmingham college	ifr	
+birmingham connecticut	zpv	
+birmingham council	1cj0	
+birmingham england	jo	
+birmingham f c	yi	
+birmingham fc	yi	
+birmingham football club	yi	
+birmingham grammar school	9bc	
+birmingham grays	6h18	
+birmingham heritage festival	jo	
+birmingham iron men	6h18	
+birmingham ironmakers	6h18	
+birmingham john	5m49	
+birmingham maroons	6h18	
+birmingham metropolitan university	5zwo	
+birmingham mi	usf	
+birmingham mich	usf	
+birmingham michigan	usf	
+birmingham moseley		hhs:4
+birmingham moseley rugby		hhs:4
+birmingham moseley rugby club	hhs	
+birmingham museum		37fu:5
+birmingham museum and		37fu:5
+birmingham museum and art		37fu:5
+birmingham museum and art gallery	37fu	
+birmingham museum art gallery	37fu	
+birmingham museum trust	w2h	
+birmingham museums		w2h:3
+birmingham museums and art gallery	w2h	
+birmingham museums art gallery	37fu	
+birmingham museums trust	w2h	
+birmingham news room	1cj0	
+birmingham oxford railway company	4fv	
+birmingham pensacola	6h18	
+birmingham polytechnic	5zwo	
+birmingham railway		3r5o:6
+birmingham railway carriage		3r5o:6
+birmingham railway carriage and		3r5o:6
+birmingham railway carriage and wagon		3r5o:6
+birmingham railway carriage and wagon company	3r5o	
+birmingham railway carriage wagon company	3r5o	
+birmingham reds	6h18	
+birmingham s nia	108f	
+birmingham school of architecture and design	5zwo	
+birmingham screwdriver	3y1q	
+birmingham small		1qtl:4
+birmingham small arms	1qtl	1qtl:4
+birmingham small arms co	1qtl	
+birmingham small arms company	1qtl	
+birmingham small arms company limited	1qtl	
+birmingham solihull		12zq:5
+birmingham solihull r		12zq:5
+birmingham solihull r f		12zq:5
+birmingham solihull r f c	12zq	
+birmingham solihull rfc	12zq	
+birmingham southern	ifr	
+birmingham southern college	ifr	
+birmingham southern panthers baseball	ifr	
+birmingham southern panthers men s basketball	ifr	
+birmingham southern panthers track and field	ifr	
+birmingham southern panthers women s soccer	ifr	
+birmingham united kingdom	jo	
+birmingham united states	1dy	
+birmingham university	1fx	
+birmingham university lions basketball	1fx	
+birmingham us	1dy	
+birmingham usa	1dy	
+bjrgvin	16v	
+bohumin	vnf	
+bulaqueno	dsj	
+burkina	e1	e1:2,5vh:7
+burkina faso	e1	5vh:7
+burkina faso men		5vh:7
+burkina faso men s		5vh:7
+burkina faso men s national		5vh:7
+burkina faso men s national football		5vh:7
+burkina faso men s national football team	5vh	
+burkina faso national football team	5vh	
+burkina faso premier league	2io4	
+burkina fasoan	e1	
+burkina fasso	e1	
+burkina fatso	e1	
+caecum	jr7	
+caecum gastropod	jr7	
+caecum genus	jr7	
+calangianus	3bmd	
+calibur	59r9	
+calligraphy	3lxy	
+carnophallogocentrism	mk3	
+cervinjan	1wll	
+charles brenton		5sz9:3
+charles brenton huggins	5sz9	
+cookoo		5kzo:2
+cookoo cavaliers	5kzo	
+coplas por la muerte de su padre	4z4a	
+corlear s hook	1l4y	
+dancehall	5gw,1h52	
+dancehall music	5gw	
+dancehall pop	j6o	
+dancehall reggae	5gw	
+david grof	6761	
+david hinsley	4lzy	
+demers highway	4z0l	
+dinan	lhn	
+dragonflies	4qkz	
+endotegmen	4ck4	
+epinephelus	wj6	
+fabry charles	4dts	
+faking		187y:2
+faking it	187y	
+faking it 2014 tv series	187y	
+faking it u s tv series	187y	
+ffd1dc	vlp	
+ffsg	1jhu	
+fotex kc veszprem	320x	
+fowling piece	h3e	
+francisci petrarchae	14fc	
+frieres		2ohe:2
+frieres faillouel	2ohe	
+futurismo	urn	
+gatchinskiy district	3uc1	
+gatchinskiy raion	3uc1	
+gefursteter graf	10hy	
+gmina kuslin	462w	
+governess	26n4	
+harivansh		62zf:3
+harivansh bachchan	62zf	
+harivansh rai		62zf:3
+harivansh rai bachchan	62zf	
+harivansh rai shrivastav	62zf	
+harmanns hals	5y2p	
+homogenous mixture	bc3	
+huizhou	1psf	
+huizhou guangdong	1psf	
+imitation		12dc:3,1jkm:3
+imitation game		irz:3
+imitation of		12dc:3,1jkm:3
+imitation of life	12dc,1jkm	
+imitation of life 1934 film	1jkm	
+imitation of life 1959 film	12dc	
+ithome	4lf6	
+ithome moth	4lf6	
+jaboune	35jk	
+john adam belushi	19zv	
+john adam hasecoster	64y4	
+john adam ii	2unw	
+john adam presper eckert jr	2trt	
+john monk		3jtc:3
+john monk saunders	3jtc	
+kadhalan	5x1u	
+kantamanto	1epb	
+karens hiking	6fta	
+kompozitor glinka	5yhn	
+langich	mp1	
+lepetodrilus	59lv	
+lorna		2k67:3,2mq5:2,4gzh:2,5jhn:2,5rda:2
+lorna dane	578o	
+lorna doone shortbread cookies	46y9	
+lorna gray	2mq5	
+lorna interactive film	2w4v	
+lorna kepler	6boa	
+lorna luft	4gzh	
+lorna patterson	5rda	
+lorna s		2k67:3
+lorna s silence	2k67	
+lorna tolentino	5jhn	
+louganis	4dn0	
+louganis greg	4dn0	
+louganis gregory efthimios	4dn0	
+louresse		1xoq:2
+louresse rochemenier	1xoq	
+marce	2dlo	351g:3
+marce sur		351g:3
+marce sur esves	351g	
+massenet jules emile frederic	isg	
+matthijs	iwz	3gnb:3,47iv:3
+matthijs first name	iwz	
+matthijs given name	iwz	
+matthijs van		47iv:3
+matthijs van heijningen	47iv	
+matthijs vermeulen		3gnb:3
+matthijs vermeulen award	3gnb	
+matthijs withoos	3569	
+mesrob mashdots	4elk	
+mesrob mashtots	4elk	
+mesrob mashtots medal	hs0	
+moh a	5x63	
+moh aa	4n1z	
+moh airborne	5x63	
+moh hatta	516d	
+moh series	18zo	
+moh waan chue fong	4h9z	
+montour		vl4:2
+montour county	vl4	
+montour county pa	vl4	
+montour county pennsylvania	vl4	
+moso in passiria	24zj	
+mwanza	3bsw	52eb:2
+mwanza mukombo	52eb	
+nesovice	3oqc	
+omorfo	3qkm	
+omurat	29x6	
+otowa nobuko	vre	
+parillaud anne	19r9	
+paul reynaud	474w	
+paul reynaud comments	474w	
+paussac		3nzd:4
+paussac et		3nzd:4
+paussac et saint		3nzd:4
+paussac et saint vivien	3nzd	
+peggi		2iqi:2
+peggi blu	2iqi	
+peggi blue	2iqi	
+pellico silvio	4w8p	
+pentacostel	vj6	
+perscution of paganism by theodosius i	1lm3	
+pochahantas	4eyu	
+pocket		49z:2,1hid:2,58m6:2
+pocket books	49z	
+pocket busters	3xx3	
+pocket calculator	32uy	
+pocket calculators	32uy	
+pocket camp	6g3h	
+pocket change arcade	3ag	
+pocket full of stones	1ktt	
+pocket knife	1hid	
+pocket knives	1hid	
+pocket mon	41zy	
+pocket money	58m6	
+pocket monster	41zy	
+pocket monster stadium	6f4a	
+pocket monster stadium 2	6f4a	
+pocket monster xy hakai no mayu	19z2	
+pocket monsters advanced generation	4dzc	
+pocket monsters best wishes the movie kyurem vs the sacred swordsman keldeo	67zb	
+pocket monsters blue	6bl5	
+pocket monsters green	6bl5	
+pocket monsters kin	43m2	
+pocket monsters red	6bl5	
+pocket monsters red and green	6bl5	
+pocket monsters stadium	6f4a	
+pocket monsters stadium 2	6f4a	
+pocket rocket	3fsu	
+pocket star	49z	
+pontirolo		3nsl:2
+pontirolo nuovo	3nsl	
+princess adelgunde		1znm:4,3ff4:5
+princess adelgunde of		1znm:4
+princess adelgunde of bavaria	1znm	
+princess adelgunde of bavaria 1870 1958	3ff4	
+princess adelgunde of bavaria 18701958	3ff4	
+princess adelgunde of bavaria comments	1znm	
+princess adelgunde princess		3ff4:5
+princess adelgunde princess of		3ff4:5
+princess adelgunde princess of hohenzollern	3ff4	
+reinbek	2xkv	
+reinbek germany	2xkv	
+rekisteroity yhdistys	2ltn	
+revitalisation of the welsh language	314	
+revitalisation of welsh	314	
+robert blocker	6e0t	
+robert heath dennard	2at0	
+rondeletius	56bo	
+rouede	3675	
+saint marguerite de carrouges	1lgi	
+saint sava	1csz	
+saint sava day	1csz	
+saint sava i	1csz	
+saint sava ii	3tt7	
+sakvice	3vot	
+sankaradi	26df	
+sanocki	1noq	
+scn	1jxw	
+seances film	298w	
+seances project	298w	
+sejnenski	4lj5	
+sejongia	clc	
+siebenbuergen	emm	
+signargues	1ezg	
+simun		5tzh:2
+simun du bufwar	ox4	
+simun samuelsen	5tzh	
+slackbladder	ouw	
+slatiny	3m9p	
+slovensko	6e	
+soylo	181n	
+sterculioideae	5zrs	
+susanville	2qxs	
+susanville ca	2qxs	
+susanville ca micropolitan statistical area	dow	
+susanville ca msa	dow	
+susanville ca sa	dow	
+susanville california	2qxs	
+susanville california micropolitan area	dow	
+susanville stuff	2qxs	
+svennis	4oeq	
+swagger boyz	5t72	
+swagger like us	41c8	
+tanith		wk7:2
+tanith lee	wk7	
+the adventurers	y0o,4mqb	
+the adventurers 1970 film	y0o	
+the adventurers 1995 film	4mqb	
+the conjuring	1g9p	29hv:3,6hq3:3
+the conjuring 2	29hv	
+the conjuring 2 the enfield case	29hv	
+the conjuring 2 the enfield poltergeist	29hv	
+the conjuring 3	6hq3	
+the conjuring film	1g9p	
+the conjuring film series	6hq3	
+the conjuring franchise	6hq3	
+the conjuring horror film	1g9p	
+the conjuring movie	1g9p	
+the conjuring the enfield case	29hv	
+the conjuring the enfield poltergeist	29hv	
+the conjuring universe	6hq3	
+the conjuring unverse	6hq3	
+the fullerverse	1ddg	
+the hill	r6a,1dfv	
+the hill city	63i	
+the hill film	1dfv	
+the hill movie	1dfv	
+the hill school of fort worth	1no	
+the omen	18b2,32b4	
+the omen 1976 film	18b2	
+the omen 2	r2v	
+the omen 2006	32b4	
+the omen 2006 film	32b4	
+the omen 666	32b4	
+the omen film	18b2	
+the omen soundtrack	18b2	
+the ozark		5hsb:4
+the ozark mountain		5hsb:4
+the ozark mountain daredevils	5hsb	
+the trygon		2gff:3
+the trygon factor	2gff	
+the xyz murders	3a78	
+thomas hughes	2i5r	
+torqebeh	16qn	
+trilogchander	w0n	
+uglas	259v	
+vsel	st1	
+waheed		zuj:2
+waheed murad	zuj	
+waheed murad road	144	
+wba f c	1ge	
+wielichowo commune	1o2p	
+william gosset	62d9	
+yerwa	1rrh	
+yviers	29ky	
+zeroth united states congress	6hc9	
+zeroth world war	6hlh	
+zvonomir boban	3xry	

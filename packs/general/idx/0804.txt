@@ -1,0 +1,675 @@
+131	38zy	
+131 131	5wue	
+58th		4gim:4
+58th fighter bomber wing	4gim	
+58th fighter wing	4gim	
+58th special		4gim:4
+58th special operations		4gim:4
+58th special operations wing	4gim	
+58th tactical fighter training wing	4gim	
+58th tactical training wing	4gim	
+abdessamad		67rl:2
+abdessamad rafik	67rl	
+absolutism european history	f34	
+alairac	2ll9	
+basa aceh	351o	
+basa indonesia	1xr	
+basa java	2ec3	
+basa jawa	2ec3	
+basa malaysia	nf9	
+basa melayu	6aw	
+beowoulf	1408	
+bharatpur	542n	2nq2:2
+bharatpur district	2nq2	
+bharatpur india	542n	
+bharatpur rajasthan	542n	
+bodola gyula	3r6l	
+borotin	3hu6	
+borotin tabor district	3hu6	
+boston	7i,d36,1i6e,2dtm	p2:3,pv:2,163:2,22z:2,275:2,2u4:4,7hq:5,84c:6,8c7:3,8xc:2,9jq:5,9p5:4,hdg:5,k9x:4,lbk:5,ygc:2,yxi:2,11mz:2,1393:4,188o:10,1oev:2,1u5a:3,21ld:4,25da:4,2lkf:3,3bbq:2,42me:2,49a3:2,4cfb:2,4muo:3,50pd:7,59e4:4,5sw9:6,61te:2
+boston airport	2rwp	
+boston and		59e4:4
+boston and maine	59e4	59e4:4
+boston and maine corp	59e4	
+boston and maine corporation	59e4	
+boston and maine railroad	59e4	
+boston and maine railroad extension	59e4	
+boston and maine railroad extension company	59e4	
+boston and new york air line railroad	1mmq	
+boston and portland railroad	59e4	
+boston aquarium	118n	
+boston armada	8xc	
+boston band	1i6e	
+boston beacons	49a3	
+boston beaneaters	162	
+boston beaneaters nl	162	
+boston borough	2dtm	
+boston borough council	2dtm	
+boston braves	162	
+boston braves football	rn	
+boston braves to milwaukee	162	
+boston breakers	8xc,4cfb	
+boston breakers nwsl	8xc	
+boston breakers wps	8xc	
+boston breakers wpsl elite	8xc	
+boston breakers wusa	4cfb	
+boston breakers wusa team	4cfb	
+boston bruin	163	
+boston bruins	163	
+boston bruins retired numbers	163	
+boston bulldogs	ygc	
+boston bulldogs soccer	ygc	
+boston celtic	275	
+boston celtics	275	
+boston celtics comments	275	
+boston celts	275	
+boston college	22z	9p5:4,50pd:7
+boston college college of arts sciences	22z	
+boston college international and comparative law review	9p5	
+boston college law	9p5	9p5:4
+boston college law school	9p5	
+boston college o neill library	22z	
+boston college quad	22z	
+boston college school		50pd:7
+boston college school of		50pd:7
+boston college school of arts sciences	22z	
+boston college school of law	9p5	
+boston college school of theology		50pd:7
+boston college school of theology and		50pd:7
+boston college school of theology and ministry	50pd	
+boston college united states	22z	
+boston college university	22z	
+boston conservatory	k9x	k9x:4
+boston conservatory at		k9x:4
+boston conservatory at berklee	k9x	
+boston conservatory of music	k9x	
+boston district	2dtm	
+boston diva	ts2	
+boston diva productions	ts2	
+boston doves	162	
+boston england	d36	
+boston english		21ld:4
+boston english high	21ld	21ld:4
+boston english high school	21ld	
+boston english school	21ld	
+boston fine arts museum	fwz	
+boston international airport	2rwp	
+boston isabella stewart gardner museum	1c37	
+boston latin	2lkf	2lkf:3
+boston latin grammar school	2lkf	
+boston latin high	2lkf	
+boston latin high school	2lkf	
+boston latin school	2lkf	
+boston latin school argo	2lkf	
+boston lawrence	46gu	
+boston legal	1oev	
+boston light rail	4uw	
+boston lincolnshire	d36	
+boston lincs	d36	
+boston livorno	3vxg	
+boston logan	2rwp	
+boston logan airport	2rwp	
+boston logan international airport	2rwp	
+boston ma	7i	
+boston maine corporation	59e4	
+boston mass	7i	
+boston massachusetts	7i	
+boston mayor	46yd	
+boston mfa	fwz	
+boston microtonal society	2mwb	
+boston minutemen	11mz	
+boston museum bulletin	fwz	
+boston museum of fine art	fwz	
+boston museum of fine arts	fwz	
+boston museum school	dlu	
+boston museum school of fine art	dlu	
+boston naval shipyard	8c7	
+boston navy		8c7:3
+boston navy yard	8c7	
+boston normal school	4muo	
+boston patriots	1a1	
+boston pilgrams	p2	
+boston portland railroad	59e4	
+boston properties	61te	
+boston properties inc	61te	
+boston properties reit inc	61te	
+boston rebels	25kx	
+boston red		p2:3
+boston red socks	p2	
+boston red sox	p2	
+boston red sox comments	p2	
+boston red sox roster	p2	
+boston renegades	3bbq	
+boston river	yxi	
+boston river s a d	yxi	
+boston rockers	8ar	
+boston rose	37ve	
+boston rovers	42me	
+boston s museum of fine arts	fwz	
+boston soccer		1u5a:3
+boston soccer club	1u5a	
+boston society		188o:10
+boston society of		188o:10
+boston society of film		188o:10
+boston society of film critics		188o:10
+boston society of film critics award		188o:10
+boston society of film critics award for		188o:10
+boston society of film critics award for best		188o:10
+boston society of film critics award for best supporting		188o:10
+boston society of film critics award for best supporting actress	188o	
+boston south amtrak station	37ms	
+boston south station	37ms	
+boston sox	p2	
+boston state		4muo:3
+boston state college	4muo	
+boston strangler		1hfq:3
+boston strong film	2sa1	
+boston t	4uw	
+boston teachers college	duf	
+boston terriers football	25da	
+boston the t	4uw	
+boston town	1393	1393:4
+boston town f		1393:4
+boston town f c	1393	
+boston town f c 1964	1393	
+boston town fc	1393	
+boston u	pv	
+boston uk	d36	
+boston united	2u4	2u4:4
+boston united f		2u4:4
+boston united f c	2u4	
+boston united fc	2u4	
+boston united football club	2u4	
+boston univ int law j	7hq	
+boston univ law rev	7hq	
+boston univ school of law	7hq	
+boston university	pv	7hq:5,84c:6,9jq:5,hdg:5,lbk:5,25da:4,5sw9:6
+boston university college		84c:6,9jq:5
+boston university college of		84c:6,9jq:5
+boston university college of communication	9jq	
+boston university college of fine		84c:6
+boston university college of fine arts	84c	
+boston university department of cognitive and neural systems cns technology lab	pv	
+boston university grade deflation	pv	
+boston university graduate school of management	j6v	
+boston university international law journal	7hq	
+boston university law review	7hq	
+boston university law school	7hq	
+boston university medical school	lbk	
+boston university s	pv	
+boston university s college of communication	9jq	
+boston university s college of communications	9jq	
+boston university school		7hq:5,hdg:5,lbk:5,5sw9:6
+boston university school of		7hq:5,hdg:5,lbk:5,5sw9:6
+boston university school of business	j6v	
+boston university school of law	7hq	
+boston university school of management	j6v	
+boston university school of medicine	lbk	
+boston university school of music	84c	
+boston university school of public		5sw9:6
+boston university school of public health	5sw9	
+boston university school of religious education and social service	pv	
+boston university school of theology	hdg	
+boston university school of visual arts	84c	
+boston university terriers		25da:4
+boston university terriers football	25da	
+boston utd	2u4	
+boston wonder workers	1u5a	
+bouvigny		20ie:2
+bouvigny boyeffles	20ie	
+bozhou	4gxo	
+bozhou anhui	4gxo	
+bozhou city	4gxo	
+carpodacus	1niv	
+cefzil	5n4h	
+changanasserry	38jx	
+charles dickson		67xy:4
+charles dickson lord		67xy:4
+charles dickson lord dickson	67xy	
+charles gebhart	m2w	
+charles hector		3wgj:5
+charles hector comte		3wgj:5
+charles hector comte d		3wgj:5
+charles hector comte d estaing	3wgj	
+charles hector d estaing	3wgj	
+charles hector theodat d estaing	3wgj	
+charles lummis	3x11	
+czekh language	md	
+david eric grohl	m59	
+degtiariow	32d4	
+den	1l63	
+den afrikanske farm	6cq9	
+den airport	1l63	
+den basta		42dp:3
+den basta av modrar	4c99	
+den basta sommaren	42dp	
+den bosch	62a	
+den bosch ebbc	1cba	
+den bow	4vf	
+den brother	2kr7	
+den danske folkekirke	mkk	
+den dobbelte mand	5uv9	
+den dolder		5as3:4
+den dolder railway		5as3:4
+den dolder railway station	5as3	
+den dover	6c4a	
+den du frygter	64gk	
+den emon iguchi	4bmv	
+den eneste ene	4vs1	
+den enfaldige mordaren	4q4x	
+den entoshi sen	2lma	
+den forsvundne fuldmaegtig	3xs3	
+den forsvundne fuldmgtig	3xs3	
+den frste kreds	3jxb	
+den gamle mlle pa mols	1yqs	
+den gamle mlle paa mols	1yqs	
+den goda viljan	w3p	
+den gulden ezel	4dha	
+den gule fare	9uq	
+den haag	oj	1s0q:5,3i6k:7
+den haag centraal		1s0q:5
+den haag centraal railway		1s0q:5
+den haag centraal railway station	1s0q	
+den haag centraal randstadrail	1s0q	
+den haag central station	1s0q	
+den haag cs	1s0q	
+den haag cs railway station	1s0q	
+den haag cs station	1s0q	
+den haag laan		3i6k:7
+den haag laan v noi	3i6k	
+den haag laan v noi railway station	3i6k	
+den haag laan van		3i6k:7
+den haag laan van nieuw oost indie	3i6k	
+den haag laan van nieuw oost indie railway station	3i6k	
+den haag laan van noi	3i6k	3i6k:7
+den haag laan van noi railway		3i6k:7
+den haag laan van noi railway station	3i6k	
+den haag laan van noi randstadrail station	3i6k	
+den haag laan van noi station	3i6k	
+den hagg	oj	
+den hague	oj	
+den helder	gby	
+den helder amsterdam railway	35m8	
+den helder netherlands	gby	
+den helderamsterdam		35m8:4
+den helderamsterdam railway	35m8	35m8:4
+den helderamsterdam railway line	35m8	
+den japanska shungamalningen	3hqw	
+den jongen hals	5y2p	
+den kaere familie	1j9h	
+den kongelige norske fortjenstorden	5f1y	
+den kongelige norske st olavs orden	2bk	
+den kre familie	1j9h	
+den lille havfrue	3e9k	
+den miller	1x2a	
+den morronen	45ti	
+den norske kirke	2nov	
+den norske kritikerprisen for litteratur	4o8m	
+den norske kyrkja	2nov	
+den o trilogy	2529	
+den of		6g9b:3
+den of thieves	6g9b	
+den of thieves film	6g9b	
+den ofrivillige		4rgn:3
+den ofrivillige golfaren	4rgn	
+den opvakte		4154:3
+den opvakte jomfru	4154	
+den oude van breugel	wuv	
+den pasar	1a6v	
+den polytekniske lreanstalt	hog	
+den rde kappe	3ady	
+den ridder van dyk	f3k	
+den roda kappan	3ady	
+den rode kappe	3ady	
+den sarede filoktet	3ich	
+den sidste vinter	33ex	
+den siste revejakta	53hc	
+den skaldede frisr	1u4w	
+den som drber	2z9r	
+den store		khg:4,35qi:3
+den store badedag	5kgk	
+den store danske	khg	khg:4
+den store danske encyklopaedi	khg	
+den store danske encyklopdi	khg	
+den store gavtyv	35qi	
+den sullivan	2hvm	
+den svaga lanken	3u3h	
+den tatuerade ankan	5w5q	
+den umulige drm	21nf	
+den usynlige hr	1vkm	
+den vedervardige mannen fran saffle	5k8e	
+dgchs	ke0	
+digitally enhanced board games	174	
+digitally reconstructed radiograph	5in2	
+egel bulwer lytton	qx6	
+egel test	5ev	
+esperantists	2us	
+esseid belkalem	4uso	
+evridiki	5ph2	
+examined		5tb6:2
+examined life	5tb6	
+fc lahti	9tc	
+fc lahti akatemia	1rno	
+fedora	smf	17mr:2,540m:2
+fedora 7	17mr	
+fedora 8	17mr	
+fedora 9	17mr	
+fedora core 3	17mr	
+fedora core 5	17mr	
+fedora core 6	17mr	
+fedora extras	17mr	
+fedora film	smf	
+fedora foundation	540m	
+fedora gnu linux distribution	17mr	
+fedora linux	17mr	
+fedora linux project	540m	
+fedora operating system	17mr	
+fedora os	17mr	
+fedora project	540m	
+fedora records	2pdu	
+ferrante	1sti	1xu7:2,52ha:3
+ferrante d		52ha:3
+ferrante d aragona 1st duke of montalto	488v	
+ferrante d este	52ha	
+ferrante di aragona	1sti	
+ferrante gonzaga	1xu7	
+ferrante gonzaga duke of ariano	1xu7	
+ferrante i gonzaga	1xu7	
+ferrante i of naples	1sti	
+ferrante ii of naples	45x2	
+ferrante michael	60sq	
+ferrante of aragon	1sti	
+firecrotch	he8	
+flc	2pz3	
+furrily	3jmt	
+galantis	3yuq	3yuq:3
+galantis dilshadilu07celebrity		3yuq:3
+galantis dilshadilu07celebrity s	3yuq	
+galitsin	6fcb	
+galois	277j	
+galois evariste	277j	
+gave it all up	6dj3	
+george amos	12j4	
+gieville	3cv8	
+glashow	3woz	
+gmina kostomloty	vk9	
+gmina wlodowice	3jnf	
+grosotto	3yqw	
+gruta commune	1ina	
+guise	14n4	
+guise picardy	14n4	
+harpactorinae	42x0	
+hoyolke	9qu	
+hoyolke massachusetts	9qu	
+humphries county mississippi	3c10	
+ibaragi japan	49c	
+ibaragi oni	49c	
+ibaragi prefecture	49c	
+icasa esporte clube	ds0	
+imamoglu	s0u	
+imamoglu district	s0u	
+immortal	3nc4,5n0a	jco:2,1jnu:2,2zf5:2,3en4:2,48sv:2,5q1y:2,66f1:2
+immortal 2004	5n0a	
+immortal 2004 film	5n0a	
+immortal alamo	62x7	62x7:3
+immortal band	3nc4	
+immortal being	4cv1	
+immortal beloved	1jnu,48sv	
+immortal beloved 1951 film	48sv	
+immortal beloved 1994 film	1jnu	
+immortal beloved film	1jnu	
+immortal gods	6g6k	
+immortal heart	2meq	2meq:3
+immortal life of henrietta lacks	3cd8	3cd8:6
+immortal love	66f1	
+immortal musical group	3nc4	
+immortal records	jco	
+immortal sergeant	2zf5	
+immortal tech	5q1y	
+immortal technique	5q1y	
+immortal technique comments	5q1y	
+immortal technique discography	5q1y	
+immortal waltz	3en4	
+james tamborello	5slh	
+jean oser	4wbc	
+jeroen		skh:2,3hl9:2,4zc7:2,5s7b:2
+jeroen aart krabbe	skh	
+jeroen boere	3hl9	
+jeroen brouwers	5s7b	
+jeroen krabbe	skh	
+jeroen mellemans	4uo	
+jeroen simons	1u50	
+jeroen van aken	m23	
+jeroen willems	4zc7	
+joelle	2ppb,6dgr	1xdy:2,49dt:2,4ot8:2,6cky:2
+joelle bergeron	6cky	
+joelle bernard	1xdy	
+joelle carter	49dt	
+joelle danterne	514g	
+joelle first name	2ppb,6dgr	
+joelle given name	2ppb,6dgr	
+joelle marie carter	49dt	
+joelle numainville	4ot8	
+john kerr	2qns,3dnl,4xhz,59j8	2cqb:3
+john kerr actor	2qns	
+john kerr australian politician	4xhz	
+john kerr governor general	4xhz	
+john kerr jr	2cqb	
+john kerr jr soccer	2cqb	
+john kerr justice	4xhz	
+john kerr sr	59j8	
+john kerr sr soccer	59j8	
+kapaakea	267j	
+kendrapara	37id	37id:2
+kendrapara district	37id	
+khimmashevets penza	7xt	
+kiuruvesi	41mt	
+lenjani	4yow	
+lethia moth	w29	
+locustidae	1a9n	
+lonato	1l3m	1l3m:3
+lonato del		1l3m:3
+lonato del garda	1l3m	
+lonato del garda italy	1l3m	
+louis kossuth	29su	
+marazzina	448b	
+masada	25mp,2xry,6h0b	
+masada band	2xry	
+masada miniseries	25mp	
+masada national park	6h0b	
+masada quintet	2xry	
+masada string trio	2xry	
+methodist catholic	66g	
+methodist chapel	66g	
+methodist christian	66g	
+methodist christianity	66g	
+methodist church	66g	
+methodist doctrine	66g	
+methodist general biblical institute	pv	
+methodist movement	66g	
+methodist revival	66g	
+methodist worship	66g	
+miacidae	2kcz	
+micucci	1ztw	
+mournans		2e7x:2
+mournans charbonny	2e7x	
+muenster germany	2gs	
+muenster geschinen	4hpe	
+muenster geschinen switzerland	4hpe	
+muenster geschinen vs	4hpe	
+muenster lower saxony	21ny	
+muenster region	3i4y	
+muenster westfahlen	2gs	
+muenster westfalen	2gs	
+nakhimov	2cpd	
+napoletani a milano	4kc8	
+new industrial and economic sector	6hm4	
+nichibros	1saw	
+obecse	1149	
+ockendon road	4hk	
+oelde	1qkx	
+oelde germany	1qkx	
+orphic cubism	6e3u	
+orphic hymns	2w0x	
+orphic poems and rites	2w0x	
+otchipwe	5pnd	
+parnok	2zxe	
+pozzomaggiore	2c8r	
+prnomen	19dz	
+professoriat	785	
+prosopagnoisa	51do	
+pylos	2b8z	
+pylos nestor	2xzc	
+pylos nestoras	2xzc	
+ragnarok 2017 film	did	
+ranchi	d05	2dpv:2,59m8:2
+ranchi comments	d05	
+ranchi district	2dpv	
+ranchi india	d05	
+ranchi jharkhand	d05	
+ranchi municipal corporation	d05	
+ranchi university	59m8	
+rasputia	w3r	
+reggay	14g	
+robert beric	4ph7	
+robert capa	1qu7	139f:4
+robert capa gold		139f:4
+robert capa gold medal	139f	
+robert pirosh	2x7p	
+ruse	9uk,11f6	
+ruse bulgaria	9uk	
+ruse michael	5zxa	
+ruse province	11f6	
+ruse region	11f6	
+saltibarsciai	68x1	
+san casciano		1qi4:6,1ruj:4
+san casciano dei		1ruj:4
+san casciano dei bagni	1ruj	
+san casciano in		1qi4:6
+san casciano in val		1qi4:6
+san casciano in val di		1qi4:6
+san casciano in val di pesa	1qi4	
+san casciano val di pesa	1qi4	
+shallah	12hx	
+shallah raekwon	12hx	
+shanice	zgg	
+shanice lorraine wilson	zgg	
+shanice wilson	zgg	
+siracusa province	lx3	
+siracusa sicily	6u2	
+skwierzyna commune	1jkz	
+snskrt	5s7	
+sondra	6co8	1r4w:2
+sondra first name	6co8	
+sondra fuller	5zur	
+sondra given name	6co8	
+sondra locke	1r4w	
+spay	3cba	
+spay sarthe	3cba	
+stanislavskii	20xn	
+steamcommunity com	2q7	
+sumatra	166m	
+sumatra barat	g2h	
+sumatra indonesia	166m	
+sumatra island	166m	
+sumatra stag beetle	6do8	
+sumatra straits	xwk	
+sumatra to java bridge	63a7	
+sunsari	n7s	n7s:2
+sunsari district	n7s	
+suurbier	1yag	
+swealand	602l	
+taounate		oqu:2
+taounate province	oqu	
+the homesman	1aq5	
+the homesman film	1aq5	
+the jack5ons	ekp	
+the pharcyde	47ux	
+the thirty		1dvi:4
+the thirty fathom grave the twilight zone	2v3q	
+the thirty nine		1dvi:4
+the thirty nine steps	1dvi,1xyi	
+the thirty nine steps 1978	1dvi	
+the thirty nine steps 1978 film	1dvi	
+theorell axel hugo teodor	3zsv	
+thomas goppel	3jjt	
+tipsport extraliga	1l3d	
+tipsport liga	1s9g	
+tipsport liga hockey	1s9g	
+toiyabe national forest	6blf	
+tondena 65 rhum masters	mf6	
+tondena rhum 65ers	mf6	
+tournan	2zvs	1gjq:3
+tournan en		1gjq:3
+tournan en brie	1gjq	
+tournan gers	2zvs	
+treasure	20ai	f2v:2,szz:2,trx:2,18ro:2,1ae1:2,1bkf:4,1fmk:2,20ao:2,2haz:2,399r:5,3m9f:2,49zp:3,4a5q:5,4g5o:2,5kwc:5
+treasure buddies	3m9f	
+treasure chest casino	1vw2	
+treasure chest the seekers album	1bku	
+treasure co	20ai	
+treasure co ltd	20ai	
+treasure company	20ai	
+treasure game developer	20ai	
+treasure hunt series	58vy	
+treasure island	szz,trx,18ro,1ae1,1fmk,20ao,2haz,4g5o	49zp:3,5kwc:5
+treasure island 1920 film	4g5o	
+treasure island 1934	trx	
+treasure island 1934 film	trx	
+treasure island 1950 film	szz	
+treasure island 1972 live action film	20ao	
+treasure island 1985 film	2haz	
+treasure island 1990 film	1ae1	
+treasure island 2012 miniseries	1fmk	
+treasure island 2012 movie	1fmk	
+treasure island 2012 tv miniseries	1fmk	
+treasure island 2012 tv programme	1fmk	
+treasure island dizzy	49zp	
+treasure island in		5kwc:5
+treasure island in outer		5kwc:5
+treasure island in outer space	5kwc	
+treasure island in space	5kwc	
+treasure island novel	18ro	
+treasure of		1bkf:4,399r:5,4a5q:5
+treasure of san		1bkf:4
+treasure of san gennaro	1bkf	
+treasure of silver lake	2b74	2b74:5
+treasure of the		399r:5,4a5q:5
+treasure of the four		399r:5
+treasure of the four crowns	399r	
+treasure of the golden		4a5q:5
+treasure of the golden condor	4a5q	
+treasure of the lost lamp	3pf5	
+treasure of the sierra madre	1lyh	1lyh:6
+treasure of the silver lake	2b74	
+treasure planet	f2v	
+treasure planet 2	f2v	
+treasure planet video game	f2v	
+treasure software	20ai	
+treasure state	sx	
+treasure video games	20ai	
+vorontsova dashkova	3jl3	
+vorontsova daskhkova	3jl3	
+warehouse	3yq2	22tg:2
+warehouse 13	22tg	
+warehouse 13 tv series	22tg	
+warehouse fire	2omw	
+warehouse music group	1ztq	
+warehouse point connecticut	4h3a	
+warehouse thirteen	22tg	
+willeke		2m1r:3,324y:2
+willeke alberti	324y	
+willeke van		2m1r:3
+willeke van ammelrooy	2m1r	
+yakuda	6hho	
+zdar	23vx,2tan,47eu,4g67	391:4,rlq:3,3g3s:3
+zdar blansko district	4g67	
+zdar jindrichuv hradec district	2tan	
+zdar liberec	612	
+zdar mlada boleslav district	23vx	
+zdar nad		391:4,rlq:3,3g3s:3
+zdar nad orlici	3g3s	
+zdar nad sazavou	rlq	391:4
+zdar nad sazavou district	391	
+zdar rakovnik district	47eu	
+zdar u mnichova hradiste	23vx	

@@ -1,0 +1,29 @@
+{
+ "default": "fp16",
+ "variants": {
+  "fp16": {
+   "source": "Xenova/all-MiniLM-L6-v2 onnx/model_fp16.onnx",
+   "bytes": 45297825,
+   "sha256": "2cdb5e58291813b6d6e248ed69010100246821a367fa17b1b81ae9483744533d",
+   "parts": [
+    "minilm_fp16.part0",
+    "minilm_fp16.part1",
+    "minilm_fp16.part2",
+    "minilm_fp16.part3",
+    "minilm_fp16.part4"
+   ]
+  },
+  "q8": {
+   "source": "Xenova/all-MiniLM-L6-v2 onnx/model_quantized.onnx",
+   "bytes": 22972370,
+   "sha256": "afdb6f1a0e45b715d0bb9b11772f032c399babd23bfc31fed1c170afc848bdb1",
+   "parts": [
+    "minilm_q8.part0",
+    "minilm_q8.part1",
+    "minilm_q8.part2"
+   ]
+  }
+ },
+ "vocab": "vocab.txt",
+ "license": "Apache-2.0 (sentence-transformers/all-MiniLM-L6-v2)"
+}

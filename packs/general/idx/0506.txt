@@ -1,0 +1,470 @@
+a boy		3555:5,4ups:5,5iah:4,6g0c:4
+a boy and		4ups:5
+a boy and his		4ups:5
+a boy and his dog	4ups	
+a boy and his dog 1975 film	4ups	
+a boy and his shoe	mqk	
+a boy from		5iah:4
+a boy from calabria	5iah	
+a boy named		3555:5,6g0c:4
+a boy named charlie		3555:5
+a boy named charlie brown	3555	
+a boy named charlie brown 1969 film	3555	
+a boy named charlie brown film	3555	
+a boy named goo	6g0c	
+a boy of good breeding	56bl	
+a boy s life	gsa	
+a boy s summer in 1945	4b25	
+a dam	d0	
+aaranya		5nwq:2
+aaranya kaandam	5nwq	
+abse dannie	5w1d	
+agilolfings	4j92	
+albero		3flm:2,4534:2
+albero alto	4534	
+albero alto huesca	4534	
+albero alto spain	4534	
+albero bajo	3flm	
+albero bajo huesca	3flm	
+albero bajo spain	3flm	
+algodonales	30k6	
+algodonales cadiz	30k6	
+algodonales spain	30k6	
+andrija	t0y	28lv:2,29ju:2,3npq:2,4ina:2,5737:2,5cer:2,639y:2
+andrija ankovic	4ina	
+andrija balajic	639y	
+andrija delibasic	29ju	
+andrija dudic	5ijp	
+andrija first name	t0y	
+andrija given name	t0y	
+andrija kaluderovic	28lv	
+andrija kaludjerovic	28lv	
+andrija kaluerovic	28lv	
+andrija kaluerovic striker	28lv	
+andrija kojic	64se	
+andrija vukovic	5737	
+andrija zivkovic	5cer	
+andrija zizic	3npq	
+angaria	6017	
+angaria gastropod	6017	
+antennodes	dhm	
+antiplanes	2y3c	
+aurangzib	pt9	
+baggins frodo	5mdt	
+barwice commune	ga9	
+beam		rnn:2
+beam balance	5d9h	
+beam bridge	rnn	
+beam bridges	rnn	
+beam global	4ksh	
+beam global spirits wine	4ksh	
+beam global uk ltd	4ksh	
+beam hardening artifact	5in2	
+beam inc	4ksh	
+beam international	imx	
+beam piper	4ofk	
+beam software	imx	
+beam suntory	4ksh	
+beam suntory inc	4ksh	
+bhaunagar	zjb	
+bhaunagar district	sb5	
+bilevel		5bxc:3
+bilevel car	5bxc	
+bilevel cars	5bxc	
+bilevel coach	5bxc	
+bilevel rail		5bxc:3
+bilevel rail car	5bxc	
+blerancourt	1t66	
+bowfinger	23cx	
+bowfinger film	23cx	
+bravantice	4b2k	
+bulletin		44lo:3
+bulletin board		44lo:3
+bulletin board service	44lo	
+bulletin board system	44lo	
+bulletin board systems	44lo	
+bulletin de la societe botanique de france	pm8	
+bulletin de la societe botanique de france actualites botanique	pm8	
+bulletin de la societe botanique de france lettres botaniques	pm8	
+bulletin de la societe entomologique de france	n6i	
+bulletin de la societe zoologique de france	yts	
+bulletin du museum national d histoire naturelle	o1v	
+bulletin international de l academie polonaise des sciences et lettres de cracovie	8fh	
+bulletin national gallery of canada	2egw	
+bulletin of the american academy of arts and sciences	66	
+bulletin of the american physical society	2l5	
+bulletin of the british museum natural history zoology	yf1	
+bulletin of the london mathematical society	5mmc	
+bulletin of the metropolitan museum of art	2th	
+bulletin of the museum of fine arts	fwz	
+bulletin of the national gallery of canada	2egw	
+bulletin of the peabody museum of natural history	1aph	
+bulletin of the school of oriental and african studies	3tl	
+bulletin of the school of oriental and african studies university of london	3tl	
+bulletin of the torrey botanical club	3agc	
+centaurs	59bu	
+centaurs in space	21h0	
+centaurs minor planets	21h0	
+ceyzerieu	177i	
+champany	2ei2	
+charles ashe		5ph4:3
+charles ashe windham	5ph4	
+charles band	bht	
+charles band filmmaker	bht	
+charles linburgh	xeo	
+chirk	4375	4sr9:4
+chirk aaa	4sr9	4sr9:4
+chirk aaa f		4sr9:4
+chirk aaa f c	4sr9	
+chirk aaa fc	4sr9	
+chirk f c	4sr9	
+chirk green	4375	
+ciego		1fzn:3,3x7w:4
+ciego de		1fzn:3,3x7w:4
+ciego de avila	1fzn	3x7w:4
+ciego de avila cuba	1fzn	
+ciego de avila province	3x7w	
+congorama	48ys	
+cosmophylla	mb5	
+cradle		16vu:3,1b65:3,1fer:4,4o9m:2,6h75:3
+cradle 2		1fer:4
+cradle 2 the		1fer:4
+cradle 2 the grave	1fer	
+cradle book	5do6	
+cradle of		1b65:3,6h75:3
+cradle of christianity	gr3	
+cradle of filth	1b65	
+cradle of filth band	1b65	
+cradle of liberty	7a	
+cradle of life	12e0	
+cradle of love	6h75	
+cradle of love billy idol song	6h75	
+cradle of modern astronomy	33no	
+cradle song	4o9m	
+cradle song 1933 film	4o9m	
+cradle to grave back to you	3zbo	
+cradle to the grave	1fer	
+cradle will		16vu:3
+cradle will rock	16vu	
+cryptopetalum	4d2g	
+dasa dacchu challenging star	sqn	
+datatypes	2nre	
+dimg	qgl	
+dreikaiserbader	2106	
+dwellings	ynl	
+elsk din nste	2k2r	
+etxarri	3vty	4hwl:2
+etxarri aranatz	4hwl	
+etxarri aranaz	4hwl	
+fc nara		bfk:5
+fc nara desna naro fominsk	bfk	
+fc nara naro fominsk	bfk	
+fc nara shbfr		bfk:5
+fc nara shbfr naro		bfk:5
+fc nara shbfr naro fominsk	bfk	
+firman		5b5t:2
+firman people	chg	
+firman utina	5b5t	
+flinks	3jro	
+flipou	3kjv	
+gallopheasant	6fky	
+gmina opatowiec	13vg	
+gympie	sm7,152q	sm1:2
+gympie creek	sm7	
+gympie qld	sm7	
+gympie queensland	sm7	
+gympie region	sm1	
+gympie regional council	sm1	
+hadrosaur	yr1	
+harlequin		6ey:3,370s:2
+harlequin audio	370s	
+harlequin enterprises	370s	
+harlequin enterprises ltd	370s	
+harlequin f		6ey:3
+harlequin f c	6ey	
+harlequin fc	6ey	
+harlequin football club	6ey	
+harlequin historical	370s	
+harlequin horizons	370s	
+harlequin mira	370s	
+harlequin novel	2iv	
+harlequin special edition	370s	
+harlequin teen	370s	
+henry fevrier	3xa7	
+hollywood	xz,9ei	2sf:2,3sz:3,ctp:2,ff9:2,syg:2,1ahs:3,1ebe:2,1g96:2,1hi5:2,22iv:2,2cdt:2,2u7t:2,2yfm:2,2zuq:3,3lik:3,3yd5:3,5lso:2,6gwa:4
+hollywood airport	37vy	
+hollywood and highland center	2tzw	
+hollywood and highland center theatre	2tzw	
+hollywood basic	2sf	
+hollywood bathing beauties	1kaa	
+hollywood beach fl	9ei	
+hollywood beach florida	9ei	
+hollywood blvd usa	1pgx	
+hollywood boulevard	2yfm	
+hollywood boulevard 1936 film	2yfm	
+hollywood by the sea	9ei	
+hollywood ca	xz	
+hollywood california	xz	
+hollywood canteen	1ebe	
+hollywood canteen 1944 film	1ebe	
+hollywood canteen film	1ebe	
+hollywood cavalcade	1g96	
+hollywood cavalcade 1939 film	1g96	
+hollywood cemetery	ff9	
+hollywood cemetery richmond	ff9	
+hollywood cemetery richmond virginia	ff9	
+hollywood chamber of commerce	6gwa	
+hollywood child star	2td	
+hollywood child stars	2td	
+hollywood county down	23zp	
+hollywood disney	2sf	
+hollywood dog	xmo	
+hollywood ending	2cdt	
+hollywood fl	9ei	
+hollywood fla	9ei	
+hollywood florida	9ei	
+hollywood florida chronology	9ei	
+hollywood florida usa	9ei	
+hollywood forever	3sz	3sz:3
+hollywood forever cemetary	3sz	
+hollywood forever cemetery	3sz	
+hollywood forever cemetery hollywood	3sz	
+hollywood forever memorial park cemetery	3sz	
+hollywood freaks	5rki	
+hollywood goes green	xz	
+hollywood hearts	1upl	
+hollywood high		3lik:3
+hollywood high school	3lik	
+hollywood highland center theatre	2tzw	
+hollywood hills	22iv	
+hollywood hills ca	22iv	
+hollywood hills california	22iv	
+hollywood hills los angeles	22iv	
+hollywood hills los angeles california	22iv	
+hollywood historic trust	6gwa	
+hollywood homicide	1hi5	
+hollywood hotel	2u7t	
+hollywood hotel film	2u7t	
+hollywood hotel movie	2u7t	
+hollywood international airport	37vy	
+hollywood kickers	4958	
+hollywood land	1fb2	
+hollywood los angeles	xz	
+hollywood los angeles ca	xz	
+hollywood los angeles calif	xz	
+hollywood los angeles california	xz	
+hollywood mannequin character	3n4r	
+hollywood memorial	3sz	
+hollywood memorial cemetery	3sz	
+hollywood memorial park	3sz	
+hollywood memorial park cemetery	3sz	
+hollywood memorial park forever cemetery	3sz	
+hollywood montrose	3n4r	
+hollywood news on guy ritchie	1m0q	
+hollywood niggaz	6hfg	
+hollywood of europe	1gdx	
+hollywood or		3yd5:3
+hollywood or bust	3yd5	
+hollywood park cemetery	3sz	
+hollywood park memorial cemetery	3sz	
+hollywood party	syg	
+hollywood party 1934 film	syg	
+hollywood pictures	ctp	
+hollywood pictures home entertainment	ctp	
+hollywood pictures home video	ctp	
+hollywood producer	63	
+hollywood raj	9vw	
+hollywood records	2sf	
+hollywood renaissance	758	
+hollywood review of 1929	10ep	
+hollywood revue	10ep	
+hollywood revue of 1929	10ep	10ep:5
+hollywood s walk of fame	6gwa	
+hollywood sign		4mmh:3
+hollywood speaks	5lso	
+hollywood star whackers	e5v	
+hollywood studios	1r5k	
+hollywood television service	22h	
+hollywood top gun	xmu	
+hollywood undead	1ahs	1ahs:3
+hollywood undead band	1ahs	
+hollywood united		2zuq:3
+hollywood united hitmen	2zuq	
+hollywood walk		6gwa:4
+hollywood walk of		6gwa:4
+hollywood walk of fame	6gwa	
+hollywood walk of fame awards	6gwa	
+hollywood walk of fame doc	6gwa	
+hollywood women s photo and press club	2dqj	
+holochiloma	6d8p	
+ichtheology	1j01	
+iintersex	h10	
+interlaced gif	1rlp	
+jean michael jarre	g86	
+jjk jyvaskyla	meh	
+kagoshimachuo		3u0t:2
+kagoshimachuo station	3u0t	
+kalahandi	2djj	2djj:2
+kalahandi district	2djj	
+kaneyoshi		584y:2
+kaneyoshi shinno	584y	
+kefalari kifisia greece	57ra	
+kefalari kifissia	57ra	
+kefalari kifissia greece	57ra	
+kevan		6b5s:2,6e2y:2
+kevan david jones	6e2y	
+kevan hurst	6b5s	
+kevan jones	6e2y	
+kopenhamn	es	
+kristoffer	io	2q8n:2,4fdr:2,5140:2,5amw:2,5bsw:2
+kristoffer andersen	5amw	
+kristoffer caleb kris polaha	5bsw	
+kristoffer eckersberg	ns8	
+kristoffer haestad	57q7	
+kristoffer hivju	45xy	
+kristoffer hstad	57q7	
+kristoffer johannsen	5140	
+kristoffer joner	2q8n	
+kristoffer kristian kris kristofferson	a7w	
+kristoffer polaha	5bsw	
+kristoffer siegel tabori	4fdr	
+kristoffer tabori	4fdr	
+la courbe	4g3b	
+le mauvais demiurge	5p8b	
+lezuza	3c46	
+littenseradiel	hc5	
+llanca	2igv	
+lubei	1k44	1k44:2
+lubei district	1k44	
+lyria	112d,2ipi	
+lyria gastropod	112d	
+lyria genus	112d	
+maycon		5mz4:4
+maycon calijuri	5mz4	
+maycon rogerio		5mz4:4
+maycon rogerio silva		5mz4:4
+maycon rogerio silva calijuri	5mz4	
+merrit island	1w01	
+merrit island fl	1w01	
+merrit island florida	1w01	
+michael cuscuna	60b5	
+michael ray dibdin heseltine	3ylk	
+michael ray dibdin heseltine baron heseltine	3ylk	
+michael ray richardson	2obq	
+miho	1gad	y33:2,195l:2,3gre:2,3jb0:2,5u4j:2
+miho first name	1gad	
+miho fukuhara	3jb0	
+miho given name	1gad	
+miho hatori	3gre	
+miho komatsu	y33	
+miho mosulishvili	195l	
+miho nl	1gad	
+miho takeda	5u4j	
+mindswap	nnh	
+moderhjarnan	6hom	
+montanito	4v6s	
+montgras	3dls	
+narrow		2vz1:2
+narrow bantu	50g	
+narrow bantu languages	50g	
+narrow complex tachycardia	1aou	
+narrow grassfields	6agq	
+narrow grassfields language	6agq	
+narrow grassfields languages	6agq	
+narrow margin	2vz1,3vve	3vve:3
+narrow margin 1990 film	2vz1	
+narrow qrs complex tachycardia	1aou	
+narrow qrs tachycardia	1aou	
+narrow roads of gene land	107t	
+narrow seas	5hl	
+narrow socialists	1kmn	
+narrow spectrum antibiotic	2svm	
+narrow wall	53wz	
+narrow winged damselflies	v5a	
+ndiwa lord kangana	30v1	
+neive	2ick	
+niederkell	9sb	
+nogal	5hck	
+nogal valley	5hck	
+noisseville	3vwg	
+nwl max	3yud	
+oedopeza	6ewj	
+oldeuboi	zf8	
+omophyseta	q9n	
+orrhopygium	6adp	
+parramos	5t90	
+paul whitehouse	50g6	
+perpetuini	5d5a	
+pogliano		2xt5:2
+pogliano milanese	2xt5	
+ponscripter	2c7	
+preeti		35ag:2
+preeti bajpai	4ub0	
+preeti jhangani	35ag	
+preeti jhangiani	35ag	
+preeti sapru	6bin	
+preeti zinta	p9z	
+prigov	5lvj	
+quinzano		3yhp:3
+quinzano d		3yhp:3
+quinzano d oglio	3yhp	
+quinzano doglio	3yhp	
+robert welch herrick	5vz5	
+ropes	4dre	
+rovagnate	39h3	
+saint benedict	h7l	
+saint benedict blazers	h7l	
+saint benedict minn blazers	h7l	
+saint benedict minnesota blazers	h7l	
+saint benedict of nursia	1xo3	
+saturniidae	9rx	
+sellering	35hn	
+semavi		5e9p:2
+semavi ozgur	5e9p	
+sharknado	2tmv	3xlc:5
+sharknado 1	2tmv	
+sharknado 2	3xlc	3xlc:5
+sharknado 2 the		3xlc:5
+sharknado 2 the second		3xlc:5
+sharknado 2 the second one	3xlc	
+sharknado i	2tmv	
+sharknado ii	3xlc	
+sharknado ii the second one	3xlc	
+simonovany	1pmr	
+sir jagadis bose	2a1u	
+sir kenneth branagh	gxd	
+sir kenneth charles ken branagh	gxd	
+sir kenneth dover	5upa	
+sir kenneth hugo adam	nbg	
+sir kenneth macmillan	5phq	
+solomonids	e5u	
+stages of syphilis	wh1	
+statice	3fhp	
+talohexane	do1	
+templo expiatorio de la sagrada familia	201u	
+tenryo	8a4	
+termitomyces	6fhp	
+the messiah	52t4	
+the messiah 1975 film	52t4	
+the yuki	d51	
+thergi river	50s0	
+tragny	2car	
+udmurtia	k7q	
+vargatac	120f	
+violanae	4rbj	
+vmr	4j6y	
+westhoughton	3eic	
+westhoughton bolton	3eic	
+westhoughton greater manchester	3eic	
+zarauz	10gj	
+zaz	53w0	
+zaz e		k0k:5,2pkc:5
+zaz e gharbi	2pkc	2pkc:5
+zaz e gharbi rural		2pkc:5
+zaz e gharbi rural district	2pkc	
+zaz e sharqi	k0k	k0k:5
+zaz e sharqi rural		k0k:5
+zaz e sharqi rural district	k0k	
+zaz singer	53w0	
+zerstoeren	65lq	
+zugspitze	5e0y	

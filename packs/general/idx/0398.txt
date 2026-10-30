@@ -1,0 +1,664 @@
+2000m	ioh	
+201718		zyk:4,134w:4,16fp:4,1wbm:3,4efn:4,5brp:5,5y8t:5,635k:3
+201718 cambridge united f c	1yd	
+201718 cypriot		zyk:4,134w:4,16fp:4
+201718 cypriot first		zyk:4
+201718 cypriot first division	zyk	
+201718 cypriot second		16fp:4
+201718 cypriot second division	16fp	
+201718 cypriot third		134w:4
+201718 cypriot third division	134w	
+201718 ekstraklasa	3cir	
+201718 figure		4efn:4
+201718 figure skating		4efn:4
+201718 figure skating season	4efn	
+201718 indian super league	40bf	
+201718 liga		5brp:5,5y8t:5
+201718 liga fpd		5brp:5,5y8t:5
+201718 liga fpd apertura		5brp:5
+201718 liga fpd apertura season	5brp	
+201718 liga fpd clausura		5y8t:5
+201718 liga fpd clausura season	5y8t	
+201718 nl		635k:3
+201718 nl season	635k	
+201718 regionalliga bayern table	r09	
+201718 regionalliga nord table	r09	
+201718 regionalliga sudwest table	r09	
+201718 regionalliga west table	r09	
+201718 snooker		1wbm:3
+201718 snooker season	1wbm	
+201718 stok elite division	1feq	
+aare	nt5	
+aare merikanto	49c2	
+aare river	nt5	
+aare valley	nt5	
+abate beniamino	524u	
+abate ignazio	2klr	
+abdulkader		5oqg:2,64dd:2
+abdulkader dakka	5oqg	
+abdulkader mjarmesh	64dd	
+agboh	3qq4	
+agboh kuami	3qq4	
+alexander eschweiler	4z7y	
+alexander isayevich solzhenitsyn	nc0	
+amiercans	17qk	
+amundsen	10cc,1sd3	5oj4:5
+amundsen s		5oj4:5
+amundsen s south		5oj4:5
+amundsen s south pole		5oj4:5
+amundsen s south pole expedition	5oj4	
+amundsen scott	2pwe	
+amundsen scott base	2pwe	
+amundsen scott research station	2pwe	
+amundsen scott south pole station	2pwe	
+amundsen scott station	2pwe	
+amundsen south pole station	2pwe	
+amundsen surname	1sd3	
+analyse that	1lzv	
+analyse this	1d7c	
+ansu		3fic:2,47yo:2
+ansu martin sesay	3fic	
+ansu sesay	3fic	
+ansu toure	47yo	
+arcardia high school	ejm	
+asw	4y8e	
+asw weapons	4y8e	
+ayahtolla khomeni	1h71	
+baillet		2usr:3
+baillet en		2usr:3
+baillet en france	2usr	
+belanopteryx	2imx	
+bessude	4bk7	
+bez et		34ox:3
+bez et esparon	34ox	
+bez konca	67xb	
+bez znieczulenia	3y8n	
+bioinformatrics	64d	
+biugoraj	1px6	
+bnmau	1e3v	
+borgoforte	316i	
+brico the nordic steel bridge competition	veg	
+brighon and hove	15ok	
+cambrewelle	ajj	
+campani alimenis	1i03	
+caprice	28rf,67tz	177c:3
+caprice 1913 film	67tz	
+caprice 1967 film	28rf	
+caprice italian		177c:3
+caprice italian style	177c	
+celebrity	h0t,lxg	2l17:2,2xcm:3,4rpj:2
+celebrity 1998 film	lxg	
+celebrity 1998 movie	lxg	
+celebrity american ninja warrior	6gls	
+celebrity big		2xcm:3
+celebrity big brother	2xcm	
+celebrity big brother 2014 uk	2xcm	
+celebrity big brother u s	2hcy	
+celebrity big brother uk	2xcm	
+celebrity big brother uk tv series	2xcm	
+celebrity coach trip	52en	
+celebrity cruise lines	2l17	
+celebrity cruises	2l17	
+celebrity cruises inc	2l17	
+celebrity death match	4rpj	
+celebrity deathmatch	4rpj	
+celebrity face	xf2	
+celebrity film	lxg	
+celebrity injustice	otc	
+celebrity leaders	1ono	
+celebrity movie	lxg	
+celebrity ninja warrior	6gls	
+celebrity ninja warrior red nose day	6gls	
+celebrity pictures	37l5	
+celebrity productions	37l5	
+celebrity rehab	1kqp	
+celebrity rehab with dr drew	1kqp	
+celebrity stylist	jd5	
+charles portis	5mey	
+charles rangel	37zx	
+charleville	2jdj,2q5d	abm:2,23zj:3
+charleville ardennes	abm	
+charleville australia	2jdj	
+charleville france	2q5d	
+charleville m eacute zi egrave res	abm	
+charleville marne	2q5d	
+charleville meziere	abm	
+charleville mezieres	abm	
+charleville qld	2jdj	
+charleville queensland	2jdj	
+charleville queensland australia	2jdj	
+charleville sous		23zj:3
+charleville sous bois	23zj	
+chemery	2a9k	1lzx:3,1s5f:3,37eq:2
+chemery chehery	37eq	
+chemery les		1lzx:3
+chemery les deux	1lzx	
+chemery les faulquemont	1hh8	
+chemery sur		1s5f:3
+chemery sur bar	1s5f	
+circles	1516,1tes	
+circles film	1tes	
+circles of latitude	73v	
+circles of mali	rti	
+circles on the water	3kxl	
+clayr	6his	
+collitis	6en5	
+comital	2lf	
+cortigiana di babilonia	58rn	
+delectable mountains	6gsg	
+edward 1st duke of somerset seymour	xhx	
+edward 1st duke of windsor	m4x	
+edward 1st earl of clarendon hyde	1lgr	
+edward 1st earl of wessex	1qv7	
+edward 1st viscount grey of fallodon grey	2lnx	
+emyp abramov shatiel semenovich	3c0v	
+ew16 ne3 ts17	4rr0	
+fc vardar	5iq	
+foothill		3ha4:2,3tpk:2
+foothill christian school	rya	
+foothill college	3ha4	
+foothill community college	3ha4	
+foothill freeway	3tpk	
+generalised eruptive histiocytomata	6awp	
+george denison	3leq	
+george denison priest	3leq	
+getulio		21ys:2,5to7:2
+getulio donelas vargas	21ys	
+getulio dorneles vargas	21ys	
+getulio dornelles vargas	21ys	
+getulio vargas	21ys,5to7	
+getulio vargas freitas oliveira junior	5to7	
+giaveno	1i4i	
+hanussen	1w1q,2eq7	
+hanussen 1955 film	2eq7	
+hanussen 1988 film	1w1q	
+hargo	315c	
+haulies	2yw0	
+hgj moseley	3kgg	
+higashioosaka	ieq	
+hiis	3evj	
+hoyler gracie	3k6i	
+iblist	136h	
+iblist doc	136h	
+inactdis	1e6	
+ismayl mmmdov	56wa	
+james k		123y:3,3fk1:3,4dp8:3
+james k anderson	10an	
+james k baxter	3fk1	
+james k galbraith	4dp8	
+james k hahn	5xrw	
+james k mcguiness	1pvv	
+james k mcguinness	1pvv	
+james k morrow	43ta	
+james k polk	123y	
+james k polk life	123y	
+james k polks life	123y	
+james k taylor	tan	
+jaras	up1	
+jean dockx	4ton	
+kasimirovich		5vol:2
+kasimirovich borislav	5vol	
+khuurasaan	4918	
+kodrab commune	ovz	
+la bruyere	2l8i,4kr1	
+la bruyere belgium	4kr1	
+la bruyere haute saone	2l8i	
+la smagliatura	4rj0	
+laevilitorina	2mfq	
+landos	1odp	
+landser	2n5i	
+landser haut rhin	2n5i	
+leogane	43rg	
+louis baruch	5yis	
+maladroit	6gbj	
+medaillon	53s	
+mihir		10rv:2
+mihir das	10rv	
+miklosich	1mzc	
+montell		1nv8:2
+montell jordan	1nv8	
+montell victor	4snd	
+montell williams	5p31	
+nevers	8g4	
+nevers france	8g4	
+niger	1ds	7ld:6,f31:2,tss:2,1k2o:4,38sa:3
+niger congo	m5v	
+niger congo a languages	m5v	
+niger congo b languages	m5v	
+niger congo language	m5v	
+niger congo languages	m5v	
+niger congolese	m5v	
+niger country	1ds	
+niger kordofanian	m5v	
+niger ligue 1	38sa	
+niger men		7ld:6
+niger men s		7ld:6
+niger men s national		7ld:6
+niger men s national football		7ld:6
+niger men s national football team	7ld	
+niger national football team	7ld	
+niger premier		38sa:3
+niger premier league	38sa	
+niger republic	1ds	
+niger river	f31	
+niger river africa	f31	
+niger river basin	f31	
+niger state	tss	
+niger state nigeria	tss	
+niger tornadoes	1k2o	1k2o:4
+niger tornadoes f		1k2o:4
+niger tornadoes f c	1k2o	
+niger tornadoes fc	1k2o	
+niger tornadoes football club	1k2o	
+niger tornadoes minna	1k2o	
+nimtaj ayramlu	4uqr	
+oscella	57ll	
+oyedeji	1spg	
+pap	ero,3wrt	
+pap of		5kf9:3
+pap of armenia	5kf9	
+pap papanikolaou	1upy	
+pap price	4pye	
+parishioners	8iw	
+platonesque	6nw	
+platyrrhinus	5rzg	
+prince grand duke	4vkv	
+prince kitashirakawa		1csx:3
+prince kitashirakawa kasunari	2ibh	
+prince kitashirakawa naruhisa	4osl	
+prince kitashirakawa satonari	2ibh	
+prince kitashirakawa yoshihisa	1csx	
+princess belle	2d2q	
+puppers	2qy	
+registry of historic places of canada	1cms	
+renova dzepciste	q2n	
+renova mn	o7c	
+robert berkeley minor	62sa	
+royton	5g75	
+s13	2fwo	
+s13 classification	2fwo	
+salzkotten	1bw9	
+sawyun	3dqh	
+scharping	69yv	
+schwerin	4aw	3czx:2,3ges:2
+schwerin bezirk	3czx	
+schwerin cathedral	3ges	
+schwerin district	3czx	
+schwerin german democratic republic	4aw	
+schwerin germany	4aw	
+scurelle	1r6f	
+shahrekord	3o40	45mx:2
+shahrekord county	45mx	
+shibushi	571h	
+shibushi kagoshima	571h	
+shibushi kagoshima city	571h	
+shibushi kagoshima town	571h	
+shoemaker	22iw	
+shoemaker c	a4t	
+shoemaker c s	a4t	
+shoemaker e	ekj	
+shoemaker family name	22iw	
+shoemaker gene	ekj	
+shoemaker last name	22iw	
+sigge		3uki:2,5eyy:2
+sigge fuerst	3uki	
+sigge furst	3uki	
+sigge parling	5eyy	
+simazaki syouzi	k52	
+simplz zoo	5pqa	
+skypein	1fys	
+stanton		32d7:2,4zvj:2,58ld:2
+stanton andrew	1mmt	
+stanton county	32d7	
+stanton county kansas	32d7	
+stanton county ks	32d7	
+stanton fredericks	58ld	
+stanton griffis	4zvj	
+stanton henry	5gna	
+stanton ironworks	uzf	
+stanton l jones	4ss	
+stanton richard	5e3k	
+stanton va	fvf	
+stanton virginia	fvf	
+suseo		5okt:2
+suseo station	5okt	
+sxt 404bot	2bpn	
+tarragona	6oy	
+tarragona province	16k4	
+tarragona spain	6oy	
+tarragona tarragona	6oy	
+tendilla	4ej5	
+tendilla guadalajara	4ej5	
+tendilla spain	4ej5	
+teresina	151z	
+the curse	52cy,69n4	1xcx:6,1xth:6,2irj:4,2myj:6,35hz:5,4lp3:6,50cw:5,6h3t:4
+the curse 1924 film	69n4	
+the curse 1925 film	69n4	
+the curse 1987 film	52cy	
+the curse of		1xcx:6,1xth:6,2irj:4,2myj:6,35hz:5,4lp3:6,50cw:5,6h3t:4
+the curse of downers		50cw:5
+the curse of downers grove	50cw	
+the curse of frankenstein	2irj	
+the curse of having it all	67nx	
+the curse of lono	6h3t	
+the curse of michael myers	1n40	
+the curse of the		1xcx:6,1xth:6,2myj:6,35hz:5,4lp3:6
+the curse of the aztec		4lp3:6
+the curse of the aztec mummy	4lp3	
+the curse of the black cat	6heu	
+the curse of the black pearl	jbi	
+the curse of the cat		2myj:6
+the curse of the cat people	2myj	
+the curse of the demon	221l	
+the curse of the fly	479e	
+the curse of the hidden		1xcx:6
+the curse of the hidden vault	1xcx	
+the curse of the jade		1xth:6
+the curse of the jade scorpion	1xth	
+the curse of the were rabbit	1cks	
+the curse of the werewolf	35hz	
+the curse of xanadu	4nuh	
+the greene		62ow:4
+the greene murder		62ow:4
+the greene murder case	62ow	
+the greene murder case film	62ow	
+the gun		1t9t:7,3hy4:3
+the gun club secret society	90e	
+the gun in		1t9t:7
+the gun in betty		1t9t:7
+the gun in betty lou		1t9t:7
+the gun in betty lou s		1t9t:7
+the gun in betty lou s handbag	1t9t	
+the gun is good	1p90	
+the gun runner	4wi0	
+the gun runner 1956 film	4wi0	
+the gun runners	3hy4	
+the gun seinfeld	4p5j	
+the gun unaired seinfeld episode	4p5j	
+the gun video game	5li4	
+the immunity		56kz:3
+the immunity syndrome	56kz	
+the immunity syndrome star trek	56kz	
+the immunity syndrome star trek the original series	56kz	
+the immunity syndrome tos episode	56kz	
+the linden city	bi7	
+the magdalena river	386t	
+thingumajig	6an9	
+tiegh	4v7i	
+trolollo	2k34	
+unconfined vapor cloud explosion	26q6	
+united list of social democrats	5686	
+united list of social democrats of slovenia	5686	
+vazkor son of vazkor	wk7	
+virginia	7m,3g8,w8s,5hvp	3fy:4,45c:2,5j9:2,5y3:3,6g9:3,ah2:3,fn6:2,foa:2,j4v:3,jhe:3,lbq:2,njq:2,nzh:2,or9:3,vi8:2,wg7:4,14r2:2,18yu:2,19w3:2,1a0b:2,1anl:5,1gvt:2,1h1j:3,1icb:2,1o7c:2,1ox7:3,1rft:2,1wkf:3,1wv6:2,1x8a:2,22pp:3,2hiw:2,2ojb:2,2sbv:3,3atf:2,3by5:3,3ck2:2,3crl:3,3e9p:2,3q23:3,3qza:4,3tbq:2,3xnw:3,3z04:2,42mj:2,44aq:4,45yc:4,48ca:3,4mqr:2,530u:2
+virginia 2010 film	5hvp	
+virginia 2012 film	5hvp	
+virginia academy	9ch	
+virginia adeline woolf	foa	
+virginia afl cio	5npm	
+virginia agnelli	60z4	
+virginia agricultural and mechanical college	45c	
+virginia alexander	3q23	
+virginia andrews	1lr5	
+virginia anne mckenna	18yu	
+virginia apgar	3e9p	
+virginia balestrieri	3z04	
+virginia balistrieri	3z04	
+virginia beach	5j9	ah2:3,22pp:3
+virginia beach county	5j9	
+virginia beach county virginia	5j9	
+virginia beach mariners	ah2	
+virginia beach piranhas	22pp	
+virginia beach piranhas pdl	22pp	
+virginia beach submariners	22pp	
+virginia beach usa	5j9	
+virginia beach va	5j9	
+virginia beach virginia usa	5j9	
+virginia bottomley	5rdf	
+virginia bottomley baroness bottomley of nettlestone	5rdf	
+virginia bottomly	5rdf	
+virginia bourbon		60z4:4
+virginia bourbon del		60z4:4
+virginia bourbon del monte	60z4	
+virginia brissac	1wv6	
+virginia brown		48ca:3
+virginia brown faire	48ca	
+virginia browne faire	48ca	
+virginia bruce	nzh	
+virginia burton	5uw1	
+virginia c andrews	1lr5	
+virginia campaign	3jzf	
+virginia campaign of 1864	3jzf	
+virginia capers	1rft	
+virginia cassidy	3xnw	
+virginia cassidy blythe	3xnw	
+virginia cathryn gena rowlands	k1j	
+virginia cathryn rowlands	k1j	
+virginia cavaliers	42mj	
+virginia cavaliers athletics programs	42mj	
+virginia cavaliers field hockey	42mj	
+virginia cavaliers men s cross country	42mj	
+virginia cavaliers men s golf	42mj	
+virginia cavaliers softball	42mj	
+virginia cavaliers women s cross country	42mj	
+virginia cavaliers women s golf	42mj	
+virginia cavaliers women s rowing	42mj	
+virginia cavaliers women s soccer	42mj	
+virginia cavaliers women s tennis	42mj	
+virginia chance	2jz3	
+virginia cheril	3tbq	
+virginia cherril	3tbq	
+virginia cherrill	3tbq	
+virginia child villiers countess of jersey	3tbq	
+virginia christine	1a0b	
+virginia christine kraft	1a0b	
+virginia city	19w3,2hiw	
+virginia city 1940 film	19w3	
+virginia city film	19w3	
+virginia city nevada	2hiw	
+virginia city nv	2hiw	
+virginia claire wigmore	3vrf	
+virginia clara jones	njq	
+virginia class		1wkf:3
+virginia class attack submarine	1wkf	
+virginia class fast attack submarine	1wkf	
+virginia class ssn	1wkf	
+virginia class sub	1wkf	
+virginia class submarine	1wkf	
+virginia clinton	3xnw	3xnw:3
+virginia clinton kelley	3xnw	
+virginia clinton kelly	3xnw	
+virginia colony	1dw7	
+virginia commonwealth	5y3	5y3:3
+virginia commonwealth u	5y3	
+virginia commonwealth university	5y3	
+virginia commonwealth university medical college campus	5y3	
+virginia commonwealth university richmond	5y3	
+virginia commonwealth university school of pharmacy	5y3	
+virginia countess of jersey	3tbq	
+virginia dane	4f41	
+virginia daniels	586	
+virginia de		1h1j:3
+virginia de medici	1h1j	
+virginia dell cassidy	3xnw	
+virginia department		3fy:4,3qza:4
+virginia department of		3fy:4,3qza:4
+virginia department of corrections	3qza	
+virginia department of highways	3fy	
+virginia department of transportation	3fy	
+virginia dept of transportation	3fy	
+virginia doc	3qza	
+virginia doglioli	1cu4	
+virginia dot	3fy	
+virginia draft	7m	
+virginia e		5rn4:3
+virginia e johnson	5rn4	
+virginia elena raggi	530u	
+virginia elizabeth davis	tle	
+virginia elizabeth geena davis	tle	
+virginia eshelman johnson	5rn4	
+virginia esther hamilton	1o7c	
+virginia fair		63fu:3
+virginia fair vanderbilt	63fu	
+virginia faire brown	48ca	
+virginia farmboys	3mb	
+virginia field	14r2	
+virginia first name	3g8	
+virginia flugrath	11lb	
+virginia fox	2ojb	
+virginia fox zanuck	2ojb	
+virginia g madsen	fn6	
+virginia gettman	3zr4	
+virginia gilmore	4mqr	
+virginia given name	3g8	
+virginia governor	909	
+virginia gregg	1gvt	
+virginia grey	lbq	
+virginia halas		66nw:3
+virginia halas mccaskey	66nw	
+virginia hamilton	1o7c	
+virginia hilda brunette maxwell bottomley	5rdf	
+virginia historic		jhe:3
+virginia historic landmark	jhe	
+virginia hoos	42mj	
+virginia inman	5l13	
+virginia joan bennett	4hhs	
+virginia k mcmath	cie	
+virginia kapo oloku po omaikelani	5hye	
+virginia kapooloku	5hye	
+virginia kapooloku poomaikelani	5hye	
+virginia katherine mcmath	cie	
+virginia kelley	3xnw	
+virginia kellogg	5n5n	
+virginia kelly	3xnw	
+virginia law	2u0	
+virginia lee		3crl:3,5uw1:3
+virginia lee burton	5uw1	
+virginia lee burton demetrios	5uw1	
+virginia lee corbin	3crl	
+virginia lewis the 10th kingdom	1i8f	
+virginia lilian emmeline comptonmackenzie	t06	
+virginia louise noonan	1rkl	
+virginia luque	3ck2	
+virginia m		3q23:3
+virginia m alexander	3q23	
+virginia m rometty	4x3h	
+virginia madsen	fn6	
+virginia madsen comments	fn6	
+virginia mae		5vud:3
+virginia mae brown	5vud	
+virginia manor	21pr	
+virginia marie nicosia	4x3h	
+virginia marie rometty	4x3h	
+virginia masters	5rn4	
+virginia maxwell bottomley	5rdf	
+virginia mayo	njq	
+virginia mccaskey	66nw	
+virginia mckenna	18yu	
+virginia mcmath	cie	
+virginia mcsweeney	1x8a	
+virginia military		6g9:3
+virginia military institute	6g9	
+virginia military institute keydets	6g9	
+virginia minnesota	w8s	
+virginia mn	w8s	
+virginia mourning her dead	6g9	
+virginia nevada	2hiw	
+virginia noonan	1rkl	
+virginia normal and collegiate institute	or9	
+virginia normal and industrial institute	or9	
+virginia normal collegiate institute	or9	
+virginia o		3by5:3
+virginia o brien	3by5	
+virginia palladian	hdb	
+virginia patterson hensley	kcc	
+virginia patterson hensley cline	kcc	
+virginia pearson	3atf	
+virginia polytechnic	45c	
+virginia polytechnic institute	45c	
+virginia polytechnic institute and state university	45c	
+virginia polytechnic institution and state university	45c	
+virginia polytechnic institution state university	45c	
+virginia poomaikelani	5hye	
+virginia postrel	5l13	
+virginia potts	6hkk	
+virginia pound	2mq5	
+virginia raggi	530u	
+virginia rometty	4x3h	
+virginia romita	4gge	
+virginia ruano	1ox7	1ox7:3
+virginia ruano pascual	1ox7	
+virginia s		1anl:5
+virginia s blue		1anl:5
+virginia s blue ridge		1anl:5
+virginia s blue ridge twenty28	1anl	
+virginia s little switzerland	1far	
+virginia s state highways	3mx	
+virginia sale	5s8m	
+virginia sandbox	7m	
+virginia slims		44aq:4,45yc:4,5ek0:4,5las:4
+virginia slims championships	sau	
+virginia slims masters	2l6p	
+virginia slims of		44aq:4,45yc:4,5ek0:4,5las:4
+virginia slims of boston	5ek0	
+virginia slims of california	q2e	
+virginia slims of chicago	1mee	
+virginia slims of florida	45yc	
+virginia slims of indian wells	r0n	
+virginia slims of indianapolis	44aq	
+virginia slims of kansas	5las	
+virginia slims of los angeles	11hh	
+virginia slims of palm springs	r0n	
+virginia slims of philadelphia	31qm	
+virginia slims of san diego	zeu	
+virginia slims of san francisco	q2e	
+virginia slims of washington	24ya	
+virginia squires	vi8	
+virginia state	7m,or9	or9:3
+virginia state college	or9	
+virginia state college for negroes	or9	
+virginia state highway commission	3fy	
+virginia state highways	3mx	
+virginia state normal and industrial institute	or9	
+virginia state route	3mx	
+virginia state teachers college harrisonburg	q89	
+virginia state university	or9	
+virginia stephen	foa	
+virginia stephen woolf	foa	
+virginia tech	45c	
+virginia tech center for european studies and architecture cesa	45c	
+virginia tech college	45c	
+virginia tech colleges	45c	
+virginia tech shooter	37ts	
+virginia tech university	45c	
+virginia u s state	7m	
+virginia union	j4v	j4v:3
+virginia union university	j4v	
+virginia usa	7m	
+virginia usa state	7m	
+virginia valli	1x8a	
+virginia van		2sbv:3
+virginia van upp	2sbv	
+virginia water	5n7m	
+virginia water surrey	5n7m	
+virginia weidler	1icb	
+virginia wigmore	3vrf	
+virginia wolfe	foa	
+virginia women		wg7:4
+virginia women in		wg7:4
+virginia women in history	wg7	
+virginia women in history doc	wg7	
+virginia woolf	foa	
+virginia woolfe	foa	
+virginia zanuck	2ojb	
+volucrum	9ab	
+vyazemskoye urban settlement	17co	
+wafertech	1grv	
+wikipediaaid bulbapedia	41zy	
+zfk masinac		3m1c:4
+zfk masinac classic nis	3m1c	
+zfk masinac nis	3m1c	
+zfk masinac pzp		3m1c:4
+zfk masinac pzp nis	3m1c	
+zfk spartak		3o9r:3
+zfk spartak subotica	3o9r	

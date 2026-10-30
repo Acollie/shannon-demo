@@ -1,0 +1,427 @@
+a1l motorway switzerland	5x9d	
+a340 200	i3k	
+a340 500hgw	i3k	
+a340 600	i3k	
+a340 642	i3k	
+a340 643	i3k	
+abbeville	a55,1ruc,2kyo	15wx:2,1tpj:3,20aj:3,2ujy:3
+abbeville county	15wx	
+abbeville county sc	15wx	
+abbeville county south carolina	15wx	
+abbeville district	15wx	
+abbeville france	a55	
+abbeville la	1ruc	1tpj:3
+abbeville la msa	3vdw	
+abbeville la riviere	1tpj	
+abbeville la sa	3vdw	
+abbeville la usa	3vdw	
+abbeville les		20aj:3
+abbeville les conflans	20aj	
+abbeville louisiana	1ruc	
+abbeville massacre	a55	
+abbeville railway station	5bkn	
+abbeville saint		2ujy:3
+abbeville saint lucien	2ujy	
+abbeville sc	2kyo	
+abbeville south carolina	2kyo	
+accipitrid	tad	
+acornutia	eoq	
+alaouite	1oiv	
+alaouite dynasty	1oiv	
+alaouite sultanate of morocco	1oiv	
+alet		1g7o:3
+alet les		1g7o:3
+alet les bains	1g7o	
+alexander yevgenievich lebedev	44m3	
+araras	3t5g	
+araras brazil	3t5g	
+araras sao paulo	3t5g	
+arrangoitze	1t6u	
+ave	1ju2	
+ave cesaria	3wm3	
+ave comments	1ju2	
+ave maria	2skv,58bh,5enq	
+ave maria 1936	58bh	
+ave maria 1936 film	58bh	
+ave maria 1953 film	2skv	
+ave maria 1984 film	5enq	
+ave mary a	5f8k	
+ave ninchi	hhi	
+bakirkoyspor	1nt2	
+batticaloa	1tfi	1lz2:2
+batticaloa city	1tfi	
+batticaloa district	1lz2	
+birdy	1gh3,2dut	
+birdy comics	3xlb	
+birdy film	2dut	
+birdy jasmine van den bogaerde	1gh3	
+birdy movie	2dut	
+birdy musician	1gh3	
+birdy singer	1gh3	
+briansk	ams	
+briansk oblast	dey	
+canarygrass	6f2i	
+cantharidae	3lwd	
+casnigo	2owz	
+charles winger	5yha	
+chateletles halles paris rer	2uon	
+chez guermantes	58j4	
+chez republic	2y	
+contragolpe	4qdz	
+cricketed	93	
+cristoph clavius	62kk	
+cristoph hein	4phe	
+cristoph willibald gluck	sfa	
+delettes	1yoo	
+deportes		6q4:2,8n1:2,adm:2,amr:2,btd:3,i11:2,13n5:2,2pf0:2,4xck:2,59lm:2
+deportes antofagasta	66o	
+deportes arica	bu7	
+deportes caldas	65b	
+deportes colchagua	59u6	
+deportes copiapo	13n5	
+deportes extremos	1pzx	
+deportes iberia	1c7v	
+deportes iquique	adm	
+deportes la serena	7zq	
+deportes linares	4xck	
+deportes magallanes	bz7	
+deportes melipilla	i11	
+deportes naval	16nx	
+deportes ovalle	59lm	
+deportes provincial osorno	lhc	
+deportes puerto		btd:3
+deportes puerto montt	btd	
+deportes quindio	8n1	
+deportes santa cruz	5vtk	
+deportes savio	y85	
+deportes talcahuano	16nx	
+deportes temuco	amr	
+deportes tolima	6q4	
+deportes valdivia	2pf0	
+dhritiman		642a:2
+dhritiman chaterji	642a	
+dhritiman chatterjee	642a	
+dietology	126e	
+doux	37ui,3x83	
+doux ardennes	37ui	
+doux deux sevres	3x83	
+dpr korea		461c:5
+dpr korea league	461c	
+dpr korea national football team	5de	
+dpr korea premier		461c:5
+dpr korea premier football		461c:5
+dpr korea premier football league	461c	
+dreiser	18rh	
+drink	2ds	
+drink and drive	3kpr	
+drink drive	3kpr	
+drink from the firehose	41m5	
+drink industry	8oz	
+edward nugent	53cv	
+eous	uau	
+eous mythology	uau	
+epectitus	4c1e	
+eriphus	4k0m	
+etueffont	27x5	
+famila biology	6z	
+fayssac	30vx	
+fever	ovo,4w8o	1wl9:2,4g9x:2,583x:2,61uf:2
+fever 105 radio	2yow	
+fever 1793	4ozv	
+fever and ague	5dq	
+fever black milk album	42q9	
+fever dreams iii steve roach album	1bmg	
+fever in the blood	47yt	
+fever kylie minogue song	4w8o	
+fever phobia	ovo	
+fever pitch	1wl9,4g9x,583x	
+fever pitch 1985 film	4g9x	
+fever pitch 1985 movie	4g9x	
+fever pitch 1997 film	583x	
+fever pitch 1997 movie	583x	
+fever pitch 2005	1wl9	
+fever pitch 2005 film	1wl9	
+fever pitch 2005 movie	1wl9	
+fever ray	3y84	
+fever typhoid or enteric	4xl	
+fever with rash	ovo	
+flute	1o7	3c3s:2
+flute concert of sans souci	1184	1184:6
+flute indian	6b07	
+flute player	1o7	
+flute playing	1o7	
+flute sonata	3c3s	
+flute western concert	17jk	
+fornarina	5jy0	
+frederick childe hassam	48bo	
+frydlant	14sl	1rz2:3
+frydlant nad		1rz2:3
+frydlant nad ostravici	1rz2	
+frydlant nad ostravici little district	1rz2	
+frydlant v cechach	14sl	
+george kinsey	643e	
+george mercouris	47mb	
+george wells	1k27	2alj:3
+george wells beadle	2alj	
+george wells screenwriter	1k27	
+geralomo cardano	382f	
+gibercourt	2o8m	
+giv at		45dj:3
+giv at shemu el	45dj	
+giv at shmu el	45dj	
+giv at shmuel	45dj	
+giv ataim	mgb	
+giv atayim	mgb	
+gmina cmielow	yz4	
+gmina zakrzowek	173f	
+gomidesia	5y6h	
+guchen	2klc	
+harran	x7k	
+heilles	2eou	
+heilles france	2eou	
+henry robin ian russell 14th duke of bedford	62nv	
+hita	1zyk,4lcl	
+hita guadalajara	1zyk	
+hita oita	4lcl	
+hita shi	4lcl	
+hita spain	1zyk	
+horadrim	3fw7	
+i fucking hate you	5jvd	
+ikki		33vl:2
+ikki kajiwara	33vl	
+indhooru district	snf	
+jadran		1p8o:2
+jadran film	1p8o	
+jean epstein	4gk4	
+jerisno	2fmj	
+kansallinen		44ez:2
+kansallinen edistyspuolue	4699	
+kansallinen kokoomus r p	a2q	
+kansallinen kokoomuspuolue	a2q	
+kansallinen kokoomuspuolueen keskusliitto r y	a2q	
+kansallinen liiga	44ez	
+kendujhargarh district	18pa	
+knit o matic	34x9	
+kokchetav	1kb2	
+kvad	1ll9	
+la espanola	2v65	
+la valse		3jz9:4
+la valse de		3jz9:4
+la valse de paris	3jz9	
+landra gould	1w4b	
+langenbruecken	3obx	
+leccinum	q63	
+leccinum arcolatum	q63	
+ledanca	4sdh	
+ledanca guadalajara	4sdh	
+ledanca spain	4sdh	
+leozinho	3g79	
+lisciano		5ar4:2
+lisciano niccone	5ar4	
+lokanath		5153:2
+lokanath misra	5153	
+louis philip		57g5:7
+louis philip count		57g5:7
+louis philip count palatine		57g5:7
+louis philip count palatine of		57g5:7
+louis philip count palatine of simmern		57g5:7
+louis philip count palatine of simmern kaiserslautern	57g5	
+louis philip d orleans	45x5	
+louis philip duke of braganza	4jix	
+louis philip i duke of orleans	2ldb	
+louis philip i of france	knt	
+louis philip of braganza	4jix	
+louis philip of portugal	4jix	
+louis philip prince of kohary	4jix	
+macnab street presbyterian church hamilton	1k6	
+maysang kalimud	3jvk	
+mcmxlix	1d06	
+melgiew commune	1j0e	
+michael dobson	4s40	
+michael dobson actor	4s40	
+moadon kaduregel beitar yerushalayim	4x9	
+moadon sport ashdod	7h4	
+momentary god	2qvv	
+momentary gods	2qvv	
+momentary lapse	1cbc	
+momentary lapse of reason	1cbc	
+moshe	hbm	xv3:2,157m:3,2y5i:2,33qn:2,3tlo:2,4qfz:2,4qqy:2,4vgy:2,4vn8:2,5784:2,5gem:3,5ksb:2,5l00:2,5u8y:2,5ziz:2,64ak:2
+moshe abutbul	64ak	
+moshe arens	4qqy	
+moshe ben		157m:3
+moshe ben maimon	157m	
+moshe ben nachman	4rat	
+moshe ben nahman	4rat	
+moshe bin maymun	157m	
+moshe chaim		5gem:3
+moshe chaim luzatto	5gem	
+moshe chaim luzzato	5gem	
+moshe chaim luzzatto	5gem	
+moshe chayim luzzatto	5gem	
+moshe daian	xv3	
+moshe dayan	xv3	
+moshe diane	xv3	
+moshe feiglin	5784	
+moshe glam	4vn8	
+moshe haim luzato	5gem	
+moshe haim luzzato	5gem	
+moshe has	5v0j	
+moshe hass	5v0j	
+moshe hayyim luzzatto	5gem	
+moshe hes	5v0j	
+moshe hess	5v0j	
+moshe ivgi	2y5i	
+moshe ivgy	2y5i	
+moshe jammer	5euv	
+moshe kacav	5l00	
+moshe katsav	5l00	
+moshe katsay	5l00	
+moshe katzav	5l00	
+moshe kazav	5l00	
+moshe la khaim eche laerry la jewess	148	
+moshe mishaelof	5ksb	
+moshe mizrahi	4vgy	
+moshe montefiore	5pu1	
+moshe montefiori	5pu1	
+moshe montifiore	5pu1	
+moshe ohayon	4qfz	
+moshe qatzav	5l00	
+moshe rabbeinu	hbm	
+moshe rabbenu	hbm	
+moshe rabeinu	hbm	
+moshe rom	eds	
+moshe safdie	3tlo	
+moshe safdie associates	3tlo	
+moshe sharet	5ziz	
+moshe sharett	5ziz	
+moshe sharret	5ziz	
+moshe shertok	5ziz	
+moshe sneh	5u8y	
+moshe sofer	1wih	
+moshe surname	44ci	
+moshe vardi	33qn	
+moshe y vardi	33qn	
+moshe ya akov vardi	33qn	
+moshe yaakov vardi	33qn	
+mtdna haplogroup	w1n	
+muurmanni	bf2	
+naruse mikio	1a6j	
+obilic belgrade	7d7	
+obilic beograd	7d7	
+obilic fc	7d7	
+odin	ztr	
+odin dark horse comics	2ric	
+odin gangleri	ztr	
+odin god	ztr	
+oldsmobile	1u7p	
+oligosporus	j8l	
+openptail g	4lo4	
+paul schafer	5cov,5m1w	
+paul schafer german politician	5cov	
+paul schafer politician	5cov	
+paul schafer schneider	5m1w	
+pedilea	35dp	
+peter craig dutton	58ij	
+peter lindsay weir	vcf	
+pontiakas	6fl4	
+precolonial history of benin	vv	
+prince croy	5342	
+pugeot	5r8	
+regusse	2b4s	
+robocop	wkg,13ht,2jus,3bxl	v76:2,vk3:2
+robocop 1987 album	13ht	
+robocop 1987 film	13ht	
+robocop 1987 movie	13ht	
+robocop 1988 video game	3bxl	
+robocop 2	v76	
+robocop 2010	13ht	
+robocop 2013 film	wkg	
+robocop 2014	wkg	
+robocop 2014 album	wkg	
+robocop 2014 film	wkg	
+robocop 2014 movie	wkg	
+robocop 3	vk3	
+robocop film	13ht	
+robocop ii	v76	
+robocop iii	vk3	
+ryland peter cooder	ny9	
+saint gerand	1671	1t42:4,2bnf:4
+saint gerand de		2bnf:4
+saint gerand de vaux	2bnf	
+saint gerand le		1t42:4
+saint gerand le puy	1t42	
+schiltigheim	sz7	
+schleicher		240e:2
+schleicher cabinet	55tc	
+schleicher county	240e	
+schleicher county texas	240e	
+schleicher county tx	240e	
+scissurella	1d02	
+sir alan		4cpw:5
+sir alan arthur bates	ifl	
+sir alan arthur bates cbe	ifl	
+sir alan ayckbourn	n7o	
+sir alan barlow	4cpw	4cpw:5
+sir alan barlow 2nd		4cpw:5
+sir alan barlow 2nd baronet	4cpw	
+sir alan bates	ifl	
+sir alan beith	3usl	
+sir alan cottrell	2haq	
+sir alan duncan	53fe	
+sir alan fersht	33cq	
+sir alan gardiner	4y2b	
+sir alan gordon barraclough haselhurst	60td	
+sir alan haselhurst	60td	
+sir alan henderson gardiner	4y2b	
+sir alan hodgkin	1wf8	
+sir alan howard cottrell	2haq	
+sir alan lloyd hodgkin	1wf8	
+sir alan p herbert	2l2b	
+sir alan parker	13h0	
+sir alan patrick herbert	2l2b	
+sir alan r fersht	33cq	
+sir alan roy fersht	33cq	
+sir alan william parker	13h0	
+skroob	12uz	
+soudan	24gh,41ib	
+soudan deux sevres	41ib	
+soudan loire atlantique	24gh	
+soudan yancowinna county	k41	
+st canutes cathedral	5jvm	
+sumrith thanakarnjanasuth	221	
+surena corneille	z4y	
+szubanski	3m95	
+terranoa	w6i	
+the amazons	48mw	
+the jimmie rodgers show	3ii2	
+the undertaker	4q7e	
+the undertaker film	4q7e	
+thomas robsahm	2d3p	
+tienshan mountain	135g	
+tigers	qq,447u	2s6k:3,4rw9:2,68kn:2
+tigers film	447u	
+tigers in		2s6k:3
+tigers in captivity	d5d	
+tigers in lipstick	2s6k	
+tigers tail	5p8m	
+tigers tubingen	4rw9	
+tschadsee	34xb	
+turkeve	6490	
+urdan	zn	
+varacieux	3zyd	
+verbania	f6o	
+verbania calcio	50ai	
+verbania sportiva	50ai	
+villognon	2o1y	
+whitehall	11la	4xos:2
+whitehall court	4xos	
+whitehall department	18v6	
+whitehall departments	18v6	
+whitehall place	11la	
+whitehall steve	69ty	
+whitehall street bmt broadway line	5b7d	
+whitehall street south ferry bmt broadway line	5b7d	
+whitehall street south ferry new york city subway	5b7d	
+william schuman	2pvw	
+xanne sandanski	egt	
+zumino	5ldc	

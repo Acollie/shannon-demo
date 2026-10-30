@@ -1,0 +1,833 @@
+3100 s bc	2c4v	
+3377 rp opalate	ds6	
+a pocketful		4ysf:4
+a pocketful of		4ysf:4
+a pocketful of chestnuts	4ysf	
+a pocketful of miracles	191w	
+a story from chikamatsu	4h5b	
+a story of sin	4ojy	
+a story of the london fog	2nz4	
+a story of the nineties	4ajl	
+a story to tell	31gy	
+abbass hiam	tv8	
+alexander guruli	3mqd	
+alviz	5iav	
+alytus	mou	4u5r:2,4z3i:3
+alytus city municipality	mou	
+alytus county	4u5r	
+alytus district	4z3i	4z3i:3
+alytus district municipality	4z3i	
+anthophoridae	45no	
+arganza	3tia	
+arganza leon	3tia	
+arganza spain	3tia	
+atert	1p67	
+avascular	4jbm	
+bahraini		311r:3
+bahraini army	20pe	
+bahraini football premier league	311r	
+bahraini premier		311r:3
+bahraini premier league	311r	
+bahraini royal family	1jy9	
+bassetlaw	9qz	
+bassetlaw district	9qz	
+bassetlaw district council	9qz	
+bayecourt	30s3	
+bayezit i	18iz	
+bayezit ii	14dt	
+bazinghen	2ra1	
+beford	57i	
+beniamino		28zl:2,4rjd:3,524u:2,5lrk:2,5suz:2
+beniamino abate	524u	
+beniamino andreatta	5suz	
+beniamino di		4rjd:3
+beniamino di giacomo	4rjd	
+beniamino gigli	5lrk	
+beniamino maggio	28zl	
+bresolettes	2t35	
+cacatua	5p4t	
+caritat	1abp	
+cassowary		1ww0:3
+cassowary coast	1ww0	1ww0:3
+cassowary coast region	1ww0	
+cassowary coast regional council	1ww0	
+cezannesque	taq	
+chabadsker	32no	
+charles grant	33tt	33tt:5
+charles grant 1st		33tt:5
+charles grant 1st baron		33tt:5
+charles grant 1st baron glenelg	33tt	
+charles grant allen	5zxc	
+charles grant baron glenelg	33tt	
+charles grant blairfindie allen	5zxc	
+charles grant blairfindy allen	5zxc	
+charles grant soldier	sgc	
+chouy	1cqc	
+cipram	do1	
+cirrussearch	aft	
+corsigliano	1qcr	
+culture	324,chw	13m7:2,1zve:2,3v71:2,4n8b:2,5qka:2
+culture and carnage	5wg9	
+culture and tourism ministry of turkey	loe	
+culture archaeology	324	
+culture area	5zxb	
+culture at diocesan college	rnz	
+culture beat	5qka	
+culture brain	1zve	
+culture brain excel	1zve	
+culture brain usa	1zve	
+culture center	9yw	
+culture centre	9yw	
+culture club	13m7	
+culture club band	13m7	
+culture epoch	1cpc	
+culture fictional civilisation	4n8b	
+culture genocide	1erh	
+culture in chico	dev	
+culture in kent	1ks	
+culture in luton	4mr	
+culture in northern province sri lanka	3dml	
+culture in rio grande do sul	13i	
+culture in venice	nn	
+culture media	1dyw	
+culture media and sport secretary	3v5k	
+culture minister	38jj	
+culture ministers	38jj	
+culture of alabama	go	
+culture of alaska	pc	
+culture of american samoa	7sv	
+culture of anguilla	cw2	
+culture of antigua and barbuda	2w9	
+culture of arunachal pradesh	d0f	
+culture of athens	fs	
+culture of atlanta	gj	
+culture of atlanta georgia	gj	
+culture of bavaria	tn	
+culture of borsod abauj zemplen	6x5	
+culture of british columbia	9v	
+culture of cabbage	6ele	
+culture of chad	1oe	
+culture of chandigarh	6q1	
+culture of cherry	58uc	
+culture of chhattisgarh	7tg	
+culture of chittagong	816	
+culture of christmas island	196v	
+culture of comoros	2tp	
+culture of complaint	2e4r	
+culture of complaint the fraying of america	2e4r	
+culture of connecticut	gm	
+culture of curacao	6b5	
+culture of cyprus	j6	
+culture of delaware	138	
+culture of delhi	118	
+culture of devon	2hm	
+culture of devonshire	2hm	
+culture of earth	chw	
+culture of easter island	1ica	
+culture of fruits	o33	
+culture of gambia	210	
+culture of gotland	xbf	
+culture of guinea	17e	
+culture of haryana	20s	
+culture of haryana india	20s	
+culture of human beings	chw	
+culture of illinois	8a	
+culture of indiana	b7	
+culture of iowa	en	
+culture of jacksonville	1hy	
+culture of kandy	98g	
+culture of kansas	p8	
+culture of lesotho	28n	
+culture of macedonia	3xmz	
+culture of madhya pradesh	2qe	
+culture of maine	mq	
+culture of malawi	1t7	
+culture of manipur	7ae	
+culture of massachusetts	6o	
+culture of mayotte	8nl	
+culture of meghalaya	dv9	
+culture of melilla	lg2	
+culture of metro manila	6ul	
+culture of miami	lc	
+culture of mizoram	aow	
+culture of montana	sx	
+culture of munich	8w	
+culture of nagaland	en7	
+culture of namibia	rp	
+culture of nevada	lt	
+culture of new brunswick	111	
+culture of new mexico	qe	
+culture of niue	a66	
+culture of norrbotten	ptr	
+culture of nova scotia	i8	
+culture of ontario	77	
+culture of orange	358k	
+culture of palau	4fk	
+culture of paraguay	lx	
+culture of pear	1vj4	
+culture of phlox	1gv9	
+culture of portland oregon	nm	
+culture of prague	aq	
+culture of prince edward island	38a	
+culture of rhode island	1ag	
+culture of richmond va	17q	
+culture of richmond virginia	17q	
+culture of rose	dfm	
+culture of saint barthelemy	gq4	
+culture of saint vincent and the grenadines	3yx	
+culture of san marino	285	
+culture of sao tome and principe	41i	
+culture of senegal	ob	
+culture of shibuya	69y	
+culture of sierra leone	1kc	
+culture of sikkim	h0p	
+culture of south carolina	lr	
+culture of sport	1q7	
+culture of tahiti	8ir	
+culture of tamil nadu	ci	
+culture of the british virgin islands	cev	
+culture of the central african republic	1p0	
+culture of the channel islands	1v78	
+culture of the comoros	2tp	
+culture of the gaza strip	5wf1	
+culture of the state of palestine	1mk	
+culture of the turks and caicos islands	ihm	
+culture of the west bank	5wf1	
+culture of tijuana	5c4	
+culture of tokelau	p8c	
+culture of tulips	1rv9	
+culture of tuvalu	3jw	
+culture of utah	kn	
+culture of vegetables	7cf	
+culture of violet	bvm	
+culture of weifang	w5t	
+culture of west bank	5wf1	
+culture of west virginia	j3	
+culture of wisconsin	l7	
+culture of yukon	3tn	
+culture of zala	7je	
+culture of zambia	151	
+culture portal	chw	
+culture power station harz	flq	
+culture region	5zxb	
+culture regions	5zxb	
+culture secretary	3v5k	
+culture sequence	3v71	
+culture series	3v71	
+culture shock sam max	4fqc	
+culture system	chw	
+culture ulterior	4n8b	
+culture war arcade fire song	5vdv	
+culture war song	5vdv	
+cyclanthiflorae	6ety	
+dalkieth	1idj	
+deti jon	bzq	
+ditte		2542:4
+ditte child		2542:4
+ditte child of		2542:4
+ditte child of man	2542	
+ditte menneskebarn	2542	
+domistic pig	pci	
+ek	14ty	
+ek chutki sindoor	1655	
+ek commune	feq	
+ek county	26mj	
+ek deewana tha	4f0n	
+ek main		589j:5
+ek main aur		589j:5
+ek main aur ek tu	589j	
+ek main aur ekk		589j:5
+ek main aur ekk tu	589j	
+ek poland	14ty	
+ek tha		4jts:3
+ek tha gangster	25eh	
+ek tha tiger	4jts	
+ek thi		6bcc:3
+ek thi daayan	6bcc	
+ek tho		5xay:3
+ek tho chance	5xay	
+ek yodha shoorveer	4by7	
+evidemment album	vkm	
+fc avenir		4a23:3
+fc avenir beggen	4a23	
+fedayin	1qj4	
+ganic kulla	4o66	
+garamszentkereszt	1z5q	
+gatech	1v7	
+gatech edu	1v7	
+ghatothkachudu	6ef7	
+gibraltarensis	6ewz	
+gmina kwidzyn	rkr	
+grambois	2a0u	
+guangdong	5ji	sn5:5,1wvb:3,26o8:4
+guangdong china	5ji	
+guangdong dialect	hz4	
+guangdong fc	sn5	
+guangdong hongyuan		26o8:4
+guangdong hongyuan baoma shihua nanhu	1wvb	
+guangdong hongyuan f		26o8:4
+guangdong hongyuan f c	26o8	
+guangdong hongyuan southern tigers	1wvb	
+guangdong province	5ji	
+guangdong province china	5ji	
+guangdong rizhiquan	sn5	
+guangdong sheng	5ji	
+guangdong southern		1wvb:3
+guangdong southern tigers	1wvb	
+guangdong sunray		sn5:5
+guangdong sunray cave	sn5	sn5:5
+guangdong sunray cave f		sn5:5
+guangdong sunray cave f c	sn5	
+guangdong sunraycave f c	sn5	
+guangdong sunraycave fc	sn5	
+guangdong tigers	1wvb	
+harddisk	2k8n	
+harmfulness	v5k	
+heraclitus	461w	
+heraclitus of ephesus	461w	
+heraclitus the ephesian	461w	
+hersiliiidae	669o	
+heterochroa	2umq	
+hubner	2d5z	
+hubner christopher	52yq	
+hubner michael	5jta	
+i 410 az	605e	
+insolent		1z92:4
+insolent and		1z92:4
+insolent and in		1z92:4
+insolent and in love	1z92	
+james scullin	5l6l	
+jasminum	2r6w	
+jasminum species	2r6w	
+jiango renard	1fxe	
+johannas lucas schonlein	489o	
+karlshamns kommun	1oa7	
+khoshk		6el5:4
+khoshk rud		6el5:4
+khoshk rud rural		6el5:4
+khoshk rud rural district	6el5	
+khoshk rud rural district mazandaran province	6el5	
+kitano	lif	
+kitano shiori	wmm	
+kitano siori	wmm	
+kitano takeshi	lif	
+kitano takesi	lif	
+kly	3luo	
+kly melnik district	3luo	
+konigswinter	10q9	
+konigswinter clemens august strae swb	3jxa	
+konigswinter denkmal swb	3jxa	
+konigswinter germany	10q9	
+kphthe	48f	
+kumbakonam	1awo	p30:2
+kumbakonam comments	1awo	
+kumbakonam taluk	p30	
+legum		338k:2
+legum doctor	5hy,338k	
+legum magister	1g8i	
+louvaines	2hx2	
+luegde	3i4b	
+lyle		n4c:2,vpq:2,y9k:3,2ce9:2,2ypl:2,3oea:2,3tin:2,5274:2
+lyle alzado	5274	
+lyle bettger	2ypl	
+lyle chumley	pu3	
+lyle haggerty	xda	
+lyle james alfred taylor	2ce9	
+lyle kane	1etn	
+lyle lovett	vpq	
+lyle martin alzado	5274	
+lyle monroe	8hy	
+lyle r		y9k:3
+lyle r wheeler	y9k	
+lyle reynolds wheeler	y9k	
+lyle s bettger	2ypl	
+lyle talbot	n4c	
+lyle taylor	2ce9	
+lyle tayo	3tin	
+lyle wheeler	y9k	
+lyle workman	3oea	
+m6809	zjs	
+maculewicz	640a	
+mass	7a4,bz4,1nsx	7wq:3,ep1:2,ht8:2,1jee:3,21fd:4,2bcp:3,2ggh:3,2rs2:3,52us:2
+mass art	cwn	
+mass audience	ht8	
+mass bay transit authority	4uw	
+mass college of art and design	cwn	
+mass death of freshwater drum in the arkansas river	1bru	
+mass democracy	48ux	
+mass effect	2rs2	1jee:3,21fd:4,2bcp:3,2ggh:3,2rs2:3
+mass effect 1	2a31	
+mass effect 2	2bcp	
+mass effect 3	1jee	
+mass effect 3 special edition	1jee	
+mass effect 4	2ggh	
+mass effect andromeda	2ggh	
+mass effect andromeda initiative	2rs2	
+mass effect bring down the sky	2a31	
+mass effect game	2a31	
+mass effect ii	2bcp	
+mass effect iii	1jee	
+mass effect incursion	2rs2	
+mass effect inquisition	2rs2	
+mass effect paragon		21fd:4
+mass effect paragon lost	21fd	
+mass effect pinnacle station	2rs2	
+mass effect series	2rs2	
+mass effect trilogy	2rs2	
+mass effect two	2bcp	
+mass effect video game	2a31	
+mass energy	m3h	
+mass execution	40n	
+mass exodus	14eo	
+mass is ended	63q1	63q1:4
+mass market paperback	141w	
+mass market paperbacks	141w	
+mass media	ht8	
+mass medium	ht8	
+mass music	7a4	
+mass music of the	7a4	
+mass mutual financial group	3m9b	
+mass mutual life ins	3m9b	
+mass mutual life insurance company	3m9b	
+mass of an electron	36bh	
+mass of electron	36bh	
+mass of maneuver	3f0t	
+mass of the electron	36bh	
+mass of the moon	nr	
+mass organisation	f0u	
+mass organization	9jk	
+mass organizations	9jk	
+mass physics	bz4	
+mass properties	bz4	
+mass protest	jsk	
+mass rail transit singapore	7wq	
+mass rapid		7wq:3
+mass rapid transit	7wq	
+mass rapid transit corporation malaysia	kva	
+mass rapid transit singapore	7wq	
+mass rapid transit taipei	9wu	
+mass salem	54i	
+mass sarr	52us	
+mass sarr jr	52us	
+mass setting	7a4	
+mass shooting	ep1	
+mass shootings	ep1	
+mass stampede	2yil	
+mass starvation	1efj	
+mass strike	17gw	
+mass tourism	i3o	
+mass transit railway	14i1	
+mass transit railway coporation	4ov	
+mass transit railway corp	4ov	
+mass transit railway corporation limited	4ov	
+mass transit system	6s4	
+mass transit systems	6s4	
+mass transport	6s4	
+mass transport system	6s4	
+mass truckings	6fa8	
+mass vaccination	cxz	
+mass vaccinations	cxz	
+mass we pray	6g3s	
+mass wire media	ht8	
+michael matthews	rhb	
+michael matthews cyclist	rhb	
+mierlo hout	eym	
+mifelder	1vt5	
+mirosaw	ks5	4mgn:2,4nuc:2,5gae:2,5l06:2,5yar:2,6c8o:2
+mirosaw baszak	5l06	
+mirosaw dreszer	6c8o	
+mirosaw first name	ks5	
+mirosaw given name	ks5	
+mirosaw hermaszewski	4nuc	
+mirosaw hermazewski	4nuc	
+mirosaw klose	17od	
+mirosaw okonski	4mgn	
+mirosaw spizak	5gae	
+mirosaw zuawski	5yar	
+mkb veszprem	320x	
+mkb veszprem kc	320x	
+muralism	a3a	
+mustaghanam	16mx	
+mutsu	25wg	5txw:2
+mutsu aomori	25wg	
+mutsu hito	17ff	
+mutsu province	5txw	
+navase	4dpg	
+nkuoa	2ka	
+ostrogothland	10s4	
+parre	3xxn	
+peppin the short	12lp	
+pernambucu	2qx	
+pimaracin	20z2	
+predmerice		3poj:3
+predmerice nad		3poj:3
+predmerice nad jizerou	3poj	
+princess ragnhild		4uf3:4
+princess ragnhild mrs		4uf3:4
+princess ragnhild mrs lorentzen	4uf3	
+princess ragnhild of norway	4uf3	
+princess ragnhild of norway mrs lorentzen	4uf3	
+qcom	e0o	
+qcom nasdaq	e0o	
+qgj	6gcd	
+redondela	1zj9	
+redondela pontevedra	1zj9	
+robert mcferrin jr	1wef	
+rokitno commune	27m0	
+roubaix	5zf	
+roubaix france	5zf	
+roubaix lille metropole	1ek6	
+roubaix metropole europeenne de lille	1ek6	
+saakshi ranga rao	37er	
+safvis	3izr	
+saham		1mbx:2
+saham club	1mbx	
+saham sc	1mbx	
+saint ipomoni	2r8o	
+saint paterne	3m8k	1rh5:3
+saint paterne racan	1rh5	
+saint thome	3shd	
+schengenland	1gbj	
+setsqx	2ji	
+simulated desktop	420p	
+simulated people	5wbe	
+simulated world	5wbe	
+sort	3c7z	31h7:3
+sort catalonia	3c7z	
+sort en		31h7:3
+sort en chalosse	31h7	
+sort host	1kxl	
+sort hst	1kxl	
+sort lleida	3c7z	
+space1999	lq7	
+sparklepants	6et9	
+spontini	5yl8	
+spontini gasparo luigi pacifico	5yl8	
+st luke	194v	5auh:6
+st luke s		5auh:6
+st luke s academy	un6	
+st luke s c of e	3355	
+st luke s hospital	5auh	
+st luke s hospital new york city	5auh	
+st luke s roosevelt		5auh:6
+st luke s roosevelt hospital	5auh	5auh:6
+st luke s roosevelt hospital center	5auh	
+st luke s school portsmouth	1zk	
+st luke sroosevelt hospital center	5auh	
+st luke the evangelist	194v	
+steeven		4uaj:2
+steeven joseph monrose	4yox	
+steeven langil	4uaj	
+strip	5n52	5n52:2
+strip cartoon	1t5	
+strip cover	141w	
+strip mind	1mbq	
+strip mine	4pk5	
+strip mining	4pk5	
+strip my mind	69bq	
+strip naked for your killer	53p4	
+strip nude for your killer	53p4	
+tajo	kk8	
+tajo river	kk8	
+tanganyka	1ju7	
+tedi		68gx:2
+tedi sarafian	68gx	
+tessennano	542z	
+the levite saint joseph	5to6	
+the mtv movie awards	v52	
+the mtv president	53n	
+the relentless		3kv0:3
+the relentless four	3kv0	
+the tudors	t8x	
+the tudors television series	t8x	
+the tudors tv series	t8x	
+tiruvidamkodu	101n	
+trashiyangste	1tep	
+trashiyangste district	1tep	
+varneria	3i2m	
+verderio		3eco:2,5o8i:2
+verderio inferiore	3eco	
+verderio superiore	5o8i	
+vespology	wm5	
+volcanics	avl	
+women	vm,o8r	jq:4,1xq:4,5jo:21,68j:8,cb0:6,fzn:4,g1b:5,iqd:8,l5j:4,noy:4,o8r:2,riw:8,rkg:3,st7:5,z86:5,157p:2,1gk5:4,1hic:3,1jln:5,1ouh:4,1t1l:5,1ur7:2,26wh:4,28kc:5,2amr:3,2ath:3,2etl:4,2rvp:3,2sq8:3,2x0v:3,2x45:3,2ytz:4,2yv2:3,37i9:2,39d6:6,3bxm:3,3rlt:4,3vsz:3,45ma:4,464e:3,4mkx:6,4owy:3,4rsg:4,4tox:3,51iv:3,538q:5,577v:4,578x:4,5ame:4,5e3s:5
+women and sports	2x0v	
+women are		1gk5:4,2sq8:3,4rsg:4,578x:4
+women are better		1gk5:4
+women are better diplomats	1gk5	
+women are indeed better diplomats	1gk5	
+women are indeed the better diplomats	1gk5	
+women are like		4rsg:4
+women are like that	4rsg	
+women are no		578x:4
+women are no angels	578x	
+women are still better diplomats	1gk5	
+women are the better diplomats	1gk5	
+women are weak	2sq8	
+women around larsson	66dk	66dk:4
+women bundesliga	s6c	
+women everywhere	37i9	
+women football soccer	1xq	
+women for		26wh:4
+women for golden		26wh:4
+women for golden hill	26wh	
+women from deep river	1kt4	
+women gladiators	4h6u	
+women in		fzn:4,noy:4,rkg:3,28kc:5,3rlt:4,464e:3,5ame:4
+women in a river landscape	qmw	
+women in agriculture in the united states	3zc9	
+women in aviation		noy:4
+women in aviation international	noy	
+women in aviation international pioneer hall of fame	noy	
+women in cell		28kc:5
+women in cell block		28kc:5
+women in cell block 7	28kc	
+women in chains	42q5	
+women in chains 1973 film	42q5	
+women in garbage	3srf	
+women in hip hop	3q4z	
+women in hiphop	3q4z	
+women in love	rkg	
+women in love 1969 film	rkg	
+women in love film	rkg	
+women in physiology	b6o	
+women in soccer	1xq	
+women in sport	2x0v	
+women in sports	2x0v	
+women in technology		fzn:4
+women in technology international	fzn	
+women in the		3rlt:4,5ame:4
+women in the garden	3rlt	
+women in the punk scene	4nan	
+women in the war of the triple alliance	uaf	
+women in the wind	5ame	
+women in trouble	464e	
+women love		5xjb:3
+women love diamonds	5xjb	
+women make		4owy:3
+women make better diplomats	1gk5	
+women make movies	4owy	
+women make the better diplomats	1gk5	
+women management	157p	
+women model management	157p	
+women must		4tox:3
+women must dress	4tox	
+women named peggy	58a	
+women of		2yv2:3,51iv:3,5wcn:4
+women of algiers	4odf	4odf:4
+women of algiers in their apartment	4odf	
+women of all		5wcn:4
+women of all nations	5wcn	
+women of luxury	51iv	
+women of paris	2yv2	
+women of troy	6ee6	
+women on		riw:8
+women on the		riw:8
+women on the 6th floor	3ocn	3ocn:6
+women on the verge		riw:8
+women on the verge of		riw:8
+women on the verge of a		riw:8
+women on the verge of a nervous		riw:8
+women on the verge of a nervous breakdown	riw	
+women on top	52jb	
+women painters		5jo:21
+women painters of		5jo:21
+women painters of the		5jo:21
+women painters of the world	5jo	5jo:21
+women painters of the world from		5jo:21
+women painters of the world from the		5jo:21
+women painters of the world from the time		5jo:21
+women painters of the world from the time of		5jo:21
+women painters of the world from the time of caterina		5jo:21
+women painters of the world from the time of caterina vigri		5jo:21
+women painters of the world from the time of caterina vigri 1413		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur and		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur and the		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur and the present		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur and the present day		5jo:21
+women painters of the world from the time of caterina vigri 1413 1463 to rosa bonheur and the present day 1905	5jo	
+women rabbis	hs	
+women really do make better diplomats	1gk5	
+women really do make the better diplomats	1gk5	
+women religious	3ef	
+women rights	1hic	
+women s		jq:4,1xq:4,68j:8,cb0:6,g1b:5,iqd:8,l5j:4,st7:5,z86:5,1hic:3,1jln:5,1ouh:4,1t1l:5,2amr:3,2ath:3,2etl:4,2rvp:3,2x0v:3,2x45:3,2ytz:4,39d6:6,45ma:4,4mkx:6,538q:5,577v:4,5e3s:5,5fj5:5,5qof:3,6an5:3,6hma:4
+women s activist	6oj	
+women s adriatic basketball association	4u98	
+women s artistic gymnastics	gd	
+women s asian volleyball championship	3mzs	
+women s association		1xq:4
+women s association football	1xq	
+women s athletics	2x0v	
+women s basketball		cb0:6,538q:5
+women s basketball club spartak moscow oblast	12tc	
+women s basketball hall		cb0:6
+women s basketball hall of		cb0:6
+women s basketball hall of fame	cb0	
+women s basketball super		538q:5
+women s basketball super league	538q	
+women s boat		1ouh:4
+women s boat race	1ouh	
+women s caucus		68j:8
+women s caucus for		68j:8
+women s caucus for art		68j:8
+women s caucus for art lifetime		68j:8
+women s caucus for art lifetime achievement		68j:8
+women s caucus for art lifetime achievement award	68j	
+women s cev champions league	5idt	
+women s championship	2x0v	
+women s chorus	21r	
+women s clothing	32j	
+women s club	2rvp	
+women s club 1956 film	2rvp	
+women s club film	5hnf	
+women s college	2x45	
+women s college at columbus	3zh9	
+women s college basketball	15mq	
+women s college of baltimore	azs	
+women s college of baltimore city	azs	
+women s college of north carolina	i95	
+women s colleges	2x45	
+women s dfb cup	11iv	
+women s ehf		5fj5:5
+women s ehf cup	5fj5	
+women s ehf european		5fj5:5
+women s ehf european league	5fj5	
+women s emancipation	1hic	
+women s eredivisie	41by	
+women s euro	4vpp	
+women s eurobasket	11qc	
+women s european		1jln:5
+women s european rowing championships	f9k	
+women s european volleyball		1jln:5
+women s european volleyball championship	1jln	
+women s fashion	aq7	
+women s field hockey	u1	
+women s figure skating	7w	
+women s football	1xq	
+women s football soccer	1xq	
+women s football world cup	3xg5	
+women s gaelic football	mko	
+women s german cup	11iv	
+women s heptathlon	41y	
+women s hockey		5e3s:5
+women s hockey world		5e3s:5
+women s hockey world cup	5e3s	
+women s hoops	1b	
+women s hospital medical college	f3s	
+women s ice hockey	22	
+women s international		iqd:8
+women s international league	iqd	iqd:8
+women s international league for		iqd:8
+women s international league for peace		iqd:8
+women s international league for peace and		iqd:8
+women s international league for peace and freedom	iqd	
+women s issues	6oj	
+women s liga leumit	4u58	
+women s medical college of pennsylvania	12e7	
+women s monasticism	3ef	
+women s murder		2ytz:4,6hma:4
+women s murder club	2ytz,6hma	
+women s murder club book series	6hma	
+women s murder club novel series	6hma	
+women s murder club tv series	2ytz	
+women s national		st7:5,1t1l:5,577v:4
+women s national basketball		st7:5,1t1l:5
+women s national basketball association	1t1l	
+women s national basketball association all star game	66uo	
+women s national basketball association finals most valuable player award	6b0w	
+women s national basketball association most improved player award	58w9	
+women s national basketball association s most improved player award	58w9	
+women s national basketball league	st7	
+women s national league	577v	
+women s national league ireland	577v	
+women s national league ireland clubs	577v	
+women s pan		4mkx:6
+women s pan american		4mkx:6
+women s pan american volleyball		4mkx:6
+women s pan american volleyball cup	4mkx	
+women s pedagogical institute	5k8f	
+women s penitentiary xii	4e2q	
+women s pga		l5j:4
+women s pga championship	l5j	
+women s politics	6oj	
+women s premier		g1b:5
+women s premier soccer		g1b:5
+women s premier soccer league	g1b	
+women s prison	2amr,2ath	
+women s prison 1951 film	2ath	
+women s prison 1955 film	2amr	
+women s pro fastpitch	38j7	
+women s pro softball league	38j7	
+women s professional		45ma:4
+women s professional fastpitch	38j7	
+women s professional football soccer	1xq	
+women s professional soccer	45ma	
+women s professional soccer association	1uz7	
+women s professional softball league	38j7	
+women s professionel soccer	45ma	
+women s property	5qof	
+women s refuge film	4kkc	
+women s right	1hic	
+women s rights	1hic	
+women s rights activism	1hic	
+women s rights movement	6oj	
+women s seeds at the championships wimbledon	6sg	
+women s skeleton	6yz	
+women s ski jumping	14i	
+women s soccer	1xq	
+women s soccer llc	45ma	
+women s social		39d6:6
+women s social and		39d6:6
+women s social and political		39d6:6
+women s social and political union	39d6	
+women s softball	2g7	
+women s sport	2x0v	
+women s sports	2x0v	
+women s studies in religion program	3v7	
+women s studies research center	1n9	
+women s stuttgart open	tiq	
+women s super		2etl:4
+women s super league	2etl	
+women s television network	1azq	
+women s tennis		jq:4
+women s tennis 2005 season	18f7	
+women s tennis 2006 season	126i	
+women s tennis 2007 season	yb3	
+women s tennis association	jq	
+women s tour of flanders	2gqd	
+women s volleyball world championship	23my	
+women s weapons	6an5	
+women s wear	aq7	
+women s world		z86:5
+women s world amateur boxing championships	23yf	
+women s world chess		z86:5
+women s world chess champion	z86	
+women s world chess championship	z86	
+women s world curling championship	jj8	
+women s world hockey cup	5e3s	
+women s world ice hockey champions	4vyf	
+women superheroes	1ga	
+women who		3bxm:3
+women who work	3bxm	
+women who work 1938 film	3bxm	
+women without		3vsz:3,5rya:3
+women without men	3vsz	
+women without men 2009 film	3vsz	
+women without names 1950 film	232b	
+women without tomorrow	5rya	
+women won		5q8g:4
+women won t		5q8g:4
+women won t tell	5q8g	
+women you		6d74:4
+women you rarely		6d74:4
+women you rarely greet	6d74	
+yazidi	5auz	
+yazidi culture	5auz	
+yazidi sect	5auz	
+yazidi tribes	5auz	
+zillisheim	1kks	

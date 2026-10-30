@@ -1,0 +1,544 @@
+a falkenstein	628t	
+agerola	31i4	
+aguiar		1ny2:3
+aguiar da		1ny2:3
+aguiar da beira	1ny2	
+aguiar da beira municipality	1ny2	
+alasdhair	at9	
+alasdhair willis	3a45	
+albany	1wl,9iy,w19,1e5b,1zdl,3c3k,5woj	68x:3,bo9:3,kb4:4,mwt:2,vf7:2,18s9:2,222j:2,59ao:3
+albany admirals	59ao	
+albany australia	w19	
+albany blackwatch highlanders	59ao	
+albany bwp		59ao:3
+albany bwp highlanders	59ao	
+albany ca	1zdl	
+albany california	1zdl	
+albany capital	1wl	
+albany capitals	222j	
+albany city	6vk	
+albany city center oregon	1e5b	
+albany city texas	3c3k	
+albany college	9qo	
+albany collegiate institute	9qo	
+albany county	vf7,18s9	
+albany county dakota territory	18s9	
+albany county new york	vf7	
+albany county ny	vf7	
+albany county wy	18s9	
+albany county wyoming	18s9	
+albany county wyoming territory	18s9	
+albany ga	9iy	
+albany georgia	9iy	
+albany heroes monument	3c3k	
+albany law	68x	68x:3
+albany law school	68x	
+albany law school comments	68x	
+albany lebanon or msa	chl	
+albany lebanon or sa	chl	
+albany london	5woj	
+albany medical		kb4:4
+albany medical center		kb4:4
+albany medical center prize	kb4	
+albany medical center prize in medicine and biomedical research	kb4	
+albany n y	1wl	
+albany new york	1wl	
+albany new york state	1wl	
+albany northern league	9ds	
+albany ny	1wl	
+albany or	1e5b	
+albany or metropolitan statistical area	chl	
+albany or msa	chl	
+albany oregon	1e5b	
+albany oregon metropolitan area	chl	
+albany patroons	mwt	
+albany patroons roster	mwt	
+albany port	w19	
+albany rural		bo9:3
+albany rural cemetery	bo9	
+albany state marine reserve	1zdl	
+albany students association	9as	
+albany texas	3c3k	
+albany tx	3c3k	
+albany university	563	
+albany w a	w19	
+albany western australia	w19	
+alopecosa	35ri	
+arleux	1lbw	2ib3:3
+arleux en		2ib3:3
+arleux en gohelle	2ib3	
+bahus	22zz	2o6o:2
+bahus fortress	57yh	
+bahus len	22zz	
+bahus province	22zz	
+bahus soubiran	2o6o	
+barzano	4dm3	
+beckley	l5q	
+beckley oak hill wv csa	l5q	
+beckley virginia	l5q	
+beckley west virginia	l5q	
+beckley west virginia metropolitan area	l5q	
+beckley wv	l5q	
+beckley wv metropolitan statistical area	l5q	
+beckley wv msa	6o0,l5q	
+beckley wv sa	6o0	
+bett midler	clm	
+bierges les wavre	1swq	
+bizhbuliakskiy	5bpe	
+bizhbuliakskiy district	5bpe	
+bizhbuliakskiy raion	5bpe	
+bju	2e6a	
+brennes	2fn0	
+canobio	1pi5	
+cavid huseynov	5jes	
+cheniers	2hot,2naz	
+circumferential freeway	o7y	
+circumferential highway	o7y	
+coleman	4u30	1b7s:2,3csz:2
+coleman anthony	3da2	
+coleman county	3csz	
+coleman county texas	3csz	
+coleman county tx	3csz	
+coleman hawkins	1b7s	
+coleman randolf hawkins	1b7s	
+coleman randolph hawkins	1b7s	
+coleman report	5f31	
+coleman s hatch	42sj	
+coleman steve	3gfi	
+coleman surname	4u30	
+conspirators	1mdk	1mdk:2,2n3j:2
+david maloney	655n	
+dionisios solomos	5sph	
+dolsi di ferrara	4hja	
+dominykas		4fex:2
+dominykas galkevicius	4fex	
+downington penna	34ra	
+earle	c06	zsr:2,3a6r:2,3y4n:2,4jvp:2,4wql:2,4y9z:2,560p:2,5c6t:3,62p9:2
+earle brown	4y9z	
+earle c clements	4wql	
+earle chester clements	4wql	
+earle christmas grafton page	560p	
+earle clements	4wql	
+earle e		5c6t:3
+earle e partridge	5c6t	
+earle everard partridge	5c6t	
+earle first name	c06	
+earle fox	zsr	
+earle foxe	zsr	
+earle g wheeler	62p9	
+earle gilmore wheeler	62p9	
+earle given name	c06	
+earle h hagen	4jvp	
+earle hagen	4jvp	
+earle hammons	29c7	
+earle hodgins	3a6r	
+earle page	560p	
+earle page jnr	560p	
+earle partridge	5c6t	
+earle r williams	3y4n	
+earle stanley gardner	5xen	
+earle steve	pw0	
+earle thomas	5m6d	
+earle w hammons	29c7	
+earle wheeler	62p9	
+earle wheeler comments	62p9	
+earle williams	3y4n	
+edward finch	541r	
+edward finch diplomat	541r	
+edward finch hatton	541r	
+endometreosis	1eet	
+eupatula	186l	
+evclid	1bsi	
+forcept 1	3548	
+funpause	2539	
+george histman	j0g	
+ghobert castle	1hte	
+gmina kosow		xvs:3
+gmina kosow lacki	xvs	
+gopika	29is	
+guzel hissar	t2s	
+henry hirsch	br9	
+hujiyosida	37za	
+huzioka	30bz	
+huzioka city	30bz	
+huzioka gunma	30bz	
+imprisonment	4goe	
+imprisonment for life	cd8	
+james elmo williams	1n7i	
+james john		3ii5:3
+james john calado	3ppq	
+james john corbett	3ii5	
+james john davies	5jec	
+james john davis	5jec	
+james john gandolfini jr	iis	
+james john kennedy	4qho	
+james john o brien	5yu4	
+james john roosevelt	5tnr	
+james john walker	5ksy	
+jayaprada	ggd	
+john jarratt	2k35	
+john mellenkamp	ihb	
+joncy	2lro	
+kena an	5e3w	
+kerbal	3r5m	3r5m:3
+kerbal space		3r5m:3
+kerbal space program	3r5m	
+khokh khot	pjr	
+la molsosa	45d1	
+lamezia	wfy	wfy:2
+lamezia terme	wfy	
+lanciano	grw	6f7:3
+lanciano calcio	6f7	6f7:3
+lanciano calcio 1920	6f7	
+laqueuille	416c	
+lassila	41g9	
+le roy ladurie emmanuel	2stu	
+le roy mason	2vuv	
+le roy shield	un8	
+le roy stone	1zr7	
+lorcha		1xdk:3
+lorcha l		1xdk:3
+lorcha l orxa	1xdk	
+lourouer		3uk6:3
+lourouer saint		3uk6:3
+lourouer saint laurent	3uk6	
+macedonio		4dba:2
+macedonio melloni	4dba	
+macromia	2koi	
+madgaon	1c2q	
+magellan		eid:6
+magellan and		eid:6
+magellan and chilean antarctic region	eid	
+magellan and chilean antarctica region	eid	
+magellan and chilean antartica region	eid	
+magellan and the		eid:6
+magellan and the chilean		eid:6
+magellan and the chilean antarctic		eid:6
+magellan and the chilean antarctic region	eid	
+magellan ferdinand	27i3	
+magellan film	302v	
+magellan galaxy	1mg0	
+magellan s circumnavigation	27i3	
+magellan s circumnavigation of the world	27i3	
+mantoue	38j	
+marcello	8a6	6jo:2,kv1:2,wt1:2,zc3:2,16wo:2,1qqb:2,20r4:2,28rs:2,2u7m:2,33gy:2,3qmf:2,462r:2,4hif:2,4kp7:2,4o4i:2,4tue:2,4u74:2,546e:2,582v:2,5983:2,5b2r:2,5q3j:2,65ur:2
+marcello agnoletto	5b2r	
+marcello baldi	5q3j	
+marcello benedetto	40u6	
+marcello bertinetti	3qmf	
+marcello caetano	65mx	
+marcello campolonghi	2u7m	
+marcello ciorciolini	20r4	
+marcello cottafava	4u74	
+marcello di falco	5jfo	
+marcello di folco	5jfo	
+marcello fiorentini	5983	
+marcello first name	8a6	
+marcello fondato	16wo	
+marcello gandini	4kp7	
+marcello gatti	zc3	
+marcello gazzola	4tue	
+marcello giombini	wt1	
+marcello giorda	1qqb	
+marcello given name	8a6	
+marcello jose das neves alves caetano	65mx	
+marcello jose das neves caetano	65mx	
+marcello malphigi	4hif	
+marcello malpighi	4hif	
+marcello marchesi	kv1	
+marcello marrocco	546e	
+marcello mastoianni	6jo	
+marcello mastrioanni	6jo	
+marcello mastroianni	6jo	
+marcello mazzarella	65ur	
+marcello mihalic	4o4i	
+marcello mihalich	4o4i	
+marcello montanari	582v	
+marcello pagliero	28rs	
+marcello piacentini	462r	
+marcello trotta	33gy	
+marcello vincenzo domenico mastroianni	6jo	
+matadore	pgh	
+medtner	5hkj	
+megachile	uu	
+mohamadou		43ph:2
+mohamadou abdouraman	4tos	
+mohamadou idrissou	218n	
+mohamadou sissoko	43ph	
+monteneuf	2cfi	
+montpon		2o3i:2
+montpon menesterol	2o3i	
+mrlinkinpark333 sandbox sofie carsten nielsen	5wcw	
+mussolini benito	clb	
+mussolini cup	eos	
+mussolini s invasion of greece	1xwc	
+mussolini the last four days	4s4f	
+mussolini ultimo atto	4s4f	
+nanoro		3a7m:2
+nanoro department	3a7m	
+neredesin firuze	5n5j	
+nhs	537m	
+nhs foundation		li9:3
+nhs foundation hospital	li9	
+nhs foundation hospitals	li9	
+nhs foundation trust	li9	
+nhs foundation trusts	li9	
+nhs foundations trust	li9	
+nhs trust	lnd	
+nhs trusts	lnd	
+nicomedes joaquin	5ym5	
+nicomedes m joaquin	5ym5	
+nicomedes marquez joaquin	5ym5	
+nykobing f	ri0	
+nykobing fa	29fb	
+nykobing falster	ri0	
+nykobing falster alliancen	29fb	
+nykobing fc	29fb	
+nykobing mors	5fb9	
+obstetric	fxv	
+paul fildes	430c	
+paul fridolin		63bw:3
+paul fridolin kehr	63bw	
+pcinjski okrug	4t9a	
+peter mokrosinski	3fqb	
+pleist	383u	
+poages landing	k5b	
+praetorship	558	
+prassiteles	3dkk	
+qinghaitibet railway comments	byz	
+qisariya	45bc	
+radom	9fy	wht:2
+radom county	wht	
+radom poland	9fy	
+raisio	1f26	
+reprezentacija rs	4rc	
+resigned	6hdf	
+robert w		yic:3,1m6s:3,1udk:3,21xa:3,407u:3,4oxn:3,5b8d:3,67wg:3
+robert w anderson	3lp6	
+robert w barker	1dsp	
+robert w bazley	67wg	
+robert w bingham	4k3g	
+robert w chambers	5b8d	
+robert w cort	1m6s	
+robert w crosser	58mt	
+robert w daniel	4ecs	
+robert w daniel jr	4ecs	
+robert w floyd	21xa	
+robert w fogel	1oqs	
+robert w frazer	13pv	
+robert w goodwin	3q9p	
+robert w herrick	5vz5	
+robert w holley	407u	
+robert w kasten jr	68tf	
+robert w kean	4a8o	
+robert w miller	5g5d	
+robert w packwood	57x6	
+robert w paul	yic	
+robert w pohl	4911	
+robert w service	4oxn	
+robert w taylor	2ma4	
+robert w wilson	3gli	
+robert w wood	1udk	
+rohatynskyi raion	3iy5	
+rosen		24um:2,5b5e:2,5s88:2,5z8d:5,68dq:2
+rosen alexander	3m92	
+rosen asenov plevneliev	24um	
+rosen bluhen		5z8d:5
+rosen bluhen auf		5z8d:5
+rosen bluhen auf dem		5z8d:5
+rosen bluhen auf dem heidegrab	3bkv,5z8d	
+rosen charles	26ng	
+rosen emilov	68dq	
+rosen fur bettina	5q1j	
+rosen fur den staatsanwalt	34ik	
+rosen in tirol	32fj	
+rosen kaptiev	5b5e	
+rosen kolev	5s88	
+rosen michael	345w	
+rosen plevneliev	24um	
+rosen resli	2nvy	
+rosen rosenov kolev	5s88	
+rostislavl	4rqh	
+sheika al mayassa bint hamad bin khalifa al thani	2mf0	
+sheika mayassa	2mf0	
+skeena queen charlotte regional district	1pmc	
+skeena queen charlotte regional district british columbia	1pmc	
+skeena regional district	1pmc	
+spheal pokemon	6fjr	
+spirts of st louis	1vj5	
+staden	4pgt	
+staden belgium	4pgt	
+staden mellan broarna	85w	
+staden vid stangan	7yo	
+stanislav	3la	1d52:2,1et2:2,1me1:2,1p0a:2,20kh:2,37bl:2,3cw1:2,3hr3:2,3lca:2,3lj9:2,3mc0:2,3mpl:2,3w6s:2,41hb:2,43kw:2,46sf:2,48ck:2,4a3r:2,4bgq:2,4dkp:2,4eim:2,4fgb:2,4j8t:2,4mvn:2,4n63:2,4rj3:3,4s74:2,4tdu:3,4xna:2,506l:2,50fz:2,53p3:2,561x:2,56ew:2,58bc:2,58j9:2,596w:2,5d1t:2,5n8n:2,5nbc:2,5nbi:2,5pfg:2,5pgc:2,5ri0:2,5scf:2,5t98:2,5uyz:2,5vlh:2,624t:2,65pm:2
+stanislav aleksandrovich khoteyev	4bgq	
+stanislav alekseyevich pozdnyakov	58j9	
+stanislav andreyevich lyubshin	3lj9	
+stanislav bohush	5n8n	
+stanislav bulak balachovic	5tol	
+stanislav bulak balachowicz	5tol	
+stanislav bulak balakhovitch	5tol	
+stanislav chekan	5d1t	
+stanislav cherchesov	1p0a	
+stanislav dragun	31a3	
+stanislav dubrovin	37bl	
+stanislav first name	3la	
+stanislav genchev	4a3r	
+stanislav gilyarovich poplavsky	20kh	
+stanislav given name	3la	
+stanislav gnedko	48ck	
+stanislav govorukhin	1d52	
+stanislav griga	53p3	
+stanislav grof	65pm	
+stanislav gross	3w6s	
+stanislav gurenko	5pgc	
+stanislav gustavovich		4tdu:3
+stanislav gustavovich strumilin	4tdu	
+stanislav hurenko	5pgc	
+stanislav i	2q7f	
+stanislav ii	uz7	
+stanislav ii augustus poniatowski	uz7	
+stanislav ivanov	596w	
+stanislav ivanov footballer born 1980	596w	
+stanislav kalesnik	5uyz	
+stanislav karasi	43kw	
+stanislav khan	5nbc	
+stanislav khoteev	4bgq	
+stanislav khoteyev	4bgq	
+stanislav konstantinovich smirnov	3lca	
+stanislav kosior	58bc	
+stanislav kossior	58bc	
+stanislav kostka		4rj3:3
+stanislav kostka neumann	4rj3	
+stanislav kozyrev	624t	
+stanislav kritsyuk	4xna	
+stanislav kulish	5t98	
+stanislav ledinek	1et2	
+stanislav lem	hx8	
+stanislav leszczynski	2q7f	
+stanislav levy	46sf	
+stanislav liudkevych	5ky8	
+stanislav loban	5nbi	
+stanislav ludkevich	5ky8	
+stanislav ludkevitch	5ky8	
+stanislav lyubshin	3lj9	
+stanislav lyudkevich	5ky8	
+stanislav manolev	3mpl	
+stanislav moravec	5pfg	
+stanislav morozov	506l	
+stanislav murygin	6c01	
+stanislav mykytsey	5vlh	
+stanislav namasco	4dkp	
+stanislav nikadzimav bulak balachovic	5tol	
+stanislav oblast	ih3	
+stanislav pedok	5ri0	
+stanislav petrov	4mvn	
+stanislav piekha	53ov	
+stanislav poplavsky	20kh	
+stanislav pozdniakov	58j9	
+stanislav pozdnyakov	58j9	
+stanislav prins	5ri0	
+stanislav prychynenko	4n63	
+stanislav rostotsky	1me1	
+stanislav rudenko	4s74	
+stanislav sadalskiy	561x	
+stanislav sadalsky	561x	
+stanislav salamovich cherchesov	1p0a	
+stanislav seman	4fgb	
+stanislav sergeyevich govorukhin	1d52	
+stanislav sestak	41hb	
+stanislav shushkevich	4n1t	
+stanislav shuskevitsj	4n1t	
+stanislav smirnov	3lca	
+stanislav stanislavavich shushkevich	4n1t	
+stanislav stanislavovich shushkyevich	4n1t	
+stanislav strumilin	4tdu	
+stanislav strumilin politician	4tdu	
+stanislav tecl	50fz	
+stanislav tischenko	3hr3	
+stanislav tishchenko	3hr3	
+stanislav valeryevich kritsyuk	4xna	
+stanislav varga	56ew	
+stanislav velicky	3cw1	
+stanislav vispianski	49cu	
+stanislav vladimirovich dubrovin	37bl	
+stanislav vladimirovich prichinenko	4n63	
+stanislav vlcek	3mc0	
+stanislav vyspianskii	49cu	
+stanislav yevgrafovich petrov	4mvn	
+stanislav yulianovich chekan	5d1t	
+stanislav yuryevich murygin	6c01	
+stanislav yuryevich sadalsky	561x	
+stanislav zhekov	4eim	
+stanislav zhmakin	5scf	
+stanislav zhuk	4j8t	
+subtle beast	1u07	
+subtle doctor	2ggi	
+subtle knife	6gcs	6gcs:3
+subtle knife audio	6gcs	
+sunnmore	1711	
+symptomology	9u4	
+testaria	1bra	
+tetsushi		4s23:2
+tetsushi tanaka	4s23	
+the architects novel	2m54	
+the corpse		4903:3
+the corpse bride	1mq3	
+the corpse bride soundtrack	1mq3	
+the corpse vanishes	4903	
+the eagle	19nn,1v0l,3mb6,4hpw	to2:4,2o9w:5,3sz2:4,4fca:5,643p:5,65ac:5
+the eagle 1925 film	1v0l	
+the eagle 1959 film	4hpw	
+the eagle 2011 film	19nn	
+the eagle a crime odyssey	3mb6	
+the eagle and		643p:5,65ac:5
+the eagle and the		643p:5,65ac:5
+the eagle and the hawk	643p,65ac	
+the eagle and the hawk 1933 film	643p	
+the eagle and the hawk 1950 film	65ac	
+the eagle has		to2:4
+the eagle has landed	to2	
+the eagle has landed apollo 11	1bgb	
+the eagle has landed film	to2	
+the eagle has landed movie	to2	
+the eagle of		4fca:5
+the eagle of patmos	4eiv	
+the eagle of the		4fca:5
+the eagle of the ninth film	19nn	
+the eagle of the sea	4fca	
+the eagle series	69jh	
+the eagle shooting		3sz2:4
+the eagle shooting heroes	3sz2	
+the eagle shooting heroes dong cheng xi jiu	3sz2	
+the eagle television series	3mb6	
+the eagle tv series	3mb6	
+the eagle with		2o9w:5
+the eagle with two		2o9w:5
+the eagle with two heads	2o9w	
+the hubble telescope	sj2	
+thomas frankland		60gx:3
+thomas frankland 3rd baronet	5t4a	
+thomas frankland lewis	60gx	
+tongzhi		26dk:2
+tongzhi emperor	26dk	
+tongzhi era	26dk	
+tongzhi reign	26dk	
+torticoidea	2ai	
+tourch	3z3x	
+vezzano	4niq	2kva:2,43d4:3
+vezzano ligure	2kva	
+vezzano sul		43d4:3
+vezzano sul crostolo	43d4	
+vezzano tn	4niq	
+vezzano trentino	4niq	
+vinnutsya	9b6	
+vinnutsya ukraine	9b6	
+virtua		3crc:3,3lal:3,5ynt:3
+virtua tennis		3crc:3,3lal:3,5ynt:3
+virtua tennis 2009	3lal	
+virtua tennis 3	5ynt	
+virtua tennis 4	3crc	
+virtua tennis 4 world tour edition	3crc	
+volkrange	ax0	
+yindu	1fw4	
+yshayah	4lya	

@@ -1,0 +1,420 @@
+1973	zl2	es8:4,1ecw:4,2ppf:4,46p2:4,490i:4,6hm1:7
+1973 1974	1cul	
+1973 74		es8:4
+1973 74 bundesliga	1ywv	
+1973 74 cypriot		es8:4
+1973 74 cypriot cup	es8	
+1973 74 cypriot first division	14js	
+1973 74 cypriot second division	1fgp	
+1973 74 cypriot third division	1kpl	
+1973 74 ekstraklasa	4erk	
+1973 74 fuball bundesliga	1ywv	
+1973 74 fussball bundesliga	1ywv	
+1973 ad	zl2	
+1973 all		490i:4
+1973 all africa		490i:4
+1973 all africa games	490i	
+1973 amstel		1ecw:4
+1973 amstel gold		1ecw:4
+1973 amstel gold race	1ecw	
+1973 arab israeli war	fq8	
+1973 arabisraeli war	fq8	
+1973 ce	zl2	
+1973 european		6hm1:7
+1973 european women		6hm1:7
+1973 european women s		6hm1:7
+1973 european women s artistic		6hm1:7
+1973 european women s artistic gymnastics		6hm1:7
+1973 european women s artistic gymnastics championships	6hm1	
+1973 eurovision song contest	pkv	
+1973 invasion of israel	fq8	
+1973 israeli arab war	fq8	
+1973 pacific		2ppf:4
+1973 pacific conference		2ppf:4
+1973 pacific conference games	2ppf	
+1973 rotterdam indoors	rl8	
+1973 super bowl	6gve	
+1973 superbowl	6gve	
+1973 tour		46p2:4
+1973 tour de		46p2:4
+1973 tour de france	46p2	
+1973 year	zl2	
+a crazy		60mo:3
+a crazy night	60mo	
+aegaleo greece	3lxc	
+alaquas	2u6g	
+alexander gretchaninoff	3rci	
+amelda marcos	3iiz	
+amiantos	4mi8	
+antimonious	e71	
+arlen		2117:2
+arlen j specter	2117	
+arlen michael	1zcl	
+arlen richard	d7x	
+arlen specter	2117	
+arlen specter presidential campaign 1996	2117	
+arlen spectre	2117	
+arlen texas	ms9	
+asters	6f61	
+balbronn	2b0l	
+bergicourt	2n5n	
+bhulbhulaiya	5woe	
+bingoal		5bdb:4
+bingoal wb		5bdb:4
+bingoal wb devo		5bdb:4
+bingoal wb devo team	5bdb	
+birjand	1s4h	
+boatmen	2rg	
+boguslaw fryderyk radziwill	51ys	
+boguslaw given name	12p9	
+boguslaw i duke of pomerania	5661	
+boguslaw linda	1elj	
+boguslaw samborski	613i	
+boguslaw sonik	5wwx	
+boguslaw v	3mdf	
+boguslaw v duke of pomerania	3mdf	
+boguslaw viii	65hk	
+boguslaw wyparlo	6bis	
+boguslaw xiii	1oe0	
+boguslaw xiii of pomerania	1oe0	
+boguslaw xiv	2rra	
+boguslaw xiv of pomerania	2rra	
+borovnjak	552m	
+breathing difficulty	35hy	
+breathing light	24qc	
+calleja javier	4194	
+cephalophus	49ea	
+chacktaw indians	6exx	
+chemlon humenne	vn0	
+chemlon hummene	vn0	
+cherynobl	4kst	
+chevincourt	3fgl	
+cihuatlahtoani	6foh	
+colic impression	37qp	
+colic impression on liver	37qp	
+crognaleto	34vf	
+david decesare	uja	
+decalage horaire	4ac1	
+decalage horaire film	4ac1	
+decalage horaire movie	4ac1	
+delays	5fug	
+dkc	1a36,5ga6	
+dkc 2	5ga6	
+eczacbas		3m5i:2
+eczacbas istanbul	3m5i	
+eczacbas vitra	3m5i	
+eczacbas zentiva	3m5i	
+escaping lawful custody	53xp	
+escaping prison	53xp	
+escaping the earth	42az	
+forensics	1r5d	
+forensics science	1r5d	
+frederick kittel	vwb	
+garsden	37ub	
+gaujacq	2upg	
+gleyre charles	pd7	
+gmina miastko	db7	
+gmina rzewnie	152i	
+gmina sadki	1rpx	
+goalposts	6hjc	
+godziesze wielkie commune	12n1	
+goods	cd1,2pih	3fdd:3
+goods economics	2pih	
+goods for		3fdd:3
+goods for catalonia	3fdd	
+goods generally	2pih	
+goods live hard sell hard	18pf	18pf:6
+goods wagon	5l56	
+goods wagons	5l56	
+guthere	478e	
+hagnicourt	42a3	
+hodvasarhely	jrz	
+idries		10gl:2
+idries shah	10gl	
+ismaely sporting club	b09	
+issachar	4569	
+jewes	1jb	
+jkcorden	17u4	
+john roos	49at	
+koiti ishii	5n3g	
+koiti wakata	1dnp	
+konarski stanislaus	5bgd	
+kshb changanacherry	38jx	
+laboissiere		1mfz:3,2d7c:3
+laboissiere en		1mfz:3,2d7c:3
+laboissiere en santerre	2d7c	
+laboissiere en thelle	1mfz	
+laboissiere en thelle france	1mfz	
+lau	29p	
+lau andrew	h3s	
+lau balagnas	2kl7	
+lau cheng wan	p4d	
+lau chi		62vt:3
+lau chi keung	62vt	
+lau ching wai	p4d	
+lau ching wan	p4d	
+lau chung yan damian	4mwi	
+lau dak waa	71h	
+lau juen yee	68i8	
+lau ka fai	11ij	
+lau kar		wso:3
+lau kar leung	wso	
+lau laritzen		fxz:3
+lau laritzen jr	fxz	
+lau lauritzen		2gby:3
+lau lauritzen jr	fxz	
+lau lauritzen senior	2gby	
+lau lauritzen sr	2gby	
+lau lawrence	68i8	
+lau nim		64in:3
+lau nim yat	64in	
+lau purush	2nzk	
+lau shaw	30v4	
+lau sim	2r6k	
+lau suk yee	57da	
+lau tak wah	71h	
+lau wai		3jfl:4
+lau wai hing	3jfl	3jfl:4
+lau wai hing emily	3jfl	
+lau wai keung	h3s	
+lavoine	2o79	
+loudenvielle	4fbg	
+manicheeist	1dhz	
+markov		n5g:2
+markov a a	n5g	
+markov andrei	n5g	
+massenergy		6hbv:2
+massenergy equivalence	6hbv	
+mclennonson books karelia	37jc	
+mclennonson books the districts of norway	4qzb	
+metisse	605v	
+metisse film	605v	
+michael emerson	1ynd	
+michael keller ditka	4e2b	
+michael keller ditka jr	4e2b	
+mogitate no yuutsu	146w	
+monsestin	5512	
+mp3	25if	
+mp3 audio	25if	
+mp3 c	52n6	
+mp3 downloader	25if	
+mp3 encoder	25if	
+mp3 encoding	25if	
+mp3 files	25if	
+mp3 sound	25if	
+mp3 track	25if	
+nectariniidae	68oa	
+neftin	5uyf	
+nobakov	85p	
+oddjob	656r	
+oddjob james bond	656r	
+oddjob s hat	656r	
+oddjob se	656r	
+oldies collection	4iar	
+orenburgskaa oblast	9ao	
+oriano	56qb	
+oxylos	8yg	
+panaetius	2d02	
+panaetius of rhodes	2d02	
+panhg oh panhg goh	sp4	
+paracelsan	3vm0	
+pastaza		3qvq:2
+pastaza province	3qvq	
+pastaza province ecuador	3qvq	
+paulnay	2lt7	
+peter adolf		29yd:3
+peter adolf thiessen	29yd	
+prague	aq	4vd:3,6gz:3,emn:2,hil:2,n2z:2,t2o:6,zob:2,19c7:2,1is0:2,1oaf:2,1w2q:2,1xam:3,2981:3,2aej:2,2jal:2,2oh6:2,2upw:2,2yxe:2,3ha5:2,577j:2
+prague 1	emn	
+prague 1 municipal district	emn	
+prague 10	1oaf	
+prague 2	19c7	
+prague 4	2upw	
+prague 5	1is0	
+prague 6	2jal	
+prague 7	2aej	
+prague 8	1w2q	
+prague 9	2yxe	
+prague academy	qcg	
+prague academy for music	7u0	
+prague academy of fine arts	qcg	
+prague academy of performing arts	7u0	
+prague airport	2wdh	
+prague art academy	qcg	
+prague astronomical		1xam:3
+prague astronomical clock	1xam	
+prague bohemia	aq	
+prague bohemia czech republic	aq	
+prague castle	zob	
+prague castle picture gallery	zob	
+prague cathedral	jjt	
+prague central station	1w3k	
+prague city centre	aq	
+prague city districs	5285	
+prague city districts	5285	
+prague conservatoire	n2z	
+prague conservatorium	n2z	
+prague conservatory	n2z	
+prague conservatory of music	n2z	
+prague czech republic	aq	
+prague czechia	aq	
+prague districts	5285	
+prague east		4vd:3
+prague east district	4vd	
+prague horologe	1xam	
+prague institute of chemical technology	2y3r	
+prague main railway station	1w3k	
+prague masaryk railway station	3so7	
+prague metro	hil	
+prague metro line c	1qaz	
+prague narodni galerie v praze	yv7	
+prague national theater	14p1	
+prague national theatre	14p1	
+prague open	577j	
+prague orloj	1xam	
+prague polytechnic	f62	
+prague polytechnical institute	f62	
+prague railway station	1w3k	
+prague ring	5q59	
+prague ruzyne airport	2wdh	
+prague ruzyne international airport	2wdh	
+prague school of economics	t2o	
+prague school of fine art	qcg	
+prague skate	2oh6	
+prague stock		2981:3
+prague stock exchange	2981	
+prague subway	hil	
+prague theatre	14p1	
+prague tourism	aq	
+prague university	1ky	t2o:6
+prague university of		t2o:6
+prague university of economics	t2o	t2o:6
+prague university of economics and		t2o:6
+prague university of economics and business	t2o	
+prague vaclav havel airport	2wdh	
+prague west		6gz:3
+prague west district	6gz	
+prague zoo	3ha5	
+prague zoological garden	3ha5	
+prince wolrad		38w1:6
+prince wolrad of		38w1:6
+prince wolrad of waldeck		38w1:6
+prince wolrad of waldeck and		38w1:6
+prince wolrad of waldeck and pyrmont	38w1	
+producersguildfilm awardbestsupportingactress	6bsk	
+pvp ventures	5jqx	
+quedillac	1jyn	
+raineval	1sq3	
+robert ii	1nsh,37zg	19om:4,1arb:4,1ht8:4,2g9n:5,3nrf:5
+robert ii archbishop of rouen	22a4	
+robert ii burgundy	1ht8	
+robert ii count		2g9n:5,3nrf:5
+robert ii count of		2g9n:5,3nrf:5
+robert ii count of artois	2g9n	
+robert ii count of dreux	3nrf	
+robert ii count of flanders	37zg	
+robert ii d artois	2g9n	
+robert ii de dreux	3nrf	
+robert ii de normandie	22a4	
+robert ii delaunay	5gpl	
+robert ii dreux	3nrf	
+robert ii duke of burgundy	1ht8	
+robert ii duke of normandy	1nsh	
+robert ii flanders	37zg	
+robert ii france	1arb	
+robert ii king of scotland	19om	
+robert ii king of scots	19om	
+robert ii king of the franks	1arb	
+robert ii latin emperor	4yyn	
+robert ii of		19om:4,1arb:4,1ht8:4
+robert ii of artois	2g9n	
+robert ii of burgundy	1ht8	
+robert ii of dreux	3nrf	
+robert ii of england	1nsh	
+robert ii of flanders	37zg	
+robert ii of france	1arb	
+robert ii of jerusalem	37zg	
+robert ii of normandy	1nsh	
+robert ii of scotland	19om	
+robert ii of taranto	4yyn	
+robert ii scotland	19om	
+robert ii smirke	1tb4	
+robert ii stewart king of scotland	19om	
+robert ii the pious	1arb	
+robert stack	imm	
+roivas	2xsp	
+rotanga	5ysu	
+roucamps	1y9c	
+rustdene western cape	3q13	
+ruud		1yvv:3,2b5w:2,2bn2:2,2m5k:2,2xj8:2,4wtj:3,6e0x:2
+ruud f m lubbers	2b5w	
+ruud frans marie lubbers	2b5w	
+ruud geels	2xj8	
+ruud gullet	2bn2	
+ruud gullit	2bn2	
+ruud gullitt	2bn2	
+ruud hemert	4wtj	
+ruud kaiser	6e0x	
+ruud krol	2m5k	
+ruud lubbers	2b5w	
+ruud van		1yvv:3,4wtj:3
+ruud van hemert	4wtj	
+ruud van nistelrooij	1yvv	
+ruud van nistelrooy	1yvv	
+ruud van nistelroy	1yvv	
+ruud van nistelruij	1yvv	
+saint carlo borromeo	s57	
+san isidro	qq1,2bj3,4gsg	vc7:3,50tv:5,54z0:3
+san isidro alicante	4gsg	
+san isidro bohol	2bj3	
+san isidro buenos aires	qq1	
+san isidro cemetery	vc7	
+san isidro de		50tv:5
+san isidro de el		50tv:5
+san isidro de el general	50tv	
+san isidro laguna	5pec	
+san isidro partido	54z0	
+sechin	3xj6	
+sneaking sally through the alley	6dj3	
+sneaking suit	mpo	
+solis rivera	4hy1	
+sorbia	4eu3	
+sources of law	44m7	
+sources of the nile	ivs	
+southsea	emf	
+southsea common	emf	
+southsea england	emf	
+southsea hampshire	emf	
+southsea pier	emf	
+southsea portsmouth	emf	
+stockhausen	lyp	
+stockhausen syndrome	lyp	
+sval bard	1k3	
+swphila	1wom	
+the de2cent	233w	
+the terminator	qru	
+the terminator 4	us0	
+the terminator film	qru	
+the terminator film series	6ge4	
+the terminator hunters and killers	6ge4	
+the terminator salvation	us0	
+the terminator series	6ge4	
+the terminator soundtrack	qru	
+the wayward		4e04:3,4i0j:3
+the wayward bus	4i0j	
+the wayward bus film	4i0j	
+the wayward wife	4e04	
+thewire	7z1	
+thewire com	5h0w	
+tintoretto	1ca3	
+tintoretto il furioso	1ca3	
+tintoretto jacopo robusti	1ca3	
+torrevella	1acq	
+tubbergen	1lrl	
+tubbergen netherlands	1lrl	
+utopian hope	ysy	
+wankawillka region	c08	
+william perlberg	s6t	
+yorozuya		2j30:2
+yorozuya kinnosuke	2j30	
+zareena moidu	3mg3	

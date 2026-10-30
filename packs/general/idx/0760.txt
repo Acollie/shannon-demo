@@ -1,0 +1,571 @@
+56082	240c	
+698 bce	2ozf	
+abbas	x18	i7s:2,142t:5,1qer:5,1zmf:3,1zt3:2,20ar:5,2gnb:2,3gfa:2,4s4n:3,54fj:3,5goj:2,5t1r:2,5t3s:2,60lm:4,66je:2
+abbas actor	x18	
+abbas aghaei	66je	
+abbas bahri	5goj	
+abbas bassim	4c1b	
+abbas bin abdul mutalib	142t	
+abbas castrensis	yv	
+abbas e		1qer:5,20ar:5
+abbas e gharbi		1qer:5
+abbas e gharbi rural		1qer:5
+abbas e gharbi rural district	1qer	
+abbas e sharqi		20ar:5
+abbas e sharqi rural		20ar:5
+abbas e sharqi rural district	20ar	
+abbas effendi	1vnm	
+abbas helmi 2	2gnb	
+abbas helmi ii	2gnb	
+abbas helmi ii of egypt	2gnb	
+abbas helmy	2gnb	
+abbas helmy ii	2gnb	
+abbas hilmi	2gnb	
+abbas hilmi ii	2gnb	
+abbas hilmi pasha	2gnb	
+abbas i	4s4n	
+abbas i of iran	4s4n	
+abbas i of persia	4s4n	
+abbas i of safavid	4s4n	
+abbas ibn		142t:5,1zmf:3,54fj:3
+abbas ibn abd		142t:5
+abbas ibn abd al		142t:5
+abbas ibn abd al muttalib	142t	
+abbas ibn abdu l muttalib	142t	
+abbas ibn abdul muttalib	142t	
+abbas ibn ali	1zmf	
+abbas ibn farnas	54fj	
+abbas ibn fernas	54fj	
+abbas ibn firnas	54fj	
+abbas ii	2gnb	
+abbas ii hilmi	2gnb	
+abbas ii of egypt	2gnb	
+abbas kiarostami	i7s	
+abbas kiyarostami	i7s	
+abbas mahmoud	2cue	
+abbas meerza	1zt3	
+abbas mirza	1zt3	
+abbas mirza qajar	1zt3	
+abbas mohamed		60lm:4
+abbas mohamed djallal		60lm:4
+abbas mohamed djallal aissaoui	60lm	
+abbas palatinus	yv	
+abbas populi	yv	
+abbas qasim ibn firnas	54fj	
+abbas saad	5t3s	
+abbas saad australian	5t3s	
+abbas souan	5t1r	
+abbas sowan	5t1r	
+abbas sowan israeli striker	5t1r	
+abbas suan	5t1r	
+abbas the		4s4n:3
+abbas the great	4s4n	
+abbas tyrewala	3gfa	
+abndp	1h3h	
+aceology	g46	
+aishwaryarai	id9	
+akeela and the bee	2kak	
+alexander alekhine	14h6	
+aosdana	7dl	
+athlitiki		46r:5
+athlitiki enosi		46r:5
+athlitiki enosi larisas 1964	3e2j	
+athlitiki enosi larissa	3e2j	46r:5
+athlitiki enosi larissa f		46r:5
+athlitiki enosi larissa f c	46r	
+athlitiki enosis konstantinoupoleos	ase	
+babylonia	2vrt	
+babylonia persian province	2vrt	
+barere	672o	
+barere de vieuzac	672o	
+barere de vieuzac bertrand	672o	
+borchardt mark	6du5	
+breiablik		iip:2
+breiablik ubk	iip	
+canny		2xfv:3,3peg:3
+canny sur		2xfv:3,3peg:3
+canny sur matz	2xfv	
+canny sur therain	3peg	
+canturbury	44n	
+canturbury tales	6058	
+caza humana	52cz	
+caza implacable	4jwm	
+chicks		vvc:2
+circobotys	5z4i	
+cuny	3n3	
+cuny baacularate at the graduate center	3n3	
+cuny baruch	3qqq	
+cuny baruch college	3qqq	
+cuny bc	3qqq	
+cuny bernard m baruch college	3qqq	
+cuny bk	2ui	
+cuny bkc	2ui	
+cuny ccny	20b	
+cuny hc	22u	
+cuny hunter college	22u	
+cuny jcc	2fzl	
+cuny jj	2fzl	
+cuny john jay	2fzl	
+cuny john jay college of criminal justice	2fzl	
+cuny lc	1ag2	
+cuny lehman college	1ag2	
+cuny newswire	3n3	
+cuny queens college	3xl	
+cuny queens knights	3xl	
+cz	27bf	
+cz 2f	5gpa	
+cz 2f g	5gpa	
+cz 3b	4e4r	
+cz 75	2xu4	
+cz 75 b	2xu4	
+cz 75 compact	2xu4	
+cz 75 sp 01 shadow	2xu4	
+cz 75 tactical sports orange	2xu4	
+cz 75b	2xu4	
+cz 97	2xu4	
+cz 97 b	2xu4	
+cz codreanu	61ya	
+cz model 75	2xu4	
+cz p 09	2xu4	
+cz records	1d42	
+cz sp 01	2xu4	
+cz vz 75	2xu4	
+dangu	23qi	
+dangu eure	23qi	
+david stockton	39jq	
+delincourt	2b9x	
+denizli	isz	b5u:2,3wmt:4
+denizli b		3wmt:4
+denizli b s		3wmt:4
+denizli b s k	3wmt	
+denizli belediyespor	3wmt	
+denizli ili	b5u	
+denizli ladik	isz	
+denizli province	b5u	
+denizli turkey	isz	
+dilepton	6enb	
+eninho	2qo1	
+escacena		2tw4:3
+escacena del		2tw4:3
+escacena del campo	2tw4	
+escacena del campo huelva	2tw4	
+escacena del campo spain	2tw4	
+euvrilletta	6dad	
+fc haarlem	80a	
+filmerian	5f6f	
+frederickoenigia	w7	
+gaborone	e85	69fh:4
+gaborone botswana	e85	
+gaborone private hospital	e85	
+gaborone united	69fh	69fh:4
+gaborone united s		69fh:4
+gaborone united s c	69fh	
+gardawski michael	466g	
+gemeng beetebuerg	3r06	
+gmina czlopa	w5a	
+gmina krzywcza	6efu	
+gmina ozimek	1fn5	
+gowhati	aa8	
+greenisms	jvm	
+grinspoon	1gr4	
+hurling	14y	
+hurling all irelands	8p2	
+hurling championships	8p2	
+hurling sport	14y	
+improbable adventures of italians in russia	40rt	
+iraq	ge	2pu:2,41a:6,emv:3,ux2:6,1nd3:6
+iraq 2003	2pu	
+iraq air force	28z5	
+iraq al ajam	1efx	
+iraq and the levant	51lh	
+iraq armed forces	3d3m	
+iraq army	3cbq	
+iraq at the 1978 asian games	m7r	
+iraq civil war 2014 17	10jr	
+iraq civil war 2014 present	10jr	
+iraq civil war 2014present	10jr	
+iraq fa cup championship	3rod	
+iraq fa first division	3rod	
+iraq fa league championship	3rod	
+iraq fa premier league	3rod	
+iraq football	41a	
+iraq football league	emv	
+iraq governing council	69gr	
+iraq in the quran	o7x	
+iraq interim governing council	69gr	
+iraq invasion	2pu	
+iraq invasion 2003	17kv	
+iraq iran war	976	
+iraq men		41a:6
+iraq men s		41a:6
+iraq men s national		41a:6
+iraq men s national football		41a:6
+iraq men s national football team	41a	
+iraq military football team	3wu7	
+iraq national		ux2:6,1nd3:6
+iraq national football team	41a	
+iraq national under		ux2:6,1nd3:6
+iraq national under 20		1nd3:6
+iraq national under 20 football		1nd3:6
+iraq national under 20 football team	1nd3	
+iraq national under 23		ux2:6
+iraq national under 23 football		ux2:6
+iraq national under 23 football team	ux2	
+iraq national under 23 team	ux2	
+iraq olympic football team	ux2	
+iraq premier league	emv	
+iraq s provinces	39cn	
+iraq soccer	41a	
+iraq stars		emv:3
+iraq stars league	emv	
+iraq super league	emv	
+iraq under 20 national football team	1nd3	
+iraq under 23 national football team	ux2	
+iraq under ba ath party rule	3g6v	
+iraq war	2pu	
+iraq war 1991	383	
+iraq war 2003	2pu	
+iraq war 2013 present	10jr	
+iraq war 2013present	10jr	
+iraq war 2014 present	10jr	
+isaacson arizona	1cbe	
+isaacson walter	2jug	
+isenburg horb	3c90	
+it8 8	1ddo	
+jacksonmania	ekp	
+jean christophe	qla	15e2:3,15vf:3,281x:3,3sm9:3,3zkb:3,4mgk:3,4o3s:3,4oni:3,5j2u:3,5vth:3
+jean christophe averty	5j2u	
+jean christophe bahebeck	3zkb	
+jean christophe beck	950	
+jean christophe bouvet	15e2	
+jean christophe devaux	4mgk	
+jean christophe first name	qla	
+jean christophe given name	qla	
+jean christophe grange	4oni	
+jean christophe peraud	281x	
+jean christophe rufin	3sm9	
+jean christophe vergerolle	5vth	
+jean christophe victor	4o3s	
+jean christophe yoccoz	15vf	
+johanna	3vm	1pqq:2,1pvq:2,1ql0:2,212r:3,28gs:2,2ikv:2,2k8c:5,2rer:2,3795:5,3i8n:2,3nfm:2,3q6r:2,41xu:2,46u4:2,47ix:2,4mwx:2,4xba:2,4xh9:3,5exe:5,5y91:3,5z7l:2,61fl:2,66f5:2,66q6:2,6cao:3,6fzs:4
+johanna argan	2lbi	
+johanna bauer stumpff	4xas	
+johanna braddy	41xu	
+johanna cassidy	uia	
+johanna charlotte von anhalt dessau	2ux6	
+johanna conta	2rer	
+johanna d		5exe:5
+johanna d arc		5exe:5
+johanna d arc of		5exe:5
+johanna d arc of mongolia	5exe	
+johanna e braddy	41xu	
+johanna elisabeth	358x	3795:5
+johanna elisabeth of		3795:5
+johanna elisabeth of baden		3795:5
+johanna elisabeth of baden durlach	3795	
+johanna elisabeth of holstein gottorp	358x	
+johanna elisabeth smit	4vm5	
+johanna elisabeth von schleswig holstein gottorp	4jza	
+johanna enlists	47ix	
+johanna eva braddy	41xu	
+johanna first name	3vm	
+johanna friederike charlotte dorothea eleonore von puttkamer	6cao	
+johanna gesina gogh bonger	6fzs	
+johanna gesina van gogh bonger	6fzs	
+johanna gezina van gogh bonger	6fzs	
+johanna given name	3vm	
+johanna gnoteck	2y5p	
+johanna hannah arendt	erh	
+johanna hiedler	46u4	
+johanna hofer	28gs	
+johanna kinkel	5z7l	
+johanna knoteck	2y5p	
+johanna koczian	5y91	
+johanna konig	4xba	
+johanna konig hock	4xba	
+johanna konta	2rer	
+johanna kustannus	1pvq	
+johanna kustannus oy	1pvq	
+johanna larsson	2ikv	
+johanna larsson tennis	2ikv	
+johanna louise heusser	1ql0	
+johanna magdalena		2k8c:5
+johanna magdalena of		2k8c:5
+johanna magdalena of hanau lichtenberg	4983	
+johanna magdalena of saxe		2k8c:5
+johanna magdalena of saxe altenburg	2k8c	
+johanna magdalene of hanau lichtenberg	4983	
+johanna maria lind	1npr	
+johanna maria magdalena ritschel	3qaw	
+johanna mathieux kinkel	5z7l	
+johanna matz	3nfm	
+johanna mockel	5z7l	
+johanna neumann	4dv9	
+johanna of austria grand duchess of tuscany	twr	
+johanna of bavaria	2314	
+johanna of bavaria queen of bohemia	2314	
+johanna of hainault	53e4	
+johanna of naples	2cb3	
+johanna of nassau dillenburg	3dsn	
+johanna of pfirt	4vhq	
+johanna persson	4mwx	
+johanna poelzl	46u4	
+johanna polzl	46u4	
+johanna rasmussen	66q6	
+johanna sibelius	1pqq	
+johanna sigurardottir	3i8n	
+johanna sigurdardottir	3i8n	
+johanna sigurdardsottir	3i8n	
+johanna siguroardottir	3i8n	
+johanna sophia of bavaria	233q	
+johanna spyri	1ql0	
+johanna stachel	66f5	
+johanna stumpff	4xas	
+johanna ter		4xh9:3
+johanna ter steege	4xh9	
+johanna van		6fzs:4
+johanna van brabant	5l83	
+johanna van castilie	zb4	
+johanna van gogh		6fzs:4
+johanna van gogh bonger	6fzs	
+johanna van leeuwen	5cle	
+johanna van valois	17tm	
+johanna von		212r:3,5y91:3,6cao:3
+johanna von bismarck	6cao	
+johanna von caemmerer	4dv9	
+johanna von gogh bonger	6fzs	
+johanna von koczian	5y91	
+johanna von pfirt	4vhq	
+johanna von puttkamer	6cao	
+johanna von puttkammer	6cao	
+johanna von trapp	212r	
+johanna von westphalen	2vte	
+johanna wanka	3q6r	
+johanna wokalek	61fl	
+john hartford	o6z	
+jonvelle	1r0n	
+joong ang university	9or	
+joong gu seoul	1lf0	
+joong hoon park	39ft	
+justifiedtv	1nes	
+karlshamn	2kzo	1oa7:2
+karlshamn municipality	1oa7	
+katanes	1s8u	
+khufu	uba	
+khufu of egypt	uba	
+khufu pharaoh	uba	
+khufu pyramid complex	6h4i	
+kurdukan	dsq	
+la vida		5s6f:5,5sft:5
+la vida de		5s6f:5
+la vida de adele	mar	
+la vida de agustin lara	4yzg	
+la vida de carlos		5s6f:5
+la vida de carlos gardel	5s6f	
+la vida empieza		5sft:5
+la vida empieza a		5sft:5
+la vida empieza a medianoche	5sft	
+la vida nocturna	395n	
+la vida secreta de las palabras	2ny9	
+leena	pg6	2ht2:2,3vgn:3
+leena chandavarkar	2ht2	
+leena first name	pg6	
+leena given name	pg6	
+leena palotie	3vgn	
+leena peltonen	3vgn	3vgn:3
+leena peltonen palotie	3vgn	
+linsoumis	4qfp	
+lorai	15vx	
+louis stokes	49h2	
+louvaine	33z	
+lymphohistiocytosis	6awp	
+maennedorf	10w5	
+maennedorf switzerland	10w5	
+maennedorf zh	10w5	
+maennedorf zuerich	10w5	
+maennedorf zurich	10w5	
+maha		rai:2,1gsb:3
+maha ammat nayok	14wz	
+maha ativeer	4c95	
+maha bharat	7ze	
+maha bharath	7ze	
+maha chakri princess of thailand	2374	
+maha chakri sirindhorn	2374	
+maha chakri sirindhorn princess of thailand	2374	
+maha lakshmi	6fss	
+maha sarakham	rai	
+maha sarakham province	rai	
+maha sarakham province thailand	rai	
+maha vajiralongkorn	1662	
+maha vajiralongkorn bodindradebayavarangkun	1662	
+maha vajiralongkorn crown prince of thailand	1662	
+maha vajiralongkorn the crown prince of thailand	1662	
+maha vir		1gsb:3
+maha vir chakra	1gsb	
+malinosky	orw	
+marama		5876:2
+marama vahirua	5876	
+mas alla de la cuarta dimension	4qwn	
+mas alla de la ley	4165	
+mas cabardes	41l1	
+mas canciones	6gkj	
+mas colell	1jd4	
+mas d		1ua0:3,2hgz:3
+mas d auvignon	2hgz	
+mas d azil	1h0a	
+mas d orcieres	1ua0	
+mas de		2i8k:3,4hf0:3
+mas de barberans	4hf0	
+mas de londres	2i8k	
+mas des		3wk6:3
+mas des cours	3wk6	
+mas fes	o0q	
+mas fez	o0q	
+mas g o y a	5jho	
+mas golden boutiques	34yv	
+mas golden boutiques sdn bhd	34yv	
+mas grenier	23o6	
+mas ipsp	617s	
+mas malaysia airlines	34yv	
+mas oyama	15h9	
+mas oyama kyokushin karate	15h9	
+mas saintes		1ng5:3
+mas saintes puelles	1ng5	
+mas scholars graduating class of 2010	iyt	
+mas seleymoo	2aex	
+mas sistem penerbangan malaysia berhad	34yv	
+mas ud barzani	3mvy	
+megh nad saha	4z48	
+megh saha	4z48	
+mergentheim	msn	
+misnia	955	
+mujib ur rahman	1z4k	
+n5156h	65jc	
+nakatsu	1kbc	
+nakatsu oita	1kbc	
+nakatsu shi	1kbc	
+nesna	299j	299j:2
+nesna municipality	299j	
+nesna village	299j	
+nikopolidis	4phs	
+nitrum	160	
+norbertines	1q51	
+novinha	5hig	
+oco	4p9y	
+oco 88	16u	
+oco iso code	3day	
+octa unit	y1b	
+oobermind	34ht	
+orbost	1fmp,698u	1fmp:3
+orbost line	1fmp	
+orbost railway		1fmp:3
+orbost railway line	1fmp	
+orbost railway line victoria	1fmp	
+orbost victoria	698u	
+otitidae	a92	
+perletto	43fs	
+peter kornfeld	1m2o	
+phoxopteris	2nik	
+pradons	3vkc	
+prudnicki	2wwv	
+pseudoquasimetric space	4sv1	
+purist edit	dtt	
+qaen		lks:3
+qaen rural		lks:3
+qaen rural district	lks	
+ranorchis	4yz	
+regresa a mi	5svd	
+regresa a mi toni braxton song	5svd	
+resundbanan	51y3	
+rowhome	52i5	
+schlettstadt	f6h	
+shapingba	2zl0	2zl0:2
+shapingba district	2zl0	
+shizuka		mqi:2,4k0j:2,652h:2
+shizuka inoh	3ve2	
+shizuka ito	652h	
+shizuka itoh	652h	
+shizuka itou	652h	
+shizuka kimura	mqi	
+shizuka kudo	mqi	
+shizuka yamamoto	4k0j	
+shucko	gpb	
+sickert	2pet,5n80	
+sickert haut rhin	2pet	
+soulignac	3770	
+st clotilda	4bq9	
+staroste	1a9o	
+stenocarpus	5vk9	
+suat		45su:2,4h0e:2,4ib9:2,5bxw:2,5nk3:2
+suat atalik	4h0e	
+suat atalk	4h0e	
+suat kaya	4ib9	
+suat mamat	5bxw	
+suat tuerker	45su	
+suat turker	45su	
+suat usta	5nk3	
+sulpor	fsb	
+tanerdy	96x	
+tatea	6d8p	
+tchihatchev	62ap	
+tenjimbashisuji		5d7e:3
+tenjimbashisuji 6 chome station	5d7e	
+tenjimbashisuji roku chome station	5d7e	
+tenjimbashisuji rokuchome		5d7e:3
+tenjimbashisuji rokuchome station	5d7e	
+the dictionary		1bfd:5
+the dictionary of		1bfd:5
+the dictionary of australasian		1bfd:5
+the dictionary of australasian biography	1bfd	
+the dictionary of national biography	2d4	
+the dictionary of welsh biography down to 1940	1fql	
+the learing company	rap	
+thivai	1lec	
+toku		1gnm:2,4526:2
+toku hime	1gnm,4526	
+toku hime 1565 1615	1gnm	
+toku hime 15651615	1gnm	
+toku made	14ve	
+tokurei shi	11vf	
+tulette	1tdd	
+tylolasius	1fng	
+u8	2bg9	
+u8 berlin	2bg9	
+u8 berlin u bahn	2bg9	
+u8 munich u bahn	bby	
+unversite libre de bruxelles	9hw	
+veijeany christopher samba	45gy	
+venazeula	8u	
+vidouville	3o1w	
+violinmaker	70a	
+volcanic		avl:2,erq:3,s2i:2,10so:2
+volcanic activity	2f7	
+volcanic aerosols	2f7	
+volcanic axis of central america	3w0e	
+volcanic caldera	6a7p	
+volcanic crater		erq:3
+volcanic crater lake	erq	
+volcanic eruption	10so	
+volcanic eruptions	10so	
+volcanic eruptions film company	kws	
+volcanic hot spot	1o2q	
+volcanic hotspot	1o2q	
+volcanic island	s2i	
+volcanic islands	s2i	
+volcanic isles	4o	
+volcanic lake	erq	
+volcanic mountain	2f7	
+volcanic rock	avl	
+volcanic rocks	avl	
+volcanic shield	llh	
+volcanic vents	2f7	
+vorparlament	5fou	
+waxtrax	ecx	
+whips office	61bz	
+wierzchosawice commune	1uc7	
+winvice	6cbx	
+wmra world mountain trophy	5lq2	
+xert	2ibx	
+xert chert	2ibx	
+zaili 2nd prince chun	1ur2	
+zaili prince chun	1ur2	

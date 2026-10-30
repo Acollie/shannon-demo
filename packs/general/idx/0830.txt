@@ -1,0 +1,953 @@
+adapted screenplay	dq	
+adapted swimming	3zw6	
+afrahrot	1is2	
+agematsu noriyasu	5inp	
+alexander ovetchkin	29tu	
+appalachians	5ec	
+arp	f02	
+arp aslan	38or	
+asif		10ql:2,2qor:2,4705:3
+asif a zardari	4705	
+asif ali	10ql,4705	4705:3
+asif ali actor	10ql	
+asif ali zardari	4705	
+asif jah	5bmh	
+asif jahi dynasty	5bmh	
+asif kapadia	2qor	
+asif zardari	4705	
+asif zirdari	4705	
+autbert	1dh3	
+bakharz		1wev:3
+bakharz rural		1wev:3
+bakharz rural district	1wev	
+baye	32hz,3wdq	2ttx:3
+baye djiby		2ttx:3
+baye djiby fall	2ttx	
+baye fall	2ttx	
+baye finistere	3wdq	
+baye marne	32hz	
+bezzerides	3c0c	
+blogging software	dhc	
+bloomie	vzq	
+carces	2ar6	
+chatillonais labordillois	3jo4	
+chaw	9g1	
+commandite		j15:2
+commandite company	j15	
+coupesarte	25cr	
+crescentic dunes	2rtr	
+decouple duplicate discriminate	tav	
+derlei	363l	
+digat	1dtr	
+eaglerock california	4tc4	
+erftstadt	2sc3	
+eyne	1hcy	
+fabaceous	3dd	
+fc strizkov praha	gvn	
+fc strizkov praha 9	gvn	
+flexible packaging	547r	
+flexible plastic	14ja	
+frass ratron	rpv	
+fringe	85m	1pph:3,1seg:3,23fw:3,2icx:3,4tve:3
+fringe comics	85m	
+fringe rush	15i2	
+fringe s3	1seg	
+fringe s4	23fw	
+fringe season		1pph:3,1seg:3,23fw:3,2icx:3,4tve:3
+fringe season 1	2icx	
+fringe season 2	1pph	
+fringe season 3	1seg	
+fringe season 4	23fw	
+fringe season 5	4tve	
+fringe series	85m	
+fringe show	85m	
+fringe tree	15f6	
+fringe tv	85m	
+fringe tv series	85m	
+fringe tv show	85m	
+gala	63k3	63k3:2
+gala brand	55yv	
+gala dali	63k3	
+gala eluard	63k3	
+gala eluard dali	63k3	
+gala placida	3yab	
+gala screening	7z7	
+gala star wars	6hq7	
+garraf	2prb	
+george friderich handel	7g5	
+gnatta	3h30	
+grissin bon reggio emilia	t79	
+guadacanal	de8	
+guadalcanar	de8	
+hanau	6ba	2f55:3
+hanau central		2f55:3
+hanau central station	2f55	
+hanau germany	6ba	
+hanau hauptbahnhof	2f55	
+hanau hbf	2f55	
+hanau main station	2f55	
+hanau unrra displaced persons camp	6ba	
+hanau wolfgang	6ba	
+hanvec	29da	
+harlingennieuweschans		1l8d:2
+harlingennieuweschans railway	1l8d	
+hegdorn	17il	
+henry colburn	3qg7	
+higor		5ywr:2
+higor coimbra	5ywr	
+higor de sales coimbra	5ywr	
+holander	4g53	
+idoli	27xr	
+investigations	2abt	
+investigations star trek voyager	2abt	
+investigations voy	2abt	
+investigations voyager episode	2abt	
+ioulia pakhalina	5iwl	
+james olson	54o0	
+james olson actor	54o0	
+jean bartik	5by5	
+jurek		2lyt:2
+jurek becker	2lyt	
+keratosis	426a	
+kraljevic marko	67xi	
+kraljevic marko prince	67xi	
+la bridoire	28ph	
+la plante productions	4f0r	
+le mensonge de nina petrovna	4p6l	
+lfred	ys5	
+lfred ling	2efm	
+lfred theling	2efm	
+liquidfinale future this side of the truth	kcj	
+mantidae	pyl	
+maroune fellaini	2l59	
+masane		33dz:2
+masane tsukayama	33dz	
+mokp o	1wuh	
+montmachoux	33gh	
+mrncc	ptt	
+mrradha	3kpp	
+murtaz		49mo:2
+murtaz kalistratovich khurtsilava	49mo	
+murtaz khurtsilava	49mo	
+mynor		3vzw:2
+mynor escoe	3vzw	
+mynor javier escoe miller	3vzw	
+neoclassism	5bm	
+niiza	1jxq	
+niiza japan	1jxq	
+niiza saitama	1jxq	
+obote apollo	5dhe	
+parnac	1xun,3c4h	
+parnac indre	1xun	
+parnac lot	3c4h	
+partire	3qh0	
+paul pless	iea	
+pentagaon	131v	
+permament diplomatic mission	2k7	
+peter ofori		3t7p:3
+peter ofori quaye	3t7p	
+phrudura	61i7	
+piegaro	2e1u	
+pithecus	4d07	
+playstation3	pw	
+policyed	2chv	
+preuen berlin	37mi	
+preuen munster	6n4	
+ramnath jeetah trust	4gr7	
+ramnath jeetah trust operating as the university of wolverhampton mauritius branch campus	4gr7	
+ramon		4n2:3,o4o:2,1ohm:3,1qm4:2,1sfs:2,1tyd:2,1xlu:3,24cn:2,2jj5:2,2kv8:2,2lr0:3,2y9a:2,2zly:2,35sl:3,3aw7:2,3dpa:6,3gpl:2,3hni:2,3nl2:8,3t7o:2,3ukq:2,3xtd:2,3xud:2,3xwz:3,409h:3,40xy:2,41e5:2,41tp:2,43nq:3,470e:8,48t1:2,49cg:3,49wk:2,4a32:2,4d5h:2,4ds4:3,4esr:6,4fsc:3,4h1b:4,4hx8:2,4its:2,4kd5:2,4kwx:2,4l5f:4,4plj:2,4sih:6,4wvz:5,5095:2,55lu:3,58cm:6
+ramon alfredo sanchez	2zly	
+ramon angel diaz	2jj5	
+ramon antonio gerardo estevez	803	
+ramon barea	5l72	
+ramon berenguer		1xlu:3,3dpa:6,4esr:6,55lu:3,58cm:6
+ramon berenguer ii	3dpa	3dpa:6
+ramon berenguer ii count		3dpa:6
+ramon berenguer ii count of		3dpa:6
+ramon berenguer ii count of barcelona	3dpa	
+ramon berenguer ii of barcelona	5h8n	
+ramon berenguer iii	55lu	58cm:6
+ramon berenguer iii count		58cm:6
+ramon berenguer iii count of		58cm:6
+ramon berenguer iii count of barcelona	55lu	
+ramon berenguer iii count of provence	58cm	
+ramon berenguer iii of barcelona	55lu	
+ramon berenguer iv	1xlu	4esr:6
+ramon berenguer iv count		4esr:6
+ramon berenguer iv count of		4esr:6
+ramon berenguer iv count of barcelona	1xlu	
+ramon berenguer iv count of provence	4esr	
+ramon berenguer iv of barcelona	1xlu	
+ramon berenguer iv of provence	4esr	
+ramon berenguer v	4esr	
+ramon berenguer v count of provence	4esr	
+ramon blanco		4fsc:3
+ramon blanco rodriguez	4fsc	
+ramon bong revilla jr	2kv8	
+ramon cabrero	4d5h	
+ramon caldere	49wk	
+ramon carande	41e5	
+ramon carande thovar	41e5	
+ramon cardozo	4kd5	
+ramon casas		3nl2:8,470e:8
+ramon casas and		3nl2:8,470e:8
+ramon casas and pere		3nl2:8,470e:8
+ramon casas and pere romeu		3nl2:8,470e:8
+ramon casas and pere romeu in		3nl2:8
+ramon casas and pere romeu in an		3nl2:8
+ramon casas and pere romeu in an automobile	3nl2	
+ramon casas and pere romeu on		470e:8
+ramon casas and pere romeu on a		470e:8
+ramon casas and pere romeu on a tandem	470e	
+ramon castro		5j0a:3
+ramon castro cuban revolutionary	5j0a	
+ramon castro ruz	5j0a	
+ramon castroviejo	5v3c	
+ramon castroviejo briones	5v3c	
+ramon d		4sih:6
+ramon d abadal		4sih:6
+ramon d abadal i		4sih:6
+ramon d abadal i de		4sih:6
+ramon d abadal i de vinyals	4sih	
+ramon da		5xg0:4
+ramon da silva		5xg0:4
+ramon da silva ramos	5xg0	
+ramon dabadal i de vinyals	4sih	
+ramon de		43nq:3,66r8:3
+ramon de algeciras	66r8	
+ramon de quintana	43nq	
+ramon del rio mercader	3hni	
+ramon del valle inclan	4wvz	
+ramon diaz	2jj5	
+ramon diaz de la escosura	4hdf	
+ramon estevez	3ukq	
+ramon estevez jr	3ukq	
+ramon felipe alvarez del rey	1pvp	
+ramon felipe san juan mario silvio enrico smith heartcourt brace sierra y alvarez del rey y de los uerdes	1pvp	
+ramon fernandez footballer	4ds4	
+ramon fernando nunez reyes	2y9a	
+ramon franco	35sl	35sl:3
+ramon franco bahamonde	35sl	
+ramon garay	1tyd	
+ramon gay	24cn	
+ramon gerardo antonio estevez	803	
+ramon gomez		1ohm:3
+ramon gomez valdes	1ohm	
+ramon gonzalez	65j6	3xwz:3
+ramon gonzalez athlete	65j6	
+ramon gonzalez exposito	3xwz	
+ramon hicks	41tp	
+ramon ignacio		4ds4:3
+ramon ignacio fernandez	4ds4	
+ramon ismael medina bello	49cg	
+ramon ivanovich lopez	3hni	
+ramon j garay	1tyd	
+ramon j velasquez	5nh0	
+ramon jose		5nh0:3
+ramon jose velasquez	5nh0	
+ramon jose velasquez mujica	5nh0	
+ramon lentini	4plj	
+ramon llull	1sfs	
+ramon llull university	42ou	
+ramon llull works	1sfs	
+ramon luis ayala rodriguez	ncd	
+ramon luis estevez	3ukq	
+ramon lull	1sfs	
+ramon magsaysay	3xtd	4n2:3
+ramon magsaysay award	4n2	
+ramon magsaysay award foundation	4n2	
+ramon magsaysay awards	4n2	
+ramon magsaysay awards foundation	4n2	
+ramon magsaysay foundation	4n2	
+ramon maradiaga	5r66	
+ramon margalef	5yto	
+ramon margalef i lopez	5yto	
+ramon maria		4wvz:5
+ramon maria caldere	49wk	
+ramon maria del		4wvz:5
+ramon maria del valle		4wvz:5
+ramon maria del valle inclan	4wvz	
+ramon maria del valle inclan y de la pena	4wvz	
+ramon maso	5ac0	
+ramon maso vallmajo	5ac0	
+ramon medina		49cg:3
+ramon medina bello	49cg	
+ramon menendez		2lr0:3
+ramon menendez pidal	2lr0	
+ramon menezes	1qm4	
+ramon menezes hubner	1qm4	
+ramon mercader	3hni	
+ramon mercado	3hni	
+ramon mercador	3hni	
+ramon mifflin	48t1	
+ramon montesinos	4a32	
+ramon morales	5coa	
+ramon muller	5vei	
+ramon muttis	3t7o	
+ramon navarro	o4o	
+ramon novarro	o4o	
+ramon nunez	2y9a	
+ramon osni		4l5f:4
+ramon osni moreira		4l5f:4
+ramon osni moreira lage	4l5f	
+ramon peon	4hx8	
+ramon pereda	3aw7	
+ramon pereira	3gpl	
+ramon pereira gomez	3gpl	
+ramon pidal	2lr0	
+ramon quiroga	5095	
+ramon ramirez	4kwx	
+ramon ramirez footballer	4kwx	
+ramon revilla	2kv8	
+ramon revilla jr	2kv8	
+ramon reyes	2y9a	
+ramon rivera	2cpi	
+ramon rodrigo		4h1b:4
+ramon rodrigo de		4h1b:4
+ramon rodrigo de freitas	4h1b	
+ramon rodriguez	5i6n	
+ramon rodriguez actor	5i6n	
+ramon ros	5fbv	
+ramon ros badia	5fbv	
+ramon ruiz		5dcg:3
+ramon ruiz alonso	5dcg	
+ramon samaniego	o4o	
+ramon samaniegos	o4o	
+ramon sanchez	2zly	
+ramon sanchez gomez	66r8	
+ramon sheen	3ukq	
+ramon sinkeldam	40xy	
+ramon soria	4its	
+ramon torrado	3xud	
+ramon tremosa	5uw9	5uw9:4
+ramon tremosa i		5uw9:4
+ramon tremosa i balcells	5uw9	
+ramon valdes	1ohm	
+ramon valdez	1ohm	
+ramon valle inclan	4wvz	
+ramon velasquez	5nh0	
+ramon victor		409h:3
+ramon victor castro	409h	
+ramon wilson	4g2r	
+ramon xirau	5hak	
+ramon y cajal	1p3o	
+reauville	2o5u	
+robert vaught	5hob	
+roberto	32,3j1e	j4j:2,jqv:2,lqn:2,okn:2,wel:2,xcq:2,11xa:2,14xa:2,160p:2,16eg:2,17yp:2,18la:2,18si:2,19nx:2,1blb:2,1bte:2,1g8j:2,1ltq:2,1rhd:2,1urv:2,1vvd:2,1xtu:2,1ypl:2,21qn:3,22w3:2,26p8:2,27ie:2,29gl:3,2dy5:3,2e5t:2,2fo2:2,2fzb:2,2h4s:2,2itz:2,2krq:2,2p58:2,2pe0:2,2qha:3,2qui:2,2r00:3,2r0l:2,2s3e:2,2tb2:2,2wdk:3,2xrm:3,2ytn:2,2z15:2,2zfa:4,2zoi:2,31xq:2
+roberto aballay	3yk8	
+roberto abbondanccieri	2e5t	
+roberto abbondancieri	2e5t	
+roberto abbondanzieri	2e5t	
+roberto acuna	22w3	
+roberto aguirre	5nnx	21qn:3
+roberto aguirre sacasa	21qn	
+roberto aguirre sasca	21qn	
+roberto airaldi	14xa	
+roberto alfonso delgado	47p0	
+roberto alfonso farrell	6fn9	
+roberto alfredo perfumo	2zoi	
+roberto amoroso	4d8t	
+roberto andrade		5907:3
+roberto andrade silva	5907	
+roberto antonelli	47yl	
+roberto antonio sebastian matta echaurren	4y51	
+roberto anzolin	4eoq	
+roberto aquirre sacasa	21qn	
+roberto assis	3rqs	
+roberto ayala	2krq	
+roberto ayza	5bxj	
+roberto baggio	26p8	
+roberto baronio	2s3e	
+roberto bartini	5xga	
+roberto batres	50cm	
+roberto batres diaz	50cm	
+roberto bellarmina	50n9	
+roberto bellarmine	50n9	
+roberto bellarmino	50n9	
+roberto benigni	okn	
+roberto benini	okn	
+roberto bergamaschi	5ha1	
+roberto bergamaschi footballer	5ha1	
+roberto beshe	5odt	
+roberto bianchi		2qha:3
+roberto bianchi montero	2qha	
+roberto biffi	4lhu	
+roberto bisacco	4yt3	
+roberto bisconti	46et	
+roberto blanco	1vvd	
+roberto blanco actor	1vvd	
+roberto bolano	1bte	
+roberto bolano avalos	1bte	
+roberto bolano comments	1bte	
+roberto bolanos	1fdu	
+roberto bonano	3uds	
+roberto boninsegna	2ytn	
+roberto bordin	5maa	
+roberto breda	51ja	
+roberto brown	3b6t	
+roberto brum	530t	
+roberto brum footballer born 1983	530t	
+roberto cabanas	27ie	
+roberto cabral	5wee	
+roberto calmon		4533:3
+roberto calmon felix	4533	
+roberto camardiel	wel	
+roberto canedo	19nx	
+roberto canuto	2wdk	
+roberto cardinale	4fyn	
+roberto carlos	18la,2fo2	560m:3
+roberto carlos abbondanzieri	2e5t	
+roberto carlos braga	2fo2	
+roberto carlos brazilian footballer	18la	
+roberto carlos cortes	560m	
+roberto carlos da silva	18la	
+roberto carlos da silva rocha	18la	
+roberto carlos football	18la	
+roberto carlos football player	18la	
+roberto carlos footballer	18la	
+roberto carlos pato abbondanzieri	2e5t	
+roberto carlos singer	2fo2	
+roberto carlos sosa	4fnz	
+roberto carnaghi	1ypl	
+roberto carnagui	1ypl	
+roberto cartes	2z15	
+roberto carvalho		5lfu:3
+roberto carvalho caue	5lfu	
+roberto casabella	4n36	
+roberto casone	5dhw	
+roberto castelli	69lg	
+roberto cavalo	4rrq	
+roberto cesar	517g	
+roberto cesar footballer	517g	
+roberto cesar zardim rodrigues	517g	
+roberto cesar zardin rodrigues	517g	
+roberto cesati	4i14	
+roberto chale		3wpp:3
+roberto chale olarte	3wpp	
+roberto challe	3wpp	
+roberto chen	55g8	
+roberto cherro	4eqs	
+roberto citran	160p	
+roberto claudio milar decuadra	2bes	
+roberto clemente	1ltq	6hcg:3
+roberto clemente award	6hcg	
+roberto clemente walker	1ltq	
+roberto cobo	3wgq	
+roberto colacone	39fx	
+roberto colautti	3bjq	
+roberto colombo	3awf	
+roberto colombo footballer	3awf	
+roberto colon matos	1fdu	
+roberto concina	19xl	
+roberto corradi	6b59	
+roberto cortellini	5fgw	
+roberto cortese	46qn	
+roberto costa	4yr5	
+roberto cufaro	3ym7	
+roberto d		29gl:3,2zfa:4
+roberto d angio	16xg	
+roberto d aversa	29gl	
+roberto d ettore	2zfa	
+roberto d ettorre		2zfa:4
+roberto d ettorre piazzoli	2zfa	
+roberto daniel gasparini	5st0	
+roberto de		2xrm:3,3rqs:4,6eb4:3
+roberto de angelis	6eb4	
+roberto de assis	3rqs	3rqs:4
+roberto de assis moreira	3rqs	
+roberto de boreus conde de essexia	1mbc	
+roberto de conde de essexia boreus	1mbc	
+roberto de zerbi	2xrm	
+roberto delgado	47p0	
+roberto delgado footballer	47p0	
+roberto della		2dy5:3
+roberto della casa	2dy5	
+roberto dettorre piazzoli	2zfa	
+roberto di		3qed:3,5oui:3
+roberto di maio	5oui	
+roberto di matteo	3qed	
+roberto dias		4wrs:4
+roberto dias correia		4wrs:4
+roberto dias correia filho	4wrs	
+roberto donadoni	2tb2	
+roberto dovetta	5b86	
+roberto duenas	4ayf	
+roberto durruti	4imq	
+roberto durruty	4imq	
+roberto eduardo		3xua:3
+roberto eduardo carboni	3xua	
+roberto el toro acuna	22w3	
+roberto enrique clemente walker	1ltq	
+roberto enriqueclemente walker	1ltq	
+roberto escalada	11xa	
+roberto eugenio cerro	4eqs	
+roberto f		2wdk:3
+roberto f canuto	2wdk	
+roberto fabian ayala	2krq	
+roberto fabian el raton ayala	2krq	
+roberto faenza	1urv	
+roberto falcao	4gj7	
+roberto farias	4nhq	
+roberto fernandez	2wdk	4we1:3
+roberto fernandez alvalleros	4we1	
+roberto fernandez alvarellos	4we1	
+roberto fernandez bonillo	28tt	
+roberto fernandez canuto	2wdk	
+roberto ferrari	3mdq	
+roberto ferrari cyclist	3mdq	
+roberto fioretti	1bh8	
+roberto flores	4iar	
+roberto floriano	64wo	
+roberto formigoni	3ndt	
+roberto forza	2h4s	
+roberto francesco romolo bellarmine	50n9	
+roberto fresnedoso	3nbl	
+roberto frost	k40	
+roberto fugazot	4ct5	
+roberto galbiati	57x8	
+roberto galia	5duj	
+roberto galindo	4s4v	
+roberto gamarra	4og2	
+roberto gamarra footballer born 1981	4og2	
+roberto garcia		560k:3
+roberto garcia cabello	560k	
+roberto gasparini	5st0	
+roberto gaston orci	1g8j	
+roberto gavaldon	18si	
+roberto gerardi	lqn	
+roberto gerhard	5iw1	
+roberto gerhardt	5iw1	
+roberto giacomi	5m42	
+roberto gomez bolaa os	1fdu	
+roberto gomez bolanos	1fdu	
+roberto gomez bolanos comments	1fdu	
+roberto goretti	53m0	
+roberto guana	59n4	
+roberto guizasola	5phl	
+roberto gutierrez	5241	
+roberto herlitkza	16eg	
+roberto herlitzka	16eg	
+roberto herrera	6bsf	
+roberto heuchayer	5kci	
+roberto heuchayer santos de araujo	5kci	
+roberto hilbert	4wjk	
+roberto hodge	4r8s	
+roberto holsen	2r0l	
+roberto horse	3j1e	
+roberto i	16xg	
+roberto i de courtenay	1zk1	
+roberto il guiscardo	105c	
+roberto il saggio	16xg	
+roberto insigne	59o6	
+roberto jan hilbert	4wjk	
+roberto janet	4imq	
+roberto janet durruti	4imq	
+roberto janet durruty	4imq	
+roberto jimenez	3exg	2r00:3
+roberto jimenez gago	2r00	
+roberto jr fernandez	56gf	
+roberto junior fernandez	56gf	
+roberto kettlun	5odt	
+roberto l bartini	5xga	
+roberto landi	5kyc	
+roberto leoni	5fy8	
+roberto lerici	5b9d	
+roberto loggia	e3l	
+roberto lopes		4mqj:3
+roberto lopes nascimento	4mqj	
+roberto lopez		4h4o:3
+roberto lopez ufarte	4h4o	
+roberto lorenzini	5a71	
+roberto losada	558q	
+roberto losada rodriguez	558q	
+roberto luis carnaghi fernandez	1ypl	
+roberto luis de deus severo	31a5	
+roberto luis deus severo	31a5	
+roberto luis gaspar de deus severo	31a5	
+roberto luis gaspar deus severo	31a5	
+roberto m unger	34rk	
+roberto magnani	3eac	
+roberto mancini	34cc	
+roberto mandressi	53cu	
+roberto mangabeira		34rk:3
+roberto mangabeira unger	34rk	
+roberto marina	42z6	
+roberto marinho	434p	
+roberto maroni	47h4	
+roberto martinez	4367	4m69:3
+roberto martinez celigueta	4m69	
+roberto martinez footballer	4367	
+roberto martinez i montoliu	4367	
+roberto martinez montoliu	4367	
+roberto massaro	439h	
+roberto matta	4y51	
+roberto matta echaurren	4y51	
+roberto mauri	3cdw	
+roberto mauro cantoro	2y3n	
+roberto medina	3981	
+roberto merino	2qui	
+roberto merino ramirez	2qui	
+roberto miguel acuna	22w3	
+roberto miguel acuna cabello	22w3	
+roberto milani	19xl	
+roberto mogrovejo	5rk9	
+roberto molina	337t	
+roberto molina footballer	337t	
+roberto monserrat	3hno	
+roberto mosquera	5drj	
+roberto mugabe	10a9	
+roberto murolo	4gh2	
+roberto muzzi	43jl	
+roberto nanni	4a11	
+roberto nestor sensini	445b	
+roberto neves		60ws:4
+roberto neves adam		60ws:4
+roberto neves adam junior	60ws	
+roberto nicolas		4qzx:3
+roberto nicolas saucedo	4qzx	
+roberto nicolosi	1xtu	
+roberto nobile	2fzb	
+roberto noble	4pv1	
+roberto nurse	2itz	
+roberto oliveira goncalves	55i2	
+roberto oliveira goncalves do carmo	55i2	
+roberto orci	1g8j	
+roberto ordenes	5zyl	
+roberto oros di bartini	5xga	
+roberto oscar bonano	3uds	
+roberto owen	64ga	
+roberto palacios	5yil	
+roberto passarin	5xmg	
+roberto pattinson	qeq	
+roberto peccei	5xod	
+roberto peragon	40gs	
+roberto perfumo	2zoi	
+roberto perpignani	j4j	
+roberto piazzoli	2zfa	
+roberto pinto	5aso	
+roberto platero	4nwj	
+roberto platero ibanez	4nwj	
+roberto policano	5csz	
+roberto polo	5bp1	
+roberto pompei	33ys	
+roberto pregadio	1blb	
+roberto rambaudi	40jr	
+roberto rey	1rhd	
+roberto rimoldi	2z2q	
+roberto rios	5ch9	
+roberto risso	17yp	
+roberto rivelino	4gb6	
+roberto rivellino	4gb6	
+roberto roberti	xcq	
+roberto rodolfo aguirre	5nnx	
+roberto rodriguez	4g2w	
+roberto rodriguez araya	4g2w	
+roberto rodriguez swiss footballer	4g2w	
+roberto rosato	3ktr	
+roberto rosselini	jqv	
+roberto rossellini	jqv	
+roberto ruiz	jhz	5alc:3
+roberto ruiz esparza	5alc	
+roberto sabatino		5ynk:3
+roberto sabatino lopez	5ynk	
+roberto sanchez ocampo	4mx2	
+roberto santamaria	4fnv	4fnv:3
+roberto santamaria ciprian	4fnv	
+roberto saraiva		5uzl:3
+roberto saraiva fagundas	5uzl	
+roberto saraiva fagundes	5uzl	
+roberto satti	4hne	
+roberto saviano	3zgq	
+roberto schaefer	37re	
+roberto sebastian antonio echaurren matta	4y51	
+roberto sebastian brum	530t	
+roberto sebastian echauren matta	4y51	
+roberto sebastian matta	4y51	
+roberto sebastian matta echaurren	4y51	
+roberto sensini	445b	
+roberto severo	31a5	
+roberto severo beto	31a5	
+roberto siboldi	3xrw	
+roberto silva	2p58	
+roberto simon marina	42z6	
+roberto solda	5nc8	
+roberto soldado	31xq	
+roberto soldado rillo	31xq	
+roberto solozabal	4f9t	
+roberto sosa	4fnz	
+roberto sosa footballer	4fnz	
+roberto stellone	4edz	
+roberto strub	17yp	
+roberto szaniecki	35ud	
+roberto tavola	4rur	
+roberto tigrao	5nev	
+roberto trashorras	3im7	
+roberto trashorras gayoso	3im7	
+roberto trotta	2pe0	
+roberto trujillo	4s8g	
+roberto tucker	5yeu	
+roberto unger	34rk	
+roberto vecchioni	52ir	
+roberto vieri	4uah	
+roberto villa	41in	
+roberto villa actor	41in	
+roberto vittori	52ry	
+roberto volpato	5nev	5nev:3
+roberto volpato neto	5nev	
+roberto walker clemente	1ltq	
+roberto wong	6cuq	
+roberto ze	1zx7	
+roberto zywica	3afk	
+rollag	4hqv	4hqv:2
+rollag municipality	4hqv	
+rollag village	4hqv	
+rusichi oryol	5fy	
+saint cenere	49z8	
+samyuktha		38d5:2
+samyuktha varma	38d5	
+san benito		1az7:3
+san benito county	1az7	
+san benito county ca	1az7	
+san benito county california	1az7	
+sarajevska zupanija	2erj	
+schonefeld airport	2qt8	
+schonefeld international airport	2qt8	
+seeley	5oph	
+sharpettes	10zh	
+slated roof	2voy	
+spirant	wxi	
+spocks beard	22k5	
+spocks brain	4exs	
+st eustace	3y14	
+strider half life	6hu8	
+svmi	1oao	
+taipower f c	2zbl	
+taipower fc	2zbl	
+taipower football club	2zbl	
+taunton	5yg,9g9	ld1:2,rld:4
+taunton deane	ld1	
+taunton deane borough council	ld1	
+taunton england	5yg	
+taunton f c	rld	
+taunton fire department	9g9	
+taunton ma	9g9	
+taunton ma usa	9g9	
+taunton mass	9g9	
+taunton massachusetts	9g9	
+taunton massachusetts usa	9g9	
+taunton somerset	5yg	
+taunton somersetshire	5yg	
+taunton town	5yg,rld	rld:4
+taunton town f		rld:4
+taunton town f c	rld	
+taunton town fc	rld	
+the eve		2vej:5
+the eve of		2vej:5
+the eve of saint mark	2vej	
+the eve of st		2vej:5
+the eve of st mark	2vej	
+the eve of st mark film	2vej	
+the eve of st mark play	2vej	
+the fear pulp song	66iq	
+the kingsroad	1owt	
+the landlord	18mc	
+the landlord 1940 film	3pj6	
+the landlord 1977 film	18mc	
+the landlord film	18mc	
+the lomonosov gold medal	d8a	
+the sparks	onq	
+the wildbunch	27xk	
+tiquicia	o0	
+travels	ytr	182c:4
+travels into several remote nations of the world	50sn	
+travels into several remote nations of the world in four parts	50sn	
+travels into several remote nations of the world in four parts by lemuel gulliver first a surgeon and then a captain of several ships	50sn	
+travels of marco polo	4d1o	4d1o:5
+travels on my elephant	3tey	
+travels with		182c:4
+travels with my		182c:4
+travels with my aunt	182c	
+travels with my aunt film	182c	
+travels with myself	5ons	
+travels with puff	2x03	
+tremezzina	14e1	
+trfu	26tj	
+tusby	111k	
+uefa	3ng	2o2:3,2r8:3,2rl:3,2s1:3,2vt:3,2wk:3,5lk:3,5zs:3,60i:3,60k:3,c2m:3,cv1:3,e4j:3,lhj:3,uxz:3,v2j:3,x5b:4,1ldm:3,1ni8:6,1q9f:5,2jb6:3,35bi:5,46l3:4,4830:6,4vpp:4,591e:3,5dln:5,5nr7:6,5r9o:3
+uefa 2016	2o2	
+uefa 64	cew	
+uefa 68	aok	
+uefa champion league	e4j	
+uefa champion s league	e4j	
+uefa champions		e4j:3
+uefa champions league	e4j	
+uefa champions league 2013 14 final	4icu	
+uefa champions league 2014 15	4uiq	
+uefa champions league 2014 15 final	671t	
+uefa champions league 201415	4uiq	
+uefa championship	2jb6	
+uefa cl	e4j	
+uefa club		5nr7:6
+uefa club footballer		5nr7:6
+uefa club footballer of		5nr7:6
+uefa club footballer of the		5nr7:6
+uefa club footballer of the year	5nr7	
+uefa com	3ng	
+uefa cup	lhj	x5b:4
+uefa cup 06 07	43o7	
+uefa cup 1999 00	43he	
+uefa cup 1999 2000	43he	
+uefa cup 199900	43he	
+uefa cup 19992000	43he	
+uefa cup 2001 02	4czf	
+uefa cup 200102	4czf	
+uefa cup 2002 03	4g4s	
+uefa cup 200203	4g4s	
+uefa cup 2005 06	463z	
+uefa cup 200506	463z	
+uefa cup 2006 07	43o7	
+uefa cup 2006 2007	43o7	
+uefa cup 200607	43o7	
+uefa cup 2007	43o7	
+uefa cup in 2002	4g4s	
+uefa cup s winners cup	x5b	
+uefa cup trophy	lhj	
+uefa cup winners		x5b:4
+uefa cup winners cup	x5b	
+uefa euro		2o2:3,2r8:3,2rl:3,2s1:3,2vt:3,2wk:3,5lk:3,5zs:3,60i:3,60k:3,c2m:3,cv1:3,1ldm:3,46l3:4,591e:3,5r9o:3
+uefa euro 1960	ck8	
+uefa euro 1964	cew	
+uefa euro 1968	aok	
+uefa euro 1972	cv1	
+uefa euro 1976	c2m	
+uefa euro 1980	5lk	
+uefa euro 1984	60i	
+uefa euro 1988	5zs	
+uefa euro 1992	60k	
+uefa euro 1996	2wk	
+uefa euro 1996 schedule	2wk	
+uefa euro 2000	2vt	
+uefa euro 2000 schedule	2vt	
+uefa euro 2000 team of the tournament	2vt	
+uefa euro 2004	2s1,591e	
+uefa euro 2004 schedule	2s1	
+uefa euro 2004 seeding	2s1	
+uefa euro 2004 video game	591e	
+uefa euro 2008	2rl,5r9o	
+uefa euro 2008 officials	2rl	
+uefa euro 2008 seeding	2rl	
+uefa euro 2008 video game	5r9o	
+uefa euro 2012	2r8	
+uefa euro 2012 match officials	2r8	
+uefa euro 2012 video game	65iw	
+uefa euro 2016	2o2	46l3:4
+uefa euro 2016 qualification	46l3	
+uefa euro 2016 qualifying	46l3	
+uefa euro 2016 video game	50rm	
+uefa euro 2020	1ldm	
+uefa euro 2020 final	1ldm	
+uefa euro 2020 group a	1ldm	
+uefa euro 2020 group b	1ldm	
+uefa euro 2020 group c	1ldm	
+uefa euro 2020 group d	1ldm	
+uefa euro 2020 group e	1ldm	
+uefa euro 2020 group f	1ldm	
+uefa euro 2020 knockout phase	1ldm	
+uefa euro 2020 squads	1ldm	
+uefa euro 88	5zs	
+uefa euro 92	60k	
+uefa euro 96	2wk	
+uefa euro u 19	1q9f	
+uefa euro u 21	1ni8	
+uefa euro u19	1q9f	
+uefa europa		lhj:3
+uefa europa league	lhj	
+uefa europa league 2015 16	2azn	
+uefa europa league 201516	2azn	
+uefa europa league gfdl archive	lhj	
+uefa europe league	lhj	
+uefa european		1ni8:6,1q9f:5,2jb6:3,5dln:5
+uefa european championship	2jb6	
+uefa european championship stadiums	2jb6	
+uefa european championships	2jb6	
+uefa european competition for representative women s teams	4vpp	
+uefa european cup	e4j	
+uefa european football championship	2jb6	
+uefa european football championship squads	2jb6	
+uefa european u 17 football championship	5dln	
+uefa european u 19 championship	1q9f	
+uefa european u 21 football championship	1ni8	
+uefa european under		1ni8:6,1q9f:5,5dln:5
+uefa european under 16 championship	5dln	
+uefa european under 17		5dln:5
+uefa european under 17 championship	5dln	
+uefa european under 17 football championship	5dln	
+uefa european under 18 football championship	1q9f	
+uefa european under 19		1q9f:5
+uefa european under 19 championship	1q9f	
+uefa european under 19 football championship	1q9f	
+uefa european under 21		1ni8:6
+uefa european under 21 championship	1ni8	
+uefa european under 21 championship golden player	1ni8	
+uefa european under 21 championship top scorer	1ni8	
+uefa european under 21 football		1ni8:6
+uefa european under 21 football championship	1ni8	
+uefa european women s championship	4vpp	
+uefa european women s football championship	4vpp	
+uefa european women s under 19 championship	4830	
+uefa euros	2jb6	
+uefa international youth tournament	1q9f	
+uefa intertoto		v2j:3
+uefa intertoto cup	v2j	
+uefa intertoto cup 2009	v2j	
+uefa league	lhj	
+uefa mafia	3ng	
+uefa org	3ng	
+uefa super		uxz:3
+uefa super cup	uxz	
+uefa super cup 2015	3qq8	
+uefa supercup	uxz	
+uefa u 16 championship	5dln	
+uefa u 17 championship	5dln	
+uefa u 18 championship	1q9f	
+uefa u 19 championship	1q9f	
+uefa u 21championship	1ni8	
+uefa u 23 championship	1ni8	
+uefa u19 championship	1q9f	
+uefa u21 championship	1ni8	
+uefa under 17 championships	5dln	
+uefa under 19 european championships	1q9f	
+uefa under 21 championship	1ni8	
+uefa under 21s championship	1ni8	
+uefa women		35bi:5,4830:6,4vpp:4
+uefa women s		35bi:5,4830:6,4vpp:4
+uefa women s champions		35bi:5
+uefa women s champions league	35bi	
+uefa women s championship	4vpp	
+uefa women s championship qualification	4vpp	
+uefa women s cup	35bi	
+uefa women s euro	4vpp	
+uefa women s european cup	35bi	
+uefa women s u 18 19 championship	4830	
+uefa women s u 18 championship	4830	
+uefa women s u 19 championship	4830	
+uefa women s under		4830:6
+uefa women s under 18 championship	4830	
+uefa women s under 19		4830:6
+uefa women s under 19 championship	4830	
+uefa womens champions league	35bi	
+univerity of arkansas arkansas	2n3	
+univerity of oxford	ea	
+univerity of tulsa	40l	
+univerity of virginia	tg	
+uvero sagua la grande	1tzl	
+valmadrera	2vc3	
+venuses	28hb	
+wallonia	ksl	
+warton alaska	2kqk	
+warton charles	5rhh	
+westonaria		3qlx:3
+westonaria local		3qlx:3
+westonaria local municipality	3qlx	
+windturbine	roc	
+yogykarta	a56	
