@@ -1,0 +1,4 @@
+{"packs": [
+ {"id": "movies", "title": "Movies", "detail": "MetaQA / WikiMovies graph: 43,234 entities, 133,582 facts, 9 relations", "bytes": 1900325, "status": "available", "default": true},
+ {"id": "general", "title": "General knowledge", "detail": "A Wikidata slice for questions like \"What are the names of Mars's moons?\". Being built from Shannon's rung-10 (Mintaka) model.", "status": "planned"}
+]}

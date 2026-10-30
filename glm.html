@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GLM v0</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Shannon's graph language model answers movie questions on your device by walking a knowledge graph, and shows its path.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+<style>
+/* Layout: one reading column; the reasoning path is a wrapped chain of node cards joined by relation labels. */
+:root {
+  --bg: #f5f6f3;          /* graph paper */
+  --panel: #ffffff;
+  --ink: #17201c;
+  --muted: #5d6862;
+  --line: #d9ddd6;
+  --accent: #1f6f5c;      /* answer / topic ink: deep green */
+  --accent-soft: #e2efe9;
+  --edge: #9a5b13;        /* relation labels: amber ink */
+  --edge-soft: #f6ead9;
+  --warn: #a2361f;
+  --display: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111613; --panel: #19201c; --ink: #e5ebe7; --muted: #9aa69f; --line: #2c3530;
+    --accent: #6cc7ab; --accent-soft: #1d3029; --edge: #e2a65a; --edge-soft: #34281a; --warn: #f08a6e; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111613; --panel: #19201c; --ink: #e5ebe7; --muted: #9aa69f; --line: #2c3530;
+  --accent: #6cc7ab; --accent-soft: #1d3029; --edge: #e2a65a; --edge-soft: #34281a; --warn: #f08a6e; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.55 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+main { max-width: 760px; margin: 0 auto; padding-block: 28px 56px; display: grid; gap: 22px; }
+h1 { font: 500 clamp(26px, 5vw, 34px)/1.15 var(--display); margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+h1 em { font-style: italic; font-weight: 400; color: var(--accent); }
+h2 { font: 600 12px/1.2 var(--body); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 10px; }
+p { margin: 0; }
+.lede { color: var(--muted); max-width: 62ch; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.head { display: grid; gap: 10px; }
+.status { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px; color: var(--muted); }
+.pill { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); font-size: 12.5px; }
+.pill .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--muted); }
+.pill.ok .dot { background: var(--accent); }
+.pill.busy .dot { background: var(--edge); animation: pulse 1s ease-in-out infinite; }
+.pill.bad .dot { background: var(--warn); }
+@keyframes pulse { 50% { opacity: .3; } }
+.bar { height: 3px; background: var(--line); border-radius: 2px; overflow: hidden; width: 140px; }
+.bar i { display: block; height: 100%; width: 0; background: var(--edge); transition: width .2s; }
+select, input, button { font: inherit; color: inherit; }
+select { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 3px 6px; font-size: 12.5px; }
+
+/* packs */
+.packs { display: grid; gap: 8px; }
+.pack { display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+.pack .meta { min-width: 0; flex: 1 1 260px; }
+.pack .t { font-weight: 600; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.pack .d { color: var(--muted); font-size: 13px; }
+.tag { font: 500 11px/1 var(--mono); padding: 3px 6px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); }
+.tag.off { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+.btn { border: 1px solid var(--line); background: var(--panel); border-radius: 6px; padding: 6px 12px; cursor: pointer; }
+.btn:hover:not(:disabled) { border-color: var(--ink); }
+.btn:disabled { opacity: .5; cursor: default; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 600; }
+:focus-visible { outline: 2px solid var(--edge); outline-offset: 2px; }
+
+/* ask */
+form { display: flex; gap: 8px; }
+#q { flex: 1; min-width: 0; padding: 11px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); font-size: 16px; }
+.examples { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.ex { display: inline-flex; gap: 6px; align-items: baseline; text-align: left; border: 1px dashed var(--line); background: transparent; border-radius: 6px; padding: 5px 9px; cursor: pointer; font-size: 13.5px; }
+.ex:hover { border-color: var(--accent); border-style: solid; }
+.ex b { font: 500 10.5px var(--mono); color: var(--edge); white-space: nowrap; }
+
+/* result */
+.result { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: grid; gap: 18px; }
+.result[data-sample] { border-style: dashed; }
+.samplenote { font-size: 12.5px; color: var(--muted); }
+.qline { font-size: 14px; color: var(--muted); overflow-wrap: anywhere; }
+.qline mark { background: var(--accent-soft); color: var(--accent); padding: 0 3px; border-radius: 3px; }
+.answers { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: baseline; }
+.answers .a { font: 500 20px/1.3 var(--display); }
+.answers .a.top { color: var(--accent); }
+.answers .a small { font: 400 11px var(--mono); color: var(--muted); margin-left: 3px; }
+.answers .rest { font-size: 14px; color: var(--muted); }
+.chain { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.node { border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; max-width: 100%; min-width: 0; background: var(--bg); }
+.node.topic { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.node.end { border-color: var(--accent); }
+.node .n { font: 400 11px var(--mono); color: var(--muted); display: block; }
+.node .s { overflow-wrap: anywhere; font-size: 14px; }
+.rel { font: 500 12.5px var(--mono); color: var(--edge); display: inline-flex; align-items: center; gap: 4px; white-space: nowrap; }
+.rel::after { content: "→"; font-family: var(--body); }
+.rel span { background: var(--edge-soft); padding: 2px 6px; border-radius: 4px; }
+.sentence { font-family: var(--mono); font-size: 12.5px; color: var(--muted); overflow-wrap: anywhere; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+.tw { overflow-x: auto; }
+td, th { text-align: left; padding: 6px 8px 6px 0; border-top: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 500; color: var(--muted); font-size: 12px; }
+td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; text-align: right; }
+td.p { font-family: var(--mono); font-size: 12px; color: var(--edge); }
+.timing { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px; }
+.timing div { border-left: 2px solid var(--line); padding-left: 8px; }
+.timing b { display: block; font: 500 16px var(--mono); font-variant-numeric: tabular-nums; }
+.timing span { font-size: 12px; color: var(--muted); }
+.timing .total { border-color: var(--accent); }
+.err { color: var(--warn); }
+
+/* about */
+details { border-top: 1px solid var(--line); padding-top: 14px; }
+summary { cursor: pointer; font-weight: 600; }
+.about { display: grid; gap: 12px; margin-top: 12px; max-width: 66ch; font-size: 14px; }
+.about dt { font-weight: 600; }
+.about dd { margin: 2px 0 0; color: var(--muted); }
+.about dl { display: grid; gap: 10px; margin: 0; }
+footer { font-size: 12.5px; color: var(--muted); display: grid; gap: 4px; }
+footer a, .about a { color: var(--accent); }
+@media (max-width: 480px) {
+  form { flex-direction: column; }
+  .answers .a { font-size: 18px; }
+}
+@media (prefers-reduced-motion: reduce) { .pill.busy .dot { animation: none; } .bar i { transition: none; } }
+</style>
+</head>
+<body>
+<main>
+  <section class="head">
+    <h1>GLM v0: ask the movie graph, <em>watch it walk</em></h1>
+    <p class="lede">Shannon reads your question with a small frozen encoder, turns it into a chain of relations, and walks a knowledge graph to the answer.
+      Everything runs on this device: the encoder, the scorer and the graph. No server sees your question.</p>
+    <div class="status">
+      <span class="pill busy" id="st"><span class="dot"></span><span id="st-t">Starting…</span></span>
+      <span class="bar" id="bar" aria-hidden="true"><i id="bar-i"></i></span>
+      <label for="enc">Encoder
+        <select id="enc">
+          <option value="fp16">full, 45 MB (matches training)</option>
+          <option value="q8">small, 23 MB (int8)</option>
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <section aria-labelledby="packs-h">
+    <h2 id="packs-h">Knowledge packs</h2>
+    <div class="packs" id="packs"></div>
+  </section>
+
+  <section aria-labelledby="ask-h">
+    <h2 id="ask-h">Ask</h2>
+    <form id="f" autocomplete="off">
+      <input id="q" type="text" placeholder="e.g. who directed Memento" aria-label="Your question" enterkeyhint="go">
+      <button class="btn primary" id="go" type="submit" disabled>Ask</button>
+    </form>
+    <div class="examples" id="examples"></div>
+  </section>
+
+  <section class="result" id="result" aria-live="polite"></section>
+
+  <details id="about">
+    <summary>About this demo</summary>
+    <div class="about">
+      <p>GLM ("graph language model") is Shannon plus a knowledge graph. The language part is small and frozen; the facts live in the graph, which loads and unloads as a pack.
+        Unloading the movies pack really removes those facts: ask again and it has nothing to say.</p>
+      <dl>
+        <dt>How an answer is made</dt>
+        <dd>1. The linker finds the longest entity name from the loaded packs in your question (it uses the pack's own entity list, the names in the dataset's graph) and replaces it with a placeholder.
+          2. MiniLM gives one vector per word piece. A linear tagger turns each into a soft vote over relations, and the votes sum into a 16×16 question operator.
+          3. Every relation path of 1 to 3 steps that exists from that entity is scored by cosine between the question operator and the product of the relations' 16×16 operators.
+          4. The best path that reaches something is walked; answers are ranked by how many paths reach them.</dd>
+        <dt>Tiny</dt>
+        <dd>A 9.6k (MetaQA) / 0.2M (WebQSP) parameter trained scorer on a frozen 22.7M MiniLM, about 23M parameters in all (27M with the text-graph builder). That is about 1/900 of gpt-oss-20b's parameters and 1/150 of its active parameters.</dd>
+        <dt>Energy</dt>
+        <dd>About 0.1–0.2 J per question above idle, batched, on an A40, the same as any MiniLM-sized ranker. That is roughly 65–270× less than gpt-oss-20b answering from the same retrieved facts (GPU only for gpt-oss). This page does not measure energy on your device.</dd>
+        <dt>How good it is</dt>
+        <dd>This scorer (seed 0) was trained on MetaQA 1- and 2-step questions only. On a held-out MetaQA set with the topic entity given it scored 0.97 (1-step), 1.00 (2-step) and 0.78 (3-step) hits@1.
+          MetaQA questions are template phrasings, and the held-out set reuses the training templates, so free-form wording can do worse.</dd>
+        <dt>Limits</dt>
+        <dd>Movies only for now (WikiMovies, about 2016). One named entity per question; the linker is plain name matching, so an ambiguous or misspelt name can pick the wrong thing. Answers are graph nodes; nothing is generated.
+          Questions outside the nine relations (directed by, written by, starring, year, language, genre, tags, IMDb votes, IMDb rating) get the nearest path anyway. A general Wikidata pack is next.</dd>
+        <dt>Credits</dt>
+        <dd>Graph and question style: MetaQA (Zhang et al., 2018), built on WikiMovies (Miller et al., 2016), CC BY 3.0. Encoder: all-MiniLM-L6-v2 (Apache-2.0), ONNX export by Xenova. Runtime: onnxruntime-web 1.20.1 (MIT), WebAssembly, one thread, on the page (no Web Worker).</dd>
+      </dl>
+    </div>
+  </details>
+
+  <footer>
+    <span>Timings are measured on this device for each question. The first question after loading includes warm-up.</span>
+  </footer>
+</main>
+<script>
+// Boot watchdog (classic script, runs even if the module graph fails): any uncaught error is shown in the status pill.
+(function () {
+  var show = function (msg) {
+    var st = document.getElementById("st"), t = document.getElementById("st-t");
+    if (st && t) { st.className = "pill bad"; t.textContent = msg; }
+  };
+  window.addEventListener("error", function (e) { if (!(e instanceof ErrorEvent) && !(e.target && e.target.tagName === "SCRIPT")) return; console.error("[glm] uncaught", e.error || e.message); show("Error: " + (e.message || "a script failed to load") + (e.filename ? " (" + e.filename.split("/").pop() + ")" : "")); }, true);
+  window.addEventListener("unhandledrejection", function (e) { console.error("[glm] unhandled", e.reason); show("Error: " + (e.reason && e.reason.message || e.reason)); });
+  setTimeout(function () { if (!window.glmDemo) show("The page script did not start within 30 s (assets/glm/app.js or its imports were blocked)."); }, 30000);
+})();
+</script>
+<script type="module" src="assets/glm/app.js"></script>
+</body>
+</html>

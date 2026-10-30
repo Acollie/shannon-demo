@@ -1,0 +1,9 @@
+{"note": "Written for the demo (MetaQA-style phrasing, entities from the pack). Not exam questions.",
+ "examples": [
+  {"hop": 1, "q": "who directed Memento", "bracketed": "who directed [Memento]"},
+  {"hop": 1, "q": "what movies did Tom Hanks act in", "bracketed": "what movies did [Tom Hanks] act in"},
+  {"hop": 2, "q": "what genres are the films directed by Christopher Nolan", "bracketed": "what genres are the films directed by [Christopher Nolan]"},
+  {"hop": 2, "q": "who acted in the movies directed by Steven Spielberg", "bracketed": "who acted in the movies directed by [Steven Spielberg]"},
+  {"hop": 3, "q": "who directed the movies that share actors with Casablanca", "bracketed": "who directed the movies that share actors with [Casablanca]"},
+  {"hop": 3, "q": "when were the movies written by the writer of Toy Story released", "bracketed": "when were the movies written by the writer of [Toy Story] released"}
+ ]}

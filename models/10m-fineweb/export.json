@@ -1,0 +1,58 @@
+{
+ "arch": {
+  "lin": 128,
+  "lout": 128,
+  "R": 4,
+  "K": 4096,
+  "d_vq": 64,
+  "vocab": 30522,
+  "d_model": 384,
+  "n_heads": 6,
+  "head_dim": 64,
+  "n_dec_layers": 3,
+  "n_idea_layers": 9,
+  "n_ideas": 32,
+  "bos_id": 101,
+  "min_gen_id": 999
+ },
+ "params": {
+  "trainable_total": 34919040,
+  "trainable_embedding": 11781888,
+  "trainable_nonembedding": 23137152,
+  "frozen": 22565376
+ },
+ "export_check": {
+  "n_windows": 24,
+  "torch_stepwise_max_abs_dnll": 4.6953558921813965e-05,
+  "fp32": {
+   "code_agreement": 1.0,
+   "bpb_torch": 1.8545094878448503,
+   "bpb_onnx": 1.854498129119075,
+   "bpb_rel_diff": -6.12492189966396e-06,
+   "max_window_abs_diff": 0.0006154957137352035,
+   "seconds": 4.613446950912476
+  },
+  "int8_all": {
+   "code_agreement": 0.19791666666666666,
+   "bpb_torch": 1.8545094878448503,
+   "bpb_onnx": 1.8597370147292371,
+   "bpb_rel_diff": 0.0028188191641240756,
+   "max_window_abs_diff": 0.03552418720848438,
+   "seconds": 2.246800184249878
+  },
+  "shipped_candidate": {
+   "code_agreement": 1.0,
+   "bpb_torch": 1.8545094878448503,
+   "bpb_onnx": 1.859430853752528,
+   "bpb_rel_diff": 0.002653729161233187,
+   "max_window_abs_diff": 0.019633749605048045,
+   "seconds": 2.3799800872802734
+  },
+  "precision": "encoder fp16w, ideas+decoder int8",
+  "sizes_bytes": {
+   "encoder": 46508016,
+   "ideas": 17403984,
+   "decoder": 29760070
+  }
+ }
+}
