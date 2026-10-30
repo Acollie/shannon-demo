@@ -1,0 +1,394 @@
+aberdare	ggt	uz5:4,2qji:4
+aberdare athletic	uz5	uz5:4
+aberdare athletic f		uz5:4
+aberdare athletic f c	uz5	
+aberdare athletic fc	uz5	
+aberdare rhondda cynon taff	ggt	
+aberdare town		2qji:4
+aberdare town f		2qji:4
+aberdare town f c	2qji	
+aberdare wales	ggt	
+aconodes	42tj	
+alayor	3t4r	
+ames	bzp,2nev,4foy	3eya:3
+ames a coruna	4foy	
+ames adelbert	2wi2	
+ames aeronautical laboratory	3eya	
+ames boone ia csa	bzp	
+ames ia	bzp	
+ames ia metropolitan statistical area	vgs	
+ames ia msa	vgs	
+ames iowa	bzp	
+ames iowa metropolitan area	vgs	
+ames iowa united states	bzp	
+ames oakes	5rrt	
+ames pas de calais	2nev	
+ames perdues	5zam	
+ames research		3eya:3
+ames research center	3eya	
+ames research centre	3eya	
+ames research laboratory	3eya	
+ames spain	4foy	
+barkoxe	1012	
+bellevaux	1nk8	
+bellevaux belgique	zj3	
+benon	1b70	
+benon france	1b70	
+berceto	2d2i	
+berceto italy	2d2i	
+blackstreet	1sxo	
+blockfloete	fl9	
+boniek	3d6u	66dv:2
+boniek forbes	66dv	
+bremmerhaven germany	apf	
+bresckaja vobasc	eoe	
+bresckaja voblasc	eoe	
+bulinao people	2dkv	
+cesc		1i56:2
+cesc fabergas	1i56	
+cesc fabregas	1i56	
+cingireddy narayana reddy	5ag9	
+clenay	2yy5	
+collebeato	5ea7	
+csusb	1u6g	
+david solari	1g4r	
+david solari footballer	1g4r	
+david taisniers	1580	
+davvisami	xs7	
+decca	yy	
+decca classics	yy	
+decca label	yy	
+decca mitford	10s8	
+decca music group	yy	
+decca nashville	yy	
+decca record company	yy	
+decca records	yy	
+despair	whs,108v	
+despair film	whs	
+dobra		2ypa:4
+dobra voda		2ypa:4
+dobra voda u		2ypa:4
+dobra voda u horic	2ypa	
+doe	2acc	
+doe agencies	2acc	
+doe geometry	1r52	
+doe lawrence	2i5o	
+doe or die 2	2f64	
+doe or die ii	2f64	
+doe song	2euw	
+dunkirk	7bc,1brd,1x01,2ho0,2js1	23pg:2
+dunkirk 1958 film	1x01	
+dunkirk 2017 film	1brd	
+dunkirk 2017 film version 2	1brd	
+dunkirk 70mm	1brd	
+dunkirk city chautauqua county new york	2js1	
+dunkirk city new york	2js1	
+dunkirk evacuation	23pg	
+dunkirk france	7bc	
+dunkirk jack	23pg	
+dunkirk miracle	23pg	
+dunkirk new york	2js1	
+dunkirk ny	2js1	
+dunkirk original motion picture soundtrack	1brd	
+dunkirk soundtrack	1brd	
+dunkirk the imax 2d experience	1brd	
+dunkirk the imax experience in 70mm film	1brd	
+dunkirk tv series	2ho0	
+dunkirk wiltshire	rhu	
+dyrlgens plejeborn	4zv4	
+dyrlgens plejebrn	4zv4	
+edward eliscu	60tt	
+egcc	2bju	
+erdington	5bhf	
+erdington england	5bhf	
+erdington ward	5bhf	
+etti jundiai	5ao	
+fakhr		3zum:3,588v:5
+fakhr ad din ar razi	588v	
+fakhr al		588v:5
+fakhr al din		588v:5
+fakhr al din al		588v:5
+fakhr al din al razi	588v	
+fakhr aldin alrazi	588v	
+fakhr e afghan	3hho	
+fakhr razi	588v	
+fakhr ud din razi	588v	
+fakhr un		3zum:3
+fakhr un nissa	3zum	
+fc ska		3bb:5,r45:3
+fc ska 1938	r45	
+fc ska karpaty lviv	170d	
+fc ska lviv	170d	
+fc ska penza	7xt	
+fc ska pvo bishkek	n1j	
+fc ska rostov	3bb	3bb:5
+fc ska rostov na donu	3bb	
+fc ska rostov on		3bb:5
+fc ska rostov on don	3bb	
+fc ska rshvsm angren	4jj5	
+fc ska rshvsm tashkent oblast	4jj5	
+fc ska shoro bishkek	n1j	
+fc ska zvezda rybinsk	14ie	
+finnophone	hy	
+fo3	18ix	
+foucherans	2uiv	
+foucherans doubs	2uiv	
+frederick ingle finch	i25	
+frystak	1fuc	
+fuentemilanos	4vx	
+gatifloxacine	4cv6	
+geolycosa	686e	
+george thorogood	18yp	
+george thorogood albums	18yp	
+george thorogood and the destroyers	18yp	
+george thorogood the destroyers	18yp	
+gladwell	4gej	
+gladwell com	4gej	
+gmina askarzew	11wa	
+gmina jelcz		1dtv:3
+gmina jelcz laskowice	1dtv	
+gosdan zarian	4wfg	
+gromogul jahangir mogulreich	1nkz	
+hanu ancutei novel	3c5n	
+harperresource	14n	
+horticultural	thq	
+horticultural science	thq	
+imana kinshasa	vo3	
+innichen	1h33	
+innichen san candido	1h33	
+iridic	z7o	
+james cunningham	63sg	
+james cunningham australian politician	63sg	
+jaxu	23lg	
+jazzfooter	3e	
+junts		2hiq:3
+junts pel		2hiq:3
+junts pel si	2hiq	
+karnburg	4iof	
+khima	14pv	
+khododad azizi	2txe	
+kolbermoor	2w9p	
+kryvbas krivoy rog	4lr	
+kryvbas kryivyi rih	4lr	
+kryvbas kryviy rih	4lr	
+kryvbas kryvyi rih	4lr	
+kryvbas kryvyy rih	4lr	
+la momia	1j7q	
+la momia azteca	5zug	
+la momia azteca contra el robot humano	62rl	
+la rams	101	
+lachesilla	1fej	
+lana	1igr	g7s:3,gsy:2,ssj:3,28jy:2,3h7a:2,44al:2,5o8r:2,5quj:2,61bg:2,6gz0:8
+lana and andy wachowski	3e8v	
+lana bz	1igr	
+lana clarkson	28jy	
+lana del		g7s:3,6gz0:8
+lana del ray	g7s	6gz0:8
+lana del ray a		6gz0:8
+lana del ray a k		6gz0:8
+lana del ray a k a		6gz0:8
+lana del ray a k a lizzy		6gz0:8
+lana del ray a k a lizzy grant	6gz0	
+lana del ray aka lizzy grant	g7s	
+lana del ray album	6gz0	
+lana del rey	g7s	
+lana del rey album	6gz0	
+lana earl	5qka	
+lana first		ssj:3
+lana first name	ssj	
+lana ghoghoberidze	61bg	
+lana given name	ssj	
+lana gogoberidze	61bg	
+lana harper sister	58v	
+lana i	336w	
+lana italy	1igr	
+lana lana	1igr	
+lana lang and clark kent	du2	
+lana marconi	5o8r	
+lana michele moorer	1p71	
+lana michelle moorer	1p71	
+lana moorer	1p71	
+lana morris	44al	
+lana parrilla	5quj	
+lana peters	1ev4	
+lana south tyrol	1igr	
+lana trentino alto adige sudtirol	1igr	
+lana turner	gsy	
+lana wood	3h7a	
+leopards in culture	1764	
+lindeniopiper	cwq	
+locataire le	u7g	
+loschitz	3v3w	
+louis vauquelin	1po3	
+lxx	1r6w	
+mangasport	19qo	
+manual		21t3:4
+manual de rosas	3ayy	
+manual neuer	1cav	
+manual noriega	48zi	
+manual of		21t3:4
+manual of love	3256	21t3:4
+manual of love 2	21t3	
+manual of love 3	2o9x	
+manual of mineralogy	1b3u	
+manual strangulation	6alj	
+manual training school	yj2	
+mauve	6c26	
+mauve decade	1mz8	
+menichea	35mc	
+mitidika family	2tlw	
+monein	ys1	
+mongiuffi		27o7:2
+mongiuffi melia	27o7	
+myrthas helen hickman	1ldi	
+myrthas hickman	1ldi	
+nguyan van thieu	4g5q	
+nznbl	q2z	
+oberhelfenschwil	2zf9	
+oberhelfenschwil sg	2zf9	
+oberhelfenschwil st gallen	2zf9	
+oberhelfenschwil switzerland	2zf9	
+ogooue	5f3h	4o32:3,4tam:3,4x8s:3,5f3h:2
+ogooue ivindo	4tam	4tam:3
+ogooue ivindo province	4tam	
+ogooue lolo	4x8s	4x8s:3
+ogooue lolo province	4x8s	
+ogooue maritime	4o32	4o32:3
+ogooue maritime gabon	4o32	
+ogooue maritime province	4o32	
+ogooue maritime province gabon	4o32	
+ogooue rapids	5f3h	
+ogooue river	5f3h	
+okropir		2hcp:7
+okropir bagrationi	2hcp	
+okropir son		2hcp:7
+okropir son of		2hcp:7
+okropir son of george		2hcp:7
+okropir son of george xii		2hcp:7
+okropir son of george xii of		2hcp:7
+okropir son of george xii of georgia	2hcp	
+orpines	4zd8	
+pandi	5gk6	
+pandi film	5gk6	
+paranormalism	39s9	
+paschimbanga	155	
+pcusa	hq4	
+peter tordy	el1	
+peter yates	zxi	
+pfertzel	3ctl	
+plagiognathus	1k8n	
+pofc		9qy:3,15hi:2
+pofc botev		9qy:3
+pofc botev vratsa	9qy	
+pofc rakovski	15hi	
+pompeiana	3q65	
+prince von buelow	36t5	
+prince von bulow	36t5	
+prince von metternich	2255	
+princess caroline		1ccz:4,1qon:5,2g83:5,4860:4,4eqr:7,4esl:5,4iuh:8,5mk4:4,617y:6
+princess caroline amelia elizabeth	2z54	
+princess caroline augusta of bavaria	1bwj	
+princess caroline elizabeth of great britain	1qon	
+princess caroline ferdinande of the two sicilies	131q	
+princess caroline hrh the princess of hanover	1ccz	
+princess caroline louise		4eqr:7
+princess caroline louise of		4eqr:7
+princess caroline louise of saxe		4eqr:7
+princess caroline louise of saxe weimar		4eqr:7
+princess caroline louise of saxe weimar eisenach	4eqr	
+princess caroline mathilde	2g83	2g83:5,4iuh:8
+princess caroline mathilde of		2g83:5,4iuh:8
+princess caroline mathilde of denmark	2g83	
+princess caroline mathilde of saxe		4iuh:8
+princess caroline mathilde of saxe coburg		4iuh:8
+princess caroline mathilde of saxe coburg and		4iuh:8
+princess caroline mathilde of saxe coburg and gotha	4iuh	
+princess caroline mathilde of saxe coburg gotha	4iuh	
+princess caroline matilda of great britain	19dd	
+princess caroline matilda of wales	19dd	
+princess caroline of		1ccz:4,1qon:5,4860:4,5mk4:4,617y:6
+princess caroline of brunswick	2z54	
+princess caroline of brunswick wolfenbuettel	2z54	
+princess caroline of brunswick wolfenbuttel	2z54	
+princess caroline of denmark	5mk4	
+princess caroline of gloucester	4860	
+princess caroline of great		1qon:5
+princess caroline of great britain	1qon	
+princess caroline of hanover	1ccz	
+princess caroline of hesse rheinfels rotenburg	2r03	
+princess caroline of monaco	1ccz	
+princess caroline of naples	131q	
+princess caroline of naples and sicily	131q	
+princess caroline of nassau usingen	3twk	
+princess caroline of parma	1r74	
+princess caroline of waldeck		617y:6
+princess caroline of waldeck and		617y:6
+princess caroline of waldeck and pyrmont	617y	
+princess caroline polyxene of nassau usingen	3twk	
+princess caroline reuss		4esl:5
+princess caroline reuss of		4esl:5
+princess caroline reuss of greiz	4esl	
+rapace noomi	17iw	
+refused	5bpv	
+refused band	5bpv	
+reiningue	1a5n	
+renton	mlf,1s4g	1i38:3
+renton dumbartonshire	1s4g	
+renton dunbartonshire	1s4g	
+renton f		1i38:3
+renton f c	1i38	
+renton fc	1i38	
+renton howard wood levin architects	2cre	
+renton reporter	2bw8	
+renton scotland	1s4g	
+renton wa	mlf	
+renton wahsington	mlf	
+renton wash	mlf	
+renton washington	mlf	
+renton washington usa	mlf	
+renton west dunbartonshire	1s4g	
+rhodopina	10ix	
+robert ira gordon	3g6t	
+robert n		o27:3,3p4k:3,47uv:3,4n48:3,5jek:3
+robert n bradbury	o27	
+robert n clayton	47uv	
+robert n fried	4n48	
+robert n lee	3p4k	
+robert n munsch	5jek	
+robert n noyce	1c9j	
+robert n young	5z1z	
+ryjewo commune	156r	
+sebino		3wmd:2
+sebino nela	4van	
+sebino plaku	3wmd	
+settala	22ob	
+singo edan	7o4	
+sjaeland	216r	
+sjaj u ocima	5yk6	
+stanislao		2oxw:2
+stanislao cannizzaro	2oxw	
+szilagysomlyo	2avs	
+terrycloth experiment	53hn	
+the champion	6270	2xrl:4
+the champion 1915 film	6270	
+the champion movie	6270	
+the champion of		2xrl:4
+the champion of a great love	5p0	
+the champion of pontresina	2xrl	
+the champion single sculls	5pmb	
+the parole		61g0:3
+the parole office	61g0	
+the parole officer	61g0	
+the parole officer film	61g0	
+turches	34rn	
+turches brasov	34rn	
+ugarska	4wv	
+vanderwerp hall	b9u	
+vectors and scalars	4a25	
+waxworks	40dt	
+waxworks film	40dt	
+weich i	djk	
+wurmannsquick	4c6x	
+xion kingdom hearts	6hul	
+xion the unborn	3plb	
+zoroasterianism	c0t	

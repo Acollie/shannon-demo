@@ -1,0 +1,487 @@
+48 contiguous united states	qyh	
+48 hours film	17im	
+48 hours movie	17im	
+48 hrs	17im	
+48 hrs 2	1d5d	
+a john	3ugb	
+aberyswyth	9d5	
+adp10	17m1	
+aladag		kbz:2
+aladag adana	kbz	
+aladag district	kbz	
+asobal	13rd	
+badon min	4v0u	
+battipaglia	1zli	
+beah		3jaa:2
+beah richards	3jaa	
+bhawalpur	qrt	
+biblioteka		4t6q:3,5ki3:3
+biblioteka dlya		5ki3:3
+biblioteka dlya chteniya	5ki3	
+biblioteka dlya chtenya	5ki3	
+biblioteka dlya chtenyia	5ki3	
+biblioteka im lenina	4t6q	
+biblioteka imeni		4t6q:3
+biblioteka imeni lenina	4t6q	
+biblioteka imeni lenina moscow metro	4t6q	
+bojonegara	3efp	
+brugine	33rm	
+buju		2lek:2
+buju banta	2lek	
+buju bantan	2lek	
+buju banton	2lek	
+buju banton comments	2lek	
+buloke shire	iyq	
+cairns	90n	x43:2,42s7:2
+cairns australia	90n	
+cairns hiking	6fta	
+cairns qld	90n	
+cairns queensland	90n	
+cairns queensland australia	90n	
+cairns region	x43	
+cairns regional council	x43	
+cairns taipans	42s7	
+cairns taipans roster	42s7	
+camagna	3n6f	3n6f:2
+camagna monferrato	3n6f	
+celestial		6fnl:2
+celestial archives	6fs5	
+celestial bodes	5tb	
+celestial bodies	5tb	
+celestial body	5tb	
+celestial body atmosphere	1smr	
+celestial body s atmosphere	1smr	
+celestial bronze	6g57	
+celestial diva	1iok	
+celestial dome	5r4	
+celestial dynamics	6fnl	
+celestial mechanician	6fnl	
+celestial mechanics	6fnl	
+celestial object	5tb	
+celestial objects	5tb	
+celestial star	bc	
+cheroy	2rto	
+chirag		xip:4
+chirag kerala fc	xip	
+chirag united		xip:4
+chirag united club	xip	xip:4
+chirag united club kerala	xip	
+chirag united fc	ess	
+chirag united kerala f c	xip	
+chirag united kerala fc	xip	
+chirag united sc	ess	
+chirag united sc calcutta	ess	
+chirag united sports club	ess	
+cleary beverly	h7x	
+courtyards	6bxk	
+cozzano	32zs	
+cranston	f5v	
+cranston r i	f5v	
+cranston rhode island	f5v	
+cranston ri	f5v	
+duplin		1m63:2
+duplin county	1m63	
+duplin county n c	1m63	
+duplin county nc	1m63	
+duplin county north carolina	1m63	
+edward gossett	35hd	
+edward shearmur	izl	
+edward shearmur composer	izl	
+elsag	2ar0	
+evy goffin	56pw	
+evy harandis	47t7	
+evy marandys	47t7	
+evy maria meineke	2y2q	
+fatshark	66wg	
+fc granit		8sn:3
+fc granit cherkasy	ns6	
+fc granit mikashevichi	8sn	
+fc granit penza	7xt	
+fightclub	13d4	
+finhan	3cyb	
+fitchburg	dpw	27f4:3
+fitchburg finches	6h2m	
+fitchburg ma	dpw	
+fitchburg mass	dpw	
+fitchburg massachusetts	dpw	
+fitchburg public library	dpw	
+fitchburg state	27f4	27f4:3
+fitchburg state college	27f4	
+fitchburg state falcons	27f4	
+fitchburg state falcons football	27f4	
+fitchburg state falcons track and field	27f4	
+fitchburg state university	27f4	
+freziera	10w6	
+frioniel	4dqf	
+garrigas	2prq	
+geldreland	6a1	
+goztepespor	7qt	
+groff jonathan	1qkb	
+gst catalina	209h	
+headset jimmy tamborello	5slh	
+hinghua	2sna	
+humbauville	33yz	
+hunengrab	jjl	
+innzell	4z9e	
+jacmel	274z	
+jacmel haiti	274z	
+janaillat	1v0p	
+jelal talebani	55bp	
+joaquim	6c0	m9n:2,y2p:3,2ain:3,3wsj:2,4rmb:4,4ufu:2,4z7o:4,54m1:2,5dlx:2,5fkf:2,5gkl:2,5lm2:2,5ujm:5,5xh9:4,68uj:2
+joaquim adao	5gkl	
+joaquim agostinho	4ufu	
+joaquim agostinho da silva	27k9	
+joaquim agostinho da silva ribeiro	27k9	
+joaquim agostinho silva ribeiro	27k9	
+joaquim alberto		2ain:3
+joaquim alberto ferreira machado	4y60	
+joaquim alberto silva	2ain	
+joaquim assis	sk6	
+joaquim aurelio barreto nabuco de araujo	5lm2	
+joaquim da silva neves	5dlx	
+joaquim de		y2p:3
+joaquim de almeida	y2p	
+joaquim devanir		5ujm:5
+joaquim devanir ferreira		5ujm:5
+joaquim devanir ferreira do		5ujm:5
+joaquim devanir ferreira do carmo	5ujm	
+joaquim ferraz	3wsj	
+joaquim first name	6c0	
+joaquim given name	6c0	
+joaquim leitao	54m1	
+joaquim machado de assis	sk6	
+joaquim machado goncalves	4onx	
+joaquim manoel de macedo	4rmb	
+joaquim manuel		4rmb:4
+joaquim manuel de		4rmb:4
+joaquim manuel de macedo	4rmb	
+joaquim manuel sampaio da silva	3i03	
+joaquim maria machado de assis	sk6	
+joaquim miguel leitao de freitas ferraz	3wsj	
+joaquim molins	5xh9	5xh9:4
+joaquim molins i		5xh9:4
+joaquim molins i amat	5xh9	
+joaquim murat	14th	
+joaquim nabuco	5lm2	
+joaquim neves	5dlx	
+joaquim pereirinha	68uj	
+joaquim rife	5fkf	
+joaquim rodriguez	m9n	
+joaquim rodriguez oliver	m9n	
+joaquim silva footballer	2ain	
+joaquim teofilo braga	608k	
+joaquim teofilo fernandes braga	608k	
+joaquim vea		4z7o:4
+joaquim vea baro	4z7o	
+joaquim vea i		4z7o:4
+joaquim vea i baro	4z7o	
+john dunning	53od	
+john dunning film editing	53od	
+john dunning film editor	53od	
+kervignac	2p8w	
+lakascmd	jq2,4i1o	
+lakascmd 1991	4i1o	
+lakascmd original	4i1o	
+le larderet	42tn	
+legnaro	3ary	
+lengoa veneta	1weo	
+lijphart	5lg2	
+lointek	1sq4	
+lointek team	1sq4	
+lophiolepis	itf	
+louis disney	cuq	
+lutzk	97x	
+lybba	5vt8	
+madridejos	2ed6	
+madridejos spain	2ed6	
+madridejos toledo	2ed6	
+maier leibnitz	29yj	
+maier leibnitz prize	26jh	
+malhuer county oregon	222g	
+mantic	rw7	
+maruthur gopala ramachandran	7yt	
+masny	2hn9	
+matters gravity	2l5	
+matters of gravity newsletter	2l5	
+matters of life and death	1q01	
+matudo	gnp	
+matudo tiba	gnp	
+mehmet		2e0b:2,2tcv:2,3pea:2,3y2s:2,44zg:2,46rw:2,48wg:2,49hb:3,4lta:2,4np1:2,4okd:2,4q8a:2,4si6:2,4u49:2,4v82:2,4y3v:2,54i1:2,553y:2,5axr:3,5b3w:2,5fa4:2,5fus:2,5i2j:2,5k1x:2,5p9s:2,5pun:2,5zp6:3,63ny:2,653m:2,6ek4:3
+mehmet a ersoy	5axr	
+mehmet akguen	4okd	
+mehmet akgun	4okd	
+mehmet akif		5axr:3
+mehmet akif ersoy	5axr	
+mehmet aksu	46rw	
+mehmet akyuz	48wg	
+mehmet al	4lta	
+mehmet ali		5zp6:3
+mehmet ali has	5zp6	
+mehmet ali of egypt	31s0	
+mehmet ali pasa hanedan	wg8	
+mehmet ali pasha	31s0	
+mehmet altinsoy	63ny	
+mehmet altnsoy	63ny	
+mehmet aurelio	54i1	
+mehmet bolukbas	5i2j	
+mehmet bolukbasi	5i2j	
+mehmet boztepe	4q8a	
+mehmet budak	5p9s	
+mehmet c oz	2e0b	
+mehmet cakir	5b3w	
+mehmet cakr	5b3w	
+mehmet cengiz oz	2e0b	
+mehmet cogum	5k1x	
+mehmet dragusha	4si6	
+mehmet ekici	3y2s	
+mehmet gueven	4y3v	
+mehmet guven	4y3v	
+mehmet hetemaj	44zg	
+mehmet i	29bs	
+mehmet ii	yw5	
+mehmet iii	2npa	
+mehmet ismail shehu	553y	
+mehmet iv	2jq4	
+mehmet karatay mt kenya bottom bar2	6f55	
+mehmet kiskac	6ek4	
+mehmet nusret	45mq	
+mehmet oz	2e0b	
+mehmet polat	4np1	
+mehmet resat	118i	
+mehmet sabanc	5fa4	
+mehmet sabanci	5fa4	
+mehmet sarper		6ek4:3
+mehmet sarper kiskac	6ek4	
+mehmet scholl	3pea	
+mehmet sedef	653m	
+mehmet seyfettin sedef	653m	
+mehmet shehu	553y	
+mehmet tapar	617o	
+mehmet the conqueror	yw5	
+mehmet topal	4v82	
+mehmet turkmehmet	5pun	
+mehmet v	118i	
+mehmet vehib kac	49hb	
+mehmet vehib kaci	49hb	
+mehmet vehip		49hb:3
+mehmet vehip kac	49hb	
+mehmet vi	15q9	
+mehmet yildiz	5fus	
+mehmet yilmaz footballer born 1979	2tcv	
+mehmet yilmaz striker	2tcv	
+mehmet yldz	5fus	
+mehmet ylmaz	2tcv	
+mehmet ylmaz footballer born 1979	2tcv	
+mehmet ylmaz striker	2tcv	
+mehmet yozgatl	4u49	
+mehmet yozgatli	4u49	
+mehmet yuksel	3pea	
+mezieres		1n4a:3,1ozo:3,27yi:3,280b:3,29ks:3,32xa:3,3dlc:3,3ghr:3,3n4m:3,40y4:3
+mezieres en		29ks:3,3dlc:3,3ghr:3,3n4m:3
+mezieres en brenne	3ghr	
+mezieres en gatinais	3dlc	
+mezieres en santerre	29ks	
+mezieres en vexin	3n4m	
+mezieres france	abm	
+mezieres lez		40y4:3
+mezieres lez clery	40y4	
+mezieres sous		280b:3
+mezieres sous lavardin	280b	
+mezieres sur		1n4a:3,1ozo:3,27yi:3,32xa:3
+mezieres sur couesnon	1ozo	
+mezieres sur oise	27yi	
+mezieres sur ponthouin	32xa	
+mezieres sur seine	1n4a	
+michael rymer	15qk	
+microbiologist	6lu	
+mitio kaku	2mbu	
+mosalman	1hdq	
+mullberry	69e4	
+naushad	mmg	
+naushad ali	mmg	
+nectandra	j27	
+neufvillage	3jna	
+nidaria	5kmx	
+osnabruek germany	49t	
+pachyrhizanthe	27jr	
+passavia	7iq	
+patekar	h6x	
+pee	6ace	
+pee letter	6ace	
+pee wee		1agd:5,4qo3:3,5xy7:3
+pee wee crayton	5xy7	
+pee wee herman	uzn	
+pee wee herman s big adventure	1agd	
+pee wee hermon	uzn	
+pee wee king	4qo3	
+pee wee s		1agd:5
+pee wee s big		1agd:5
+pee wee s big adventure	1agd	
+pee wee s playhouse the movie	uzn	
+pee wees big adventure	1agd	
+peter pospelov	3m7o	
+petin	40rs	
+poulidor	24o6	
+princess catharina amalia	5hc4	
+princess catharina amalia of the netherlands	5hc4	
+princess catharina amalia princess of orange	5hc4	
+princess catharina amallia of the netherlands	5hc4	
+princess catharina of wuerttemberg	3yda	
+princess catharina of wurttemberg	3yda	
+princess catharina ursula of hohenzollern hechingen	4yl4	
+princess catharina ursula of hohenzollernhechingen	4yl4	
+principaute d andorre	1t0	
+propiocine	at4	
+pussigny	33q2	
+qart hadast	5pfo	
+qart hadshat	5pfo	
+qisarya	45bc	
+quezaltenango	kaf	
+raggi orhallsson	5rq1	
+rechytsia raion	3328	
+richard arkwright	62iu	
+richard arkwright barrister	62iu	
+richard arkwright snelling	4mjf	
+richard john c chartres	5rkv	
+richard john carew chartres	5rkv	
+richard john chartres	5rkv	
+richard john dick grayson	2o58	
+richard john evans	416f	
+richard john grayson	2o58	
+richard john grieco jr	464g	
+richard john huxford	36ay	
+richard john keogh	4dxu	
+richard john kerry	3sgv	
+richard john kind	si2	
+richard john parfitt	4fb8	
+richard john rick santorum	1tvy	
+richard john ritchie humphreys	4xuv	
+richard john roberts	2hrd	
+richard john santorum	1tvy	
+richard john santorum ksmom	1tvy	
+richard john seddon	3kt6	
+richard john sinclair laws	5mui	
+richard john thompson	hss	
+robert phelan langlands	3apu	
+roggenhouse	2cmh	
+rolandinho	2zlo	
+roro ima	iq9	
+sachaverell sitwell	5m4a	
+saint aubin	29c8,2haf,2j5i,2wp6,2y8d,3aec,3d29,3ngq	16uz:4,1i0p:4,1jnq:4,1qvf:4,1tz8:4,1wno:3,21lx:4,25fm:4,26jr:4,26sx:4,27kc:4,2830:4,288d:3,2b29:4,2bo3:4,2br6:4,2ca7:3,2cth:4,2dri:4,2hhh:3,2ifi:4,2l2q:4,2mrd:4,2os7:3,2qg0:4,2wh6:4,3069:4,31dd:4,31wo:4,32l2:4,33du:4,3706:4,3bfw:4,3bvg:4,3bwi:4,3ejl:4,3fhm:4,3op3:4,3qas:4,3som:4,3uhq:4,3w1x:4,3zln:4,42vz:4,451s:4,4byh:4,4g1s:4
+saint aubin aisne	2haf	
+saint aubin aube	29c8	
+saint aubin celloville	2hhh	
+saint aubin cote d or	2y8d	
+saint aubin d		1i0p:4,1qvf:4,21lx:4
+saint aubin d appenai	21lx	
+saint aubin d aubigne	1i0p	
+saint aubin d ecrosville	1qvf	
+saint aubin de		1tz8:4,27kc:4,2bo3:4,2br6:4,2cth:4,2dri:4,31dd:4,3706:4,3ejl:4,42vz:4,4byh:4
+saint aubin de baubigne	ti5	
+saint aubin de blaye	42vz	
+saint aubin de bonneval	3ejl	
+saint aubin de branne	2br6	
+saint aubin de courteraie	1tz8	
+saint aubin de cretot	3706	
+saint aubin de lanquais	2bo3	
+saint aubin de locquenay	31dd	
+saint aubin de luigne	4byh	
+saint aubin de medoc	27kc	
+saint aubin de poitiers	8c6	
+saint aubin de scellon	2dri	
+saint aubin de terregatte	2cth	
+saint aubin des		25fm:4,26sx:4,2l2q:4,3bfw:4,3bwi:4,3fhm:4,3op3:4,4g1s:4
+saint aubin des bois	2l2q	
+saint aubin des bois calvados	2l2q	
+saint aubin des chateaux	25fm	
+saint aubin des chaumes	3fhm	
+saint aubin des coudrais	3bfw	
+saint aubin des grois	4g1s	
+saint aubin des landes	26sx	
+saint aubin des ormeaux	3bwi	
+saint aubin des preaux	3op3	
+saint aubin du		16uz:4,31wo:4,33du:4,3som:4
+saint aubin du cormier	16uz	
+saint aubin du desert	3som	
+saint aubin du pavail	31wo	
+saint aubin du perron	33du	
+saint aubin en		2ifi:4,3qas:4
+saint aubin en bray	3qas	
+saint aubin en charollais	2ifi	
+saint aubin epinay	2ca7	
+saint aubin fosse		3bvg:4
+saint aubin fosse louvain	3bvg	
+saint aubin indre	3d29	
+saint aubin jura	2j5i	
+saint aubin la		3uhq:4
+saint aubin la plaine	3uhq	
+saint aubin landes	2wp6	
+saint aubin le		2mrd:4,2wh6:4,3069:4,3zln:4
+saint aubin le cauf	3069	
+saint aubin le cloud	2mrd	
+saint aubin le depeint	3zln	
+saint aubin le monial	2wh6	
+saint aubin les		1jnq:4,2b29:4
+saint aubin les elbeuf	1jnq	
+saint aubin les forges	2b29	
+saint aubin lot et garonne	3ngq	
+saint aubin montenoy	288d	
+saint aubin nord	3aec	
+saint aubin of pavail	31wo	
+saint aubin riviere	2os7	
+saint aubin routot	1wno	
+saint aubin sous		26jr:4
+saint aubin sous erquery	26jr	
+saint aubin sur		2830:4,2qg0:4,32l2:4,3w1x:4,451s:4
+saint aubin sur aire	2qg0	
+saint aubin sur loire	32l2	
+saint aubin sur mer	451s	
+saint aubin sur mer calvados	451s	
+saint aubin sur scie	2830	
+saint aubin sur yonne	3w1x	
+saint mene la danse	58am	
+salbia	179w	
+saucats	2arq	
+schneiderlin	3bc7	
+shivas mark	67w3	
+sophisticated boom box mmxvi	1bc5	
+sophisticated pop	63n7	
+soubrettes	5isa	
+spycher	4jkq	
+strojonet	4sd3	
+tabermann	446b	
+tadeastrum	11pw	
+tbam auditorium	33p	
+the slipper		267u:5
+the slipper and		267u:5
+the slipper and the		267u:5
+the slipper and the rose	267u	
+the slipper and the rose the story of cinderella	267u	
+the slipper the rose	267u	
+the trotters	1g2	
+todalieae	5lab	
+torredembarra	3j7v	
+torredembarra municipal council	3j7v	
+trapatoni	4col	
+truecombat elite	63jn	
+tsikoane	48cj	
+ulfhild	4w1f	
+ulfhild of sweden	4w1f	
+unieux	26fj	
+unieux france	26fj	
+vitamin		27az:2,40sj:2,60e2:2
+vitamin b 1	48nh	
+vitamin b1	48nh	
+vitamin b1 deficiency	48nh	
+vitamin b12 deficient anemia	2vuu	
+vitamin c	27az	
+vitamin c artist	27az	
+vitamin c deficiency	4uey	
+vitamin c music	27az	
+vitamin c singer	27az	
+vitamin d	40sj	
+vitamin d glee	40sj	
+vitamin d3	51ut	
+vitamin m	1xtt	
+vitamin records	60e2	
+zdislava rosalia augusta braunerova	5c26	

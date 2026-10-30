@@ -1,0 +1,374 @@
+17th		cf6:4,16ej:2,26eu:3,5uvj:5
+17th arrondissement	cf6	cf6:4
+17th arrondissement of		cf6:4
+17th arrondissement of paris	cf6	
+17th asian games	19p	
+17th australian infantry brigade	5uvj	
+17th avenue hall	im	
+17th brigade	5uvj	
+17th brigade australia	5uvj	
+17th centuries	16ej	
+17th century	16ej	26eu:3
+17th century b c e	26eu	
+17th century bc	26eu	
+17th century bce	26eu	
+17th combat		5uvj:5
+17th combat service		5uvj:5
+17th combat service support		5uvj:5
+17th combat service support brigade	5uvj	
+17th commonwealth games	1gb5	
+17th duke of norfolk	1lpe	
+17th earl of derby	4afo	
+17th earl of oxford	1v0a	
+17th earl of oxford lord bulbeck	1v0a	
+17th february revolution	pnj	
+17th infantry brigade australia	5uvj	
+17th president of the united states	1pit	
+17th stage of the tour de france 2005	3rqh	
+17th state	7u	
+17th vice president of the united states	3nq5	
+17th winter olympic games	yl	
+75006	8dv	
+acquired gender	4ymb	
+acquired immune deficiency syndrome or acquired immunodeficiency syndrome	5k0	
+acquired syphilis	wh1	
+adri		4zx3:3
+adri rodrigues	5woi	
+adri rodriguez	5woi	
+adri van		4zx3:3
+adri van der poel	4x2k	
+adri van tiggelen	4zx3	
+aeshnidae	1bu0	
+aigueperse	2b2q,2rqu	
+aigueperse puy de dome	2b2q	
+aigueperse rhone	2rqu	
+amartaya sen	ubf	
+anotoli solonizyn	3v8z	
+arzhal	30ze	
+astereae	4psf	
+atheistic	13u	
+autsin	pt	
+autsin texas	pt	
+ayerbe	4t0g	
+ayerbe de broto	4tqf	
+ayerbe huesca	4t0g	
+ayerbe spain	4t0g	
+bellocchio	1b7o	
+bohuslav		rn9:2,518b:3,5rpj:2
+bohuslav cernohorsky	518b	
+bohuslav havranek	5rpj	
+bohuslav martin	rn9	
+bohuslav martinu	rn9	
+bohuslav matej		518b:3
+bohuslav matej cernohorsky	518b	
+bonningues		1yq6:3,3qxm:3
+bonningues les		1yq6:3,3qxm:3
+bonningues les ardres	3qxm	
+bonningues les calais	1yq6	
+borut		2bpp:2,320b:2,4480:2
+borut bozic	2bpp	
+borut pahor	320b	
+borut pohar	320b	
+borut semler	4480	
+bouqueval	2vo9	
+byre	lr6	
+casalbore	4h41	
+ccalla	klz	
+cetecean	2dwq	
+charles barkely	16ad	
+charles tingwell	1587	
+chlumetz	zbx	
+chlumetz an der zidlina	zbx	
+coivert	28f7	
+conchylis	eoq	
+copparo	3plt	
+couargues	372p	
+cream	xcp,1bzn,1qnp	
+cream band	xcp	
+cream color	1bzn	
+cream colour	1bzn	
+cream custard	5vd0	
+cream food	1qnp	
+cream house spider	1o9q	
+cream ice	k3f	
+cream rinse	67il	
+cream sauce	6yw	
+cream soda computer	17tk	
+damloup	338c	
+david marshall		2thj:3
+david marshall coulthard	mn1	
+david marshall grant	2thj	
+detariaceae	12wd	
+dickenson		3i6o:2
+dickenson college	6hg	
+dickenson county	3i6o	
+dickenson county tennessee	2jxv	
+dickenson county tn	2jxv	
+dickenson county va	3i6o	
+dickenson county virginia	3i6o	
+dorthy dandridge	165w	
+dorthy gale	6h1c	
+dorthy hunt	5os1	
+dorthy lamour	jid	
+dorthy sayers	kus	
+douzdrina	2ko5	
+dragoni	514u	
+dresano	40ee	
+enisi	4xfn	
+eteinne emile marie boutroux	3fwj	
+eulophocampe	h57	
+faouzi		4zp9:2,57nb:3,5l03:2
+faouzi el		57nb:3
+faouzi el brazi	57nb	
+faouzi mansouri	4zp9	
+faouzi rouissi	5l03	
+fenway	6et7	58lz:3,6et7:2
+fenway bergamot	x77	
+fenway court	1c37	
+fenway park	6et7	
+fenway sports		58lz:3
+fenway sports group	58lz	
+fenway stadium	6et7	
+fuckin		5zun:2
+fuckin in the bushes	5ofc	
+fuckin in the bushes song	5ofc	
+fuckin perfect	5zun	
+fuckin perfect song	5zun	
+gaijin games	5grq	
+gaijin tarento	1nk	
+gemmano	3m7y	
+george guess	65hy	
+germering	54k5	
+gmina goleszow	3y13	
+gotlands kommun	503	
+gotlands laen	3v1g	
+gotlands lan	3v1g	
+grenadin	6bs3	
+grenadin syrup	6bs3	
+henry nash		644o:3
+henry nash smith	644o	
+hiccup horrendous haddock iii	6ggo	
+illhaeusern	2r43	
+ismid	duj	
+james rockefeller	4rgu	
+jany		1pa9:2
+jany holt	1pa9	
+jetfighter	nd8	
+jheng cheng gong	5r58	
+kanezawa han	7v1	
+karasubazara	346x	
+kbo league	2mz6	
+lampia greece	v6x	
+laurvik	aw5	
+le mari de la coiffeuse	28hp	
+le mari de la femme a barbe	49cd	
+leaf	12zf	5d0:2
+leaf axil	12zf	
+leaf beetle	5d0	
+leaf beetles	5d0	
+leaf botany	12zf	
+leaf bug	8w8	
+leaf cutter bee	uu	
+leaf footed bug	16t3	
+leaf footed bugs	16t3	
+leaf forest	6dh4	
+leaf function	5gjs	
+leaf hopper	ee0	
+leaf hoppers	ee0	
+leaf label	1ip2	1ip2:3
+leaf nodes	19q5	
+leaf object	19q5	
+leaf phoenix	hw0	
+leaf record label	1ip2	
+leaf richard	5wkq	
+leaf roller	2ai	
+leaf roller moth	2ai	
+leaf roller moths	2ai	
+leaf rollers	2ai	
+leaf rolling beetle	6fkj	
+leaf rolling weevil	6fkj	
+leaf snail	tsk	
+leaf snails	tsk	
+leaf tree	mxn	
+leaf warbler	jdh	
+lesbufs	2pxh	
+levesque rene	3fw3	
+lien		2swa:2,4jmr:2
+lien chan	4jmr	
+lien chen	4jmr	
+lien chi	42p7	
+lien deyers	2swa	
+lien hoan phim viet nam	5dwo	
+lien yun kang	10zm	
+lindre		1r6c:2,2zat:2
+lindre basse	1r6c	
+lindre haute	2zat	
+lorenzomonaco	3tqf	
+lyall medal	azm	
+mamirolle	34tq	
+manolescus memoiren	5sjn	
+matare	nwz	
+melodies	4pg8	5s57:3
+melodies of		5s57:3
+melodies of america	5s57	
+michael chevalier	52lq	
+michael sheard	3y6p	
+micho	3lx6	
+micho mossulischwili	195l	
+moana	lzm,2lt1	3fhv:2
+moana 2016	lzm	
+moana 2016 film	lzm	
+moana character	lzm	
+moana disney	lzm	
+moana disney character	lzm	
+moana disney film	lzm	
+moana pozzi	3fhv	
+monogram		3tq:2
+monogram pictures	3tq	
+monogram pictures corp	3tq	
+monogram pictures corporation	3tq	
+monogram productions inc	3tq	
+monogram records	1fe2	
+monogram studios	3tq	
+nadeem		52nu:2,5baw:2
+nadeem actor	52nu	
+nadeem baig	52nu	
+nadeem baig actor	52nu	
+nadeem baig pakistani actor	52nu	
+nadeem karim	5baw	
+nangrahar	fe3	
+nangrahar province	fe3	
+neomammillaria	e2d	
+nohab	56ve	
+norbothnia	oyc	
+nurlu	1wlv	
+ontarian	77	
+ontarian stage	4xnk	
+onyang	636v	
+pacifico	53qj	
+pacifico madrid metro	53qj	
+paul lawson	5dcs	
+paul lawson footballer	5dcs	
+penzenskaa oblast	k2j	
+perales		368t:3
+perales de		368t:3
+perales de tajuna	368t	
+pietragalla	3z40	
+polypedates	2nxz	
+pomerania	2fx2	
+pomerania poland and germany	2fx2	
+pomerania portal	2fx2	
+pomerania province	j79	
+pomerania voivodeship	j79	
+pomerania voivodship	j79	
+poupas	29oq	
+prince reggie k	v4b	
+pvem	53f1	
+raspadskaya mezhdurechensk	69mz	
+ratner mark	63mn	
+recompile	sdq	
+representatives of the governments of the member states meeting within the council	14zc	
+saeckingen	1fhw	
+sasi merit school	3dbu	
+sasi tharoor	3mxn	
+sehidler xiyabani	4jjv	
+sempiternal	5v23	
+sempiternal album	5v23	
+sempiternal bring me the horizon album	5v23	
+servomechanical torsion facilitator	27o6	
+sir syd barrett	lhw	
+staufen		513w:3
+staufen breisgau	513w	
+staufen germany	513w	
+staufen im		513w:3
+staufen im breisgau	513w	
+stonia	5ob	
+sueg	5v2w	
+suleimania	lil	
+suleimania governorate	29ip	
+suspense	15i,fty,4y84	
+suspense 1946 film	4y84	
+suspense fiction	15i	
+suspense film	i3	
+suspense films	i3	
+suspense genre	15i	
+suspense narratology	fty	
+suspense thriller	i3	
+suspense thriller film	i3	
+swaythling athletic f c	8j6	
+swaythling cup	j8v	
+swaythling f c	8j6	
+synthesis and degradation of ketone bodies	610t	
+synthesis lecture series	fzp	
+synthesis music	5t9	
+tanihassi coates	222a	
+the bodyguard	znc	66xx:5
+the bodyguard 1992 film	znc	
+the bodyguard original		66xx:5
+the bodyguard original soundtrack		66xx:5
+the bodyguard original soundtrack album	66xx	
+the bodyguard soundtrack	66xx	
+the lugansk people s republic	qe7	
+the masks		3udi:5
+the masks of		3udi:5
+the masks of god	1k46	
+the masks of the		3udi:5
+the masks of the devil	3udi	
+the quebec of belgium	du1	
+the song	6cft	tow:4,1p9b:5,35ma:4,4eah:5,4ji8:5,4n7m:4,6027:5,6abp:5,6bze:5
+the song dynasty	1h3x	
+the song from heaven	5ggy	
+the song of		tow:4,35ma:4,4eah:5,4ji8:5,4n7m:4,6027:5,6abp:5,6bze:5
+the song of a long forgotten ghost	397b	
+the song of benadette	tow	
+the song of bernadette	tow	
+the song of bernadette film	tow	
+the song of bernadette movie	tow	
+the song of ice and fire	hyb	
+the song of love film	2jgv	
+the song of marseille	140w	
+the song of roland	4n7m	
+the song of roland film	4n7m	
+the song of sister		4eah:5
+the song of sister maria	4eah	
+the song of songs	35ma,6h63	
+the song of songs 1933 film	35ma	
+the song of the		4ji8:5,6027:5,6abp:5,6bze:5
+the song of the flame	3kk2	
+the song of the flame film	3kk2	
+the song of the nibelungs	3ql8	
+the song of the nightingale	dma	
+the song of the road	6bze	
+the song of the shirt	6abp	
+the song of the shirt film	6abp	
+the song of the suburbs	4ji8	
+the song of the sun	6027	
+the song queensberry song	t5p	
+the song remains		1p9b:5
+the song remains the		1p9b:5
+the song remains the same	1p9b	
+the song remains the same film	1p9b	
+thomas mann	amx,5rmr	4n5p:3
+thomas mann actor	5rmr	
+thomas mann randolph	4n5p	
+thomas mann randolph jr	4n5p	
+tilloclytus	5vp1	
+tirunesh	59pc	59pc:2
+tirunesh dibaba	59pc	
+tirunesh dibaba kenene	59pc	
+townscape	1c6u	
+tremorel	2scb	
+tv8 france	2b4l	
+unblack	51ph	51ph:2
+unblack metal	51ph	
+ut2k4	63jl	
+valstrona	190q	
+william dickey	65ax	
+william dickey poet	65ax	
+william emil hess	63no	
+wodanaz	ztr	
+yangel yuzhnoye design office	7p8	
+yangel yuzhnoye state design office	7p8	
+yeuhng ji kihng	vhx	
+yurburg	56nm	
+zsazsa gabor	m9g	

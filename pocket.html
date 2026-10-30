@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>GLM Pocket</title>
+<meta name="description" content="GLM Pocket: a private chat assistant that runs on your device. Shannon's knowledge graph answers fact questions with a path you can check; an optional small language model on your device does the talking.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="assets/chat/chat.css">
+<link rel="stylesheet" href="assets/pocket/pocket.css">
+</head>
+<body>
+<div class="app" id="app">
+  <aside class="side" id="side" aria-label="Chats, chat model and About me">
+    <div class="side-top">
+      <a class="brand" href="pocket.html" title="GLM Pocket"><span class="logo" aria-hidden="true">G</span><span>GLM <em>pocket</em></span></a>
+      <button class="icon only-mobile" id="close-side" type="button" aria-label="Close menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <button class="newchat" id="new" type="button">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>New chat</button>
+    <nav class="hist" aria-labelledby="hist-h">
+      <h2 id="hist-h">Chats</h2>
+      <ul id="chats"></ul>
+      <p class="empty-hist" id="no-chats">No chats yet.</p>
+    </nav>
+
+    <section class="mem" aria-labelledby="mem-h">
+      <h2 id="mem-h">About me</h2>
+      <form class="mem-add" id="mem-form">
+        <label class="sr" for="mem-in">Add a fact about yourself</label>
+        <input id="mem-in" type="text" maxlength="200" placeholder="e.g. I'm vegetarian" autocomplete="off">
+        <button class="btn" type="submit" id="mem-addbtn">Add</button>
+      </form>
+      <ul class="mem-list" id="mem-list"></ul>
+      <p class="side-note" id="mem-empty">Nothing saved. Facts you add here are given to the chat model when they look relevant.</p>
+      <button class="btn danger" type="button" id="mem-forget" hidden>Forget everything</button>
+      <p class="side-note" id="mem-where">Stored only in this browser. Nothing is sent anywhere.</p>
+    </section>
+
+    <section class="lmbox" aria-labelledby="lm-h">
+      <h2 id="lm-h">Chat model</h2>
+      <div id="lm-side"></div>
+    </section>
+
+    <section class="packs" aria-labelledby="packs-h">
+      <h2 id="packs-h">Knowledge packs</h2>
+      <div id="packs"></div>
+    </section>
+    <div class="side-foot">
+      <a href="index.html">Full GLM page</a> · <a href="chat.html">GLM chat</a> · <a href="qa.html">Shannon QA</a>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <main class="main">
+    <header class="top">
+      <button class="icon only-mobile" id="open-side" type="button" aria-label="Open menu" aria-controls="side" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+      <div class="top-title"><span id="top-pack">GLM Pocket</span></div>
+      <span class="lmpill" id="lm-pill">Graph only</span>
+    </header>
+
+    <div class="scroll" id="scroll">
+      <div class="thread" id="thread" aria-live="polite" aria-relevant="additions"></div>
+      <div class="hello" id="hello" hidden>
+        <div class="lmcard lmbanner" id="lm-card"></div>
+        <h1>Your assistant, <em>on your device</em></h1>
+        <p class="lede">Clear fact questions go to Shannon's knowledge graph; when it is confident you get the answer and the path it walked.
+          The chat model does everything else. Both run in this browser, and your chats and saved facts stay here.</p>
+        <div class="starters" id="starters"></div>
+      </div>
+    </div>
+
+    <div class="composer-wrap">
+      <div class="loadbar" id="loadbar" role="status" aria-live="polite">
+        <span class="spin" aria-hidden="true"></span><span id="load-t">Starting…</span>
+        <span class="track" id="load-track" hidden><i id="load-i"></i></span>
+      </div>
+      <form class="composer" id="form">
+        <label class="sr" for="q">Message GLM Pocket</label>
+        <textarea id="q" rows="1" placeholder="Loading…" disabled enterkeyhint="send" autocomplete="off"></textarea>
+        <button class="send" id="send" type="submit" aria-label="Send" disabled>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
+      </form>
+      <p class="honest">Runs on your device. Graph answers show their source; language-model answers may be wrong. Early research demo.</p>
+    </div>
+  </main>
+</div>
+<script>
+// Boot watchdog (classic script): any uncaught error shows in the load bar.
+(function () {
+  var show = function (msg) { var t = document.getElementById("load-t"), b = document.getElementById("loadbar"); if (t && b) { b.hidden = false; b.className = "loadbar bad"; t.textContent = msg; } };
+  window.addEventListener("error", function (e) { if (!(e instanceof ErrorEvent) && !(e.target && e.target.tagName === "SCRIPT")) return; console.error("[pocket] uncaught", e.error || e.message); show("Error: " + (e.message || "a script failed to load")); }, true);
+  window.addEventListener("unhandledrejection", function (e) { console.error("[pocket] unhandled", e.reason); show("Error: " + (e.reason && e.reason.message || e.reason)); });
+  setTimeout(function () { if (!window.glmPocket) show("The page script did not start within 30 s (assets/pocket/pocket.js or its imports were blocked)."); }, 30000);
+})();
+</script>
+<script type="module" src="assets/pocket/pocket.js"></script>
+</body>
+</html>

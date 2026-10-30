@@ -1,0 +1,704 @@
+11211	2tpu	
+2011	9yy	5ny:4,8mc:5,cgi:4,kwh:4,nik:3,nqq:4,oa3:7,rj1:3,10zx:3,17xf:4,191m:6,1bjx:3,1crd:3,1ihy:4,1p8c:5,1rpm:4,1sy4:5,1x5e:3,1xi0:3,21ie:2,2955:6,2epc:5,2g46:7,2gfz:6,2hvo:6,2ibd:7,2nqv:6,2ph6:3,2pkn:4,2qfv:4,2r49:4,2rv1:4,2ysp:3,36ne:4,39uq:2,3d36:3,3qjs:3,3uqg:4,4a7c:4,4fqg:2,4hue:4,4k2u:6,4mn2:7,4ngi:8,4odz:3,4qar:5,4qjn:2,4qwm:4,4rb6:6,4rcg:3
+2011 12 bundesliga	1uy4	
+2011 12 cypriot cup	kjv	
+2011 12 cypriot cup for lower divisions	xn4	
+2011 12 cypriot first division	wmv	
+2011 12 cypriot fourth division	13tg	
+2011 12 cypriot second division	11je	
+2011 12 cypriot third division	10v3	
+2011 12 ekstraklasa	2vs5	
+2011 12 fuball bundesliga	1uy4	
+2011 12 fussball bundesliga	1uy4	
+2011 12 indonesia super league u 21	69hf	
+2011 12 isu speed skating world cup	1nju	
+2011 12 liga iv	wun	
+2011 12 russian premier league	2td7	
+2011 12 speed skating world cup	1nju	
+2011 2012 syria uprising	5ga	
+2011 2012 syrian revolution	5ga	
+2011 2012 syrian uprising	5ga	
+2011 aa		5nvk:6
+2011 aa drink		5nvk:6
+2011 aa drink leontien		5nvk:6
+2011 aa drink leontien nl		5nvk:6
+2011 aa drink leontien nl season	5nvk	
+2011 abn		4k2u:6
+2011 abn amro		4k2u:6
+2011 abn amro world		4k2u:6
+2011 abn amro world tennis		4k2u:6
+2011 abn amro world tennis tournament	4k2u	
+2011 ad	9yy	
+2011 aegon		4ygg:3
+2011 aegon classic	4ygg	
+2011 afl		2r49:4,5uxz:4
+2011 afl finals		2r49:4
+2011 afl finals series	2r49	
+2011 afl grand		5uxz:4
+2011 afl grand final	5uxz	
+2011 all		1rpm:4
+2011 all africa		1rpm:4
+2011 all africa games	1rpm	
+2011 all african games	1rpm	
+2011 american music awards	6hvc	
+2011 arab spring	1lry	
+2011 asian		cgi:4,2rv1:4
+2011 asian athletics		2rv1:4
+2011 asian athletics championships	2rv1	
+2011 asian championships in athletics	2rv1	
+2011 asian winter		cgi:4
+2011 asian winter games	cgi	
+2011 asian winter games torch relay	cgi	
+2011 athletics world championships	8mc	
+2011 australian		1x5e:3
+2011 australian open	1x5e	
+2011 australian open tennis	1x5e	
+2011 australian open wildcards	1x5e	
+2011 badminton		2g46:7,2hvo:6,2ibd:7,3uqg:4,508b:7,5874:7
+2011 badminton world		2g46:7,2hvo:6,2ibd:7,3uqg:4,508b:7,5874:7
+2011 badminton world championships	3uqg	2g46:7,2hvo:6,2ibd:7,508b:7,5874:7
+2011 badminton world championships men		2ibd:7,508b:7
+2011 badminton world championships men s		2ibd:7,508b:7
+2011 badminton world championships men s doubles	2ibd	
+2011 badminton world championships men s singles	508b	
+2011 badminton world championships mixed		2hvo:6
+2011 badminton world championships mixed doubles	2hvo	
+2011 badminton world championships women		2g46:7,5874:7
+2011 badminton world championships women s		2g46:7,5874:7
+2011 badminton world championships women s doubles	2g46	
+2011 badminton world championships women s singles	5874	
+2011 bank		52eu:6
+2011 bank of		52eu:6
+2011 bank of the		52eu:6
+2011 bank of the west		52eu:6
+2011 bank of the west classic	52eu	
+2011 bell challenge	59wn	
+2011 bet awards	6goh	
+2011 bhagyaraj	50ie	
+2011 bilderberg		5phf:3
+2011 bilderberg conference	5phf	
+2011 bmw malaysian open	4rcg	
+2011 brazil		4whx:3
+2011 brazil masters	4whx	
+2011 brazilian masters	4whx	
+2011 budapest grand prix	4rb6	
+2011 bwf world championships	3uqg	
+2011 bwf world championships men s doubles	2ibd	
+2011 bwf world championships men s singles	508b	
+2011 bwf world championships mixed doubles	2hvo	
+2011 bwf world championships women s doubles	2g46	
+2011 bwf world championships women s singles	5874	
+2011 bwf world junior championships mixed doubles	4mn2	
+2011 ce	9yy	
+2011 central falls rhode island bankruptcy	33f3	
+2011 challenge		59wn:3
+2011 challenge bell	59wn	
+2011 civil war in libya	pnj	
+2011 copa		1xi0:3,532w:5
+2011 copa america	1xi0	
+2011 copa sony		532w:5
+2011 copa sony ericsson		532w:5
+2011 copa sony ericsson colsanitas	532w	
+2011 cup		5ntm:4
+2011 cup of		5ntm:4
+2011 cup of china	5ntm	
+2011 daegu	8mc	
+2011 eneco		rj1:3
+2011 eneco tour	rj1	
+2011 eurobasket	1j9g	
+2011 europcar season	1ihy	
+2011 european		1p8c:5,2955:6,4rfr:6
+2011 european athletics		1p8c:5
+2011 european athletics indoor		1p8c:5
+2011 european athletics indoor championships	1p8c	
+2011 european basketball championship	1j9g	
+2011 european indoor championships in athletics	1p8c	
+2011 european mixed		2955:6
+2011 european mixed team		2955:6
+2011 european mixed team badminton		2955:6
+2011 european mixed team badminton championships	2955	
+2011 european youth		4rfr:6
+2011 european youth summer		4rfr:6
+2011 european youth summer olympic		4rfr:6
+2011 european youth summer olympic festival	4rfr	
+2011 eurovision song contest	7r4	
+2011 f1	2epc	
+2011 f1 season	2epc	
+2011 fall classic	3qjs	
+2011 family		4qwm:4
+2011 family circle		4qwm:4
+2011 family circle cup	4qwm	
+2011 fed		1crd:3
+2011 fed cup	1crd	
+2011 fia formula one world championship	2epc	
+2011 fina world aquatics championships	17xf	
+2011 fina world championships	17xf	
+2011 fis nordic world ski championships	48h	
+2011 formula		2epc:5
+2011 formula 1 season	2epc	
+2011 formula one		2epc:5
+2011 formula one game	2z1h	
+2011 formula one season	2epc	
+2011 formula one world		2epc:5
+2011 formula one world championship	2epc	
+2011 french		3d36:3
+2011 french open	3d36	
+2011 french open tennis	3d36	
+2011 gastein		4w79:3
+2011 gastein ladies	4w79	
+2011 gdf suez grand prix	4rb6	
+2011 generali		4w83:4
+2011 generali ladies		4w83:4
+2011 generali ladies linz	4w83	
+2011 gent wevelgem	4fqg	
+2011 gentwevelgem	4fqg	
+2011 giro		2pkn:4
+2011 giro d		2pkn:4
+2011 giro d italia	2pkn	
+2011 glava tour of norway	4a7c	
+2011 grand		4ngi:8,4we0:5
+2011 grand prix		4ngi:8,4we0:5
+2011 grand prix de		4we0:5
+2011 grand prix de denain	4we0	
+2011 grand prix sar		4ngi:8
+2011 grand prix sar la		4ngi:8
+2011 grand prix sar la princesse		4ngi:8
+2011 grand prix sar la princesse lalla		4ngi:8
+2011 grand prix sar la princesse lalla meryem	4ngi	
+2011 guangzhou		4yvf:6
+2011 guangzhou international		4yvf:6
+2011 guangzhou international women		4yvf:6
+2011 guangzhou international women s		4yvf:6
+2011 guangzhou international women s open	4yvf	
+2011 harrisburg pennsylvania bankruptcy	rj	
+2011 hp		4odz:3
+2011 hp open	4odz	
+2011 htc highroad women season	2gpq	
+2011 htchighroad women season	2gpq	
+2011 iaaf world athletics championships	8mc	
+2011 iaaf world championships	8mc	
+2011 iaaf world championships in athletics	8mc	
+2011 indonesia premier league	4yg7	
+2011 internationaux		5skf:4
+2011 internationaux de		5skf:4
+2011 internationaux de strasbourg	5skf	
+2011 jefferson county alabama bankruptcy	gf9	
+2011 junior eurovision song contest	5nfs	
+2011 lbc united football league	22cs	
+2011 libya crisis	pnj	
+2011 libya uprising	pnj	
+2011 libyan civil war	pnj	
+2011 libyan protests	pnj	
+2011 libyan rebellion	pnj	
+2011 libyan war	pnj	
+2011 liga primer indonesia	4yg7	
+2011 malaysian		4rcg:3
+2011 malaysian open	4rcg	
+2011 masters	21ie	
+2011 masters snooker	21ie	
+2011 medibank		6ae8:4
+2011 medibank international		6ae8:4
+2011 medibank international sydney	6ae8	
+2011 mena revolutions	1lry	
+2011 mercury		4hue:4
+2011 mercury insurance		4hue:4
+2011 mercury insurance open	4hue	
+2011 ncaa division i men s volleyball tournament	12pd	
+2011 ncaa men s volleyball tournament	12pd	
+2011 ncaa men s water polo championship	y6g	
+2011 oman national football team results	6nu	
+2011 open		52he:4
+2011 open de suede vargarda	4vr8	
+2011 open gdf		52he:4
+2011 open gdf suez	52he	
+2011 pag	nqq	
+2011 pan		nqq:4
+2011 pan am games	nqq	
+2011 pan american		nqq:4
+2011 pan american games	nqq	
+2011 paris nice	39uq	
+2011 paris roubaix	4qjn	
+2011 parisnice	39uq	
+2011 parisroubaix	4qjn	
+2011 player championship tour	6c60	
+2011 player tour championship	6c60	
+2011 poli		4rb6:6
+2011 poli farbe		4rb6:6
+2011 poli farbe budapest		4rb6:6
+2011 poli farbe budapest grand		4rb6:6
+2011 poli farbe budapest grand prix	4rb6	
+2011 porsche		59l6:5
+2011 porsche tennis		59l6:5
+2011 porsche tennis grand		59l6:5
+2011 porsche tennis grand prix	59l6	
+2011 ptt		5t87:4
+2011 ptt pattaya		5t87:4
+2011 ptt pattaya open	5t87	
+2011 rakuten		4thj:6
+2011 rakuten japan		4thj:6
+2011 rakuten japan open		4thj:6
+2011 rakuten japan open tennis		4thj:6
+2011 rakuten japan open tennis championships	4thj	
+2011 roland garros	3d36	
+2011 saxo bank sungard season	12mt	
+2011 saxo banksungard season	12mt	
+2011 sudirman		nik:3
+2011 sudirman cup	nik	
+2011 summer		2ph6:3
+2011 summer universiade	2ph6	
+2011 summer universiade medal table	2ph6	
+2011 super bowl	6gse	
+2011 superbowl	6gse	
+2011 swiss		5c8t:5
+2011 swiss federal		5c8t:5
+2011 swiss federal council		5c8t:5
+2011 swiss federal council election	5c8t	
+2011 syria war	5ga	
+2011 tdf	5ny	
+2011 team		10zx:3,1ihy:4
+2011 team europcar		1ihy:4
+2011 team europcar season	1ihy	
+2011 team saxo bank sungard season	12mt	
+2011 team sky	10zx	
+2011 team sky season	10zx	
+2011 the masters	21ie	
+2011 toray		4qar:5
+2011 toray pan		4qar:5
+2011 toray pan pacific		4qar:5
+2011 toray pan pacific open	4qar	
+2011 tour		5ny:4,2gfz:6,4a7c:4
+2011 tour de		5ny:4
+2011 tour de france	5ny	
+2011 tour of		2gfz:6,4a7c:4
+2011 tour of benelux	rj1	
+2011 tour of flanders		2gfz:6
+2011 tour of flanders for		2gfz:6
+2011 tour of flanders for women	2gfz	
+2011 tour of norway	4a7c	
+2011 tro		2qfv:4
+2011 tro bro		2qfv:4
+2011 tro bro leon	2qfv	
+2011 uci		kwh:4,1sy4:5
+2011 uci europe tour	w11	
+2011 uci road		1sy4:5
+2011 uci road world		1sy4:5
+2011 uci road world championships	1sy4	
+2011 uci world		kwh:4
+2011 uci world tour	kwh	
+2011 uprising	1lry	
+2011 vuelta		36ne:4
+2011 vuelta a		36ne:4
+2011 vuelta a colombia	36ne	
+2011 wimbledon	2ysp	2ysp:3
+2011 wimbledon championships	2ysp	
+2011 wimbledon championships tennis	2ysp	
+2011 winter asian games	cgi	
+2011 wipe	1cgp	
+2011 world		8mc:5,oa3:7,17xf:4,191m:6,2nqv:6,3qjs:3,4mn2:7,654y:5,6hr1:9
+2011 world allround		2nqv:6
+2011 world allround speed		2nqv:6
+2011 world allround speed skating		2nqv:6
+2011 world allround speed skating championships	2nqv	
+2011 world aquatics		17xf:4
+2011 world aquatics championships	17xf	
+2011 world athletics championships	8mc	
+2011 world championships		8mc:5,6hr1:9
+2011 world championships in		8mc:5,6hr1:9
+2011 world championships in athletics	8mc	6hr1:9
+2011 world championships in athletics medal table	8mc	
+2011 world championships in athletics men		6hr1:9
+2011 world championships in athletics men s		6hr1:9
+2011 world championships in athletics men s 100		6hr1:9
+2011 world championships in athletics men s 100 metres	6hr1	
+2011 world junior		4mn2:7
+2011 world junior badminton		4mn2:7
+2011 world junior badminton championships		4mn2:7
+2011 world junior badminton championships mixed		4mn2:7
+2011 world junior badminton championships mixed doubles	4mn2	
+2011 world men		191m:6
+2011 world men s		191m:6
+2011 world men s handball		191m:6
+2011 world men s handball championship	191m	
+2011 world rally		654y:5
+2011 world rally championship	654y	654y:5
+2011 world rally championship season	654y	
+2011 world series	3qjs	
+2011 world single		oa3:7
+2011 world single distance		oa3:7
+2011 world single distance speed		oa3:7
+2011 world single distance speed skating		oa3:7
+2011 world single distance speed skating championships	oa3	
+2011 world universiade	2ph6	
+2011 wrc	654y	
+2011 ws	3qjs	
+2011 wta		1bjx:3
+2011 wta tour	1bjx	
+32209 zip code	1hy	
+6r 7r 3 5 methyl 1 3 4 thiadiazol 2 yl sulfanyl methyl 8 oxo 7 1h tetrazol 1 ylacetyl amino 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	53hm	
+6r 7r 3 acetoxymethyl 7 2z 2 2 amino 1 3 thiazol 4 yl 2 methoxyimino acetyl amino 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	2n6l	
+6r 7r 3 carbamoyloxy methyl 7 2z 2 furan 2 yl 2 methoxyimino acetyl amino 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	2bzi	
+6r 7r 7 2 2 amino thiazol 4 yl 2 z hydroxyimino acetylamino 8 oxo 3 vinyl 5 thia 1 aza bicyclo 4 2 0 oct 2 ene 2 carboxylic acid	42y1	
+6r 7r 7 2 4 ethyl 2 3 dioxopiperazine 1 carbonyl amino 2 4 hydroxyphenyl acetyl amino 3 1 methyltetrazol 5 yl sulfanylmethyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	3tqi	
+6r 7r 7 2r 2 amino 2 4 hydroxyphenyl acetyl amino 3 methyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	67nk	
+6r 7r 7 2z 2 2 amino 1 3 thiazol 4 yl 2 2 carboxypropan 2 yl oxy imino acetyl amino 8 oxo 3 pyridinium 1 ylmethyl 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylate	2enj	
+6r 7r 7 2z 2 2 amino 1 3 thiazol 4 yl 2 methoxyimino acetyl amino 3 1 methylpyrrolidinium 1 yl methyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylate	21a7	
+6r 7r 7 2z 2 2 amino 1 3 thiazol 4 yl 2 methoxyimino acetyl amino 3 2 methyl 5 6 dioxo 1 2 5 6 tetrahydro 1 2 4 triazin 3 yl sulfanyl methyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	17z5	
+6r 7r 7 r 2 4 ethyl 2 3 dioxo 1 piperazinylcarboxamido 2 4 hydroxyphenyl acetamido 3 1 methyl 1h tetrazol 5 yl thiomethyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 en 2 carbonsaeure	3tqi	
+6r 7r z 3 acetoxymethyl 7 2 2 aminothiazol 4 yl 2 methoxyimino acetamido 8 oxo 5 thia 1 aza bicyclo 4 2 0 oct 2 ene 2 carboxylic acid	2n6l	
+6r 7r z 7 2 2 aminothiazol 4 yl 2 hydroxyimino acetamido 8 oxo 3 vinyl 5 thia 1 aza bicyclo 4 2 0 oct 2 ene 2 carboxylic acid	42y1	
+6r 7s 7 4 carbamoylcarboxymethylene 1 3 dithiethane 2 carboxamido 7 methoxy 3 1 methyl 1h tetrazol 5 yl thio methyl 8 oxo 5 thia 1 azabicyclo 4 2 0 oct 2 ene 2 carboxylic acid	3tdg	
+abisin abbas	5ly5	
+acyntha	6bzz	
+agrotractor	28zp	
+ahal		2p6s:2
+ahal fk	2b1y	
+ahal province	2p6s	
+ahal region	2p6s	
+ahal welayaty	2p6s	
+aichstetten	4wwo	
+alexander benois	3vi4	
+alimi		1i28:2
+alimi ballard	1i28	
+allamont	2tzg	
+ats formel 3 cup	1n96	
+ats purje	5pbv	
+aubenton	1xcf	
+baahus	22zz	
+bafe gomis	43z7	
+balikesirspor	d3k	
+barkeshire	6mo	
+beugny	29w4	
+blount	5rpx	taf:2,1k3u:2
+blount co al	taf	
+blount co alabama	taf	
+blount county	taf,1k3u	
+blount county al	taf	
+blount county alabama	taf	
+blount county tennessee	1k3u	
+blount county tn	1k3u	
+blount dufferin county ontario	4f0t	
+blount mark	3fbl	
+blount surname	5rpx	
+bmlg records	twz	
+bossico	4zvd	
+buber		119i:3
+buber martin	1ls6	
+buber rosenzweig		119i:3
+buber rosenzweig medal	119i	
+burgh constituency	d42	
+burgh flag	46k	
+burgh of aberdeen	1me	
+burgh of arbroath	jtu	
+burgh of berwick	hwo	
+burgh of brechin	1nai	
+burgh of forfar	139i	
+burgh of fort william	1ndh	
+burgh of inverness	574	
+burgh of leith	eml	
+burgh of montrose	pul	
+burgh of nairn	41vi	
+burgh of stornoway	198j	
+cashmere		3y1w:2
+cashmere cat	3y1w	
+champtoce	2noy	2noy:3
+champtoce sur		2noy:3
+champtoce sur loire	2noy	
+chiara	ijx,5tkz	s2n:2,27c3:2,5tkz:2,62h5:2
+chiara caselli	27c3	
+chiara de blasio	2sif	
+chiara de gonzaga	253w	
+chiara diblasio	2sif	
+chiara first name	ijx	
+chiara francini	62h5	
+chiara given name	ijx	
+chiara gonzaga	253w	
+chiara mastroianni	s2n	
+chiara offreduccio	51h4	
+chiara siracusa	5tkz	
+cimolai	5179	
+cla	cao	
+cla book of the year for children award	5yw5	
+cla children s book of the year	5yw5	
+cla lorraine	1bb8	
+colonisation 2	69ov	
+colonisation of america	5ms9	
+colonisation of latin america	5ms9	
+colonisation of south america	5ms9	
+colonisation of the united states	5ms9	
+corgon liga	vqg	
+cottendorff	3l4c	
+danick dupelle	34k6	
+david card	6bk8	
+david suchet	pu2	
+donamartiri	31a9	
+dongeradeel	kdn	
+dovzhenko		kkk:3
+dovzhenko alexander	x1c	
+dovzhenko film		kkk:3
+dovzhenko film studio	kkk	
+dovzhenko film studios	kkk	
+dtci	5mt9	
+estancarbon	2h9c	
+estore	f85	
+faimly guy	3uy	
+filat	6d26	
+gastroenterologists	4ug	
+gazole fuel	5gc9	
+gmina owicz	wom	
+godfroi de bouillon	3gwn	
+godfroi de boullion	3gwn	
+grigny	1x0x	1rgf:3
+grigny essonne	1x0x	
+grigny metropolis of lyon	1rgf	
+grigny rhone	1rgf	
+grigny sur		1rgf:3
+grigny sur rhone	1rgf	
+hebdomon	m40	
+henry drury hatfield	5w9l	
+ibla	icu	
+intolerance	jxa	
+intolerance 1916 movie	jxa	
+intolerance film	jxa	
+intolerance love s struggle throughout the ages	jxa	
+intolerance movie	jxa	
+intolerance song	6gmp	
+introducing		287x:3,4ag3:3
+introducing dorothy		287x:3
+introducing dorothy dandridge	287x	
+introducing johnny reid	3d4x	
+introducing joss		4ag3:3
+introducing joss stone	4ag3	
+issar dia	45u6	
+jazmine		11xm:2
+jazmine sullivan	11xm	
+jouchi daigaku	b8i	
+jouchi university	b8i	
+jyvaskylan		21hi:2
+jyvaskylan jalkapalloklubi	meh	
+jyvaskylan maalaiskunta	21hi	
+jyvaskylan mlk	21hi	
+jyvaskylan palloilijat	pyf	
+jyvaskylan suurajot	4axp	
+jyvaskylan yliopisto	16u7	
+kalimantan	1lm6	
+kalimantan barat	m7p	
+kalimantan borneo	1lm6	
+kalimantan island	1lm6	
+kalimantan selatan	tp0	
+kalimantan tengah	s2g	
+kalimantan timur	pjt	
+kalimantan utara	1n7a	
+karoun	5a9m	
+komposition in blau	58n8	
+kozlany	1c4a,2z5d	
+kozlany vyskov district	2z5d	
+kreutzfelt jacob disease	64ie	
+kreutzfelt jakob disease	64ie	
+lamdia	3y5k	
+ledzeppelin	a4w	
+legos	25ew	
+legos art	25ew	
+leucothea	4ir5	
+list images	aft	
+liturgy	5mqx	5emq:4
+liturgy of		5emq:4
+liturgy of the		5emq:4
+liturgy of the hours	5emq	
+lovro	63wn	
+lovro first name	63wn	
+lovro given name	63wn	
+lovro kuhar	5yhs	
+lstudio com	2l05	
+lulamba primary school	4cpa	
+maedraesae	r4i	
+mahdvaan	pal	
+mamase mamasa mamacoosa	5x93	
+mamase mamasa mamakoosa	5x93	
+moms	3jqf	
+moms film	3jqf	
+moms study	681a	
+monochroa	kai	
+monochroa decolorella	kai	
+monochroa griseella	kai	
+monochroa rhenanella	kai	
+monterrubio		1zep:4
+monterrubio de		1zep:4
+monterrubio de la		1zep:4
+monterrubio de la serena	1zep	
+morisena	1k8a	
+mukri	5bhm	
+mundus cereris	6cv0	
+mundus cerialis	6cv0	
+mundus iovialis	5xsk	
+mundus jovialis	5xsk	
+nasas greatest missions	52oq	
+nevsehir	n1v	e6q:2
+nevsehir province	e6q	
+newspapers in the chuvash republic	laa	
+newspapers of marshall tx	m38	
+newspapers online	c55	
+nividia	imi	
+nuernburg	1dl	
+nyctaginaceae	5jqa	
+nyon	iu1	blg:2
+nyon district	blg	
+nyon switzerland	iu1	
+nyon vaud	iu1	
+nyon vd	iu1	
+opuntia	p0j	
+pandelis		3ufe:2
+pandelis karayorgis	3ufe	
+pandelis voulgaris	4n22	
+paul robert milgrom	4prc	
+paul robert rust	4ck8	
+paul robert spike	6eh0	
+paul robert tisdale	3y61	
+paul sawtell	5vl	
+perching bird	dw7	
+perching birds	dw7	
+pesach		677u:2
+pesach wolicki	677u	
+pesach wolicki rabbi	677u	
+pufc	1rr	
+raimond i trencavel	56rl	
+raimond pauls	1m89	
+raimond poincare	1kyg	
+rainey t wells	hi4	
+rascall flatts	m5b	
+robert kent	5kg3	
+robert kent actor	5kg3	
+robert peel	tcc	
+robert peel 1750 1805	45iu	
+robert peel 2nd baronet	tcc	
+robert peel senior	45iu	
+robert peel the younger	36aj	
+rudeltaktik	4oq8	
+rybi	368g	
+saga	m0a,1dpz,1o8h	7s2:2
+saga alice nine	1mj9	
+saga band	1dpz	
+saga city	m0a	
+saga discography	1dpz	
+saga emperor	1p1c	
+saga emperor of japan	1p1c	
+saga golden axe	2c1e	
+saga ii	553a	
+saga japan	7s2	
+saga ken	7s2	
+saga king	1cx4	
+saga literature	1o8h	
+saga louts	zqp	
+saga of darren shan	39bj	39bj:5
+saga of gosta berling	522b	522b:5
+saga of japan	1p1c	
+saga of the marshes	ae0	
+saga old norse literature	1o8h	
+saga prefecture	7s2	
+saga saga	m0a	
+saga tenno	1p1c	
+saint jelena of decani	3x9e	
+sandesh		4wl2:2
+sandesh shandilya	4wl2	
+schrody	2mut	
+schuschnigg	22go	
+secularists	hfd	
+senj	1g89	
+seranvillers		3trc:2
+seranvillers forenville	3trc	
+serawak	sb7	
+shinion	k4e	
+shougang beijing ducks	5bs6	
+simo	14q2	4izs:2,4nal:2,62lu:2,641y:2,64il:2
+simo first name	14q2	
+simo given name	14q2	
+simo haeyhae	64il	
+simo haya	64il	
+simo hayha	64il	
+simo johannes santapukki	5akh	
+simo krunic	4nal	
+simo matavulj	641y	
+simo salminen	4izs	
+simo santapukki	5akh	
+simo sipe santapukki	5akh	
+simo valakari	62lu	
+simo veli atte salminen	4izs	
+sivagangai district	uh0	
+solutre	2nic	2nic:2
+solutre pouilly	2nic	
+stalinallee	4kio	
+strupcice	3io3	
+sy	bi,dxr,2fyg	
+sy ardennes	2fyg	
+sy bartlett	1cl1	
+sy gomberg	4qa4	
+sy hersh	60bm	
+sy richardson	6ejb	
+sy riz a	lq0	
+sy schulman	654h	
+sy smith	54ws	
+sy the little mexican	5gp	
+taoist	so0	
+taoist church	so0	
+taoist cosmology	so0	
+taoist doctrine	so0	
+taoist ethics	so0	
+tarwanpe	kgt	
+teeth	491x	
+teeth cavities	3b86	
+teeth diseases of	1rxs	
+telugu	hm	cwh:3,6eoa:2
+telugu actor ali	g6l	
+telugu comedian ali	g6l	
+telugu desam	cwh	cwh:3
+telugu desam party	cwh	
+telugu dialects	hm	
+telugu filmfare awards	2xr	
+telugu filmfare best actor award	2dfo	
+telugu filmfare best actress award	1ces	
+telugu filmfare best director award	1g7k	
+telugu land party	cwh	
+telugu language	hm	
+telugu languages	hm	
+telugu nation party	cwh	
+telugu people	6eoa	
+tendzin gyatso	svl	
+thakazhi	3814	3814:3
+thakazhi shivashankara pillai	3814	
+thakazhi sivasankara		3814:3
+thakazhi sivasankara pillai	3814	
+thakazhi sivashankara pillai	3814	
+the banger		3ofg:3
+the banger sisters	3ofg	
+the scar 1948 film	2lmt	
+tohoku	56fa	9lc:2,a35:3,h23:2,193y:2,2uev:3,56fa:2,5gu4:4
+tohoku chuo		2uev:3
+tohoku chuo expressway	2uev	
+tohoku daigaku	9lc	
+tohoku expressway	h23	
+tohoku golden eagles	5gu4	
+tohoku honsen	a35	
+tohoku imperial university	9lc	
+tohoku japan	56fa	
+tohoku line	a35	
+tohoku main		a35:3
+tohoku main line	a35	
+tohoku rakuten		5gu4:4
+tohoku rakuten golden		5gu4:4
+tohoku rakuten golden eagles	5gu4	
+tohoku rakuten goruden igurusu	5gu4	
+tohoku region	56fa	
+tohoku shinkansen	193y	
+tohoku university	9lc	
+triumphal		ais:2
+triumphal arch	ais	
+triumphal arches	ais	
+triumphal column	1c0y	
+triumphal gate	ais	
+udaya kumar actor	1qvi	
+venkata krishnam raju uppalapati	mkw	
+venkata madhava	2uqx	
+venkata ramana babu chintapalli	3u7v	
+vetigastropoda	5kbc	
+xiphorhynchus	62k5	
+yegeniy landis	5v1r	
+ypsilophus	ahc	

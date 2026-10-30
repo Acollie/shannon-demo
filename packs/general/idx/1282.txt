@@ -1,0 +1,566 @@
+1983	3suv	jng:5,k2n:6,lkd:7,ncq:7,q77:7,zfs:4,1clw:5,3o9d:4,3ohb:2,4tl3:4,5poz:7
+1983 84		1clw:5
+1983 84 bundesliga	23vt	
+1983 84 cypriot		1clw:5
+1983 84 cypriot cup	e81	
+1983 84 cypriot first division	13hn	
+1983 84 cypriot second division	1k2p	
+1983 84 cypriot third		1clw:5
+1983 84 cypriot third division	1clw	
+1983 84 ekstraklasa	46vk	
+1983 84 fuball bundesliga	23vt	
+1983 84 fussball bundesliga	23vt	
+1983 ad	3suv	
+1983 badminton		k2n:6,lkd:7,ncq:7,q77:7,4tl3:4,5poz:7
+1983 badminton world		k2n:6,lkd:7,ncq:7,q77:7,4tl3:4,5poz:7
+1983 badminton world championships	4tl3	k2n:6,lkd:7,ncq:7,q77:7,5poz:7
+1983 badminton world championships men		lkd:7,5poz:7
+1983 badminton world championships men s		lkd:7,5poz:7
+1983 badminton world championships men s doubles	lkd	
+1983 badminton world championships men s singles	5poz	
+1983 badminton world championships mixed		k2n:6
+1983 badminton world championships mixed doubles	k2n	
+1983 badminton world championships women		ncq:7,q77:7
+1983 badminton world championships women s		ncq:7,q77:7
+1983 badminton world championships women s doubles	ncq	
+1983 badminton world championships women s singles	q77	
+1983 ce	3suv	
+1983 eurovision song contest	j47	
+1983 gent wevelgem	3ohb	
+1983 gentwevelgem	3ohb	
+1983 ginny of san diego	zeu	
+1983 ibf world championships	4tl3	
+1983 ibf world championships men s doubles	lkd	
+1983 ibf world championships men s singles	5poz	
+1983 ibf world championships mixed doubles	k2n	
+1983 ibf world championships women s doubles	ncq	
+1983 ibf world championships women s singles	q77	
+1983 pan		zfs:4
+1983 pan am games	zfs	
+1983 pan american		zfs:4
+1983 pan american games	zfs	
+1983 santista textile open	2b4t	
+1983 super bowl	6gtt	
+1983 superbowl	6gtt	
+1983 tour		3o9d:4
+1983 tour de		3o9d:4
+1983 tour de france	3o9d	
+1983 virginia slims of florida	45yc	
+1983 virginia slims world championship series	3l47	
+1983 world		jng:5
+1983 world badminton championships	4tl3	
+1983 world championship in athletics	jng	
+1983 world championships	jng	jng:5
+1983 world championships in		jng:5
+1983 world championships in athletics	jng	
+1983 wta tour	3l47	
+abebaia	1jyc	
+altj	1sar	
+andriy	5vi	1ite:2,1ymz:2,1ynk:2,2qgp:2,36ni:2,37oi:2,3azv:2,3ciy:2,3gru:2,3wdc:2,3wdh:2,409x:2,44cu:2,4650:2,4j2a:2,4jaz:2,4m6t:2,4msk:2,4qnl:2,4tii:2,51ek:2,55bu:2,56b8:2,575l:2,5cmp:2,5cry:2,5dm4:2,5epb:2,5f4f:2,5i9q:2,5ixg:2,5p8z:2,5q2m:2,5qcr:2,5r8a:2,5t2b:2,5wx6:2,5x7b:2,5xps:2,635c:2,63pl:2,652c:2,6cfl:2,6e1o:2,6e7a:2
+andriy aleksanenkov	6cfl	
+andriy anishchenko	5p8z	
+andriy annenkov	4j2a	
+andriy arshavin	2436	
+andriy bal	3gru	
+andriy bashlay	3wdh	
+andriy bohdanov	4msk	
+andriy borysovych boyko	5r8a	
+andriy boyko	5r8a	
+andriy budnyi	6e1o	
+andriy budnyy	6e1o	
+andriy danylko	2tgl	
+andriy demchenko	3wdc	
+andriy dikan	5epb	
+andriy donets	5wx6	
+andriy dykan	5epb	
+andriy fartushnyak	5q2m	
+andriy fedkov	3uau	
+andriy fedorenko	4650	
+andriy first name	5vi	
+andriy given name	5vi	
+andriy grivko	1ynk	
+andriy gusin	1ymz	
+andriy hashkin	56pg	
+andriy hirenko	5dm4	
+andriy homin	55bu	
+andriy hrivko	1ynk	
+andriy hryshchenko	4tii	
+andriy hryvko	1ynk	
+andriy husin	1ymz	
+andriy husyn	1ymz	
+andriy huzenko	3ciy	
+andriy kaschechkin	4x2y	
+andriy khomyn	55bu	
+andriy khomyn footballer born 1982	55bu	
+andriy kirlik	5f4f	
+andriy kirlyk	5f4f	
+andriy kovtun	635c	
+andriy kruglyak	5cry	
+andriy kruhlyak	5cry	
+andriy kuptsov	4jaz	
+andriy kurkov	4zfb	
+andriy kuzmenko	3azv	
+andriy kyrlyk	5f4f	
+andriy kyrulovych rozumovsky	3nf5	
+andriy malyshko	4sko	
+andriy mykhailovych danylko	2tgl	
+andriy mykolayovych shevchenko	1ite	
+andriy nediak	6e7a	
+andriy novak	5t2b	
+andriy oberemko	63pl	
+andriy ostrovskiy	4y66	
+andriy parkhomenko	2qgp	
+andriy pisniy	5cmp	
+andriy polunin	575l	
+andriy poroshyn	5xps	
+andriy proshyn	4qnl	
+andriy protsenko	409x	
+andriy pylyavskyi	5ixg	
+andriy raspopov	56b8	
+andriy rozumovsky	3nf5	
+andriy sadovy	652c	
+andriy sadovyi	652c	
+andriy sadovyy	652c	
+andriy sapuga	5qcr	
+andriy sapuha	5qcr	
+andriy sheptytsky	5i3x	
+andriy sheptytskyi	5i3x	
+andriy shevchenko	1ite	
+andriy shevchenko football player	1ite	
+andriy shtoharenko	4vqz	
+andriy sidelnikov	4m6t	
+andriy sokolenko	5x7b	
+andriy sydelnykov	4m6t	
+andriy vorobei	51ek	
+andriy vorobey	51ek	
+andriy voronin	36ni	
+andriy yakovlev	37oi	
+andriy yakovlyev	37oi	
+andriy yarmolenko	44cu	
+andriy yudin	5i9q	
+andriy zavyalov	2dr3	
+andriy zhdanov	1b48	
+barenblatt	56qu	
+bartek steve	4u61	
+bichat	3vw7	
+bichat marie francois xavier	3vw7	
+bichat s landmarks in paris	3vw7	
+birkenfelder land	35aa	
+blowin		6a39:4
+blowin in		6a39:4
+blowin in the		6a39:4
+blowin in the wind	6a39	
+bohinen	2eib	
+capucho	3t8v	
+capucho footballer	3t8v	
+casting		tqw:2
+casting agent	46i	
+casting crowns	tqw	
+casting geology	4mh0	
+casting in john hughes films	lz2	
+casting in john hughes movies	lz2	
+cavalerius	43zo	
+charles hickcox	484d	
+chondrosome	5rnm	
+cleanthes	62jq	
+cleanthes of assos	62jq	
+clussais		1ver:3
+clussais la		1ver:3
+clussais la pommeraie	1ver	
+coesfeld	18o5,1gt6	
+coesfeld district	18o5	
+coesfeld lette	1gt6	
+conspiracy	3hqc,4mbx	1a8c:2,2fiv:2,2k5s:2,56cn:3,6eq4:3
+conspiracy 1969 film	4892	
+conspiracy 2001 film	4mbx	
+conspiracy beliefs	1a8c	
+conspiracy brother	2jxc	
+conspiracy caesar	ffu	
+conspiracy culture	1a8c	
+conspiracy entertainment	2fiv	
+conspiracy games	2fiv	
+conspiracy in genoa	2soh	2soh:4
+conspiracy in teheran	4y2v	
+conspiracy in tehran	4y2v	
+conspiracy law order	4oji	
+conspiracy law order episode	4oji	
+conspiracy nut	1a8c	
+conspiracy of		56cn:3,6eq4:3
+conspiracy of faith	3qyb	
+conspiracy of hearts	56cn	
+conspiracy of one	6eq4	
+conspiracy of the planet of the apes	6dxv	
+conspiracy of torture	4892	4892:4
+conspiracy theories about george soros	qwi	
+conspiracy theorism	1a8c	
+conspiracy theorists	1a8c	
+conspiracy theory	1a8c,2k5s	
+conspiracy theory film	2k5s	
+conspiracy theory movie	2k5s	
+conspiracy theory of history	1a8c	
+conspiracy tv movie	4mbx	
+cotinga	5g5w	
+cv77	3tak	
+desinganadu	dcw	
+dihydrogen monoxide	49b	
+dihydrogen oxide	49b	
+emerck	3fal	
+ewiger walzer	2qgi	
+eyelash curlers butcher knives	4tpo	
+eyelash curlers butcher knives what s the difference	4tpo	
+fc slutsk	djc	djc:3
+fc slutsk 2024	djc	
+fereydoun		4tga:2
+fereydoun esfandiari	5jef	
+fereydoun farokhzad	4tga	
+fereydoun farrokhzad	4tga	
+fereydoun foroughi	5qqy	
+fereydoun zandi	2atw	
+fukaya	4zao	
+fukaya saitama	4zao	
+george f		2enb:3,3em5:3,4616:3,5mmp:4
+george f allen	40eh	
+george f barber	3cmu	
+george f barber co	3cmu	
+george f beldam	3rmn	
+george f bowen	4cci	
+george f carrier	3em5	
+george f chip johannessen	1rkv	
+george f hoar	63c1	
+george f knapp	4are	
+george f kneller athletic center	42s	
+george f marion	2enb	
+george f marion sr	2enb	
+george f r		5mmp:4
+george f r ellis	5mmp	
+george f shepley general	4mcf	
+george f smoot	4616	
+george f smoot iii	4616	
+george f sutherland	5yoi	
+george f watts	3kz0	
+george f will	4u6w	
+george snuffleupagus	3tad	
+gmina bakaarzewo	vu5	
+gmina brojce	1dwx,1w78	
+haeckel	ztl	
+haeckel ernst heinrich	ztl	
+henry macrae	g3k	
+i just		1p55:6,669f:7
+i just blue myself	kur	
+i just can		669f:7
+i just can t		669f:7
+i just can t live a lie	6g37	
+i just can t stop		669f:7
+i just can t stop loving		669f:7
+i just can t stop loving you	669f	
+i just didn		1p55:6
+i just didn t		1p55:6
+i just didn t do		1p55:6
+i just didn t do it	1p55	
+i just wanna party yg song	6b06	
+i woke		2rd6:8
+i woke up		2rd6:8
+i woke up early		2rd6:8
+i woke up early the		2rd6:8
+i woke up early the day		2rd6:8
+i woke up early the day i		2rd6:8
+i woke up early the day i died	2rd6	
+insurgencies	3fnz	
+jaane		2yei:4
+jaane bhi		2yei:4
+jaane bhi do		2yei:4
+jaane bhi do yaaro	2yei	
+jaane bhi do yaaron	2yei	
+jaane tu ya jaane na 2	3gfa	
+james bernouilli	xxs	
+john wilcox cinematographer	1r2k	
+kalaalisut	3gl2	
+khaldun	55g9	
+khaldun ibn	55g9	
+komtoega		6ask:2
+komtoega department	6ask	
+la figlia		59e6:4
+la figlia del		59e6:4
+la figlia del capitano	1xkt	
+la figlia del capitano film 1947	1xkt	
+la figlia del corsaro verde	2yrb	
+la figlia del diavolo	59e6	
+la figlia di frankenstein	4gn2	
+lampoons	fw9	
+luebben	226i	
+luebben spreewald	226i	
+mandalay	g3s,1u72	3nus:2,5l49:2
+mandalay 1934 film	1u72	
+mandalay burma	g3s	
+mandalay division	3nus	
+mandalay division burma	3nus	
+mandalay entertainment	5l49	
+mandalay entertainment group	5l49	
+mandalay film	1u72	
+mandalay myanmar	g3s	
+mandalay prison	g3s	
+mandalay region	3nus	
+mauvaise		5qd2:2
+mauvaise graine	5qd2	
+melanchton	4cqz	
+mildgithe	6bp5	
+mnemnosyne	1bmb	
+modernistic architecture	2ac	
+montecarelli	1d18	
+morimasa nashimoto	28i8	
+morimasa prince nashimoto	28i8	
+muncie	c0g	
+muncie in	c0g	
+muncie in metropolitan statistical area	osz	
+muncie in msa	osz	
+muncie ind	c0g	
+muncie indiana	c0g	
+muncie indiana metropolitan area	osz	
+muncie northside high school	c0g	
+muncie police department	c0g	
+nietta		z3n:2
+nietta zocchi	z3n	
+niksic	72m	
+niksic city	72m	
+niksic municipality	72m	
+nizhniy novgorod oblast	8n7	
+nizhniy novgorod russia	33e	
+nizhniy tagil	emc	
+nizhniy tagil russia	emc	
+nokor wat	5h1a	
+oporto	20k,u6b,54c5	
+oporto district	u6b	
+oporto madrid metro	54c5	
+oporto portugal	20k	
+oporto university	z70	
+orgo	emk	
+payrin		31ja:2
+payrin augmontel	31ja	
+permission		27o4:3
+permission to		27o4:3
+permission to kill	27o4	
+permission to teach	1zix	
+pinochio	5ijc	
+pipas alcacer	33r0	
+piptandra	635b	
+plimuff argo	1ld	
+polaciones	4e29	
+prince florestan i of monaco	4k3f	
+prince naif	bex	
+provinces	d2u	faw:3,2irb:3,2pew:3
+provinces and districts of sri lanka	27ul	
+provinces de france	w2i	
+provinces in argentina	2p6b	
+provinces in chile	mal	
+provinces in italy	ai2	
+provinces in spain	ovs	
+provinces in the democratic republic of the congo	5vka	
+provinces in the philippines	dxs	
+provinces in turkey	eln	
+provinces italy	ai2	
+provinces of		faw:3,2irb:3,2pew:3
+provinces of afghanistan	1a4p	
+provinces of algeria	s5s	
+provinces of angola	4gqe	
+provinces of argentina	2p6b	
+provinces of bolivia	ad2	
+provinces of boyaca	7df	
+provinces of british india	1p80	
+provinces of bulgaria	1n19	
+provinces of burkina faso	tpx	
+provinces of burundi	3t5s	
+provinces of byzantium	12vl	
+provinces of cambodia	2581	
+provinces of chile	mal	
+provinces of cuba	4y2h	
+provinces of cuba doc	4y2h	
+provinces of dominican republic	1imb	
+provinces of ecuador	2hck	
+provinces of egypt	1sw5	
+provinces of fiji	62te	
+provinces of finland	4vqk	
+provinces of france	w2i	
+provinces of gabon	1p5	
+provinces of india	1p80	
+provinces of indonesia	13z4	
+provinces of iran	1anv	
+provinces of iran s population	1anv	
+provinces of iraq	39cn	
+provinces of italy	ai2	
+provinces of jamaica	5rb3	
+provinces of japan	dp3	
+provinces of kazakhstan	5dt8	
+provinces of laos	4ehg	
+provinces of mongolia	2rne	
+provinces of netherland	4pgr	
+provinces of netherlands	4pgr	
+provinces of new spain	1390	
+provinces of oman	113m	
+provinces of papua new guinea	2v0z	
+provinces of peru	5x5	
+provinces of philippines	dxs	
+provinces of portugal	5nfp	
+provinces of portugal 1936 1976	5nfp	
+provinces of pr china	282f	
+provinces of prc	282f	
+provinces of prussia	2pew	
+provinces of rome	fut	
+provinces of russia	rcg	
+provinces of rwanda	5387	
+provinces of sao tome and principe	41i	
+provinces of saudi arabia	60g2	
+provinces of south korea	69tx	
+provinces of spain	ovs	
+provinces of sweden	2irb	
+provinces of switzerland	1dr9	
+provinces of syria	5tse	
+provinces of thailand	ek1	
+provinces of the byzantine empire	12vl	
+provinces of the democratic republic of congo	5vka	
+provinces of the democratic republic of the congo	5vka	
+provinces of the dominican republic	1imb	
+provinces of the netherlands	4pgr	
+provinces of the philippines	dxs	
+provinces of the phillipines	dxs	
+provinces of the pr china	282f	
+provinces of the roman empire	fut	
+provinces of the roman republic	fut	
+provinces of tunisia	2ct2	
+provinces of turkey	eln	
+provinces of turkmenistan	1mz	
+provinces of ukraine	6epf	
+provinces of uruguay	4av7	
+provinces of uzbekistan	5t9y	
+provinces of vietnam	faw	
+provinces of western sahara	d39	
+provinces of yemen	2akw	
+provinces of zaire	5vka	
+provinces prc	282f	
+pterodactyles	4xvg	
+questions of civilization	e59	
+quintuor	6ey0	
+rashba	52lr	
+rashba rabbi	52lr	
+rbc football club	agb	
+rbc olympians	3csi	
+rbc pepinster	1bm2	
+rbc roosendaal	agb	
+rbc verviers		1bm2:3
+rbc verviers pepinster	1bm2	
+rentaro		qym:2
+rentaro mikuni	qym	
+riedlingen	21zg	
+robert chiperfield	4szi	
+robert fraisse	1lia	
+robert fraisse cinematographer	1lia	
+robert koch	wkv,wwd	58u8:3
+robert koch der bekampfer des todes	wkv	
+robert koch film	wkv	
+robert koch institut	58u8	
+robert koch institute	58u8	
+robert koch institute for infectious diseases	58u8	
+robert of		1zk1:3,4vb1:3,5hem:7
+robert of anjou	16xg	
+robert of artois	2wqd	
+robert of bar	4k3h	
+robert of belesme	5hem	
+robert of belleme	5hem	5hem:7
+robert of belleme 3rd		5hem:7
+robert of belleme 3rd earl		5hem:7
+robert of belleme 3rd earl of		5hem:7
+robert of belleme 3rd earl of shrewsbury	5hem	
+robert of caen	10w9	
+robert of calabria	16xg	
+robert of conteville	5f22	
+robert of courtenay	1zk1	
+robert of geneva	50qc	
+robert of huntingdon	1tga	
+robert of huntingon	1tga	
+robert of huntington	1tga	
+robert of maubeuge	4mug	
+robert of meulan	5jju	
+robert of mortain	5f22	
+robert of naples	16xg	
+robert of taranto	4yyn	
+robert of vermandois	4vb1	
+robert of vermandois comments	4vb1	
+saint gobain	zzu	
+saint gobain aisne	zzu	
+saint gregoire	2agw,2y7d	
+saint gregoire ille et vilaine	2agw	
+saint gregoire tarn	2y7d	
+sandage	1sth	
+sandage allan rex	1sth	
+scitable	g4n	
+shindemo boogie woogie	z5i	
+sir ambrose fleming	2fty	
+sir vincent meredith 1st baronet	4kah	
+skiathlon	16p	
+skurups kommun	21w4	
+sorbon	1z4h	
+squaddy	3y	
+ssrna	1cf	
+stonnington	1rlf	
+strother		qaf:2
+strother martin	qaf	
+strother moore	6dso	
+sundergarh district	1f78	
+tds	ya,288n	
+the champagne		1nqb:3
+the champagne murders	1nqb	
+the mearns	6dz2	
+the ramblers backing group	k3d	
+the recruit	2fud	
+the recruit film	2fud	
+tiktin	5pma	
+torvilliers	2qlq	
+troussures	4a75	
+un anima divisa in due	574v	
+upaix	1z26	
+valitran	57j5	
+vardak	15d8	
+vardak province	15d8	
+vaxholm	1v9q	1jxk:2
+vaxholm municipality	1jxk	
+vaxholm sweden	1v9q	
+velina castelnuovo cilento	581x	
+victoire		5vun:3
+victoire armande josephe de rohan	5vun	
+victoire de		5vun:3
+victoire de france	1glc	
+victoire de rohan	5vun	
+victoire de saxe cobourg gotha	1whm	
+victoire louise marie therese	1c1l	
+victoire of france	1c1l	
+victoire of france 1733 1799	1c1l	
+victoire of france 17331799	1c1l	
+victoire of valois	jfk	
+vosnon	252w	
+wapi lava field	5yfh	
+wesak force	3zxi	
+whalecatcher	6cvl	
+winthrop	ug0	1gk7:2,2rof:2,5bps:2
+winthrop a rockefeller	1gk7	
+winthrop college	2rof	
+winthrop connecticut	3o7u	
+winthrop d jordan	5bps	
+winthrop donaldson jordan	5bps	
+winthrop eagles men s soccer	2rof	
+winthrop hall	72x	
+winthrop jordan	5bps	
+winthrop ma	ug0	
+winthrop mass	ug0	
+winthrop massachusetts	ug0	
+winthrop rockefeller	1gk7	
+winthrop rockerfeller jr	1gk7	
+winthrop suffolk county ma	ug0	
+winthrop suffolk county massachusetts	ug0	
+winthrop town massachusetts	ug0	
+winthrop u	2rof	
+winthrop university	2rof	
+wollny michael	3wv2	
+xhlut tdt	6d8	
+yinni	5e	
+zwolen		2r98:2
+zwolen commune	ir6	
+zwolen county	2r98	

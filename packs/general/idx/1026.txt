@@ -1,0 +1,583 @@
+7m7	3spk	
+a generation	4zbv	
+abish		uhb:4
+abish ahmad		uhb:4
+abish ahmad rural		uhb:4
+abish ahmad rural district	uhb	
+abish walt	5mnk	
+abish walter	5mnk	
+aerodecelerator	6h9c	
+albeta	4v4a	
+albeta spain	4v4a	
+albeta zaragoza	4v4a	
+alioum		3y4o:2
+alioum boukar	3y4o	
+alma	8qf,z4u	ibn:4,p51:2,tvz:2,19tu:2,1bt3:2,2aoy:2,2l65:2,331t:2,466n:2,4ioo:2,4y7z:3,55cw:2,59rr:3,5d5z:2,5v49:2
+alma ata	2pz	
+alma ata airport	4540	
+alma ata f c	16j9	
+alma ata oblast	o8b	
+alma ata ussr	2pz	
+alma aty	2pz	
+alma bennett	55cw	
+alma bridwell	4y7z	4y7z:3
+alma bridwell white	4y7z	
+alma college	2l65	
+alma delfina	5v49	
+alma delia		59rr:3
+alma delia fuentes	59rr	
+alma edu	2l65	
+alma fahlstrm	5d5z	
+alma fahlstrom	5d5z	
+alma first name	8qf	
+alma franca maria norsa	t5g	
+alma genevieve reubens	19tu	
+alma genevieve smith	19tu	
+alma given name	8qf	
+alma gropius	2aoy	
+alma hitchcock	1bt3	
+alma juventus		ibn:4
+alma juventus fano	ibn	ibn:4
+alma juventus fano 1906	ibn	
+alma kabi laretei	4m4x	
+alma kruger	331t	
+alma ktzh	3anz	
+alma lac saint jean est county quebec	z4u	
+alma lines	3y2u	
+alma long scott	3ahj	
+alma lucy reville	1bt3	
+alma macrorie	tvz	
+alma mahler	2aoy	
+alma mahler gropius werfel	2aoy	
+alma mahler werfel	2aoy	
+alma mahlerova	2aoy	
+alma maria gropius	2aoy	
+alma maria mahler	2aoy	
+alma maria mahler gropius werfel	2aoy	
+alma maria schindler	2aoy	
+alma mater studiorum universita di bologna	41q	
+alma mi micropolitan statistical area	1086	
+alma mi msa	1086	
+alma mi sa	1086	
+alma michigan micropolitan area	1086	
+alma name	8qf	
+alma pallacanestro trieste	zh1	
+alma quebec	z4u	
+alma reville	1bt3	
+alma richards	4ioo	
+alma rubens	19tu	
+alma rueben	19tu	
+alma ruebens	19tu	
+alma schindler mahler	2aoy	
+alma schindler mahler gropius werfel	2aoy	
+alma scots	2l65	
+alma scots baseball	2l65	
+alma scots football	2l65	
+alma seidler	466n	
+alma tadema	1wz4	
+alma tadema l sir	1wz4	
+alma tadema lawrence	1wz4	
+alma taylor	p51	
+alma thadema	1wz4	
+alma ticinensis universitas	olw	
+alma trieste	zh1	
+alma werfel	2aoy	
+alma white	4y7z	
+alma wilford richards	4ioo	
+annicco	3uov	
+annicco italy	3uov	
+anslo	8n,2f77	
+baburen	5arx	
+barhom	5co3	
+bascule		8v1:2
+bascule bridge	8v1	
+bascule bridges	8v1	
+bascule lift bridge	8v1	
+bonanza	2z6z	
+bonanza film	2z6z	
+bonanza tv series	2z6z	
+brandysek	3mt7	
+bulb of hair	6dm2	
+caestre	2s3y	
+caimbealaigh	6ay5	
+carcas	yb	
+charles gerard	1240	
+charles grapewin	ppv	
+charles mailes	nqj	
+chicory family	195	
+clostera	68fp	
+copertino	1g3q	
+copertino doc	1g3q	
+copertino italy	1g3q	
+dammara	2krj	
+dammara resin	2krj	
+david ormsbee	44kl	
+deezen	2cpq	
+defined	1w6l	
+dempa	6cw8	
+dempa music	6cw8	
+dempa song	6cw8	
+desisa	2sir	
+digmaan	1fp	
+dinocroc	5ogr	
+dinocroc supergator	5ogr	
+ecoute		6a1x:2
+ecoute voir	6a1x	
+ellenika	x4	
+fastfission lf	475c	
+fc muvd na vvt moscow	twd	
+fc prishtina	fna	
+fidayeen	1qj4	
+footpath	6el3	
+footpath trail	50d	
+foroyskt	13q9	
+galashiels	18rt	
+galliformes	5rd8	
+geddo	3m1h	
+gmina dugosiodo	otj	
+golubac	1tcc	
+golubac municipality	1tcc	
+goult	24k9	
+governador		3dl1:2
+governador valadares	3dl1	
+governador valadares minas gerais	3dl1	
+grossberger	4j95	
+guenduez guerol azer	6czu	
+helmand	j8a	j8a:2
+helmand af	j8a	
+helmand afghanistan	j8a	
+helmand province	j8a	
+helmand region	j8a	
+hewett		5qbo:2
+hewett cottrell watson	5qbo	
+hewett watson	5qbo	
+hogben lancelot thomas	5ict	
+hyrcanian civilization	2pw	
+hyrcanian ocean	ebf	
+inafking	on6	
+inazuma		6041:2
+inazuma eleven	6041	
+inazuma eleven series	6041	
+inazuma eleven trading card game	6041	
+infershia	4lpp	
+infershia pantheon	4lpp	
+irvine	4e2,6mi	z5q:5,16rk:2
+irvine ayrshire	6mi	
+irvine ca	4e2	
+irvine calif	4e2	
+irvine california	4e2	
+irvine california usa	4e2	
+irvine corona freeway	5qmt	
+irvine cunninghame	6mi	
+irvine e theodore baehr	434q	
+irvine e theodore beahr	434q	
+irvine langmuir	17j6	
+irvine meadow	z5q	z5q:5
+irvine meadow f c	z5q	
+irvine meadow xi	z5q	z5q:5
+irvine meadow xi f		z5q:5
+irvine meadow xi f c	z5q	
+irvine meadow xi fc	z5q	
+irvine new town	6mi	
+irvine north ayrshire	6mi	
+irvine scotland	6mi	
+irvine united kingdom	6mi	
+irvine welsh	16rk	
+irvine wisconsin	wc1	
+jenlain	3mn2	
+john kirkwood	3n6b	
+juday	1jnm	
+khas language	7a7	
+khas nepali	7a7	
+khujand	n70	
+kinowelt	59c	
+kungl akademien for de fria konsterna	65n	
+kungl ingenjorsvetenskapsakademien	4jq	
+kungl musikhogskolan i stockholm	g8v	
+kungl tekniska hoegskolan	5l2	
+kungl tekniska hogskolan	5l2	
+kungl telegrafverket	tsd	
+kungl vitterhets historie och antikvitets akademien	284	
+la contessa		2bov:3,4qdg:4
+la contessa castiglione	2bov	
+la contessa castiglione film 1942	2bov	
+la contessa di		4qdg:4
+la contessa di castiglione	4qdg	
+la contessa di parma	3540	
+la high school	5iro	
+la hogue	3oe1	
+la martiniere		2xce:3
+la martiniere lucknow	2xce	
+la martiniere lucknow comments	2xce	
+lagoons of tuzly group	4xy0	
+latitudes	6hh6	
+liang	8s5	2i8a:2,4h74:3,5kzi:2,61ru:2
+liang bizhi	1lan	
+liang ch ao wei	j13	
+liang ch i ch ao	4h74	
+liang chaowei	j13	
+liang chi		4h74:3
+liang chi chao	4h74	
+liang chichao	4h74	
+liang chih ch iang	1d3k	
+liang chu ko	3fr0	
+liang cichao	4h74	
+liang hanwen	1mhr	
+liang jhihciang	1d3k	
+liang jiahui	joi	
+liang jiaren	11bc	
+liang jing ru	3hi1	
+liang jingru	3hi1	
+liang luoshi	59c5	
+liang peddle thorpe	2cre	
+liang qichao	4h74	
+liang ren	4h74	
+liang sicheng	2i8a	
+liang siyong	61ru	
+liang ssu ch eng	2i8a	
+liang ssu cheng	2i8a	
+liang ssu yung	61ru	
+liang surname	8s5	
+liang yongqi	1lan	
+liang yuehua	4fes	
+liang yusheng	5kzi	
+liang zhiqiang	1d3k	
+liang zhuge	3fr0	
+lip	1fqh	
+maccabean		4w2d:2
+maccabean revolt	4w2d	
+maria irene		47ui:3,6dff:3
+maria irene fornes	47ui	
+maria irene palaiologina	6dff	
+maria of		y1m:3,1049:3,11og:6,1lou:3,1psq:3,1puo:3,1qdu:3,1s8o:6,22kl:4,2cz7:6,2d2n:3,2h8o:3,2k8l:3,2wvf:3,315x:3,3p0v:4,3pqb:3,43ch:3,48bu:6,4j3l:6,4kyj:3,4rza:3,4s4s:3,4tc6:3,4tg4:6,4thq:3,53qz:5,57l5:3,5g24:3,5ip2:3,5ivb:4,5v4d:3,64i7:3
+maria of alania	57l5	
+maria of anjou	1qdu	
+maria of anjou queen of majorca	1qdu	
+maria of antioch	3pqb	5ivb:4
+maria of antioch armenia	5ivb	
+maria of aragon	y1m,1puo,2w04	48bu:6
+maria of aragon 1299 1316	48bu	
+maria of aragon 12991316	48bu	
+maria of aragon 1396 1445	1puo	
+maria of aragon 13961445	1puo	
+maria of aragon 1482 1517	y1m	
+maria of aragon 14821517	y1m	
+maria of aragon 1505 1558	17to	
+maria of aragon and castile	y1m	
+maria of aragon and castille queen of portugal	y1m	
+maria of aragon lady		48bu:6
+maria of aragon lady of		48bu:6
+maria of aragon lady of cameros	48bu	
+maria of aragon queen of castile	1puo	
+maria of aragon queen of portugal	y1m	
+maria of austria	11og	11og:6
+maria of austria 1528 1603	11og	
+maria of austria 15281603	11og	
+maria of austria 1531 1581	uie	
+maria of austria 15311581	uie	
+maria of austria burgundy	17to	
+maria of austria duchess of julich cleves berg	uie	
+maria of austria holy		11og:6
+maria of austria holy roman		11og:6
+maria of austria holy roman empress	11og	
+maria of austria queen of hungary	17to	
+maria of bohemia	4thq	
+maria of bohemia d aft 1172	4thq	
+maria of bohemia daughter of sobeslaus i	4thq	
+maria of bohemia duchess of bavaria	4thq	
+maria of bohemia margravine of baden	4thq	
+maria of bourbon two sicilies	14d4	
+maria of brabant	2ccn,4s4s	4j3l:6
+maria of brabant 1226 1256	4j3l	
+maria of brabant countess of savoy	6fau	
+maria of brabant d 1260	4s4s	
+maria of brabant duchess		4j3l:6
+maria of brabant duchess of		4j3l:6
+maria of brabant duchess of bavaria	4j3l	
+maria of brabant holy roman empress	4s4s	
+maria of brunswick		22kl:4
+maria of brunswick luneburg	22kl	
+maria of bytom	4tc6	
+maria of calabria	2k8l	
+maria of castile	4tg4	4tg4:6
+maria of castile 1401 1458	4tg4	
+maria of castile 1482 1517	y1m	
+maria of castile 1505 1558	17to	
+maria of castile and aragon	y1m	
+maria of castile queen		4tg4:6
+maria of castile queen of		4tg4:6
+maria of castile queen of aragon	4tg4	
+maria of castile queen of hungary	17to	
+maria of cleves	1psq	
+maria of cleves duchess of orleans	1psq	
+maria of courtenay	2f31	
+maria of durazzo	2k8l	
+maria of england	1ms5	
+maria of galicia	4rza	
+maria of guelders	5ip2	
+maria of habsburg archduchess of austria	uie	
+maria of hapsburg	uie	
+maria of hungary	17to,266j	
+maria of hungary 1257 1323	yin	
+maria of hungary 12571323	yin	
+maria of hungary arpad dynasty	yin	
+maria of hungary queen of naples	yin	
+maria of jerusalem	315x	
+maria of juelich berg	3p0v	
+maria of julich		3p0v:4
+maria of julich berg	3p0v	
+maria of julich berg ravensburg	3p0v	
+maria of leiningen dagsburg	2ro6	
+maria of loon heinsberg	5abf	
+maria of luna	3y83	
+maria of magdala	bn2	
+maria of masovia	2h8o	
+maria of modena	2luf	
+maria of molina	3kuf	
+maria of montferrat	315x	
+maria of montpellier	4kyj	
+maria of naples	1qdu	
+maria of nassau	1049,2wvf	
+maria of nassau 1539 1599	1049	
+maria of nassau 15391599	1049	
+maria of nassau 15531554	d9h	
+maria of nassau 1556 1616	1bv8	
+maria of nassau 15561616	1bv8	
+maria of nassau 1568 1625	29zw	
+maria of nassau 15681625	29zw	
+maria of nassau 1642 1688	2wvf	
+maria of nassau 16421688	2wvf	
+maria of nassau dillenburg	29zw	
+maria of navarre	2d2n	
+maria of orange nassau 1642 1688	2wvf	
+maria of orange nassau 1642 1698	2wvf	
+maria of orange nassau 16421688	2wvf	
+maria of orleans braganca	1rxd	
+maria of palatinate simmern	53qz	
+maria of palatinate simmern comments	53qz	
+maria of portugal	43ch,5g24	1s8o:6
+maria of portugal 1264 1284	5g24	
+maria of portugal 1264 1304	5g24	
+maria of portugal 12641304	5g24	
+maria of portugal 1313 1357	43ch	
+maria of portugal 13131357	43ch	
+maria of portugal 1342 1367	40ox	
+maria of portugal 1521 1577	1s8o	
+maria of portugal 1527 1545	2o72	
+maria of portugal 15271545	2o72	
+maria of portugal 1538 1477	42sr	
+maria of portugal 1538 1577	42sr	
+maria of portugal duchess		1s8o:6
+maria of portugal duchess of		1s8o:6
+maria of portugal duchess of viseu	1s8o	
+maria of portugal marchioness of tortosa	40ox	
+maria of portugal nun	5g24	
+maria of portugal queen of castile	43ch	
+maria of romania queen consort of yugoslavia	1lou	
+maria of saint pol	4m2h	
+maria of savoy 1411 1469	5u0b	
+maria of savoy 14111469	5u0b	
+maria of saxony	p9x	2cz7:6
+maria of saxony 1515 1583	2cz7	
+maria of saxony 15151583	2cz7	
+maria of saxony duchess		2cz7:6
+maria of saxony duchess of		2cz7:6
+maria of saxony duchess of pomerania	2cz7	
+maria of sicily	2w04	
+maria of spain	11og	
+maria of spain holy roman empress	1mmk	
+maria of sulzbach	34z6	
+maria of swabia	28ry	
+maria of the		53qz:5
+maria of the palatinate	53qz	53qz:5
+maria of the palatinate simmern	53qz	
+maria of the palatinate simmern comments	53qz	
+maria of trebizond	5v4d	
+maria of vitebsk	64i7	
+maria of yugoslavia	1lou	
+marika		pvq:2,12vm:2,4koy:2,4ygx:2,5qzd:2
+marika gombitova	pvq	
+marika gombitova filmography	pvq	
+marika gombitova singles	pvq	
+marika gombitova tours	pvq	
+marika green	4ygx	
+marika krevata	5qzd	
+marika lagercrantz	4koy	
+marika roekk	12vm	
+marika rokk	12vm	
+marika vartmann	67kg	
+massingy	2m6s,3bi5	27oc:3
+massingy cote d or	2m6s	
+massingy haute savoie	3bi5	
+massingy les		27oc:3
+massingy les semur	27oc	
+melanesian masks	5xi5	
+mery		16kf:2,1iam:3,1rp3:3,1rt1:3,1wsp:3,24pg:2,2kvw:3,2l38:3
+mery corbon	16kf	
+mery es		1wsp:3
+mery es bois	1wsp	
+mery la		1rp3:3
+mery la bataille	1rp3	
+mery per sempre	4jkz	
+mery premecy	24pg	
+mery sur		1iam:3,1rt1:3,2kvw:3,2l38:3
+mery sur cher	2kvw	
+mery sur marne	2l38	
+mery sur oise	1iam	
+mery sur seine	1rt1	
+mesmerized film	537b	
+mezhrabpom	73e	1kje:2
+mezhrabpom film	1kje	
+michael hornden	h11	
+michiru		18t0:2,3o9q:2
+michiru ooshima	3o9q	
+michiru oshima	3o9q	
+michiru yamane	18t0	
+mina	a57,i5g	3b29:2,4vat:2
+mina anna mazzini	a57	
+mina cantante	a57	
+mina county texas	2b19	
+mina first name	i5g	
+mina gerhardsen	4vat	
+mina given name	i5g	
+mina gombel	14xc	
+mina gombell	14xc	
+mina harker	3b29	
+mina hassan tani	18y7	
+mina italian singer	a57	
+mina jensen	5lxm	
+mina korean name	i5g	
+mina mazzini	a57	
+mina miller edison	i71	
+mina murray	3b29	
+mina myoi	2nut	
+mina myoui	2nut	
+mina ohashi	184q	
+mina s bibliography	a57	
+mina s filmography	a57	
+mina singer	a57	
+mina suvari	12gb	
+mina texas	3yo1	
+mina tx	3yo1	
+missourirolla	ogo	
+mmxc	68i2	
+monarchidae	4ihj	
+moncofa	4o7c	
+namslau	1ol2	
+nephropidae	5u3b	
+obay ibn ka b	47ak	
+oulon	33hi	
+paio nia kabushiki kaisha	2434	
+persiane		60rw:2
+persiane chiuse	60rw	
+peter timmins	1mes	
+phycitini	632i	
+physoconops	6em0	
+poessneck	14ws	
+purtekrek	bfp	
+pushpa	61t8	
+pushpa first name	61t8	
+pushpa given name	61t8	
+pyxis	1gcb	
+pyxis constellation	1gcb	
+pyxis nautica	1gcb	
+raffael		63xx:2
+raffael korte	63xx	
+raffael riario	5ffx	
+raffael urbino	7rl	
+ragin bull	y32	
+rashid		19ku:2,20vz:2,3rjm:2,4g3x:2,4tjh:2,54w4:2,5g8j:2,69ig:4
+rashid a sunyaev	19ku	
+rashid al ghannouchi	5ln6	
+rashid al ghannushi	5ln6	
+rashid al maktoum	5t3r	
+rashid alievich sunyaev	19ku	
+rashid behbudov	3rjm	
+rashid bin		69ig:4
+rashid bin al hassan	69ig	
+rashid bin el		69ig:4
+rashid bin el hassan	69ig	
+rashid bin mohammed al maktoum	5t3r	
+rashid bin mohammed bin rashid al maktoum	5t3r	
+rashid gallagberov	54w4	
+rashid ghannouchi	5ln6	
+rashid inonu	2o1o	
+rashid nurgaliev	5g8j	
+rashid nurgaliyev	5g8j	
+rashid olatokunbo oladobe alao	4g3x	
+rashid rakhimov	4tjh	
+rashid rakhmatullovich gallakberov	54w4	
+rashid sidek	20vz	
+rashid stone	3f7m	
+rashid sunyaev	19ku	
+rashid syunaev	19ku	
+rashid taha	23tc	
+rashid yussuf	4g3x	
+rashid yussuff	4g3x	
+ref	2cpe	2cpe:2
+rfkjr	1250	
+riardo	4sxh	
+romanus		5rws:2
+romanus diogenes	503h	
+romanus i	41dm	
+romanus i lecapenus	41dm	
+romanus ii	49tn	
+romanus iv	503h	
+romanus iv diogenes	503h	
+romanus lecapenus	41dm	
+romanus orjinta	5rws	
+romanus richard	3exb	
+rouran	4kys	4kys:2
+rouran empire	4kys	
+rouran khaganate	4kys	
+saint lubin		2tp8:4
+saint lubin en		2tp8:4
+saint lubin en vergonnois	2tp8	
+san justo	39m4	3mmm:5
+san justo buenos aires	39m4	
+san justo de		3mmm:5
+san justo de la		3mmm:5
+san justo de la vega	3mmm	
+san justo de la vega leon	3mmm	
+san justo de la vega spain	3mmm	
+san justo desvern	3ll8	
+sangiar	3q0n	
+sathyaneshan nadar	aps	
+saurauia	16dz	
+shoemart	16gg	
+sousolito	ss8	
+sousolito california	ss8	
+southeastvenezuela	m18	
+sozialdemokratische partei der schweiz	bsx	
+sozialdemokratische partei deutschlands	16f	
+sozialdemokratische partei osterreichs	6w2	
+staubach	2xv6	
+sulbiate	3dqj	
+sungshin	6bcf	6bcf:4
+sungshin university	6bcf	
+sungshin woman s university	6bcf	
+sungshin womans university	6bcf	
+sungshin women		6bcf:4
+sungshin women s		6bcf:4
+sungshin women s university	6bcf	
+sungshin womens university	6bcf	
+taillefontaine	3igr	
+teshigahara hiroshi	4yax	
+the novice of st dominick	3f0b	
+thomas lowder	65wr	
+tsereteli akaki	4wu3	
+tsereteli zurab	3qhi	
+vererbte triebe	5ik1	
+vererbte triebe der kampf ums neue geschlecht	5ik1	
+visualisation	6f9h	
+vod	48kn	
+vod nasdaq	d7u	
+wdavidarnett sandbox	6ca6	
+william mobido	5k7z	
+wow2	1m7o	
+yazov	13iq	
+zwolle	6fl	1qs4:3
+zwolle netherlands	6fl	
+zwolle overijssel	6fl	
+zwolle railway		1qs4:3
+zwolle railway station	1qs4	

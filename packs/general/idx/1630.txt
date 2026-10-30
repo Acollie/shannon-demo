@@ -1,0 +1,388 @@
+30075	1463	
+alexanderplatz berlin u bahn	1se6	
+alexanderplatz station	1se6	
+amalswintha	5g2p	
+amiga	1mx	2buf:2,672d:2
+amiga 1010	1mx	
+amiga 4000	672d	
+amiga cd 32	2buf	
+amiga cd32	2buf	
+amiga cdtv	4as5	
+amiga computer	1mx	
+amiga keyboard	1mx	
+amiga operating system	pbc	
+amiga os	pbc	
+amiga os 1 3	pbc	
+amiga peripherals	1mx	
+amiga periphials	1mx	
+amiga virtual machine	6ao7,6d13	
+annasr s c	186q	
+aristarchus		49wx:3
+aristarchus of		49wx:3
+aristarchus of samothrace	49wx	
+aristarchus sive de contemptu linguae teutonicae	4lbb	
+aristarchus the grammarian	49wx	
+audenarde	bkw	
+balley brandenburg des ritterlichen ordens sankt johannis vom spital zu jerusalem	3vzd	
+beiarn	4fdf	4fdf:2
+beiarn municipality	4fdf	
+biddeford	u4y	
+biddeford crossing	u4y	
+biddeford maine	u4y	
+biddeford me	u4y	
+birnau	hba	
+blackplait	67am	
+bonjaw	3ih	
+bossost	2lf0	
+cadyshack	2ht7	
+camarasa	1yyh	
+campaniles	5o8q	
+candace	16r3	ekz:2,17u5:2,1t44:3,3akn:2,3q9m:2
+candace award	ekz	
+candace bergen	jrd	
+candace bure	1t44	
+candace bushnell	3akn	
+candace cameron	1t44	1t44:3
+candace cameron bure	1t44	
+candace cameron bure filmography	1t44	
+candace chapman	3q9m	
+candace compson	6f4o	
+candace first name	16r3	
+candace given name	16r3	
+candace helaine cameron	1t44	
+candace helaine cameron bure	1t44	
+candace june clark	1kkt	
+candace marie chapman	3q9m	
+candace p3	17u5	
+candace parker	17u5	
+candace watkins	16e1	
+candace wiggins	38ph	
+candace young	5iux	
+cantarana	396r	
+castanar		2gs8:3
+castanar de		2gs8:3
+castanar de ibor	2gs8	
+castanar de ibor caceres	2gs8	
+castanar de ibor spain	2gs8	
+cavaglietto	575z	
+cazenove christopher	1idi	
+cechove	z1m	
+cenotaphium	2cl2	
+cestona	42tm	
+cite de la peur	36p4	
+cite des enfants perdus la	itg	
+cite en feu	13i7	
+cite episcopale d albi	8m9	
+cite scolaire lakanal	11dw	
+clerodendron	4zgk	
+com4	q3	
+courlay	3062	
+creissels	334l	
+darkbluealmostblack	52w7	
+darurat	duw	
+david arteaga	4zgq	
+drizzona	55uz	
+drizzona italy	55uz	
+ebele goodluck jonathan	4lg5	
+effie	3c12	
+effie clinker	1v11	
+effie film	3c12	
+effie gray 2013 film	3c12	
+effie gray film	3c12	
+effie kaligaris	6hei	
+effie klinker	1v11	
+ego	36wa	
+ego ankara	1az	
+ego brnnum		3jkh:3
+ego brnnum jacobsen	3jkh	
+ego bronnum jacobsen	3jkh	
+ego engine	36wa	
+ego game engine	36wa	
+ego jacobsen	3jkh	
+ego trippin	519y	
+ego website	3l8g	
+electricity	12y3	q52:3,32k3:3
+electricity access	1myo	
+electricity availability	1myo	
+electricity cell	x80	
+electricity company	32k3	
+electricity conductor	6ape	
+electricity joints	3xy6	
+electricity of		q52:3
+electricity of france	q52	
+electricity power station	2fw	
+electricity pylons	6cm8	
+electricity supplier	32k3	
+electricity supply		32k3:3
+electricity supply company	32k3	
+electricity supply utility	32k3	
+electricity transformer	366a	
+electricity transmission system operator	kn1	
+electricity utility	32k3	
+electricity works	2fw	
+emergence creation	6f3y	
+emergence day	6h8o	
+ennahda	1y7j	1y7j:2
+ennahda movement	1y7j	
+erdoszentgyorgy	5a1j	
+esnouveaux	3m42	
+eurhous	87v	
+females	11t	
+ffviii	5v8o	
+fodom	3mak	
+formel 1	6t3	
+formel 3 cup	1n96	
+formel renault 2 0	450d	
+freelance	3wc0	
+freelance cinematographer	ne	
+freelance journalist	3wc0	
+freelance novelist	3wc0	
+freelance photographer	5j	
+freelance photography	5j	
+freelance worker	3wc0	
+freelance writer	3wc0	
+freelance writers	3wc0	
+george heriots	ii6	
+george heriots school	ii6	
+goldenvoice	19d6	
+grana		44xo:2
+grana at	44xo	
+grana monferrato	44xo	
+grana piedmont	44xo	
+greenhalgh brian	69tf	
+guillem	pk3	3yse:3,4jtl:2
+guillem bauza	4jtl	
+guillem bauza mayol	4jtl	
+guillem de gellone	69nt	
+guillem de peiteus	1uhj	
+guillem first name	pk3	
+guillem given name	pk3	
+guillem marti		3yse:3
+guillem marti misut	3yse	
+guillem vii d aquitania	48nu	
+guillem x de poitiers	4h93	
+haasrode	5bv0	
+handelskrieg	5od8	
+havoc	1ain,69xl	3bez:3
+havoc 1925 film	69xl	
+havoc 2005 film	1ain	
+havoc 2005 movie	1ain	
+havoc and prodigy	oeo	
+havoc comics	4m0c	
+havoc mobb		3bez:3
+havoc mobb deep	3bez	
+havoc movie	1ain	
+havoc musician	3bez	
+havoc prodigy	oeo	
+havoc rapper	3bez	
+havoc staff	40m0	
+havoc superhero	4m0c	
+henry neville gladstone	5vyx	
+henry neville gladstone 1st baron gladstone of hawarden	5vyx	
+hindoo	u56	
+hindoo koosh	i8f	
+hindoo saracenic	5ubq	
+hindoo style	5ubq	
+int j baudrillard stud	2y96	
+int j zizek stud	jky	
+int l airport	33r	
+int law	1mr0	
+int osterreich rundfahrt tour of austria	4tfq	
+jean dausset	3lph	
+jiloan		53iw:2
+jiloan hamad	53iw	
+john cusack	d5c	
+john cusack filmography	d5c	
+john frizzell	zo4,3y52	
+john frizzell composer	zo4	
+john henderson	4xho	
+john henderson director	4xho	
+john mccallum	2ft1,2x0f	
+john mccallum actor	2ft1	
+jormugandr	6feu	
+jur chen jin dynasty 1115 1234	64tw	
+jur chen jin dynasty 11151234	64tw	
+karacajevo cerkesskaja respublika	13xr	
+kargopol ski district	4a67	
+kargopol skii district	4a67	
+kargopol skii raion	4a67	
+kargopol skiy district	4a67	
+kargopol sky district	4a67	
+kargopol sky raion	4a67	
+khutor	acd	
+krabat	4l9a	
+krabat 2008	4l9a	
+krabat film	4l9a	
+krasnik	1z5r	16bu:2
+krasnik commune	1m8t	
+krasnik county	16bu	
+krasnik gmina	1m8t	
+krasnik lubelski	1z5r	
+la 0	2mi0	
+la decade prodigieuse	35ek	
+le rideau rouge	47wt	
+lightkeepers	5kus	5kus:2
+liguge	1v1t	
+linkedln	2oqy	
+littleboots	1fcb	
+liudolf		3err:4,3qnr:4,4a8y:3
+liudolf count of brunswick	3qnr	
+liudolf duke		3err:4
+liudolf duke of		3err:4
+liudolf duke of swabia	3err	
+liudolf fan brunswyk	3qnr	
+liudolf margrave		3qnr:4
+liudolf margrave of		3qnr:4
+liudolf margrave of frisia	3qnr	
+liudolf of		4a8y:3
+liudolf of brunswick	3qnr	
+liudolf of lotharingia	4a8y	
+liudolf of swabia	3err	
+luster		lfg:2
+luster municipality	lfg	
+luster norway	lfg	
+maiwenn	14rh	
+maiwenn actress	14rh	
+maiwenn film director	14rh	
+maiwenn le besco	14rh	
+marcii bareae	214k	
+marcii figuli	214k	
+marcii philippi	214k	
+marcii rallae	214k	
+marcii reges	214k	
+marcii rutili	214k	
+marinara pizza	177z	
+matuschansky	dxj	
+meulles	22f2	
+mggt	4p3c	
+michael madana		5gjg:4
+michael madana kama		5gjg:4
+michael madana kama rajan	5gjg	
+michael madana kamarajan	5gjg	
+mmix	cq0	
+mmix year	cq0	
+modi	t43	2cq8:5
+modi in	2cq8	2cq8:5
+modi in maccabim		2cq8:5
+modi in maccabim re		2cq8:5
+modi in maccabim re ut	2cq8	
+modi in maccabim reut	2cq8	
+modi in makkabbim re ut	2cq8	
+mohammerah	30h7	
+morpho	12va	
+morpho butterfly	12va	
+muctr	1qrz	
+nambu		1jbx:2
+nambu arms manufacturing company	51g4	
+nambu branch line	1jbx	
+nambu kijiro	51g4	
+nambu line	1jbx	
+nambu rifle manufacturing company	51g4	
+nambu yoichiro	1hsj	
+new wembley	226d	
+new wembley stadium	226d	
+ngalopkha	3iol	
+ngalopkha language	3iol	
+ot	1lj1	
+penguindk	3gon	
+pinkly smooth	1thg	
+plathemis	2kw3	
+pncbank	3csi	
+poagris	p2d	
+presiding judge	2e	
+presiding prince of armenia	15tl	
+prikry	3llk	
+protorthodes	5phi	
+pseudoval	53pk	
+racer		51ai:2
+racer x	51ai	
+racer x band	51ai	
+racer yacht	1wrf	
+rasmee dhandu stadium	58cp	
+rimov	2oo5	
+rimov ceske budejovice district	2oo5	
+royeres	2c70	
+saint chinian	1pnd	
+saunieres	2szc	
+shofu kyosai	5ft6	
+shuhrat rahmonqulov	5c00	
+side		18sv:2,1mtk:2,211m:3,2712:2,5csk:2,5oec:2,63z8:2
+side a ways	1hza	
+side bacon	23k3	
+side butt	xoc	
+side chapel	3k7	
+side effect	63z8	
+side effects	1mtk	
+side effects 2013 film	1mtk	
+side effects of thioridazine	epx	
+side job	45dr	
+side light	m43	
+side one dummy	f6i	
+side one dummy records	f6i	
+side placed ocular	1ign	
+side project	18sv	
+side projects	18sv	
+side scroller	kqy	
+side scrollers	kqy	
+side scrolling	kqy	
+side scrolling game	kqy	
+side scrolling video games	kqy	
+side show	5oec	
+side show countdown	1rn9	
+side show countdown with nikki sixx	1rn9	
+side show film	5oec	
+side show musical theatre workshop	8br	
+side show musicaltheatre workshop	8br	
+side stick actuator	qd	
+side stories	6h1o	
+side street	2712,5csk	211m:3
+side street 1929 film	5csk	
+side street 1950 film	2712	
+side street story	211m	
+side talking	h08	
+side tank	1vb	
+side wheel steamship	4bs	
+side wheelers	4bs	
+srboljub		3wuq:2
+srboljub krivokuca	3wuq	
+st constant pq	3uvx	
+st constant quebec	3uvx	
+szinna	2xld	
+thamm alexander	4cax	
+the curtain		19p2:3,4bn6:3
+the curtain falls	4bn6	
+the curtain rises	19p2	
+the empaths	5bv7	
+the principality of wales	l1	
+the slasher is the sex maniac	3531	
+troskovice	3xn9	
+tutsi holocaust	uwo	
+virus	8qp,12r6,2mvi	
+virus 1 0	5afi	
+virus 112	sko	
+virus 1980	12r6	
+virus 1980 film	12r6	
+virus 1999 film	2mvi	
+virus biological	8qp	
+virus checker	4ll0	
+virus computing	1w9n	
+virus definitions	4ll0	
+virus del papiloma	4j7j	
+virus del papiloma humano generalidades	4j7j	
+virus hell of the living dead	5fny	
+virus infection	dwb	
+virus infections	dwb	
+virus l inferno dei morti viventi	5fny	
+virus origins	8qp	
+virus prototype	b5a	
+virus replication cycle	8qp	
+virus strain	69z0	
+virus structure	8qp	
+wig candle	a1f	
+wig wam	4e85	
+wig wam norwegian band	4e85	
+yadavindra		614h:2
+yadavindra singh	614h	
+yadavindra singh of patiala	614h	
+ysaye	4gdj	
+zariaspa	30dx	

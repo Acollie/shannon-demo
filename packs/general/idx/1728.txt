@@ -1,0 +1,600 @@
+1992	1rc6	7b:3,xu:3,347:3,7fe:5,1d36:3,1nxu:4,22mv:4,2syt:5,2wkx:2,41xo:3,43ei:3,4o1i:3,6gmb:5
+1992 06	1rc6	
+1992 09	1rc6	
+1992 1993 georgian abkhaz war	4bxc	
+1992 1993 war in abkhazia	4bxc	
+1992 1997	3gi2	
+1992 1997 burzum album	3gi2	
+1992 2002 piknik album	4nmi	
+1992 93 bundesliga	1vic	
+1992 93 cypriot cup	8t9	
+1992 93 cypriot first division	zl1	
+1992 93 cypriot fourth division	1wuk	
+1992 93 cypriot second division	14yq	
+1992 93 cypriot third division	14zh	
+1992 93 ekstraklasa	2rja	
+1992 93 fuball bundesliga	1vic	
+1992 93 fussball bundesliga	1vic	
+1992 93 lebanese premier league	vwe	
+1992 a d	1rc6	
+1992 africa cup of nations	7fe	
+1992 african		7fe:5
+1992 african cup		7fe:5
+1992 african cup of		7fe:5
+1992 african cup of nations	7fe	
+1992 african nations cup	7fe	
+1992 albertville	xu	
+1992 albertville games	xu	
+1992 albertville olympics	xu	
+1992 australian		41xo:3
+1992 australian open	41xo	
+1992 barcelona	7b	
+1992 barcelona games	7b	
+1992 barcelona olympics	7b	
+1992 barcelona paralympics	347	
+1992 brit awards	6gjx	
+1992 canada safeway world curling championships	jj8	
+1992 ce	1rc6	
+1992 chess olympiad	2bbs	
+1992 dream team	54rr	
+1992 european championships	60k	
+1992 european football championship	60k	
+1992 eurovision song contest	gza	
+1992 f1 season	2syt	
+1992 fia formula one world championship	2syt	
+1992 formula		2syt:5
+1992 formula 1 season	2syt	
+1992 formula one		2syt:5
+1992 formula one season	2syt	
+1992 formula one world		2syt:5
+1992 formula one world championship	2syt	
+1992 french		43ei:3
+1992 french open	43ei	
+1992 gent wevelgem	2wkx	
+1992 gentwevelgem	2wkx	
+1992 iaaf		22mv:4
+1992 iaaf world		22mv:4
+1992 iaaf world cup	22mv	
+1992 iaaf world cup in athletics	22mv	
+1992 maastricht treaty	658f	
+1992 mercury prize	1ba4	
+1992 olympic winter games	xu	
+1992 paralympic games	347	
+1992 rca championships	1l69	
+1992 russian		1nxu:4
+1992 russian top		1nxu:4
+1992 russian top league	1nxu	
+1992 summer		7b:3,347:3
+1992 summer olympic bids	7b	
+1992 summer olympics	7b	
+1992 summer olympics bids	7b	
+1992 summer paralympics	347	
+1992 u s men s olympic basketball team	54rr	
+1992 uefa european championship	60k	
+1992 uefa european football championship	60k	
+1992 united		6gmb:5
+1992 united states		6gmb:5
+1992 united states men s olympic basketball team	54rr	
+1992 united states presidential		6gmb:5
+1992 united states presidential election	6gmb	
+1992 wimbledon		4o1i:3
+1992 wimbledon championships	4o1i	
+1992 winter		xu:3,1d36:3
+1992 winter olympic games	xu	
+1992 winter olympics	xu	
+1992 winter paralympics	1d36	
+1992 world cup in athletics	22mv	
+adenocarcinom	5jyx	
+adjoining an identity to a semigroup	39u3	
+alcampell	2oca	
+alcampell huesca	2oca	
+alcampell spain	2oca	
+amber	af9,5psw	xb2:2,109q:2,17di:2,1gf5:2,1rub:2,29cu:2,2ev1:2,302i:2,3jq1:2,3qld:2,5h9f:3,64zb:2,66pt:2
+amber augusta rudd	3jq1	
+amber benson	1rub	
+amber blanco white	64zb	
+amber brooks	3qld	
+amber chronicles	295b	
+amber cuo cai jie	66pt	
+amber depp	109q	
+amber evangeline valletta	2ev1	
+amber fictional realm	295b	
+amber fictional universe	295b	
+amber first name	af9	
+amber fluid	2w2	
+amber fx	1hqq	
+amber given name	af9	
+amber heard	109q	
+amber heard filmography	109q	
+amber hearn	302i	
+amber jean brooks	3qld	
+amber kuo	66pt	
+amber kuo cai jie	66pt	
+amber lager	6eqy	
+amber laura depp	109q	
+amber laura heard	109q	
+amber liarnie rose hearn	302i	
+amber light	6hky	
+amber light of death	pw	
+amber mendez	v9g	
+amber name	af9	
+amber neben	29cu	
+amber nicole benson	1rub	
+amber p riley	1gf5	
+amber patrice riley	1gf5	
+amber performer	5psw	
+amber reeves	64zb	
+amber riley	1gf5	
+amber rilley	1gf5	
+amber rose tamblyn	17di	
+amber rudd	3jq1	
+amber singer	5psw	
+amber spyglass	5zlk	5zlk:3
+amber stevens	5h9f	5h9f:3
+amber stevens west	5h9f	
+amber sweet	1own	
+amber tamblyn	17di	
+amber the farting amputee	gk7	
+amber the one legged hypoglycemic	gk7	
+amber valetta	2ev1	
+amber valletta	2ev1	
+amber valley	xb2	
+amber valley borough council	xb2	
+amber von tussle	1q4i	
+amber waves	11ao	
+amber west	5h9f	
+amber williams	30am	
+amber wisner	3qld	
+amours de la reine elisabeth	5mhk	
+anywhere		4fcw:3,6gzf:3
+anywhere but		4fcw:3
+anywhere but here	4fcw	
+anywhere but here film	4fcw	
+anywhere but here kayak album	4u5z	
+anywhere but here music from the motion picture	4fcw	
+anywhere but home	16or	
+anywhere city	3meb	
+anywhere for		6gzf:3
+anywhere for you	6gzf	
+arengosse	3pq7	
+asanam	gdz	
+azheekal	6vv	
+bleulerian	4sl7	
+capefair north carolina	42x	
+champougny	2odp	
+charles owen hobaugh	4cok	
+charles owen scorch hobaugh	4cok	
+chavornay	2i03	
+chavornay ain	2i03	
+chingola	4cpa	
+chingola zambia	4cpa	
+chistay	42xe	
+clinical		6qw:2
+clinical anxiety	i3c	
+clinical diagnosis	1pw8	
+clinical economics	3269	
+clinical emergency medicine	5i9	
+clinical geneticist	1d6	
+clinical genetics	23w	
+clinical healthcare simulators	5wbe	
+clinical histological type unspecified malignant melanoma	s5u	
+clinical imaging	1ixe	
+clinical immunology	fjm	
+clinical magnetic resonance imaging	4lcs	
+clinical neurology	2f4	
+clinical nmri	4lcs	
+clinical oncology	38v	
+clinical ophtalmology	61a	
+clinical opthalmology	61a	
+clinical pharmacologist	o5g	
+clinical physiologist	b6o	
+clinical psychiatrist	qw	
+clinical psychology training licensing	cf	
+clinical research building penn med	4yu	
+clinical samples	4v65	
+clinical sign	6qw	
+clinical signs	6qw	
+clinical signs and symptoms	6qw	
+clinical social work	54zq	
+clinical symptom	9u4	
+clinical toxicology	6fo2	
+clothaire ii	2f3l	
+coledale tamworth new south wales	h90	
+compagnes de la nuit	1pvl	
+copyquote	1d53	
+croupier	2ksw	
+croupier 1998 film	2ksw	
+croupier film	2ksw	
+cryptophagus	3qa0	
+cuitlahuac	5oks	
+dahira	5ujo	
+dianne		ppf:2,2u0b:2,5oqr:2
+dianne abbot	2cf3	
+dianne abbott	2cf3	
+dianne belmont	b5j	
+dianne burnett	u1s	
+dianne de poytiers	4tkv	
+dianne e wiest	ppf	
+dianne emiel goldman	2u0b	
+dianne emiel goldman berman feinstein	2u0b	
+dianne feinstein	2u0b	
+dianne g b feinstein	2u0b	
+dianne goldman berman feinstein	2u0b	
+dianne goldman feinstein	2u0b	
+dianne keaton	b5f	
+dianne mcauliffe	qaj	
+dianne reeves	5oqr	
+dianne sawyer	49kl	
+dianne weist	ppf	
+dianne west	ppf	
+dianne wiest	ppf	
+distractions house	155p	
+distractions house episode	155p	
+distractions song	5o68	
+dombraina	5tml	
+donngal	5liq	
+dpscg	4dwd	
+dzemaili	2k5n	
+echoes		3gn0:6,5qqz:4
+echoes in the dark	67z5	
+echoes interlude	5n7w	
+echoes of light shadow album	1eu4	
+echoes pink floyd album	3gn0	
+echoes silence		5qqz:4
+echoes silence patience		5qqz:4
+echoes silence patience and grace	5qqz	
+echoes silence patience grace	5qqz	
+echoes silence patience grace tour	5qqz	
+echoes the		3gn0:6
+echoes the best		3gn0:6
+echoes the best of		3gn0:6
+echoes the best of pink		3gn0:6
+echoes the best of pink floyd	3gn0	
+echoes the einaudi collection	vxq	
+eisenstein		53pg:3
+eisenstein in		53pg:3
+eisenstein in guanajuato	53pg	
+eisenstein in guanajuato 2014 film	53pg	
+eisenstein j d	3ncw	
+eisenstein judah david	3ncw	
+eisenstein sergey mikhailovich	1a79	
+eliossana	19gc	
+enciphered	69fm	
+esc2017	kkb	
+extraterritorial properties of the holy see	4ujb	
+extraterritorial property of the holy see	4ujb	
+ezcabarte	1y09	
+fc chemlon humenne	vn0	
+floodlit trophy	62r2	
+george bernanos	1o46	
+ghostown	jc	
+gmina kowalewo		t5o:3
+gmina kowalewo pomorskie	t5o	
+gnesins high school of music	rho	
+gnesins musical college	rho	
+goetz		3olw:7
+goetz briefs	54o8	
+goetz george	12u5	
+goetz otto	1z1o	
+goetz von		3olw:7
+goetz von berlichingen		3olw:7
+goetz von berlichingen of		3olw:7
+goetz von berlichingen of the		3olw:7
+goetz von berlichingen of the iron		3olw:7
+goetz von berlichingen of the iron hand	3olw	
+goetz von berlichingen of the iron hand 1979 film	3olw	
+goetz william	27j9	
+hivory towers	3pp0	
+howls moving castle film	1aob	
+huchu	vcr	
+ic50 db	5em9	
+james mackintosh	519p	
+jean paulista	3oes	
+jesica	215	
+kalasin	nap	
+kalasin province	nap	
+kalasin province thailand	nap	
+kamata saeko	4mpd	
+kaszink torpedo ust kamenogorsk	4o1p	
+kataklysm	3y9e	
+kfssr	36p0	
+klawz	bke	
+klewenalp	1xub	
+koner thomas	6dtb	
+konkona		tlb:3
+konkona sen	tlb	tlb:3
+konkona sen sharma	tlb	
+la chelona	42tq	
+la chevroliere	3he9	
+la courneuve	tln	
+la courneuve france	tln	
+la courneuve paris	tln	
+la fidelite	57u8	
+la polizia accusa il servizio segreto uccide	35en	
+la polizia chiede aiuto	2xjr	
+la polizia e al servizio del cittadino	4xze	
+la polizia ha le mani legate	5bun	
+la polizia incrimina la legge assolve	14uw	
+la polizia interviene ordine di uccidere	4rf9	
+la polizia ringrazia	27nb	
+la polizia sta a guardare	53k7	
+lanternflies	2ooh	
+lapenne	2b79	
+le chat	1irt	2vpt:5
+le chat du rabbin	53ot	
+le chat et		2vpt:5
+le chat et la		2vpt:5
+le chat et la souris	2vpt	
+le chat film	1irt	
+legions		2q5s:4
+legions of		2q5s:4
+legions of merit	g5	
+legions of the		2q5s:4
+legions of the nile	2q5s	
+liverdy		3gbi:3
+liverdy en		3gbi:3
+liverdy en brie	3gbi	
+loek		61vv:2
+loek dikker	61vv	
+loughborough	fu7	3b1:2,pvw:3,255r:3
+loughborough college of art	3b1	
+loughborough college of art and design	3b1	
+loughborough college of education	3b1	
+loughborough college of technology	3b1	
+loughborough colleges rfc	pvw	
+loughborough england	fu7	
+loughborough f		255r:3
+loughborough f c	255r	
+loughborough fc	255r	
+loughborough library	fu7	
+loughborough students		pvw:3
+loughborough students rufc	pvw	
+loughborough students rugby union football club	pvw	
+loughborough technical institute	3b1	
+loughborough town	fu7,255r	
+loughborough town f c	255r	
+loughborough training college	3b1	
+loughborough university	3b1	
+loughborough university of technology	3b1	
+louis rodolphe		nng:3
+louis rodolphe agassiz	nng	
+lubiewo commune	1hdh	
+lwt	1c5b	
+lwt factual	1c5b	
+magnetizing current	366a	
+makhanda	fxf	
+makhanda eastern cape	fxf	
+megyan	63j	
+mermaid	2112	4x6s:3
+mermaid cafe	1ej5	
+mermaid county wicklow arts centre	9cn	
+mermaid man and barnacle boy episode list	i7a	
+mermaid of		4x6s:3
+mermaid of copenhagen	3e9k	
+mermaid of naples	4x6s	
+mermaid reach	1a63	
+merycoidodontinae	5i1r	
+mhp	zqg	
+mhp riesen		1wvk:3
+mhp riesen ludwigsburg	1wvk	
+microstructure of dynamic hedging	4g6g	
+mkwii	5f57	
+moglie e buoi	1kdb	
+moglie in vacanza l amante in citta	4xlx	
+moglie per una notte	4nrd	
+motorbuses	86g	
+munch	14tv,5e2j	
+munch s oddysee	4y4v	
+munch surname	5e2j	
+nebettawy	2siz	
+neronde	3byo	2zfv:3
+neronde sur		2zfv:3
+neronde sur dore	2zfv	
+neubauten	wcy	
+nyctophylopython	6ej4	
+nynee tal	116g	
+outcast	3o8a,665f	3t5h:4,5bn6:2
+outcast 2015 tv series	3o8a	
+outcast 2016 tv series	3o8a	
+outcast kreator album	665f	
+outcast of		3t5h:4
+outcast of the		3t5h:4
+outcast of the islands	3t5h	
+outcast paver	53la	
+outcast tv series	3o8a	
+outcast us tv series	3o8a	
+pangul	2pmc	
+papua	a2v	vt:3,dg1:8,29ra:6
+papua barat province	lk0	
+papua indonesia	a2v	
+papua indonesian province	a2v	
+papua island	2308	
+papua new		vt:3,dg1:8,29ra:6
+papua new guinea	vt	dg1:8,29ra:6
+papua new guinea flag	5xgy	
+papua new guinea football team	dg1	
+papua new guinea men		dg1:8
+papua new guinea men s		dg1:8
+papua new guinea men s national		dg1:8
+papua new guinea men s national soccer		dg1:8
+papua new guinea men s national soccer team	dg1	
+papua new guinea national		29ra:6
+papua new guinea national football team	dg1	
+papua new guinea national soccer		29ra:6
+papua new guinea national soccer league	29ra	
+papua new guinea time	52q	
+papua ng	vt	
+papua province	a2v	
+papua province indonesia	a2v	
+papua ultima online	17kc	
+peewee dance	1agd	
+peewee king	4qo3	
+peewee s big adventure	1agd	
+peewee strange	p9s	
+pepsico	fvl	
+pepsico doc	fvl	
+pepsico inc	fvl	
+pepsico international	fvl	
+physeteridae catadon	600t	
+piriodic table	149y	
+piste du sud	61cc	
+plinii mladshii	1z2z	
+poaching of african bush elephants	3hvc	
+poaching of asian elephants	qjh	
+poaching of elephants	16mc	
+poaching of gorillas	1v89	
+poaching of rhinoceroses	14h3	
+poaching of snow leopards	2dgq	
+poaching of white rhinoceroses	5zfv	
+pommerania	2fx2	
+princess claude		2sbx:3
+princess claude d orleans	2sbx	
+princess claude dorleans	2sbx	
+princess claude duchess of aosta	2sbx	
+princess claude of orleans	2sbx	
+quinciano	2ij7	
+rapes	tdu	
+rcooh	49o	
+royroydeb jimmy marin	50ar	
+rworange you me	1g7c	
+sacodon	2hf2	
+saionji		25qq:2
+saionji kimmochi	25qq	
+saionji kinmochi	25qq	
+sanajiq	rfg	
+sannazzaro		2bhi:3
+sannazzaro de		2bhi:3
+sannazzaro de burgondi	2bhi	
+sanusi		49ue:2
+sanusi turay	49ue	
+scottishman	nvd	
+sfogato soprano	d0i	
+shenze	4no4	4no4:2
+shenze county	4no4	
+significant		4xma:2,6f4n:2
+significant internet events	7l8	
+significant other	6f4n	
+significant other album	6f4n	
+significant others	4xma	
+significant others 1998	4xma	
+significant others 1998 tv series	4xma	
+significant trauma	v5k	
+slumerican records	2rj4	
+sope band	z1u	
+spremberg	2go8	
+stefania	kzc,3ato	fnk:2,1bwc:2,2jgx:2,2sq3:2,5cni:2,5mum:3,64go:2
+stefania belmondo	2sq3	
+stefania careddu	64go	
+stefania casini	2jgx	
+stefania federkiewicz	1ep8	
+stefania first name	kzc	
+stefania given name	kzc	
+stefania montorsi	5cni	
+stefania name	kzc	
+stefania orsola		5mum:3
+stefania orsola garello	5mum	
+stefania paul	1ep8	
+stefania rocca	1bwc	
+stefania sandrelli	fnk	
+stefania zofia bloomfield	1ep8	
+stefania zofia paul	1ep8	
+stefania zofya federkiewicz	1ep8	
+stefania zsofia bloomfield	1ep8	
+stefania zsofia federkiewicz	1ep8	
+stefania zsofia paul	1ep8	
+tancred	4otg	1bp5:2,2vri:3,2y3x:4,4n26:4,4otg:4
+tancred de hauteville	2vri	
+tancred ibsen	1bp5	
+tancred king		2y3x:4
+tancred king of		2y3x:4
+tancred king of sicily	2y3x	
+tancred of		2vri:3
+tancred of antioch	4otg	
+tancred of hauteville	2vri	
+tancred of lecce	2y3x	
+tancred of sicily	2y3x	
+tancred prince		4n26:4,4otg:4
+tancred prince of		4n26:4,4otg:4
+tancred prince of antioch	4otg	
+tancred prince of bari	4n26	
+tancred prince of galilee	4otg	
+tancred prince of tiberias	4otg	
+tenman tenjin	38ae	
+tetrapilus	69mo	
+the vault		1uz0:4
+the vault of		1uz0:4
+the vault of horror	1uz0	
+the vault of horror film	1uz0	
+the vault of horror movie	1uz0	
+thermodymanics	1rld	
+titanscoach	1dm	
+tournefeuille	2vqn	
+tyn nad		1x29:3,24om:3
+tyn nad becvou	1x29	
+tyn nad vltavou	24om	
+uberto		3wq3:2
+uberto alberti	1k2m	
+uberto pasolini	3wq3	
+ufjalusi	2nl2	
+uwe	2vvg	
+uwe barschel	5ueb	
+uwe barth	6ddx	
+uwe beckmeyer	3tci	
+uwe bein	3h3x	
+uwe bialon	4blj	
+uwe bol	ywl	
+uwe bole	ywl	
+uwe boll	ywl	
+uwe boll films	ywl	
+uwe e reinhardt	5stj	
+uwe ehlers	5tos	
+uwe erkenbrecher	655w	
+uwe ernst reinhardt	5stj	
+uwe fuchs	4dpk	
+uwe gospodarek	456f	
+uwe grauer	62ij	
+uwe jaehnig	6dx9	
+uwe jahnig	6dx9	
+uwe johnson	5siw	
+uwe kliemann	5v3w	
+uwe kockisch	5wdt	
+uwe moehrle	4vwf	
+uwe mohrle	4vwf	
+uwe neuhaus	64mt	
+uwe ochsenknecht	1fgg	
+uwe rahn	2uei	
+uwe rapolder	65a8	
+uwe reinders	5fop	
+uwe reinhardt	5stj	
+uwe roesler	1vof	
+uwe rosler	1vof	
+uwe schmidt	5ufs	
+uwe schneider	4npa	
+uwe schummer	4ciq	
+uwe seeler	2hbc	
+uwe timm	3ass	
+uwe wegmann	4bbi	
+uwe weidemann	4119	
+uwe wessel	1m6x	
+uwe wolf	2w5i	
+uwe zimmermann	5zq2	
+veduta	506w	
+villatuerta	47jx	
+vivelle	3jlo	
+volequin	1ubz	
+weed bowl	6glv	
+weed killer	e7x	
+weed records	10b	
+weed road	kui	
+weed road pictures	kui	
+william beauchamp 1st baron bergavenny	4gmn	
+william walker	3oij,5iqb	
+william walker baja california	3oij	
+william walker fighter pilot	7yb	
+william walker nicaragua	3oij	
+william walker president	3oij	
+william walker soldier	3oij	
+william walker sonora	3oij	
+wyler william	fgd	
+yatigusa kaoru	1uc0	
+yearone movie com	1fph	

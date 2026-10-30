@@ -1,0 +1,566 @@
+1881 british census	3mkn	
+a turtles tale 2 sammys escape from paradise	3zuz	
+agrestis	1lrz	
+aigneville	1p9i	
+arandjelovac	1ro7	
+arandjelovac municipality	1ro7	
+azharite	pbu	
+b773er	lic	
+balizarde	6akk	
+barnstable	pt6	c74:2
+barnstable county	c74	
+barnstable county ma	c74	
+barnstable county massachusetts	c74	
+barnstable ma	pt6	
+barnstable massachusetts	pt6	
+barnstable massachusetts metropolitan area	c74	
+barnstable town ma	pt6	
+barnstable town ma metropolitan statistical area	c74	
+barnstable town ma msa	c74	
+barnstable town massachusetts	pt6	
+barnstable town massachusetts metropolitan area	pt6	
+bealach	w5	
+belfries		1pbb:5
+belfries of		1pbb:5
+belfries of belgium		1pbb:5
+belfries of belgium and		1pbb:5
+belfries of belgium and france	1pbb	
+berlingo	5ahv	
+bileca	i10	
+bileca municipality	i10	
+bori gabor	55en	
+boulages	3dab	
+bpython	19k5	
+brvnx	215d	
+budapest	8f	gzy:6,jtj:2,1wjc:3,2hfq:3,2qy7:3,35m0:3,3eru:3,3sfs:3,3wom:3,43ij:3,4cu7:5,4ktz:4,4y1n:3,531c:4,5enz:3,5fta:4,5mmn:3
+budapest 1998	1wbo	
+budapest academy of fine arts	1ycd	
+budapest academy of music	ead	
+budapest airport plc	4cu7	
+budapest airport pte ltd	4cu7	
+budapest airport rt	4cu7	
+budapest airport zrt	4cu7	
+budapest bank ftc	1y59	
+budapest conservatory	ead	
+budapest district		1wjc:3,2hfq:3,35m0:3,3eru:3,3sfs:3,3wom:3,43ij:3,4y1n:3,5enz:3,5mmn:3
+budapest district iv	3wom	
+budapest district ix	4y1n	
+budapest district v	1wjc	
+budapest district vii	5mmn	
+budapest district xi	2hfq	
+budapest district xiv	5enz	
+budapest district xv	35m0	
+budapest district xvi	3sfs	
+budapest district xvii	43ij	
+budapest district xviii	3eru	
+budapest ferenc		4cu7:5
+budapest ferenc liszt		4cu7:5
+budapest ferenc liszt international	4cu7	4cu7:5
+budapest ferenc liszt international airport	4cu7	
+budapest ferihegy airport	4cu7	
+budapest ferihengy international airport	4cu7	
+budapest gallery	1z40	
+budapest grand		2qy7:3
+budapest grand prix	2qy7	
+budapest honved	3kc	
+budapest honved fc	3kc	
+budapest honved fc ii	12vw	
+budapest honved s e	3kc	
+budapest honved se	3kc	
+budapest hungary	8f	
+budapest ix kerulete	4y1n	
+budapest liszt ferenc airport	4cu7	
+budapest liszt ferenc nemzetkozi repuloter	4cu7	
+budapest lotto open	2qy7	
+budapest medical school	5081	
+budapest metro	jtj	4ktz:4,531c:4,5fta:4
+budapest metro comments	jtj	
+budapest metro line		4ktz:4,531c:4,5fta:4
+budapest metro line 1	4ktz	
+budapest metro line 2	531c	
+budapest metro line 4	5fta	
+budapest metro m1	jtj	
+budapest metro m3	jtj	
+budapest music academy	ead	
+budapest s district vii	5mmn	
+budapest subway	jtj	
+budapest technical university	gzy	
+budapest underground	jtj	
+budapest university	47l	gzy:6
+budapest university of		gzy:6
+budapest university of economic sciences	z7d	
+budapest university of economic sciences and public administration	z7d	
+budapest university of economics	z7d	
+budapest university of economics and public administration	z7d	
+budapest university of sciences	47l	
+budapest university of technology	gzy	gzy:6
+budapest university of technology and		gzy:6
+budapest university of technology and economics	gzy	
+budapest xi kerulete	2hfq	
+budapest xiv kerulete	5enz	
+castelviel	2vio	
+chakravarthy	7nb	
+chakravarthy music composer	7nb	
+chakravarthy rajagopalachari	1p7s	
+chuck	21c,9ov	4hi:2,9w3:2,hij:2,iwg:2,tca:2,16t6:2,1cwc:2,1fau:2,1r6s:2,26i8:2,27il:2,2an0:3,2e3n:2,2fi6:2,2ln2:2,2qhz:2,2tm0:2,2ulh:2,2v0d:2,2xy8:3,2zj0:2,30d2:2,3eok:2,3r47:2,3v5w:2,3yag:2,42i0:2,493y:2,4klj:3,4lbd:2,4nh7:2,4nrt:2,4shb:2,4v3i:2,55qq:2,58td:2,5bvs:6,5i6g:2,5mxp:2,5rwc:2,5tbw:2,5wd1:3,698t:2,6c9c:2,6d9i:2
+chuck 3d	9ov	
+chuck amuck the life and times of an animated cartoonist	4hi	
+chuck and fifi	13ei	
+chuck and larry	sbu	
+chuck aspegren	qrf	
+chuck barris	2qhz	
+chuck barry	9w3	
+chuck berry	9w3	
+chuck berry is on top	5z99	
+chuck bowman	6c9c	
+chuck brady	4e9n	
+chuck brown	1r6s	
+chuck brown the soul searchers	1r6s	
+chuck close	58td	
+chuck close 1940	58td	
+chuck codd	6d9i	
+chuck colson	57wd	
+chuck conners	hij	
+chuck connors	hij	
+chuck connors person	2ulh	
+chuck cooper	3yag	
+chuck cooper athlete	3yag	
+chuck cooper basketball	3yag	
+chuck coulson	57wd	
+chuck cunningham	17ym	
+chuck cunningham syndrome	17ym	
+chuck d	42i0	
+chuck darwin	7og	
+chuck dixon	4shb	
+chuck eidson	4lbd	
+chuck f horner	698t	
+chuck first name	21c	
+chuck fries	43mw	
+chuck garrison	2xw0	
+chuck geschke	5p5g	
+chuck given name	21c	
+chuck gordon	2c29	
+chuck gordone	3q9r	
+chuck grassley	4nh7	
+chuck hagel	2fi6	
+chuck heston	a67	
+chuck hilarious jim reilly	14om	
+chuck hogan	55qq	
+chuck horner	698t	
+chuck hughes	4v3i	
+chuck jaeger	1fau	
+chuck jones	4hi	
+chuck jones enterprises	4hi	
+chuck jones film productions	4hi	
+chuck jones productions	4hi	
+chuck kettles	31sp	
+chuck knoll	5i6g	
+chuck larry	sbu	
+chuck loeb	5mxp	
+chuck lorre	1cwc	
+chuck lorre productions	1cwc	
+chuck maccann	26i8	
+chuck magione	2v0d	
+chuck mangione	2v0d	
+chuck manson	1mw0	
+chuck mcann	26i8	
+chuck mccann	26i8	
+chuck menville	5rwc	
+chuck mitchell	5tbw	
+chuck moll	2zj0	
+chuck name	21c	
+chuck nelson reilly	14om	
+chuck noll	5i6g	
+chuck nooris	iwg	
+chuck noris	iwg	
+chuck norris	iwg	
+chuck norriss	iwg	
+chuck out your chintz	3rkv	
+chuck pahalniuk	tca	
+chuck pahlahniuk	tca	
+chuck pahlaniuk	tca	
+chuck palahniuck	tca	
+chuck palahniuk	tca	
+chuck palahnuik	tca	
+chuck palanhiuk	tca	
+chuck palaniuk	tca	
+chuck palanuic	tca	
+chuck palanuik	tca	
+chuck palanuk	tca	
+chuck percy	4d5a	
+chuck person	20q3,2ulh	
+chuck pfarrer	4nrt	
+chuck potter	1exp	
+chuck rangel	37zx	
+chuck robb	2ln2	
+chuck roberson	16t6	
+chuck rock	3eok	5bvs:6
+chuck rock 2	5bvs	
+chuck rock 2 son of chuck	5bvs	
+chuck rock game gear	3eok	
+chuck rock ii	5bvs	5bvs:6
+chuck rock ii son		5bvs:6
+chuck rock ii son of		5bvs:6
+chuck rock ii son of chuck	5bvs	
+chuck russell	2tm0	
+chuck russink	3u9w	
+chuck s challenge	6709	
+chuck schuldiner	2e3n	
+chuck schuldiner comments	2e3n	
+chuck schumer	3r47	
+chuck schumer comments	3r47	
+chuck season		2an0:3,2xy8:3,4klj:3,5wd1:3
+chuck season 1	5wd1	
+chuck season 2	2an0	
+chuck season 3	2xy8	
+chuck season 4	4klj	
+chuck series	9ov	
+chuck sheetz	27il	
+chuck show	9ov	
+chuck shuldiner	2e3n	
+chuck stone	30d2	
+chuck thacker	3cfp	
+chuck the plant	3yh8	
+chuck tv	9ov	
+chuck tv series	9ov	
+chuck tv show	9ov	
+chuck versus phase three	4klj	
+chuck versus the aisle of terror	4klj	
+chuck versus the balcony	4klj	
+chuck versus the briefcase	4klj	
+chuck versus the couch lock	4klj	
+chuck versus the coup d etat	4klj	
+chuck versus the cubic z	4klj	
+chuck versus the fear of death	4klj	
+chuck versus the first fight	4klj	
+chuck versus the gobbler	4klj	
+chuck versus the leftovers	4klj	
+chuck vest	54ww	
+chuck wagon dog food	5b5m	
+chuck watts	2n5x	
+chuck whalen	624j	
+chuck williams	3v5w	
+chuck williams basketball	3v5w	
+chuck woolery	493y	
+chuck woollery	493y	
+chuck yaeger	1fau	
+chuck yager	1fau	
+chuck yeagar	1fau	
+chuck yeager	1fau	
+clairton	1pyr	
+clairton pa	1pyr	
+clairton pennsylvania	1pyr	
+consolidation	g9i	
+consolidation israel	760	
+consolidation locomotive	g9i	
+consolidation party	760	
+david nielsen	1w39	
+david nielsen footballer	1w39	
+david oddsson	63ty	
+decentan	29vb	
+delyanni	5cws	
+dieterle william	971	
+elevator	4lc0	1sx4:4
+elevator alarm	4lc0	
+elevator buttons	4lc0	
+elevator cab	4lc0	
+elevator car	4lc0	
+elevator episode	6109	
+elevator machinery	4lc0	
+elevator research rocket	1ohw	
+elevator to		1sx4:4
+elevator to the		1sx4:4
+elevator to the gallows	1sx4	
+elevator to the gallows ascenseur pour l echafaud	1sx4	
+enthesopathy	2gbl	
+evaille	2xlo	
+fc lucaferul tiraspol	h1i	
+fc zestaponi	h8z	
+fc zestaponi 2	h8z	
+fougax		3cz3:3
+fougax et		3cz3:3
+fougax et barrineuf	3cz3	
+genocidal	1erh	
+genocidal organization	1erh	
+giutar	3s	
+glenay	3kbl	
+gmina bolkow	yt0	
+gmina kozmin		xwg:3
+gmina kozmin wielkopolski	xwg	
+guenon	1y8o,2nk5	
+guetta	c0h	c0h:2
+guetta david	c0h	
+guingamp	4k9	
+gyldendal	3x1g	an5:3
+gyldendal asa	3x1g	
+gyldendal denmark	3x1g	
+gyldendal s		an5:3
+gyldendal s endowment	an5	
+hemixanthidium	2rf8	
+herodou attikou	28ze	
+hinterzarten	523q	
+hombres		3ctr:2
+hombres del mar	11z0	
+hombres g	3ctr	
+httpget	2hgo	
+ichihasama miyagi	2524	
+james lewis day	5ywf	
+james lewis jones	61do	
+jean lapointe	45fj	
+kambujia	53ir	
+karian		17lm:3
+karian rural		17lm:3
+karian rural district	17lm	
+kendujhar		18pa:2
+kendujhar district	18pa	
+kieczygow commune	uzq	
+kiele		4lxc:2
+kiele michelle sanchez	4lxc	
+kiele sanchez	4lxc	
+leitao de barros	5t4w	
+leontien nl	12a0	
+liba	3mu6	
+losers	2rk3	2rk3:2
+lounes		4nwl:2,4pzx:2
+lounes bendahmane	4pzx	
+lounes gaouaoui	4nwl	
+maipurean language	343c	
+maipurean languages	343c	
+maltser	2sq	
+maumoon	2w5z	2w5z:3
+maumoon abdul		2w5z:3
+maumoon abdul gayoom	2w5z	
+maumoon abdul gayyoom	2w5z	
+maumoon gayoom	2w5z	
+mcfadden brian	1h2l	
+mcfadden s station	cdr	
+mcfadden s station kentucky	cdr	
+mcfadden sarah	6bfe	
+meepo	6gr2	
+merkaz harav	17nq	
+merkaz harav kook	17nq	
+merkaz harav seminary	17nq	
+metrea	1qxw	
+michael foale	24h1	
+michael shencker group	3hcy	
+mickie	p89	1mak:2
+mickie most	1mak	
+mickie most comments	1mak	
+mirkin david	4k4q	
+miroslave klose	17od	
+mno	2qw	
+mofida tlatli	5a8q	
+mottos	oib	
+mutt		h8y:2
+mutt lang	h8y	
+mutt lange	h8y	
+mutt records	shn	
+mutt song	5997	
+naturlich die autofahrer	3l4b	
+nepi	19md	
+nepi vt	19md	
+ojibways	65zu	
+okb	6fln	
+okb 1	9l3	
+okb 1 of nii 88	9l3	
+okb 134	4lvy	
+okb 153	133x	
+okb 155	1g0d	
+okb 156	lsj	
+okb 301	qng	
+okb 4	4lvy	
+okb 4 molniya	4lvy	
+okb 52	2vjc	
+okb 52 map	2vjc	
+okb 520	26my	
+okb 575	6fln	
+okb 586	7p8	
+okb lavochkin	qng	
+okb sukhoi	161u	
+okb yakovlev	10g6	
+okb zavoda 478	5wsy	
+onchidoris	1whe	
+oppenans	2fis	
+osaze odemwingie	1lfl	
+peter bennewitz	44wq	
+petiville	3fz1	
+petiville seine maritime	3fz1	
+pitigliano	1w1t	
+pittigliano	1w1t	
+playboy	32r1	3u1:2,1epk:2,42k7:2
+playboy advisor	32r1	
+playboy channel	1epk	
+playboy cybergirl	32r1	
+playboy enterprises inc	32r1	
+playboy interview	32r1	
+playboy magazine	32r1	
+playboy online	3u1	
+playboy playmate	3u1	
+playboy playmate of the month	3u1	
+playboy playmate of the year	3u1	
+playboy playmates	3u1	
+playboy prince	4n6v	
+playboy rabbit	32r1	
+playboy records	42k7	
+playboy tre	rba	
+playboy tv	1epk	
+plumas		90i:2
+plumas county	90i	
+plumas county ca	90i	
+plumas county california	90i	
+polocross western cape	23ni	
+prince nikolai of denmark	5vgg	
+procapan	fjo	
+punisher	2l6j	wxl:2,117i:3,1xbx:2,4gfa:2,5wqm:2
+punisher 2	wxl	
+punisher 3	117i	
+punisher history	2l6j	
+punisher max line	2l6j	
+punisher tv series	4gfa	
+punisher war		117i:3
+punisher war zone	117i	
+punisher war zone film	117i	
+punisher warzone	117i	
+pustule	8vo	
+reta		34cv:2
+reta shaw	34cv	
+richard benguigui	qpa	
+richard laurence		4pmg:4
+richard laurence millington		4pmg:4
+richard laurence millington synge	4pmg	
+rotdon	2pzj	
+ruslanaalbums	ons	
+saint loubouer	24zg	
+salizhan		4nrm:2
+salizhan s sharipov	4nrm	
+salizhan shakirovich sharipov	4nrm	
+salizhan sharipov	4nrm	
+sambal	5g4k	
+sambal dialect	5g4k	
+sambal tina	5g4k	
+san cesareo	4d05	
+satraps	ahk	
+sbm itb	giy	
+schelderode	2cyf	
+segewold	dvu	
+servicing mission 4	1dha	
+shuihuzhuan	ae0	
+sibylle		1nhn:3,265g:3,2dr0:3,2k1v:5,2ox3:3,3cad:3,3cyr:2,3t74:5,4jci:4,5suv:5
+sibylle auguste of saxe lauenburg	3evm	
+sibylle christine		2k1v:5
+sibylle christine of		2k1v:5
+sibylle christine of anhalt		2k1v:5
+sibylle christine of anhalt dessau	2k1v	
+sibylle d anjou	1lfh	
+sibylle elisabeth		4jci:4
+sibylle elisabeth of		4jci:4
+sibylle elisabeth of wurttemberg	4jci	
+sibylle elizabeth of wurttemberg	4jci	
+sibylle freybe	1pqq	
+sibylle lewitscharoff	3cyr	
+sibylle merian	2ih4	
+sibylle of		1nhn:3,265g:3,2dr0:3,2ox3:3,3cad:3,3t74:5
+sibylle of anhalt	zbz	
+sibylle of anjou	1lfh	
+sibylle of baden	2ox3	
+sibylle of bavaria	3cad	
+sibylle of brandenburg	265g	
+sibylle of cleves	2dr0	
+sibylle of julich		3t74:5
+sibylle of julich cleves		3t74:5
+sibylle of julich cleves berg	3t74	
+sibylle of saxony	1nhn	
+sibylle of saxony 1515 1592	1nhn	
+sibylle ursula		5suv:5
+sibylle ursula of		5suv:5
+sibylle ursula of brunswick		5suv:5
+sibylle ursula of brunswick wolfenbuttel	5suv	
+sipaayi	ceq	
+smnd		52be:3
+smnd og		52be:3
+smnd og svigermdre	52be	
+sokalian	53nk	
+stanely cup	up	
+stanely prusiner	1c7b	
+sukru	5i82	4ehb:3,55zj:2,5i81:2
+sukru ersoy	5i81	
+sukru first name	5i82	
+sukru given name	5i82	
+sukru gulesin	55zj	
+sukru saracoglu		4ehb:3
+sukru saracoglu stadium	4ehb	
+sukru saracoglu stadyumu	4ehb	
+supermac	4syt	
+sybille		1v86:2
+sybille christine of anhalt dessau	2k1v	
+sybille johanna danninger	104m	
+sybille merian	2ih4	
+sybille of cleves	2dr0	
+sybille of saxony	1nhn	
+sybille schmitz	1v86	
+techtsar	1e5x	
+tello		3t3m:8
+tello alfonso lord of aguilar de campoo	3t3m	
+tello de		3t3m:8
+tello de castilla		3t3m:8
+tello de castilla lord		3t3m:8
+tello de castilla lord of		3t3m:8
+tello de castilla lord of aguilar		3t3m:8
+tello de castilla lord of aguilar de		3t3m:8
+tello de castilla lord of aguilar de campoo	3t3m	
+tello lord of aguilar de campoo	3t3m	
+tello of castile	3t3m	
+temmodaphne	1uwg	
+the delphian	964	
+the greensthe green alternative	wue	
+the mode	aqd	
+thibs	5ugv	
+thomas stanley	3q05	3q05:6
+thomas stanley 1st		3q05:6
+thomas stanley 1st earl		3q05:6
+thomas stanley 1st earl of		3q05:6
+thomas stanley 1st earl of derby	3q05	
+thomas stanley holland frost tom holland	1sts	
+thomas stanley matthews	5gd9	
+thomas stanley tom holland	1sts	
+tripwire	67uh	5u3c:2
+tripwire film	67uh	
+tripwire interactive	5u3c	
+turlock	xtb	
+turlock ca	xtb	
+turlock calif	xtb	
+turlock california	xtb	
+turlock california police department	xtb	
+vars	1svh,2l31,3d5n	3egx:3
+vars charente	1svh	
+vars haute saone	3d5n	
+vars hautes alpes	2l31	
+vars sur		3egx:3
+vars sur roseix	3egx	
+vinnychchyna	9v3	
+waloddi		4ecc:2
+waloddi weibull	4ecc	
+wed	68lb	
+wed enteprises	yi3	
+wed imagineering	yi3	
+weinitz	o6t	
+william hastings		4ery:5
+william hastings 1st		4ery:5
+william hastings 1st baron		4ery:5
+william hastings 1st baron hastings	4ery	
+william hastings baron hastings	4ery	
+worldvision	3y68	3y68:2
+worldvision enterprises	3y68	
+worldvision enterprises inc	3y68	
+worldvision home video	3y68	
+worldvision home video inc	3y68	
+worldvision inc	3y68	
+yongyooth thongkongtoon	6ans	
+zein		5tez:4
+zein al		5tez:4
+zein al abidin ben ali	3rol	
+zein al sharaf	5tez	5tez:4
+zein al sharaf talal	5tez	
+zingara	4hgc	
+zingara film	4hgc	
+zoodochos pigi evros greece	1u6u	

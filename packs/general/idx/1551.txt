@@ -1,0 +1,439 @@
+1770s	1x8d	
+a milne edwards	5lxw	
+aarudra	3lvw	
+abnormality of gait	3vi9	
+academico		ehr:4
+academico de		ehr:4
+academico de viseu	ehr	ehr:4
+academico de viseu f c	ehr	
+academico de viseu fc	ehr	
+academico de viseu futebol clube	ehr	
+academico viseu	ehr	
+aesop	1vrm	1pt2:2,6gko:3
+aesop among the jews	6gko	
+aesop and son	14ok	
+aesop fables	6gko	
+aesop roc	1pt2	
+aesop rock	1pt2	
+aesop s		6gko:3
+aesop s best known fables	6gko	
+aesop s fable	6gko	
+aesop s fables	6gko	
+aesop s fables among the jews	6gko	
+aesop son	14ok	
+afk atlantic		5v75:4
+afk atlantic lazne		5v75:4
+afk atlantic lazne bohdanec	5v75	
+afk benesov	4aj1	
+afk lazne bohdanec	5v75	
+afk sistema	1r53	
+afk vrsovice	56g	
+alexander claire	3y90	
+alexander evgenevich fersmann	34ks	
+amable		5n17:7
+amable guillaume		5n17:7
+amable guillaume prosper		5n17:7
+amable guillaume prosper brugiere	5n17	5n17:7
+amable guillaume prosper brugiere baron		5n17:7
+amable guillaume prosper brugiere baron de		5n17:7
+amable guillaume prosper brugiere baron de barante	5n17	
+andernos		37lj:3
+andernos les		37lj:3
+andernos les bains	37lj	
+anheuserbusch	5edc	
+anheuserbusch inbev	nx9	
+annaliese dodds	60h6	
+anonymouscontent evergreen copyrights	2go	
+aqeel ibn abi talib	3tr1	
+aqeel ibn abu talib	3tr1	
+autoroute 26 france	512m	
+autoroute a1	1fsx	
+autoroute a1 france	1fsx	
+autoroute a26	512m	
+autoroute a4	3yxk	
+autoroute a7	4k2b	
+autoroute a9	65l5	
+autoroute blanche	5hbw	
+autoroute de l est	3yxk	
+autoroute des anglais	512m	
+autoroute du nord	1fsx	
+autoroute du sud	2tip	
+autoroute francaise a10	wdo	
+autoroute francaise a6	2tip	
+autoroute francaise a71	5ch8	
+autoroute quebec	1h2j	
+basso anthony	4zqe	
+basso buffo	2la	
+basso cantante	2la	
+bento		1ewv:2
+bento goncalves	1ewv	
+bento goncalves city	1ewv	
+bento goncalves rio grande do sul	1ewv	
+bento goncalves town	1ewv	
+bento xvi	ekl	
+beroth	1dd	
+bungalo		4ng2:2
+bungalo records	4ng2	
+capodice	3ugr	
+carcassonne	8su	
+carcassonne france	8su	
+caubous	260d,2n18	
+caubous haute garonne	260d	
+caubous hautes pyrenees	2n18	
+chandrikapersad santokhi	6h35	
+channay	3boj	2s07:3
+channay sur		2s07:3
+channay sur lathan	2s07	
+charles barton	isp	
+charles barton director	isp	
+chincheros		60me:2
+chincheros province	60me	
+coelenteratology	5kmx	
+correlation receiver	aot	
+couronia	3088	
+danaids	45ix	
+darkelectro	a7e	
+diodora	g6q	
+dronacharya		20ha:2
+dronacharya award	20ha	
+electrocrania	eqw	
+emmaline pankhurst	3unj	
+eval kaneval	48q8	
+eval kneavel	48q8	
+eval knieval	48q8	
+fonsagrada	2hjm	
+fraxinus	29jr	
+fraxinus species	29jr	
+frisian sea	2xl	
+fujishima kohsuke	5c75	
+fujishima kosuke	5c75	
+fujishima kousuke	5c75	
+gardenwitch	1b2s	
+gimmes	4nyw	
+gmina brzyska	4hr7	
+gmina mlynarze	23j5	
+gmina rogozno	t6y,2d87	
+goku	6gdx	4vfs:2
+goku dragon ball	6gdx	
+goku gaiden yuki no akashi wa si xing qiu	y8m	
+goku roman	4vfs	
+goku senior	6gdx	
+goku son dragon ball	6gdx	
+halfback	332	
+halfback amercian football	332	
+halfback american football	332	
+halfback gridiron football	332	
+headwires	5nd2	
+hippocrates	1u65	
+hippocrates of cos	1u65	
+hippocrates of kos	1u65	
+hypercydas	215w	
+ilanz	1nbf,23e7	
+ilanz circle	1nbf	
+ilanz gr	23e7	
+ilanz graubuenden	23e7	
+ilanz graubunden	23e7	
+ilanz grisons	23e7	
+ilanz kreis	1nbf	
+ilanz switzerland	23e7	
+ilm	35se,3mi1	
+ilm al		5762:3
+ilm al kalam	5762	
+ilm district	qbf	
+ilm kreis	qbf	
+ilm kreis district	qbf	
+ilm saale	35se	
+ilm thuringen	35se	
+ilm thuringia	35se	
+ilm ul kalaam	5762	
+izmash	t63	
+jest	w8k	
+jest harvey	2br3	
+jinja	3fw,1oaj	
+jinja shinto	3fw,b05	
+jinja shrine	3fw	
+jinja uganda	1oaj	
+john trewick	60mn	
+john voight	a18	
+joinvilla santa catarina	18ik	
+kaisergebirge	13i2	
+kisuma	1o3l	
+kranj	4zy	
+kranj kranj	4zy	
+kranj slovenia	4zy	
+kranj slovenija	4zy	
+kranj sr slovenia	4zy	
+kranj yugoslavia	4zy	
+kristen	ap6	l6q:2,oqm:2,pmz:2,12eg:2,1unz:3,38a8:2,41z7:2,4afm:2,4q1t:2,53yy:2,5g79:2,5n8f:2
+kristen andersen	1unz	
+kristen andersen lopez	1unz	
+kristen anderson	1unz	1unz:3
+kristen anderson lopez	1unz	
+kristen anne bell	l6q	
+kristen bell	l6q	
+kristen bell actress	l6q	
+kristen carroll wiig	pmz	
+kristen cheneworth	ock	
+kristen chenoweth	ock	
+kristen chenowith	ock	
+kristen connolly	5n8f	
+kristen davis	2jfc	
+kristen demokratisk samling	1bfr	
+kristen dunst	fsu	
+kristen first name	ap6	
+kristen given name	ap6	
+kristen gore	5k73	
+kristen hersh	1xc8	
+kristen holden reid	4zyv	
+kristen holden ried	4zyv	
+kristen jaymes stewart	oqm	
+kristen jenner	1i90	
+kristen johnston	5g79	
+kristen kardashian	1i90	
+kristen kreuk	3bsj	
+kristen lopez	1unz	
+kristen mary houghton	1i90	
+kristen mary houghton kardashian jenner	1i90	
+kristen mary jenner	1i90	
+kristen mary kris jenner	1i90	
+kristen mewis	4brj	
+kristen noel kristy swanson	1jxd	
+kristen nygaard	41z7	
+kristen otto	4nat	
+kristen rasmussen	38a8	
+kristen rasmussen tarr	38a8	
+kristen ritter	2jzo	
+kristen schaal	12eg	
+kristen schall	12eg	
+kristen scott thomas	dc0	
+kristen skjeldal	53yy	
+kristen stewart	oqm	
+kristen stewart filmography	oqm	
+kristen stewert	oqm	
+kristen stuart	oqm	
+kristen viikmae	4q1t	
+kristen viikmaee	4q1t	
+kristen wig	pmz	
+kristen wigg	pmz	
+kristen wiig	pmz	
+kristen wilson	4afm	
+kristen wilson actress	4afm	
+kusilvak		2b3j:3
+kusilvak census		2b3j:3
+kusilvak census area	2b3j	
+kusilvak census area ak	2b3j	
+kusilvak census area alaska	2b3j	
+la metro	1u13	
+lawfirm	aqc	
+longjump	11a	
+luftvaernsautomatkanon m 36	yuh	
+luftvaernsautomatkanon m 48	yuh	
+majik records	28f4	
+mangareva islands	3udn	
+mees	25r1	
+mees c e kenneth	5ax7	
+meleril	epx	
+merzig	20hx	56kb:3
+merzig wadern	56kb	56kb:3
+merzig wadern district	56kb	
+metcalf and eddy	4k4n	
+metcalf mark	4tyj	
+michael bloomberg	vzq	
+millena	4rv4	
+mineiraonazo	4x26	
+mm dd yy	30j	
+mm keeravani	9bb	
+mm ugm	gwg	
+mm w	2w82	
+montauville	1nwz	
+moumour	3wg3	
+mountainous	1s	
+mountainous badakhshan autonomous province	1xe2	
+mountainous karabakh	4b4f	
+mountainous massif	pf7	
+new university of lisbon	1u8c	
+ninoslav		3afz:2,6du1:2
+ninoslav milenkovic	3afz	
+ninoslav parmakovic	6du1	
+oidaematophorini	22cg	
+orpen	5tie	
+orpen w	5tie	
+orpen william	5tie	
+orpen william sir	5tie	
+pacalongan	4rj4	
+paoki	xby	
+pavlice	2gwf	
+pavlice znojmo district	2gwf	
+pecsi		6q5:2
+pecsi dozsa sc	6q5	
+pecsi mecsek fc	6q5	
+pecsi mecsek football club	6q5	
+pecsi mfc	6q5	
+pecsi munkas fc	6q5	
+pecsi munkas sc	6q5	
+pecsi sandor	5mdj	
+pecsi tudomanyegyetem	4rf6	
+pericle	2uf5	
+philobotinae	20m7	
+ploaie in luna lui marte	63gh	
+polymelus	4ht1	
+polymelus horse	4ht1	
+psittacine	56fs	
+pujalt	2k4i	
+qianxi nan buyei and miao autonomous prefecture	398i	
+qurghenteppa	3abe	
+ranuccio		1u7g:3,272p:3,2i9h:3,4wxs:2
+ranuccio bianchi		1u7g:3
+ranuccio bianchi bandinelli	1u7g	
+ranuccio duke of parma	272p	
+ranuccio duke of parma and piacenza farnese	2i9h	
+ranuccio farnese	4wxs	
+ranuccio farnese cardinal	4wxs	
+ranuccio i	272p	272p:3
+ranuccio i duke of parma	272p	
+ranuccio i duke of parma and piacenza	272p	
+ranuccio i farnese	272p	
+ranuccio i farnese duke of parma	272p	
+ranuccio ii	2i9h	2i9h:3
+ranuccio ii duke of parma	2i9h	
+ranuccio ii farnese	2i9h	
+ranuccio ii farnese duke of parma	2i9h	
+richard reinhard emil schorr	66e9	
+roonaldo	12fa	
+roswell	pba,1463,3cxs	
+roswell christopher bottum iii	4s5t	
+roswell ga	1463	
+roswell georgia	1463	
+roswell high tv series	3cxs	
+roswell n m	pba	
+roswell new mexico	pba	
+roswell new mexico micropolitan area	4b7u	
+roswell nm	pba	
+roswell nm micropolitan statistical area	4b7u	
+roswell nm msa	4b7u	
+roswell nm sa	4b7u	
+roswell north elementary	1463	
+roswell television	3cxs	
+roswell television series	3cxs	
+roswell television show	3cxs	
+roswell tv	3cxs	
+roswell tv series	3cxs	
+roswell tv show	3cxs	
+saint ambreuil	1ko1	
+sampooran singh	iu2	
+sampooran singh gulzar	iu2	
+sampooran singh kalra	iu2	
+sandjak	rfg	
+scarab beetles	6rk	
+scarab marvel comics	3nr7	
+scoot		1d74:2
+scoot mcnairy	1d74	
+sitophobia	25bh	
+slayer	o3t	
+slayer band	o3t	
+slayer band members	o3t	
+sneders	5rix	
+spygame	hsi	
+st bendt		5bd3:4
+st bendt s		5bd3:4
+st bendt s church	5bd3	
+st bendt s church ringsted	5bd3	
+stenurges	6bps	
+stronie slaskie commune	201j	
+stylinidae	cjz	
+surman andrew	56qo	
+tahny welch	3uu1	
+tari		47g1:2
+tari kh baghdad	5bdn	
+tari khail	s45	
+tari khel	s45	
+tari l phillips	47g1	
+tari phillips	47g1	
+tehseel	pup	
+telo martius	371	
+tftd	6cmo	
+the acoustic sessions	3ryy	
+the isle		5trh:5
+the isle is full of noises	1mpt	
+the isle of		5trh:5
+the isle of bute	422h	
+the isle of lemnos	vqh	
+the isle of lost		5trh:5
+the isle of lost ships	5trh	
+the isle of lost ships 1923 film	5trh	
+the isle of man	2me	
+the isle of the dead painting	3ta5	
+the isle of the lost	16s3	
+the isle of wight	4pq	
+the margaret thatcher center for freedom	1bmv	
+the margaret thatcher infirmary	4day	
+the orchid film	67bv	
+the orchid review	34yg	
+the orchid thief	v1j	
+the purchase		4f12:3
+the purchase price	4f12	
+thefame	3uxd	
+tuguegaraense	1446	
+tuncay		2bhm:2
+tuncay sanl	2bhm	
+tuncay sanli	2bhm	
+turgenevian	n9q	
+ubc	xy	
+ubc department of anesthesiology pharmacology therapeutics	xy	
+ubc thunderbirds	1mgf	
+ubc thunderbirds baseball	1mgf	
+ubc thunderbirds men s cross country	1mgf	
+ubc thunderbirds men s soccer	1mgf	
+ubc vancouver	xy	
+ubc water sustainability	xy	
+ucedista	p8z	
+ulkinium	11km	
+utrott	5mk0	
+vageli protopapas	5z0x	
+vali	2t8f	3r2t:2
+vali ahad	6bzh	
+vali ahd	6bzh	
+vali badea	3cmr	
+vali gasimov	3r2t	
+vali norse mythology	2t8f	
+vali son of loki	2t8f	
+vali son of odin	2t8f	
+vandenberg		d55:5,16d5:4,1hjg:5,23qd:5,4s2i:5
+vandenberg afb ca	16d5	
+vandenberg afb california	16d5	
+vandenberg afb space launch complex 1	23qd	
+vandenberg afb space launch complex 2	d55	
+vandenberg afb space launch complex 3	1hjg	
+vandenberg afb space launch complex 5	4s2i	
+vandenberg air force base	16d5	
+vandenberg air force base california	16d5	
+vandenberg air force base doc	16d5	
+vandenberg air force base launch sites	16d5	
+vandenberg air force base launch sites doc	16d5	
+vandenberg air force base space and missile heritage center	16d5	
+vandenberg arthur h	5hkq	
+vandenberg arthur hendrick	5hkq	
+vandenberg s moonkings	5os5	
+vandenberg space		d55:5,16d5:4,1hjg:5,23qd:5,4s2i:5
+vandenberg space force		16d5:4
+vandenberg space force base	16d5	
+vandenberg space launch		d55:5,1hjg:5,23qd:5,4s2i:5
+vandenberg space launch complex		d55:5,1hjg:5,23qd:5,4s2i:5
+vandenberg space launch complex 1	23qd	
+vandenberg space launch complex 2	d55	
+vandenberg space launch complex 3	1hjg	
+vandenberg space launch complex 5	4s2i	
+vinnica	9b6	
+wetterstein	u5c	
+wetterstein mountains	u5c	
+whites in america	ctd	
+whites in the united states	ctd	
+whites of their eyes	6g11	
+wikipediae	s9y	
+wilders freedom party	k5f	
+william mateus	5v7q	
+william mateus da silva	5v7q	
+william sylvester	1x9p	
+yayoumei li	5gpz	
+yesuj	4lze	
+zederik	xsk	

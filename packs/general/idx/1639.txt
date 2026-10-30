@@ -1,0 +1,344 @@
+a clockwork		fab:3,5n75:3
+a clockwork orange	fab,5n75	
+a clockwork orange a play with music	5n75	
+a clockwork orange book	5n75	
+a clockwork orange film	fab	
+a clockwork orange motion picture	fab	
+a clockwork orange musical	5n75	
+a clockwork orange novel	5n75	
+aaj blois	61zp	
+aaj din chadheya	58xh	
+acronycta	9yv	
+aderito		2uni:4
+aderito waldemar		2uni:4
+aderito waldemar alves		2uni:4
+aderito waldemar alves carvalho	2uni	
+aderito waldemar alves de carvalho	2uni	
+aidomaggiore	3wsd	
+amazy	41x7	
+ansost	3bbo	
+anyone		1y2n:3
+anyone can		1y2n:3
+anyone can play	1y2n	
+anyone can whistle desperate housewives episode	2zct	
+anyone sophia loren song	4ajh	
+atzeneta		41g5:3
+atzeneta del		41g5:3
+atzeneta del maestrat	41g5	
+bernoville	299z	
+bladerunner 2049	pgc	
+bortnikov alexander	4dxb	
+boxtrees	691t	
+brenna	3wyk	
+brenna co	3wyk	
+brenna commune	537u	
+brenna italy	3wyk	
+brenna lombardy	3wyk	
+cartierville montreal	2kpe	
+cavillargues	2bik	
+charles brush	3ulv	
+cheang pou soi	5db0	
+cogoleto	25lk	
+corwin		678s:3
+corwin c		678s:3
+corwin c guell	678s	
+corwin press	1zl	
+corwin thomas	4yyv	
+david billabona	3yh0	
+devathayai		6diu:2
+devathayai kanden	6diu	
+duranguesado	5l79	
+ecd iserlohn	1tqe	
+ecd sauerland	1tqe	
+eiichiro		5qs0:2,6cz4:2
+eiichiro hasumi	6cz4	
+eiichiro oda	5qs0	
+empetraceae	jx7	
+espiet	2frr	
+espnscrum	67gc	
+espnscrum doc	67gc	
+eutendorf	4v4m	
+evangelicals	1ig2	
+fc anapa	ap4	
+fc caramba	5tqp	
+fc caramba dinamo	5tqp	
+fc caramba riga	5tqp	
+frimley	13ko	
+frimley england	13ko	
+frimley surrey	13ko	
+geoje	5qk8	
+geoje si	5qk8	
+gnorimoschema	a9j	
+gokhten	r24	
+gruenhainichen	4xb6	
+halicarnassians	4sis	
+haskell	m2h,1frc	pbw:2,1frc:4,1y0e:2,1z0t:2,437n:2,4g0o:2
+haskell 2010	m2h	
+haskell b curry	437n	
+haskell brooks curry	437n	
+haskell county	1y0e,1z0t,4g0o	
+haskell county kansas	1z0t	
+haskell county ks	1z0t	
+haskell county ok	1y0e	
+haskell county oklahoma	1y0e	
+haskell county texas	4g0o	
+haskell county tx	4g0o	
+haskell curry	437n	
+haskell indian	1frc	1frc:4
+haskell indian college	1frc	
+haskell indian industrial training school	1frc	
+haskell indian junior college	1frc	
+haskell indian nations		1frc:4
+haskell indian nations university	1frc	
+haskell indian school	1frc	
+haskell institute	1frc	
+haskell prime	m2h	
+haskell programming	m2h	
+haskell programming language	m2h	
+haskell university	1frc	
+haskell wexler	pbw	
+hemonstoir	2drw	
+heuzecourt	396y	
+hlkc tv	o2b	
+holoscene	5bkg	
+hubbard		ogq:2
+hubbard county	ogq	
+hubbard county minnesota	ogq	
+hubbard county mn	ogq	
+hubbard memorial library massachusetts	4h3n	
+hungover	6hlz	
+hungover games	4fac	4fac:3
+hydrusa	6s8	
+hypercalcaemia	6520	
+iol	4pqx	
+isoruku yamamoto	4d58	
+iter	4roz	
+iter project	4roz	
+james marshall	5fma,5hit	
+james marshall actor	5fma	
+james marshall author	5hit	
+james marshall character	ou1	
+james marshall hendrix	77q	
+jawnuta	3bs0	
+jeffersonian institute	gx9	
+jeffersonian institution	gx9	
+jeffersonian project	gdd	
+jeffersonian republican party	2be	
+jeffersonian republicans	2be	
+jerel		5zg4:2
+jerel ifil	5zg4	
+jessains	2qqm	
+jochebed	4aac	
+john hill	ap3	
+john hill football manager	5g16	
+john trumpy sons	5atv	
+john trumpy sr	5atv	
+joska fischer	2m03	
+jrue	4mfq	4mfq:2
+jrue holiday	4mfq	
+jrue holliday	4mfq	
+jrue randall holiday	4mfq	
+kaiserwalzer	3t7n	
+kekaulike kinoike ii	333i	
+kensico		9br:2
+kensico cemetery	9br	
+kinect	21np	
+kinect for the xbox 360	21np	
+kinect for windows	21np	
+kinect for xbox 1	21np	
+kinect sdk	21np	
+kitzbuel	pic	
+kjlen	kdo	
+kjlen mountains	kdo	
+koniggratz	6aj	
+koritschan	2a66	
+kristall		1ad6:2,1urt:2
+kristall elektrostal	1urt	
+kristall neryungri	2o49	
+kristall saratov	1ad6	
+kristall saratow	1ad6	
+la lectrice	238a	
+lunatae	268w	
+meisters von flemalle	2us0	
+mocissus	n5n	
+montdore	2b46	
+myeongryang	1won	
+neha		1ri0:2
+neha dhupia	1ri0	
+neha dhupia filmography	1ri0	
+nl	2r	
+nl constitution	gyj	
+nl cy young	6ge1	
+nl cy young award	6ge1	
+nl east	6hph	
+nl east division	6hph	
+nl eastern division	6hph	
+nl liberal party	1gnd	
+nl manager of the year	6hsz	
+nl most valuable player	ij9	
+nl most valuable player award	ij9	
+nl mvp	ij9	
+offenburg	gux	
+olufela olusegun oludotun ransome kuti	ptu	
+otlet	5ecd	
+partizani		4kd:2
+partizani 1974 film	2aet	
+partizani film	2aet	
+partizani tirana	4kd	
+partizani tirane	4kd	
+partizani tirane fc	4kd	
+paul kagame	4b0m	
+perenchies	1kcn	
+plosive		2lub:2
+plosive aerophone	513s	
+plosive consonant	2lub	
+plosive consonants	2lub	
+polynices	6eux	
+poschiavo	qy0	
+poschiavo gr	qy0	
+poschiavo graubuenden	qy0	
+poschiavo graubunden	qy0	
+poschiavo grisons	qy0	
+poschiavo switzerland	qy0	
+posttraumatic stress disorder	11mb	
+prince ikpe		42r2:3
+prince ikpe ekong	42r2	
+prince maximilien of hanover	4gla	
+psun	1u4y	
+quiver	5w0p	
+quiver archery	5w0p	
+rajaram vankudre shantaram	kij	
+richard kenneth guy	5l32	
+san mateo	4om	cbm:3,1som:3
+san mateo bulldogs	4k4k	
+san mateo ca	4om	
+san mateo calif	4om	
+san mateo california	4om	
+san mateo california usa	4om	
+san mateo city	4om	
+san mateo college	4k4k	
+san mateo county	cbm	
+san mateo county ca	cbm	
+san mateo county california	cbm	
+san mateo de las esmeraldas	cvd	
+san mateo junior college	4k4k	
+san mateo middle college high school	4k4k	
+san mateo rizal	1som	
+sarreaus	3wi3	
+segmented crawbster	2sq2	
+segmented display	6awl	
+segmented falls	nb	
+segmented waterfall	nb	
+seleuceia on the tigris	4p9a	
+serguei		4zd6:2
+serguei aleinikov	2nx0	
+serguei bourdine	53jp	
+serguei charikov	4h53	
+serguei dadu	5b3e	
+serguei konenkov	59w7	
+serguei lebedev	5vyq	
+serguei mandreko	3r5j	
+serguei nagorniak	3jv0	
+serguei pavlovich diaghilev	2784	
+serguei prokofiev	c0r	
+serguei scharikov	4h53	
+serguei sharikov	4h53	
+serguei skatchenko	3obg	
+serguei tolstov	3u6a	
+serguei yakovlev	4zd6	
+serguei youtkevitch	15qn	
+shriek		2t7y:11
+shriek if		2t7y:11
+shriek if you		2t7y:11
+shriek if you know		2t7y:11
+shriek if you know what		2t7y:11
+shriek if you know what i		2t7y:11
+shriek if you know what i did		2t7y:11
+shriek if you know what i did last		2t7y:11
+shriek if you know what i did last friday		2t7y:11
+shriek if you know what i did last friday the		2t7y:11
+shriek if you know what i did last friday the 13th	2t7y	
+shriek if you know what i did last friday the thirteenth	2t7y	
+shriek in the night	5jox	
+shriek show	5zh1	
+shuang tong	5eah	
+shuang ya shan	2s3m	
+skyview high school thornton colorado	2qq5	
+sobrevivire gloria gaynor song	4zn1	
+socionics cit	1cln	
+socius philosophy	ci1	
+sofija	s0	
+sofija grad	3wgp	
+sofija grad province	3wgp	
+sofija province	c36	
+solnok	d3x	
+spearwood dalmatinac	5ui4	
+sts121	1c70	
+summergirls	5bns	
+the abduction		4fp4:4,58ts:6,5fna:3
+the abduction club	5fna	
+the abduction of		4fp4:4,58ts:6
+the abduction of europa	4fp4	
+the abduction of the		58ts:6
+the abduction of the sabine		58ts:6
+the abduction of the sabine women	2vq1,58ts	
+the abduction of the sabine women 1936 film	58ts	
+the blob	17fc,3t48	
+the blob 1958 film	3t48	
+the blob 1988	17fc	
+the blob 1988 film	17fc	
+the blob film	3t48	
+the blob movie	3t48	
+the ganges	mke	
+the nature boy	3nd0	
+the nature boy ric flair	3nd0	
+the nature island	1gl	
+the nature zone	63i	
+the revenant	jkf	
+the revenant 2015 film	jkf	
+the revenant 2015 movie	jkf	
+the revenant 2016 film	jkf	
+the throwaways	3lqa	
+the throwaways film	3lqa	
+the wing		10no:5
+the wing or		10no:5
+the wing or the		10no:5
+the wing or the thigh	10no	
+tlok	tc1	
+tuban kama	y4p	
+ubbergen	2aid	
+ultonian	1frq	
+umagumma	3zua	
+uncas el fin de una raza	5kdz	
+urdorf	200k	
+urdorf switzerland	200k	
+urdorf zh	200k	
+urdorf zuerich	200k	
+urdorf zurich	200k	
+verrucariaceae	snm	
+vsemyslice	2v18	
+wayamba	4uw6	
+wayamba palata	4uw6	
+wedemark	4zw7	
+wedemark germany	4zw7	
+widnes	gxf	46o:2
+widnes borough council	gxf	
+widnes cheshire	gxf	
+widnes f c	46o	
+widnes football club	46o	
+widnes lancashire	gxf	
+widnes r l f c	46o	
+widnes rlfc	46o	
+widnes rugby league football club	46o	
+widnes vikings	46o	
+widnes vikings rlfc	46o	
+wilga commune	1a4y	
+william jolliffe		5u00:5
+william jolliffe 1st		5u00:5
+william jolliffe 1st baron		5u00:5
+william jolliffe 1st baron hylton	5u00	
+xianning	3dxu	
+xianning city	3dxu	
+xianning hubei	3dxu	
+yozgat	gso	e5b:2
+yozgat province	e5b	

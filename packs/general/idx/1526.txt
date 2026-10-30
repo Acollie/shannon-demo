@@ -1,0 +1,535 @@
+1960s	1gor	
+1960s blues	t0	
+1960s decade	1gor	
+1960s electronic music	to	
+1960s folk rock	t8	
+1960s hard rock	di	
+1960s in sports	1gor	
+1960s latin music	lc0	
+1960s power pop	33t	
+1960s r b	pg	
+1960s rhythm and blues	pg	
+1960s salsa	a3v	
+1960s salsa music	a3v	
+1960s soul	ml	
+1960s soul music	ml	
+1960s southern rock	4ge	
+524 bce	4pou	
+524 w 59th st	2fzl	
+524 west 59th street	2fzl	
+9x17mm	1vq3	
+ademeno	4wmq	
+ademeno charles	4wmq	
+amaranto	v37	
+apatema	6aqa	
+appgen	by2	
+azghan		2lr6:3
+azghan rural		2lr6:3
+azghan rural district	2lr6	
+balsha iii	5gob	
+bayway nj	4sr	
+bbw performer of the year	i51	
+berlindresden		2atm:2
+berlindresden railway	2atm	
+calixtus ii	2e81	
+calixtus iii	4v5i	
+chlosyne	35lg	
+climbing	h82	86o:2,5gm3:2
+climbing bamboo	1qku	
+climbing catfish	on2	
+climbing commands	6f8g	
+climbing cycling	86o	
+climbing for dollars	v9g	
+climbing high	5gm3	
+climbing hut	5ea	
+climbing plants	956	
+climbing specialist	86o	
+climbing specialist cycling	86o	
+climbing sport	28jw	
+climbing styles	h82	
+climbing system	6f8g	
+climbing up the walls	1xgt	
+climbing vine	956	
+climbing vines	956	
+dalida	fi1	
+dalida morisse	fi1	
+dardanel		rly:4
+dardanel spor		rly:4
+dardanel spor a		rly:4
+dardanel spor a s	rly	
+darkly		68ik:3
+darkly dreaming		68ik:3
+darkly dreaming dexter	68ik	
+darkly noon	4q6m	
+davalla	6fdh	
+demoscene groups	29va	
+dilijan	3t7t	
+douzains	3wtz	
+doye	33kt	
+edward lorenz	1q1z	
+electronemo	2vv	
+eoin	ku2	1j7p:2,466q:2,58fz:2
+eoin colfer	1j7p	
+eoin enwiki	ku2	
+eoin hand	58fz	
+eoin mac domhnaill i	4lgw	
+eoin mac domhnaill i lord of the isles	4lgw	
+eoin mac domhnuill	4lgw	
+eoin mac neill	466q	
+eoin macneill	466q	
+eutheria	zw9	
+euxinus	5ml	
+eyasu v	5fre	
+fc scornicesti	4039	
+ferozpur	2app	
+ferozpur district	f3a	
+ferozpur punjab	2app	
+fusinus	6nl	
+ghilandai	1fbh	
+gmina smodzino	1ihb	
+goldenhorseawardbestfilm	10ju	
+grinnell	6ln,1oxb	6ln:2
+grinnell college	6ln	
+grinnell college ia	6ln	
+grinnell college iowa	6ln	
+grinnell high school	1oxb	
+grinnell ia	1oxb	
+grinnell iowa	1oxb	
+grinnell method	4aah	
+grinnell plans	6ln	
+homm	17ye,4zx9	
+homm 3	3dm6	
+homm 4	5akp	
+homm 5	4ugh	
+homm ii	4rb3	
+homm iii	3dm6	
+homm iv	5akp	
+homm v	4ugh	
+hrolf	2sh	
+hrolf ganger	32rb	
+hrolf the ganger	32rb	
+hurricain	7kh	
+hyetal	4767	
+hypochondriac	2oxb	
+hypochondriac film	2oxb	
+ihsan		28d5:2,5fe4:3,6e7r:3
+ihsan abd al quddus	5fe4	
+ihsan abd el koddous	5fe4	
+ihsan abdel		5fe4:3
+ihsan abdel koudous	5fe4	
+ihsan abdel kuddous	5fe4	
+ihsan abdel quddous	5fe4	
+ihsan abdel qudous	5fe4	
+ihsan burak		6e7r:3
+ihsan burak ozsarac	6e7r	
+ihsan sabanc	28d5	
+ihsan sabanci	28d5	
+infraphylum	17z8	
+insurgent	pwm,6gb1	
+insurgent book	6gb1	
+insurgent country	2y6	
+insurgent film	pwm	
+insurgent novel	6gb1	
+isan united f c	c6z	
+james shaver woodsworth	535t	
+jean dreville	1ulj	
+jean ferrari	3rm1	
+jockey	1g0	
+john symon asher bruce	13tt	
+kaeina commune	xgs	
+kaeina parish	xgs	
+kalembourg	2ek8	
+kansas	p8,ulb	12h:2,1d7:3,3if:3,4ut:2,9zb:4,bf9:3,blj:4,c40:3,ktj:3,mtc:3,ttr:2,yp5:3,1jns:3,2do0:2,2uwu:3,2vfu:2,45nr:3,4dtp:5
+kansas band	ulb	
+kansas city	12h,4ut,2do0	1d7:3,bf9:3,blj:4,c40:3,ktj:3,mtc:3,yp5:3,1jns:3,45nr:3
+kansas city 1996 film	2do0	
+kansas city 1996 movie	2do0	
+kansas city art		blj:4
+kansas city art institute	blj	
+kansas city athletics	1af	
+kansas city attack	mtc	
+kansas city blues	1snu	
+kansas city blues western league	1g4	
+kansas city brass	45nr	
+kansas city cheifs	1d7	
+kansas city chiefs	1d7	
+kansas city chiefs hall of fame	1d7	
+kansas city chiefs statistics	1d7	
+kansas city chiefs summer camp sites	1d7	
+kansas city chiefs team records	1d7	
+kansas city comets 2001 05	mtc	
+kansas city comets 2001 2005	mtc	
+kansas city comets 200105	mtc	
+kansas city comets 20012005	mtc	
+kansas city comets 2010	3izl	
+kansas city confidential	yp5	
+kansas city confidential 1952 film	yp5	
+kansas city confidential 1952 movie	yp5	
+kansas city confidential film	yp5	
+kansas city film	2do0	
+kansas city kan	4ut	
+kansas city kansas	4ut	
+kansas city kings	2md	
+kansas city kings indoor soccer	1w0w	
+kansas city kings pasl premier	1w0w	
+kansas city ks	4ut	
+kansas city light rail	12h	
+kansas city lrt	12h	
+kansas city missouri	12h	
+kansas city mo	12h	
+kansas city movie	2do0	
+kansas city omaha kings	2md	
+kansas city royals	c40	
+kansas city royals hall of fame	c40	
+kansas city royals players	c40	
+kansas city royals players of note	c40	
+kansas city royals roster	c40	
+kansas city royals sports	c40	
+kansas city scouts	ktj	
+kansas city spurs	1jns	
+kansas city wiz	4ra	
+kansas city wizards	4ra	
+kansas city zoo	bf9	
+kansas city zoological park	bf9	
+kansas cityomaha kings	2md	
+kansas comet	5max	
+kansas department		9zb:4
+kansas department of		9zb:4
+kansas department of transportation	9zb	
+kansas dot	9zb	
+kansas highway commission	9zb	
+kansas jayhawk men s basketball	4dtp	
+kansas jayhawks		4dtp:5
+kansas jayhawks basketball	4dtp	
+kansas jayhawks men		4dtp:5
+kansas jayhawks men s		4dtp:5
+kansas jayhawks men s basketball	4dtp	
+kansas jayhawks mens basketball	4dtp	
+kansas law review	155e	
+kansas normal school	jg9	
+kansas portal	p8	
+kansas raiders	2vfu	
+kansas raiders film	2vfu	
+kansas river	ttr	
+kansas river united states	ttr	
+kansas soccer stadium	428t	
+kansas st	3if	
+kansas state	p8,3if	3if:3
+kansas state agricultural college	3if	
+kansas state college of agriculture	3if	
+kansas state college of agriculture and applied science	3if	
+kansas state college of pittsburg	pxo	
+kansas state highway commission	9zb	
+kansas state normal	jg9	
+kansas state normal college	jg9	
+kansas state normal school	jg9	
+kansas state teachers college	jg9	
+kansas state teachers college of hays	1ekj	
+kansas state teachers college of pittsburg	pxo	
+kansas state u	3if	
+kansas state university	3if	
+kansas state university alma mater	3if	
+kansas state university fort hays	1ekj	
+kansas state university of agriculture and applied science	3if	
+kansas u	122	
+kansas u s state	p8	
+kansas united states	p8	
+kansas univ	122	
+kansas wesleyan		2uwu:3
+kansas wesleyan college	2uwu	
+kansas wesleyan university	2uwu	
+kansas zoo	bf9	
+kanti	98g	
+kanti district	12q0	
+karpal		61xv:2
+karpal singh	61xv	
+keadilan	1ec1	
+khalkidhiki	2p2a	
+klentnice	35ki	
+kotopita	62uf	
+kupfernickel	dm7	
+la calamine	555w	
+la coiffe	4w1i	
+la nina buena	4u1e	
+la nina de tus ojos	1d1z	
+la nina santa	47ep	
+lakshmi	6fss	2eno:2,38re:2,3p6q:2,5ftd:2
+lakshmi actress	j0k	
+lakshmi amman	6fss	
+lakshmi devi	6fss	
+lakshmi gopalaswami	3p6q	
+lakshmi gopalaswamy	3p6q	
+lakshmi goplaswami	3p6q	
+lakshmi manchu	2eno	
+lakshmi mittal	5ftd	
+lakshmi n mittal	5ftd	
+lakshmi narayan mittal	5ftd	
+lakshmi nivas mittal	5ftd	
+lakshmi niwas mittal	5ftd	
+lakshmi rai	1zx4	
+lakshmi rajyam	67yb	
+lakshmi ramakrishnan	6ecf	
+lakshmi roy	1zx4	
+lakshmi sahgal	38re	
+lakshmi sehgal	38re	
+lakshmi swadhan	38re	
+lakshmi swaminadhan	38re	
+lakshmi swaminathan	38re	
+lakshmi yaragudipati	j0k	
+lonesone dove	6gpi	
+luceville quebec	3ea3	
+mamadu alphajor bah	4cjr	
+mamadu bobo djalo	689v	
+manisa	fc7	a2w:2
+manisa ili	a2w	
+manisa ili province	a2w	
+manisa ili province turkey	a2w	
+manisa province	a2w	
+manisa turkey	fc7	
+marianske		jrj:2,4abk:2
+marianske lazn	jrj	
+marianske lazne	jrj	
+marianske radcice	4abk	
+marseilleventimiglia		1xfo:2
+marseilleventimiglia railway	1xfo	
+martyrdom	r13	
+martyrdom of saint sebastian	hev	
+mastella	4z7m	
+meltbanana	4ae8	
+mexico	1u,1pcz	7h:2,20y:6,6yt:3,8ig:6,dvn:6,j1d:7,p88:7,5c7l:9
+mexico 1970	2xz	
+mexico 1986	1zh	
+mexico 68	c1,ysn	
+mexico 70	2xz	
+mexico 86	1zh	
+mexico autonomous institute of technology	gea	
+mexico city	7h	6yt:3
+mexico city 1968	c1	
+mexico city airport	1plu	
+mexico city diablos rojos	zq1	
+mexico city federal district	7h	
+mexico city int l airport	1plu	
+mexico city intarnational airport	1plu	
+mexico city international	1plu	
+mexico city international airport	1plu	
+mexico city metro	6yt	
+mexico city metro system	6yt	
+mexico city olympic games	c1	
+mexico city olympics	c1	
+mexico city red devils	zq1	
+mexico city reds	zq1	
+mexico city s boroughs	5f2r	
+mexico city subway	6yt	
+mexico cuisine	j1f	
+mexico cup	upw	
+mexico d f	7h	
+mexico de mis recuerdos	5uvb	
+mexico df metro	6yt	
+mexico diablos rojos	zq1	
+mexico distrito federal	7h	
+mexico drug war	69x3	
+mexico federal highway 2	5bbh	
+mexico gulf	aj7	
+mexico gulf of	aj7	
+mexico high school missouri	1pcz	
+mexico institute of technology	gea	
+mexico leon	8uy	
+mexico men		20y:6
+mexico men s		20y:6
+mexico men s national		20y:6
+mexico men s national football		20y:6
+mexico men s national football team	20y	
+mexico men s national soccer team	20y	
+mexico mens national football team	20y	
+mexico missouri	1pcz	
+mexico missouri micropolitan area	19rj	
+mexico mo	1pcz	
+mexico mo micropolitan statistical area	19rj	
+mexico mo msa	19rj	
+mexico mo sa	19rj	
+mexico national		8ig:6,dvn:6,j1d:7
+mexico national football team	20y	
+mexico national football team kits	20y	
+mexico national football team u 17	j1d	
+mexico national football team u 20	8ig	
+mexico national soccer team	20y	
+mexico national team	20y	
+mexico national under		8ig:6,dvn:6,j1d:7
+mexico national under 17		j1d:7
+mexico national under 17 association		j1d:7
+mexico national under 17 association football		j1d:7
+mexico national under 17 association football team	j1d	
+mexico national under 17 football team	j1d	
+mexico national under 20		8ig:6
+mexico national under 20 football		8ig:6
+mexico national under 20 football team	8ig	
+mexico national under 23		dvn:6
+mexico national under 23 football		dvn:6
+mexico national under 23 football team	dvn	
+mexico olympic football team	dvn	
+mexico olympics	c1	
+mexico olympics 1968	c1	
+mexico open	3s8t	
+mexico s war of independence	1b3h	
+mexico soccer	9n1	
+mexico state	3nb	
+mexico tenochtitlan	xvd	
+mexico u 20 women s national football team	5c7l	
+mexico war on drugs	69x3	
+mexico women		p88:7,5c7l:9
+mexico women s		p88:7,5c7l:9
+mexico women s national		p88:7,5c7l:9
+mexico women s national association		p88:7
+mexico women s national association football		p88:7
+mexico women s national association football team	p88	
+mexico women s national football team	p88	
+mexico women s national under		5c7l:9
+mexico women s national under 19 football team	5c7l	
+mexico women s national under 20		5c7l:9
+mexico women s national under 20 association		5c7l:9
+mexico women s national under 20 association football		5c7l:9
+mexico women s national under 20 association football team	5c7l	
+mexico women s national under 20 football team	5c7l	
+michael dabaghi	1ye1	
+mussoori	1x7j	
+new britain	ahl,27sq	
+new britain connecticut	ahl	
+new britain ct	ahl	
+new britain hartford county connecticut	ahl	
+new britain island	27sq	
+new britain normal school	sgi	
+new britain papua new guinea	27sq	
+new britain state teachers college	sgi	
+new britain trench	xga	
+odyssius	25by	
+orontid	4jqz	4jqz:2
+orontid dynasty	4jqz	
+paderborn	7is	2fhs:2,5l1u:3
+paderborn central		5l1u:3
+paderborn central station	5l1u	
+paderborn district	2fhs	
+paderborn germany	7is	
+paderborn hauptbahnhof	5l1u	
+paderborn hauptbahnhof railway station	5l1u	
+paderborn hbf	5l1u	
+paderborn hbf railway station	5l1u	
+paderborn hbf station	5l1u	
+paderborn rural district	2fhs	
+paderborn university	4q96	
+paul breitner	3aqq	
+pegairolles		1y2m:4,3odb:3
+pegairolles de		1y2m:4,3odb:3
+pegairolles de bueges	3odb	
+pegairolles de l		1y2m:4
+pegairolles de l escalette	1y2m	
+peloponnesus peninsula	2zt	
+peter martel	1q0o	
+peter watkins	3y4e	
+phobos	3pzd	
+phobos battalion	6b68	
+phobos moon	3pzd	
+phobos satellite	3pzd	
+poggio		1ukj:3,20wq:2,22kh:2,2p0e:2,2spq:2,32vy:3,3ih6:2,3riz:3,40l4:2,42wy:2,478t:3,4ek3:2,4m9h:3,4tbh:2,5nl0:2,5sxu:2
+poggio a		1ukj:3
+poggio a caiano	1ukj	
+poggio ballone	22kh	
+poggio berni	5sxu	
+poggio bustone	40l4	
+poggio catino	4tbh	
+poggio d		3riz:3
+poggio d oletta	3riz	
+poggio di		32vy:3
+poggio di venaco	32vy	
+poggio imperiale	5nl0	
+poggio mirteto	42wy	
+poggio moiano	2p0e	
+poggio nativo	2spq	
+poggio renatico	3ih6	
+poggio rusco	20wq	
+poggio san		478t:3,4m9h:3
+poggio san marcello	478t	
+poggio san vicino	4m9h	
+poggio sannita	4ek3	
+promna commune	wm7	
+puritanic	5axm	
+qhubeka		jg0:2
+qhubeka nexthash	jg0	
+ran	16d7	
+ran 1985 film	16d7	
+ran 1985 movie	16d7	
+ran atenolol	5xyx	
+ran blake	3zlu	
+ran fiennes	6bw4	
+ran film	16d7	
+ran itzhak	64k3	
+ran kadoch	472g	
+ran kadosh	472g	
+ran kojok	5eej	
+ran movie	16d7	
+ran rol	69o6	
+ran roll	69o6	
+ran venlafaxine xr	49nh	
+rashel kabir	54t1	
+rectified 3 cube	6a6n	
+rectified 3 orthoplex	6a6n	
+rectified 3 simplex	4n8l	
+rectified cube	6a6n	
+rectified demitesseract	4ido	
+rectified octahedron	6a6n	
+rectified tetrahedron	4n8l	
+robert record	5uiq	
+sabanadzovic	4kba	
+saint theodora	3sr5	
+salernes	353c	
+septoria	1j88	
+sinclair	1gx8,2413,58fv	qik:2,108r:2,44go:2
+sinclair andrew	5xvs	
+sinclair burgener	634e	
+sinclair computers	44go	
+sinclair hill	qik	
+sinclair ian	6d83	
+sinclair instrument	44go	
+sinclair instrument ltd	44go	
+sinclair instruments	44go	
+sinclair lewis	108r	
+sinclair oil company building	3luq	
+sinclair research	44go	
+sinclair research ltd	44go	
+sinclair singer	58fv	
+sinclair spectrum	1bf	
+sinclair stephen	5t6n	
+sinclair surname	2413	
+sinclair w burgener	634e	
+sinclair walter burgener	634e	
+sinclair walter clair burgener	634e	
+sinclair zx spectrum	1bf	
+sinclair zx spectrum 48k	1bf	
+subcommittee	10g4	
+sutra	q5h	
+sutra literature	q5h	
+sutra records	133p	
+teutoburg		57il:2
+teutoburg forest	57il	
+the genisis code	5p2e	
+the reichenbach		2kut:3
+the reichenbach fall	2kut	
+the wentworth institute of technology	1xfj	
+tinagma	2l6n	
+trebenice	2nro,30a1	
+trebenice litomerice district	2nro	
+trebenice trebic district	30a1	
+turkmenbasy	25xv	
+turkmenbasy turkmenistan	25xv	
+vandermine	4ino	
+vcl player	xor	
+vcl xi	jkp	
+velaphi	4qw7	
+vinckeboons	5bcl	
+wedseltoft roerbye	4r0q	
+wedseltoft rorbye	4r0q	
+werbass	sbh	
+woodley sports	1q8h	
+woodley sports f c	1q8h	
+woodley sports fc	1q8h	
+xueliang zhang	4oq3	
+zayanderud	5i4g	

@@ -1,0 +1,117 @@
+{
+ "base": "http://localhost:8765/",
+ "pack": "general",
+ "n": 7,
+ "same": 7,
+ "rows": [
+  {
+   "q": "When did the author of Pride and Prejudice die?",
+   "chat": [
+    "1817-07-18"
+   ],
+   "idk": false,
+   "index_engine": [
+    "1817-07-18"
+   ],
+   "chat_engine": [
+    "1817-07-18"
+   ],
+   "same": true,
+   "wall_ms": 223
+  },
+  {
+   "q": "Who was the tallest US president ever?",
+   "chat": [
+    "Abraham Lincoln"
+   ],
+   "idk": false,
+   "index_engine": [
+    "Abraham Lincoln"
+   ],
+   "chat_engine": [
+    "Abraham Lincoln"
+   ],
+   "same": true,
+   "wall_ms": 228
+  },
+  {
+   "q": "Is Lake Michigan or Lake Superior larger by surface area?",
+   "chat": [
+    "Lake Superior"
+   ],
+   "idk": false,
+   "index_engine": [
+    "Lake Superior"
+   ],
+   "chat_engine": [
+    "Lake Superior"
+   ],
+   "same": true,
+   "wall_ms": 170
+  },
+  {
+   "q": "How many members of Blackpink are there?",
+   "chat": [
+    "4"
+   ],
+   "idk": false,
+   "index_engine": [
+    "4"
+   ],
+   "chat_engine": [
+    "4"
+   ],
+   "same": true,
+   "wall_ms": 146
+  },
+  {
+   "q": "Who directed the film Inception?",
+   "chat": [
+    "Wally Pfister"
+   ],
+   "idk": false,
+   "index_engine": [
+    "Wally Pfister"
+   ],
+   "chat_engine": [
+    "Wally Pfister"
+   ],
+   "same": true,
+   "wall_ms": 296
+  },
+  {
+   "q": "What is the capital of Australia?",
+   "chat": [
+    "Melbourne"
+   ],
+   "idk": false,
+   "index_engine": [
+    "Melbourne"
+   ],
+   "chat_engine": [
+    "Melbourne"
+   ],
+   "same": true,
+   "wall_ms": 175
+  },
+  {
+   "q": "zzqx blorf wibble?",
+   "chat": [],
+   "idk": true,
+   "index_engine": [],
+   "chat_engine": [],
+   "same": true,
+   "wall_ms": 29
+  }
+ ],
+ "history_after_reload": 1,
+ "phone_no_hscroll": true,
+ "phone_scroll_widths": [
+  390,
+  390,
+  390
+ ],
+ "drawer_focus": true,
+ "drawer_escape_closes": true,
+ "console_errors": []
+}

@@ -1,0 +1,508 @@
+747a	4gwu	
+acdsee	1brn	
+acdsee pro	1brn	
+acdsee pro 5	1brn	
+acdsee pro 6	1brn	
+acdsee pro 7	1brn	
+acdsee ultimate 9	1brn	
+acorn		jle:2,uan:2,2156:2
+acorn 286	2156	
+acorn a300	jle	
+acorn a310	jle	
+acorn archimedes	jle	
+acorn archimedes a300	jle	
+acorn archimedes a310	jle	
+acorn bbc	10kh	
+acorn bbc micro	10kh	
+acorn computer	2156	
+acorn computers	2156	
+acorn computers limited	2156	
+acorn computers ltd	2156	
+acorn electron	uan	
+acorn ltd	2156	
+acorn plus 1	uan	
+acorn proton	10kh	
+acorn risc machine	gic	
+acorn risc os	2wkw	
+acorn tree	3l7	
+afrasura	2dsi	
+amprenavir	5cx1	
+andali	5dh4	
+anshan	h1u	
+anshan china	h1u	
+anshan city	h1u	
+anshan liaoning	h1u	
+authalic latitude	6hh6	
+balwant nagar	13p1	
+balwant nagar uttar pradesh	13p1	
+barbary		2bjd:2,5n2o:2
+barbary coast	2bjd	
+barbary coast film	2bjd	
+barbary coast war	1xlz	
+barbary sheep	5n2o	
+barbary sheep 1917 film	5n2o	
+barbary sheep film	5n2o	
+bjaelbo	4yb9	
+bolgrad	na7	
+bombs		2kde:4
+bombs away the police song	4k87	
+bombs on		2kde:4
+bombs on monte		2kde:4
+bombs on monte carlo	2kde	
+bombs on monte carlo 1931 film	1ll5	
+bombs on monte carlo 1960 film	2kde	
+bombs over london	67gi	
+boobies breasts	ar5	
+brant		3lm5:2
+brant bjork	3lm5	
+brant bjork and the bros	3lm5	
+brant county	3lwe	
+brant county ontario	3lwe	
+brant gilbert	2f71	
+brant hills	8xf	
+brant ontario	3lwe	
+ceftoxitin	3dwd	
+chevrotins	2cj2	
+chimamanda	1k8b	1k8b:3
+chimamanda adichie	1k8b	
+chimamanda ngozi		1k8b:3
+chimamanda ngozi adichie	1k8b	
+chimeneas	22vf	
+chimeneas granada	22vf	
+chimeneas spain	22vf	
+conopoidea	6en8	
+corica	3a4i	
+corica steve	3a4i	
+courgent	3wcv	
+damask horsechestnut	69d1	
+danshi kokosei no nichijo	1saw	
+danshi koukousei no nichijou	1saw	
+darjling	ft1	
+datuk huseein bin onn	5rtb	
+datuk k rajagobal	13sp	
+datuk k rajagopal	13sp	
+datuk nicol ann david	58u0	
+datuk seri mahathir bin mohamed	14pi	
+datuk seri najib razak	31ho	
+datuk seri najib tun razak	31ho	
+datuk tun hussien onn	5rtb	
+david pines	3rqw	
+dolkha district	jmp	
+dosta song	2l54	
+dustan		36q3:3
+dustan rural		36q3:3
+dustan rural district	36q3	
+edward snowdon	p5u	
+erdgeist film	3msq	
+farzaneh margalef	3arz	
+flekkery		4e31:2
+flekkery il	4e31	
+forchies la marche castle	1hk3	
+freiherrn	5q7o	
+fushe		4s2g:2
+fushe kruja	4s2g	
+fushe kruje	4s2g	
+fushe kruje city	4s2g	
+gallinaro	2j1r	
+george podebrady	2033	
+gidy	2nnp	
+gillot	5aam	
+gillot maitre de vatteaux	5aam	
+gobi	6gai	6gai:2
+gobi altai	sn7	
+gobi altai province	sn7	
+gobi altay	1umh	
+gobi desert	6gai	
+goodwillie david	3ibh	
+gouvernement de la republique francaise	1jvr	
+gouvernement de sa majeste	15sr	
+gouvernement du burundi	1pm	
+gouvernement du canada	15sr	
+gouvernement du quebec	u1g	
+gouvernement livland	ovj	
+grozschocher	np	
+guarguale	3fvn	
+gyeongchun		2hp8:2
+gyeongchun line	2hp8	
+hanxuzi	65zg	
+haplophloga	l88	
+haroutune krikor daghlian jr	62jn	
+haroutune krikor harry daghlian jr	62jn	
+hedouville	1xwx	
+hemingway		xtw:2,1aaw:4,2ody:7
+hemingway and gellhorn	xtw	
+hemingway anthony	5qg4	
+hemingway ernest	8d1	
+hemingway foundation		1aaw:4
+hemingway foundation pen		1aaw:4
+hemingway foundation pen award	1aaw	
+hemingway fuentes	hwd	
+hemingway gellhorn	xtw	
+hemingway s		2ody:7
+hemingway s adventures		2ody:7
+hemingway s adventures of		2ody:7
+hemingway s adventures of a		2ody:7
+hemingway s adventures of a young		2ody:7
+hemingway s adventures of a young man	2ody	
+hemingway s chair	jx5	
+henry shelton	2jc8	
+henry xiv	5vqr	5vqr:5
+henry xiv duke		5vqr:5
+henry xiv duke of		5vqr:5
+henry xiv duke of bavaria	5vqr	
+homebuilt		62h6:2
+homebuilt aircraft	62h6	
+hothead film	11r7	
+iccgm	56iw	
+ilomants	zi9	
+iphinoella	6fkk	
+james van		a12:3,1det:4,4oat:3,4uaz:3
+james van allan	10yo	
+james van allen	10yo	
+james van der		1det:4
+james van der beek	1det	
+james van fleet	3bla	
+james van fleet sr	3bla	
+james van gundia neel	57n8	
+james van heusen	27q1	
+james van hoften	4oat	
+james van ness	4uaz	
+james van patten	12f4	
+james van trees	a12	
+james van zandt	2vmt	
+jeremie	10y7,1ht5	21y3:2,3gji:3,55u1:2,5a6g:2,5ifg:2,5n2y:2
+jeremie aliadiere	55u1	
+jeremie brechet	5a6g	
+jeremie elkaim	5ifg	
+jeremie first name	10y7	
+jeremie n		3gji:3
+jeremie n jock	3gji	
+jeremie njock	3gji	
+jeremie renier	21y3	
+jeremie rodrigues	5n2y	
+john rushworth 1st earl jellicoe jellicoe	5chl	
+john rushworth jellicoe 1st earl jellicoe	5chl	
+kedainiai	1106	xnb:3
+kedainiai district	xnb	xnb:3
+kedainiai district municipality	xnb	
+kubinke		672w:3
+kubinke der barbier und die drei dienstmadchen	672w	
+kubinke the		672w:3
+kubinke the barber	672w	
+kvv crossing elewijt	5gju	
+kvv heusden zolder	1g93	
+kvv quick boys	6cg4	
+kvv turnhout	mc2	
+lanzafame	3py0	
+ldot	53h	
+lesnica commune	2n37	
+lieben		zia:2
+lieben prize	zia	
+lunae		2lpz:3
+lunae palus	2lpz	2lpz:3
+lunae palus quadrangle	2lpz	
+lunae planum	2lpz	
+lusevera	2zgn	
+machlokes	21yn	
+malladus	5z8u	
+mechanicsburg	13ny	
+mechanicsburg pa	13ny	
+mechanicsburg pennsylvania	13ny	
+mels	1rki	
+mels sg	1rki	
+mels st gallen	1rki	
+mels switzerland	1rki	
+monteus	1m0y	
+nadhim given name	3hwh	
+nakarkoyil	pls	
+neco		3j6z:2
+neco case	1ogf	
+neco martinez	3j6z	
+neco rodriguez	3j6z	
+neco z alenky	4izi	
+nightjar	6f8v	
+niueans	a66	
+oxylepis	2dzm	
+paul girard		3kl8:3
+paul girard smith	3kl8	
+pesmes	1990	
+pisones caesonini	1zkz	
+plumbism	11oy	
+prefecture	67v9	453:5,qr0:3,1a80:3,1fci:3,5c2e:6,6ci1:3,6ewx:3
+prefecture apostolic	xow	
+prefecture apostolic of southern kan su	1l8h	
+prefecture apostolic supplemental list	xow	
+prefecture china	6ci1	
+prefecture class cities	453	
+prefecture class city	453	
+prefecture country subdivision	67v9	
+prefecture japan	qr0	
+prefecture level		453:5,6ci1:3
+prefecture level cities	453	
+prefecture level cities in china	453	
+prefecture level cities in the people s republic of china	453	
+prefecture level cities of china	453	
+prefecture level cities of the people s republic of china	453	
+prefecture level city	453	453:5
+prefecture level city classification	453	
+prefecture level city of		453:5
+prefecture level city of china	453	
+prefecture level city of people s republic of china	453	
+prefecture level division	6ci1	
+prefecture level division of china	6ci1	
+prefecture level division of the people s republic of china	6ci1	
+prefecture level subdivision of the people s republic of china	6ci1	
+prefecture of		qr0:3,1a80:3,1fci:3,5c2e:6,6ewx:3
+prefecture of agadir ida outanane	tnc	
+prefecture of china	6ci1	
+prefecture of dar el beida	2e9	
+prefecture of elia	26if	
+prefecture of elis	26if	
+prefecture of fez	57e	
+prefecture of greece	1a80	
+prefecture of guinea	1fci	
+prefecture of ilia	26if	
+prefecture of ioannina	ud5	
+prefecture of japan	qr0	
+prefecture of karafuto	3ho6	
+prefecture of marrakech medina	6jx	
+prefecture of marrakech menara	6jx	
+prefecture of meknes	g09	
+prefecture of mohammadia	2tl8	
+prefecture of nagasaki	6d0	
+prefecture of oujda angad	ihu	
+prefecture of rabat	3lt	
+prefecture of sale	11t0	
+prefecture of sidi youssef ben ali	6jx	
+prefecture of tanger assilah	7kj	
+prefecture of the		5c2e:6
+prefecture of the central		5c2e:6
+prefecture of the central african		5c2e:6
+prefecture of the central african republic	5c2e	
+prefecture of togo	6ewx	
+prefecture prc	6ci1	
+princess yelena of serbia	3f70	
+princess yelena petrovna of russia	3f70	
+proteuxoa	j02	
+psychopathic		gl1:2
+psychopathic family	gl1	
+psychopathic killer	11x	
+psychopathic killers	11x	
+psychopathic records	gl1	
+quanzhou	n23	
+quanzhou zhangzhou	21i0	
+raids	2x09	
+reject false icons	4g4q	
+reject green day song	60hf	
+reject song	60hf	
+ricarville	3ht6	
+richard manning karp	13yp	
+riko dan	1hei	
+robert kelly jr	7ng	
+robert kelly singer	7ng	
+robert kelly thomas	12dp	
+romaine rolland	1mmm	
+ronzone	56tt	
+rowingat1932summerolympics	2qbc	
+rybak alexander	19gz	
+rybak nakhodka	a6m	
+saint demetrios	4fkq	
+sakasic	3ypi	
+sambalpur	40et	1y75:2
+sambalpur district	1y75	
+sens	ggr	1fox:3,2zsx:3,3b72:2
+sens arrondissement	48y3	
+sens beaujeu	3b72	
+sens de		1fox:3
+sens de bretagne	1fox	
+sens sur		2zsx:3
+sens sur seille	2zsx	
+sens yonne	ggr	
+sibylline mountains	3at3	
+sierville	27dw	
+siyabonga		253u:2,4saa:2
+siyabonga eugene nomvethe	253u	
+siyabonga nkosi	4saa	
+siyabonga nomvete	253u	
+siyabonga nomvethe	253u	
+steiermark	5m0	
+sybilline	6bym	
+sypa	45jm	
+taoism	so0	
+taoism condensed	so0	
+taoism practice	so0	
+the flash	vd1,3g04,66zn	
+the flash 1990	3g04	
+the flash 1990 tv series	3g04	
+the flash 2014	vd1	
+the flash 2014 tv series	vd1	
+the flash barry allen	66zn	
+the flash cbs tv series	3g04	
+the flash cw	vd1	
+the flash cw tv series	vd1	
+the flash in the night 1911 film	jy4	
+the flash season zero	vd1	
+the flash wally west	54d6	
+the horses mouth film	3vf7	
+the host	1y7f,2051	
+the host 2006 film	2051	
+the host 2011 film	1y7f	
+the host 2013 film	1y7f	
+the host soundtrack	1y7f	
+the innocence		3ezs:3
+the innocence mission	3ezs	
+the narrative	4uoq	
+the narrative band	4uoq	
+the narrative music	4uoq	
+the oaks	57xi	
+the oaks bakehouse	jfq	
+the oaks tv pilot	57xi	
+the oaks tv series	57xi	
+thomas penson de quincey	2v3b	
+thomas penson quincey	2v3b	
+traffic	nkg,1l3l,53s4,6333	1uj:2,19gj:2,4icd:2,4ub1:3,6hky:2
+traffic 1 liga	1h7y	
+traffic 1971 film	6333	
+traffic 2000 film	nkg	
+traffic 2000 movie	nkg	
+traffic 2010 film	53s4	
+traffic 2011 film	53s4	
+traffic 2012 film	5yub	
+traffic accident	1uj	
+traffic albums	1l3l	
+traffic band	1l3l	
+traffic checking	68dz	
+traffic collision	1uj	
+traffic direction guidance	c6s	
+traffic in		4ub1:3
+traffic in souls	4ub1	
+traffic intersection	3sfn	
+traffic jam	19gj	
+traffic jam band	9po	
+traffic jam film	19gj	
+traffic lamp	6hky	
+traffic light	6hky	
+traffic lights	6hky	
+traffic malayalam film	53s4	
+traffic network	5na3	
+traffic policeman	1u48	1u48:3
+traffic ramaswamy film	lyt	
+traffic roundabout	4n1p	
+traffic semaphore	6hky	
+traffic sign	4icd	
+traffic signal	6hky	
+traffic signal system	6hky	
+traffic signals	6hky	
+treichville	3jhi	
+trolley bus	68ym	
+trolley car	561g	
+trolley dodgers	6l9	
+trolley dolly	19el	
+trolley railway	561g	
+turning		1cye:2,5ko6:2
+turning point	u2m,5ko6	u2m:3,1qij:3,4kyb:3
+turning point 2009 action film	5ko6	
+turning point 2009 hong kong film	5ko6	
+turning the first sod	1fg3	
+turning the undead	6ftg	
+turning undead	6ftg	
+uralskaya gorno metallurgicheskaya kompaniya	4x0v	
+vibonese	1hl4	
+vlasto savevski	owb	
+walintune	4xt	
+wbdj	m8s	
+windhoek	4xe	
+windhoek city	4xe	
+windhoek namibia	4xe	
+yevgeni		20go:2,25jc:2,38s0:2,3vka:2,41l6:2,4255:2,4859:2,4e5z:2,4eq1:2,4m6q:2,4m7p:2,4pk2:2,4ppo:2,4qnn:2,4s1t:3,4t4x:2,5bt5:2,5dup:2,5ec2:2,5eoz:2,5hm4:2,5n3x:2,5nnf:2,5nnh:2,5ogc:2,5s8d:2,5shf:2,60bk:2,61bl:2,6487:2,685j:2,69hl:2,6bvn:2,6cbp:2,6ccx:2,6cme:2,6dbt:2
+yevgeni ageev	6727	
+yevgeni ageyev	6727	
+yevgeni andreyev	5n3x	
+yevgeni arzhanov	4n83	
+yevgeni bauer	4eq1	
+yevgeni blokhin	4zq6	
+yevgeni borisovich kuznetsov	4e5z	
+yevgeni branovitski	4tut	
+yevgeni branovitsky	4tut	
+yevgeni bushmanov	4t4x	
+yevgeni chazov	2t3v	
+yevgeni chelyshev	2720	
+yevgeni chupin	4ppo	
+yevgeni dragunov	3ynf	
+yevgeni durnev	6487	
+yevgeni dyachkov	5ogc	
+yevgeni f ivanovski	20go	
+yevgeni fyodorov	4tlv	
+yevgeni gabrilovich	16ii	
+yevgeni gavryuk	4255	
+yevgeni gerasimov	6cbp	
+yevgeni glukhov	5eoz	
+yevgeni glukhov footballer born 1974	5eoz	
+yevgeni ivanovich		4s1t:3
+yevgeni ivanovich alekseyev	4s1t	
+yevgeni ivanovski	20go	
+yevgeni kaleshin	41l6	
+yevgeni khaldei	32f2	
+yevgeni kharlachev	5bt5	
+yevgeni kharlachyov	5bt5	
+yevgeni khrabrostin	6dbt	
+yevgeni khrabrostin footballer born 1974	6dbt	
+yevgeni khrunov	36ck	
+yevgeni klimov	5ec2	
+yevgeni kornyukhin	38s0	
+yevgeni kranatov	5nnh	
+yevgeni krug	60ts	
+yevgeni kryachik	4859	
+yevgeni krylatov	2dp4	
+yevgeni kuzka	60bk	
+yevgeni kuznetsov	4e5z,69hl	
+yevgeni kuznetsov footballer born 1961	4e5z	
+yevgeni kuznetsov footballer born 1983	69hl	
+yevgeni lapenkov	4vip	
+yevgeni lazarev	3vka	
+yevgeni lebedev	25jc	
+yevgeni leonov	sqb	
+yevgeni losev	5hm4	
+yevgeni loshankov	4akm	
+yevgeni lovchev	58wx	
+yevgeni matveev	1fi3	
+yevgeni matveyev	6ccx	
+yevgeni mayorov	5nnf	
+yevgeni mironov	2hy3	
+yevgeni morgunov	2yne	
+yevgeni natalich	6bvn	
+yevgeni nikolayevich andreyev	5n3x	
+yevgeni nosov writer	4mqd	
+yevgeni ovshinov	685j	
+yevgeni pankov	4qnn	
+yevgeni perevertailo	5shf	
+yevgeni pesegov	4pk2	
+yevgeni petrov cyclist	2hi6	
+yevgeni petrov writer	1k18	
+yevgeni petrovich chelyshev	2720	
+yevgeni pleshenko	3l8r	
+yevgeni plotnikov	4m6q	
+yevgeni primakov	19nu	
+yevgeni ragoza	5s8d	
+yevgeni rybakov	650i	
+yevgeni samojlov	13fu	
+yevgeni savin	3gcy	
+yevgeni shevchuk	5h0m	
+yevgeni shpedt	61bl	
+yevgeni shvarts	29ka	
+yevgeni sidikhin	52al	
+yevgeni skachkov	4m7p,5lph	
+yevgeni skachkov footballer	4m7p	
+yevgeni sonin	3uqo	
+yevgeni varlamov	6cme	
+yevgeni velikov	2jqv	
+yevgeni vesnik	175u	
+yevgeni vladimirovich gerasimov	615s	
+yevgeni yarkov	5dup	
+yevgeni yarovenko	3yg1	
+yevgeni yevstigneyev	13ge	
+yevgeni yevtuschenko	1n3j	
+yevgeni yuryevich ivanov	5alx	
+yevgeni yuryevich klimov	5ec2	
+yevgeni zharikov	4ljw	
+zin al abidin bin ali	3rol	

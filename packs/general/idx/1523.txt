@@ -1,0 +1,768 @@
+197980		13cm:4,16t2:4,23dm:3,45th:2
+197980 bundesliga	23dm	
+197980 cypriot		13cm:4,16t2:4
+197980 cypriot cup	eof	
+197980 cypriot first		13cm:4
+197980 cypriot first division	13cm	
+197980 cypriot second		16t2:4
+197980 cypriot second division	16t2	
+197980 cypriot third division	1sg7	
+197980 ekstraklasa	45th	
+197980 fuball		23dm:3
+197980 fuball bundesliga	23dm	
+197980 fussball bundesliga	23dm	
+a bandura	33nr	
+a5183	575x	
+a5183 road great britain	575x	
+afganistan football team	6st	
+afganistan national football team	6st	
+amio aqueous iv	dpv	
+ansentron	eta	
+axalp air show	5xpb	
+bargas	3jhx	
+bargas spain	3jhx	
+bargas toledo	3jhx	
+barometric gradient	kga	
+benazide	11t2	
+bersuit	4evr	4evr:2
+bersuit vergarabat	4evr	
+besnier boeck disease	5b79	
+besnier boeck schaumann disease	5b79	
+besnier s prurigo	1s48	
+besnier s prurigo disorder	1s48	
+blotzheim	2c8i	
+bolat		5adt:2
+bolat esmagambetov	5adt	
+bortnyanski dmitri stepanovich	56vc	
+bostonband	1i6e	
+brush away	5sve	
+brush barclay	4gvm	
+brush brown	kp1	
+brush browns	kp1	
+brush fire	hmx	
+brush footed butterflies	47f	
+brush footed butterfly	47f	
+brush richard	5p57	
+brush type 4	5rn8	
+brush type four	5rn8	
+brush wolf	4z82	
+buxeuil	3fo0,3zav	
+buxeuil aube	3fo0	
+buxeuil indre	3zav	
+calabi	49wg	
+capbreton	39fy	
+carozzeria pininfarina	49fo	
+cerezo		3sn:2,37op:4
+cerezo de		37op:4
+cerezo de rio		37op:4
+cerezo de rio tiron	37op	
+cerezo de rio tiron burgos	37op	
+cerezo de rio tiron spain	37op	
+cerezo de riotiron	37op	
+cerezo osaka	3sn	
+chambermaids	4i4q	
+champrenault	3udr	
+charkov	1lw	
+charles hardy	5lah	
+chvaletice	32m8	
+cogenital hypogonadism	2j9p	
+compton	8tg,1buh,6h1f	1hbz:3,255b:3,29ml:2,2t0a:2,3igl:2
+compton a soundtrack	6h1f	
+compton a soundtrack by dr dre	6h1f	
+compton bennet	2t0a	
+compton bennett	2t0a	
+compton burnett	5bxx	
+compton ca	8tg	
+compton california	8tg	
+compton city	8tg	
+compton city college	3igl	
+compton college	3igl	
+compton community college	3igl	
+compton community college district	3igl	
+compton crook		1hbz:3
+compton crook award	1hbz	
+compton crook stephen tall memorial award	1hbz	
+compton dr dre album	6h1f	
+compton high	255b	255b:3
+compton high school	255b	
+compton junior college	3igl	
+compton los angeles california	8tg	
+compton mackenzie	29ml	
+compton mackenzie comments	29ml	
+compton richard	2ari	
+compton sir mackenzie	29ml	
+compton surname	1buh	
+compton the soundtrack	6h1f	
+corcieux	2mth	
+cppc	yst	
+crumerum	281s	
+crunkness	10h2	
+cynog	10vf	
+cynog ap brychan	10vf	
+cynog son of brychan	10vf	
+dankovice	4bsf	
+darla	21gs	21gs:2,2u0a:2,5m3e:3
+darla hood	2u0a	
+darla k		5m3e:3
+darla k anderson	5m3e	
+darla records	21gs	
+denzel		6ehc:2
+denzel hayes washington	cxw	
+denzel hayes washington jr	cxw	
+denzel valentine	6ehc	
+denzel washington	cxw	
+denzel washington s awards and nominations	cxw	
+edward davey	64c2	
+eiger sanction	u2y	u2y:3
+eugivira	g2o	
+evvoia	hyu	
+farmers and settlers association	5ia	
+farmers blvd our anthem	64ix	
+farmers league sweden	7i0	
+farmers party norway	3xn	
+fc estel ufa	ss9	
+flaint	67e	
+flak artillery	r95	
+foreign		8f7:2,8rk:3,cco:6,rzd:2,1cvw:2,1f4p:5,1hx1:4,1i29:2,4xgt:2,5d8c:2,6bp8:2,6di5:2
+foreign advisors to the government in meiji period japan	cco	
+foreign affair	30gx	
+foreign affairs	1cvw	8rk:3
+foreign affairs academy of russia	1dbe	
+foreign affairs academy of the soviet union	1dbe	
+foreign affairs department	8f7	
+foreign affairs departments	8f7	
+foreign affairs forum of the conservative party	bw	
+foreign affairs minister of canada	3nwy	
+foreign affairs ministers	8f7	
+foreign affairs ministry	8f7,8rk	
+foreign affairs secretaries	8f7	
+foreign affairs secretary	8f7	
+foreign agent	6bp8	
+foreign agent film	6bp8	
+foreign and commonwealth office	1f4p	
+foreign assassination	2bhz	
+foreign bank	286	
+foreign body	4xgt	
+foreign body film	4xgt	
+foreign bond	5uv6	
+foreign commonwealth		1f4p:5
+foreign commonwealth and		1f4p:5
+foreign commonwealth and development		1f4p:5
+foreign commonwealth and development office	1f4p	
+foreign correspondent	rzd	
+foreign correspondent 1940 film	rzd	
+foreign correspondent film	rzd	
+foreign correspondent journalism	am4	
+foreign correspondents	am4	
+foreign currency	1ta	
+foreign employees	cco	
+foreign film	ghu	
+foreign films	ghu	
+foreign government		cco:6
+foreign government advisor		cco:6
+foreign government advisor in		cco:6
+foreign government advisor in meiji		cco:6
+foreign government advisor in meiji japan	cco	
+foreign government advisors in meiji japan	cco	
+foreign harbour	6di5	
+foreign intelligence	5n98	
+foreign intrigue	5d8c	
+foreign intrigue film	5d8c	
+foreign invasive species	6esy	
+foreign investment in eritrea	1tm	
+foreign investors	4mj7	
+foreign involvement in the vietnam war	u5	
+foreign labour	2cdo	
+foreign language film	8cm	
+foreign legion	1i29	
+foreign legion france	1i29	
+foreign liquor	dbk	
+foreign matter in refined sugar	782	
+foreign member of the royal society	9d	
+foreign minister	8f7,vqb	1hx1:4
+foreign minister denmark	13jq	
+foreign minister greece	ird	
+foreign minister of		1hx1:4
+foreign minister of australia	vqb	
+foreign minister of austria	4nn4	
+foreign minister of canada	3nwy	
+foreign minister of denmark	13jq	
+foreign minister of estonia	1504	
+foreign minister of finland	1qhc	
+foreign minister of germany	3odk	
+foreign minister of greece	ird	
+foreign minister of india	50mc	
+foreign minister of italy	4k4a	
+foreign minister of japan	2cpz	
+foreign minister of nigeria	22hb	
+foreign minister of norway	1hx1	
+foreign minister of sweden	22vm	
+foreign minister of the eu	612b	
+foreign minister of the gdr	3odk	
+foreign minister of the german democratic republic	3odk	
+foreign ministers of france	354y	
+foreign ministers of sweden	22vm	
+foreign ministry	8f7	
+foreign ministry in bonn	23lx	
+foreign ministry of greece	ird	
+foreign ministry of sweden	5vgj	
+foreign mission	2k7	
+foreign missions	qt	
+foreign movie	ghu	
+foreign nascar drivers	60qx	
+foreign news bureau	am4	
+foreign news office	am4	
+foreign occupation	34sr	
+foreign office	1f4p	
+foreign office germany	23lx	
+foreign office her britannic majesty s government	1f4p	
+foreign office main building	1f4p	
+foreign office uk	1f4p	
+foreign policies	1cvw	
+foreign policy	1cvw	
+foreign policy instrument	1cvw	
+foreign policy of abdel fattah el sisi	3051	
+foreign policy of emmanuel macron	175r	
+foreign policy of hafez al assad	vun	
+foreign policy of jose luis rodriguez zapatero	1ugu	
+foreign policy of mohamed morsi	3pfa	
+foreign policy of petro poroshenko	104b	
+foreign policy of viktor orban	1aei	
+foreign portfolio investment in iran	3ag8	
+foreign press	am4	
+foreign regiment	1i29	
+foreign relations	1cvw	
+foreign relations of bermuda	3j4	
+foreign relations of ceuta	ej8	
+foreign relations of melilla	lg2	
+foreign relations of quebec	ms	
+foreign relations of rhodesia	da3	
+foreign relations policy	1cvw	
+foreign school	eec	
+foreign sec	gsv	
+foreign secretaries	8f7	
+foreign secretary	gsv	
+foreign secretary margaret beckett	2ykj	
+foreign secretary of the united kingdom	gsv	
+foreign secretary uk	gsv	
+foreign word	4dse	
+forlan	178y	
+fourier charles	5xpw	
+fourier francois charles marie	5xpw	
+fsoldigital com	1v6y	
+galatasaray		33f:3,dng:3,iqm:2,q1j:3,1nxn:2
+galatasaray a s	iqm	
+galatasaray as	33f	
+galatasaray cafe crown	dng	
+galatasaray college	q1j	
+galatasaray erkek basketbol takm	dng	
+galatasaray f c	33f	
+galatasaray fc	33f	
+galatasaray high		q1j:3
+galatasaray high school	q1j	
+galatasaray istanbul	dng	
+galatasaray lisesi	q1j	
+galatasaray liv hospital	dng	
+galatasaray liv hospital istanbul	dng	
+galatasaray lycee	q1j	
+galatasaray lyceum	q1j	
+galatasaray medical park	dng	
+galatasaray medical park men s basketball	dng	
+galatasaray medical park women s basketball	1nxn	
+galatasaray mekteb i sultanisi	q1j	
+galatasaray men s basketball team	dng	
+galatasaray mens basketball team	dng	
+galatasaray odeabank	dng	
+galatasaray s		33f:3,dng:3
+galatasaray s k	33f,dng,iqm	
+galatasaray s k football	33f	
+galatasaray s k football schools	33f	
+galatasaray s k football team	33f	
+galatasaray s k men s basketball	dng	
+galatasaray s k sports club	iqm	
+galatasaray s k women s basketball	1nxn	
+galatasaray sigorta	iqm	
+galatasaray sk	iqm,1nxn	
+galatasaray sk football	33f	
+galatasaray sk men s basketball team	dng	
+galatasaray sk women s basketball	1nxn	
+galatasaray sk women s basketball team	1nxn	
+galatasaray spor kulubu	33f,iqm	
+galatasaray spor kuluebue	iqm	
+galatasaray sports club	iqm	
+galatasaray women s basketball team	1nxn	
+garthok	1b0h	
+gasses	169p	
+george martin	3vn,2emk	5iok:3
+george martin actor	2emk	
+george martin comments	3vn	
+george martin his orchestra	3vn	
+george martin lees	5iok	
+george martin lees military cross dfc frs	5iok	
+george martin spanish actor	2emk	
+gmina opoczno	lji	
+graf	10hy,17qx	
+graf andreas petrus bernstorff	5ynz	
+graf conrad von hoetzendorf	1h78	
+graf conrad von hotzendorf	1h78	
+graf david	1aca	
+graf johann hartwig ernst bernstorff	5odu	
+graf radetzky joseph	53sn	
+graf radetzky von radetz	53sn	
+graf roland	5ggk	
+graf sergei yulyevich witte	60zv	
+graf surname	17qx	
+graf von bernstorff johan hartvig ernst	5odu	
+graf von der schulenburg	5fo6	
+graf von habsburg albrecht iii	1cdq	
+graf von helldorf	4chn	
+graf von radetzky	53sn	
+graf von zeppelin	2wuo	
+groundup music	4nq0	
+habayit hayehudi	2zwn	
+halland	ijf	icf:2
+halland county	icf	
+halland laen	icf	
+halland lan	icf	
+halland province	ijf	
+halland region	icf	
+halland sweden	ijf	
+haywoode		4wzi:2
+haywoode wilvon workman	4wzi	
+haywoode workman	4wzi	
+hiromi	r8d,2f2q	164l:2,2f2q:2,4sa9:2
+hiromi arakawa	6dag	
+hiromi given name	r8d	
+hiromi miyake	4sa9	
+hiromi tsuru	164l	
+hiromi uehara	2f2q	
+hisatoshi	3e5d	3e5d:2
+hisatoshi shintaku	3e5d	
+ipoh	fp9	
+ipoh malaysia	fp9	
+ipoh perak	fp9	
+jacobsian	2em7	
+jayac	3ntw	
+jean lou		4iga:3
+jean lou justine	4iga	
+jens	2jd	14av:2,15iu:2,15tk:2,1kcw:2,1scg:2,21mi:3,2ig4:2,2iin:2,2luk:2,2wzk:2,337h:2,38br:2,3e6k:2,3hl2:2,3jqc:3,3ni9:2,3ueb:2,3yvt:2,3z4b:3,40z0:2,428v:2,42mb:2,4coc:2,4fut:2,4jg4:2,4qkr:2,4xdp:3,4xuk:3,4zry:2,52zm:3,56m8:2,587k:2,5c33:2,5f9w:2,5fz3:3,5ht5:3,5izs:2,5jnc:2,5oxv:4,5q8q:2,5qde:2,5w02:3,5y1e:2,5y5w:2,6085:3,611x:3,61b6:2,61lp:2,636x:2,641b:2
+jens adler	5jnc	
+jens agessn bjelke	66tb	
+jens albinus	3hl2	
+jens baeumer	587k	
+jens baumer	587k	
+jens bertelsen	52zm	
+jens berthel		64sa:3
+jens berthel askou	64sa	
+jens bjelke	66tb	
+jens bjorneboe	3ueb	
+jens bjrneboe	3ueb	
+jens boehrnsen	4coc	
+jens bogren	61b6	
+jens bohrnsen	4coc	
+jens c skou	666e	
+jens christian		4xuk:3,611x:3,666e:3
+jens christian berg	4xuk	
+jens christian christensen	611x	
+jens christian schou	666e	
+jens christian skou	666e	
+jens daniel	3w3a	
+jens david joacim moberg karlsson	4nn8	
+jens debusschere	2iin	
+jens dowe	3ni9	
+jens dyhr okking	15iu	
+jens eriksen	15tk	
+jens ferdinand willumsen	5479	
+jens filbrich	3e6k	
+jens first name	2jd	
+jens geier	5y5w	
+jens gerhard lehmann	1kcw	
+jens given name	2jd	
+jens gram		5fz3:3
+jens gram dunker	5fz3	
+jens grembowietz	636x	
+jens haertel	337h	
+jens hartel	337h	
+jens hegeler	4fut	
+jens henschel	61lp	
+jens holmboe	65vx	
+jens jacobsen	3z4b	
+jens jeremies	40z0	
+jens johansson	56m8	
+jens jorn bertelsen	52zm	
+jens jorn berthelsen	52zm	
+jens jrgensen juel	4zry	
+jens jrn		21mi:3,52zm:3
+jens jrn bertelsen	52zm	
+jens jrn berthelsen	52zm	
+jens jrn spottag	21mi	
+jens juel	4zry	
+jens juel painter	4zry	
+jens jul	4zry	
+jens juul	4zry	
+jens jvel	4zry	
+jens keller	4jg4	
+jens keukeleire	428v	
+jens koeppen	4qkr	
+jens kunath	641b	
+jens langeneke	5y1e	
+jens larsen footballer	4xdp	
+jens lehman	1kcw	
+jens lehmann	1kcw	
+jens lehmans	1kcw	
+jens lekman	2ig4	
+jens martin		5w02:3
+jens martin knudsen	5w02	
+jens martin knudsen footballer	5w02	
+jens martin knudsen goal keeper	5w02	
+jens melzig	5f9w	
+jens mouris	2luk	
+jens mustermann	1dbz	
+jens nowotny	38br	
+jens okking	15iu	
+jens otto		3jqc:3
+jens otto harry jespersen	3j2b	
+jens otto jespersen	3j2b	
+jens otto jesperson	3j2b	
+jens otto krag	3jqc	
+jens paeslack	3yvt	
+jens peter		3z4b:3,6085:3
+jens peter jacobsen	3z4b	
+jens peter mller	6085	
+jens peter moller	6085	
+jens rasiejewski	5izs	
+jens rohde	5qde	
+jens scharping	68e2	
+jens skou	666e	
+jens spahn	1scg	
+jens stoltenberg	14av	
+jens stoltenburg	14av	
+jens stryger		4xdp:3
+jens stryger larsen	4xdp	
+jens todt	5c33	
+jens truckenbrod	6azr	
+jens tryggve herman gran	5yw6	
+jens uwe		5ht5:3
+jens uwe zoephel	5ht5	
+jens uwe zophel	5ht5	
+jens vera cruz bosen	b9v	
+jens vilhelm dahlerup	3quv	
+jens voigt	2wzk	
+jens wahl	5q8q	
+jens weiflog	42mb	
+jens weissflog	42mb	
+jens zetlitz		5oxv:4
+jens zetlitz monrad		5oxv:4
+jens zetlitz monrad kielland	5oxv	
+john lassiter	cmj	
+john mckernan	5bru	
+john mckernan jr	5bru	
+john shasky	3ols	
+kacaniklic	46ni	
+kacaniklic alexander	46ni	
+kahana kapa akea	267j	
+kahana kapaakea	267j	
+kahana shapira avraham elkanah	5t8n	
+kambodia	oy	
+kanaly steve	55tk	
+kathamandu vailley	3r4	
+kizhakkan		5ngm:2
+kizhakkan pathrose	5ngm	
+la regle de jeu	1pes	
+la regle du jeu	1pes	
+la seleccio	4m1	
+lauzach	1txf	
+livepatch	im2	
+lorry		1q4p:3,1yos:2
+lorry driver	3qtt	
+lorry les		1q4p:3
+lorry les metz	1q4p	
+lorry mardigny	1yos	
+louignac	3zjd	
+lubartow		v21:2
+lubartow commune	yxl	
+lubartow county	v21	
+lubartow municipality	yxl	
+madrassah	r4i	
+matei caragiale	5lai	
+matei i caragiale	5lai	
+matei ion caragiale	5lai	
+mdct	31g8	
+mianwali	46tn	s45:2
+mianwali district	s45	
+minimumweight	fx6	
+mohtarama fatima jinnah	6390	
+monogeneric	dr	
+morepen	2906	
+msp batna	1zuh	
+msp labour group	dk4	
+nagua	47xw	
+nagua dominican republic	47xw	
+naucelles	42od	
+neitsze	84m	
+neupommern	27sq	
+niemytskii	5ubx	
+nivaquine	ds6	
+nivaquine b	ds6	
+nupur joshi	8uz	
+obliterators transformers	gst	
+offenbach	u10	5xa:3
+offenbach am		5xa:3
+offenbach am main	5xa	
+offenbach am main germany	5xa	
+offenbach composer	c7v	
+offenbach district	u10	
+offenbach germany	5xa	
+offenbach hesse	5xa	
+offenbach hessen	5xa	
+offenbach main	5xa	
+omuta	1fh7	1fh7:2
+omuta fukuoka	1fh7	
+omuta hukuoka	1fh7	
+omuta japan	1fh7	
+omuta line	qk4	
+omuta shi	1fh7	
+paraperittia	1qu	
+peter nikolaievitch rasputin	5rx4	
+politbureau of the central committee of the russian communist party bolsheviks	an0	
+polysophia timer 2009 film	5hz7	
+potatos	6hbr	
+prelouc	wnq	
+ranjith	r1o,3mz7	6dmy:2
+ranjith actor	3mz7	
+ranjith balakrishnan	r1o	
+ranjith director	r1o	
+ranjith maheshwary	2v95	
+ranjith sankar	6dmy	
+realities of war	5rn2	
+rehaupal	3pip	
+rheinbach	230y	
+richard fletcher		6eis:6
+richard fletcher vane	6eis	6eis:6
+richard fletcher vane 2nd		6eis:6
+richard fletcher vane 2nd baron		6eis:6
+richard fletcher vane 2nd baron inglewood	6eis	
+richard snyder	3z1q	
+rifabutin	5m4l	
+rifat al assad	5knr	
+rifat assad	5knr	
+rindal	13aj	13aj:2
+rindal municipality	13aj	
+rionero		1k9k:3,4an0:2
+rionero in		1k9k:3
+rionero in vulture	1k9k	
+rionero sannitico	4an0	
+robert duffy	3g93	
+robert duffy footballer	3g93	
+rosas	5z0o	
+rosas juan manuel de	3ayy	
+rosas madrid	5z0o	
+rozmital		158e:3,293j:3
+rozmital na		293j:3
+rozmital na sumave	293j	
+rozmital pod		158e:3
+rozmital pod tremsinem	158e	
+rozmital pod tremsinem bohemia	158e	
+rythmic gymnastics	1vp	
+schonlanke	3w13	
+seltjarnarnesbr	5dsp	
+sendoa		4am4:2
+sendoa agirre	4am4	
+sendoa aguirre	4am4	
+sergiey yesienin	235z	
+servettostradalli		17wi:2
+servettostradalli cyclealurecycling	17wi	
+shoucheng		5gjf:2
+shoucheng zhang	5gjf	
+soelvi ottesen	4wq8	
+sondershausen	ll1	
+sondershausen germany	ll1	
+st cloud	7la,eot	9bi:4
+st cloud area school district 742	eot	
+st cloud minn	eot	
+st cloud minnesota	eot	
+st cloud mn	eot	
+st cloud state	9bi	9bi:4
+st cloud state mass communications	9bi	
+st cloud state normal school	9bi	
+st cloud state teachers college	9bi	
+st cloud state u	9bi	
+st cloud state university	9bi	
+st cloud state university alnwick england	9bi	
+st cloud university	9bi	
+sudurnesjabr	1jc8	
+syria	bi	5gt:7,k6n:6,rwj:6,2uv9:6
+syria air force	2ys5	
+syria at the 2015 uci road world championships	1taa	
+syria byzantine province	4xhr	
+syria coele roman province	4xhr	
+syria districts	lgz	
+syria ii salutaris	4xhr	
+syria iraq wars	5ga	
+syria men		5gt:7
+syria men s		5gt:7
+syria men s national		5gt:7
+syria men s national association		5gt:7
+syria men s national association football		5gt:7
+syria men s national association football team	5gt	
+syria military	3u6f	
+syria moth	e1l	
+syria national		k6n:6,rwj:6,2uv9:6
+syria national football team	5gt	
+syria national under		k6n:6,rwj:6,2uv9:6
+syria national under 17		2uv9:6
+syria national under 17 football		2uv9:6
+syria national under 17 football team	2uv9	
+syria national under 19 football team	k6n	
+syria national under 20		k6n:6
+syria national under 20 football		k6n:6
+syria national under 20 football team	k6n	
+syria national under 23		rwj:6
+syria national under 23 football		rwj:6
+syria national under 23 football team	rwj	
+syria roman province	4xhr	
+syria salutaris	4xhr	
+syria secunda	4xhr	
+syria standard time	8da	
+syria summer time	xtz	
+syria unrest	5ga	
+syria war 2012	5ga	
+syria war 2013	5ga	
+syria war 2014	5ga	
+tchitrea	58xd	
+the arcadia group	43cn	
+the cribs	1wjr	
+the halloween		4r0m:6
+the halloween that		4r0m:6
+the halloween that almost		4r0m:6
+the halloween that almost wasn		4r0m:6
+the halloween that almost wasn t	4r0m	
+the olive		498r:3
+the olive tree	498r	
+the olive tree italy	498r	
+the olive tree political coalition	498r	
+the olive tree political party	498r	
+the taxman performer	19ss	
+the vampires	2cc8	
+the vampires 1961 film	3jcf	
+thiruvallur district	i7n	
+tolishi	69m5	
+tookyoo	82	
+toulichiba	5hj6	
+traversiere	17jk	
+trevise	4un	
+turbojets	12it	
+tvn	bv0,tnq,xio	
+tvn 7	xio	
+tvn chile	xio	
+tvn poland	tnq	
+tvn south korea	bv0	
+twice	2nut	3z9g:4,3zfu:3,4il2:2,5h94:2
+twice a judas	63ly	
+twice blessed	4il2	
+twice blessed 1945 film	4il2	
+twice born	37nr	
+twice group	2nut	
+twice in		3z9g:4
+twice in a		3z9g:4
+twice in a lifetime	3z9g	
+twice in a lifetime 1985 film	3z9g	
+twice in a lifetime film	3z9g	
+twice told		3zfu:3
+twice told tales	3zfu	
+twice told tales film	3zfu	
+twice two	5h94	
+twice upon a yesterday	3l6w	
+twice videography	2nut	
+uchaux	28pt	
+uniatism	2p41	
+usafk	5emo	
+vagankovskoye cemetery	30m	
+vasko the pig	1zkw	
+venetis	56zs	
+washingtontimes	ozo	
+washingtontimes com	ozo	
+welcome	2db2	11nf:3,1m1r:3,2eh4:4,2hmg:3,2ltd:4,2z3y:4,31sh:4,32vt:4,38w4:4,3cl2:4,3uy6:4,3w2i:3,3ws0:4,430s:5,51qz:4,5efg:3,5hux:2,5ka5:4,5vd1:4,618t:3,61fv:3,62iw:4,62y1:3,6e78:3
+welcome 2 hell	5ydv	
+welcome 2009 film	2db2	
+welcome back		3uy6:4
+welcome back mr		3uy6:4
+welcome back mr mcdonald	3uy6	
+welcome back tora san	lus	
+welcome boilerplates	2c30	
+welcome burglar	57oa	57oa:3
+welcome center	1mce	
+welcome home		2z3y:4,31sh:4
+welcome home roscoe		2z3y:4
+welcome home roscoe jenkins	2z3y	
+welcome home roxy		31sh:4
+welcome home roxy carmichael	31sh	
+welcome home travels in smalltown canada	45sy	
+welcome mister marshall	5efg	
+welcome mr		5efg:3,62y1:3
+welcome mr beddoes	1h8r	
+welcome mr marshall	5efg	
+welcome mr president	62y1	
+welcome reverend	5hux	
+welcome the who song	2r30	
+welcome to		11nf:3,1m1r:3,2eh4:4,2hmg:3,2ltd:4,32vt:4,38w4:4,3cl2:4,3w2i:3,3ws0:4,430s:5,51qz:4,5ka5:4,5vd1:4,618t:3,61fv:3,62iw:4,6e78:3
+welcome to bompton	1u2s	
+welcome to collinwood	3w2i	
+welcome to dongmakgol	618t	
+welcome to dongmakul	618t	
+welcome to good burger home of the good burger can i take your order	2ooq	
+welcome to good burger home of the good burger may i take your order	2ooq	
+welcome to hard		2ltd:4
+welcome to hard times	2ltd	
+welcome to hard times film	2ltd	
+welcome to hollywood	11nf	
+welcome to japan mr bond	fg0	
+welcome to l		3cl2:4
+welcome to l a	3cl2	
+welcome to la	3cl2	
+welcome to lumberton	16m9	
+welcome to molliwood	31fb	
+welcome to mollywood	31fb	
+welcome to mooseport	1m1r	
+welcome to my		5ka5:4
+welcome to my dream bing crosby song	23nk	
+welcome to my hood	5ka5	
+welcome to my life chris brown song	97d	
+welcome to my life documentary	97d	
+welcome to paradise	6e78	
+welcome to people	1buo	
+welcome to sajjanpur	61fv	
+welcome to sarajevo	2hmg	
+welcome to the		2eh4:4,38w4:4,3ws0:4,430s:5,51qz:4,5vd1:4,62iw:4
+welcome to the dollhouse	3ws0	
+welcome to the dollhouse film	3ws0	
+welcome to the jungle	5vd1,62iw	
+welcome to the jungle 2003 film	1wm3	
+welcome to the jungle 2013 film	62iw	
+welcome to the jungle 2014 film	62iw	
+welcome to the jungle guns n roses song	5vd1	
+welcome to the jungle song	5vd1	
+welcome to the monkey house joe scarborough song	3ryl	
+welcome to the monkey house scarborough song	3ryl	
+welcome to the punch	2eh4	
+welcome to the quiet		430s:5
+welcome to the quiet room	430s	
+welcome to the riley s	38w4	
+welcome to the rileys	38w4	
+welcome to the south	51qz	
+welcome to the sticks	1ii1	
+welcome to the suck	1a1k	
+welcome to wherever you are the west wing	4dub	
+welcome to woop		32vt:4
+welcome to woop woop	32vt	
+welcome to yesterday	2cz4	
+welcome to youtube	1xxv	
+welcome to zombieland	1itw	
+welcome trust	27sk	
+wolfshiem	2m6v	
+xiberoa	qod	
+yeb bai province	2dwn	
+yinsi	2y07	
+yinsi prince lian	2y07	
+yrml	53um	
+zawia el argobe airstike	pnj	

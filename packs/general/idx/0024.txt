@@ -1,0 +1,404 @@
+2258	tsn	
+allamakee	r5i	r5i:2
+allamakee county	r5i	
+allamakee county ia	r5i	
+allamakee county iowa	r5i	
+altman	2ec5	
+altman film	2ec5	
+altman robert	exc	
+altman sidney	215l	
+ancistrocampta	k7r	
+aoul	qro	
+apistomology	14zb	
+arcachon	nem	
+arr s delhi6	44i	
+assara	1c8e	
+aulonocara	33e4	
+b737	11wf	
+b737 max	3spk	
+barnes	s17,st0	fmc:2,3zug:2
+barnes cinema variety theatre	yk7	
+barnes colly ezeh	4v1b	
+barnes county	fmc	
+barnes county nd	fmc	
+barnes county north dakota	fmc	
+barnes england	s17	
+barnes family name	st0	
+barnes homer matthew	1v7v	
+barnes joseph k	5ho5	
+barnes julian	pua	
+barnes london	s17	
+barnes london england	s17	
+barnes london suburb	s17	
+barnes matt	2s77	
+barnes name	st0	
+barnes neville wallis	3zug	
+barnes steven	2q2p	
+barnes surname	st0	
+barnes surrey	s17	
+barnes terrace	s17	
+barnes theatre	yk7	
+barnes uk	s17	
+barnes wallace	3zug	
+barnes wallis	3zug	
+boats	9yb	
+boats and boatbuilding	6d6h	
+boats n hoes	1oea	
+bootylicious	6b4h	
+boutonia	hpf	
+charles fries producer	43mw	
+charles fries productions	43mw	
+charles fries productions inc	43mw	
+chau	9g1	
+chau oc province	15wr	
+chau pak ho	5dsz	
+chemnitzer		5tr:2
+chemnitzer f c	5tr	
+chemnitzer fc	5tr	
+chemnitzer fc ii	5tr	
+chemnitzer psv	5tr	
+citroeen	c23	
+dalikow commune	1ftz	
+daubensand	3ddp	
+decomposition album	4wj	
+decomposition merzbox album	4wj	
+demosthenes	yoo	
+dragonslayer	2g7c	
+dragonslayer 1981 film	2g7c	
+edward mallory almond	2zna	
+edward mallory ned almond	2zna	
+ennakkal chandy george sudarshan	3f9t	
+ett sjujavle party	2uop	
+fc podolye		elc:4
+fc podolye podolsky		elc:4
+fc podolye podolsky district	elc	
+fc podolye voronovo	elc	
+finnz99 sandbox	2g3	
+forelomyrmex	3yfa	
+frederick sturckow	3rso	
+fry	286o	
+fry christopher	37b1	
+fry cook	120	
+fry national football team	8xv	
+fry seine maritime	286o	
+fry stephen	cpo	
+fry street fair	bez	
+gallagher	37lf	
+gallagher brothers	epj	
+gallagher david	293h	
+gallagher peter	pmi	
+gallagher student center	lk2	
+gallagher surname	37lf	
+geertz	463w	
+george cecil harkus	5wgg	
+george cecil weld weld forester 3rd baron forester	661z	
+gmina lapsze nizne	66wm	
+hantaan	6bmk	
+haroon al rashid	1b54	
+ienzo	6hul	
+imolensis	b3r	
+incarnations of vishnu	3hex	
+invade	1b1d	
+joeri	6a5b	
+joeri first name	6a5b	
+joeri given name	6a5b	
+joeri petrov	2osm	
+john vernon	lzr	
+joongang tongyang broadcasting company	jcn	
+jtbc	jcn	
+jtbc 15	jcn	
+khachatur		1xpu:2
+khachatur abovian	1xpu	
+khachatur abovyan	1xpu	
+kimutaku	18e5	
+kingsmarkham	3hc0	
+klausenberg	2vl	
+kurort rathen	5om5	
+kustaanmiekka	55dk	
+la satanica	41yr	
+lazovice	4g5b	
+leapard	1764	
+listed		1y6:4,b2o:2
+listed building	b2o	
+listed building united kingdom	b2o	
+listed company	sa	
+listed objects		1y6:4
+listed objects in		1y6:4
+listed objects in austria	1y6	
+listed structure	b2o	
+macac	1jtf	
+makram		1q65:2
+makram j khoury	1q65	
+makram khouri	1q65	
+makram khoury	1q65	
+makram khuri	1q65	
+manduria	1m0d	
+medway	re0	
+medway council act 2001	re0	
+medway council act 2004	re0	
+medway england	re0	
+medway kent	re0	
+medway towns	re0	
+medway towns kent	re0	
+medway ua	re0	
+medway valley	2ln5	
+medway valley leisure park	60tq	
+medway valley park	60tq	
+melocheville quebec	3tmh	
+melodee devevo	tqw	
+meruelo	4v5s	
+metronidazole	54ag	
+metronidazole benzoate	54ag	
+meyras	201q	
+millares	4qr2	
+montenach	2xlz	
+nassarius	8a0	
+newtonia cheshire	3we6	
+norteno	3k6q	
+norteno music	3k6q	
+ns24 ne6 cc1	3t3f	
+ocampo	2qi8	
+ocampo camarines sur	2qi8	
+odovacer	6g68	
+oiler	1d5g	
+olong	5rtc	
+oveta		5nth:3
+oveta c hobby	5nth	
+oveta culp	5nth	5nth:3
+oveta culp hobby	5nth	
+oveta hobby	5nth	
+parapandemis	k4c	
+paul cuddy	66ca	
+pelvic mound	1efo	
+peter eccles	67er	
+placy	3djw	2m2i:2
+placy montaigu	2m2i	
+planck	bwz	4lo5:2
+planck area	4lo5	
+planck epoch	4lo5	
+planck era	4lo5	
+planck flow rate	4lo5	
+planck fluid flow rate	4lo5	
+planck frequency	4lo5	
+planck magnetic inductance	4lo5	
+planck unit	4lo5	
+planck units	4lo5	
+planck viscosity	4lo5	
+planck volume velocity	4lo5	
+planck volumetric flow rate	4lo5	
+polygrammodes	fvk	
+pontifical		2p0:3,56j:4,8fm:3,947:6,98w:5,j52:5,kf8:3,khy:3,1f70:2,1kri:5,1zcm:7,3rf1:3,4yl2:4,5g0t:6
+pontifical academy		56j:4
+pontifical academy of		56j:4
+pontifical academy of ecclesiastical nobles	8fm	
+pontifical academy of new lincei	1xk	
+pontifical academy of science	56j	
+pontifical academy of sciences	56j	
+pontifical academy of the sciences	56j	
+pontifical and royal university of santo tomas	5dz	
+pontifical and royal university of santo tomas the catholic university of the philippines	5dz	
+pontifical biblical		khy:3
+pontifical biblical institute	khy	
+pontifical catholic		98w:5,j52:5,1kri:5,1zcm:7,5g0t:6
+pontifical catholic u of puerto rico	5g0t	
+pontifical catholic university	1f70	98w:5,j52:5,1kri:5,1zcm:7,5g0t:6
+pontifical catholic university of		98w:5,j52:5,1kri:5,1zcm:7,5g0t:6
+pontifical catholic university of argentina	1kri	
+pontifical catholic university of chile	98w	
+pontifical catholic university of peru	j52	
+pontifical catholic university of puerto		5g0t:6
+pontifical catholic university of puerto rico	5g0t	
+pontifical catholic university of puerto rico at ponce	5g0t	
+pontifical catholic university of rio	1zcm	1zcm:7
+pontifical catholic university of rio de		1zcm:7
+pontifical catholic university of rio de janeiro	1zcm	
+pontifical catholic university of sao paulo	683f	
+pontifical college	1f70	
+pontifical colleges	1f70	
+pontifical comillas university of madrid	2ad2	
+pontifical domain	3r1	
+pontifical ecclesiastical		8fm:3
+pontifical ecclesiastical academy	8fm	
+pontifical equestrian order of pope st sylvester	50vj	
+pontifical equestrian order of st gregory the great	vem	
+pontifical faculties	1f70	
+pontifical faculty	1f70	
+pontifical gregorian		2p0:3
+pontifical gregorian university	2p0	
+pontifical gregorian university in rome	2p0	
+pontifical lateran		3rf1:3
+pontifical lateran university	3rf1	
+pontifical lateran university of rome	3rf1	
+pontifical minor basilica	3i2	
+pontifical state	3r1	
+pontifical states	3r1	
+pontifical universities	1f70	
+pontifical university	1f70	947:6,4yl2:4
+pontifical university maynooth	sdk	
+pontifical university of		947:6,4yl2:4
+pontifical university of apollinaire	3rf1	
+pontifical university of chile	98w	
+pontifical university of comillas	2ad2	
+pontifical university of comillas madrid	2ad2	
+pontifical university of maynooth	sdk	
+pontifical university of saint		947:6
+pontifical university of saint thomas		947:6
+pontifical university of saint thomas aquinas	947	
+pontifical university of salamanca	4yl2	
+pontifical university of santo tomas	5dz	
+pontifical university of st thomas aquinas	947	
+pontifical university of st thomas aquinas angelicum	947	
+pontifical xavierian		kf8:3
+pontifical xavierian university	kf8	
+porong	1w9q	
+poshteh		v1u:5
+poshteh ye		v1u:5
+poshteh ye zilayi	v1u	v1u:5
+poshteh ye zilayi rural		v1u:5
+poshteh ye zilayi rural district	v1u	
+preobrazhenskoye		3ci4:2
+preobrazhenskoye cemetery	3ci4	
+qualcosa di biondo	48la	
+quiery		2etc:3
+quiery la		2etc:3
+quiery la motte	2etc	
+railway	16e	13:2,23p:2,4pd:2,1qnt:2,29ls:2,4dsf:3,4wfx:4
+railway accident	23p	
+railway artillery	29ls	
+railway bridges	b8	
+railway cannon	29ls	
+railway car	5brd	
+railway carriage	uah,5brd	
+railway cars	5brd	
+railway children	3x8q	3x8q:3
+railway company	4pd	
+railway disaster	23p	
+railway engine	1md	
+railway executive	2ghu	
+railway freight car	5brd	
+railway from bordeaux to irun	4k29	
+railway from toulouse to bayonne	11qp	
+railway gauges	5yi5	
+railway gun	29ls	
+railway guns	29ls	
+railway lines	1qnt	
+railway locomotive	1md	
+railway man	12je	12je:3
+railway poster	4kr8	
+railway preservation	ugx	
+railway series	1q42	1q42:3
+railway signaling	4dsf	
+railway signaling system	4dsf	
+railway signalling	4dsf	4dsf:3
+railway signalling system	4dsf	
+railway signalling temp	4dsf	
+railway societies	ugx	
+railway society	ugx	
+railway sports club	4vq	
+railway station	13	
+railway stations in leeds	33xm	
+railway stations in sikkim	h0p	
+railway stop	13	4wfx:4
+railway stop lubecker		4wfx:4
+railway stop lubecker strae	4wfx	
+railway system of the soviet union	4apc	
+railway terminal	13	
+railway track	1qnt	
+railway track tilburg nijmegen	5emv	
+railway traffic control	4dsf	
+railway train	2ad	
+railway tunnel	2o5	
+railway vehicle	2znh,5brd	
+railway viaduct	qev	
+railway waggon	5brd	
+railway wagon	5brd	
+railway wagons	5brd	
+railway weapon	29ls	
+railway workshop	v5g	
+robert shaw	lq8,425t	
+robert shaw actor	lq8	
+robert shaw british actor	lq8	
+robert shaw english actor	lq8	
+rozes	2zxz	
+saint acheul	2lz4	
+saint acheul amiens	3vh	
+saint fargeol	3nuy	
+salzwedel	txv	
+sarapiqui	36bs	36bs:2
+sarapiqui canton	36bs	
+segedo	521	
+st isabel of france	4m54	
+stiliferidae	cjz	
+stilo	17x1	
+stilo calabria	17x1	
+stilo liberty	1mw	
+svante	3kaa	wo8:3,1feb:2,3kt0:3
+svante a arrhenius	wo8	
+svante arhenius	wo8	
+svante arrhenius	wo8	
+svante arrhenius comments	wo8	
+svante august		wo8:3
+svante august arrhenius	wo8	
+svante elis stroemgren	4aqf	
+svante elis stromgren	4aqf	
+svante first name	3kaa	
+svante given name	3kaa	
+svante paabo	1feb	
+svante stensson		3kt0:3
+svante stensson sture	3kt0	
+svante sture the younger	3kt0	
+tagruato	18nu	
+tagruato corporation	18nu	
+tepecikspor	2xgr	
+the ape		463e:3,49cd:3
+the ape man	463e	
+the ape woman	49cd	
+the ballantyne		5q94:4
+the ballantyne novels	5q94	5q94:4
+the ballantyne novels hexalogy	5q94	
+the counterfeit		1cui:3,1ri4:3,4k6a:3
+the counterfeit coin	4k6a	
+the counterfeit constable	1cui	
+the counterfeit sovereign	4k6a	
+the counterfeit traitor	1ri4	
+the japan academy	89c	
+the japan prize foundation	533y	
+the late		1j1p:3,1x6t:4,4rq1:7,6ccm:3
+the late blossom	670h	
+the late george		1x6t:4
+the late george apley	1x6t	
+the late george apley film	1x6t	
+the late henry moss	c6e	
+the late late		4rq1:7
+the late late show		4rq1:7
+the late late show with		4rq1:7
+the late late show with craig		4rq1:7
+the late late show with craig ferguson	4rq1	
+the late shift	6ccm	
+the late shift film	6ccm	
+the late show	1j1p	
+the late show film	1j1p	
+the late unpleasantness	f5	
+the shooze	54r1	
+thomas bartholinus	4ep9	
+thoste	2kgd	
+trainel	1wgo	
+un member states	5wy	
+vallauris	12fv	
+vannessa hudgens	uej	
+vannessa williams	fkv	
+voels am schlern	2rbm	
+voels am schlern fie allo sciliar	2rbm	
+voels fie allo sciliar	2rbm	
+vouil et giget	40rm	
+werentzhouse	3scb	
+wesbank western cape	5axk	
+william raymond manchester	1h5f	
+william raymond norwood jr	15yn	
+wrc5	63zc	
+yauheni		2nf0:2
+yauheni hutarovich	2nf0	
+yule brenner	gek	
+zehdenick	3f49	
+zoids		4cr9:2
+zoids genesis	4cr9	

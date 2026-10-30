@@ -1,0 +1,432 @@
+194546		46tg:4
+194546 cypriot		46tg:4
+194546 cypriot cup	3zca	
+194546 cypriot first		46tg:4
+194546 cypriot first division	46tg	
+19601969	1gor	
+a capitol death	10rs	
+aguia		3vrt:5
+aguia de		3vrt:5
+aguia de maraba	3vrt	3vrt:5
+aguia de maraba futebol		3vrt:5
+aguia de maraba futebol clube	3vrt	
+aguia negra	3t3l	
+airheads	1n3d	
+airheads film	1n3d	
+aitch	5isk	
+alberton	3n67	
+alberton gauteng	3n67	
+alberton gauteng south africa	3n67	
+alberton south africa	3n67	
+alexander mosley	2j1n	
+almargen	46aa	
+almargen malaga	46aa	
+almargen spain	46aa	
+alphonzo	5l61	5atg:4
+alphonzo 1st duke of braganza	1int	
+alphonzo bell jr	5atg	
+alphonzo count of barcelos	1int	
+alphonzo count of portugal	1ulx	
+alphonzo duke of braganza	1int	
+alphonzo duke of porto	5ysb	
+alphonzo e		5atg:4
+alphonzo e bell	5atg	5atg:4
+alphonzo e bell jr	5atg	
+alphonzo e jr bell	5atg	
+alphonzo edward bell jr	5atg	
+alphonzo henriques of portugal	1ulx	
+alphonzo i henriques	1ulx	
+alphonzo i of portugal	1ulx	
+alphonzo ii of portugal	16bn	
+alphonzo iii of portugal	152c	
+alphonzo infante of portugal	64pq	
+alphonzo iv of portugal	2od8	
+alphonzo lord of portalegre	2zw7	
+alphonzo of braganza	5ysb	
+alphonzo of portugal cardinal	1oom	
+alphonzo prince of portugal	64pq	
+alphonzo v of portugal	1b45	
+alphonzo vi	12lv	
+alphonzo vi of portugal	1xe6	
+ampelidaceae	512p	
+arganchy	2x01	
+azamgarh	qdr	194g:2
+azamgarh district	194g	
+bakar bagrationi	2mtn	
+bakar of georgia	2mtn	
+bakar of kartli	2mtn	
+bearden fort	5xnx	
+bedeinatois	41u1	
+behrooz vosooghi	3dlo	
+behrooz vosoughi	3dlo	
+behrooz vossooghi	3dlo	
+behrooz vossoughi	3dlo	
+bicycle	hw9	11fs:3,1aya:2
+bicycle bridge	3qm	
+bicycle motocross	d6n	
+bicycle motorcross	d6n	
+bicycle race	by	
+bicycle racing	by	
+bicycle rider	y3r	
+bicycle road cycling	6k	
+bicycle road race	6k	
+bicycle road racing	6k	
+bicycle sharing	11fs	11fs:3
+bicycle sharing system	11fs	
+bicycle sport	by	
+bicycle thieves	1aya	
+bicycle user	y3r	
+bonastruc da porta	4rat	
+bonastruc de porta	4rat	
+bonie commune	q3v	
+bonnoil	2wf1	
+boynton		h2d:2
+boynton beach	h2d	
+boynton beach fl	h2d	
+boynton beach florida	h2d	
+boynton fl	h2d	
+boynton florida	h2d	
+bronzino	1bmx	
+bronzino vecchio	1bmx	
+bucamps	2no0	
+burkitt s lymphoma in hiv disease	5259	
+caminho das nuvens	5skb	
+caporciano	2d1l	
+catarina	f8d	
+catarina corner	4dn2	
+catarina duchess of braganza	645b	
+catarina first name	f8d	
+catarina given name	f8d	
+catarina henriqueta	1jm6	
+catarina moth	vf	
+catarina name	f8d	
+catarina of braganza	1jm6	
+catarina of portugal	60z9	
+catarina of spain	19wj	
+catarina valente	38cr	
+cernan	1ect	
+champvoux	409o	
+chrysomyza	6fun	
+cier		2gac:3,2stk:3
+cier de		2gac:3,2stk:3
+cier de luchon	2gac	
+cier de riviere	2stk	
+codg	2fh8	
+cottonian	6dcd	
+cottonian collection	6dcd	
+cottonian library	6dcd	
+cottonian ms	6dcd	
+cottonian mss	6dcd	
+creep	44l1	
+creep 2004 film	44l1	
+creep movie	44l1	
+creep show	1aq4	
+creep show 2	4x7q	
+creep show ii	4x7q	
+crossed		39vz:2
+crossed antiprism	2oei	
+crossed quadrilateral	1bse	
+crossed rectangle	21v6	
+crossed square	63y	
+crossed square antiprism	6fv1	
+crossed swords	39vz	
+crossed swords 1954 film	39vz	
+crossed swords 1977 film	qsi	
+crossed swords 1978 film	qsi	
+david haddow	6287	
+david landes	4vn7	
+dendermunde	dsw	
+dennas	13i3	
+differentiation mathematics	523p	
+dinghies	6ts	
+dirck		5arx:3
+dirck baburen	5arx	
+dirck bouts	59ux	
+dirck hochstraeten	659g	
+dirck hoogenstraten	659g	
+dirck hoogestraeten	659g	
+dirck hoogestraten	659g	
+dirck jaspersz van babueren	5arx	
+dirck jaspersz van baburen	5arx	
+dirck matham	5g26	
+dirck the elder bouts	59ux	
+dirck van		5arx:3
+dirck van babeur	5arx	
+dirck van baburen	5arx	
+dirck van hoochstraten	659g	
+dirck van hoogstraten	659g	
+dordoi bishkek	o7e	
+dordoi dynamo naryn	o7e	
+dordoi naryn	o7e	
+dordoi zhashtyk skif naryn	o7e	
+eohsj	ke0	
+fluorouracil	63w2	
+forward	18,1uv	5zby:3
+forward association football	18	
+forward bandy	431	
+forward capital	3pi	
+forward crawl	3szr	
+forward date	2a1j	
+forward greenland	4xqw	
+forward hockey	1uv	
+forward ice hockey	1uv	
+forward inline hockey	1uv	
+forward israel	pm1	
+forward italy	yu4	
+forward mass detector	2sjn	
+forward operating base kunduz	33v	
+forward the		5zby:3
+forward the foundation	5zby	
+forward walter	4kfy	
+friedbert		69mc:2
+friedbert pflueger	69mc	
+friedbert pfluger	69mc	
+george harison	56n	
+gerberga		1hck:3,3yob:3
+gerberga of		1hck:3,3yob:3
+gerberga of burgundy	3yob	
+gerberga of saxony	1hck	
+gerberga van bourgondie	3yob	
+ghasempour	492f	
+gmina jelesnia	2las	
+gmina ozorkow	v9e	
+gouttes d eau sur pierres brulantes	18v5	
+gpnz	210e	
+granval charles	2vsk	
+gutenberg johannes	5kq2	
+gutenberg letter press	6gxm	
+gutenberg press	6gxm	
+gutenberg printing press	6gxm	
+gutenberg s printing press	6gxm	
+gutenberg university	4zf	
+hemerocalloideae	519n	
+holste	5s5v	
+homalocantha	5euj	
+hongarije	3b	
+horseman on the roof	1cur	1cur:5
+idealization of romantic love	1i9m	
+ilankai jananayaka choshalichak kutiyarachu	6c	
+ilankai tamil arasu kadchi	23fn	
+ilankai thamil arasu katchchi	23fn	
+inceville	7ii	
+jalkapalloseura rakuunat	4v1i	
+jatinder		1wrq:2
+jatinder shah	1wrq	
+jeancourt	37gx	
+joanot	1u51	
+john brodribb	3cu8	
+john grant	47q9,4crq,4s8e	
+john grant burlesque producer writer	4s8e	
+john grant english footballer	4crq	
+john grant footballer born 1981	4crq	
+john grant mitchell actor	kpr	
+john grant musician	47q9	
+john grant screenwriter	4s8e	
+john jamieson carswell smart	5jrj	
+john marks templeton	4knn	
+jonothan spector	4aq7	
+kanchou city	s91	
+karama sc	m5y	
+kareshi boshuchu	r8s	
+kenold		5bk6:2
+kenold versailles	5bk6	
+lambert		jn8:2,k06:2,1na8:2,5m8m:2
+lambert adolphe jacques quetelet	25d1	
+lambert adolphe quetelet	25d1	
+lambert bemelmans	1yg2	
+lambert chambers	57bo	
+lambert christopher	h3v	
+lambert field	49qt	
+lambert hillyer	k06	
+lambert international airport	49qt	
+lambert johann heinrich	2j3n	
+lambert massart	1na8	
+lambert mieszkowic	5m8m	
+lambert obe	zhh	
+lambert oregon	1dnx	
+lambert park	3f7g	
+lambert paul	2oda	
+lambert pharmaceutical co	19yh	
+lambert quetelet	25d1	
+lambert st louis field	49qt	
+lambert st louis flying field	49qt	
+lambert st louis international airport	49qt	
+lambert wilson	jn8	
+lanemark	5cqt	
+lismore	fe5,2ouj	
+lismore australia	fe5	
+lismore county waterford	2ouj	
+lismore ireland	2ouj	
+lismore new south wales	fe5	
+lismore nsw	fe5	
+lockdown	3j4x	
+lockdown 2000 film	3j4x	
+maliyekal thoma	tgs	
+marchburch	3ux	
+markina	1c8f	1c8f:2
+markina xemein	1c8f	
+martxueta	2up3	
+matthaei parisiensis	5do0	
+mimori suzuko	1wl4	
+montebruno	337b	
+musteron	5d6	
+national republican	hgf	hgf:3
+national republican association	yoc	
+national republican party	hgf	
+nelie kroes	5lg6	
+netbush	zc5	
+new aquitaine	wg5	
+nexito	ffb	
+nsula	bp6	
+nsula edu	bp6	
+oceanospirillaceae	3qe1	
+orcinas	42tr	
+orsk	1d5s	
+orsk russia	1d5s	
+orsk urban okrug	1d5s	
+otiorrhynchus	5bv9	
+ousman		4ju2:2,4zgh:2
+ousman jallow	4zgh	
+ousman koli	4ju2	
+pachin	2q8y	
+padeniye berlina	66po	
+parineeti	5bxu	5bxu:2
+parineeti chopra	5bxu	
+parineeti chopra filmography	5bxu	
+paul pimsleur	5j8w	
+peter hg gade	2e39	
+peter hg gade christensen	2e39	
+petrine		3azd:2
+petrine sonne	3azd	
+piala malaysia	2dpi	
+pierrefonds	1pia	
+pierrefonds oise	1pia	
+pocking	1nr9,59ij	
+pocking germany	59ij	
+polyhedroid	c1x	
+premo	2bpc	
+prince eddy	1gqq	
+priotropis	4vme	
+puget		1ef5:2,1mma:2,1pgb:4,2kbl:2,3re0:2
+puget rostang	3re0	
+puget sound	1ef5	1pgb:4
+puget sound clean air agency	1ef5	
+puget sound loggers	pn3	
+puget sound loggers baseball	pn3	
+puget sound loggers football	pn3	
+puget sound loggers men s basketball	pn3	
+puget sound loggers track and field	pn3	
+puget sound naval		1pgb:4
+puget sound naval shipyard	1pgb	
+puget sound naval shipyard and intermediate maintenance facility	1pgb	
+puget sound naval shipyard intermediate maintenance facility	1pgb	
+puget sound navy yard	1pgb	
+puget sound rowing	pn3	
+puget sound shipyard	1pgb	
+puget sound university	pn3	
+puget sound wa	1ef5	
+puget sound wash	1ef5	
+puget sound washington	1ef5	
+puget sound washington state	1ef5	
+puget theniers	1mma	
+puget ville	2kbl	
+rahay	27fn	
+rauu skikkjuna	3ady	
+redundant colon	6fqf	
+reminiscent	3cm	
+rhagodia	1ncq	
+roddino	3or5	
+ruisseauville	2n5j	
+rydutowy	3y7g	
+saber	2347	3say:2,5zmb:2
+saber 2009 short film	3s9v	
+saber khalifa	3say	
+saber khelifa	3say	
+saber khlifa	3say	
+saber mir ghorbani	5zmb	
+saber mirghorbani	5zmb	
+saint morris	5pct	
+saurita	k1r	
+secretly		e8a:2
+secretly canadian	e8a	
+secretly canadian records	e8a	
+serpa	1kad	
+serpa municipality	1kad	
+simkha	2wmu	
+sishnupur district	3c63	
+skitis island	gex	
+sneaky		1v2b:2,2313:3
+sneaky pete	1v2b	
+sneaky pete tv series	1v2b	
+sneaky sound		2313:3
+sneaky sound system	2313	
+sojuztelefilm	2j8x	
+st robert bellarmine	50n9	
+taca		nu2:3
+taca air	2iwu	
+taca airlines	2iwu	
+taca com	2iwu	
+taca de		nu2:3
+taca de angola	4263	
+taca de ouro	d8o	
+taca de portugal	nu2	
+taca international airlines s a	2iwu	
+taca international airlines sa	2iwu	
+taca international inc	2iwu	
+taca libertadores da america	env	
+taca regional	2iwu	
+takasaki	ffx	1gos:2,2ex7:2
+takasaki eki	1gos	
+takasaki gunma	ffx	
+takasaki line	2ex7	
+takasaki shi	ffx	
+takasaki station	1gos	
+talang candaba pampanga	2v3o	
+tchini	3ng2	
+temuco	l53	
+temuco chile	l53	
+thavatchai dumrong ongtrakul	5h0z	
+the rms lusitania	2aeg	
+the samaritan	5h7a	
+the substance		4t06:4
+the substance of		4t06:4
+the substance of fire	4t06	
+totani	4dwv	
+totani chan	4dwv	
+totani koji	4dwv	
+totani kouji	4dwv	
+traquina	4xeo	
+traversee de paris	1i4c	
+triariia	hc0	
+tuerk hava	1lhu	
+tuerk telekom b k	va7	
+tuerk telekom league a	199x	
+tuerk telekomspor	1w7o	
+usg novell	yox	
+vitulazio	3m6x	
+vought	246h	1az4:3
+vought aircraft	246h	
+vought aircraft companies	246h	
+vought aircraft industries	246h	
+vought corporation	246h	
+vought f4u	1az4	1az4:3
+vought f4u 4 corsair	1az4	
+vought f4u corsair	1az4	
+vought f4u fg f3a corsair	1az4	
+vought sikorsky	14a5,246h	
+vought v 166	1az4	
+vought xf4u 1 corsair	1az4	
+wale	1bgu	
+wale folarin	1bgu	
+wale musician	1bgu	
+wale rapper	1bgu	
+wale singer	1bgu	
+walloniebruxelles	18ot	
+walloniebruxelles cycling team	18ot	
+wiedenfeld and nicolson	n6v	
+wiedenfeld nicolson	n6v	
+william makepiece thackeray	xfj	
+william sidis	4kc3	
+wissembourg	ivd	
+wissembourg france	ivd	
+zigur	66d4	

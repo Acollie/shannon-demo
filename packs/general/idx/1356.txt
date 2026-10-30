@@ -1,0 +1,538 @@
+aegis class cruiser	10vp	
+aegis cruiser	10vp	
+ahwazia	omh	
+akhaura city	zk4	
+alanno	2x9j	
+alexander duke		20x7:6
+alexander duke of		20x7:6
+alexander duke of albany	2guy	
+alexander duke of ingria	2uu1	
+alexander duke of parma	1xq1	
+alexander duke of ross	48hl	
+alexander duke of schleswig		20x7:6
+alexander duke of schleswig holstein		20x7:6
+alexander duke of schleswig holstein sonderburg	20x7	
+alexander duke of sonderburg	20x7	
+altona	8s3,3tpy	2a2z:3
+altona 93	2tiu	
+altona bay	3wve	
+altona hamburg	8s3	
+altona magic	2a2z	2a2z:3
+altona magic sc	2a2z	
+altona railway line melbourne	37e4	
+altona victoria	3tpy	
+amygdalopersica	6bn	
+anjelika		3sya:2
+anjelika krylova	3sya	
+anwynd james of sweden	4pxm	
+archytas	60o8	
+archytas curve	60o8	
+archytas of tarantium	60o8	
+archytas of tarentum	60o8	
+arminia		3at:2
+arminia bielefeld	3at	
+arminia bielefeld ii	3at	
+arminia bielefeld records and statistics	3at	
+arminia gutersloh	l6z	
+arminia hannover	1qmi	
+arthrosia	tah	
+athleta	5ztt	
+athleta moth	2zu	
+atout		5f77:7
+atout coeur		5f77:7
+atout coeur a		5f77:7
+atout coeur a tokyo		5f77:7
+atout coeur a tokyo pour		5f77:7
+atout coeur a tokyo pour o s s 117	5f77	
+atout coeur a tokyo pour oss		5f77:7
+atout coeur a tokyo pour oss 117	5f77	
+atout cur a tokyo pour o s s 117	5f77	
+atout cur a tokyo pour oss 117	5f77	
+bavay	1o7a	
+belier family	36lw	36lw:3
+bettelheim bruno	4da0	
+blandynois	2adq	
+bohamian rhapsody	3hf7	
+bolasie	4dcm	
+brianconnet	2rg7	
+callobalacra	1obr	
+camerun	lk	
+castelplanio	5f2p	
+charles griffen	65bz	
+chebrikov	2b3k	
+chistopher dean	5box	
+chistopher reeve	npd	
+chistopher waltz	s6u	
+cosanti foundation	5s9e	
+dargies	1fpn	
+dc4 5 mixtape	15om	
+decimal place value	460t	
+dellie ellis	5p3o	
+dezghan	33z5	
+dickens charles	56r	
+dickens festival	eak	
+dickens s dictionary of london	1dju	
+dickens s dictionary of london an unconventional handbook	1dju	
+dickens s dictionary of the thames	1dju	
+dickens s dictionary of the thames from its source to the nore	1dju	
+dickens s dictionary of the thames from oxford to the nore	1dju	
+dneiper river	dfb	
+duv galeni	2rju	
+eadgifu		1t5e:3
+eadgifu of		1t5e:3
+eadgifu of england	1t5e	
+eadgifu of wessex	1t5e	
+egidio	183q	1nr8:3,4hgy:3,4t5s:2,4uxk:2,5g39:2,5qtq:2
+egidio albornoz	5dz4	
+egidio arevalo	1nr8	1nr8:3
+egidio arevalo rio	1nr8	
+egidio arevalo rios	1nr8	
+egidio calloni	5qtq	
+egidio capra	4t5s	
+egidio de araujo pereira junior	4hgy	
+egidio first name	183q	
+egidio given name	183q	
+egidio notaristefano	5g39	
+egidio pereira		4hgy:3
+egidio pereira junior	4hgy	
+egidio saint	1bze	
+egidio turchi	4uxk	
+encanracion	1ohn	
+esm golden boot	6ghb	
+esm golden shoe	6ghb	
+esm treaty	56x1	
+fimiani	4l6l	
+folignano	5ppx	
+freiendiez	4qq7	
+galatz	6nr	
+galatz romania	6nr	
+gayest	13xg	
+george brown	129u,4nu1,4yol,5de0,6bkj	399d:5
+george brown baron		399d:5
+george brown baron george		399d:5
+george brown baron george brown	399d	
+george brown baron george brown comments	399d	
+george brown baron georgebrown	399d	
+george brown british politician	399d	
+george brown canadian politician	4nu1	
+george brown english footballer	4yol	
+george brown footballer born 1880	6bkj	
+george brown footballer born 1903	4yol	
+george brown footballer born 1928	5de0	
+george brown george alfred baron george brown	399d	
+george brown musician	t0p	
+george brown randall	1kkl	
+gonnorea	sai	
+gretzkey	zl8	
+gtr southern	a8y	
+gyuhyun	56zw	
+harvie christopher	692n	
+hollebin	z50	
+homegoing	6htg	
+homegoing 2016 novel	6htg	
+homegoing gyasi novel	6htg	
+homegoing yaa gyasi novel	6htg	
+horsewomen	7sy	
+horyniec zdroj commune	6b6l	
+james ambrose johnson	omo	
+james ambrose johnson jr	omo	
+james ulmer	16qq	
+jankovacz	4lsm	
+john bellairs	2syk	
+john kasimir of palatinate simmern	3dvw	
+john nommensen duchac	4gwm	
+john p		2oek:3,32kd:3,3qpz:3,3yi1:3,4820:3,537w:3,56pt:3,58zy:3,5an2:3,5c38:3,5j8k:3,5mh1:3,5v6s:3,63jh:3,682p:3
+john p barlow	5e6p	
+john p boland	4tl8	
+john p burrows	3yi1	
+john p daley	5mh1	
+john p davis	5j8k	
+john p east	50bo	
+john p hale	63jh	
+john p hammerschmidt	67du	
+john p hammond	4820	
+john p holdren	5586	
+john p kennedy	3qpz	
+john p kinsella	64cb	
+john p kline	5twm	
+john p larkin	1bcu	
+john p lucas	56pt	
+john p manley	5xq6	
+john p marquand	58zy	
+john p marquand jr	58zy	
+john p mccarthy	32kd	
+john p mcconnell	5an2	
+john p mitchel	5guu	
+john p mitchell	5guu	
+john p murtha	4ka7	
+john p murtha jr	4ka7	
+john p o brien	5tga	
+john p robarts	54hl	
+john p ryan	2oek	
+john p ryan actor	2oek	
+john p saylor	682p	
+john p sousa	r55	
+john p stapp	5hdf	
+john p stevens	36ru	
+john p stockton	5v6s	
+john p thomas	3rcj	
+john p tripp	5wjo	
+john p vann	5wjo	
+john p washington	5c38	
+john p whitesell	4wya	
+john p wilson	537w	
+john pertwee	z1e	
+john wynn 1st baronet	4ma0	
+john wynn davidson	5vw9	
+khanat	32sz	
+knoal	333e	
+kyongbu line	bq5	
+le penitencier	67dd	
+lobular pneumonia	m2	
+lotse ridge	64jw	
+lydekker	54ji	
+lydekker line	54ji	
+lydekker richard	54ji	
+lydekker s line	54ji	
+mandahl	rsz	
+marcianus	5wbu	
+maria spain	4vl5	
+marti		tem:2,3igk:2,3p0k:2,574r:2
+marti ahtisaari	1ux0	
+marti crespi	3p0k	
+marti crespi pascual	3p0k	
+marti debergi	1lvq	
+marti di bergi	1lvq	
+marti factory mykolaiv	9e4	
+marti jose	2mk6	
+marti luther	9w8	
+marti noxon	tem	
+marti of aragon	1752	
+marti riverola	574r	
+marti south yard	1diy	
+marti ventolra	3igk	
+marti yard	1diy	
+mendel	1ym5	
+mendel gregor johann	1ym5	
+mendel johann	1ym5	
+mendel medal	ev	
+mendel mendelism	1ym5	
+meravigliose avventure di guerrin meschino	4rqi	
+messolongio	nz9	
+michael bakunin	1bpk	
+montlignon	2al3	
+mrohaung	31i0	
+murzzuschlag	1txs	
+muverans	5d8w	
+niedersaechsisch dialect	1i6q	
+niedersaechsisch language	1i6q	
+niteowlneils csdornot white house	9ff	
+nurmijarvi	1ckn	
+orish grinstead	5qk4	
+ouverture	5z36	
+pastor	2dh,trc	2rxa:2,5um4:4
+pastor arcade	106t	
+pastor jarman		5um4:4
+pastor jarman kommer		5um4:4
+pastor jarman kommer hjem	5um4	
+pastor jarman kommer hjem film	5um4	
+pastor marvin louis sapp	3n9u	
+pastor teacher	2dh	
+pastor troy	2rxa	
+pastor troy discography	2rxa	
+pastor troy for president	2rxa	
+paul fix	bhf	
+paul wraniztky	46ox	
+peter fernandez	33y2	
+peter zois	4mdw	
+pimprez	339t	
+planera parvifolia	33i5	
+poemmemoirstory	ket	
+polish	d8	3xb:4,475:4,6cf:3,8fh:4,9tg:2,hdo:3,iod:4,iq6:4,k4k:2,qjc:7,xsc:4,11ec:3,11mk:3,1bm4:3,1bvc:4,1rrw:3,1ud8:6,2btw:4,2v7k:3,3vst:3,484c:5,4y6d:6,50xa:7,51qi:5,57m2:2,5k63:6,5kea:6,5u1l:2
+polish 101	d1y	
+polish 1st league	q6e	
+polish 3rd league	vqs	
+polish academy		3xb:4,8fh:4,1ud8:6,484c:5,4y6d:6,50xa:7,5kea:6
+polish academy award	2v7k	1ud8:6,4y6d:6,50xa:7,5kea:6
+polish academy award for		1ud8:6,4y6d:6,50xa:7,5kea:6
+polish academy award for best		1ud8:6,4y6d:6,50xa:7,5kea:6
+polish academy award for best director	4y6d	
+polish academy award for best european		50xa:7
+polish academy award for best european film	50xa	
+polish academy award for best film	1ud8	
+polish academy award for best screenplay	5kea	
+polish academy life		484c:5
+polish academy life achievement		484c:5
+polish academy life achievement award	484c	
+polish academy of		3xb:4,8fh:4
+polish academy of arts and sciences	8fh	
+polish academy of learning	8fh	
+polish academy of science	3xb	
+polish academy of sciences	3xb	
+polish academy of sciences and letters	8fh	
+polish academy of skills	8fh	
+polish af	1bm4	
+polish air		1bm4:3
+polish air force	1bm4	
+polish air force tu 154 crash	d1y	
+polish air force tu 154m 101	d1y	
+polish air forces	1bm4	
+polish airforce	1bm4	
+polish airlines	2co0	
+polish alphabet	k4k	
+polish armed		1rrw:3
+polish armed forces	1rrw	
+polish army	1rrw,3vst	
+polish army aviation	1bm4	
+polish bolshevic war	a9v	
+polish bolshevik war	a9v	
+polish bolshevist war	a9v	
+polish campaign of 1794 1795	36oo	
+polish committee		51qi:5
+polish committee for national freedom	51qi	
+polish committee of		51qi:5
+polish committee of national		51qi:5
+polish committee of national liberation	51qi	
+polish commonwealth	5g9	
+polish communist party	41xt	
+polish communist workers party	41xt	
+polish cossack war	5fsr	
+polish cross of merit	3z66	
+polish cross of valor	dir	
+polish cross of valour	dir	
+polish crown	17aj	
+polish cultural		xsc:4
+polish cultural merit		xsc:4
+polish cultural merit order	xsc	
+polish defensive war	cby	
+polish democratic party	t14	
+polish draughts	35ib	
+polish economy	5u1l	
+polish economy film	5u1l	
+polish figure		2btw:4
+polish figure skating		2btw:4
+polish figure skating championships	2btw	
+polish film		2v7k:3
+polish film academy awards	2v7k	
+polish film award	2v7k	
+polish film awards	2v7k	
+polish film awards eagles	2v7k	
+polish first league	q6e	
+polish first leauge	q6e	
+polish fleet	9tg	
+polish football first league 00s 10s	9xg	
+polish forces	1rrw	
+polish fourth league	1gei	
+polish german war	cby	
+polish green party	44m1	
+polish guilders	4fev	
+polish hamlet		5k63:6
+polish hamlet portrait		5k63:6
+polish hamlet portrait of		5k63:6
+polish hamlet portrait of aleksander		5k63:6
+polish hamlet portrait of aleksander wielopolski	5k63	
+polish historical		11mk:3
+polish historical society	11mk	
+polish historical society poland	11mk	
+polish historical society polish	11mk	
+polish hockey superleague	enz	
+polish i liga	q6e	
+polish insurrection of 1831	3nx0	
+polish insurrection of 1863	2fh0	
+polish internet movie database	2c6k	
+polish iv liga	vqs	
+polish january uprising	2fh0	
+polish land		3vst:3
+polish land forces	3vst	
+polish language	d8	
+polish lithuania	5g9	
+polish lithuania commonwealth	5g9	
+polish lithuanian		1bvc:4
+polish lithuanian commonwealth	5g9	
+polish lithuanian commonwealth 1569 1791	5g9	
+polish lithuanian royal election 1573	5bcv	
+polish lithuanian teutonic		1bvc:4
+polish lithuanian teutonic war	1bvc	
+polish lithuanian teutonic war 1409 1411	1bvc	
+polish lithuanian teutonic war 14091411	1bvc	
+polish lithuanianteutonic war	1bvc	
+polish lot airlines	2co0	
+polish lutheran church	5u1d	
+polish manchester	1ua	
+polish military	1rrw	
+polish money	4fev	
+polish muscovite war 1654 1657	2n7s	
+polish nation	fn4	
+polish national 1st league	9xg	
+polish national football team	1qr	
+polish national forests	2jsb	
+polish national parks	2jsb	
+polish naval aviation	9tg	
+polish navy	9tg	
+polish new zoty	4fev	
+polish oil and gas company	46n0	
+polish order of merit	2on9	
+polish peasant party	iod	
+polish peasants party	iod	
+polish people	fn4	iod:4,iq6:4
+polish people s		iod:4,iq6:4
+polish people s party	iod	
+polish people s republic	iq6	
+polish peoples party	iod	
+polish pomerania	j79	
+polish premier league	9xg	
+polish president	170o	
+polish president air crash	d1y	
+polish president plane crash	d1y	
+polish presidential airplane disaster	d1y	
+polish presidential election 2015	67xc	
+polish prime minister	p8v	
+polish rebellion of 1863	2fh0	
+polish regency government	1zba	
+polish revolt of 1863	2fh0	
+polish revolution of 1863	2fh0	
+polish rider	5mk8	5mk8:3
+polish russian war 1654 1656	2n7s	
+polish russian war 1654 1667	2n7s	
+polish russian war 1658 1667	2n7s	
+polish russian war 1792	57ur	
+polish russian war 1830 1831	3nx0	
+polish russian war 1830 31	3nx0	
+polish russian war of 1792	57ur	
+polish science academy	3xb	
+polish second league	q6e	
+polish second republic	7d3	
+polish socialist		11ec:3
+polish socialist party	11ec	
+polish socialistic party	11ec	
+polish society		qjc:7
+polish society of		qjc:7
+polish society of arts		qjc:7
+polish society of arts and		qjc:7
+polish society of arts and sciences		qjc:7
+polish society of arts and sciences abroad	qjc	
+polish soviet war	a9v	
+polish state	m	6cf:3
+polish state railways	6cf	
+polish stock exchange	hfk	
+polish stock market	hfk	
+polish succession	19sk	
+polish succession war	19sk	
+polish swedish war 1655 1660	579d	
+polish television	ldh	
+polish teutonic war 1409 1411	1bvc	
+polish teutonic war 14091411	1bvc	
+polish third league	vqs	
+polish top flight	9xg	
+polish tv	ldh	
+polish ukrainian war	1yu7	
+polish united		475:4
+polish united worker s party	475	
+polish united workers		475:4
+polish united workers party	475	
+polish uprising of 1831	3nx0	
+polish uprising of 1863	2fh0	
+polish vodka	sbv	
+polish voivodeship	zqz	
+polish voivodeships	zqz	
+polish voivodships	zqz	
+polish volleyball leage	3d5d	
+polish volleyball league	3d5d	
+polish war of 1793 1794	36oo	
+polish wedding	57m2	
+polish women s national football team	5ad3	
+polish word	d8	
+polish workers		hdo:3
+polish workers party	hdo	
+polish zlot	4fev	
+polish zoty	4fev	
+polish zoty sign	4fev	
+prionovolvinae	1opk	
+propulsive landing	6ar4	
+psychobreak	56xi	
+raissa berg	5w5i	
+raissa l berg	5w5i	
+raissa lvovna berg	5w5i	
+raissa myshetskaya	2mx	
+raissa smetanina	31mr	
+ravenor primary school	46wb	
+residente	32p9	
+residente calle 13	32p9	
+richard krafft ebbing	3dlz	
+rockwell	163r	bky:2,kl5:2,5kvu:2
+rockwell alaska	bky	
+rockwell international	kl5	
+rockwell international corporation	kl5	
+rockwell kent	5kvu	
+rockwell sabreliner	3k21	
+rockwell standard	kl5	
+rockwell standard corporation	kl5	
+ryou horikawa	3hyt	
+saint offenge	25un	
+sathyanarayana	g22	
+shandran anthony	5ncv	
+sir hoare	64nk	
+skriniar	4s2b	
+sonotone	2bwe	
+sphryaena	49kx	
+st audrey	296j	
+statehood	a80	
+suggested opening bid	266t	
+taradell	3451	
+teteq aq a	3bcx	
+the buccaneer	yqb,zyu	
+the buccaneer 1938 film	zyu	
+the buccaneer 1958 film	yqb	
+the carey school	4om	
+the estoril open	3x87	
+the humbling	5pcl	
+the humbling film	5pcl	
+the rollin stones	3qe	
+the stepfather	1h8s,39a8	
+the stepfather 1987 film	1h8s	
+the stepfather 2	5nd3	
+the stepfather 2 make room for daddy	5nd3	
+the stepfather 2008 film	39a8	
+the stepfather 2009	39a8	
+the stepfather 2009 film	39a8	
+the stepfather 3	5m7i	
+the stepfather ii	5nd3	
+the stepfather ii make room for daddy	5nd3	
+the stepfather iii	5m7i	
+the stepfather iii father s day	5m7i	
+tumor		6fwz:3
+tumor of head and neck disorder	1nml	
+tumor of the cervix uteri	1pg1	
+tumor of the ovary	73p	
+tumor of the prostate	1yg	
+tumor suppressor		6fwz:3
+tumor suppressor arf	6fwz	
+uborevich	51a8	
+uralaz miass	22jk	
+vanche shikov	3oj1	
+vaukavysk	1bgd	
+ventavon	1ivj	
+villone	5fgo	
+violance	1aub	
+william amamoo	55kq	
+william goldman	i5e	
+william goldman novels	i5e	
+winothai	590n	
+workstation	6dmd	
+workstation computer hardware	6dmd	
+workstation computers	6dmd	
+wunpscut	5iol	
+xubuntu	5wjv	
+xubuntu 11 10	5wjv	
+xubuntu 12 04	5wjv	
+xubuntu 12 04 lts	5wjv	
+xubuntu 13 04	5wjv	
+xubuntu 13 10	5wjv	
+xubuntu 14 04	5wjv	
+xubuntu 14 04 lts	5wjv	
+xubuntu 14 10	5wjv	
+xubuntu 15 10	5wjv	
+xubuntu 16 04 lts	5wjv	
+xubuntu linux	5wjv	
+xubuntu linux distribution	5wjv	
+zummere	2pi6	

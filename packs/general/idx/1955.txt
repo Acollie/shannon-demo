@@ -1,0 +1,491 @@
+2d accelerator	1eos	
+2d air		1ajb:3
+2d air division	1ajb	
+2d air division united states	1ajb	
+2d air force	qa5	
+2d animation	69lj	
+2d bombardment division	1ajb	
+2d lieutenant	7tz	
+2d shapes	2fhg	
+2d shooter	5wm	
+2d side scrolling	kqy	
+2point0	4vin	
+a lincoln	9kv	
+aapt championships	3127	
+aapt championships tennis	3127	
+abbotadad	1agc	
+abecassis yael	3dnm	
+allu		r3j:3,ybf:2,1by6:2
+allu aravind	ybf	
+allu arjun	1by6	
+allu rama		r3j:3
+allu rama lingaiah	r3j	
+allu ramalingaiah	r3j	
+alpenrhein river	4xq	
+ape company	6cy8	
+ape extinction	6a5w	
+ape genocide	6a5w	
+ape inc	6cy8	
+ape lincoln	r7i	
+ape man	463e	463e:3
+ape men	6a5w	
+ape planet	6dxv	
+ape woman	49cd	49cd:3
+aroids	cz4	
+baghlam province	p4f	
+bahnhofsgebaude oldenburg	4tfh	
+baronets	cd	
+berezhany	2g2o	3bte:2
+berezhany district	3bte	
+berezhany municipality	2g2o	
+berezhany raion	3bte	
+berezhany region	3bte	
+binago	2ow8	
+boske	34qy	
+boyaval	411r	
+brzeszcze commune	50pc	
+bugatha venkata subba rao	4q8m	
+byrds	lcb	lcb:2
+carins	90n	
+carman zapata	5hf3	
+casnewydd	32y	
+chakotay	50lq	
+comics	2ew	zv:2,qj8:2
+comics anthologies	qj8	
+comics anthology	qj8	
+comics artist	zv	
+comics artists	zv	
+comics comments	2ew	
+comics creators	2ew	
+comics in china	2gg5	
+comics portal	2ew	
+comics work	2ew	
+comics writer artist	zv	
+commercial		17j:2,hwl:2,17o3:2,302h:3,327m:3,4umr:2
+commercial air	hwl	
+commercial air transport	bm,cio	
+commercial air travel	hwl	
+commercial aircraft	cio	
+commercial airline	bm	
+commercial airline accidents	re	
+commercial airliner	cio	
+commercial airport	39	
+commercial art gallery	k3	
+commercial aviation	hwl	
+commercial bank	17o3	
+commercial bank money	1xtt	
+commercial banking	17o3	
+commercial banks	17o3	
+commercial bronze	22g	
+commercial building	17j	
+commercial buildings	17j	
+commercial business software	6amu	
+commercial cave	wyd	
+commercial enterprise	r	
+commercial failure	6fcd	
+commercial flight	hwl	
+commercial flights	bm	
+commercial fms	7y7	
+commercial for levi	66dw	
+commercial gallery	k3	
+commercial gasoline	1fck	
+commercial iron		327m:3
+commercial iron works	327m	
+commercial kitchen	214i	
+commercial loans	2vzt	
+commercial model	4e	
+commercial motor vechicle	2t5	
+commercial organization	r	
+commercial performance of the harry potter films	1awh	
+commercial photographer	az9	
+commercial photography	az9	
+commercial product	cd1	
+commercial products	cd1	
+commercial resupply		302h:3
+commercial resupply service	302h	
+commercial resupply services	302h	
+commercial resupply services 2	302h	
+commercial software	4umr	
+commercial style	4w95	
+commercial style architecture	4w95	
+commercial track	1qnt	
+commercial trawler	6dhs	
+commercial union assurance masters	r5w	
+commercial vernacular architecture	1k6m	
+commercial vessel	2ae7	
+commercial waterway	4usp	
+commercial websites	9s	
+commercial whaling	2spg	
+commercial whiting	1ip9	
+crunchy peanut butter	5fd8	
+dahlesque	8qs	
+david galloway	62tv	
+david galloway footballer	62tv	
+debsoc	4nq	
+dengay	4rrp	
+dengay fever	4rrp	
+diamler chrysler	cb8	
+dslrs	uts	
+dyflin	bx	
+elizibeth cady stanton	1xtc	
+encyclia	2jth	
+erg hyperion	6gc8	
+euphemia		1dlz:3,30sn:4,38sl:3,45ev:3,4ai6:3,4haj:3,4opz:3,5ycy:3
+euphemia of		1dlz:3,30sn:4,38sl:3,45ev:3,4ai6:3,4haj:3,4opz:3,5ycy:3
+euphemia of greater		30sn:4
+euphemia of greater poland	30sn	
+euphemia of hungary	45ev	
+euphemia of kiev	4haj	
+euphemia of kuyavia	38sl	
+euphemia of kyiv	4haj	
+euphemia of masovia	1dlz	
+euphemia of pomerania	5ycy	
+euphemia of sicily	4opz	
+euphemia of sweden	4ai6	
+euphemia von pommern	5ycy	
+f5u	63w2	
+faroes	1x8	
+frederick i	22k7,4m01	hpb:4,o18:5,pck:6,uby:4,10yp:6,14ks:4,19zg:4,23vo:6,302o:6,3lae:5,4916:6,4fbh:6,5ge0:6,5i1g:7,5iu7:5
+frederick i barbarosa	zfi	
+frederick i barbarossa	zfi	
+frederick i count		4fbh:6
+frederick i count of vaudemont	5i1g	
+frederick i count palatine		4fbh:6
+frederick i count palatine of		4fbh:6
+frederick i count palatine of simmern	4fbh	
+frederick i count palatine of the rhine	4m01	
+frederick i duke		3lae:5,4916:6,5ge0:6
+frederick i duke of		3lae:5,4916:6,5ge0:6
+frederick i duke of anhalt	1ttk	
+frederick i duke of brunswick		5ge0:6
+frederick i duke of brunswick lueneburg	5ge0	
+frederick i duke of brunswick luneburg	5ge0	
+frederick i duke of brunswick wolfenbuttel	5ge0	
+frederick i duke of mantua	1an4	
+frederick i duke of prussia	hpb	
+frederick i duke of saxe altenburg	1pwq	
+frederick i duke of saxe gotha altenburg	10yp	
+frederick i duke of saxe hildburghausen	1pwq	
+frederick i duke of schleswig holstein	19zg	
+frederick i duke of upper		4916:6
+frederick i duke of upper lorraine	4916	
+frederick i duke of wuerttemberg	3lae	
+frederick i duke of wurttemberg	3lae	
+frederick i elector		o18:5
+frederick i elector of		o18:5
+frederick i elector of brandenburg	o18	
+frederick i elector of saxony	22k7	
+frederick i elector of the palatinate	4m01	
+frederick i elector palatine	4m01	
+frederick i grand		23vo:6
+frederick i grand duke		23vo:6
+frederick i grand duke of		23vo:6
+frederick i grand duke of baden	23vo	
+frederick i hrr	zfi	
+frederick i landgrave		302o:6
+frederick i landgrave of		302o:6
+frederick i landgrave of hesse		302o:6
+frederick i landgrave of hesse homburg	302o	
+frederick i landgrave of hesse kassel	14ks	
+frederick i landgrave of thuringia	5iu7	
+frederick i margrave		pck:6,5iu7:5
+frederick i margrave of		pck:6,5iu7:5
+frederick i margrave of brandenburg	o18	pck:6
+frederick i margrave of brandenburg ansbach	pck	
+frederick i margrave of meissen	5iu7	
+frederick i of		hpb:4,uby:4,10yp:6,14ks:4,19zg:4,5i1g:7
+frederick i of anhalt	1ttk	
+frederick i of aragon	1mfn	
+frederick i of austria habsburg	1c42	
+frederick i of baden	23vo	
+frederick i of bohemia	4qw9	
+frederick i of brandenburg	o18	
+frederick i of brunswick	5ge0	
+frederick i of brunswick wolfenbuttel	5ge0	
+frederick i of denmark	19zg	
+frederick i of denmark and norway	19zg	
+frederick i of lorraine		5i1g:7
+frederick i of lorraine count		5i1g:7
+frederick i of lorraine count of		5i1g:7
+frederick i of lorraine count of vaudemont	5i1g	
+frederick i of mantua	1ap3	
+frederick i of meien	5iu7	
+frederick i of meissen	5iu7	
+frederick i of naples	1mfn	
+frederick i of norway	19zg	
+frederick i of palatinate simmern	4fbh	
+frederick i of pfalz simmern	4fbh	
+frederick i of prussia	hpb	
+frederick i of saxe		10yp:6
+frederick i of saxe altenburg	10yp	
+frederick i of saxe gotha		10yp:6
+frederick i of saxe gotha altenburg	10yp	
+frederick i of sweden	14ks	
+frederick i of the palatinate	4m01	
+frederick i of the rhine	4m01	
+frederick i of upper lorraine	4916	
+frederick i of vaudemont	5i1g	
+frederick i of wuerttemberg	uby,3lae	
+frederick i of wurtemberg	uby	
+frederick i of wurttemberg	uby,3lae	
+frederick i saxony	22k7	
+frederick i the new danish king	19zg	
+frederick i the victorious	4m01	
+frederick i william charles of wurttemberg	uby	
+frederick i william of prussia	hpb	
+freng	3d8k	
+gauligen	5tve	
+gmina dobron	1y9r	
+gmina zabudow	p4n	
+goding	fgu	
+goff bruce	5tir	
+gower		2lkq:2
+gower champion	2lkq	
+gps	6b6w	
+gps block i	k7e	
+gps block ii	k7e	
+gps block iia	k7e	
+gps block iir	k7e	
+gps block iir m	k7e	
+gps block iirm	k7e	
+gps coordiantes	6b6w	
+gps iii	k7e	
+gps pet collar	6b6w	
+gps pet tracking	6b6w	
+gps portland		402y:3
+gps portland phoenix	402y	
+gps reciever	6b6w	
+gps satellite	k7e	
+gps satellite blocks	k7e	
+gps satellites	k7e	
+gps system	6b6w	
+gps time	6b6w	
+gwenda		5hu6:2
+gwenda blair	5hu6	
+gwenda linda blair	5hu6	
+gyles	7lj	
+heatwaves	6e0z	
+henry fredericks	khd	
+hersekzade		5b35:3
+hersekzade ahmed		5b35:3
+hersekzade ahmed pasha	5b35	
+hescamps	12jv	
+higashide masahiro	4n7r	
+hija del ministro	5v64	
+hija predilecta de andalucia	4i01	
+ikey solomons jr	xfj	
+instituting	icv	
+japanom	2vfn	
+jey rural		3784:3
+jey rural district	3784	
+johanson	4qza	
+john brademas	531p	
+kailath thomas	2mzs	
+kaliska commune	19va	
+kasbin	byk	
+kawakami		4gyg:2
+kawakami surname	4gyg	
+keikyu	fmb	oiq:3
+keikyu corporation	fmb	
+keikyu electric railway	fmb	
+keikyu line	fmb	
+keikyu main		oiq:3
+keikyu main line	oiq	
+keikyu wing	oiq	
+kraslice	1a4u	
+krottweiler	2cg4	
+kurchoff	vos	
+la rivolta degli schiavi	2qrw	
+la rivolta dei 7	4jgz	
+la rivolta dei gladiatori	3l2i	
+la rivolta dei sette	4jgz	
+leopoldo		dkb:2,13vw:3,1qv0:3,26hr:3,2y0o:2,453m:2,49my:2,4an8:2,5111:2,547o:3,5k3p:2,5so4:2
+leopoldo alas	49my	
+leopoldo alas clarin	49my	
+leopoldo alas version 2	49my	
+leopoldo alas y urena	49my	
+leopoldo antonio carrillo	jy2	
+leopoldo calvo	547o	547o:3
+leopoldo calvo sotelo	547o	
+leopoldo calvo sotelo 1st marquis of la ria de ribadeo	547o	
+leopoldo calvo sotelo 1st marquis of the ria de ribadeo	547o	
+leopoldo calvo sotelo bustelo	547o	
+leopoldo calvo sotelo y bustelo	547o	
+leopoldo calvo sotelo y bustelo 1st marquess of ria de ribadeo	547o	
+leopoldo de		26hr:3
+leopoldo de cardinal medici	26hr	
+leopoldo de medici	26hr	
+leopoldo duque de brabante	4udi	
+leopoldo fortunato galtieri	453m	
+leopoldo fortunato galtieri castelli	453m	
+leopoldo galtieri	453m	
+leopoldo garcia alas y urena	49my	
+leopoldo giovanni giuseppe francesco ferdinando carlo	1cj2	
+leopoldo jacinto luque	2y0o	
+leopoldo jimenez	4an8	
+leopoldo longanesi	6368	
+leopoldo lugones	5k3p	
+leopoldo lugones arguello	5k3p	
+leopoldo luque	2y0o	
+leopoldo nilsson	13vw	
+leopoldo roberto markovsky	3n6x	
+leopoldo savona	5so4	
+leopoldo torre		13vw:3
+leopoldo torre nilsson	13vw	
+leopoldo torres		1qv0:3
+leopoldo torres rios	1qv0	
+leopoldo trieste	dkb	
+leopoldo vallejos	5111	
+levieux breughel	igo	
+lezinnes	2wig	
+limnorchis	102p	
+lippincott		j90:3
+lippincott grambo and co	1yu6	
+lippincott grambo co	1yu6	
+lippincott publishers	j90	
+lippincott raven	j90	
+lippincott williams		j90:3
+lippincott williams and wilkins	j90	
+lippincott williams wilkins	j90	
+lippincott williams wilkins lww	j90	
+livestock breeding	376m	
+livestock raising	376m	
+macropia	d52	
+macropia moth	d52	
+mahalangur		va5:2
+mahalangur himal	va5	
+maidenhead	cfw	a1t:4
+maidenhead berkshire	cfw	
+maidenhead england	cfw	
+maidenhead f c	a1t	
+maidenhead fc	a1t	
+maidenhead new jersey	2950	
+maidenhead town	cfw	
+maidenhead township hunterdon county new jersey	1go7	
+maidenhead township new jersey	1go7	
+maidenhead united	a1t	a1t:4
+maidenhead united f		a1t:4
+maidenhead united f c	a1t	
+maidenhead united fc	a1t	
+maidenhead united football club	a1t	
+maidenhead united kingdom	cfw	
+messolonghi	nz9	
+messolonghi lagoons	nz9	
+michael schultz	1aa5	
+miedzychod		2cvm:2
+miedzychod commune	kqm	
+miedzychod county	2cvm	
+miou		w05:2
+miou miou	w05	
+miteler rebbe	3iqq	
+muhammed		4o43:4,5cxk:2,5md6:3,6cvh:2
+muhammed abduh	4x15	
+muhammed abdullah	67y2	
+muhammed ahmed faris	4o43	
+muhammed akaguenduez	4x6n	
+muhammed akagunduz	4x6n	
+muhammed ali	cfk	
+muhammed ali jinnah	1ddw	
+muhammed ali of egypt	31s0	
+muhammed alim khan	36p6	
+muhammed ben da ud	38or	
+muhammed bin awad bin laden	4ze2	
+muhammed bin laden	4ze2	
+muhammed bin murad	yw5	
+muhammed bin thani	6h08	
+muhammed faris	4o43	4o43:4
+muhammed faris al		4o43:4
+muhammed faris al aqidi	4o43	
+muhammed fethullah guelen	4lu6	
+muhammed fethullah gulen	4lu6	
+muhammed gadir	4reb	
+muhammed hosni mubarak	pys	
+muhammed hussain tabatabai	4vyy	
+muhammed ikbal	w4l	
+muhammed najibullah	5u12	
+muhammed nasir ad din al albani	4enl	
+muhammed shah qajar	2je9	
+muhammed shakhbari	5cxk	
+muhammed shareef	5kw2	
+muhammed taqi	6cvh	
+muhammed taqi footballer	6cvh	
+muhammed tewfik pasha	4bql	
+muhammed yavuz	1ml1	
+muhammed zafar		5md6:3
+muhammed zafar iqbal	5md6	
+muhammed zahir shah	1uha	
+mycenaeans	6h7i	
+neptun		4dij:2
+neptun ag	4dij	
+neptun aktiengesellschaft schiffswerft und maschinenfabrik	4dij	
+neptun werft	4dij	
+nilsdotter	4uha	
+notonycoidea	6evq	
+nozeroy	1oy2	
+palodia	4wdu	
+parvillers		1mzu:3
+parvillers le		1mzu:3
+parvillers le quesnoy	1mzu	
+prakazrel michel	1px2	
+prakazrel samuel michel	1px2	
+prokhorov alexander	1adl	
+pseudomonas	8wm	136j:2
+pseudomonas flectens	1es3	
+pseudomonas infection	136j	
+pseudomonas infections	8wm	
+pseudomonas phages	8wm	
+pseudomonas sensu stricto	8wm	
+pseudomonas sp	8wm	
+pseudomonas spp	8wm	
+roccoco	b7x	
+rochegrosse	4p7i	
+ryno	6gbc	
+seedrians	4pmw	
+sessomatto	2pcv	
+siget	iso	
+siget baranya	2169	
+sojourn	gam	
+southcom	2cld	
+sud america	d98	
+sud aviation	4ske	
+sud aviation bac	4ske	
+sud aviation super frelon	3ewt	
+sud de france	13wn	
+sud est	4yd3	
+sud est vampire	3urv	
+sud katanga	24rw	
+sud kivu	5xd4	
+sud kivu province	5xd4	
+sud ouest	3ht2	
+sud ouest province cameroon	20r6	
+sud ouest region	3ht2	
+sud ouest region burkina faso	3ht2	
+sud ouest region cameroon	20r6	
+sud province cameroon	41ia	
+sud region cameroon	41ia	
+sud sardegna	a6y	
+tanalore	1gru	
+the hansen brothers	110g	
+the hoover institute	2chv	
+the hoover institution press	2chv	
+the sino tibetan family	hvo	
+the slammin		2qrd:3
+the slammin salmon	2qrd	
+the strangeness of life	4ptj	
+thomas raymond evans	51mu	
+titanotheriidae	4haz	
+vidochov	4fl9	
+villanazar	48qd	
+villanazar spain	48qd	
+villanazar zamora	48qd	
+viscous	5h46	
+viscous forces	5h46	
+viscous friction	5h46	
+wegliniecrolau		4gio:2
+wegliniecrolau railway	4gio	
+william brabazon ponsonby	5wds	
+william brabazon ponsonby 1st baron ponsonby	5wds	
+william brabazon ponsonby 1st baron ponsonby of imokilly	5wds	
+william marland	50pa	
+zestoa	42tm	
+zhuo yihe	3dxb	

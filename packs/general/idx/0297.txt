@@ -1,0 +1,403 @@
+1937	1fj7	4sgu:4,4uty:4,5bqv:4
+1937 38		4uty:4
+1937 38 cypriot		4uty:4
+1937 38 cypriot cup	4uty	
+1937 38 cypriot first division	59e0	
+1937 ad	1fj7	
+1937 ce	1fj7	
+1937 fa		5bqv:4
+1937 fa cup		5bqv:4
+1937 fa cup final	5bqv	
+1937 nanga parbat tragedy	5f00	
+1937 plymouth	1nj4	
+1937 tour		4sgu:4
+1937 tour de		4sgu:4
+1937 tour de france	4sgu	
+1937 year	1fj7	
+330 bc	6hc4	
+330 bce	6hc4	
+a cky x mas	2t8y	
+a corner		19x9:4
+a corner in		19x9:4
+a corner in wheat	19x9	
+abtar		t0b:3
+abtar rural		t0b:3
+abtar rural district	t0b	
+aineias	3qs8	
+akrour	4rl8	
+alexander herschel	3xzz	
+alexander wilke	y61	
+alexander wilke steinhof	y61	
+amstat	409b	
+anarbour	28r	
+aniche	2tvp	
+apep		5ba:3,iw0:2
+apep f		5ba:3
+apep f c	5ba	
+apep fc	5ba	
+apep kyperounda	5ba	
+apep kyperounda fc	5ba	
+apep limassol	5ba	
+apep pelendriou	iw0	
+apep pitsilia	5ba	
+apep pitsilia fc	5ba	
+apep pitsilias	5ba	
+arafuru sea	3qrm	
+argyllshire	23u7	
+armancourt	330r	
+armancourt somme	330r	
+b1a4	409f	
+baptised	1nfd	
+baraga		20vm:2
+baraga county	20vm	
+baraga county mi	20vm	
+baraga county michigan	20vm	
+baraga frederic	41hi	
+barriers to interpersonal communication	emq	
+basyo	3byg	
+bevange	1lib	
+blanc	l8u	46c7:3
+blanc comme		46c7:3
+blanc comme neige	46c7	
+blanc de noir	3rcy	
+blanc de noirs	3rcy	
+blanc francard	58fv	
+blanc louis 1811 1882	2lic	
+blanc misseron	4yes	
+blanc surname	l8u	
+bonni ginzburg	4fwl	
+bonni mckee	1q1y	
+borgetto	5nhc	
+brinckheim	2vdz	
+cabinetmaker	286m	
+callotta	569f	
+cechenena	6fb6	
+cescau	249w,3v3d	
+cescau ariege	3v3d	
+cescau pyrenees atlantiques	249w	
+chevreul	2weh	
+chevreul michel eugene	2weh	
+chivalry		6gfw:3
+chivalry medieval		6gfw:3
+chivalry medieval warfare	6gfw	
+clinchamps		2gnt:3
+clinchamps sur		2gnt:3
+clinchamps sur orne	2gnt	
+commissario di ferro	5xil	
+commissario montalbano	65nr	
+commissario pepe	4m25	
+cook	59q,1mqj	4yg:2,5nb:2,dgd:7,obw:4,xs5:2
+cook book	1bvo	
+cook county	4yg,xs5	
+cook county il	4yg	
+cook county illinois	4yg	
+cook county minnesota	xs5	
+cook county minnesota comments	xs5	
+cook county mn	xs5	
+cook county normal school	wgi	
+cook domestic worker	53p2	
+cook ep	y61	
+cook glen	1f5o	
+cook island time	7n4	
+cook islands	5nb	dgd:7,obw:4
+cook islands men		dgd:7
+cook islands men s		dgd:7
+cook islands men s national		dgd:7
+cook islands men s national football		dgd:7
+cook islands men s national football team	dgd	
+cook islands military	5nb	
+cook islands national football team	dgd	
+cook islands national soccer team	dgd	
+cook islands new zealand	5nb	
+cook islands round		obw:4
+cook islands round cup	obw	
+cook joseph	4q16	
+cook paul	49y8	
+cook peter	17po	
+cook peter edward	17po	
+cook profession	59q	
+cook professional	120	
+cook robin	14t3	
+cook s cabin	zcm	
+cook s cabin kentucky	zcm	
+cook s station kentucky	zcm	
+cook servant	53p2	
+cook shire	3tdu	
+cook shire council	3tdu	
+cook stephen	22xp	
+cook the thief his wife and her lover		11zq:9
+cook the thief his wife her lover	11zq	
+cook tim	56nt	
+cook victor	5b1f	
+cresantignes	3ybo	
+debates concerning occitan linguistic classification	9bj	
+debates within software engineering	n3i	
+demasiadas mujeres para layton	5453	
+dessert	962	
+dessert banana	1ks9	
+dessert soup	3eu	
+devo	rcy	
+devo band	rcy	
+devo discography	rcy	
+devo h keenan	4mi2	
+devo keenan	4mi2	
+devo manifesto	rcy	
+dhola bangladesh	qn7	
+dvnp	2p0u	
+einville		1odf:3
+einville au		1odf:3
+einville au jard	1odf	
+ekene		3jw7:2,5db1:2
+ekene ibekwe	3jw7	
+ekene ikenwa	5db1	
+fc kaisar	crv	
+fc kaisar hurricane	crv	
+fc kaisar kyzylorda	crv	
+fc kaisar munai	crv	
+fc kepez	fuj	
+friedkin william	mga	
+gmina ustka	mql	
+granvelle	677i	
+grasanobol	2tb	
+harkany	1thq	
+henry witherby	4wv8	
+henry xxii prince reuss of greiz	4dlm	
+heptapteridae	4juq	
+heyerdahl thor	1a42	
+hilarographa	cpz	
+hiroki		1kla:2,2ype:2,3j57:2,4na5:2
+hiroki hattori	4na5	
+hiroki hokama	4u7q	
+hiroki matsukata	1kla	
+hiroki narimiya	2ype	
+hiroki sakai	3j57	
+hiroki tanaka	4ae7	
+hydrama	njj	
+isosceles	1xlw	1xlw:2
+isosceles triange	1xlw	
+isosceles triangle	1xlw	
+ituano	4qu	4qu:3
+ituano fc	4qu	
+ituano futebol		4qu:3
+ituano futebol clube	4qu	
+ituano sociedade civil de futebol	4qu	
+ituano sociedade civil de futebol ltda	4qu	
+izar	oie	
+jackson5	73u	
+james dellavolpe	21e6	
+james steuart	5j64	
+james steuart 4th baronet denham	5j64	
+james steuart economist	5j64	
+james steuart of coltness and westshield	5j64	
+jaromer	sx0	
+john evelyn	5mdf	
+john evelyn denison	3y8g	
+john evelyn denison 1st viscount ossington	3y8g	
+john evelyn denison ossington	3y8g	
+juanele	3n6o	
+juanele footballer	3n6o	
+kanyamazane	qzj	
+kargill war	1jui	
+kegan paul trench trubner co	79g	
+kegan star wars	6hq7	
+konow thomas	52uc	
+kraks		2oh4:3
+kraks bla		2oh4:3
+kraks bla bog	2oh4	
+latombiers	2xn2	
+livinallongo	3mak	3mak:5
+livinallongo del		3mak:5
+livinallongo del col		3mak:5
+livinallongo del col di		3mak:5
+livinallongo del col di lana	3mak	
+ludwikow eczna county	21l9	
+ludwikow leczna county	21l9	
+lukow	22n6	
+lukow commune	lnw	
+lukow county	12sp	
+magomadas	5ouk	
+mahamayanagar district	2bxr	
+manichithrathazhu	2bqr	
+margueron	2d1t	
+maria bernoulli	t41	
+maserati	px9	
+maserati 4c	px9	
+maserati com	px9	
+maserati s p a	px9	
+matoika	4eyu	
+michael princess	40vo	
+michael princess of kent	40vo	
+mirzaagha		3x5b:2
+mirzaagha aliyev	3x5b	
+monchy		1win:3,262j:3,28mp:3,2g11:2,2u82:3,2win:2,39yl:2,3rc3:2
+monchy au		28mp:3
+monchy au bois	28mp	
+monchy breton	39yl	
+monchy cayeux	3rc3	
+monchy humieres	2win	
+monchy lagache	2g11	
+monchy le		1win:3
+monchy le preux	1win	
+monchy saint		2u82:3
+monchy saint eloi	2u82	
+monchy sur		262j:3
+monchy sur eu	262j	
+murmanskaa oblast	rcw	
+naru nagasaki	4mhm	
+neumelans	25fb	
+nurnberger		dar:2
+nurnberger land	dar	
+nurnberger land district	dar	
+nurnberger u bahn	oqj	
+nurnberger versicherung	1bx0	
+oberrickenbach	22og	
+offranville	1syq	
+omura	29x6	29x6:2,5lex:2
+omura city	29x6	
+omura masujiro	5lex	
+omura nagasaki	29x6	
+omura shi	29x6	
+parksiders	8wv	
+pattern	3iqm	
+pattern recognition diagnosis	1pw8	
+pattern variables	37az	
+pavarolo	4plb	
+pontamafrey		1vs2:2
+pontamafrey montpascal	1vs2	
+pouchkine	8iv	
+prepychy	48am	
+prepychy rychnov nad kneznou district	48am	
+pressigny	1tvn,40l2	35tr:3
+pressigny deux sevres	40l2	
+pressigny haute marne	1tvn	
+pressigny les		35tr:3
+pressigny les pins	35tr	
+princesse clementine dorleans	yq6	
+princesse de canino zenaide charlotte julie bonaparte	3wkf	
+princesse de cleves	3u74	
+princesse de lamballe	3lnx	
+princesse de polignac	4epn	
+princesse de polignac winnaretta singer	4epn	
+princesse edmond de polignac	4epn	
+princesse edmond de polignac winaretta	4epn	
+princesse francaise mathilde laetitia wilhelmine bonaparte	5oxa	
+princesse louis de scey montbeliard	4epn	
+princesse mathilde	5oxa	
+princesse mathilde bonaparte	5oxa	
+princesse moustache	30dj	
+princesse tam tam	60t8	
+princesse winnaretta de polignac	4epn	
+qunaytirah province	12yd	
+reniassance	cck	
+richard gable hovannisian	2x0a	
+robert womack	lo7	
+rte1	99p	
+rusvelo	svg	13v3:2,6134:4
+rusvelo 2015	13v3	
+rusvelo women		6134:4
+rusvelo women s		6134:4
+rusvelo women s team	6134	
+rusvelo women team	6134	
+rusvelo womens team	6134	
+saint berain	3asy	2be4:4,3nhc:4
+saint berain sous		3nhc:4
+saint berain sous sanvignes	3nhc	
+saint berain sur		2be4:4
+saint berain sur dheune	2be4	
+salamandrinae	2qi6	
+sambesi	ri2	
+sbs	3x3,12k7	
+sbs 3	12k7	
+sbs 6	46y6	
+sbs australia	12k7	
+sbs co kr	3x3	
+sbs isu grand prix of figure skating final	24af	
+sbs korea	3x3	
+sbs nagar	5xr	
+sbs one	12k7	
+sbs seoul broadcasting system	3x3	
+sbs television	12k7	
+sbs three	12k7	
+sbs transit	dyj	
+sbs transit limited	dyj	
+sbs transit ltd	dyj	
+sbs transit trains	dyj	
+sbs tv	12k7	
+sbs tv 6	3x3	
+sbs tv australia	12k7	
+schonfeld lubbenau	2bbz	
+scottsboro al micropolitan statistical area	pl5	
+scottsboro al msa	pl5	
+scottsboro al sa	pl5	
+scottsboro alabama micropolitan area	pl5	
+sessenheim	1tx6	
+shupashkar	hwv	
+sixx		3n4p:3
+sixx a		3n4p:3
+sixx a m	3n4p	
+sixx am	3n4p	
+sixx sense with nikki sixx	1rn9	
+sorano	1ddq	
+st isaac	1qs7	
+st isaac deleting	1qs7	
+suetsuna satoko	4s3o	
+suriyaa	npw	
+taingy	3d6q	
+talveila	2ian	
+talveila soria	2ian	
+talveila spain	2ian	
+tecate 4	id6	
+tegernsee	ssc,2rly	
+tegernsee germany	ssc	
+tegernsee lake	2rly	
+tegernsee stadt	ssc	
+tegernsee town	ssc	
+telovychovna jednota banik kladno	aib	
+telovychovna jednota poldi kladno	aib	
+telovychovna jednota poldi spojene ocelarny narodni podnik kladno	aib	
+the hasselhoff	nce	
+the shape	6h85	24ca:4,3xyi:4,612p:6,6gy3:6
+the shape changer s wife	689x	
+the shape halloween	6h85	
+the shape i m in album	44l0	
+the shape i m in douwe bob album	44l0	
+the shape of		24ca:4,3xyi:4,612p:6,6gy3:6
+the shape of jazz		6gy3:6
+the shape of jazz to		6gy3:6
+the shape of jazz to come	6gy3	
+the shape of things	3xyi	612p:6
+the shape of things to		612p:6
+the shape of things to come	612p	
+the shape of things to come lost	612p	
+the shape of water	24ca	
+the shape of water 2017 film	24ca	
+the shape of water film	24ca	
+the shout	1elz	
+the shout 1978 film	1elz	
+the shout film	1elz	
+the tuxedo	25oh	
+the tuxedo film	25oh	
+truncated adenomatosis polyposis coli	4prb	
+truncated small stellated dodecahedron	5xgq	
+truncated triangle	22u0	
+twitterverse	2r5r	
+ucsan francisco bears	3xe	
+unch	zf	
+vigneux		1du3:3,1whp:3,20qk:2
+vigneux de		1whp:3
+vigneux de bretagne	1whp	
+vigneux hocquet	20qk	
+vigneux sur		1du3:3
+vigneux sur seine	1du3	
+wayforward	y2b	y2b:2
+wayforward technologies	y2b	
+wayforward technologies inc	y2b	
+wedd s	4wp	
+wedd s house	4wp	
+wez thuisy	1xyj	
+william donloe	mmj	
+wollendorf	hvr	
+wuerselen	17pa	
+yuhsuke satoh	4qxl	
+zeneca bosnia	biv	
+zinacef danmark	2bzi	

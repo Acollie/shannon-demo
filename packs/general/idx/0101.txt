@@ -1,0 +1,649 @@
+2046	1i17	
+2046 film	1i17	
+2046 movie	1i17	
+33rd		1omi:3
+33rd chess		1omi:3
+33rd chess olympiad	1omi	
+33rd president of the united states	jj5	
+33rd state	bq	
+33rd vice president of the united states	2oay	
+abbott	lbs,3bld	1eac:5,1p95:6,1umt:9,2jj6:7,2lfs:8,2s0g:7,3bld:2,3ga2:7,3myy:6,4nw1:6,55uv:3,5l5h:2,5p0t:5,67bo:3
+abbott 56268	cao	
+abbott 84538	4ik4	
+abbott abbie hoffman	25p5	
+abbott and		1eac:5,1p95:6,1umt:9,2jj6:7,2lfs:8,2s0g:7,3ga2:7,3myy:6,4nw1:6,5p0t:5
+abbott and costello		1eac:5,1p95:6,1umt:9,2jj6:7,2lfs:8,2s0g:7,3ga2:7,3myy:6,4nw1:6,5p0t:5
+abbott and costello go		1p95:6
+abbott and costello go to		1p95:6
+abbott and costello go to mars	1p95	
+abbott and costello in		3ga2:7,5p0t:5
+abbott and costello in africa	4spa	
+abbott and costello in hollywood	5p0t	
+abbott and costello in the		3ga2:7
+abbott and costello in the foreign		3ga2:7
+abbott and costello in the foreign legion	3ga2	
+abbott and costello meet		1eac:5,1umt:9,2jj6:7,2lfs:8,2s0g:7,3myy:6,4nw1:6
+abbott and costello meet captain		4nw1:6
+abbott and costello meet captain kidd	4nw1	
+abbott and costello meet captain kidd film	4nw1	
+abbott and costello meet dr		1umt:9
+abbott and costello meet dr jekyll		1umt:9
+abbott and costello meet dr jekyll and		1umt:9
+abbott and costello meet dr jekyll and mr		1umt:9
+abbott and costello meet dr jekyll and mr hyde	1umt	
+abbott and costello meet frankenstein	1eac	
+abbott and costello meet frankenstien	1eac	
+abbott and costello meet the		2jj6:7,2lfs:8,2s0g:7,3myy:6
+abbott and costello meet the invisible		2jj6:7
+abbott and costello meet the invisible man	2jj6	
+abbott and costello meet the keystone		2s0g:7
+abbott and costello meet the keystone kops	2s0g	
+abbott and costello meet the killer	2lfs	2lfs:8
+abbott and costello meet the killer boris		2lfs:8
+abbott and costello meet the killer boris karloff	2lfs	
+abbott and costello meet the mummy	3myy	
+abbott bruce	47t2	
+abbott bud	la1	
+abbott costello in the foreign legion	3ga2	
+abbott costello meet frankenstein	1eac	
+abbott costello meet the killer boris karloff	2lfs	
+abbott diahnne	5l86	
+abbott diane	2cf3	
+abbott edwin abbott	5p8g	
+abbott george	jqt	
+abbott greg	3isv	
+abbott h thayer	67bo	
+abbott handerson		67bo:3
+abbott handerson thayer	67bo	
+abbott henderson thayer	67bo	
+abbott hoffman	25p5	
+abbott howard hoffman	25p5	
+abbott jacob	5z0a	
+abbott jim	3dee	
+abbott john	39pr	
+abbott john joseph caldwell sir	39pr	
+abbott laboratories	3bld	
+abbott laboratories inc	3bld	
+abbott labs	3bld	
+abbott lawrence	5l5h	55uv:3
+abbott lawrence lowell	55uv	
+abbott lowell	55uv	
+abbott mara	3ero	
+abbott maude elizabeth seymour	608j	
+abbott monica	6h7o	
+abbott norman	46tx	
+abbott nutrition	3bld	
+abbott paul	4ccx	
+abbott pawe	4qj6	
+abbott pharmaceuticals	3bld	
+abbott sir john joseph caldwell	39pr	
+abbott stuart	4t1u	
+abbott surname	lbs	
+abbott thayer	67bo	
+abbott tony	1bb5	
+aechmea	5gl	
+alexander bogdanov	33im	
+altpilsen	2iji	
+ambassadorrice	45h1	
+amt bruck	24zk	
+amt neuhaus	2oxa	
+amt ziesar	3d9x	
+andreino degli impiccati	4l0h	
+andreino degli impicchati castagno	4l0h	
+arbo	4nlg	
+arbo gourmetfein wels	3988	
+arbo pontevedra	4nlg	
+archaeabacteria	512h	
+arreau	15i5	
+asker	8cs	m4s:2,463t:2
+asker fk	m4s	
+asker fotball	m4s	
+asker norway	8cs	
+asker s k football	m4s	
+asker station	463t	
+asker town	8cs	
+callander	4ym1	
+callander crags	4ym1	
+callander perthshire	4ym1	
+casatisma	3vnl	
+cece		wrj:2,4brk:2
+cece album	wrj	
+cece peniston	wrj	
+cece peniston filmography	wrj	
+cece peniston singles	wrj	
+cece peniston songs	wrj	
+cece peniston sons	wrj	
+cece winans	4brk	
+charles n perkins	3wmy	
+christianne amanpour	2xvq	
+clackmannanshire	1ys9	
+clackmannanshire council	1ys9	
+clackmannanshire council area	1ys9	
+coccham	36e6	
+conceived in fire	4143	
+conshohocken	1ybc	
+conshohocken pa	1ybc	
+conshohocken pennsylvania	1ybc	
+coryell		28mu:2
+coryell co	28mu	
+coryell county	28mu	
+coryell county texas	28mu	
+coryell county tx	28mu	
+counterintel	3jbg	
+david botstein	2qva	
+empire	kyh,17rf,3vra,5u4a	5ch:3,rca:2,slu:2,ubu:3,vnw:4,136l:3,1wjw:3,22b3:3,22st:4,26a1:2,26b8:4,278y:4,2a4k:3,2bqz:5,2i23:2,3nii:3,3rxj:2,41dz:2,4q97:2,5m8i:3
+empire 2002 film	3vra	
+empire 2015 tv series	17rf	
+empire academy	536	
+empire award	slu	2bqz:5
+empire award for		2bqz:5
+empire award for best		2bqz:5
+empire award for best actress	2bqz	
+empire awards	slu	
+empire bizarre	39um	
+empire city oregon	1bry	
+empire corners ontario	4abl	
+empire creation and destruction	kyh	
+empire deluxe	5irz	
+empire deluxe enhanced edition	5irz	
+empire deluxe internet edition	5irz	
+empire deluxe scenarios	5irz	
+empire earth	3rxj	
+empire earth dude	xs1	
+empire earth series	3rxj	
+empire exhibition stadium	t62	
+empire fox tv series	17rf	
+empire games	2o9j	
+empire inheritance	6fy8	
+empire inheritance trilogy	6fy8	
+empire interactive	rca	
+empire interactive entertainment	rca	
+empire interactive europe ltd	rca	
+empire international		22b3:3
+empire international pictures	22b3	
+empire let them sing	5v23	
+empire maker	41dz	
+empire management game	wqr	
+empire movie award	slu	
+empire movie awards	slu	
+empire nicaea	5m8i	
+empire of		5ch:3,ubu:3,vnw:4,136l:3,1wjw:3,22st:4,26b8:4,278y:4,5m8i:3
+empire of alexander the great	9mz	
+empire of annam	44v3	
+empire of atlantis	6fl4	
+empire of australia	j	
+empire of austria	25s	
+empire of axum	1o5l	
+empire of brazil	136l	
+empire of brazil comments	136l	
+empire of carthage	5pfo	
+empire of constantinople	1nl	
+empire of corea	1s68	
+empire of ethiopia	wjs	
+empire of francia	113b	
+empire of georgia	2qgw	
+empire of great britain	bt3	
+empire of great khan	pad	
+empire of great qing of china	823	
+empire of india	1d9	
+empire of japan	5ch	
+empire of japan culture religion and education	5ch	
+empire of japan navy	1h0	
+empire of liao	5u6o	
+empire of manchuria	1vb4	
+empire of nicaea	5m8i	
+empire of nicea	5m8i	
+empire of passion	1wjw	
+empire of persia	hgh	
+empire of rome	ex	
+empire of russia	6m	
+empire of serbia	2p3s	
+empire of signs	1617	
+empire of song	1h3x	
+empire of spain	s5f	
+empire of the		vnw:4,22st:4,26b8:4,278y:4
+empire of the ants	26b8	
+empire of the ants film	26b8	
+empire of the german nation	5na	
+empire of the germans	5na	
+empire of the golden horde	1q0k	
+empire of the north sea	1lem	
+empire of the senses	163x	
+empire of the serbs	2p3s	
+empire of the sun	vnw,22st	
+empire of the sun band	22st	
+empire of the sun discography	22st	
+empire of the sun duo	22st	
+empire of the sun film	vnw	
+empire of the sun movie	vnw	
+empire of the united kingdom	bt3	
+empire of the wolves	278y	
+empire of trabzon	ubu	
+empire of trebizond	ubu	
+empire of vijayanagar	16fd	
+empire of vlachs and bulgars	3e3j	
+empire or	1bry	
+empire oregon	1bry	
+empire period	4q97	
+empire pool	nri	
+empire pool wembley	nri	
+empire queensryche album	5u4a	
+empire records	2i23	
+empire records movie	2i23	
+empire software	rca	
+empire stadium	t62	
+empire stadium london	t62	
+empire stadium wembley	t62	
+empire state	3x,26a1	2a4k:3
+empire state 2013	26a1	
+empire state 2013 film	26a1	
+empire state 2013 movie	26a1	
+empire state bldg	2a4k	
+empire state building	2a4k	
+empire state building run up	2a4k	
+empire state yankees	hsq	
+empire station	1jfi	
+empire strikes back	jli	
+empire strikes back arcade game	4ekt	
+empire style	4q97	
+empire times	aua	
+empire total		3nii:3
+empire total war	3nii	
+empire total war the warpath campaign	3nii	
+empire trebizond	ubu	
+empire tw	3nii	
+episaronaga	6ejv	
+euroseries 3000	4eus	
+fakes	20n1	
+fc chomutov	2b1d	
+fc sarajevo	470	
+frio		28mz:2
+frio county	28mz	
+frio county texas	28mz	
+frio county tx	28mz	
+gazpromexport	d61	
+george boulenger	58la	
+giani		1hhv:2,65rc:2
+giani esposito	1hhv	
+giani esposito actor	1hhv	
+giani kirita	65rc	
+giani stelian kirita	65rc	
+giani versaci	3zoe	
+giani zail singh	5p4f	
+gichen funakoshi	zpg	
+giralo	1j6n	
+gmina dmosin	127g	
+gmina sulechow	s0y	
+gouvert flinck	3jro	
+gurth	3gho	
+gyuri orth	4mct	
+henry alan walter richard percy	3vjn	
+henry alan walter richard percy 11th duke of northumberland	3vjn	
+hermival		2bkw:3
+hermival les		2bkw:3
+hermival les vaux	2bkw	
+hertzen russian state pedagogical university	5k8f	
+hivert jonathan	381o	
+houlbec		2rlz:2
+houlbec cocherel	2rlz	
+hradesin	43nz	
+iffat		3pbc:3
+iffat al		3pbc:3
+iffat al thunayan	3pbc	
+iffat al thunayyan	3pbc	
+iffat al thuniyyan	3pbc	
+iffat of saudi arabia	3pbc	
+immunological	fjm	
+immunological basis for pre eclampsia	4nzw	
+isafjoerdur iceland	17ww	
+isola	1qmw	yo0:3,1gp5:6,1iuw:3,2b75:3,2c64:2,2lm1:3,2uai:2,2yuo:3,48p8:2,4hwh:2,55q8:3
+isola alpes maritimes	1qmw	
+isola bella	4hwh	
+isola bella film	4hwh	
+isola d		2lm1:3
+isola d asti	2lm1	
+isola d elba	5psp	
+isola d istria	tu3	
+isola d lstria	5brw	
+isola dasti	2lm1	
+isola del		1gp5:6,2b75:3,2yuo:3
+isola del cantone	2b75	
+isola del giglio	53jj	
+isola del gran		1gp5:6
+isola del gran sasso	1gp5	1gp5:6
+isola del gran sasso d		1gp5:6
+isola del gran sasso d italia	1gp5	
+isola del gran sasso ditalia	1gp5	
+isola del liri	2yuo	
+isola della		yo0:3
+isola della maddalena	28gd	
+isola della scala	yo0	
+isola delle		55q8:3
+isola delle femmine	55q8	
+isola di elba	5psp	
+isola di fano	xph	
+isola di sora	2yuo	
+isola dovarese	2uai	
+isola dovarese italy	2uai	
+isola france	1qmw	
+isola gran sasso	1gp5	
+isola liri	2p0j	
+isola maddalena	28gd	
+isola madesimo	2xfe	
+isola malta	46ag	
+isola rizza	48p8	
+isola sant		1iuw:3
+isola sant antonio	1iuw	
+isola santantonio	1iuw	
+isola slovenia	tu3	
+isola vicentina	2c64	
+jannat		5yg6:2
+jannat 2	5yg6	
+jannat al baqi	29ut	
+jannat ul baqi	29ut	
+jaromir	5b66	145v:2,2tfa:2,6cw7:2
+jaromir bishop of prague	5b66	
+jaromir blazek	2tfa	
+jaromir jager	145v	
+jaromir jagr	145v	
+jaromir navratil	6cw7	
+jeep	2o6d	
+jeep carrier	ez5	
+jeep elite	2a2e	
+jeep laredo	2o6d	
+jeep willys	2o6d	
+jordanian		5z6g:3
+jordanian armed		5z6g:3
+jordanian armed forces	5z6g	
+jordanian army	5z6g,6b4y	
+jordanian ground forces	6b4y	
+jordanian land force	6b4y	
+jordanian military	5z6g	
+jordanian muslim brotherhood	69ag	
+jordanian royal family	hux	
+jscl	283m	
+june	5oe,755	m9u:2,os0:3,uud:2,v3w:2,13z1:2,1t8r:2,1xkb:2,1y3l:2,2ma6:2,2r4j:2,2ufh:2,2uq6:2,2z5w:2,33cu:2,37an:2,3doi:2,3eu7:2,3tas:2,47op:2,4hxo:2,4pnm:2,4rmr:2,5kgz:4,5l5g:3,608v:3
+june 1		608v:3
+june 1 1974	608v	
+june 1 1974 comments	608v	
+june 1979	3l25	
+june 1982	14iz	
+june 1984	2trg	
+june 1985	2xzy	
+june 1986	3a21	
+june 1987	2urs	
+june 1989	31nm	
+june 1990	2cbq	
+june 1991	1j3l	
+june 1993	2en6	
+june 1994	134p	
+june 1995	132x	
+june 1997	16bt	
+june 1998	z0v	
+june 2 2003	oob	
+june 2000	dpp	
+june 2001	kes	
+june 2002	ivv	
+june 2005	arw	
+june 2009	cq0	
+june 2010	b4j	
+june 2011	9yy	
+june 2013	900	
+june 2014	6l5	
+june 2015	7en	
+june 2017	d0s	5kgz:4
+june 2017 london		5kgz:4
+june 2017 london attack	5kgz	
+june 2017 london bridge attack	5kgz	
+june 2017 london lorry attack	5kgz	
+june 2017 london stabbing	5kgz	
+june 2018	5s4t	
+june 23 2003	oob	
+june 25 incident	pk	
+june 25 war	pk	
+june 25th war	pk	
+june 29 1999	4613	
+june 6 1944	s75	
+june allison	v3w	
+june allyson	v3w	
+june alyson	v3w	
+june balboni	m9u	
+june beatle	bfv	
+june berries	4mxr	
+june berry	4mxr	
+june beulah	m9u	
+june beulah hughes	m9u	
+june bride	33cu	
+june carter	os0	os0:3
+june carter cash	os0	
+june cash	os0	
+june chiki chikuma	24lg	
+june chikuma	24lg	
+june child	1wzq	
+june christy	1xkb	
+june clyde	37an	
+june collyer	3tas	
+june diane		5l5g:3
+june diane raphael	5l5g	
+june first name	5oe	
+june foray	uud	
+june forer	uud	
+june forester	4gor	
+june given name	5oe	
+june gudmundsdottir	1207	
+june haver	2r4j	
+june havoc	1t8r	
+june hovick	1t8r	
+june hughes	m9u	
+june hutton	4rmr	
+june jordan	3doi	
+june l foray	uud	
+june lang	1y3l	
+june lockhart	13z1	
+june lucille foray	uud	
+june lucille forer	uud	
+june marlow	47op	
+june marlowe	47op	
+june marvel cowan	4rmr	
+june mathis	m9u	
+june mathis balboni	m9u	
+june melrose place 2009	45mc	
+june millicent jordan	3doi	
+june month	755	
+june name	5oe	
+june nights	2z5w	
+june of 1941	172h	
+june osborne the handmaid s tale	55mq	
+june personal name	5oe	
+june pointer	2ma6	
+june raphael	5l5g	
+june rosemay whitfield	3eu7	
+june squibb	4pnm	
+june storey	2ufh	
+june stovenour	2r4j	
+june thorburn	4hxo	
+june travis	2uq6	
+june vlasek	1y3l	
+june whitfield	3eu7	
+june williams	jnb	
+kallio kyoesti	3ug2	
+kallio kyosti	3ug2	
+karpaty lviv	47w	
+karpaty lvov	47w	
+kieran		1snb:2,3q9y:2,48p6:2,4fwn:2,4h9d:2,4jxx:2,59qb:2
+kieran charnock	48p6	
+kieran culkin	1snb	
+kieran dyer	49uo	
+kieran edward richardson	4jxx	
+kieran gibbs	4fwn	
+kieran hebden	1afb	
+kieran hinds	jdp	
+kieran james ricardo gibbs	4fwn	
+kieran john trippier	4h9d	
+kieran kyle culkin	1snb	
+kieran mahon	4xpb	
+kieran mcanespie	3q9y	
+kieran murphy	59qb	
+kieran murphy footballer	59qb	
+kieran murtagh	5o53	
+kieran perkins	5wg0	
+kieran richardson	4jxx	
+kieran st aimie	3fyy	
+kieran trippier	4h9d	
+kieran walker	2hfr	
+koganei	1ovf	
+koganei tokyo	1ovf	
+la seconda volta	60yy	
+le cause	26u8	
+libsdl	65ef	
+liguorian	pme	
+liguorian magazine	pme	
+manoba	mrp	
+mazapan	6ful	
+mazapan de pili	6ful	
+md3	106x	
+means of exchange	1ta	
+means of transport	cig	
+means of travel	cig	
+means of travelling	cig	
+mecherino mecarino	55jd	
+meursac	2pgq	
+micex rts	blw	
+micex rts oao	blw	
+microglossotrophia	1n3	
+mott		1hlv:3
+mott lake	1t5p	
+mott physicist	1fvz	
+mott the		1hlv:3
+mott the hoople	1hlv	
+munai	2qgr	
+munai lanao del norte	2qgr	
+musk elon	mgz	
+musk flower	5t01	
+musk foundation	mgz	
+musk shrew	6bo	
+naughton david	2mvh	
+neshoba	2rw5	2rw5:2
+neshoba county	2rw5	
+neshoba county mississippi	2rw5	
+neshoba county ms	2rw5	
+nnandi azikwe	439k	
+noarootsi	1lz9	1lz9:3
+noarootsi commune	1lz9	
+noarootsi parish	1lz9	
+noarootsi rural		1lz9:3
+noarootsi rural municipality	1lz9	
+noarootsi vald	1lz9	
+nullemont	3pel	
+ohe kenzaburo	11z2	
+ohe kenzaburoh	11z2	
+paul brooks	1obl	
+pavelas		3jh9:2
+pavelas leusas	3jh9	
+peter enckelman	4dg4	
+phylloscopid warbler	jdh	
+pikapika fantasian	531g	
+pontorson	187g	
+pove		35iz:3
+pove del		35iz:3
+pove del grappa	35iz	
+prachuap		1qfi:3,4lhm:3
+prachuap f		4lhm:3
+prachuap f c	4lhm	
+prachuap khiri		1qfi:3
+prachuap khiri khan	1qfi	
+prachuap khiri khan f c	4lhm	
+prachuap khiri khan fc	4lhm	
+prachuap khiri khan province	1qfi	
+prachuap khiri khan province thailand	1qfi	
+purva ashadha	4900	
+purva phalguni	4900	
+qujing	1xkw	
+qujing city	1xkw	
+qujing prefecture	1xkw	
+qujing yunnan	1xkw	
+rheinische friedrich wilhelms universitaet bonn	14e	
+rheinische friedrich wilhelms universitat	14e	
+rheinische friedrich wilhelms universitat bonn	14e	
+rheinische friedrich wilhelms university	14e	
+richard whateley	4ns3	
+ricketsiosis	6f9o	
+rijksweg 1	5z6o	
+rijksweg 12	5khz	
+rijksweg 2	3kc1	
+rijksweg 28	6e59	
+rijksweg 4	4r5c	
+rijksweg 7	4g82	
+rikuzen takata	2yd0	
+rola jebreal	6772	
+rola zymierski	290k	
+rybnikov alexey lvovich	1jtj	
+saeaeksmaeki	6eyv	
+saint andeol	38rc,38v6	29uj:4,2bfg:4,3c83:4,4nz7:4
+saint andeol de		29uj:4,2bfg:4,4nz7:4
+saint andeol de clerguemort	4nz7	
+saint andeol de fourchades	29uj	
+saint andeol de vals	2bfg	
+saint andeol drome	38v6	
+saint andeol isere	38rc	
+saint andeol le		3c83:4
+saint andeol le chateau	3c83	
+saint firmin	23g5,2uww,2v0l,3znm	2q57:4,3k2n:4
+saint firmin des		2q57:4
+saint firmin des pres	2q57	
+saint firmin hautes alpes	23g5	
+saint firmin meurthe et moselle	2v0l	
+saint firmin nievre	3znm	
+saint firmin saone et loire	2uww	
+saint firmin sur		3k2n:4
+saint firmin sur loire	3k2n	
+saint matre	40rq	
+sance	40eb	
+sance france	40eb	
+sance saone et loire	40eb	
+sarcoplastic reticulum	6cn7	
+saurornithoididae	1wtr	
+shakedown	3wd2,4y8u	
+shakedown 1950 film	3wd2	
+shakedown 1988 film	4y8u	
+sir ray davies	dlr	
+sir ray douglas davies	dlr	
+skandalouz	50pz	
+smackin isaiah	5lfq	
+smoulove	48a8	
+st omer	c7e	
+st omer s	c7e	
+suvalk	p6q	
+tawada yoko	33oc	
+teeratep		590n:2
+teeratep winothai	590n	
+templemore	6csj	
+the ama awards	15ad	
+the ama s	1jyb	
+the blackadder five	ouw	
+the cors	pg9	
+the tribune association	45sm	
+the tribune company	45sm	
+the trumpet		4vxp:5
+the trumpet of		4vxp:5
+the trumpet of the		4vxp:5
+the trumpet of the swan	4vxp	
+the trumpet of the swan film	4vxp	
+thomas gold	3ir9	
+tokamati	31ec	
+torchamp	3gra	
+tracers	3fc7	
+tracers 2014 film	3fc7	
+tracers film	3fc7	
+ujungpandang	jmw	
+ulanova	17wk	
+ulanova galina sergeyevna	17wk	
+vaceuchelus	3c2g	
+veyrins		2t79:2
+veyrins thuellin	2t79	
+whiteside		tjc:2
+whiteside county	tjc	
+whiteside county il	tjc	
+whiteside county illinois	tjc	
+yamatetan	3tdg	
+yerville	21is	

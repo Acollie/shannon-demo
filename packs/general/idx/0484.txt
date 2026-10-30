@@ -1,0 +1,409 @@
+14th		ap9:4,org:3,1hhf:2,1r5o:4,1ypm:3,3tgy:4,3v1k:2
+14th arrondisement	ap9	
+14th arrondissement	ap9	ap9:4
+14th arrondissement of		ap9:4
+14th arrondissement of paris	ap9	
+14th arrondissement paris	ap9	
+14th asian games	wi	
+14th british colony	i8	
+14th centuries	1hhf	
+14th century	1hhf	1ypm:3
+14th century b c	1ypm	
+14th century bc	1ypm	
+14th century bce	1ypm	
+14th commonwealth games	1u83	
+14th dalai lama	svl	
+14th duke of hamilton	1k33	
+14th duke of norfolk	2wi3	
+14th earl of arundel and surrey thomas howard	3aup	
+14th earl of arundel thomas howard	3aup	
+14th earl of oxford	422b	
+14th earl of pembroke	2uuc	
+14th extraordinary congress of the league of communists of yugoslavia	8cg	
+14th fina world aquatic championships	17xf	
+14th floor	org	org:3
+14th floor records	org	
+14th iaaf world championships in athletics	58b	
+14th paralympics	11g	
+14th president of the united states	1ids	
+14th stage of the tour de france 2005	3rqh	
+14th street	3v1k	1r5o:4,3tgy:4
+14th street canarsie local	2f6y	
+14th street eastern line	3075	
+14th street eighth		3tgy:4
+14th street eighth avenue	3tgy	
+14th street eighth avenue bmt canarsie line	3tgy	
+14th street eighth avenue new york city subway	3tgy	
+14th street ind eighth avenue line	3tgy	
+14th street ind sixth avenue line	3v1k	
+14th street irt broadway seventh avenue line	3v1k	
+14th street line bmt	3075	
+14th street sixth avenue	3v1k	
+14th street sixth avenue new york city subway	3v1k	
+14th street sixth seventh avenues new york city subway	3v1k	
+14th street tunnel	3075	
+14th street union		1r5o:4
+14th street union square	1r5o	
+14th street union square bmt broadway line	1r5o	
+14th street union square bmt broadway line station	1r5o	
+14th street union square bmt canarsie line	1r5o	
+14th street union square bmt canarsie line station	1r5o	
+14th street union square irt lexington avenue line	1r5o	
+14th street union square irt lexington avenue line station	1r5o	
+14th street union square new york city subway	1r5o	
+14th street union square new york subway	1r5o	
+14th streeteastern line	3075	
+14th streeteighth avenue new york city subway	3tgy	
+14th streetunion square	1r5o	
+14th studio album	54uu	
+14th vice president of the united states	1bu4	
+14th winter olympic games	1eb	
+a statue in his honour	32qd	
+aatu	274	
+adding machine	6dhz	6dhz:3
+agathis	2krj	
+alexander mavrokordato	3eun	
+anue	49tg	
+aqk	271g	
+aragonta gonzalez	4415	
+arletty	13c2	
+aviici	k1p	
+balpetre	1ix5	
+balzola	3yjb	
+bariclamans	14c	
+barille albert	4u0n	
+belenguer david	3clo	
+bleiler everett franklin	2cnx	
+bookshop cafe	fep	
+bothnian		lf0:2
+bothnian bay	lf0	
+bothnian gulf	24s2	
+braziliavaros	1in	
+brugairolles	38h3	
+bshorty	2qfj	
+caprioglio debora	4uh1	
+cbus	mc	
+cogman	1ef2	
+coleccion		yst:5
+coleccion cisneros	yst	
+coleccion patricia		yst:5
+coleccion patricia phelps		yst:5
+coleccion patricia phelps de		yst:5
+coleccion patricia phelps de cisneros	yst	
+cowling t g	4n0y	
+cowling thomas	4n0y	
+cuboctahedron	6a6n	
+daddia	6f81	
+dalane suldal line	wgt	
+dalane suldallinjen	wgt	
+damagaram	54b3	
+deathgames	4lpy	
+debasree roy	4nmo	
+dominicus a soto	62pm	
+dominicus ciampellus	4s3k	
+dominicus de soto	62pm	
+dominicus soto	62pm	
+duendin	211	
+durante alighieri	e7a	
+durante andrew	46h9	
+durante composer	49gk	
+durante degli alighieri	e7a	
+enbekshiqazaq		3oh4:2
+enbekshiqazaq district	3oh4	
+ese	3hbu	
+ese oscuro objeto del deseo	k3c	
+falconhein	3e9q	
+fitou	2s84	
+flordia state university	187	
+frunzik		1usx:2
+frunzik mkrtchyan	1usx	
+george jiyajirao scindia of gwalior	47b8	
+gilver daza	xpy	
+gmina nur	1c6i	
+governatorial	2is	
+haematologic disorder	31fr	
+hechi	1lzq	
+hechi guangxi	1lzq	
+hertsaivsky raion	43wq	
+hiko jo	4im8	
+hudspeth		1igb:2
+hudspeth county	1igb	
+hudspeth county texas	1igb	
+hudspeth county tx	1igb	
+hulhoven	1h5u	
+iggensbach	35vc	
+ilifav	20ra	
+ilqar qurbanov	4mxv	
+jingcheng airport	4gyx	
+jingcheng expressway	695z	
+jip surname	aqa	
+john larroquette	yas	
+john ruddy	2uv5	
+john tesh	5nng	
+john tesh radio show	5nng	
+john x		633y:6
+john x of		633y:6
+john x of schleswig		633y:6
+john x of schleswig holstein		633y:6
+john x of schleswig holstein gottorp	633y	
+kabat	2vx9	
+kathy	4hj	ccg:2,rrg:2,sqf:2,u40:2,ukm:2,z3u:2,2i4o:2,4mls:2,6gb5:2
+kathy a mattea	sqf	
+kathy acker	4mls	
+kathy alice mattea	sqf	
+kathy ashton	4aql	
+kathy baker	ukm	
+kathy bates	ccg	
+kathy beth terry	5ggu	
+kathy burke	2i4o	
+kathy c hochul	6gb5	
+kathy chitty	apn	
+kathy dennis	1yhs	
+kathy first name	4hj	
+kathy forester	4gor	
+kathy freeman	3jwt	
+kathy given name	4hj	
+kathy grffin	u40	
+kathy griffen	u40	
+kathy griffin	u40	
+kathy griffin as a gay icon	u40	
+kathy griffith	u40	
+kathy hochul	6gb5	
+kathy lee gifford	3bsu	
+kathy lutz	68y5	
+kathy mattea	sqf	
+kathy mendonca	2flj	
+kathy najimi	z3u	
+kathy najimy	z3u	
+kathy name	4hj	
+kathy o donnell	1uv1	
+kathy parks murder victim	2dz3	
+kathy perch nielsen	66p9	
+kathy pierson	478s	
+kathy reichs	rrg	
+kathy selden	1jvq	
+kathy thornton	4htu	
+kathy von nagy	t1v	
+khabarousk	7ud	
+khobriz		2mjt:3
+khobriz rural		2mjt:3
+khobriz rural district	2mjt	
+kinugasa teinosuke	3v9z	
+knringue	2ubk	
+kozelj mass grave	17kq	
+lidya	60x4	
+lidya litvyak	2e3s	
+lions	rgr	3915:3
+lions and tigers and bears	i2s	
+lions club park wyandotte mi	ury	
+lions for		3915:3
+lions for lambs	3915	
+lions for lambs 2007 film	3915	
+lions gate	2vh	
+lions gate entertainment	2vh	
+lions gate entertainment corporation	2vh	
+lions gate entertainment inc	2vh	
+lions gate films	2vh,btk	
+lions gate films home entertainment	yeh	
+lions gate home entertainment	yeh	
+lions gate pictures	2vh	
+lions in ethiopia	9je	
+lions of corsica	1q53	
+lions rugby franchise	rgr	
+lions sont laches	3ntt	
+lions super rugby	rgr	
+lions super rugby franchise	rgr	
+liubov aksel rod	51kz	
+liubov baranova cross country skier	53mc	
+liubov iliushechkina	5mbe	
+liubov ilyushechkina	5mbe	
+liubov isaakovna aksel rod	51kz	
+liubov orlova	170s	
+llivia	1rmv	
+llivia girona	1rmv	
+llivia spain	1rmv	
+luppiu	8h4	
+macrocheton	1sn7	
+mahboobnagar	471q	
+mahboobnagar district	16aw	
+marta	4c9,uzc,1hcu,36w2,5mew	1568:2,2os0:2,32a1:2,36is:2,44po:2,4ahn:2,4dwr:2,4iai:2,5690:2,5scm:2,5sxm:2
+marta argerich	2suj	
+marta bibescu	5vjt	
+marta bus routes	uzc	
+marta buses	uzc	
+marta corredera	4ahn	
+marta dominguez	5scm	
+marta du bois	5sxm	
+marta dubois	5sxm	
+marta eggerth	1568	
+marta etura	5690	
+marta feuchtwanger	1qny	
+marta first name	4c9,36w2	
+marta fitzgerald	3s0o	
+marta football	1hcu	
+marta football player	1hcu	
+marta footballer	1hcu	
+marta given name	4c9,36w2	
+marta italy	5mew	
+marta kauffman	36is	
+marta lazio	5mew	
+marta liletts	elb	
+marta meszaros	32a1	
+marta name	4c9	
+marta of denmark	4bw0	
+marta of sweden	1ibh	
+marta peterson	4pjw	
+marta rail system	uzc	
+marta sanchez	44po	
+marta skavronska	1vhx	
+marta skavronskaya	1vhx	
+marta soccer player	1hcu	
+marta suplicy	4dwr	
+marta teresa smith de vasconcellos suplicy	4dwr	
+marta teresa smith de vasconcelos suplicy	4dwr	
+marta toren	2os0	
+marta torrejon	4iai	
+marta torrejon moya	4iai	
+marta train	uzc	
+marta victoria moya burges	3xql	
+marta vieira da silva	1hcu	
+marta vt	5mew	
+marta wisniewska	5eat	
+meharicourt	1ps6	
+mended by you	5l1t	
+mended lute	5pra	5pra:3
+michael kenney	9om	
+milankovitch	2d2o	
+naupaka	4og1	
+nesticidae	5fx0	
+ninmah	5r7t	
+novela picaresca	1y7p	
+nru	4h4a	
+nru tsu	t4v	
+okeme eleojo	2x2h	
+orebro	54w	7jy:2,gjs:2,ik5:2,nq6:2
+orebro county	nq6	
+orebro hk	ik5	
+orebro hockey	ik5	
+orebro kommun	gjs	
+orebro laen	nq6	
+orebro lan	nq6	
+orebro municipality	gjs	
+orebro s k	7jy	
+orebro sk	7jy	
+orebro sk fk	7jy	
+orebro sk fotboll	7jy	
+orebro sportklubb	7jy	
+orebro sweden	54w	
+orebro vipers	ik5	
+pacioli	2xfh	
+pacioli lucas	2xfh	
+paradigm		5mjb:2
+paradigm computer science	19u4	
+paradigm entertainment	5mjb	
+paradigm secure communications	1k5d	
+paradigm simulation	5mjb	
+paradigm simulations	5mjb	
+paradigm software	19u4	
+paul kesanny	4m1c	
+peter hlinka	3s00	
+peter kjr	5g5s	
+peter kjr footballer	5g5s	
+piatigorsk	nk1	
+piedrafita del cebrero	3nbt	
+potestas tribunicia	8k2	
+quadrula	6f46	
+qutubshah	4vgv	
+relx group	3dph	
+richard law	5mhh	5mhh:5
+richard law 1st		5mhh:5
+richard law 1st baron		5mhh:5
+richard law 1st baron coleraine	5mhh	
+robert michael	3yg6	231q:3
+robert michael archibald	2o2d	
+robert michael bobby moynihan jr	1tc4	
+robert michael gates	2arw	
+robert michael james gascoyne cecil 7th marquess of salisbury	5c80	
+robert michael james gascoyne cecil 7th marquess of salisbury kcvo pc dl	5c80	
+robert michael james gascoyne cecil baron gascoyne cecil	5c80	
+robert michael john fox	39qt	
+robert michael maitland stewart	3wqd	
+robert michael nesmith	rbh	
+robert michael oldfield havers	3ukm	
+robert michael oldfield havers baron havers	3ukm	
+robert michael schneider	mb2	
+robert michael sheehan	4dl6	
+robert michael urich	1t3y	
+robert michael white	231q	
+romagnat	20er	
+saint lumier		3662:4
+saint lumier en		3662:4
+saint lumier en champagne	3662	
+samich	7yq	
+schneekoppe	4xat	
+serapide pozzuoli	zqf	
+sharud	3ths	
+silvaplana	4l03	
+silvaplana gr	4l03	
+silvaplana graubuenden	4l03	
+silvaplana graubunden	4l03	
+silvaplana grisons	4l03	
+silvaplana switzerland	4l03	
+smoldzino commune	1ihb	
+stricklyn	53ve	
+szd	1cvc	
+tanga	3781,5ov4	5ov4:2
+tanga city	3781	
+tanga district	3781	
+tanga international school	3781	
+tanga province	5ov4	
+tanga region	5ov4	
+tanga tansania	3781	
+tanga tanzania	3781	
+tanga town	3781	
+tergi	50s0	
+tergi river	50s0	
+the creator of the krebs cycle	w25	
+the fairey aviation company limited	1h9s	
+the gsb	57a	
+the revolving		37ki:3
+the revolving doors	37ki	
+the rhythm remains the same	63re	
+thinktanks	598	
+transurethral resection of bladder tumor	ar0	
+tulua	1kh4	
+umaglesi liga	no7	
+united principalities	12p5	12p5:6
+united principalities of		12p5:6
+united principalities of moldavia		12p5:6
+united principalities of moldavia and		12p5:6
+united principalities of moldavia and wallachia	12p5	
+university karachi	6tk	
+vilh bjerke petersen	5427	
+villamartin	2jgm	
+villamartin cadiz	2jgm	
+villamartin spain	2jgm	
+villemoisan	3pqx	
+villesequelande	3i6l	
+winnetou		45s9:4,4xux:4
+winnetou 1 teil	1uzg	
+winnetou 1963 film	1uzg	
+winnetou 2	1n8e	
+winnetou 2 teil	1n8e	
+winnetou 3 teil	1ozi	
+winnetou and		45s9:4,4xux:4
+winnetou and old		45s9:4
+winnetou and old firehand	45s9	
+winnetou and shatterhand in the valley of death	508s	
+winnetou and the		4xux:4
+winnetou and the crossbreed	4xux	
+winnetou ii	1n8e	
+winnetou last of the renegades	1n8e	
+winnetou und das halbblut apanatschi	4xux	
+winnetou und sein freund old firehand	45s9	
+winnetou und shatterhand im tal der toten	508s	
+wisam abd al rahman ahmed	1by1	
+yansheng yang	6ch1	
+yermasoyia	3vtg	
+yermasoyia cyprus	3vtg	
+yishak	1qs7	

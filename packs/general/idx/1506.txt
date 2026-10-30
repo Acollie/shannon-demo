@@ -1,0 +1,252 @@
+15kv ac	5sw	
+1932	1an3	x1:3,4te:3,5smp:2
+1932 ad	1an3	
+1932 ce	1an3	
+1932 ekstraklasa	5smp	
+1932 lake placid	4te	
+1932 lake placid olympics	4te	
+1932 los angeles	x1	
+1932 los angeles olympics	x1	
+1932 olympic winter games	4te	
+1932 summer		x1:3
+1932 summer olympic games	x1	
+1932 summer olympics	x1	
+1932 winter		4te:3
+1932 winter games	4te	
+1932 winter olympic games	4te	
+1932 winter olympics	4te	
+1932 year	1an3	
+a 24 biniville	3f0o	
+aatami	k7	
+acheh	bx7	
+adelbert		z5f:4,2wi2:2,3r7t:3,5zro:3
+adelbert ames	2wi2	
+adelbert chamisso	3r7t	
+adelbert college	1y8	
+adelbert von		z5f:4,3r7t:3,5zro:3
+adelbert von chamisso	3r7t	z5f:4
+adelbert von chamisso award	z5f	
+adelbert von chamisso preis	z5f	
+adelbert von chamisso prize	z5f	
+adelbert von keller	5zro	
+alexander jaimie	28nw	
+ambassadress	1xh	
+anantapoor	2zi4	
+arghakhanchi	qg5	qg5:2
+arghakhanchi district	qg5	
+asinusca	6s8	
+asinusca atricornis	6s8	
+baxley	2xvj	
+baxley ga	2xvj	
+baxley georgia	2xvj	
+caton andrew	5x5t	
+caton jones michael	4s9e	
+caton michael	5ydz	
+cephalopholis	69ho	
+christmill	z6c	
+colbert		1178:2,53of:2
+colbert clark	53of	
+colbert co al	1178	
+colbert co alabama	1178	
+colbert colmes	1xa1	
+colbert county	1178	
+colbert county al	1178	
+colbert county alabama	1178	
+colbert it	1xa1	
+colbert report	1xa1	1xa1:3
+colbert s ordinance of trade	1736	
+colbert stephen	10wj	
+conchulan	1s1l	
+coon bear	q2k	
+coon butte	6gru	
+coon lakes	znz	
+coon mountain	6gru	
+coudraysiens	1ldy	
+cruilles		1dj9:8
+cruilles monells		1dj9:8
+cruilles monells i		1dj9:8
+cruilles monells i sant		1dj9:8
+cruilles monells i sant sadurni		1dj9:8
+cruilles monells i sant sadurni de		1dj9:8
+cruilles monells i sant sadurni de l		1dj9:8
+cruilles monells i sant sadurni de l heura	1dj9	
+daggerfall	6gg8	
+danmaku	1fy	
+dechamps charles	260q	
+doltcinivan eyck sport uci women cycling	1k5w	
+eddriwesh province	l6a	
+enchantment under the sea	nlr	
+equities analyst	25ko	
+etaimpuis	22fc	
+exquisite sinner	5bjk	5bjk:3
+finian		3954:3
+finian s		3954:3
+finian s rainbow	3954	
+finian s rainbow film	3954	
+fonciere euris	4yr1	
+foxcroft maine	419l	
+gaoth		2oz7:2
+gaoth dobhair	2oz7	
+gaoth dobhair county donegal	2oz7	
+ginsing family	2jut	
+goldfrapp	wx7	
+goldfrapp singles	wx7	
+goldfrapp tour	wx7	
+gonzales	25h9,5p6n	440b:2
+gonzales county	440b	
+gonzales county texas	440b	
+gonzales county tx	440b	
+gonzales musician	5p6n	
+gonzales surname	28k	
+gonzales texas	25h9	
+gonzales tx	25h9	
+grossouvre	3bgq	
+guardistallo	4e7v	
+guhanmalgi	1s68	
+gulielmus shakspere	29i	
+gvim	3vho	
+gyanedra	335y	
+henie sonja	1138	
+herzfelde	5jd3	
+herzfelde heartfield	4iuy	
+holigreg	30j	
+holigreg doc	30j	
+honorius	2po8	
+honorius emperor	2po8	
+honorius plant	60yj	
+hufflepuff	6gd1	
+ieshua	6565	
+ingolf		2pex:2
+ingolf gabold	2pex	
+ingolf ontario	12cy	
+inky sukky	3fo6	
+innokenty		wm0:2,4jwi:2
+innokenty annensky	4jwi	
+innokenty feodorovich annensky	4jwi	
+innokenty fyodorovich annensky	4jwi	
+innokenty mikhaylovich smoktunovsky	wm0	
+innokenty petrovich gerasimov	363r	
+innokenty smoktunovsky	wm0	
+jasir		5iak:2
+jasir selmani	5iak	
+jewgenij abramovich baratynski	5d0c	
+jewgenij jewgenjewitsch lanssere	3yz9	
+jewgenij schwarz	29ka	
+kojetein	ypi	
+kraftwerk	p01	
+kraftwerk comments	p01	
+kraftwerk tour de france soundtracks	4yw7	
+kulturkanonen	1jxj	
+mahaboob nagar	471q	
+mahaboob nagar district	16aw	
+mandolinen und mondschein	63cp	
+maruku ribu	4gpt	
+masarykism	wt6	
+mellanaise	3ofy	
+merides	9mz	
+microarthropod	1fv8	
+milicent	36un	
+mitte	c6h	
+mitte berlin	c6h	
+mitte ende august ost	1uyq	
+mitte landstrae vienna u bahn	4529	
+mitte locality	btl	
+montigne	48m6	2k2g:3
+montigne le		2k2g:3
+montigne le brillant	2k2g	
+muto toho	td9	
+narp	319s	
+narricanese bay	6fse	
+nizamshah	463n	
+oisterwyk	1v5p	
+osanai kaoru	5kvd	
+ottignie	1d4s	
+ottignie louvain la neuve	1d4s	
+panchaghar	4970	
+panchaghar district	4970	
+panhandle		4typ:2
+panhandle 38	4typ	
+panhandle calibre 38	4typ	
+pirini scleroso	13wo	
+platanisteia	5nb9	
+pouy		1zkm:3,2x9l:2,2ym9:2
+pouy de		1zkm:3
+pouy de touges	1zkm	
+pouy loubrin	2x9l	
+pouy roquelaure	2ym9	
+ptran	6s4	
+pyrenaean	50n	
+repco brabham	3sd3	
+repco brabham bt10	3sd3	
+repco brabham bt16	3sd3	
+repco brabham bt7a	3sd3	
+robert maertens	61pg	
+robert stopford	4e6u	
+robert stopford naval officer	4e6u	
+robert stopford royal navy officer	4e6u	
+salzland	13fj	
+salzland district	13fj	
+sarnen	15m9	
+sarnen obwalden	15m9	
+sarnen ow	15m9	
+sarnen switzerland	15m9	
+sbv excelsior	4o5	
+sbv vitesse	45m	
+sbv vitesse arnhem	45m	
+scalable processor architecture	47bh	
+scalable vector graphic	2u6w	
+scalable vector graphics	2u6w	
+screeching		1jjk:2
+screeching weasel	1jjk	
+screeching weasels	1jjk	
+seignelay	32ke	
+sixten		3y9w:2,4738:2,67me:2
+sixten bostrom	4738	
+sixten jernberg	3y9w	
+sixten veit	67me	
+sqiv	63ze	
+sverdlovskaja oblast	a19	
+talkshow	3t4	
+tanooki suit	1cy6	
+the celestial singer	2mn5	
+the mason bee genus	19dt	
+the uncanny		6hcl:4
+the uncanny x		6hcl:4
+the uncanny x men	6hcl	
+the uncanny x men video game	6hcl	
+thiernu	2h8a	
+toroto	2pwd	
+turf accountant	1ehm	
+turf patron	1a3	
+unseld	1vds	
+uomini contro	35qv	
+uomini duri	14r6	
+uomini e lupi	4xqv	
+uomini e nobiluomini	4ge5	
+uomini senza pace	5jkb	
+uomini si nasce poliziotti si muore	22hn	
+upham elementary school	n2q	
+vakilabad		4j1d:3
+vakilabad rural		4j1d:3
+vakilabad rural district	4j1d	
+valdepielago	4g1z	
+valdepielago leon	4g1z	
+valdepielago spain	4g1z	
+varsa usgaonkar	5eez	
+villecourt	2c7p	
+villemareuil	1i6y	
+wakeen pheonix	hw0	
+watsuji	48on	
+watsuji tetsuro	48on	
+watsuji tetsurou	48on	
+weisstatten	1xs6	
+william worth belknap	3j0o	
+xamontarupt	2e74	
+yuval		3kgr:3,4t2x:3,5ogf:2
+yuval avidor	5ogf	
+yuval harari	4t2x	
+yuval ne		3kgr:3
+yuval ne eman	3kgr	
+yuval neeman	3kgr	
+yuval noah		4t2x:3
+yuval noah harari	4t2x	

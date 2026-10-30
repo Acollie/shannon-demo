@@ -1,0 +1,7266 @@
+{
+ "format": "shannon-pack/2",
+ "id": "general",
+ "kind": "wikidata-sharded",
+ "title": "General knowledge (Wikidata)",
+ "description": "A 303k-entity core of Wikidata: people, places, works, organisations, with dates and quantities.",
+ "license": "CC0 1.0 (Wikidata data); see LICENSE.txt",
+ "attribution": "Facts and labels from Wikidata (CC0), selected through Wikidata5M (Wang et al., 2021).",
+ "relations": [
+  {
+   "id": "P31",
+   "label": "instance of",
+   "inverse_label": "\u2190 instance of"
+  },
+  {
+   "id": "P1412",
+   "label": "languages spoken, written or signed",
+   "inverse_label": "languages spoken, written or signed of"
+  },
+  {
+   "id": "P57",
+   "label": "director",
+   "inverse_label": "director of"
+  },
+  {
+   "id": "P27",
+   "label": "country of citizenship",
+   "inverse_label": "country of citizenship of"
+  },
+  {
+   "id": "P54",
+   "label": "member of sports team",
+   "inverse_label": "member of sports team of"
+  },
+  {
+   "id": "P131",
+   "label": "located in the administrative territorial entity",
+   "inverse_label": "located in the administrative territorial entity of"
+  },
+  {
+   "id": "P19",
+   "label": "place of birth",
+   "inverse_label": "place of birth of"
+  },
+  {
+   "id": "P156",
+   "label": "followed by",
+   "inverse_label": "\u2190 followed by"
+  },
+  {
+   "id": "P161",
+   "label": "cast member",
+   "inverse_label": "cast member of"
+  },
+  {
+   "id": "P608",
+   "label": "exhibition history",
+   "inverse_label": "exhibition history of"
+  },
+  {
+   "id": "P106",
+   "label": "occupation",
+   "inverse_label": "occupation of"
+  },
+  {
+   "id": "P735",
+   "label": "given name",
+   "inverse_label": "given name of"
+  },
+  {
+   "id": "P20",
+   "label": "place of death",
+   "inverse_label": "place of death of"
+  },
+  {
+   "id": "P69",
+   "label": "educated at",
+   "inverse_label": "\u2190 educated at"
+  },
+  {
+   "id": "P105",
+   "label": "taxon rank",
+   "inverse_label": "taxon rank of"
+  },
+  {
+   "id": "P17",
+   "label": "country",
+   "inverse_label": "country of"
+  },
+  {
+   "id": "P641",
+   "label": "sport",
+   "inverse_label": "sport of"
+  },
+  {
+   "id": "P155",
+   "label": "follows",
+   "inverse_label": "follows of"
+  },
+  {
+   "id": "P39",
+   "label": "position held",
+   "inverse_label": "position held of"
+  },
+  {
+   "id": "P53",
+   "label": "family",
+   "inverse_label": "family of"
+  },
+  {
+   "id": "P421",
+   "label": "located in time zone",
+   "inverse_label": "located in time zone of"
+  },
+  {
+   "id": "P463",
+   "label": "member of",
+   "inverse_label": "\u2190 member of"
+  },
+  {
+   "id": "P190",
+   "label": "twinned administrative body",
+   "inverse_label": "twinned administrative body of"
+  },
+  {
+   "id": "P364",
+   "label": "original language of film or TV show",
+   "inverse_label": "original language of film or TV show of"
+  },
+  {
+   "id": "P47",
+   "label": "shares border with",
+   "inverse_label": "\u2190 shares border with"
+  },
+  {
+   "id": "P176",
+   "label": "manufacturer",
+   "inverse_label": "manufacturer of"
+  },
+  {
+   "id": "P36",
+   "label": "capital",
+   "inverse_label": "capital of"
+  },
+  {
+   "id": "P86",
+   "label": "composer",
+   "inverse_label": "composer of"
+  },
+  {
+   "id": "P361",
+   "label": "part of",
+   "inverse_label": "\u2190 part of"
+  },
+  {
+   "id": "P180",
+   "label": "depicts",
+   "inverse_label": "depicts of"
+  },
+  {
+   "id": "P1346",
+   "label": "winner",
+   "inverse_label": "winner of"
+  },
+  {
+   "id": "P921",
+   "label": "main subject",
+   "inverse_label": "main subject of"
+  },
+  {
+   "id": "P119",
+   "label": "place of burial",
+   "inverse_label": "place of burial of"
+  },
+  {
+   "id": "P413",
+   "label": "position played on team / speciality",
+   "inverse_label": "position played on team / speciality of"
+  },
+  {
+   "id": "P1056",
+   "label": "product or material produced",
+   "inverse_label": "product or material produced of"
+  },
+  {
+   "id": "P495",
+   "label": "country of origin",
+   "inverse_label": "country of origin of"
+  },
+  {
+   "id": "P115",
+   "label": "home venue",
+   "inverse_label": "home venue of"
+  },
+  {
+   "id": "P175",
+   "label": "performer",
+   "inverse_label": "performer of"
+  },
+  {
+   "id": "P136",
+   "label": "genre",
+   "inverse_label": "genre of"
+  },
+  {
+   "id": "P607",
+   "label": "conflict",
+   "inverse_label": "conflict of"
+  },
+  {
+   "id": "P166",
+   "label": "award received",
+   "inverse_label": "award received of"
+  },
+  {
+   "id": "P417",
+   "label": "patron saint",
+   "inverse_label": "patron saint of"
+  },
+  {
+   "id": "P1344",
+   "label": "participant of",
+   "inverse_label": "\u2190 participant of"
+  },
+  {
+   "id": "P40",
+   "label": "child",
+   "inverse_label": "child of"
+  },
+  {
+   "id": "P84",
+   "label": "architect",
+   "inverse_label": "architect of"
+  },
+  {
+   "id": "P750",
+   "label": "distributor",
+   "inverse_label": "distributor of"
+  },
+  {
+   "id": "P289",
+   "label": "vessel class",
+   "inverse_label": "vessel class of"
+  },
+  {
+   "id": "P375",
+   "label": "space launch vehicle",
+   "inverse_label": "space launch vehicle of"
+  },
+  {
+   "id": "P141",
+   "label": "IUCN conservation status",
+   "inverse_label": "IUCN conservation status of"
+  },
+  {
+   "id": "P123",
+   "label": "publisher",
+   "inverse_label": "publisher of"
+  },
+  {
+   "id": "P279",
+   "label": "subclass of",
+   "inverse_label": "\u2190 subclass of"
+  },
+  {
+   "id": "P1376",
+   "label": "capital of",
+   "inverse_label": "\u2190 capital of"
+  },
+  {
+   "id": "P734",
+   "label": "family name",
+   "inverse_label": "family name of"
+  },
+  {
+   "id": "P50",
+   "label": "author",
+   "inverse_label": "author of"
+  },
+  {
+   "id": "P2597",
+   "label": "Gram staining",
+   "inverse_label": "Gram staining of"
+  },
+  {
+   "id": "P360",
+   "label": "is a list of",
+   "inverse_label": "\u2190 is a list of"
+  },
+  {
+   "id": "P1411",
+   "label": "nominated for",
+   "inverse_label": "\u2190 nominated for"
+  },
+  {
+   "id": "P118",
+   "label": "league",
+   "inverse_label": "league of"
+  },
+  {
+   "id": "P937",
+   "label": "work location",
+   "inverse_label": "work location of"
+  },
+  {
+   "id": "P102",
+   "label": "member of political party",
+   "inverse_label": "member of political party of"
+  },
+  {
+   "id": "P26",
+   "label": "spouse",
+   "inverse_label": "spouse of"
+  },
+  {
+   "id": "P150",
+   "label": "contains administrative territorial entity",
+   "inverse_label": "contains administrative territorial entity of"
+  },
+  {
+   "id": "P138",
+   "label": "named after",
+   "inverse_label": "named after of"
+  },
+  {
+   "id": "P870",
+   "label": "instrumentation",
+   "inverse_label": "instrumentation of"
+  },
+  {
+   "id": "P103",
+   "label": "native language",
+   "inverse_label": "native language of"
+  },
+  {
+   "id": "P137",
+   "label": "operator",
+   "inverse_label": "operator of"
+  },
+  {
+   "id": "P171",
+   "label": "parent taxon",
+   "inverse_label": "parent taxon of"
+  },
+  {
+   "id": "P3450",
+   "label": "sports season of league or competition",
+   "inverse_label": "sports season of league or competition of"
+  },
+  {
+   "id": "P58",
+   "label": "screenwriter",
+   "inverse_label": "screenwriter of"
+  },
+  {
+   "id": "P609",
+   "label": "terminus location",
+   "inverse_label": "terminus location of"
+  },
+  {
+   "id": "P81",
+   "label": "connecting line",
+   "inverse_label": "connecting line of"
+  },
+  {
+   "id": "P1142",
+   "label": "political ideology",
+   "inverse_label": "political ideology of"
+  },
+  {
+   "id": "P2348",
+   "label": "time period",
+   "inverse_label": "time period of"
+  },
+  {
+   "id": "P170",
+   "label": "creator",
+   "inverse_label": "creator of"
+  },
+  {
+   "id": "P264",
+   "label": "record label",
+   "inverse_label": "record label of"
+  },
+  {
+   "id": "P449",
+   "label": "original network",
+   "inverse_label": "original network of"
+  },
+  {
+   "id": "P410",
+   "label": "military rank",
+   "inverse_label": "military rank of"
+  },
+  {
+   "id": "P1040",
+   "label": "film editor",
+   "inverse_label": "film editor of"
+  },
+  {
+   "id": "P30",
+   "label": "continent",
+   "inverse_label": "continent of"
+  },
+  {
+   "id": "P241",
+   "label": "military branch",
+   "inverse_label": "military branch of"
+  },
+  {
+   "id": "P437",
+   "label": "distribution format",
+   "inverse_label": "distribution format of"
+  },
+  {
+   "id": "P793",
+   "label": "significant event",
+   "inverse_label": "significant event of"
+  },
+  {
+   "id": "P108",
+   "label": "employer",
+   "inverse_label": "employer of"
+  },
+  {
+   "id": "P1303",
+   "label": "instrument",
+   "inverse_label": "instrument of"
+  },
+  {
+   "id": "P404",
+   "label": "game mode",
+   "inverse_label": "game mode of"
+  },
+  {
+   "id": "P450",
+   "label": "astronaut mission",
+   "inverse_label": "astronaut mission of"
+  },
+  {
+   "id": "P183",
+   "label": "endemic to",
+   "inverse_label": "\u2190 endemic to"
+  },
+  {
+   "id": "P1196",
+   "label": "manner of death",
+   "inverse_label": "manner of death of"
+  },
+  {
+   "id": "P1073",
+   "label": "writable file format",
+   "inverse_label": "writable file format of"
+  },
+  {
+   "id": "P2554",
+   "label": "production designer",
+   "inverse_label": "production designer of"
+  },
+  {
+   "id": "P407",
+   "label": "language of work or name",
+   "inverse_label": "language of work or name of"
+  },
+  {
+   "id": "P127",
+   "label": "owned by",
+   "inverse_label": "\u2190 owned by"
+  },
+  {
+   "id": "P3373",
+   "label": "sibling",
+   "inverse_label": "sibling of"
+  },
+  {
+   "id": "P2094",
+   "label": "competition class",
+   "inverse_label": "competition class of"
+  },
+  {
+   "id": "P800",
+   "label": "notable work",
+   "inverse_label": "notable work of"
+  },
+  {
+   "id": "P527",
+   "label": "has part",
+   "inverse_label": "\u2190 has part"
+  },
+  {
+   "id": "P22",
+   "label": "father",
+   "inverse_label": "father of"
+  },
+  {
+   "id": "P400",
+   "label": "platform",
+   "inverse_label": "platform of"
+  },
+  {
+   "id": "P25",
+   "label": "mother",
+   "inverse_label": "mother of"
+  },
+  {
+   "id": "P2505",
+   "label": "carries",
+   "inverse_label": "carries of"
+  },
+  {
+   "id": "P669",
+   "label": "located on street",
+   "inverse_label": "located on street of"
+  },
+  {
+   "id": "P1889",
+   "label": "different from",
+   "inverse_label": "\u2190 different from"
+  },
+  {
+   "id": "P276",
+   "label": "location",
+   "inverse_label": "location of"
+  },
+  {
+   "id": "P840",
+   "label": "narrative location",
+   "inverse_label": "narrative location of"
+  },
+  {
+   "id": "P1343",
+   "label": "described by source",
+   "inverse_label": "described by source of"
+  },
+  {
+   "id": "P479",
+   "label": "input method",
+   "inverse_label": "input method of"
+  },
+  {
+   "id": "P178",
+   "label": "developer",
+   "inverse_label": "developer of"
+  },
+  {
+   "id": "P1269",
+   "label": "facet of",
+   "inverse_label": "\u2190 facet of"
+  },
+  {
+   "id": "P509",
+   "label": "cause of death",
+   "inverse_label": "cause of death of"
+  },
+  {
+   "id": "P172",
+   "label": "ethnic group",
+   "inverse_label": "ethnic group of"
+  },
+  {
+   "id": "P126",
+   "label": "maintained by",
+   "inverse_label": "\u2190 maintained by"
+  },
+  {
+   "id": "P1066",
+   "label": "student of",
+   "inverse_label": "\u2190 student of"
+  },
+  {
+   "id": "P101",
+   "label": "field of work",
+   "inverse_label": "field of work of"
+  },
+  {
+   "id": "P1057",
+   "label": "chromosome",
+   "inverse_label": "chromosome of"
+  },
+  {
+   "id": "P403",
+   "label": "mouth of the watercourse",
+   "inverse_label": "mouth of the watercourse of"
+  },
+  {
+   "id": "P272",
+   "label": "production company",
+   "inverse_label": "production company of"
+  },
+  {
+   "id": "P2293",
+   "label": "genetic association",
+   "inverse_label": "genetic association of"
+  },
+  {
+   "id": "P162",
+   "label": "producer",
+   "inverse_label": "producer of"
+  },
+  {
+   "id": "P16",
+   "label": "highway system",
+   "inverse_label": "highway system of"
+  },
+  {
+   "id": "P97",
+   "label": "noble title",
+   "inverse_label": "noble title of"
+  },
+  {
+   "id": "P344",
+   "label": "director of photography",
+   "inverse_label": "director of photography of"
+  },
+  {
+   "id": "P286",
+   "label": "head coach",
+   "inverse_label": "head coach of"
+  },
+  {
+   "id": "P3018",
+   "label": "located in protected area",
+   "inverse_label": "located in protected area of"
+  },
+  {
+   "id": "P1435",
+   "label": "heritage designation",
+   "inverse_label": "heritage designation of"
+  },
+  {
+   "id": "P466",
+   "label": "occupant",
+   "inverse_label": "occupant of"
+  },
+  {
+   "id": "P749",
+   "label": "parent organization",
+   "inverse_label": "parent organization of"
+  },
+  {
+   "id": "P710",
+   "label": "participant",
+   "inverse_label": "participant of"
+  },
+  {
+   "id": "P4312",
+   "label": "camera setup",
+   "inverse_label": "camera setup of"
+  },
+  {
+   "id": "P197",
+   "label": "adjacent station",
+   "inverse_label": "adjacent station of"
+  },
+  {
+   "id": "P412",
+   "label": "voice type",
+   "inverse_label": "voice type of"
+  },
+  {
+   "id": "P740",
+   "label": "location of formation",
+   "inverse_label": "location of formation of"
+  },
+  {
+   "id": "P112",
+   "label": "founded by",
+   "inverse_label": "\u2190 founded by"
+  },
+  {
+   "id": "P1064",
+   "label": "track gauge",
+   "inverse_label": "track gauge of"
+  },
+  {
+   "id": "P1462",
+   "label": "standards body",
+   "inverse_label": "standards body of"
+  },
+  {
+   "id": "P1037",
+   "label": "director/manager",
+   "inverse_label": "director/manager of"
+  },
+  {
+   "id": "P366",
+   "label": "use",
+   "inverse_label": "use of"
+  },
+  {
+   "id": "P159",
+   "label": "headquarters location",
+   "inverse_label": "headquarters location of"
+  },
+  {
+   "id": "P2416",
+   "label": "sports discipline competed in",
+   "inverse_label": "\u2190 sports discipline competed in"
+  },
+  {
+   "id": "P59",
+   "label": "constellation",
+   "inverse_label": "constellation of"
+  },
+  {
+   "id": "P194",
+   "label": "legislative body",
+   "inverse_label": "legislative body of"
+  },
+  {
+   "id": "P2439",
+   "label": "P2439",
+   "inverse_label": "P2439 of"
+  },
+  {
+   "id": "P462",
+   "label": "color",
+   "inverse_label": "color of"
+  },
+  {
+   "id": "P460",
+   "label": "said to be the same as",
+   "inverse_label": "\u2190 said to be the same as"
+  },
+  {
+   "id": "P4000",
+   "label": "has fruit type",
+   "inverse_label": "\u2190 has fruit type"
+  },
+  {
+   "id": "P769",
+   "label": "significant drug interaction",
+   "inverse_label": "significant drug interaction of"
+  },
+  {
+   "id": "P706",
+   "label": "located on terrain feature",
+   "inverse_label": "located on terrain feature of"
+  },
+  {
+   "id": "P1441",
+   "label": "present in work",
+   "inverse_label": "present in work of"
+  },
+  {
+   "id": "P206",
+   "label": "located in or next to body of water",
+   "inverse_label": "located in or next to body of water of"
+  },
+  {
+   "id": "P931",
+   "label": "place served by transport hub",
+   "inverse_label": "place served by transport hub of"
+  },
+  {
+   "id": "P1302",
+   "label": "primary destinations",
+   "inverse_label": "primary destinations of"
+  },
+  {
+   "id": "P1830",
+   "label": "owner of",
+   "inverse_label": "\u2190 owner of"
+  },
+  {
+   "id": "P287",
+   "label": "designed by",
+   "inverse_label": "\u2190 designed by"
+  },
+  {
+   "id": "P1001",
+   "label": "applies to jurisdiction",
+   "inverse_label": "applies to jurisdiction of"
+  },
+  {
+   "id": "P35",
+   "label": "head of state",
+   "inverse_label": "head of state of"
+  },
+  {
+   "id": "P1050",
+   "label": "medical condition",
+   "inverse_label": "medical condition of"
+  },
+  {
+   "id": "P1990",
+   "label": "species kept",
+   "inverse_label": "species kept of"
+  },
+  {
+   "id": "P664",
+   "label": "organizer",
+   "inverse_label": "organizer of"
+  },
+  {
+   "id": "P140",
+   "label": "religion",
+   "inverse_label": "religion of"
+  },
+  {
+   "id": "P674",
+   "label": "characters",
+   "inverse_label": "characters of"
+  },
+  {
+   "id": "P1596",
+   "label": "penalty",
+   "inverse_label": "penalty of"
+  },
+  {
+   "id": "P739",
+   "label": "ammunition",
+   "inverse_label": "ammunition of"
+  },
+  {
+   "id": "P38",
+   "label": "currency",
+   "inverse_label": "currency of"
+  },
+  {
+   "id": "P1313",
+   "label": "office held by head of government",
+   "inverse_label": "office held by head of government of"
+  },
+  {
+   "id": "P1399",
+   "label": "convicted of",
+   "inverse_label": "\u2190 convicted of"
+  },
+  {
+   "id": "P282",
+   "label": "writing system",
+   "inverse_label": "writing system of"
+  },
+  {
+   "id": "P1923",
+   "label": "participating team",
+   "inverse_label": "participating team of"
+  },
+  {
+   "id": "P1885",
+   "label": "cathedral",
+   "inverse_label": "cathedral of"
+  },
+  {
+   "id": "P915",
+   "label": "filming location",
+   "inverse_label": "filming location of"
+  },
+  {
+   "id": "P1454",
+   "label": "legal form",
+   "inverse_label": "legal form of"
+  },
+  {
+   "id": "P2564",
+   "label": "K\u00f6ppen climate classification",
+   "inverse_label": "K\u00f6ppen climate classification of"
+  },
+  {
+   "id": "P551",
+   "label": "residence",
+   "inverse_label": "residence of"
+  },
+  {
+   "id": "P2596",
+   "label": "culture",
+   "inverse_label": "culture of"
+  },
+  {
+   "id": "P149",
+   "label": "architectural style",
+   "inverse_label": "architectural style of"
+  },
+  {
+   "id": "P277",
+   "label": "programming language",
+   "inverse_label": "programming language of"
+  },
+  {
+   "id": "P541",
+   "label": "office contested",
+   "inverse_label": "office contested of"
+  },
+  {
+   "id": "P179",
+   "label": "part of the series",
+   "inverse_label": "part of the series of"
+  },
+  {
+   "id": "P452",
+   "label": "industry",
+   "inverse_label": "industry of"
+  },
+  {
+   "id": "P2632",
+   "label": "place of detention",
+   "inverse_label": "place of detention of"
+  },
+  {
+   "id": "P1347",
+   "label": "military casualty classification",
+   "inverse_label": "military casualty classification of"
+  },
+  {
+   "id": "P1444",
+   "label": "destination point",
+   "inverse_label": "destination point of"
+  },
+  {
+   "id": "P355",
+   "label": "subsidiary",
+   "inverse_label": "subsidiary of"
+  },
+  {
+   "id": "P177",
+   "label": "crosses",
+   "inverse_label": "crosses of"
+  },
+  {
+   "id": "P2936",
+   "label": "language used",
+   "inverse_label": "language used of"
+  },
+  {
+   "id": "P1027",
+   "label": "conferred by",
+   "inverse_label": "\u2190 conferred by"
+  },
+  {
+   "id": "P991",
+   "label": "successful candidate",
+   "inverse_label": "successful candidate of"
+  },
+  {
+   "id": "P520",
+   "label": "armament",
+   "inverse_label": "armament of"
+  },
+  {
+   "id": "P467",
+   "label": "legislated by",
+   "inverse_label": "\u2190 legislated by"
+  },
+  {
+   "id": "P3022",
+   "label": "flag bearer",
+   "inverse_label": "flag bearer of"
+  },
+  {
+   "id": "P113",
+   "label": "airline hub",
+   "inverse_label": "airline hub of"
+  },
+  {
+   "id": "P275",
+   "label": "license",
+   "inverse_label": "license of"
+  },
+  {
+   "id": "P1552",
+   "label": "has quality",
+   "inverse_label": "\u2190 has quality"
+  },
+  {
+   "id": "P556",
+   "label": "crystal system",
+   "inverse_label": "crystal system of"
+  },
+  {
+   "id": "P1408",
+   "label": "licensed to broadcast to",
+   "inverse_label": "\u2190 licensed to broadcast to"
+  },
+  {
+   "id": "P708",
+   "label": "diocese",
+   "inverse_label": "diocese of"
+  },
+  {
+   "id": "P837",
+   "label": "day in year for periodic occurrence",
+   "inverse_label": "day in year for periodic occurrence of"
+  },
+  {
+   "id": "P3491",
+   "label": "muscle insertion",
+   "inverse_label": "muscle insertion of"
+  },
+  {
+   "id": "P3137",
+   "label": "parent peak",
+   "inverse_label": "parent peak of"
+  },
+  {
+   "id": "P61",
+   "label": "discoverer or inventor",
+   "inverse_label": "discoverer or inventor of"
+  },
+  {
+   "id": "P930",
+   "label": "type of electrification",
+   "inverse_label": "type of electrification of"
+  },
+  {
+   "id": "P200",
+   "label": "lake inflows",
+   "inverse_label": "lake inflows of"
+  },
+  {
+   "id": "P193",
+   "label": "main building contractor",
+   "inverse_label": "main building contractor of"
+  },
+  {
+   "id": "P783",
+   "label": "hymenium type",
+   "inverse_label": "hymenium type of"
+  },
+  {
+   "id": "P186",
+   "label": "material used",
+   "inverse_label": "material used of"
+  },
+  {
+   "id": "P1029",
+   "label": "crew member",
+   "inverse_label": "crew member of"
+  },
+  {
+   "id": "P144",
+   "label": "based on",
+   "inverse_label": "\u2190 based on"
+  },
+  {
+   "id": "P1327",
+   "label": "partner in business or sport",
+   "inverse_label": "partner in business or sport of"
+  },
+  {
+   "id": "P488",
+   "label": "chairperson",
+   "inverse_label": "chairperson of"
+  },
+  {
+   "id": "P306",
+   "label": "operating system",
+   "inverse_label": "operating system of"
+  },
+  {
+   "id": "P1312",
+   "label": "has facet polytope",
+   "inverse_label": "\u2190 has facet polytope"
+  },
+  {
+   "id": "P451",
+   "label": "Partner",
+   "inverse_label": "Partner of"
+  },
+  {
+   "id": "P91",
+   "label": "sexual orientation",
+   "inverse_label": "sexual orientation of"
+  },
+  {
+   "id": "P1383",
+   "label": "contains settlement",
+   "inverse_label": "contains settlement of"
+  },
+  {
+   "id": "P725",
+   "label": "voice actor",
+   "inverse_label": "voice actor of"
+  },
+  {
+   "id": "P611",
+   "label": "religious order",
+   "inverse_label": "religious order of"
+  },
+  {
+   "id": "P618",
+   "label": "source of energy",
+   "inverse_label": "source of energy of"
+  },
+  {
+   "id": "P676",
+   "label": "lyrics by",
+   "inverse_label": "\u2190 lyrics by"
+  },
+  {
+   "id": "P1995",
+   "label": "health specialty",
+   "inverse_label": "health specialty of"
+  },
+  {
+   "id": "P1598",
+   "label": "consecrator",
+   "inverse_label": "consecrator of"
+  },
+  {
+   "id": "P195",
+   "label": "collection",
+   "inverse_label": "collection of"
+  },
+  {
+   "id": "P1414",
+   "label": "GUI toolkit or framework",
+   "inverse_label": "GUI toolkit or framework of"
+  },
+  {
+   "id": "P703",
+   "label": "found in taxon",
+   "inverse_label": "found in taxon of"
+  },
+  {
+   "id": "P65",
+   "label": "site of astronomical discovery",
+   "inverse_label": "site of astronomical discovery of"
+  },
+  {
+   "id": "P945",
+   "label": "allegiance",
+   "inverse_label": "allegiance of"
+  },
+  {
+   "id": "P974",
+   "label": "tributary",
+   "inverse_label": "tributary of"
+  },
+  {
+   "id": "P1962",
+   "label": "P1962",
+   "inverse_label": "P1962 of"
+  },
+  {
+   "id": "P504",
+   "label": "home port",
+   "inverse_label": "home port of"
+  },
+  {
+   "id": "P859",
+   "label": "sponsor",
+   "inverse_label": "sponsor of"
+  },
+  {
+   "id": "P1716",
+   "label": "brand",
+   "inverse_label": "brand of"
+  },
+  {
+   "id": "P358",
+   "label": "discography",
+   "inverse_label": "discography of"
+  },
+  {
+   "id": "P3092",
+   "label": "film crew member",
+   "inverse_label": "film crew member of"
+  },
+  {
+   "id": "P516",
+   "label": "powered by",
+   "inverse_label": "\u2190 powered by"
+  },
+  {
+   "id": "P737",
+   "label": "influenced by",
+   "inverse_label": "\u2190 influenced by"
+  },
+  {
+   "id": "P2175",
+   "label": "medical condition treated",
+   "inverse_label": "medical condition treated of"
+  },
+  {
+   "id": "P512",
+   "label": "academic degree",
+   "inverse_label": "academic degree of"
+  },
+  {
+   "id": "P610",
+   "label": "highest point",
+   "inverse_label": "highest point of"
+  },
+  {
+   "id": "P461",
+   "label": "opposite of",
+   "inverse_label": "\u2190 opposite of"
+  },
+  {
+   "id": "P885",
+   "label": "origin of the watercourse",
+   "inverse_label": "origin of the watercourse of"
+  },
+  {
+   "id": "P2545",
+   "label": "bowling style",
+   "inverse_label": "bowling style of"
+  },
+  {
+   "id": "P2882",
+   "label": "relegated",
+   "inverse_label": "relegated of"
+  },
+  {
+   "id": "P2061",
+   "label": "aspect ratio",
+   "inverse_label": "aspect ratio of"
+  },
+  {
+   "id": "P371",
+   "label": "presenter",
+   "inverse_label": "presenter of"
+  },
+  {
+   "id": "P530",
+   "label": "diplomatic relation",
+   "inverse_label": "diplomatic relation of"
+  },
+  {
+   "id": "P414",
+   "label": "stock exchange",
+   "inverse_label": "stock exchange of"
+  },
+  {
+   "id": "P1308",
+   "label": "officeholder",
+   "inverse_label": "officeholder of"
+  },
+  {
+   "id": "P196",
+   "label": "minor planet group",
+   "inverse_label": "minor planet group of"
+  },
+  {
+   "id": "P826",
+   "label": "tonality",
+   "inverse_label": "tonality of"
+  },
+  {
+   "id": "P2358",
+   "label": "Roman praenomen",
+   "inverse_label": "Roman praenomen of"
+  },
+  {
+   "id": "P2962",
+   "label": "title of chess person",
+   "inverse_label": "title of chess person of"
+  },
+  {
+   "id": "P1071",
+   "label": "location of final assembly",
+   "inverse_label": "location of final assembly of"
+  },
+  {
+   "id": "P485",
+   "label": "archives at",
+   "inverse_label": "\u2190 archives at"
+  },
+  {
+   "id": "P681",
+   "label": "cell component",
+   "inverse_label": "cell component of"
+  },
+  {
+   "id": "P1877",
+   "label": "after a work by",
+   "inverse_label": "\u2190 after a work by"
+  },
+  {
+   "id": "P1080",
+   "label": "from fictional universe",
+   "inverse_label": "from fictional universe of"
+  },
+  {
+   "id": "P408",
+   "label": "software engine",
+   "inverse_label": "software engine of"
+  },
+  {
+   "id": "P3094",
+   "label": "develops from",
+   "inverse_label": "\u2190 develops from"
+  },
+  {
+   "id": "P1365",
+   "label": "replaces",
+   "inverse_label": "replaces of"
+  },
+  {
+   "id": "P3912",
+   "label": "newspaper format",
+   "inverse_label": "newspaper format of"
+  },
+  {
+   "id": "P559",
+   "label": "terminus",
+   "inverse_label": "terminus of"
+  },
+  {
+   "id": "P2978",
+   "label": "wheel arrangement",
+   "inverse_label": "wheel arrangement of"
+  },
+  {
+   "id": "P1431",
+   "label": "executive producer",
+   "inverse_label": "executive producer of"
+  },
+  {
+   "id": "P201",
+   "label": "lake outflow",
+   "inverse_label": "lake outflow of"
+  },
+  {
+   "id": "P2515",
+   "label": "costume designer",
+   "inverse_label": "costume designer of"
+  },
+  {
+   "id": "P135",
+   "label": "movement",
+   "inverse_label": "movement of"
+  },
+  {
+   "id": "P927",
+   "label": "anatomical location",
+   "inverse_label": "anatomical location of"
+  },
+  {
+   "id": "P2652",
+   "label": "partnership with",
+   "inverse_label": "\u2190 partnership with"
+  },
+  {
+   "id": "P2438",
+   "label": "narrator",
+   "inverse_label": "narrator of"
+  },
+  {
+   "id": "P37",
+   "label": "official language",
+   "inverse_label": "official language of"
+  },
+  {
+   "id": "P2079",
+   "label": "fabrication method",
+   "inverse_label": "fabrication method of"
+  },
+  {
+   "id": "P1427",
+   "label": "start point",
+   "inverse_label": "start point of"
+  },
+  {
+   "id": "P2789",
+   "label": "connects with",
+   "inverse_label": "\u2190 connects with"
+  },
+  {
+   "id": "P184",
+   "label": "doctoral advisor",
+   "inverse_label": "doctoral advisor of"
+  },
+  {
+   "id": "P157",
+   "label": "killed by",
+   "inverse_label": "\u2190 killed by"
+  },
+  {
+   "id": "P4552",
+   "label": "mountain range",
+   "inverse_label": "mountain range of"
+  },
+  {
+   "id": "P823",
+   "label": "speaker",
+   "inverse_label": "speaker of"
+  },
+  {
+   "id": "P2176",
+   "label": "drug used for treatment",
+   "inverse_label": "drug used for treatment of"
+  },
+  {
+   "id": "P647",
+   "label": "drafted by",
+   "inverse_label": "\u2190 drafted by"
+  },
+  {
+   "id": "P2541",
+   "label": "operating area",
+   "inverse_label": "operating area of"
+  },
+  {
+   "id": "P2283",
+   "label": "uses",
+   "inverse_label": "uses of"
+  },
+  {
+   "id": "P415",
+   "label": "radio format",
+   "inverse_label": "radio format of"
+  },
+  {
+   "id": "P3261",
+   "label": "anatomical branch of",
+   "inverse_label": "\u2190 anatomical branch of"
+  },
+  {
+   "id": "P1072",
+   "label": "readable file format",
+   "inverse_label": "readable file format of"
+  },
+  {
+   "id": "P1366",
+   "label": "replaced by",
+   "inverse_label": "\u2190 replaced by"
+  },
+  {
+   "id": "P398",
+   "label": "child astronomical body",
+   "inverse_label": "child astronomical body of"
+  },
+  {
+   "id": "P1038",
+   "label": "relative",
+   "inverse_label": "relative of"
+  },
+  {
+   "id": "P3320",
+   "label": "board member",
+   "inverse_label": "board member of"
+  },
+  {
+   "id": "P802",
+   "label": "student",
+   "inverse_label": "student of"
+  },
+  {
+   "id": "P1750",
+   "label": "name day",
+   "inverse_label": "name day of"
+  },
+  {
+   "id": "P21",
+   "label": "sex or gender",
+   "inverse_label": "sex or gender of"
+  },
+  {
+   "id": "P780",
+   "label": "symptoms",
+   "inverse_label": "symptoms of"
+  },
+  {
+   "id": "P1433",
+   "label": "published in",
+   "inverse_label": "\u2190 published in"
+  },
+  {
+   "id": "P98",
+   "label": "editor",
+   "inverse_label": "editor of"
+  },
+  {
+   "id": "P1576",
+   "label": "lifestyle",
+   "inverse_label": "lifestyle of"
+  },
+  {
+   "id": "P765",
+   "label": "surface played on",
+   "inverse_label": "\u2190 surface played on"
+  },
+  {
+   "id": "P2670",
+   "label": "has parts of the class",
+   "inverse_label": "\u2190 has parts of the class"
+  },
+  {
+   "id": "P880",
+   "label": "CPU",
+   "inverse_label": "CPU of"
+  },
+  {
+   "id": "P3602",
+   "label": "candidacy in election",
+   "inverse_label": "candidacy in election of"
+  },
+  {
+   "id": "P411",
+   "label": "canonization status",
+   "inverse_label": "canonization status of"
+  },
+  {
+   "id": "P3494",
+   "label": "points classification",
+   "inverse_label": "points classification of"
+  },
+  {
+   "id": "P1387",
+   "label": "political alignment",
+   "inverse_label": "political alignment of"
+  },
+  {
+   "id": "P1875",
+   "label": "represented by",
+   "inverse_label": "\u2190 represented by"
+  },
+  {
+   "id": "P483",
+   "label": "recorded at",
+   "inverse_label": "\u2190 recorded at"
+  },
+  {
+   "id": "P736",
+   "label": "cover art by",
+   "inverse_label": "\u2190 cover art by"
+  },
+  {
+   "id": "P4132",
+   "label": "linguistic typology",
+   "inverse_label": "linguistic typology of"
+  },
+  {
+   "id": "P3259",
+   "label": "intangible cultural heritage status",
+   "inverse_label": "intangible cultural heritage status of"
+  },
+  {
+   "id": "P631",
+   "label": "structural engineer",
+   "inverse_label": "structural engineer of"
+  },
+  {
+   "id": "P831",
+   "label": "parent club",
+   "inverse_label": "parent club of"
+  },
+  {
+   "id": "P205",
+   "label": "basin country",
+   "inverse_label": "basin country of"
+  },
+  {
+   "id": "P66",
+   "label": "ancestral home",
+   "inverse_label": "ancestral home of"
+  },
+  {
+   "id": "P2825",
+   "label": "via",
+   "inverse_label": "via of"
+  },
+  {
+   "id": "P2288",
+   "label": "lymphatic drainage",
+   "inverse_label": "lymphatic drainage of"
+  },
+  {
+   "id": "P3919",
+   "label": "contributed to creative work",
+   "inverse_label": "contributed to creative work of"
+  },
+  {
+   "id": "P110",
+   "label": "illustrator",
+   "inverse_label": "illustrator of"
+  },
+  {
+   "id": "P684",
+   "label": "ortholog",
+   "inverse_label": "ortholog of"
+  },
+  {
+   "id": "P522",
+   "label": "type of orbit",
+   "inverse_label": "type of orbit of"
+  },
+  {
+   "id": "P2673",
+   "label": "next crossing upstream",
+   "inverse_label": "next crossing upstream of"
+  },
+  {
+   "id": "P726",
+   "label": "candidate",
+   "inverse_label": "candidate of"
+  },
+  {
+   "id": "P1533",
+   "label": "family name identical to this given name",
+   "inverse_label": "family name identical to this given name of"
+  },
+  {
+   "id": "P87",
+   "label": "librettist",
+   "inverse_label": "librettist of"
+  },
+  {
+   "id": "P2321",
+   "label": "general classification of race participants",
+   "inverse_label": "general classification of race participants of"
+  },
+  {
+   "id": "P1336",
+   "label": "territory claimed by",
+   "inverse_label": "\u2190 territory claimed by"
+  },
+  {
+   "id": "P111",
+   "label": "measured physical quantity",
+   "inverse_label": "measured physical quantity of"
+  },
+  {
+   "id": "P88",
+   "label": "commissioned by",
+   "inverse_label": "\u2190 commissioned by"
+  },
+  {
+   "id": "P825",
+   "label": "dedicated to",
+   "inverse_label": "\u2190 dedicated to"
+  },
+  {
+   "id": "P6",
+   "label": "head of government",
+   "inverse_label": "head of government of"
+  },
+  {
+   "id": "P1382",
+   "label": "partially coincident with",
+   "inverse_label": "\u2190 partially coincident with"
+  },
+  {
+   "id": "P2853",
+   "label": "electrical plug type",
+   "inverse_label": "electrical plug type of"
+  },
+  {
+   "id": "P1268",
+   "label": "represents",
+   "inverse_label": "represents of"
+  },
+  {
+   "id": "P1192",
+   "label": "connecting service",
+   "inverse_label": "connecting service of"
+  },
+  {
+   "id": "P425",
+   "label": "field of this occupation",
+   "inverse_label": "field of this occupation of"
+  },
+  {
+   "id": "P2868",
+   "label": "subject has role",
+   "inverse_label": "subject has role of"
+  },
+  {
+   "id": "P3189",
+   "label": "innervated by",
+   "inverse_label": "\u2190 innervated by"
+  },
+  {
+   "id": "P121",
+   "label": "item operated",
+   "inverse_label": "item operated of"
+  },
+  {
+   "id": "P1046",
+   "label": "discovery method",
+   "inverse_label": "discovery method of"
+  },
+  {
+   "id": "P2408",
+   "label": "set in period",
+   "inverse_label": "set in period of"
+  },
+  {
+   "id": "P3279",
+   "label": "statistical leader",
+   "inverse_label": "statistical leader of"
+  },
+  {
+   "id": "P1532",
+   "label": "country for sport",
+   "inverse_label": "country for sport of"
+  },
+  {
+   "id": "P636",
+   "label": "route of administration",
+   "inverse_label": "route of administration of"
+  },
+  {
+   "id": "P1321",
+   "label": "place of origin (Switzerland)",
+   "inverse_label": "place of origin (Switzerland) of"
+  },
+  {
+   "id": "P841",
+   "label": "feast day",
+   "inverse_label": "feast day of"
+  },
+  {
+   "id": "P78",
+   "label": "top-level Internet domain",
+   "inverse_label": "top-level Internet domain of"
+  },
+  {
+   "id": "P376",
+   "label": "located on astronomical location",
+   "inverse_label": "located on astronomical location of"
+  },
+  {
+   "id": "P248",
+   "label": "stated in",
+   "inverse_label": "\u2190 stated in"
+  },
+  {
+   "id": "P533",
+   "label": "target",
+   "inverse_label": "target of"
+  },
+  {
+   "id": "P658",
+   "label": "tracklist",
+   "inverse_label": "tracklist of"
+  },
+  {
+   "id": "P3300",
+   "label": "musical conductor",
+   "inverse_label": "musical conductor of"
+  },
+  {
+   "id": "P185",
+   "label": "doctoral student",
+   "inverse_label": "doctoral student of"
+  },
+  {
+   "id": "P2881",
+   "label": "promoted",
+   "inverse_label": "promoted of"
+  },
+  {
+   "id": "P1000",
+   "label": "record held",
+   "inverse_label": "record held of"
+  },
+  {
+   "id": "P397",
+   "label": "parent astronomical body",
+   "inverse_label": "parent astronomical body of"
+  },
+  {
+   "id": "P1773",
+   "label": "attributed to",
+   "inverse_label": "\u2190 attributed to"
+  },
+  {
+   "id": "P788",
+   "label": "mushroom ecological type",
+   "inverse_label": "mushroom ecological type of"
+  },
+  {
+   "id": "P547",
+   "label": "commemorates",
+   "inverse_label": "commemorates of"
+  },
+  {
+   "id": "P1950",
+   "label": "second family name in Spanish name",
+   "inverse_label": "second family name in Spanish name of"
+  },
+  {
+   "id": "P2695",
+   "label": "type locality (geology)",
+   "inverse_label": "type locality (geology) of"
+  },
+  {
+   "id": "P3716",
+   "label": "social classification",
+   "inverse_label": "social classification of"
+  },
+  {
+   "id": "P3342",
+   "label": "significant person",
+   "inverse_label": "significant person of"
+  },
+  {
+   "id": "P3174",
+   "label": "art director",
+   "inverse_label": "art director of"
+  },
+  {
+   "id": "P291",
+   "label": "place of publication",
+   "inverse_label": "place of publication of"
+  },
+  {
+   "id": "P598",
+   "label": "commander of",
+   "inverse_label": "\u2190 commander of"
+  },
+  {
+   "id": "P1625",
+   "label": "has melody",
+   "inverse_label": "\u2190 has melody"
+  },
+  {
+   "id": "P2238",
+   "label": "official symbol",
+   "inverse_label": "official symbol of"
+  },
+  {
+   "id": "P878",
+   "label": "avionics",
+   "inverse_label": "avionics of"
+  },
+  {
+   "id": "P163",
+   "label": "flag",
+   "inverse_label": "flag of"
+  },
+  {
+   "id": "P1884",
+   "label": "hair color",
+   "inverse_label": "hair color of"
+  },
+  {
+   "id": "P2579",
+   "label": "studied by",
+   "inverse_label": "\u2190 studied by"
+  },
+  {
+   "id": "P2354",
+   "label": "has list",
+   "inverse_label": "\u2190 has list"
+  },
+  {
+   "id": "P2499",
+   "label": "league level above",
+   "inverse_label": "league level above of"
+  },
+  {
+   "id": "P3764",
+   "label": "pole position",
+   "inverse_label": "pole position of"
+  },
+  {
+   "id": "P1372",
+   "label": "binding of software library",
+   "inverse_label": "binding of software library of"
+  },
+  {
+   "id": "P2650",
+   "label": "interested in",
+   "inverse_label": "\u2190 interested in"
+  },
+  {
+   "id": "P562",
+   "label": "central bank/issuer",
+   "inverse_label": "central bank/issuer of"
+  },
+  {
+   "id": "P1535",
+   "label": "used by",
+   "inverse_label": "\u2190 used by"
+  },
+  {
+   "id": "P1322",
+   "label": "dual to",
+   "inverse_label": "\u2190 dual to"
+  },
+  {
+   "id": "P2500",
+   "label": "league level below",
+   "inverse_label": "league level below of"
+  },
+  {
+   "id": "P1547",
+   "label": "depends on software",
+   "inverse_label": "depends on software of"
+  },
+  {
+   "id": "P912",
+   "label": "has facility",
+   "inverse_label": "\u2190 has facility"
+  },
+  {
+   "id": "P2155",
+   "label": "solid solution series with",
+   "inverse_label": "\u2190 solid solution series with"
+  },
+  {
+   "id": "P2674",
+   "label": "next crossing downstream",
+   "inverse_label": "next crossing downstream of"
+  },
+  {
+   "id": "P3150",
+   "label": "birthday",
+   "inverse_label": "birthday of"
+  },
+  {
+   "id": "P169",
+   "label": "chief executive officer",
+   "inverse_label": "chief executive officer of"
+  },
+  {
+   "id": "P199",
+   "label": "business division",
+   "inverse_label": "business division of"
+  },
+  {
+   "id": "P3091",
+   "label": "mount",
+   "inverse_label": "mount of"
+  },
+  {
+   "id": "P2922",
+   "label": "month of the year",
+   "inverse_label": "month of the year of"
+  },
+  {
+   "id": "P2578",
+   "label": "studies",
+   "inverse_label": "studies of"
+  },
+  {
+   "id": "P114",
+   "label": "airline alliance",
+   "inverse_label": "airline alliance of"
+  },
+  {
+   "id": "P2184",
+   "label": "history of topic",
+   "inverse_label": "history of topic of"
+  },
+  {
+   "id": "P534",
+   "label": "streak color",
+   "inverse_label": "streak color of"
+  },
+  {
+   "id": "P747",
+   "label": "has edition",
+   "inverse_label": "\u2190 has edition"
+  },
+  {
+   "id": "P2388",
+   "label": "office held by head of the organization",
+   "inverse_label": "office held by head of the organization of"
+  },
+  {
+   "id": "P1290",
+   "label": "godparent",
+   "inverse_label": "godparent of"
+  },
+  {
+   "id": "P553",
+   "label": "website account on",
+   "inverse_label": "\u2190 website account on"
+  },
+  {
+   "id": "P1652",
+   "label": "referee",
+   "inverse_label": "referee of"
+  },
+  {
+   "id": "P2860",
+   "label": "cites work",
+   "inverse_label": "cites work of"
+  },
+  {
+   "id": "P1434",
+   "label": "takes place in fictional universe",
+   "inverse_label": "takes place in fictional universe of"
+  },
+  {
+   "id": "P720",
+   "label": "asteroid spectral type",
+   "inverse_label": "asteroid spectral type of"
+  },
+  {
+   "id": "P1678",
+   "label": "has vertex figure",
+   "inverse_label": "\u2190 has vertex figure"
+  },
+  {
+   "id": "P1809",
+   "label": "choreographer",
+   "inverse_label": "choreographer of"
+  },
+  {
+   "id": "P3085",
+   "label": "qualifies for event",
+   "inverse_label": "qualifies for event of"
+  },
+  {
+   "id": "P1582",
+   "label": "natural product of taxon",
+   "inverse_label": "natural product of taxon of"
+  },
+  {
+   "id": "P694",
+   "label": "replaced synonym (for nom. nov.)",
+   "inverse_label": "replaced synonym (for nom. nov.) of"
+  },
+  {
+   "id": "P807",
+   "label": "separated from",
+   "inverse_label": "\u2190 separated from"
+  },
+  {
+   "id": "P1419",
+   "label": "shape",
+   "inverse_label": "shape of"
+  },
+  {
+   "id": "P2319",
+   "label": "elector",
+   "inverse_label": "elector of"
+  },
+  {
+   "id": "P1891",
+   "label": "signatory",
+   "inverse_label": "signatory of"
+  },
+  {
+   "id": "P828",
+   "label": "has cause",
+   "inverse_label": "\u2190 has cause"
+  },
+  {
+   "id": "P1574",
+   "label": "exemplar of",
+   "inverse_label": "\u2190 exemplar of"
+  },
+  {
+   "id": "P1589",
+   "label": "lowest point",
+   "inverse_label": "lowest point of"
+  },
+  {
+   "id": "P3275",
+   "label": "storyboard artist",
+   "inverse_label": "storyboard artist of"
+  },
+  {
+   "id": "P2992",
+   "label": "software quality assurance",
+   "inverse_label": "software quality assurance of"
+  },
+  {
+   "id": "P1416",
+   "label": "affiliation",
+   "inverse_label": "affiliation of"
+  },
+  {
+   "id": "P543",
+   "label": "oath made by",
+   "inverse_label": "\u2190 oath made by"
+  },
+  {
+   "id": "P2522",
+   "label": "victory",
+   "inverse_label": "victory of"
+  },
+  {
+   "id": "P1363",
+   "label": "points/goal scored by",
+   "inverse_label": "\u2190 points/goal scored by"
+  },
+  {
+   "id": "P787",
+   "label": "spore print color",
+   "inverse_label": "spore print color of"
+  },
+  {
+   "id": "P237",
+   "label": "coat of arms",
+   "inverse_label": "coat of arms of"
+  },
+  {
+   "id": "P122",
+   "label": "basic form of government",
+   "inverse_label": "basic form of government of"
+  },
+  {
+   "id": "P208",
+   "label": "executive body",
+   "inverse_label": "executive body of"
+  },
+  {
+   "id": "P542",
+   "label": "officially opened by",
+   "inverse_label": "\u2190 officially opened by"
+  },
+  {
+   "id": "P3592",
+   "label": "Saros cycle of eclipse",
+   "inverse_label": "Saros cycle of eclipse of"
+  },
+  {
+   "id": "P3512",
+   "label": "means of locomotion",
+   "inverse_label": "means of locomotion of"
+  },
+  {
+   "id": "P3033",
+   "label": "package management system",
+   "inverse_label": "package management system of"
+  },
+  {
+   "id": "P3643",
+   "label": "significant environmental impact",
+   "inverse_label": "significant environmental impact of"
+  },
+  {
+   "id": "P134",
+   "label": "has dialect (DEPRECATED)",
+   "inverse_label": "\u2190 has dialect (DEPRECATED)"
+  },
+  {
+   "id": "P3966",
+   "label": "programming paradigm",
+   "inverse_label": "programming paradigm of"
+  },
+  {
+   "id": "P1542",
+   "label": "has effect",
+   "inverse_label": "\u2190 has effect"
+  },
+  {
+   "id": "P1811",
+   "label": "list of episodes",
+   "inverse_label": "list of episodes of"
+  },
+  {
+   "id": "P1136",
+   "label": "solved by",
+   "inverse_label": "\u2190 solved by"
+  },
+  {
+   "id": "P3095",
+   "label": "practiced by",
+   "inverse_label": "\u2190 practiced by"
+  },
+  {
+   "id": "P552",
+   "label": "handedness",
+   "inverse_label": "handedness of"
+  },
+  {
+   "id": "P2989",
+   "label": "has grammatical case",
+   "inverse_label": "\u2190 has grammatical case"
+  },
+  {
+   "id": "P1731",
+   "label": "Fach",
+   "inverse_label": "Fach of"
+  },
+  {
+   "id": "P469",
+   "label": "lakes on river",
+   "inverse_label": "lakes on river of"
+  },
+  {
+   "id": "P3815",
+   "label": "volcano observatory",
+   "inverse_label": "volcano observatory of"
+  },
+  {
+   "id": "P167",
+   "label": "structure replaced by",
+   "inverse_label": "\u2190 structure replaced by"
+  },
+  {
+   "id": "P2633",
+   "label": "geography of topic",
+   "inverse_label": "geography of topic of"
+  },
+  {
+   "id": "P1951",
+   "label": "investor",
+   "inverse_label": "investor of"
+  },
+  {
+   "id": "P1840",
+   "label": "investigated by",
+   "inverse_label": "\u2190 investigated by"
+  },
+  {
+   "id": "P85",
+   "label": "anthem",
+   "inverse_label": "anthem of"
+  },
+  {
+   "id": "P1002",
+   "label": "engine configuration",
+   "inverse_label": "engine configuration of"
+  },
+  {
+   "id": "P789",
+   "label": "edibility",
+   "inverse_label": "edibility of"
+  },
+  {
+   "id": "P805",
+   "label": "statement is subject of",
+   "inverse_label": "\u2190 statement is subject of"
+  },
+  {
+   "id": "P518",
+   "label": "applies to part",
+   "inverse_label": "applies to part of"
+  },
+  {
+   "id": "P406",
+   "label": "soundtrack release",
+   "inverse_label": "soundtrack release of"
+  },
+  {
+   "id": "P682",
+   "label": "biological process",
+   "inverse_label": "biological process of"
+  },
+  {
+   "id": "P744",
+   "label": "asteroid family",
+   "inverse_label": "asteroid family of"
+  },
+  {
+   "id": "P427",
+   "label": "taxonomic type",
+   "inverse_label": "taxonomic type of"
+  },
+  {
+   "id": "P2012",
+   "label": "cuisine",
+   "inverse_label": "cuisine of"
+  },
+  {
+   "id": "P92",
+   "label": "main regulatory text",
+   "inverse_label": "main regulatory text of"
+  },
+  {
+   "id": "P1299",
+   "label": "depicted by",
+   "inverse_label": "\u2190 depicted by"
+  },
+  {
+   "id": "P770",
+   "label": "cause of destruction",
+   "inverse_label": "cause of destruction of"
+  },
+  {
+   "id": "P532",
+   "label": "port of registry",
+   "inverse_label": "port of registry of"
+  },
+  {
+   "id": "P3448",
+   "label": "stepparent",
+   "inverse_label": "stepparent of"
+  },
+  {
+   "id": "P263",
+   "label": "official residence",
+   "inverse_label": "official residence of"
+  },
+  {
+   "id": "P3301",
+   "label": "broadcast by",
+   "inverse_label": "\u2190 broadcast by"
+  },
+  {
+   "id": "P129",
+   "label": "physically interacts with",
+   "inverse_label": "\u2190 physically interacts with"
+  },
+  {
+   "id": "P881",
+   "label": "type of variable star",
+   "inverse_label": "type of variable star of"
+  },
+  {
+   "id": "P489",
+   "label": "currency symbol description",
+   "inverse_label": "currency symbol description of"
+  },
+  {
+   "id": "P189",
+   "label": "location of discovery",
+   "inverse_label": "location of discovery of"
+  },
+  {
+   "id": "P1595",
+   "label": "charge",
+   "inverse_label": "charge of"
+  },
+  {
+   "id": "P523",
+   "label": "temporal range start",
+   "inverse_label": "temporal range start of"
+  },
+  {
+   "id": "P833",
+   "label": "interchange station",
+   "inverse_label": "interchange station of"
+  },
+  {
+   "id": "P1605",
+   "label": "has natural reservoir",
+   "inverse_label": "\u2190 has natural reservoir"
+  },
+  {
+   "id": "P567",
+   "label": "underlies",
+   "inverse_label": "underlies of"
+  },
+  {
+   "id": "P511",
+   "label": "honorific prefix",
+   "inverse_label": "honorific prefix of"
+  },
+  {
+   "id": "P797",
+   "label": "authority",
+   "inverse_label": "authority of"
+  },
+  {
+   "id": "P767",
+   "label": "contributor(s) to the creative work or subject",
+   "inverse_label": "contributor(s) to the creative work or subject of"
+  },
+  {
+   "id": "P4428",
+   "label": "implementation of",
+   "inverse_label": "\u2190 implementation of"
+  },
+  {
+   "id": "P1445",
+   "label": "fictional universe described in",
+   "inverse_label": "\u2190 fictional universe described in"
+  },
+  {
+   "id": "P1672",
+   "label": "this taxon is source of",
+   "inverse_label": "\u2190 this taxon is source of"
+  },
+  {
+   "id": "P1876",
+   "label": "vessel",
+   "inverse_label": "vessel of"
+  },
+  {
+   "id": "P3985",
+   "label": "supports programming language",
+   "inverse_label": "supports programming language of"
+  },
+  {
+   "id": "P3015",
+   "label": "backup or reserve team or crew",
+   "inverse_label": "backup or reserve team or crew of"
+  },
+  {
+   "id": "P689",
+   "label": "afflicts",
+   "inverse_label": "afflicts of"
+  },
+  {
+   "id": "P1049",
+   "label": "worshipped by",
+   "inverse_label": "\u2190 worshipped by"
+  },
+  {
+   "id": "P2417",
+   "label": "stage classification",
+   "inverse_label": "stage classification of"
+  },
+  {
+   "id": "P2827",
+   "label": "flower color",
+   "inverse_label": "flower color of"
+  },
+  {
+   "id": "P1158",
+   "label": "location of landing",
+   "inverse_label": "location of landing of"
+  },
+  {
+   "id": "P688",
+   "label": "encodes",
+   "inverse_label": "encodes of"
+  },
+  {
+   "id": "P928",
+   "label": "activating neurotransmitter",
+   "inverse_label": "activating neurotransmitter of"
+  },
+  {
+   "id": "P1283",
+   "label": "filmography",
+   "inverse_label": "filmography of"
+  },
+  {
+   "id": "P702",
+   "label": "encoded by",
+   "inverse_label": "\u2190 encoded by"
+  },
+  {
+   "id": "P1075",
+   "label": "rector",
+   "inverse_label": "rector of"
+  },
+  {
+   "id": "P1202",
+   "label": "carries scientific instrument",
+   "inverse_label": "carries scientific instrument of"
+  },
+  {
+   "id": "P3263",
+   "label": "base",
+   "inverse_label": "base of"
+  },
+  {
+   "id": "P2563",
+   "label": "superhuman feature or ability",
+   "inverse_label": "superhuman feature or ability of"
+  },
+  {
+   "id": "P832",
+   "label": "public holiday",
+   "inverse_label": "public holiday of"
+  },
+  {
+   "id": "P3679",
+   "label": "stock market index",
+   "inverse_label": "stock market index of"
+  },
+  {
+   "id": "P748",
+   "label": "appointed by",
+   "inverse_label": "\u2190 appointed by"
+  },
+  {
+   "id": "P457",
+   "label": "foundational text",
+   "inverse_label": "foundational text of"
+  },
+  {
+   "id": "P1389",
+   "label": "product certification",
+   "inverse_label": "product certification of"
+  },
+  {
+   "id": "P545",
+   "label": "torch lit by",
+   "inverse_label": "\u2190 torch lit by"
+  },
+  {
+   "id": "P128",
+   "label": "regulates (molecular biology)",
+   "inverse_label": "regulates (molecular biology) of"
+  },
+  {
+   "id": "P2389",
+   "label": "organization directed from the office or person",
+   "inverse_label": "organization directed from the office or person of"
+  },
+  {
+   "id": "P790",
+   "label": "approved by",
+   "inverse_label": "\u2190 approved by"
+  },
+  {
+   "id": "P1546",
+   "label": "motto",
+   "inverse_label": "motto of"
+  },
+  {
+   "id": "P210",
+   "label": "party chief representative",
+   "inverse_label": "party chief representative of"
+  },
+  {
+   "id": "P612",
+   "label": "mother house",
+   "inverse_label": "mother house of"
+  },
+  {
+   "id": "P1304",
+   "label": "central bank",
+   "inverse_label": "central bank of"
+  },
+  {
+   "id": "P941",
+   "label": "inspired by",
+   "inverse_label": "\u2190 inspired by"
+  },
+  {
+   "id": "P942",
+   "label": "theme music",
+   "inverse_label": "theme music of"
+  },
+  {
+   "id": "P1455",
+   "label": "list of works",
+   "inverse_label": "list of works of"
+  },
+  {
+   "id": "P501",
+   "label": "enclave within",
+   "inverse_label": "enclave within of"
+  },
+  {
+   "id": "P655",
+   "label": "translator",
+   "inverse_label": "translator of"
+  },
+  {
+   "id": "P943",
+   "label": "programmer",
+   "inverse_label": "programmer of"
+  },
+  {
+   "id": "P2286",
+   "label": "arterial supply",
+   "inverse_label": "arterial supply of"
+  },
+  {
+   "id": "P1656",
+   "label": "unveiled by",
+   "inverse_label": "\u2190 unveiled by"
+  },
+  {
+   "id": "P500",
+   "label": "exclave of",
+   "inverse_label": "\u2190 exclave of"
+  },
+  {
+   "id": "P913",
+   "label": "notation",
+   "inverse_label": "notation of"
+  },
+  {
+   "id": "P3195",
+   "label": "league points system",
+   "inverse_label": "league points system of"
+  },
+  {
+   "id": "P2159",
+   "label": "solves",
+   "inverse_label": "solves of"
+  },
+  {
+   "id": "P624",
+   "label": "guidance system",
+   "inverse_label": "guidance system of"
+  },
+  {
+   "id": "P1557",
+   "label": "manifestation of",
+   "inverse_label": "\u2190 manifestation of"
+  },
+  {
+   "id": "P2925",
+   "label": "domain of saint or deity",
+   "inverse_label": "domain of saint or deity of"
+  },
+  {
+   "id": "P1909",
+   "label": "side effect",
+   "inverse_label": "side effect of"
+  },
+  {
+   "id": "P1479",
+   "label": "has contributing factor",
+   "inverse_label": "\u2190 has contributing factor"
+  },
+  {
+   "id": "P1018",
+   "label": "language regulatory body",
+   "inverse_label": "language regulatory body of"
+  },
+  {
+   "id": "P3497",
+   "label": "teams classification by time",
+   "inverse_label": "teams classification by time of"
+  },
+  {
+   "id": "P1478",
+   "label": "has immediate cause",
+   "inverse_label": "\u2190 has immediate cause"
+  },
+  {
+   "id": "P566",
+   "label": "basionym",
+   "inverse_label": "basionym of"
+  },
+  {
+   "id": "P2341",
+   "label": "indigenous to",
+   "inverse_label": "\u2190 indigenous to"
+  },
+  {
+   "id": "P2318",
+   "label": "debut participant",
+   "inverse_label": "debut participant of"
+  },
+  {
+   "id": "P3701",
+   "label": "incarnation of",
+   "inverse_label": "\u2190 incarnation of"
+  },
+  {
+   "id": "P588",
+   "label": "coolant",
+   "inverse_label": "coolant of"
+  },
+  {
+   "id": "P2546",
+   "label": "sidekick of",
+   "inverse_label": "\u2190 sidekick of"
+  },
+  {
+   "id": "P3842",
+   "label": "located in present-day administrative territorial entity",
+   "inverse_label": "located in present-day administrative territorial entity of"
+  },
+  {
+   "id": "P2384",
+   "label": "statement describes",
+   "inverse_label": "statement describes of"
+  },
+  {
+   "id": "P1068",
+   "label": "instruction set",
+   "inverse_label": "instruction set of"
+  },
+  {
+   "id": "P1456",
+   "label": "list of monuments",
+   "inverse_label": "list of monuments of"
+  },
+  {
+   "id": "P521",
+   "label": "scheduled service destination",
+   "inverse_label": "scheduled service destination of"
+  },
+  {
+   "id": "P2289",
+   "label": "venous drainage",
+   "inverse_label": "venous drainage of"
+  },
+  {
+   "id": "P3264",
+   "label": "radix",
+   "inverse_label": "radix of"
+  },
+  {
+   "id": "P2098",
+   "label": "substitute/deputy/replacement of office/officeholder",
+   "inverse_label": "substitute/deputy/replacement of office/officeholder of"
+  },
+  {
+   "id": "P2813",
+   "label": "mouthpiece",
+   "inverse_label": "mouthpiece of"
+  },
+  {
+   "id": "P1571",
+   "label": "codomain",
+   "inverse_label": "codomain of"
+  },
+  {
+   "id": "P1028",
+   "label": "donated by",
+   "inverse_label": "\u2190 donated by"
+  },
+  {
+   "id": "P834",
+   "label": "train depot",
+   "inverse_label": "train depot of"
+  },
+  {
+   "id": "P505",
+   "label": "general manager",
+   "inverse_label": "general manager of"
+  },
+  {
+   "id": "P972",
+   "label": "catalog",
+   "inverse_label": "catalog of"
+  },
+  {
+   "id": "P629",
+   "label": "edition or translation of",
+   "inverse_label": "\u2190 edition or translation of"
+  },
+  {
+   "id": "P822",
+   "label": "mascot",
+   "inverse_label": "mascot of"
+  },
+  {
+   "id": "P1531",
+   "label": "parent of this hybrid, breed, or cultivar",
+   "inverse_label": "parent of this hybrid, breed, or cultivar of"
+  },
+  {
+   "id": "P923",
+   "label": "medical examinations",
+   "inverse_label": "medical examinations of"
+  },
+  {
+   "id": "P1620",
+   "label": "plaintiff",
+   "inverse_label": "plaintiff of"
+  },
+  {
+   "id": "P3938",
+   "label": "named by",
+   "inverse_label": "\u2190 named by"
+  },
+  {
+   "id": "P1654",
+   "label": "wing configuration",
+   "inverse_label": "wing configuration of"
+  },
+  {
+   "id": "P2095",
+   "label": "co-driver",
+   "inverse_label": "co-driver of"
+  },
+  {
+   "id": "P2851",
+   "label": "payment types accepted",
+   "inverse_label": "payment types accepted of"
+  },
+  {
+   "id": "P2058",
+   "label": "depositor",
+   "inverse_label": "depositor of"
+  },
+  {
+   "id": "P209",
+   "label": "highest judicial authority",
+   "inverse_label": "highest judicial authority of"
+  },
+  {
+   "id": "P816",
+   "label": "decays to",
+   "inverse_label": "\u2190 decays to"
+  },
+  {
+   "id": "P1310",
+   "label": "statement disputed by",
+   "inverse_label": "\u2190 statement disputed by"
+  },
+  {
+   "id": "P1560",
+   "label": "given name version for other gender",
+   "inverse_label": "given name version for other gender of"
+  },
+  {
+   "id": "P1227",
+   "label": "astronomical filter",
+   "inverse_label": "astronomical filter of"
+  },
+  {
+   "id": "P1536",
+   "label": "immediate cause of",
+   "inverse_label": "\u2190 immediate cause of"
+  },
+  {
+   "id": "P2770",
+   "label": "source of income",
+   "inverse_label": "source of income of"
+  },
+  {
+   "id": "P3461",
+   "label": "designated as terrorist by",
+   "inverse_label": "\u2190 designated as terrorist by"
+  },
+  {
+   "id": "P4426",
+   "label": "Y-DNA Haplogroup",
+   "inverse_label": "Y-DNA Haplogroup of"
+  },
+  {
+   "id": "P2308",
+   "label": "class",
+   "inverse_label": "class of"
+  },
+  {
+   "id": "P756",
+   "label": "removed feature",
+   "inverse_label": "removed feature of"
+  },
+  {
+   "id": "P2575",
+   "label": "measures",
+   "inverse_label": "measures of"
+  },
+  {
+   "id": "P2935",
+   "label": "connector",
+   "inverse_label": "connector of"
+  },
+  {
+   "id": "P1165",
+   "label": "home world",
+   "inverse_label": "home world of"
+  },
+  {
+   "id": "P4220",
+   "label": "order of battle",
+   "inverse_label": "order of battle of"
+  },
+  {
+   "id": "P1432",
+   "label": "B-side (DEPRECATED)",
+   "inverse_label": "B-side (DEPRECATED) of"
+  },
+  {
+   "id": "P4424",
+   "label": "mandates",
+   "inverse_label": "mandates of"
+  },
+  {
+   "id": "P517",
+   "label": "interaction",
+   "inverse_label": "interaction of"
+  },
+  {
+   "id": "P1591",
+   "label": "defendant",
+   "inverse_label": "defendant of"
+  },
+  {
+   "id": "P3490",
+   "label": "muscle origin",
+   "inverse_label": "muscle origin of"
+  },
+  {
+   "id": "P1420",
+   "label": "taxon synonym",
+   "inverse_label": "taxon synonym of"
+  },
+  {
+   "id": "P634",
+   "label": "captain",
+   "inverse_label": "captain of"
+  },
+  {
+   "id": "P524",
+   "label": "temporal range end",
+   "inverse_label": "temporal range end of"
+  },
+  {
+   "id": "P1035",
+   "label": "honorific suffix",
+   "inverse_label": "honorific suffix of"
+  },
+  {
+   "id": "P1537",
+   "label": "contributing factor of",
+   "inverse_label": "\u2190 contributing factor of"
+  },
+  {
+   "id": "P515",
+   "label": "phase of matter",
+   "inverse_label": "phase of matter of"
+  },
+  {
+   "id": "P2291",
+   "label": "charted in",
+   "inverse_label": "\u2190 charted in"
+  },
+  {
+   "id": "P3902",
+   "label": "had as last meal",
+   "inverse_label": "had as last meal of"
+  },
+  {
+   "id": "P2378",
+   "label": "issued by",
+   "inverse_label": "\u2190 issued by"
+  },
+  {
+   "id": "P873",
+   "label": "phase point",
+   "inverse_label": "phase point of"
+  },
+  {
+   "id": "P924",
+   "label": "possible treatment",
+   "inverse_label": "possible treatment of"
+  },
+  {
+   "id": "P868",
+   "label": "foods traditionally associated",
+   "inverse_label": "foods traditionally associated of"
+  },
+  {
+   "id": "P2329",
+   "label": "antagonist muscle",
+   "inverse_label": "antagonist muscle of"
+  },
+  {
+   "id": "P1034",
+   "label": "main food source",
+   "inverse_label": "main food source of"
+  },
+  {
+   "id": "P2551",
+   "label": "used metre",
+   "inverse_label": "used metre of"
+  },
+  {
+   "id": "P2974",
+   "label": "habitat",
+   "inverse_label": "habitat of"
+  },
+  {
+   "id": "P2239",
+   "label": "first aid measures",
+   "inverse_label": "first aid measures of"
+  },
+  {
+   "id": "P1318",
+   "label": "proved by",
+   "inverse_label": "\u2190 proved by"
+  },
+  {
+   "id": "P812",
+   "label": "academic major",
+   "inverse_label": "academic major of"
+  },
+  {
+   "id": "P1429",
+   "label": "has pet",
+   "inverse_label": "\u2190 has pet"
+  },
+  {
+   "id": "P3403",
+   "label": "coextensive with",
+   "inverse_label": "\u2190 coextensive with"
+  },
+  {
+   "id": "P2738",
+   "label": "disjoint union of",
+   "inverse_label": "\u2190 disjoint union of"
+  },
+  {
+   "id": "P1704",
+   "label": "is pollinator of",
+   "inverse_label": "\u2190 is pollinator of"
+  },
+  {
+   "id": "P3712",
+   "label": "objective of project or action",
+   "inverse_label": "objective of project or action of"
+  },
+  {
+   "id": "P1264",
+   "label": "valid in period",
+   "inverse_label": "valid in period of"
+  },
+  {
+   "id": "P3075",
+   "label": "official religion",
+   "inverse_label": "official religion of"
+  },
+  {
+   "id": "P803",
+   "label": "professorship",
+   "inverse_label": "professorship of"
+  },
+  {
+   "id": "P1677",
+   "label": "index case of",
+   "inverse_label": "\u2190 index case of"
+  },
+  {
+   "id": "P1637",
+   "label": "undercarriage",
+   "inverse_label": "undercarriage of"
+  },
+  {
+   "id": "P3975",
+   "label": "secretary general",
+   "inverse_label": "secretary general of"
+  },
+  {
+   "id": "P3262",
+   "label": "has anatomical branch",
+   "inverse_label": "\u2190 has anatomical branch"
+  },
+  {
+   "id": "P3989",
+   "label": "members have occupation",
+   "inverse_label": "members have occupation of"
+  },
+  {
+   "id": "P3158",
+   "label": "enclosure",
+   "inverse_label": "enclosure of"
+  },
+  {
+   "id": "P1074",
+   "label": "fictional analog of",
+   "inverse_label": "\u2190 fictional analog of"
+  },
+  {
+   "id": "P1906",
+   "label": "office held by head of state",
+   "inverse_label": "office held by head of state of"
+  },
+  {
+   "id": "P2675",
+   "label": "reply to",
+   "inverse_label": "\u2190 reply to"
+  },
+  {
+   "id": "P3113",
+   "label": "does not have part",
+   "inverse_label": "does not have part of"
+  },
+  {
+   "id": "P1026",
+   "label": "doctoral thesis",
+   "inverse_label": "doctoral thesis of"
+  },
+  {
+   "id": "P4387",
+   "label": "update method",
+   "inverse_label": "update method of"
+  },
+  {
+   "id": "P3103",
+   "label": "has tense",
+   "inverse_label": "\u2190 has tense"
+  },
+  {
+   "id": "P1032",
+   "label": "Digital Rights Management system",
+   "inverse_label": "Digital Rights Management system of"
+  },
+  {
+   "id": "P3093",
+   "label": "recovered by",
+   "inverse_label": "\u2190 recovered by"
+  },
+  {
+   "id": "P3161",
+   "label": "has grammatical mood",
+   "inverse_label": "\u2190 has grammatical mood"
+  },
+  {
+   "id": "P4545",
+   "label": "sexually homologous with",
+   "inverse_label": "\u2190 sexually homologous with"
+  },
+  {
+   "id": "P2365",
+   "label": "Roman cognomen",
+   "inverse_label": "Roman cognomen of"
+  },
+  {
+   "id": "P1880",
+   "label": "measured by",
+   "inverse_label": "\u2190 measured by"
+  },
+  {
+   "id": "P568",
+   "label": "overlies",
+   "inverse_label": "overlies of"
+  },
+  {
+   "id": "P768",
+   "label": "electoral district",
+   "inverse_label": "electoral district of"
+  },
+  {
+   "id": "P680",
+   "label": "molecular function",
+   "inverse_label": "molecular function of"
+  },
+  {
+   "id": "P4043",
+   "label": "emulates",
+   "inverse_label": "emulates of"
+  },
+  {
+   "id": "P3355",
+   "label": "negative therapeutic predictor",
+   "inverse_label": "negative therapeutic predictor of"
+  },
+  {
+   "id": "P2512",
+   "label": "series spin-off",
+   "inverse_label": "series spin-off of"
+  },
+  {
+   "id": "P1137",
+   "label": "fossil found in this unit",
+   "inverse_label": "fossil found in this unit of"
+  },
+  {
+   "id": "P2852",
+   "label": "emergency phone number",
+   "inverse_label": "emergency phone number of"
+  },
+  {
+   "id": "P1079",
+   "label": "launch contractor",
+   "inverse_label": "launch contractor of"
+  },
+  {
+   "id": "P3739",
+   "label": "inflorescence",
+   "inverse_label": "inflorescence of"
+  },
+  {
+   "id": "P654",
+   "label": "direction relative to location",
+   "inverse_label": "direction relative to location of"
+  },
+  {
+   "id": "P2587",
+   "label": "has phoneme",
+   "inverse_label": "\u2190 has phoneme"
+  },
+  {
+   "id": "P2360",
+   "label": "intended public",
+   "inverse_label": "intended public of"
+  },
+  {
+   "id": "P1398",
+   "label": "structure replaces",
+   "inverse_label": "structure replaces of"
+  },
+  {
+   "id": "P1639",
+   "label": "pendant of",
+   "inverse_label": "\u2190 pendant of"
+  },
+  {
+   "id": "P1881",
+   "label": "list of characters",
+   "inverse_label": "list of characters of"
+  },
+  {
+   "id": "P2739",
+   "label": "typeface/font used",
+   "inverse_label": "typeface/font used of"
+  },
+  {
+   "id": "P2849",
+   "label": "produced by",
+   "inverse_label": "\u2190 produced by"
+  },
+  {
+   "id": "P4149",
+   "label": "conjugate base",
+   "inverse_label": "conjugate base of"
+  },
+  {
+   "id": "P1211",
+   "label": "fuel system",
+   "inverse_label": "fuel system of"
+  },
+  {
+   "id": "P3190",
+   "label": "innervates",
+   "inverse_label": "innervates of"
+  },
+  {
+   "id": "P2157",
+   "label": "lithography",
+   "inverse_label": "lithography of"
+  },
+  {
+   "id": "P3173",
+   "label": "offers view on",
+   "inverse_label": "\u2190 offers view on"
+  },
+  {
+   "id": "P3931",
+   "label": "copyright holder",
+   "inverse_label": "copyright holder of"
+  },
+  {
+   "id": "P1078",
+   "label": "valvetrain configuration",
+   "inverse_label": "valvetrain configuration of"
+  },
+  {
+   "id": "P1594",
+   "label": "judge",
+   "inverse_label": "judge of"
+  },
+  {
+   "id": "P925",
+   "label": "presynaptic connection",
+   "inverse_label": "presynaptic connection of"
+  },
+  {
+   "id": "P538",
+   "label": "fracturing",
+   "inverse_label": "fracturing of"
+  },
+  {
+   "id": "P2869",
+   "label": "record or record progression",
+   "inverse_label": "record or record progression of"
+  },
+  {
+   "id": "P3833",
+   "label": "diaspora",
+   "inverse_label": "diaspora of"
+  },
+  {
+   "id": "P2679",
+   "label": "author of foreword",
+   "inverse_label": "author of foreword of"
+  },
+  {
+   "id": "P2743",
+   "label": "this zoological name is coordinate with",
+   "inverse_label": "\u2190 this zoological name is coordinate with"
+  },
+  {
+   "id": "P1851",
+   "label": "input set",
+   "inverse_label": "input set of"
+  },
+  {
+   "id": "P3179",
+   "label": "territory overlaps",
+   "inverse_label": "territory overlaps of"
+  },
+  {
+   "id": "P1393",
+   "label": "proxy",
+   "inverse_label": "proxy of"
+  },
+  {
+   "id": "P2894",
+   "label": "day of week",
+   "inverse_label": "day of week of"
+  },
+  {
+   "id": "P707",
+   "label": "satellite bus",
+   "inverse_label": "satellite bus of"
+  },
+  {
+   "id": "P2462",
+   "label": "member of the deme",
+   "inverse_label": "member of the deme of"
+  },
+  {
+   "id": "P1593",
+   "label": "defender",
+   "inverse_label": "defender of"
+  },
+  {
+   "id": "P3082",
+   "label": "destroyed",
+   "inverse_label": "destroyed of"
+  },
+  {
+   "id": "P3437",
+   "label": "people or cargo transported",
+   "inverse_label": "people or cargo transported of"
+  },
+  {
+   "id": "P3967",
+   "label": "final event",
+   "inverse_label": "final event of"
+  },
+  {
+   "id": "P3484",
+   "label": "P3484",
+   "inverse_label": "P3484 of"
+  },
+  {
+   "id": "P3205",
+   "label": "patient of",
+   "inverse_label": "\u2190 patient of"
+  },
+  {
+   "id": "P1660",
+   "label": "has index case",
+   "inverse_label": "\u2190 has index case"
+  },
+  {
+   "id": "P910",
+   "label": "topic's main category",
+   "inverse_label": "topic's main category of"
+  },
+  {
+   "id": "P1039",
+   "label": "type of kinship",
+   "inverse_label": "type of kinship of"
+  },
+  {
+   "id": "P2560",
+   "label": "GPU",
+   "inverse_label": "GPU of"
+  },
+  {
+   "id": "P3032",
+   "label": "adjacent building",
+   "inverse_label": "adjacent building of"
+  },
+  {
+   "id": "P3310",
+   "label": "muscle action",
+   "inverse_label": "muscle action of"
+  },
+  {
+   "id": "P3828",
+   "label": "wears",
+   "inverse_label": "wears of"
+  },
+  {
+   "id": "P4330",
+   "label": "contains",
+   "inverse_label": "contains of"
+  },
+  {
+   "id": "P2838",
+   "label": "professional name (Japan)",
+   "inverse_label": "professional name (Japan) of"
+  },
+  {
+   "id": "P4379",
+   "label": "youth wing",
+   "inverse_label": "youth wing of"
+  },
+  {
+   "id": "P2577",
+   "label": "admissible rule in",
+   "inverse_label": "\u2190 admissible rule in"
+  },
+  {
+   "id": "P560",
+   "label": "direction",
+   "inverse_label": "direction of"
+  },
+  {
+   "id": "P4320",
+   "label": "mountains classification",
+   "inverse_label": "mountains classification of"
+  },
+  {
+   "id": "P4323",
+   "label": "young rider classification",
+   "inverse_label": "young rider classification of"
+  },
+  {
+   "id": "P2152",
+   "label": "antiparticle",
+   "inverse_label": "antiparticle of"
+  },
+  {
+   "id": "P3025",
+   "label": "open days",
+   "inverse_label": "open days of"
+  },
+  {
+   "id": "P2828",
+   "label": "corporate officer",
+   "inverse_label": "corporate officer of"
+  },
+  {
+   "id": "P3081",
+   "label": "damaged",
+   "inverse_label": "damaged of"
+  },
+  {
+   "id": "P3080",
+   "label": "game artist",
+   "inverse_label": "game artist of"
+  },
+  {
+   "id": "P4353",
+   "label": "nominated by",
+   "inverse_label": "\u2190 nominated by"
+  },
+  {
+   "id": "P1210",
+   "label": "supercharger",
+   "inverse_label": "supercharger of"
+  },
+  {
+   "id": "P3349",
+   "label": "designed to carry",
+   "inverse_label": "designed to carry of"
+  },
+  {
+   "id": "P2959",
+   "label": "permanent duplicated item",
+   "inverse_label": "permanent duplicated item of"
+  },
+  {
+   "id": "P3416",
+   "label": "end period",
+   "inverse_label": "end period of"
+  },
+  {
+   "id": "P944",
+   "label": "Code of nomenclature",
+   "inverse_label": "Code of nomenclature of"
+  },
+  {
+   "id": "P2375",
+   "label": "has superpartner",
+   "inverse_label": "\u2190 has superpartner"
+  },
+  {
+   "id": "P1640",
+   "label": "curator",
+   "inverse_label": "curator of"
+  },
+  {
+   "id": "P546",
+   "label": "docking port",
+   "inverse_label": "docking port of"
+  },
+  {
+   "id": "P2453",
+   "label": "nominee",
+   "inverse_label": "nominee of"
+  },
+  {
+   "id": "P2550",
+   "label": "recording or performance of",
+   "inverse_label": "\u2190 recording or performance of"
+  },
+  {
+   "id": "P1706",
+   "label": "together with",
+   "inverse_label": "\u2190 together with"
+  },
+  {
+   "id": "P1910",
+   "label": "decreased expression in",
+   "inverse_label": "\u2190 decreased expression in"
+  },
+  {
+   "id": "P2647",
+   "label": "source of material",
+   "inverse_label": "source of material of"
+  },
+  {
+   "id": "P3501",
+   "label": "Catholic rite",
+   "inverse_label": "Catholic rite of"
+  },
+  {
+   "id": "P642",
+   "label": "of",
+   "inverse_label": "of of"
+  },
+  {
+   "id": "P4147",
+   "label": "conjugate acid",
+   "inverse_label": "conjugate acid of"
+  },
+  {
+   "id": "P3019",
+   "label": "railway signalling system",
+   "inverse_label": "railway signalling system of"
+  },
+  {
+   "id": "P3803",
+   "label": "original film format",
+   "inverse_label": "original film format of"
+  },
+  {
+   "id": "P751",
+   "label": "introduced feature",
+   "inverse_label": "introduced feature of"
+  },
+  {
+   "id": "P2366",
+   "label": "Roman agnomen",
+   "inverse_label": "Roman agnomen of"
+  },
+  {
+   "id": "P1898",
+   "label": "lowest note",
+   "inverse_label": "lowest note of"
+  },
+  {
+   "id": "P1924",
+   "label": "vaccine for",
+   "inverse_label": "\u2190 vaccine for"
+  },
+  {
+   "id": "P2568",
+   "label": "repealed by",
+   "inverse_label": "\u2190 repealed by"
+  },
+  {
+   "id": "P1425",
+   "label": "ecoregion (WWF)",
+   "inverse_label": "ecoregion (WWF) of"
+  },
+  {
+   "id": "P1060",
+   "label": "pathogen transmission process",
+   "inverse_label": "pathogen transmission process of"
+  },
+  {
+   "id": "P814",
+   "label": "IUCN protected areas category",
+   "inverse_label": "IUCN protected areas category of"
+  },
+  {
+   "id": "P1480",
+   "label": "sourcing circumstances",
+   "inverse_label": "sourcing circumstances of"
+  },
+  {
+   "id": "P2567",
+   "label": "amended by",
+   "inverse_label": "\u2190 amended by"
+  },
+  {
+   "id": "P2831",
+   "label": "totem",
+   "inverse_label": "totem of"
+  },
+  {
+   "id": "P1817",
+   "label": "addressee",
+   "inverse_label": "addressee of"
+  },
+  {
+   "id": "P3415",
+   "label": "start period",
+   "inverse_label": "start period of"
+  },
+  {
+   "id": "P418",
+   "label": "seal description",
+   "inverse_label": "seal description of"
+  },
+  {
+   "id": "P1201",
+   "label": "space tug",
+   "inverse_label": "space tug of"
+  },
+  {
+   "id": "P1403",
+   "label": "original combination",
+   "inverse_label": "original combination of"
+  },
+  {
+   "id": "P1568",
+   "label": "domain",
+   "inverse_label": "domain of"
+  },
+  {
+   "id": "P2746",
+   "label": "production statistics",
+   "inverse_label": "production statistics of"
+  },
+  {
+   "id": "P3432",
+   "label": "parent cell line",
+   "inverse_label": "parent cell line of"
+  },
+  {
+   "id": "P3438",
+   "label": "vehicle normally used",
+   "inverse_label": "vehicle normally used of"
+  },
+  {
+   "id": "P4006",
+   "label": "overrules",
+   "inverse_label": "overrules of"
+  },
+  {
+   "id": "P1464",
+   "label": "category for people born here",
+   "inverse_label": "category for people born here of"
+  },
+  {
+   "id": "P3719",
+   "label": "regulated by",
+   "inverse_label": "\u2190 regulated by"
+  },
+  {
+   "id": "P1703",
+   "label": "is pollinated by",
+   "inverse_label": "\u2190 is pollinated by"
+  },
+  {
+   "id": "P3354",
+   "label": "positive therapeutic predictor",
+   "inverse_label": "positive therapeutic predictor of"
+  },
+  {
+   "id": "P2376",
+   "label": "superpartner of",
+   "inverse_label": "\u2190 superpartner of"
+  },
+  {
+   "id": "P2443",
+   "label": "stage reached",
+   "inverse_label": "stage reached of"
+  },
+  {
+   "id": "P3005",
+   "label": "valid in place",
+   "inverse_label": "valid in place of"
+  },
+  {
+   "id": "P2872",
+   "label": "tourist office",
+   "inverse_label": "tourist office of"
+  },
+  {
+   "id": "P1592",
+   "label": "prosecutor",
+   "inverse_label": "prosecutor of"
+  },
+  {
+   "id": "P3780",
+   "label": "active ingredient in",
+   "inverse_label": "\u2190 active ingredient in"
+  },
+  {
+   "id": "P2359",
+   "label": "Roman nomen gentilicium",
+   "inverse_label": "Roman nomen gentilicium of"
+  },
+  {
+   "id": "P872",
+   "label": "printed by",
+   "inverse_label": "\u2190 printed by"
+  },
+  {
+   "id": "P3460",
+   "label": "colonel-in-chief",
+   "inverse_label": "colonel-in-chief of"
+  },
+  {
+   "id": "P550",
+   "label": "chivalric order",
+   "inverse_label": "chivalric order of"
+  },
+  {
+   "id": "P1558",
+   "label": "tempo marking",
+   "inverse_label": "tempo marking of"
+  },
+  {
+   "id": "P2820",
+   "label": "cardinality of this set",
+   "inverse_label": "cardinality of this set of"
+  },
+  {
+   "id": "P2629",
+   "label": "BBFC rating",
+   "inverse_label": "BBFC rating of"
+  },
+  {
+   "id": "P453",
+   "label": "character role",
+   "inverse_label": "character role of"
+  },
+  {
+   "id": "P2715",
+   "label": "elected in",
+   "inverse_label": "\u2190 elected in"
+  },
+  {
+   "id": "P887",
+   "label": "based on heuristic",
+   "inverse_label": "based on heuristic of"
+  },
+  {
+   "id": "P2700",
+   "label": "protocol",
+   "inverse_label": "protocol of"
+  },
+  {
+   "id": "P967",
+   "label": "guest of honor",
+   "inverse_label": "guest of honor of"
+  },
+  {
+   "id": "P4185",
+   "label": "iconographic symbol",
+   "inverse_label": "iconographic symbol of"
+  },
+  {
+   "id": "P971",
+   "label": "category combines topics",
+   "inverse_label": "category combines topics of"
+  },
+  {
+   "id": "P2937",
+   "label": "parliamentary term",
+   "inverse_label": "parliamentary term of"
+  },
+  {
+   "id": "P1340",
+   "label": "eye color",
+   "inverse_label": "eye color of"
+  },
+  {
+   "id": "P3148",
+   "label": "repeals",
+   "inverse_label": "repeals of"
+  },
+  {
+   "id": "P1789",
+   "label": "chief operating officer",
+   "inverse_label": "chief operating officer of"
+  },
+  {
+   "id": "P2975",
+   "label": "host",
+   "inverse_label": "host of"
+  },
+  {
+   "id": "P2701",
+   "label": "file format",
+   "inverse_label": "file format of"
+  },
+  {
+   "id": "P3447",
+   "label": "mirrors data from",
+   "inverse_label": "\u2190 mirrors data from"
+  },
+  {
+   "id": "P2279",
+   "label": "ambitus",
+   "inverse_label": "ambitus of"
+  },
+  {
+   "id": "P565",
+   "label": "crystal habit",
+   "inverse_label": "crystal habit of"
+  },
+  {
+   "id": "P970",
+   "label": "neurological function",
+   "inverse_label": "neurological function of"
+  },
+  {
+   "id": "P1792",
+   "label": "category of associated people",
+   "inverse_label": "category of associated people of"
+  },
+  {
+   "id": "P4345",
+   "label": "excavation director",
+   "inverse_label": "excavation director of"
+  },
+  {
+   "id": "P3781",
+   "label": "has active ingredient",
+   "inverse_label": "\u2190 has active ingredient"
+  },
+  {
+   "id": "P1897",
+   "label": "highest note",
+   "inverse_label": "highest note of"
+  },
+  {
+   "id": "P399",
+   "label": "companion of",
+   "inverse_label": "\u2190 companion of"
+  },
+  {
+   "id": "P4099",
+   "label": "metrically compatible typeface",
+   "inverse_label": "metrically compatible typeface of"
+  },
+  {
+   "id": "P3014",
+   "label": "laws applied",
+   "inverse_label": "laws applied of"
+  },
+  {
+   "id": "P817",
+   "label": "decay mode",
+   "inverse_label": "decay mode of"
+  },
+  {
+   "id": "P1534",
+   "label": "end cause",
+   "inverse_label": "end cause of"
+  },
+  {
+   "id": "P2822",
+   "label": "by-product of",
+   "inverse_label": "\u2190 by-product of"
+  },
+  {
+   "id": "P4151",
+   "label": "game mechanics",
+   "inverse_label": "game mechanics of"
+  },
+  {
+   "id": "P1170",
+   "label": "transmitted signal type",
+   "inverse_label": "transmitted signal type of"
+  },
+  {
+   "id": "P1855",
+   "label": "Wikidata property example",
+   "inverse_label": "Wikidata property example of"
+  },
+  {
+   "id": "P3730",
+   "label": "next higher rank",
+   "inverse_label": "next higher rank of"
+  },
+  {
+   "id": "P926",
+   "label": "postsynaptic connection",
+   "inverse_label": "postsynaptic connection of"
+  },
+  {
+   "id": "P1686",
+   "label": "for work",
+   "inverse_label": "for work of"
+  },
+  {
+   "id": "P1041",
+   "label": "socket supported",
+   "inverse_label": "socket supported of"
+  },
+  {
+   "id": "P1199",
+   "label": "mode of inheritance",
+   "inverse_label": "mode of inheritance of"
+  },
+  {
+   "id": "P4224",
+   "label": "category contains",
+   "inverse_label": "category contains of"
+  },
+  {
+   "id": "P4322",
+   "label": "best sprinter classification",
+   "inverse_label": "best sprinter classification of"
+  },
+  {
+   "id": "P2502",
+   "label": "classification of race",
+   "inverse_label": "classification of race of"
+  },
+  {
+   "id": "P4425",
+   "label": "mtDNA haplogroup",
+   "inverse_label": "mtDNA haplogroup of"
+  },
+  {
+   "id": "P459",
+   "label": "determination method",
+   "inverse_label": "determination method of"
+  },
+  {
+   "id": "P3037",
+   "label": "spatial reference system",
+   "inverse_label": "spatial reference system of"
+  },
+  {
+   "id": "P795",
+   "label": "located on linear feature",
+   "inverse_label": "located on linear feature of"
+  },
+  {
+   "id": "P2414",
+   "label": "substrate of",
+   "inverse_label": "\u2190 substrate of"
+  },
+  {
+   "id": "P660",
+   "label": "EC enzyme classification",
+   "inverse_label": "EC enzyme classification of"
+  },
+  {
+   "id": "P3729",
+   "label": "next lower rank",
+   "inverse_label": "next lower rank of"
+  },
+  {
+   "id": "P3969",
+   "label": "signed form",
+   "inverse_label": "signed form of"
+  },
+  {
+   "id": "P470",
+   "label": "Eight Banner register",
+   "inverse_label": "Eight Banner register of"
+  },
+  {
+   "id": "P4292",
+   "label": "possessed by spirit",
+   "inverse_label": "possessed by spirit of"
+  },
+  {
+   "id": "P2839",
+   "label": "gait",
+   "inverse_label": "gait of"
+  },
+  {
+   "id": "P1171",
+   "label": "approximation algorithm",
+   "inverse_label": "approximation algorithm of"
+  },
+  {
+   "id": "P1606",
+   "label": "natural reservoir of",
+   "inverse_label": "\u2190 natural reservoir of"
+  },
+  {
+   "id": "P3680",
+   "label": "statement supported by",
+   "inverse_label": "\u2190 statement supported by"
+  },
+  {
+   "id": "P1956",
+   "label": "takeoff and landing capability",
+   "inverse_label": "takeoff and landing capability of"
+  },
+  {
+   "id": "P447",
+   "label": "review score by",
+   "inverse_label": "\u2190 review score by"
+  },
+  {
+   "id": "P2210",
+   "label": "relative to",
+   "inverse_label": "\u2190 relative to"
+  },
+  {
+   "id": "P1903",
+   "label": "volcanic explosivity index",
+   "inverse_label": "volcanic explosivity index of"
+  },
+  {
+   "id": "P3026",
+   "label": "closed on",
+   "inverse_label": "\u2190 closed on"
+  },
+  {
+   "id": "P1887",
+   "label": "vice-county",
+   "inverse_label": "vice-county of"
+  },
+  {
+   "id": "P2821",
+   "label": "by-product",
+   "inverse_label": "by-product of"
+  },
+  {
+   "id": "P853",
+   "label": "CERO rating",
+   "inverse_label": "CERO rating of"
+  },
+  {
+   "id": "P2976",
+   "label": "patronym or matronym for this name",
+   "inverse_label": "patronym or matronym for this name of"
+  },
+  {
+   "id": "P1194",
+   "label": "received signal type",
+   "inverse_label": "received signal type of"
+  },
+  {
+   "id": "P1912",
+   "label": "deletion association with",
+   "inverse_label": "\u2190 deletion association with"
+  },
+  {
+   "id": "P1406",
+   "label": "script directionality",
+   "inverse_label": "script directionality of"
+  },
+  {
+   "id": "P589",
+   "label": "point group",
+   "inverse_label": "point group of"
+  },
+  {
+   "id": "P3433",
+   "label": "biological variant of",
+   "inverse_label": "\u2190 biological variant of"
+  },
+  {
+   "id": "P2591",
+   "label": "grammatical option indicates",
+   "inverse_label": "grammatical option indicates of"
+  },
+  {
+   "id": "P2445",
+   "label": "metasubclass of",
+   "inverse_label": "\u2190 metasubclass of"
+  },
+  {
+   "id": "P2876",
+   "label": "type of unit for this property",
+   "inverse_label": "type of unit for this property of"
+  },
+  {
+   "id": "P468",
+   "label": "dan/kyu rank",
+   "inverse_label": "dan/kyu rank of"
+  },
+  {
+   "id": "P1999",
+   "label": "UNESCO language status",
+   "inverse_label": "UNESCO language status of"
+  },
+  {
+   "id": "P514",
+   "label": "interleaves with",
+   "inverse_label": "\u2190 interleaves with"
+  },
+  {
+   "id": "P1424",
+   "label": "topic's main template",
+   "inverse_label": "topic's main template of"
+  },
+  {
+   "id": "P4321",
+   "label": "best combative classification",
+   "inverse_label": "best combative classification of"
+  },
+  {
+   "id": "P1013",
+   "label": "criterion used",
+   "inverse_label": "criterion used of"
+  },
+  {
+   "id": "P2377",
+   "label": "MediaWiki hooks used",
+   "inverse_label": "MediaWiki hooks used of"
+  },
+  {
+   "id": "P2634",
+   "label": "sitter",
+   "inverse_label": "sitter of"
+  },
+  {
+   "id": "P922",
+   "label": "magnetic ordering",
+   "inverse_label": "magnetic ordering of"
+  },
+  {
+   "id": "P2680",
+   "label": "author of afterword",
+   "inverse_label": "author of afterword of"
+  },
+  {
+   "id": "P2392",
+   "label": "teaching method",
+   "inverse_label": "teaching method of"
+  },
+  {
+   "id": "P1878",
+   "label": "Vox-ATypI classification",
+   "inverse_label": "Vox-ATypI classification of"
+  },
+  {
+   "id": "P1221",
+   "label": "compressor type",
+   "inverse_label": "compressor type of"
+  },
+  {
+   "id": "P1011",
+   "label": "excluding",
+   "inverse_label": "excluding of"
+  },
+  {
+   "id": "P741",
+   "label": "playing hand",
+   "inverse_label": "playing hand of"
+  },
+  {
+   "id": "P1916",
+   "label": "gene substitution association with",
+   "inverse_label": "\u2190 gene substitution association with"
+  },
+  {
+   "id": "P1915",
+   "label": "gene inversion association with",
+   "inverse_label": "\u2190 gene inversion association with"
+  },
+  {
+   "id": "P1913",
+   "label": "gene duplication association with",
+   "inverse_label": "\u2190 gene duplication association with"
+  },
+  {
+   "id": "P2848",
+   "label": "Wi-Fi access",
+   "inverse_label": "Wi-Fi access of"
+  },
+  {
+   "id": "P10091",
+   "label": "death rate",
+   "inverse_label": "death rate of"
+  },
+  {
+   "id": "P10135",
+   "label": "recording date",
+   "inverse_label": "recording date of"
+  },
+  {
+   "id": "P10263",
+   "label": "admission yield rate",
+   "inverse_label": "admission yield rate of"
+  },
+  {
+   "id": "P10622",
+   "label": "per capita income",
+   "inverse_label": "per capita income of"
+  },
+  {
+   "id": "P10640",
+   "label": "pole positions",
+   "inverse_label": "pole positions of"
+  },
+  {
+   "id": "P10648",
+   "label": "podium finishes",
+   "inverse_label": "podium finishes of"
+  },
+  {
+   "id": "P10685",
+   "label": "ionic radius",
+   "inverse_label": "ionic radius of"
+  },
+  {
+   "id": "P10786",
+   "label": "date of incorporation",
+   "inverse_label": "date of incorporation of"
+  },
+  {
+   "id": "P1081",
+   "label": "Human Development Index",
+   "inverse_label": "Human Development Index of"
+  },
+  {
+   "id": "P1082",
+   "label": "population",
+   "inverse_label": "population of"
+  },
+  {
+   "id": "P1083",
+   "label": "maximum capacity",
+   "inverse_label": "maximum capacity of"
+  },
+  {
+   "id": "P1086",
+   "label": "atomic number",
+   "inverse_label": "atomic number of"
+  },
+  {
+   "id": "P1087",
+   "label": "Elo rating",
+   "inverse_label": "Elo rating of"
+  },
+  {
+   "id": "P1088",
+   "label": "Mohs' hardness",
+   "inverse_label": "Mohs' hardness of"
+  },
+  {
+   "id": "P1092",
+   "label": "total produced",
+   "inverse_label": "total produced of"
+  },
+  {
+   "id": "P1096",
+   "label": "orbital eccentricity",
+   "inverse_label": "orbital eccentricity of"
+  },
+  {
+   "id": "P1098",
+   "label": "number of speakers, writers, or signers",
+   "inverse_label": "number of speakers, writers, or signers of"
+  },
+  {
+   "id": "P1100",
+   "label": "number of cylinders",
+   "inverse_label": "number of cylinders of"
+  },
+  {
+   "id": "P1101",
+   "label": "floors above ground",
+   "inverse_label": "floors above ground of"
+  },
+  {
+   "id": "P1103",
+   "label": "number of platform tracks",
+   "inverse_label": "number of platform tracks of"
+  },
+  {
+   "id": "P1104",
+   "label": "number of pages",
+   "inverse_label": "number of pages of"
+  },
+  {
+   "id": "P1108",
+   "label": "electronegativity",
+   "inverse_label": "electronegativity of"
+  },
+  {
+   "id": "P1110",
+   "label": "attendance",
+   "inverse_label": "attendance of"
+  },
+  {
+   "id": "P1113",
+   "label": "number of episodes",
+   "inverse_label": "number of episodes of"
+  },
+  {
+   "id": "P1114",
+   "label": "quantity",
+   "inverse_label": "quantity of"
+  },
+  {
+   "id": "P1120",
+   "label": "number of deaths",
+   "inverse_label": "number of deaths of"
+  },
+  {
+   "id": "P1121",
+   "label": "oxidation state",
+   "inverse_label": "oxidation state of"
+  },
+  {
+   "id": "P1125",
+   "label": "Gini coefficient",
+   "inverse_label": "Gini coefficient of"
+  },
+  {
+   "id": "P1128",
+   "label": "employees",
+   "inverse_label": "employees of"
+  },
+  {
+   "id": "P1132",
+   "label": "number of participants",
+   "inverse_label": "number of participants of"
+  },
+  {
+   "id": "P1139",
+   "label": "floors below ground",
+   "inverse_label": "floors below ground of"
+  },
+  {
+   "id": "P11547",
+   "label": "Happy Planet Index score",
+   "inverse_label": "Happy Planet Index score of"
+  },
+  {
+   "id": "P11593",
+   "label": "Inequality-adjusted Human Development Index",
+   "inverse_label": "Inequality-adjusted Human Development Index of"
+  },
+  {
+   "id": "P1174",
+   "label": "visitors per year",
+   "inverse_label": "visitors per year of"
+  },
+  {
+   "id": "P1191",
+   "label": "date of first performance",
+   "inverse_label": "date of first performance of"
+  },
+  {
+   "id": "P1193",
+   "label": "prevalence",
+   "inverse_label": "prevalence of"
+  },
+  {
+   "id": "P1198",
+   "label": "unemployment rate",
+   "inverse_label": "unemployment rate of"
+  },
+  {
+   "id": "P1215",
+   "label": "apparent magnitude",
+   "inverse_label": "apparent magnitude of"
+  },
+  {
+   "id": "P1249",
+   "label": "time of earliest written record",
+   "inverse_label": "time of earliest written record of"
+  },
+  {
+   "id": "P12712",
+   "label": "population by native language",
+   "inverse_label": "population by native language of"
+  },
+  {
+   "id": "P12919",
+   "label": "public funding",
+   "inverse_label": "public funding of"
+  },
+  {
+   "id": "P1301",
+   "label": "number of elevators",
+   "inverse_label": "number of elevators of"
+  },
+  {
+   "id": "P1317",
+   "label": "floruit",
+   "inverse_label": "floruit of"
+  },
+  {
+   "id": "P13171",
+   "label": "bequest income",
+   "inverse_label": "bequest income of"
+  },
+  {
+   "id": "P1339",
+   "label": "number of injured",
+   "inverse_label": "number of injured of"
+  },
+  {
+   "id": "P1342",
+   "label": "number of seats",
+   "inverse_label": "number of seats of"
+  },
+  {
+   "id": "P1350",
+   "label": "number of matches played/races/starts",
+   "inverse_label": "number of matches played/races/starts of"
+  },
+  {
+   "id": "P1351",
+   "label": "number of points/goals/set scored",
+   "inverse_label": "number of points/goals/set scored of"
+  },
+  {
+   "id": "P1352",
+   "label": "ranking",
+   "inverse_label": "ranking of"
+  },
+  {
+   "id": "P1355",
+   "label": "number of wins",
+   "inverse_label": "number of wins of"
+  },
+  {
+   "id": "P1356",
+   "label": "number of losses",
+   "inverse_label": "number of losses of"
+  },
+  {
+   "id": "P1358",
+   "label": "points for",
+   "inverse_label": "\u2190 points for"
+  },
+  {
+   "id": "P1359",
+   "label": "number of points/goals conceded",
+   "inverse_label": "number of points/goals conceded of"
+  },
+  {
+   "id": "P1373",
+   "label": "daily patronage",
+   "inverse_label": "daily patronage of"
+  },
+  {
+   "id": "P1410",
+   "label": "number of seats in assembly",
+   "inverse_label": "number of seats in assembly of"
+  },
+  {
+   "id": "P1418",
+   "label": "orbits completed",
+   "inverse_label": "orbits completed of"
+  },
+  {
+   "id": "P1436",
+   "label": "collection or exhibition size",
+   "inverse_label": "collection or exhibition size of"
+  },
+  {
+   "id": "P14936",
+   "label": "atomic radius",
+   "inverse_label": "atomic radius of"
+  },
+  {
+   "id": "P14937",
+   "label": "covalent radius",
+   "inverse_label": "covalent radius of"
+  },
+  {
+   "id": "P14938",
+   "label": "Van der Waals radius",
+   "inverse_label": "Van der Waals radius of"
+  },
+  {
+   "id": "P1538",
+   "label": "number of households",
+   "inverse_label": "number of households of"
+  },
+  {
+   "id": "P1539",
+   "label": "female population",
+   "inverse_label": "female population of"
+  },
+  {
+   "id": "P1540",
+   "label": "male population",
+   "inverse_label": "male population of"
+  },
+  {
+   "id": "P1603",
+   "label": "number of cases",
+   "inverse_label": "number of cases of"
+  },
+  {
+   "id": "P1619",
+   "label": "date of official opening",
+   "inverse_label": "date of official opening of"
+  },
+  {
+   "id": "P1636",
+   "label": "date of baptism",
+   "inverse_label": "date of baptism of"
+  },
+  {
+   "id": "P1661",
+   "label": "Alexa rank",
+   "inverse_label": "Alexa rank of"
+  },
+  {
+   "id": "P1697",
+   "label": "total valid votes",
+   "inverse_label": "total valid votes of"
+  },
+  {
+   "id": "P1725",
+   "label": "beats per minute",
+   "inverse_label": "beats per minute of"
+  },
+  {
+   "id": "P1831",
+   "label": "electorate",
+   "inverse_label": "electorate of"
+  },
+  {
+   "id": "P1867",
+   "label": "eligible voters",
+   "inverse_label": "eligible voters of"
+  },
+  {
+   "id": "P1868",
+   "label": "ballots cast",
+   "inverse_label": "ballots cast of"
+  },
+  {
+   "id": "P1872",
+   "label": "minimum number of players",
+   "inverse_label": "minimum number of players of"
+  },
+  {
+   "id": "P1873",
+   "label": "maximum number of players",
+   "inverse_label": "maximum number of players of"
+  },
+  {
+   "id": "P1971",
+   "label": "number of children",
+   "inverse_label": "number of children of"
+  },
+  {
+   "id": "P2021",
+   "label": "Erd\u0151s number",
+   "inverse_label": "Erd\u0151s number of"
+  },
+  {
+   "id": "P2031",
+   "label": "start of work period",
+   "inverse_label": "start of work period of"
+  },
+  {
+   "id": "P2032",
+   "label": "end of work period",
+   "inverse_label": "end of work period of"
+  },
+  {
+   "id": "P2043",
+   "label": "length",
+   "inverse_label": "length of"
+  },
+  {
+   "id": "P2044",
+   "label": "elevation above sea level",
+   "inverse_label": "elevation above sea level of"
+  },
+  {
+   "id": "P2045",
+   "label": "orbital inclination",
+   "inverse_label": "orbital inclination of"
+  },
+  {
+   "id": "P2046",
+   "label": "area",
+   "inverse_label": "area of"
+  },
+  {
+   "id": "P2047",
+   "label": "duration",
+   "inverse_label": "duration of"
+  },
+  {
+   "id": "P2048",
+   "label": "height",
+   "inverse_label": "height of"
+  },
+  {
+   "id": "P2049",
+   "label": "width",
+   "inverse_label": "width of"
+  },
+  {
+   "id": "P2050",
+   "label": "wingspan",
+   "inverse_label": "wingspan of"
+  },
+  {
+   "id": "P2052",
+   "label": "speed",
+   "inverse_label": "speed of"
+  },
+  {
+   "id": "P2053",
+   "label": "watershed area",
+   "inverse_label": "watershed area of"
+  },
+  {
+   "id": "P2054",
+   "label": "density",
+   "inverse_label": "density of"
+  },
+  {
+   "id": "P2055",
+   "label": "electrical conductivity",
+   "inverse_label": "electrical conductivity of"
+  },
+  {
+   "id": "P2056",
+   "label": "specific heat capacity",
+   "inverse_label": "specific heat capacity of"
+  },
+  {
+   "id": "P2067",
+   "label": "mass",
+   "inverse_label": "mass of"
+  },
+  {
+   "id": "P2068",
+   "label": "thermal conductivity",
+   "inverse_label": "thermal conductivity of"
+  },
+  {
+   "id": "P2073",
+   "label": "vehicle range",
+   "inverse_label": "vehicle range of"
+  },
+  {
+   "id": "P2075",
+   "label": "speed of sound",
+   "inverse_label": "speed of sound of"
+  },
+  {
+   "id": "P2076",
+   "label": "temperature",
+   "inverse_label": "temperature of"
+  },
+  {
+   "id": "P2097",
+   "label": "term length of position",
+   "inverse_label": "term length of position of"
+  },
+  {
+   "id": "P2101",
+   "label": "melting point",
+   "inverse_label": "melting point of"
+  },
+  {
+   "id": "P2102",
+   "label": "boiling point",
+   "inverse_label": "boiling point of"
+  },
+  {
+   "id": "P2109",
+   "label": "nominal power output",
+   "inverse_label": "nominal power output of"
+  },
+  {
+   "id": "P2112",
+   "label": "wing area",
+   "inverse_label": "wing area of"
+  },
+  {
+   "id": "P2119",
+   "label": "vapor pressure",
+   "inverse_label": "vapor pressure of"
+  },
+  {
+   "id": "P2120",
+   "label": "radius",
+   "inverse_label": "radius of"
+  },
+  {
+   "id": "P2121",
+   "label": "prize money",
+   "inverse_label": "prize money of"
+  },
+  {
+   "id": "P2124",
+   "label": "member count",
+   "inverse_label": "member count of"
+  },
+  {
+   "id": "P2129",
+   "label": "immediately dangerous to life or health",
+   "inverse_label": "immediately dangerous to life or health of"
+  },
+  {
+   "id": "P2130",
+   "label": "capital cost",
+   "inverse_label": "capital cost of"
+  },
+  {
+   "id": "P2131",
+   "label": "nominal GDP",
+   "inverse_label": "nominal GDP of"
+  },
+  {
+   "id": "P2132",
+   "label": "nominal GDP per capita",
+   "inverse_label": "nominal GDP per capita of"
+  },
+  {
+   "id": "P2133",
+   "label": "total debt",
+   "inverse_label": "total debt of"
+  },
+  {
+   "id": "P2137",
+   "label": "total equity",
+   "inverse_label": "total equity of"
+  },
+  {
+   "id": "P2138",
+   "label": "total liabilities",
+   "inverse_label": "total liabilities of"
+  },
+  {
+   "id": "P2139",
+   "label": "total revenue",
+   "inverse_label": "total revenue of"
+  },
+  {
+   "id": "P2142",
+   "label": "box office",
+   "inverse_label": "box office of"
+  },
+  {
+   "id": "P2144",
+   "label": "frequency",
+   "inverse_label": "frequency of"
+  },
+  {
+   "id": "P2146",
+   "label": "orbital period",
+   "inverse_label": "orbital period of"
+  },
+  {
+   "id": "P2196",
+   "label": "count of students",
+   "inverse_label": "count of students of"
+  },
+  {
+   "id": "P2197",
+   "label": "production rate",
+   "inverse_label": "production rate of"
+  },
+  {
+   "id": "P2218",
+   "label": "net worth",
+   "inverse_label": "net worth of"
+  },
+  {
+   "id": "P2225",
+   "label": "discharge",
+   "inverse_label": "discharge of"
+  },
+  {
+   "id": "P2226",
+   "label": "market capitalization",
+   "inverse_label": "market capitalization of"
+  },
+  {
+   "id": "P2233",
+   "label": "semi-major axis of an orbit",
+   "inverse_label": "semi-major axis of an orbit of"
+  },
+  {
+   "id": "P2234",
+   "label": "volume as quantity",
+   "inverse_label": "volume as quantity of"
+  },
+  {
+   "id": "P2240",
+   "label": "median lethal dose (LD50)",
+   "inverse_label": "median lethal dose (LD50) of"
+  },
+  {
+   "id": "P2243",
+   "label": "apoapsis",
+   "inverse_label": "apoapsis of"
+  },
+  {
+   "id": "P2244",
+   "label": "periapsis",
+   "inverse_label": "periapsis of"
+  },
+  {
+   "id": "P2250",
+   "label": "life expectancy",
+   "inverse_label": "life expectancy of"
+  },
+  {
+   "id": "P2254",
+   "label": "maximum operating altitude",
+   "inverse_label": "maximum operating altitude of"
+  },
+  {
+   "id": "P2257",
+   "label": "event interval",
+   "inverse_label": "event interval of"
+  },
+  {
+   "id": "P2260",
+   "label": "ionization energy",
+   "inverse_label": "ionization energy of"
+  },
+  {
+   "id": "P2261",
+   "label": "beam",
+   "inverse_label": "beam of"
+  },
+  {
+   "id": "P2262",
+   "label": "draft",
+   "inverse_label": "draft of"
+  },
+  {
+   "id": "P2284",
+   "label": "price",
+   "inverse_label": "price of"
+  },
+  {
+   "id": "P2295",
+   "label": "net profit",
+   "inverse_label": "net profit of"
+  },
+  {
+   "id": "P2324",
+   "label": "quantity buried",
+   "inverse_label": "quantity buried of"
+  },
+  {
+   "id": "P2351",
+   "label": "number of graves",
+   "inverse_label": "number of graves of"
+  },
+  {
+   "id": "P2386",
+   "label": "diameter",
+   "inverse_label": "diameter of"
+  },
+  {
+   "id": "P2402",
+   "label": "total expenditure",
+   "inverse_label": "total expenditure of"
+  },
+  {
+   "id": "P2403",
+   "label": "total assets",
+   "inverse_label": "total assets of"
+  },
+  {
+   "id": "P2404",
+   "label": "time-weighted average exposure limit",
+   "inverse_label": "time-weighted average exposure limit of"
+  },
+  {
+   "id": "P2415",
+   "label": "personal best",
+   "inverse_label": "personal best of"
+  },
+  {
+   "id": "P2437",
+   "label": "number of seasons",
+   "inverse_label": "number of seasons of"
+  },
+  {
+   "id": "P2442",
+   "label": "conversion to standard unit",
+   "inverse_label": "conversion to standard unit of"
+  },
+  {
+   "id": "P2547",
+   "label": "perimeter",
+   "inverse_label": "perimeter of"
+  },
+  {
+   "id": "P2555",
+   "label": "fee",
+   "inverse_label": "fee of"
+  },
+  {
+   "id": "P2573",
+   "label": "number of out-of-school children",
+   "inverse_label": "number of out-of-school children of"
+  },
+  {
+   "id": "P2583",
+   "label": "distance from Earth",
+   "inverse_label": "distance from Earth of"
+  },
+  {
+   "id": "P2595",
+   "label": "maximum gradient",
+   "inverse_label": "maximum gradient of"
+  },
+  {
+   "id": "P2610",
+   "label": "thickness",
+   "inverse_label": "thickness of"
+  },
+  {
+   "id": "P2635",
+   "label": "number of parts of this work",
+   "inverse_label": "number of parts of this work of"
+  },
+  {
+   "id": "P2659",
+   "label": "topographic isolation",
+   "inverse_label": "topographic isolation of"
+  },
+  {
+   "id": "P2660",
+   "label": "topographic prominence",
+   "inverse_label": "topographic prominence of"
+  },
+  {
+   "id": "P2664",
+   "label": "units sold",
+   "inverse_label": "units sold of"
+  },
+  {
+   "id": "P2669",
+   "label": "discontinuation date",
+   "inverse_label": "discontinuation date of"
+  },
+  {
+   "id": "P2754",
+   "label": "production date",
+   "inverse_label": "production date of"
+  },
+  {
+   "id": "P2769",
+   "label": "budget",
+   "inverse_label": "budget of"
+  },
+  {
+   "id": "P2855",
+   "label": "VAT rate",
+   "inverse_label": "VAT rate of"
+  },
+  {
+   "id": "P2873",
+   "label": "time in space",
+   "inverse_label": "time in space of"
+  },
+  {
+   "id": "P2884",
+   "label": "mains voltage",
+   "inverse_label": "mains voltage of"
+  },
+  {
+   "id": "P2896",
+   "label": "publication interval",
+   "inverse_label": "publication interval of"
+  },
+  {
+   "id": "P2899",
+   "label": "minimum age",
+   "inverse_label": "minimum age of"
+  },
+  {
+   "id": "P2907",
+   "label": "UTC timezone offset",
+   "inverse_label": "UTC timezone offset of"
+  },
+  {
+   "id": "P2913",
+   "label": "date depicted",
+   "inverse_label": "date depicted of"
+  },
+  {
+   "id": "P2927",
+   "label": "water as percent of area",
+   "inverse_label": "water as percent of area of"
+  },
+  {
+   "id": "P2928",
+   "label": "storage capacity",
+   "inverse_label": "storage capacity of"
+  },
+  {
+   "id": "P2997",
+   "label": "age of majority",
+   "inverse_label": "age of majority of"
+  },
+  {
+   "id": "P2998",
+   "label": "age of candidacy",
+   "inverse_label": "age of candidacy of"
+  },
+  {
+   "id": "P2999",
+   "label": "age of consent",
+   "inverse_label": "age of consent of"
+  },
+  {
+   "id": "P3000",
+   "label": "marriageable age",
+   "inverse_label": "marriageable age of"
+  },
+  {
+   "id": "P3001",
+   "label": "retirement age",
+   "inverse_label": "retirement age of"
+  },
+  {
+   "id": "P3020",
+   "label": "residence time of water",
+   "inverse_label": "residence time of water of"
+  },
+  {
+   "id": "P3063",
+   "label": "gestation period",
+   "inverse_label": "gestation period of"
+  },
+  {
+   "id": "P3071",
+   "label": "standard molar entropy",
+   "inverse_label": "standard molar entropy of"
+  },
+  {
+   "id": "P3078",
+   "label": "standard enthalpy of formation",
+   "inverse_label": "standard enthalpy of formation of"
+  },
+  {
+   "id": "P3086",
+   "label": "speed limit",
+   "inverse_label": "speed limit of"
+  },
+  {
+   "id": "P3087",
+   "label": "fiscal/tax revenue",
+   "inverse_label": "fiscal/tax revenue of"
+  },
+  {
+   "id": "P3157",
+   "label": "event distance",
+   "inverse_label": "event distance of"
+  },
+  {
+   "id": "P3270",
+   "label": "compulsory education (minimum age)",
+   "inverse_label": "compulsory education (minimum age) of"
+  },
+  {
+   "id": "P3271",
+   "label": "compulsory education (maximum age)",
+   "inverse_label": "compulsory education (maximum age) of"
+  },
+  {
+   "id": "P3362",
+   "label": "operating income",
+   "inverse_label": "operating income of"
+  },
+  {
+   "id": "P3487",
+   "label": "maximal incubation period in humans",
+   "inverse_label": "maximal incubation period in humans of"
+  },
+  {
+   "id": "P3488",
+   "label": "minimal incubation period in humans",
+   "inverse_label": "minimal incubation period in humans of"
+  },
+  {
+   "id": "P3529",
+   "label": "median income",
+   "inverse_label": "median income of"
+  },
+  {
+   "id": "P3575",
+   "label": "data size",
+   "inverse_label": "data size of"
+  },
+  {
+   "id": "P3618",
+   "label": "base salary",
+   "inverse_label": "base salary of"
+  },
+  {
+   "id": "P3744",
+   "label": "number of subscribers",
+   "inverse_label": "number of subscribers of"
+  },
+  {
+   "id": "P3864",
+   "label": "suicide rate",
+   "inverse_label": "suicide rate of"
+  },
+  {
+   "id": "P3872",
+   "label": "patronage",
+   "inverse_label": "patronage of"
+  },
+  {
+   "id": "P3893",
+   "label": "public domain date",
+   "inverse_label": "public domain date of"
+  },
+  {
+   "id": "P3983",
+   "label": "sports league level",
+   "inverse_label": "sports league level of"
+  },
+  {
+   "id": "P3999",
+   "label": "date of official closure",
+   "inverse_label": "date of official closure of"
+  },
+  {
+   "id": "P4080",
+   "label": "number of houses",
+   "inverse_label": "number of houses of"
+  },
+  {
+   "id": "P4103",
+   "label": "assets under management",
+   "inverse_label": "assets under management of"
+  },
+  {
+   "id": "P4214",
+   "label": "longest observed lifespan",
+   "inverse_label": "longest observed lifespan of"
+  },
+  {
+   "id": "P4250",
+   "label": "defined daily dose",
+   "inverse_label": "defined daily dose of"
+  },
+  {
+   "id": "P4442",
+   "label": "mean age",
+   "inverse_label": "mean age of"
+  },
+  {
+   "id": "P4501",
+   "label": "albedo",
+   "inverse_label": "albedo of"
+  },
+  {
+   "id": "P4511",
+   "label": "vertical depth",
+   "inverse_label": "vertical depth of"
+  },
+  {
+   "id": "P4602",
+   "label": "date of burial or cremation",
+   "inverse_label": "date of burial or cremation of"
+  },
+  {
+   "id": "P4841",
+   "label": "total fertility rate",
+   "inverse_label": "total fertility rate of"
+  },
+  {
+   "id": "P4895",
+   "label": "time index",
+   "inverse_label": "time index of"
+  },
+  {
+   "id": "P4909",
+   "label": "number of players in region",
+   "inverse_label": "number of players in region of"
+  },
+  {
+   "id": "P4912",
+   "label": "century breaks",
+   "inverse_label": "century breaks of"
+  },
+  {
+   "id": "P5141",
+   "label": "coastline",
+   "inverse_label": "coastline of"
+  },
+  {
+   "id": "P5167",
+   "label": "vehicles per thousand people",
+   "inverse_label": "vehicles per thousand people of"
+  },
+  {
+   "id": "P5436",
+   "label": "number of viewers/listeners",
+   "inverse_label": "number of viewers/listeners of"
+  },
+  {
+   "id": "P5593",
+   "label": "Poisson's ratio",
+   "inverse_label": "Poisson's ratio of"
+  },
+  {
+   "id": "P5595",
+   "label": "number of platform faces",
+   "inverse_label": "number of platform faces of"
+  },
+  {
+   "id": "P5668",
+   "label": "bulk modulus",
+   "inverse_label": "bulk modulus of"
+  },
+  {
+   "id": "P5672",
+   "label": "linear thermal expansion coefficient",
+   "inverse_label": "linear thermal expansion coefficient of"
+  },
+  {
+   "id": "P5673",
+   "label": "shear modulus",
+   "inverse_label": "shear modulus of"
+  },
+  {
+   "id": "P5679",
+   "label": "electrical resistivity",
+   "inverse_label": "electrical resistivity of"
+  },
+  {
+   "id": "P569",
+   "label": "date of birth",
+   "inverse_label": "date of birth of"
+  },
+  {
+   "id": "P570",
+   "label": "date of death",
+   "inverse_label": "date of death of"
+  },
+  {
+   "id": "P571",
+   "label": "inception",
+   "inverse_label": "inception of"
+  },
+  {
+   "id": "P575",
+   "label": "time of discovery or invention",
+   "inverse_label": "time of discovery or invention of"
+  },
+  {
+   "id": "P576",
+   "label": "dissolved, abolished or demolished",
+   "inverse_label": "dissolved, abolished or demolished of"
+  },
+  {
+   "id": "P577",
+   "label": "publication date",
+   "inverse_label": "publication date of"
+  },
+  {
+   "id": "P580",
+   "label": "start time",
+   "inverse_label": "start time of"
+  },
+  {
+   "id": "P582",
+   "label": "end time",
+   "inverse_label": "end time of"
+  },
+  {
+   "id": "P5822",
+   "label": "admission rate",
+   "inverse_label": "admission rate of"
+  },
+  {
+   "id": "P585",
+   "label": "point in time",
+   "inverse_label": "point in time of"
+  },
+  {
+   "id": "P5894",
+   "label": "tuition fee",
+   "inverse_label": "tuition fee of"
+  },
+  {
+   "id": "P5982",
+   "label": "annual number of weddings",
+   "inverse_label": "annual number of weddings of"
+  },
+  {
+   "id": "P5991",
+   "label": "carbon footprint",
+   "inverse_label": "carbon footprint of"
+  },
+  {
+   "id": "P6000",
+   "label": "water footprint",
+   "inverse_label": "water footprint of"
+  },
+  {
+   "id": "P606",
+   "label": "first flight",
+   "inverse_label": "first flight of"
+  },
+  {
+   "id": "P6125",
+   "label": "number of volunteers",
+   "inverse_label": "number of volunteers of"
+  },
+  {
+   "id": "P619",
+   "label": "UTC date of spacecraft launch",
+   "inverse_label": "UTC date of spacecraft launch of"
+  },
+  {
+   "id": "P620",
+   "label": "UTC date of spacecraft landing",
+   "inverse_label": "UTC date of spacecraft landing of"
+  },
+  {
+   "id": "P621",
+   "label": "time of object orbit decay",
+   "inverse_label": "time of object orbit decay of"
+  },
+  {
+   "id": "P6249",
+   "label": "narrative age",
+   "inverse_label": "narrative age of"
+  },
+  {
+   "id": "P6257",
+   "label": "right ascension",
+   "inverse_label": "right ascension of"
+  },
+  {
+   "id": "P6258",
+   "label": "declination",
+   "inverse_label": "declination of"
+  },
+  {
+   "id": "P6343",
+   "label": "urban population",
+   "inverse_label": "urban population of"
+  },
+  {
+   "id": "P6344",
+   "label": "rural population",
+   "inverse_label": "rural population of"
+  },
+  {
+   "id": "P6498",
+   "label": "illiterate population",
+   "inverse_label": "illiterate population of"
+  },
+  {
+   "id": "P6499",
+   "label": "literate population",
+   "inverse_label": "literate population of"
+  },
+  {
+   "id": "P6509",
+   "label": "total goals in career",
+   "inverse_label": "total goals in career of"
+  },
+  {
+   "id": "P6543",
+   "label": "total shots in career",
+   "inverse_label": "total shots in career of"
+  },
+  {
+   "id": "P6544",
+   "label": "total points in career",
+   "inverse_label": "total points in career of"
+  },
+  {
+   "id": "P6545",
+   "label": "total assists in career",
+   "inverse_label": "total assists in career of"
+  },
+  {
+   "id": "P6546",
+   "label": "penalty minutes in career",
+   "inverse_label": "penalty minutes in career of"
+  },
+  {
+   "id": "P6547",
+   "label": "career plus-minus rating",
+   "inverse_label": "career plus-minus rating of"
+  },
+  {
+   "id": "P6589",
+   "label": "endowment",
+   "inverse_label": "endowment of"
+  },
+  {
+   "id": "P6590",
+   "label": "highest break",
+   "inverse_label": "highest break of"
+  },
+  {
+   "id": "P6591",
+   "label": "maximum temperature record",
+   "inverse_label": "maximum temperature record of"
+  },
+  {
+   "id": "P6794",
+   "label": "minimum wage",
+   "inverse_label": "minimum wage of"
+  },
+  {
+   "id": "P6897",
+   "label": "literacy rate",
+   "inverse_label": "literacy rate of"
+  },
+  {
+   "id": "P6949",
+   "label": "announcement date",
+   "inverse_label": "announcement date of"
+  },
+  {
+   "id": "P7015",
+   "label": "surface gravity",
+   "inverse_label": "surface gravity of"
+  },
+  {
+   "id": "P729",
+   "label": "service entry",
+   "inverse_label": "service entry of"
+  },
+  {
+   "id": "P7295",
+   "label": "Gregorian calendar start date",
+   "inverse_label": "Gregorian calendar start date of"
+  },
+  {
+   "id": "P730",
+   "label": "service retirement",
+   "inverse_label": "service retirement of"
+  },
+  {
+   "id": "P7422",
+   "label": "minimum temperature record",
+   "inverse_label": "minimum temperature record of"
+  },
+  {
+   "id": "P746",
+   "label": "date of disappearance",
+   "inverse_label": "date of disappearance of"
+  },
+  {
+   "id": "P7725",
+   "label": "litter size",
+   "inverse_label": "litter size of"
+  },
+  {
+   "id": "P8010",
+   "label": "number of recoveries",
+   "inverse_label": "number of recoveries of"
+  },
+  {
+   "id": "P8093",
+   "label": "donations",
+   "inverse_label": "donations of"
+  },
+  {
+   "id": "P8328",
+   "label": "Democracy Index",
+   "inverse_label": "Democracy Index of"
+  },
+  {
+   "id": "P8476",
+   "label": "BTI Governance Index",
+   "inverse_label": "BTI Governance Index of"
+  },
+  {
+   "id": "P8477",
+   "label": "BTI Status Index",
+   "inverse_label": "BTI Status Index of"
+  },
+  {
+   "id": "P8687",
+   "label": "social media followers",
+   "inverse_label": "social media followers of"
+  },
+  {
+   "id": "P8763",
+   "label": "birth rate",
+   "inverse_label": "birth rate of"
+  },
+  {
+   "id": "P8843",
+   "label": "poverty incidence",
+   "inverse_label": "poverty incidence of"
+  },
+  {
+   "id": "P8887",
+   "label": "water area",
+   "inverse_label": "water area of"
+  },
+  {
+   "id": "P9279",
+   "label": "Egapro gender equality index",
+   "inverse_label": "Egapro gender equality index of"
+  }
+ ],
+ "inverse_suffix": "^-1",
+ "counts": {
+  "entities": 303149,
+  "literal_nodes": 221144,
+  "nodes": 524293,
+  "entity_facts": 3462612,
+  "literal_facts": 1044490,
+  "directed_edges": 9014204,
+  "groups": 3594404
+ },
+ "cut": {
+  "from": "KG16 graph: 4,818,335 entities, 20,624,575 entity triples (Wikidata5M) + 1,044,490 literal facts",
+  "kept": "entities in the top 300,000 by Wikidata5M degree + Mintaka train/dev annotated entities; facts with both ends kept",
+  "dropped": "4,515,186 lower-degree entities and every fact touching them (17.16M of 20.62M entity triples)"
+ },
+ "files": {
+  "weights": {
+   "path": "weights.bin",
+   "bytes": 1526828,
+   "sha256": "bd5551ad069c2ad3024b7ac5106e10db3a749da9803129a23f0f005215b8d410",
+   "dtype": "f32le",
+   "layout": {
+    "mu": {
+     "offset": 0,
+     "shape": [
+      384
+     ]
+    },
+    "sd": {
+     "offset": 384,
+     "shape": [
+      384
+     ]
+    },
+    "Wq": {
+     "offset": 768,
+     "shape": [
+      256,
+      384
+     ]
+    },
+    "bq": {
+     "offset": 99072,
+     "shape": [
+      256
+     ]
+    },
+    "wa": {
+     "offset": 99328,
+     "shape": [
+      384
+     ]
+    },
+    "ba": {
+     "offset": 99712,
+     "shape": [
+      1
+     ]
+    },
+    "logtau": {
+     "offset": 99713,
+     "shape": [
+      1
+     ]
+    },
+    "beta": {
+     "offset": 99714,
+     "shape": [
+      1
+     ]
+    },
+    "h1_W": {
+     "offset": 99715,
+     "shape": [
+      6,
+      384
+     ]
+    },
+    "h1_b": {
+     "offset": 102019,
+     "shape": [
+      6
+     ]
+    },
+    "dir_W": {
+     "offset": 102025,
+     "shape": [
+      384
+     ]
+    },
+    "dir_b": {
+     "offset": 102409,
+     "shape": [
+      1
+     ]
+    },
+    "L": {
+     "offset": 102410,
+     "shape": [
+      1089,
+      16,
+      16
+     ]
+    },
+    "link_W1": {
+     "offset": 381194,
+     "shape": [
+      32,
+      14
+     ]
+    },
+    "link_b1": {
+     "offset": 381642,
+     "shape": [
+      32
+     ]
+    },
+    "link_W2": {
+     "offset": 381674,
+     "shape": [
+      32
+     ]
+    },
+    "link_b2": {
+     "offset": 381706,
+     "shape": [
+      1
+     ]
+    }
+   }
+  },
+  "node": {
+   "path": "node.bin",
+   "deg_bytes": 537132,
+   "pdeg_bytes": 527965,
+   "lkind_bytes": 221144,
+   "bytes": 1286241,
+   "sha256": "ad6cd3a536284c9e91304d88fbe4c6ac988a976274afbbb3a95ded96ebf1477a"
+  },
+  "litval": {
+   "path": "litval.bin",
+   "bytes": 1769152,
+   "dtype": "f64le",
+   "sha256": "862e51985c9d18288119e331f55aabfadf5cd9c806fd46b4e9a49158e9b4bfc1"
+  },
+  "adj": {
+   "dir": "adj",
+   "lo": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    17,
+    20,
+    22,
+    25,
+    27,
+    32,
+    35,
+    38,
+    40,
+    41,
+    45,
+    54,
+    60,
+    68,
+    76,
+    82,
+    92,
+    106,
+    113,
+    125,
+    144,
+    156,
+    169,
+    185,
+    202,
+    219,
+    236,
+    267,
+    297,
+    322,
+    356,
+    393,
+    437,
+    481,
+    516,
+    551,
+    602,
+    644,
+    700,
+    747,
+    809,
+    874,
+    938,
+    1001,
+    1085,
+    1161,
+    1237,
+    1307,
+    1392,
+    1470,
+    1563,
+    1668,
+    1747,
+    1838,
+    1913,
+    1990,
+    2070,
+    2169,
+    2272,
+    2377,
+    2488,
+    2592,
+    2708,
+    2835,
+    2950,
+    3075,
+    3205,
+    3344,
+    3462,
+    3589,
+    3732,
+    3855,
+    4002,
+    4148,
+    4297,
+    4457,
+    4618,
+    4783,
+    4957,
+    5131,
+    5308,
+    5495,
+    5670,
+    5863,
+    6054,
+    6263,
+    6472,
+    6683,
+    6877,
+    7070,
+    7288,
+    7525,
+    7750,
+    7977,
+    8206,
+    8447,
+    8686,
+    8957,
+    9216,
+    9490,
+    9750,
+    10013,
+    10271,
+    10549,
+    10832,
+    11100,
+    11393,
+    11693,
+    11977,
+    12267,
+    12573,
+    12869,
+    13165,
+    13474,
+    13771,
+    14089,
+    14384,
+    14683,
+    14988,
+    15299,
+    15614,
+    15917,
+    16211,
+    16526,
+    16835,
+    17152,
+    17473,
+    17782,
+    18113,
+    18434,
+    18767,
+    19091,
+    19411,
+    19754,
+    20093,
+    20423,
+    20758,
+    21098,
+    21448,
+    21785,
+    22138,
+    22491,
+    22839,
+    23212,
+    23571,
+    23897,
+    24258,
+    24617,
+    24960,
+    25310,
+    25684,
+    26047,
+    26404,
+    26770,
+    27144,
+    27509,
+    27883,
+    28253,
+    28621,
+    28994,
+    29385,
+    29775,
+    30152,
+    30532,
+    30914,
+    31296,
+    31675,
+    32057,
+    32434,
+    32823,
+    33198,
+    33581,
+    33962,
+    34331,
+    34719,
+    35098,
+    35507,
+    35885,
+    36290,
+    36692,
+    37065,
+    37470,
+    37863,
+    38249,
+    38643,
+    39025,
+    39416,
+    39809,
+    40211,
+    40628,
+    41037,
+    41434,
+    41816,
+    42205,
+    42618,
+    43017,
+    43435,
+    43844,
+    44246,
+    44657,
+    45066,
+    45462,
+    45857,
+    46251,
+    46665,
+    47078,
+    47472,
+    47879,
+    48291,
+    48699,
+    49083,
+    49483,
+    49889,
+    50306,
+    50719,
+    51127,
+    51528,
+    51946,
+    52369,
+    52790,
+    53199,
+    53598,
+    54019,
+    54441,
+    54856,
+    55268,
+    55678,
+    56083,
+    56490,
+    56915,
+    57328,
+    57729,
+    58141,
+    58559,
+    58976,
+    59402,
+    59803,
+    60218,
+    60631,
+    61046,
+    61464,
+    61889,
+    62300,
+    62710,
+    63125,
+    63544,
+    63943,
+    64368,
+    64802,
+    65225,
+    65640,
+    66062,
+    66482,
+    66895,
+    67300,
+    67725,
+    68158,
+    68583,
+    69011,
+    69440,
+    69859,
+    70288,
+    70699,
+    71114,
+    71536,
+    71955,
+    72375,
+    72808,
+    73223,
+    73654,
+    74066,
+    74482,
+    74891,
+    75284,
+    75721,
+    76151,
+    76582,
+    77012,
+    77437,
+    77855,
+    78292,
+    78721,
+    79139,
+    79546,
+    79950,
+    80378,
+    80813,
+    81268,
+    81693,
+    82123,
+    82554,
+    82987,
+    83413,
+    83844,
+    84273,
+    84684,
+    85099,
+    85512,
+    85952,
+    86378,
+    86815,
+    87254,
+    87693,
+    88139,
+    88574,
+    89013,
+    89455,
+    89882,
+    90309,
+    90734,
+    91175,
+    91597,
+    92020,
+    92452,
+    92880,
+    93315,
+    93761,
+    94196,
+    94643,
+    95081,
+    95520,
+    95946,
+    96378,
+    96806,
+    97243,
+    97662,
+    98091,
+    98512,
+    98938,
+    99343,
+    99777,
+    100228,
+    100680,
+    101130,
+    101568,
+    102013,
+    102458,
+    102902,
+    103357,
+    103806,
+    104256,
+    104692,
+    105140,
+    105591,
+    106038,
+    106472,
+    106901,
+    107335,
+    107770,
+    108208,
+    108651,
+    109108,
+    109556,
+    110016,
+    110464,
+    110901,
+    111346,
+    111814,
+    112258,
+    112704,
+    113145,
+    113584,
+    114026,
+    114467,
+    114901,
+    115350,
+    115788,
+    116225,
+    116669,
+    117108,
+    117545,
+    117988,
+    118420,
+    118860,
+    119313,
+    119779,
+    120250,
+    120725,
+    121187,
+    121655,
+    122102,
+    122550,
+    123012,
+    123477,
+    123929,
+    124392,
+    124854,
+    125296,
+    125737,
+    126183,
+    126640,
+    127096,
+    127550,
+    128005,
+    128450,
+    128892,
+    129340,
+    129777,
+    130216,
+    130682,
+    131159,
+    131629,
+    132100,
+    132565,
+    133026,
+    133492,
+    133967,
+    134433,
+    134897,
+    135361,
+    135816,
+    136279,
+    136749,
+    137216,
+    137682,
+    138155,
+    138621,
+    139093,
+    139551,
+    140017,
+    140473,
+    140931,
+    141382,
+    141841,
+    142300,
+    142747,
+    143199,
+    143664,
+    144138,
+    144624,
+    145106,
+    145580,
+    146062,
+    146540,
+    147018,
+    147508,
+    147997,
+    148487,
+    148972,
+    149449,
+    149924,
+    150396,
+    150871,
+    151353,
+    151835,
+    152317,
+    152795,
+    153267,
+    153746,
+    154221,
+    154691,
+    155156,
+    155633,
+    156110,
+    156579,
+    157036,
+    157501,
+    157985,
+    158482,
+    158988,
+    159477,
+    159968,
+    160461,
+    160967,
+    161464,
+    161973,
+    162479,
+    162980,
+    163466,
+    163956,
+    164444,
+    164944,
+    165441,
+    165934,
+    166419,
+    166915,
+    167405,
+    167899,
+    168390,
+    168882,
+    169374,
+    169867,
+    170348,
+    170835,
+    171324,
+    171814,
+    172287,
+    172763,
+    173239,
+    173717,
+    174236,
+    174747,
+    175258,
+    175775,
+    176284,
+    176810,
+    177330,
+    177841,
+    178360,
+    178867,
+    179378,
+    179896,
+    180409,
+    180932,
+    181432,
+    181941,
+    182456,
+    182966,
+    183478,
+    183986,
+    184500,
+    185019,
+    185524,
+    186039,
+    186547,
+    187052,
+    187567,
+    188080,
+    188589,
+    189091,
+    189588,
+    190089,
+    190593,
+    191132,
+    191664,
+    192193,
+    192739,
+    193275,
+    193818,
+    194362,
+    194904,
+    195431,
+    195966,
+    196489,
+    197037,
+    197572,
+    198101,
+    198634,
+    199167,
+    199702,
+    200234,
+    200762,
+    201301,
+    201836,
+    202364,
+    202895,
+    203437,
+    203979,
+    204520,
+    205045,
+    205567,
+    206095,
+    206624,
+    207154,
+    207682,
+    208199,
+    208740,
+    209307,
+    209865,
+    210434,
+    210999,
+    211565,
+    212137,
+    212714,
+    213279,
+    213839,
+    214410,
+    214973,
+    215538,
+    216103,
+    216673,
+    217250,
+    217813,
+    218381,
+    218941,
+    219501,
+    220076,
+    220638,
+    221190,
+    221759,
+    222315,
+    222868,
+    223421,
+    223974,
+    224525,
+    225090,
+    225648,
+    226201,
+    226750,
+    227324,
+    227910,
+    228497,
+    229081,
+    229668,
+    230257,
+    230839,
+    231424,
+    232021,
+    232621,
+    233203,
+    233790,
+    234377,
+    234969,
+    235554,
+    236148,
+    236750,
+    237340,
+    237927,
+    238514,
+    239111,
+    239699,
+    240285,
+    240876,
+    241458,
+    242052,
+    242640,
+    243228,
+    243803,
+    244392,
+    244968,
+    245559,
+    246140,
+    246723,
+    247321,
+    247935,
+    248555,
+    249176,
+    249788,
+    250408,
+    251024,
+    251653,
+    252281,
+    252915,
+    253548,
+    254184,
+    254818,
+    255444,
+    256069,
+    256680,
+    257285,
+    257909,
+    258523,
+    259138,
+    259774,
+    260396,
+    261024,
+    261648,
+    262276,
+    262886,
+    263517,
+    264139,
+    264753,
+    265366,
+    265982,
+    266594,
+    267214,
+    267823,
+    268445,
+    269088,
+    269746,
+    270389,
+    271034,
+    271689,
+    272366,
+    273031,
+    273706,
+    274372,
+    275038,
+    275710,
+    276372,
+    277037,
+    277690,
+    278357,
+    279027,
+    279704,
+    280371,
+    281025,
+    281683,
+    282356,
+    283020,
+    283689,
+    284354,
+    285029,
+    285689,
+    286343,
+    286997,
+    287666,
+    288358,
+    289043,
+    289731,
+    290418,
+    291213,
+    292016,
+    292844,
+    293650,
+    294460,
+    295256,
+    296061,
+    296862,
+    297647,
+    298476,
+    299716,
+    300888,
+    301702,
+    303047,
+    303153,
+    303161,
+    303170,
+    303179,
+    303189,
+    303200,
+    303211,
+    303223,
+    303236,
+    303249,
+    303264,
+    303280,
+    303296,
+    303314,
+    303333,
+    303353,
+    303374,
+    303397,
+    303421,
+    303447,
+    303481,
+    303522,
+    303569,
+    303626,
+    303695,
+    303782,
+    303886,
+    304016,
+    304180,
+    304381,
+    304626,
+    304925,
+    305283,
+    305704,
+    306173,
+    306694,
+    307253,
+    307860,
+    308512,
+    309200,
+    309928,
+    310692,
+    311498,
+    312336,
+    313220,
+    314128,
+    315100,
+    316080,
+    317125,
+    318192,
+    319285,
+    320452,
+    321637,
+    322852,
+    324166,
+    325495,
+    326825,
+    328263,
+    329776,
+    331297,
+    332823,
+    334415,
+    336196,
+    337994,
+    339782,
+    341590,
+    343451,
+    345663,
+    347880,
+    350105,
+    352325,
+    354557,
+    356784,
+    359612,
+    362576,
+    365537,
+    368482,
+    371425,
+    374380,
+    377336,
+    380289,
+    384105,
+    389431,
+    394613,
+    399706,
+    404756,
+    409787,
+    414730,
+    419656,
+    424523,
+    429347,
+    434176,
+    438981,
+    443772,
+    448554,
+    453367,
+    458091,
+    462834,
+    467583,
+    472290,
+    477024,
+    481720,
+    486430,
+    491120,
+    495820,
+    500503,
+    505193,
+    509875,
+    514556,
+    519237,
+    523919
+   ],
+   "n": 524293,
+   "bytes": 29166816,
+   "gzip_bytes": 21353181
+  },
+  "sig": {
+   "dir": "sig",
+   "lo": [
+    0,
+    305,
+    719,
+    1248,
+    1836,
+    2439,
+    3097,
+    3764,
+    4491,
+    5256,
+    5958,
+    6675,
+    7385,
+    8092,
+    8797,
+    9544,
+    10242,
+    10943,
+    11660,
+    12347,
+    13017,
+    13717,
+    14419,
+    15106,
+    15776,
+    16432,
+    17098,
+    17782,
+    18451,
+    19109,
+    19773,
+    20439,
+    21099,
+    21762,
+    22438,
+    23104,
+    23768,
+    24430,
+    25075,
+    25732,
+    26395,
+    27064,
+    27722,
+    28378,
+    29045,
+    29719,
+    30381,
+    31050,
+    31691,
+    32336,
+    32997,
+    33636,
+    34264,
+    34912,
+    35583,
+    36227,
+    36881,
+    37525,
+    38165,
+    38813,
+    39446,
+    40091,
+    40773,
+    41413,
+    42025,
+    42691,
+    43340,
+    43999,
+    44643,
+    45276,
+    45906,
+    46552,
+    47181,
+    47809,
+    48454,
+    49069,
+    49678,
+    50314,
+    50948,
+    51573,
+    52220,
+    52853,
+    53477,
+    54107,
+    54749,
+    55372,
+    55998,
+    56631,
+    57264,
+    57882,
+    58496,
+    59121,
+    59748,
+    60383,
+    60994,
+    61632,
+    62260,
+    62881,
+    63512,
+    64123,
+    64771,
+    65400,
+    66026,
+    66658,
+    67273,
+    67911,
+    68554,
+    69190,
+    69817,
+    70454,
+    71074,
+    71700,
+    72327,
+    72959,
+    73578,
+    74201,
+    74802,
+    75399,
+    76041,
+    76668,
+    77307,
+    77940,
+    78581,
+    79194,
+    79804,
+    80424,
+    81078,
+    81706,
+    82329,
+    82965,
+    83600,
+    84236,
+    84842,
+    85455,
+    86100,
+    86728,
+    87360,
+    88009,
+    88652,
+    89292,
+    89918,
+    90538,
+    91178,
+    91800,
+    92434,
+    93069,
+    93722,
+    94359,
+    95001,
+    95643,
+    96268,
+    96898,
+    97520,
+    98144,
+    98773,
+    99386,
+    100028,
+    100675,
+    101314,
+    101955,
+    102597,
+    103247,
+    103895,
+    104539,
+    105181,
+    105819,
+    106463,
+    107085,
+    107713,
+    108348,
+    108989,
+    109636,
+    110286,
+    110918,
+    111566,
+    112215,
+    112848,
+    113483,
+    114110,
+    114749,
+    115385,
+    116020,
+    116652,
+    117291,
+    117923,
+    118548,
+    119183,
+    119834,
+    120489,
+    121144,
+    121795,
+    122427,
+    123080,
+    123730,
+    124371,
+    125011,
+    125642,
+    126280,
+    126916,
+    127565,
+    128199,
+    128828,
+    129464,
+    130084,
+    130732,
+    131382,
+    132032,
+    132675,
+    133316,
+    133970,
+    134615,
+    135251,
+    135889,
+    136536,
+    137184,
+    137826,
+    138487,
+    139137,
+    139770,
+    140406,
+    141045,
+    141673,
+    142315,
+    142949,
+    143581,
+    144234,
+    144894,
+    145544,
+    146200,
+    146850,
+    147510,
+    148177,
+    148832,
+    149482,
+    150132,
+    150780,
+    151441,
+    152102,
+    152756,
+    153397,
+    154044,
+    154689,
+    155334,
+    155990,
+    156636,
+    157272,
+    157924,
+    158576,
+    159241,
+    159880,
+    160543,
+    161207,
+    161883,
+    162554,
+    163203,
+    163849,
+    164496,
+    165154,
+    165820,
+    166469,
+    167123,
+    167780,
+    168439,
+    169093,
+    169748,
+    170390,
+    171042,
+    171697,
+    172333,
+    172969,
+    173617,
+    174274,
+    174938,
+    175609,
+    176276,
+    176958,
+    177622,
+    178294,
+    178953,
+    179616,
+    180277,
+    180960,
+    181619,
+    182280,
+    182949,
+    183613,
+    184276,
+    184942,
+    185615,
+    186277,
+    186938,
+    187608,
+    188269,
+    188935,
+    189595,
+    190244,
+    190919,
+    191588,
+    192245,
+    192928,
+    193620,
+    194302,
+    194976,
+    195654,
+    196315,
+    196994,
+    197667,
+    198331,
+    199008,
+    199679,
+    200347,
+    201015,
+    201697,
+    202363,
+    203033,
+    203712,
+    204382,
+    205039,
+    205699,
+    206355,
+    207027,
+    207682,
+    208338,
+    209021,
+    209715,
+    210402,
+    211087,
+    211780,
+    212479,
+    213167,
+    213849,
+    214539,
+    215230,
+    215911,
+    216605,
+    217298,
+    217987,
+    218675,
+    219354,
+    220050,
+    220731,
+    221403,
+    222078,
+    222761,
+    223430,
+    224104,
+    224775,
+    225454,
+    226124,
+    226790,
+    227473,
+    228175,
+    228878,
+    229573,
+    230275,
+    230969,
+    231676,
+    232375,
+    233084,
+    233782,
+    234486,
+    235187,
+    235888,
+    236607,
+    237311,
+    238011,
+    238714,
+    239421,
+    240123,
+    240821,
+    241510,
+    242218,
+    242916,
+    243604,
+    244303,
+    244992,
+    245686,
+    246382,
+    247075,
+    247781,
+    248495,
+    249225,
+    249927,
+    250643,
+    251359,
+    252101,
+    252839,
+    253572,
+    254311,
+    255046,
+    255777,
+    256493,
+    257207,
+    257931,
+    258642,
+    259374,
+    260107,
+    260829,
+    261561,
+    262288,
+    263002,
+    263729,
+    264454,
+    265172,
+    265885,
+    266597,
+    267311,
+    268014,
+    268740,
+    269490,
+    270227,
+    270961,
+    271710,
+    272475,
+    273248,
+    274009,
+    274772,
+    275535,
+    276298,
+    277052,
+    277799,
+    278563,
+    279323,
+    280101,
+    280851,
+    281600,
+    282365,
+    283122,
+    283887,
+    284635,
+    285403,
+    286154,
+    286902,
+    287653,
+    288420,
+    289189,
+    289958,
+    290775,
+    291712,
+    292674,
+    293619,
+    294580,
+    295521,
+    296470,
+    297385,
+    298330,
+    299631,
+    300910,
+    301759,
+    303153,
+    303405,
+    303866,
+    304597,
+    305568,
+    306822,
+    308249,
+    309790,
+    311457,
+    313182,
+    314984,
+    316845,
+    318754,
+    320682,
+    322728,
+    324770,
+    326909,
+    329038,
+    331274,
+    333564,
+    335861,
+    338238,
+    340663,
+    343188,
+    345728,
+    348351,
+    351053,
+    353780,
+    356523,
+    359427,
+    362406,
+    365459,
+    368513,
+    371579,
+    374698,
+    377854,
+    381018,
+    384727,
+    388823,
+    392919,
+    397015,
+    401111,
+    405207,
+    409303,
+    413399,
+    417495,
+    421591,
+    425687,
+    429783,
+    433879,
+    437975,
+    442071,
+    446167,
+    450263,
+    454359,
+    458455,
+    462551,
+    466647,
+    470743,
+    474839,
+    478935,
+    483031,
+    487127,
+    491223,
+    495319,
+    499415,
+    503511,
+    507607,
+    511703,
+    515799,
+    519895,
+    523991
+   ],
+   "n": 524293,
+   "bytes": 10618206,
+   "gzip_bytes": 4415061
+  },
+  "lit": {
+   "dir": "lit",
+   "lo": [
+    0,
+    609,
+    1563,
+    2574,
+    3874,
+    5343,
+    6791,
+    8216,
+    9841,
+    11418,
+    12846,
+    14396,
+    15871,
+    17445,
+    18885,
+    20449,
+    22186,
+    23898,
+    25515,
+    27196,
+    28906,
+    30616,
+    32351,
+    34093,
+    35904,
+    37750,
+    39539,
+    41428,
+    43261,
+    45187,
+    47041,
+    48887,
+    50806,
+    52724,
+    54622,
+    56478,
+    58326,
+    60251,
+    62140,
+    64022,
+    66003,
+    67792,
+    69752,
+    71539,
+    73457,
+    75208,
+    77156,
+    78986,
+    80702,
+    82563,
+    84361,
+    86067,
+    87930,
+    89710,
+    91427,
+    93158,
+    94993,
+    96764,
+    98489,
+    100161,
+    102043,
+    103881,
+    105672,
+    107389,
+    109038,
+    110879,
+    112671,
+    114430,
+    116138,
+    117773,
+    119433,
+    121315,
+    123189,
+    124965,
+    126707,
+    128404,
+    129985,
+    131844,
+    133697,
+    135578,
+    137399,
+    139172,
+    140914,
+    142579,
+    144308,
+    146210,
+    148183,
+    150130,
+    152028,
+    153903,
+    155702,
+    157405,
+    159387,
+    161421,
+    163508,
+    165546,
+    167508,
+    169479,
+    171407,
+    173215,
+    175233,
+    177422,
+    179648,
+    181829,
+    184013,
+    186131,
+    188192,
+    190130,
+    192424,
+    194923,
+    197481,
+    199987,
+    202480,
+    204931,
+    207312,
+    209821,
+    212656,
+    215545,
+    218457,
+    221293,
+    224091,
+    226791,
+    229648,
+    232761,
+    235898,
+    239007,
+    242066,
+    245084,
+    248146,
+    251425,
+    254943,
+    258425,
+    261933,
+    265359,
+    268715,
+    272405,
+    276589,
+    280664,
+    284755,
+    288782,
+    294561,
+    301312
+   ],
+   "n": 303149,
+   "bytes": 5844966,
+   "gzip_bytes": 3756109
+  },
+  "names": {
+   "dir": "names",
+   "per_shard": 2048,
+   "shards": 257,
+   "bytes": 6806050
+  },
+  "idx": {
+   "dir": "idx",
+   "shards": 2048,
+   "hash": "fnv1a32(shard key) % shards",
+   "split_first_words": [
+    "a",
+    "alexander",
+    "canton",
+    "charles",
+    "david",
+    "edward",
+    "fc",
+    "frederick",
+    "george",
+    "gmina",
+    "henry",
+    "history",
+    "i",
+    "james",
+    "jean",
+    "john",
+    "la",
+    "le",
+    "list",
+    "louis",
+    "maria",
+    "michael",
+    "national",
+    "new",
+    "paul",
+    "peter",
+    "prince",
+    "princess",
+    "richard",
+    "robert",
+    "saint",
+    "san",
+    "sir",
+    "st",
+    "the",
+    "thomas",
+    "un",
+    "united",
+    "university",
+    "william"
+   ],
+   "bytes": 31555702
+  }
+ },
+ "linker": {
+  "type": "kg17-fast-v1",
+  "maxn": 6,
+  "keycap": 50,
+  "prefix_new": 8,
+  "top_topics": 3,
+  "features": [
+   "exact",
+   "cos",
+   "n/5",
+   "len/30",
+   "log1p(deg)/10",
+   "maximal",
+   "log1p(amb)/5",
+   "1/(1+rank)",
+   "is_label",
+   "pos",
+   "ctx",
+   "ctx*exact",
+   "cos*(1-exact)",
+   "1"
+  ],
+  "source": "KG16 linker.pt (KG15 MLP, trained on Mintaka train) with KG17's exact + label-prefix candidates"
+ },
+ "scorer": {
+  "type": "s1-sym-v1",
+  "encoder": "all-MiniLM-L6-v2",
+  "tok_dim": 384,
+  "max_tokens": 32,
+  "sent_max_tokens": 64,
+  "dim": 16,
+  "prod": "plain",
+  "max_hops": 2,
+  "cand_cap": 3000,
+  "hop2_max": 1000000,
+  "arg_max_set": 3000,
+  "ops": [
+   "set",
+   "count",
+   "yesno",
+   "argmax",
+   "argmin",
+   "compare"
+  ],
+  "tok_fp16": true,
+  "source": "KG16 R0 (frozen MiniLM, KG15 S1-sym + H1 + direction heads), seed 1 (best R0 seed on Mintaka dev, 23.1)",
+  "params_trained": {
+   "s1": 98946,
+   "beta": 1,
+   "h1": 2310,
+   "dir": 385,
+   "linker": 513
+  },
+  "params_total_trained": 102155
+ },
+ "eval": {},
+ "sizes": {
+  "adj": {
+   "bytes": 29166816,
+   "gzip": 21353181
+  },
+  "sig": {
+   "bytes": 10618206,
+   "gzip": 4415061
+  },
+  "lit": {
+   "bytes": 5844966,
+   "gzip": 3756109
+  },
+  "names": {
+   "bytes": 6806050,
+   "gzip": 3554198
+  },
+  "idx": {
+   "bytes": 31555702,
+   "gzip": 11305241
+  },
+  "weights.bin": {
+   "bytes": 1526828,
+   "gzip": 1416755
+  },
+  "node.bin": {
+   "bytes": 1286241,
+   "gzip": 227122
+  },
+  "litval.bin": {
+   "bytes": 1769152,
+   "gzip": 936056
+  },
+  "total": {
+   "bytes": 88573961,
+   "gzip": 46963723
+  }
+ }
+}

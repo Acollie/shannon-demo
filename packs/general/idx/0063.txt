@@ -1,0 +1,1486 @@
+aeacus	5wt9	
+albizia	2h3p	
+american	7el	28:2,66:6,f5:3,ow:2,qf:3,1at:3,1t9:3,1vy:3,22n:2,282:3,2du:6,2l5:3,2n6:7,45n:5,4hl:3,4nh:2,4pl:3,5kr:3,6kd:3,6mm:3,77z:2,7o7:4,7pv:3,7sv:2,9eb:4,9hs:3,alz:3,axh:2,b8t:3,dc8:3,exl:7,ffv:3,fn5:2,gdd:4,j59:4,j76:2,j9e:3,jue:4,k14:3,k7d:4,kee:8,m3l:4,med:2,mpp:4,mqd:3,n5d:3,nkm:2,nq2:4,o04:2,p8x:5
+american 4 4 0	7el	
+american abc news	3m3b	
+american academy	66	66:6,2du:6,45n:5
+american academy and institute of arts and letters	2du	
+american academy at castle pines	v33	
+american academy for dramatic arts	45n	
+american academy of		66:6,2du:6,45n:5
+american academy of arts		66:6,2du:6
+american academy of arts and		66:6,2du:6
+american academy of arts and letters	2du	
+american academy of arts and science	66	
+american academy of arts and sciences	66	
+american academy of arts letters	2du	
+american academy of arts sciences	66	
+american academy of dramatic		45n:5
+american academy of dramatic art	45n	
+american academy of dramatic arts	45n	
+american academy of dramatic arts west	45n	
+american academy of microbiology	nq2	
+american accents	ow	
+american actor	k	
+american actress	k	
+american aerial bombing of afghanistan	33v	
+american aerospace forces	ir	
+american afghan war	33v	
+american agricultural industry	3zc9	
+american air lines	axh	
+american air service	3inu	
+american airline group	1ns8	
+american airlines	axh	1ns8:3
+american airlines cargo division	axh	
+american airlines freight	axh	
+american airlines group	axh,1ns8	
+american airlines group inc	1ns8	
+american airlines inc	axh	
+american airlines system	axh	
+american airlines tennis games	r0n	
+american airlines us airways merger	1ns8	
+american airlinesus airways merger	1ns8	
+american airstrikes in iraq	1exw	
+american airways	axh	
+american airways inc	axh	
+american albums chart	6h71	
+american alliance		j59:4
+american alliance of		j59:4
+american alliance of museums	j59	
+american alligator	2wed	
+american alligator alligator mississipiensis	2wed	
+american alligators	2wed	
+american almanac and repository of useful knowledge	5pfy	
+american alps	lcf	
+american ambassador	5sq	
+american ambassador to france	2bms	
+american antiquarian		282:3
+american antiquarian society	282	
+american archaeological institute	m9i	
+american area campaign medal	31vn	
+american armed services	10ss	
+american armenian	25f	
+american army air force	ek8	
+american arsenal	595u	
+american art	1f5j	
+american art museum	1f5j	
+american art museum smithsonian institution	1f5j	
+american asian	6fmf	
+american assassin	2vdr	
+american assassin film	2vdr	
+american association	6hi9	2n6:7,62es:5
+american association 1936	6hi9	
+american association 1936 1941	6hi9	
+american association 1936 1950	6hi9	
+american association 21st century	62es	
+american association american football	6hi9	
+american association football	6hi9	
+american association for		2n6:7
+american association for advancement of science	2n6	
+american association for artificial intelligence	cef	
+american association for the		2n6:7
+american association for the advancement		2n6:7
+american association for the advancement of		2n6:7
+american association for the advancement of artificial intelligence	cef	
+american association for the advancement of science	2n6	
+american association for the advancement of science aaas	2n6	
+american association for the advancement of sciences	2n6	
+american association of		62es:5
+american association of agricultural colleges and experiment stations	4uan	
+american association of artificial intelligence	cef	
+american association of geologists and naturalists	2n6	
+american association of independent professional baseball	62es	
+american association of independent professional baseball 2006	62es	
+american association of independent professional baseball 2007	62es	
+american association of independent professional baseball 2008	62es	
+american association of independent professional baseball 2009	62es	
+american association of museums	j59	
+american association of museums aam	j59	
+american association of professional		62es:5
+american association of professional baseball	62es	
+american association of the sovereign military order of malta	h05	
+american association of zoological parks and aquariums	mmq	
+american astron soc meeting	alz	
+american astronomical		alz:3
+american astronomical society	alz	
+american astronomical society meeting abstracts	alz	
+american athletic conference	18kw	
+american athletic conference championship game	18kw	
+american author john camp	6gke	
+american bald eagle	180v	
+american bald eagles	180v	
+american ballet school	oes	
+american band consisting of the core members jona bechtolt and claire l evans	5tj4	
+american bank bailout plan	3epc	
+american bank classic	zeu	
+american bank crisis	3epc	
+american banking crisis	3epc	
+american baptist		5tm7:4
+american baptist church	5tm7	
+american baptist churches	5tm7	5tm7:4
+american baptist churches in the u s a	5tm7	
+american baptist churches in the usa	5tm7	
+american baptist churches u s a	5tm7	
+american baptist churches usa	5tm7	
+american baptist convention	5tm7	
+american baptists	5tm7	
+american basketball		5koh:3
+american basketball association	5koh	
+american basketball association 2000	5koh	
+american basketball association 2000 present	5koh	
+american beauty	1253	19uy:3
+american beauty 1999	1253	
+american beauty 1999 film	1253	
+american beauty 1999 movie	1253	
+american bill of rights	69ls	
+american biograph and mutoscope	3fq	
+american biograph and mutoscope company	3fq	
+american biograph company	3fq	
+american bison	2xcn	
+american black		2xvc:3
+american black bear	2xvc	
+american black bears	2xvc	
+american board games 18431935	174	
+american book award for fiction	7k1	
+american bridge		1fy7:3
+american bridge co	1fy7	
+american bridge company	1fy7	
+american bridge corporation	1fy7	
+american broadcasting		qf:3
+american broadcasting company	qf	
+american broadcasting company news	3m3b	
+american broadcasting company studios	pa0	
+american broadcasting corportation tv logos	qf	
+american brown bear	13lf	
+american brown boveri	3hqz	
+american budgie	6h1p	
+american buffalo	2xcn	
+american businessman	4m	
+american c i a	3mb	
+american cable systems	10us	
+american campaign		31vn:3
+american campaign medal	31vn	
+american carnage	5cnf	
+american carol	2iy3	
+american cartoon	64t7	
+american casualties in operation desert storm	383	
+american catholic studies	4iq	
+american caucasian	ctd	
+american census bureau	59zf	
+american center for physics	jue	
+american central intelligence agency	3mb	
+american chemical		b8t:3
+american chemical society	b8t	
+american chemistry society	b8t	
+american chopper	451y	
+american chopper full throttle	451y	
+american chopper menu	451y	
+american choppers	451y	
+american christmas carol	6bvk	
+american cichlid	8fe	
+american city county exchange	gdd	
+american civil		f5:3,k7d:4
+american civil liberties		k7d:4
+american civil liberties union	k7d	
+american civil liberties union aclu	k7d	
+american civil liberties union foundation	k7d	
+american civil liberties union foundation inc	k7d	
+american civil liberties union of maine	k7d	
+american civil liberties union of southern california	k7d	
+american civil rights movement 1955 1968	6gfl	
+american civil war	f5	
+american civil war homefront	1jv2	
+american civil war monuments in washington d c	4ul0	
+american coast guard	l8l	
+american college football	7kc	
+american college for girls	1ifq	
+american college for girls at constantinople	1ifq	
+american college for girls in istanbul	1ifq	
+american colonial revival	rdk	
+american colonization	5ms9	
+american communist party	v7z	
+american conference	18kw	
+american conservates	50sx	
+american conservatism	50sx	
+american conservative think tank	50sx	
+american conservatory		1urb:4
+american conservatory of		1urb:4
+american conservatory of music	1urb	
+american constitution	hwe	
+american constitutional convention	6h62	
+american constiution	hwe	
+american continent	15m	
+american continental army	2dw	
+american continents	15m	
+american cooking	qz7	
+american cooperative school la paz	3vx	
+american cordillera	y26	
+american counties	bro	
+american cowboy	aw6	
+american crawl	3szr	
+american crime	2803,3a3f,5lff	3fae:3
+american crime film	5lff	
+american crime season 1	3a3f	
+american crime story	3fae	
+american crime story katrina	3fae	
+american crime story lewinsky	3fae	
+american crime story season 3	3fae	
+american crime tv series	3a3f	
+american cuisine	qz7	
+american cuisine doc	qz7	
+american cuisine sandbox	qz7	
+american cuisines	qz7	
+american cup	39jc	
+american current events	4hy	
+american dad	fn5	
+american dad dvds	fn5	
+american dad episodes	fn5	
+american dad family guy and the cleveland show crossover	hum	
+american dance idol	2q9d	
+american declaration of independence	iqy	
+american defense force	10ss	
+american dharma	1aov	
+american digital network	18kw	
+american dog	xmo	
+american dollar	jyj	
+american dollars	jyj	
+american dream town center	4sa	
+american dreamer	3w1w	
+american dreamer film	3w1w	
+american dreamz	2213	
+american eagle airlines	50q5	
+american eagle flight 1450	50q5	
+american eagle flight 5401	50q5	
+american eagle operated by envoy air	50q5	
+american eagle rieti	4v91	
+american eagle student newspaper	22n	
+american east coast	6htd	
+american economic		pov:3
+american economic association	pov	
+american economic association comments	pov	
+american economics association	pov	
+american edu	22n	
+american electric boat company	4s4	
+american elk	3wrg	
+american elsevier	1jt	
+american elsevier publishing company	1jt	
+american empire	5jnf	
+american empire 1942	5jnf	
+american empire film	5jnf	
+american empirical pictures	r5g	
+american english	ow	
+american english language	ow	
+american english sandbox	ow	
+american enterprise		vpl:3
+american enterprise association	vpl	
+american enterprise institute	vpl	
+american enterprise institute for public policy research	vpl	
+american enterprise magazine	vpl	
+american evangelicalism	1ig2	
+american experience	14wr	
+american express	1327	
+american express card	1327	
+american express co	1327	
+american express publishing	1327	
+american express red card	1327	
+american express travel	1327	
+american fabius	7x2	
+american fantastic		13ze:3
+american fantastic tales	13ze	
+american federal	1g7t	
+american federation cup	39jc	
+american federation of labor and congress of industrial organizations	5npm	
+american federation of labor congress of industrial organizations	5npm	
+american film	1jwb	9eb:4,k14:3
+american film company	9eb	
+american film directors	29	
+american film institute	k14	
+american film institute award	k14	
+american film institute awards	k14	
+american film institute conservatory	k14	
+american film manufacturing		9eb:4
+american film manufacturing company	9eb	
+american financial rescue plan	3epc	
+american first lady	nxh	
+american flight 812	2b76	
+american flyers	2pkj	
+american flyers film	2pkj	
+american folk		16jn:3
+american folk music	16jn	
+american folk songs	16jn	
+american folksongs	16jn	
+american food	qz7	
+american food and drink	qz7	
+american football	28	15av:3,2gym:3,2n4o:3
+american football association cup	39jc	
+american football conference south	6gp3	
+american football conference south division	6gp3	
+american football formation	1ql6	
+american football formations	1ql6	
+american football league	2gym	
+american football league 1946	6hi9	
+american football league 1946 1950	6hi9	
+american football league 1960	2gym	
+american football league 1960 1969	2gym	
+american football league 19601969	2gym	
+american football league 196069	2gym	
+american football league championship	2gym	
+american football league championship game	2gym	
+american football linebacker	l9	
+american football official	15av	
+american football players	2n4o	
+american football position	2n4o	
+american football positions	2n4o	
+american football referee	15av	
+american fork	16t5	
+american fork ut	16t5	
+american fork utah	16t5	
+american foundation of religion and psychiatry	64fg	
+american free soil party	4l04	
+american freedom movement	6gfl	
+american freighter	axh	
+american french film festival		6hj9:5
+american friend	q50	q50:3
+american gangster	med	
+american gangster film	med	
+american gangsters	dyc	
+american gangsters during the 1920s	dyc	
+american geophysical		mqd:3
+american geophysical union	mqd	
+american geophysical union conference	mqd	
+american geophysical union fall meeting	mqd	
+american geophysical union spring meeting	mqd	
+american gigolo	1k69	
+american girl	5szv	
+american girl film	5szv	
+american girl in italy	658j	
+american girl movie	5szv	
+american gods	4jcy	
+american gods 2	4jcy	
+american goldfinch	6hln	
+american gospel	2k6	
+american gothic	2p4v	
+american gothic in popular culture	2p4v	
+american gothic washington d c	1c8a	
+american government	iym	
+american governor	15du	
+american graduate school of international management	1irj	
+american graffiiti	r1a	
+american graffiti	r1a	
+american graffiti 2	1341	
+american graffiti ii	1341	
+american grafitti	r1a	
+american gramaphone	1rlo	
+american gramaphone records	1rlo	
+american grand prize	6gwm	
+american gridiron football	28	
+american grown	6hpe	
+american grown the story of the white house kitchen garden and gardens across america	6hpe	
+american guerrilla		4ndz:5
+american guerrilla in		4ndz:5
+american guerrilla in the		4ndz:5
+american guerrilla in the philippines	4ndz	
+american gun	3r1r	
+american gun 2005 film	3r1r	
+american gun mystery		6de3:4
+american guy	4e09	
+american haunting	2841	
+american heist	5pp9	
+american helicopter company aircraft	22q7	
+american high		46c0:3
+american high school	46c0	
+american high school film	46c0	
+american high school movie	46c0	
+american hip hop	7o	
+american histoplasmosis	6fx6	
+american historical		ffv:3
+american historical association	ffv	
+american historical society	ffv	
+american history		1x8z:3
+american history museum	4g1m	
+american history x	1x8z	
+american hitler	4e56	
+american hockey		dc8:3
+american hockey league	dc8	
+american hockey leauge	dc8	
+american honey	3hmf	
+american honey film	3hmf	
+american horror		9hs:3,rpu:5,15oq:4,1e30:4,1jgu:5,2d0b:4
+american horror story	9hs	rpu:5,15oq:4,1e30:4,1jgu:5,2d0b:4
+american horror story 7	9hs	
+american horror story asylum	15oq	
+american horror story coven	1e30	
+american horror story freak		rpu:5
+american horror story freak show	rpu	
+american horror story freakshow	rpu	
+american horror story hotel	2d0b	
+american horror story murder		1jgu:5
+american horror story murder house	1jgu	
+american horror story season 1	1jgu	
+american horror story season 10	9hs	
+american horror story season 2	15oq	
+american horror story season 3	1e30	
+american horror story season 4	rpu	
+american horror story season 5	2d0b	
+american horror story season 9	9hs	
+american horror story tv series	9hs	
+american hosta society	6fek	
+american hustle	nkm	
+american hustle 2013	nkm	
+american hustle 2013 film	nkm	
+american hustle film	nkm	
+american idea	1jhq	
+american idiot	4aio	
+american idiot comments	4aio	
+american idiot the movie	4aio	
+american idiot tour	4aio	
+american idle	1dz6	
+american idol	1dz6	
+american idol abc tv series	1dz6	
+american idol finale	1dz6	
+american idol rules	1dz6	
+american idol series	1dz6	
+american idol tour	1dz6	
+american idole	1dz6	
+american immigration	q4m	
+american in paris	1dxi	
+american in paris film	1dxi	
+american indepedence day	6hfm	
+american independance	iqy	
+american independent record label	17xw	
+american indian	gcv	4hl:3
+american indian athletic hall of fame	1frc	
+american indian colleges	1rii	
+american indian hispanic and latino americans	64k9	
+american indian history	tq6	
+american indian reservation	bds	
+american indian reservations	bds	
+american indian tribes	108y	
+american indian wars	4hl	
+american indians of the united states	tq6	
+american indigenous people	gcv	
+american indoor soccer association	1qmj	
+american institute		jue:4,1f7e:4
+american institute for archaeology	m9i	
+american institute for foreign trade	1irj	
+american institute of		jue:4,1f7e:4
+american institute of archaeology	m9i	
+american institute of architects	1f7e	
+american institute of architects thomas jefferson award for public architecture	1f7e	
+american institute of architecture	1f7e	
+american institute of physics	jue	
+american institute of physics comments	jue	
+american interior designer	6fov	
+american international		4pl:3,2zvb:3
+american international college	2zvb	
+american international film production company	4pl	
+american international film studio	4pl	
+american international pictures	4pl	
+american international productions	4pl	
+american international television	4pl	
+american international yellow jackets baseball	2zvb	
+american international yellowjackets	2zvb	
+american international yellowjackets men s basketball	2zvb	
+american intl coll	2zvb	
+american invasion of france	s75	
+american invasion of panama	2fcg	
+american invasion of vietnam	u5	
+american irish	doa	
+american jesus comics	1lpq	
+american jew	4nh	
+american jewish	4nh	mpp:4
+american jewish historical		mpp:4
+american jewish historical society	mpp	
+american jewry	4nh	
+american jews	4nh	
+american kickboxing	4q2	1g9q:3
+american kickboxing academy	1g9q	
+american king	61y0	
+american king ent	61y0	
+american king music	61y0	
+american lance headed viper	1egs	
+american lancehead	1egs	
+american landmass	15m	
+american latino	64k9	
+american le		4vdg:4
+american le mans	4vdg	4vdg:4
+american le mans series	4vdg	
+american le mans series seasons	4vdg	
+american league	j76	6gwz:4,6hfn:3
+american league baseball club	j76	
+american league championship		6gwz:4
+american league championship series	6gwz	
+american league east	6hfn	
+american league east division	6hfn	
+american league eastern division	6hfn	
+american league eastern divison	6hfn	
+american league manager of the year	6hsz	
+american league manager of the year award	6hsz	
+american league most valuable player	ij9	
+american league mvp	ij9	
+american league of professional baseball clubs	j76	
+american legion freeway	y7c	
+american legion of merit	g5	
+american legislative		gdd:4
+american legislative exchange		gdd:4
+american legislative exchange council	gdd	
+american legislature	u2x	
+american lemans series	4vdg	
+american letters commentary	4xgy	
+american liberal arts college	k35	
+american liberal arts colleges	k35	
+american library		6kd:3
+american library assn	6kd	
+american library association	6kd	
+american library association ala	6kd	
+american library association award	6kd	
+american life insurance company	16ro	
+american literary scientific and military academy	7jv	
+american living	4i8n	
+american locomotive		7pv:3
+american locomotive co	7pv	
+american locomotive company	7pv	
+american locomotive works	7pv	
+american made	2vpu	
+american made an imax 3d experience	2vpu	
+american made film	2vpu	
+american made the imax 2d experience	2vpu	
+american madness	1klb	
+american maize products	3hmt	
+american marine corps	kv	
+american marines	kv	
+american mathematical		1at:3
+american mathematical society	1at	
+american mathematical society s steele prize for lifetime achievement	1zni	
+american mathematics society	1at	
+american mcgee	51jl	4vmc:4
+american mcgee s		4vmc:4
+american mcgee s alice	4vmc	
+american mcgee s alice film	4vmc	
+american mcgee s alice original music score	4vmc	
+american mcgees alice	4vmc	
+american me	2t64	
+american medical		3h32:3
+american medical assn	3h32	
+american medical association	3h32	
+american medical association ama	3h32	
+american medical association controversies	3h32	
+american men s national soccer team	1n0	
+american men s soccer team	1n0	
+american messenger company	2knl	
+american meteorological		57jo:3
+american meteorological association	57jo	
+american meteorological society	57jo	
+american methodism	6ty	
+american mexican war	1ww	
+american mid atlantic states	6hd8	
+american mid west	6gjb	
+american midwest	6gjb	
+american military police	3znh	
+american military prison	334p	
+american monster	2lmo	
+american motor company	1aan	
+american motor corporation	1aan	
+american motors	1aan	1aan:3
+american motors company	1aan	
+american motors corporation	1aan	
+american museum		1e72:5
+american museum of		1e72:5
+american museum of national history	4g1m	
+american museum of natural		1e72:5
+american museum of natural history	1e72	
+american music		kee:8,vo6:9,wh7:10,17af:7,1jyb:3,2fqk:9,48l5:8,55nv:9,5kgb:3,6h0j:11,6hp9:8,6hvc:5
+american music award	1jyb	kee:8,vo6:9,wh7:10,17af:7,2fqk:9,48l5:8,55nv:9,6h0j:11,6hp9:8
+american music award for		kee:8,vo6:9,wh7:10,17af:7,2fqk:9,48l5:8,55nv:9,6h0j:11,6hp9:8
+american music award for favorite		kee:8,vo6:9,wh7:10,17af:7,2fqk:9,48l5:8,6h0j:11
+american music award for favorite alternative		48l5:8
+american music award for favorite alternative artist	48l5	
+american music award for favorite alternative rock		48l5:8
+american music award for favorite alternative rock artist	48l5	
+american music award for favorite country		17af:7
+american music award for favorite country album	17af	
+american music award for favorite country male artist	27kn	
+american music award for favorite country single	s7x	
+american music award for favorite pop		kee:8,wh7:10
+american music award for favorite pop rock		kee:8,wh7:10
+american music award for favorite pop rock album	kee	
+american music award for favorite pop rock band		wh7:10
+american music award for favorite pop rock band duo		wh7:10
+american music award for favorite pop rock band duo group	wh7	
+american music award for favorite pop rock male artist	1bex	
+american music award for favorite rap		2fqk:9
+american music award for favorite rap hip		2fqk:9
+american music award for favorite rap hip hop		2fqk:9
+american music award for favorite rap hip hop album	2fqk	
+american music award for favorite soul		vo6:9,6h0j:11
+american music award for favorite soul r		vo6:9,6h0j:11
+american music award for favorite soul r b		vo6:9,6h0j:11
+american music award for favorite soul r b album	vo6	
+american music award for favorite soul r b band		6h0j:11
+american music award for favorite soul r b band duo		6h0j:11
+american music award for favorite soul r b band duo group	6h0j	
+american music award for new		55nv:9
+american music award for new artist		55nv:9
+american music award for new artist of		55nv:9
+american music award for new artist of the		55nv:9
+american music award for new artist of the year	55nv	
+american music award for single		6hp9:8
+american music award for single of		6hp9:8
+american music award for single of the		6hp9:8
+american music award for single of the year	6hp9	
+american music awards	1jyb	6hvc:5
+american music awards 2011	6hvc	
+american music awards of		6hvc:5
+american music awards of 2011	6hvc	
+american music club	5kgb	
+american music special achievement award	1jyb	
+american musicals	o8	
+american mutoscope and biograph	3fq	
+american mutoscope and biograph co	3fq	
+american mutoscope and biograph company	3fq	
+american mutoscope biograph	3fq	
+american mutoscope biograph company	3fq	
+american mutoscope company	3fq	
+american myth margaret cho album	2qxc	
+american national book award	4ah	
+american national men s ice hockey team	6fbm	
+american national men s soccer team	1n0	
+american national public radio npr	qhx	
+american national rugby union team	17gk	
+american native	tq6	
+american native american	tq6	
+american native indians	tq6	
+american natural history museum	1e72	
+american naturalism	o1n	
+american naval force	33	
+american naval forces	33	
+american negro spirituals	3kav	
+american negroes	3t	
+american neo nazi	2kjb	
+american neo nazis	2kjb	
+american new england	15xz	
+american new wave	758	
+american ninja	43to	5lpt:5,6gls:3
+american ninja 3	5lpt	5lpt:5
+american ninja 3 blood		5lpt:5
+american ninja 3 blood hunt	5lpt	
+american ninja warrior	6gls	
+american ninja warrior season 1	6gls	
+american north	6hu2	
+american northern	6hu2	
+american nuclear bombing of the japanese cities hiroshima and nagasaki	y6r	
+american oak	3l7	
+american observer	22n	
+american occupation of cuba 1898 1902	1i4	
+american odyssey	1jk9	
+american odyssey tv series	1jk9	
+american order	5a2h	
+american oriental society	p8x	
+american orientalists society	p8x	
+american outlaws	2bab	
+american overseas marine	c7a	
+american overseas territories	6gex	
+american pancake	rw6	
+american party bomb	1gr4	
+american party united states	13w1	
+american pastime	4vh2	
+american pastime film	4vh2	
+american patchwork records	21gs	
+american people	17qk	
+american people of german descent	ima	
+american people of japanese heritage	s7e	
+american people of the united states	17qk	
+american people s party	2q1w	
+american people s revolutionary alliance	wdb	
+american peoples party	2q1w	
+american perfekt	4uw2	
+american philological association	8yf	
+american philosophical		1t9:3
+american philosophical society	1t9	
+american philosophical society hall	1t9	
+american philosophical society museum	1t9	
+american phonology	ow	
+american physical		2l5:3
+american physical society	2l5	
+american pie	x0s,51ka	sui:3,1hn0:5,1xa7:6,25km:5,2dca:7
+american pie 2	sui	
+american pie 3	uyv	
+american pie 4	s9k	
+american pie 5	1xa7	
+american pie 5 the naked mile	1xa7	
+american pie 6	25km	
+american pie 7	2dca	
+american pie american wedding	uyv	
+american pie band camp	1hn0	
+american pie beta house	25km	
+american pie book of love	2dca	
+american pie film	x0s	
+american pie film series	51ka	
+american pie franchise	51ka	
+american pie iv	1hn0	
+american pie movie	x0s	
+american pie presents	51ka	1hn0:5,1xa7:6,25km:5,2dca:7
+american pie presents band		1hn0:5
+american pie presents band camp	1hn0	
+american pie presents beta		25km:5
+american pie presents beta house	25km	
+american pie presents book of love	2dca	
+american pie presents the		1xa7:6,2dca:7
+american pie presents the book		2dca:7
+american pie presents the book of		2dca:7
+american pie presents the book of love	2dca	
+american pie presents the naked		1xa7:6
+american pie presents the naked mile	1xa7	
+american pie reunion	s9k	
+american pie series	51ka	
+american pie the book of love	2dca	
+american pie the naked mile	1xa7	
+american pie the reunion	s9k	
+american pie the wedding	uyv	
+american pitcher	6f5c	
+american pitcher plant	6f5c	
+american plan vs british plan	sq3	
+american poets	26	
+american political		m3l:4
+american political blogging	dhc	
+american political science		m3l:4
+american political science association	m3l	
+american politician	1kws	
+american politics	1kws	
+american politics simulation	3jsd	
+american pop	1wp2	
+american popular		wdb:4
+american popular revolutionary		wdb:4
+american popular revolutionary alliance	wdb	
+american populism	d07	
+american populists	2q1w	
+american portuguese	3co	
+american president	2aqi	2aqi:3
+american presidential election	i6w	
+american prix de rome	2bh	
+american professional football association	616	
+american progressive	6h17	
+american progressivism	6h17	
+american psychiatric		n5d:3
+american psychiatric assocation	n5d	
+american psychiatric association	n5d	
+american psychiatric association comments	n5d	
+american psychiatric association publishing	n5d	
+american psychiatric pub	n5d	
+american psychiatric publishing	n5d	
+american psychiatric publishing inc	n5d	
+american psychiatrists association	n5d	
+american psychiatry association	n5d	
+american psycho	shf,5xb4	2xza:3
+american psycho 2	2xza	
+american psycho 2 all american girl	2xza	
+american psycho film	shf	
+american psycho ii	2xza	
+american psycho ii all american girl	2xza	
+american psycho movie	shf	
+american psycho music from the controversial motion picture	shf	
+american psychological		6mm:3
+american psychological association	6mm	
+american psychological association monitor	6mm	
+american psychological association publications	6mm	
+american psychological association s apa ethical standards	6mm	
+american psychological foundation	6mm	
+american psychologists	6mm	
+american psychology association	6mm	
+american psyco	5xb4	
+american public schools	iz	
+american puppeteer	48l	
+american pyscho	5xb4	
+american race relations	1e5f	
+american racing series	5gxs	
+american recordings	77z	
+american recordings company	6p	
+american recordings record label	77z	
+american recordings us	77z	
+american red crescent movement	46m6	
+american regional cuisine	qz7	
+american releasing company	4pl	
+american releasing corporation	4pl	
+american republican	1v	
+american reunion	s9k	
+american reunion film	s9k	
+american rev war	1vy	
+american revoloution	6g9p	
+american revolution	6g9p	1qac:3
+american revolution archive 1	6g9p	
+american revolution statuary	1qac	
+american revolution war	1vy	
+american revolutionary		1vy:3
+american revolutionary popular alliance	wdb	
+american revolutionary war	1vy	
+american revolutionary war article from the 1911 encyclopedia part 1	1vy	
+american revolutionary war sandbox	1vy	
+american rhapsody	1owk	
+american right	50sx	
+american rights counsel	3ox4	
+american riviera	25q	
+american robert college	1ifq	
+american romance	332p	
+american romantism	4f1	
+american roots music	16jn	
+american rounders	3p	
+american rugby union team	17gk	
+american sammy	1sk2	
+american sammy corp	1sk2	
+american sammy corporation	1sk2	
+american samoa	7sv	exl:7
+american samoa men		exl:7
+american samoa men s		exl:7
+american samoa men s national		exl:7
+american samoa men s national football		exl:7
+american samoa men s national football team	exl	
+american samoa national association football team	exl	
+american samoa national football team	exl	
+american samoa national soccer team	exl	
+american samoa territory united states	7sv	
+american samoa u s state	7sv	
+american samoa usa	7sv	
+american samoan football team	exl	
+american school	eec	
+american scottish	1ahk	
+american screenwriter	21	
+american sculptor	8zc	
+american shingle style	18gc	
+american ship		so5:4
+american ship building		so5:4
+american ship building co	so5	
+american ship building company	so5	
+american shipbuilding	so5	
+american shipbuilding company	so5	
+american sign		1m1q:3
+american sign language	1m1q	
+american sign language asl	1m1q	
+american sign language language	1m1q	
+american silk industry	1b37	
+american sky broadcasting	65g4	
+american slavery	9hh	
+american slavery ethics	9hh	
+american sniper	pqv	
+american sniper 2015 film	pqv	
+american sniper controversies	pqv	
+american sniper film	pqv	
+american sniper film controversies	pqv	
+american social policy	6emh	
+american socialist party	63l	
+american society		nq2:4,p8x:5,33z4:5,6f41:13
+american society for		nq2:4,p8x:5
+american society for microbiology	nq2	
+american society for premodern		p8x:5
+american society for premodern asia	p8x	
+american society for promoting useful knowledge	1t9	
+american society of		33z4:5,6f41:13
+american society of cinematographers		6f41:13
+american society of cinematographers award		6f41:13
+american society of cinematographers award for		6f41:13
+american society of cinematographers award for best cinematography in theatrical releases	6f41	
+american society of cinematographers award for outstanding		6f41:13
+american society of cinematographers award for outstanding achievement		6f41:13
+american society of cinematographers award for outstanding achievement in		6f41:13
+american society of cinematographers award for outstanding achievement in cinematography		6f41:13
+american society of cinematographers award for outstanding achievement in cinematography in		6f41:13
+american society of cinematographers award for outstanding achievement in cinematography in theatrical		6f41:13
+american society of cinematographers award for outstanding achievement in cinematography in theatrical releases	6f41	
+american society of cinematographers award for outstanding achievement in theatrical releases	6f41	
+american society of mechanical		33z4:5
+american society of mechanical engineers	33z4	
+american society of microbiology	nq2	
+american sociological		3hu8:7
+american sociological association		3hu8:7
+american sociological association distinguished		3hu8:7
+american sociological association distinguished scholarly		3hu8:7
+american sociological association distinguished scholarly book		3hu8:7
+american sociological association distinguished scholarly book award	3hu8	
+american sociological association jessie bernard award	2j19	
+american softworks	3vpt	
+american softworks corp	3vpt	
+american softworks corporation	3vpt	
+american soldier	4gv7	4gv7:3
+american somoa	7sv	
+american south west	6hcs	
+american southeast	6ghz	
+american southern	6h8m	
+american sovereignty restoration act of 2007	25lb	
+american space academy	40v	
+american space command	58a9	
+american spelling book	3tsq	
+american splendor	3mdt	
+american splendor film	3mdt	
+american splendor movie	3mdt	
+american splendour film	3mdt	
+american sprinter	5pj	
+american spy my secret history in the cia watergate and beyond	5os1	
+american standard code for information interchange	6b5h	
+american statistical		409b:3
+american statistical association	409b	
+american statistical association asa	409b	
+american steel barge company	so5	
+american stuffed peppers	6f7a	
+american style football	28	
+american sunshine film	2rep	
+american supreme court	429a	
+american tail	1lqo	
+american tail fievel goes west	1iaj	
+american tail the mystery of the night monster	4a66	
+american tail the treasure of manhattan island	2p8g	
+american taliban how war sex sin and power bind jihadists and the radical right	54hi	
+american technos	1brv	
+american telegraph and telephone	4fdm	
+american telephone and telecommunications	4fdm	
+american telephone and telegraph at t	4fdm	
+american telephone and telegraph inc	4fdm	
+american telephone telegraph	4fdm	
+american telephone telegraph company	4fdm	
+american television network	ijt	
+american theater	64t1	
+american theater 1939 1945	64t1	
+american theater 193945	64t1	
+american theater 1941 1945	64t1	
+american theater medal	31vn	
+american theater of operations	64t1	
+american theater of world war ii	64t1	
+american theater world war ii	64t1	
+american thrush	6dto	
+american top		j9e:3
+american top team	j9e	
+american tragedy	49j5,4xp3	
+american tragedy film	4xp3	
+american transit corp	6c9r	
+american transit corporation	6c9r	
+american trip hop	1tu	
+american tropical race	nng	
+american truck company	p0c	
+american truck corporation	p0c	
+american u	22n	
+american ultra	1l8t	
+american united states	1	
+american university	22n	7o7:4
+american university cycling	22n	
+american university in beirut	7o7	
+american university in cairo	q24	q24:5
+american university in cairo law department	q24	
+american university in cairo the	q24	
+american university international law review	4y41	
+american university law school	4y41	
+american university of		7o7:4
+american university of beirut	7o7	
+american university of cairo	q24	
+american university washington college of law	4y41	
+american us airways merger	1ns8	
+american usa	17qk	
+american vaudeville	16zm	
+american venus		5qf1:3
+american veteran cemeteries	8gx	
+american veteran cemetery	8gx	
+american victorian	g81	
+american virgin	4whh,660j	
+american virgin 2000 film	4whh	
+american virgin 2009 film	660j	
+american viticultural		5kr:3
+american viticultural area	5kr	
+american viticultural areas	5kr	
+american viticulture area	5kr	
+american vogue	471t	
+american wapiti	3wrg	
+american war crimes in vietnam	u5	
+american war of 1812	1qc	
+american war of 1812 15	1qc	
+american war of 1812 to 1815	1qc	
+american war of indepedence	1vy	
+american war of indpendence	1vy	
+american warbler	68qw	
+american wedding	uyv	
+american werewolf in london	1wsn	
+american werewolf in paris	1ivw	
+american west	6gdy	
+american white	ctd	
+american wife	6dfq	
+american woman s educational association	2qpv	
+american women s soccer team	7se	
+american yakuza	62pf	
+american zoetrope	o04	
+american zone of occupation	tia	
+american zoo and aquarium assiociation	mmq	
+american zoo and aquarium association	mmq	
+amerindian language	6x0	
+amerindian languages	6x0	
+amitabh		55c:2,6dj0:2
+amitabh bacchan	55c	
+amitabh bachan	55c	
+amitabh bachchan	55c	
+amitabh bachchan comments	55c	
+amitabh bachhan	55c	
+amitabh harivansh bachchan	55c	
+amitabh shukla	6dj0	
+antonieliton ferreira	4k8f	
+antsiranana	5yn1	5q4y:2
+antsiranana province	5q4y	
+aphelandra	41lh	
+authors	59	
+authors song	zws	
+aymon		2qgj:4
+aymon count		2qgj:4
+aymon count of		2qgj:4
+aymon count of savoy	2qgj	
+baar	owu	
+baar switzerland	owu	
+baar topinka	51tu	
+baar zg	owu	
+baar zug	owu	
+baar zug switzerland	owu	
+baldar	2e5x	
+barddhaman	121r	
+barddhaman district	7lw	
+bekim		1h53:2,2z2v:2,2z4o:2,4js9:2
+bekim bala	4js9	
+bekim balaj	4js9	
+bekim balla	4js9	
+bekim fehmiu	1h53	
+bekim kastrati	2z4o	
+bekim kuli	2z2v	
+biandronno	2n35	
+biot	2opb	
+biot alpes maritimes	2opb	
+blagoy		3p0s:2
+blagoy georgiev	3p0s	
+brue		3425:2
+brue auriac	3425	
+callie		3wwx:2
+callie cartwig	1aqb	
+callie khouri	3wwx	
+callie maggotbone	2hgp	
+callie marie	6fer	
+caribrod	v41	
+carnagie andrew	yw3	
+ceratinini	50r2	
+christianissimus	4fty	
+colui che deve morire	3kvh	
+consult	6te	
+crescendo stone	372i	
+cussac	41kl,42uv	31o5:3,36wp:3
+cussac cantal	41kl	
+cussac fort		36wp:3
+cussac fort medoc	36wp	
+cussac haute vienne	42uv	
+cussac sur		31o5:3
+cussac sur loire	31o5	
+daingerfield	4h9o	
+daingerfield texas	4h9o	
+daingerfield tx	4h9o	
+david bendeth	458n	
+david medina		5gb5:5
+david medina diaz		5gb5:5
+david medina diaz de		5gb5:5
+david medina diaz de lopez	5gb5	
+david reed	5hrv	
+david reed american football	5hrv	
+decreased appetite	4czq	
+decreased funding for established libraries	1wa	
+donetskyi natsionalnyi universytet	5jat	
+eesa in islam	6731	
+emmet		10y6:2,1iqn:2,5l7y:2,5pgn:2,5wj8:2
+emmet county	10y6,1iqn	
+emmet county ia	1iqn	
+emmet county iowa	1iqn	
+emmet county mi	10y6	
+emmet county michigan	10y6	
+emmet friars	5l7y	
+emmet lavery	5wj8	
+emmet mclaughlin	5pgn	
+emmet mcloughlin	5pgn	
+emmet ray	1jji	
+emmet smith	3pf0	
+emmet walsh	e6t	
+epizephyrian locri	1ksy	
+epizephyrian locrian	1ksy	
+epizephyrian locris	1ksy	
+fact of the annunciation of the blessed virgin mary	esv	
+fc bohemian f c praha	56g	
+finalpia	rz7	
+frontiere s	44n1	
+george voinovich	40w1	
+gfoley4 south station mbta subway station	37ms	
+gmina zlotoryja	18er	
+goniobranchus	prp	
+goztepe		7qt:3
+goztepe a s	7qt	
+goztepe izmir	7qt	
+goztepe s		7qt:3
+goztepe s k	7qt	
+goztepe sk	7qt	
+haladnik	21dn	
+harrachov	46zr	
+hiraganas	nqs	
+horne lena	e9y	
+horne marilyn	5bff	
+horne tooke	5mki	
+ismalia	yr2	
+ivankatrump	16zs	
+izagre	461o	
+izagre leon	461o	
+izagre spain	461o	
+james dornan	2daw	
+jerzy	34i	10ck:2,11nm:2,1umq:2,1uwd:3,1we3:2,2a0d:2,2ass:2,2gb4:2,2ooa:2,2r07:2,2rsy:3,2y5f:2,395i:3,3aj7:2,3cwb:2,3dow:2,3l5m:2,3t1o:2,3u4o:2,3uqq:2,44no:2,4bjf:2,4cks:2,4czi:2,4hz4:2,4po1:2,4qfe:2,4sx8:2,4xs9:2,4za7:2,59sl:2,5ctv:2,5ocp:2,5qoq:2,5t6v:2,5xwq:2,62xo:2,64ib:2,675v:2,67hb:2,6dft:2
+jerzy andrzejewski	3uqq	
+jerzy binczycki	4bjf	
+jerzy bordzilowski	4sx8	
+jerzy bordziowski	4sx8	
+jerzy brzeczek	2y5f	
+jerzy buzek	2ass	
+jerzy cardinal radziwi	4po1	
+jerzy cardinal radziwill	4po1	
+jerzy dominik		395i:3
+jerzy dominik lubomirski	395i	
+jerzy dudek	4xs9	
+jerzy duszynski	59sl	
+jerzy einhorn	67hb	
+jerzy engel	6dft	
+jerzy first name	34i	
+jerzy given name	34i	
+jerzy grotowski	675v	
+jerzy grotowsky	675v	
+jerzy hoffman	3t1o	
+jerzy karol buzek	2ass	
+jerzy kawalerowicz	1we3	
+jerzy kloczowski	5qoq	
+jerzy koczowski	5qoq	
+jerzy kosinski	2r07	
+jerzy kossak	4hz4	
+jerzy livingston	3ehp	
+jerzy lubomirski	1uwd	
+jerzy maksymiuk	44no	
+jerzy matuszkiewicz	3dow	
+jerzy montag	5xwq	
+jerzy n kosinski	2r07	
+jerzy neyman	2gb4	
+jerzy nikodem kosinski	2r07	
+jerzy nowak	3l5m	
+jerzy ossolinski	2a0d	
+jerzy pawlowski	4czi	
+jerzy pawlowsky	4czi	
+jerzy pawowski	4czi	
+jerzy petersburski	5t6v	
+jerzy podbrozny	3cwb	
+jerzy popieluszko	5mj5	
+jerzy popieuszko	5mj5	
+jerzy putrament	4cks	
+jerzy radziwi	4po1,4qfe	
+jerzy radziwi 1556 1600	4po1	
+jerzy radziwi 15561600	4po1	
+jerzy radziwi bishop	4po1	
+jerzy radziwi cardinal	4po1	
+jerzy radziwi herkules	4qfe	
+jerzy radziwill	4qfe	
+jerzy radziwill 1556 1600	4po1	
+jerzy radziwill 15561600	4po1	
+jerzy radziwill bishop	4po1	
+jerzy radziwilowicz	3aj7	
+jerzy radziwiowicz	3aj7	
+jerzy sebastian		1uwd:3
+jerzy sebastian lubomirski	1uwd	
+jerzy skolimowski	11nm	
+jerzy spawa neyman	2gb4	
+jerzy splawa neyman	2gb4	
+jerzy stawinski	2rsy	
+jerzy stefan		2rsy:3
+jerzy stefan stawinski	2rsy	
+jerzy stuhr	10ck	
+jerzy trela	1umq	
+jerzy vetulani	5ocp	
+jerzy wojcik	3u4o	
+jerzy wojcik cinematographer	3u4o	
+jerzy wroblewski	5ctv	
+jerzy zelnik	64ib	
+jerzy zielinski	2ooa	
+jerzy zietek	62xo	
+jerzy zuawski	4za7	
+jerzy zulawski	4za7	
+john adolfi	swk	
+john chong	3mkt	
+john chong ching	3mkt	
+john martin	4aid	4caf:3
+john martin armiger	44sd	
+john martin feeney	6ax	
+john martin i	4aid	
+john martin maher	1cos	
+john martin o feeney	6ax	
+john martin painter	4aid	
+john martin vorys	4caf	
+jos	ev0,iy6	
+jos brink	5ca0	
+jos cleber	5kae	
+jos daerden	66bd	
+jos emilio pacheco	3o70	
+jos first name	ev0	
+jos given name	ev0	
+jos heyligen	4hpd	
+jos hooiveld	3ksk	
+jos israel	5a0x	
+jos israels	5a0x	
+jos luhukay	60jf	
+jos nigeria	iy6	
+jos plateau	iy6	
+jos rovers	j5	
+jos stelling	57ai	
+jos van		4gmx:3
+jos van emden	4gmx	
+jos vernet	3qap	
+jos w farnham	sma	
+jos wright of derby	1e45	
+kakuei	4tj3	4tj3:2
+kakuei tanaka	4tj3	
+kannada film award	2tj8	
+kannada nadu	co	
+kannada prabhakar	2nho	
+kepinol	6b0n	
+kilbourntown	tt	
+krupp	il4	
+krupp ag	il4	
+krupp alfried alwin felix	5u8z	
+krupp arms works	il4	
+krupp family	il4	
+krupp germaniawerft	4q1	
+krupp works	il4	
+kuh mareh		jkc:5,21yg:5
+kuh mareh khami	jkc	jkc:5
+kuh mareh khami rural		jkc:5
+kuh mareh khami rural district	jkc	
+kuh mareh sorkhi	21yg	21yg:5
+kuh mareh sorkhi rural		21yg:5
+kuh mareh sorkhi rural district	21yg	
+kuh sardeh	4v9y	4v9y:4
+kuh sardeh rural		4v9y:4
+kuh sardeh rural district	4v9y	
+kuh shah	164i	
+kuh shah rural district	164i	
+kvbg	16d5	
+laveissiere	25fd	
+lintot	23oj	2xjt:3
+lintot les		2xjt:3
+lintot les bois	2xjt	
+mackellar charles	5slg	
+macropygia	4l39	
+manistee	2ess	12y9:2
+manistee county	12y9	
+manistee county mi	12y9	
+manistee county michigan	12y9	
+manistee mi	2ess	
+manistee michigan	2ess	
+merobert	2hl1	
+michael silva	5ihy	
+mixing my metaphors	24vg	
+mixing spoon	17qg	
+mixing up the medicine	15gt	
+momoko		3vyy:2
+momoko hisamatsu	3vyy	
+momoko hisamatu	3vyy	
+momoko kochi	3vyy	
+momoko kouchi	3vyy	
+momoko kouti	3vyy	
+momoko okochi	3vyy	
+nazarii		5l88:2
+nazarii yaremchuk	5l88	
+nediljko zelic	1qrt	
+npv compact	4t8x	
+obersimmental		nrx:4
+obersimmental saanen	nrx	nrx:4
+obersimmental saanen administrative		nrx:4
+obersimmental saanen administrative district	nrx	
+obersimmental saanen adminstrative district	nrx	
+obstruent lateral	24tg	
+obstruent laterals	24tg	
+pamela	3dp,4h91	8f9:2,10bb:2,15gi:2,1kue:2,1l1t:2,1vaz:2,2iv5:2,2ktr:2,2oba:2,36xt:2,3i2h:2,3nhz:3,3t2n:2,3w77:2,3zix:2,456s:2,4uci:2,4xg5:2,4xqn:2,4yng:3,54fi:2,54s5:2,5ejp:2,5g0o:3,5ixi:2,5jmz:2
+pamela a melroy	4uci	
+pamela adlon	15gi	
+pamela anderson	10bb	
+pamela anderson house	10bb	
+pamela anderson lee	10bb	
+pamela andersson	10bb	
+pamela ann melroy	4uci	
+pamela anne casselberry	t1i	
+pamela bellwood	4xqn	
+pamela beryl digby	36xt	
+pamela beryl harriman	36xt	
+pamela bjoerkman	5g0o	
+pamela bjorkman	5g0o	
+pamela britton	3w77	
+pamela brown	1kue	
+pamela brown actress	1kue	
+pamela carmen louise hicks	47kv	
+pamela carmen louise mountbatten	47kv	
+pamela churchill	36xt	
+pamela churchill harriman	36xt	
+pamela coleman smith	4yng	
+pamela colman		4yng:3
+pamela colman smith	4yng	
+pamela connolly	2oba	
+pamela denise anderson	10bb	
+pamela digby	36xt	
+pamela fenton	2lwk	
+pamela ferris	3zj8	
+pamela field	54s5	
+pamela film	4h91	
+pamela fionna adlon	15gi	
+pamela first name	3dp	
+pamela franklin	2iv5	
+pamela fryman	8f9	
+pamela gidley	1vaz	
+pamela given name	3dp	
+pamela green	54fi	
+pamela gregg	1nis	
+pamela grier	mdl	
+pamela harriman	36xt	
+pamela helen stephenson connolly	2oba	
+pamela hensley	4xg5	
+pamela hicks	47kv	
+pamela j		5g0o:3
+pamela j bjorkman	5g0o	
+pamela jane bjorkman	5g0o	
+pamela jintana		3nhz:3
+pamela jintana racine	3nhz	
+pamela kent	5d0p	
+pamela l travers	4rm5	
+pamela lady connolly	2oba	
+pamela lane	xfe	
+pamela lee	10bb	
+pamela lee anderson	10bb	
+pamela lyndon goff	4rm5	
+pamela lyndon goff travers	4rm5	
+pamela lyndon travers	4rm5	
+pamela martin	3t2n	
+pamela martin film and television editor	3t2n	
+pamela martin film and tv editor	3t2n	
+pamela martin film editor	3t2n	
+pamela martin television and film editor	3t2n	
+pamela martin television editor	3t2n	
+pamela martin tv and film editor	3t2n	
+pamela martin tv editor	3t2n	
+pamela mary brown	1kue	
+pamela mcgee	4ymk	
+pamela melroy	4uci	
+pamela morgan	5ejp	
+pamela mountbatten	47kv	
+pamela name	3dp	
+pamela pam ferris	3zj8	
+pamela plowden	3o0k	
+pamela prati	54s5	
+pamela reed	2ktr	
+pamela s adlon	15gi	
+pamela salem	5ixi	
+pamela samuelson	5jmz	
+pamela sargent	456s	
+pamela seagall	15gi	
+pamela segall	15gi	
+pamela segall adlon	15gi	
+pamela shriver	1da3	
+pamela stephenson	2oba	
+pamela stephenson connolly	2oba	
+pamela suzette grier	mdl	
+pamela tajonar	3i2h	
+pamela tiffin	1l1t	
+pamela tiffin wonso	1l1t	
+pamela travers	4rm5	
+pamela villoresi	3zix	
+pamela zarubica	55u	
+paschendale song	3jc9	
+paul andre		5x3c:3
+paul andre marie maistre	4yhs	
+paul andre meyer	5x3c	
+paulhenc	3k5y	
+peniche	33tp	
+peniche municipality	33tp	
+peniche portugal	33tp	
+penutian	68ee	
+penutian language	68ee	
+penutian language family	68ee	
+penutian languages	68ee	
+pepstatin	1iox	
+peter lilly	59g4	
+philipino language	1aq	
+pielavesi	3ww6	
+pietralba	2rfw	
+prathapachandran	5mkd	
+pratihara dynasty	3gnd	
+pratihara empire	3gnd	
+pskovskaya	jlb	
+pskovskaya oblast	jlb	
+pskovskaya oblast russia	jlb	
+pulpit	62xk	
+pulpit horse	62xk	
+quiry	2tgd	2tgd:3
+quiry le		2tgd:3
+quiry le sec	2tgd	
+reagen books	61hy	
+reculfoz	3ibk	
+rifondazione	of1	
+rifondazione comunista	of1	
+robert bolder	1ton	
+robert browning	17gf	
+robert caillaiu	67a9	
+robert campbell	5zqn,61n8	
+robert campbell journalist	5zqn	
+robert campbell jr	5hiy	
+robert hamilton	4bfz	
+robert hamilton scottish footballer	4bfz	
+robert hamilton warren	5om1	
+rondissone	40sa	
+rotanokiri	1dkt	
+rotanokiri province	1dkt	
+rotanokiri province cambodia	1dkt	
+ruden	4gpy	
+ruden austria	4gpy	
+ryutaro		5te9:2,66jd:2,66qf:2
+ryutaro hashimoto	5te9	
+ryutaro hasimoto	5te9	
+ryutaro nakamura	66jd	
+ryutaro otomo	66qf	
+san sebastian	2fs	1i8o:5,4pnw:5
+san sebastian cf	8d0	
+san sebastian de		1i8o:5,4pnw:5
+san sebastian de la		4pnw:5
+san sebastian de la gomera	4pnw	
+san sebastian de la gomera santa cruz de tenerife	4pnw	
+san sebastian de los		1i8o:5
+san sebastian de los reyes	1i8o	
+san sebastian foot ball club	48i	
+san sebastian gipuzkoa basket club	z9f	
+san sebastian gipuzkoa bc	z9f	
+san sebastian la gomera	4pnw	
+san sebastian race	m9q	
+san sebastian spain	2fs	
+saqif hasan	smx	
+semliki forest virus complex	6cvu	
+sinh cung nguyen	1yn8	
+sisyphos	6f8w	
+skjelbred	4j5e	
+snowwhite and the huntsman	12ph	
+spaceship coupe	670i	
+spaceship daughtry album	1fk8	
+spaceship galantis song	3yuq	
+spaceship to the unknown	1n6o	
+spaceship venus does not reply	282r	
+st segment elevation myocardial infarction	89	
+stent	9dk	
+sterone	lvn	
+stowell william	5uth	
+tabinshwehti	2ne5	
+tabinshwehti s war	2ne5	
+the silkmen	2bv	
+the wasteland	6h8i	
+thiesi	308z	
+thomas gustav rosenmeyer	5jvz	
+trente		5c9n:3
+trente et		5c9n:3
+trente et quarante	5c9n	
+trente et quarante film	5c9n	
+tsutsumi seiji	5g72	
+tsutsumi shinichi	36tj	
+tsutsumi yukihiko	1z3o	
+vyabari	67kl	
+woelflin	4plh	
+yokame no semi	4s22	
+zalta	6avv	

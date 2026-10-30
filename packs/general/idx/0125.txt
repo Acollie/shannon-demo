@@ -1,0 +1,567 @@
+0000ff	29x	
+a burglar		4f50:4
+a burglar s		4f50:4
+a burglar s mistake	4f50	
+aarau	d5p	22wu:2
+aarau aargau	d5p	
+aarau ag	d5p	
+aarau district	22wu	
+aarau switzerland	d5p	
+affairs	6hhm	
+affairs of adelaide	536f	
+affairs of anatol	1qf2	1qf2:4
+affairs of cellini	1t9g	1t9g:4
+affairs of dobie gillis	65i3	65i3:5
+affairs of martha	276u	276u:4
+affairs of maupassant	4zz4	4zz4:4
+affairs of susan	4hcp	4hcp:4
+airam		4mtf:2
+airam cabrera	4mtf	
+airam lopez	4mtf	
+airam lopez cabrera	4mtf	
+alcatrez	jqx	
+alexander kurnaev	6bvy	
+alo baerengrub	5sik	
+alo barengrub	5sik	
+alo dupikov	4k60	
+amaravati district	1fnq	
+amaravati guntur district	3t49	
+amaravati school	3t49	
+amarinya	scq	
+anxur	hxi	
+aragaki yui	1nx4	
+archelaos perdikas	5oi2	
+asilid	clf	
+autochthons	dcc	
+bandoneonist	3ycz	
+banthrico	u12	
+baranquilla fc	4azh	
+bednarecek	4cgl	
+bernex	1zr3	
+bernex haute savoie	1zr3	
+brandenburgia	3cv	
+brazzaville	8en,64q9	
+brazzaville american band	64q9	
+brazzaville rep of congo	8en	
+brazzaville republic of the congo	8en	
+brazzaville us band	64q9	
+charles weedon westover	2mm9	
+cinematographic	eyk	
+clanis	45v5	
+cluse de gex	1ylg	
+curling	1c1	19t5:6,19zp:6,1ln2:6,1y7z:2,3ugk:9,445f:9,4f76:9,4h58:6,4lja:9
+curling at		19t5:6,19zp:6,1ln2:6,3ugk:9,445f:9,4f76:9,4h58:6,4lja:9
+curling at the		19t5:6,19zp:6,1ln2:6,3ugk:9,445f:9,4f76:9,4h58:6,4lja:9
+curling at the 1924		4h58:6
+curling at the 1924 winter		4h58:6
+curling at the 1924 winter olympic games	4h58	
+curling at the 1924 winter olympics	4h58	
+curling at the 1998		19t5:6
+curling at the 1998 winter		19t5:6
+curling at the 1998 winter olympics	19t5	
+curling at the 2002		1ln2:6
+curling at the 2002 winter		1ln2:6
+curling at the 2002 winter olympic games	1ln2	
+curling at the 2002 winter olympics	1ln2	
+curling at the 2006		19zp:6
+curling at the 2006 winter		19zp:6
+curling at the 2006 winter olympics	19zp	
+curling at the 2010		3ugk:9,4lja:9
+curling at the 2010 winter		3ugk:9,4lja:9
+curling at the 2010 winter olympics		3ugk:9,4lja:9
+curling at the 2010 winter olympics men		3ugk:9
+curling at the 2010 winter olympics men s		3ugk:9
+curling at the 2010 winter olympics men s tournament	3ugk	
+curling at the 2010 winter olympics women		4lja:9
+curling at the 2010 winter olympics women s		4lja:9
+curling at the 2010 winter olympics women s tournament	4lja	
+curling at the 2014		445f:9,4f76:9
+curling at the 2014 winter		445f:9,4f76:9
+curling at the 2014 winter olympics		445f:9,4f76:9
+curling at the 2014 winter olympics men		445f:9
+curling at the 2014 winter olympics men s		445f:9
+curling at the 2014 winter olympics men s tournament	445f	
+curling at the 2014 winter olympics women		4f76:9
+curling at the 2014 winter olympics women s		4f76:9
+curling at the 2014 winter olympics women s tournament	4f76	
+curling broom	1c1	
+curling legs	1y7z	
+curling rock	1c1	
+curling sheet	1c1	
+curling shoes	1c1	
+curling sport	1c1	
+curling stone	1c1	
+cuzak meadow mass grave	16dn	
+dafyd ap gruffydd	2zk8	
+dermatologist	34b	
+dumb		1cmt:3,1wa4:7,2d28:4,6dvx:2
+dumb and		1cmt:3,1wa4:7,2d28:4
+dumb and dumber	1cmt	2d28:4
+dumb and dumber 2	2d28	
+dumb and dumber 2014 film	2d28	
+dumb and dumber film	1cmt	
+dumb and dumber ii	2d28	
+dumb and dumber original motion picture soundtrack	1cmt	
+dumb and dumber to	2d28	
+dumb and dumber to 2014 film	2d28	
+dumb and dumber to film	2d28	
+dumb and dumberer	1wa4	1wa4:7
+dumb and dumberer when		1wa4:7
+dumb and dumberer when harry		1wa4:7
+dumb and dumberer when harry met		1wa4:7
+dumb and dumberer when harry met lloyd	1wa4	
+dumb barge	2spp	
+dumb bomb	9ic	
+dumb dumber	1cmt	
+dumb dumber 2	2d28	
+dumb dumber to	2d28	
+dumb dumberer	1wa4	
+dumb dumberer when harry met lloyd	1wa4	
+dumb garbage song	5zvu	
+dumb jazmine sullivan song	11xm	
+dumb kelly rowland song	hzj	
+dumb kids	tmg	
+dumb terminals	6fx5	
+dumb witness	6dvx	
+dumb witness comments	6dvx	
+echillais	3yu3	
+ectypa	6ewh	
+engins	2a6x	
+epictatus	4c1e	
+erzurum	dmm	d60:2
+erzurum ili	d60	
+erzurum province	d60	
+escouilles	2qw1	
+euklid	1bsi	
+faces	3a7k,3z45,4im9	32ce:3,3wds:4,5jr3:3,5tyh:4
+faces band	3z45	
+faces film	3a7k	
+faces in		3wds:4
+faces in the		3wds:4
+faces in the crowd	3wds	
+faces in the crowd film	3wds	
+faces movie	3a7k	
+faces of		32ce:3,5jr3:3,5tyh:4
+faces of death	32ce	5tyh:4
+faces of death 2	5tyh	
+faces of death ii	5tyh	
+faces of fanfan	5f0o	
+faces of kibera	13ja	
+faces of love	5jr3	
+faces of love 1977 film	5jr3	
+faces of love film	5jr3	
+faces star trek voyager	4im9	
+faces voy	4im9	
+faces voyager episode	4im9	
+floudes	2nn4	
+fortran	fev	
+fortran 2003	fev	
+fortran 2008	fev	
+fortran 5 programming language	fev	
+fortran 66	fev	
+fortran 77	fev	
+fortran 90	fev	
+fortran 95	fev	
+fortran iv	fev	
+fortran language	fev	
+fortran programming language	fev	
+france5	1fzb	
+france5 fr	1fzb	
+francos spain	2dc3	
+funagoya station	4j3z	
+gangkofen	1oyq	
+george lawrence	5hnj	
+george lawrence footballer	5hnj	
+george lawrence mikan	1oo2	
+george lawrence mikan jr	1oo2	
+godoy		72h:4,3cc1:2
+godoy cruz	3cc1	72h:4
+godoy cruz antonio		72h:4
+godoy cruz antonio tomba	72h	
+godoy cruz de mendoza	72h	
+godoy cruz mendoza	3cc1	
+gpanz	210e	
+hanguk jeonjaeng	pk	
+hanguk pro yagu	2mz6	
+idemasport biowanze	5bdb	
+immanual kant	d51	
+interamnia praetutiana	b27	
+james tate	4kqm	
+james tate writer	4kqm	
+jobs	1fjh	
+jobs 2013 film	1fjh	
+jobs film	1fjh	
+jobs jobs jobs	4on7	
+jobs steve	oc6	
+john bayner	4uim	
+john hollander	2r28	
+john loughborough		1p5g:3
+john loughborough pearson	1p5g	
+john sandwich	1qyo	
+jugazan	3y3c	
+jukki		4ofn:2
+jukki hanada	4ofn	
+kremsier	co3	
+kunevald	4675	
+la paura	2lht	3ucb:4
+la paura fa		3ucb:4
+la paura fa 90	3ucb	
+la troisieme republique	d66	
+la vecchia signora	61ci	
+lada		5qyi:2
+lada nesterenko	5qyi	
+lada togliatti women	38j2	
+laiosh kashshak	666q	
+lavernay	2pn0	
+malysz	4r0c	
+marii	3rab	
+maryann		58k3:2
+maryann brandon	58k3	
+maryann harris	1ily	
+meddie		4o3e:2
+meddie kagere	4o3e	
+megaman	15em,2r2v	
+megaman 1	42ws	
+megaman 2	6fkq	
+megaman character	2r2v	
+megaman ii	6fkq	
+megaman series	15em	
+megaman video game	42ws	
+megaman video game character	2r2v	
+megaman x collection	68i2	
+megaman x3	4ezj	
+megaman x4	630k	
+menetreols		3q5f:3
+menetreols sous		3q5f:3
+menetreols sous vatan	3q5f	
+michael ladd	4zsy	
+michael wollny	3wv2	
+microtis	3gr9	
+microtis orchid	3gr9	
+microtis plant	3gr9	
+mikiya katakura	3va0	
+mil	1jdu	
+mil 24 hind	1t5z	
+mil a 10	1t5z	
+mil aircraft	1jdu	
+mil australia	4dj9	
+mil azerbaijan	5pih	
+mil brewers	1go	
+mil denmark	4gnc	
+mil design bureau	1jdu	
+mil egypt	5615	
+mil finland	2oxf	
+mil france	1uyw	
+mil germany	xkk	
+mil greece	5yyg	
+mil gritos tiene la noche	2b0y	
+mil helicopter	1jdu	
+mil helicopter plant	1jdu	
+mil helicopters	1jdu	
+mil iraq	3d3m	
+mil jordan	5z6g	
+mil latvia	3xjt	
+mil mascaras	3ura	
+mil mi		11x0:3,1t5z:3
+mil mi 18	11x0	
+mil mi 24	1t5z	
+mil mi 8	11x0	
+mil mi 8 hip	11x0	
+mil mi 8mn	11x0	
+mil mi 8mtv 1	11x0	
+mil mi 8tm	11x0	
+mil mi 9	11x0	
+mil mi24	1t5z	
+mil mi8	11x0	
+mil moscow		1jdu:4
+mil moscow helicopter		1jdu:4
+mil moscow helicopter plant	1jdu	
+mil mugan fk	2j0n	
+mil sf	iul	
+mil spain	4vxo	
+mil std 1815	1b0a	
+milestone	agz	1mde:4
+milestone records	agz	
+milestone s		1mde:4
+milestone s r		1mde:4
+milestone s r l	1mde	
+milestone srl	1mde	
+moderne le mans	rta	
+moderne piraten	4tb0	
+mostro	4vq9	
+naduvazhikal	4jj1	
+naissopolis	44p	
+natfiz	4mqv	
+netzher	5evp	
+newsbreak	140j	
+oerstedella	cpw	
+offutt		16hs:4
+offutt afb	16hs	
+offutt afb ne	16hs	
+offutt afb nebraska	16hs	
+offutt afb nuclear bunkers	4y0b	
+offutt air		16hs:4
+offutt air force		16hs:4
+offutt air force base	16hs	
+offutt air force base ne	16hs	
+offutt air force base nebraska	16hs	
+onolzbach	80t	
+orogenesis	3rdu	
+paraphrygia	64ci	
+paul dunbar	300u	
+paul dunbar lang	1h66	
+pervaz musharraf	2826	
+peter friedman	1nqh	
+peter naur	4nps	
+peyraud	2uxl	
+physiologic	b6o	
+placcy d s	kuw	
+problems in low dimensional topology	5u34	
+problems of baltimore city police	17o2	
+problems of oriental philosophy journal	19cu	
+problems of the liberty ship	inh	
+problems of unmaintained software	6s	
+problems with vision	4hm5	
+qualtinger	3s6b	
+quiercy	20vh	
+quiercy on the oise	20vh	
+raud valallianse	37hd	
+richie		wi1:2,1f5k:2,1fcx:2,1h8c:2,1xp8:2,34kn:2,3548:2,3h42:2,3vje:2,3xky:2,4edo:2,4tai:2,4u7g:5,5afu:2,5dj7:2,5e9k:2,5ogs:2,5s0o:2,61jc:2,68gw:2,68x5:2,6ehl:2
+richie alagich	5dj7	
+richie alagich comments	5dj7	
+richie appleby	5blt	
+richie barker	5e9k	
+richie barker footballer born 1975	5e9k	
+richie beirach	5ogs	
+richie blackmore	124e	
+richie byrne	68x5	
+richie daley	24z3	
+richie de laet	49ri	
+richie foran	61jc	
+richie furay	5s0o	
+richie guerin	4tai	
+richie hanlon	ykr	
+richie hastings	4py3	
+richie havens	1xp8	
+richie hawtin	3548	
+richie humphreys	4xuv	
+richie jen	34kn	
+richie jen hsien chi	34kn	
+richie jen ren	34kn	
+richie jones	2sw4	
+richie kotzen	1fcx	
+richie lionel	gk3	
+richie moran	6ehl	
+richie moran footballer	6ehl	
+richie partridge	3xky	
+richie podolor	53wl	
+richie porte	wi1	
+richie ren	34kn	
+richie rich	1f5k,5afu	4u7g:5
+richie rich 1994 film	1f5k	
+richie rich christmas wish	4u7g	
+richie rich film	1f5k	
+richie rich movie	1f5k	
+richie rich rapper	5afu	
+richie rich s		4u7g:5
+richie rich s christmas		4u7g:5
+richie rich s christmas wish	4u7g	
+richie rich s christmas wish 1998 film	4u7g	
+richie rich s christmas wish film	4u7g	
+richie ryan	4edo	
+richie ryan footballer	4edo	
+richie sambora	1h8c	
+richie snare	8sz	
+richie teeter	1avf	
+richie tenenbaum	1av5	
+richie valens	3nrb	
+richie valenzuela	3nrb	
+richie velch	4n02	
+richie wellens	68gw	
+richie williams	3h42	
+richie zito	3vje	
+robert fiennes clinton 19th earl of lincoln	1ztn	
+robert solow	wbd	
+rubiato	2q2v	
+san valentino		3a1n:3,5gr0:5
+san valentino in		5gr0:5
+san valentino in abruzzo		5gr0:5
+san valentino in abruzzo citeriore	5gr0	
+san valentino torio	3a1n	
+simonis palaiologina	63c0	
+siuc	daz	
+skyreach center	6g9x	
+skyreach centre	6g9x	
+smigus dingus	372h	
+sovicille	2bjj	
+stepanov	2fgi	45sb:3
+stepanov nad		45sb:3
+stepanov nad svratkou	45sb	
+stepanov olomouc district	2fgi	
+strathconas horse	16pg	
+sultanpur	4k7r	
+sultanpur uttar pradesh	4k7r	
+supetar	34fx	
+terepis	3jt	
+the poseidon		tud:3,3515:3
+the poseidon adventure	tud,3515	
+the poseidon adventure 1972 film	tud	
+the poseidon adventure 2005 film	3515	
+the poseidon adventure 2006 film	11q1	
+the unicorns	6gil	
+thomas corwin	4yyv	
+tilla		4oqm:2
+tilla durieux	4oqm	
+toshie		3abh:2
+toshie maeda	4yos	
+toshie negishi	3abh	
+tredaniel	2w1l	
+trifluvian	5dt	
+txn nasdaq	mtb	
+ulstein	33mh	33mh:2
+ulstein municipality	33mh	
+ulstein norway	33mh	
+usv elinkwijk	5392	
+usv eschen		vmw:3
+usv eschen mauren	vmw	
+usv jena women	1bl6	
+valerii	fpm	
+valerii ivanovich mezhlauk	59if	
+valerii mezhlauk	59if	
+valerii petrakov	59co	
+villepion	3moq	
+voncina	6aja	
+vvvvvv	1cnw	
+walt		1s5:5,2q9:2,3ak:3,4ee:3,5mi:4,ccz:3,e8f:5,g7g:4,qgl:4,xdo:2,yi3:3,15dk:2,2foh:3,2psy:2,2w2z:2,34sd:2,35sm:2,3iyq:3,3ydv:2,40lm:7,47dd:2,4a6v:2,4jte:2,5i3e:2,5lb2:2,5mf2:2,5pnv:2
+walt bahr	4rjv	
+walt barnes	15dk	
+walt becker	5pnv	
+walt bellamy	47dd	
+walt brown	5lb2	
+walt brown presidential campaign 2004	5lb2	
+walt chyzowych	4xvn	
+walt clyde frazier	35sm	
+walt cunningham	3ymx	
+walt davis	4a6v	
+walt dickerson	4jte	
+walt disney	2q9	1s5:5,3ak:3,4ee:3,5mi:4,ccz:3,e8f:5,g7g:4,qgl:4,yi3:3,3iyq:3,40lm:7
+walt disney animated classics	nla	
+walt disney animation		g7g:4
+walt disney animation shorts and tv	16ug	
+walt disney animation studios	g7g	
+walt disney animation studios short films collection	g7g	
+walt disney anthologies	184n	
+walt disney anthology series	184n	
+walt disney anthology television series	184n	
+walt disney co	1zt	
+walt disney company		1zt:4
+walt disney computer software	82t	
+walt disney computer software inc	82t	
+walt disney corporation	1zt	
+walt disney distribution	1s5	
+walt disney feature animation	g7g	
+walt disney hibernation urban legend	2q9	
+walt disney home entertainment	e8f	
+walt disney home video	e8f	
+walt disney imagineering	yi3	
+walt disney internet		qgl:4
+walt disney internet group	qgl	
+walt disney motion pictures group	ccz	
+walt disney music group	5tb7	
+walt disney non theatrical company	e8f	
+walt disney of japan	cp2	
+walt disney parks		40lm:7
+walt disney parks and		40lm:7
+walt disney parks and resorts	1l7d	40lm:7
+walt disney parks and resorts u		40lm:7
+walt disney parks and resorts u s	40lm	
+walt disney parks and resorts worldwide inc	1l7d	
+walt disney parks resorts	1l7d	
+walt disney pictures	3ak	
+walt disney pictures and television	1pp0	
+walt disney pictures corporation	3ak	
+walt disney pictures inc	3ak	
+walt disney pictures presents pocahontas	e9x	
+walt disney pictures television animation group	16ug	
+walt disney pitcures	3ak	
+walt disney presents	184n	
+walt disney productions	1zt	
+walt disney project	h1o	
+walt disney records	4ee	
+walt disney s animated features	nla	
+walt disney s california adventure	yxm	
+walt disney s disneyland	184n	
+walt disney s life	2q9	
+walt disney s perri	37cs	
+walt disney s peter pan	e8e	
+walt disney s peter pan board game	e8e	
+walt disney s pinocchio	fap	
+walt disney s sleeping beauty	fnt	
+walt disney s sleeping beauty board game	fnt	
+walt disney s snow white	d5m	
+walt disney s snow white and the seven dwarfs	d5m	
+walt disney s treasure island	szz	
+walt disney school	2q9	
+walt disney studios	ccz	1s5:5,e8f:5
+walt disney studios american theme park	1r5k	
+walt disney studios distribution	1s5	
+walt disney studios division	ccz	
+walt disney studios florida	1r5k	
+walt disney studios home		e8f:5
+walt disney studios home entertainment	e8f	
+walt disney studios motion		1s5:5
+walt disney studios motion pictures	1s5	
+walt disney studios paris	3bu2	
+walt disney studios park	3bu2	
+walt disney studios park doc	3bu2	
+walt disney studios production	ccz	
+walt disney studios united states theme park	1r5k	
+walt disney telecommunications non theatrical company	e8f	
+walt disney television	3iyq	
+walt disney television animation	16ug	
+walt disney television australia	11zp	
+walt disney tv animation	16ug	
+walt disney video	e8f	
+walt disney world		5mi:4
+walt disney world company	40lm	
+walt disney world fl	5mi	
+walt disney world florida	5mi	
+walt disney world resort	5mi	
+walt disney world resort in florida	5mi	
+walt disney world resorts	5mi	
+walt disney world s magic kingdom	1cxy	
+walt disneyy	2q9	
+walt elias disney	2q9	
+walt frazier	35sm	
+walt goggins	15fs	
+walt hazard	2psy	
+walt hazzard	2psy	
+walt j bellamy	47dd	
+walt jabsco	1srs	
+walt kelly	5mf2	
+walt lantz	nrs	
+walt lloyd	34sd	
+walt lloyd lost	34sd	
+walt lost	34sd	
+walt mondale	1rns	
+walt raphael hazzard	2psy	
+walt rostow	2foh	
+walt rostrow	2foh	
+walt stanchfield	2w2z	
+walt w rostow	2foh	
+walt walter whitman	xdo	
+walt wangerin	25qd	
+walt wesley	3ydv	
+walt white	6fmq	
+walt whitman	xdo	2foh:3
+walt whitman doc	xdo	
+walt whitman rostow	2foh	
+walt whitman sandbox	xdo	
+walt zakaluzny	5i3e	
+walt zakaluznyi	5i3e	
+walt zakaluznyj	5i3e	
+william meskill bourke	52mz	
+woynska	3477	
+yami		2s22:2
+yami gautam	2s22	
+zarnowiec commune	1hv7	

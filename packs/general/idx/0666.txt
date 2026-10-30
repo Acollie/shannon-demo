@@ -1,0 +1,297 @@
+1914	rw9,17y7	4e4t:4
+1914 1918 commemorative war medal france	5m1s	
+1914 1918 croix de guerre france	eq	
+1914 1918 inter allied victory medal france	5apg	
+1914 1918 war cross france	eq	
+1914 ad	17y7	
+1914 ce	17y7	
+1914 die letzten tage vor dem weltbrand	rw9	
+1914 events	17y7	
+1914 film	rw9	
+1914 the last days before the war	rw9	
+1914 tour		4e4t:4
+1914 tour de		4e4t:4
+1914 tour de france	4e4t	
+1914 urvalsdeild	9n2	
+1914 year	17y7	
+a pope	1y98	
+astrith	43fb	
+bacsalmas	6494	1tao:2
+bacsalmas district	1tao	
+barbera	1zjy	1zjy:3,42l4:4
+barbera de		42l4:4
+barbera de la		42l4:4
+barbera de la conca	42l4	
+barbera del		1zjy:3
+barbera del valles	1zjy	
+barbera joseph	55d	
+barbera straisand	7do	
+barbera streisand	7do	
+barbera striesand	7do	
+beechum county	1isf	
+bellreguard	2coy	
+biermes	3mb0	
+bormujos	3yad	
+bormujos sevilla	3yad	
+bormujos seville	3yad	
+bormujos spain	3yad	
+borovichi	572i	
+borovichi urban settlement	572i	
+borromeo charles	s57	
+bowlinggreen oh	10ok	
+bowlinggreen ohio	10ok	
+brandis jonathan	2nv9	
+brautigan richard	10ga	
+breviaire du chaos	66oj	
+brigatine	69wf	
+bumba da	aum	
+bundesrepublik deutschland	h	
+caput histriae	4zj	
+carcastillo	23ik	
+chesney baker	ihe	
+chesney henry baker	ihe	
+chesney henry chet baker jr	ihe	
+ciprofloxacin	1029	
+ciprofloxacin hydrochloride	1029	
+commmunism	2eg	
+convex concave polygons	dx3	
+convex lens	1zxq	
+delmar arnaud	sfq	
+delmar d arnaud	sfq	
+delmar drew arnaud	sfq	
+delmar hawkins	4n2f	
+divatte		2xt6:3
+divatte sur		2xt6:3
+divatte sur loire	2xt6	
+dock	13p3,1m3d	1ddv:2,3kvi:3,4c63:2,69ah:2
+dock brief	5jzf	5jzf:3
+dock ellis	69ah	
+dock landing		3kvi:3
+dock landing ship	3kvi	
+dock landing ships	3kvi	
+dock leaf	1ddv	
+dock leaves	1ddv	
+dock maritime	1m3d	
+dock plant	1ddv	
+dock rumex	1ddv	
+dock shunter	4c63	
+dock spider	4lag	
+dock structure	1m3d	
+domvallier	2f56	
+doradid	2ue8	
+dutoit charles	3vtl	
+edjmiatzin	k3e	
+elfman richard	53oo	
+entizol	54ag	
+evros	2paw	
+evros river	2paw	
+extension	4kkj	
+extension 765	azy	
+extension languages	2gh3	
+extension mozilla	1979	
+extension programming language	2gh3	
+fantomas	16bi,2n9i,3tf2,50d5	198i:3,1i12:3,1ohl:4
+fantomas 1932 film	2n9i	
+fantomas 1946 film	3tf2	
+fantomas 1947 film	3tf2	
+fantomas 1964 film	16bi	
+fantomas against		1i12:3
+fantomas against fantomas	1i12	
+fantomas band	50d5	
+fantomas contre		1ohl:4
+fantomas contre fantomas	1i12	
+fantomas contre scotland		1ohl:4
+fantomas contre scotland yard	1ohl	
+fantomas film	16bi	
+fantomas se		198i:3
+fantomas se dechaine	198i	
+fantomas unleashed	198i	
+fantomas vs scotland yard	1ohl	
+fc viciebsk	6k3	
+fc voikovets kerch	4l57	
+filippa	3d5e	
+filippa first name	3d5e	
+filippa given name	3d5e	
+filippa van henegouwen	1389	
+gasteiz	408	
+gelderse ijssel	2lmb	
+george mourad	3n0l	
+gmina losice	1dg1	
+groznyj	8un	
+gusliev	qf2	
+haku seiki	1jn7	
+haku shoki	1jn7	
+haku spirited away	1uke	
+handumanan	cyu	
+hansk commune	1fkw	
+highschooler	a7	
+hillocks primary and nursery school	prt	
+htetovo	hkq	
+ikwydls	1he7	
+interbellum poland	7d3	
+intermodal transport authority	ahh	
+jean girard talladega nights	t96	
+john chapman english writer	4v4i	
+john chapman playwright	4v4i	
+john royce mathis	9k4	
+kasmpasa		88s:3
+kasmpasa s		88s:3
+kasmpasa s k	88s	
+kasmpasa sk	88s	
+kasmpasa spor klubu	88s	
+kasmpasa spor kulubu	88s	
+kayso	5l2x	
+keseleyan	4zyn	
+kharchik	541n	
+khoueng	4ehg	
+krasnicki	16bu	
+la raison d etat	4ic5	
+landmaster star fox	1y0f	
+lepicier	4u2w	
+louviers	w0e	
+luluk		5n0u:2
+luluk hadiyanto	5n0u	
+mohammadiyeh		6fgl:3
+mohammadiyeh rural		6fgl:3
+mohammadiyeh rural district	6fgl	
+montgey	2cir	
+montvicq	2xx1	
+msnbc	fvo	
+msnbc africa	fvo	
+msnbc com	fvo	
+msnbc hd	fvo	
+msnbc tv	fvo	
+murialdo	2jeg	
+nemogardas	a7r	
+netherland antillies	gwu	
+netherland reformed church	m4m	
+netherland west indies	gwu	
+ohshima nagisa	13n4	
+ohshima naoto	428z	
+olongapo	hm5	
+olongapo city	hm5	
+olongapo city philippines	hm5	
+olongapo zambales	hm5	
+ormaiztegi	2jit	
+oudry	2cq1	
+paramorpha	6f9l	
+parco nazionale dei monti sibillini	434y	
+parczewski	1w2m	
+patricanships	4ubw	
+peczyce commune	xd2	
+phomvihane	5l7j	
+picrodendraceae	27i1	
+ploudaniel	18tw	
+pps poland	11ec	
+proclemer	3hrb	
+quarz	21ws	
+radhost	3g9w	
+radhost pardubice district	3g9w	
+radhost usti nad orlici district	3g9w	
+reactive bromine	10nn	
+reactive lymphadenopathy	6ems	
+rhaphidophoridae	1bxc	
+richard colson baker	1uif	
+roast duck	64ex	
+ruina gong	5iii	
+salaberry		l33:3
+salaberry de		l33:3
+salaberry de valleyfield	l33	
+salaberry de valleyfield qc	l33	
+salaberry de valleyfield quebec	l33	
+savonnieres	3acm	2q1x:3
+savonnieres en		2q1x:3
+savonnieres en perthois	2q1x	
+scaphinotus	13il	
+siberian	r47	
+siberian air squadron	62tp	
+siberian airlines	2zz3	
+siberian military flotilla	1r1o	
+siberian russia	r47	
+siberian steppe	r47	
+siberian technological institute	1877	
+siberian territory	r47	
+st aunes	1zor	
+stetten	2spk	
+stetten haut rhin	2spk	
+stetten im remstal	ql3	
+syllabic abbreviations	xir	
+tadamune	3quo	
+tadamune date	3quo	
+taylah	4w5	
+terapusmordax	wd0	
+thawiwatthana f c	vtg	
+the columbus blue jackets	461	
+the detours	6js	
+thiene	uct	
+thiene comune	uct	
+thiene italy	uct	
+thiene vicenza	uct	
+tingle	6hlk	
+tingle s balloon fight	3ddw	
+tingle s balloon fight ds	3ddw	
+tingle series	jfd	
+tingle the legend of zelda	6hlk	
+tonge michael	3y6b	
+transhumanist reference works	8k1	
+trevia	43gc	
+trobaritz	4n25	
+troyal	9xa	
+troyal brooks	9xa	
+troyal garth brooks	9xa	
+tvorovice	4cyh	
+vauxrezis	2pv6	
+wergenstein	3rc4	
+william starke rosecrans	46ai	
+wing	sra	1yut:4,2hcf:2,2w4g:2,2zwl:2,4yam:2,6a76:7
+wing air episode	5v24	
+wing air force	sra	
+wing air force unit	sra	
+wing and		1yut:4
+wing and a		1yut:4
+wing and a prayer	1yut	
+wing aviation	sra	
+wing back association football	12	
+wing cap	6fl1	
+wing cdr	2hcf	
+wing cheong law	3qp5	
+wing collar	4nyp	
+wing commander	2hcf,2w4g,4yam	6a76:7
+wing commander 4 the price of freedom	6a76	
+wing commander feature film	2w4g	
+wing commander film	2w4g	
+wing commander guy penrose gibson	5m9b	
+wing commander guy penrose gibson vc dso bar dfc bar raf	5m9b	
+wing commander i	4yam	
+wing commander iv		6a76:7
+wing commander iv the		6a76:7
+wing commander iv the price		6a76:7
+wing commander iv the price of		6a76:7
+wing commander iv the price of freedom	6a76	
+wing commander movie	2w4g	
+wing commander novel	2w4g	
+wing commander rakesh sharma	46es	
+wing commander rank	2hcf	
+wing commander the secret missions	4yam	
+wing commander video game	4yam	
+wing fat	470v	
+wing fortress zone	10c1	
+wing forward	18	
+wing military aviation unit	sra	
+wing military unit	sra	
+wing officer	2hcf	
+wing on street	66kw	
+wing or the thigh		10no:5
+wing records	2zwl	
+wing tank	1vb	
+wishing rock	3kq2	
+wishing tree hastings	5pe	
+witchbreed	3tj	
+xueberoa	qod	
+yelagandala	1778	
+yilan		sum:2,1qcz:2
+yilan county	sum	
+yilan county taiwan	sum	
+yilan line	1qcz	
+yilan line tra	1qcz	
+zhaowei	12cc	

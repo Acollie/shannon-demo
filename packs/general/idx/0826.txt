@@ -1,0 +1,555 @@
+17401749	2b3r	
+a monster		1rip:3,28r3:4
+a monster calls	1rip	
+a monster calls film	1rip	
+a monster in		28r3:4
+a monster in paris	28r3	
+abbiamo		3fam:2
+abbiamo vinto	3fam	
+alibertbazin syndrome	4l96	
+althusser	17hm	
+althusser louis	17hm	
+armen	ffy	xkj:2,27q3:2,3jra:2,555h:2,56mj:2,5abr:2,5ann:2,5bwf:2,5y6g:2,681u:2
+armen adamyan	56mj	
+armen ambartsumyan	681u	
+armen djigarhaniyan	xkj	
+armen djigarkhanian	xkj	
+armen dzhigarkhanyan	xkj	
+armen dzigarkhanyan	xkj	
+armen elbakyan	5y6g	
+armen firman	54fj	
+armen gilliam	3jra	
+armen grigoryan	5abr	
+armen jigarkhanyan	xkj	
+armen leonovich takhtadzhian	27q3	
+armen leonovich takhtajan	27q3	
+armen louis gilliam	3jra	
+armen ohanian	5ann	
+armen sergeyevich grigoryan	5abr	
+armen shahgeldyan	555h	
+armen takhtajan	27q3	
+armen takhtajian	27q3	
+armen vardanian	5bwf	
+armen vardanyan	5bwf	
+artus		1yeo:3,5zsl:4
+artus de		1yeo:3
+artus de penguern	1yeo	
+artus i quellin	5zsl	
+artus i quellinus	5zsl	
+artus quellijn	5zsl	
+artus quellinus	5zsl	5zsl:4
+artus quellinus de oude	5zsl	
+artus quellinus i	5zsl	
+artus quellinus the		5zsl:4
+artus quellinus the elder	5zsl	
+atasehir		13a3:3
+atasehir belediyesi	13a3	13a3:3
+atasehir belediyesi sk	13a3	
+atasehir belediyespor	13a3	
+awami league	5e5	
+awami league bangladesh	5e5	
+awami people s league	5e5	
+baltimore	fa	14p:2,283:2,3iv:2,a3l:2,b2t:2,c7f:2,kug:4,13tm:2,17o2:3,1hn8:2,2tlq:2,41yv:4,47j0:3,5t32:3,5vmd:2
+baltimore amtrak station	5t32	
+baltimore and		41yv:4
+baltimore and ohio		41yv:4
+baltimore and ohio rail road	41yv	
+baltimore and ohio railroad	41yv	
+baltimore and ohio southwestern railroad	41yv	
+baltimore and ohio system	41yv	
+baltimore aquarium	au0	
+baltimore bays	13tm	
+baltimore bays nasl	13tm	
+baltimore bees	j0f	
+baltimore bees football	j0f	
+baltimore blast	b2t,c7f	
+baltimore blast 1980 1992	c7f	
+baltimore blast 1980 92	c7f	
+baltimore blast 19801992	c7f	
+baltimore blast 198092	c7f	
+baltimore blast 1998	b2t	
+baltimore blast current	b2t	
+baltimore blast msl	b2t	
+baltimore blast original	c7f	
+baltimore bohemians	5vmd	
+baltimore bullets	2xi,1hn8	
+baltimore bullets 1944 1954	1hn8	
+baltimore bullets 1944 54	1hn8	
+baltimore bullets 19441954	1hn8	
+baltimore bullets 194454	1hn8	
+baltimore bullets 1963 1965	2xi	
+baltimore bullets 1963 1973	2xi	
+baltimore bullets 1963 73	2xi	
+baltimore bullets 19631965	2xi	
+baltimore bullets 19631973	2xi	
+baltimore bullets 196373	2xi	
+baltimore bullets original	1hn8	
+baltimore city department of transportation	fa	
+baltimore city police	17o2	
+baltimore city police department	17o2	
+baltimore city police dept	17o2	
+baltimore cocks	54r1	
+baltimore college of commerce	j0f	
+baltimore colts	3iv	
+baltimore colts 1947 1950	3iv	
+baltimore colts 1947 50	3iv	
+baltimore colts 19471950	3iv	
+baltimore colts 194750	3iv	
+baltimore colts 1950	3iv	
+baltimore colts 1953 1983	1ch	
+baltimore colts aafc	3iv	
+baltimore colts nfl	3iv	
+baltimore comets	2tlq	
+baltimore comments	fa	
+baltimore county	a3l	
+baltimore county fire department	a3l	
+baltimore county maryland	a3l	
+baltimore county md	a3l	
+baltimore david	1cql	
+baltimore law	1ead	
+baltimore law school	1ead	
+baltimore lightning	eyh	
+baltimore love thing	4jrd	
+baltimore marc station	5t32	
+baltimore maryland comments	fa	
+baltimore maryland united states of america	fa	
+baltimore maryland usa	fa	
+baltimore messenger	5ukd	
+baltimore metro	47j0	47j0:3
+baltimore metro subway	47j0	
+baltimore metro subwaylink	47j0	
+baltimore museum		kug:4
+baltimore museum of		kug:4
+baltimore museum of art	kug	
+baltimore nasl team	j3b	
+baltimore normal school	1b8z	
+baltimore o s	14p	
+baltimore ohio	41yv	
+baltimore ohio railroad	41yv	
+baltimore ohio southwestern	41yv	
+baltimore orioles	14p	
+baltimore orioles roster	14p	
+baltimore orioles sports	14p	
+baltimore os	14p	
+baltimore penn	5t32	5t32:3
+baltimore penn station	5t32	
+baltimore pennsylvania station	5t32	
+baltimore pictures	hxz	
+baltimore police	17o2	17o2:3
+baltimore police department	17o2	
+baltimore police dept	17o2	
+baltimore railroad	41yv	
+baltimore ratbirds	283	
+baltimore ravens	283	
+baltimore ravens depth chart	283	
+baltimore spirit	b2t	
+baltimore station	5t32	
+baltimore station marc	5t32	
+baltimore subway	47j0	
+baltimore sun		5ukd:3
+baltimore sun media group	5ukd	
+baltimore super bees	j0f	
+baltimore through truss	2rf	
+baltimore truss	2rf	
+baltow commune	21zm	
+baudremont	3x1v	
+belley	odo	
+bezirk		w9:2,c6h:2
+bezirk affoltern	12dq	
+bezirk baden	m3u	
+bezirk bregenz	cqm	
+bezirk bruck an der leitha	h8k	
+bezirk buelach	kvn	
+bezirk bulach	kvn	
+bezirk charlottenburg wilmersdorf	fwg	
+bezirk chemnitz	3yym	
+bezirk cottbus	3rw4	
+bezirk deutschlandsberg	e1p	
+bezirk dietikon	1ehy	
+bezirk dornbirn	65vp	
+bezirk dresden	4x0w	
+bezirk eisenstadt umgebung	sa0	
+bezirk erfurt	3w0z	
+bezirk feldkirch	mas	
+bezirk frankfurt	3ip0	
+bezirk frankfurt an der oder	3ip0	
+bezirk frankfurt oder	3ip0	
+bezirk freistadt	ntn	
+bezirk friedrichshain kreuzberg	ue5	
+bezirk gera	3pob	
+bezirk halle	218f	
+bezirk hamburg nord	17lg	
+bezirk hartberg furstenfeld	8ks	
+bezirk imst	o5e	
+bezirk innsbruck land	8es	
+bezirk karl marx stadt	3yym	
+bezirk kitzbichi	tc0	
+bezirk kitzbuhel	tc0	
+bezirk kufstein	ifq	
+bezirk landeck	jry	
+bezirk leibnitz	arb	
+bezirk leipzig	4r1k	
+bezirk lichtenberg	pzd	
+bezirk lienz	asz	
+bezirk lilienfeld	1hfu	
+bezirk lothringen	w9	
+bezirk magdeburg	5blx	
+bezirk marzahn hellersdorf	1e8a	
+bezirk mitte	c6h	
+bezirk neubrandenburg	42id	
+bezirk neukolln	tn1	
+bezirk pankow	qca	
+bezirk potsdam	25cz	
+bezirk reinickendorf	l1w	
+bezirk reutte	ec4	
+bezirk rostock	21ck	
+bezirk sankt johann im pongau	lha	
+bezirk schwaz	db2	
+bezirk schwerin	3czx	
+bezirk spandau	vyn	
+bezirk st johann im pongau	lha	
+bezirk st polten land	cln	
+bezirk steglitz zehlendorf	avu	
+bezirk tempelhof schoneberg	xds	
+bezirk treptow	4kww	
+bezirk treptow kopenick	hwj	
+bezirk tulln	rf8	
+bezirk weiz	9y9	
+bezirk werdenberg	4le0	
+bezirk wien umgebung	r8j	
+bezirk wolfsberg	3a4w	
+bezirk zell am see	hs7	
+bhathinda	2jkm	
+boribat	inn	
+brewno the bear	3zp	
+bringsvaerd	57yg	
+butane bottle	11da	
+butlerov	3tyi	
+butlerov alexander	3tyi	
+canton perez zeledon	2gnn	
+caped crusader	aoz	
+carangid	3v78	
+chaduvukunna		4ym7:2
+chaduvukunna ammayilu	4ym7	
+chikao		1et4:2
+chikao ohtsuka	1et4	
+chikao otsuka	1et4	
+chikao outsuka	1et4	
+chippaii matsu	2wxm	
+chironomids	636	
+chunghwa airlines	1rxp	
+chunghwa airways	1rxp	
+colo	3zbl	1hyk:3,5yr2:6
+colo colo	2n1	1hyk:3,5yr2:6
+colo colo b	1hyk	
+colo colo de		5yr2:6
+colo colo de futebol		5yr2:6
+colo colo de futebol e		5yr2:6
+colo colo de futebol e regatas	5yr2	
+colo colo f r	5yr2	
+colo colo filial	1hyk	
+colo colo fr	5yr2	
+colo colo futebol e regatas	5yr2	
+colo colo junior	1hyk	
+colo colo soccer club	2n1	
+colo rectal cancer	2gz	
+colo spgs	3f0	
+colo sprgs	3f0	
+colo springs	3f0	
+colo u r	59t	
+cricklefield stadium	1j2b	
+cyan		4lr9:2
+cyan inc	4lr9	
+cyan software company	4lr9	
+cyan worlds	4lr9	
+cyan worlds inc	4lr9	
+david of		22c7:3,5qmn:3
+david of burgundy	5qmn	
+david of donatello	4pit	
+david of huntingdon	22c7	
+david of scotland	22c7	
+david of scotland 8th earl of huntingdon	22c7	
+david of scotland earl of huntingdon	22c7	
+david of trebizond	375q	
+david of wales	129b	
+david olive	5m7n	
+deviat	36b2	
+dicusat e	rpv	
+dirks bentley	pfa	
+dirks nicholas	5m9n	
+dm	1gl,2lv	
+dm dulce maria album	3w9e	
+dm menace	ixq	
+dm stewart	48bs	
+domaslowice dolne	3jg5	
+domaslowice gorne	4ea6	
+eddlewood	9fb	
+eddlewood hamilton scotland	9fb	
+eliptical	6fdn	
+elsevier	1jt	
+elsevier b v	1jt	
+elsevier mosby	1jt	
+elsevier north holland inc	1jt	
+elsevier publishing company	1jt	
+elsevier science b v	1jt	
+elsevier science publishers	1jt	
+elsevier scientific publishing company	1jt	
+ephemeropteran	5nmr	
+erlom		53on:2
+erlom akhvlediani	53on	
+erlom sergeyevich akhvlediani	53on	
+eryc sprinkles	at4	
+eskimos hap and leonard	3lfz	
+exploration	45pc	
+exploration game	z7	
+exploration geographic	45pc	
+exploration of callisto	1irx	
+exploration of earth	45pc	
+exploration of ganymede	1bec	
+exploration of phobos	3pzd	
+exploration of space	4zcn	
+exploration of the asteroids	bv	
+exploration of the congo basin	mrh	
+exploration of the earth	45pc	
+exploration of the sun	8do	
+exploration of titan	h5h	
+fc kalush	621o	
+fc rabotnicki	7zb	
+federales argentina	16aq	
+fedreg	w65	
+framstegspartiet	7bi	
+galerkin boris	3s0h	
+galerkin boris g	3s0h	
+galeus	4m28	
+galitzine	6fcb	
+geezus	21n	
+gerberoi	3bqk	
+henry gimenez	4u8o	
+hirsch leib berlin	5gby	
+hirsch s r	4xo6	
+hoebrake	3ywr	
+irrawaddy		3684:2
+irrawaddy division	4l52	
+irrawaddy division burma	4l52	
+irrawaddy dry forests	3684	
+irrawaddy river	3684	
+irrawaddy river and delta	3684	
+jame chamanga	37ae	
+jame cromwell	e7h	
+jame gumb	5uzn	
+jame k polk	123y	
+james kirk	a8x	
+jerom bosch	m23	
+jnanapith award	m6c	
+john ekwugha amaechi	3pnt	
+kastelruth	1l9i	
+kastelruth castelrotto	1l9i	
+kiama	1y7d	
+kiama new south wales	1y7d	
+kiama parish camden	1y7d	
+kongara		orx:2
+kongara jaggaiah	orx	
+kongara jaggayya	orx	
+kroepelin	4f8t	
+kunkovice	43p1	
+kyffhaeuserkreis	xpr	
+la cabalgata		4ypn:4
+la cabalgata del		4ypn:4
+la cabalgata del circo	4ypn	
+lacemaker	1nq5	1nq5:2
+larmor	2224	
+leest	4v1	
+leontochir	52jl	
+linkovitch chomofsky	1wkh	
+loai		5lro:2
+loai taha	5lro	
+ludvine sagnier	10hm	
+mahaviran	4c95	
+maut	3z29	
+meghalaya	dv9	
+michael dixon biathlete	67f7	
+michael gravgard	4z7u	
+michael quigley politician	5jah	
+misery	1wnw,3b7z,65zr	4wyz:2
+misery book	65zr	
+misery chastain	65zr	
+misery city	189b	
+misery film	1wnw	
+misery harbour	4wyz	
+misery novel	65zr	
+misery play	65zr	
+misery somme	3b7z	
+mlb	5bc	
+mlb 2009	5bc	
+mlb 2k 10	62nb	
+mlb 2k10	62nb	
+mlb 2k11	6beu	
+mlb 2k12	68am	
+mlb 2k9	6e0l	
+mlb all star break	6ggk	
+mlb all star game	6ggk	
+mlb all stars	6ggk	
+mlb american league all star	6ggk	
+mlb baseball	5bc	
+mlb commissioner	6fxz	
+mlb cya	6ge1	
+mlb hall of fame	6gp5	
+mlb hof	6gp5	
+mlb mvp	ij9	
+mlb mvp award	ij9	
+mlb players	5bc	
+mlb productions	5bc	
+mlb the		6g4d:3
+mlb the show	6g4d	
+mlb the show series	6g4d	
+moctezuma		47l1:2,4jqy:2
+moctezuma ii	4jqy	
+moctezuma serrato	47l1	
+moctezuma xocoyotzin	4jqy	
+montrevault		1m2n:3
+montrevault sur		1m2n:3
+montrevault sur evre	1m2n	
+mycorrihiza	3tg	
+nanital	116g	
+newsman	x	
+nordfriesland	86h	86h:2
+nordfriesland county	86h	
+nordfriesland district	86h	
+notoa	59em	
+obituary	28sx	
+obituary band	28sx	
+organisational	23	
+organisational oversight	30k9	
+pacoalongan	4rj4	
+paratrooper	14d5	
+paratrooper film	3v7k	
+pervis	4gog	4gog:2
+pervis ellison	4gog	
+pervis hawkins	ma5	
+philaret		66u0:2
+philaret drozdov	66u0	
+philaret i	51ff	
+philaret of moscow	66u0	
+poiseux	2ny3	
+pouilloux	3pyb	
+primorsk region	c38	
+prince footballer	1jyw	
+prince naruhito	1zsj	
+ranbow six 3 raven shield	3iyu	
+recanati	lgm	
+recanati graduate school of business administration	280	
+recanati italian town	lgm	
+recanati italy	lgm	
+richard anderson	wla	
+richard ploehn	4hdf	
+rocov	2lkg	
+rusudani	4r9f	
+sacabuche	236	
+salisburgium	290	
+sapna		4ut3:4
+sapna babul		4ut3:4
+sapna babul ka		4ut3:4
+sapna babul ka bidaai	4ut3	
+saran	30wq,339w	1dzq:2
+saran commune	30wq	
+saran director	339w	
+saran district	1dzq	
+saran loiret	30wq	
+screenslaver	13nd	
+sdfcs	1bql	
+sdfcs award	1bql	
+sdfcs org	1bql	
+sokhum	b4i	
+soliloquy boom boom satellites song	2q2y	
+spacetel yemen	579p	
+st dominics rc primary school	3b3d	
+stros	1f9	
+studentenwohnheim	3j4v	
+stupa of borobudur	6d3u	
+suidobashi	3rfb	3rfb:2
+suidobashi station	3rfb	
+syrmia district	39da	
+taki		1b2f:3
+taki naishinno	1b2f	
+taki no		1b2f:3
+taki no himemiko	1b2f	
+thaddaeus zielinski	vbb	
+thanasis		1cuc:2,4qjk:2,53bt:2,5t29:2,6b1p:2
+thanasis athanasiadis	3pn	
+thanasis gogas	5t29	
+thanasis papazoglou	4qjk	
+thanasis sentementes	6b1p	
+thanasis tsigas	53bt	
+thanasis tsigkas	53bt	
+thanasis veggos	1cuc	
+thanasis vengos	1cuc	
+the cambridge anthropological expedition to torres straits	2vfy	
+the cambridge expedition to torres straits	2vfy	
+the j		1eg6:4
+the j geils		1eg6:4
+the j geils band	1eg6	
+the j j project	2a1s	
+the j paul getty museum	uzx	
+the j settes	j65	
+the neptunes	5yt2	
+the neptunes discography	5yt2	
+the neptunes sound	5yt2	
+the pizza		1ioz:3
+the pizza triangle	1ioz	
+the trout	3s2g	
+the trout film	3s2g	
+the waco kid	1csa	
+tortita	rw6	
+trbousany	45m7	
+ue1	35e	
+upazilas	2el	
+upazilas of bangladesh	2el	
+upazilas of brahmanbaria	zk4	
+vestvagsya	2gpv	
+vielverge	36mc	
+vishwatama	59tx	
+vishwatama 1992 film	59tx	
+vulcan	4wez	b07:2,5j14:7
+vulcan 20 mm cannon	4wez	
+vulcan 20mm	4wez	
+vulcan ag	78t	
+vulcan automatic cannon	4wez	
+vulcan cannon	4wez	
+vulcan fossil fuel co2 emissions inventory	1be	
+vulcan foundry	b07	
+vulcan halt railway station	b07	
+vulcan hello		2jne:3
+vulcan phalanx	2vi5	
+vulcan point	6gua	
+vulcan presenting		5j14:7
+vulcan presenting venus		5j14:7
+vulcan presenting venus with		5j14:7
+vulcan presenting venus with arms		5j14:7
+vulcan presenting venus with arms for		5j14:7
+vulcan presenting venus with arms for aeneas	5j14	
+vulcan presenting venus with arms for aeneas boucher	5j14	
+vulcan shows venus his weapons	5j14	
+vulcan sinclair	78t	
+vulcan stettin	78t	
+vulcan werft	78t	
+walgreen	3fi8	
+walgreen co	3fi8	
+walgreen s	3fi8	
+walgreen s drug stores	3fi8	
+waterie	66c3	
+willebrordi snellii	45a4	
+william blatty	17oh	
+william bootsy collins	106u	
+wordwars	189p	
+yacine		2yzh:2,3vdd:2,420d:2,4srj:2,5d69:2,5wga:2,5z3b:2,6bt1:2
+yacine abdessadki	5d69	
+yacine amaouche	5wga	
+yacine bezzaz	3vdd	
+yacine brahimi	2yzh	
+yacine hima	420d	
+yacine kechout	6bt1	
+yacine qasmi	4srj	
+yacine slatni	5z3b	
+zarzuelas	fls	
+zenone	663a	
+zenone of verona	663a	

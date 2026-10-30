@@ -1,0 +1,657 @@
+a lex	l2	
+a3r roberts	1qrp	
+akamarre	1skz	
+anti	aqp,5iqz	f02:3,m17:3,o90:3,uj8:2,102o:2,1458:3,1btp:2,1c9z:3,1dm7:3,1i7u:2,1u2n:3,2bp8:3,3g07:3,4bel:2,4q71:2,4y8e:3,50up:3,59it:6,5e2y:3,68qh:3,69ea:3
+anti acne medication	yzy	
+anti acne pharmacotherapy	yzy	
+anti acronym	hwu	
+anti addictive agent	4nvm	
+anti addictive drug	4nvm	
+anti administration	1u2n	1u2n:3
+anti administration party	1u2n	
+anti administration party united states	1u2n	
+anti aerial warfare	r95	
+anti air missile	gju	
+anti aircraft	r95	
+anti aircraft artillery	r95	
+anti aircraft battery	r95	
+anti aircraft cruiser	78r	
+anti aircraft cruisers	78r	
+anti aircraft defence	r95	
+anti aircraft missiles	gju	
+anti aircraft tank	1cfp	
+anti aircraft vehicle	1cfp	
+anti aircraft warfare	r95	
+anti album	5iqz	
+anti alzheimer medication	1nn	
+anti armor	1dm7	
+anti armour	1dm7	
+anti asthma medication	9d2	
+anti bacterial	2svm	
+anti bacterial medicine	2svm	
+anti black racism in the united states	1e5f	
+anti body	6elo	
+anti bolshevik	uj8	
+anti bourgeois	1i7u	
+anti cancer	rr	
+anti capitalism	1i7u	
+anti capitalist	1i7u	
+anti capitalist movement	1i7u	
+anti capitalist movements	1i7u	
+anti capitalists	1i7u	
+anti chalcedonian	xcy	
+anti chalcedonian churches	xcy	
+anti chalcedonianism	xcy	
+anti christ	6h8f	
+anti christ comments	6h8f	
+anti christ super star	5pkv	
+anti christian blasphemy	154g	
+anti classicism	7z3	
+anti coalition militia	2sus	
+anti colonial	4q71	
+anti colonial liberation movements	52do	
+anti colonialist	4q71	
+anti commie	uj8	
+anti communism	uj8	
+anti communism in poland	uj8	
+anti communist	uj8	
+anti communists	uj8	
+anti communists in the united states	uj8	
+anti communiusm	uj8	
+anti comunism	uj8	
+anti defection law	6fsg	
+anti dementia medication	1nn	
+anti drug	8ok	
+anti emmanuel	6h8f	
+anti energy drink	1mrm	
+anti epitaph	aqp	
+anti eu	huh	
+anti euism	huh	
+anti euro	huh	
+anti fa	4bel	
+anti facism	4bel	
+anti fascism	4bel	
+anti fascism in germany	4bel	
+anti fascism in the united states	4bel	
+anti fascist		59it:6
+anti fascist people		59it:6
+anti fascist people s		59it:6
+anti fascist people s freedom		59it:6
+anti fascist people s freedom league	59it	
+anti fascist people s freedom league myanmar	59it	
+anti fascist protection wall	6csh	
+anti fascist protective rampart	6csh	
+anti fascist protective wall	6csh	
+anti flag	1btp	
+anti folk	102o	
+anti fraud movements	mia	
+anti french resistance war	eiu	
+anti glaucoma	272c	
+anti glaucoma agent	272c	
+anti gnosis weapon system	6h4r	
+anti government revolt	5nv	
+anti ground	1dm7	
+anti harry potter community	igx	
+anti hero	5j49	
+anti heroes	5j49	
+anti heroic	5j49	
+anti heroine	5j49	
+anti hispanic racism in the united states	1e5f	
+anti hiv medications	5259	
+anti imperial	4q71	
+anti imperialism	4q71	
+anti imperialisme	4q71	
+anti imperialisms	4q71	
+anti imperialist	4q71	
+anti imperialistically	4q71	
+anti imperialists	4q71	
+anti imperially	4q71	
+anti imperials	4q71	
+anti indigenous racism in the united states	1e5f	
+anti ip	6bgh	
+anti isil coalition	1exw	
+anti itch	5lep	
+anti itch cream	5lep	
+anti itch drug	5lep	
+anti itch drugs	5lep	
+anti itching agent	5lep	
+anti itching drug	5lep	
+anti jackson party	hgf	
+anti jacksonian	hgf	
+anti jacksonian party	hgf	
+anti jacksonian party united states	hgf	
+anti japanese resistance	rdx	
+anti japanese war	3rk	
+anti jewish	zfj	
+anti jewish riots	65r0	
+anti jewism	zfj	
+anti jo	5dmf	
+anti jo antibodies	5dmf	
+anti jo1 antibodies	5dmf	
+anti latino discrimination in the united states	1e5f	
+anti leap year	34j3	
+anti liberal	2ie	
+anti mason	3g07	
+anti mason party	3g07	
+anti masonic		3g07:3
+anti masonic movement	3g07	
+anti masonic party	3g07	
+anti masonic party united states	3g07	
+anti masonic political party	3g07	
+anti masons	3g07	
+anti material	2bp8	
+anti material rifle	2bp8	
+anti material rifles	2bp8	
+anti materiel	2bp8	2bp8:3
+anti materiel rifle	2bp8	
+anti materiel sniper rifle	2bp8	
+anti matter rifle	2bp8	
+anti mi 2 antibodies	5dmf	
+anti migraine	1iuh	
+anti modern	m03	
+anti modernism	m03	
+anti money laundering	4pj6	
+anti nazi movement	4bel	
+anti nazism	4bel	
+anti nowhere		50up:3
+anti nowhere league	50up	
+anti nowhere league anthology	50up	
+anti parliamentarianism	6fsg	
+anti parliamentarism	6fsg	
+anti parliamentarist	6fsg	
+anti piracy measures in somalia	3t24	
+anti popes	vso	
+anti prism	2oei	
+anti pruritic	5lep	
+anti pruritics	5lep	
+anti qing alliance	byb	
+anti radar	5e2y	
+anti radar missile	5e2y	
+anti radiation		5e2y:3
+anti radiation missile	5e2y	
+anti radiation missile arm	5e2y	
+anti radiation missiles	5e2y	
+anti record label	aqp	
+anti records	aqp	
+anti red	uj8	
+anti revolutionaire partij	f02	
+anti revolutionary		f02:3
+anti revolutionary party	f02	
+anti rihanna	5iqz	
+anti rihanna album	5iqz	
+anti scorbutic	4uey	
+anti semetic	zfj	
+anti semite	zfj	
+anti semites	zfj	
+anti semitic	zfj	
+anti semitism	zfj	
+anti semitism in the gospel of john	l1f	
+anti semitist	zfj	
+anti ship		m17:3
+anti ship missile	m17	
+anti ship missiles	m17	
+anti ship operations	1458	
+anti ship warfare	1458	
+anti shipping missile	m17	
+anti shipping strike	1458	
+anti shipping warfare	m17	
+anti signal recognition particle antibodies	5dmf	
+anti socialist party	nbf	
+anti srp	5dmf	
+anti srp antibodies	5dmf	
+anti submarine	4y8e	4y8e:3
+anti submarine warfare trawler	32sk	
+anti submarine weapon	4y8e	
+anti submarine weapons	4y8e	
+anti surface		1458:3
+anti surface missile	1n83	
+anti surface warfare	1458	
+anti tank	1dm7	o90:3,1c9z:3,1dm7:3,68qh:3
+anti tank artillery	1dm7	
+anti tank cannon	1c9z	
+anti tank carbine	68qh	
+anti tank guided missile	o90	
+anti tank guided missiles	o90	
+anti tank guided weapon	o90	
+anti tank gun	1c9z,1dm7	
+anti tank missile	o90	
+anti tank missiles	o90	
+anti tank rifle	68qh	
+anti tank rifles	68qh	
+anti tank rocket	1dm7	
+anti tank vehicle	t7m	
+anti tank vehicles	t7m	
+anti tank warfare	1dm7	
+anti tank weaponry	1dm7	
+anti tank weapons	1dm7	
+anti terrorism	2zhb	
+anti terrorist force	2zhb	
+anti terrorist unit	pl6	
+anti traction league	6f5g	
+anti treaty sinn fein	9ac	
+anti trojan software	4ll0	
+anti uav defence system	r95	
+anti veganism	1bqh	
+anti villain	28t7	
+anti viral	vel	69ea:3
+anti viral drug	vel	
+anti viral film	69ea	
+anti viral medication	vel	
+anti viral software	4ll0	
+anti viral therapy	vel	
+anti virus	4ll0	
+anti virus programs	4ll0	
+anti war demonstration	jsk	
+apk azov	2e2d	
+apk morozovsk	2e2d	
+auvers	1wla,3rwv	lmy:3,1t30:3,2lds:3,2zqd:3
+auvers haute loire	3rwv	
+auvers le		1t30:3
+auvers le hamon	1t30	
+auvers manche	1wla	
+auvers saint		2zqd:3
+auvers saint georges	2zqd	
+auvers sous		2lds:3
+auvers sous montfaucon	2lds	
+auvers sur		lmy:3
+auvers sur oise	lmy	
+basmannyi	1pi3	
+basmannyi district	1pi3	
+basmannyi raion	1pi3	
+bergem op zoom	fp7	
+bohlsbach	gux	
+bolhrad	na7	4otf:2
+bolhrad raion	4otf	
+bourcq	2h4f	
+brillago	be8	
+bronkaid mist	2bvk	
+calvos		4tbl:3
+calvos de		4tbl:3
+calvos de randin	4tbl	
+cardiologist	66p	
+casamarciano	2f66	
+catalinas	5b2b	
+cercophora moth	55pc	
+chibrac	2s2z	
+cidade azul	4sh2	
+cidade brasil	8b	
+cidade da praia	918	
+cidade de deus film	oi9	
+cidade do boi gordo	1yli	
+cidade do mexico	7h	
+coemgenus	fx	
+collective	1por,3rlr	194m:2
+collective digital	2hey	
+collective digital studios	2hey	
+collective electrodynamics	21bi	
+collective investment	6ava	
+collective investment fund	6ava	
+collective investment scheme	6ava	
+collective investment scheme cis	6ava	
+collective investment schemes	6ava	
+collective investment vehicle	6ava	
+collective municipality	6wr	
+collective municipality of hesel	5yho	
+collective music group	1ubk	
+collective numeral	3odi	
+collective presidency	4gs	
+collective soul	194m	
+collective star trek	3rlr	
+collective star trek voyager	3rlr	
+collective violence	1aub	
+collective voyager episode	3rlr	
+courteranges	3uj2	
+dames	244a	
+dames du bois de bolougne	48nb	
+dames du bois de boulogne	48nb	
+dames film	244a	
+dames get along	2m9e	
+dausa		2qa8:2
+dausa district	2qa8	
+david olatukunbo alaba	2awd	
+dolls	15m2,2rou,3lnn	
+dolls 1987 film	3lnn	
+dolls 2002 film	2rou	
+dolls takeshi kitano film	2rou	
+dromaeosauroidea	1e3l	
+duenkirchen	7bc	
+eclans		2ogo:2
+eclans nenon	2ogo	
+edward osobka		3e6s:3
+edward osobka morawski	3e6s	
+eri	4m9b	
+eri chiemi	4p91	
+eri fukatsu	4l87	
+eri goddess	4m9b	
+eri kitamura	5h25	
+eri of the golden hair	4m9b	
+eri watanabe	462f	
+europeanbaseballchampionship	4beh	
+fc lyn oslo	64g	
+frederick g		16cg:3,4uw8:3
+frederick g banting	1qjp	
+frederick g clausen	16cg	
+frederick g cottrell	64md	
+frederick g donnan	4uw8	
+frederick g hopkins	1m8c	
+gashaga	e7k	
+gmina andrespol	3ryf	
+gmina kroczyce	15un	
+golpea senoras y ninos	4504	
+graduiertenkolleg	16dk	
+guesnes	3azx	
+gymnobela	h8a	
+hebert		3v84:2
+hebert marcuse	1din	
+hebert paul	4tvt	
+hebert revetria	3v84	
+henry cirkut walter	2qal	
+hijo de sangre mexicana	42qa	
+hijo del barrio	5ta0	
+hijo predilecto de andalucia	4i01	
+inalco	97f	
+isabell	3gn	4gr6:2,5vx6:2
+isabell bachor	5vx6	
+isabell d aragon	1xht	
+isabell jewel	18tq	
+isabell jewell	18tq	
+isabell kerschowski	3hvn	
+isabell werth	4gr6	
+itihara	182a	
+itihara tiba	182a	
+jersey	88,3i6	20c:2,xry:2,1k5u:2,1n1c:4,24jy:2,3ay4:2
+jersey bibliography	3i6	
+jersey boys	xry	
+jersey boys film	xry	
+jersey channel islands	3i6	
+jersey city	20c	
+jersey city atoms	5jjw	
+jersey city hudson county new jersey	20c	
+jersey city mayor	5ngx	
+jersey city n j	20c	
+jersey city new jersey	20c	
+jersey city nj	20c	
+jersey county	24jy	
+jersey county il	24jy	
+jersey county illinois	24jy	
+jersey eggplant	1haj	
+jersey express		1n1c:4
+jersey express s		1n1c:4
+jersey express s c	1n1c	
+jersey girl	1k5u	
+jersey girl 2004 film	1k5u	
+jersey girl 2004 movie	1k5u	
+jersey girl movie	1k5u	
+jersey island	3i6	
+jersey national rugby team	404s	
+jersey neyman	2gb4	
+jersey r f c	404s	
+jersey reds	404s	
+jersey reds r f c		404s:6
+jersey reds rugby union	404s	
+jersey rfc	404s	
+jersey rugby football club	404s	
+jersey shore	3ay4	
+jersey shore bucs	5xe0	
+jersey shore house	3ay4	
+jersey shore mtv	3ay4	
+jersey shore mtv show	3ay4	
+jersey shore show	3ay4	
+jersey shore t v series	3ay4	
+jersey shore t v show	3ay4	
+jersey shore tv series	3ay4	
+jersey shore tv show	3ay4	
+jersey sky blue	34gz	
+jersey transit	7ig	
+jersey united kingdom	3i6	
+jew bashing	zfj	
+jew hunter	gny	
+jew surname	5ij	
+jew suss	t37,40sl	4elv:5
+jew suss 1934 film	40sl	
+jew suss 1940 film	t37	
+jew suss rise		4elv:5
+jew suss rise and		4elv:5
+jew suss rise and fall	4elv	
+john stefanos paraskevopoulos	5lkm	
+kaisari	91w	
+kardam		3bvj:4
+kardam ii	3bvj	
+kardam of saxe coburg	3bvj	
+kardam of tarnovo	3bvj	
+kardam of turnovo	3bvj	
+kardam prince		3bvj:4
+kardam prince of		3bvj:4
+kardam prince of tarnovo	3bvj	
+kardam prince of turnovo	3bvj	
+kcmsystemd	53a6	
+kharkiv	1lw	c6w:2,139j:2,1jlf:3,5e89:6
+kharkiv komintern locomotive plant	2abf	
+kharkiv law institute	3qsh	
+kharkiv locomotive factory	2abf	
+kharkiv machine building design bureau	5e89	
+kharkiv metro	139j	
+kharkiv morozov		5e89:6
+kharkiv morozov machine		5e89:6
+kharkiv morozov machine building		5e89:6
+kharkiv morozov machine building design		5e89:6
+kharkiv morozov machine building design bureau	5e89	
+kharkiv national university	cxh	
+kharkiv oblast	c6w	
+kharkiv polytechnic		1jlf:3
+kharkiv polytechnic institute	1jlf	
+kharkiv polytechnical institute	1jlf	
+kharkiv polytechnical university	1jlf	
+kharkiv province	c6w	
+kharkiv region	c6w	
+kharkiv state polytchnical university	1jlf	
+kharkiv state polytechnical university	1jlf	
+kharkiv state university	cxh	
+kharkiv subway	139j	
+kharkiv university	cxh	
+kharkiv ussr	1lw	
+koyadofu	4hl2	
+kulovy blesk	3f8k	
+kulovy blesk film	3f8k	
+la folie	1qnc	
+la folie des grandeurs	19g2	
+leifr eiriksson	5zwl	
+liebig	lv2	158r:2
+liebig medal	158r	
+lockport	mhs,3k0g	
+lockport and niagara falls railroad	1jw0	
+lockport city new york	mhs	
+lockport city niagara county new york	mhs	
+lockport fire department	mhs	
+lockport il	3k0g	
+lockport ill	3k0g	
+lockport illinois	3k0g	
+lockport n y	mhs	
+lockport new york	mhs	
+lockport ny	mhs	
+lockport school district 91	3k0g	
+lumberjack records	bxg	
+maesteg	14jm	1nnt:2
+maesteg rfc	1nnt	
+maesteg wales	14jm	
+mamikonian	5cog	
+mamikonian dynasty	5cog	
+mamikonian family	5cog	
+marcheline		2zh0:2
+marcheline bertrand	2zh0	
+marcheline bertrand comments	2zh0	
+maria carey	72k	
+maria edgworth	3ryv	
+mariann	gw2,6fj0	
+mariann first name	6fj0	
+mariann given name	6fj0	
+mariann grammofon	gw2	
+mariann grammofon ab	gw2	
+mariann grammofon records	gw2	
+mariann krencsei	43b8	
+mariann krencsey	43b8	
+mariann records	gw2	
+mathmatician	58	
+medonosy	4f51	
+meeteilon	mof	
+merzbow	4wj	
+miyagawa gifu	55kg	
+moik	1olv	1olv:2
+moik baki	1olv	
+moik baku	1olv	
+moonbot studios	34kg	
+msec	13w,3ag4	
+muhr		3zuc:3
+muhr am		3zuc:3
+muhr am see	3zuc	
+naxcivan autonomous republic	1irh	
+naxcivan city	ebn	
+new directions		2bcq:3
+new directions in poetry and prose	2bcq	
+new directions in prose and poetry	2bcq	
+new directions press	2bcq	
+new directions publishers	2bcq	
+new directions publishing	2bcq	
+new directions publishing corporation	2bcq	
+notte	2cpl	2lox:4
+notte degli squali	5i1c	
+notte italiana	5etz	
+notte magica world tour	2pgo	
+notte prima		2lox:4
+notte prima degli		2lox:4
+notte prima degli esami	2lox	
+nyema gerhardt	59ot	
+ormens vag pa halleberget	5l2o	
+orthodoxjudaism	ujg	
+overdosing	t4u	
+overdosing on drugs	t4u	
+pachypodosauria	7vt	
+periferal	17cd	
+petrovskyi factory dnipropetrovsk	3mo	
+pfoerring	3383	
+poecilanthrax	4glq	
+primas	42zn	
+richard zouch	5wt5	
+richmar siberie	5a2l	
+robert meyner	5mr9	
+saint godard	58id	
+sariego	51em	
+sariego asturias	51em	
+sariego spain	51em	
+saswata		1ldc:2
+saswata chatterjee	1ldc	
+saswata chattopadhyay	1ldc	
+setia	1g3g,27ny	
+setia gastropod	27ny	
+setia genus	27ny	
+shackleton		116y:2
+shackleton bailey	59zt	
+shackleton edward arthur alexander	512i	
+shackleton expedition	hr5	
+shackleton mountains	116y	
+shackleton nicholas	22ol	
+shackleton range	116y	
+shackleton s expedition	hr5	
+shackleton sir ernest henry	mt4	
+sicheong yeok	674y	
+sigrid	gup	tu0:3,107e:3,21pe:2,2mm0:2,3i46:2,41ei:2,57x2:3,5usb:2,5wca:2
+sigrid d		57x2:3
+sigrid d peyerimhoff	57x2	
+sigrid eriksdotter vasa	4l08	
+sigrid first name	gup	
+sigrid given name	gup	
+sigrid gurie	41ei	
+sigrid gurie haukelid	41ei	
+sigrid haukelid	41ei	
+sigrid horne		tu0:3
+sigrid horne rasmussen	tu0	
+sigrid kahle	5wca	
+sigrid of sweden 1566 1633	4l08	
+sigrid of sweden 15661633	4l08	
+sigrid of sweden 1568	4l08	
+sigrid of sweden 1568 1633	4l08	
+sigrid of sweden 15681633	4l08	
+sigrid rausing	5usb	
+sigrid rausing trust	5usb	
+sigrid storrada	107e	
+sigrid svendsdatter	21pe	
+sigrid the		107e:3
+sigrid the haughty	107e	
+sigrid thornton	3i46	
+sigrid undset	2mm0	
+simsbury	19y7	
+simsbury center ct	19y7	
+simsbury connecticut	19y7	
+simsbury ct	19y7	
+simsbury public library	19y7	
+skylab	1eu2	2u6s:2
+skylab 1	1eu2	
+skylab 2	2u6s	
+skylab 2017 ep	5cgi	
+skylab 5	1eu2	
+skylab a	1eu2	
+skylab i	1eu2	
+skylab i album	5cgi	
+skylab program	1eu2	
+somalia	v2,22gi	
+somalia civil war	2nd1	
+somalia conflict	2nd1	
+somalia footballer	22gi	
+somalia language	kfb	
+somalia league	3ru8	
+somalia national university	4job	
+somalia piracy	3t24	
+somalia pirate	3t24	
+sotsiaaldemokraatlik erakond	3i4r	
+spiaglau	2u9f	
+stochov	2kko	
+symmocini	1fre	
+tarachand		1mye:2
+tarachand barjatya	1mye	
+thao khamtaam	60cl	
+thao khamterm	60cl	
+thao khamtum	60cl	
+the bulgarian orthodox church	4w5u	
+the match	3enh	4l5j:4
+the match factory		4l5j:4
+the match factory girl	4l5j	
+the match film	3enh	
+the winnipeg jets	pcy	
+thermoactinomycetaceae	6daa	
+thomas srensen	2ywp,5u26	
+thomas srensen footballer born 1984	5u26	
+thorton school of music	5sn	
+thorton wilder	top	
+tnset	ypy	
+togansai	2xvz	
+tokyodaikushu	6hgc	
+tolpad an oriant keriou breton	nfi	
+turkmania	1mz	
+unified		ldd:3,1ifw:5,2o2o:2
+unified english kingdom	dh	
+unified english state	dh	
+unified memory architecture	1eos	
+unified russia	33u	
+unified socialist		ldd:3,1ifw:5
+unified socialist party	ldd	1ifw:5
+unified socialist party catalonia	1ifw	
+unified socialist party france	ldd	
+unified socialist party of		1ifw:5
+unified socialist party of catalonia	1ifw	
+unified socialist party of venezuela	h3o	
+unified socialist party venezuela	h3o	
+unified state of kerala	fp	
+unified team	2o2o	
+unified team at the olympics	2o2o	
+unified team at the summer olympics	2o2o	
+unified team at the winter olympics	2o2o	
+unified team of germany olympic football team	7yu	
+unified world champion	4t41	
+vaidas		545p:2
+vaidas zutautas	545p	
+yining	593e	
+yining city	593e	
+z80	7ia	
+z80 instruction set	7ia	
+zambali tina	5g4k	
+zlotniki kujawskie commune	soa	

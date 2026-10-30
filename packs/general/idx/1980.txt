@@ -1,0 +1,1313 @@
+200001		x7h:4,yz8:4,11u8:4,1jdm:4,1usf:3,3d8y:2,6f7x:4
+200001 bundesliga	1usf	
+200001 cypriot		x7h:4,yz8:4,11u8:4,1jdm:4
+200001 cypriot cup	bsb	
+200001 cypriot first		x7h:4
+200001 cypriot first division	x7h	
+200001 cypriot fourth		1jdm:4
+200001 cypriot fourth division	1jdm	
+200001 cypriot second		yz8:4
+200001 cypriot second division	yz8	
+200001 cypriot third		11u8:4
+200001 cypriot third division	11u8	
+200001 ekstraklasa	3d8y	
+200001 fuball		1usf:3
+200001 fuball bundesliga	1usf	
+200001 fuballbundesliga	1usf	
+200001 fussball bundesliga	1usf	
+200001 world		6f7x:4
+200001 world sevens		6f7x:4
+200001 world sevens series	6f7x	
+548 bce	2ab9	
+a durer	d10	
+a plumbing		4lvh:5
+a plumbing we		4lvh:5
+a plumbing we will		4lvh:5
+a plumbing we will go	4lvh	
+a sidney camp	5rr2	
+acaust	5sov	
+andelot	14cw	14cw:2,1qwl:2,29tv:3
+andelot blancheville	14cw	
+andelot en		29tv:3
+andelot en montagne	29tv	
+andelot morval	1qwl	
+animated		1dt:2
+animated cartoon series	1dt	
+animated feature	jlt	
+animated feature oscar	7vk	
+animated film director	1h4	
+animated films	jlt	
+animated films and animated cartoons animation	jlt	
+animated gifs	1rlp	
+animated graphics	3yr2	
+animated images	jlt	
+animated motion picture	jlt	
+animated movies	jlt	
+animated series	1dt	
+animated shorts	c6	
+animated spider man	60k7	
+animated spider man into the spider verse	60k7	
+animated television program	1dt	
+animated television series	1dt	
+animated television show	1dt	
+animated things by bill plympton	4bd6	
+animated tv series	1dt	
+animated works by bill plympton	4bd6	
+antilly	3o3s,3z2i	
+antilly moselle	3o3s	
+antilly oise	3z2i	
+artsen	4lxg	
+artsen zonder grenzen medecins sans frontieres	4qyu	
+aznalcollar	4h09	
+aznalcollar sevilla	4h09	
+aznalcollar seville	4h09	
+aznalcollar spain	4h09	
+begusarai		3aex:2
+begusarai district	3aex	
+berets	6he9	
+bidankoze	2ebt	
+bujumbura	ck0	13wb:3
+bujumbura burundi	ck0	
+bujumbura province burundi	13wb	
+bujumbura rural	13wb	13wb:3
+bujumbura rural province	13wb	
+bujumbura ville burundi	ck0	
+bulova		48hh:2
+bulova football	48hh	
+bulova hong kong	48hh	
+bulova rangers	7j1	
+bulova rangers fc	7j1	
+bulova sa	48hh	
+cardinorm	dpv	
+chauray	2ytm	
+cheboxary	hwv	
+choudhary charan singh	32sx	
+chris	c0	c7n:2,ifk:2,kje:2,kuv:2,lyn:2,m8p:2,nc9:2,o20:2,odq:2,ojh:2,qic:3,rga:2,t4w:2,ut4:2,vkt:2,vza:2,wbn:2,wee:2,xtp:2,ybj:2,10jp:2,11i9:2,13m8:2,13wx:2,144j:2,150r:3,169i:2,16dy:2,16ue:2,178w:2,17ea:2,1871:2,18xl:3,19yd:2,1bjq:2,1bwv:2,1dcd:2,1di5:3,1h4k:2,1igi:3,1iq1:2,1ked:2,1kf7:2,1kzs:2,1ltv:2,1mjh:2,1od1:2,1pht:3,1qaw:2,1qvg:2
+chris a hadfield	23u2	
+chris abani	3u13	
+chris achilleos	16ue	
+chris adams character	1107	
+chris adamson	3r6b	
+chris adcock	51zz	
+chris adkisson	4f0j	
+chris adrian	68nv	
+chris albright	38hf	
+chris allen	561z,6bem	
+chris allen footballer born 1972	561z	
+chris allen footballer born 1989	6bem	
+chris amon	1ked	
+chris amoroso	133j	
+chris and tim stamper	3jk8	
+chris andersen	4bpn	
+chris anderson	5cl6,5fhn,5y4y	
+chris anderson entrepreneur	5y4y	
+chris anderson pianist	5cl6	
+chris anderson piano	5cl6	
+chris anderson ted	5y4y	
+chris anderson the long tail	5fhn	
+chris anderson wired	5fhn	
+chris anderson wired editor	5fhn	
+chris anderson writer	5fhn	
+chris anfinsen	3lei	
+chris anker		1pht:3
+chris anker sorensen	1pht	
+chris anker srensen	1pht	
+chris anstey	3ogm	
+chris aquino	18ju	
+chris armas	5t9p	
+chris armstrong	4vtd	
+chris armstrong footballer born 1971	4vtd	
+chris arthur	64ew	
+chris atkinson	6bd0	
+chris atkinson footballer	6bd0	
+chris austin hadfield	23u2	
+chris avellone	66x2	
+chris avram	1s5h	
+chris b landon	3d6s	
+chris b young	5a9v	
+chris bacon	653n	
+chris bacon composer	653n	
+chris bailey	6a55	
+chris bailey animator	6a55	
+chris baird	3x6q	
+chris balderstone	5m2x	
+chris bale	iet	
+chris bangle	4ow4	
+chris barker	4zne	
+chris barker bassist	1btp	
+chris barnard	69lb	
+chris barrie	5ui2	
+chris bart		4h3e:3
+chris bart williams	4h3e	
+chris barton adkisson	4f0j	
+chris batten	v5z	
+chris bauer	1h4k	
+chris beardsley	4nmc	
+chris bender	63u3	
+chris bender film producer	63u3	
+chris bender producer	63u3	
+chris bennion	69ey	
+chris bennion footballer	69ey	
+chris bennion soccer player	69ey	
+chris bettney	42ap	
+chris birchall	49s8	
+chris birdman andersen	4bpn	
+chris birdman anderson	4bpn	
+chris black	47uu,691f	
+chris black athlete	691f	
+chris black hammer thrower	691f	
+chris black screenwriter	47uu	
+chris blackburn	4lmd	
+chris blackwell	1qaw	
+chris boardman	498l	
+chris bohjalian	5n2h	
+chris boltendahl	1psh	
+chris booker	47ah	
+chris booker basketball	47ah	
+chris botti	316w	
+chris bourne	60cd	
+chris bourque	2vzh	
+chris brando	5xbc	
+chris brandon	5xrk	
+chris brandon footballer	5xrk	
+chris brasher	4kmi	
+chris brass	50sf	
+chris bridges	8ld	
+chris bridges ludacris	8ld	
+chris brindley	5ofj	
+chris brinkman	1qjm	
+chris brokaw	4fvi	
+chris brookmyre	3u6v	
+chris brown	60r0	
+chris brown entertainer	97d	
+chris brown footballer born 1971	60r0	
+chris brown trapt	4r9k	
+chris bruil	4gqu	
+chris brunt	54p5	
+chris bryant	22b4,64bj	
+chris bryant mp	22b4	
+chris bryant writer	64bj	
+chris buck	2hzx	
+chris bunch	4kp5	
+chris burchill	49s8	
+chris burden	36vi	
+chris burgh	qic	
+chris burke	3v3k	
+chris burke footballer	3v3k	
+chris burns	63dw	
+chris burns football	63dw	
+chris burns footballer	63dw	
+chris bush	5zw7	
+chris bush english footballer	5zw7	
+chris butler	61yy	
+chris butler cyclist	61yy	
+chris cabanga	3fl8	
+chris cagle	1s0z	
+chris camden	51lt	
+chris capuano	44gy	
+chris carlsen	33ra	
+chris carney	64eu	
+chris carr	4jve	
+chris carr basketball	4jve	
+chris carr basketball player	4jve	
+chris carrabba	5fh6	
+chris carruthers	31zk	
+chris carter	c7n	
+chris carter screenwriter	c7n	
+chris casement	4iuf	
+chris cassidy	3jpi	
+chris challis	iyc	
+chris charsley	5f8g	
+chris chattaway	4muc	
+chris chelios	27x9	
+chris cheney	6220	
+chris chibnall	5fx4	
+chris childs	3rf3	
+chris childs basketball	3rf3	
+chris christian	6dzr	
+chris christian soccer	6dzr	
+chris christie	1kzs	
+chris christofferson	a7w	
+chris christophersen	a7w	
+chris christopherson	a7w	
+chris chubbuck	5alk	
+chris claremont	t4w	
+chris clark	3jlf	
+chris clark electronic musician	3jlf	
+chris clark musician	3jlf	
+chris clarke	5rfb	
+chris clarke footballer	5rfb	
+chris clayton musician	z8x	
+chris cleaver	5l6z	
+chris clements	3zk2	
+chris clements animation director	3zk2	
+chris clough	663y	
+chris cockrell	5h4r	
+chris coleman	5ve5,60l5	
+chris coleman footballer	60l5	
+chris coleman politician	5ve5	
+chris coleman politician comments	5ve5	
+chris colfer	13m8	
+chris collins	63xu	
+chris collins singer	63xu	
+chris collinsworth	6gle	
+chris columbus	wee	
+chris columbus director	wee	
+chris columbus filmmaker	wee	
+chris comstock	3r9c	
+chris connelly actor	324d	
+chris connolly actor	324d	
+chris coons	5u3h	
+chris cooper	m8p	
+chris cooper actor	m8p	
+chris copeland	4d8w	
+chris corchiani	3c5g	
+chris cornell	ifk	
+chris cornell unplugged in sweden	ifk	
+chris cornes	5l5y	
+chris cornes footballer	5l5y	
+chris cortilello	1wxu	
+chris coyne	4otl	
+chris crawford	3hj9	
+chris crawford game designer	3hj9	
+chris crowe	5f9f	
+chris crutcher	5d4l	
+chris culos	2ls5	
+chris cummings	3wzn	
+chris cuomo	3vyq	
+chris cutler	55ur	
+chris d	3kog	2qpf:3
+chris d amico	uqx	
+chris d frith	2qpf	
+chris d jackson	1zrp	
+chris daddy mack smith	4diz	
+chris dagnall	5j32	
+chris damico	uqx	
+chris dangerfield	3wc4	
+chris davies	5bys	
+chris davies liberal democrat politician	5bys	
+chris day	3z30	
+chris de		qic:3
+chris de burg	qic	
+chris de burgh	qic	
+chris dean carr	4jve	
+chris deburg	qic	
+chris deburgh	qic	
+chris demakes	1lgh	
+chris desjardins	3kog	
+chris diamantopolos	56w7	
+chris diamantopoulos	56w7	
+chris diaz	19kk	
+chris dickens	20se	
+chris dickinson	6ctr	
+chris dickson	3epz	
+chris dickson footballer	3epz	
+chris dobson	4ln5	
+chris dodd	360b	
+chris dodge	2scu	
+chris doig	4htv	
+chris donahue	6h89	
+chris dowd	23jz	
+chris doyle	lnh	
+chris drury	24qi	
+chris dudley	3ct4	
+chris duffy	4vyl	
+chris duffy footballer born 1884	4vyl	
+chris e martin	2bpc	
+chris eagles	56vs	
+chris eccleston	zjj	
+chris edwards kasabian	z7y	
+chris edwards musician	z7y	
+chris eigeman	364c	
+chris elliot	178w	
+chris elliott	178w	
+chris ellis		29au:3
+chris ellis actor	29au	
+chris evans	rga	1igi:3
+chris evans actor	rga	
+chris evans actor comments	rga	
+chris evans american actor	rga	
+chris evans british broadcaster	1igi	
+chris evans broadcaster	1igi	
+chris evans dj	1igi	
+chris evans filmography	rga	
+chris evans presenter	1igi	
+chris evert	kje	
+chris evert lloyd	kje	
+chris exall	50up	
+chris fairbank	3cin	
+chris farely	1xvc	
+chris farley	1xvc	
+chris farley filmography	1xvc	
+chris farly	1xvc	
+chris fedak	3k1x	
+chris fedun	59jr	
+chris ferraro	39f6	
+chris first name	c0	
+chris fisher	2smb	
+chris flippin	4qq6	
+chris ford	4jvq	
+chris foss	5j46	
+chris fosse	5j46	
+chris frantz	6agr	
+chris franz	6agr	
+chris freestone	64jm	
+chris frith	2qpf	
+chris froome	o20	
+chris gadi	67ow	
+chris gadi n kiasala	67ow	
+chris galya	3f2i	
+chris garland	4w3r	
+chris garneau	62uv	
+chris gatling	3v9q	
+chris gauthier	3zvu	
+chris gaylor	1ge8	
+chris gerolmo	5e5e	
+chris gibson	5yg7	
+chris gibson new york congressional candidate	5yg7	
+chris gibson new york politician	5yg7	
+chris given name	c0	
+chris gorham	3xvx	
+chris goss uk	190m	
+chris gotti	m0u	
+chris grace	1gso	
+chris grayling	274k	
+chris greenacre	4i5d	
+chris gregoire	6ggh	
+chris gronkowski	4sfm	
+chris grossman	5t0b	
+chris guest	nhp	
+chris gunning	2728	
+chris gunter	4333	
+chris guthrie	6cru	
+chris hadfield	23u2	
+chris handsor	5r2k	
+chris hani		25ku:4
+chris hani district	25ku	25ku:4
+chris hani district municipality	25ku	
+chris hani municipality	25ku	
+chris hani municipality eastern cape	25ku	
+chris hannah	2wt3	
+chris hardwick	2hca	
+chris hargensen	6c5k	
+chris hargreaves	50uq	
+chris harvie	692n	
+chris hayes musician	y9a	
+chris haywood	vkt	
+chris head musician	1btp	
+chris hedges	53dj	
+chris hegarty	6e4k	
+chris hegarty footballer	6e4k	
+chris hegarty scottish footballer	6e4k	
+chris hellenkamp	4eaa	
+chris hemsworth	ut4	
+chris hemsworth filmography	ut4	
+chris henchy	5368	
+chris henderson	2rpk	
+chris henderson american musician	1aec	
+chris herd	4768	
+chris hermansen	65g2	
+chris hesse	19b5	
+chris hillman	5fy2	
+chris hitchens	fpa	
+chris holetz	1o5r	
+chris holland	4nlv	
+chris holloway	61qd	
+chris holroyd	5vkz	
+chris honor	5g4f	
+chris hope	4k0i	
+chris hope footballer	4k0i	
+chris horner	56po	
+chris houlihan room	25i5	
+chris howarth	68yo	
+chris howland	3gtl	
+chris howorth	1nmc	
+chris hoy	49qj	
+chris hubbock	5alk	
+chris huelsbeck	4avy	
+chris huerta	21mz	
+chris huffman	tqw	
+chris hughes	4ldl,4v3b	
+chris hughes drummer	4ldl	
+chris hughes entrepreneur	4v3b	
+chris hughes facebook	4v3b	
+chris hughes musician	4ldl	
+chris hughes record producer	4ldl	
+chris hughton	5uya	
+chris huhne	3fah	
+chris hulsbeck	4avy	
+chris hune	3fah	
+chris hunt	3onk	
+chris hunt badminton	3onk	
+chris hunt badminton player	3onk	
+chris hurford	63ii	
+chris hurst	60o7	
+chris hurst footballer	60o7	
+chris hutcheson	1hmt	
+chris impey	5y35	
+chris innes	4l5n	
+chris innis	2wvr	
+chris iorio	4yln	
+chris irvine	283p	
+chris isaak	vza	
+chris isak	vza	
+chris ivery	4km2	
+chris iwelumo	1ltv	
+chris jackson	2ezb,33eh,677l	
+chris jackson footballer born 1973	677l	
+chris jackson new zealand footballer	33eh	
+chris jackson scottish footballer	677l	
+chris jackson soccer	33eh	
+chris james	2lq0	
+chris james christie	1kzs	
+chris james footballer	2lq0	
+chris james musician	5m1v	
+chris janson	3x5z	
+chris janson discography	3x5z	
+chris janssens	4wi6	
+chris jenkins	5gjh	
+chris jenkins film producer	5gjh	
+chris jent	2sg7	
+chris jericho	283p	
+chris jericko	283p	
+chris johnson	3oi5,58fc,592y,5j96	
+chris johnson american football	3oi5	
+chris johnson baseball	5j96	
+chris johnson basketball born 1985	58fc	
+chris johnson basketball born 1990	592y	
+chris johnson running back	3oi5	
+chris jones	4o96,51im,5g92,5vrh,682o	
+chris jones 1990s outfielder	682o	
+chris jones access software	5vrh	
+chris jones baseball player	682o	
+chris jones footballer born 1945	4o96	
+chris jones footballer born 1989	5g92	
+chris jones guitarist	51im	
+chris jones singer songwriter	51im	
+chris joseph columbus	wee	
+chris kamara	3fl8	
+chris kanu	4x7n	
+chris kataan	23j9	
+chris katan	23j9	
+chris katongo	2a9x	
+chris kattan	23j9	
+chris keith irvine	283p	
+chris kelly rapper	4diz	
+chris kettings	3sos	
+chris killen	2krg	
+chris kimsey	6by8	
+chris king	2eik	
+chris king basketball	2eik	
+chris king martin	vgr	
+chris kirkland	42dc	
+chris kirkpatrick	6cwx	
+chris kirkpatrick comments	6cwx	
+chris kiwomya	5h0d	
+chris klein	1qvg	
+chris klein actor	1qvg	
+chris klute	510x	
+chris knapp musician	4eg2	
+chris koch	53yd	
+chris konopka	4tr9	
+chris kostas tselios	27x9	
+chris kraft	4t0u	
+chris kristofferson	a7w	
+chris kristophersen	a7w	
+chris kuroda	fxu	
+chris kutcher	p1s	
+chris kuzneski	4qii	
+chris kyle	4076	
+chris l hedges	53dj	
+chris lambert racing driver	12ww	
+chris landon	3d6s	
+chris landreth	6bk5	
+chris laney	5skg	
+chris langham	1zxe	
+chris larkin	4ncz	
+chris lasch	57bq	
+chris lawler	5spt	
+chris leadbitter	4co5	
+chris lebenzon	1871	
+chris ledoux	2r0b	
+chris lee	2qvl	
+chris lee singer	2qvl	
+chris lemire	67qv	
+chris lemmon	3saw	
+chris lennertz	ipw	
+chris lewington	5sau	
+chris lightfoot	5llh	
+chris lightfoot footballer	5llh	
+chris llewellyn	5o8y	
+chris lloyd actor	b4w	
+chris long	3hqg	
+chris long american football	3hqg	
+chris long football player	3hqg	
+chris long footballer	3q5d	
+chris long footballer born 1995	3q5d	
+chris lowell	3mi3	
+chris lucketti	5w4l	
+chris ludacris bridges	8ld	
+chris lynn hedges	53dj	
+chris mac daddy kelly	4diz	
+chris mack daddy kelly	4diz	
+chris mackenzie	51yf	
+chris maguire	3ogp	
+chris mahlangu	64jd	
+chris makin	55sk	
+chris malonga	4o6y	
+chris marker	xtp	
+chris marquette	20x4	
+chris marsden	5f07	
+chris martin	144j	
+chris martin american actor	vgr	
+chris martin musician	144j	
+chris martinez	5nds	
+chris martinez soccer	5nds	
+chris masterson	4m56	
+chris mathews	3fe8	
+chris matthews	3fe8	
+chris mavinga	3393	
+chris mccarron	6c7p	
+chris mcgroarty	3sar	
+chris mcgroarty scottish footballer	3sar	
+chris mcphee	5zk3	
+chris mcquarrie	25rl	
+chris megaloudis	4b08	
+chris meledandri	2746	
+chris meloni	19c2	
+chris menaul	5ubw	
+chris menges	odq	
+chris messina	13wx	
+chris messina actor	13wx	
+chris metzen	54br	
+chris mileski	1v3q	
+chris miller	2uyf	
+chris miller animator	2uyf	
+chris mintz plasse	24vl	
+chris misiano	5bu2	
+chris mitchum	1gvk	
+chris monzel	8ag	
+chris moore	30a0,641w	
+chris moore film producer	30a0	
+chris moore film producer american pie	30a0	
+chris moore footballer born 1980	641w	
+chris moore footballer striker	641w	
+chris moore movie producer	30a0	
+chris moore welsh footballer	641w	
+chris morgan	3jnv	
+chris morgan comics	3jnv	
+chris morgan productions	3jnv	
+chris morgan screenwriter	3jnv	
+chris morgan writer	3jnv	
+chris morris	3gul	
+chris morris comedian	3gul	
+chris morris radio show	3gul	
+chris morris satirist	3gul	
+chris moy	10yd	
+chris mulkey	16dy	
+chris murphy	55ve	
+chris murphy connecticut politician	55ve	
+chris murphy politician	55ve	
+chris musampa	2lg4	
+chris myers	5krf	
+chris myers footballer	5krf	
+chris neal	5xre	
+chris nicholl	46jo	
+chris noonan	404x	
+chris norman	49n1	
+chris noth	11i9	
+chris novoselic	4u8j	
+chris nurse	1od1	
+chris o		150r:3,18xl:3,39kg:3
+chris o donnell	18xl	
+chris o dowd	150r	
+chris o grady	39kg	
+chris obodo	31pk	
+chris odonnell	18xl	
+chris offilli	5vdm	
+chris ofili	5vdm	
+chris okoh	5tlj	
+chris okoh footballer	5tlj	
+chris oliveros	57p2	
+chris ostreicher	x0s	
+chris owen	35z2	
+chris owen actor	35z2	
+chris owens	2602	
+chris owens basketball	2602	
+chris owens basketball player	2602	
+chris owens us politician	40yp	
+chris p bacon	653n	
+chris palko	3b7w	
+chris palmer	388m	
+chris palmer footballer	388m	
+chris paluska	22y9	
+chris paolini	5h8i	
+chris parnell	2401	
+chris patrick	5i4q	
+chris patten	2czd	
+chris patten baron patten of barnes	2czd	
+chris paul	1bwv	
+chris payne	5ed1	
+chris payne footballer	5ed1	
+chris pearce	513m	
+chris pearce footballer	513m	
+chris penn	lyn	
+chris perez	60gs	
+chris perkins	6ciw	
+chris perkins footballer	6ciw	
+chris perna	ply	
+chris perrins	3474	
+chris pike	5rse	
+chris pin martin	vgr	
+chris pine	ybj	
+chris pine filmography	ybj	
+chris pirsig	4nlk	
+chris pissarides	4fo7	
+chris plummer	48tl	
+chris poland	65ai	
+chris porter	36zl,5grh,5sz1	
+chris porter basketball	36zl	
+chris porter basketballer	36zl	
+chris porter footballer born 1979	5sz1	
+chris porter footballer born 1983	5grh	
+chris portugal	4i9k	
+chris potter	5d43	
+chris potter 1960	5d43	
+chris potter actor	5d43	
+chris powell	452i	
+chris powles	3t08	
+chris pozniak	348w	
+chris pratt	10jp	
+chris pratt filmography	10jp	
+chris prescott	4ewt	
+chris pronger	2hz4	
+chris r hughes	4v3b	
+chris r pronger	2hz4	
+chris rae	nc9	
+chris raymond gatling	3v9q	
+chris rea	nc9	
+chris rear	nc9	
+chris redfield	6gvv	
+chris renaud	3vhu	
+chris renaud animator	3vhu	
+chris rene	631v	
+chris rhea	nc9	
+chris richards musician	43wi	
+chris riddell	1iq1	
+chris roach	193b	
+chris robert pronger	2hz4	
+chris roberts	2coe,4j8u	
+chris roberts film producer	2coe	
+chris roberts game developer	2coe	
+chris roberts singer	4j8u	
+chris robertson american guitarist	300c	
+chris robinson	2tyg,4wxb	
+chris robinson basketball	4wxb	
+chris robinson singer	2tyg	
+chris rock	kuv	
+chris ronaldo	ekm	
+chris rouleau	4yna	
+chris rubey	4lff	
+chris ryan	3qsv	
+chris rybicki	4xex	
+chris salih	1sc6	
+chris samba	45gy	
+chris samuel	4epv	
+chris sanders	1bjq	
+chris sanders director	1bjq	
+chris sarandon	19yd	
+chris sawyer	6g14	
+chris sawyer productions	6g14	
+chris schorch	2sjs	
+chris scott greenwood	4brr	
+chris sehenuk	556d	
+chris seitz	4mtw	
+chris seligman	3fxf	
+chris settlemire	5hcf	
+chris sheridan	3gxk	
+chris sheridan screenwriter	3gxk	
+chris sheridan writer	3gxk	
+chris short	6e7w	
+chris short footballer	6e7w	
+chris shuker	5xiu	
+chris simon	23wn	
+chris smalling	36tc	
+chris smith	2lwz,3xl9,4m27,5wrm	4m27:6
+chris smith baron		4m27:6
+chris smith baron smith		4m27:6
+chris smith baron smith of		4m27:6
+chris smith baron smith of finsbury	4m27	
+chris smith basketball	2lwz	
+chris smith basketball born 1970	2lwz	
+chris smith english footballer	3xl9	
+chris smith footballer born 1981	3xl9	
+chris smith footballer born 1988	5wrm	
+chris smith rapper	4diz	
+chris smith uk politician	4m27	
+chris smither	3n2l	
+chris smither discography	3n2l	
+chris soghoian	6czz	
+chris spedding	2fdq	
+chris speier	67hz	
+chris spencer	687h	
+chris spencer musician	687h	
+chris spicuzza	3hl1	
+chris spielman	4pae	
+chris squire	169i	
+chris stamper	3jk8	
+chris stapelton	3s7w	
+chris stapleton	3s7w	
+chris stapleton doc	3s7w	
+chris steele musician	2vx4	
+chris stevens	51bi	
+chris stewart	61m2	
+chris stewart author and politician	61m2	
+chris stewart politician	61m2	
+chris stokes	5jqr	
+chris stokes director	5jqr	
+chris stokes film director and music executive	5jqr	
+chris stokes film director and record producer	5jqr	
+chris stokes record producer	5jqr	
+chris strachey	5r71	
+chris sununu	4plf	
+chris sutton	4dfh	
+chris swailes	385m	
+chris swinney	4eg2	
+chris tadrosse	68xr	
+chris tardif	5a2k	
+chris tashima	50ik	
+chris tate	6c2e	
+chris tate footballer	6c2e	
+chris taylor	5ff9,6338	
+chris taylor game designer	5ff9	
+chris taylor grizzly bear musician	6338	
+chris taylor platoon	n0q	
+chris templeman	68kr	
+chris terrio	4aze	
+chris thile	2ob5	
+chris thile comments	2ob5	
+chris thile discography	2ob5	
+chris thile the tensions mountain boys	2ob5	
+chris thomas	ojh	5g6p:3
+chris thomas king	5g6p	
+chris thomas record producer	ojh	
+chris thompson	46jx,5014,5wu1	
+chris thompson football	87u	
+chris thompson footballer born 1960	5wu1	
+chris thompson footballer born 1982	46jx	
+chris thompson swimmer	5014	
+chris thorndyke	4pmw	
+chris thorneycroft	4y31	
+chris timons	2qd9	
+chris todd	6af0	
+chris tomlin	1wrk	
+chris townsend	49ms	
+chris townsend footballer	49ms	
+chris trilby	6763	
+chris tsangarides	3xrt	
+chris tselios	27x9	
+chris tucker	2q88	
+chris turner	56d2,5bjs,6bc2	
+chris turner canadian goalkeeper	6bc2	
+chris turner canadian soccer	6bc2	
+chris turner defender	56d2	
+chris turner footballer b 1951	56d2	
+chris turner footballer born 1951	56d2	
+chris turner footballer born 1987	5bjs	
+chris turner midfielder	5bjs	
+chris turner peterborough manager	56d2	
+chris turner soccer	6bc2	
+chris van		1di5:3
+chris van allsberg	1di5	
+chris van allsburg	1di5	
+chris velasco	5rlr	
+chris vincent metzen	54br	
+chris von		4f0j:3
+chris von erich	4f0j	
+chris vrenna	3p77	
+chris waddle	1kf7	
+chris walken	9re	
+chris walker	5xzt	
+chris walker rugby league	5xzt	
+chris walker rugby league footballer	5xzt	
+chris walker rugby player	5xzt	
+chris walla	25yx	
+chris wallace	4i48	
+chris wallace comments	4i48	
+chris wallace journalist	4i48	
+chris wallace journalist comments	4i48	
+chris ward	4f1e	
+chris ward footballer	4f1e	
+chris ware	3lno	
+chris warren	69aa	
+chris warren jnr	69aa	
+chris warren jr	69aa	
+chris watson	384q	
+chris watson comments	384q	
+chris wayne jackson	2ezb	
+chris weale	6cc6	
+chris webber	1yf1	
+chris wedge	1mjh	
+chris weitz	wbn	
+chris weitz doc	wbn	
+chris welp	34xq	
+chris westwood	53ip	
+chris whitley	1dcd	
+chris whyte	2o0e	
+chris wiggins	46s1	
+chris wilder	39x2	
+chris williams	1zgx,3rqa,3xn0,4jpq	
+chris williams basketball	3xn0	
+chris williams canadian soccer	3rqa	
+chris williams canadian soccer player	3rqa	
+chris williams director	1zgx	
+chris williams english footballer	4jpq	
+chris willis	3k6u	
+chris withe	6ebi	
+chris witty	59ji	
+chris wong rapper	33ey	
+chris wood	274d	
+chris wood footballer born 1991	274d	
+chris woodhead	4you	
+chris woods	1vj6	
+chris yost	5nb8	
+chris young	17ea,4jjt,5a9v,5i5n	
+chris young actor	4jjt	
+chris young baseball outfielder	5a9v	
+chris young baseball pitcher	5i5n	
+chris young baseball player	5i5n	
+chris young baseball starting pitcher	5i5n	
+chris young musician	17ea	
+chris young outfielder	5a9v	
+chris young pitcher	5i5n	
+chris young singer	17ea	
+chris zebroski	60n6	
+chris zeeman	3thl	
+chris zorich	5itj	
+chris zoricich	2e1a	
+chris zylka	5hcf	
+civillian	6e5p	
+clodius	6frs	
+clodius pulcher	25a3	
+coban	1tf0	14g8:2
+coban coban	1tf0	
+coban imperial	14g8	
+comburg rothenburg	1tq9	
+connantray		2pk5:2
+connantray vaurefroy	2pk5	
+czartoryski	1nhf	
+czartoryski family	1nhf	
+dacorum	pwi	
+dacorum medieval latin word	1b4c	
+dampvalley		3ure:3,3vn8:3
+dampvalley les		3ure:3
+dampvalley les colombe	3ure	
+dampvalley saint		3vn8:3
+dampvalley saint pancras	3vn8	
+david heathcoat		5xn7:3
+david heathcoat amory	5xn7	
+david koepp	zld	
+david koepp filmography	zld	
+david sanborn	2r1o	
+dawda		5bhy:2
+dawda bah	5bhy	
+derthona	1o3e	
+derthona calcio	1o3e	
+derthona f b c	1o3e	
+derthona f b c 1908	1o3e	
+derthona fbc	1o3e	
+dev	1jaz,2di6	
+dev 2004 film	2di6	
+dev actor	1b3f	
+dev adhikari	1b3f	
+dev anand	9pa	
+dev cole	5wad	
+dev d	2lv2	
+dev d 2009 film	2lv2	
+dev d film	2lv2	
+dev entertainment ventures	1b3f	
+dev film	2di6	
+dev hynes	260f	
+dev kit	162o	
+dev movie	2di6	
+dev patel	3y2c	
+dev shumsher rana	5duq	
+dev singer	1jaz	
+digieggs	3axn	
+dipterocarpus	oc0	
+dobrawka of bohemia	1hcp	
+dobrawka of poland	1hcp	
+dobrawka przemyslidka	1hcp	
+drumcondra		u1m:3
+drumcondra a f c	u1m	
+drumcondra dublin	u1m	
+drumcondra f		u1m:3
+drumcondra f c	u1m	
+drumcondra fc	u1m	
+drumcondra football club	u1m	
+dwight	5k5	a5p:3,fem:2,1e25:2,1usp:3,1v31:4,1vg1:2,27x8:2,2rdt:2,3mgi:4,3sag:2,3w93:2,3xqv:2,4c7i:2,4uio:2,4xy7:2,5a31:2,5ws1:2
+dwight a myers	1clx	
+dwight arrington myers	1clx	
+dwight d		a5p:3
+dwight d eisenhower	a5p	
+dwight d eisenhower national system of interstate and defence highways	26u	
+dwight d eisenhower system of interstate and defence highways	26u	
+dwight david		1v31:4
+dwight david eisenhower	a5p	
+dwight david eisenhower freeway	4z0l	
+dwight david eisenhower ii	4cyk	
+dwight david eisenhower memorial freeway	4z0l	
+dwight david howard	1v31	1v31:4
+dwight david howard jr	1v31	
+dwight davis	3mgi	
+dwight devon boyd gayle	4c7i	
+dwight dewey riley	2ic6	
+dwight dewey riley scream series	2ic6	
+dwight e eisenhower	a5p	
+dwight eisenhower	a5p	
+dwight eisenhower freeway	4z0l	
+dwight eisenhower memorial freeway	4z0l	
+dwight eisienhower	a5p	
+dwight elmo jones	3xqv	
+dwight errington myers	1clx	
+dwight eversley yorke	2rdt	
+dwight f davis	3mgi	
+dwight filley		3mgi:4
+dwight filley davis	3mgi	3mgi:4
+dwight filley davis sr	3mgi	
+dwight first name	5k5	
+dwight foster	5a31	
+dwight foster 1757 1823	5a31	
+dwight foster 17571823	5a31	
+dwight foster massachusetts	5a31	
+dwight fry	1vg1	
+dwight frye	1vg1	
+dwight gayle	4c7i	
+dwight given name	5k5	
+dwight grant	1wpy	
+dwight h		1usp:3
+dwight h little	1usp	
+dwight heavy d myers	1clx	
+dwight hemion	5ws1	
+dwight henry little	1usp	
+dwight howard	1v31	
+dwight hubbard little	1usp	
+dwight iliff frye	1vg1	
+dwight isenhour	a5p	
+dwight jones	3xqv	
+dwight jones basketball	3xqv	
+dwight jones basketball player	3xqv	
+dwight little	1usp	
+dwight marshall	4xy7	
+dwight morrow	4uio	
+dwight myers	1clx	
+dwight pezzarossi	3sag	
+dwight schar college of nursing health sciences	33ly	
+dwight schultz	1e25	
+dwight schulz	1e25	
+dwight shultz	1e25	
+dwight taylor	27x8	
+dwight taylor writer	27x8	
+dwight tiendalli	3w93	
+dwight w morrow	4uio	
+dwight whitney	2k8s	
+dwight whitney morrow	4uio	
+dwight yoakam	fem	
+dwight yoakam discography	fem	
+dwight yoakim	fem	
+dwight yoakum	fem	
+dwight yokam	fem	
+dwight yokum	fem	
+dwight yorke	2rdt	
+edano yukio	57rd	
+elateroidea	5v0g	
+embassador	1xh	
+ewedown	100e	
+fahredin durak	69uy	
+fairground		6ddz:2
+fairground equipment	7c0	
+fairground fair	7c0	
+fairground ontario	2ty5	
+fairground people	6ddz	
+fairmount		5o07:2
+fairmount bible school	1k9r	
+fairmount cemetery	5o07	
+fairmount cemetery denver	5o07	
+fairmount cemetery denver colorado	5o07	
+fairmount college	abt	
+fairmount ohio	rds	
+fairmount records	y9n	
+fc knaapo smena komsomolsk na amure	b0u	
+fegreac	2dgn	
+fflint	49ye	
+flours	3uk	
+fousseiny		4ehv:2
+fousseiny diawara	2ql8	
+fousseiny tangara	4ehv	
+freedy		520l:2
+freedy johnston	520l	
+freestate of saxony	72d	
+freestate of thuringia	3te	
+glow brett eldredge song	3l4f	
+glow in the park halloween parade	1x8v	
+glow nelly furtado song	3g2b	
+glutton s kitchen	2sq2	
+gmina niebylec	394d	
+gobabis	4keq	
+goro		28d0:2,2n3d:2,50d9:2
+goro goro shogi	18lx	
+goro majima	6f7m	
+goro miyazaki	50d9	
+goro naya	28d0	
+goro shimura	2n3d	
+goro shimura comments	2n3d	
+goro suzuki	44b5	
+gulager clu	yi2	
+guru	1msl,2mjg	1khl:2,1pfs:2,2m06:3,3l0n:2,55bs:4
+guru band	1msl	
+guru dev	2mjg	
+guru dutt	1khl	
+guru gobind		2m06:3
+guru gobind rai	2m06	
+guru gobind singh	2m06	
+guru govind singh	2m06	
+guru ism	2mjg	
+guru kiran	kg5	
+guru maa	2mjg	
+guru nanak		55bs:4
+guru nanak dev		55bs:4
+guru nanak dev university	55bs	
+guru pitka	1mh7	
+guru rapper	1msl	
+guru sly cooper	69i5	
+guru sociology	2mjg	
+gwangmyeong	654u	
+gwangmyeong city	654u	
+gwangmyeong si	654u	
+haarlemmermeerpolder	ce2	
+hanwell	4841	
+hanwell broadway	4841	
+hanwell london england	4841	
+hanwell urban district	4841	
+haspelschiedt	2hxc	
+hatera	pu1	
+hkust	3rha	
+hybomitra	3a13	
+hybomitra micans	3a13	
+inflight crew	19el	
+jalognes	2q3h	
+james davis	683d	
+james davis critic	64zx	
+james morrison	1ceq,3rav,45v1,5m5g,64yu	
+james morrison actor	3rav	
+james morrison british politician	64yu	
+james morrison catchpole	1ceq	
+james morrison footballer	45v1	
+james morrison jazz musician	5m5g	
+james morrison musician	5m5g	
+james morrison singer	1ceq	
+jewgeni chaldej	32f2	
+john bluthal	2qqk	
+john marcellus huston	8rg	
+john nusum	515y	
+john playfair	483e	
+jonesian	2w9j	
+jorx	22ym	
+jorx tv	22ym	
+junie		1zqg:2,6hml:3
+junie astor	1zqg	
+junie b	6hml	6hml:3
+junie b jones	6hml	
+junie b jones and the stupid smelly bus	6hml	
+junie b jones is a party animal	6hml	
+junie beatrice jones	6hml	
+jurrasic	5ceq	
+jurrasic park	6geb	
+jurrasic park films	6geb	
+jurrasic world	lw0	
+kakosmanthus	i27	
+kazincbarcika	17n5	1rzx:2
+kazincbarcika district	1rzx	
+komsomol	p1v	
+komsomol na amur	wgy	
+komsomol sk on amur	wgy	
+komsomol skaja pravda	3xuh	
+la caine	29kh	
+lecun	58j5	
+liscate	4eid	
+magyarorszag	3b	
+malmesbury	1c7p,5axk	
+malmesbury cape province	5axk	
+malmesbury church of england primary school	1c7p	
+malmesbury church of england school and music academy	1c7p	
+malmesbury comments	1c7p	
+malmesbury england	1c7p	
+malmesbury park primary school	38n	
+malmesbury south africa	5axk	
+malmesbury uk	1c7p	
+malmesbury western cape	5axk	
+malmesbury wiltshire	1c7p	
+maria marquioness of tortosa	40ox	
+marooned	1grj	
+marooned 1969 film	1grj	
+marooned 1969 movie	1grj	
+marsiglio	3jw5	
+marsiglio ficini	3jw5	
+meyong	439e	
+migliarino	2322	
+mnichovo		1fb4:2
+mnichovo hradiste	1fb4	
+monktonhall	g7o	
+montmoreau		2mvr:3
+montmoreau saint		2mvr:3
+montmoreau saint cybard	2mvr	
+mugged	c43	
+mukou hadan	40p7	
+national council of boy scouts of america	21jb	
+national council of teachers of english george orwell award	142e	
+national council of teachers of english george orwell award for distinguished contribution to honesty and clarity in public language	142e	
+national council of the boy scouts of america	21jb	
+national council of the state of slovenes croats and serbs	60i9	
+national flags	46k	
+neocollyris	5ay	
+omkara	4ovw	
+omkara 2006 film	4ovw	
+omkara movie	4ovw	
+orchard		14pc:2
+orchard bank	f5i	
+orchard bee	19dt	
+orchard county	afo	
+orchard field airport	1stf	
+orchard keeper	6gvb	6gvb:3
+orchard park st catharines	5yv	
+orchard point ontario	paa	
+pandcake	rw6	
+paul hartman	3lop	
+paul hartman american actor	3lop	
+penises of bulls	2dya	
+pes2010	3dlh	
+peter moller	366j	
+piea	4de3	
+pitea	zgc	ph4:2,1jd1:2,3usm:2
+pitea court district	zgc	
+pitea if	1jd1,3usm	
+pitea if dam	1jd1	
+pitea if ladies team	1jd1	
+pitea if men	3usm	
+pitea if women	1jd1	
+pitea kommun	ph4	
+pitea municipality	ph4	
+pitea sweden	zgc	
+poulett		4atd:2
+poulett george henry somerset	4atd	
+poulett somerset	4atd	
+professorial fellow	1a1h	
+prose	6mq	6foz:2,6g82:2
+prose edda	6g82	
+prose fiction	1v9	
+prose poem	6foz	
+prose poems	6foz	
+prose poetry	6foz	
+prose sandbox	6mq	
+prose timeline	6mq	
+prose timeline doc	6mq	
+prudum	53lf	
+puss		1qiu:3,3q2j:6
+puss caterpillars	2rpl	
+puss film	5p1u	
+puss in		1qiu:3,3q2j:6
+puss in boots	1qiu	3q2j:6
+puss in boots 2	1qiu	
+puss in boots 2 nine lives 40 thieves	rr0	
+puss in boots 2011	1qiu	
+puss in boots 2011 film	1qiu	
+puss in boots 2011 movie	1qiu	
+puss in boots story of an ogre killer	rr0	
+puss in boots the		3q2j:6
+puss in boots the movie	1qiu	
+puss in boots the story of an ogre killer	1qiu	
+puss in boots the three		3q2j:6
+puss in boots the three diablos	3q2j	
+radiance department of mechanical engineering iit bombay	bow	
+ravanusa	1x1o	
+reichsgrafin	10hy	
+richard whorf	1ehw	
+rusvel		5xp8:2
+rusvel saravia	5xp8	
+salchichas	qgk	
+samassi	4smi	49qy:2
+samassi abou	49qy	
+san severino		qlf:3,3qdg:3
+san severino lucano	3qdg	
+san severino marche	qlf	
+shangrao	181o	
+shangrao jiangxi	181o	
+shibayama tsutomu	1f3s	
+sir eyre coote gcb	5eit	
+sndt		63r1:4
+sndt college	63r1	
+sndt women		63r1:4
+sndt women s		63r1:4
+sndt women s university	63r1	
+soundcheck leslie west album	3n32	
+spaa	1cfp	
+stellingen	1syx	
+stfx	4274	
+stfx university	4274	
+strien	175g	
+swedberg	60ki	
+tamilian	5pho	
+televison	d7o	
+televison personality	h0t	
+televison series	5f	
+terada	5jxm	
+terada mitsuo	5kc	
+the alchemist	zm7,1fzm,6h1l	
+the alchemist book	6h1l	
+the alchemist entertainer	1fzm	
+the alchemist musician	1fzm	
+the alchemist novel	6h1l	
+the alchemist record producer	1fzm	
+the benjamin franklin bust	b9a	
+the outcasts		646p:5
+the outcasts of		646p:5
+the outcasts of poker		646p:5
+the outcasts of poker flat	646p	
+the outcasts of poker flat 1919 film	646p	
+the star	38np	1if7:5,1ilq:4,1ukk:3,2fa2:4,2g6t:3,2sqr:3,389t:3,48x4:4,4jyv:3,4ob7:4
+the star 1952 film	38np	
+the star chamber	1ukk	
+the star chamber film	1ukk	
+the star in the hood	vgp	
+the star maker	2g6t,4jyv	
+the star maker 1939 film	4jyv	
+the star maker 1995 film	2g6t	
+the star of		1ilq:4,2fa2:4,48x4:4,4ob7:4
+the star of africa	1ilq	
+the star of bethlehem	3gsi	
+the star of redemption	5hd3	
+the star of rio	2fa2,48x4	
+the star of rio 1940 film	2fa2	
+the star of rio 1955 film	48x4	
+the star of santa clara	5ulr	
+the star of valencia	4ob7	
+the star packer	2sqr	
+the star trek franchise	qt9	
+the star wars		1if7:5
+the star wars christmas special	1if7	
+the star wars holiday		1if7:5
+the star wars holiday special	1if7	
+the star witness	389t	
+tind	zl3	
+velesh	ziq	
+weburn	41wt	
+william chapman revercomb	613n	
+withoos	3569	
+withoos maria	5mj9	
+wydminy commune	uay	
+yvr	4sx3	
+yvr airport	4sx3	
+ziaran		4nar:3
+ziaran dehestan	4nar	
+ziaran rural		4nar:3
+ziaran rural district	4nar	

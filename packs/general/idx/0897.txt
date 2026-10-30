@@ -1,0 +1,366 @@
+1960	1bt7	db:3,2ok:3,ck8:4,3ftx:4,408m:3,40ql:4,49x7:4,5amy:2,6gie:5,6hgi:3,6ht0:7
+1960 1969	1gor	
+1960 61 cypriot first division	14mi	
+1960 ad	1bt7	
+1960 ce	1bt7	
+1960 chile earthquake	6hgi	
+1960 chilean tsunami	6hgi	
+1960 ekstraklasa	5amy	
+1960 european		ck8:4
+1960 european championships	ck8	
+1960 european football championship	ck8	
+1960 european football championship qualifying	ck8	
+1960 european nations		ck8:4
+1960 european nations cup	ck8	
+1960 eurovision song contest	1eqx	
+1960 giro		40ql:4
+1960 giro d		40ql:4
+1960 giro d italia	40ql	
+1960 nascar sprint cup series	jt3	
+1960 paralympic games	408m	
+1960 paralympics	408m	
+1960 rome	db	
+1960 rome olympian	db	
+1960 rome olympics	db	
+1960 s	1gor	
+1960 s disco	1b1	
+1960 squaw valley	2ok	
+1960 squaw valley olympics	2ok	
+1960 summer		db:3,408m:3
+1960 summer olympic games	db	
+1960 summer olympics	db	
+1960 summer paralympic games	408m	
+1960 summer paralympics	408m	
+1960 tour		3ftx:4,49x7:4
+1960 tour de		49x7:4
+1960 tour de france	49x7	
+1960 tour of		3ftx:4
+1960 tour of flanders	3ftx	
+1960 uefa european football championship	ck8	
+1960 united		6gie:5,6ht0:7
+1960 united states		6gie:5,6ht0:7
+1960 united states presidential		6gie:5,6ht0:7
+1960 united states presidential election	6gie	6ht0:7
+1960 united states presidential election in		6ht0:7
+1960 united states presidential election in indiana	6ht0	
+1960 valdavia earthquake	6hgi	
+1960 valdivia		6hgi:3
+1960 valdivia earthquake	6hgi	
+1960 valdivia tsunami	6hgi	
+1960 winter		2ok:3
+1960 winter olympic games	2ok	
+1960 winter olympics	2ok	
+1960 year	1bt7	
+afanas ev aleksandr	56g8	
+ajmere	u43	
+albalate		3lhv:3,3p53:4,4dkg:3,4kev:3
+albalate de		3p53:4,4dkg:3,4kev:3
+albalate de cinca	4kev	
+albalate de cinca huesca	4kev	
+albalate de cinca spain	4kev	
+albalate de las		3p53:4
+albalate de las nogueras	3p53	
+albalate de zorita	4dkg	
+albalate de zorita guadalajara	4dkg	
+albalate de zorita spain	4dkg	
+albalate del		3lhv:3
+albalate del arzobispo	3lhv	
+albalate del arzobispo spain	3lhv	
+albalate del arzobispo teruel	3lhv	
+aleria	297e	
+aleria corsica	297e	
+alexander romanov red alert	1jmx	
+alexander romanov red alert 2	3qih	
+alexander salvini	3xfz	
+asuni	4j31	
+bakhchysaray	12ru	
+baltimoreravens	283	
+bertholene	1ydy	
+betton	1a0r	3rwe:2
+betton bettonet	3rwe	
+betton ille et vilaine	1a0r	
+birun		18kv:4
+birun bashm	18kv	18kv:4
+birun bashm rural		18kv:4
+birun bashm rural district	18kv	
+bizhbulyakski	5bpe	
+bizhbulyakski district	5bpe	
+bizhbulyakski raion	5bpe	
+brek		4fku:2
+brek shea	4fku	
+bryne		be4:2
+bryne f k	be4	
+bryne fk	be4	
+bryne fotballklubb	be4	
+bryne il	be4	
+bubblegoth	167h	
+buczacz	1lzf	
+butts		2xw6:2
+butts county	2xw6	
+butts county ga	2xw6	
+butts county georgia	2xw6	
+bythinia	5kpk	
+c27h37n3o7s	60ib	
+cavour	1sij,3z41	
+cavour commune	1sij	
+cavour comune	1sij	
+cavour piedmont	1sij	
+cavour to	1sij	
+champenoux	2tam	
+cisaprida	edu	
+clinoril	50ld	
+coleg llanymddyfri	1t75	
+cozzilla	2290	
+curasao	6b5	
+david apter	60ae	
+david barclay actor	28ge	
+debut	4p8i	6e1d:2
+debut bjoerk	4p8i	
+debut bjork	4p8i	
+debut bjork album	4p8i	
+debut records	6e1d	
+deluge	1q1u,579d	1q1u:2
+deluge history	579d	
+distric of columbia	2c	
+djevad pasha	5qce	
+embryotic	6dpk	
+erythrura	6ep0	
+euagarics	qpk	
+euchelus	63sv	
+fas	6gg	
+fas david	5boz	
+fas province ottoman empire	10wv	
+fc aurillac arpajon cantal auvergne	21a9	
+fc chelyabinsk	bgo	
+ferla	4snc	
+ferla italy	4snc	
+fosie	14f6	
+frederick seitz	3xeo	
+galomecalpa	4vzz	
+geissholz	3j8e	
+george kottaras	4wds	
+gergy	1nou	
+giorgobistve 1966	227p	
+gmina krapkowice	1qy5	
+gmina pakoslaw	1o57	
+goonies	j1t	j1t:2
+goonies film	j1t	
+goraidh mac amhlaibh	67cp	
+harvill		csz:2
+harvill press	csz	
+harvill secker	csz	
+harvill secker publisher	csz	
+hemic	14a2	
+hemic system	789	
+ic62 db	5em9	
+impotentia coeundi	2izi	
+impotentia procreandi	6dum	
+jayabharathy	d9u	
+john mctiernan	21hf	
+kafferboom	101s	
+kozue		4q8x:2
+kozue ando	4q8x	
+kraljeva		5umq:2
+kraljeva zavrsnica	5umq	
+kraljeva zavrsnica 1987	5umq	
+kusnasosro	16vx	
+laduz	3i0n	
+laigneville	3h9a	
+laigneville sur breche	3h9a	
+landrais	1wkm	
+landrais france	1wkm	
+langlade	3al8	jrm:2
+langlade county	jrm	
+langlade county wi	jrm	
+langlade county wisconsin	jrm	
+langlade gard	3al8	
+lavant valley	3a4w	
+lesvos	k3z	
+lesvos island	k3z	
+leufana	7wu	
+limmat	4239	
+limmat river	4239	
+longform improvisation	6985	
+makeout videotape	5ce3	
+martinsburg	g32	
+martinsburg berkeley county west virginia	g32	
+martinsburg virginia	g32	
+martinsburg west virginia	g32	
+martinsburg wv	g32	
+masonic		jcm:2,361s:2
+masonic apron	mq5	
+masonic fraternity	mq5	
+masonic hall	jcm	
+masonic lodge	361s	
+masonic lodges	361s	
+masonic order	mq5	
+masonic temple	jcm	
+masonic university of tennessee	1t5x	
+massignac	2nst	
+mccoist	4dkk	
+medina	62d,x8q,1nsq	bvg:2,jj9:3,s13:2,u9g:3,1ihs:2,21w7:2,2452:3,2ebk:3,307r:4
+medina alexander	4rmx	
+medina annex	2ruy	
+medina county	s13,21w7	
+medina county oh	s13	
+medina county ohio	s13	
+medina county ohio townships	s13	
+medina county texas	21w7	
+medina county tx	21w7	
+medina danielle oona valbak	x8q	
+medina danish singer	x8q	
+medina de		u9g:3,2452:3,307r:4
+medina de las		307r:4
+medina de las torres	307r	
+medina de las torres badajoz	307r	
+medina de las torres spain	307r	
+medina de pomar	2452	
+medina de pomar burgos	2452	
+medina de pomar spain	2452	
+medina de rio seco	u9g	
+medina de rioseco	u9g	
+medina del		jj9:3
+medina del campo	jj9	
+medina garrigues	1akg	
+medina i munawwarah	62d	
+medina of		2ebk:3
+medina of essaouira formerly mogador	1dkc	
+medina of marrakesh	6jx	
+medina of tetouan formerly known as titawin	mg6	
+medina of tunis	2ebk	
+medina oh	1nsq	
+medina ohio	1nsq	
+medina provice	bvg	
+medina province	bvg	
+medina region	bvg	
+medina saudi arabia	62d	
+medina saudia arabia	62d	
+medina sidonia	1ihs	
+medina sidonia cadiz	1ihs	
+medina sidonia spain	1ihs	
+medina singer	x8q	
+medina singles	x8q	
+medina university	5eo9	
+morcheeba	415k	
+ndgc	j4s	
+neheim	f3r	
+neheim germany	f3r	
+neheim huesten	f3r	
+neheim husten	f3r	
+ngy	1uy	
+nikkan		66r1:4
+nikkan sports		66r1:4
+nikkan sports film		66r1:4
+nikkan sports film award	66r1	
+nikkan sports film awards	66r1	
+niptuck	17xg	
+nonpartisanism	f32	
+oneonta	10l2	
+oneonta city new york	10l2	
+oneonta city otsego county new york	10l2	
+oneonta high school	10l2	
+oneonta new york	10l2	
+oneonta new york micropolitan area	n7d	
+oneonta ny	10l2	
+oneonta ny micropolitan statistical area	n7d	
+oneonta ny msa	n7d	
+oneonta ny sa	n7d	
+paignton	ugj	
+paignton beach	ugj	
+paignton uk	ugj	
+palaiologina maria	4am2	
+pataz		42nl:2
+pataz province	42nl	
+paul dean	2t7u,4hp4	
+paul dean guitarist	4hp4	
+paul haggard	44kl	
+perictione	3wl0	
+perictione i	3wl0	
+perictione ii	3wl0	
+peter luccin	2xc6	
+petkovy	45ue	
+pirincho	1jwc	
+placoda epidermis	6f99	
+pmop	1b79	
+polad		4rku:2
+polad bulbuloghlu	4rku	
+polad bulbuloglu	4rku	
+prescillia betti	5o9y	
+pseudocolaspis	15sz	
+rivelino	4gb6	
+robert connolly	62pv	
+robert coppola schwartzman	3bg4	
+roffa	zj	
+ropeladder 12	269u	
+rossiyanka krasnoarmeysk	lbh	
+roxelanna	1ixa	
+sacro cuore catholic university of milan	10a2	
+sacro monte	3yq4	
+sacro monti of lombardy and piedmont	3yq4	
+sakha	8mv	
+sakha autonomous republic	8mv	
+sakha yakutia republic	8mv	
+sakha yakutiya republic russia	8mv	
+sayerville	29er	
+sayerville new jersey	29er	
+sayerville nj	29er	
+scholi evelpidon	18ia	
+singnet doc	4b37	
+singnet sandbox	4b37	
+slavonics	3p9c	
+sly2	4j2d	
+softek	4t15	
+softek international	4t15	
+softek software	4t15	
+sohail		yz9:2
+sohail khan	yz9	
+sokosha	1ny1	
+st daniel the prophet	4qra	
+st takdir alisjahbana	4zr9	
+standardised breed	2u4q	
+sthlm	9e	
+sudeten mountain	2q9e	
+sudeten mountains	2q9e	
+sunbury	1hq8,2dny,48ui	2dny:3,6bf5:2
+sunbury county	6bf5	
+sunbury county nb	6bf5	
+sunbury county new brunswick	6bf5	
+sunbury georgia	1ekx	
+sunbury lewisburg selinsgrove pa csa	1hq8	
+sunbury line	48ui	
+sunbury middlesex	2dny	
+sunbury on		2dny:3
+sunbury on thames	2dny	
+sunbury pa	1hq8	
+sunbury pa micropolitan statistical area	avr	
+sunbury pa msa	avr	
+sunbury pa sa	avr	
+sunbury pennsylvania	1hq8	
+sunbury pennsylvania micropolitan area	avr	
+sunbury railway line	48ui	
+sunbury railway line melbourne	48ui	
+sunbury village	2dny	
+the 51st		24h4:3
+the 51st state	24h4	
+the adversity group	1dvn	
+the docta	d18	
+the incorrigible		5ruf:3
+the incorrigible barbara	5ruf	
+the mystic	5hqw	
+the mystic knights of the oingo boingo	2sly	
+the mystic lamb	1zlc	
+the whistleblower	1a7l	
+the william b hartsfield atlanta international airport	1har	
+the william davidson institute	7bo	
+the william marsh rice institute for the advancement of letters science and art	1rc	
+todukdul	199o	
+tp2	57nx,60d6	
+triphop	1tu	
+valaya		jt8:2
+valaya alongkorn	jt8	
+virkgarh	2mqb	
+vtbd	1dsb	
+william barents	5oj1	
+womenswear	aq7	
+xankendi	mkz	
+xankendi seheri city	mkz	

@@ -1,0 +1,567 @@
+a mississippiensis	2wed	
+a thiers	28ss	
+actionfilm	9b	
+adsr envelope generator	5t9	
+aethelrad unraed	18o3	
+aethelrad unready	18o3	
+afonso	5l61	152c:4,16bn:4,1b45:4,1int:2,1ulx:4,1xe6:4,2od8:4,2slf:5,2zw7:3,4bth:2,591o:2,5div:6,5pe2:2,5zts:4,61n7:4,64pq:4
+afonso 1st duke of braganza	1int	
+afonso abel		61n7:4
+afonso abel de		61n7:4
+afonso abel de campos	61n7	
+afonso alex	2zrr	
+afonso alves	4bth	
+afonso alves martins jr	4bth	
+afonso alves martins junior	4bth	
+afonso augusto costa	591o	
+afonso augusto da costa	591o	
+afonso brandao	40m3	
+afonso costa	591o	
+afonso count		5div:6
+afonso count of		5div:6
+afonso count of barcelos	1int	
+afonso count of gijon		5div:6
+afonso count of gijon e		5div:6
+afonso count of gijon e noronha	5div	
+afonso count of portugal	1ulx	
+afonso crown prince of portugal	64pq	
+afonso da costa	591o	
+afonso de bourbon e braganca	2slf	
+afonso duke de braganza	1int	
+afonso duke of braganza	1int	
+afonso duke of oporto	5ysb	
+afonso duke of porto	5ysb	
+afonso el africano	1b45	
+afonso el bravo	2od8	
+afonso el grosso	16bn	
+afonso guilherme	2p7h	
+afonso henriques	1ulx	
+afonso henriques duke of oporto	5ysb	
+afonso henriques duke of porto	5ysb	
+afonso henriques of braganza	5ysb	
+afonso i	1int	1ulx:4
+afonso i duke of braganza	1int	
+afonso i of		1ulx:4
+afonso i of portugal	1ulx	
+afonso ii	16bn	16bn:4
+afonso ii of		16bn:4
+afonso ii of portugal	16bn	
+afonso iii	152c	152c:4
+afonso iii of		152c:4
+afonso iii of portugal	152c	
+afonso infante of portugal	64pq	
+afonso iv	2od8	2od8:4
+afonso iv of		2od8:4
+afonso iv of portugal	2od8	
+afonso ivo	40m3	
+afonso jose	5djj	
+afonso lord of portalegre	2zw7	
+afonso martins	5pe2	
+afonso of		2zw7:3
+afonso of barcelos	1int	
+afonso of braganza	5ysb	
+afonso of portugal	2zw7	
+afonso of portugal cardinal	1oom	
+afonso of portugal duke of porto	5ysb	
+afonso of portugal lord of portalegre	2zw7	
+afonso paulo martins da agra	5pe2	
+afonso prince		2slf:5,5zts:4,64pq:4
+afonso prince imperial		2slf:5
+afonso prince imperial of		2slf:5
+afonso prince imperial of brazil	2slf	
+afonso prince of		5zts:4,64pq:4
+afonso prince of portugal	5zts,64pq	
+afonso prince of portugal 1526	5zts	
+afonso prince royal of portugal	5ysb	
+afonso sanches lord of albuquerque	5t5e	
+afonso the african	1b45	
+afonso the brave	2od8	
+afonso v	1b45	1b45:4
+afonso v of		1b45:4
+afonso v of portugal	1b45	
+afonso vi	1xe6	1xe6:4
+afonso vi of		1xe6:4
+afonso vi of portugal	1xe6	
+afonso yves	2gmm	
+akmed the dead terrorist	3o4h	
+alanplater	614v	
+alcoutim	1dql	
+alcoutim municipality	1dql	
+alexander schrijver	4fb2	
+artcriticism	2oea	
+auranzeb	pt9	
+austroasian	6fai	
+auzers	339z	
+aywkubttod	4njm	
+banares	1sft	
+banares spain	1sft	
+beerfelden	43jp	
+belligne	2fmz	
+berlingot		64tq:3
+berlingot and		64tq:3
+berlingot and company	64tq	
+berlingot et compagnie	64tq	
+bonny		278s:3
+bonny billy	pet	
+bonny m	l3x	
+bonny prince billy	pet	
+bonny sur		278s:3
+bonny sur loire	278s	
+bonny wright	1f5b	
+borg	1w91	
+borg bjorn	18fm	
+borg surname	1w91	
+briancon	j0p	
+briancon alpes provence hc	nt0	
+briancon alpes provence hockey club	nt0	
+briancon diables rouges	nt0	
+brissot	4pe2	
+buchrain	3hc2	
+buchrain lu	3hc2	
+buchrain lucerne	3hc2	
+buchrain switzerland	3hc2	
+bustang	6sm	
+cabris	2s34	
+capercaillie	2y58	
+capercaillie band	2y58	
+caramelle da uno sconosciuto	44ru	
+carigara	2qxy	
+carigara leyte	2qxy	
+chicheham	5bjy	
+clandestine		4o8w:2
+clandestine childhood	4o8w	
+clandestine press	2yot	
+codonaceae	w63	
+comiskey park ii	6ggn	
+comparision of lemmings ports	16pb	
+converted jain temple	k1v	
+cordgrass	6dv9	
+deakin		10s0:2
+deakin ducks fc	10s0	
+deakin uni	10s0	
+deakin university	10s0	
+deakin university student association	10s0	
+deakin university students association	10s0	
+denenburg	7sj	
+diaconate	7qh	
+electromagnetic guitar	7cj	
+electromagnetic motor	dsb	
+electromagnetic spectroscopy	4a2c	
+electromagnetic storm	6hrr	
+electromagnetic theory of light	5pxx	
+electromagnetic unit	6f5i	
+ezpeleta	1pa5	
+fc chaumont	6bu7	
+flens kommun	umd	
+fombio	3jko	
+fombio italy	3jko	
+friesland	7ep,15rn	
+friesland district	15rn	
+friesland germany	15rn	
+friesland province netherlands	7ep	
+gasolene	1fck	
+gaure	2n34	
+george speaker mickelson	4nip	
+gilian anderson	fxl	
+gouden		3ios:2,4fzb:2,5q09:2
+gouden ezelsoor	5q09	
+gouden ganzenveer	1xrs	
+gouden gids divisie	da7	
+gouden griffel	4fzb	
+gouden harp	ck6	
+gouden kalf	3ios	
+gouden kalf filmprijs	3ios	
+gouden penseel	4fzb	
+gouden zoen	4fzb	
+gyara	xy4	
+heliamphora	2d6m	
+henry edwards	edz	
+henry edwards actor	edz	
+henry edwards director	edz	
+henry edwards film director	edz	
+hilarious	anp	
+hodgkin		2swm:2
+hodgkin disease	2swm	
+hodgkin dorothy	von	
+hodgkin lymphoma	2swm	
+hodgkin s disease	2swm	
+hodgkin s lymphoma	2swm	
+hodgkin s lymphoma hl	2swm	
+hodgkin s sarcoma	2swm	
+hodgkin thomas	5xqw	
+ichang	ofv	
+iftekhar	u7a	
+iftekhar actor	u7a	
+iftekhar khan	u7a	
+illarikam	524t	
+imaan dharam	2wyn	
+incognito	4ha8,5r05,64ij	
+incognito 1937 film	5r05	
+incognito 1997 film	64ij	
+incognito 1998 film	64ij	
+incognito 2009 film	4ha8	
+inuyama	1mku	
+inuyama aichi	1mku	
+inuyama japan	1mku	
+inuyama line	3q49	
+jean comte d ostfrise et ritberg	5fr3	
+jean comte de dunois	22if	
+jean rollin	179g	
+jean stevenin	i8r	
+jihad jerry	50lo	
+jihad john	5a7t	
+jihad kandahar	2sus	
+kamsaoghin	7uv	
+katsumi	2bqp,4jaq	1pfc:2
+katsumi actress	2bqp	
+katsumi first name	4jaq	
+katsumi given name	4jaq	
+katsumi porn actress	2bqp	
+katsumi porn star	2bqp	
+katsumi pornographic actress	2bqp	
+katsumi yanagijima	1pfc	
+katsumi yanagishima	1pfc	
+kattorna	39xc	
+kazerun	3dfx	2aje:2
+kazerun county	2aje	
+kelung	ipr	
+kravco simon	aa3	
+krestanskodemokraticke hnutie	36tq	
+kriegsheim	2ygv	
+kunzak	3i5p	
+la 12	1ys	
+la garconniere	2vsi	
+laan mig din kone	42or	
+laan v noi	3i6k	
+laan van nieuw oost indie railway station	3i6k	
+laan van noi railway station	3i6k	
+laan van noi randstadrail	3i6k	
+laan van noi randstadrail station	3i6k	
+laan van noi station	3i6k	
+larimer		u5z:2
+larimer county	u5z	
+larimer county co	u5z	
+larimer county colo	u5z	
+larimer county colorado	u5z	
+limerzel	308u	
+lunatic cafe		6hhu:3
+mahakavi		5qxv:2,69r7:2
+mahakavi kalidasu	69r7	
+mahakavi kshetrayya	5qxv	
+mahakavi sri sri	65z5	
+malborski	2rqd	
+manya		53lw:2
+manya makoski	53lw	
+mazzarra		4k10:3
+mazzarra sant		4k10:3
+mazzarra sant andrea	4k10	
+merkat	1opa	
+michael garver mike oxley	5k2v	
+michael garver oxley	5k2v	
+michael judge	tyu	
+michael leeroyall evans	43uo	
+milija		4hz9:2
+milija aleksic	4hz9	
+milija anthony aleksic	4hz9	
+montereau	1lq7	qas:3,243u:4
+montereau fault		qas:3
+montereau fault yonne	qas	
+montereau faut yonne	qas	
+montereau loiret	1lq7	
+montereau sur		243u:4
+montereau sur le		243u:4
+montereau sur le jard	243u	
+montereau surville	qas	
+mutz		gj1:2
+mutz greenbaum	gj1	
+neoplasms muscle tissue	428	
+neurodegenerative	2xng	
+neurodegenerative disease	2xng	
+neurodegenerative disorder	2xng	
+neurodegenerative disorders	2xng	
+neutstadl	fln	
+niven		1giz:2
+niven busch	1giz	
+niven david	9vw	
+niven ring	6bta	
+nordenskiold sea	1kji	
+osgoode		79d:4
+osgoode hall		79d:4
+osgoode hall law		79d:4
+osgoode hall law school	79d	
+osgoode law school	79d	
+passadena ca	1kt	
+passadena california	1kt	
+patridge family	1nv9	
+paul johannes gerardus verhaegh	4rkq	
+paul johannes oskar tillich	3urr	
+paul johannes tillich	3urr	
+peter deming	tmj	
+phusion	2pk7	
+plechanoff	1rpv	
+populator	1aej	
+poul	8z5	924:3,awh:2,xhj:2,1eq7:2,1ko6:2,1l5m:2,27hz:2,31gg:2,3ck7:3,3sph:4,41b3:2,5dde:2,5gz6:2,60vu:2,61ge:2
+poul adado	58kr	
+poul anderson	awh	
+poul arne bundgaard	xhj	
+poul bang	1eq7	
+poul bundgaard	xhj	
+poul david		924:3
+poul david reichhardt	924	
+poul erik		3sph:4
+poul erik hoyer	3sph	
+poul erik hoyer larsen	3sph	
+poul erik hyer	3sph	3sph:4
+poul erik hyer larsen	3sph	
+poul erik larsen	3sph	
+poul first name	8z5	
+poul given name	8z5	
+poul glargaard	31gg	
+poul holmskov schlueter	1ko6	
+poul holmskov schluter	1ko6	
+poul hubertz	5dde	
+poul huebertz	5dde	
+poul mller	61ge	
+poul mller politician	61ge	
+poul moller	61ge	
+poul muller	27hz	
+poul nyrup	3ck7	3ck7:3
+poul nyrup rasmussen	3ck7	
+poul pedersen	41b3	
+poul pedersen cinematographer	41b3	
+poul petersen	60vu	
+poul petersen footballer	60vu	
+poul reichhardt	924	
+poul reumert	5gz6	
+poul schlueter	1ko6	
+poul schluter	1ko6	
+poul thomsen	1l5m	
+poul w anderson	awh	
+poul william anderson	awh	
+prince george	lom,29sy	dbl:4,13nj:5,1bgz:6,1cfk:5,1qoo:6,1roo:4,29sy:5,2i8x:3,3g4n:4,3ybn:4,4jnn:4,4xbw:4,59sm:6
+prince george 1st duke of kent	13nj	
+prince george 2nd duke of cambridge	29sy	
+prince george alexander louis	3ybn	
+prince george alexander louis of cambridge	3ybn	
+prince george alexandrovich		1roo:4
+prince george alexandrovich yurievsky	1roo	
+prince george alexandrovich yuryevsky	1roo	
+prince george b c	lom	
+prince george bc	lom	
+prince george bernhard		59sm:6
+prince george bernhard of		59sm:6
+prince george bernhard of anhalt		59sm:6
+prince george bernhard of anhalt dessau	59sm	
+prince george british columbia	lom	
+prince george constantinovich of russia	2fd8	
+prince george county	2i8x	
+prince george county sheriff s office virginia	2i8x	
+prince george county va	2i8x	
+prince george county virginia	2i8x	
+prince george duke		13nj:5,1cfk:5,29sy:5
+prince george duke of		13nj:5,1cfk:5,29sy:5
+prince george duke of cambridge	29sy	
+prince george duke of cumberland	1cfk	
+prince george duke of kent	13nj	
+prince george duke of york	cur	
+prince george of		1bgz:6,3g4n:4,3ybn:4,4jnn:4,4xbw:4
+prince george of battenberg	3x1p	
+prince george of cambridge	3ybn	
+prince george of cumberland	13f0	
+prince george of darmstadt	2mlx	
+prince george of denmark	1cfk	
+prince george of denmark and norway	1cfk	
+prince george of denmark duke of cumberland	1cfk	
+prince george of greece	1bgz	1bgz:6
+prince george of greece and		1bgz:6
+prince george of greece and denmark	1bgz	
+prince george of hesse darmstadt	2mlx	
+prince george of kartli	4jnn	
+prince george of prussia	3g4n	
+prince george of serbia	4xbw	
+prince george of the united kingdom	13nj	
+prince george of wales	3ybn	
+prince george of yugoslavia	4xbw	
+prince george of yugoslavia 1887 1972	4xbw	
+prince george of yugoslavia 18871972	4xbw	
+prince george radziwi	369j	
+prince george radziwill	369j	
+prince george s		dbl:4
+prince george s county	dbl	
+prince george s county maryland	dbl	
+prince george s county md	dbl	
+prince george symphony orchestra	lom	
+prince george the duke of kent	13nj	
+prince george william	1qoo	1qoo:6
+prince george william of		1qoo:6
+prince george william of great		1qoo:6
+prince george william of great britain	1qoo	
+prince george william of hanover 1880 1912	401z	
+prince george william of hanover 18801912	401z	
+prince george william of hanover 1915 2006	23qc	
+prince george william of hanover 19152006	23qc	
+prince george william of hanover and cumberland	401z	
+prince george william of hesse darmstadt	2aa9	
+prince george william of wales	1qoo	
+prince george yurievsky	1roo	
+prince george yuryevsky	1roo	
+puffinus	1yzo	
+racewalk	uuz	
+radicant	6co2	
+reaktor computer game	189p	
+reto		228p:2,4n8w:2,5n1n:2
+reto burgermeister	5n1n	
+reto hollenstein	4n8w	
+reto kensolo heroes generals	4nk5	
+reto pirmin ziegler	228p	
+reto ziegler	228p	
+richard talmadge	3ly8	
+rinorea	1mvj	
+robert adolph stemmle	of5	
+roop		6a8v:6
+roop ki		6a8v:6
+roop ki rani		6a8v:6
+roop ki rani choron		6a8v:6
+roop ki rani choron ka		6a8v:6
+roop ki rani choron ka raja	6a8v	
+roop ki rani choron ka raja 1993 film	6a8v	
+roop nagar district	2ffz	
+rossiya 1	12wl	
+rossiya channel	12wl	
+rossiya television network	12wl	
+rossiya tv channel	12wl	
+saint lin	2y7l	
+saintines	3a5m	
+sbc	1hga	
+sbc communications	hhp	
+sbc communications incorporated	hhp	
+sbc east	hhp	
+sbc rizal	1sk3	
+sbc viktoria koln	azn	
+scarabeidae	6rk	
+seetaramayya gari manavaralu	63i7	
+selvino	5qi7	
+seventies	1cul	
+sfry	146	
+sfry national football team	1yw	
+signalling stack	6fa2	
+signalling systems	4dsf	
+sinological	5c1z	
+sitapur		1k19:2
+sitapur district	1k19	
+smiljanic stefan	67vv	
+starways common	2fsg	
+stonehearst		2wr0:2
+stonehearst asylum	2wr0	
+stonehearst asylum eliza graves 2014	2wr0	
+streptococcal bacteria	12yk	
+streptococcal impetigo	6fx3	
+streptococcal infection	12yk	
+streptococcal infections	12yk	
+streptococcal septicaemia	6ya	
+sungod	2skk	
+sunifred ii count of barcelona	5qot	
+suttinan		68mr:2
+suttinan nontee	68mr	
+tarja		u6u:2,1a9v:2
+tarja band	u6u	
+tarja halonen	1a9v	
+tarja kaarina halonen	1a9v	
+tarja singer	u6u	
+tarja soile susanna turunen	u6u	
+tarja soile susanna turunen cabuli	u6u	
+tarja turunen	u6u	
+the condo fucks	1eky	
+the fishin hole	3voc	
+the usc	2l9	
+tourist	q9y	2dr:2,q9y:2,5ryz:2
+tourist area	2dr	
+tourist association	i3o	
+tourist attraction	2dr	
+tourist attractions	2dr	
+tourist bus	49ds	
+tourist cave	wyd	
+tourist destination	2dr	
+tourist destinations	2dr	
+tourist drive	3svm	
+tourist guide to ballycastle	3p8l	
+tourist guidebook	6fa6	
+tourist highway	3svm	
+tourist hotspot	2dr	
+tourist industry	i3o	
+tourist information	1mce	
+tourist information center	1mce	
+tourist information centre	1mce	
+tourist information office	1mce	
+tourist office	1mce	
+tourist oriented business	i3o	
+tourist place	2dr	
+tourist railroad	ugx	
+tourist resort	h7s	
+tourist road	3svm	
+tourist route	3svm	
+tourist shelter	5ea	
+tourist spot	2dr	
+tourist spots in sherpur	687a	
+tourist stop	2dr	
+tourist train	5ryz	
+tourist train film	5ryz	
+tourist trophy races	goo	
+trebon	qb5	
+trombone	236	5u4d:2
+trombone instrument	236	
+trombone shorty	5u4d	
+trombone shorty and orleans ave	5u4d	
+trombone shorty and orleans avenue	5u4d	
+trombone shorty orleans avenue	5u4d	
+trombone slide	236	
+trombone smear	236	
+valdenuno		4v4v:2
+valdenuno fernandez	4v4v	
+valdenuno fernandez guadalajara	4v4v	
+valdenuno fernandez spain	4v4v	
+velociosram	m3j	
+verron commune	ges	
+villerest	2o5z	
+wej	4rl3	
+wojciech	61v	fjw:2,yri:2,1gyv:2,292x:3,36wb:2,3ctf:2,3g14:2,3qkp:2,3xqf:2,41lr:2,45vo:2,4j60:2,4vpb:2,50p4:2,5dzz:2,5mbh:2,5y4i:2,5ypi:2,644h:2,67hr:2,6bss:2
+wojciech adalbert zywny	5ypi	
+wojciech first name	61v	
+wojciech fryderyk duke of prussia	2011	
+wojciech given name	61v	
+wojciech horacy kossak	3qkp	
+wojciech jaruzelski	yri	
+wojciech jerzy		292x:3
+wojciech jerzy has	292x	
+wojciech kilar	fjw	
+wojciech korfanty	644h	
+wojciech kossak	3qkp	
+wojciech kowalczyk	41lr	
+wojciech kowalewski	3ctf	
+wojciech lobodzinski	36wb	
+wojciech obodzinski	36wb	
+wojciech pollok	4vpb	
+wojciech pszoniak	1gyv	
+wojciech ritter von kossak	3qkp	
+wojciech roszkowski	67hr	
+wojciech rubinowicz	3g14	
+wojciech siemion	4j60	
+wojciech smarzowski	5dzz	
+wojciech szczesny	45vo	
+wojciech tomasz szczesny	45vo	
+wojciech trampczynski	5y4i	
+wojciech trochim	50p4	
+wojciech von kossak	3qkp	
+wojciech waglewski	6bss	
+wojciech wasowicz	580l	
+wojciech witold jaruzelski	yri	
+wojciech wolski	21cb	
+wojciech zablocki	3xqf	
+wojciech zabocki	3xqf	
+wojciech zhyvny	5ypi	
+wojciech zivny	5ypi	
+wojciech zukrowski	5mbh	
+wojciech zywny	5ypi	
+worldcon	e8z	
+wrecsham	66v	
+yoggl	iko	

@@ -1,0 +1,881 @@
+2012	92x,qep	4g:3,11g:3,1ef:4,2zz:5,5hn:4,ftx:4,i72:7,iko:4,j7r:4,jp9:5,lyc:4,pb2:3,q9s:5,zke:2,14o2:5,18ox:6,1aaz:3,1brg:5,1iyz:2,1okp:3,1yix:3,1znt:4,20sf:6,21bb:6,26ip:3,28c0:4,28t4:5,2b0c:6,2b8j:4,2h0l:4,2lpb:4,2pun:6,2u9e:5,31cy:2,31qs:3,339n:2,3imd:6,47ik:2,482q:3,4esn:3,4hkx:4,4ipf:5,4jt9:4,4lnx:6,4m3c:5,4m5o:2,4mod:5,4pkf:7,4qsg:5,4tyf:4
+2012 13 bundesliga	24g4	
+2012 13 cypriot cup	keq	
+2012 13 cypriot cup for lower divisions	15ls	
+2012 13 cypriot first division	xpu	
+2012 13 cypriot fourth division	1xbk	
+2012 13 cypriot second division	11s4	
+2012 13 cypriot third division	11qa	
+2012 13 ekstraklasa	318h	
+2012 13 energie cottbus season	42e	
+2012 13 eredivisie ice hockey season	5cvs	
+2012 13 eredivisie season	5cvs	
+2012 13 erzgebirge aue season	67n	
+2012 13 fc erzgebirge aue season	67n	
+2012 13 fc rot wei erfurt season	68b	
+2012 13 fuball bundesliga	24g4	
+2012 13 fussball bundesliga	24g4	
+2012 13 hoofdklasse	nyg	
+2012 13 isu speed skating world cup	1bd6	
+2012 13 la liga	1tv1	
+2012 13 liga iv	wun	
+2012 13 real madrid c season	6qd	
+2012 13 rot wei erfurt season	68b	
+2012 13 russian premier league	2xy3	
+2012 13 sec conference men s basketball season	yvz	
+2012 13 speed skating world cup	1bd6	
+2012 13 worcester city f c season	3t7	
+2012 2013 northern mali conflict	17ri	
+2012 2013 snooker season	4qtd	
+2012 aa		3imd:6
+2012 aa drink		3imd:6
+2012 aa drink leontien		3imd:6
+2012 aa drink leontien nl		3imd:6
+2012 aa drink leontien nl season	3imd	
+2012 aa drinkleontien nl season	3imd	
+2012 aegon		4ygh:3
+2012 aegon classic	4ygh	
+2012 afl		28c0:4,5hlo:4
+2012 afl finals		28c0:4
+2012 afl finals series	28c0	
+2012 afl grand		5hlo:4
+2012 afl grand final	5hlo	
+2012 africa		2zz:5
+2012 africa cup		2zz:5
+2012 africa cup of		2zz:5
+2012 africa cup of nations	2zz	
+2012 african		14o2:5
+2012 african championships		14o2:5
+2012 african championships in		14o2:5
+2012 african championships in athletics	14o2	
+2012 african cup of nations	2zz	
+2012 african nations cup	2zz	
+2012 asian		4m3c:5,4qsg:5
+2012 asian indoor		4qsg:5
+2012 asian indoor athletics		4qsg:5
+2012 asian indoor athletics championships	4qsg	
+2012 asian junior		4m3c:5
+2012 asian junior badminton		4m3c:5
+2012 asian junior badminton championships	4m3c	
+2012 asterix and obelix god save britannia	v6e	
+2012 australian		1yix:3
+2012 australian open	1yix	
+2012 australian open tennis	1yix	
+2012 baku		4z2p:3
+2012 baku cup	4z2p	
+2012 bell		59jj:3
+2012 bell challenge	59jj	
+2012 bilberberg conference	31qs	
+2012 bilderberg		31qs:3
+2012 bilderberg conference	31qs	
+2012 brownlow medal	ama	
+2012 budapest		50ny:4
+2012 budapest grand		50ny:4
+2012 budapest grand prix	50ny	
+2012 bwf world junior championships girls doubles	5nf1	
+2012 bwf world junior championships mixed doubles	4pkf	
+2012 ce	92x	
+2012 challenge bell	59jj	
+2012 charlie hebdo provocation	k3v	
+2012 chess olympiad	1ujh	
+2012 chicago summit	jp9	
+2012 cup		5lo8:4
+2012 cup of		5lo8:4
+2012 cup of china	5lo8	
+2012 eneco		pb2:3
+2012 eneco tour	pb2	
+2012 euro uefa	2r8	
+2012 european		ftx:4,20sf:6,21bb:6
+2012 european athletics		ftx:4
+2012 european athletics championships	ftx	
+2012 european athletics championships medal table	ftx	
+2012 european championships	2r8	
+2012 european championships in athletics	ftx	
+2012 european men		21bb:6
+2012 european men s		21bb:6
+2012 european men s handball		21bb:6
+2012 european men s handball championship	21bb	
+2012 european women		20sf:6
+2012 european women s		20sf:6
+2012 european women s handball		20sf:6
+2012 european women s handball championship	20sf	
+2012 eurovision	8he	
+2012 eurovision song contest	8he	
+2012 f1	28t4	
+2012 fed		1okp:3
+2012 fed cup	1okp	
+2012 fia formula one world championship	28t4	
+2012 film	qep	
+2012 film soundtrack	qep	
+2012 film soundtrack list	qep	
+2012 formula		28t4:5
+2012 formula 1	28t4	
+2012 formula 1 season	28t4	
+2012 formula one	28t4	28t4:5
+2012 formula one season	28t4	
+2012 formula one season constructors standings	28t4	
+2012 formula one season drivers standings	28t4	
+2012 formula one world		28t4:5
+2012 formula one world championship	28t4	
+2012 french		26ip:3,4hkx:4
+2012 french election	4hkx	
+2012 french open	26ip	
+2012 french presidential		4hkx:4
+2012 french presidential election	4hkx	
+2012 generali		4vxa:4
+2012 generali ladies		4vxa:4
+2012 generali ladies linz	4vxa	
+2012 gent wevelgem	47ik	
+2012 gentwevelgem	47ik	
+2012 german		1ef:4
+2012 german presidential		1ef:4
+2012 german presidential election	1ef	
+2012 giro		2h0l:4
+2012 giro d		2h0l:4
+2012 giro d italia	2h0l	
+2012 glava tour of norway	2b8j	
+2012 grammies	6gyu	
+2012 grammy awards	6gyu	
+2012 grammys	6gyu	
+2012 grand		4lnx:6,57m5:5,5je7:8,5t5b:6
+2012 grand prix		4lnx:6,57m5:5,5je7:8,5t5b:6
+2012 grand prix cycliste		4lnx:6,5t5b:6
+2012 grand prix cycliste de		4lnx:6,5t5b:6
+2012 grand prix cycliste de montreal	5t5b	
+2012 grand prix cycliste de quebec	4lnx	
+2012 grand prix de		57m5:5
+2012 grand prix de denain	57m5	
+2012 grand prix sar		5je7:8
+2012 grand prix sar la		5je7:8
+2012 grand prix sar la princesse		5je7:8
+2012 grand prix sar la princesse lalla		5je7:8
+2012 grand prix sar la princesse lalla meryem	5je7	
+2012 greenedge season	111r	
+2012 grote		2u9e:5
+2012 grote prijs		2u9e:5
+2012 grote prijs jef		2u9e:5
+2012 grote prijs jef scherens	2u9e	
+2012 hp		4zfn:3
+2012 hp open	4zfn	
+2012 iaaf	q9s	q9s:5
+2012 iaaf world		q9s:5
+2012 iaaf world indoor		q9s:5
+2012 iaaf world indoor championships	q9s	
+2012 icf canoe sprint world championships	uje	
+2012 insurgency in the azawad	17ri	
+2012 le		4mod:5
+2012 le samyn		4mod:5
+2012 le samyn des		4mod:5
+2012 le samyn des dames	4mod	
+2012 liege bastogne liege	31cy	
+2012 liegebastogneliege	31cy	
+2012 london olympic	4g	
+2012 london olympic games	4g	
+2012 london summer olympics	4g	
+2012 masters	1iyz	
+2012 masters snooker	1iyz	
+2012 mercury		4vy5:4
+2012 mercury insurance		4vy5:4
+2012 mercury insurance open	4vy5	
+2012 movie	qep	
+2012 nato		jp9:5
+2012 nato summit	jp9	jp9:5
+2012 nato summit in		jp9:5
+2012 nato summit in chicago	jp9	
+2012 ncaa division i men s volleyball tournament	12pd	
+2012 ncaa men s water polo championship	y6g	
+2012 new england revolution	42b	
+2012 northern mali conflict	17ri	
+2012 northern malian conflict	17ri	
+2012 olymics	4g	
+2012 olympic stadium	lcc	
+2012 olympics in london	4g	
+2012 olympics logo	4g	
+2012 omloop		65w1:4
+2012 omloop het		65w1:4
+2012 omloop het nieuwsblad	65w1	
+2012 omloop het nieuwsblad women s race	66ih	
+2012 orica greenedge season	111r	
+2012 oricagreenedge season	111r	
+2012 pacific		4jt9:4
+2012 pacific typhoon		4jt9:4
+2012 pacific typhoon season	4jt9	
+2012 paralympic	11g	
+2012 paralympic games	11g	
+2012 paralympic summer games	11g	
+2012 paralympics	11g	
+2012 paris nice	339n	
+2012 paris roubaix	4m5o	
+2012 parisnice	339n	
+2012 parisroubaix	4m5o	
+2012 poli farbe budapest grand prix	50ny	
+2012 porsche		5blq:5
+2012 porsche tennis		5blq:5
+2012 porsche tennis grand		5blq:5
+2012 porsche tennis grand prix	5blq	
+2012 present northern mali conflict	17ri	
+2012 pts	4jt9	
+2012 queensryche split	kb1	
+2012 rabobank women cycling team season	312m	
+2012 republican		6gmv:5
+2012 republican party		6gmv:5
+2012 republican party presidential		6gmv:5
+2012 republican party presidential primaries	6gmv	
+2012 roland garros	26ip	
+2012 s tropical storm wukong	4jt9	
+2012 saxo bank tinkoff bank season	zzz	
+2012 saxo banktinkoff bank season	zzz	
+2012 serbian		69du:4
+2012 serbian presidential		69du:4
+2012 serbian presidential election	69du	
+2012 skil argos season	5fjd	
+2012 sky	zke	
+2012 soundtrack	qep	
+2012 stockton california bankruptcy	4n7	
+2012 summer		4g:3,11g:3
+2012 summer olympics	4g	
+2012 summer olympics in london	4g	
+2012 summer olympics london	4g	
+2012 summer paralympic games	11g	
+2012 summer paralympics	11g	
+2012 super bowl	6gvs	
+2012 superbowl	6gvs	
+2012 syria uprising	5ga	
+2012 team		5fjd:5
+2012 team saxo bank season	zzz	
+2012 team saxo bank tinkoff bank season	zzz	
+2012 team skil		5fjd:5
+2012 team skil argos		5fjd:5
+2012 team skil argos season	5fjd	
+2012 team skilargos season	5fjd	
+2012 team sky season	zke	
+2012 team specialized lululemon season	218u	
+2012 team specializedlululemon season	218u	
+2012 tennis at the summer olympics	ljx	
+2012 three		2b0c:6
+2012 three days		2b0c:6
+2012 three days of		2b0c:6
+2012 three days of de		2b0c:6
+2012 three days of de panne	2b0c	
+2012 tmnt	1x2c	
+2012 tour		5hn:4,1znt:4,2b8j:4,2pun:6
+2012 tour de		5hn:4
+2012 tour de france	5hn	
+2012 tour de france points classification	5hn	
+2012 tour of		1znt:4,2b8j:4,2pun:6
+2012 tour of austria	1znt	
+2012 tour of flanders		2pun:6
+2012 tour of flanders for		2pun:6
+2012 tour of flanders for women	2pun	
+2012 tour of norway	2b8j	
+2012 tro		2lpb:4
+2012 tro bro		2lpb:4
+2012 tro bro leon	2lpb	
+2012 turtles	1x2c	
+2012 uci		j7r:4,lyc:4,1brg:5
+2012 uci europe		lyc:4
+2012 uci europe tour	lyc	
+2012 uci road		1brg:5
+2012 uci road world		1brg:5
+2012 uci road world championships	1brg	
+2012 uci world		j7r:4
+2012 uci world tour	j7r	
+2012 uefa euro	2r8	
+2012 uefa european championships	2r8	
+2012 united		4ipf:5
+2012 united states		4ipf:5
+2012 united states presidential		4ipf:5
+2012 united states presidential election	4ipf	
+2012 vuelta		4tyf:4
+2012 vuelta a		4tyf:4
+2012 vuelta a colombia	4tyf	
+2012 warsaw football clashes	2r8	
+2012 wimbledon	4esn	4esn:3
+2012 wimbledon championships	4esn	
+2012 winter		iko:4
+2012 winter youth		iko:4
+2012 winter youth olympics	iko	
+2012 wipe	1cgp	
+2012 women s professional soccer season	45ma	
+2012 world		i72:7,18ox:6,482q:3,4pkf:7,5nf1:8,61pr:5
+2012 world allround		18ox:6
+2012 world allround speed		18ox:6
+2012 world allround speed skating		18ox:6
+2012 world allround speed skating championships	18ox	
+2012 world junior		4pkf:7,5nf1:8
+2012 world junior badminton		4pkf:7,5nf1:8
+2012 world junior badminton championships		4pkf:7,5nf1:8
+2012 world junior badminton championships mixed		4pkf:7
+2012 world junior badminton championships mixed doubles	4pkf	
+2012 world junior badminton championships women		5nf1:8
+2012 world junior badminton championships women s		5nf1:8
+2012 world junior badminton championships women s doubles	5nf1	
+2012 world rally		61pr:5
+2012 world rally championship	61pr	61pr:5
+2012 world rally championship season	61pr	
+2012 world series	482q	
+2012 world single		i72:7
+2012 world single distance		i72:7
+2012 world single distance speed		i72:7
+2012 world single distance speed skating		i72:7
+2012 world single distance speed skating championships	i72	
+2012 wrc	61pr	
+2012 wrc season	61pr	
+2012 ws	482q	
+2012 wta		1aaz:3
+2012 wta tour	1aaz	
+2012 wyog	iko	
+2012 year	92x	
+2012 youth olympics	iko	
+2012 youth winter olympics	iko	
+abere	3jzi	
+acts		103j:4
+acts 1 18 20	5ln4	
+acts 19 11 12	103j	
+acts 19 5	103j	
+acts 2 38	103j	
+acts of		103j:4
+acts of apostles	103j	
+acts of congress	1u3	
+acts of parliament	kk3	
+acts of parliament in the united kingdom	tj	
+acts of provincial parliment	6g4	
+acts of the		103j:4
+acts of the apostles	103j	
+acts of the holy spirit	103j	
+acts of the parliaments	kk3	
+acts of the scottish parliament	q5n	
+acts of the united states congress	1u3	
+addict	4nvm	
+adlerkosteletz	1tdl	
+aeronautique militaire	au6	
+archuleta		4dvw:2
+archuleta county	4dvw	
+archuleta county co	4dvw	
+archuleta county colorado	4dvw	
+archuleta david	2bu7	
+asteriidae	5ud4	
+atp	1ro,qbi	
+atp 250	43l4	
+atp 250 series	43l4	
+atp 250 series tournaments	43l4	
+atp 500	5ywp	
+atp 500 series	5ywp	
+atp 500 series tournaments	5ywp	
+atp acapulco	3s8t	
+atp adelaide	3127	
+atp agreement	qbi	
+atp amersfoort	kn3	
+atp atlanta	1l69	
+atp auckland	sdi	sdi:3
+atp auckland open	sdi	
+atp bangkok	5nz0	
+atp barcelona	xbs	
+atp basel	2b9i	
+atp beijing	20w3	
+atp bordeaux	5e3i	
+atp bucharest	1ovx	
+atp buenos		2688:3
+atp buenos aires	2688	
+atp casablanca	1elb	
+atp center court	3ogl	
+atp challenger	1gnj	1gnj:3
+atp challenger series	1gnj	
+atp challenger tour	1gnj	
+atp challenger tour series	1gnj	
+atp challenger tournament	1gnj	
+atp challenger tretorn series tournaments	1gnj	
+atp challengers	1gnj	
+atp championship series	5ywp	
+atp championship series double week	5ywp	
+atp chennai	1qlr	
+atp copenhagen	4kc0	
+atp costa do sauipe	2b4t	
+atp delray beach	30j1	
+atp doha	1j4t	
+atp dubai	1i4w	
+atp estoril	3x87	
+atp finals	r5w	
+atp forced exposure	3tgk	
+atp german open	tho	
+atp gstaad	2kl8	
+atp halle	1iwy	
+atp hamburg		tho:3
+atp hamburg open	tho	
+atp houston	1810	
+atp indianapolis	1l69	
+atp kitzbuehel	2up9	
+atp kitzbuhel	2up9	
+atp madrid	2ud0	
+atp marseille	1m18	
+atp masters 500	5ywp	
+atp masters series indian wells	r0n	
+atp moscow	1aby	
+atp munich	1kzz	
+atp newport	55ct	
+atp recordings	3tgk	
+atp rotterdam	rl8	
+atp stockholm	nxf	
+atp stratton mountain	1l90	
+atp stuttgart	ulx	
+atp sydney	2rfm	
+atp sydney indoor	1mpz	
+atp tennis	1ro	
+atp tokyo indoor	1v1j	
+atp toulouse	5g1m	
+atp tour	1ro	
+atp tour world championship	r5w	
+atp tour world championships	r5w	
+atp tour world doubles championships	r5w	
+atp treaty	qbi	
+atp valencia	31k6	
+atp vienna	q66	
+atp vina del mar	3z2r	
+atp volvo international	1l90	
+atp washington	y3p	
+atp washington d c	y3p	
+atp washington dc	y3p	
+atp world		43l4:5,5ywp:5
+atp world series	43l4	
+atp world tour	1ro	43l4:5,5ywp:5
+atp world tour 250	43l4	43l4:5
+atp world tour 250 series	43l4	
+atp world tour 500	5ywp	5ywp:5
+atp world tour 500 series	5ywp	
+atp world tour doubles championships	r5w	
+atp world tour finals	r5w	
+audevive	2cd	
+azari		1qc1:3
+azari rural		1qc1:3
+azari rural district	1qc1	
+bagaladi	4kle	
+bidaishe	2nhq	
+blastobasis	6qb	
+bomlitz	43qj	
+bonairean	qxn	
+botasspor	3to6	
+bower	4ip8	
+bower ashton campus bristol	2vvg	
+bower award and prize for achievement in science	87s	
+bower award for business leadership	87s	
+bower family	2tlw	
+bower mark	5fq0	
+brann	522	
+brann bergen	522	
+breidenbach	1owz	
+breidenbach moselle	1owz	
+chancellor	kx9,40mc	c28:6,cfa:4,1c0o:3,1vjy:3
+chancellor bestuzhev	4aga	
+chancellor doctors and masters of the university of dublin	1s5v	
+chancellor education	kx9	
+chancellor george osborne	2e5n	
+chancellor gorchakov	5k5k	
+chancellor kohl	jq4	
+chancellor masters and scholars of the university of cambridge	ht	
+chancellor masters and scholars of the university of oxford	ea	
+chancellor merkel	fmd	
+chancellor michaelis	5vum	
+chancellor of		c28:6,cfa:4,1c0o:3,1vjy:3
+chancellor of africa german reich	1vjy	
+chancellor of austria	127z	
+chancellor of cambridge	ht	
+chancellor of england	gut	
+chancellor of germany	1vjy	
+chancellor of germany 1949	xgg	
+chancellor of germany 1949 present	xgg	
+chancellor of germany 1949present	xgg	
+chancellor of germany federal republic	xgg	
+chancellor of germany federal republic of germany	xgg	
+chancellor of germany german empire	1vjy	
+chancellor of germany german reich	1vjy	
+chancellor of germany weimar republic	1vjy	
+chancellor of great britain	gut	
+chancellor of lithuania	1c0o	
+chancellor of poland	1c0o	
+chancellor of the		c28:6,cfa:4
+chancellor of the crown	1c0o	
+chancellor of the duchy		c28:6
+chancellor of the duchy of		c28:6
+chancellor of the duchy of lancaster	c28	
+chancellor of the exchequer	cfa	
+chancellor of the exchequer of england	cfa	
+chancellor of the exchequer of the united kingdom	cfa	
+chancellor of the exchequer treasury	cfa	
+chancellor of the exchquer	cfa	
+chancellor of the federal republic of germany	xgg	
+chancellor of the federal republic of germany 1949 1990	xgg	
+chancellor of the german empire	1vjy	
+chancellor of the university of london	n9	
+chancellor of west germany	1vjy	
+chancellor of western carolina university	2w1b	
+chancellor palpatine	6ggj	
+chancellor poland	1c0o	
+chancellor schroder	yoa	
+chancellor sheev palpatine	6ggj	
+chancellor university	kx9	
+charles mcgraw	s5o	
+chgs	4cwc	
+clusia	3h0h	
+cobbled		6fh7:2
+cobbled classics	6fh7	
+cruiseship	2iu	
+daneshgah e azad e eslami	h6t	
+daneshgah e esfahan	3uf7	
+daneshgah e shiraz	65kr	
+david burke		4i5f:4
+david burke actor	4i5f	
+david burke british		4i5f:4
+david burke british actor	4i5f	
+edward cornwallis	4el6	
+edward cornwallis 5th earl cornwallis	4el6	
+eleocharis	157r	
+elke	17a8	kcu:2,4v4p:2,69vn:2
+elke baronesse von schletz	kcu	
+elke budenbender	4v4p	
+elke first name	17a8	
+elke given name	17a8	
+elke hoff	69vn	
+elke name	17a8	
+elke schletz	kcu	
+elke sommer	kcu	
+elke sommers	kcu	
+elke summer	kcu	
+elke summers	kcu	
+elke von	5cff	
+elke von schletz	kcu	
+emeringes	3pae	
+epic	c5z,1jif,30z0,363g	c2:2,awc:3,c5z:2,ply:3,18rr:2,2kds:7,2kip:2,6d7n:2,6gkk:3
+epic 2013 film	1jif	
+epic af	c2	
+epic ballad	c5z	
+epic beard men	2vk9	
+epic black metal	fsn	
+epic classics	ply	
+epic cycle	6d7n	
+epic doc	ply	
+epic doom metal	3j9	
+epic fail	6fcd	
+epic failure	6fcd	
+epic fantasy	9ox	
+epic film	2kip	
+epic films	2kip	
+epic games	ply	
+epic genre	363g	
+epic hero	c5z	
+epic high	3tx6	
+epic label group	c2	
+epic man	38s2	
+epic megagames	ply	ply:3
+epic megagames inc	ply	
+epic metal	1wx	
+epic mickey		2kds:7
+epic mickey 2	2kds	2kds:7
+epic mickey 2 the		2kds:7
+epic mickey 2 the power		2kds:7
+epic mickey 2 the power of		2kds:7
+epic mickey 2 the power of two	2kds	
+epic mickey 3	2kds	
+epic movie	18rr,2kip	
+epic movie film	18rr	
+epic movies	2kip	
+epic music video	c2	
+epic nashville	c2	
+epic novel	363g	
+epic of		6gkk:3
+epic of gilgames	6gkk	
+epic of gilgamesh	6gkk	
+epic poem	c5z	
+epic poet	c5z	
+epic poetry	c5z	
+epic poets	c5z	
+epic records	c2	awc:3
+epic records japan	awc	
+epic records nashville	c2	
+epic records uk	c2	
+epic records us	c2	
+epic sme	c2	
+epic sony	awc	
+epic sony records	awc	
+epic soundtrack	1jif	
+epic tradition	6d7n	
+epic western	vff	
+falling	6f8e	kcr:2,162i:2,1ti2:3,3fz4:3,3vlx:2,4jg9:4,57sn:3,5g73:4,5n1d:2,66a3:2
+falling accident	6f8e	
+falling away with you	57ls	
+falling down	162i	
+falling down film	162i	
+falling down hayden panettiere album	sfu	
+falling free madonna song	2wto	
+falling free song	2wto	
+falling from cloud nine	4w2u	
+falling hare	66a3	
+falling in		1ti2:3,3fz4:3,4jg9:4
+falling in love	1ti2	4jg9:4
+falling in love 1984 film	1ti2	
+falling in love again	4jg9	
+falling in love again 1980 film	4jg9	
+falling in reverse	3fz4	
+falling into		57sn:3
+falling into grace	62qs	
+falling into you	57sn	
+falling into you album	57sn	
+falling kylie minogue song	3b30	
+falling out of cars	2h4g	
+falling rocks	22ph	
+falling skies	kcr	5g73:4
+falling skies season		5g73:4
+falling skies season 2	5g73	
+falling skies the game	kcr	
+falling skies tv series	kcr	
+falling stones	bt5	
+falling up	5n1d	
+falling up film	5n1d	
+falling water	3vlx	
+falling water tv series	3vlx	
+filmfareawardbestdialogue	w2w	
+firion	4dqf	
+george sorros	qwi	
+ghapan	3nqa	
+gmina bystrzyca		lc4:3
+gmina bystrzyca klodzka	lc4	
+gmina bystrzyca kodzka	lc4	
+gmina gorzyca	2my5	
+greenbay packers	o7	
+greenbay wisconsin	5mm	
+grenant	4499	
+guryeo	z0q	
+hackettstown	2pyc	
+hackettstown new jersey	2pyc	
+hackettstown nj	2pyc	
+hackettstown town new jersey	2pyc	
+hebeloma	mti	
+hofjagd und rustkammer	ac8	
+hyuna	1bxh	
+hyuna kim	1bxh	
+issaq	4b1y	
+issaq 2013 film	4b1y	
+iulius	a8u	
+iulius pp ii	17du	
+james caveziel	13it	
+james franko	9fs	
+jean moreas	5ib7	
+jre podcast	3uex	
+kadar flora	2g3n	
+kadar janos	3hff	
+kadar khan	7w1	
+khroustaliov my car	5uzo	
+kickass film	uqx	
+killa cam	11ir	
+killa keise	28hc	
+killa mario song	18pm	
+killa on the run	jz1	
+killa season 2	11ir	
+killa season 2 the pink edition	11ir	
+kimila ann basinger	jb6	
+kutzenhausen	2xjp	
+kutzenhausen bas rhin	2xjp	
+kutzenhausen france	2xjp	
+la guierche	40xm	
+lieto	26nl	
+lukowica commune	44m2	
+m109		5ber:2
+m109 group	5ber	
+m109 group of galaxies	5ber	
+mambillikalathil		5l5c:4
+mambillikalathil govind		5l5c:4
+mambillikalathil govind kumar		5l5c:4
+mambillikalathil govind kumar menon	5l5c	
+mambillikalathil kumar menon	5l5c	
+marthand		c8j:3
+marthand k		c8j:3
+marthand k venkatesh	c8j	
+matignon palace	5m3a	
+mckim		16v1:3
+mckim charles	4dly	
+mckim mead		16v1:3
+mckim mead and white	16v1	
+mckim mead white	16v1	
+mckim meade and white	16v1	
+mckim meade white	16v1	
+measuring	fuk	92z:2
+measuring device	92z	
+measuring instrument	92z	
+measuring instruments	92z	
+measuring tools	92z	
+measuring transducer	6dfz	
+measuring worm	ky	
+medel	4ujf	
+medel gr	4ujf	
+medel lucmagn	4ujf	
+medel lucmagn graubuenden	4ujf	
+medel lucmagn graubunden	4ujf	
+medel lucmagn grisons	4ujf	
+medel switzerland	4ujf	
+mende	ppj	
+mende france	ppj	
+mende lozere	ppj	
+microthytira	4vml	
+millard	m6z,1oua	13e5:2,18vp:2,1pjc:2,2oa1:2,4b6y:2,4c9c:2,5450:3
+millard county	13e5	
+millard county ut	13e5	
+millard county utah	13e5	
+millard county utah territory	13e5	
+millard e tydings	4c9c	
+millard evelyn tydings	4c9c	
+millard fillmore	18vp	
+millard fillmore high school	11bx	
+millard fillmore judicial appointments	18vp	
+millard filmore	18vp	
+millard first name	1oua	
+millard given name	1oua	
+millard kaufman	4b6y	
+millard mitchell	1pjc	
+millard philmore	18vp	
+millard powers		5450:3
+millard powers fillmore	5450	
+millard surname	m6z	
+millard tydings	4c9c	
+millard webb	2oa1	
+mocejon	4i75	
+mocejon spain	4i75	
+mocejon toledo	4i75	
+mondesir heir	2luj	2luj:3
+muly hamet	359p	
+nakashima kazuki	55qx	
+nakashima mika	jws	
+nakashima tetsuya	59lh	
+narisara		1z41:2
+narisara nuvadtivongs	1z41	
+narisara nuwattiwong	1z41	
+narisara nuwattiwongse	1z41	
+national movement		3nka:6
+national movement democrats	4q25	
+national movement democrats georgia	4q25	
+national movement for		3nka:6
+national movement for simeon ii	3nka	
+national movement for stability		3nka:6
+national movement for stability and		3nka:6
+national movement for stability and progress	3nka	
+national movement for stability progress	3nka	
+national movement simeon ii	3nka	
+neuer manuel	1cav	
+nordmannia	1fad	
+novosphingobium	22dw	
+oduvil	33ds	33ds:2
+oduvil unni krishnan	33ds	
+oduvil unnikrishnan	33ds	
+okmotu	uo	
+olofsson	3l7z	
+osmosis		1k8s:2
+osmosis jones	1k8s	
+osmosis jones movie	1k8s	
+osmosis jones oj the movie	1k8s	
+osmosis jones the movie	1k8s	
+osmosis records	do9	
+oursana listeria test	2g1c	
+pashtun language	aqn	
+pashtun people	ks8	
+paul mullin	6cjy	
+paul mullin footballer born 1974	6cjy	
+penangite	58d	
+picquigny	1fmi	
+picquigny france	1fmi	
+pioner	3s9d	
+plock	8ni	
+plock county	sw0	
+portals	154q	
+portals valve software game	10s3	
+propositioner	4it0	
+riku		3vxu:2
+riku riski	3vxu	
+robert menzies	ogg	
+robert menzies mcalmon	682b	
+robert stevenson	k1q,3ydq	
+robert stevenson civil engineer	3ydq	
+robert stevenson director	k1q	
+robert stevenson horne	4zj4	
+robert stevenson horne 1st viscount horne	4zj4	
+robert stevenson horne 1st viscount horne of slamannan	4zj4	
+robert stevenson lighthouse engineer	3ydq	
+rovello		3nfb:2
+rovello porro	3nfb	
+rsj sparks	5tii	
+san adrian	47f5	
+san adrian de palma	47f5	
+san serif	29t9	
+sasso		1jyj:2,553z:3
+sasso di		553z:3
+sasso di asiago	fb0	
+sasso di castalda	553z	
+sasso di orasso	3lua	
+sasso marconi	1jyj	
+schuebelbach	22bc	
+schuebelbach schwyz	22bc	
+schuebelbach switzerland	22bc	
+schuebelbach sz	22bc	
+selachians	nyk	
+seni		4jqj:2
+seni district	4jqj	
+servites	3hyb	
+sir hiram maxim	3u72	
+sir hiram of maine	3u72	
+sir hiram stevens maxim	3u72	
+sivastin	1iox	
+spermophilus	1glp	
+sprngfarlig bombe	35wx	
+stealing	143a	1fdd:2,217h:2,2oux:2,3431:2,5b0r:2
+stealing base	6hv6	
+stealing baseball	6hv6	
+stealing beauty	1fdd	
+stealing harvard	2oux	
+stealing home	217h	
+stealing rembrandt	3431	
+stealing sinatra	5b0r	
+suburbans	3vs0	3vs0:2
+sz	2qq,6zz	
+sz chwen	6pf	
+sz metro	h62	
+sz sakall	jb1	
+tancoia	4fu	
+taribo		1nhb:2
+taribo west	1nhb	
+tcwm	299	
+the uk independence party	asv	
+the uk singles charts	6hi8	
+timurlane the mongol	1q34	
+tomer	54jc	2eyp:2,2gnm:2,46ao:2,5ist:2,68hn:2
+tomer chencinski	2gnm	
+tomer first name	54jc	
+tomer given name	54jc	
+tomer haliva	5ist	
+tomer hemed	2eyp	
+tomer sisley	46ao	
+tomer tayar	68hn	
+trondhem	1o8	
+tsenan	99h	
+turano		2xa3:2
+turano lodigiano	2xa3	
+universitara bucuresti	a4n	
+valbondione	3351	
+vilvorde	s50	
+vogesen	15zc	
+wristcutters	2diz	2diz:4
+wristcutters a		2diz:4
+wristcutters a love		2diz:4
+wristcutters a love story	2diz	
+xhbu tdt	6d8	
+xyleutes	6fwr	
+yesh		20ry:2
+yesh atid	20ry	
+yesh chopra	gyf	
+yicheng prison	cdm	
+yolo	6bpd	ave:2
+yolo county	ave	
+yolo county ca	ave	
+yolo county california	ave	
+yolo mixtape	ehq	
+yolo song	6bpd	
+yolo telescope	1ign	
+yolo the simpsons episode	1r5z	
+zaporozhian host	1r8j	
+zit cream	yzy	

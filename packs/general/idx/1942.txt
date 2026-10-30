@@ -1,0 +1,510 @@
+1936	1eeb	eo:3,2ct:3,2z9e:4,4qpk:4
+1936 37		2z9e:4
+1936 37 cypriot		2z9e:4
+1936 37 cypriot cup	2z9e	
+1936 37 cypriot first division	37e9	
+1936 ad	1eeb	
+1936 berlin olympics	eo	
+1936 berlin summer olympics	eo	
+1936 ce	1eeb	
+1936 summer		eo:3
+1936 summer olympic games	eo	
+1936 summer olympics	eo	
+1936 tour		4qpk:4
+1936 tour de		4qpk:4
+1936 tour de france	4qpk	
+1936 united states men s olympic rowing team	2pji	
+1936 united states men s rowing team	2pji	
+1936 winter		2ct:3
+1936 winter olympic	2ct	
+1936 winter olympic games	2ct	
+1936 winter olympics	2ct	
+1936 year	1eeb	
+achel	57mw	
+ainil	fci	
+alexander thynn	4kft	4kft:6
+alexander thynn 7th		4kft:6
+alexander thynn 7th marquess		4kft:6
+alexander thynn 7th marquess of		4kft:6
+alexander thynn 7th marquess of bath	4kft	
+alexander thynn bath	4kft	
+alexhollender sandbox	5b2f	
+allcaim	6za	
+anatolya	rrb	
+artyomovsk	2biz	
+bacska szabadkai athletikai club	3lkw	
+banksey	37dh	
+bardonecchia	1ouf	
+barraux	36rs	
+batsled	rwv	
+belvianes		3phl:3
+belvianes et		3phl:3
+belvianes et cavirac	3phl	
+bieford	tch	
+bivouac	505r	
+bivouac biaggio musso	4lv1	
+bourgas	6an	
+buhari	3bru	
+cametours	2xbp	
+capdrot	2byz	
+chambrey	1pjh	
+chambrey les tours	10j1	
+charles alkan	1jae	
+charro western	vff	
+chiyos	ce6	
+chocola the chao	1i1f	
+coeliodes	3r9	
+counterspeculation auctions and competitive sealed tenders	4gnu	
+cratajis	2rw7	
+dannevirke	1jfg	
+dannevirke new zealand	1jfg	
+david golder	49mk	
+david golder film	49mk	
+discriminatory	1gk0	
+discriminatory abuse	6fb2	
+docharkheh savaran	3za	
+dretovice	3n53	
+driest continent	3j	
+drohobytsch	r27	
+eichendorf	3y72	
+eisschnellaufbahn	29ch	
+eletsky monastery	993	
+fc khvylya khmelnytskyi	qpl	
+ferollais	2dbi	
+floater	5hg6	
+floater band	5hg6	
+flushdyke	4zqk	
+gammaray burst	1616	
+gdanzc	1d2	
+gmina bialy bor	mfv	
+gmina bialy dunajec	625y	
+gmina swidwin	oc2	
+goron elder	5kpr	
+greenlets	5rlu	
+guilhermesoccer	c20	
+gurun princess hexiao	4zm5	
+gurun princess shou an	533a	
+hanwha		o9l:2,x54:2
+hanwha eagles	x54	
+hanwha ocean	o9l	
+harperflamingo	14n	
+hayle	34y4	
+hayle civil parish	34y4	
+hayle cornwall	34y4	
+hayle cp	34y4	
+hayle gebre silasse	1e9b	
+hayle lifeboat station	34y4	
+hays	2bsi	1r89:2
+hays city kansas	2bsi	
+hays city ks	2bsi	
+hays county	1r89	
+hays county texas	1r89	
+hays county tx	1r89	
+hays highschool	1r89	
+hays kansas	2bsi	
+hays kansas micropolitan area	139o	
+hays ks	2bsi	
+hays ks micropolitan statistical area	139o	
+hays ks msa	139o	
+hays ks sa	139o	
+hereditary		11ju:2,1sp4:6
+hereditary and		1sp4:6
+hereditary and free		1sp4:6
+hereditary and free lord		1sp4:6
+hereditary and free lord of		1sp4:6
+hereditary and free lord of ameland	1sp4	
+hereditary aristocracy	385	
+hereditary grand duke guillaume	34y0	
+hereditary hearing disorder	f3b	
+hereditary hearing loss	f3b	
+hereditary hypertriglyceridaemia	1z1c	
+hereditary hypertriglyceridemia	1z1c	
+hereditary knight	a4q	
+hereditary optic atrophy	6ak6	
+hereditary papillary renal cancer	5jyx	
+hereditary prince	6bzh	
+hereditary prince albert of monaco	ppg	
+hereditary prince alois	4nz4	
+hereditary prince alois of liechtenstein	4nz4	
+hereditary prince ferdinand	38mz	
+hereditary prince frederick	1qf8	
+hereditary prince frederick of denmark	1qf8	
+hereditary prince frederick of denmark and norway	1qf8	
+hereditary prince friedrich ludwig of mecklenburg schwerin	27x7	
+hereditary prince jacques	5noa	
+hereditary prince jacques of monaco marquis de baux	5noa	
+hereditary prince karl ludwig of baden	195r	
+hereditary prince knud	3118	
+hereditary princess	6bzh	
+hereditary princess caroline	5mk4	
+hereditary princess sophia frederica	2kzb	
+hereditary title	11ju	
+hereditary titles	11ju	
+imphal	pwz	1ufi:3,2k6e:3
+imphal east	2k6e	2k6e:3
+imphal east district	2k6e	
+imphal west	1ufi	1ufi:3
+imphal west district	1ufi	
+izale		42zx:2
+izale mcleod	42zx	
+james gavin	2qu4	
+japhethitic peoples	2t8c	
+joleen	61j6	
+kevillips	4bm2	
+kibbutzes	430	
+kleinbullesheim	1iny	
+kurmangazy		5zlr:2
+kurmangazy district	5zlr	
+kuti adam	2upq	
+kutzeling	1tio	
+lased	6gs7	
+le burgaud	2bc2	
+lefevre	jzx	
+lefevre d etaples	2o1j	
+lefevre d etaples jacques	2o1j	
+lioresal	2fza	
+lioresal intrathecal	2fza	
+lissos illyria	1gsm	
+localitiesarad	6jf	
+lueneberg	7wu	
+lueneberg heath	11w7	
+lukov	3vld,42fs	
+lukov teplice district	3vld	
+lukov trebic district	42fs	
+lukov u biliny	3vld	
+luoyang	8jy	
+luoyang china	8jy	
+luoyang henan	8jy	
+luoyang henan province china	8jy	
+mariahalom	3cok	
+match		19k2:2,3enh:2
+match factory girl	4l5j	4l5j:4
+match game	1pg	
+match point	19k2	
+match point film	19k2	
+match point movie	19k2	
+match point tennis	2h	
+match tiebreak	2h	
+mitta alexander	3iqw	
+mmxviii	5s4t	
+monkeybone	1inx	
+municipio		61nj:2
+municipio 1	61nj	
+municipio 1 di milano	61nj	
+municipio 14	1y8d	
+municipio de braga	5w5	
+municipio de espana	6j	
+municipio de santa ana	jni	
+municipio in mexico	ov	
+municipio industrial preferente de ourense	4394	
+municipio italy	5m	
+municipio libre	ov	
+municipio mexico	ov	
+municipio xiv	1y8d	
+narke	3rrp	
+nart cherkessk	1aat	
+nart nartkala	5cvh	
+national hymns	2io	
+nexco west	1jgo	
+nexco west japan	1jgo	
+nurettin		61in:2
+nurettin kayaoglu	61in	
+osecna	45el	
+paganini	2j84,3jnq,4vee,4y0u	
+paganini 1923 film	4vee	
+paganini 1934 film	3jnq	
+paganini 1989 film	4y0u	
+paganini niccolo	2j84	
+palis	3lpw	
+paperback	141w	5myv:2
+paperback book	141w	
+paperback books	141w	
+paperback writer	5myv	
+paperback writer the beatles song	5myv	
+paul bart	1u7f	
+paul campion	6eas	
+paul campion director	6eas	
+paul campion film director	6eas	
+paul hartmann	nw3	
+paul hartmann actor	nw3	
+paul hartmann german actor	nw3	
+penalty		442d:2,4rh2:2
+penalty entertainment	4rh2	
+penalty kick gaelic football	z0	
+penalty recordings	4rh2	
+penalty records	4rh2	
+petschau castle	2lmm	
+phenodihydrochloride benzelex	37e5	
+pher	io	
+postcards		1h3f:4
+postcards and audio letters	3e5l	
+postcards from		1h3f:4
+postcards from the		1h3f:4
+postcards from the edge	1h3f	
+postcards from the edge episode	3mjm	
+postcards from the edge film	1h3f	
+postcards from the edge movie	1h3f	
+postcards in the sky	2bu7	
+princess sharada		4uoz:5
+princess sharada shah		4uoz:5
+princess sharada shah of		4uoz:5
+princess sharada shah of nepal	4uoz	
+progcore	mc1	
+qei	xc2	
+quebecker bloc	84k	
+quebecker language	3hzf	
+quebecker party	93s	
+residentiary canon	5j2	
+residentiary canons	5j2	
+richard cardona	4tay	
+robert jesuschrist sawyer	1jta	
+robojox	3smb	
+ruxley surrey	3xiq	
+rwandese national football league	2lgk	
+rwandese republic	1v4	
+sabzewar	2fb4	
+saint perdon	3nvz	
+saliou		50jc:2,5cjq:2
+saliou diallo	5cjq	
+saliou lassissi	50jc	
+sarc iitb student alumni relation cell	bow	
+sarcophagal	1gy8	
+saubens	2hmm	
+schafferpfeife	79w	
+sir rex harrison	g3q	
+sitten	9io	
+skoronice	4cao	
+snowfield	4nrw	
+storm	10u0,1l4a,2syc,391f,56dv	7zi:2,1ec3:2,1nh3:2,227j:2,28g9:2,2y09:2,35j1:4,3m9i:2,3rt8:2,43pc:4,4r8a:4,51b4:5,59du:2,59g3:3,5cqd:4,5jre:2,5m04:3,5vkx:3,683g:6
+storm 2009 film	1l4a	
+storm at		5m04:3
+storm at daybreak	5m04	
+storm boy album	4knl	
+storm boy xavier rudd album	4knl	
+storm breaker	16l7	
+storm cat	1nh3	
+storm center	3m9i	
+storm cloud	10u0	
+storm clouds	10u0	
+storm damage	10u0	
+storm detachment	2hn	
+storm electricity	3gem	
+storm first name	2syc	
+storm flood	227j	
+storm fm	g5a	
+storm front	5jre	
+storm front album	5jre	
+storm front studios	30ps	
+storm giant	183k	
+storm given name	2syc	
+storm in		51b4:5,5cqd:4
+storm in a		51b4:5,5cqd:4
+storm in a teacup	5cqd	
+storm in a teacup film	5cqd	
+storm in a teacup film 2011	5cqd	
+storm in a teacup film copyright status	5cqd	
+storm in a teacup red hot chili peppers	69bq	
+storm in a water		51b4:5
+storm in a water glass	51b4	
+storm is coming	5f4b	5f4b:4
+storm labels	7zi	
+storm lake	2y09	
+storm lake ia	2y09	
+storm lake ia micropolitan statistical area	wdz	
+storm lake ia msa	wdz	
+storm lake ia sa	wdz	
+storm lake iowa	2y09	
+storm lake iowa micropolitan area	wdz	
+storm lake police department iowa	2y09	
+storm management	59du	
+storm marvel character	391f	
+storm marvel comics	391f	
+storm marvel comics character	391f	
+storm marvel comics comments	391f	
+storm model agency	59du	
+storm model management	59du	
+storm models	59du	
+storm of 1875	326	
+storm of swords	6d29	
+storm on the sea of galilee	4vho	4vho:7
+storm over		35j1:4,43pc:4,4r8a:4,59g3:3,5vkx:3
+storm over ceylon	59g3	
+storm over lisbon	5vkx	
+storm over mont		43pc:4
+storm over mont blanc	43pc	
+storm over the		35j1:4,4r8a:4
+storm over the nile	35j1	
+storm over the pacific	4r8a	
+storm over the pacific film	4r8a	
+storm over the pacific move	4r8a	
+storm over zakopane	6c47	
+storm owl	6f75	
+storm peak novel	1h1c	
+storm rapper	2njh	
+storm rider	28g9	683g:6
+storm rider clash		683g:6
+storm rider clash of		683g:6
+storm rider clash of the		683g:6
+storm rider clash of the evils	683g	
+storm riders	2jfr	2jfr:3
+storm squad	4pe	
+storm superhero	391f	
+storm surge	227j	
+storm surges	227j	
+storm surname	56dv	
+storm system	10u0	
+storm thurmond	1fqf	
+storm tide	227j	
+storm tides	227j	
+storm tour	6eap	
+storm troopers nazi germany	2hn	
+storm varese	6wh	
+storm warning	3rt8	
+storm warning 1951 film	3rt8	
+storm warriors	6ahk	6ahk:3
+storm x men	391f	
+storre	ofi,260r	
+storre stirling online research repository	ofi	
+surkhondaryo wiloyati	1juq	
+szucsvar	fa9	
+tall		1xhn:2,20ft:4,2ru4:4,4jn2:2,4zf7:2
+tall bearded iris	4t1	
+tall blond man with one black shoe	15z9	15z9:8
+tall buildings	g9	
+tall city	ahs	
+tall dark		2ru4:4
+tall dark and		2ru4:4
+tall dark and handsome	2ru4	
+tall dwarfs	4jn2	
+tall grass	24p	
+tall guy	46v6	46v6:3
+tall in		20ft:4
+tall in the		20ft:4
+tall in the saddle	20ft	
+tall man	4pca	4pca:3
+tall man trilby s notes	6763	
+tall men	3mlq	3mlq:3
+tall monument	6f4	
+tall story	4zf7	
+tall t	4ry5	4ry5:3
+tall tale	1xhn	
+tall tale film	1xhn	
+tall target	2dsy	2dsy:3
+tall women	26ny	26ny:3
+the death		1amm:4,1cs1:4,1v3z:15,238j:4,283g:4,2kfd:7,2lsv:5,2m2h:9,2mhr:6,31v8:4,3ux2:4,3vfc:3,4eaw:8,4f1d:5,551s:5,5r26:4,639p:3,6gjj:3
+the death and		2kfd:7,4eaw:8
+the death and life		2kfd:7,4eaw:8
+the death and life of		2kfd:7,4eaw:8
+the death and life of bobby		2kfd:7
+the death and life of bobby z	2kfd	
+the death and life of charlie st cloud film	1qtx	
+the death and life of john		4eaw:8
+the death and life of john f		4eaw:8
+the death and life of john f donovan	4eaw	
+the death cult	18p1	
+the death cure	6gjj	
+the death disc		2m2h:9
+the death disc a		2m2h:9
+the death disc a story		2m2h:9
+the death disc a story of		2m2h:9
+the death disc a story of the		2m2h:9
+the death disc a story of the cromwellian		2m2h:9
+the death disc a story of the cromwellian period	2m2h	
+the death gate		3ux2:4
+the death gate cycle	3ux2	
+the death kiss	639p	
+the death life of john f donovan	4eaw	
+the death of		1amm:4,1cs1:4,1v3z:15,238j:4,283g:4,2lsv:5,2mhr:6,31v8:4,4f1d:5,551s:5,5r26:4
+the death of a cyclist	38ew	
+the death of a king	4p9s	
+the death of achilles	5r26	
+the death of adonis	1cs1	
+the death of adonis rubens	1cs1	
+the death of caesar	31v8	
+the death of charlie countryman	1iit	
+the death of death	2aqw	
+the death of doctor who	2ir3	
+the death of dracula	5baq	
+the death of drakula	5baq	
+the death of general		1v3z:15
+the death of general warren	1v3z	1v3z:15
+the death of general warren at		1v3z:15
+the death of general warren at the		1v3z:15
+the death of general warren at the battle		1v3z:15
+the death of general warren at the battle of		1v3z:15
+the death of general warren at the battle of bunker		1v3z:15
+the death of general warren at the battle of bunker hill	1v3z	
+the death of general warren at the battle of bunker s		1v3z:15
+the death of general warren at the battle of bunker s hill	1v3z	1v3z:15
+the death of general warren at the battle of bunker s hill june		1v3z:15
+the death of general warren at the battle of bunker s hill june 17		1v3z:15
+the death of general warren at the battle of bunker s hill june 17 1775	1v3z	
+the death of lazarescu	2lsv	
+the death of leonardo		2mhr:6
+the death of leonardo da		2mhr:6
+the death of leonardo da vinci	2mhr	
+the death of lisa left eye lopes	uk4	
+the death of marat	238j	
+the death of mario		4f1d:5
+the death of mario corleone	oq9	
+the death of mario ricci	4f1d	
+the death of michael corleone	oq9	
+the death of mister lazarescu	2lsv	
+the death of mr		2lsv:5
+the death of mr lazarescu	2lsv	
+the death of ophelia	28fr	
+the death of procris	283g	
+the death of reginald perrin	3s7z	
+the death of sardanapalus	5s00	
+the death of sardanapol	5s00	
+the death of sardanapolus	5s00	
+the death of stalin	1amm	
+the death of time	2ir3	
+the death of young		551s:5
+the death of young bara	551s	
+the death ramps	lg9	
+the death ray of dr mabuse	1rb7	
+the death ship	3vfc	
+the death ship 1959 film	3vfc	
+the flapper	5i23	
+the heat	1t5a	
+the heat 2	1t5a	
+the heat 2013 film	1t5a	
+the heat film	1t5a	
+the heat of heat	3fbt	
+threats to wetlands	i3n	
+tidworth	4nb1	
+tidworth wiltshire	4nb1	
+tushen	2df6	
+unislaw commune	22qa	
+urasoe	41q0	
+urasoe okinawa	41q0	
+uxue		5inm:2
+uxue barkos	5inm	
+uxue barkos berruezo	5inm	
+uxue bilbao	l4s	
+valkoinen kuolema	64il	
+viger	36ez	
+viger hautes pyrenees	36ez	
+villebeonais	2wq0	
+vishakhapattanam	edb	
+vliermaal	42oc	
+waiwharariki	1otf	
+weird		ain:3,1id8:2,3t4n:2
+weird al	ain	ain:3
+weird al yankavic	ain	
+weird al yankovic	ain	
+weird al yankovic on television	ain	
+weird al yankovic singles	ain	
+weird fishes arpeggi	5579	
+weird science	1id8	
+weird science film	1id8	
+weird tales	3t4n	
+weird tales magazine	3t4n	
+weird world show	4yj8	
+william stanier	4rap	
+yura hoy	5iv0	
+zaliznyak andrey	4udf	
+zamby zabajew	502a	
+zlatarski	3kla	
+zuia	323z	

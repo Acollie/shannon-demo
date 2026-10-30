@@ -1,0 +1,641 @@
+707 620	3bur	
+707 800	3bur	
+707 aircraft	3bur	
+707 bc	34ms	
+a roslin	557o	
+abdo geneive	6c5n	
+adilette	19ad	
+administrative		pi:4,754:3,b89:5,cf7:10,rbf:7,upy:10,140r:5,2tnv:5,4ao4:4,4qsi:7,68a7:2,6b36:4,6dln:5,6epf:5
+administrative agencies	8g	
+administrative agency	8g	
+administrative area	754	
+administrative areas of cote d ivoire	fs4	
+administrative areas of india	2tnv	
+administrative arrondissement of brussels capital	urm	
+administrative assistant	6g8	
+administrative body	2wfr	
+administrative capital	3pi	
+administrative capital of bolivia	3vx	
+administrative center	68a7	
+administrative centre	68a7	
+administrative committee	vn	
+administrative corps	678	
+administrative counties of the people s republic of china	a3z	
+administrative district	4jzl	
+administrative district osnabruck	gi2	
+administrative districts of kiev	1ds9	
+administrative division	754	
+administrative division niteroi	8fg	
+administrative division of duchy of warsaw	1i1r	
+administrative division of greece 1833	mt6	
+administrative division of the united states	rbf	
+administrative division of ukraine	6epf	
+administrative divisions	754	pi:4
+administrative divisions of		pi:4
+administrative divisions of aleppo governorate	184t	
+administrative divisions of algeria	8h	
+administrative divisions of austria	2j	
+administrative divisions of belize	1qd	
+administrative divisions of benin	vv	
+administrative divisions of bhutan	1cz	
+administrative divisions of bijie	2rpt	
+administrative divisions of botswana	19r	
+administrative divisions of british columbia	197	
+administrative divisions of canada	b89	
+administrative divisions of denmark	2t	
+administrative divisions of djibouti	3d3	
+administrative divisions of ecuador	h5	
+administrative divisions of estonia	5y	
+administrative divisions of eswatini	2qq	
+administrative divisions of france	6dln	
+administrative divisions of french guiana	aev	
+administrative divisions of guatemala	qr	
+administrative divisions of guinea bissau	2tf	
+administrative divisions of honduras	sv	
+administrative divisions of hong kong	44jo	
+administrative divisions of india	2tnv	
+administrative divisions of iraqi kurdistan	u45	
+administrative divisions of jamaica	5rb3	
+administrative divisions of kazakhstan	fe	
+administrative divisions of kiev	1ds9	
+administrative divisions of kuwait	1cv	
+administrative divisions of lesotho	28n	
+administrative divisions of lhasa	e31	
+administrative divisions of madagascar	fw	
+administrative divisions of malawi	1t7	
+administrative divisions of mali	lm	
+administrative divisions of malta	hnv	
+administrative divisions of martinique	4r1	
+administrative divisions of mauritania	1sd	
+administrative divisions of montenegro	2y7z	
+administrative divisions of montserrat	ft6	
+administrative divisions of mozambique	17f	
+administrative divisions of naples	hp	
+administrative divisions of nauru	4mf	
+administrative divisions of nicaragua	185	
+administrative divisions of palau	5d12	
+administrative divisions of papua province	a2v	
+administrative divisions of qiandongnan	14ez	
+administrative divisions of qiannan	1pfg	
+administrative divisions of qianxinan	398i	
+administrative divisions of reunion	5ms	
+administrative divisions of russia	pi	
+administrative divisions of rwanda	1v4	
+administrative divisions of saint helena ascension and tristan da cunha	1kvo	
+administrative divisions of saint lucia	6eif	
+administrative divisions of saint pierre and miquelon	10od	
+administrative divisions of sao tome and principe	41i	
+administrative divisions of seychelles	2bzz	
+administrative divisions of somaliland	iuh	
+administrative divisions of sudan	1eu	
+administrative divisions of suriname	1uy	
+administrative divisions of the bahamas	1ma1	
+administrative divisions of the czech republic	2y	
+administrative divisions of the dominican republic	nw	
+administrative divisions of the faroe islands	1x8	
+administrative divisions of the french southern territories	p11	
+administrative divisions of the netherlands	4pgr	
+administrative divisions of the netherlands antilles	6f6f	
+administrative divisions of the palestinian territories	5n5i	
+administrative divisions of the sahrawi arab democratic republic	d39	
+administrative divisions of the u s	rbf	
+administrative divisions of the united kingdom	4qsi	
+administrative divisions of the united states	rbf	
+administrative divisions of the united states minor outlying islands	1cxh	
+administrative divisions of tokelau	p8c	
+administrative divisions of tongren	22zp	
+administrative divisions of turkmenistan	1mz	
+administrative divisions of ukraine	6epf	
+administrative divisions of uruguay	4av7	
+administrative divisions of usa	rbf	
+administrative divisions of western sahara	d39	
+administrative divisions of zunyi	13ls	
+administrative dong	2l4	
+administrative entity	754	
+administrative geography of the united kingdom	4qsi	
+administrative geography of the united kingdom of great britain and northern ireland	4qsi	
+administrative geography of the untied kingdom	4qsi	
+administrative headquarters	1rim	
+administrative language	6hk2	
+administrative maximum prison	kjc	
+administrative organ	fmj	
+administrative organisation	1rim	
+administrative patriarchal vicar	56l	
+administrative post		140r:5
+administrative post of		140r:5
+administrative post of east		140r:5
+administrative post of east timor	140r	
+administrative posts of east timor	140r	
+administrative producer	63	
+administrative provinces of finland	4vqk	
+administrative region		4ao4:4,6b36:4
+administrative region in		4ao4:4
+administrative region in quebec	4ao4	
+administrative region of		6b36:4
+administrative region of greece	6b36	
+administrative region of ribnita	51lz	
+administrative region of slobozia	479b	
+administrative region of tiraspol	7me	
+administrative regions of greece	6b36	
+administrative regions of quebec	4ao4	
+administrative republic of the soviet union	1mfv	
+administrative seat	68a7	
+administrative security	1iw	
+administrative services and information branch	3soj	
+administrative subdivision	754	
+administrative subdivisions of russia	pi	
+administrative subdivisions of the central african republic	1p0	
+administrative subdivisions of the people s republic of china	upy	
+administrative subdivisions of the united states	rbf	
+administrative subdivison	754	
+administrative territorial		754:3,b89:5,cf7:10,rbf:7,upy:10,2tnv:5,4qsi:7,6dln:5,6epf:5
+administrative territorial entities	h6e	
+administrative territorial entity	754,h6e	b89:5,rbf:7,upy:10,2tnv:5,4qsi:7,6dln:5,6epf:5
+administrative territorial entity of		b89:5,rbf:7,upy:10,2tnv:5,4qsi:7,6dln:5,6epf:5
+administrative territorial entity of canada	b89	
+administrative territorial entity of france	6dln	
+administrative territorial entity of india	2tnv	
+administrative territorial entity of the		rbf:7,upy:10,4qsi:7
+administrative territorial entity of the people		upy:10
+administrative territorial entity of the people s		upy:10
+administrative territorial entity of the people s republic		upy:10
+administrative territorial entity of the people s republic of		upy:10
+administrative territorial entity of the people s republic of china	upy	
+administrative territorial entity of the united		rbf:7,4qsi:7
+administrative territorial entity of the united kingdom	4qsi	
+administrative territorial entity of the united states	rbf	
+administrative territorial entity of ukraine	6epf	
+administrative territorial units		cf7:10
+administrative territorial units of		cf7:10
+administrative territorial units of the		cf7:10
+administrative territorial units of the left		cf7:10
+administrative territorial units of the left bank		cf7:10
+administrative territorial units of the left bank of		cf7:10
+administrative territorial units of the left bank of the		cf7:10
+administrative territorial units of the left bank of the dniester	cf7	
+administrative units in mainland china	upy	
+administrative village	8hz	
+administrative village indonesia	8hz	
+administrative zones in nepal	5824	
+alexander f andreev	5jfg	
+alexander f kerensky	3xyw	
+alexander f petricone	qiu	
+alexander inglis cochrane	4ekh	
+alfamega	bm4	
+alteckendorf	1s3k	
+aranjuez	fiv	
+aranjuez cultural landscape	fiv	
+aranjuez madrid	fiv	
+aranjuez spain	fiv	
+archie	45b	gae:2,j50:2,jrp:2,1iy1:2,2otv:2,33uv:4,38mh:2,3em2:3,3j6c:2,3p5d:2,3v5g:2,463p:2,4da3:2,4g4h:4,4zcz:2,52tc:2,53fs:2,55l3:2,5cw5:2,5dnx:2,5h44:2,5oa3:2,5uu7:2,5ymm:2,5ztf:3,60qj:2,63s7:2,63xi:2,64gv:2,6bai:2,6fnj:2
+archie arnett	gk7	
+archie belaney	4e70	
+archie bunker		4g4h:4
+archie bunker s		4g4h:4
+archie bunker s place	4g4h	
+archie bunkers place	4g4h	
+archie campbell	5ymm	
+archie campbell footballer born 1991	5ymm	
+archie chaloner	5xbz	
+archie clark robertson	5fym	
+archie clement	5oa3	
+archie clement footballer	5oa3	
+archie comic	3j6c	
+archie comic publications	3j6c	
+archie comics	3j6c	
+archie comics publications inc	3j6c	
+archie cox	5rf9	
+archie david kao	463p	
+archie devine	5cw5	
+archie e marshek	1iy1	
+archie f marshek	1iy1	
+archie first name	45b	
+archie garrett	60qj	
+archie gemmil	5dnx	
+archie gemmill	5dnx	
+archie gets a job	3j6c	
+archie given name	45b	
+archie goodall	63s7	
+archie goodwin	4da3,6fnj	
+archie goodwin basketball	6fnj	
+archie goodwin comic book writer	4da3	
+archie goodwin comics	4da3	
+archie goodwin iii	6fnj	
+archie hahn	53fs	
+archie hughes	64gv	
+archie irbe	2uun	
+archie kao	463p	
+archie kyle	55l3	
+archie l mayo	j50	
+archie leach	ard	
+archie lee goodwin iii	6fnj	
+archie macaulay	52tc	
+archie manning	3v5g	
+archie manning comments	3v5g	
+archie marshek	1iy1	
+archie mayo	j50	
+archie miller	5h44	
+archie miller footballer	5h44	
+archie panjabi	2otv	
+archie publications	3j6c	
+archie randolph		3em2:3
+archie randolph ammons	3em2	
+archie rawlings	3zmv	
+archie rice	xfe	
+archie robertson footballer	5fym	
+archie robertson scottish footballer	5fym	
+archie roe	63xi	
+archie roosevelt	1cyq	
+archie s		33uv:4
+archie s final		33uv:4
+archie s final project	33uv	
+archie s funhouse	591b	
+archie shepp	jrp	
+archie show		591b:3
+archie sinclair	4q1p	
+archie stark	38mh	
+archie stephens	6bai	
+archie stout	gae	
+archie taylor	5uu7	
+archie taylor footballer born 1879	5uu7	
+archie taylor footballer born 1882	5uu7	
+archie thompson	3p5d	
+archie tmnt adventures	1kbi	
+archie tmnt adventures comics	1kbi	
+archie tmnt comics	1kbi	
+archie van		5ztf:3
+archie van winkle	5ztf	
+archie waterston	4zcz	
+aurangabad	u9w	1fr3:2,1tjj:2
+aurangabad city	u9w	
+aurangabad district	1fr3,1tjj	
+aurangabad district bihar	1tjj	
+aurangabad district maharashtra	1fr3	
+aurangabad maharashtra	u9w	
+aurangabad maharashtra comments	u9w	
+azna		1tvt:3
+azna rural		1tvt:3
+azna rural district	1tvt	
+azubuike		4f4n:2
+azubuike oliseh	4f4n	
+beaudignies	2428	
+bomblets	6efc	
+bridgewater	y7a,1fzk,1vrx	x48:3,y7a:2
+bridgewater cdp	1vrx	
+bridgewater census designated place	1vrx	
+bridgewater england	mcr	
+bridgewater estates	5cw4	
+bridgewater foundry	1xgu	
+bridgewater ma	1vrx	
+bridgewater mass	1vrx	
+bridgewater massachusetts	1vrx	
+bridgewater new jersey	y7a	
+bridgewater nj	y7a	
+bridgewater normal school	x48	
+bridgewater nova scotia	1fzk	
+bridgewater ns	1fzk	
+bridgewater public library massachusetts	1vrx	
+bridgewater state	x48	x48:3
+bridgewater state bears	x48	
+bridgewater state bears football	x48	
+bridgewater state bears track and field	x48	
+bridgewater state college	x48	
+bridgewater state eagles football	x48	
+bridgewater state university	x48	
+bridgewater town ma	1vrx	
+bridgewater town massachusetts	1vrx	
+bridgewater town plymouth county ma	1vrx	
+bridgewater town plymouth county massachusetts	1vrx	
+bridgewater township	y7a	
+bridgewater township new jersey	y7a	
+bridgewater township nj	y7a	
+bridgewater township somerset county new jersey	y7a	
+cabezuela		4dip:3
+cabezuela del		4dip:3
+cabezuela del valle	4dip	
+cabezuela del valle caceres	4dip	
+cabezuela del valle spain	4dip	
+cannero		3bvw:2
+cannero riviera	3bvw	
+card	2wrv	4n9:2,2wrv:2
+card andrew	670w	
+card battle	mmh	
+card battle game	mmh	
+card david	6bk8	
+card game	4n9	
+card game bridge	4qrj	
+card games	4n9	
+card gaming	4n9	
+card key access	6fqy	
+card orson scott	77t	
+card pack 1	3h1y	
+card pack 1 secrets and sabotage	3h1y	
+card player		3tdt:3
+card playing	4n9,nol	
+card sport	4n9	
+card sports	4n9	
+ccsu	sgi	
+changjin lake campaign	459s	
+chaplain	6h8,1jty	
+chaplain commander of the most venerable order of the hospital of saint john of jerusalem	n4h	
+chaplain of the order of st john	n4h	
+chaplain s corps	6h8	
+ciadar lunga	2u67	
+cid	10c4	
+cid campeador	475y	
+cid carvalho	35ud	
+cid el	475y	
+cid film	2mow	
+cid moosa	67ms	
+commie	uj8	
+commie 64	1is	
+commie block	1nr	
+daffyd ap gruffydd	2zk8	
+daffyd williams	5y68	
+david darnell brown	t6f	
+deadlier		18vo:4,1kr5:4
+deadlier than		18vo:4,1kr5:4
+deadlier than the		18vo:4,1kr5:4
+deadlier than the male	18vo,1kr5	
+deadlier than the male 1956 film	18vo	
+delfshaven	1b32	
+delfshaven district	1b32	
+desnes	31zw	
+desnes jura	31zw	
+dumme geest lowland	6946	
+efreitor	6b26	
+esparragosa		2hhv:3
+esparragosa de		2hhv:3
+esparragosa de lares	2hhv	
+eucrinum	fd7	
+frederick lord leighton	1mls	
+frederick melvin franks jr	60wb	
+gcz	30t	
+geschwanztes z	53el	
+gimnasium	a5l	
+golia alla conquista di bagdad	3a57	
+golia e il cavaliere mascherato	4zdh	
+gozira 1954	2cvo	
+guang		28yr:2
+guang an	28yr	
+guang an county	28yr	
+guang an sichuan	28yr	
+guang dong	5ji	
+guang prefecture guangdong	2ju	
+guang xu	2ugo	
+guang yang	21yk	
+guang zau	2ju	
+guang zhou	2ju	
+guang zong	2nyd	
+guaytown ontario	62x2	
+halkemeylem	5aja	
+hatart	103s	
+heckenransbach	2x87	
+helska iv	6g78	
+henry hotelling	2msn	
+heterachthes	ipf	
+hochtaunus	155l	
+hornbkbanen	28uy	
+hotte mark	6a67	
+hvv den		3d8t:3
+hvv den haag	3d8t	
+i origins	54p2	
+i origins 2014	54p2	
+i sylvestre de sacy	26ld	
+ijo	16hq	
+ikhwanweb	69ag	
+jacobshaven	4ee7	
+jean toulout	1a03	
+jetport	39	
+jiangzemin	1kzv	
+jingzhang intercity railway	4ssb	
+john von		dxz:3,qzc:5,2p7q:4
+john von neuman	dxz	
+john von neumann	dxz	qzc:5,2p7q:4
+john von neumann award	2p7q	
+john von neumann comments	dxz	
+john von neumann medal	1ojv	
+john von neumann prize	qzc	
+john von neumann theory		qzc:5
+john von neumann theory prize	qzc	
+john von polanyi	1bx2	
+john von salisbury	2k9u	
+john von sonnentag de havilland	4tq7	
+juankar	3pne	
+katedra sw jana warsaw	21f0	
+katedra wawelska	ivf	
+kemerovo	gah	efc:2
+kemerovo oblast	efc	
+kemerovo province	efc	
+kemerovo region	efc	
+ko	5z5	
+ko 35	4znl	
+ko chi sum	2o70	
+ko feng tu	lnh	
+ko friedrichs	2532	
+ko gmbh	13py	
+ko hawai i nei pae aina	5i3	
+ko hongju	558r	
+ko hyeon jeong	45ge	
+ko hyun jung	45ge	
+ko im		463a:3
+ko im pyo	463a	
+ko kha	31mn	
+ko kha district	31mn	
+ko kimura	2v39	
+ko ko taylor	5kxz	
+ko kuo li	dz3	
+ko kyung		68mx:3
+ko kyung joon	68mx	
+ko le hui chih	2y2i	
+ko ne poludi taj nije normalan	riz	
+ko nishimura	18yy	
+ko oko olau	v9k	
+ko otani	1v4d	
+ko ran	opr	
+ko shibasaki	20u2	
+ko so		5dvn:3
+ko so young	5dvn	
+ko soo	60t9	
+ko su	60t9	
+ko sun	5yyo	
+ko sung		4ro2:3
+ko sung hyun	4ro2	
+ko tjong	6hpo	
+ko to tamo peva	2m4o	
+ko yong		552b:3
+ko yong hee	552b	
+ko yong hui	552b	
+ko young hee	552b	
+kozieglowy commune	yjm	
+krabcice	2i1u	
+krazoa	64rh	
+kreutzfeldt jacob disease	64ie	
+kriv	26xr	
+lacus benacus	2s1v	
+lacus larius	1186	
+lacus potamicus	hv7	
+lacus verbano	18so	
+lacus verbanus	18so	
+lakeland	6wy	
+lakeland fl	6wy	
+lakeland florida	6wy	
+lakeland florida chronology	6wy	
+lakeland florida metropolitan area	ie1	
+lakeland florida metropolitan statistical area	ie1	
+lakeland village alberta	1kqz	
+lakeland village trailer park alberta	1kqz	
+lakeland winter haven fl metropolitan statistical area	ie1	
+lakeland winter haven fl msa	ie1	
+lakeland winter haven florida metropolitan statistical area	ie1	
+lakeland winter haven metropolitan statistical area	ie1	
+leagueofnations	4ad3	
+lutzyn	1vvb	
+mahore	8nl	
+melaten	1uj2	1uj2:2
+melaten cemetery	1uj2	
+melaten friedhof	1uj2	
+methamphetaminum	5ssh	
+mice and men	4t4b	
+mice in research	n0x	
+michizane	38ae	
+milejewo commune	1nb6	
+miraja	68ja	
+miyandasht		498g:3
+miyandasht rural		498g:3
+miyandasht rural district	498g	
+miyandasht rural district south khorasan province	498g	
+muolen	3lct	
+muolen sg	3lct	
+muolen st gallen	3lct	
+muolen switzerland	3lct	
+myrrborg	1yh	
+natamax	20z2	
+nicorvo	47qi	
+nothosalbia	5xl	
+ocare	6h38	
+oguni hideo	3psl	
+ostrau bad schandau	vnh	
+pabianice	x0q	1mbr:2
+pabianice commune	zh9	
+pabianice county	1mbr	
+pentecostal christian	vj6	
+pentecostal christians	vj6	
+pentecostal church of scotland	5snx	
+pentecostal church of the nazarene	5snx	
+pentecostal collegiate institute and bible training school	1jya	
+pentecostal movement	vj6	
+pentecostal nazarene	5snx	
+pentecostal nazarenes	5snx	
+perduca	690c	
+petra	5cl,twp,1zxi,34z5	15lz:2,16le:2,1l97:2,38u8:3,445w:2,4aqb:2,4m2i:2,4trl:2,5cok:2,5ppv:2,62o5:2,67ec:2,68b8:2
+petra balearic islands	1zxi	
+petra band	twp	
+petra bierwirth	68b8	
+petra drnovice	dfh	
+petra first name	5cl	
+petra given name	5cl	
+petra hinz	62o5	
+petra jordan	34z5	
+petra k kelly	5cok	
+petra kammerevert	4trl	
+petra karin lehmann	5cok	
+petra kelly	5cok	
+petra kelly comments	5cok	
+petra kvitova	16le	
+petra linnea paula marklund	15lz	
+petra majdic	445w	
+petra majorca	1zxi	
+petra mallorca	1zxi	
+petra maria		38u8:3
+petra maria mede	38u8	
+petra marklund	15lz	
+petra mede	38u8	
+petra pau	1l97	
+petra play	34z5	
+petra roth	4aqb	
+petra spain	1zxi	
+petra stienen	5ppv	
+petra unkel	4m2i	
+petra vaelma	67ec	
+posibacteria	gl	
+prince vincent		4pcf:4
+prince vincent of		4pcf:4
+prince vincent of denmark	4pcf	
+rengifa	3h0h	
+riverscuomo	11k1	
+rotation	5zj1	
+rotation film	5zj1	
+rotation leipzig	819	
+rotation of neptune	h2j	
+rotation of saturn	6jd	
+rotation of uranus	c12	
+rotation powered pulsar	34ez	
+rotation powered pulsars	34ez	
+saint bonaventure	2ui3	
+saint bonaventure university	1b6r	
+scena	3k23	
+sendoxan	oo6	
+sinupret ice tigers	3mv0	
+sit	10kf	
+sit com	xn	
+sit coms	xn	
+sit down roller coaster	rue	
+sit down stand up	5i6c	
+sit ducks	178o	
+sit ku ma oon vapaa	5gwm	
+sit surname	10kf	
+socialdemokraterne	au1	
+sorsha	18zv	
+speared	17x8	
+subvariety mathematics	1oey	
+syonen ai	4qp	
+tabernaemontana	bmi	
+tamati		2umt:2
+tamati williams	2umt	
+tarsos	d0w	
+the pharmacists	51pq	
+tiefora		1nj3:2
+tiefora department	1nj3	
+tirbal	546s	
+tormos	31xs	
+triassic	67dw	
+triassic dinosaurs	7vt	
+triassic era	67dw	
+triassic geology	67dw	
+triassic period	67dw	
+triassic system	67dw	
+ubico	42ax	
+uhm jeong		1tfm:3
+uhm jeong hwa	1tfm	
+uhm jung hwa	1tfm	
+uhm tae		517c:3
+uhm tae woong	517c	
+utility	2pdn	g0h:2,l2g:2,mqb:2,1r5s:2
+utility aircraft	mqb	
+utility baseball	g0h	
+utility category	mqb	
+utility companies	2pdn	
+utility company	2pdn	
+utility computer science	l2g	
+utility computing	l2g	
+utility helicopter	1r5s	
+utility helicopters	1r5s	
+utility industry	2pdn	
+utility landing craft	1u0l	
+utility man	g0h	
+utility patent	6gol	
+utility pitcher	g0h	
+utility player	g0h	
+utility player baseball	g0h	
+utility player extraordinaire	g0h	
+utility program	l2g	
+utility programs	l2g	
+utility software	l2g	
+utility van	6d85	
+vaitupu	4n6z	
+vanakorn	32h2	
+vikentios	18u	
+yiwu	463r	
+yiwu jinhua	463r	
+yiwu zhejiang	463r	

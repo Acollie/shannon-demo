@@ -1,0 +1,379 @@
+198889		95u:3,xnk:4,15my:4,1l9h:4,1y4e:3,48au:2,6fa3:4
+198889 bundesliga	1y4e	
+198889 cypriot		95u:3,xnk:4,15my:4,1l9h:4,6fa3:4
+198889 cypriot cup	95u	
+198889 cypriot first		xnk:4
+198889 cypriot first division	xnk	
+198889 cypriot fourth		6fa3:4
+198889 cypriot fourth division	6fa3	
+198889 cypriot second		15my:4
+198889 cypriot second division	15my	
+198889 cypriot third		1l9h:4
+198889 cypriot third division	1l9h	
+198889 ekstraklasa	48au	
+198889 fuball		1y4e:3
+198889 fuball bundesliga	1y4e	
+198889 fussball bundesliga	1y4e	
+akyerekyere	68b4	
+amposta	1d23	
+amposta tarragona	1d23	
+arkadii		5buz:3
+arkadii nikolaevich		5buz:3
+arkadii nikolaevich ermakov	5buz	
+arkadii raikin	213l	
+arkadii s boitsov	492e	
+automobili lamborghini	v55	
+automobili lamborghini spa	v55	
+basiano	37nj	
+beaugeay	411v	
+belgazoo	2bqp	
+bip the clown	19na	
+bred	2u4q	
+bremer		fok:2,14r7:2
+bremer county	14r7	
+bremer county ia	14r7	
+bremer county iowa	14r7	
+bremer vulcan	fok	
+bremer vulkan	fok	
+bremer vulkan shipyard	fok	
+bremer vulkan shipyards	fok	
+bremer vulkan works	fok	
+bronagh		3mrw:2
+bronagh gallagher	3mrw	
+broomrape	460x	
+broomrape family	1ds7	
+bucciarelli	3f8d	
+cedomir		5yjh:2,6a66:2,6cwo:2
+cedomir janevski	6cwo	
+cedomir jovanovic	5yjh	
+cedomir mijanovic	6a66	
+chapaize	1q79	
+charles pasqua	52qk	
+charpentier	1is9	
+charpentier marc antoine	2yc7	
+chetumal	1uug	
+chetumal mexico	1uug	
+chetumal quintana roo	1uug	
+consiglio federale	4687	
+consiglio regionale	3vqu	
+dematteo	40d	
+denys	e44	z41:2,1ggh:2,1slv:2,27tv:2,2g81:2,3efo:4,418r:2,448k:2,470g:2,4hjq:2,4ktj:2,4sij:2,4wxx:2,5hex:2,5pqi:2,5sto:2,5zuw:2,69i9:2,6abx:2
+denys andriyenko	6abx	
+denys arcand	z41	
+denys baron cochin	5zuw	
+denys boiko	2g81	
+denys boyko	2g81	
+denys cochin	5zuw	
+denys cochin baron	5zuw	
+denys coop	1ggh	
+denys de		3efo:4
+denys de la		3efo:4
+denys de la patelliere	3efo	
+denys dedechko	27tv	
+denys desjardins	69i9	
+denys filimonov	5sto	
+denys first name	e44	
+denys fylymonov	5sto	
+denys garmash	470g	
+denys given name	e44	
+denys harmash	470g	
+denys kulakov	4ktj	
+denys lasdun	5pqi	
+denys lasdun sir	5pqi	
+denys louis lasdun	5pqi	
+denys marie pierre augustin cochin	5zuw	
+denys n coop	1ggh	
+denys oleynyk	4hjq	
+denys oliynyk	4hjq	
+denys onyschenko	4sij	
+denys onyshchenko	4sij	
+denys petau	2v2g	
+denys pierre augustin marie baron cochin	5zuw	
+denys sir lasdun	5pqi	
+denys skepsky	418r	
+denys skepskyi	418r	
+denys sokolovsky	448k	
+denys sokolovskyi	448k	
+denys stoyan	5hex	
+denys surname	e44	
+denys sylant yev	1slv	
+denys sylantiev	1slv	
+denys sylantyev	1slv	
+denys vasin	4wxx	
+denys vasyn	4wxx	
+denys voronenkov	2egk	
+devayani	1v55,4mtq	
+devayani actress	1v55	
+devayani rajakumaran	1v55	
+diabedis	2lv	
+dibich zabalkanski	1ind	
+dohis	30qj	
+drazic	3iq5	
+druye	1pwa	
+ealhswith	3ekq	
+ealhswith of the gaini	3ekq	
+educator	c5	
+einstien albert	73h	
+espadilla	400s	
+fc molenbeek brussels strombeek	71r	
+fc zhemchuzhyna		1bjt:3
+fc zhemchuzhyna yalta	1bjt	
+forsyth	3yuo	15xj:2,32qt:2
+forsyth andrew	5mhg	
+forsyth county	15xj,32qt	
+forsyth county ga	32qt	
+forsyth county georgia	32qt	
+forsyth county nc	15xj	
+forsyth county north carolina	15xj	
+forsyth ga	3yuo	
+forsyth george	4rm0	
+forsyth georgia	3yuo	
+forsyth richard	5fdx	
+fotballklubben fyllingsdalen	68h0	
+frydis		5fwr:2
+frydis armand	5fwr	
+gangsta		37j:2,6ap5:2
+gangsta bop	4jgf	
+gangsta crunk	sfq	
+gangsta funk	lan	
+gangsta grillz	2u32	
+gangsta grillz follow me edition	1apt	
+gangsta lovin	6ap5	
+gangsta music	37j	
+gangsta party 2pac song	6g0h	
+gangsta rap	37j	
+gangsta rap music	37j	
+gangsta rapper	37j	
+gangsta rappers	37j	
+gangsta shit	2drv	
+gangsta unit	1vne	
+george orry kelly	8ml	
+gesves	3qbi	
+gohreh		2j5h:3
+gohreh rural		2j5h:3
+gohreh rural district	2j5h	
+grodno	5db	2vos:2
+grodno belarus	5db	
+grodno government	2vos	
+grodno governorate	2vos	
+grodno guberniya	2vos	
+grodno oblast	dm2	
+grodno region	dm2	
+grodno voblast	dm2	
+guardianship monument	19f	
+guardianship of the baha i faith	5k30	
+guillauminia	bn3	
+hardricourt	3swf	
+henry rennie	5xpg	
+highlanes cornwall	34y4	
+hungry		4osx:2,64t0:2,6bt7:2
+hungry and the damned	60sl	
+hungry are the damned	1uvw	
+hungry as fuck	398h	
+hungry city chronicles	6f5g	
+hungry fighter	50tl	
+hungry for love bad boys blue song	2gem	
+hungry heart	6bt7	
+hungry hearts	4osx	
+hungry hearts 2014 film	4osx	
+hungry hill	64t0	
+hungry hill film	64t0	
+hungry jack s	4lkd	
+jeonju	ebu	
+jeonju city	ebu	
+jeonju shi	ebu	
+jeonju si	ebu	
+jigawa	1bbe	1bbe:2
+jigawa state	1bbe	
+jigawa state nigeria	1bbe	
+keve		3s9g:2
+keve hjelm	3s9g	
+kimitake hiraoka	lm7	
+kimitu	4wew	
+kimitu tiba	4wew	
+kortenberg	3sku	
+kozunomori	1c4j	
+labyrinthus membranaceus	63es	
+labyrinthus planetary geology	1odo	
+lamproconus	7hp	
+lanzhouchongqing		4zoe:2
+lanzhouchongqing railway	4zoe	
+lauraceas madeirense	b4t	
+lautschin	2xez	
+lechusa	2dmh	
+licking		hpj:2
+licking county	hpj	
+licking county oh	hpj	
+licking county ohio	hpj	
+lighthill	204k	
+limoger	51c	
+limon	hpo	24xo:3,2ylr:2
+limon costa rica	hpo	
+limon district	hpo	
+limon f c	24xo	
+limon fc	24xo	
+limon futbol		24xo:3
+limon futbol club	24xo	
+limon province	2ylr	
+loach catfish	6a4u	
+loach catfishes	6a4u	
+loach ken	lv8	
+lohore steve gohouri	1j77	
+lohore steve ulrich gohouri	1j77	
+lubus province	pia	
+makrembolitissa	4df4	
+mamie	4p9i	yf9:3,179u:2,4p9i:2
+mamie dickens	1zzz	
+mamie doud	4p9i	
+mamie doud eisenhower	4p9i	
+mamie dowd	4p9i	
+mamie dowd eisenhower	4p9i	
+mamie eisenhower	4p9i	
+mamie g eisenhower	4p9i	
+mamie geneva doud eisenhower	4p9i	
+mamie geneva dowd eisenhower	4p9i	
+mamie geneva eisenhower	4p9i	
+mamie gummer	179u	
+mamie van		yf9:3
+mamie van doren	yf9	
+manspach	2gy8	
+maragold	336n	
+marciszow commune	32x7	
+merdeka		6gws:2
+merdeka 118	6gws	
+merdeka pnb 118	6gws	
+merdeka pnb118	6gws	
+minstce	pom	
+mirta		51f5:2,5nrx:3
+mirta diaz		5nrx:3
+mirta diaz balart	5nrx	
+mirta francisca de la caridad diaz balart y gutierrez	5nrx	
+mirta miller	51f5	
+mixu		35px:2
+mixu paatelainen	35px	
+mixu paatelinen	35px	
+monogrammist m c	65dw	
+monogrammist m g n	4jcq	
+monogrammist svr salomon van ruysdael	4pvq	
+montemignaio	5gd2	
+montjavoult	1v7e	
+mourjou	1t8q	
+namboku		3fya:2,458i:2
+namboku line	3fya,458i	
+namboku line sapporo	458i	
+namboku line tokyo	3fya	
+nautiloid	1hhl	
+ngv	16ef	
+nirypan	4ttg	
+nnamdi		3lkf:2,439k:2,562j:2
+nnamdi asomugha	562j	
+nnamdi azikiwe	439k	
+nnamdi chidiebere oduamadi	3lkf	
+nnamdi oduamadi	3lkf	
+nnamdi oduamadi chidiebere	3lkf	
+noerdlingen	ojn	
+nontronneau	20ji	
+nontronneau france	20ji	
+oersberg	4wue	
+padanaram indiana	14fv	
+patau chromosome	5sr	
+peter orzag	2vvl	
+phllip seymour hoffman	cuo	
+phonematics	n7f	
+pichon	4xkp	
+pichon minina	4xkp	
+pinky	1qkc	
+pinky 1949	1qkc	
+pinky 1949 film	1qkc	
+pinky 1949 movie	1qkc	
+pinky film	1qkc	
+pinky nelson	46ae	
+pinky toes	597y	
+pinky tuscadero	17ym	
+pinky violence	94h	
+plouagat	31f0	
+polyrhaphis	2ufb	
+primelles	1xwh	
+prince otomo	1kon	
+protocetidae	5pph	
+pszczoki commune	44bk	
+qwaali	16ap	
+rebets	3suj	
+ridged frog	rf6	
+ridged frogs	rf6	
+rimyongsu		39bf:3
+rimyongsu s g	39bf	
+rimyongsu sports		39bf:3
+rimyongsu sports club	39bf	
+rimyongsu sports group	39bf	
+rimyongsu sports team	39bf	
+rocephine	17z5	
+segurex	5i5j	
+shadowfax	2ens	
+shadowfax band	2ens	
+shielsbud	16wp	
+sidges	s3n	
+siemowit		18ar:2,1vus:4,2sqk:5,349v:5,5t8s:4
+siemowit duke		2sqk:5
+siemowit duke of		2sqk:5
+siemowit duke of kuyavia		2sqk:5
+siemowit duke of kuyavia brieg	2sqk	
+siemowit i	5t8s	5t8s:4
+siemowit i of		5t8s:4
+siemowit i of masovia	5t8s	
+siemowit iii		349v:5
+siemowit iii duke		349v:5
+siemowit iii duke of		349v:5
+siemowit iii duke of masovia	349v	
+siemowit iii of masovia	349v	
+siemowit iv	18ar	
+siemowit iv duke of masovia	18ar	
+siemowit iv of masovia	18ar	
+siemowit iv of mazovia	18ar	
+siemowit iv plocki	18ar	
+siemowit iv pocki	18ar	
+siemowit of dobrzyn	2sqk	
+siemowit v		1vus:4
+siemowit v of		1vus:4
+siemowit v of masovia	1vus	
+sirdaryo		2q3a:2
+sirdaryo province	2q3a	
+sirdaryo region	2q3a	
+sirdaryo wiloyati	2q3a	
+skoubo	2mzm	
+slany	n03	
+soulbust old pewdiepie	252o	
+sozialarbeit	54zq	
+sumperk	ist	75v:2
+sumperk district	75v	
+sveo	3avj	
+tetsumasa		5vqj:2
+tetsumasa kimura	5vqj	
+the beet queen	17qo	
+the entourage	3uqk	
+the entourage professional wrestling	3uqk	
+tisima retto	3b6j	
+tradebook	141w	
+treasons	18jd	
+tuerkiyemspor	1hjv	
+tuerkiyemspor berlin	1hjv	
+university museums	347v	
+wasteproduct	6fmk	
+welcoat dragons	1wo8	
+welcoat paints	1wo8	
+welcoat pba team	1wo8	
+werewolf		2w4n:3
+werewolf in a winter wonderland	6heu	
+werewolf of		2w4n:3
+werewolf of london	2w4n	
+werewolf sonic	3g2z	
+werewolf women of the ss	1h3i	
+wwtcf	18bj	
+yasodha	12l9	
+zanoli maria	2lgw	
+zelechovice		3jfa:3
+zelechovice nad		3jfa:3
+zelechovice nad drevnici	3jfa	
+zephyrium	azg	
+zocieniec commune	1bam	
+zvil plzen	5xy	

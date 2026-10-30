@@ -1,0 +1,512 @@
+200304		viw:4,zyv:4,11zx:4,1jyy:4,2146:3,3uzm:2,6hfr:3
+200304 bundesliga	2146	
+200304 charlotte bobcats	4q0	
+200304 charlotte bobcats season	4q0	
+200304 cypriot		viw:4,zyv:4,11zx:4,1jyy:4
+200304 cypriot cup	awf	
+200304 cypriot first		viw:4
+200304 cypriot first division	viw	
+200304 cypriot fourth		1jyy:4
+200304 cypriot fourth division	1jyy	
+200304 cypriot second		11zx:4
+200304 cypriot second division	11zx	
+200304 cypriot third		zyv:4
+200304 cypriot third division	zyv	
+200304 ekstraklasa	3uzm	
+200304 fuball		2146:3
+200304 fuball bundesliga	2146	
+200304 fussball bundesliga	2146	
+200304 national basketball association season	6hfr	
+200304 nba		6hfr:3
+200304 nba season	6hfr	
+546 bce	2ab9	
+allansia continent	1dx6	
+allmuca	5vy2	
+antiocheia hatay	fu3	
+archimedes	1w2y	6hob:2
+archimedes a300	jle	
+archimedes a310	jle	
+archimedes computer	jle	
+archimedes computer system	jle	
+archimedes heat ray	1w2y	
+archimedes s screw	6hob	
+archimedes scientific achievements	1w2y	
+archimedes screw	6hob	
+attempt at kidnapping juliana of the netherlands	q32	
+attempt to commit rape	tdu	
+attempt to murder	zst	
+aydintepe	na9	
+ayodeji balogun	2v35	
+bjrg		62lp:3
+bjrg eva		62lp:3
+bjrg eva jensen	62lp	
+brandao	4936	
+brandao footballer born 1980	4936	
+carisiacum	20vh	
+castrocaro	32qm	32qm:6
+castrocaro terme	32qm	32qm:6
+castrocaro terme e		32qm:6
+castrocaro terme e terra		32qm:6
+castrocaro terme e terra del		32qm:6
+castrocaro terme e terra del sole	32qm	
+caufferiens	3m14	
+cedarburg	3fws	
+cedarburg city ozaukee county wi	3fws	
+cedarburg city ozaukee county wisconsin	3fws	
+cedarburg city wi	3fws	
+cedarburg city wisconsin	3fws	
+cedarburg wi	3fws	
+cedarburg wisconsin	3fws	
+cenevieres	2tcn	
+chapayev	52je	
+chapayev film	4053	
+charles hanger	5qdq	
+chianciano	3y9o	3y9o:2
+chianciano terme	3y9o	
+chitry	2nxo	3t5k:3
+chitry les		3t5k:3
+chitry les mines	3t5k	
+ciscaucasus	6b2i	
+clavicipitaceae	143b	
+clergoux	3qsy	
+copla queen	5yr6	
+david gruen	1882	
+dex	47f9	
+dex dogtective	3mhv	
+dex the dogtective	3mhv	
+dnister river	yhl	
+dtess	1aeh	
+duingt	2gqp	
+effincourt	2dok	
+erikh mendelson	3w5t	
+espinafre	6fvy	
+flu	3fh	
+flu a	2mmt	
+flu buddy	6f7q	
+flu of 1918	7ji	
+flu pandemic 1918 1919	7ji	
+frick collection	1iju	1iju:3
+frick collection new york	1iju	
+frick international studies academy middle school	hg	
+frick museum	1iju	
+frick stephen	4iav	
+gmina gidle	typ	
+gmina kazanow	1k2u	
+gora	4t4d,59vp	1r71:2,4f35:2,5wd0:2
+gora commune	x3l	
+gora county	1r71	
+gora dykh tau	6h47	
+gora elbrus	5pdg	
+gora kalwaria	4f35	
+gora kalwaria commune	rn8	
+gora lower silesian voivodeship	4t4d	
+gora lower silesian voivodship	4t4d	
+gora moth	69jv	
+gora swietej magorzaty commune	ve1	
+gora swietej malgorzaty commune	ve1	
+gora tall	5wd0	
+haci omer sabanci	58qh	
+haci sabanci	4196	
+hna	17pc	
+hna aviation	695w	
+hna group	695w	
+hna group limited	695w	
+hna hnu	6a5j	
+huetor		2i37:2,4te8:2,4v01:2
+huetor santillan	2i37	
+huetor santillan granada	2i37	
+huetor santillan spain	2i37	
+huetor tajar	4v01	
+huetor tajar granada	4v01	
+huetor tajar spain	4v01	
+huetor vega	4te8	
+huetor vega granada	4te8	
+huetor vega spain	4te8	
+i cant stay	4nho	
+i cant stay the killers song	4nho	
+james giscombe	10es	
+james shigeta	1p2n	
+john patrick	3bz7	1aj5:3,3ttf:3,4zwy:3,5tga:4
+john patrick amedori	3ttf	
+john patrick boylan iv	4nt6	
+john patrick cardinal foley	4zwy	
+john patrick crichton stuart	4kk0	
+john patrick crichton stuart 3rd marquess of bute	4kk0	
+john patrick crichton stuart marquess of bute	4kk0	
+john patrick daly	49s2	
+john patrick dramatist	3bz7	
+john patrick foley	4zwy	
+john patrick goggin	3bz7	
+john patrick griffin	u40	
+john patrick hayes	3w9u	
+john patrick jack murtha jr	4ka7	
+john patrick jackryan sr	2bam	
+john patrick mason	n8h	
+john patrick mcenroe	vav	
+john patrick mcenroe jr	vav	
+john patrick murtha jr	4ka7	
+john patrick o		5tga:4
+john patrick o brien	37vu,5tga	
+john patrick oswald	575u	
+john patrick ryan	2oek	
+john patrick ryan sr	2bam	
+john patrick shanley	1aj5	
+john tucker		2w0q:4
+john tucker mugabi sentamu	6218	
+john tucker must		2w0q:4
+john tucker must die	2w0q	
+kabard cherkes language	5sps	
+karen	1fo	dxv:2,t7l:2,unh:2,1109:2,15vm:2,1chs:2,1lo6:3,1wxp:2,20qy:2,285m:2,2emd:2,2olp:2,2qyg:2,304t:2,3hhn:2,3jk6:2,3ocq:3,4bnp:2,4iq8:2,4kqo:3,4l98:2,4muv:2,4nmj:2,4ray:2,4sof:2,50kj:2,53m2:2,54qz:2,55aq:3,5bo3:2,5dgn:3,5iql:2,5nbv:2,5rmw:3,5v4s:2,5vz1:3,68ki:2,6aln:2,6cy0:2,6gtb:2
+karen allen	t7l	
+karen anne carpenter	4muv	
+karen armstrong	4nmj	
+karen arthur	285m	
+karen asrian	unh	
+karen austin	53m2	
+karen avetikovich ter martirosyan	5dgn	
+karen baldwin	5rmw	
+karen bardsley	3jk6	
+karen bass	5nbv	
+karen beckman	5bo3	
+karen birgitte federspiel	1hyt	
+karen black	dxv	
+karen blanche ziegler	dxv	
+karen blixen	1wxp	
+karen blixen finecke	1wxp	
+karen bridge	5bo3	
+karen carney	3hhn	
+karen carpender	4muv	
+karen carpenter	4muv	
+karen christentze dinesen	1wxp	
+karen christenze dinesen	1wxp	
+karen christenze von blixen finecke	1wxp	
+karen christiana figueres olsen	5t14	
+karen city	1jci	
+karen county	m9m	
+karen dalton	4sof	
+karen dalton entertainer	4sof	
+karen dalton singer	4sof	
+karen damen	50kj	
+karen demirchian	2olp	
+karen demirchyan	2olp	
+karen demitchyan	2olp	
+karen denise aubert	6bbh	
+karen diane baldwin	5rmw	
+karen dianne		5rmw:3
+karen dianne baldwin	5rmw	
+karen dinesen	1wxp	
+karen dinesen blixen	1wxp	
+karen dotrice	54qz	
+karen dotrice comments	54qz	
+karen elson	4iq8	
+karen fairchild	196q	
+karen finecke	1wxp	
+karen first name	1fo	
+karen fowler	1lo6	
+karen gaviola	6aln	
+karen gennadyevich oganyan	6cy0	
+karen georgievich shakhnazarov	20qy	
+karen gillan	1chs	
+karen gillen	1chs	
+karen gillian	1chs	
+karen given name	1fo	
+karen grammer	kiz	
+karen greening	59k5	
+karen grude		55aq:3
+karen grude koht	55aq	
+karen ida boalth sparck jones	4kqo	
+karen jane allen	t7l	
+karen jenson	u06	
+karen johnston	556n	
+karen johnstone	556n	
+karen jones	4kqo	
+karen joy		1lo6:3
+karen joy fowler	1lo6	
+karen joy morris	1109	
+karen k uhlenbeck	4ray	
+karen keating	5nrc	
+karen keskulla	4ray	
+karen keskulla uhlenbeck	4ray	
+karen khachaturian	2qyg	
+karen khachaturyan	2qyg	
+karen kingsbury	6gtb	
+karen krantzcke sportsmanship award	1wbd	
+karen l		3ocq:3
+karen l nyberg	3ocq	
+karen lee orzolek	4l98	
+karen lehmann	4mls	
+karen lende	5vz1	
+karen louise erdrich	17qo	
+karen lucille hale	1pam	
+karen lujean nyberg	3ocq	
+karen lykkehus	304t	
+karen lynn greening	59k5	
+karen malahotra	1m00	
+karen malhotra	1m00	
+karen marie aagaard rsted	1q97	
+karen marie aagaard rsted andersen	1q97	
+karen marie orsted	1q97	
+karen marie rsted	1q97	
+karen marie rsted mileth	1q97	
+karen messing	5v4s	
+karen michelle johnston	556n	
+karen miller	68ki	
+karen mok	1109	
+karen morley	15vm	
+karen morley comments	15vm	
+karen name	1fo	
+karen nyberg	3ocq	
+karen o	4l98	5vz1:3
+karen o connor	5vz1	
+karen oganjan	6cy0	
+karen oganyan	6cy0	
+karen olson the faculty	19fw	
+karen orzolek	4l98	
+karen parsons	5bbc	
+karen peris	3ezs	
+karen rsted	1q97	
+karen serobovich demirchyan	2olp	
+karen shahnazarov	20qy	
+karen shakhnazarov	20qy	
+karen sheila gillan	1chs	
+karen spaerck jones	4kqo	
+karen sparck		4kqo:3
+karen sparck jones	4kqo	
+karen starr	676f	
+karen steele	5iql	
+karen ter		5dgn:3
+karen ter martirosian	5dgn	
+karen travis	2emd	
+karen traviss	2emd	
+karen tregaskin	gg7	
+karen uhlenbeck	4ray	
+karen verne	5e0h	
+karen victoria silvstedt	2ntp	
+karen von blixen	1wxp	
+karen von blixen finecke	1wxp	
+karen young	4bnp	
+karen young actress	4bnp	
+karwendel	wto	
+karwendel alps	wto	
+karwendel mountains	wto	
+kearney	18v3	1j0j:2
+kearney county	1j0j	
+kearney county ne	1j0j	
+kearney county nebraska	1j0j	
+kearney nb	18v3	
+kearney ne	18v3	
+kearney ne micropolitan statistical area	18v3	
+kearney ne msa	18v3	
+kearney ne sa	18v3	
+kearney nebraska	18v3	
+kearney nebraska micropolitan area	18v3	
+kearney new jersey	101e	
+kearney nj	101e	
+la chispa de la vida	5hsp	
+la horra	3vq1	
+la sposa bella	2eur	
+la sposa non puo attendere	2vc9	
+la vilaine	2h17	
+landaul	2qq4	
+lcb san francisco	57y5	
+ledyard stebbins	2xms	
+louis aston		67bd:3
+louis aston knight	67bd	
+magdelen college oxford	1aj	
+maria amalia		kq3:6,p9x:4,1f4m:4,28e4:4,3u1f:7
+maria amalia augusta of zweibrucken birkenfeld	3l5x	
+maria amalia christina franziska xaveria flora walburga	p9x	
+maria amalia di borbone	kq3	
+maria amalia mercouri	wrt	
+maria amalia of		kq3:6,p9x:4,1f4m:4,28e4:4,3u1f:7
+maria amalia of austria	28e4	
+maria amalia of austria 1701 1756	28e4	
+maria amalia of austria 17011756	28e4	
+maria amalia of courland	1f4m	
+maria amalia of naples		kq3:6
+maria amalia of naples and		kq3:6
+maria amalia of naples and sicily	kq3	
+maria amalia of nassau dillenburg	3t2b	
+maria amalia of poland	p9x	
+maria amalia of saxony	p9x	3u1f:7
+maria amalia of saxony 1757 1831	3u1f	
+maria amalia of saxony 17571831	3u1f	
+maria amalia of saxony duchess		3u1f:7
+maria amalia of saxony duchess of		3u1f:7
+maria amalia of saxony duchess of zweibrucken	3u1f	
+maria amalia of the two sicilies	kq3	
+maria amalia theresa	kq3	
+maria amalia von brandenburg	1qo1	
+maria amalia von sachsen	3u1f	
+maria vartmann	67kg	
+meath	6xl	pb7:4,r74:4
+meath county	6xl	
+meath intermediate		r74:4
+meath intermediate football		r74:4
+meath intermediate football championship	r74	
+meath senior		pb7:4
+meath senior club football championship	pb7	
+meath senior football		pb7:4
+meath senior football championship	pb7	
+michael bernays	5l8q	
+michael rankine	2upj	
+migliarina	edj	
+mittermeier	6ar6	
+morkovice		2nbo:2
+morkovice slizany	2nbo	
+mrgvlovani	o9k	
+muadh		60ti:3
+muadh bin jabal	60ti	
+muadh ibn		60ti:3
+muadh ibn jabal	60ti	
+mukaceve	kul	
+myon	hn0,2jds	
+myon doubs	2jds	
+myon france	2jds	
+myopathy	4bew	
+nbs erfurt leipzig halle	5207	
+nigersaharan	m5v	
+oasis	epj,1745,4pos,4qmo	5uyh:3
+oasis 1955 film	4qmo	
+oasis 2 0	epj	
+oasis 2017	4pos	
+oasis 2017 film	4pos	
+oasis 2017 tv series	4pos	
+oasis amir haddad song	4osq	
+oasis band	epj	
+oasis church	qiw	
+oasis collections	maq	
+oasis facts	epj	
+oasis geography	1745	
+oasis group	epj	
+oasis of		5uyh:3
+oasis of fear	5uyh	
+oasis records	gun	
+oasis singles	1745	
+ouzir	3217	
+pannier tank	1vb	
+pannier tanks	1vb	
+parmigiano francesco mazzola	13zp	
+polysporinopsis	6b44	
+popsicle records	4tpo	
+prince neungyang	637z	
+pusher	31u2,4qa3	3o4k:2
+pusher 1996 film	31u2	
+pusher 2	3o4k	
+pusher 2012 film	4qa3	
+pusher ii	3o4k	
+pusher ii film	3o4k	
+pusher ii movie	3o4k	
+pusher ii with blood on my hands	3o4k	
+pusher lover girl	670i	
+redvers		3hug:2
+redvers buller	3hug	
+redvers henry buller	3hug	
+robasacco	1hnj	
+robert newmyer	40a9	
+russ	2fsc	sff:2,tio:2,41je:2,47d5:2,4doi:2,4p22:2,4q53:2,5n3z:2,6b2a:2
+russ bas rhin	2fsc	
+russ branyan	68as	
+russ conway	41je	
+russ dana feingold	4doi	
+russ downing	4eym	
+russ edmonds	4q53	
+russ feingold	4doi	
+russ fiengold	4doi	
+russ finegold	4doi	
+russ hopton	2gfy	
+russ howarth	4zaw	
+russ johnston	4xxk	
+russ lieber	hhj	
+russ mayberry	47d5	
+russ meyer	tio	
+russ meyer filmography	tio	
+russ meyer movie	tio	
+russ mittermeier	6ar6	
+russ penn	50gc	
+russ poldrack	5xos	
+russ schoene	4p22	
+russ springer	6b2a	
+russ tamblyn	sff	
+russ westbrook	2n7x	
+russ wilcox	5n3z	
+russ william	2x95	
+russ wilson	3swj	
+saint gibrien	3yt3	
+salopia	2dd	
+schiermonnikoog	2fgc	
+schiermonnikoog gemeente	2fgc	
+schiermonnikoog island and municipality	2fgc	
+seance		5hh5:5
+seance on		5hh5:5
+seance on a		5hh5:5
+seance on a wet		5hh5:5
+seance on a wet afternoon	5hh5	
+sir wyatville	66kz	
+skriabin	jsy	
+slaughterhouse	4efs	22rm:2,6aa2:2
+slaughterhouse 5	6aa2	
+slaughterhouse five	22rm,6aa2	
+slaughterhouse five film	22rm	
+slaughterhouse five movie	22rm	
+slaughterhouse five novel	6aa2	
+slaughterhouse five or the children s crusade	6aa2	
+slaughterhouse five or the children s crusade a duty dance with death	6aa2	
+slaughterhouse five or the childrens crusade a duty dance with death	6aa2	
+slaughterhouse group	4efs	
+slaughterhouse hip hop group	4efs	
+smokeoutconversations mixtape	1xid	
+sommar		69j7:3
+sommar och		69j7:3
+sommar och syndare	69j7	
+stanislov ulam	1ggf	
+steaua bucuresti	2zp	
+steaua chisinau	lih	
+steaua fc	2zp	
+steaua ii bucuresti	nyq	
+steaua romaniei	3q4	
+takahata isao	1m6o	
+teh chu	2gtg	
+thammattama	ims	
+the adventurer	5fey	55qo:4,5x2v:4
+the adventurer 1917 film	5fey	
+the adventurer film	5fey	
+the adventurer of		55qo:4,5x2v:4
+the adventurer of seville	455y	
+the adventurer of tortuga	5x2v	
+the adventurer of tunis	55qo	
+the grass		3kpf:3,4nnd:3,5o1i:4
+the grass harp	4nnd	
+the grass harp 1995 film	4nnd	
+the grass harp film	4nnd	
+the grass is		5o1i:4
+the grass is greener	5o1i	
+the grass roots	3kpf	
+the grass roots discography	3kpf	
+the grass skippers	2a07	
+the millennium	22aj	
+the wrecking		3vu0:3
+the wrecking crew	3vu0	
+the wrecking crew 1968 film	3vu0	
+the wrecking crew 1969 film	3vu0	
+the wrecking crew movie	3vu0	
+thomas huerlimann	5mvl	
+tieng viet	4xo	
+tieng xiao ping	1eup	
+topbogazi	e7	
+towmotor	1xd3	
+ucab	2wqw	
+ucetia	qj4	
+ullrich		5alh:3
+ullrich haupt		5alh:3
+ullrich haupt actor born 1887	5alh	
+ullrich haupt sr	5alh	
+ullrich hubner	5e2u	
+ullrich stein	3chs	
+ullrich stielike	4baw	
+uttenheim	1z5t	
+verrue	2abm	
+victoriajusticefan freak the freak out	25x9	
+victoriajusticefan freak the freak out victorious episode	25x9	
+victoriajusticefan tell me that you love me victoria justice song	1328	
+wyllyam byrd	56iq	

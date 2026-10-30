@@ -1,0 +1,667 @@
+141	iyr	
+141 w94	5cx1	
+1st 15th	zq8	
+1st air cavalry division	5ydb	
+1st air division	13sh	
+1st air division united states	13sh	
+1st air force	1sbc	
+1st air force usaf	1sbc	
+1st and 15th records	zq8	
+1st anglo afghan war	66qa	
+1st anniversary	689t	
+1st armoured		3t89:4
+1st armoured infantry		3t89:4
+1st armoured infantry brigade	3t89	
+1st armoured infantry brigade united kingdom	3t89	
+1st arrondissement		85k:4,14mm:4,1me6:4
+1st arrondissement of		85k:4,14mm:4,1me6:4
+1st arrondissement of lyon	14mm	
+1st arrondissement of marseille	1me6	
+1st arrondissement of paris	85k	
+1st australian brigade	61ke	
+1st australian infantry brigade	61ke	
+1st avenger	ire	
+1st balkan war	i0u	
+1st bangalore pioneers	63qd	
+1st baron aberdare	3e5u	
+1st baron aldington	615w	
+1st baron ampthill	5q8s	
+1st baron ashburton	3b44	
+1st baron auckland	47qe	
+1st baron avebury	1kpr	
+1st baron baltimore	5v40	
+1st baron biddulph	5sv3	
+1st baron boyle of marston	55p1	
+1st baron burghley william cecil	1wm1	
+1st baron chelmsford	40dy	
+1st baron churchill	43xe	
+1st baron clyde colin campbell	4zt0	
+1st baron coventry	5vu1	
+1st baron duveen of millbank joseph	63s2	
+1st baron ebury	49c1	
+1st baron gladwyn	57j0	
+1st baron grenville	2sea	
+1st baron heathfield	5sbu	
+1st baron ismay	41vr	
+1st baron killanin	4jhi	
+1st baron napier of magdala robert cornelis napier	4vv4	
+1st baron overstone samuel jones loyd	65jt	
+1st baron playfair	3cu9	
+1st baron tennyson of aldworth and freshwater alfred tennyson	j7v	
+1st baron vivian	1u25	
+1st baron wedgwood	1q6l	
+1st baron wharncliffe	4i31	
+1st baroness chatham	2qm5	
+1st baroness mount stuart	3eom	
+1st baronet morvern	5yo4	
+1st baronet of hertford house	568t	
+1st baronet of kempsey	4e92	
+1st baronet of the nash	4e92	
+1st baronet sir william pierce ashe a court	5txg	
+1st base	4py	
+1st baseman	4py	
+1st battalion coldstream guards	4uc3	
+1st battalion governor general s foot guards	qzd	
+1st battle of bull run	2svz	
+1st battle of ypres	3i8j	
+1st bce	1wuw	
+1st boer war	s3t	
+1st bombardment division usaaf	13sh	
+1st brigade	61ke	
+1st brigade australia	61ke	
+1st brigade combat team 101st airborne division united states	34l7	
+1st brigade combat team 3rd infantry division united states	682i	
+1st brigade royal flying corps	3gou	
+1st british parliament	49l	
+1st bt	cd	
+1st bt of kempsey	4e92	
+1st bt of the nash	4e92	
+1st bundesliga	11qu	
+1st canadian armoured division	4ojs	
+1st canadian place	4uku	
+1st cav	5ydb	
+1st cavalry		5ydb:3
+1st cavalry division	5ydb	
+1st cavalry division airmobile	5ydb	
+1st cavalry division airmobile united states	5ydb	
+1st cavalry division united states	5ydb	
+1st cavalry division united states army	5ydb	
+1st ce	498c	
+1st century	498c	1wuw:3
+1st century a d	498c	
+1st century bc	1wuw	
+1st century bce	1wuw	
+1st century ce	498c	
+1st class post	2rib	
+1st class submarine	1j9k	
+1st cold war	2fa	
+1st comte jourdan	2tvu	
+1st contact	4u7q	
+1st contact orange range	4u7q	
+1st corinthians	1u7q	
+1st czech		227w:5
+1st czech republic		227w:5
+1st czech republic hockey		227w:5
+1st czech republic hockey league	227w	
+1st decade	26qm	
+1st decade ad	26qm	
+1st district	9um	
+1st district of dusseldorf	5rqw	
+1st division football in norway	cau	
+1st division us infantry	5gcm	
+1st duke marlborough	131b	
+1st duke of braganza	1int	
+1st duke of buckingham george villiers	12fx	
+1st duke of devonshire	434r	
+1st duke of fife	2bze	
+1st duke of grafton	146s	
+1st duke of marlborough prince of mindelheim prince of mellenburg john churchill	131b	
+1st duke of portland	5p93	
+1st duke of ragusa	3833	
+1st duke of somerset	xhx	
+1st duke of wellington arthur wellesley	fkw	
+1st duke of wellington marquess of douro marquess of wellington earl of wellington viscount wellington of talavera and of wellington baron douro or wellesley arthur wellesley	fkw	
+1st duke of westminster	3je8	
+1st dynasty	6hnk	
+1st dynasty of egypt	6hnk	
+1st earl attlee	10fz	
+1st earl baldwin of bewdley	1qvq	
+1st earl brassey	19j4	
+1st earl cathcart	2trz	
+1st earl de grey thomas philip robinson	557m	
+1st earl of avon	1bds	
+1st earl of beaconsfield	15jp	
+1st earl of crewe	3gcz	
+1st earl of cromer	3bzd	
+1st earl of ellesmere	29sx	
+1st earl of essex thomas cromwell	2h8h	
+1st earl of gloucester	10w9	
+1st earl of gowrie	42xc	
+1st earl of halsbury	5uoo	
+1st earl of hertford seymour	xhx	
+1st earl of huntingdon	337l	
+1st earl of kandahar	1c6v	
+1st earl of kimberley	5syx	
+1st earl of loreburn	63ea	
+1st earl of lytton	28gf	
+1st earl of oxford and asquith	uf4	
+1st earl of rosslyn	5gh8	
+1st earl of salisbury	1t49	
+1st earl of sandwich	520x	
+1st earl of selborne	4crw	
+1st earl of shaftesbury	2pmp	
+1st earl of shrewsbury	5opt	
+1st earl of snowdon	1oqu	
+1st earl of strafford	4h1q	
+1st earl of uxbridge first creation	5cx4	
+1st earl of warwick	1t49	
+1st earl of wilmington	5v88	
+1st earl peel	65a6	
+1st edition	8dr	
+1st french empire	jdx	
+1st french republic	goz	
+1st german parachute division	4ujd	
+1st guards brigade	3t89	
+1st guards brigade united kingdom	3t89	
+1st harry potter book	1k7n	
+1st iaaf world championships in athletics	jng	
+1st infantry		5gcm:3
+1st infantry brigade australia	61ke	
+1st infantry brigade guards	3t89	
+1st infantry brigade united kingdom	3t89	
+1st infantry division	5gcm	
+1st infantry division mechanized	5gcm	
+1st infantry division of the united states army	5gcm	
+1st infantry division u s	5gcm	
+1st infantry division united states army	5gcm	
+1st intercolonial war	1tqb	
+1st international	fdr	
+1st intifada	65eo	
+1st january	5v77	
+1st kashmir war	1dxn	
+1st lady	1063	
+1st legislative		k1f:6
+1st legislative council		k1f:6
+1st legislative council of		k1f:6
+1st legislative council of hong		k1f:6
+1st legislative council of hong kong	k1f	
+1st lieutenant	86n	
+1st major	2gq	
+1st march	618h	
+1st marquess of anglesey	ouc	
+1st marquess of anglesey henry william paget	ouc	
+1st marquess of dufferin and ava	4d8a	
+1st marquess of dufferin and ava frederick hamilton temple blackwood	4d8a	
+1st marquess of salisbury	5al6	
+1st marquess of westminster	2i7c	
+1st marquess of willingdon	5205	
+1st marquess of zetland	5q46	
+1st marquess townshend	1va9	
+1st marquess townshend george	1va9	
+1st may	5hxx	
+1st may tver oblast	9m0	
+1st mayor of san francisco	46e1	
+1st mechanised brigade	3t89	
+1st mechanised brigade united kingdom	3t89	
+1st mechanized brigade united kingdom	3t89	
+1st millenium	2n5l	
+1st millenium bc	287f	
+1st millenium bce	287f	
+1st millenium ce	2n5l	
+1st millennium	2n5l	287f:3
+1st millennium ad	2n5l	
+1st millennium bc	287f	
+1st millennium bce	287f	
+1st millennium ce	2n5l	
+1st missile division	13sh	
+1st moscow university	sc	
+1st msmu	1pze	
+1st nation	7ub	
+1st national city bank of new york	4dmz	
+1st nations	7ub	
+1st of march	618h	
+1st of may	5hxx	
+1st order of st francis	3wn	
+1st parachute		4ujd:3
+1st parachute division	4ujd	
+1st parachute division germany	4ujd	
+1st parliament		2lh:6,49l:5
+1st parliament of		2lh:6,49l:5
+1st parliament of george i	3ga	
+1st parliament of great		49l:5
+1st parliament of great britain	49l	
+1st parliament of the		2lh:6
+1st parliament of the united		2lh:6
+1st parliament of the united kingdom	2lh	
+1st pope	2di	
+1st president of the czech republic	doy	
+1st president of the united states	7x2	
+1st prince chun	1zg8	
+1st punic war	2ejl	
+1st pyramid	4jhd	
+1st riga forest cemetery	dxn	
+1st strategic		13sh:4
+1st strategic aerospace		13sh:4
+1st strategic aerospace division	13sh	
+1st strike brigade	3y2u	
+1st sunday	34ul	
+1st tactical air base	27oq	
+1st ten amendments	69ls	
+1st u s army	63v0	
+1st uk parliament	2lh	
+1st united states army	63v0	
+1st united states volunteer cavalry	6h4f	
+1st us army	63v0	
+1st vice president of the united states	hac	
+1st viscount alanbrooke	4cy4	
+1st viscount craigavon	3img	
+1st viscount haldane	24w3	
+1st viscount halifax	4nkm	
+1st viscount lee of fareham	5g6q	
+1st viscount of haldane	24w3	
+1st viscount ossington evelyn denison	3y8g	
+1st viscount ossington john evelyn denison	3y8g	
+1st viscount peel	30u2	
+1st viscount sherbrooke	4gka	
+1st viscount sidmouth	3ttm	
+1st viscount william waldorf astor	4btr	
+1st viscount wolseley of wolseley baron wolseley of cairo and of wolseley garnet joseph wolseley	2nj1	
+1st winter olympic games	437	
+1st winter youth olympic games	iko	
+1st world war	2k	
+1st ypres	3i8j	
+640509 040147	5hoe	
+750 mm		k63:4
+750 mm gauge railways	k63	
+750 mm track		k63:4
+750 mm track gauge	k63	
+aboutreka	2wwt	
+acrocephalus	vqr	
+acrocephalus animal	vqr	
+acrocephalus bird	vqr	
+addin	4kkj	
+akudunniad	2pqa	
+alexander rytschkow	4yjf	
+alexander salkind	42fb	
+almissa	2v4c	
+asfos	3xkd	
+baden	9wb,h2t,2pxj,30tv	10q:2,4mc:2,jq6:2,m3u:2,31b7:3,3px8:3,56je:2,62yv:2
+baden aargau	h2t	
+baden ag	h2t	
+baden aniline and soda factory	2w8x	
+baden austria	9wb	
+baden austrian district	jq6	
+baden baden	4mc	
+baden baden baden	1tf3	
+baden baden germany	4mc	
+baden baden wurttemberg	4mc	
+baden bei wein	9wb	
+baden bei wien	9wb	
+baden bei zurich	h2t	
+baden by vienna	9wb	
+baden by zurich	h2t	
+baden cooke	56je	
+baden district	jq6,m3u	
+baden district aargau	m3u	
+baden district austria	jq6	
+baden district of austria	jq6	
+baden district switzerland	m3u	
+baden germany	1e5i	
+baden henry baden powell	62yv	
+baden im aargau	h2t	
+baden kurpfalz railway	11ez	
+baden land	2pxj	
+baden morbihan	30tv	
+baden near vienna	9wb	
+baden palentine railway	11ez	
+baden powell	62yv	
+baden powell and st peter s middle school	7k6	
+baden powell and st peters middle school	7k6	
+baden powell mathematician	62yv	
+baden powell of gilwell	fwp	
+baden region	2pxj	
+baden rodemachern	1vkz	
+baden state	1e5i	
+baden switzerland	h2t	
+baden vi		31b7:3
+baden vi c	31b7	
+baden w	10q	
+baden wuerttemberg	10q	
+baden wuerttemburg	10q	
+baden wurttemberg	10q	
+baden wurttemberg germany	10q	
+baden x		3px8:3
+baden x b	3px8	
+bata	3sw1	25lp:2,55ru:2
+bata bullets	5ele	
+bata equatorial guinea	3sw1	
+bata kameni	55ru	
+bata pa ako	ij5	
+bata paskaljevic	25lp	
+bata stojkovic	184g	
+bata zivojinovic	epq	
+bata zlin	8or	
+bauchi		txp:2
+bauchi nets	378h	
+bauchi state	txp	
+bauchi state nigeria	txp	
+belfiore	1qte	
+beynac	2uq8	27c4:3
+beynac et		27c4:3
+beynac et cazenac	27c4	
+brachtia	6f8a	
+buppies	1vak	
+calamogyna	khu	
+castex	30r1,3uuh	218j:3
+castex ariege	3uuh	
+castex d		218j:3
+castex d armagnac	218j	
+castex gers	30r1	
+cerebal palsy	hdv	
+charles booth	66z2	
+charles booth philanthropist	66z2	
+charles booth poverty map	66z2	
+charles booth poverty maps	66z2	
+charles booth social reformer	66z2	
+christchurch	1j4	e6a:4,11bu:2,6agd:2
+christchurch 1974	88r	
+christchurch borough council	mif	
+christchurch boys		e6a:4
+christchurch boys high	e6a	e6a:4
+christchurch boys high school	e6a	
+christchurch canterbury	1j4,wh8	
+christchurch canterbury new zealand	1j4	
+christchurch canterbury nz	1j4	
+christchurch cathedral canterbury	wh8	
+christchurch cathedral oxford	1yvi	
+christchurch city	1j4	
+christchurch city afc	11bu	
+christchurch city soccer	11bu	
+christchurch college oxford	r4	
+christchurch district council	mif	
+christchurch dorset	mif	
+christchurch hampstead	cod	
+christchurch hants	mif	
+christchurch junior school	mif	
+christchurch new zealand	1j4	
+christchurch nz	1j4	
+christchurch oxford	r4	
+christchurch tasmania	1j4	
+christchurch teacher s college	2wi	
+christchurch teachers college	2wi	
+christchurch technical	6agd	
+christchurch united	11bu	
+christchurch united under 15	11bu	
+christchurch university	2wi	
+cmielow commune	yz4	
+cornufer	zta	
+david brewster	16lm	
+david bryne	jdo	
+david cook	17gd,5go0	
+david cook american idol singer	17gd	
+david cook singer	17gd	
+david cook tv presenter	5go0	
+david cook writer	5go0	
+dunmire hollow	c89	
+ebru		5bc9:2
+ebru ceylan	5bc9	
+ebru yapc	5bc9	
+ebru yapici	5bc9	
+epannes	388i	
+fc lviv	e9t	
+fc lviv reserves	e9t	
+foix	liq	
+frederick norris	4n9q	
+gaikokujin tarento	1nk	
+gameboy	3k5	
+gameboy advance	1ik	
+gameboy advanced	1ik	
+gameboy color	6cj	
+gameboy color yellow pokemon	6bl5	
+gameboy colour	6cj	
+gameboy ds	11o	
+gameboy evolution	5hfz	
+gameboy horror	62yt	
+gameboy light	3k5	
+gameboy line	5hfz	
+gameboy music	1i5n	
+gameboy pocket	3k5	
+gameboy tv tuner	1ik	
+george volkoff	631d	
+giorgia		1bcq:2,1csf:2
+giorgia bronzini	1csf	
+giorgia moll	1bcq	
+gmina karlino	1glu	
+gmina raciechowice	1r1b	
+golmayo	3ejd	
+golmayo soria	3ejd	
+grusa	4nfb	
+gunmar birkerts	5z5n	
+hebberd	5az2	
+hephaestion	6gwc	
+hephaestion amyntoros	6gwc	
+hyondae	bgp	
+i1karas region	2wz8	
+ingyo	44ig	
+ingyo emperor	44ig	
+ingyo emperor of japan	44ig	
+ingyo tenno	44ig	
+isidro		33y9:2,43ya:2,4f5e:4,4uce:2,536z:2,5pcq:2
+isidro b maiztegui	33y9	
+isidro casanova	43ya	
+isidro diaz	536z	
+isidro fabela	5pcq	
+isidro fabela alfaro	5pcq	
+isidro langara	4uce	
+isidro maiztegui	33y9	
+isidro metapan	cid	
+isidro sanchez	4f5e	4f5e:4
+isidro sanchez garcia		4f5e:4
+isidro sanchez garcia figueras	4f5e	
+jadilson	2p55	
+jadir		5cxb:2
+jadir morgenstern	5cxb	
+james baxter	3fk1,3krz	
+james baxter animator	3krz	
+james baxter hunt	534w	
+james baxter hunt jr	534w	
+jeweler	g2b	
+kagiso dikgacoi	4jlz	
+kierkegarde	gi5	
+kirviller	2ixf	
+klenovice		3mr8:3
+klenovice na		3mr8:3
+klenovice na hane	3mr8	
+korabi	69tk	
+korabi peshkopi	69tk	
+korregio	gxs	
+kumasi	5ax	3s3v:3,5mf8:3
+kumasi asante kotoko	90l	
+kumasi asante kotoko fc	90l	
+kumasi college of arts science and technology	1z6f	
+kumasi college of technology	1z6f	
+kumasi fort	5ax	
+kumasi ghana	5ax	
+kumasi metropolitan		5mf8:3
+kumasi metropolitan assembly	5mf8	
+kumasi metropolitan district	5mf8	
+kumasi nana addo dankwa akufo addo	2xri	
+kumasi rural		3s3v:3
+kumasi rural district	3s3v	
+la reine		vfy:3,1mst:3,5yu9:3
+la reine des pommes	64z9	
+la reine elisabeth	5mhk	
+la reine margot	vfy,1mst,5yu9	
+la reine margot 1954 film	1mst	
+la reine margot 1994 film	vfy	
+la reine margot 1994 movie	vfy	
+la reine margot book	5yu9	
+la reine margot film 1994	vfy	
+la reine margot novel	5yu9	
+la reine noir	4vx7	
+landskap	3a6k	
+landskap of sweden	2irb	
+levadia	23uf	
+levadia greece	23uf	
+levadia ii	21ni	
+levadia ii tallinn	21ni	
+levadia maardu	cy3	
+levadia parnu	2a48	
+levadia tallinn	cy3	
+logue christopher	4trf	
+lorigne	2ryp	
+louis harlan	4bfl	
+maebashi	iwb	
+maebashi gumma	iwb	
+maebashi gunma	iwb	
+maebashi japan	iwb	
+maebashi metropolitan area	iwb	
+maebashi shi	iwb	
+mathematican	58	
+maudetour		2hle:3
+maudetour en		2hle:3
+maudetour en vexin	2hle	
+messolongi	nz9	
+messolongi greece	nz9	
+metlife	16ro	
+metlife inc	16ro	
+metlife insurance co	16ro	
+metlife insurance company of connecticut	16ro	
+metlife investors insurance company	16ro	
+mvsevm	7e	
+najmabad		4z5a:3
+najmabad rural		4z5a:3
+najmabad rural district	4z5a	
+nans	3nrs	23r8:4,2kr4:3
+nans doubs	3nrs	
+nans les		2kr4:3
+nans les pins	2kr4	
+nans sous		23r8:4
+nans sous sainte		23r8:4
+nans sous sainte anne	23r8	
+national emblem	4qy6	
+national emblem of afghanistan	60hg	
+olbramice	4ejh	
+olbramice ostrava city district	4ejh	
+osnabruck	49t	gi2:2,1xb4:3,33a9:2
+osnabruck central		1xb4:3
+osnabruck central station	1xb4	
+osnabruck district	gi2	
+osnabruck germany	49t	
+osnabruck hauptbahnhof	1xb4	
+osnabruck hauptbahnhof railway station	1xb4	
+osnabruck hbf	1xb4	
+osnabruck hbf railway station	1xb4	
+osnabruck hbf station	1xb4	
+osnabruck university	33a9	
+otokar		4nnq:2,4rmd:2
+otokar brezina	4rmd	
+otokar fischer	4nnq	
+otokar sevcik	4kv8	
+otokar vavra	zwl	
+outfielders	1o4	
+palmita	qw7	
+peter family guy	5ijs	
+peter rogers	jtc	
+philippes de champagne	4tlz	
+philippes van champagne	4tlz	
+philippes vauvremens	2s98	
+philippes wouwerman	2s98	
+philippes wouwermans	2s98	
+poldi kielholz	3kq1	
+poldi sonp kladno	u1v	
+polyphemos	6gfv	
+pommereval	325l	
+prabhupada a c bhaktivedanta	5p95	
+rabbinic canon	3408	
+rabbinic commentaries	3408	
+rabbinic literature	3408	
+rabbinic responsa	3408	
+rabbinic texts	3408	
+rabbinic tradition	3408	
+rabbinic writing	3408	
+rabbinic writings	3408	
+rouchovany	307h	
+saint peblig	55og	
+samansa	512	
+schurrle	1xzv	
+schurrle andre	1xzv	
+seared duck	64ex	
+spinacia		6fvy:2
+spinacia oleracea	6fvy	
+sporsnjall	3rrp	
+st xiii	xkm	
+stegomyia	mk1	
+struik	4kbs	
+struik publishers	4kbs	
+subterranean		1bg9:2,5mnz:2
+subterranean creek	5mnz	
+subterranean excavation	2o5	
+subterranean homesick alien	1xgt	
+subterranean magazine	1bg9	
+subterranean ocean	4fjc	
+subterranean pop	30i	
+subterranean press	1bg9	
+subterranean river	5mnz	
+subterranean rivers	5mnz	
+subterranean stream	5mnz	
+taching	yp7	
+teleserie	ou	
+the company		1707:4,1svx:4,30d6:3
+the company men	30d6	
+the company of		1707:4
+the company of captain frans banning cocq	540r	
+the company of frans banning cocq and willem van ruytenburch	540r	
+the company of wolves	1707	
+the company that created the industry	2irk	
+the company you		1svx:4
+the company you keep	1svx	
+the company you keep film	1svx	
+the emirate of abu dhabi	4sdz	
+the emirate of armenia	15tl	
+the villain	49ua	
+the villain 1979 film	49ua	
+the villain 1979 movie	49ua	
+thomas dale akers	3dmr	
+thomas dale alford	4xqc	
+tisis	y08	
+tnuctipun stasis field	4qvd	
+trachemys	5h3l	
+tulsky oruzheiny zavod	qvl	
+tupigny	1vm5	
+turambar	6baf	
+un ejercito de cinco hombres	38te	
+vassal		2nqh:2
+vassal kingdom	2nqh	
+vassal state	2nqh	
+vassal states	2nqh	
+vaucelles	2978	1u95:3
+vaucelles et		1u95:3
+vaucelles et beffecourt	1u95	
+velen	45e7,4vpx	
+velen germany	4vpx	
+velen municipality	4vpx	
+verel		28ru:3,2qqs:2
+verel de		28ru:3
+verel de montbel	28ru	
+verel pragondran	2qqs	
+vigano		4x9j:3
+vigano san		4x9j:3
+vigano san martino	4x9j	
+vilademuls	1pag	
+virna		f51:2
+virna lisa pieralisi	f51	
+virna lisi	f51	
+virna pieralisi	f51	
+virna pierlisi	f51	
+volturnum	59dx	
+vorosbereny	2wv1	
+william cadogan		33sl:5
+william cadogan 1st		33sl:5
+william cadogan 1st earl		33sl:5
+william cadogan 1st earl cadogan	33sl	
+xfig	423l	
+yungkia	cno	
+zd tv	3u25	
+zonchio	2b8z	
+zygogramma	6ajb	

@@ -1,0 +1,685 @@
+aimbeck	w9q	
+airports		uqm:4
+airports authority		uqm:4
+airports authority of		uqm:4
+airports authority of india	uqm	
+airports in palermo	1et	
+airports of paris	2qqa	
+albuquerque	2bs,46cq	4iw2:2,64k2:2
+albuquerque dodgers	4iw2	
+albuquerque dukes	4iw2	
+albuquerque film	46cq	
+albuquerque n m	2bs	
+albuquerque nm	2bs	
+albuquerque silvers	64k2	
+albuquerque traction company	2bs	
+albuquerque us nm	2bs	
+alexander stanhope	45zy	
+alverca f c	cvv	
+alverca fc	cvv	
+amberleigh	af9	
+andronicus i	4s4e	
+andronicus i comnenus	4s4e	
+andronicus ii	1b5b	
+andronicus ii palaeologus	1b5b	
+andronicus ii paleologos	1b5b	
+andronicus iii	31x1	
+andronicus iii palaeologus	31x1	
+andronicus iv	4fxi	
+andronicus iv palaeologus	4fxi	
+andronicus the younger	31x1	
+appalachian		5ec:2,11w3:3,3xid:2
+appalachian community service network	d0l	
+appalachian culture	6huj	
+appalachian dulcimer	3xid	
+appalachian high school	17vv	
+appalachian highlands	5ec	
+appalachian humanoid	1i0t	
+appalachian journal	11w3	
+appalachian life	6huj	
+appalachian mountain	5ec	
+appalachian mountain range	5ec	
+appalachian mountain system	5ec	
+appalachian mountains	5ec	
+appalachian range	5ec	
+appalachian region	5ec,6huj	
+appalachian st	11w3	
+appalachian state	11w3	11w3:3
+appalachian state u	11w3	
+appalachian state univ	11w3	
+appalachian state univedrsity	11w3	
+appalachian state university	11w3	
+appalachian valley and ridge province	11g3	
+arakan province	2psi	
+arakan state	2psi	
+balansiya	1f0	
+bengt		1n49:2,1tjt:2,20kr:3,2shc:2,46lq:2,4eph:2,4vd6:2,4vp1:2,56sk:2,58qi:2,58yh:2,5vvh:2
+bengt andersson	46lq	
+bengt andersson footballer born 1966	46lq	
+bengt birgersson	2woh	
+bengt blomgren	4vp1	
+bengt calmeyer musician	1tl1	
+bengt edlen	5vvh	
+bengt ekerot	4vd6	
+bengt ekeroth	4vd6	
+bengt eklund	56sk	
+bengt forslund	2shc	
+bengt g d stroemgren	1n49	
+bengt g d stromgren	1n49	
+bengt georg daniel stroemgren	1n49	
+bengt georg daniel stromgren	1n49	
+bengt gunnar eklund	56sk	
+bengt gustavsson	58qi	
+bengt hallberg	58yh	
+bengt holmstroem	1tjt	
+bengt holmstrom	1tjt	
+bengt i		20kr:3
+bengt i samuelsson	20kr	
+bengt ingemar samuelsson	20kr	
+bengt of finland	2woh	
+bengt of sweden	2woh	
+bengt olof emanuel gustavsson	58qi	
+bengt r holmstroem	1tjt	
+bengt r holmstrom	1tjt	
+bengt robert holmstrom	1tjt	
+bengt ronnie peterson	xrs	
+bengt saeternes	4eph	
+bengt samuelsson	20kr	
+bengt sternes	4eph	
+bengt stroemgren	1n49	
+bengt stromgren	1n49	
+bengt ulf sebastian larsson	3an6	
+beniarjo	4336	
+bobowa commune	3ozq	
+bouquemaison	1xyd	
+brachay	2m9v	
+castelsaraceno	3nrw	
+cefacidal	53hm	
+champlemy	1ld3	
+chaourse	1tu5	
+charpete	qnb	
+chotec	41la	
+chotec jicin district	41la	
+civitaquana	3e4b	
+coburg	732,k9h,1i9l	
+coburg district	k9h	
+coburg germany	732	
+coburg land	k9h	
+coburg ontario	qu3	
+coburg united	13ws	
+coburg victoria	1i9l	
+coupiac	29nd	
+dedeagac	x44	
+demokratakan hayastani hanrapetutyun	4a6a	
+deutschlandsberg	2jct	e1p:2
+deutschlandsberg district	e1p	
+deviko		68un:2
+deviko gochayevich khinchagov	68un	
+deviko kenkadze	68un	
+deviko khinchagov	68un	
+deviko khinjazov	68un	
+dicastillo	2x60	
+dobrejovice	4bbu	
+edoras	3hhs	
+efraim		41kf:2,66bt:2
+efraim katchalski	1hba	
+efraim katchalski katzir	1hba	
+efraim katzir	1hba	
+efraim racker	66bt	
+efraim rios montt	5bp4	
+efraim sevela	41kf	
+efraim sneh	51vu	
+efraim urbach	3nzp	
+efraim zelmanov	5hva	
+elzbieta		26vi:2,440l:2,50tz:2,5zx7:2
+elzbieta barszczewska	440l	
+elzbieta barszczewska wyrzykowska	440l	
+elzbieta czartoryska 1736 1816	44t0	
+elzbieta czartoryska 17361816	44t0	
+elzbieta czyzewska	26vi	
+elzbieta dzikowska	50tz	
+elzbieta rakuszanka	u86	
+elzbieta szydlowiecka	5zx7	
+elzbieta szydowiecka	5zx7	
+emd4v15 dr gillian foster	4i6t	
+eohemera	5goa	
+epistetus	6qb	
+faymann	45g5	
+flatanger	1zs1	1zs1:2
+flatanger municipality	1zs1	
+frederick ascani	3td3	
+george klein	39z6	
+george klein biologist	39z6	
+george waterston	4bz7	
+glan		6aj7:2
+glan muenchweiler verbandsgemeinde	6aj7	
+glan munchweiler	6aj7	
+glan munchweiler verbandsgemeinde	6aj7	
+gmina sukowice	4g2a	
+gmina wodzislaw	mwj	
+hyperion	2dz0,59by,5smq,6h9a	6gc8:2
+hyperion airship	1fg8	
+hyperion audio	bdz	
+hyperion books	bdz	
+hyperion books for children	vg3	
+hyperion books for young children	bdz	
+hyperion cantos	6gc8	
+hyperion disney	vg3	
+hyperion greek religion and mythology	5smq	
+hyperion horse	2dz0	
+hyperion mcfly album	uso	
+hyperion mythological	5smq	
+hyperion mythology	5smq	
+hyperion publisher	bdz	
+hyperion quartet	6gc8	
+hyperion series	6gc8	
+hyperion simmons novel	59by	
+hyperion tree	6h9a	
+ichthyodes	3x56	
+illayathalabathy vijay	hdy	
+immunoprotection	fjm	
+infanzia vocazione e prime esperienze di giacomo casanova veneziano	1jqw	
+infanzia vocazioni prime esperienze di giacomo casanova veneziano	1jqw	
+investigation		2o03:6
+investigation discovery	16td	
+investigation of		2o03:6
+investigation of a		2o03:6
+investigation of a citizen		2o03:6
+investigation of a citizen above		2o03:6
+investigation of a citizen above suspicion	2o03	
+investigation of a private citizen	2o03	
+james reid	55nl,5kcz,61wp	62i4:4
+james reid actor	55nl	
+james reid baron		62i4:4
+james reid baron reid	62i4	
+james reid entertainer	55nl	
+james reid filipino singer	55nl	
+james reid footballer born 1879	5kcz	
+james reid footballer born 1990	61wp	
+james reid pinoy big brother	55nl	
+james reid singer	55nl	
+john edwin canaday	5deq	
+jorat		3ve1:2,4r3k:2
+jorat menthue	3ve1	
+jorat menthue vd	3ve1	
+jorat mezieres	4r3k	
+ka3axctah	fe	
+kassebaum baker nancy landon	5j7i	
+khe nepali language	7a7	
+khe sahn	6gxp	
+khe san	6gxp	
+kheis	41g4	41g4:3
+kheis local		41g4:3
+kheis local municipality	41g4	
+kheis municipality	41g4	
+kitadake	6h3r	
+kluki commune	2bw5	
+kusevac	2oly	
+la possonniere	3rf4	
+laensi turunmaa	n4x	
+le drame de shanghai	3nki	
+leptophora	2dzm	
+levent	4ivq	4507:2,4f5y:2,4k84:2,4sw0:2,4yhf:2,5z48:2
+levent aycicek	4k84	
+levent guelen	4sw0	
+levent gulen	4sw0	
+levent kartop	4f5y	
+levent kirca	5z48	
+levent krca	5z48	
+levent name	4ivq	
+levent osman	4507	
+levent yalcin	4yhf	
+levent yalcn	4yhf	
+linghem	42pe	
+lobositz	1msq	
+looz	2o4f	
+makedoniya region	3xmz	
+malavan	9tr	9tr:3
+malavan anzali	9tr	
+malavan f		9tr:3
+malavan f c	9tr	
+malavan fc	9tr	
+manianpilla raju	19gi	
+maragadha mani	9bb	
+massenlager	uyg	
+mellette		3z4f:2
+mellette county	3z4f	
+mellette county sd	3z4f	
+mellette county south dakota	3z4f	
+moere og romsdal	ag1	
+monadenia plant	5eqw	
+mondelez	pw3	pw3:2
+mondelez international	pw3	
+mondelez international inc	pw3	
+mondelez international inc class a	pw3	
+monsu mignan	4p1q	
+monsu mignard	4p1q	
+monsu mignardo	4p1q	
+monsu mignare	4p1q	
+monsu mincardo	4p1q	
+monsu momper	5bld	
+monsu posin	p3e	
+monsu simon de bue	15ix	
+monsu simon guet	15ix	
+monsu simon guetta	15ix	
+monsu simon ovett	15ix	
+monsu simon vouet	15ix	
+monsu valentin	4vtt	
+monsu verne	3qap	
+monsu vernet	3qap	
+monsu vignon	5tda	
+monsu vignone pittor francese	5tda	
+monsu vignone pittore francese	5tda	
+nabin patnaik	3wqr	
+nanism	3svf	
+national acadamy of science	5eu	
+national islamic university	15mx	
+nbcwh	er3	
+nicephorion	1fdg	
+ohlungen	1ufq	
+opi	5a2e	
+opi abruzzo	5a2e	
+opi aq	5a2e	
+opi italy	5a2e	
+opi town	5a2e	
+pannucha	pa9	
+parsac		22dh:2
+parsac rimondeix	22dh	
+pentamidindiisetionat	ed1	
+pharaohe monch	3utw	
+pixies	tmw	
+pixies band	tmw	
+plug		4kkj:2,6bq5:2
+plug 1 visible carter funk	1ke1	
+plug artist	1ke1	
+plug connector	3xy6	
+plug in	4kkj,6fjx	
+plug in cartridge	ud	
+plug in computing	4kkj	
+plug me in song	3mzf	
+plug musician	1ke1	
+plug research	6bq5	
+plug research records	6bq5	
+raben		lto:2
+raben och sjogren	lto	
+raben sjogren	lto	
+robertus grosseteste	5jn8	
+robertus henricus robbert dijkgraaf	55q5	
+robertus hierosolimitanus	37zg	
+roztoky	1paw,2yxr	3022:3
+roztoky prague west district	2yxr	
+roztoky rakovnik district	1paw	
+roztoky u		3022:3
+roztoky u jilemnice	3022	
+roztoky u prahy	2yxr	
+sabce		1tqv:2
+sabce department	1tqv	
+schneeberg	1fpg	
+schneeberg erzgebirge	1fpg	
+schneeberg mark	2u7y	
+schneeberg ore mountains	1fpg	
+schneeberg saxony	1fpg	
+secratary of homeland security	6fzx	
+secratary of the italian communist party	l4y	
+sederon	33xq	
+serole	2vn7	
+shekalim	4cps	
+shekalim talmud	4cps	
+shusuke		1dhk:2,54v6:2
+shusuke kaneko	1dhk	
+shusuke tsubouchi	54v6	
+spock	ab3	22k5:3,4exs:3,5guf:3
+spock alternate reality	ab3	
+spock benjamin	2zr2	
+spock comments	ab3	
+spock must		5guf:3
+spock must die	5guf	
+spock of vulcan	ab3	
+spock prime	ab3	
+spock prime reality	ab3	
+spock s		22k5:3,4exs:3
+spock s beard	22k5	
+spock s brain	4exs	
+spock s brain star trek the original series	4exs	
+spock s brain tos episode	4exs	
+spock star trek	ab3	
+sron btsan sgam po	5dgo	
+starguildawardbestfilm	6f01	
+stourbridge	cmi	bap:3
+stourbridge f		bap:3
+stourbridge f c	bap	
+stourbridge fc	bap	
+stourbridge football club	bap	
+teacha	v5d	
+the azerbaijan soviet socialist republic	whn	
+the edge	1anw,1s1v	1puk:4,2ymw:4,4hg8:4,55ly:5,66f8:4
+the edge 1997 film	1s1v	
+the edge 1997 movie	1s1v	
+the edge brand	4t15	
+the edge company	4t15	
+the edge games	4t15	
+the edge guitarist	1anw	
+the edge musician	1anw	
+the edge of		1puk:4,2ymw:4,4hg8:4,55ly:5,66f8:4
+the edge of darkness song	5jt8	
+the edge of destruction	4hg8	
+the edge of destruction doctor who	4hg8	
+the edge of glory	66f8	
+the edge of glory lady gaga song	66f8	
+the edge of heaven	1puk	
+the edge of heaven film	1puk	
+the edge of love	2ymw	
+the edge of love film soundtrack	2ymw	
+the edge of love soundtrack	2ymw	
+the edge of the		55ly:5
+the edge of the sea	zf3	
+the edge of the world	55ly	
+the edge performer	1anw	
+the edge software	4t15	
+the edge student newspaper	1ekj	
+thomas d		3quy:4,5crn:4,5ihj:3,5u55:4,5u7m:3
+thomas d akers	3dmr	
+thomas d alesandro	5crn	5crn:4
+thomas d alesandro iii	5xxy	
+thomas d alesandro jr	5crn	
+thomas d alford	4xqc	
+thomas d aquin	hpn	
+thomas d arcy		5u55:4
+thomas d arcy etienne hughes mcgee	5u55	
+thomas d arcy mcgee	5u55	
+thomas d english	60at	
+thomas d oyly		3quy:4
+thomas d oyly snow	3quy	
+thomas d pollard	5u7m	
+thomas d white	5ihj	
+thomas fremantle	4qcj	
+thomas fremantle admiral	4qcj	
+thomas fremantle british admiral	4qcj	
+thomas fremantle royal navy officer	4qcj	
+thorvald	yqd	3eko:2,3lk2:2,3txh:3,4qmi:2,6ac7:2
+thorvald astrup	3eko	
+thorvald august marinus stauning	4qmi	
+thorvald first name	yqd	
+thorvald given name	yqd	
+thorvald n		3txh:3
+thorvald n thiele	3txh	
+thorvald nicolai thiele	3txh	
+thorvald stauning	4qmi	
+thorvald steen	6ac7	
+thorvald stoltenberg	3lk2	
+thorvald thiele	3txh	
+thumereville	26ag	
+timesyncd	53a6	
+tokyo	82,2vg1	3fu:2,4uu:3,7gn:5,832:2,87c:2,9ow:3,9wr:5,fdv:4,j1m:2,kgg:2,p06:5,s6e:2,18fa:4,1ac5:3,1hd3:2,1pah:2,1v1j:2,22re:4,24d0:2,288n:2,2yfq:7,32le:5,34bp:2,3nm5:2,3psm:4,3xdl:2,44c6:3,44tr:2,455v:3,46xw:2,4bio:2,4cxx:3,4ilw:2,4qvy:2,5gb0:2,5liw:2,5n8j:3,5spc:3,63ln:2,6738:4,6brx:4
+tokyo 12 channel tv	63h	
+tokyo 1958	62q	
+tokyo 1964	dg	
+tokyo 2020	vb3	
+tokyo 23 special wards	1dfj	
+tokyo 23 wards	1dfj	
+tokyo academy	89c	
+tokyo administrative district	82	
+tokyo agricultural university	18fa	
+tokyo bay	4bio	
+tokyo bombing campaign	6hgc	
+tokyo boshoku	3nm5	
+tokyo broadcasting	7u3	
+tokyo broadcasting corporation	7u3	
+tokyo broadcasting system	7u3	
+tokyo broadcasting system holdings inc	7u3	
+tokyo broadcasting system inc	7u3	
+tokyo broadcasting system television	22ym	
+tokyo broadcasting system television inc	22ym	
+tokyo bunri university	5va	
+tokyo channel 12	63h	
+tokyo city	kgg	
+tokyo college		6738:4
+tokyo college of		6738:4
+tokyo college of music	6738	
+tokyo comments	82	
+tokyo conservatory	ufo	
+tokyo daigaku	vk	
+tokyo den en toshi line	2lma	
+tokyo disney resort fireworks	1pah	
+tokyo disney sea	288n	
+tokyo disneyland	1pah	
+tokyo disneyland park	1pah	
+tokyo disneyland sea	288n	
+tokyo disneysea	288n	
+tokyo dome	44tr	
+tokyo drift	1chz	
+tokyo drift soundtrack	1chz	
+tokyo drifter	5liw	
+tokyo egg dome	44tr	
+tokyo eki	s6e	
+tokyo exchange	4uu	
+tokyo family	63ln	
+tokyo film	2vg1	
+tokyo fu	j1m	
+tokyo gaikan		44c6:3
+tokyo gaikan expressway	44c6	
+tokyo gakugei		1ac5:3
+tokyo gakugei daigaku	1ac5	
+tokyo gakugei university	1ac5	
+tokyo geijutsu daigaku	7gn	
+tokyo giants	34xv	
+tokyo godfathers	1hd3	
+tokyo haneda	9ow	
+tokyo haneda airport	9ow	
+tokyo haneda international airport	9ow	
+tokyo higher normal school	5va	
+tokyo hotel	1350	
+tokyo i m on my way	p7u	
+tokyo imperial university	vk	
+tokyo incidents	24d0	
+tokyo indoor	1v1j	
+tokyo indoor tennis	1v1j	
+tokyo institute		fdv:4
+tokyo institute of		fdv:4
+tokyo institute of technology	fdv	
+tokyo international		9ow:3
+tokyo international airport	9ow	
+tokyo international airport terminal 1	9ow	
+tokyo jihen	24d0	
+tokyo jihen songs	24d0	
+tokyo joe	5gb0	
+tokyo joe 1949	5gb0	
+tokyo joe 1949 film	5gb0	
+tokyo joe film	5gb0	
+tokyo kabushiki torihikijo	4uu	
+tokyo kazoku	63ln	
+tokyo kogyo daigaku	fdv	
+tokyo kokuritsu hakubutsukan	4cxx	
+tokyo kokusai kuko	9ow	
+tokyo kyojin	34xv	
+tokyo kyojingun	34xv	
+tokyo kyuko dentetsu	g9b	
+tokyo kyuko electric railway	g9b	
+tokyo mega loop	1q6d	
+tokyo metoro	832	
+tokyo metro	832	
+tokyo metro chiyoda line	41ip	
+tokyo metro fukutoshin line	2v26	
+tokyo metro ginza line	1tbr	
+tokyo metro hibiya line	2wvo	
+tokyo metro line 13	2v26	
+tokyo metro marunouchi line	1i18	
+tokyo metro namboku line	3fya	
+tokyo metro nanboku line	3fya	
+tokyo metro tozai line	20bf	
+tokyo metro yurakucho new line	2v26	
+tokyo metropolis	82	
+tokyo metropolitan		9wr:5
+tokyo metropolitan area	4cii	
+tokyo metropolitan bureau		9wr:5
+tokyo metropolitan bureau of		9wr:5
+tokyo metropolitan bureau of transport	9wr	
+tokyo metropolitan bureau of transportation	9wr	
+tokyo metropolitan bureau of transportation subway lines	9wr	
+tokyo metropolitan expressway	5fkq	
+tokyo metropolitan television	3xdl	
+tokyo metropolotan bureau of transport	9wr	
+tokyo monogatari	46xw	
+tokyo movie	n5t	
+tokyo movie shinsa	n5t	
+tokyo movie shinsha	n5t	
+tokyo musashino city fc	2qyj	
+tokyo musashino city football club	2qyj	
+tokyo mx	3xdl	
+tokyo mx tv	3xdl	
+tokyo mxtv	3xdl	
+tokyo nagaremono	5liw	
+tokyo narita	1l0y	
+tokyo national		4cxx:3
+tokyo national museum	4cxx	
+tokyo national stadium	s1b	
+tokyo national university	7gn	
+tokyo national university of fine arts	7gn	
+tokyo national university of fine arts and music	7gn	
+tokyo national university of fine arts music	7gn	
+tokyo olympic stadium	s1b	
+tokyo orions	1zx6	
+tokyo outdoor	xp2	
+tokyo pop press	3sa9	
+tokyo prefecture	82,j1m	
+tokyo rika daigaku	22re	
+tokyo rpg factory	4li	
+tokyo s english law school	540	
+tokyo saihan judgment day	18k2	
+tokyo sakura tram	1f1g	
+tokyo school of fine arts	7gn	
+tokyo science university	22re	
+tokyo senmon gakko	1fb	
+tokyo shi	kgg	
+tokyo shibaura electric k k	l66	
+tokyo shock	5zh1	
+tokyo si	kgg	
+tokyo sky tree	34bp	
+tokyo sky tree white	34bp	
+tokyo skytree	34bp	
+tokyo sos	31bi	
+tokyo standard time	4zx	
+tokyo station	s6e	
+tokyo stock		4uu:3
+tokyo stock exchange	4uu	
+tokyo stock exchange doc	4uu	
+tokyo stock exchange sandbox	4uu	
+tokyo stock exchanges	4uu	
+tokyo story	46xw	
+tokyo subway	87c	
+tokyo sukai tsurii	34bp	
+tokyo suntory		455v:3
+tokyo suntory sungoliath	455v	
+tokyo swallows	5n8j	
+tokyo tech	fdv	
+tokyo telecommunications engineering	27s	
+tokyo telecommunications engineering corporation	27s	
+tokyo the		3psm:4,6brx:4
+tokyo the last		3psm:4,6brx:4
+tokyo the last megalopolis	3psm	
+tokyo the last war	6brx	
+tokyo to	82	
+tokyo to ku bu	1dfj	
+tokyo toei subway	9wr	
+tokyo tokyo	kgg	
+tokyo tower	4ilw	
+tokyo tower 2	34bp	
+tokyo tower film	4ilw	
+tokyo tribe	4qvy	
+tokyo tribe film	4qvy	
+tokyo tsushin kogyo	27s	
+tokyo twilight	3nm5	
+tokyo ueno station	17hj	
+tokyo uni	vk	
+tokyo university	vk	7gn:5,p06:5,18fa:4,22re:4
+tokyo university of		7gn:5,p06:5,18fa:4,22re:4
+tokyo university of agriculture	18fa	
+tokyo university of education	5va	
+tokyo university of fine arts and music	7gn	
+tokyo university of foreign		p06:5
+tokyo university of foreign languages	p06	
+tokyo university of foreign studies	p06	
+tokyo university of science	22re	
+tokyo university of the		7gn:5
+tokyo university of the arts	7gn	
+tokyo verdi	3fu	
+tokyo verdy	3fu	
+tokyo verdy 1969	3fu	
+tokyo verdy f c	3fu	
+tokyo verdy kit history	3fu	
+tokyo verdy kits	3fu	
+tokyo wakusei planetokio	nhn	
+tokyo wan	4bio	
+tokyo waterfront new transit waterfront line	3ffm	
+tokyo woman		32le:5
+tokyo woman s		32le:5
+tokyo woman s christian		32le:5
+tokyo woman s christian university	32le	
+tokyo women		2yfq:7
+tokyo women s		2yfq:7
+tokyo women s christian university	32le	
+tokyo women s college		2yfq:7
+tokyo women s college of		2yfq:7
+tokyo women s college of physical		2yfq:7
+tokyo women s college of physical education	2yfq	
+tokyo women s normal school	1g78	
+tokyo women s university	32le	
+tokyo yakult		5n8j:3
+tokyo yakult swallows	5n8j	
+tokyo yokohama	4cii	
+tokyo yokohama kawasaki	4cii	
+tokyo yokohama metropolitan area	4cii	
+tokyo yomiuri giants	34xv	
+tokyo yurumi giants	34xv	
+tokyo zokei		5spc:3
+tokyo zokei university	5spc	
+tokyo zokei university of art and design	5spc	
+travel	ytr	cu5:2,ko3:2,5t3p:3
+travel blog	cu5	
+travel blogging	cu5	
+travel book	6fa6	
+travel channel	ko3	
+travel channel hd	ko3	
+travel destination	2dr	
+travel destinations	2dr	
+travel diaries	cu5	
+travel diary	cu5	
+travel guide	6fa6	
+travel guides	6fa6	
+travel industry	i3o	
+travel leisure		5t3p:3
+travel leisure co	5t3p	
+travel literature	cu5	
+travel literatures	cu5	
+travel logue	cu5	
+travel narrative	cu5	
+travel narratives	cu5	
+travel novel	cu5	
+travel poster	4kr8	
+travel safety	ytr	
+travel scam	5b0p	
+travel sick	5oa2	
+travel through time	484	
+travel writer	cu5	
+travel writing	cu5	
+ummayad	9w1	
+unchanging sea	5k6f	5k6f:3
+uqp	3kln	
+vaylats	1wcb	
+vimenet	3nlj	
+vojtechov	3eqo	
+vojtechov chrudim district	3eqo	
+volleyball	ba	2zx:6
+volleyball at		2zx:6
+volleyball at the		2zx:6
+volleyball at the 2016		2zx:6
+volleyball at the 2016 summer		2zx:6
+volleyball at the 2016 summer olympics	2zx	
+volleyball court	ba	
+volleyball grand prix	25ac	
+volleyball rules	ba	
+volleyball world grand prix	25ac	
+volleyball world league	1kg6	
+weestsiie	2xl	
+yokan	16n3	
+yokan single	16n3	

@@ -1,0 +1,371 @@
+a topiary	4eql	
+aedelstan i	5rm0	
+ath	y45,1gl5	
+ath administrative arrondissement	34pg	
+ath airport	1gl5	
+ath belgium	y45	
+ath cliath	bx,5ddu	
+atrial		1gsj:2
+atrial fib	1gsj	
+atrial fibrilation	1gsj	
+atrial fibrillation	1gsj	
+atrial fibrillation with rapid ventricular response	1gsj	
+atrial fibulation	1gsj	
+badmintonat2012summerolympics	2rbw	
+barrier bar	1d7j	
+barrier beach	1d7j	
+barrier islands of new jersey	rs0	
+barrier reef	s9q	
+barrier reefs	s9q	
+belidor bernard forest de	5mm7	
+bibarcfalva	2xla	
+bieszczadzki	5flz	
+birstonas	2tkz	
+bramantes asdryvaldinus	3dt8	
+bramevaque	35ff	
+bremervorde	2f0o	
+bremervorde germany	2f0o	
+btcentralplus	13al	
+buchanancountyva	zff	
+candin	366v	
+candin leon	366v	
+candin spain	366v	
+cardenas	1plv	
+cardenas cuba	1plv	
+cardenas de cuba	1plv	
+cardenas matanzas	1plv	
+cardenas matanzas cuba	1plv	
+carelles	3zgf	
+chagos	58ge	58ge:2
+chagos archipelago	58ge	
+chagos island	58ge	
+chagos islands	58ge	
+charles hanbury		4o9i:6
+charles hanbury tracy		4o9i:6
+charles hanbury tracy 4th		4o9i:6
+charles hanbury tracy 4th baron		4o9i:6
+charles hanbury tracy 4th baron sudeley	4o9i	
+cheppy	2ia2	
+cheppy lorraine	2ia2	
+cistrieres	3cv2	
+clinchamp	2g3z	
+deathbat	1axc	
+debate	3vkk	
+debate class	3vkk	
+debate club	3vkk	
+debate doc	3vkk	
+debate team	3vkk	
+debate teams	3vkk	
+deleterious mutation	485j	
+demarara	67vr	
+denali	38hl	1z7n:5,28q0:2
+denali alaska	28q0	
+denali borough	28q0	
+denali borough ak	28q0	
+denali borough alaska	28q0	
+denali county alaska	28q0	
+denali east buttress	38hl	
+denali national		1z7n:5
+denali national monument	1z7n	
+denali national park	1z7n	1z7n:5
+denali national park and		1z7n:5
+denali national park and preserve	1z7n	
+denali national park preserve	1z7n	
+denali national preserve	1z7n	
+denali north peak	38hl	
+denali park	1z7n	
+denali park alaska	1z7n	
+denali south buttress	38hl	
+denali wilderness	1z7n	
+derka	1kdf	
+derka derka	1kdf	
+drs without borders	4qyu	
+duesseldorfer eg	1e88	
+duesseldorfer eislauf gemeinschaft	1e88	
+dysdracones	a4c	
+emilee	243	
+estuaries	fve	
+farlopa	cmo	
+fernandomania	44o8	
+ferques	234z	
+fleury	1ujw,2hni,2hrl,2ntm,2pkb,31xb,40vm	1i7d:3,1qsl:3,1syt:2,23cl:3,2gsr:3,2ig1:3,32dn:3,3i0o:3,3iou:3,3mkb:3,5y4j:3
+fleury aisne	2pkb	
+fleury andre hercule de	4vrd	
+fleury aude	2hni	
+fleury devant		23cl:3
+fleury devant douaumont	23cl	
+fleury en		1qsl:3
+fleury en biere	1qsl	
+fleury la		2gsr:3,3i0o:3,3iou:3,3mkb:3
+fleury la foret	3mkb	
+fleury la montagne	3iou	
+fleury la riviere	2gsr	
+fleury la vallee	3i0o	
+fleury les		1i7d:3
+fleury les aubrais	1i7d	
+fleury manche	31xb	
+fleury marius	5y4j	5y4j:3
+fleury marius seive	5y4j	
+fleury merogis	1syt	
+fleury moselle	2hrl	
+fleury oise	2ntm	
+fleury pas de calais	1ujw	
+fleury somme	40vm	
+fleury sur		2ig1:3,32dn:3
+fleury sur loire	32dn	
+fleury sur orne	2ig1	
+gardnerville ranchos nevada micropolitan area	158q	
+gardnerville ranchos nv micropolitan statistical area	158q	
+gardnerville ranchos nv msa	158q	
+gardnerville ranchos nv sa	158q	
+gentjan		4qw1:2
+gentjan muca	4qw1	
+george rogers		59en:3
+george rogers clark	59en	
+george rogers clarke	59en	
+gioacchimo rossini	cs4	
+giurdignano	4rxk	
+gratangen	405c	405c:2
+gratangen municipality	405c	
+hatay	cxa	cxa:2
+hatay ili	cxa	
+hatay province	cxa	
+helichroa	6e1c	
+hsuan ch eng	2ewu	
+hsuan chuang	54od	
+hsuan t ung	11lv	
+hsuan te emperor of china	428k	
+hsuan te liu	2vro	
+hsuan tsang	54od	
+hsuan tsung ii of tang	3b33	
+hsuan tsung ii of tang china	3b33	
+hsuan tsung of tang	1i7n	
+hsuan tsung of tang china	1i7n	
+hsuan tswang	54od	
+hsuan tung	11lv	
+hsuan tung of ching	11lv	
+hsuan yeh	stx	
+huawei	133c	
+huawei e160	133c	
+huawei e172	133c	
+huawei g750 t00	133c	
+huawei jishu youxian gongsi	133c	
+huawei routers	133c	
+huawei tech co	133c	
+huawei technologies co ltd	133c	
+huawei technologies usa	133c	
+irb	31yd	
+issai		12ny:2
+issai sato	65ha	
+issai satoh	65ha	
+issai satou	65ha	
+issai schur	12ny	
+jairaj hari san	56n	
+jl2kx sandbox	31ok	
+john sharp	4cwn	
+john sharp actor	4cwn	
+jryaghedi	ihj	
+kaprijke	4hgu	
+kieling stefan	3cmq	
+konigstein	2epv	w8l:3
+konigstein hesse	w8l	
+konigstein im		w8l:3
+konigstein im taunus	w8l	
+konigstein in der sachsischen schweiz	2epv	
+konigstein sachs schw	2epv	
+konigstein sachsische schweiz	2epv	
+konigstein saxon switzerland	2epv	
+konigstein saxony	2epv	
+konigstein taunus	w8l	
+krsto		3efn:2
+krsto papic	3efn	
+krunoslav		3u66:2,41a6:2,54fg:2
+krunoslav jurcic	3u66	
+krunoslav lovrek	41a6	
+krunoslav rendulic	54fg	
+la cornuaille	3fz5	
+le carnaval de romans	2stu	
+le carnaval des barbouzes	1qdn	
+leiba domb	4qrn	
+leocisio		4j3i:2
+leocisio julio sami	4j3i	
+leocisio sami	4j3i	
+lunkhusen	1yhd	
+malmis	1ubi	
+marcore	3s5l	
+mesuggah	1t8p	
+meyaneh	4nm0	
+meyaneh county	wjw	
+meyaneh east azarbaijan	4nm0	
+mictropsichia	1yae	
+moralzarzal	2ael	
+motoori		5udf:2
+motoori norinaga	5udf	
+mula	15a5	
+mula city spain	15a5	
+mula murcia	15a5	
+mula spain	15a5	
+muratum	4prs	
+narender bedi	38xe	
+naropa		2741:2
+naropa institute	2741	
+naropa university	2741	
+necm	4s6	
+ostrih	1qev	
+palozoic	2fzx	
+paulin		5nkq:3,5nuv:2
+paulin tokala		5nkq:3
+paulin tokala kombe	5nkq	
+paulin voavy	5nuv	
+pennedepie	38rd	
+philodoxus	1461	
+philodromidae	1j9d	
+pleurs	2i7i	
+pothieres	39xx	
+psychopathia sexualis	3dlz	
+qita ghazzah	12kf	
+regneville		3ccf:3
+regneville sur		3ccf:3
+regneville sur meuse	3ccf	
+rinecera	e6d	
+robert kurrle	1hbm	
+robert teitel	5ngo	
+roybon	1g5r	
+saint chaffrey	2nek	
+saint felix	299m,37b2,3p4u,3sue	wy1:3,1p2a:4,2oni:4,327u:4,33lb:4,3407:4,3dra:5,3jow:4,42hk:4
+saint felix allier	37b2	
+saint felix charente	3p4u	
+saint felix de		1p2a:4,2oni:4,327u:4,33lb:4,3407:4,3dra:5,3jow:4,42hk:4
+saint felix de caraman	wy1	
+saint felix de caramon	wy1	
+saint felix de foncaude	33lb	
+saint felix de l		3dra:5
+saint felix de l heras	3dra	
+saint felix de lodez	3jow	
+saint felix de lunel	327u	
+saint felix de pallieres	3407	
+saint felix de rieutord	42hk	
+saint felix de sorgues	2oni	
+saint felix de tournegat	1p2a	
+saint felix haute savoie	299m	
+saint felix lauragais	wy1	
+saint felix oise	3sue	
+saint max	2et1,38lf	
+sb	262,e24,e71	
+sb 42	6grg	
+sb 86	8zn	
+sb element	e71,6f4x	
+sb heidenheim	czg	
+sb i	6h2z	
+sb ii	6gq6	
+sb iv	6gwq	
+sb ix	6grv	
+sb l	6gid	
+sb li	6fzo	
+sb lii	6gw8	
+sb liii	6h3u	
+sb liv	6h7l	
+sb lv	6hk4	
+sb mvp	6hms	
+sb vi	6gtr	
+sb vii	6gve	
+sb viii	6gvy	
+sb x	6gra	
+sb xi	6gqr	
+sb xiv	6gtc	
+sb xix	6gsn	
+sb xl	6gu0	
+sb xlii	6grg	
+sb xliii	6grh	
+sb xlix	6gnx	
+sb xlv	6gse	
+sb xlvi	6gvs	
+sb xlvii	6gpe	
+sb xv	6grf	
+sb xvi	6gk0	
+sb xvii	6gtt	
+sb xviii	6h0k	
+sb xx	6gsm	
+sb xxi	6gvd	
+sb xxiii	6gjk	
+sb xxiv	6gv4	
+sb xxix	6gud	
+sb xxx	6grk	
+sb xxxi	6gwh	
+sb xxxii	6gtu	
+sb xxxiii	6gvt	
+sb xxxiv	6gv6	
+sb xxxix	6gtn	
+sb xxxv	6gss	
+sb xxxvi	6gqd	
+sb xxxvii	6gso	
+sb xxxviii	6gti	
+scandes mountains	kdo	
+searstower	247w	
+sheeting	3m29	
+shikhim	h0p	
+sivignon	2oup	
+skullpoopl	z9b	
+soucirac	1zdz	
+teixeira de souza juarez	5oj2	
+terrats	29rr	
+the down in the hole gang	2eqe	
+the fosters	29m3	
+the fosters 2013 tv series	29m3	
+the fosters band	3kzj	
+the fosters u s tv series	29m3	
+the fosters us tv series	29m3	
+the keys		1bsl:5,3s9p:5
+the keys of		1bsl:5
+the keys of pluto	5h6y	
+the keys of the		1bsl:5
+the keys of the kingdom	1bsl	
+the keys of the kingdom film	1bsl	
+the keys to		3s9p:5
+the keys to the		3s9p:5
+the keys to the house	3s9p	
+the poisoners film	3l7b	
+the us	1	
+the us army	8y	
+the us capitol	1e1k	
+the us civil war	f5	
+the us flag	4kw5	
+the us masters	5xrf	
+the us versus john lennon	3erl	
+the us vs john lennon	3erl	
+thomas fredrik georg funck	5x6p	
+thomas fredrik weybye barth	2udf	
+tietjen long dry dock company	8li	
+tunnisia	gv	
+uniates	2p41	
+universitary		ysn:3
+universitary olympic	ysn	ysn:3
+universitary olympic stadium	ysn	
+vityaz 2 podolsk	112i	
+vityaz chekhov	82k	
+vityaz hockey	82k	
+waffenss	f1g	
+wasqah	ceu	
+wereth	4hxw	
+yemeni		kiv:3,1ogj:2,5blf:3
+yemeni al qaeda crackdown	2nhk	
+yemeni civil		kiv:3
+yemeni civil war	kiv	
+yemeni civil war 1994	5abv	
+yemeni civil war 2015	kiv	
+yemeni civil war 2015 doc	kiv	
+yemeni civil war 2015 present	kiv	
+yemeni civil war 2015present	kiv	
+yemeni drone war	2nhk	
+yemeni general people s congress	3ejt	
+yemeni league	1ogj	
+yemeni president	6cno	
+yemeni republic	ly	
+yemeni socialist		5blf:3
+yemeni socialist party	5blf	
+yevdokimenko	49jw	
+zhenzong emperor	35r8	
+zhenzong of song	35r8	
+zil	1dkk	
+zil trucks	1dkk	
+zylka	5hcf	

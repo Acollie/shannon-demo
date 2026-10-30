@@ -1,0 +1,455 @@
+a 39	4dmx	
+a 39 motorway germany	4dmx	
+a bonar law	1xoz	
+adranu	1d5x	
+adrianinho	56ct	
+alexander bunge	41mi	
+anitta	2pnj	
+anitta singer	2pnj	
+beygom		1gmf:4
+beygom qaleh		1gmf:4
+beygom qaleh rural		1gmf:4
+beygom qaleh rural district	1gmf	
+biona	2c92	
+bischweiler	z9k	
+bischweiler france	z9k	
+bokeem		1a5m:2
+bokeem woodbine	1a5m	
+bonnie	6ec	dnm:2,nnp:2,qyp:2,x2p:3,xxk:2,14s7:2,1f5b:2,1f8u:2,1q1y:2,2cma:3,2m9i:2,2q0g:2,36v1:2,3oc1:2,46ya:2,4eeq:5,4j0o:2,54or:3,58vn:2,5xt7:2,68jp:3,6fpn:3
+bonnie and		x2p:3,4eeq:5
+bonnie and clyde	x2p	4eeq:5
+bonnie and clyde 1967	x2p	
+bonnie and clyde film	x2p	
+bonnie and clyde italian		4eeq:5
+bonnie and clyde italian style	4eeq	
+bonnie and clyde movie	x2p	
+bonnie arnold	5xt7	
+bonnie barstow	33oz	
+bonnie bartlett	4j0o	
+bonnie bassler	6fpn	
+bonnie bedelia	14s7	
+bonnie bedelia culkin	14s7	
+bonnie billy	pet	
+bonnie blair	2q0g	
+bonnie blair brown	2mre	
+bonnie bryan	63xn	
+bonnie buckingham	46ya	
+bonnie clutter	6gos	
+bonnie clyde film	x2p	
+bonnie dunbar	2cma	
+bonnie e clyde all italiana	4eeq	
+bonnie first name	6ec	
+bonnie francesca wright	1f5b	
+bonnie franklin	58vn	
+bonnie given name	6ec	
+bonnie guitar	46ya	
+bonnie hammer	3oc1	
+bonnie hopps	ii3	
+bonnie hunt	xxk	
+bonnie hunt comments	xxk	
+bonnie j		2cma:3
+bonnie j dunbar	2cma	
+bonnie jean b j poteet	4w6h	
+bonnie jean bj poteet	4w6h	
+bonnie jean dunbar	2cma	
+bonnie jeanne dunbar	2cma	
+bonnie jo mason	7ue	
+bonnie k wright	1f5b	
+bonnie kathleen blair	2q0g	
+bonnie kathleen wright	1f5b	
+bonnie l		6fpn:3
+bonnie l bassler	6fpn	
+bonnie leigh mckee	1q1y	
+bonnie lynn hunt	xxk	
+bonnie lynn raitt	qyp	
+bonnie lynne hunt	xxk	
+bonnie m	l3x	
+bonnie macfarlane	1uqh	
+bonnie mccullough	6hgb	
+bonnie mckee	1q1y	
+bonnie name	6ec	
+bonnie pink	nnp	
+bonnie pointer	2m9i	
+bonnie prince		54or:3,68jp:3
+bonnie prince billy	pet	
+bonnie prince charles	2o9m	
+bonnie prince charlie	54or,68jp	
+bonnie prince charlie 1923 film	68jp	
+bonnie prince charlie 1948 film	54or	
+bonnie prince charlie a tale of fontenoy and culloden	5cid	
+bonnie prince charlie room	2po1	
+bonnie rait	qyp	
+bonnie raitt	qyp	
+bonnie riatt	qyp	
+bonnie scotland	1f8u	
+bonnie somerville	36v1	
+bonnie tyler	dnm	
+bonnie tyler awards	dnm	
+bonnie tylor	dnm	
+bonnie wright	1f5b	
+borgon	5ada	
+carshalton		dj8:4,jfq:3
+carshalton athletic	dj8	dj8:4
+carshalton athletic f		dj8:4
+carshalton athletic f c	dj8	
+carshalton athletic fc	dj8	
+carshalton athletic football club	dj8	
+carshalton beeches	jfq	
+carshalton beeches railway	jfq	
+carshalton beeches railway station	jfq	
+carshalton charter fair	jfq	
+carshalton choral society	jfq	
+carshalton f c	jfq	
+carshalton fc	jfq	
+carshalton house water tower	jfq	
+carshalton lavender		jfq:3
+carshalton lavender harvest	jfq	
+carshalton on the hill	jfq	
+carshalton village	jfq	
+channel	b1x	1yk:2,9yr:2,fml:3,pp8:2,1sfb:2,1v78:2,2yl8:2
+channel 1 russia	fml	
+channel 10	419	
+channel 11 korea	44c	
+channel 13 argentina	ho1	
+channel 2	pp8	
+channel 2 israel	pp8	
+channel 2 new zealand	66rr	
+channel 2 philippines	7li	
+channel 2004	4j8p	
+channel 3	1sfb	
+channel 3 ireland	oej	
+channel 3 new zealand	tco	
+channel 3 republic of ireland	oej	
+channel 3 thailand	1sfb	
+channel 3 uk	13c	
+channel 4	1yk	
+channel 4 1	1yk	
+channel 4 books	1yk	
+channel 4 british television station	1yk	
+channel 4 entertainment	1yk	
+channel 4 television	1yk	
+channel 4 united kingdom	1yk	
+channel 4 wales	1kb7	
+channel 5	9yr	
+channel 5 broadcasting	9yr	
+channel 5 broadcasting ltd	5r92	
+channel 5 hd	9yr	
+channel 5 uk tv channel	9yr	
+channel 6 korea	3x3	
+channel 7	31z	
+channel 7 australia	31z	
+channel 7 israel	49rb	
+channel 8 france	2b4l	
+channel 8 singapore	1h4z	
+channel 9	3ci	
+channel body of water	b1x	
+channel dave	4dsz	
+channel five	9yr	
+channel five hd	9yr	
+channel five uk tv channel	9yr	
+channel four films	cnm	
+channel four programming	1yk	
+channel four wales	1kb7	
+channel gardens	3luq	
+channel geography	b1x	
+channel geogrephy	b1x	
+channel initiation	b1x	
+channel islands	1v78	
+channel islands britain	1v78	
+channel islands english channel	1v78	
+channel islands jersey	3i6	
+channel line up	6e3o	
+channel lineup	6e3o	
+channel nein	3ci	
+channel nine	3ci	
+channel nine adelaide	3ci	
+channel of formosa	2jm8	
+channel one		fml:3
+channel one russia	fml	
+channel one russian tv channel	fml	
+channel seven	31z	
+channel swimming	5hl	
+channel ten	419	
+channel ten australia	419	
+channel tunnel	2yl8	
+channel tunnel group	2yl8	
+channel two russia	12wl	
+channel welcome	614w	
+christianbiblegenesis	b56	
+christianbiblegenesis one	b56	
+chubu	1dvf	1dvf:2,3jqa:4
+chubu chiho	1dvf	
+chubu japan	1dvf	
+chubu nihon	3831	
+chubu nippon dragons	3831	
+chubu region	1dvf	
+chubu sangaku		3jqa:4
+chubu sangaku national		3jqa:4
+chubu sangaku national park	3jqa	
+coccoceras	43gc	
+coif	4w1i	
+cojocna county	5jk	
+colusa	3764	ocu:2
+colusa ca	3764	
+colusa california	3764	
+colusa county	ocu	
+colusa county ca	ocu	
+colusa county california	ocu	
+condorset	1abp	
+cooke	1wg7	1mvm:2
+cooke air force base	16d5	
+cooke alistair	2772	
+cooke anthony	4bwp	
+cooke county	1mvm	
+cooke county texas	1mvm	
+cooke county tx	1mvm	
+cooke family name	1wg7	
+cooke stephen	5xe4	
+cooke surname	1wg7	
+cooke terence james	5wck	
+davisville california	dn9	
+derida	mk3	
+dihok	3ww1	
+dihok governorate	33zw	
+dihok iraq	3ww1	
+discword	e2i	
+edward joy		5169:3
+edward joy morris	5169	
+elvia		5mhx:2
+elvia andreoli	5mhx	
+epilepsies partial	18zt	
+eupatoriadelphus	wx1	
+fallout		18ix:2,35f6:2,3bi2:3,6gb4:5
+fallout 1	3f3h	
+fallout 2	506i	
+fallout 2 a post nuclear role playing game	506i	
+fallout 2018 film	17yi	
+fallout 3	18ix	
+fallout 3 game of the year edition	18ix	
+fallout 3 info	18ix	
+fallout 4	35f6	
+fallout 4 vr	35f6	
+fallout 76 video game	127p	
+fallout a post nuclear role playing game	3f3h	
+fallout boy diane keaton	b5f	
+fallout boys	i01	
+fallout computer game	3f3h	
+fallout franchise	127p	
+fallout game	3f3h	
+fallout ii	506i	
+fallout iii	18ix	
+fallout new		3bi2:3
+fallout new vegas	3bi2	
+fallout new vegas downloadable content	3bi2	
+fallout new vegas soundtrack	3bi2	
+fallout new vegas ultimate edition	3bi2	
+fallout nv	3bi2	
+fallout records	k6	
+fallout series	127p	
+fallout shelter studios	k6	
+fallout tactics	6gb4	6gb4:5
+fallout tactics brotherhood		6gb4:5
+fallout tactics brotherhood of		6gb4:5
+fallout tactics brotherhood of steel	6gb4	
+fallout the frontier	3bi2	
+fallout three	18ix	
+fallout vr	35f6	
+fallout warfare	6gb4	
+fc badamli nahichevan	46k5	
+footrace	1o7o	
+frisbyterianism	hqu	
+gadla henry mphakanyiswa	bqy	
+gasina	x1z	
+gattaca	15r1	
+gattaca film	15r1	
+george castle law order uk	2b7r	
+geranboi	b5n	
+giauque william	4ikj	
+gmina ladek	1k22	3eaz:3
+gmina ladek zdroj	3eaz	
+goguyreo	z0q	
+grandtheftauto5	txj	
+guttiferales	6fqc	
+harimau		grk:3,qna:3,2ctc:4,61pm:3
+harimau muda	grk	grk:3,qna:3,2ctc:4,61pm:3
+harimau muda a	qna	
+harimau muda b	grk	
+harimau muda c	61pm	
+harimau muda football		2ctc:4
+harimau muda football team	2ctc	
+harimau muda original team	grk	
+hedberg	49u6	
+hedberg sandwich	3glk	
+hedberg surname	49u6	
+helfrantzkirch	1put	
+henry sellick	5y49	
+ibsen dana elcar	1c4d	
+irequois	5zik	
+jayaraaj	xf0	
+john bowes		27oj:3
+john bowes lyon	27oj	
+john leonetti	186a	
+john litel	mya	
+john prescott	227i	
+john prescott baron prescott	227i	
+jugoslovenima poem	608q	
+ka3akctah	fe	
+kalinych	xwm	
+kampaha	4djt	
+kaposi		5yug:3
+kaposi lesion	5yug	
+kaposi mor	53ic	
+kaposi s		5yug:3
+kaposi s sarcoma	5yug	
+kaposi s sarcoma of cornea disorder	5yug	
+kaposi s sarcoma of lung disorder	5yug	
+kaposi s sarcoma of lymph nodes disorder	5yug	
+kaposi s sarcoma of penis	5yug	
+kaposi s sarcoma of skin	5yug	
+kaposi s sarcoma of skin disorder	5yug	
+kasai	4x2z	29qt:2,4r9y:2,65rs:2
+kasai city	4x2z	
+kasai hyogo	4x2z	
+kasai occidental	29qt	
+kasai occidental province	29qt	
+kasai occidential	29qt	
+kasai oriental	65rs	
+kasai oriental former province	65rs	
+kasai river	4r9y	
+kasai river angola	4r9y	
+kasai shi	4x2z	
+kasai valley	4r9y	
+kawlam	dcw	
+kilima njaro	501q	
+kirsehir	n5n	
+kunduz	3jo6	1j5c:2
+kunduz afghanistan	3jo6	
+kunduz province	1j5c	
+kura		y0e:2
+kura caspian sea	y0e	
+kura mtkvari river	y0e	
+kura river	y0e	
+kuringen	944	
+la dwags	3ref	
+la moure county	2ks7	
+la moure county nd	2ks7	
+la moure county north dakota	2ks7	
+la pucelle saint	n4r	
+la river	4dyw	
+la vale	c8v	
+la vale f c	c8v	
+la vale fc	c8v	
+lailly	21jf	2mkw:3
+lailly en		2mkw:3
+lailly en val	2mkw	
+langenaltheim	3nto	
+le tallud	2612	
+lebrija	1jfk	
+lebrija sevilla	1jfk	
+lebrija seville	1jfk	
+lebrija spain	1jfk	
+leonty benois	3z7y	
+leonty nikolayevich benois	3z7y	
+leptadrillia	3g1n	
+loveparade	14po	
+mahotma gandhi	9rq	
+mamatha mohandas	1a0v	
+mirdza		49pz:2
+mirdza kempe	49pz	
+misguided ghosts	5pnl	
+morbility	at	
+moy de		28ym:4
+moy de l		28ym:4
+moy de l aisne	28ym	
+moy tai	6gut	
+moy yan	49ov	
+nasu		4w2l:4
+nasu summer		4w2l:4
+nasu summer in		4w2l:4
+nasu summer in andalusia	4w2l	
+nasu summer of andalusia	4w2l	
+nemunas river	l3i	
+nihonkai		39yo:3
+nihonkai tohoku		39yo:3
+nihonkai tohoku expressway	39yo	
+oem character set	6fjm	
+oem codepage	6fjm	
+oem font	6fjm	
+oresundsbanan	51y3	
+parambrato chatterjee	15vx	
+parambrato chattopadhyay	15vx	
+paul pierre		1y7b:3
+paul pierre broca	39uf	
+paul pierre levy	1y7b	
+paul rehkopf	f9w	
+paul ware	4q90	
+peter weening	2sz0	
+petruro		562h:2
+petruro irpino	562h	
+reflektors	t39	
+reus	afj	
+reus spain	afj	
+reus tarragona	afj	
+rhodophyllus	2bck	
+robert dallek	4kr9	
+saint domingue	1kyv	
+saint domingue 16251809	1kyv	
+sarron	40xc	
+sinra	5ao8	
+skalkotas	4qe7	
+smithsonain folkways recordings	wtu	
+smw2 yoshis island	32dp	
+soussac	41jl	
+sovolusky	4gi2	
+sovolusky pardubice district	4gi2	
+squalius	qy9	
+stenna line	53my	
+supertman	ron	
+sutrium	1wi8	
+suyash pandey	15zw	
+the fratellis	14yc	
+the freshman	11nr,3fy3	
+the freshman 1925 film	3fy3	
+the freshman 1990 film	11nr	
+the gramophone company of india	zky	
+the gramophone company of india ltd	zky	
+the nazi		5z53:3
+the nazi party	o9	
+the nazi plan	5z53	
+the nazi song	3eoh	
+thomas name	3n	
+trisha		kl2:2,pxp:2,4i0o:2
+trisha actress	pxp	
+trisha brown	4i0o	
+trisha doan	56s7	
+trisha jai mee doan	56s7	
+trisha jaimee doan	56s7	
+trisha k	pxp	
+trisha krishnamurthy	pxp	
+trisha krishnan	pxp	
+trisha yearwood	kl2	
+tuncel		1sx9:2
+tuncel kurtiz	1sx9	
+ubay	9ua	47ak:4,4gk3:2
+ubay bin kab	47ak	
+ubay bohol	9ua	
+ubay ibn		47ak:4
+ubay ibn ka		47ak:4
+ubay ibn ka ab	47ak	
+ubay ibn ka b	47ak	
+ubay ibn kaab	47ak	
+ubay luzardo	4gk3	
+usolye		50la:2
+usolye sibirskoye	50la	
+usolye sibirskoye urban okrug	50la	
+valvesoftware	9b4	
+vendredi 13 heures	4k13	
+vesdun	2j4j	
+vigamox	c1d	
+vows of poverty	2yrk	
+wandin valley	2589	
+watchtowerites	3igj	
+william bucky o neill	4j7y	
+wrens	69ql	
+yik ginlyun	4t69	
+youguang zhou	4v95	

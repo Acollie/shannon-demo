@@ -1,0 +1,554 @@
+109100 bc	2aja	
+1810s	27a9	
+197778		xso:4,185v:4,1wt2:3,45c5:2
+197778 bundesliga	1wt2	
+197778 cypriot		xso:4,185v:4
+197778 cypriot cup	f68	
+197778 cypriot first		xso:4
+197778 cypriot first division	xso	
+197778 cypriot second		185v:4
+197778 cypriot second division	185v	
+197778 cypriot third division	1ks3	
+197778 ekstraklasa	45c5	
+197778 fuball		1wt2:3
+197778 fuball bundesliga	1wt2	
+197778 fussball bundesliga	1wt2	
+1994	134p	yl:3,1z9:4,2yd:3,9li:5,b90:4,pan:4,rvk:3,uln:3,uwo:4,1oyz:4,280o:2,30oj:4,326c:2,33ow:5,3vdm:3,4ji6:3,4o2f:3,52o3:3,5abv:3
+1994 95		b90:4
+1994 95 bundesliga	1vya	
+1994 95 cypriot		b90:4
+1994 95 cypriot cup	b90	
+1994 95 cypriot first division	11p2	
+1994 95 cypriot fourth division	1547	
+1994 95 cypriot second division	1oc8	
+1994 95 cypriot third division	1841	
+1994 95 ekstraklasa	2wx5	
+1994 95 fuball bundesliga	1vya	
+1994 95 fussball bundesliga	1vya	
+1994 ad	134p	
+1994 africa cup of nations	9li	
+1994 african		9li:5
+1994 african cup		9li:5
+1994 african cup of		9li:5
+1994 african cup of nations	9li	
+1994 african nations cup	9li	
+1994 asian		2yd:3
+1994 asian games	2yd	
+1994 australian		3vdm:3
+1994 australian open	3vdm	
+1994 ce	134p	
+1994 chess olympiad	2ayw	
+1994 civil war in yemen	5abv	
+1994 clasica san sebastian	m9q	
+1994 commonwealth		uln:3
+1994 commonwealth games	uln	
+1994 commonwealth games medal count	uln	
+1994 eurocard open	527d	
+1994 eurocard open october	527d	
+1994 european		pan:4
+1994 european athletics		pan:4
+1994 european athletics championships	pan	
+1994 european championships in athletics	pan	
+1994 eurovision song contest	ema	
+1994 f1 season	33ow	
+1994 federation internationale de football association world cup	1z9	
+1994 fia formula one world championship	33ow	
+1994 fifa		1z9:4
+1994 fifa world		1z9:4
+1994 fifa world cup	1z9	
+1994 fifa world cup schedule	1z9	
+1994 football world cup	1z9	
+1994 formula		33ow:5
+1994 formula 1 season	33ow	
+1994 formula one		33ow:5
+1994 formula one season	33ow	
+1994 formula one world		33ow:5
+1994 formula one world championship	33ow	
+1994 french		4o2f:3
+1994 french open	4o2f	
+1994 genocide	uwo	uwo:4
+1994 genocide against		uwo:4
+1994 genocide against tutsi	uwo	
+1994 genocide in rwanda	uwo	
+1994 gent wevelgem	326c	
+1994 gentwevelgem	326c	
+1994 goodwill		52o3:3
+1994 goodwill games	52o3	
+1994 grand prix season	33ow	
+1994 iaaf		1oyz:4
+1994 iaaf world		1oyz:4
+1994 iaaf world cup	1oyz	
+1994 lillehammer games	yl	
+1994 lillehammer olympics	yl	
+1994 lillehammer winter olympics	yl	
+1994 masters	280o	
+1994 masters snooker	280o	
+1994 olympic games	yl	
+1994 olympics	yl	
+1994 orange county california bankruptcy	457	
+1994 paralympics	rvk	
+1994 russian		30oj:4
+1994 russian top		30oj:4
+1994 russian top league	30oj	
+1994 summer		5abv:3
+1994 summer war	5abv	
+1994 valencia open	31k6	
+1994 victoria	uln	
+1994 victoria commonwealth games	uln	
+1994 wimbledon		4ji6:3
+1994 wimbledon championships	4ji6	
+1994 winter		yl:3,rvk:3
+1994 winter olympic games	yl	
+1994 winter olympics	yl	
+1994 winter paralympics	rvk	
+1994 world cup in athletics	1oyz	
+1994 world curling championships	jj8	
+1994 year	134p	
+1994 yemen civil war	5abv	
+1994 yemeni civil war	5abv	
+a wakening of the trailblazer	4xxo	
+a ya khinchin	1req	
+acquarossa	43w5	
+acquarossa switzerland	43w5	
+acquarossa ti	43w5	
+acquarossa ticino	43w5	
+alatyr	3isi	
+alatyr chuvash republic	3isi	
+alatyr chuvashia	3isi	
+alatyr town	3isi	
+alatyr urban okrug	3isi	
+alexander nouri	4lqn	
+allow		1p4b:2,6gsj:5
+allow me	1p4b	
+allow me daddy	1p4b	
+allow us		6gsj:5
+allow us to		6gsj:5
+allow us to be		6gsj:5
+allow us to be frank	6gsj	
+alpignano	1y5f	
+alttorfer	631f	
+angor wat	5h1a	
+antarsus	4vcl	
+arricau		2nra:2
+arricau bordes	2nra	
+artavazd		3vny:2
+artavazd karamian	3vny	
+artavazd karamyan	3vny	
+assunta	e8x	3oux:2
+assunta spina	3oux	
+assunta spina 1948 film	3oux	
+averan	2qq1	
+babyshambles	3nhl	
+bantas bispo rodolfo	4w2p	
+barisic andrew	45b0	
+barugh green primary school	58c	
+baureihe 50	1qso	
+bearwood primary school	ni3	
+bertuzzo	4195	
+bevers	2gpr	
+bierut boleslaw	2972	
+bifocals	6htz	
+brucemarshall	zko	
+bufonaria	6ewu	
+busda rhyme	fmq	
+busda rhymes	fmq	
+cajasol sevilla	had	
+cajasol seville	had	
+catamarans	28n8	
+chorkowka commune	2qhd	
+chumbawumbas	shn	
+cinar	4g3z	
+cinar animation	4g3z	
+cinar entertainment	4g3z	
+cinar films	4g3z	
+cinar inc	4g3z	
+clausen	1va5	
+clausen burrows	16cg	
+clausen clausen	16cg	
+clausen f g	16cg	
+clausen kruse	16cg	
+clausen kruse klein	16cg	
+cornell		ca:2,5kz:5,6ug:3,735:8,c21:8,kqc:2,1iho:2,29h4:2,3wfb:2
+cornell borchers	3wfb	
+cornell cals	735	
+cornell college	kqc	
+cornell college of architecture art and planning	c21	
+cornell college rams	kqc	
+cornell college rams wrestling	kqc	
+cornell cooperative extension	ca	
+cornell david	4peb	
+cornell edu	ca	
+cornell glen	29h4	
+cornell glenn	29h4	
+cornell haynes jr	eom	
+cornell historic cites	ca	
+cornell historic sites	ca	
+cornell i haynes jr	eom	
+cornell ia rams	kqc	
+cornell iowa rams	kqc	
+cornell iral haynes	eom	
+cornell iral haynes jr	eom	
+cornell law	6ug	6ug:3
+cornell law school	6ug	
+cornell paul	1vu6	
+cornell rams	kqc	
+cornell rams baseball	kqc	
+cornell rams football	kqc	
+cornell rams men s basketball	kqc	
+cornell rams track and field	kqc	
+cornell rams wrestling	kqc	
+cornell u	ca	
+cornell undergraduate business program	735	
+cornell uni	ca	
+cornell university	ca	5kz:5,735:8,c21:8
+cornell university college		5kz:5,735:8,c21:8
+cornell university college of		5kz:5,735:8,c21:8
+cornell university college of agriculture		735:8
+cornell university college of agriculture and		735:8
+cornell university college of agriculture and life		735:8
+cornell university college of agriculture and life sciences	735	
+cornell university college of architecture		c21:8
+cornell university college of architecture art		c21:8
+cornell university college of architecture art and		c21:8
+cornell university college of architecture art and planning	c21	
+cornell university college of engineering	5kz	
+cornell university emergency medical service	ca	
+cornell university esbaran amazon field laboratory	735	
+cornell university historic sites	ca	
+cornell university law	6ug	
+cornell university law school	6ug	
+cornell west	1xs3	
+cornell wilde	kd8	
+cornell woolrich	1iho	
+coupes de france	j42	
+cprice1000 on the floor	4ys5	
+cunty	hzu	
+dangleberries	6frq	
+david dobrik s best friend	1f83	
+defeating jihad	61km	
+dehesas		1pyi:3
+dehesas de		1pyi:3
+dehesas de guadix	1pyi	
+dehesas de guadix granada	1pyi	
+dehesas de guadix spain	1pyi	
+edmondson county kentucky	28dm	
+edward lear	564w	
+ekeme	4rqp	
+emmuska	m52	
+emmuska baroness orczy	m52	
+emmuska orczy	m52	
+esc2011	7r4	
+esmehan sultan	339f	
+flacheres	3cwp	
+fundacio		2ebq:3
+fundacio joan		2ebq:3
+fundacio joan miro	2ebq	
+fundacio joan miro centre d estudis d art contemporani	2ebq	
+fundacio joan miro centre d estudis d art contemporani joan miro foundation	2ebq	
+fundacio miro	2ebq	
+george steiner	19zj	
+george steiner comments	19zj	
+gmina jaslo	2ljq	
+gmina stara		lc6:3,ypw:3,13k1:3,1ewk:3,212j:3,29df:3
+gmina stara biaa	ypw	
+gmina stara biala	ypw	
+gmina stara blotnica	13k1	
+gmina stara botnica	13k1	
+gmina stara dabrowa	29df	
+gmina stara kamienica	212j	
+gmina stara kiszewa	lc6	
+gmina stara kornica	1ewk	
+gmina wolanow	1a5t	
+grevesmuhlen	2p81	
+griezmann	3em1	
+gurro	5k1c	
+hajipur	61mp	
+hajipur bihar	61mp	
+hajipur comments	61mp	
+hajipur india	61mp	
+hanstedt	64p9	
+hanstedt samtgemeinde	64p9	
+hartley		33ft:2,3rgg:2,444l:2,4xzf:2,63ro:2
+hartley anna catherine	5q8m	
+hartley coleridge	63ro	
+hartley college	444l	
+hartley college point pedro	444l	
+hartley county	33ft	
+hartley county texas	33ft	
+hartley county tx	33ft	
+hartley goodweather	5mg7	
+hartley institute	2xs	
+hartley institution	2xs	
+hartley richard	y0j	
+hartley shawcross	4xzf	
+hartley shawcross baron shawcross	4xzf	
+hartley university college	2xs	
+hartley william shawcross	4xzf	
+hartley william shawcross baron shawcross	4xzf	
+hartley william shawcross baron shawcross of friston	4xzf	
+hartley wintney	3rgg	
+hartley wintney hampshire	3rgg	
+helmsdale airdrie alberta	2apw	
+hemistoma	5ep5	
+history within the marvel cinematic universe	esm	
+hovedbanegarden	upz	
+hyposmocomidae	905	
+induration	8vo	
+induration of skin	8vo	
+isarasundhorn	1ubp	
+isdud	b5p	
+jalalvand		3daz:3
+jalalvand rural		3daz:3
+jalalvand rural district	3daz	
+jeollabuk do	11ev	
+jeollabuk to	11ev	
+john suckling	57n1	
+john suckling poet	57n1	
+jonn margrave of brandenburg kustrin	1mux	
+jourdains	1o1r	
+jungius	60nf	
+jungius joachim	60nf	
+kodoku no kakera	12of	
+la fere	xlt	
+lacedaemon	8v0	
+lavandin	5isn	
+lhotse	64jw	
+lhotse merriam	2h61	
+limonum	4my	
+limonum pictavium	4my	
+linea 1	kmv	
+linea 2	o9w	
+linea 3	zw4	
+linea 5	11ew	
+linea a metropolitana di roma	17nt	
+linea aerea nacional de chile	196c	
+linea b	1c1h	
+linea b metropolitana di roma	1c1h	
+linea c	43j0	
+linea de la concepcion	15by	
+linea e buenos aires	49kb	
+linea gialla	zw4	
+linea h	3ga9	
+linea lilla	11ew	
+linea m1	kmv	
+linea m2	o9w	
+linea m3	zw4	
+linea m5	11ew	
+linea rossa	kmv	
+linea s5	5itc	
+linea s6	4ycj	
+linea s9	4z88	
+linea verde	o9w	
+lyas	2p9j	
+mahmood abass	2cue	
+mahmood abbas	2cue	
+mahmood al meleygy	25oo	
+mahmood saeed al tantawi	64nx	
+marsascirocco	537h	
+marsipan	6ful	
+martainneville	22oz	
+martainneville france	22oz	
+meruliaceae	zzc	
+mesocoronis	3ju2	
+mesothelioma	v2x	
+mesothelioma cancer	v2x	
+mesothelioma definition	v2x	
+methadrine	5ssh	
+michael almeback	4un5	
+michael coats	3l27	
+michael viggo fausbll	600l	
+murasaki		2jzz:2
+murasaki 312	4qir	
+murasaki shibiku	2jzz	
+murasaki shikibu	2jzz	
+murasaki shikubu	2jzz	
+murasaki sikibu	2jzz	
+murcia	5cr	
+murcia autonomous community	ez9	
+murcia cb	raf	
+murcia city	5cr	
+murcia fc	3sw	
+murcia murcia	5cr	
+murcia province	ez9	
+murcia region	ez9	
+murcia spain	5cr	
+national emergency in india	v2t	
+nawfside	12tn	
+neocompsa	n59	
+new atlanta braves stadium	6gzl	
+niewinne	1yjj	
+oakes		5rrt:2
+oakes ames	5rrt	
+oakes michael	6c8c	
+oakes stefan	5v4g	
+obolon brovar	cy4	
+obolon brovar kyiv	cy4	
+obolon kiev	cy4	
+obolon kyiv	cy4	
+olimpiyskiy	1n9e	1n9e:4
+olimpiyskiy national		1n9e:4
+olimpiyskiy national sports		1n9e:4
+olimpiyskiy national sports complex	1n9e	
+oreskoga	4kf8	
+panine	2qj6	
+paul burke	2qrz,50cd	
+paul burke actor	2qrz	
+paul burke rugby player	50cd	
+paul burke rugby union	50cd	
+perissodactyla	4j3b	
+picinae	2tc1	
+plinio il giovane	1z2z	
+plouigneau	176l	
+poche beach	hlh	
+polybius	5eue	
+polybius of megalopolis	5eue	
+praetor	558	
+praetor maximus	ipg	
+praetor of the plebs	558	
+praetor peregrinus	558	
+praetor perigrinus	558	
+praetor urbanus	558	
+prat	10q5,1x18,384l	23nw:2,49l4:3
+prat and whitney	1rik	
+prat bonrepaux	23nw	
+prat cotes d armor	1x18	
+prat de		49l4:3
+prat de comte	49l4	
+prat de la riba	5vg7	
+prat de llobregat	y4y	
+prince paul		1x5c:4,2rol:4,2w3u:3,4cr2:6
+prince paul dimitrievich romanovsky ilyinsky	507u	
+prince paul dimitrievitch romanovsky ilyinsky	507u	
+prince paul karadjordjevich	2rol	
+prince paul karaorevic	2rol	
+prince paul musician	2w3u	
+prince paul of		1x5c:4,2rol:4,4cr2:6
+prince paul of thurn		4cr2:6
+prince paul of thurn and		4cr2:6
+prince paul of thurn and taxis	4cr2	
+prince paul of wuerttemberg	1x5c	
+prince paul of wurttemberg	1x5c	
+prince paul of yugoslavia	2rol	
+prince paul producer	2w3u	
+prince paul von thurn und taxis	4cr2	
+quantilly	2lm7	
+quwalli	16ap	
+ranka recordings	42z	
+raving rabbits	3l1q	
+raving rabids	3l1q	
+raving roland	4s6v	
+rembrad	4c1	
+rhinocerous	14h3	
+richard meier	1n5b	
+richard meier partners	1n5b	
+robert muller	b0n,40bm,4r0s	
+robert muller footballer	40bm	
+robert muller ice hockey player	4r0s	
+rogny	2d30	1xdt:4
+rogny les		1xdt:4
+rogny les sept		1xdt:4
+rogny les sept ecluses	1xdt	
+salies	33ry	zt2:3,24pp:3
+salies de		zt2:3
+salies de bearn	zt2	
+salies du		24pp:3
+salies du salat	24pp	
+santarem	dj4,11p7,15ws	
+santarem brazil	11p7	
+santarem district	15ws	
+santarem municipality	dj4	
+santarem pa	11p7	
+santarem para	11p7	
+santarem portugal	dj4	
+sanvensa	2w51	
+scalic	6dnp	
+schlesinger arthur jr	10np	
+schlesinger jr arthur m	10np	
+schlesinger leon	edn	
+sigmund	eu1	be7:2,o0p:2,190a:2,1a3m:3,1gu0:2,3bx0:2,3qvb:2,4be9:2,52n1:2
+sigmund baumann	1lu8	
+sigmund duke of bavaria	547a	
+sigmund esco jackie jackson	11dj	
+sigmund esco jackson	11dj	
+sigmund first name	eu1	
+sigmund freud	be7	1a3m:3
+sigmund freud prize	1a3m	
+sigmund freud prize for scientific prose	1a3m	
+sigmund frued	be7	
+sigmund given name	eu1	
+sigmund gottfried spaeth	3qvb	
+sigmund iii	z00	
+sigmund jackson	11dj	
+sigmund jaehn	190a	
+sigmund jaen	190a	
+sigmund jahn	190a	
+sigmund lubin	z4r	
+sigmund mund	28ck	
+sigmund neufeld	o0p	
+sigmund of sweden	z00	
+sigmund romberg	1gu0	
+sigmund selberg	52n1	
+sigmund skard	3bx0	
+sigmund spaeth	3qvb	
+sigmund von wroblewski	40l9	
+sigmund werner paul jaehn	190a	
+sigmund werner paul jahn	190a	
+sigmund widmer	4be9	
+sigmund wilhelm list	4mhb	
+sk8teboarding	40x5	
+sm3dl	6ga7	
+snecma	3m8y	
+snecma aeroengines	3m8y	
+snecma group	49mi	
+snecma moteurs	3m8y	
+snecma s a	3m8y	
+soomaaliga	kfb	
+strats	16pg	
+syradia	14q5	
+syriana	s9w	
+syriana film	s9w	
+tassr	4kje	
+tetrapodes	4x1n	
+the amateurs	3s9o	
+the manual of the warrior of light	1563	
+the roommate	2hgu	
+the stud	24dq	
+the stud film	24dq	
+thiam	6eza	
+thomas madigage	5xjv	
+thomas nkono	3di0	
+toliet	2m8p	
+torcenay	2qz7	
+tortallan fiefs	16l9	
+totma	2qvp	
+totma urban settlement	2qvp	
+trovatores	4pw	
+uladislaus	8dc	
+umimachi diary	237m	
+umimachi diary film	237m	
+vjose	5z5t	
+waclaw aleksander maciejowski	5dr4	
+waclaw alexander maciejowski	5dr4	
+waclaw iii	2k29	
+waclaw jedrzejewicz	5n5t	
+waclaw kuchar	45gr	
+waclaw maciejowski	5dr4	
+waclaw nizynski	41rs	
+waclaw rzewuski	5la1	
+waclaw sierpinski	14so	
+welterweight	1ly	
+welterweight kickboxing	1ly	
+westhafen berlin u bahn	4ra9	
+william beresford		5ftz:5
+william beresford 1st		5ftz:5
+william beresford 1st viscount		5ftz:5
+william beresford 1st viscount beresford	5ftz	
+william booth	1ec2	
+william poage	4iwu	
+yomitan	508w	
+yomitan nakagami district okinawa	508w	
+yomitan nakagami okinawa	508w	
+yomitan okinawa	508w	
+yongmoodo	5ps4	
+zelmerlow	u7x	
+zyoo hisaisi	kfi	

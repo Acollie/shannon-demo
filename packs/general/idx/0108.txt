@@ -1,0 +1,840 @@
+199495		11p2:4,1547:4,1841:4,1oc8:4,1vya:3,2wx5:2
+199495 bundesliga	1vya	
+199495 cypriot		11p2:4,1547:4,1841:4,1oc8:4
+199495 cypriot cup	b90	
+199495 cypriot first		11p2:4
+199495 cypriot first division	11p2	
+199495 cypriot fourth		1547:4
+199495 cypriot fourth division	1547	
+199495 cypriot second		1oc8:4
+199495 cypriot second division	1oc8	
+199495 cypriot third		1841:4
+199495 cypriot third division	1841	
+199495 ekstraklasa	2wx5	
+199495 fuball		1vya:3
+199495 fuball bundesliga	1vya	
+199495 fussball bundesliga	1vya	
+adjectival form	53i2	
+adjectival form of place name	68io	
+adjectival forms of place names	68io	
+agastache	6enz	
+agu	mqd	
+agu cashmir	541b	
+agu casmir	541b	
+agu fall meeting abstracts	mqd	
+agu spring meeting abstracts	mqd	
+aishwarya	6dq5	id9:2,4re6:3,5iqi:3
+aishwarya actress	4vsk	
+aishwarya bachchan	id9	
+aishwarya dhanush	5iqi	
+aishwarya krishnaraj rai	id9	
+aishwarya of		4re6:3
+aishwarya of nepal	4re6	
+aishwarya r		5iqi:3
+aishwarya r dhanush	5iqi	
+aishwarya rai	id9	
+aishwarya rai bachan	id9	
+aishwarya rai bachchan	id9	
+aishwarya rajinikanth	5iqi	
+aishwarya rajnikanth dhanush	5iqi	
+aishwarya rajya laxmi devi shah	4re6	
+aishwarya sivachandran	4vsk	
+aishwarya tv actress	4vsk	
+album	f,58w4,6932,6g0d	6ac5:4,6dja:3
+album adult alternative	ae6	
+album chart	mme	
+album charts	mme	
+album dave pike set album	5fzg	
+album dave pike set albums	5fzg	
+album intimilium	1hyr	
+album leaf	5pur	5pur:3
+album length	f	
+album mare	1twf	
+album music	f	
+album of honour	3lwe	
+album of the year grammy	fr7	
+album orientated rock	6dja	
+album oriented		6dja:3
+album oriented rock	6dja	
+album producer	5v	
+album quorthon album	4ash	
+album rock	6dja	
+album title		6ac5:4
+album title goes		6ac5:4
+album title goes here	6ac5	
+alisterornis	wdk	
+am7	1cwy	
+basri		4wzb:2
+basri dirimlili	4wzb	
+baulne	2hqp	y3w:3
+baulne en		y3w:3
+baulne en brie	y3w	
+belemnoid	dg7	
+binghamton	7nx	967:2
+binghamton city new york	7nx	
+binghamton city ny	7nx	
+binghamton n y	7nx	
+binghamton new york	7nx	
+binghamton ny	7nx	
+binghamton review	967	
+binghamton u	967	
+binghamton university	967	
+binghamton university new york	967	
+binghamton university state university of new york	967	
+binghamton university the state university of new york	967	
+carenum	9oa	
+carenum beetle	9oa	
+carenum genus	9oa	
+carny	4cj2	
+carny 1980 film	4cj2	
+cenabum aureliani	3g0	
+cetar	5qz7	
+chalcidoptera	5uvx	
+chalindrey	23w9	
+charles huggins	5sz9	
+charnwood	174m	
+charnwood borough	174m	
+charnwood borough council	174m	
+chiba	5eb,1mh6	1ze:2,xdm:2,1zx6:3
+chiba atsuko	1on1	
+chiba chiba	5eb	
+chiba city	5eb	
+chiba daigaku	xdm	
+chiba ken	1ze	
+chiba lotte	1zx6	1zx6:3
+chiba lotte marines	1zx6	
+chiba marines	1zx6	
+chiba pref	1ze	
+chiba prefecture	1ze	
+chiba shi	5eb	
+chiba shigeru	1cov	
+chiba shin ichi	kvb	
+chiba shinichi	kvb	
+chiba surname	1mh6	
+chiba university	xdm	
+chitosebara	2dei	
+chromis	192h	
+chupriya	1za8	
+cnsa	4x50	
+commotion song	546m	
+cotm	6h50	
+deakinprime	10s0	
+defjam	1b6	
+defjam records	1b6	
+deuteronomy	5hb2	
+deuteronomy 5	6eym	
+deuteronomy 5 decalogue	6eym	
+dodgeville	3fbo	
+dodgeville city ia county wisconsin	3fbo	
+dodgeville city iowa county wi	3fbo	
+dodgeville city iowa county wisconsin	3fbo	
+dodgeville city wi	3fbo	
+dodgeville city wisconsin	3fbo	
+dodgeville wi	3fbo	
+dodgeville wisconsin	3fbo	
+donmuang airport	1dsb	
+dyersburg	1qzj	
+dyersburg high school	1qzj	
+dyersburg tennessee	1qzj	
+dyersburg tennessee micropolitan area	2lrq	
+dyersburg tn	1qzj	
+dyersburg tn micropolitan statistical area	2lrq	
+dyersburg tn msa	2lrq	
+dyersburg tn sa	2lrq	
+ebola	16ux	16ux:3
+ebola 2014	3ctw	
+ebola crisis	3ctw	
+ebola hemorrhagic		16ux:3
+ebola hemorrhagic fever	16ux	
+ebola like virus	16ux	
+ebola like viruses	16ux	
+ebola outbreak in west africa	3ctw	
+ebola virus	16ux	
+ebola virus epidemic in mali	3ctw	
+ebola virus epidemic in nigeria	3ctw	
+ebola virus epidemic in spain	3ctw	
+ebola virus outbreak in 2014	3ctw	
+ebola virus outbreak in west africa in 2014	3ctw	
+ebola virus pandemic 2014	3ctw	
+elca	nnf	
+elca global mission	nnf	
+eraq	ge	
+fahd		9qn:5,3mty:7
+fahd bin		9qn:5,3mty:7
+fahd bin abd al aziz al sa ud	9qn	
+fahd bin abdul aziz	9qn	
+fahd bin abdul aziz al saud	9qn	
+fahd bin abdulaziz		9qn:5
+fahd bin abdulaziz al		9qn:5
+fahd bin abdulaziz al saud	9qn	
+fahd bin abul aziz	9qn	
+fahd bin salman	3mty	3mty:7
+fahd bin salman bin		3mty:7
+fahd bin salman bin abdulaziz		3mty:7
+fahd bin salman bin abdulaziz al		3mty:7
+fahd bin salman bin abdulaziz al saud	3mty	
+fahd bin saud	3mty	
+fahd ibn abdul	9qn	
+fahd of saudi arabia	9qn	
+fahd salman	3mty	
+fc targoviste	1tsp	
+fc ugolshchiki stalino	37d	
+fosseroule castle	353g	
+francospanish war 16351659	3v83	
+frederick anton		3w6r:6
+frederick anton prince		3w6r:6
+frederick anton prince of		3w6r:6
+frederick anton prince of schwarzburg		3w6r:6
+frederick anton prince of schwarzburg rudolstadt	3w6r	
+fulminology	3gem	
+galbadia garden	5v8o	
+galilee	13r5	
+geetbets	4ad9	
+gmina bojanowo	1age	
+gokomyo emperor	489h	
+gokomyo tenno	489h	
+hymont	3kqf	
+ildefonso cerda	5hee	
+ildefonso cerda suner	5hee	
+ildefonso cerda y suner	5hee	
+ildefonso lima	3dg5	
+ildefonso lima sola	3dg5	
+immunex	3qnj	
+imo	wm3	
+imo 4907892	1tjc	
+imo 8753196	27q2	
+imo 8949551	3j0m	
+imo 8949575	3u21	
+imo 8949599	51cz	
+imo 8949642	4sl3	
+imo 9079456	3g99	
+imo 9160592	4gxr	
+imo 9783564	4dsl	
+imo naija	wm3	
+imo nigeria	wm3	
+imo prize	12b3	
+imo state	wm3	
+imo state nigeria	wm3	
+jagjit		17up:2
+jagjit singh	17up	
+jagjit singh singer	17up	
+james erwin thorwold rogers	603j	
+james nachtwey	54v2	
+jean cau	3f6u	
+jean cau writer	3f6u	
+john exon	63eb	
+john lloyd	2fmx	1l02:3
+john lloyd balderston	18og	
+john lloyd cruz	1l02	
+john lloyd producer	2fmx	
+john lloyd writer	2fmx	
+katagami	2qzu	
+katagami akita	2qzu	
+key	2sn,1b5k,459a,65si	1qty:2,3fpi:2,4k0z:2
+key biscayne national park	392h	
+key card	6fqy	
+key cartography	137h	
+key chart	3p88	
+key coloration	1b5k	
+key company	459a	
+key cultural relic unit under national protection	37n	
+key cultural relic unit under state protection	37n	
+key entertainer	65si	
+key ha	vx7	
+key island	611u	
+key john	32u2	
+key ki bum	65si	
+key largo	1b0z	
+key largo 1948 film	1b0z	
+key largo 1948 movie	1b0z	
+key largo 1948 song	1fin	
+key largo film	1b0z	
+key largo movie	1b0z	
+key maker	6fqy	
+key man	5f3v	
+key management access control	6fqy	
+key music	1b5k	
+key navbox	459a	
+key of a minor	att	
+key of b	1k0m	
+key of b flat	74y	
+key of c	52l	
+key of d	1b5k	
+key of f	7ta	
+key of g	6o8	
+key relationship	1b5k	
+key richard	693e	
+key singer	65si	
+key stone	1jst	
+key to		2lbe:4
+key to dutch history	w51	
+key to paradise	54bq	54bq:4
+key to the		2lbe:4
+key to the city	2lbe	
+key to the city film	2lbe	
+key to time	6cfo	
+key west	9ot	
+key west city	9ot	
+key west conchs	9ot	
+key west fl	9ot	
+key west fl micropolitan statistical area	5rw	
+key west fl msa	5rw	
+key west fl sa	5rw	
+key west florida	9ot	
+key west florida micropolitan area	5rw	
+key west marathon fl msa	5rw	
+key west marathon fl sa	5rw	
+key west sound	d3q	
+kolbotn		12tk:2,1ajq:2
+kolbotn ail	1ajq	
+kolbotn football	12tk	
+kolbotn fotball	12tk	
+kolbotn i l	1ajq	
+kolbotn idrettslag	1ajq	
+kolbotn il	1ajq	
+kurenivsko chervonoarmiyska line	26wu	
+la coupe stanley	up	
+libyssa	pns	
+lieftinckia	3lkv	
+lo	9jo,d40,5e74	
+lo borg sant dalmatz	1pdx	
+lo carmen	5sef	
+lo chi leung	6a78	
+lo chiamavano bulldozer	1igm	
+lo chiamavano tresette giocava sempre col morto	3en9	
+lo chiamavano trinita	wj9	
+lo chiameremo		4o38:3
+lo chiameremo andrea	4o38	
+lo cho yao	5r4b	
+lo choyao	5r4b	
+lo colet de desa	1g9b	
+lo da yu	57i0	
+lo fi	koh	koh:3
+lo fi aesthetic	koh	
+lo fi music	koh	
+lo fleet	2co0	
+lo grau dau rei	2ujv	
+lo ho	5d6y	
+lo ihi	6hgt	
+lo ihi seamount	6hgt	
+lo imposible	1b9w	
+lo lieh	1ac1	
+lo mismo	4auy	
+lo mismo maite gims and alvaro soler song	4auy	
+lo mismo maitre gims and alvaro soler song	4auy	
+lo mismo song	4auy	
+lo moon	jvg	
+lo mung tung s resignation	4eum	
+lo nuestro	kxg	kxg:3
+lo nuestro awards	kxg	
+lo on	2xxn	
+lo pais d oc	wv9	
+lo pan	1uqf	
+lo parador	3de5	
+lo pont sant esperit	1ke8	
+lo porge	3ba0	
+lo port de senta fe e ponchac	2rmr	
+lo pro	4w0u	
+lo puei de doma	26c	
+lo puei de velai	c7q	
+lo puei domat	26c	
+lo quiero muerto	5xvu	
+lo real maravilloso	jik	
+lo reninge	3b62	
+lo reninge belgium	3b62	
+lo sai		4bv3:5
+lo sai che		4bv3:5
+lo sai che i		4bv3:5
+lo sai che i papaveri	4bv3	
+lo sbaglio di essere vivo	58vz	
+lo sbarco di anzio	1jle	
+lo scapolo	2mzz	
+lo scatenato	44k1	
+lo sceicco bianco	35sg	
+lo sceriffo che non spara	5dkt	
+lo scippo	48o5	
+lo sconosciuto di san marino	43ys	
+lo scopone scientifico	2mhq	
+lo sgarbo	51t0	
+lo smemorato		1t83:4
+lo smemorato di		1t83:4
+lo smemorato di collegno	1t83	
+lo smemorato di collegno film	1t83	
+lo spagnoletto	14gt	
+lo spagnoletto jose	14gt	
+lo sparviero del nilo	3zrr	
+lo squadrone		55dm:3
+lo squadrone bianco	55dm	
+lo squalo	snv	
+lo squartatore di new york	3l4o	
+lo stivale	4dy2	
+lo straniero	1c34	
+lo straniero 1967 film	1c34	
+lo straniero film	1c34	
+lo surname	9jo	
+lo svitato	5leh	
+lo ta		57i0:3
+lo ta yu	57i0	
+lo tan	gax	
+lo tayu	57i0	
+lo vedi		4fs0:8
+lo vedi come		4fs0:8
+lo vedi come sei	4fs0	4fs0:8
+lo vedi come sei lo		4fs0:8
+lo vedi come sei lo vedi		4fs0:8
+lo vedi come sei lo vedi come		4fs0:8
+lo vedi come sei lo vedi come sei	4fs0	
+lo voglio morto	5xvu	
+lo wai actor	1d6i	
+lo walker	60vm	
+lo wei	1d6i	
+lo wei s fist of fury	16zj	
+lo yang	8jy	
+lo yang class destroyer	4d7m	
+lo zingaro film	21dq	
+lo zio indegno	5f5p	
+melbourne	b9,dvf	wv:3,9d6:3,aef:4,c6d:4,ckp:3,d0c:3,hv1:4,kgr:3,zt7:4,12cq:2,19te:2,1w06:2,216a:2,2ivy:3,3i00:2,4nup:2,4wq5:2,53aj:3,5rk4:3
+melbourne 1956	iv	
+melbourne 2006	csr	
+melbourne 2006 commonwealth games	csr	
+melbourne 3000	zt7	
+melbourne airport	216a	
+melbourne au	b9	
+melbourne australia	b9	
+melbourne best and fairest afl women s	wv	
+melbourne best and fairest aflw	wv	
+melbourne cbd	zt7	
+melbourne cbd victoria	zt7	
+melbourne central		zt7:4
+melbourne central business		zt7:4
+melbourne central business district	zt7	
+melbourne central city studios	4trm	
+melbourne city	ckp,ow9	ckp:3,2ivy:3
+melbourne city centre	zt7	
+melbourne city council	ow9	
+melbourne city councillor	ow9	
+melbourne city f c	ckp	
+melbourne city fc	ckp,2ivy	
+melbourne city fc w league	2ivy	
+melbourne city football club	ckp	
+melbourne city w league current squad	2ivy	
+melbourne college of advanced education	1bw	
+melbourne commonwealth games	csr	
+melbourne commonwealth games 2006	csr	
+melbourne cricket		kgr:3
+melbourne cricket ground	kgr	
+melbourne cricket ground mcg	kgr	
+melbourne cricket grounds	kgr	
+melbourne croatia	c6d	
+melbourne cup	4nup	
+melbourne cup day	4nup	
+melbourne cups	4nup	
+melbourne demons	wv	
+melbourne docklands	4trm	
+melbourne east	g5y	
+melbourne east victoria	g5y	
+melbourne f c	wv	
+melbourne fc	wv	
+melbourne fl	dvf	
+melbourne florida	dvf	
+melbourne football		wv:3
+melbourne football club	wv	
+melbourne football club afl women s	wv	
+melbourne football club aflw	wv	
+melbourne formula one circuit	29bc	
+melbourne grand prix circuit	29bc	
+melbourne hakoah	4wq5	
+melbourne heart	ckp	
+melbourne heart f c	ckp	
+melbourne heart fc	ckp	
+melbourne heart football club	ckp	
+melbourne heart syndicate	ckp	
+melbourne high	d0c	d0c:3
+melbourne high school	d0c	
+melbourne high school melbourne victoria	d0c	
+melbourne high school vic	d0c	
+melbourne high school victoria	d0c	
+melbourne house	imx	
+melbourne house company	imx	
+melbourne independent filmmakers festival	dvf	
+melbourne inner south	z6u	
+melbourne kilometro	4qi	
+melbourne knights	c6d	c6d:4
+melbourne knights f c	c6d	
+melbourne knights fc	c6d	
+melbourne knights football		c6d:4
+melbourne knights football club	c6d	
+melbourne law		53aj:3
+melbourne law school	53aj	
+melbourne national gallery of victoria	16ef	
+melbourne north	1eu9	
+melbourne north victoria	1eu9	
+melbourne olympic games	iv	
+melbourne park	19te	
+melbourne park function centre	19te	
+melbourne police department	dvf	
+melbourne public libraries	7r	
+melbourne rebels	3i00	
+melbourne response	45zc	
+melbourne s cbd	zt7	
+melbourne school	d0c	
+melbourne south	z6u	
+melbourne south victoria	z6u	
+melbourne stadium	3ry	
+melbourne storm	1w06	
+melbourne streetcars	mpg	
+melbourne suburb	zt7	
+melbourne technical college	am7	
+melbourne tigers	12cq	
+melbourne time zone	52q	
+melbourne tram	mpg	
+melbourne tram network	mpg	
+melbourne trams	mpg	
+melbourne tullamarine	216a	
+melbourne tullamarine airport	216a	
+melbourne united	12cq	
+melbourne united roster	12cq	
+melbourne univ publishing	5rk4	
+melbourne university		aef:4,5rk4:3
+melbourne university fc	aef	
+melbourne university football		aef:4
+melbourne university football club	aef	
+melbourne university law school	53aj	
+melbourne university press	5rk4	
+melbourne university publishing	5rk4	
+melbourne unviersity	1bw	
+melbourne vic	b9	
+melbourne vic australia	b9	
+melbourne victory	9d6	9d6:3,hv1:4
+melbourne victory f c	9d6	
+melbourne victory fc	9d6	hv1:4
+melbourne victory fc kits	9d6	
+melbourne victory fc supporters	9d6	
+melbourne victory fc w league	hv1	
+melbourne victory fc women	hv1	
+melbourne victory football club	9d6	
+melbourne victory ladies fc	9d6	
+melbourne victory w league	hv1	
+melbourne zebras	3d13	
+moncayolle		20ja:3
+moncayolle larrory		20ja:3
+moncayolle larrory mendibieu	20ja	
+montan	3gu7,454p	3gu7:4
+montan an		3gu7:4
+montan an der		3gu7:4
+montan an der weinstrae	3gu7	
+montan montagna	3gu7	
+naprijed sisak	h9o	
+nelvana	1ajt	
+nelvana animation	1ajt	
+nelvana enterprises	1ajt	
+nelvana enterprises inc	1ajt	
+nelvana international	1ajt	
+nelvana limited	1ajt	
+nelvana ltd	1ajt	
+noisepop	14ta	
+nolinoideae	25bz	
+paleface	37ht	37ht:2
+pantelon	61cg	
+pedric	2hyk	
+penzberg	1ci1	
+petavius	2v2g	
+petya		29b9:2
+petya ilyitch rostov	28hn	
+petya nedelcheva	29b9	
+petya nedeltcheva	29b9	
+piacenza	5p2	4op:2,1otp:3
+piacenza calcio	4op	
+piacenza calcio 1919	4op	
+piacenza calcio f c	4op	
+piacenza calcio football club	4op	
+piacenza d		1otp:3
+piacenza d adige	1otp	
+piacenza f c	4op	
+piacenza football club	4op	
+piacenza hills	a7q	
+piacenza province	a7q	
+piacenza und guastalla herzogin marie louise elisabeth parma	yk6	
+picornaviruses	27ml	
+polyscias	1jzn	
+portola		2gsb:2
+portola san francisco	gfa	
+portola san francisco california	gfa	
+portola valley	2gsb	
+portola valley ca	2gsb	
+portola valley california	2gsb	
+pozorrubielos		3m6z:4
+pozorrubielos de		3m6z:4
+pozorrubielos de la		3m6z:4
+pozorrubielos de la mancha	3m6z	
+pozorrubielos de la mancha cuenca	3m6z	
+pozorrubielos de la mancha spain	3m6z	
+pravoberezhnaya	2kp4	
+pravoberezhnaya line	2kp4	
+putsch	5b5	
+qian	pe6	3sow:2,4e5q:2,4mpw:2,635q:2
+qian chu	3sow	
+qian chuanguan	4mpw	
+qian fu	64fl	
+qian hongchu	3sow	
+qian hongshu	3sow	
+qian hongzuo	635q	
+qian li zou dan qi	5xni	
+qian siliang	58pc	
+qian surname	pe6	
+qian wende	3sow	
+qian xiaohao	64tc	
+qian xu	3gw4	
+qian xuesen	4e5q	
+qian yongjian	157v	
+qian yuanguan	4mpw	
+qian zenan	49j3	
+qian zuo	635q	
+quadrology	6fne	
+quatrieme republique	3uzg	
+rackeresztur	5gvp	
+richard butkus	2qob	
+robert balboa	6hcw	
+robert balboa sr	6hcw	
+robert curthose	1nsh	
+robert curthose duke of normandy	1nsh	
+robert curthose of normandy	1nsh	
+rokonok	5usu	
+saignon	24og	
+saint pancrasse	474b	
+savanilla	5vm	
+sella	2loj	3ikg:2
+sella alicante	2loj	
+sella d argento	2v68	
+sella di mosso	2f5j	
+sella di valsugana	1fke	
+sella giudicarie	3ikg	
+skbo	1vz3	
+starogard	1gaq	yzu:2,1gaq:2
+starogard county	yzu	
+starogard gdanski	1gaq	
+starogard gdanski commune	qd4	
+starogard gdanski county	yzu	
+steed		52tt:2
+steed and mrs peel	c3y	
+steed malbranque	52tt	
+steinberg saul	3yy6	
+strindheim		5n27:2
+strindheim fotball	5n27	
+strindheim i l	5n27	
+strindheim il	5n27	
+sugimoto	2l1q	
+suyang daegun	3s37	
+szekely istvan	113t	
+szekely sabolcs	68pn	
+szekely szabolcs	68pn	
+tanus	2q9z	
+task		2kss:2
+task force	2kss	
+task force 141	1yv4	
+task force 70	tl8	
+task force film	2kss	
+task force linebacker	njx	
+task force on gay liberation	6kd	
+task force southeast	uoa	
+tatinghem	2rvw	
+tdpod	327x	
+terricciola	4c7q	
+the algebraic eigenvalue problem	40xi	
+the highlight reel	283p	
+the shamrock		63zl:3
+the shamrock handicap	63zl	
+the university	3z	63t:5
+the university in exile	3z5	
+the university institute of technology of saint malo	1d57	
+the university of		63t:5
+the university of aberdeen	22p	
+the university of adelaide	3k9	
+the university of akron	8ym	
+the university of alabama	1yu	
+the university of alabama at huntsville	1h1q	
+the university of alabama in huntsville	1h1q	
+the university of alberta	1vq	
+the university of alcala	3po2	
+the university of amsterdam	1rn	
+the university of arizona	16y	
+the university of arkansas	2n3	
+the university of auckland	1wv	
+the university of baltimore	j0f	
+the university of bath	as9	
+the university of bern	55p	
+the university of birmingham	1fx	
+the university of bolton	574g	
+the university of bombay	3d8	
+the university of bradford	15cn	
+the university of british columbia	xy	
+the university of bucharest	39n	
+the university of burdwan	6dym	
+the university of calgary	69j	
+the university of california los angeles	dw	
+the university of california santa cruz	2he	
+the university of chicago booth school of business	69b	
+the university of chicago press	fzp	
+the university of cincinnati	2tq	
+the university of clemson	5q9	
+the university of colombo	2dh6	
+the university of dar es salaam	cz6	
+the university of dayton	z1g	
+the university of delaware	3xa	
+the university of denver	36g	
+the university of dublin	1s5v	
+the university of durham	1ct	
+the university of east anglia	2g1	
+the university of east anglia uea	2g1	
+the university of economics luigi bocconi	t1c	
+the university of economics prague	t2o	
+the university of edinburgh	ek	
+the university of evansville	os3	
+the university of exeter	4nq	
+the university of florida	t3	
+the university of freiburg	33y	
+the university of georgia	1ar	
+the university of ghana	csl	
+the university of glasgow	zy	
+the university of guelph	666	
+the university of hong kong	3v2	
+the university of hong kong libraries	3v2	
+the university of houston	268	
+the university of houston university park	268	
+the university of iceland	kou	
+the university of illinois at urbana champaign	sg	
+the university of iowa	152	
+the university of iowa college of law	7t5	
+the university of jordan	r1b	
+the university of jordan aqaba	r1b	
+the university of keele	9zr	
+the university of kentucky	2cb	
+the university of lancaster	m50	
+the university of leeds	1oi	
+the university of liverpool	37b	
+the university of london	n9	
+the university of maine	2i8	
+the university of manchester	13w	
+the university of maryland baltimore county	k31	
+the university of melbourne	1bw	
+the university of memphis	6ia	
+the university of miami	1jd	
+the university of michigan	70	
+the university of michigan business journal	7bo	
+the university of michigan journal of business	7bo	
+the university of mississippi	369	
+the university of missouri	1b3	
+the university of montana	43u	
+the university of moral and political sciences	1iu4	
+the university of mumbai	3d8	
+the university of natal	128a	
+the university of nebraska press	38fg	
+the university of nevada	84q	
+the university of new england	ha7	
+the university of new hampshire	6wx	
+the university of new hampshire unh	6wx	
+the university of new mexico	2mh	
+the university of new orleans	adv	
+the university of new south wales	2hu	
+the university of new south wales press	2hu	
+the university of newcastle	j55	
+the university of newcastle australia	j55	
+the university of newcastle chamber choir	j55	
+the university of nicholas copernicus	dx9	
+the university of north alabama	rlg	
+the university of north carolina at charlotte	14ix	
+the university of north dakota	68d	
+the university of north dakota und	68d	
+the university of notre dame	10e	
+the university of nottingham	38y	
+the university of oklahoma	23e	
+the university of oregon	1vw	
+the university of otago	2bl	
+the university of paris	iu	
+the university of pennsylvania	i4	
+the university of pennsylvania press	p44	
+the university of pittsburgh	14f	
+the university of puget sound	pn3	
+the university of queensland	2kw	
+the university of redlands	csu	
+the university of rhode island	9c4	
+the university of salford	7gk	
+the university of salford manchester	7gk	
+the university of san francisco	607	
+the university of san francisco school of law	26t3	
+the university of scranton	22nj	
+the university of sheffield	2m7	
+the university of siam	iyd	
+the university of sofia	5f4	
+the university of south africa	15kl	
+the university of south alabama	uvz	
+the university of south australia	j2b	
+the university of south carolina	2l9	
+the university of south dakota	80b	
+the university of south florida	5ss	
+the university of southampton	2xs	
+the university of southern california	g7	
+the university of southern mississippi	84s	
+the university of sussex	27g	
+the university of sydney	12d	
+the university of sydney faculty of law	cgj	
+the university of sydney faculty of medicine	unw	
+the university of sydney faculty of music	8gd	
+the university of tampa	vt5	
+the university of tasmania	8pp	
+the university of tehran	3w4	
+the university of texas at el paso	b1o	
+the university of texas elementary school	pt	
+the university of texas school of law	2582	
+the university of the		63t:5
+the university of the arts	63t	
+the university of the basque country	kr9	
+the university of the south	a32	
+the university of the south pacific	liy	
+the university of the south sewanee	a32	
+the university of the west indies	9c2	
+the university of toledo	adw	
+the university of toronto	fd	
+the university of trieste	2iwg	
+the university of trinity college	4uq	
+the university of troms	2yos	
+the university of tulsa	40l	
+the university of utah	180	
+the university of vermont	3sk	
+the university of vermont and state agricultural college	3sk	
+the university of vienna	r7	
+the university of virginia	tg	
+the university of virginia school of law	2u0	
+the university of waikato	aur	
+the university of wales aberystwyth	4kg	
+the university of wales bangor	g5a	
+the university of warwick	2h2	
+the university of waterloo	6ge	
+the university of west georgia	3s36	
+the university of western australia	72x	
+the university of western ontario	1ko	
+the university of windsor	9gy	
+the university of winnipeg	83v	
+the university of wirzburg	4pg	
+the university of wisconsin at madison	b0	
+the university of wisconsin milwaukee	2zq	
+the university of wollongong	iep	
+the university of wollongong in australia	iep	
+the university of wyoming	5ls	
+the university of york	3kv	
+the warrens		5fs9:4
+the warrens of		5fs9:4
+the warrens of virginia	5fs9	
+the warrens of virginia 1915	5fs9	
+the warrens of virginia 1915 film	5fs9	
+thelypteris	2id1	
+tiskeviciai family	63tk	
+unieurowilier	1132	
+uruffe	2xtb	
+verguenza del ecuador	4ip	
+vezyridis	6d18	
+waage		6d6m:2
+waage sand	6d6m	
+waage sandisland	6d6m	
+waage sando	6d6m	
+zhuobielin	6c4	

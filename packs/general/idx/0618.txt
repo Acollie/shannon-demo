@@ -1,0 +1,470 @@
+200506		b1l:3,wmc:4,ycs:4,11y3:4,1mpa:4,1utg:3,3das:2,463z:3
+200506 bundesliga	1utg	
+200506 cypriot		b1l:3,wmc:4,ycs:4,11y3:4,1mpa:4
+200506 cypriot cup	b1l	
+200506 cypriot first		wmc:4
+200506 cypriot first division	wmc	
+200506 cypriot fourth		1mpa:4
+200506 cypriot fourth division	1mpa	
+200506 cypriot second		ycs:4
+200506 cypriot second division	ycs	
+200506 cypriot third		11y3:4
+200506 cypriot third division	11y3	
+200506 ekstraklasa	3das	
+200506 fuball		1utg:3
+200506 fuball bundesliga	1utg	
+200506 fussball bundesliga	1utg	
+200506 uefa		463z:3
+200506 uefa cup	463z	
+a rodin	gax	
+abdelrkim khattabi	57ye	
+adana	6e9	8cl:2,agk:2,5bbp:2
+adana degli armeni	6e9	
+adana demirspor	8cl	
+adana idman yurdu	5bbp	
+adana idmanyurdu	5bbp	
+adana idmanyurduspor	5bbp	
+adana province	agk	
+adana province turkey	agk	
+adana turkey	6e9	
+aprominta	2zhn	
+badmaash		5sds:2
+badmaash company	5sds	
+baraan		2ahf:5,4pkn:5
+baraan e		2ahf:5,4pkn:5
+baraan e jonubi	4pkn	4pkn:5
+baraan e jonubi rural		4pkn:5
+baraan e jonubi rural district	4pkn	
+baraan e shomali	2ahf	2ahf:5
+baraan e shomali rural		2ahf:5
+baraan e shomali rural district	2ahf	
+beric the briton	5cid	
+beric the briton a story of the roman invasion	5cid	
+bigla cycling team	xb0	
+bigla pro cycling team	xb0	
+biophilia	41gp	
+biophilia album	41gp	
+biophilia bjork album	41gp	
+bisexual	lm9	
+bisexual acts	lm9	
+bisexual animals	lm9	
+bisexual rights	6q7	
+bisexual women	lm9	
+bled	w43	
+bled slovenia	w43	
+bodincomagus	4mwl	
+boltyanskii	5v3h	
+bookends	5nh4	
+bookends album	5nh4	
+bookends album redirect	5nh4	
+bookends simon garfunkel album	5nh4	
+bujang senang	d9q	
+bupestris	26pc	
+busturia	3ha6	
+cardcaptor		2xsz:7,3hzw:4
+cardcaptor sakura		2xsz:7,3hzw:4
+cardcaptor sakura movie	3hzw	2xsz:7
+cardcaptor sakura movie 2	2xsz	2xsz:7
+cardcaptor sakura movie 2 the		2xsz:7
+cardcaptor sakura movie 2 the sealed		2xsz:7
+cardcaptor sakura movie 2 the sealed card	2xsz	
+cardcaptor sakura movie 2 the sealed card original soundtrack	2xsz	
+cardcaptor sakura the		3hzw:4
+cardcaptor sakura the movie	3hzw	
+cardcaptor sakura the movie 2 the sealed card	2xsz	
+cardcaptor the movie 2 the sealed card	2xsz	
+caricaturings	1l9m	
+casignana	4qjp	
+cassagnabere		1h7f:2
+cassagnabere tournas	1h7f	
+cathodic	6c95	
+charte canadienne des droits et libertes	h3u	
+cheronnac	2pjm	
+chinami		4s0r:2
+chinami nishimura	4s0r	
+chinami nishimura politician	4s0r	
+circumstantial evidence 1929 film	5n4v	
+colomeea	15or	
+datson	208g	
+diaptomidae	2jo6	
+discoteca	66jp	
+drepanulina	3rz2	
+eward iordanescu	3nxm	
+fc cesna	16j9	
+flogging		3qv0:2
+flogging mollies	3qv0	
+flogging molly	3qv0	
+flogging mollys	3qv0	
+fortapasc	4qhf	
+frittie	2x7s	
+genetive	1rw1	
+genetive case	1rw1	
+gerasimov		37w:4
+gerasimov doctrine	4nzr	
+gerasimov institute		37w:4
+gerasimov institute of		37w:4
+gerasimov institute of cinematography	37w	
+gerasimov ivan alksandrovich	2gug	
+gouiti oda	17ou	
+heist	3yqk,5499	2ab:2,19mx:4,4bni:2
+heist 2001 film	3yqk	
+heist 2001 movie	3yqk	
+heist film	2ab,3yqk	
+heist films	2ab	
+heist genre	2ab	
+heist movie	2ab,3yqk	
+heist op		19mx:4
+heist op den		19mx:4
+heist op den berg	19mx	
+hinduists	u56	
+holidaysburg	1b4u	
+idward wadi said	1161	
+ihategod	3tiu	
+imabari	1kck	
+imabari ehime	1kck	
+indien dans la ville	5nm7	
+ionnalee	33v4	
+irrepetivel me sumerjo	qnf	
+isometric adventure game	qp	
+isometric adventure games	qp	
+isometric crystal system	624	
+isometric latitude	6hh6	
+isometric platformers	qp	
+isometric role playing game	x7	
+isometric role playing games	x7	
+isometric roleplaying game	x7	
+isometric roleplaying games	x7	
+isometric rpg	x7	
+isometric shooter	1fy	
+isometric system	624	
+james montagu bishop	4qqk	
+james pinckney henderson	4vd7	
+john dehner	q59	
+john xxii	5mgs	
+kazaam	3f75	
+khodjent	n70	
+kolomyia	15or	4s9s:2
+kolomyia raion	4s9s	
+laphria	uyw	
+laphria fly	uyw	
+laphria genus	uyw	
+laphria species	uyw	
+liberopoulos	3flq	
+lionsxii	pl2	
+lugansk	7f4	
+lugansk country	qe7	
+lugansk oblast	add	
+lugansk parliamentary republic	qe7	
+lugansk people s republic	qe7	
+lugansk republic	qe7	
+lugansk ukraine	7f4	
+manerbio	1c0g	
+mcleansboro	3r98	
+mcleansboro il	3r98	
+mcleansboro illinois	3r98	
+menaka	1b56,4hdd	
+menaka actress	1b56	
+menaka gandhi	5gym	
+menaka sureshkumar	1b56	
+michael render	30jd	
+mikau	5kpr	
+mnek	4uhv	
+mnek musician	4uhv	
+mondeleez	pw3	
+mondeleez international	pw3	
+murry		1a7t:2
+murry hammond	44r3	
+murry river	iyi	
+murry rothbard	15k2	
+murry wilson	1a7t	
+mytilene	k3z,l08	
+mytilene amazon	46mq	
+mytilene province	l08	
+neoligism	6ely	
+obsluhoval jsem anglickeho krale	27e7	
+otp bank liga	8du	
+ottmarsheim	231m	
+paphian	jr1	
+paul edward dehn	21t5	
+paul edward farmer	4n96	
+paul edward haggis	11kb	
+paul edward terry	60jh	
+paul edward theroux	yel	
+paul edward valentine giamatti	ef7	
+pembroke	qlc,2228,3sbn	32n:2,4bh:2,br3:2,x2x:2,1ouk:2,31mo:2,587p:3
+pembroke castle	31mo	
+pembroke college	32n,4bh	
+pembroke college cambridge	32n	
+pembroke college oxford	4bh	
+pembroke college oxford university	4bh	
+pembroke dock	x2x	
+pembroke dock pembrokeshire	x2x	
+pembroke dockyard	br3	
+pembroke george herbert 11th earl	2uix	
+pembroke hall	32n	
+pembroke hall cambridge	32n	
+pembroke hamilton	4no9	
+pembroke herring	587p	
+pembroke j		587p:3
+pembroke j herring	587p	
+pembroke king s program	32n	
+pembroke king s programme	32n	
+pembroke kings program	32n	
+pembroke leys	7kk	
+pembroke ma	3sbn	
+pembroke mass	3sbn	
+pembroke massachusetts	3sbn	
+pembroke on	qlc	
+pembroke ontario	qlc	
+pembroke oxford	4bh	
+pembroke pembrokeshire	2228	
+pembroke pines	1ouk	
+pembroke pines charter elementary school	1ouk	
+pembroke pines fl	1ouk	
+pembroke pines fla	1ouk	
+pembroke pines florida	1ouk	
+pembroke public library massachusetts	3sbn	
+pembroke renfrew county ontario	qlc	
+pembroke royal dockyard	x2x	
+pembroke table	cm8	
+pembroke wales	2228	
+periphorectis	3p1	
+peter ellenshaw	11sc	
+pfaff	6fnc	
+pfaff surname	6fnc	
+piatra		jev:2
+piatra neamt	jev	
+piatra neamt princely court	jev	
+piscina	44hs	
+piscina piedmont	44hs	
+piscina to	44hs	
+pragakhan	1c4c	
+pumla makaziwe mandela amuah	4xvp	
+rakosmente	43ij	
+recoltes et semailles	fhh	
+rheineck	40ma	
+rheineck sg	40ma	
+rheineck st gallen	40ma	
+rheineck switzerland	40ma	
+rijksmonuments	1m9	
+robert napier	4vv4	4vv4:7
+robert napier 1st		4vv4:7
+robert napier 1st baron		4vv4:7
+robert napier 1st baron napier	4vv4	4vv4:7
+robert napier 1st baron napier of		4vv4:7
+robert napier 1st baron napier of magdala	4vv4	
+rustler s rhapsody	1mum	
+senantes	28fn	
+senantes oise	28fn	
+sergiev posad	nt2	
+shelbourne		4ka:3
+shelbourne f		4ka:3
+shelbourne f c	4ka	
+shelbourne fc	4ka	
+shelbourne football club	4ka	
+shelbourne house	6eq5	
+skeletophyllon	5ltj	
+sloughin blue boom boom satellites song	2q2y	
+solidarnosc	4gso	
+solta medical	6b58	
+sonority music	6fdo	
+spoor	31ua	
+spoor film	31ua	
+stasova	5lx9	
+tauber	51qs	
+tauber bischofsheim	1lyj	
+tauber richard	3vru	
+tauber river	51qs	
+tauber valley	51qs	
+tawny		3hlf:2
+tawny julie kitaen	3hlf	
+tawny kitaen	3hlf	
+telekinetically	6gf3	
+the intimidator	4xi9	
+the plague	cw,5x3n	2u6l:5
+the plague 1992 film	5x3n	
+the plague doomsday productions album	1vxz	
+the plague magazine	cw	
+the plague of		2u6l:5
+the plague of doves	17qo	
+the plague of the		2u6l:5
+the plague of the zombies	2u6l	
+the plague r i p grinder	2qly	
+thomas carter	2uef	
+thomas carter director	2uef	
+thomas carter film director	2uef	
+tochigi	1n1g	740:2,a0e:2,3y57:3
+tochigi city		3y57:3
+tochigi city fc	3y57	
+tochigi japan	740	
+tochigi ken	740	
+tochigi prefecture	740	
+tochigi s c	a0e	
+tochigi sc	a0e	
+tochigi tochigi	1n1g	
+tochigi uva f c	3y57	
+tochigi uva fc	3y57	
+tochigi uva s c	3y57	
+tva	2pqj	
+tva canada	2pqj	
+tva kvinnor	6ecm	
+tva television network	2pqj	
+tva tv network	2pqj	
+twoloversmovie com	5mxo	
+ukta commune	rtj	
+ukta municipality	rtj	
+umbilicated lesion	8vo	
+universal		hq:3,k9:2,1qj:2,23q:4,4bp:3,7g6:2,b4b:4,dsz:4,svb:2,y6z:2,z6s:3,14g2:4,1lfn:4,2f75:3,2fbr:2,2g0l:3,2g50:2,31bo:3,3816:4,38ey:3,51ov:2,57l3:5,5okl:3,5t6x:3
+universal animation	31bo	31bo:3
+universal animation limited	31bo	
+universal animation studios	31bo	
+universal bibliography	95v	
+universal cartoon studios	31bo	
+universal city	2g50	
+universal city ca	2g50	
+universal city california	2g50	
+universal city los angeles ca	2g50	
+universal city los angeles california	2g50	
+universal city records	iny	
+universal classics		38ey:3
+universal classics and jazz	38ey	
+universal classics and jazz uk	38ey	
+universal classics jazz	38ey	
+universal constant	1wzs	
+universal constants	1wzs	
+universal culture shock undiscovered numbers and colors	2t8y	
+universal destinations		5t6x:3
+universal destinations experiences	5t6x	
+universal domestic television	svb	
+universal emarcy	c4i	
+universal emergency telephone number	rru	
+universal entertainment	51ov	
+universal entertainment corporation	51ov	
+universal equinoctial ring dial	3re2	
+universal esperanto		z6s:3
+universal esperanto association	z6s	
+universal exhibition	dbp	
+universal exhibitions	dbp	
+universal exposition	dbp	
+universal feature animation	31bo	
+universal film	k9	
+universal film manufacturing company	k9	
+universal films	k9	
+universal florida	2g0l	
+universal focus	7or	
+universal game company	51ov	
+universal genius	1p92	
+universal globe	k9	
+universal greeting	lmz	
+universal hero vetrimaran s next	65ea	
+universal home entertainment	dsz	
+universal home video	dsz	
+universal home video inc	dsz	
+universal interconnectivity	16db	
+universal international	k9	
+universal international pictures	k9	
+universal island	k6	
+universal japan	hq	
+universal kids	3816	3816:4
+universal kids metv		3816:4
+universal kids metv toons	3816	
+universal kids network	3816	
+universal latino	b4b	
+universal life	78k	
+universal man	1p92	
+universal media		4bp:3
+universal media disc	4bp	
+universal media disk	4bp	
+universal motion dancers	y6z	
+universal motown	7g6	14g2:4
+universal motown records	7g6	
+universal motown records group	14g2	
+universal motown republic	14g2	14g2:4
+universal motown republic group	14g2	
+universal motown republic records group	14g2	
+universal motown univeral republic group	14g2	
+universal music		hq:3,23q:4,b4b:4
+universal music classics and jazz	38ey	
+universal music france	hq	
+universal music group	hq	23q:4
+universal music group nashville	23q	
+universal music hong kong	hq	
+universal music latin	b4b	b4b:4
+universal music latin entertainment	b4b	
+universal music latino	b4b	
+universal music nashville	23q	
+universal music operations	hq	
+universal music video distribution	hq	
+universal nbc	gwy	
+universal network television	svb	
+universal noir collection	dsz	
+universal parks and resorts	5t6x	
+universal parks resorts	5t6x	
+universal pattern saddle	4vzd	
+universal pictures	k9	
+universal pictures home entertainment	dsz	
+universal pictures uk	u8p	
+universal public education	iz	
+universal records	hq,1qj,y6z	
+universal records american record label	1qj	
+universal records defunct record label	1qj	
+universal records group	1qj	
+universal records philippines	y6z	
+universal records philippines artists	y6z	
+universal records philippines inc	y6z	
+universal records south	agf	
+universal relation	3c5y	
+universal resort orlando	2g0l	
+universal resorts	5t6x	
+universal saddle	4vzd	
+universal sales co	51ov	
+universal sales co ltd	51ov	
+universal scholar	1p92	
+universal soldier	2fbr	1lfn:4,2f75:3,57l3:5,5okl:3
+universal soldier 1992 film	2fbr	
+universal soldier 4	57l3	
+universal soldier 4 day of reckoning	57l3	
+universal soldier a new beginning	2f75	
+universal soldier a new dimension	57l3	
+universal soldier a new dimension 2012	57l3	
+universal soldier day		57l3:5
+universal soldier day of		57l3:5
+universal soldier day of reckoning	57l3	
+universal soldier game	5okl	
+universal soldier regeneration	2f75	
+universal soldier the		1lfn:4
+universal soldier the return	1lfn	
+universal soldier video game	5okl	
+universal soldiers the next generation	2f75	
+universal soldiers the next generation film	2f75	
+universal south	agf	
+universal south records	agf	
+universal spider	ujf	
+universal studios	k9	dsz:4,2g0l:3
+universal studios family productions	31bo	
+universal studios florida	2g0l	
+universal studios florida attractions	2g0l	
+universal studios florida theme park and tour	2g0l	
+universal studios home		dsz:4
+universal studios home entertainment	dsz	
+universal studios home video	dsz	
+universal studios incorporated	k9	
+universal studios theme park	5t6x	
+universal studios theme parks	5t6x	
+universal tank	g8z	
+universal television	svb	
+universal television distribution	in4	
+universal television enterprises	svb	
+universal theme parks	5t6x	
+universal theories	ovm	
+universal theory	ovm	
+universal video games	51ov	
+velteze	4c9e	
+villaquejida	29pl	
+villaquejida leon	29pl	
+villaquejida spain	29pl	
+vykan	47s4	
+weeks william h	32fp	
+weeks william henry	32fp	
+zappadan	55u	
+zelena hora	rlq	

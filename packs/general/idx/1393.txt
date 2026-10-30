@@ -1,0 +1,599 @@
+2006	bje	jz:3,nt:3,1gz:4,3m5:5,a49:3,csr:3,mnk:3,rwt:3,126i:3,1d7x:2,1tn3:3,22rv:2,2euk:4,2ivj:4,2n90:4,2ntf:5,2u2r:5,34wy:4,3c8u:2,3ouo:4,3smf:6,3wg8:3,469i:3,4bci:3,4ekw:4,4fu8:4,4h1p:3,4qxi:5,53uj:5,5986:3,5bqz:4,5dav:3,5ex1:6,5ia6:5,5olv:4,5pyc:4,5sz2:4
+2006 07 bundesliga	1s41	
+2006 07 cypriot cup	azw	
+2006 07 cypriot first division	w8n	
+2006 07 cypriot fourth division	1b91	
+2006 07 cypriot second division	y83	
+2006 07 cypriot third division	14ux	
+2006 07 ekstraklasa	37ti	
+2006 07 fuball bundesliga	1s41	
+2006 07 fussball bundesliga	1s41	
+2006 07 hoofdklasse	nyg	
+2006 07 national division one teams	195p	
+2006 07 uefa cup	43o7	
+2006 14 07	bje	
+2006 acura		4h1p:3
+2006 acura classic	4h1p	
+2006 afl		2ivj:4
+2006 afl finals		2ivj:4
+2006 afl finals series	2ivj	
+2006 africa		3m5:5
+2006 africa cup		3m5:5
+2006 africa cup of		3m5:5
+2006 africa cup of nations	3m5	
+2006 african cup of nations	3m5	
+2006 african nations cup	3m5	
+2006 anzac test	3hu3	
+2006 asian		nt:3
+2006 asian games	nt	
+2006 asian games closing ceremony	nt	
+2006 australian		1tn3:3
+2006 australian open	1tn3	
+2006 australian open comments	1tn3	
+2006 bank		5ex1:6
+2006 bank of		5ex1:6
+2006 bank of the		5ex1:6
+2006 bank of the west		5ex1:6
+2006 bank of the west classic	5ex1	
+2006 buitenpoort		53uj:5
+2006 buitenpoort flexpoint		53uj:5
+2006 buitenpoort flexpoint team		53uj:5
+2006 buitenpoort flexpoint team season	53uj	
+2006 ce	bje	
+2006 census of ireland	omf	
+2006 challenge		5dav:3
+2006 challenge bell	5dav	
+2006 chess olympiad	1169	
+2006 chicago subway fire	xug	
+2006 clasico		4bci:3
+2006 clasico rcn	4bci	
+2006 commonwealth		csr:3
+2006 commonwealth games	csr	
+2006 commonwealth games medal count	csr	
+2006 cwg	csr	
+2006 deaths	bje	
+2006 dfs		5986:3
+2006 dfs classic	5986	
+2006 dutch		4fu8:4
+2006 dutch elections	4fu8	
+2006 dutch general		4fu8:4
+2006 dutch general election	4fu8	
+2006 european		3ouo:4
+2006 european athletics		3ouo:4
+2006 european athletics championships	3ouo	
+2006 european championships in athletics	3ouo	
+2006 european championships in athletics medal count	3ouo	
+2006 eurovision	8kl	
+2006 eurovision song contest	8kl	
+2006 f1	2ntf	
+2006 f1 season	2ntf	
+2006 family		5olv:4
+2006 family circle		5olv:4
+2006 family circle cup	5olv	
+2006 fia formula one world championship	2ntf	
+2006 fifa		1gz:4,4ekw:4
+2006 fifa world		1gz:4,4ekw:4
+2006 fifa world cup	1gz,4ekw	
+2006 fifa world cup computer game	4ekw	
+2006 fifa world cup final positions	1gz	
+2006 fifa world cup game	4ekw	
+2006 fifa world cup video game	4ekw	
+2006 formula		2ntf:5
+2006 formula 1 season	2ntf	
+2006 formula one	2ntf	2ntf:5
+2006 formula one season	2ntf	
+2006 formula one world		2ntf:5
+2006 formula one world championship	2ntf	
+2006 french		3wg8:3
+2006 french open	3wg8	
+2006 french open seeds	3wg8	
+2006 french open tennis	3wg8	
+2006 germany fifa world cup	1gz	
+2006 gp sar la princess lalla meryem	2l26	
+2006 grand prix de denain	2gss	
+2006 grote scheldeprijs	3c8u	
+2006 iaaf		2n90:4,3smf:6
+2006 iaaf world		2n90:4,3smf:6
+2006 iaaf world cross		3smf:6
+2006 iaaf world cross country		3smf:6
+2006 iaaf world cross country championships	3smf	
+2006 iaaf world cup	2n90	
+2006 iditarod	1d7x	
+2006 in ips	5gxs	
+2006 israel hezbollah war	rwt	
+2006 israel lebanon conflict	rwt	
+2006 israel lebanon crisis	rwt	
+2006 israel lebanon war	rwt	
+2006 israel war	rwt	
+2006 israeli hizballah conflict	rwt	
+2006 israeli lebanon war	rwt	
+2006 israellebanon war	rwt	
+2006 lebanon	rwt	rwt:3
+2006 lebanon crisis	rwt	
+2006 lebanon israel crisis	rwt	
+2006 lebanon war	rwt	
+2006 masters	22rv	
+2006 masters snooker	22rv	
+2006 melbourne commonwealth games	csr	
+2006 mercury music prize	1ba4	
+2006 moorilla		5sz2:4
+2006 moorilla hobart		5sz2:4
+2006 moorilla hobart international	5sz2	
+2006 north pacific hurricane season	5pyc	
+2006 pacific		5bqz:4,5pyc:4
+2006 pacific hurricane		5pyc:4
+2006 pacific hurricane season	5pyc	
+2006 pacific hurricane season comments	5pyc	
+2006 pacific typhoon		5bqz:4
+2006 pacific typhoon season	5bqz	
+2006 paralympic winter games	a49	
+2006 paralympics	a49	
+2006 paralympics games	a49	
+2006 perugia olive oil factory explosions	2h1k	
+2006 phs	5pyc	
+2006 pinewood studios fire	1s2	
+2006 qatar		5ia6:5
+2006 qatar telecom		5ia6:5
+2006 qatar telecom german		5ia6:5
+2006 qatar telecom german open	5ia6	
+2006 quatar telecom german open	5ia6	
+2006 richard hammond dragster crash	1scp	
+2006 road world championships	2u2r	
+2006 roland garros	3wg8	
+2006 russian		34wy:4
+2006 russian premier		34wy:4
+2006 russian premier league	34wy	
+2006 scheldeprijs	3c8u	
+2006 soccer world cup	1gz	
+2006 super bowl	6gu0	
+2006 superbowl	6gu0	
+2006 time 100	61f9	
+2006 toray		4qxi:5
+2006 toray pan		4qxi:5
+2006 toray pan pacific		4qxi:5
+2006 toray pan pacific open	4qxi	
+2006 torino olympics	jz	
+2006 torino paralympic games	a49	
+2006 tour	2euk	2euk:4
+2006 tour de		2euk:4
+2006 tour de france	2euk	
+2006 turin	jz	
+2006 turin games	jz	
+2006 turin olympics	jz	
+2006 turin winter games	jz	
+2006 typhoon season	5bqz	
+2006 uci		mnk:3,2u2r:5
+2006 uci protour	mnk	
+2006 uci road		2u2r:5
+2006 uci road world		2u2r:5
+2006 uci road world championships	2u2r	
+2006 war in lebanon	rwt	
+2006 wimbledon	469i	469i:3
+2006 wimbledon championships	469i	
+2006 wimbledon championships seeds	469i	
+2006 wimbledon tennis championships	469i	
+2006 winter		jz:3,a49:3
+2006 winter olympic games	jz	
+2006 winter olympics	jz	
+2006 winter olympics calendar	jz	
+2006 winter olympics in turin italy	jz	
+2006 winter paralympics	a49	
+2006 world cup draw	1gz	
+2006 world cup in athletics	2n90	
+2006 world cup scores	1gz	
+2006 wta		126i:3
+2006 wta german open	5ia6	
+2006 wta tier i tournaments	126i	
+2006 wta tier ii tournaments	126i	
+2006 wta tier iii tournaments	126i	
+2006 wta tier iv tournaments	126i	
+2006 wta tour	126i	
+2006 xx olympics	jz	
+3096	4li8	4li8:2
+3096 days	4li8	
+3096 film	4li8	
+3096 tage	4li8	
+aitkin		dr6:2
+aitkin count	dr6	
+aitkin county	dr6	
+aitkin county minnesota	dr6	
+aitkin county minnesota comments	dr6	
+aitkin county mn	dr6	
+aitkin county mra	dr6	
+alexander karensky	3xyw	
+altenberg	l6s	
+altenberg erzgebirge	l6s	
+altenberg germany	l6s	
+altenberg ore mountains	l6s	
+altenberg saxony	l6s	
+aquateen	39zh	
+ashish		irj:2
+ashish chaudhary	4vvc	
+ashish vidhyarthi	irj	
+ashish vidyarthi	irj	
+automotives	foz	
+biohazard	51dv	
+biohazard 2	3cib	
+biohazard 3	6cei	
+biohazard 5	58qv	
+biohazard 5 alternative edition	58qv	
+biohazard 5 gold edition	58qv	
+biohazard 6	3tol	
+biohazard 7	5neg	
+biohazard 7 resident evil	5neg	
+biohazard band	51dv	
+biohazard damnation	3ysa	
+biohazard degeneration	31au	
+biohazard film series	jou	
+biohazard video game	4g6s	
+bkcpcorendon	6964	
+bretigny	29nz,2gde	yd6:3
+bretigny cote d or	29nz	
+bretigny oise	2gde	
+bretigny sur		yd6:3
+bretigny sur orge	yd6	
+brodivskyi raion	apo	
+buran		1fl8:2
+buran voronezh	1fl8	
+c38h69no13	cao	
+cancun	eey	
+cancun mexico	eey	
+cancun q r	eey	
+cancun quintana roo	eey	
+cancun quintana roo mexico	eey	
+caprea	4zj	
+carrucci pontormo	1vk6	
+catholisism	4v	
+cementary	hn	
+cernion	3fvl	
+cerodrillia	3atp	
+chansonnier	ca2	
+chansonnier performer	3wa	
+chansonnier singer	ca2	
+chivas		5pc:2
+chivas del guadalajara	4ay	
+chivas el paso patriots	15zk	
+chivas guadalajara	4ay	
+chivas of guadalajara	4ay	
+chivas rayadas del guadalajara	4ay	
+chivas usa	5pc	
+cidlina	4cg7	
+cidlina trebic district	4cg7	
+cointrin	478o	
+cointrin airport	478o	
+cointrin international airport	478o	
+colonnese	4d1v	
+corporal	f33,g8a	
+corporal buggy swires	6hss	
+corporal nobby nobbs	6hss	
+corporal rank	f33	
+corporal reanimation	6ftg	
+corporal s guard	f33	
+daur e junoon album	1qix	
+daur frodo	5mdt	
+david drainman	277g	
+david styles	21k9	
+davud	bf0	
+deseret university	180	
+dickinson	1gmd	6hg:2,nip:2,136q:2,1dul:2
+dickinson coll	6hg	
+dickinson college	6hg	
+dickinson college dining hall	6hg	
+dickinson county	nip,136q,1dul	
+dickinson county ia	136q	
+dickinson county iowa	136q	
+dickinson county kansas	nip	
+dickinson county ks	nip	
+dickinson county mi	1dul	
+dickinson county michigan	1dul	
+dickinson county virginia	3i6o	
+dickinson john	4onk	
+dickinson memorial library northfield massachusetts	4d68	
+dickinson nd	1gmd	
+dickinson north dakota	1gmd	
+dickinson peter	1jqi	
+dickinson red devils	6hg	
+dickinson red devils football	6hg	
+dickinson red devils men s basketball	6hg	
+dickinson red devils track and field	6hg	
+dickinson seminary	1irv	
+dornbusch s law	408j	
+drzkov	3mxx	
+durk 2x	4ppb	
+durk banks	4ppb	
+edward klosinski	15zu	
+eeuu	1	
+eksjo	1g53	186e:2
+eksjo kommun	186e	
+eksjo municipality	186e	
+eksjo sweden	1g53	
+electronically	ikf	
+engineers	2s,48r7	
+engineers degree	lg5	
+faruj		36pn:3
+faruj rural		36pn:3
+faruj rural district	36pn	
+fc halifax	60y	60y:3
+fc halifax town	60y	
+flitch trials	3iq7	
+fredrika	1k09	4bvf:2,5qg8:3
+fredrika bremer		5qg8:3
+fredrika bremer association	5qg8	
+fredrika bremer forbundet	5qg8	
+fredrika parish	2w1u	
+fredrika stenhammar	4bvf	
+gamel abdel nasser	10d8	
+genyo		4uk8:2
+genyo takeda	4uk8	
+gmina jabonka	4xy9	
+grenaabanen	2kmh	
+hangzhouchangshakunming passenger railway	h8t	
+hausdulmen	269f	
+itzulia basque country	lwz	
+john wilkes		273f:3
+john wilkes booth	273f	
+john wilkes booth comments	273f	
+john wilkes boothe	273f	
+kalakua	5w0n	5w0n:2
+kalakua kaheiheimaile	5w0n	
+kalakua kaheiheimalie	5w0n	
+kalay		4i1r:2
+kalay chor	4i1r	
+kamehameha		qf1:2,2cyq:2,30g2:2,35kb:2,4yoa:2
+kamehameha david	64r7	
+kamehameha dynasty	3rg6	
+kamehameha i	qf1	
+kamehameha i king of hawai i	qf1	
+kamehameha i king of hawaii	qf1	
+kamehameha i of hawai i	qf1	
+kamehameha i of hawaii	qf1	
+kamehameha ii	30g2	
+kamehameha ii king of hawai i	30g2	
+kamehameha ii of hawai i	30g2	
+kamehameha ii of hawaii	30g2	
+kamehameha iii	2cyq	
+kamehameha iii king of hawai i	2cyq	
+kamehameha iii of hawai i	2cyq	
+kamehameha iii of hawaii	2cyq	
+kamehameha iv	35kb	
+kamehameha iv king of hawai i	35kb	
+kamehameha iv of hawai i	35kb	
+kamehameha iv of hawaii	35kb	
+kamehameha the great	qf1	
+kamehameha v	4yoa	
+kamehameha v comments	4yoa	
+kamehameha v of hawa i	4yoa	
+kamehameha v of hawai i	4yoa	
+kamehameha v of hawaii	4yoa	
+kamehameha wave	6gdx	
+keltsch	173v	
+kotzingue	1jfc	
+lapege	3xpb	
+larnaca	6u6	nha:2
+larnaca cyprus	6u6	
+larnaca district	nha	
+latonya	2hxn	
+lichtenwoerth	5fs0	
+longfosse	32ji	
+maigh eo county	529	
+maigh nuad	69xv	
+mammillaria	e2d	
+mammillaria genus	e2d	
+mastertronics	ny0	
+meinheim	3502	
+metaru gia soriddo 2 sanzu obu ribati	3qao	
+metaru gia soriddo fo ganzu obu za patoriotto	58j2	
+metaru gia soriddo suri suneku ita	4sb0	
+mikami	4q5i	66re:2
+mikami hiroshi	66re	
+mikami shinji	28m3	
+mikami sinzi	28m3	
+montheries	3js7	
+mutakallimun	5762	
+nakanishi	36bk	
+nazrat	bd2	
+nearco	3t8y	
+nearco horse	3t8y	
+neard	g5s	
+nethack	5yx4	
+nethack amulet of yendor	5yx4	
+nethack el	5yx4	
+nethack general public license	5yx4	
+njana peedam award	m6c	
+odeshchyna	67m	
+ordet	3t6t	
+orduspor	8xq	
+parlor		59i0:4
+parlor bedroom		59i0:4
+parlor bedroom and		59i0:4
+parlor bedroom and bath	59i0	
+parlor bedroom and bath 1931 film	59i0	
+parlor city	7nx	
+parlor game	6fx9	
+parlor games	6fx9	
+parlor grand piano	57	
+patraikos kolpos	6dq4	
+paul hindenburg	1cb1	
+perictyone	3wl0	
+pgs kissamikos	5r9r	
+pgs kissamikos f c	5r9r	
+phibunsongkhram	2q0r	
+ploen	14tu	
+ploen district	b3q	
+pogenda	15f6	
+prednisolone	24e7	
+prednisolone f	252h	
+princess ludovika		vxe:4
+princess ludovika of		vxe:4
+princess ludovika of bavaria	vxe	
+qurbanov ruslan eldarovic	53mb	
+rautahat		aan:2
+rautahat district	aan	
+realblast destruction	2ipq	
+reincarnate film	1zne	
+robert gant	6684	
+roehrnbach	2pc7	
+rote armee fraktion	13hr	
+rote hundertschaft	4l1o	
+rote orchideen	18pr	
+rote rosen rote lippen roter wein	1udi	
+rote teufel football	24j	
+ryo	evg	
+ryo first name	evg	
+ryo given name	evg	
+ryo hazuki	6hhy	
+ryo horikawa	3hyt	
+ryo horikawa comments	3hyt	
+ryo ikebe	2gds	
+ryo ishibashi	1sjo	
+ryo kase	15ia	
+ryo kawasaki	4qmt	
+ryo miyaichi	4dro	
+ryo miyaichi footballer	4dro	
+ryo miyamori	4u7q	
+ryo name	evg	
+ryo nishikido	2ybx	
+ryo ryumon	46hb	
+saadat		2p4g:3
+saadat hasan		2p4g:3
+saadat hasan manto	2p4g	
+saadat hassan manto	2p4g	
+sablieres	228n	
+san maurizio		36w7:3,4ry1:4
+san maurizio canavese	36w7	
+san maurizio d		4ry1:4
+san maurizio d opaglio	4ry1	
+san maurizio dopaglio	4ry1	
+sanfrancisco giants	1bc	
+scolopendra	6f0h	
+segovia	a2o	4vx:2
+segovia province	4vx	
+segovia segovia	a2o	
+segovia spain	a2o	
+sehirkoy	1dxs	
+selective assassination	2bhz	
+selective growth medium	1dyw	
+selective media	1dyw	
+selective medium	1dyw	
+septis	f9q	
+seth	4fn	f4c:2,hrs:2,hum:2,1p0g:2,2jjr:2,30gr:2,36c9:2,3u3j:3,42un:2,4m44:3,4wjl:2,52ym:2,569d:2,56fe:2,5dmo:2,5pgk:2,5v5q:2,65kg:2,673b:3
+seth aaron rogen	f4c	
+seth adam meyers	30gr	
+seth adham curry	2jjr	
+seth and alex s almost live comedy show	3uy	
+seth b nicholson	4m44	
+seth barnes		4m44:3
+seth barnes nicholson	4m44	
+seth barton	5v5q	
+seth bas nicholson	4m44	
+seth benjamin gesshel green	hrs	
+seth blatter	36jj	
+seth brundle	1uk9	
+seth bullock	569d	
+seth curry	2jjr	
+seth efrika	2w	
+seth first name	4fn	
+seth gabel	5dmo	
+seth garin	6hap	
+seth gilliam	52ym	
+seth given name	4fn	
+seth godin	4wjl	
+seth gordon	1p0g	
+seth gordon filmography	1p0g	
+seth grahame		3u3j:3
+seth grahame smith	3u3j	
+seth green	hrs	
+seth green filmography	hrs	
+seth hazlitt	1al8	
+seth hoffman	42un	
+seth hoffman artist	42un	
+seth holt	36c9	
+seth j		673b:3
+seth j mckee	673b	
+seth jared greenberg	3u3j	
+seth m barton	5v5q	
+seth mac farlane	hum	
+seth macfarland	hum	
+seth macfarlane	hum	
+seth macfarlane actor	hum	
+seth macfarlane comments	hum	
+seth macfarlene	hum	
+seth maxwell barton	5v5q	
+seth mcfarland	hum	
+seth mcfarlane	hum	
+seth mcfarlene	hum	
+seth mckee	673b	
+seth meyer	30gr	
+seth meyers	30gr	
+seth morrison guitarist	u4z	
+seth moulton	5pgk	
+seth moulton massachusetts politician	5pgk	
+seth myers	30gr	
+seth nana ofori twumasi	5a2a	
+seth nana twumasi	5a2a	
+seth nicholson	4m44	
+seth ofori twumasi	5a2a	
+seth rogan	f4c	
+seth rogen	f4c	
+seth smith	65kg	
+seth ward	56fe	
+seth ward astronomer	56fe	
+seth ward bishop	56fe	
+seth ward bishop of salisbury	56fe	
+seth ward bishop of sarum	56fe	
+seth woodbury macfarlane	hum	
+seth woodbury mcfarlane	hum	
+seth wright	3u9w	
+shpetim		4sg6:2,50g5:2,6dd2:2
+shpetim babaj	6dd2	
+shpetim hasani	4sg6	
+shpetim mocka	50g5	
+sigvard	5eyz	5ukj:3
+sigvard arne		5ukj:3
+sigvard arne eklund	5ukj	
+sigvard bernadotte af wisborg	2ina	
+sigvard bernadotte greve af wisborg	2ina	
+sigvard duke of upland	2ina	
+sigvard eklund	5ukj	
+sigvard first name	5eyz	
+sigvard given name	5eyz	
+sigvard greve bernadotte af wisborg	2ina	
+sigvard hertig av uppland	2ina	
+sigvard of sweden	2ina	
+sigvard of upland	2ina	
+sigvard oscar fredrik bernadotte	2ina	
+sigvard parling	5eyy	
+spirig	5m2j	
+stdlib h	3vt5	
+subramanyam chandrasekhar	r78	
+subramanyam chandrashekhar	r78	
+sulsel	fb7	
+tettigoniidae	cak	
+the absent		njz:4,1yzx:3
+the absent minded		njz:4
+the absent minded professor	njz	
+the absent one	1yzx	
+the absent one 2014 film	1yzx	
+the claudette colbert and basil rathbone show	2vno	
+the nurse		3fu3:6
+the nurse in		3fu3:6
+the nurse in the		3fu3:6
+the nurse in the military		3fu3:6
+the nurse in the military madhouse	3fu3	
+the statement	28zv	
+the statement 2003	28zv	
+the statement film	28zv	
+the statement mixtape	34ki	
+the triplets		1wdn:4
+the triplets of		1wdn:4
+the triplets of belleville	1wdn	
+toltott kaposzta	lme	
+tourneur	ckw	
+ts3wa	6gca	
+tschelakowitz	1ro4	
+versols		3w52:3
+versols et		3w52:3
+versols et lapeyre	3w52	
+viliya	1bda	
+viliya neris	1bda	
+wubwubwub	8e1	

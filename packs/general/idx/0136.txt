@@ -1,0 +1,585 @@
+199697		bzc:3,wag:4,z9a:4,14tg:4,1g2d:4,20vj:3,2oxn:2
+199697 bundesliga	20vj	
+199697 cypriot		bzc:3,wag:4,z9a:4,14tg:4,1g2d:4
+199697 cypriot cup	bzc	
+199697 cypriot first		wag:4
+199697 cypriot first division	wag	
+199697 cypriot fourth		1g2d:4
+199697 cypriot fourth division	1g2d	
+199697 cypriot second		14tg:4
+199697 cypriot second division	14tg	
+199697 cypriot third		z9a:4
+199697 cypriot third division	z9a	
+199697 ekstraklasa	2oxn	
+199697 fuball		20vj:3
+199697 fuball bundesliga	20vj	
+199697 fussball bundesliga	20vj	
+actiniidae	655m	
+adomas	k7	
+adomas bernardas mickevicius	h3l	
+adomas mickevicius	h3l	
+agaphthora	jbj	
+airborn operation	14d5	
+airborn series	5hqx	
+albanese anthony	4ieo	
+albanese antonio	333g	
+albanese thomas	5it0	
+alier		4q46:2
+alier ashurmamadov	4q46	
+alki		31o:4,1wqs:3
+alki larnaca	31o	31o:4
+alki larnaca f		31o:4
+alki larnaca f c	31o	
+alki larnaca fc	31o	
+alki oroklini	1wqs	1wqs:3
+alki oroklini fc	1wqs	
+alpinotype orogeny	3rdu	
+andrada e sylva	3zki	
+anubhav		1kdd:2,5jbq:2
+anubhav mohanty	1kdd	
+anubhav sinha	5jbq	
+anubhav sinha films	5jbq	
+audeloncourt	308t	
+audna	4ofd	
+authieux		32s1:2
+authieux ratieville	32s1	
+baloise		69w8:5
+baloise verzekeringen		69w8:5
+baloise verzekeringen het		69w8:5
+baloise verzekeringen het poetsbureau		69w8:5
+baloise verzekeringen het poetsbureau lions	69w8	
+barham		6ghs:2
+barham ahmad salih	6ghs	
+barham mark	4n07	
+barham richard	5y7f	
+barham saleh	6ghs	
+barham salih	6ghs	
+battleground	114f	
+battleground 1949 film	114f	
+battleground 1949 movie	114f	
+battleground 625	618t	
+battleground film	114f	
+battleground wa	2y8a	
+battleground washington	2y8a	
+beak flute	fl9	
+beak of the finch		6gnq:5
+beak of the finch the	6gnq	
+bergdietikon	3crq	
+bergdietikon aargau	3crq	
+bergdietikon ag	3crq	
+bergdietikon switzerland	3crq	
+bicarb soda	3pzw	
+biding	1sn2	
+birkenes	1ugh	
+brajamohan	1r32	
+budget		6cns:2
+budget 10 cr	5nnw	
+budget cover albums	47	
+budget hotel	bb	
+budget of krakow	u0	
+budget of paradoxes	2q8o	
+budget padbanaban	6cns	
+budget padmanabhan	6cns	
+burghy roma	bea	
+calabasas	j3n	
+calabasas ca	j3n	
+calabasas california	j3n	
+chalcis	lj6	
+chalcis euboea	lj6	
+chanoine	5j2	
+chardogne	3rpx	
+chevennes	2lp7	
+chicchi	4mig	
+claud	zd6	1tq0:2,2xte:2,62fh:5,68bd:3
+claud allister	1tq0	
+claud cockburn	2xte	
+claud de lorain	1bb8	
+claud de loraine	1bb8	
+claud debussy	c1y	
+claud eustace		68bd:3
+claud eustace teal	68bd	
+claud first name	zd6	
+claud given name	zd6	
+claud hamilton	1ycq	62fh:5
+claud hamilton 1st		62fh:5
+claud hamilton 1st lord		62fh:5
+claud hamilton 1st lord paisley	62fh	
+claud hamilton lord paisley	62fh	
+claud john hamilton	1ycq	
+claud loraine	1bb8	
+claud palmer	1tq0	
+claud teal	68bd	
+clay	105d	22b:2,h5e:2,k93:2,kof:2,kxt:2,sm3:2,utp:2,10aq:2,12s8:2,1313:2,13t5:2,13tr:2,17vm:2,1ybe:2,2141:2,22kg:2,25yy:2,27cu:2,2iw6:2,2mys:2,2nnj:2,2us9:3,36r7:3,3xl7:2,49tq:3,4ee3:2,5vrt:2
+clay abolitionist	1040	
+clay aiken	2141	
+clay aikin	2141	
+clay aiking	2141	
+clay aikn	2141	
+clay akin	2141	
+clay anderson	3kkn	
+clay body	641x	
+clay cassius marcellus abolitionist	1040	
+clay center	2mys	
+clay center kansas	2mys	
+clay center ks	2mys	
+clay co al	2iw6	
+clay co alabama	2iw6	
+clay comments	105d	
+clay core dam	2qb	
+clay county	h5e,k93,kxt,sm3,utp,10aq,12s8,1313,13t5,13tr,1ybe,22kg,25yy,2iw6,2nnj,4ee3	
+clay county al	2iw6	
+clay county alabama	2iw6	
+clay county ar	25yy	
+clay county arkansas	25yy	
+clay county fl	13tr	
+clay county florida	13tr	
+clay county ia	1313	
+clay county il	10aq	
+clay county illinois	10aq	
+clay county in	h5e	
+clay county indiana	h5e	
+clay county iowa	1313	
+clay county kansas	13t5	
+clay county kentucky	sm3	
+clay county ks	13t5	
+clay county ky	sm3	
+clay county minnesota	k93	
+clay county minnesota comments	k93	
+clay county missouri	utp	
+clay county mn	k93	
+clay county mo	utp	
+clay county nc	2nnj	
+clay county ne	12s8	
+clay county nebraska	12s8	
+clay county north carolina	2nnj	
+clay county sd	22kg	
+clay county sheriff s office kentucky	sm3	
+clay county south dakota	22kg	
+clay county supervisor of elections	13tr	
+clay county tennessee	4ee3	
+clay county texas	1ybe	
+clay county tn	4ee3	
+clay county tx	1ybe	
+clay county virginia	kxt	
+clay county west virginia	kxt	
+clay county wv	kxt	
+clay court	22b	
+clay court player	22b	
+clay court specialist	22b	
+clay court specialists	22b	
+clay court tennis	22b	
+clay courts	22b	
+clay cross	3xl7	
+clay cross derbyshire	3xl7	
+clay cut fl	3ax5	
+clay cut florida	3ax5	
+clay face	5zur	
+clay felker	5vrt	
+clay fisher	5c4q	
+clay frick	4w8c	
+clay grissom	2141	
+clay henry	ya9	
+clay jensen fictional character	266g	
+clay loam	5e87	
+clay lucius dubignon	3hk0	
+clay matthews	2us9	2us9:3,36r7:3,49tq:3
+clay matthews football player	49tq	
+clay matthews iii	2us9	
+clay matthews jr	36r7	
+clay matthews sr	49tq	
+clay morris	4njm	
+clay nicholas	289x	
+clay pigeon	3uyj	3uyj:3
+clay pigeons	27cu	
+clay pot	641x	
+clay regazzoni	17vm	
+clay road baptist	gu	
+clay schuette felker	5vrt	
+clay shaw politician	64iu	
+clay soldiers	6hec	
+clay surface	22b	
+clay tennis courts	22b	
+clay walker	kof	
+clay walker musician	kof	
+clay walker singer	kof	
+codified constitution	4g9	
+columbiana		j78:2
+columbiana county	j78	
+columbiana county oh	j78	
+columbiana county ohio	j78	
+columbiana film	152z	
+cucine lube civitanova	39p3	
+davejonesia	a9y	
+degerfors	36mh	dmn:2,1ctx:2
+degerfors court district	36mh	
+degerfors football club	dmn	
+degerfors i f	dmn	
+degerfors if	dmn	
+degerfors kommun	1ctx	
+degerfors municipality	1ctx	
+denio		5n9l:2
+denio martins	5n9l	
+denio pereira martins	5n9l	
+dima	1lr3	17k2:2
+dima bilan	17k2	
+dima bilan comments	17k2	
+dima chygrynskiy	2ofe	
+dima koldun	2toh	
+dima kovalenko	5wbt	
+dima malikov	2f08	
+dima spain	1lr3	
+dovepress	1u0w	
+dzoeng maan juk	quq	
+edward sutherland	h9y	
+elizbar	1mlj	
+elsad		54nc:2
+elsad zverotic	54nc	
+ensenada	126v,4wyu	18tm:2
+ensenada argentina	4wyu	
+ensenada baja california	126v	
+ensenada baja california mexico	126v	
+ensenada baja california municipality	18tm	
+ensenada bc	126v	
+ensenada bc mexico	126v	
+ensenada bcn	126v	
+ensenada bcn mexico	126v	
+ensenada buenos aires	4wyu	
+ensenada buenos aires province	4wyu	
+ensenada mexico	126v	
+ensenada municipality	18tm	
+ensenada municipality baja california	18tm	
+ensenada mx	126v	
+episkopos	74	
+estissac	3388	
+fc skonto	8fo	
+fc skonto riga	8fo	
+frederick sullivan	4oro	
+george bingham		3r9t:6,4i6b:6
+george bingham 3rd		4i6b:6
+george bingham 3rd earl		4i6b:6
+george bingham 3rd earl of		4i6b:6
+george bingham 3rd earl of lucan	4i6b	
+george bingham 5th		3r9t:6
+george bingham 5th earl		3r9t:6
+george bingham 5th earl of		3r9t:6
+george bingham 5th earl of lucan	3r9t	
+gilgiti	5601	
+gsw	27w,3ao1	
+gullotine	57q	
+hanjyuku hero aah sekai yo hanjuku nare	4acs	
+histoire		54e5:4
+histoire de marie et julien	5agj	
+histoire et utopie	5p8b	
+histoire inventee	56u6	
+histoire politique	1pk	
+histoire s		54e5:4
+histoire s du		54e5:4
+histoire s du cinema	54e5	
+hoshihananomia	123v	
+hothouse north carolina	22s9	
+hoyle sir fred	vhg	
+hujioka	30bz	
+james irwin	28lh	
+james macdonald	38zr	3tup:5
+james macdonald 6th		3tup:5
+james macdonald 6th of		3tup:5
+james macdonald 6th of dunnyveg	3tup	
+james macdonald actor 1	38zr	
+jean bison	69i5	
+jean taittinger	5zj8	
+joaquin	46c,2yd9	hw0:2,1fbb:2,2h26:2,2vkc:5,2wl0:3,2yda:2,34le:2,3cwm:2,3dw2:3,3fie:3,3hgn:6,3n8j:2,3tw8:3,3xxf:3,3z2s:2,408a:3,42hv:2,442r:2,44by:2,48zn:3,4ecy:2,4ftc:2,4niw:2,4u81:2,4xw2:2,51i8:2,5268:3,55e5:2,58zp:3,594f:2,5b6r:2,5ckm:2,5cz5:3,5edg:2,5ftc:4,5fw1:3,5hjg:3,5tke:3,5tsw:9,5zya:3
+joaquin agostinho da silva ribeiro	27k9	
+joaquin albareda		5ftc:4
+joaquin albareda y		5ftc:4
+joaquin albareda y ramoneda	5ftc	
+joaquin almunia	2yda	
+joaquin almunia amann	2yda	
+joaquin alonso	4u81	
+joaquin alonso gonzalez	4u81	
+joaquin alvarez		408a:3
+joaquin alvarez alvarez	408a	
+joaquin amparo balaguer ricardo	594f	
+joaquin antonio balaguer ricardo	594f	
+joaquin balaguer	594f	
+joaquin boghossian	4ftc	
+joaquin botero	3cwm	
+joaquin boters	3cwm	
+joaquin calderon	442r	
+joaquin castro	3z2s	
+joaquin cordero	2h26	
+joaquin cosio	51i8	
+joaquin costa	4niw	
+joaquin del		2wl0:3
+joaquin del olmo	2wl0	
+joaquin enguix	5k4s	
+joaquin enguix paches	5k4s	
+joaquin enrique		48zn:3
+joaquin enrique valerio	48zn	
+joaquin enrique valerio olivera	48zn	
+joaquin fernandez		58zp:3
+joaquin fernandez prida	58zp	
+joaquin first name	46c	
+joaquin footballer	2yd9	
+joaquin footballer born 1956	4u81	
+joaquin footballer born 1981	2yd9	
+joaquin footballer born 1982	5268	
+joaquin footballer comments	2yd9	
+joaquin fraga	5ua9	
+joaquin francisco		3hgn:6
+joaquin francisco pacheco	3hgn	3hgn:6
+joaquin francisco pacheco y		3hgn:6
+joaquin francisco pacheco y gutierrez	3hgn	3hgn:6
+joaquin francisco pacheco y gutierrez calderon	3hgn	
+joaquin given name	46c	
+joaquin hernandez	4ecy	
+joaquin l romero marchent	2vkc	
+joaquin larrivey	44by	
+joaquin lorenzo		5hjg:3
+joaquin lorenzo villanueva	5hjg	
+joaquin lucas peiro	3n8j	
+joaquin luis		2vkc:5
+joaquin luis romero		2vkc:5
+joaquin luis romero hernandez		2vkc:5
+joaquin luis romero hernandez marchent	2vkc	
+joaquin luis romero marchent	2vkc	
+joaquin maria		5tsw:9
+joaquin maria lopez		5tsw:9
+joaquin maria lopez de		5tsw:9
+joaquin maria lopez de andujar		5tsw:9
+joaquin maria lopez de andujar y		5tsw:9
+joaquin maria lopez de andujar y canovas		5tsw:9
+joaquin maria lopez de andujar y canovas del		5tsw:9
+joaquin maria lopez de andujar y canovas del castillo	5tsw	
+joaquin maria machado de assis	sk6	
+joaquin marin	5bn2	
+joaquin miller	5edg	
+joaquin miller home	5edg	
+joaquin moso	42hv	
+joaquin murieta film	34v9	
+joaquin murillo	5ckm	
+joaquin navarro		3dw2:3,3tw8:3
+joaquin navarro perona	3tw8	
+joaquin navarro valls	3dw2	
+joaquin nin	5b6r	3xxf:3
+joaquin nin culmell	3xxf	
+joaquin oristrell	4xw2	
+joaquin pardave	1fbb	
+joaquin pastor		5zya:3
+joaquin pastor martinez	5zya	
+joaquin peiro	3n8j	
+joaquin peiro lucas	3n8j	
+joaquin phenix	hw0	
+joaquin pheonix	hw0	
+joaquin phoenix	hw0	
+joaquin phoenix hip hop star	hw0	
+joaquin phoenix i m still here	2471	
+joaquin rafael bottom	hw0	
+joaquin rafael phoenix	hw0	
+joaquin reyes	3fie,5cz5	3fie:3,5cz5:3
+joaquin reyes actor	5cz5	
+joaquin reyes cano	5cz5	
+joaquin reyes chavez	3fie	
+joaquin reyes football player	3fie	
+joaquin reyes footballer	3fie	
+joaquin rodrigo	34le	
+joaquin rodrigo vidre	34le	
+joaquin rodriguez	m9n	5268:3
+joaquin rodriguez espinar	5268	
+joaquin rodriguez footballer	5268	
+joaquin rodriguez oliver	m9n	
+joaquin romero marchent	2vkc	
+joaquin sanchez	2yd9	
+joaquin sanchez comments	2yd9	
+joaquin sanchez rodriguez	2yd9	
+joaquin sorribas	5tke	5tke:3
+joaquin sorribas arino	5tke	
+joaquin turina	55e5	
+joaquin v gonzalez	5fw1	
+joaquin v gonzalez bustos	5fw1	
+joaquin victor		5fw1:3
+joaquin victor gonzalez	5fw1	
+kaliste	29id,3ps6,3zaq	
+kaliste jihlava district	3ps6	
+kaliste pelhrimov district	29id	
+kaliste prague east district	3zaq	
+korpiklaani	3dbv	
+korpiklaani band	3dbv	
+labastide		1mup:3,1rtt:2,22ku:4,22y3:3,237f:3,25vc:2,2a6c:3,2fkj:3,2fp1:2,2iyi:3,2n3z:3,2phe:2,2pu9:2,2ryl:2,3b9n:3,3bkb:3,3cas:2,3cmi:2,3fyw:2,3noi:2,40cd:3
+labastide beauvoir	25vc	
+labastide cezeracq	3noi	
+labastide clermont	2ryl	
+labastide d		1mup:3,3bkb:3
+labastide d anjou	3bkb	
+labastide d armagnac	1mup	
+labastide de		237f:3,2a6c:3
+labastide de levis	237f	
+labastide de virac	2a6c	
+labastide du		22ku:4,2fkj:3,3b9n:3
+labastide du haut		22ku:4
+labastide du haut mont	22ku	
+labastide du temple	2fkj	
+labastide du vert	3b9n	
+labastide en		40cd:3
+labastide en val	40cd	
+labastide esparbairenque	3cas	
+labastide gabausse	2fp1	
+labastide marnhac	2phe	
+labastide monrejeau	3fyw	
+labastide paumes	2pu9	
+labastide rouairoux	3cmi	
+labastide saint		22y3:3,2n3z:3
+labastide saint pierre	22y3	
+labastide saint sernin	2n3z	
+labastide sur		2iyi:3
+labastide sur besorgues	2iyi	
+labastide villefranche	1rtt	
+lecrin	4wut	
+lecrin granada	4wut	
+lecrin spain	4wut	
+lillongwe	1bw4	
+lipari	3dxz	
+llusa	29f6	
+lobretto	2zeo	
+maria cummings	13z1	
+mesada	6h0b	
+meshugga	1t8p	
+messon	3b3p	
+momsy and dada doo	65zf	
+montgardon	32bt	
+mutivariate function	75s	
+nakor		54g8:2
+nakor bueno	54g8	
+nakor bueno gomez	54g8	
+new stettin	z5y	
+nige	29t	
+nishikanth kamat	4fub	
+nishikanth kamath	4fub	
+notaristefano	5g39	
+nouhant	1t25	
+nowaz	yqx	
+nybergsund		q2v:3
+nybergsund i l	q2v	
+nybergsund il	q2v	q2v:3
+nybergsund il trysil	q2v	
+nybergsund trysil	q2v	
+parliamnet	ayw	
+paul konchesky	4a2e	
+paul signac	4i3m	
+peiranisia	1c4m	
+perfenazine	29vb	
+persicaria	2cji	
+pikachu	6ghg	
+pikachu pichu	11md	
+pikachu press	22vp	
+pikachu s island adventure	1z4g	
+pikachu s pikaboo	1c00	
+pikachu s vacation	127q	
+plmeur	yg5	
+preseau	2jy4	
+protag	aw9	
+protien	sz	
+regny	2a8d,2ik0	
+rhinegrave of salm	10hy	
+richard wingo	1nbw	
+rottenmanner tauern	5414	
+sagay	2hfa	
+sagay city	2hfa	
+sagay city negros occidental	2hfa	
+sagay negros occidental	2hfa	
+saint onen	1fcm	1fcm:4
+saint onen la		1fcm:4
+saint onen la chapelle	1fcm	
+saint varent	29i6	
+saippuaprinssi	3x6a	
+scauri	20r1	
+scharfenstein drebach	3xir	
+schoenengrund	4jw0	
+schoenengrund appenzell a rh	4jw0	
+schoenengrund ar	4jw0	
+schoenengrund switzerland	4jw0	
+signorinette	57e9	
+slochteren	3gal	
+slochteren dorp	3gal	
+sovico	5d4j	
+srtt	3qxq	
+termen	3gp3	
+termen switzerland	3gp3	
+termen valais	3gp3	
+termen vs	3gp3	
+textbuch	2zeo	
+the centeral pardis	3w4	
+the cranial nerves	6ewn	
+the dale	1ku	
+the dale carnegie course	4f3g	
+the grantham journal	eay	
+the madwoman		1mxd:4
+the madwoman of		1mxd:4
+the madwoman of chaillot	1mxd	
+the madwoman of chaillot film	1mxd	
+the one	1s3r,6gfs	15dp:4,26p5:5,2z3c:8,4vs1:4,5ggv:5,5mv9:5,65iz:4,6c3j:6
+the one 2001 film	1s3r	
+the one and		15dp:4,2z3c:8,4vs1:4
+the one and only	15dp,4vs1	2z3c:8
+the one and only 1978 film	15dp	
+the one and only 1999 film	4vs1	
+the one and only d o double g	5jv	
+the one and only genuine		2z3c:8
+the one and only genuine original		2z3c:8
+the one and only genuine original family		2z3c:8
+the one and only genuine original family band	2z3c	
+the one and only genuine original family band song	2z3c	
+the one eyed	1pca	
+the one free man	6fym	
+the one ft drake	9u7	
+the one game	1s3r	
+the one garbage song	6eak	
+the one hundredth thing about caroline	wh0	
+the one man fastbreak	2eps	
+the one movie	1s3r	
+the one night booking company	5ya7	
+the one ring	6g9a	
+the one she		65iz:4
+the one she loved	65iz	
+the one song	6eak	
+the one that		26p5:5,5ggv:5,5mv9:5
+the one that got		26p5:5,5ggv:5,5mv9:5
+the one that got away	26p5,5ggv,5mv9	
+the one that got away 1957 film	26p5	
+the one that got away 1996 film	5mv9	
+the one that got away film	26p5	
+the one that got away katy perry song	5ggv	
+the one that got away television film	5mv9	
+the one thousand and one nights	37a7	
+the one tv channel	3ymp	
+the one white zombie song	1x22	
+the one who knocks	6fmq	
+the one with		6c3j:6
+the one with all the trivia	bs9	
+the one with ross		6c3j:6
+the one with ross s		6c3j:6
+the one with ross s wedding	6c3j	
+the one with ross s wedding part one	6c3j	
+the one with ross s wedding part two	6c3j	
+the one with ross wedding	6c3j	
+the one with the whales	vtr	
+the one you call	131a	
+the snakeman	3ncf	
+thomas mckean	3tjb	
+thomas mckean comments	3tjb	
+torvus bog	3716	
+trapezuntine empire	ubu	
+uidemar	5icg	
+uidemar pessoa de oliveira	5icg	
+usbekistan	qj	
+vagit		504j:2
+vagit alekperov	504j	
+veney	3kkp	
+vennela		252v:2
+vennela kishor	252v	
+vennela kishore	252v	
+vetona	1zq	
+wc2014	1ft	
+wilkimierz	1my6	
+wolfhart		5b8v:2
+wolfhart pannenberg	5b8v	
+wolfhart pannenburg	5b8v	

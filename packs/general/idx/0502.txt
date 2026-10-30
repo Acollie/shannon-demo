@@ -1,0 +1,1114 @@
+addua	54yl	
+addua river	54yl	
+adeje	1kw4	
+adeje spain	1kw4	
+aethoform	56gc	
+aim 9	2bnz	2bnz:3
+aim 9 sidewinder	2bnz	
+aim 9 sidewinder missile	2bnz	
+aim 9b sidewinder	2bnz	
+aim 9c sidewinder	2bnz	
+aim 9m sidewinder	2bnz	
+aim 9x	2bnz	
+aim 9x sidewinder	2bnz	
+aim for the horn	4dzc	
+aim for the top 2	5l6o	
+aim sidewinder	2bnz	
+althochdeutsch	6c3x	
+amagne	2apy	
+anctoville	1jni	35q6:3
+anctoville sur		35q6:3
+anctoville sur boscq	35q6	
+anomiopus	5fsv	
+artegodan	43hn	
+aspet	1ow3	
+aspet haute garonne	1ow3	
+asturia	3p0	
+atletico		2bn:2,4sy:3,4yv:2,5rn:3,67o:4,7yy:2,8me:2,8pl:2,9et:3,9pm:2,9ra:4,acf:2,iz0:3,lqd:3,o8p:3,t7x:4,tmi:3,tvt:4,136w:2,1dkf:2,1f4j:5,1iv2:3,1wvl:4,1zo5:3,2iec:3,2rje:2,2veg:3,34jl:2,37d4:3,3vfm:2,5e4r:2,629i:2,6adh:4
+atletico albacete	13rs	
+atletico all boys	89j	
+atletico arezzo	57k	
+atletico aviacion	2bn	
+atletico balboa	s5c	
+atletico balboa 1950 2010	s5c	
+atletico balboa 19502010	s5c	
+atletico baleares	dml	
+atletico bettolaponte pro piacenza	6egb	
+atletico bilbao	3tx	
+atletico bp pro piacenza	6egb	
+atletico bucaramanga	8me	
+atletico c p	67o	
+atletico catania	4sqz	
+atletico celaya	136w	
+atletico chiriqui	5e4r	
+atletico choloma	2bdb	
+atletico cidade azul	4sh2	
+atletico ciudad	1g1k	
+atletico club mineros de guayana	hcd	
+atletico club san martin	1y3y	
+atletico club san martin de mendoza	1y3y	
+atletico clube		5rn:3,67o:4,2veg:3
+atletico clube de		67o:4
+atletico clube de portugal	67o	
+atletico clube de vila mea	40js	
+atletico clube goianense	5rn	
+atletico clube goianiense	5rn	
+atletico clube paranavai	2veg	
+atletico clube valdevez	2wu5	
+atletico colegiales	5bt7	
+atletico coruna montaneros cf	2y2f	
+atletico cp	67o	
+atletico de		9et:3,t7x:4,tvt:4,2iec:3
+atletico de bilbao	3tx	
+atletico de cali	2iec	
+atletico de ibirama	18dk	
+atletico de kolkata	obp	
+atletico de madrid	2bn	tvt:4
+atletico de madrid b	4sy	
+atletico de madrid c	iz0	
+atletico de madrid femenino	tvt	
+atletico de madrid feminas	tvt	
+atletico de madrid women	tvt	
+atletico de pinto	6a4r	
+atletico de pinto b	6a4r	
+atletico de rafaela	9et	
+atletico de san		t7x:4
+atletico de san luis	t7x	
+atletico espanol	629i	
+atletico espanol f c	629i	
+atletico f c	2iec	
+atletico fenix	2th1	
+atletico g0	5rn	
+atletico go	5rn	
+atletico goianense	5rn	
+atletico goianiense	5rn	
+atletico huila	7yy	
+atletico ibirama	18dk	
+atletico irapuato	8pl	
+atletico junior	539	
+atletico junior barranquilla	539	
+atletico kolkata	obp	
+atletico levante		o8p:3
+atletico levante ud	o8p	
+atletico lucentino industrial	jgf	
+atletico madrid	2bn	4sy:3,iz0:3
+atletico madrid b	4sy	
+atletico madrid c	iz0	
+atletico madrid femenino	tvt	
+atletico madrid feminas	tvt	
+atletico madrid feminas b	tvt	
+atletico madrid women	tvt	
+atletico madrileno	4sy	
+atletico malagueno	acf	
+atletico marbella	1kfl	
+atletico marte	cjn	
+atletico mexiquense	1dkf	
+atletico mg	2e5	
+atletico mineiro	2e5	
+atletico mineiro football club	2e5	
+atletico minero	2rje	
+atletico monte		tmi:3
+atletico monte azul	tmi	
+atletico morelia	55i	
+atletico nacional	4yv	
+atletico nacional medellin	4yv	
+atletico olanchano	34jl	
+atletico onubense	3279	
+atletico osasuna	4gz	
+atletico paranaense	2do	
+atletico petroleo de luanda	1wvl	
+atletico petroleos		lqd:3,1wvl:4
+atletico petroleos de		1wvl:4
+atletico petroleos de luanda	lqd,1wvl	
+atletico petroleos de luanda basketball	1wvl	
+atletico petroleos de luanda basketball roster	1wvl	
+atletico petroleos luanda	lqd	
+atletico petroleos luanda basketball	1wvl	
+atletico pinto	6a4r	
+atletico potenza	flt	
+atletico pr	2do	
+atletico quindio	8n1	
+atletico rafaela	9et	
+atletico reguengos	37d4	
+atletico rio		6adh:4
+atletico rio negro		6adh:4
+atletico rio negro clube	6adh	
+atletico roma		9ra:4
+atletico roma f		9ra:4
+atletico roma f c	9ra	
+atletico roma f c squad	9ra	
+atletico s		37d4:3
+atletico s c	37d4	
+atletico san luis	t7x	
+atletico san luis b	6f6	
+atletico sanluqueno		1iv2:3
+atletico sanluqueno cf	1iv2	
+atletico sarmiento	cxo	
+atletico sc reguengos	37d4	
+atletico sorocaba	apy	
+atletico sport		1zo5:3
+atletico sport aviacao	1zo5	
+atletico sport aviacao luanda	1zo5	
+atletico sport clube	37d4	
+atletico tetuan	l82	
+atletico tubarao	4sh2	
+atletico tucuman	9pm	
+atletico universidad	3vfm	
+atletico venezuela	1f4j	1f4j:5
+atletico venezuela club		1f4j:5
+atletico venezuela club de		1f4j:5
+atletico venezuela club de futbol	1f4j	
+attichitcuk	6gvi	
+avec la peau des autres	3wn9	
+avec le sourire	3vhf	
+bassas da india communications	47xg	
+bassas da india military	47xg	
+bassas de chagas	58ge	
+basti granada	x7t	
+basti schweinsteiger	15n3	
+beriot	4lka	
+betbeton	rv3	
+bouncing		68wt:2
+bouncing babies	68wt	
+bouncing souls	2tcx	2tcx:3
+britanny	pbf	
+britanny murphey	lj5	
+britanny murphy	lj5	
+caltrop family	5irt	
+camporotondo		4xza:3,5gwb:2
+camporotondo di		4xza:3
+camporotondo di fiastrone	4xza	
+camporotondo etneo	5gwb	
+cbb uk	2xcm	
+claudinho football born 1980	4x0t	
+claudinho footballer born 1980	4x0t	
+comazzo	50xx	
+communidad de madrid	43r	
+customization portal	gtb	
+deorwine	3hhs	
+discoloxia	xyj	
+dsme	o9l	
+edward montague compton mackenzie	29ml	
+elric prince	27my	
+elxianos	cnn	
+embezzling	2mxc	
+emrah	5ltd	3k9i:2
+emrah erdogan ipek	5ltd	
+emrah eren	3k9i	
+emrah ipek	5ltd	
+emrah singer	5ltd	
+ernestia moth	9kr	
+exorcist	mil	mil:2,uyo:4,2hik:2,2m2f:3
+exorcist 2	uyo	
+exorcist 3	1i47	
+exorcist 4 the beginning	2m2f	
+exorcist film	mil	
+exorcist ii	uyo	uyo:4
+exorcist ii the		uyo:4
+exorcist ii the heretic	uyo	
+exorcist iii	1i47	1i47:3
+exorcist iii legion	1i47	
+exorcist italian style	49qo	49qo:4
+exorcist iv the beginning	2m2f	
+exorcist the		2m2f:3
+exorcist the beginning	2m2f	
+exorcist the original prequel	5mf3	
+festuca	jis	
+finisce sempre cosi	2vg0	
+fk 03 pirmasens	wpr	
+fk 100	1i7c	
+fk 482	42y1	
+fk 749	35ji	
+fk agrounija	czr	
+fk aik backa topola	1x2e	
+fk akmola	dlk	
+fk andijan	mka	
+fk andijon	mka	
+fk apolonia	a2b	
+fk arsenal ceska lipa	5c5h	
+fk as		6rg:3
+fk as pardubice	59ep	
+fk as trencin	6rg	
+fk asgabat	21i2	
+fk atlantas	eob	
+fk atlantas klaipeda	eob	
+fk atyrau	8hc	
+fk auda	5gum	
+fk auda alberts	5gum	
+fk auda alberts riga	5gum	
+fk auda riga	5gum	
+fk austria	2o8	2o8:3
+fk austria vien	2o8	
+fk austria vienna	2o8	
+fk austria wien	2o8	
+fk austria wien ii	2o8	
+fk bacinci	2a01	
+fk backa		3lkw:3
+fk backa 1901	3lkw	
+fk backa backa palanka	x8d	
+fk backa subotica	3lkw	
+fk backa topola	1x2e	
+fk baku	7pn	
+fk balkan		45e8:3
+fk balkan bukovica	45e8	
+fk balkan mirijevo	45e8	
+fk baltika	bah	
+fk baltika liepaja	bah	
+fk banat	82z	82z:3
+fk banat zrenjanin	82z	
+fk bane	2vui	
+fk bane raska	2vui	
+fk banga		1a77:3
+fk banga gargzdai	1a77	
+fk banik		cmd:3,nn0:3
+fk banik most	cmd	
+fk banik most 1909	cmd	
+fk banik prievidza	z0x	
+fk banik ruzina	1h8i	
+fk banik shd most	cmd	
+fk banik sokolov	nn0	
+fk bashkimi	3aeq	
+fk bashkimi 1947 2008	3aeq	
+fk bashkimi 19472008	3aeq	
+fk bask	egd	
+fk bask beograd	egd	
+fk baskimi	3aeq	
+fk bate	6tl	
+fk bate borisov	6tl	
+fk baumit jablonec	6wb	
+fk becej	1jf5	
+fk belasica	165k	
+fk belasica strumica	165k	
+fk benesov	4aj1	
+fk beograd	zxa	
+fk beogradski sportski klub	2f9	
+fk berane	3bbn	
+fk bezanija	84n	
+fk big		2a01:4
+fk big bull		2a01:4
+fk big bull bacinci	2a01	
+fk big bull radnicki	2a01	
+fk blazma	1svv	
+fk blazma rezekne	1svv	
+fk bod		8y2:3
+fk bod glimt	8y2	
+fk bodo glimt	8y2	
+fk bodva		1ckb:5
+fk bodva moldava		1ckb:5
+fk bodva moldava nad		1ckb:5
+fk bodva moldava nad bodvou	1ckb	
+fk bodva moldava nad bodvou b	4bj1	
+fk bohemians		gvn:3
+fk bohemians mlada boleslav	6wj	
+fk bohemians prague	gvn	
+fk bohemians prague strizkov	gvn	
+fk bohemians praha strizkov	gvn	
+fk bokelj	206k	
+fk bokelj kotor	206k	
+fk bor	2l47	
+fk borac		4ms:3,70u:4
+fk borac banja		70u:4
+fk borac banja luka	70u	
+fk borac cacak	4ms	
+fk bosna	63zo	
+fk bosna visoko	63zo	
+fk bratstvo gracanica	6e1r	
+fk bregalnica	tj6	
+fk bregalnica kraun	tj6	
+fk bregalnica stip	tj6	
+fk bsk		8ww:3
+fk bsk belgrade	2f9	
+fk bsk borca	8ww	
+fk buducnost		6fm:3,1ap7:4,33dy:3,3i36:3
+fk buducnost banatski		1ap7:4
+fk buducnost banatski dvor	1ap7	
+fk buducnost banovici	3i36	
+fk buducnost krusik 2014	33dy	
+fk buducnost pec	6a4h	
+fk buducnost podgorica	6fm	
+fk buducnost titograd	6fm	
+fk buducnost valjevo	33dy	
+fk bug bull	2a01	
+fk bulbuderac	1aoz	
+fk buxoro	pvm	
+fk car		5r9w:3
+fk car konstantin	5r9w	
+fk caslav	gx1	
+fk celik	vq8	vq8:3
+fk celik niksic	vq8	
+fk cement		243d:3
+fk cement beocin	243d	
+fk cementarnica	y9c	y9c:3
+fk cementarnica 55	y9c	
+fk cementarnica 55 skopje	y9c	
+fk ceska lipa	5c5h	
+fk chmel		d5t:3
+fk chmel blsany	d5t	
+fk chomutov	2b1d	
+fk comae berenices variable	1g77	
+fk comae star	1g77	
+fk crvena		234:3
+fk crvena zvezda	234	
+fk crvena zvezda beograd	234	
+fk crvenka	65p9	
+fk csk		go3:3
+fk csk celarevo	go3	
+fk csk pivara	go3	
+fk cukaricki	5fd	
+fk cukaricki stankom	5fd	
+fk dac 1904 dunajska streda	52s	
+fk dac 1904 dunajska streda b	52s	
+fk dac 1904 dunajska streda ii	52s	
+fk dag	s44	
+fk dainava		5dqh:3
+fk dainava alytus	5dqh	
+fk daryda minskiy rayon	j9d	
+fk daugava	ann	
+fk daugava 2003	ann	
+fk daugava 90	19yw	
+fk daugava daugavpils	dt4	
+fk daugava riga	ann	
+fk daugava riga 2	ann	
+fk decic	1il9	
+fk decic tuzi	1il9	
+fk deciq	1il9	
+fk dinamo		itu:3,zij:3,14b3:3
+fk dinamo pancevo	14b3	
+fk dinamo samarqand	itu	
+fk dinamo tirana	5mc	
+fk dinamo urganch	6de0	
+fk dinamo vranje	zij	
+fk ditton daugavpils	dt4	
+fk dolina	57e7	57e7:3
+fk dolina padina	57e7	
+fk donji		dk3:3
+fk donji srem	dk3	
+fk donji srem pecinci	dk3	
+fk dorcol	437x	
+fk drina		15l6:3
+fk drina zvornik	15l6	
+fk drnovice	dfh	
+fk dubnica	bcz	
+fk dubocica	2fih	
+fk dukla		5jq:4,a42:3
+fk dukla banska		5jq:4
+fk dukla banska bystrica	5jq	
+fk dukla prague	a42	
+fk dukla praha	a42	
+fk dynamo kyiv	2ht	
+fk dynamo tbilisi	43c	
+fk egnatia	5mpy	
+fk eik		4b53:3
+fk eik tnsberg	4b53	
+fk ekranas	gsz	
+fk ekranas panevezys	gsz	
+fk fotbal trinec	hws	
+fk frigg oslo	25tz	
+fk fyllingsdalen	68h0	
+fk gabala	94j	
+fk gaenclaerbirliyi sumqayit	3etv	
+fk galenika	5e7	
+fk galenika zemun	5e7	
+fk ganca	fuj	
+fk ganclarbirliyi		3etv:3
+fk ganclarbirliyi sumqayit	3etv	
+fk gandja	fuj	
+fk ganja	fuj	
+fk gence	fuj	
+fk genclerbirliyi sumgayit	3etv	
+fk ggs arma usti nad labem	gyi	
+fk gnc	fuj	
+fk graficar beograd	2046	
+fk grbalj	khj	
+fk gsp		437x:4
+fk gsp polet		437x:4
+fk gsp polet dorcol	437x	
+fk habit pharm javor ivanjica	81g	
+fk hajduk		778:3,gj0:3
+fk hajduk 1925 2013	778	
+fk hajduk beograd	gj0	
+fk hajduk kula	778	
+fk hajduk lemic beograd	gj0	
+fk hajduk rodic kula	778	
+fk hajduk rodic m b kula	778	
+fk haugesund	8tr	
+fk hejcin olomouc	6ae	
+fk holice 1932	12ot	
+fk homel	5c1	
+fk horgos	67sd	
+fk horizont turnovo	2r7e	
+fk hvezda		pf6:3
+fk hvezda cheb	pf6	
+fk ilinden	4q2b	
+fk indija	czr	
+fk indjija	czr	
+fk inija	czr	
+fk inkaras	3beg	
+fk inkaras kaunas	3beg	
+fk inter	88t	88t:3
+fk inter bakou	7q7	
+fk inter baku	7q7	
+fk inter bratislava	88t	
+fk iskra	1fdc	
+fk iskra borcice	1ov3	
+fk ivangrad	3bbn	
+fk jablonec	6wb	
+fk jablonec nad nisou	6wb	
+fk jablonec nad nisou 97	6wb	
+fk jagodina	6yo	
+fk javor	81g	81g:3
+fk javor habitfarm ivanjica	81g	
+fk javor ivanjica	81g	
+fk jedinstvo		pt5:3,vmf:3,1lqz:4,4we6:3
+fk jedinstvo bijelo		1lqz:4
+fk jedinstvo bijelo polje	1lqz	
+fk jedinstvo paracin	4we6	
+fk jedinstvo putevi	vmf	
+fk jedinstvo ub	pt5	
+fk jedinstvo uzice	vmf	
+fk jelgava	s44	
+fk jelgava 2	s44	
+fk jerv	45ed	
+fk jugoslavija	1hzz	
+fk jugoslavija beograd	1hzz	
+fk jurmala	ann	
+fk jurmala vv	ann	
+fk karabakh	9ru	
+fk kareda	1cjy	
+fk kareda kaunas	1cjy	
+fk kareda siauliai	1cjy	
+fk karvan	nek	
+fk karvan evlakh	nek	
+fk karvan yevlah	nek	
+fk karvan yevlakh	nek	
+fk karvan yevlax	nek	
+fk kauno		68oh:3
+fk kauno zalgiris	68oh	
+fk khazar		5oba:3
+fk khazar lankaran	7j5	
+fk khazar lenkoran	7j5	
+fk khazar sumgayit	5oba	
+fk khimki	2zy	
+fk khujand	1r6b	
+fk kikinda	271u	
+fk kolin	63yp	
+fk kolubara	bla	
+fk kolubara lazarevac	bla	
+fk kom	11uc	
+fk kozara	15di	15di:3
+fk kozara gradiska	15di	
+fk krasnodar	4sx	
+fk kruoja	130g	
+fk kruoja pakruojis	130g	
+fk kubanochka	4h8y	
+fk kukesi	arx	
+fk lada togliatti women	38j2	
+fk lafc		y8r:3
+fk lafc lucenec	y8r	
+fk laktasi	153a	
+fk lazarevac	bla	
+fk leotar	g05	
+fk leotar trebinje	g05	
+fk liepaja	2mv3	
+fk liepajas		bah:3
+fk liepajas metalurgs	bah	
+fk liepajas metalurgs 2	bah	
+fk lokomotiva kosice	s14	
+fk lovcen	zb6	
+fk lovcen cetinje	zb6	
+fk loznica	1fr0	
+fk lviv	k84	
+fk lyn	64g	
+fk lyn 1896 2010	64g	
+fk macva	dpr	dpr:3
+fk macva sabac	dpr	
+fk makedonija	j3v	j3v:4
+fk makedonija gjorce		j3v:4
+fk makedonija gjorce petrov	j3v	
+fk makedonija gorce petrov	j3v	
+fk makedonija gp	j3v	
+fk mandalskameratene	2sm4	
+fk manglerud star oslo	24w5	
+fk marila pribram	609	
+fk mas taborsko	11p0	
+fk masall	5tpp	
+fk masalli	5tpp	
+fk mash		pwa:4
+fk mash al		pwa:4
+fk mash al mubarek	pwa	
+fk mashal mubarek	pwa	
+fk matador puchov	oe5	
+fk merw	5i9p	
+fk mesto prievidza	z0x	
+fk metalac	81b	81b:4
+fk metalac gornji		81b:4
+fk metalac gornji milanovac	81b	
+fk metalac smederevo	6j9	
+fk metalurg	ncr	ncr:3
+fk metalurg skopje	ncr	
+fk milano	1esd	1esd:3
+fk milano komanovo	1esd	
+fk milano kumanovo	1esd	
+fk milicionar	151i	
+fk milicionar beograd	151i	
+fk mjlner	4d9i	
+fk mjolner	4d9i	
+fk mkt		2j0n:3
+fk mkt araz	2j0n	
+fk mkt araz imisli	2j0n	
+fk mlada		6wj:3
+fk mlada boleslav	6wj	
+fk mladenovac	ic6	
+fk mladi		j0v:3
+fk mladi radnik	j0v	
+fk mladi radnik 1926	j0v	
+fk mladi radnik pozarevac	j0v	
+fk mladost		83m:3,evy:3,3jzd:4,5yz3:4
+fk mladost apatin	evy	
+fk mladost backi		5yz3:4
+fk mladost backi jarak	5yz3	
+fk mladost lucani	83m	
+fk mladost podgorica	f74	
+fk mladost velika		3jzd:4
+fk mladost velika obarska	3jzd	
+fk modrica	z2a	
+fk mogren	cl3	
+fk mogren budva	cl3	
+fk mogul kolin	63yp	
+fk molde	5wu	
+fk moravac		4fyf:3
+fk moravac mrstane	4fyf	
+fk moravac orion mrstane	4fyf	
+fk mornar	rx1	
+fk moscow	5zy	
+fk moskva	5zy	
+fk moss	ayu	
+fk mughan	1kec	
+fk naftovik ukrnafta ohtirka	cf1	
+fk napredak		5aa:3
+fk napredak krusevac	5aa	
+fk napredok	2dvl	
+fk napredok kicevo	2dvl	
+fk navruz andijan	mka	
+fk nbc salyan	1kec	
+fk nbc salyany	1kec	
+fk neftchi	k6q	
+fk neftchi farg ona	k6q	
+fk neftchi fargona	k6q	
+fk neftchy farg ona	k6q	
+fk nevezis	515z	
+fk nevezis kedainiai	515z	
+fk niederkorn	496x	
+fk novi		63r:3
+fk novi pazar	63r	
+fk novi sad	bna	
+fk obilic	7d7	
+fk obilic belgrade	7d7	
+fk obilic beograd	7d7	
+fk ohrid	5h4f	
+fk olimpic	hti	
+fk olimpic sarajevo	hti	
+fk olimpik	hti	
+fk olimpik baku	axl	
+fk olimpik sarajevo	hti	
+fk olympik baku	axl	
+fk orn horten	4pbd	
+fk oslo st	24w5	
+fk ozeta dukla trencin	6rg	
+fk pakhtakor 79 tashkent	4jj5	
+fk palic	ul1	
+fk palilulac	1eo7	1eo7:3
+fk palilulac beograd	1eo7	
+fk palilulac krnjaca	1eo7	
+fk palilulac nis	1eo7	
+fk panerys	50uz	
+fk panerys vilnius	50uz	
+fk pardaugava	19yw,2gst	
+fk pardaugava riga	2gst	
+fk pardubice	4qog	
+fk partizan	255	
+fk partizan belgrad	255	
+fk partizan belgrade	255	
+fk partizan beograd	255	
+fk partizan kosovska mitrovica	4aa4	
+fk partizani	4kd	
+fk pelister	erg	
+fk petrovac	187m	
+fk pinsk 900	13dr	
+fk pirmasens	wpr	
+fk pirmasens ii	wpr	
+fk pobeda	g3a	
+fk polet		2nfk:3
+fk polet ljubic	2nfk	
+fk pribram	609	
+fk pristina	fna	
+fk proleter		gm5:4,h0f:3
+fk proleter novi		gm5:4
+fk proleter novi sad	gm5	
+fk proleter zrenjanin	h0f	
+fk puchov	oe5	
+fk qabala	94j	
+fk qaebaelae	94j	
+fk qarabag	9ru	
+fk qarabag agdam	9ru	
+fk qbl	94j	
+fk quruvchi tashkent	bzm	
+fk rabonicki kometal	7zb	
+fk rabotnichki	7zb	
+fk rabotnicki	7zb	
+fk rabotnicki kometal	7zb	
+fk rad	3ld	
+fk rad belgrade	3ld	
+fk radnicki		54r:3,61e:3,cdu:3,h9h:3,meu:3,17m4:3,1ky7:4,5wh2:3,5woq:3
+fk radnicki 1923	61e	
+fk radnicki 1923 kragujevac	61e	
+fk radnicki 1926	j0v	
+fk radnicki 1926 pozarevac	j0v	
+fk radnicki beograd	cdu	
+fk radnicki ivangrad	3bbn	
+fk radnicki jugopetrol	cdu	
+fk radnicki klupci	5wh2	
+fk radnicki kragujevac	61e	
+fk radnicki nis	54r	
+fk radnicki nova		1ky7:4
+fk radnicki nova pazova	1ky7	
+fk radnicki novi beograd	cdu	
+fk radnicki obrenovac	h9h	
+fk radnicki pirot	meu	
+fk radnicki sid	2a01	
+fk radnicki sombor	17m4	
+fk radnicki stobex	5wh2	
+fk radnicki svilajnac	5woq	
+fk radnik	pyx	h0m:3,pyx:3
+fk radnik bijeljina	pyx	
+fk radnik surdulica	h0m	
+fk remont		3ayv:3
+fk remont cacak	3ayv	
+fk renova	q2n	
+fk rezekne	1svv	
+fk rfs	19yw	
+fk riga	lo0	
+fk riga 2	lo0	
+fk rigas futbola skola	19yw	
+fk riteriai	1w4k	
+fk rn		4pbd:3
+fk rn horten	4pbd	
+fk rossiyanka	lbh	
+fk rudar		hkn:3,118b:3,4era:3,6799:3
+fk rudar kosovska mitrovica	4aa4	
+fk rudar kostolac	6799	
+fk rudar ljubija	118b	
+fk rudar pljevlja	hkn	
+fk rudar prijedor	118b	
+fk rudar ugljevik	4era	
+fk sakalas siauliai	uef	
+fk samarqand dinamo	itu	
+fk sarajevo	470	
+fk sarajevo ladies	3cqw	
+fk sartid	6j9	
+fk semendria 1924 smederevo	6j9	
+fk semendrija 1924	6j9	
+fk semendrija 1924 smederevo	6j9	
+fk senica	7n0	
+fk senta	4in2	
+fk sevojno	v47	
+fk sevojno uzice	v47	
+fk shahdag samur qusar	5thb	
+fk shamkir	38ej	
+fk shkendija	e0u	
+fk shkendija 79	e0u	
+fk sho rtanneftgaz g uzor	z1q	
+fk siad most	cmd	
+fk siauliai	uef	
+fk sibiryak bratsk	adz	
+fk sileks	owb	
+fk sileks kratovo	owb	
+fk silute	1bml	
+fk simurq zaqatala	d89	
+fk sindelic beograd	hee	
+fk sindelic nis	12x6	
+fk sindjelic beograd	hee	
+fk sindjelic nis	12x6	
+fk sinelic		hee:3
+fk sinelic beograd	hee	
+fk sinelic nis	12x6	
+fk skendija	e0u	
+fk skendija 79	e0u	
+fk skopje	661n	
+fk skp		3bgz:5
+fk skp inter		3bgz:5
+fk skp inter dubravka		3bgz:5
+fk skp inter dubravka bratislava	3bgz	
+fk skrapari	6e07	
+fk slavia mlada boleslav	6wj	
+fk slavija	jjr	jjr:4
+fk slavija istocno		jjr:4
+fk slavija istocno sarajevo	jjr	
+fk slavija lukavica	jjr	
+fk slavija sarajevo	jjr	
+fk slavija srpsko sarajevo	jjr	
+fk slavoj		68pt:3
+fk slavoj trebisov	68pt	
+fk sloboda		7tt:3,9gq:3
+fk sloboda point sevojno	7tt	
+fk sloboda point sevojno uzice	7tt	
+fk sloboda sevojno	7tt	
+fk sloboda tuzla	9gq	
+fk sloboda uzice	7tt	
+fk sloga		czh:3,wa0:5,15bt:3,4dvj:3,6cdm:3
+fk sloga doboj	4dvj	
+fk sloga jugomagnat	15bt	
+fk sloga kraljevo	czh	
+fk sloga novi sad	2s3	
+fk sloga petrovac		wa0:5
+fk sloga petrovac na		wa0:5
+fk sloga petrovac na mlavi	wa0	
+fk sloga temerin	6cdm	
+fk slovan		tk6:4,59ep:3
+fk slovan duslo		tk6:4
+fk slovan duslo sala	tk6	
+fk slovan pardubice	59ep	
+fk smederevo		6j9:3
+fk smederevo 1924	6j9	
+fk sparta sarpsborg	d4s	
+fk spartak	5gs	5gs:3
+fk spartak mas sezimovo usti	11p0	
+fk spartak sezimovo usti	11p0	
+fk spartak subotica	5gs	
+fk spartak zlatibor voda	5gs	
+fk spartak zv	5gs	
+fk spartaks	tbg	tbg:3
+fk spartaks jurmala	tbg	
+fk spyris kaunas	68oh	
+fk srem	dn5	1luj:3
+fk srem beograd	1luj	
+fk srem jakovo	1luj	
+fk standard		zsv:3
+fk standard sumgayit	zsv	
+fk steel trans licartovce	683	
+fk suduva	frn	
+fk suduva marijampole	frn	
+fk sumadija		4olh:3
+fk sumadija 1903	4olh	
+fk sumadija kragujevac	4olh	
+fk sumadija radnicki	61e	
+fk sumadija radnicki 1923	61e	
+fk sutjeska	8q2	8q2:3,6dk4:3
+fk sutjeska foca	6dk4	
+fk sutjeska niksic	8q2	
+fk sutjeska srbinje	6dk4	
+fk svarc benesov	4aj1	
+fk svit zlin	8or	
+fk taraz	b9t	
+fk tatran nao liptovsky mikulas	1ziy	
+fk tauras		10q3:3
+fk tauras taurage	10q3	
+fk teleoptik	7h3	
+fk teplice	766	
+fk terek	3p7	
+fk teteks	ld7	
+fk teteks tetovo	ld7	
+fk tikves	5kdm	
+fk tikves kavadarci	5kdm	
+fk timok	ruk	ruk:3
+fk timok 1919	ruk	
+fk timok zajecar	ruk	
+fk tirana	49n	
+fk tnsberg	1iu3	
+fk tomori	mgg	
+fk tomori berat	mgg	
+fk tonsberg	1iu3	
+fk topolany	cv5	
+fk trakai	1w4k	
+fk tranzits	4ly2	
+fk tranzits ventspils	4ly2	
+fk trepca	4aa4,6b6v	
+fk trepca k mitrovica	4aa4	
+fk trepca kosovska mitrovica	4aa4	
+fk trinec	hws	
+fk tsc	1x2e	
+fk turnovo	2r7e	
+fk union cheb	pf6	
+fk union cheb 2001	pf6	
+fk usti		gyi:4
+fk usti nad		gyi:4
+fk usti nad labem	gyi	
+fk vairogs	1svv	
+fk valcovny plechu frydek mistek	1a8j	
+fk vardar	5iq	
+fk vardar skopje	5iq	
+fk varnsdorf	199b	
+fk velez	ahy	ahy:3
+fk velez mostar	ahy	
+fk venta	5ure	
+fk venta kuldiga	5ure	
+fk venta ventspils	5ure	
+fk ventspils	7t8	
+fk ventspils 2	7t8	
+fk veternik	1s32	
+fk vetra	l0d	
+fk vetra vilnius	l0d	
+fk vidar	53pi	
+fk viktoria		5wa:3
+fk viktoria zizkov	5wa	
+fk vilash masalli	5tpp	
+fk viles masalli	5tpp	
+fk vilnius	100g	
+fk vils masall	5tpp	
+fk viola	s44	
+fk vitebsk	6k3	
+fk vlasina	4nfq	
+fk vlasina vlasotince	4nfq	
+fk vllaznia	5k3	
+fk vojvodina	2s3	
+fk vojvodina novi sad	2s3	
+fk vozdovac	5o5	
+fk vp frydek mistek	1a8j	
+fk yenisey krasnoyarsk	5fh	
+fk yerevan	4r17	
+fk zalgiris	7dc	
+fk zalgiris kaunas	68oh	
+fk zalgiris vilnius	7dc	
+fk zeleziarne podbrezova	cp1	
+fk zeleznicar		1mf5:3,4kfe:3,5ogw:3
+fk zeleznicar beograd	1mf5	
+fk zeleznicar lajkovac	4kfe	
+fk zeleznicar smederevo	5ogw	
+fk zeleznik	d7h	
+fk zeleznik inija	czr	
+fk zelja	5ogw	
+fk zeljeznicar	5rt	5rt:3
+fk zeljeznicar sarajevo	5rt	
+fk zemun	5e7	
+fk zeta	hl3	
+fk zlatibor		67sd:3
+fk zlatibor voda	67sd	
+fk zlatibor voda horgos	67sd	
+fk zlin	8or	
+fk zorky krasnogorsk women	2rcq	
+fk zts dubnica	bcz	
+fk zvezdara	1aoz	
+fk zvezdara beograd	1aoz	
+fk zvijezda gradacac	wtb	
+frederikssund	1xte	zgs:2
+frederikssund kommune	zgs	
+frederikssund municipality	zgs	
+froschweiler	2gne	
+fukushi sota	4p9l	
+george hilton	nlj	
+george hilton actor	nlj	
+gmina imielno	19ex	
+gmina skierbieszow	x2d	
+gnessin		rho:5
+gnessin institute	rho	
+gnessin music institute	rho	
+gnessin music school	rho	
+gnessin musical college	rho	
+gnessin russian		rho:5
+gnessin russian academy		rho:5
+gnessin russian academy of		rho:5
+gnessin russian academy of music	rho	
+gnessin school of music	rho	
+gnessin special school of music	rho	
+gnessin specialized music school	rho	
+gnessin state musical and pedagogical institute	rho	
+gnessin state musical college	rho	
+golda		19ty:2
+golda mabovich	19ty	
+golda mabovitch	19ty	
+golda mabovitz	19ty	
+golda meir	19ty	
+golda meyerson	19ty	
+golda myerson meir	19ty	
+gonten	4ur2	
+gonten ai	4ur2	
+gonten appenzell i rh	4ur2	
+gonten switzerland	4ur2	
+gumma japan	63c	
+gumma ken	63c	
+gumma pref	63c	
+gumma prefecture	63c	
+gumushane	jpx	
+hebei	8jl	qja:3
+hebei china fortune	qja	
+hebei china fortune f c	qja	
+hebei f		qja:3
+hebei f c	qja	
+hebei full	8jl	
+hebei province	8jl	
+hebei zhongji	qja	
+hebei zhongji f c	qja	
+henry bromell	2e4t	
+hochzeitsnacht		5zpi:3
+hochzeitsnacht im		5zpi:3
+hochzeitsnacht im regen	5zpi	
+hrubieszowski	28os	
+huayana capac	25xh	
+hueng min son	3o7a	
+james hickok	2anc	
+jean constantin	2bzx	
+john hodiak	wp6	
+john washington rogers jr	62ir	
+kalu		2cyh:2
+kalu ikechukwu	4c1h	
+kalu uche	2cyh	
+kandja loic lumbilla	6djr	
+lancehead	1egs	
+lavaurette	3p4c	
+lessons		3m8r:3
+lessons in		3m8r:3
+lessons in conduct	3m8r	
+lessons learned carrie underwood song	6g37	
+lindenwood	wkx	wkx:2
+lindenwood college	wkx	
+lindenwood college for women	wkx	
+lindenwood university	wkx	
+liptak zoltan	4ngz	
+lisna	3jks,49o7,4d8p	
+lisna prerov district	49o7	
+lisna rokycany district	3jks	
+lisna zdar nad sazavou district	4d8p	
+loco		47ec:4
+loco abreu	1a29	
+loco boy		47ec:4
+loco boy makes		47ec:4
+loco boy makes good	47ec	
+loco fun lovin criminals song	2pz3	
+loco lindo	5pda	
+magris list	1h6c	
+manjul		3u38:2
+manjul bhargava	3u38	
+maria kazimiera	2o61	
+mechanism	53mn	
+mechanism engineering	53mn	
+mechanism of fighting game	1ng	
+mechanism science	53mn	
+mechanism technology	53mn	
+menchevism	4n5n	
+merfy	2fw0	
+metohexal	657r	
+michael standing	65ev	
+michael standing footballer	65ev	
+minarets	5nvl	
+montserat	ft6	
+nacha		59gp:2
+nacha regules	59gp	
+nacha regules 1950 film	59gp	
+national outfit	30nv	
+new yorkpoly fighting blue jays	4yc	
+norshingdi	1tb5	
+oakenfold	11w4	
+oakenfold and osborne	359d	
+oakenfold and osbourne	359d	
+oakenfold osborne	359d	
+oavs	5re	
+oberlin	iiq	1kw:2,59ye:4
+oberlin coll	1kw	
+oberlin college	1kw	
+oberlin college and conservatory	1kw	
+oberlin college conservatory	59ye	
+oberlin college conservatory of music	59ye	
+oberlin college preparatory school	1kw	
+oberlin college press	1kw	
+oberlin collegiate institute	1kw	
+oberlin colony	iiq	
+oberlin conservatory	59ye	59ye:4
+oberlin conservatory and college	1kw	
+oberlin conservatory of		59ye:4
+oberlin conservatory of music	59ye	
+oberlin oh	iiq	
+oberlin ohio	iiq	
+oberlin seminary	1kw	
+oberlin theological seminary	1kw	
+oberlin yeomen	1kw	
+oberlin yeomen basketball	1kw	
+oberlin yeowomen	1kw	
+ocotea	17sl	
+opencl	5sfc	
+opencl 1 1	5sfc	
+opencl 1 2	5sfc	
+opencl 2 0	5sfc	
+opencl c	5sfc	
+pantabangan	2fjh	
+pantabangan nueva ecija	2fjh	
+pecho frio	3o22	
+pelargoderus	1qb9	
+peter nadas	4k1y	
+petrasiunai		4agc:2
+petrasiunai cemetery	4agc	
+phillipsville ontario	54xw	
+quetiapine	64e3	
+quetiapine fumarate	64e3	
+quinssaines	245j	
+raskova	3124	
+reasonabilism	62gq	
+reena		lxi:2
+reena denise evers	4m1q	
+reena roy	lxi	
+rmow	53lb	
+robert prytz	2ykk	
+samundzhievo	4fkm	
+sangrok gu	2xci	
+sassafras roots	57sx	
+scheinhardt	5mel	
+sciorra	14ac	
+semproniano	3lg8	
+skellator	40m0	
+southville massachusetts	2qa3	
+soze kukai	6h4r	
+srecko		23nr:2,5e9o:2,6d5b:2
+srecko bogdan	5e9o	
+srecko katanec	23nr	
+srecko katenec	23nr	
+srecko mitrovic	6d5b	
+synaesthesia andy summers album	1gmc	
+taio	2bsu	15pq:2
+taio cruz	15pq	
+the bridges		25la:5,3arf:5
+the bridges at		25la:5
+the bridges at toko		25la:5
+the bridges at toko ri	25la	
+the bridges at toko ri film	25la	
+the bridges of		3arf:5
+the bridges of kastoria	ua5	
+the bridges of madison		3arf:5
+the bridges of madison county	3arf	
+the bridges of madison county film	3arf	
+the idolmaker	4m0q	
+the jamaica	169y	
+the paper	1ejw	2p8z:3,51st:5
+the paper chase	2p8z	
+the paper chase film	2p8z	
+the paper film	1ejw	
+the paper nautilus	3zf0	
+the paper will		51st:5
+the paper will be		51st:5
+the paper will be blue	51st	
+the paper will be blue film	51st	
+the ronald reagan jr show	4aov	
+the strat		4wcq:3
+the strat pack	4wcq	
+the strat pack live in concert	4wcq	
+thoman jan stieltjes	3shj	
+tipula	fuv	
+tokimeki solar kurumaniyon	4iol	
+torys political faction	3c9	
+triarico	68kv	
+tricell	jou	
+ukiyoye	rg7	
+unmogliche liebe	2h1u	
+vufku	kkk	
+warpath	33cs	
+warpath campaign	3nii	
+warpath film	33cs	
+whale		2cxl:2
+whale catcher	6cvl	
+whale fishery	2spg	
+whale fishing	2spg	
+whale hunt	2spg	
+whale hunting	2spg	
+whale jet	1i13	
+whale killer	3b5o	
+whale rider	2cxl	
+widal	60w1	
+woolagong	6xw	

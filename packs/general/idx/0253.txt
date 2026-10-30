@@ -1,0 +1,588 @@
+6th arrondissement	8dv	8dv:4,3cd7:4,4ykg:4
+6th arrondissement of		8dv:4,3cd7:4,4ykg:4
+6th arrondissement of lyon	3cd7	
+6th arrondissement of marseille	4ykg	
+6th arrondissement of paris	8dv	
+6th australian division	4nhc	
+6th australian infantry brigade	62mi	
+6th avenue bmt canarsie line	3v1k	
+6th avenue bmt canarsie line station	3v1k	
+6th avenue el	3v60	
+6th baron byron george gordon noel	dni	
+6th baron carrington	22l7	
+6th brigade	62mi	
+6th brigade australia	62mi	
+6th british empire and commonwealth games	bvd	
+6th ce	1gl4	
+6th cent	1gl4	
+6th centuries	1gl4	
+6th century	1gl4	2gv8:3
+6th century ad	1gl4	
+6th century b c	2gv8	
+6th century bc	2gv8	
+6th century bce	2gv8	
+6th century ce	1gl4	
+6th combat		62mi:4
+6th combat support		62mi:4
+6th combat support brigade	62mi	
+6th crusade	39l5	
+6th day	1a2m	1a2m:3
+6th division	4nhc	
+6th division australia	4nhc	
+6th division of australia	4nhc	
+6th duc de bourbon jean ii	20x6	
+6th duke of bedford	1qqe	
+6th duke of devonshire	2e2b	
+6th duke of mantua cardinal ferdinando gonzaga	3q2h	
+6th duke of newcastle	3rf0	
+6th duke of richmond	22s3	
+6th duke of rutland	3u7b	
+6th duke of westminster	1trz	
+6th duke of westminster major general gerald cavendish grosvenor	1trz	
+6th earl fife	2bze	
+6th earl of mayo	3tqj	
+6th earl of onslow	5w3n	
+6th earl of rosebery	3177	
+6th emperor of the east michael	1u9r	
+6th english empire and commonwealth games	bvd	
+6th infantry brigade australia	62mi	
+6th main station	4udt	
+6th man		4zu5:3
+6th marchioness of anglesey	2l1b	
+6th marquess of londonderry	5cg5	
+6th marquess of salisbury	5fc8	
+6th october city	3uwr	
+6th of		3uwr:4
+6th of october		3uwr:4
+6th of october city	3uwr	
+6th of october war	fq8	
+6th state	6o	
+6th vice president of the united states	2164	
+6th winter olympic games	1vs	
+acalolepta	4tk	
+acrolepia	hpz	
+alberuni	me0	
+amita marie young	3kzc	
+amita young	3kzc	
+angampatti	atr	
+antimo		4b5z:2
+antimo iunco	4b5z	
+appletons		qz:5
+appletons cyclopaedia of american biography	qz	
+appletons cyclopdia		qz:5
+appletons cyclopdia of		qz:5
+appletons cyclopdia of american		qz:5
+appletons cyclopdia of american biography	qz	
+appletons cyclopedia	qz	
+appletons cyclopedia of american biography	qz	
+appletons encyclopedia	qz	
+ariminum	5ky	
+asmadion	2pmc	
+attack	1gwc	3fc:2,1fqc:3,1jq2:3,2jau:6,36ah:3,3g9z:3,3m7g:2,3v10:3,40ve:2,46xp:4,4lbj:3,4rcx:4,4sg2:5,5126:5,51ji:3,5d8z:5,5ek9:6,60cg:5
+attack 1956 film	1gwc	
+attack aircraft	is0	
+attack aircraft carrier	9xd	
+attack all around	148n	
+attack and		36ah:3
+attack and retreat	36ah	
+attack at pearl harbor	4rcx	
+attack aviation	is0	
+attack boat	1rw8	
+attack bomber	is0	
+attack cargo ship	106j	
+attack chopper	40ve	
+attack computer	4a6p	
+attack copter	40ve	
+attack decay sustain release envelope	5t9	
+attack film	1gwc	
+attack force		3g9z:3
+attack force z	3g9z	
+attack from		46xp:4
+attack from the		46xp:4
+attack from the sea	46xp	
+attack helicopter	40ve	
+attack helicopters	40ve	
+attack lacrosse	jyz	
+attack of		2jau:6,5126:5,5d8z:5,60cg:5
+attack of the		2jau:6,5126:5,5d8z:5,60cg:5
+attack of the 50		2jau:6
+attack of the 50 foot		2jau:6
+attack of the 50 foot woman	2jau	
+attack of the 50 ft woman	2jau	
+attack of the 50ft woman	2jau	
+attack of the blood leeches	5d8z	
+attack of the clones	j2h	
+attack of the crab		5126:5
+attack of the crab monsters	5126	
+attack of the fifty foot woman	2jau	
+attack of the giant		5d8z:5
+attack of the giant leaches	5d8z	
+attack of the giant leeches	5d8z	
+attack of the mechavulcan	3szi	
+attack of the monsters	46c2	
+attack of the mushroom people	3vyd	
+attack of the puppet		60cg:5
+attack of the puppet people	60cg	
+attack on		1jq2:3,4rcx:4,4sg2:5,51ji:3,5ek9:6
+attack on amon hen	7w2	
+attack on baku	1jq2	
+attack on leningrad	51ji	
+attack on pearl		4rcx:4
+attack on pearl harbor	4rcx	
+attack on pearl harbour	4rcx	
+attack on sima shi	5zd9	
+attack on the		4sg2:5,5ek9:6
+attack on the iron		4sg2:5
+attack on the iron coast	4sg2	
+attack on the jedi academy	5j6v	
+attack on the pin		5ek9:6
+attack on the pin up		5ek9:6
+attack on the pin up boys	5ek9	
+attack plane	is0	
+attack squadron		3v10:3,4lbj:3
+attack squadron 12	4lbj	
+attack squadron 12 u s navy	4lbj	
+attack squadron 12 va 12	4lbj	
+attack squadron 15	3v10	
+attack squadron 2a	3v10	
+attack squadron fifteen	3v10	
+attack squadron twelve	4lbj	
+attack squadron two a	3v10	
+attack state red	4v33	
+attack submarine	3fc	
+attack submarines	3fc	
+attack the		1fqc:3
+attack the block	1fqc	
+attack the block soundtrack	1fqc	
+attack to the 50ft woman	2jau	
+attack tone	5t9	
+attack transport	3m7g	
+attack transports	3m7g	
+axillae	357h	
+ballerino	145	
+bardu	1asa	1asa:2
+bardu municipality	1asa	
+bataprine	9ik	
+baxs	18j	
+berdichev	qak	
+bezange		1pp5:3,2gz2:3
+bezange la		1pp5:3,2gz2:3
+bezange la grande	1pp5	
+bezange la petite	2gz2	
+brina given name	3ved	
+brussa	4gr	
+budliegh salterton	1n43	
+capileira	21gk	
+capileira granada	21gk	
+capileira spain	21gk	
+charles edouard		3uvz:4,5f65:3,5piv:3
+charles edouard brown		3uvz:4
+charles edouard brown sequard	3uvz	
+charles edouard guillaime	5f65	
+charles edouard guillaume	5f65	
+charles edouard jeannere	dio	
+charles edouard jeanneret	dio	
+charles edouard jeanneret gris	dio	
+charles edouard jennings de kilmayne	5y4b	
+charles edouard le corbusier	dio	
+charles edouard lefebvre	5piv	
+colour	59t	27bi:3,4zo6:3
+colour analyst	166i	
+colour broadcast of television systems	xu9	
+colour brown	6pz	
+colour commentary	166i	
+colour commentater	166i	
+colour commentator	166i	
+colour force	5wel	
+colour green	3ha	
+colour grey	woj	
+colour me		27bi:3,4zo6:3
+colour me badd	1km9	
+colour me free	4zo6	
+colour me kubrick	27bi	
+colour me kubrick a true ish story	27bi	
+colour me saffron	1mwx	
+colour of magic	6exd	6exd:4
+colour of money	15s2	
+colour of my love		5k8g:5
+colour of water	3adl	
+colour olive	2d2x	
+colour purple	tef,6gbp	
+colour science	59t	
+colour your world	4k8m	
+colour your world womens conference	4k8m	
+comtemporary christian	1su	
+corbarieu	3olx	
+courvaudon	2522	
+couvrot	3u0w	
+david hackett		4pbe:3
+david hackett fischer	4pbe	
+david hackett fisher	4pbe	
+david vickerman bedford	5a5i	
+dc4c	m5i	
+deconstructing		16fm:2
+deconstructing harry	16fm	
+dettingen ehingen	3g05	
+diplemium	5d6	
+dmc4	33h5	
+doubai	2ov	
+doubai international airport	1uze	
+dubrowna district	4wj6	
+dzoni		2tbe:2
+dzoni novak	2tbe	
+echirolles	jsc	
+eiko		2cwo:2,37u8:2,3ezx:2,5cp9:2
+eiko ishioka	2cwo	
+eiko koike	3ezx	
+eiko masuyama	5cp9	
+eiko shimamiya	37u8	
+eiko simamiya	37u8	
+elanco	302s	
+escanecrabe	2jq6	
+fc borac cacak	4ms	
+fc05 bilsthorpe	5pas	
+felixkjellberg sandbox	252o	
+ferritic stainless steel	hx2	
+fifteener	5do6	
+frederick augustus	o55	2eb7:7,2x27:7,2z0a:3,3idx:3,5ct1:6
+frederick augustus abel	55mf	
+frederick augustus abel 1st baronet	55mf	
+frederick augustus albert	13wy	
+frederick augustus berkeley	4qbo	
+frederick augustus berkeley 5th earl of berkeley	4qbo	
+frederick augustus conrad muhlenberg	59nb	
+frederick augustus duke of brunswick luneburg	2x27	
+frederick augustus duke of nassau	5zkk	
+frederick augustus duke of nassau usingen	5zkk	
+frederick augustus duke of oels	2x27	
+frederick augustus duke of warsaw	219m	
+frederick augustus duke of york and albany	o55	
+frederick augustus grand duke of oldenburg	2eb7	
+frederick augustus hervey	1yf3	
+frederick augustus hervey 4th earl of bristol	1yf3	
+frederick augustus i 1750 1827	219m	
+frederick augustus i duke of oldenburg	2mzo	
+frederick augustus i duke of warsaw	219m	
+frederick augustus i king of saxony	219m	
+frederick augustus i margrave of meissen	qm0	
+frederick augustus i of oldenburg	2mzo	
+frederick augustus i of poland	qm0	
+frederick augustus i of saxony	219m	
+frederick augustus i the strong	qm0	
+frederick augustus ii	k3x,vfq	2eb7:7
+frederick augustus ii elector of saxony	k3x	
+frederick augustus ii grand		2eb7:7
+frederick augustus ii grand duke		2eb7:7
+frederick augustus ii grand duke of		2eb7:7
+frederick augustus ii grand duke of oldenburg	2eb7	
+frederick augustus ii king of saxony	vfq	
+frederick augustus ii margrave of meissen	k3x	
+frederick augustus ii of poland	k3x	
+frederick augustus ii of saxony	vfq	
+frederick augustus ii wettin	k3x	
+frederick augustus iii elector of saxony	219m	
+frederick augustus iii margrave of meissen	219m	
+frederick augustus iii of saxony	pvk	
+frederick augustus muhlenberg	2z0a	
+frederick augustus of anhalt dessau	2xr4	
+frederick augustus prince		2x27:7,5ct1:6
+frederick augustus prince of		2x27:7,5ct1:6
+frederick augustus prince of anhalt		5ct1:6
+frederick augustus prince of anhalt zerbst	5ct1	
+frederick augustus prince of braunschweig wolfenbuttel oels	2x27	
+frederick augustus prince of brunswick		2x27:7
+frederick augustus prince of brunswick wolfenbuttel		2x27:7
+frederick augustus prince of brunswick wolfenbuttel oels	2x27	
+frederick augustus rutowski	3idx	
+frederick augustus rutowsky	3idx	
+frederick augustus sir abel	55mf	
+frederick augustus thesiger 2nd baron chelmsford	294c	
+frederick augustus thesiger chelmsford 2nd baron	294c	
+frederick augustus washington baly	18if	
+futyuu tookyoo	vcr	
+gardelegen	n1t	
+gaszowice commune	6bqv	
+gautama buddha nagar district	1ygu	
+geleen	10i2	
+geleen sittard	tng	
+george ruth	1xil	
+george whale	43zl	
+gigantei montes	1uow	
+gilzean alan	5z9j	
+gmina tarnowiec	25y8	
+granada	3gx,vps	3y5:2,144h:2,1nu2:3
+granada 74	1nu2	1nu2:3
+granada 74 cf	1nu2	
+granada america	gbw	
+granada australia	gbw	
+granada c f	3y5	
+granada cf	3y5	
+granada cf b	1e1c	
+granada city	3gx	
+granada club de futbol	3y5	
+granada club de futbol b	1e1c	
+granada germany	gbw	
+granada granada	3gx	
+granada granada nicaragua	vps	
+granada hills	144h	
+granada hills ca	144h	
+granada hills california	144h	
+granada hills los angeles	144h	
+granada hills los angeles ca	144h	
+granada hills los angeles california	144h	
+granada international	gbw	
+granada itv	4qbk	
+granada kids	oa0	
+granada london	1c5b	
+granada manchester	4qbk	
+granada nicaragua	vps	
+granada production	gbw	
+granada production company	gbw	
+granada productions	gbw	
+granada province	5cn	
+granada publishing	6eta	
+granada publishing ltd	6eta	
+granada sky broadcasting	54nu	
+granada spain	3gx	
+granada t v	4qbk	
+granada television	4qbk	
+granada television international	4qbk	
+granada tv ltd	4qbk	
+granada university	a4l	
+granada university of	a4l	
+graphist	17t	
+grazier	2bx9	
+gregorio	7es	12ba:2,1h7p:3,371l:3,42tk:2,44h3:2,47hn:2,4j6u:2,4myl:2,545f:2,57g8:3,57oh:2,5iv7:3,5w9m:2
+gregorio bernales	5w9m	
+gregorio blasco	47hn	
+gregorio blasco sanchez	47hn	
+gregorio chiaramonti	52lh	
+gregorio corraro	42tk	
+gregorio correr	42tk	
+gregorio duvivier	545f	
+gregorio first name	7es	
+gregorio fonseca	4j6u	
+gregorio garcia		1h7p:3
+gregorio garcia segura	1h7p	
+gregorio given name	7es	
+gregorio maranon	4myl,57oh	
+gregorio maranon madrid metro	57oh	
+gregorio maranon y posadillo	4myl	
+gregorio martinez		371l:3
+gregorio martinez sierra	371l	
+gregorio peces		5iv7:3
+gregorio peces barba	5iv7	
+gregorio peces barba martinez	5iv7	
+gregorio ricci	57g8	57g8:3
+gregorio ricci curbastro	57g8	
+gregorio salvador	44h3	
+gregorio salvador caja	44h3	
+gregorio walerstein	12ba	
+gregorio walerstein weinstock	12ba	
+grenade	p3p,14ba	sog:2,3d6r:4
+grenade discharger	sog	
+grenade france	p3p	
+grenade haute garonne	14ba	
+grenade launcher	sog	
+grenade launchers	sog	
+grenade machine gun	sog	
+grenade projector	sog	
+grenade sur		3d6r:4
+grenade sur garonne	14ba	
+grenade sur l		3d6r:4
+grenade sur l adour	3d6r	
+habrosynula	466b	
+haler thomas	1nvx	
+harja talonen	1a9v	
+harnett		32kb:2
+harnett county	32kb	
+harnett county nc	32kb	
+harnett county north carolina	32kb	
+hejdandasht	62cc	62cc:3
+hejdandasht rural		62cc:3
+hejdandasht rural district	62cc	
+henry drysdale		66jf:3
+henry drysdale dakin	66jf	
+hernanes	3u0i	
+hexe lilli die reise nach mandolan	2734	
+james frawley	4rwm	
+jdt	9i2	
+jdt fc	9i2	
+jdt ii	gsx	
+john bishop of metz	3o2n	
+kentrikos	4oja	
+kermit	vs0,3767	1a9d:2,4l8t:2,53uy:2,53y2:2,55y0:3,5pz0:4
+kermit beahan	4l8t	
+kermit erasmus	53y2	
+kermit first name	vs0	
+kermit given name	vs0	
+kermit k beahan	4l8t	
+kermit maynard	53uy	
+kermit roosevelt	1a9d	55y0:3
+kermit roosevelt jr	55y0	
+kermit roosevelt sr	1a9d	
+kermit s		5pz0:4
+kermit s swamp		5pz0:4
+kermit s swamp years	5pz0	
+kermit texas	3767	
+kermit tx	3767	
+koeta radja	12cr	
+lamberghini	v55	
+landsmal	1ojs	
+le pillole		3bo9:4
+le pillole di		3bo9:4
+le pillole di ercole	3bo9	
+leucippus	51o9	
+leucippus of abdera	51o9	
+leucippus of elia	51o9	
+leucippus of miletus	51o9	
+licenza	3bgp	
+licenza italy	3bgp	
+lienz	n6o	asz:2
+lienz district	asz	
+margarey wentworth	5j1f	
+marylynn rajskub	23lf	
+massadah	6h0b	
+massmutual	3m9b	
+massmutual financial group	3m9b	
+massmutual financial group inc	3m9b	
+matera	nwz	
+matera calcio	lp4	
+matera calcio s r l	lp4	
+matera italy	nwz	
+matera province	gdj	
+medallo	2t4	
+melesse	1dec	
+michael gilbert	43nf	
+michael len williams ii	1kkf	
+miesmacher	5u96	
+minamitsuru		5bpd:2
+minamitsuru district	5bpd	
+minamitsuru district yamanashi	5bpd	
+minx lawrence	3vxy	
+mistassini quebec	3zbz	
+montdurausse	3ken	
+mydas fly	6etx	
+mysliborice	3yhr	
+ncdot	4j0	
+netball	9aj	
+nezahualcoyotl mexico	2l86	
+nezahualcoyotl mexico state	2l86	
+nezahualcoyotl municipality	2l86	
+nezahualcoyotl state of mexico	2l86	
+oolong	5rtc	
+oolong tea	5rtc	
+orasul stalin	4we	
+ouachita		1023:3,13fq:2,1bje:2,5hkd:2
+ouachita baptist	1023	1023:3
+ouachita baptist college	1023	
+ouachita baptist u	1023	
+ouachita baptist university	1023	
+ouachita county	13fq	
+ouachita county ar	13fq	
+ouachita county arkansas	13fq	
+ouachita parish	1bje	
+ouachita parish la	1bje	
+ouachita parish louisiana	1bje	
+ouachita river	5hkd	
+ouachita university	1023	
+owomoyela	3yyt	
+paolozzi	2r06	
+paolozzi sir eduardo luigi	2r06	
+paul reubens	uzn	
+pedroche	4n1x	
+pedroche cordoba	4n1x	
+pedroche spain	4n1x	
+penal		6hkp:2
+penal colonialism	6hkp	
+penal colonialist	6hkp	
+penal colonialists	6hkp	
+penal colonies	6hkp	
+penal colonist	6hkp	
+penal colonists	6hkp	
+penal colony	6hkp	
+penal facility	1iw	
+penal institution	1iw	
+penal law	37tj	
+penal settlements	6hkp	
+penal settler	6hkp	
+penal settlers	6hkp	
+platyptiliini	22cg	
+raissac		32r2:3
+raissac d		32r2:3
+raissac d aude	32r2	
+raissac daude	32r2	
+remouille	3czp	
+resendense	2hs0	
+richard kemp	4v33	
+richard kemp cbe	4v33	
+riervescemont	20v7	
+robert gaston andre marechal	5t4j	
+robert snodgrass	4u92	
+rudolfsheim		3q1p:2
+rudolfsheim fuenfhaus	3q1p	
+rudolfsheim funfhaus	3q1p	
+saint lieux		3cep:3,3e1n:4
+saint lieux lafenasse	3cep	
+saint lieux les		3e1n:4
+saint lieux les lavaur	3e1n	
+saint servais	2fnz,2uki	
+saint servais cotes d armor	2fnz	
+saint servais finistere	2uki	
+santino		4z79:2
+santino fontana	4z79	
+shinshu		5q3u:2
+shinshu seiki	3lfn	
+shinshu seiki co	3lfn	
+shinshu university	3cl0,5q3u	
+steinen	4arl	
+steinen schwyz	4arl	
+steinen switzerland	4arl	
+steinen sz	4arl	
+stewy	75t	
+svetozarevo	m3z	
+syriza	lq0	
+syriza coalition	lq0	
+talairan	1sqs	
+tapegrass	4qz4	
+teerathep winothai	590n	
+ternopilsky pfc nyva	b8c	
+tippecanoe		lwp:2
+tippecanoe county	lwp	
+tippecanoe county in	lwp	
+tippecanoe county indiana	lwp	
+unisa	15kl	
+unisa ac za	15kl	
+unisa city west	j2b	
+unisa fc	j2b	
+unisa press	15kl	
+vazir i azam	3217	
+william frishe dean	5bxo	
+william frishe dean sr	5bxo	
+william matthews	2us9,39hn	
+william matthews catholic priest	39hn	
+william matthews ii	39hn	
+william matthews iii	2us9	
+william matthews jesuit	39hn	
+william matthews jesuit priest	39hn	
+william matthews priest	39hn	
+william matthews s j	39hn	
+william sistrom	30z1	
+yazoo	59mv	sc7:2,1aly:2
+yazoo band	59mv	
+yazoo city	sc7	
+yazoo city high school	sc7	
+yazoo city micropolitan area	1aly	
+yazoo city mississippi	sc7	
+yazoo city ms	sc7	
+yazoo city ms msa	1aly	
+yazoo city ms sa	1aly	
+yazoo county	1aly	
+yazoo county mississippi	1aly	
+yazoo county ms	1aly	
+yazoo mississippi	sc7	
+yazoo mississippi delta	6hop	
+yazoo ms	sc7	
+zetouni	133a	
+zobersdorf	2hx1	
+zuton	2xab	

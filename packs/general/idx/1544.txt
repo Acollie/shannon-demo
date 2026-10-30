@@ -1,0 +1,475 @@
+544 bce	2ab9	
+academie	gwh	1jy:2,2fu:6,2uf:2,3h5:6,6bf:4,7ot:5,7q8:7,ad3:4,e1u:8,pg5:5,twk:3,vgz:8,19q2:3,1be6:9,1dop:2,1x63:4,612t:9
+academie colarossi	1dop	
+academie d		19q2:3
+academie d agriculture	3vja	
+academie d architecture	19q2	
+academie darchitecture	1x63	
+academie de		7ot:5,pg5:5,twk:3,vgz:8
+academie de dijon	612t	
+academie de l		vgz:8
+academie de l air		vgz:8
+academie de l air et		vgz:8
+academie de l air et de		vgz:8
+academie de l air et de l		vgz:8
+academie de l air et de l espace	vgz	
+academie de la		7ot:5
+academie de la grand chaumiere	7ot	
+academie de la grande		7ot:5
+academie de la grande chaumiere	7ot	
+academie de lausanne	6r8	
+academie de marine	twk	
+academie de medecine	6bf	
+academie de musique	swm	
+academie de peinture et de sculpture	7q8	
+academie de rouen	1be6	
+academie de saint cyr	43o	
+academie de sciences morales et politiques	3h5	
+academie de stanislas	pg5	pg5:5
+academie de stanislas nancy		pg5:5
+academie de stanislas nancy france	pg5	
+academie des		2fu:6,3h5:6,ad3:4,1be6:9,612t:9
+academie des beaux		ad3:4
+academie des beaux arts	ad3	
+academie des beaux arts de l institut de france	ad3	
+academie des beaux arts france	ad3	
+academie des inscriptions	2fu	2fu:6
+academie des inscriptions et		2fu:6
+academie des inscriptions et belles		2fu:6
+academie des inscriptions et belles lettres	2fu	
+academie des inscriptions et medailles	2fu	
+academie des jeux floraux	628i	
+academie des lumieres	5bd9	
+academie des sciences		3h5:6,1be6:9,612t:9
+academie des sciences arts		612t:9
+academie des sciences arts et		612t:9
+academie des sciences arts et belles		612t:9
+academie des sciences arts et belles lettres		612t:9
+academie des sciences arts et belles lettres de		612t:9
+academie des sciences arts et belles lettres de dijon	612t	
+academie des sciences belles		1be6:9
+academie des sciences belles lettres		1be6:9
+academie des sciences belles lettres et		1be6:9
+academie des sciences belles lettres et arts		1be6:9
+academie des sciences belles lettres et arts de		1be6:9
+academie des sciences belles lettres et arts de rouen	1be6	
+academie des sciences de l institut de france	xj	
+academie des sciences france	xj	
+academie des sciences morales		3h5:6
+academie des sciences morales et		3h5:6
+academie des sciences morales et politiques	3h5	
+academie des technologies	m6g	
+academie francais	1jy	
+academie francaise	1jy	
+academie francaise des sciences	xj	
+academie francoise	1jy	
+academie impact montreal	4x93	
+academie imperiale de medecine	6bf	
+academie imperiale de musique	swm	
+academie julian	2uf	
+academie julien	2uf	
+academie la grande chaumiere	7ot	
+academie nationale		6bf:4
+academie nationale de		6bf:4
+academie nationale de medecine	6bf	
+academie nationale de musique	swm,3fl1	
+academie royal de peinture et de sculpture	7q8	
+academie royal des sciences	xj	
+academie royale	7q8	7q8:7,e1u:8,1x63:4
+academie royale d		1x63:4
+academie royale d architecture	1x63	
+academie royale darchitecture	1x63	
+academie royale de		7q8:7,e1u:8
+academie royale de langue		e1u:8
+academie royale de langue et		e1u:8
+academie royale de langue et de		e1u:8
+academie royale de langue et de litterature		e1u:8
+academie royale de langue et de litterature francaises	e1u	
+academie royale de langue et de litterature francaises de belgique	e1u	
+academie royale de langue et ltterature de belgique	e1u	
+academie royale de marine	twk	
+academie royale de medecine	6bf	
+academie royale de musique	swm	
+academie royale de paris	7q8	
+academie royale de peinture	7q8	7q8:7
+academie royale de peinture et		7q8:7
+academie royale de peinture et de		7q8:7
+academie royale de peinture et de sculpture	7q8	
+academie royale des beaux arts	1yul	
+academie royale des beaux arts brussels	1yul	
+academie royale des beaux arts d anvers	36ob	
+academie royale des inscriptions et medailles	2fu	
+academie royale des sciences	xj	
+academie royale des sciences coloniales	4udn	
+academie royale des sciences d outre mer	4udn	
+academie royale des sciences des lettres et des beaux arts de belgique	6ja	
+academie royale espagnole	5e4	
+academie voor schone kunsten	36ob	
+acdc	8lu	
+aeolis		1d1l:2
+aeolis quadrangle	1d1l	
+ahchacoosacootacoopits	6ev9	
+amumu	5d6d	
+ansar	1glf	4x57:2,5z44:3
+ansar ayupef	4x57	
+ansar ayupov	4x57	
+ansar islam	1glf	
+ansar maksutovich ayupov	4x57	
+ansar rural		5z44:3
+ansar rural district	5z44	
+ansignan	2brb	
+ascope		4d6s:2
+ascope province	4d6s	
+asuka motomura	wmm	
+asuka no himemiko	2kab	
+bachheide	uvk	
+balthus	5f17	
+balthus klossowski	5f17	
+bantamweight	25z	
+basu		tyj:2,2ne8:2
+basu bhattachariya	2ne8	
+basu bhattacharya	2ne8	
+basu chatterjee	tyj	
+basu chatterji	tyj	
+beijingnese	km	
+belfountain ontario	17v3	
+bls ag	1oc9	
+bls argo	2lkf	
+bls cargo	1oc9	
+bls railway	1oc9	
+bojada commune	1tx8	
+brunia	6fii	
+brunia moth	6fii	
+bulandshahar	5hbi	
+bulandshahar district	1bjw	
+candlestick makers petition	4x0h	
+carbonated		1qiq:2
+carbonated beverage	8wr	
+carbonated water	1qiq	
+carbonated waters	1qiq	
+cartago	p31	1aqx:2
+cartago canton	1aqx	
+cartago costa rica	p31	
+cartago nova	9u0	
+ceux qui m aiment prendront le train	1pfj	
+chaillevois	2wzo	
+choczim	36yg	
+cholit bhasha	oa	
+deveronvale	40h4	40h4:3
+deveronvale f		40h4:3
+deveronvale f c	40h4	
+deveronvale fc	40h4	
+deylamid dynasty	2ivq	
+dontae		3if5:2
+dontae antijuaine jones	3if5	
+dontae jones	3if5	
+editorinchief	ahf	
+ehlers vern	5sc3	
+ennamma ippadi panreengalemaa	6ecf	
+eparchate	7re	
+extremely		15n4:5
+extremely goofy movie	3yj8	
+extremely heavy metal	pst	
+extremely loud		15n4:5
+extremely loud and		15n4:5
+extremely loud and incredibly		15n4:5
+extremely loud and incredibly close	15n4	
+extremely loud and incredibly close film	15n4	
+extremely loud incredibly close film	15n4	
+flightnurse	1qx7	
+foliage gleaner	xd0	
+foliage plant diseases urticaceae	1nq2	
+forgaria	35pj	35pj:3
+forgaria nel		35pj:3
+forgaria nel friuli	35pj	
+furlanijajulijska krajina	mm1	
+george darmstadt	2mlx	
+glycine hispida	48yn	
+glycine max	48yn	
+gmina kozielice	4vg1	
+groissiat	2er1	
+groppioni	5lp5	
+gury	3imm	1m93:2
+gury i marchuk	1m93	
+gury ivanovich marchuk	1m93	
+gury marchuk	1m93	
+hack	5dza	akp:3,6gjn:2
+hack alexander	5mf1	
+hack and		akp:3
+hack and slash	akp	
+hack and slash rpg	akp	
+hack and slasher	akp	
+hack and slay	akp	
+hack computer security	684w	
+hack film	5dza	
+hack n slash	akp	
+hack n slay	akp	
+hack practical joke	684w	
+hack slang	1yrg	
+hack slash	akp	
+hack slay	akp	
+hack the gibson	1drd	
+hack the planet	1drd	
+hack wilson	6gjn	
+hanke richard	4lvt	
+herzlia israel	9tk	
+homelessness in brighton	1ce	
+homelessness in gainesville florida	3ge	
+homelessness in wilmington nc	6a2	
+honskirch	2deh	
+irmingard marie josefa princess of bavaria	43r5	
+irmingard von tours	4l7x	
+isny	12kt	12kt:3
+isny allgau	12kt	
+isny im		12kt:3
+isny im allgaeu	12kt	
+isny im allgau	12kt	
+jikov	pe4	
+john augustu roebling	4ba4	
+jonian sea	bzq	
+jort	2lc6	
+junii	16qh	
+junii bruti	16qh	
+junii silani	16qh	
+karamazovi	4qh5	
+karel	2u8	gme:4,gv7:2,qen:2,vzu:2,18vj:2,1e7m:2,1t68:2,21uj:2,22ur:2,2376:2,282v:2,28z0:2,2hxy:2,2knp:2,2l3r:2,2qxh:2,3qw2:2,3tyn:3,41kr:3,41xg:3,443i:2,44d0:5,44my:2,44r4:2,4jdu:3,4ya0:2,53ma:2,568i:2,588c:2,5c4e:3,5diq:2,5h5n:2,5itf:2,5lxi:2,5mkz:2,5t1d:3,5tkg:2,5upz:2,5w6x:2,5yi3:2,61pt:2,6a4i:2,6aiy:2,6b86:2,6d0f:2
+karel baxa	5lxi	
+karel bonsink	6a4i	
+karel capek	qen	
+karel cerny	5w6x	
+karel cerny 1930s footballer	5w6x	
+karel cerny footballer	5w6x	
+karel cerny footballer born 1910	5w6x	
+karel chapek	qen	
+karel chapik	qen	
+karel de		3tyn:3,5t1d:3
+karel de goede	2u5v	
+karel de gucht	3tyn	
+karel de smet	5t1d	
+karel desjardin	44my	
+karel dujardin	44my	
+karel emiel van brandenburg	2ech	
+karel erben	4jdu	
+karel fabricius	1pya	
+karel fabritius	1pya	
+karel first name	2u8	
+karel geraerts	5yi3	
+karel given name	2u8	
+karel gott	21uj	
+karel habsbursko lotrinsky	1hzk	
+karel hasler	2hxy	
+karel havlicek	4ya0	
+karel havlicek borovsky	4ya0	
+karel hendrik		gme:4
+karel hendrik van		gme:4
+karel hendrik van brederode	gme	
+karel hermanek	5itf	
+karel hoger	2knp	
+karel husa	3qw2	
+karel hynek		41xg:3
+karel hynek macha	41xg	
+karel iv	dww	
+karel jarolim	2376	
+karel jaromir		4jdu:3
+karel jaromir erben	4jdu	
+karel jarusek	6b86	
+karel kachyna	28z0	
+karel komzak	5upz	
+karel komzak ii	5upz	
+karel kozeluh	2l3r	
+karel kramar	5h5n	
+karel kroupa		41kr:3
+karel kroupa jr	41kr	
+karel kryl	443i	
+karel kula	568i	
+karel lamac	gv7	
+karel lamacz	gv7	
+karel lichtnegl	5diq	
+karel lodewijk georgette emmerence de gucht	3tyn	
+karel lowner	5oiz	
+karel lucembursky	dww	
+karel pesek	61pt	
+karel pesek kada	61pt	
+karel poborsky	2qxh	
+karel polacek	53ma	
+karel rada	5mkz	
+karel reiner	5tkg	
+karel reisz	22ur	
+karel roden	vzu	
+karel rokytansky	4rej	
+karel schwarzenberg	44r4	
+karel smyczek	6aiy	
+karel stekly	1e7m	
+karel stepanek	18vj	
+karel stromsik	6d0f	
+karel svoboda	282v	
+karel svoboda composer	282v	
+karel svoboda musician	282v	
+karel urbanek	588c	
+karel urbanek footballer	588c	
+karel v	ihr	
+karel van		44d0:5,5c4e:3
+karel van mander		44d0:5
+karel van mander i	44d0	
+karel van mander the		44d0:5
+karel van mander the elder	44d0	
+karel van miert	5c4e	
+karel verlat	58aa	
+karel vii schwarzenberg	44r4	
+karel voltio	4y4d	
+karel y voltio	4y4d	
+karel zeman	1t68	
+karpfen	4c8m	
+keoua	4rs4	
+keoua kalani kupu uapai kalani nui ahilapalapa	4rs4	
+keoua kalanikupuapa ikalaninui	4rs4	
+keoua kalanikupuapaikalaninui	4rs4	
+keoua kalanikupuapaikalaninui ahilapalapa	4rs4	
+keoua kupuapaikalaninui	4rs4	
+keoua nui	4rs4	
+khatlon	1agx	16xf:2,1agx:2
+khatlon oblast incl kurgan tube	1agx	
+khatlon province	1agx	
+khatlon qurghonteppa	16xf	
+khatlon region	1agx	
+kimodo dragon	1wn5	
+kingudamu hatsu chein obu memorizu	5z8e	
+kipiani david	3su2	
+kiwanuka michael	2mzc	
+kohlenstoff	bu	
+koti	jk2	
+koti koti	d4n	
+koti music director	jk2	
+koti prefecture	8e4	
+krecovice	2g1b	
+kremsir	co3	
+kyambo joshua	6p	
+la lollo	gqe	
+ladrone	5yfr	
+ladrone islands	2llr	
+laghouat		26ku:2
+laghouat province	26ku	
+ledeghem	2szg	
+lithospermum	4lnr	
+lleyton	1bqu	1bqu:2
+lleyton glynn hewitt	1bqu	
+lleyton hewitt	1bqu	
+macromanagement computer gaming	2j5	
+macromanagement gameplay	2j5	
+malborgeth wolfsbach	2qim	
+mayoress	d1	
+mentmore new mexico	16u2	
+mezistre	2lkl	
+michael dawn of the dead	yl8	
+miggias	4yrr	
+mimosopsis	2pg8	
+monet	fi2	3xk2:2
+monet c	fi2	
+monet claude	fi2	
+monet gsm	68zm	
+monet mazur	3xk2	
+monet mobile	68zm	
+montalbano		1br9:2,3ytt:2
+montalbano elicona	1br9	
+montalbano jonico	3ytt	
+montalbano zocca	29zt	
+montessori maria	53tf	
+mvcreations	4dhg	
+neoplesiosauria	5dp7	
+nietzsche and the vicious circle	5awu	
+nietzsche friedrich	84m	
+paganist	20yy	
+parapluie	6gwo	
+parka beaver	f7d	
+paul gardner	2qj7	
+paul gardner allen	v0y	
+paul gardner ice hockey	2qj7	
+paul gardner ice hockey player	2qj7	
+peter antonovich		505t:4
+peter antonovich of		505t:4
+peter antonovich of brunswick	505t	
+pilbasian	42fn	
+pittem	5me2	
+pittem belgium	5me2	
+poisoned glen	2oz7	
+poisoned with love	32up	
+pongo abelii	6cmj	
+pongo abelli	6cmj	
+pongo orangutan	1w7i	
+pongo pygmaeus abelii	6cmj	
+pongo waring	4ohj	
+pullizter prize	ljy	
+radhanagar nadia	ez8	
+raptiformica	fwx	
+riversley park	96m	
+ruhrjung germans	71l	
+saint brandan	2y0m	
+samsonian	26a9	
+sattel	2jxt	
+sattel schwyz	2jxt	
+sattel switzerland	2jxt	
+sattel sz	2jxt	
+scabers	6h1y	
+scalptia	39ag	
+shigekazu		5vsl:2
+shigekazu nagata	5vsl	
+shijiazhuang	biq	48u8:3
+shijiazhuang china	biq	
+shijiazhuang ever bright	quh	
+shijiazhuang ever bright f c	quh	
+shijiazhuang hebei	biq	
+shijiazhuang railway		48u8:3
+shijiazhuang railway station	48u8	
+shijiazhuang south railway station	48u8	
+shijiazhuang taiyuan high speed railway	57r8	
+shijiazhuang taiyuan passenger railway	57r8	
+shijiazhuang yongchang f c	quh	
+shijiazhuang yongchang junhao	quh	
+shijiazhuang yongchang junhao f c	quh	
+sicyonian	1n26	
+soderlingnadal match at the 2009 french open	2p1v	
+sonderjyske	1x3p	
+sonderjyske fodbold	9dq	
+sophiane		6719:2
+sophiane baghdad	6719	
+spam computing	54ex	
+spam electronic	54ex	
+spam town usa	oso	
+st demetrius	4fkq	
+st demetrius of thessaloniki	4fkq	
+tarnovo	81t	
+tarnovo bulgaria	81t	
+the macewan hall ballroom	69j	
+the nizams	5bmh	
+the sovereign base areas of akrotiri and dhekelia	346c	
+the sovereign military order of malta	h05	
+thomas colbert carter	2uef	
+thubouf	2nqb	
+tinh	faw	
+tinh cao bang	2ave	
+tinh ha giang	2ipn	
+tinh ien bien	30pe	
+tinh lao cai	3he7	
+toilet	2m8p	
+toilet history	2m8p	
+tolsi	69m5	
+tolsi language	69m5	
+trle	6fzv	
+tryncza commune	4ky1	
+tsipi livni	248k	
+turbina cerrik	6690	
+ucrania	40	
+undeath	6ftg	
+valognes	q2y	
+walchwil	3kzi	
+walchwil switzerland	3kzi	
+walchwil zg	3kzi	
+walchwil zug	3kzi	
+william brooke joyce	2gcv	
+william coutts 7th earl of albermarle keppel	5hw7	
+william coutts keppel	5hw7	
+william coutts keppel 7th earl of albemarle	5hw7	
+william coutts keppel bury	5hw7	
+william coutts keppel earl of albemarle	5hw7	
+william coutts keppel viscount bury	5hw7	
+yehonathan	la	

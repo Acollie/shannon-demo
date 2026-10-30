@@ -1,0 +1,573 @@
+1d1	iyr	
+3face	2on	
+abertura	33xp	
+aicm	1plu	
+airdale primary school	2ava	
+alexander lyapunov	1hm9	
+aqualene	6ev	
+araceibo	myj	
+archdeacon	9dz	140x:3,1stm:3,37yq:3
+archdeacon denison	3leq	
+archdeacon frollo	5vlj	
+archdeacon of		140x:3,1stm:3,37yq:3
+archdeacon of brighton lewes	5vde	
+archdeacon of cambridge	37yq	
+archdeacon of canterbury	140x	
+archdeacon of cleveland	1stm	
+archdeacon of ely	37yq	
+archdeacon of salford	ozx	
+archdeacon of walsall	4vz8	
+armonica a bocca	2qv	
+asier	46au	3gu9:2,3mnf:2,3s5v:2,3yub:3,441a:2,45nj:3,48zv:2,4k4j:2
+asier arranz		45nj:3
+asier arranz martin	45nj	
+asier del		3yub:3
+asier del horno	3yub	
+asier del horno cosgaya	3yub	
+asier first name	46au	
+asier garitano	3gu9	
+asier given name	46au	
+asier goiria	3mnf	
+asier goiria etxebarria	3mnf	
+asier illaramendi	3s5v	
+asier illarramendi	3s5v	
+asier illarramendi andonegi	3s5v	
+asier ormazabal	441a	
+asier riesgo	48zv	
+asier riesgo unamuno	48zv	
+asier salcedo	4k4j	
+asier salcedo borrega	4k4j	
+asset		3b48:2
+asset containment unit	lw0	
+asset management	3b48	
+asset management companies	3b48	
+asset management general	3b48	
+asset manager	3b48	
+asset managers	3b48	
+asset purchase facility	54ol	
+avedik isahagian	352w	
+avedik sahagian	352w	
+balatonboglar	65kk	
+bolivia	ch	3ox:6,ols:6,6di2:6
+bolivia air force	2yxg	
+bolivia men		3ox:6
+bolivia men s		3ox:6
+bolivia men s national		3ox:6
+bolivia men s national football		3ox:6
+bolivia men s national football team	3ox	
+bolivia national		ols:6,6di2:6
+bolivia national football team	3ox	
+bolivia national under		ols:6,6di2:6
+bolivia national under 17		6di2:6
+bolivia national under 17 football		6di2:6
+bolivia national under 17 football team	6di2	
+bolivia national under 20		ols:6
+bolivia national under 20 football		ols:6
+bolivia national under 20 football team	ols	
+bolivia plurinational state of	ch	
+bolivia time	1mi	
+brae	26w3	
+bugnicourt	279y	
+bui	68wk	
+bui first name	68wk	
+bui given name	68wk	
+ceadar lunga	2u67	
+charles regnier	oad	
+charlysheen	djr	
+childhood		5iur:3
+childhood absence		5iur:3
+childhood absence epilepsy	5iur	
+childhood and migration	14eo	
+childhood and the notion of consent	fm7	
+childhood anti social disorder	2qce	
+childhood autism	asw	
+childhood friend	5wny	
+childhood lo ta yu song	57i0	
+childhood michael jackson song	5hj1	
+childhood myalgic encephalomyelitis	4t65	
+childhood of ivan	3wj2	
+childhood pustular psoriasis	1bfn	
+childhood s end iron maiden song	4yrp	
+childhood systemic lupus erythematosus	egc	
+childhood theme from free willy 2	5hj1	
+childhood vocation and first experience of giacomo casanova venetian	1jqw	
+cochlioda	rn0	
+collevalenza	l7d	
+conroe	zcb	
+conroe texas	zcb	
+conroe tx	zcb	
+contraceptives	6exe	
+coptoloma	2noc	
+cross	1hqy,5o6n	16p:3,2r9:2,bfi:3,dir:3,kv7:3,nkn:3,p0f:3,wid:3,xj6:3,140n:5,15zf:4,26yx:4,29s2:2,2rww:3,31zj:2,35hp:3,3z66:4,4cxs:4,4k4h:7,4m31:4,4mxh:2,4zn8:4,4zon:14,507t:14,562p:2,57vh:2,5n3e:14,600v:14,6118:14,61ow:14,668i:14,6ane:8
+cross 2011 film	5o6n	
+cross and		26yx:4
+cross and circle	26yx	26yx:4
+cross and circle game	26yx	
+cross and circle games	26yx	
+cross and crucifix in archology	38ec	
+cross and crucifix in liturgy	38ec	
+cross assembler	7av	
+cross belt mani	1eut	
+cross border	85c	
+cross border payments	4fmz	
+cross botonny	6foi	
+cross bottony	6foi	
+cross breed dog	2e60	
+cross browser extensions	6fjx	
+cross buy	ly9	
+cross christianity	1z46	
+cross christopher	1fok	
+cross collar	4nyp	
+cross country		16p:3,bfi:3,nkn:3,4zon:14,507t:14,5n3e:14,600v:14,6118:14,61ow:14,668i:14,6ane:8
+cross country bicycling	nkn	
+cross country biking	nkn	
+cross country cycling	nkn	
+cross country cyclist	nkn	
+cross country cyclists	nkn	
+cross country mountain biker	nkn	
+cross country mountain biking	nkn	
+cross country race	bfi	
+cross country run	bfi	
+cross country runner	bfi	
+cross country running	bfi	
+cross country running sport	bfi	
+cross country ski competition	16p	
+cross country ski race	16p	
+cross country skiing	16p	4zon:14,507t:14,5n3e:14,600v:14,6118:14,61ow:14,668i:14,6ane:8
+cross country skiing at		4zon:14,507t:14,5n3e:14,600v:14,6118:14,61ow:14,668i:14,6ane:8
+cross country skiing at the		4zon:14,507t:14,5n3e:14,600v:14,6118:14,61ow:14,668i:14,6ane:8
+cross country skiing at the 1960		5n3e:14
+cross country skiing at the 1960 winter		5n3e:14
+cross country skiing at the 1960 winter olympics		5n3e:14
+cross country skiing at the 1960 winter olympics men		5n3e:14
+cross country skiing at the 1960 winter olympics men s		5n3e:14
+cross country skiing at the 1960 winter olympics men s 4		5n3e:14
+cross country skiing at the 1960 winter olympics men s 4 10		5n3e:14
+cross country skiing at the 1960 winter olympics men s 4 10 kilometre		5n3e:14
+cross country skiing at the 1960 winter olympics men s 4 10 kilometre relay	5n3e	
+cross country skiing at the 1960 winter olympics men s 4 10 km relay	5n3e	
+cross country skiing at the 1960 winter olympics men s 4 x 10 km relay	5n3e	
+cross country skiing at the 1992		6ane:8
+cross country skiing at the 1992 winter		6ane:8
+cross country skiing at the 1992 winter olympics	6ane	
+cross country skiing at the 2002		61ow:14
+cross country skiing at the 2002 winter		61ow:14
+cross country skiing at the 2002 winter olympics		61ow:14
+cross country skiing at the 2002 winter olympics men		61ow:14
+cross country skiing at the 2002 winter olympics men s		61ow:14
+cross country skiing at the 2002 winter olympics men s 4		61ow:14
+cross country skiing at the 2002 winter olympics men s 4 10		61ow:14
+cross country skiing at the 2002 winter olympics men s 4 10 kilometre		61ow:14
+cross country skiing at the 2002 winter olympics men s 4 10 kilometre relay	61ow	
+cross country skiing at the 2002 winter olympics men s 4 x 10 kilometre relay	61ow	
+cross country skiing at the 2006		6118:14,668i:14
+cross country skiing at the 2006 winter		6118:14,668i:14
+cross country skiing at the 2006 winter olympics		6118:14,668i:14
+cross country skiing at the 2006 winter olympics men		6118:14
+cross country skiing at the 2006 winter olympics men s		6118:14
+cross country skiing at the 2006 winter olympics men s 4		6118:14
+cross country skiing at the 2006 winter olympics men s 4 10		6118:14
+cross country skiing at the 2006 winter olympics men s 4 10 kilometre		6118:14
+cross country skiing at the 2006 winter olympics men s 4 10 kilometre relay	6118	
+cross country skiing at the 2006 winter olympics men s 4 x 10 kilometre relay	6118	
+cross country skiing at the 2006 winter olympics women		668i:14
+cross country skiing at the 2006 winter olympics women s		668i:14
+cross country skiing at the 2006 winter olympics women s 4		668i:14
+cross country skiing at the 2006 winter olympics women s 4 5		668i:14
+cross country skiing at the 2006 winter olympics women s 4 5 kilometre		668i:14
+cross country skiing at the 2006 winter olympics women s 4 5 kilometre relay	668i	
+cross country skiing at the 2006 winter olympics women s 4 x 5 kilometre relay	668i	
+cross country skiing at the 2010		4zon:14,507t:14
+cross country skiing at the 2010 winter		4zon:14,507t:14
+cross country skiing at the 2010 winter olympics		4zon:14,507t:14
+cross country skiing at the 2010 winter olympics men		507t:14
+cross country skiing at the 2010 winter olympics men s		507t:14
+cross country skiing at the 2010 winter olympics men s 4		507t:14
+cross country skiing at the 2010 winter olympics men s 4 10		507t:14
+cross country skiing at the 2010 winter olympics men s 4 10 kilometre		507t:14
+cross country skiing at the 2010 winter olympics men s 4 10 kilometre relay	507t	
+cross country skiing at the 2010 winter olympics men s 4 x 10 kilometre relay	507t	
+cross country skiing at the 2010 winter olympics women		4zon:14
+cross country skiing at the 2010 winter olympics women s		4zon:14
+cross country skiing at the 2010 winter olympics women s 4		4zon:14
+cross country skiing at the 2010 winter olympics women s 4 5		4zon:14
+cross country skiing at the 2010 winter olympics women s 4 5 kilometre		4zon:14
+cross country skiing at the 2010 winter olympics women s 4 5 kilometre relay	4zon	
+cross country skiing at the 2010 winter olympics women s 4 x 5 kilometre relay	4zon	
+cross country skiing at the 2014		600v:14
+cross country skiing at the 2014 winter		600v:14
+cross country skiing at the 2014 winter olympics		600v:14
+cross country skiing at the 2014 winter olympics women		600v:14
+cross country skiing at the 2014 winter olympics women s		600v:14
+cross country skiing at the 2014 winter olympics women s 4		600v:14
+cross country skiing at the 2014 winter olympics women s 4 5		600v:14
+cross country skiing at the 2014 winter olympics women s 4 5 kilometre		600v:14
+cross country skiing at the 2014 winter olympics women s 4 5 kilometre relay	600v	
+cross country skiing sport	16p	
+cross country skiing sprint	16p	
+cross country skiing world championships	ve3	
+cross country skiing world cup	1544	
+cross country world championships	wqj	
+cross country world cup	1544	
+cross county	31zj	
+cross county ar	31zj	
+cross county arkansas	31zj	
+cross county highway	4t4y	
+cross creek	29s2	
+cross creek film	29s2	
+cross creek north carolina	6o2	
+cross crosslet	6foi	
+cross current	57vh	
+cross david	hhj	
+cross disciplinarity	5mt	
+cross disciplinary	5mt	
+cross doc	1hqy	
+cross execution	37rl	
+cross fell	4mxh	
+cross fitchee	6foi	
+cross fitchy	6foi	
+cross flag	5x5s	
+cross for		4cxs:4
+cross for military		4cxs:4
+cross for military valour	4cxs	
+cross fourchee	6foi	
+cross fourchy	6foi	
+cross gender	4ymb	
+cross george	fq7	
+cross heraldry	6foi	
+cross keys		wid:3
+cross keys rfc	wid	
+cross keys wiltshire	1rtl	
+cross legged	5kl	
+cross legged sitting	5kl	
+cross movement		2rww:3
+cross movement records	2rww	
+cross my		4k4h:7
+cross my heart		4k4h:7
+cross my heart and		4k4h:7
+cross my heart and hope		4k4h:7
+cross my heart and hope to		4k4h:7
+cross my heart and hope to die	4k4h	
+cross my heart and hope to die film	4k4h	
+cross of		dir:3,kv7:3,p0f:3,140n:5,15zf:4,35hp:3,3z66:4,4m31:4,4zn8:4
+cross of catrava	54mp	
+cross of coronado	lx6	
+cross of freedom		140n:5
+cross of freedom and		140n:5
+cross of freedom and solidarity	140n	
+cross of honor	b9p	
+cross of honour litteris et artibus	ajm	
+cross of honour of the great war	b9p	
+cross of iron	p0f	
+cross of iron film	p0f	
+cross of jesus	q5b	
+cross of knights of saints maurizio and lazzaro	smb	
+cross of liberty	35hp	
+cross of liberty estonia	35hp	
+cross of lorraine		36u9:4
+cross of merit		3z66:4
+cross of merit of poland	3z66	
+cross of merit on ribbon of the federal republic of germany	4wa	
+cross of merit poland	3z66	
+cross of mourning	5epx	
+cross of polonia restituta	5lz	
+cross of recognition	kv7	
+cross of saint		15zf:4
+cross of saint euphrosyne	15zf	
+cross of saint george	4m31	
+cross of san fernando	4l8g	
+cross of st		4m31:4
+cross of st george	1tkr,4m31	
+cross of st louis	3m7u	
+cross of the		4zn8:4
+cross of the crown of italy	15f9	
+cross of the holy spirit	4xxp	
+cross of the home army	jpy	
+cross of the legion d honneur	ur	
+cross of the living	4zn8	
+cross of the order of merit of the federal republic of germany	4wa	
+cross of the teutonic order	27pl	
+cross of valor	dir	
+cross of valor poland	dir	
+cross of valor polish	dir	
+cross of valour	dir	
+cross of valour poland	dir	
+cross of war	2o36	
+cross over	1r3	
+cross over fiction	1r3	
+cross platform	2r9	
+cross platform hybrid cloud	3i15	
+cross platform image viewer	1jmb	
+cross pommee	6foi	
+cross quadrilateral	1bse	
+cross river		xj6:3
+cross river state	xj6	
+cross river state nigeria	xj6	
+cross rivers state	xj6	
+cross roads northumberland county	wzw	
+cross roads washington county arkansas	13f7	
+cross sandbox	1hqy	
+cross shot	562p	
+cross slab	5m3s	
+cross slabs	5m3s	
+cross stitch novel	6gj7	
+cross symbol	1hqy	
+cross thrash	rze	
+cross town world series	ajf	
+cross traffic	3sfn	
+cross up	52gn	
+cross voided	6foi	
+cross wing politics	3o6	
+csomakoroes	3vq2	
+dassin jules	rlx	
+david bellamy singer	100c	
+david micheline	5v4o	
+deptford	nrb	ukk:2,4kwk:3
+deptford dock	ukk	
+deptford dockyard	ukk	
+deptford fun city	564	
+deptford green	nrb	
+deptford kent	nrb	
+deptford london	nrb	
+deptford london england	nrb	
+deptford railway		4kwk:3
+deptford railway station	4kwk	
+deptford royal dockyard	ukk	
+deptford station	4kwk	
+deptford station royal navy	ukk	
+deptford strand	nrb	
+deptford strond	nrb	
+deptford stroud	nrb	
+diabang	4gmf	
+dommarien	28nt	
+edward danson	nwc	
+essential		7ee:2,3erv:2
+essential cccp fedeli alla linea album	5umj	
+essential killing	3erv	
+essential liberty	69ls	
+essential records	7ee	
+essential records christian	7ee	
+essential thrombocytopenia	69st	
+fallbrook	1aaf	
+fallbrook ca	1aaf	
+fallbrook california	1aaf	
+fem raske piger	3ut9	
+fendesal	3zz	
+fitzmyer	60sz	
+flik a bug s life	1bed	
+floppy		1my:2
+floppy disk	1my	
+floppy disk drive	1my	
+floppy disk drives	1my	
+floppy drive	1my	
+gillibert	6dfv	
+gillibert charles	6dfv	
+golitsyns	6fcb	
+gondrexange	19mt	
+grundviller	2hng	
+guochuan	44io	
+hagane no renkinjutsushi	32w6	
+halopelagius	2jxe	
+halopelagius inordinatus	2jxe	
+hapjeong	62er	62er:2
+hapjeong station	62er	
+hiroshima	381,11e6	4w9:2,132q:2,2ank:2,3mk1:3,3o50:3
+hiroshima 1994	2yd	
+hiroshima and nagasaki bombings	y6r	
+hiroshima asian games	2yd	
+hiroshima atom bomb	6gz6	
+hiroshima bomb	6gz6	
+hiroshima bombings	y6r	
+hiroshima bugi atomu 57	3adp	
+hiroshima carp	3o50	
+hiroshima city	381	
+hiroshima daigaku	132q	
+hiroshima death match	3gzf	
+hiroshima f c	4gt	
+hiroshima fc	4gt	
+hiroshima film	11e6	
+hiroshima hiroshima	381	
+hiroshima hokkaido	4zjr	
+hiroshima japan	381	
+hiroshima ken	4w9	
+hiroshima koto shihan	132q	
+hiroshima mon		3mk1:3
+hiroshima mon amour	3mk1	
+hiroshima my love	3mk1	
+hiroshima nightlife	381	
+hiroshima peace institute	132q	
+hiroshima prefecture	4w9	
+hiroshima sanfrecce	4gt	
+hiroshima shi	381	
+hiroshima shi japan	381	
+hiroshima sky	5wjs	
+hiroshima sky is always blue	5wjs	
+hiroshima sky is always blue the beatles song	5wjs	
+hiroshima station	2ank	
+hiroshima toyo		3o50:3
+hiroshima toyo carp	3o50	
+hiroshima university	132q	
+ikechukwu		3ixh:2,4c1h:2,5ogv:2,68g6:2
+ikechukwu ezeh	68g6	
+ikechukwu ezenwa	5ogv	
+ikechukwu kalu	4c1h	
+ikechukwu uche	3ixh	
+inshore	r79	
+intesit caserta	zyn	
+ipress center vac	6a8k	
+isaiaah	6gl2	
+izra		5u0g:2
+izra district	5u0g	
+james shooter	62lb	
+jehangir	1nkz	
+jehangir ratan dadabhoy tata	647c	
+jehangir ratanji dadabhoy tata	647c	
+jehangir ratanji tata	647c	
+jerichower		2bvs:2
+jerichower land	2bvs	
+la senda		4vz2:3
+la senda oscura	4vz2	
+lfleda	5enn	
+lockwood gary	31v4	
+lockwood hotchkiss	21e6	
+lockwood margaret	tb3	
+lockwood s basin	7i	
+louis abdul farrakhan	4s4u	
+maria klawe	5is9	
+metanfetamina	5ssh	
+michael doohan	2kn1	
+michalow commune	1lvd	
+milram	30sc	
+minnesoda	cv	
+nocera		ts6:2,1p8x:2,4ep1:2,5cw8:2
+nocera inferiore	ts6	
+nocera superiore	5cw8	
+nocera terinese	4ep1	
+nocera umbra	1p8x	
+nurses	1qx7	
+nurses memorial	m6	
+nurses on the line the crash of flight 7	5liu	
+patrese	14td	
+paul antoine aristide montel	3gta	
+paul antoine vidal	1h8j	
+physiologist	b6o	
+piandj river	2k3s	
+poisen	5val	
+potc4	jfj	
+pouillon	2467,2fpo	
+pouillon landes	2467	
+pouillon marne	2fpo	
+precentorship	6dyh	
+prince fushimi		19h4:3,2ojc:3,450w:3
+prince fushimi hiroyasu	2fkw	
+prince fushimi hiroyoshi	450w	
+prince fushimi kuniie	2ojc	
+prince fushimi kuniye	2ojc	
+prince fushimi sadanaru	19h4	
+quiliano	24ym	
+reuters	3kjk	
+reuters breakingviews	3kjk	
+reuters com	3kjk	
+reuters foundation	3kjk	
+reuters health	3kjk	
+reuters in	3kjk	
+reuters international	3kjk	
+reuters limited	3kjk	
+reuters news	3kjk	
+reuters news agency	3kjk	
+reuters news service	3kjk	
+reuters plc	3kjk	
+reuters television	3kjk	
+reuters uk	3kjk	
+rhena korbach	11em	
+robert musil	1hmo	
+robert pickering bo burnham	1xxv	
+robert pickering burnham	1xxv	
+robert ruehlmann	5veq	
+seisei kyosai	5ft6	
+settimio		54cy:2
+settimio lucci	54cy	
+settimio severo	1efi	
+socialogy	6hz	
+solbach	22dc	
+staatlichen museen zu berlin	9gg	
+starokostiantyniv	481r	
+strumitsa	xha	
+sznaider	3hr	
+tabernas	1kae	
+tabernas almeria	1kae	
+tabernas spain	1kae	
+telougou	hm	
+teresin commune	wwx	
+the beau		2988:3
+the beau brummels	2988	
+the gobi	6gai	
+the gobi desert	6gai	
+the magdalen		5685:3
+the magdalen reading	5685	
+the rose	1edl	22xa:3,35jj:3,3tnl:4
+the rose 1979 film	1edl	
+the rose bowl stadium	2uxr	
+the rose film	1edl	
+the rose from the dark tower series	19z9	
+the rose garden	35jj	
+the rose garden film	35jj	
+the rose movie	1edl	
+the rose of		3tnl:4
+the rose of baghdad	55un	
+the rose of stamboul	3tnl	
+the rose of stamboul film	3tnl	
+the rose tattoo	22xa	
+the rose tattoo film	22xa	
+the spearhead effect	s0e	
+the steel		3in7:3,4z60:3
+the steel city	hg	
+the steel helmet	3in7	
+the steel jungle	4z60	
+theta radiation	2oll	
+theta upsilon gamma	9n6	
+tnn 2015	1116	
+toriphile	dkp	
+toxteth	47e7	
+toxteth liverpool	47e7	
+trever		6bja:2
+trever douglas miller	6bja	
+trever miller	6bja	
+tselikovskaya	3j6n	
+unbroken	maa	
+unbroken 2014 film	maa	
+unbroken film	maa	
+unbroken original motion picture soundtrack	maa	
+utzon	1j8l	
+vasco		ujd:2,wpk:3,1yv2:2,27ys:2,2e6m:3,3x6p:2,4m9i:2,5cu2:2,5s5j:2
+vasco creti	ujd	
+vasco d gama	2e6m	
+vasco da		wpk:3,2e6m:3
+vasco da 1er conde da vidigueira gama	2e6m	
+vasco da gama	1xe,wpk,2e6m	
+vasco da gama comments	2e6m	
+vasco da gama film	4by7	
+vasco da gama football club	1xe	
+vasco da gama south africa	wpk	
+vasco da gamma	2e6m	
+vasco de gama	2e6m	
+vasco de gamma	2e6m	
+vasco di gama	2e6m	
+vasco faisca	4m9i	
+vasco fernandes	3x6p	
+vasco fernandes footballer	3x6p	
+vasco gama	2e6m	
+vasco goa sc	1yv2	
+vasco matos	5cu2	
+vasco pratolini	27ys	
+vasco s c	1yv2	
+vasco sc	1yv2	
+vasco sports club	1yv2	
+vasco varao	5s5j	
+vilaplana	2qdx	
+villafanez	4o12	
+y2k	65ay	
+y2k 9	60w3	
+y2k film	65ay	
+y2k tv movie	65ay	
+yenping	1b2i	

@@ -1,0 +1,578 @@
+08	bfe	
+08 15	27sy	
+08 15 1954	27sy	
+08 15 1954 film	27sy	
+08 15 film	27sy	
+08 26	6ezm	
+08 charter	hu0	
+470s	2akf	2bce:2
+470s bc	2bce	
+470s bce	2bce	
+a10	38au	
+a10 autoroute	wdo	
+a10 autoroute france	wdo	
+a10 france	wdo	
+a10 motorway	wdo	
+a10 motorway france	wdo	
+a10 motorway switzerland	6bqg	
+a10 paper	617b	
+a10 switzerland	6bqg	
+a10 thunderbolt	3gqy	
+a10 thunderbolt ii	3gqy	
+a10 warthog	3gqy	
+acanthophthalmus	1krr	
+actraiser	28j5	
+adesanya jason	5sex	
+airone	51e9	
+airspeedfiles	6cjo	
+airspeedfiles com	6cjo	
+aizwal	1olz	
+anthaxia	33xs	
+ardyn nam	moa	
+arguelles	477g	
+arguelles madrid metro	477g	
+assassins	1k5o	5umv:3
+assassins 1995 film	1k5o	
+assassins 2009 film	5ikw	
+assassins a film concerning rimbaud	ujy	
+assassins creed	vyg	5umv:3
+assassins creed 2	1k2m	
+assassins creed 3	1h60	
+assassins creed 5	4r4b	
+assassins creed altair s chronicles	6fyx	
+assassins creed altairs chronicles	6fyx	
+assassins creed bloodlines	6g1s	
+assassins creed brotherhood	3cbe	
+assassins creed identity	6h4q	
+assassins creed ii	1k2m	
+assassins creed ii discovery	6g3d	
+assassins creed iii	1h60	
+assassins creed iii liberation	4nh8	
+assassins creed origins	5umv	
+assassins creed revelations	3u9r	
+assassins creed rogue	6c17	
+assassins creed syndicate	5tsm	
+assassins creed unity	4r4b	
+assassins creed victory	5tsm	
+assassins creed video game	2ev0	
+assassins film	1k5o	
+assassins movie	1k5o	
+assassins of rome	567k	
+assassins s creed	vyg	
+assassins season eight episode	299u	
+athenee	i06	i06:3
+athenee de		i06:3
+athenee de luxembourg	i06	
+audergem	130o	
+audible american football	vq	
+barking	dqr	1bl8:3,2iq7:2,2voj:3,36yi:4
+barking and dagenham	dvl	
+barking and dagenham borough	dvl	
+barking and dagenham london borough	dvl	
+barking at		36yi:4
+barking at the		36yi:4
+barking at the moon	xmo	
+barking at the stars	36yi	
+barking dagenham	dvl	
+barking deer	6fnz	
+barking essex	dqr	
+barking f		1bl8:3
+barking f c	1bl8	
+barking fc	1bl8	
+barking london	dqr	
+barking london england	dqr	
+barking london underground station	2iq7	
+barking pumpkin	2voj	2voj:3
+barking pumpkin records	2voj	
+barking railway station	2iq7	
+barking station	2iq7	
+barking station masterplan	2iq7	
+barking town centre	dqr	
+barking town f c	1bl8	
+barking town square	dqr	
+barking tube station	2iq7	
+barking underground station	2iq7	
+bazoft		jh8:3
+bazoft rural		jh8:3
+bazoft rural district	jh8	
+bhargavi	6fss	
+blackrock	gar,rd5,34lb	
+blackrock cork	rd5	
+blackrock county cork	rd5	
+blackrock county dublin	34lb	
+blackrock dublin	34lb	
+blackrock financial	gar	
+blackrock financial management	gar	
+blackrock group	gar	
+blackrock inc	gar	
+blackrock institutional trust	gar	
+blackrock institutional trust company	gar	
+blackrock investment management	gar	
+blackrock investment management uk ltd	gar	
+blackrock solutions	gar	
+blackrock urban district council	34lb	
+bobnice	4b4p	
+bollinger		swp:2,225m:2,5q65:4
+bollinger county	swp	
+bollinger county missouri	swp	
+bollinger county mo	swp	
+bollinger everyman		5q65:4
+bollinger everyman wodehouse		5q65:4
+bollinger everyman wodehouse prize	5q65	
+bollinger shipyard	225m	
+bollinger shipyards	225m	
+borghorst	13sg	
+bouzincourt	2vm7	
+briouze	2aw6	
+bromus	1255	
+brzostek commune	3a9g	
+buenaventura	1g0r	26d7:2
+buenaventura colombia	1g0r	
+buenaventura county california	c3f	
+buenaventura ferreira	26d7	
+buenaventura valle del cauca	1g0r	
+buenaventura ventura california	7tn	
+buzi		17pf:3
+buzi rural		17pf:3
+buzi rural district	17pf	
+cassiglio	2i9m	
+changjiang river	8m4	
+changjiang shiye jituan youxian gongsi	44u2	
+charlette	1x2	
+charlette s web	6fkc	
+chaumoux		37tk:2
+chaumoux marcilly	37tk	
+civ	jpc	
+civ 1	1t67	
+civ 2	5zxx	
+civ 3	2gtc	
+civ 4	333a	
+civ 4 beyond the sword	5fxk	
+civ 4 bts	5fxk	
+civ 4 col	69ov	
+civ 4 colonization	69ov	
+civ 4 warlords	5ngb	
+civ 5	36sw	
+civ 6	wkf	
+civ i	1t67	
+civ ii	5zxx	
+civ iii	2gtc	
+civ iv	333a	
+civ iv colonization	69ov	
+civ iv warlords	5ngb	
+civ rev	5lq3	
+civ revolution	5lq3	
+civ series	jpc	
+civ v	36sw	
+civ v gods and kings	619n	
+civ vi	wkf	
+civ warlords	5ngb	
+clindamycine	5f1a	
+composed		ih:3
+composed musical		ih:3
+composed musical work	ih	
+composed salad	963	
+conviction	352e,3l03	596o:2
+conviction 2010 film	352e	
+conviction 2016 tv series	3l03	
+conviction the betty anne waters story	352e	
+cookshop	pj	
+deaniacs	29n4	
+declasse	4xuz	
+desree	3ufs	
+donegan anthony james	3wq7	
+douville		3j5a:3
+douville en		3j5a:3
+douville en auge	3j5a	
+eben		4g9i:2,5tg6:2,68dw:2
+eben christopher upton	4g9i	
+eben dugbatey	5tg6	
+eben dugbathey	5tg6	
+eben ezra	1y93	
+eben moglen	68dw	
+eben upton	4g9i	
+eedara veera venkata satyanarayana	n9a	
+efe ambrose	55xx	
+efe prince ehiorobo	5o62	
+efe sodje	3pyj	
+encheduanna	6d0i	
+epeugney	3yof	
+fc dolgoprudny	e1k	
+fc infonet	2f5o	
+fc infonet tallinn	2f5o	
+fc yakutiya		diy:3
+fc yakutiya yakutsk	diy	
+felinae	69ay	
+foundations	56nx	56nx:2
+foundations of aritmetic	1mnq	
+fresquiennes	1qgj	
+gatova	4ke9	
+ghilarza	16uk	
+glinki ek county	sye	
+glinki elk county	sye	
+gmina konskowola	236h	
+gomarsall	4mqk	
+greenford	46wb	
+greenford broadway	46wb	
+greenford green	46wb	
+greenford london england	46wb	
+greenford middlesex	46wb	
+greenford trotting park	46wb	
+greenford united kingdom	46wb	
+gyonggi province	9fd	
+hippodamea	3yva	
+hmnls	9f4	
+hrubieszow	3hc3	28os:2
+hrubieszow commune	pxz	
+hrubieszow county	28os	
+hryhoriy		5nl6:2,5zrh:2
+hryhoriy baranets	5nl6	
+hryhoriy ivanovych petrovsky	5efm	
+hryhoriy petrovskiy	5efm	
+hryhoriy petrovsky	5efm	
+hryhoriy yarmash	5zrh	
+hucknall	1d6u	fwq:4
+hucknall colliery welfare f c	fwq	
+hucknall nottinghamshire	1d6u	
+hucknall torkard	1d6u	
+hucknall town	fwq	fwq:4
+hucknall town f		fwq:4
+hucknall town f c	fwq	
+hucknall town fc	fwq	
+hucknall town football club	fwq	
+hutten	34s3	
+hutten switzerland	34s3	
+hutten zh	34s3	
+hutten zurich	34s3	
+inkatha		38zk:3
+inkatha freedom		38zk:3
+inkatha freedom party	38zk	
+inkatha freedom party ifp	38zk	
+iringalakuda	1yyz	
+isael	5mo1	5mo1:4
+isael da		5mo1:4
+isael da silva		5mo1:4
+isael da silva barbosa	5mo1	
+james dumaresq clavell	117l	
+jean etienne		2tno:4
+jean etienne dominique		2tno:4
+jean etienne dominique esguirol	2tno	
+jean etienne dominique esquirol	2tno	
+john alec jackson	44j2	
+john alec johnnie jackson	44j2	
+john surtees	qa7	
+john zamoyski	1hcg	
+jordanoleiopus	obu	
+juliers	15ip	
+katrnia kaif	119o	
+kleinmachnow	lpd	
+kristeleg folkeparti	6md	
+langeland		3fbv:2
+langeland municipality	3fbv	
+lattorfian	5u3s	
+leaders for manufacturing	3g1	
+leaders of a nation	9rm	
+leaders of post soviet independent states	3ld6	
+leaders of scottish labour	dk4	
+leaders of the conservative and unionist party	3v0a	
+leaders of the conservative party	3v0a	
+leaders of the conservative party uk	3v0a	
+leaders of the labour party uk	3lmh	
+leaders of the liberal party of canada	j0	
+leaders of the opposition uk	tkz	
+leaders of the warsaw ghetto uprising	2ve5	
+lesboeufs	2pxh	
+ligue		9px:2,9t7:5,bkt:2,cnj:2,xtd:5,y3a:2,1gqk:2,1wph:2,3mwg:5
+ligue 1	9px,1wph	
+ligue 1 cote d ivoire	1wph	
+ligue 1 ivory coast	1wph	
+ligue 1 mauritania	20ep	
+ligue 1 orange	9px	
+ligue 2	bkt	
+ligue 3	y3a	
+ligue canadienne de football	ewi	
+ligue canadienne de soccer	spy	
+ligue communiste revolutionare	5r3u	
+ligue communiste revolutionnaire	5r3u	
+ligue d action francaise	cuw	
+ligue de		9t7:5
+ligue de la		9t7:5
+ligue de la patrie		9t7:5
+ligue de la patrie francaise	9t7	
+ligue des droits de l homme	plb	
+ligue des droits de l homme et du citoyen	plb	
+ligue des droits de l homme france	plb	
+ligue des droits de lhomme et du citoyen	plb	
+ligue ethias	4lph	
+ligue europeene de natation	ui4	
+ligue europeenne de natation	ui4	
+ligue francaise pour la defense des droits de lhomme	plb	
+ligue haitienne	1gqk	
+ligue magnus	cnj	
+ligue nationale		xtd:5
+ligue nationale a	eix	
+ligue nationale de handball d1	3kie	
+ligue nationale de hockey	7rj	
+ligue nationale du		xtd:5
+ligue nationale du football		xtd:5
+ligue nationale du football amateur	xtd	
+ligue nord		3mwg:5
+ligue nord americaine		3mwg:5
+ligue nord americaine de		3mwg:5
+ligue nord americaine de hockey	3mwg	
+ligue nord americaine de hockey version 2	3mwg	
+loktee	1qpq	
+louis thomas		2rzs:5
+louis thomas count		2rzs:5
+louis thomas count of		2rzs:5
+louis thomas count of soissons	2rzs	
+louis thomas hardin	5fit	
+louis thomas of savoy carignan	2rzs	
+louis thomas prince of savoy carignan	2rzs	
+margaretta		32vg:2
+margaretta scott	32vg	
+margaretta wade campbell	303k	
+maria aloysia louise antonia weber	3wls	
+marya	55bz	
+mayback	5y0g	
+messages application	6aaf	
+messages velvet revolver song	1rpf	
+mindanaoan	2xm9	
+minerul baia mare	hk5	
+minerul lupeni	2oyb	
+minerul motru	5x6d	
+minerul petrosani	gu4	
+minutalia	6ewa	
+mitrolumna	9u5	
+mqsql	5js1	
+mundharmonika	2qv	
+new mickey mouse club	tjd	
+nicholaos mavrokordatos	5yfd	
+nizhyn	ton	
+nizhyn ukraine	ton	
+olpe	2h0i	
+olpe district	2rz4	
+olpe germany	2h0i	
+olten	nxl	19w5:2
+olten district	19w5	
+olten so	nxl	
+olten solothurn	nxl	
+olten switzerland	nxl	
+ombudspersons	4yfr	
+otavio		5h0g:2
+otavio dutra	5h0g	
+pensgm	1np	
+physicochemist	l9q	
+plaimbois		20o1:3,2hkx:2
+plaimbois du		20o1:3
+plaimbois du miroir	20o1	
+plaimbois vennes	2hkx	
+porpe	301p	
+protocol	2iwx	6fa2:2
+protocol computer	8az	
+protocol computer science	8az	
+protocol computing	8az	
+protocol cryptography	2tfn	
+protocol family	6fa2	
+protocol film	2iwx	
+protocol hierarchy	6fa2	
+protocol layer	6fa2	
+protocol on pollutant release and transfer registers	r1p	
+protocol stack	6fa2	
+protocol suite	6fa2	
+protocol suites	6fa2	
+protocol testing	8az	
+protocol to amend the convention for the unification of certain rules relating to international carriage by air	4me3	
+protocol treaty	18q	
+pseudoplusia	5glh	
+rael the who song	65tn	
+raphione	32v	
+reichard count palatine of simmern sponheim	5cqj	
+reichard of palatinate simmern sponheim	5cqj	
+residential	zc2	zc2:2,42ci:2
+residential apartment	3w1z	
+residential area	zc2	
+residential areas	zc2	
+residential college	42ci	
+residential college princeton university	9u	
+residential colleges	42ci	
+residential colleges of dartmouth college	x8	
+residential colleges of murray state university	hi4	
+residential colleges of princeton university	9u	
+residential colleges of the university of california santa cruz	2he	
+residential colleges university of melbourne	1bw	
+residential communities of dartmouth college	x8	
+residential complex	zc2	
+residential development	zc2	
+residential developments	zc2	
+residential district	zc2	
+residential fire	2omw	
+residential neighborhood	zc2	
+residential neighbourhood	zc2	
+residential pets	6gqz	
+residential property	zc2	
+residential real estate	zc2	
+residential region	zc2	
+residential zones	zc2	
+rhamnus	2814	
+rhamnus genus	2814	
+rhamnus plant	2814	
+rollot	224h	
+rottofreno	3hs0	
+rurange	30q8	2d4b:3
+rurange les		2d4b:3
+rurange les thionville	2d4b	
+ryuuzaburo ootomo	5p1t	
+ryuuzaburo otomo	5p1t	
+saskatchewaner	h1	
+scarpatio	2tze	
+schavan	1u1x	
+scorzo	2ie9	
+sercan		2ojo:2,3tv1:2,59z0:2
+sercan bilinc guvenisik	2ojo	
+sercan bilinc guvensk	2ojo	
+sercan guevenisik	2ojo	
+sercan guvenisik	2ojo	
+sercan guvensk	2ojo	
+sercan sararer	3tv1	
+sercan sararer osuna	3tv1	
+sercan yildirim	59z0	
+sercan yldrm	59z0	
+shill steve	25oz	
+sif ruud	2fth	
+sif ruud fallde	2fth	
+sir gambon	f6y	
+smcm	6d77	
+spellbinder novel	5dzi	
+sperduti nel buio	2ok3	
+sperduti nel buio film 1947	2ok3	
+spermacet whale	600t	
+stuga	1knl	
+subspace single	5gpt	
+subspace song	5gpt	
+tadeus baird	4yzo	
+tadeus reichstein	2ndv	
+talktv philippines	5gqe	
+tanja	7kj	47si:2
+tanja plibersek	5dfo	
+tanja worle	47si	
+tapan		1l8n:2
+tapan sinha	1l8n	
+the crew	4b6,22x6,60kr	33ic:5
+the crew 2000 film	22x6	
+the crew band	13wc	
+the crew calling all units	60kr	
+the crew of		33ic:5
+the crew of the		33ic:5
+the crew of the dora	33ic	
+the crew video game	60kr	
+the loves		21ji:6,2vsm:4,3324:6,36hs:4,3x7n:4,45lv:4,492y:4,4hx6:4,62kw:5,65ia:5
+the loves and		3324:6
+the loves and times		3324:6
+the loves and times of		3324:6
+the loves and times of scaramouche	3324	
+the loves of		21ji:6,2vsm:4,36hs:4,3x7n:4,45lv:4,492y:4,4hx6:4,62kw:5,65ia:5
+the loves of carmen	2vsm	
+the loves of carmen 1948 film	2vsm	
+the loves of casanova	492y	
+the loves of edgar		21ji:6
+the loves of edgar allan		21ji:6
+the loves of edgar allan poe	21ji	
+the loves of hercules	36hs	
+the loves of isadora	5j5x	
+the loves of jeanne ney	27e5	
+the loves of joanna		65ia:5
+the loves of joanna godden	65ia	
+the loves of kafka	45lv	
+the loves of kafta	45lv	
+the loves of liszt	3m7k	
+the loves of madame		62kw:5
+the loves of madame dubarry	62kw	
+the loves of omar khayyam	24i0	
+the loves of pharaoh	3x7n	
+the loves of queen elizabeth 1912 film	5mhk	
+the loves of salammbo	4hx6	
+the manufacture of madness	4uqs	
+the manufacture of madness a comparative study of the inquisition and the mental health movement	4uqs	
+the monsanto company	14ai	
+the shooting		5fv4:3
+the shooting company of frans banning cocq and willem van ruytenburch	540r	
+the shooting party	5fv4	
+tooth	491x	4n0:3,1rxs:2,22nq:2
+tooth abnormality	1rxs	
+tooth and nail records	4n0	
+tooth animal	491x	
+tooth cavity	3b86	
+tooth decay	3b86	
+tooth disease	1rxs	
+tooth diseases	1rxs	
+tooth disorder	1rxs	
+tooth disorders	1rxs	
+tooth fairy	22nq	
+tooth fairy 2010 film	22nq	
+tooth fairy film	22nq	
+tooth fairy movie	22nq	
+tooth nail		4n0:3
+tooth nail records	4n0	
+tooth pathology	1rxs	
+tooth root	491x	
+tooth serrations	491x	
+tseytlin	52fg	
+tzia island greece	4a8b	
+uaanchorage	ulo	
+uniao		awn:5,ebt:5,2w1w:4,2wnj:4,4hfc:3
+uniao agricola		ebt:5
+uniao agricola barbarense		ebt:5
+uniao agricola barbarense futebol		ebt:5
+uniao agricola barbarense futebol clube	ebt	
+uniao bandeirante	2wnj	2wnj:4
+uniao bandeirante f c	2wnj	
+uniao bandeirante fc	2wnj	
+uniao bandeirante futebol		2wnj:4
+uniao bandeirante futebol clube	2wnj	
+uniao barbarense	ebt	
+uniao barbarense futebol clube	ebt	
+uniao ciclista de sobrado	43pe	
+uniao coimbra	55gd	
+uniao d de leiria	4o6	
+uniao da madeira	7c5	
+uniao das lamas	1dh6	
+uniao de coimbra	55gd	
+uniao de lamas	1dh6	
+uniao de leiria	4o6	
+uniao de lisboa	67o	
+uniao de nacoes sul americanas	4z0z	
+uniao de rondonopolis	4hfc	
+uniao de tomar	3o57	
+uniao desportiva de leiria	4o6	
+uniao desportiva oliveirense	hzl	
+uniao esporte		4hfc:3
+uniao esporte clube	4hfc	
+uniao football lisboa	67o	
+uniao futebol comercio e industria de tomar	3o57	
+uniao lamas	1dh6	
+uniao leiria	4o6	
+uniao madeira	7c5	
+uniao recreativa		2w1w:4
+uniao recreativa dos		2w1w:4
+uniao recreativa dos trabalhadores	2w1w	
+uniao sao		awn:5
+uniao sao joao	awn	awn:5
+uniao sao joao araras	awn	
+uniao sao joao e		awn:5
+uniao sao joao e c	awn	
+uniao sao joao esporte clube	awn	
+uniao sport clube paredes	1uoe	
+villeperdrix	28ce	
+warcrime	km3	
+william percy	46dh,5qdb	
+william percy bishop	5qdb	
+william percy writer	46dh	
+wowblox tummy touch records	5rtu	
+xella	39h0	
+xella valencia	39h0	
+zandalee	36x2	
+zoetermeer	fq9	
+zorqabad		1whh:3
+zorqabad rural		1whh:3
+zorqabad rural district	1whh	

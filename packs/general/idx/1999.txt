@@ -1,0 +1,469 @@
+2090s	29eg	
+2090s fictional	29eg	
+215th aero squadron	26xr	
+administer	rom	
+alstom	fov	fov:4,sv3:3,4yes:2
+alstom crespin	4yes	
+alstom ecotecnia	fov	
+alstom lhb	fov	
+alstom petite foret valenciennes	666i	
+alstom power	fov	
+alstom transport	fov	
+alstom transportation		sv3:3
+alstom transportation germany	sv3	
+alstom world		fov:4
+alstom world train		fov:4
+alstom world train mfg	fov	
+althen		2kn3:3
+althen des		2kn3:3
+althen des paluds	2kn3	
+andermatt	2htv	
+andermatt switzerland	2htv	
+andermatt ur	2htv	
+andermatt uri	2htv	
+annelles	2bpv	
+ansumang 3 mistakes	4e11	
+artigat	1m5i	
+bangalah	4x1x	
+banza kasongo	3apq	
+bardolino	1ovw	
+bardolino cf	108m	
+bardolino verona	108m	
+baxter	fjn,45xr,5z9p	16zh:2,3ihx:2,45xr:2
+baxter 1972 film	5z9p	
+baxter 1973 film	5z9p	
+baxter county	16zh	
+baxter county ar	16zh	
+baxter county arkansas	16zh	
+baxter james k	3fk1	
+baxter name	fjn	
+baxter stockman	3ihx	
+baxter stockman tmnt	3ihx	
+baxter surname	fjn	
+baxter warren earp	46kj	
+bayerisch		28ll:2
+bayerisch eisenstein	28ll	
+behnamvasat		2twq:5
+behnamvasat e		2twq:5
+behnamvasat e jonubi	2twq	2twq:5
+behnamvasat e jonubi rural		2twq:5
+behnamvasat e jonubi rural district	2twq	
+bethesda	26b	eg3:2,w7l:5,1y7a:3
+bethesda chevy		w7l:5
+bethesda chevy chase		w7l:5
+bethesda chevy chase high		w7l:5
+bethesda chevy chase high school	w7l	
+bethesda creation club	1y7a	
+bethesda game		1y7a:3
+bethesda game studios	1y7a	
+bethesda games	eg3	
+bethesda maryland	26b	
+bethesda md	26b	
+bethesda montreal	1y7a	
+bethesda naval hospital tower	3lyt	
+bethesda naval medical center	3lyt	
+bethesda row	26b	
+bethesda softworks	eg3	
+bethesda softworks llc	eg3	
+bethesda united states of america	26b	
+bethesda us md	26b	
+bethesda vr	eg3	
+bitsie tulloch	5pr3	
+bodawphaya	4v0u	
+boneiru	qxn	
+bugcruncher battle droids	6ght	
+buleleng	4gai	
+buleleng buleleng	4gai	
+buleleng kingdom	4gai	
+buleleng regency	4gai	
+bxr	4ji7	
+cerithioidea	35oc	
+chatonrupt		1cag:2
+chatonrupt sommermont	1cag	
+conscripti	6ha5	
+cosmas and damian	68u1	
+croft brian	64dg	
+croft farm	t2h	
+croft preparatory school	byr	
+croft primary school	prt	
+cymorrhiza	kd1	
+david bridges	3enu	
+discovered	5l4r	
+discovered footage	7dd	
+distinto amanecer	5o6i	
+elektrosvet saransk	52b	
+espanolas en paris	5rwx	
+fc ktp	nny,qr2	
+ff8	5v8o	
+george 3rd earl of cumberland	5pov	
+george lincoln		4e56:3
+george lincoln rockwell	4e56	
+gmina kobylanka	3ag6	
+gnosimacha	14zy	
+hagmetana	c84	
+halfdanr the black	66mp	
+hohenfels belgium	f1a	
+houes	4f	
+hradschin	uqi	
+i sette		5rnf:5
+i sette dell orsa maggiore	2eb0	
+i sette dellorsa maggiore	2eb0	
+i sette fratelli cervi	3i29	
+i sette gladiatori	48ww	
+i sette nani		5rnf:5
+i sette nani alla		5rnf:5
+i sette nani alla riscossa	5rnf	
+icheon	4zhj	568m:3
+icheon daekyo		568m:3
+icheon daekyo wfc	568m	
+icheon hummel korea	kbl	
+icheon south korea	4zhj	
+ichiyusai hiroshige	3e4d	
+ichiyusai kuniyoshi	5eq9	
+ignoffo	46lv	
+inspiral		4exf:2
+inspiral carpets	4exf	
+inspiral carpets radio 1 sessions	4exf	
+jaaz		2e61:2
+jaaz multimedia	2e61	
+jabuuti	3d3	
+jabuuti city	gmx	
+james mcdonnell	51m7	
+jayhawks		4ok9:2
+jayhawks band	4ok9	
+kalevalaa	2d4n	
+khnomkhufwey	uba	
+kil	ai9,6el3	
+kil municipality	1euz	
+kil toppfotball	ai9	
+kimi		eez:2,1pki:2
+kimi e	17e1	
+kimi katkar	1pki	
+kimi matias raikkonen	eez	
+kimi ni negai wo	z5i	
+kimi no na o yobu	47rd	
+kimi raeikkonen	eez	
+kimi raikkonen	eez	
+kimi raikonen	eez	
+kimi raikonnen	eez	
+kimi record label	8dx	
+kimi wa tomodachi	13e4	
+kindercore	204c	204c:2
+kindercore records	204c	
+komodos	1wn5	
+kurhessen kassel	axv	
+languefrancaise	z	
+lc41	ood	
+lefschetz	1mx4	
+lezennes	39o8	
+liner service	3o1	
+lwa	l28	
+maracalagonis	3shi	
+merger of aol and time warner	cro	
+moitron	3xo6	3og5:3
+moitron sur		3og5:3
+moitron sur sarthe	3og5	
+national policy framework for strategic gateways and trade corridors	204i	
+nazarkahrizi		i04:3
+nazarkahrizi rural		i04:3
+nazarkahrizi rural district	i04	
+neuhausen	3elm	4pty:3
+neuhausen a rheinfall	4pty	
+neuhausen a rhf	4pty	
+neuhausen am		4pty:3
+neuhausen am rheinfall	4pty	
+neuhausen am rheinfall schaffhausen	4pty	
+neuhausen am rheinfall sh	4pty	
+neuhausen am rheinfall switzerland	4pty	
+neuhausen engen	31dy	
+neuhausen erzgeb	3elm	
+neuhausen saxony	3elm	
+neuhausen schaffhausen	4pty	
+neuhausen sh	4pty	
+neuhausen switzerland	4pty	
+new day	68sg	
+new day 50 cent song	68sg	
+newburg new york	iyh	
+newburg ny	iyh	
+newburg oregon	2pii	
+nioman	l3i	
+nioman hrodna	729	
+nyrba do brasil	2mv4	
+omarcheeseboro gillian welch	2yw9	
+omignano	4vmx	
+paul bonar	67hp	
+pazin	3w43	
+peloponnesians greek	2zt	
+pennygillam	1mqm	
+phillipville	2hve	
+piatetski shapiro	1l9t	
+picker art gallery	4z4	
+pooh		3bta:4,5g5z:9
+pooh bear	4ihb	
+pooh s		3bta:4,5g5z:9
+pooh s grand		5g5z:9
+pooh s grand adventure	5g5z	5g5z:9
+pooh s grand adventure the		5g5z:9
+pooh s grand adventure the search		5g5z:9
+pooh s grand adventure the search for		5g5z:9
+pooh s grand adventure the search for christopher		5g5z:9
+pooh s grand adventure the search for christopher robin	5g5z	
+pooh s heffalump		3bta:4
+pooh s heffalump movie	3bta	
+pooh s lullabee	2re5	
+pooltown kentucky	169x	
+pucini	po0	
+quaregnon	47xp	
+rafah	3xqn	
+rasenna	1zmd	
+ratm album	6ey1	
+recipe book	1bvo	
+recques		33ht:3,3nvv:3
+recques sur		33ht:3,3nvv:3
+recques sur course	33ht	
+recques sur hem	3nvv	
+retaliatory force	3bq	
+richard gaines	1x7y	
+rupilia	5g06	5g06:2
+rupilia faustina	5g06	
+saint lon		2gar:4
+saint lon les		2gar:4
+saint lon les mines	2gar	
+sarita		3iwv:2
+sarita choudhury	3iwv	
+sarita montiel	vma	
+savory pie	ab0	
+sdna	432v	
+seiichi	180m	2wnk:2
+seiichi first name	180m	
+seiichi given name	180m	
+seiichi tanabe	2wnk	
+sevrier	2dnk	
+sir brewster	16lm	
+sofonisbe anguissola	3urk	
+st julien des landes	2l28	
+st julien en genevois	165z	
+stoplight	6hky	
+sulteng	kyp	
+sutcliff rosemary	12ix	
+suzhou	3uq,3t1f	
+suzhou anhui	3t1f	
+suzhou china	3uq	
+suzhou jiangsu	3uq	
+suzhou jiangsu province china	3uq	
+suzhou prefecture	3uq	
+taraxicum	5e1r	
+tarle	3ddz	
+technically dead	3qj	
+the chimp	3el0	
+the haig	oj	
+the maersk group	5gu0	
+the sabbath film	1b7o	
+thodupuzha	5v6j	
+tippah		3wni:2
+tippah county	3wni	
+tippah county mississippi	3wni	
+tippah county ms	3wni	
+toddy gudjonsson	3ef1	
+torre		n8b:3,ses:2,1yzd:4,2dwv:4,2twg:3,2v0m:4,38uw:3,394z:2,3em9:3,3nfl:3,3q34:2,3q91:2,3xdy:3,3zgn:3,3zih:2,42l2:5,43ui:2,4dd4:4,4gfu:3,4gmk:3,4hmd:2,4k5s:2,4pwm:3,4z1n:4,56pf:3,58uw:3,5uyp:3,6cxw:3,6h7c:2
+torre 525 avenida la capilla	3zz	
+torre annunziata	ses	
+torre baro		5uyp:3
+torre baro vallbona	5uyp	
+torre baro vallbona barcelona metro	5uyp	
+torre beretti	4z1n	4z1n:4
+torre beretti e		4z1n:4
+torre beretti e castellaro	4z1n	
+torre bormida	3q91	
+torre canavese	394z	
+torre d		4gfu:3,56pf:3
+torre d arese	56pf	
+torre d isola	4gfu	
+torre darese	56pf	
+torre de		1yzd:4,2twg:3,3nfl:3,3xdy:3,3zgn:3,4pwm:3,6cxw:3
+torre de busi	3nfl	
+torre de cabdella	2x8z	
+torre de cristal	6cxw	
+torre de cristal madrid	6cxw	
+torre de juan		1yzd:4
+torre de juan abad	1yzd	
+torre de passeri	4pwm	
+torre de penafiel	2twg	
+torre de penafiel spain	2twg	
+torre de penafiel valladolid	2twg	
+torre de picenardi	3zgn	
+torre de picenardi italy	3zgn	
+torre de roveri	3xdy	
+torre de telecomunicaciones	1orb	
+torre del		n8b:3,2v0m:4
+torre del bierzo	2v0m	2v0m:4
+torre del bierzo leon	2v0m	
+torre del bierzo spain	2v0m	
+torre del greco	n8b	
+torre di		2dwv:4,38uw:3,4gmk:3
+torre di mosto	38uw	
+torre di pisa	2h9f	
+torre di ruggiero	4gmk	
+torre di santa		2dwv:4
+torre di santa maria	2dwv	
+torre disola	4gfu	
+torre eiffel	1sc0	
+torre garibaldi	6gqx	
+torre gran costanera	6gpd	
+torre gran costanera building	6gpd	
+torre kernot	1zcw	
+torre la		4dd4:4
+torre la ribera	4dd4	4dd4:4
+torre la ribera huesca	4dd4	
+torre la ribera spain	4dd4	
+torre le		58uw:3
+torre le nocelle	58uw	
+torre maggiore	1adm	
+torre mondovi	43ui	
+torre neapolis	3dvd	
+torre nilson	13vw	
+torre nunziata	ses	
+torre orsaia	3q34	
+torre pacheco	3zih	
+torre pallavicina	4k5s	
+torre pellice	4hmd	
+torre pendente	2h9f	
+torre pendente di pisa	2h9f	
+torre reforma	6h7c	
+torre san		3em9:3
+torre san patrizio	3em9	
+torre sant andrea	4ccb	
+torre torquay	5o2	
+torre unicredit	6gqx	
+torre val		42l2:5
+torre val de		42l2:5
+torre val de san		42l2:5
+torre val de san pedro	42l2	
+torre val de san pedro segovia	42l2	
+torre val de san pedro spain	42l2	
+treehopper	3x7r	
+ttws	3bxq	
+ubsola	2vol	
+uruguayana	417b	
+valle		i6m:4,1fuv:2,1hom:3,1kyf:3,1ouz:2,1pbd:3,1pz2:3,1qxq:3,1uij:3,1y10:2,1zws:3,2a47:3,2bv5:3,2fww:3,2oj7:4,2pqo:3,2qpg:4,33n1:3,366v:3,375j:3,39ms:4,3aix:3,3dz1:3,3e03:4,3jv4:2,3qzn:3,3z3z:3,42nu:3,432p:4,4at2:4,4bhi:3,4dq2:3,4k0d:2,4pwr:3,4v4x:2,5lm1:3
+valle agricola	4k0d	
+valle aurina	3213	
+valle castellana	1ouz	
+valle cerrina	466m	
+valle compostela	10d1	
+valle d		1zws:3,2a47:3,432p:4
+valle d alesani	2a47	
+valle d antrona	2ryb	
+valle d aosta	5c7	432p:4
+valle d aosta calcio	432p	
+valle d aosta vallee d aoste	5c7	
+valle d orezza	1zws	
+valle daosta	5c7	
+valle de		1hom:3,1pz2:3,1uij:3,2bv5:3,2fww:3,2oj7:4,2pqo:3,2qpg:4,33n1:3,366v:3,375j:3,39ms:4,3e03:4,3qzn:3,42nu:3,4at2:4,4bhi:3,4dq2:3
+valle de albaida	eyq	
+valle de alcala	4ggu	
+valle de ancares	366v	
+valle de aran	wu7	
+valle de aranguren	3czf	
+valle de bardaji	4at2	4at2:4
+valle de bardaji huesca	4at2	
+valle de bardaji spain	4at2	
+valle de bohi	wr8	
+valle de broto	4tqf	
+valle de cerrato	4dq2	
+valle de cerrato palencia	4dq2	
+valle de cerrato spain	4dq2	
+valle de cofrentes	2o5n	
+valle de cofrentes ayora	2o5n	
+valle de egues	3ce1	
+valle de elorz		39ms:4
+valle de elorz elortzibar	39ms	
+valle de hecho	2bv5	
+valle de hecho huesca	2bv5	
+valle de hecho spain	2bv5	
+valle de la		2oj7:4
+valle de la serena	2oj7	
+valle de las		3e03:4
+valle de las espadas	1n7s	
+valle de las navas	3e03	
+valle de las navas burgos	3e03	
+valle de las navas spain	3e03	
+valle de losa	2fww	
+valle de losa burgos	2fww	
+valle de losa spain	2fww	
+valle de manzanedo	42nu	
+valle de manzanedo burgos	42nu	
+valle de manzanedo spain	42nu	
+valle de mena	1pz2	
+valle de oca	3qzn	
+valle de oca burgos	3qzn	
+valle de oca spain	3qzn	
+valle de santibanez	4bhi	
+valle de santibanez burgos	4bhi	
+valle de santibanez spain	4bhi	
+valle de sedano	1uij	
+valle de sedano burgos	1uij	
+valle de sedano spain	1uij	
+valle de tobalina	1hom	
+valle de tobalina burgos	1hom	
+valle de tobalina spain	1hom	
+valle de valdebezana	2pqo	
+valle de valdebezana burgos	2pqo	
+valle de valdebezana spain	2pqo	
+valle de valdelaguna	375j	
+valle de valdelucio	33n1	
+valle de valdelucio burgos	33n1	
+valle de valdelucio spain	33n1	
+valle de yerri		2qpg:4
+valle de yerri deierri	2qpg	
+valle del		i6m:4,1pbd:3,1qxq:3,3z3z:3
+valle del albaida	eyq	
+valle del almanzora	1pbd	
+valle del bove	6g9q	
+valle del cauca	i6m	i6m:4
+valle del cauca department	i6m	
+valle del cauca department comments	i6m	
+valle del diavolo	4zno	
+valle del retortillo	3z3z	
+valle del retortillo palencia	3z3z	
+valle del retortillo spain	3z3z	
+valle del zalabi	1qxq	
+valle del zalabi granada	1qxq	
+valle del zalabi spain	1qxq	
+valle dell		5lm1:3
+valle dell angelo	5lm1	
+valle di		3aix:3,3dz1:3,4pwr:3
+valle di cadore	3aix	
+valle di casies	3wdy	
+valle di maddaloni	4pwr	
+valle di mezzana	3dz1	
+valle inclan	4wvz	
+valle inclan ramon maria del	4wvz	
+valle leventina	5z2u	
+valle lomellina	3jv4	
+valle mosso	1y10	
+valle municipality	1fuv	
+valle norway	1fuv	
+valle salimbene	4v4x	
+valle san		1kyf:3
+valle san nicolao	1kyf	
+valle superiore mosso	2f5j	
+vasella	5ex4	
+vaudevant	42si	
+verclause	2osz	
+vilgrain	2xiu	
+volkermarkt	419m	1of9:2
+volkermarkt district	1of9	
+volkermarkt political district	1of9	
+warnecourt	3n2z	
+washpo	15fm	
+weightlifter	188	
+william dodson broyles jr	1zi0	
+william jackson		2vrf:3
+william jackson hooker	2vrf	
+william jackson keighley	qmk	
+wulfhilde		37cb:3
+wulfhilde billung	37cb	
+wulfhilde of		37cb:3
+wulfhilde of saxony	37cb	
+yunlei zhao	11sm	

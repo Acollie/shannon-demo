@@ -1,0 +1,415 @@
+1republic	1212	
+201213		keq:3,xpu:4,11qa:4,11s4:4,15ls:6,1bd6:6,1tv1:3,1xbk:4,24g4:3,2xy3:4,318h:2,36vt:7,4qtd:3,5cvs:5
+201213 bundesliga	24g4	
+201213 cypriot		keq:3,xpu:4,11qa:4,11s4:4,15ls:6,1xbk:4
+201213 cypriot cup	keq	15ls:6
+201213 cypriot cup for		15ls:6
+201213 cypriot cup for lower		15ls:6
+201213 cypriot cup for lower divisions	15ls	
+201213 cypriot first		xpu:4
+201213 cypriot first division	xpu	
+201213 cypriot fourth		1xbk:4
+201213 cypriot fourth division	1xbk	
+201213 cypriot second		11s4:4
+201213 cypriot second division	11s4	
+201213 cypriot third		11qa:4
+201213 cypriot third division	11qa	
+201213 ekstraklasa	318h	
+201213 energie cottbus season	42e	
+201213 eredivisie		5cvs:5
+201213 eredivisie ice		5cvs:5
+201213 eredivisie ice hockey		5cvs:5
+201213 eredivisie ice hockey season	5cvs	
+201213 eredivisie season	5cvs	
+201213 erzgebirge aue season	67n	
+201213 fc erzgebirge aue season	67n	
+201213 fuball		24g4:3
+201213 fuball bundesliga	24g4	
+201213 fussball bundesliga	24g4	
+201213 isu		1bd6:6,36vt:7
+201213 isu grand		36vt:7
+201213 isu grand prix		36vt:7
+201213 isu grand prix of		36vt:7
+201213 isu grand prix of figure		36vt:7
+201213 isu grand prix of figure skating	36vt	
+201213 isu speed		1bd6:6
+201213 isu speed skating		1bd6:6
+201213 isu speed skating world		1bd6:6
+201213 isu speed skating world cup	1bd6	
+201213 la		1tv1:3
+201213 la liga	1tv1	
+201213 liga iv	wun	
+201213 real madrid c season	6qd	
+201213 rot wei erfurt season	68b	
+201213 russian		2xy3:4
+201213 russian premier		2xy3:4
+201213 russian premier league	2xy3	
+201213 sec conference men s basketball season	yvz	
+201213 snooker		4qtd:3
+201213 snooker season	4qtd	
+201213 speed skating world cup	1bd6	
+201213 worcester city f c season	3t7	
+aali an nil state	4qr0	
+aali an nil state sudan	4qr0	
+aali jamiluddin	4bkv	
+absence	4hgb	27dy:3,4hgb:2
+absence makes the heart go yonder	4wdt	
+absence of		27dy:3
+absence of malice	27dy	
+absence seizure	5iur	
+aibo	4b7s	2yr2:3
+aibo the		2yr2:3
+aibo the movie	2yr2	
+antakia	gr3	
+auer	4wuf	
+auer italy	4wuf	
+auer ora	4wuf	
+auer south tyrol	4wuf	
+auer stephen	531l	
+auer sudtirol	4wuf	
+auer trentino alto adige sudtirol	4wuf	
+avelo mortgage	mp8	
+aviva	43xm	5bnw:2,5qty:2
+aviva chomsky	5qty	
+aviva life and annuity company	43xm	
+aviva plc	43xm	
+aviva public limited company	43xm	
+aviva stadium	5bnw	
+aviva uk	43xm	
+baccara	3pat,5c9o	
+baccara film	5c9o	
+baccara frence film	5c9o	
+batsfjord	2c62	2c62:2
+batsfjord municipality	2c62	
+belligerent military occupation	34sr	
+belligerent occupation	34sr	
+betulaster	10sv	
+bigmig	4ehi	
+burchnall	63ik	
+cartagines	ae4	
+charming		5lbh:2
+charming sinners	5lbh	
+conceptualisation	2il	
+ctenosaura	4ziy	
+delinquent girl detective saki asamiya	4wm0	
+desperado	1utb	
+desperado 1995 film	1utb	
+desperado film	1utb	
+desperado movie	1utb	
+desperado outlaw	tiw	
+desperado trail	1ozi	1ozi:3
+dinosauria	7vt	
+djs are not rockstars	4ffa	
+domasowice dolne	3jg5	
+domasowice gorne	4ea6	
+dressmaker	4bid	3v4w:2,5n6o:2
+dressmaker from paris	6awr	6awr:4
+ernestino	5yvs	5yvs:2
+ernestino ramella	5yvs	
+esubiesu	3x3	
+garennes		36p8:3
+garennes sur		36p8:3
+garennes sur eure	36p8	
+george atwood	3qt9	
+gilferding	4clc	
+gmina bolesaw	2luq,48zp	
+gmina bolesaw dabrowa county	48zp	
+gmina bolesaw olkusz county	2luq	
+gmina lichnowy	1te4	
+gmina zamosc	oc5	
+googleplay	22ih	
+henry corden	1vxx	
+hesar		1w8s:5
+hesar e		1w8s:5
+hesar e valiyeasr		1w8s:5
+hesar e valiyeasr rural		1w8s:5
+hesar e valiyeasr rural district	1w8s	
+hukun passenger railway	h8t	
+hukun railway	1lex	
+hukun tielu	1lex	
+illes		3gp2:3
+illes balears banesto	co2	
+illes balears caisse d epargne	co2	
+illes balears cycling team	co2	
+illes balears province	f9r	
+illes sitku	3gp2	
+illes zsolt		3gp2:3
+illes zsolt sitku	3gp2	
+jagmohan mundhra	2hhw	
+jagmohan singh	17up	
+james crofts	tme	
+james weldon		1cic:3
+james weldon johnson	1cic	
+john guillerman	s73	
+john jeffreys pratt	5aln	
+john jeffreys pratt 1st marquess 2nd earl camden earl of the county of brecknock viscount bayham of bayham abbey baron camden of camden place camden	5aln	
+john jeffreys pratt 1st marquess camden	5aln	
+john jeffreys pratt 2nd earl and 1st marquess camden	5aln	
+john jeffreys pratt 2nd earl camden	5aln	
+junctional reciprocating tachycardia	1aou	
+katangese	24rw	
+katedrala svateho vita	jjt	
+kohgeluyeh and boyer ahmad province	11j9	
+kohgeluyeh county	2xrh	
+kokowaah	4p79	5f3l:2
+kokowaah 2	5f3l	
+kola		5f21:2,6ab2:2
+kola anubi	6ab2	
+kola bhaskar	5f21	
+kola historical region	fmv	
+kola lapp language	l8x	
+komsomolskaja pravda	3xuh	
+konigs		18q3:2
+konigs wusterhausen	18q3	
+kotenko	2zk5	
+kristeller paul oskar	65c7	
+leptura	5esg	
+leucospermum	sbk	
+lezak jason	3csf	
+livestrong sporting park	428t	
+meritaten	1wmw	4jcu:2
+meritaten ta sherit	4jcu	
+meritaten tasherit	4jcu	
+miegjorn pireneus	xzi	
+montanans	sx	
+nationalpreis der ddr	2v3	
+nationalpreis der deutschen demokratischen republik	2v3	
+neotaenioglossa	zsn	
+neptis	bkm	
+nunciatures	yho	
+nxnw	td0	
+okaya	4twe	
+okaya nagano	4twe	
+onramp	f4r	
+orsonnette	4547	
+osun		u09:2
+osun state	u09	
+osun state nigeria	u09	
+parcy		1vci:3
+parcy et		1vci:3
+parcy et tigny	1vci	
+paul sanford 3rd baron of metheun	4lye	
+paul sanford methuen	4lye	
+paul sanford methuen 3rd baron methuen	4lye	
+paul xavier	5mna	
+paul xavier brooks jr	5mna	
+paul xavier kelley	2xhr	
+peerage		6ea5:3
+peerage of		6ea5:3
+peerage of england	6ea5	
+peter chernin	29tx	
+plasmodium	5s0	
+plutarch	2oaw	
+plutarch of athens	4o9x	
+plutarch of chaeronea	2oaw	
+plutarch s	2oaw	
+plutarch s lives	oox	
+poacak	jbk	
+polycystic ovarian cancer	57r6	
+polycystic ovarian disease	57r6	
+polycystic ovarian disease familial	57r6	
+polycystic ovarian syndrome	57r6	
+polycystic ovaries disorder	57r6	
+polycystic ovary	57r6	
+polycystic ovary disease	57r6	
+polycystic ovary syndrome	57r6	
+quispe		4gfe:2
+quispe sisa	4gfe	
+rangdajied		18mz:4
+rangdajied united		18mz:4
+rangdajied united f		18mz:4
+rangdajied united f c	18mz	
+reggie	2aqc	2aqc:2,2ejb:2,2iov:2,3bls:2,3eur:2,3f3k:2,3gqo:2,3h0v:2,3r4v:2,3x5k:2,4etf:2,4f6f:2,4ir6:2,4saw:2,52ve:2,68sr:3,6g3n:2,6hkv:2
+reggie banister	3gqo	
+reggie bannister	3gqo	
+reggie buse	6hkv	
+reggie davani	3eur	
+reggie doherty	3fba	
+reggie dunbar	1a7t	
+reggie dwight	53r	
+reggie elliot geary	3h0v	
+reggie freeman	2ejb	
+reggie geary	3h0v	
+reggie hudlin	2qo3	
+reggie jackson	6g3n	
+reggie jackson comments baseball	6g3n	
+reggie johnson	4f6f	
+reggie johnson basketball born 1957	4f6f	
+reggie lee	3r4v	
+reggie lee actor	3r4v	
+reggie lucas	3x5k	
+reggie maudling	2a0f	
+reggie miller	2aqc	
+reggie mills	2jf3	
+reggie morris	52ve	
+reggie nalder	3f3k	
+reggie noble	s5d	
+reggie raglin	6hkv	
+reggie rock		68sr:3
+reggie rock bythewood	68sr	
+reggie rockbythewood	68sr	
+reggie schwarz	4etf	
+reggie slater	2iov	
+reggie strickland	6hkv	
+reggie the lion	mh	
+reggie theus	3bls	
+reggie vanderbilt	2o1e	
+reggie vel johnson	55e0	
+reggie williams	4ir6,4saw	
+reggie williams basketball born 1964	4saw	
+reggie williams basketball born 1986	4ir6	
+reggie williams current basketball	4ir6	
+republika		du4:2
+republika balgariya	51	
+republika e shqiperise	8x	
+republika hrvatska	5n	
+republika popullore socialiste e shqiperise	1m5q	
+republika slovenija	4l	
+republika srbija	41	
+republika srpska	du4	
+republika srpska first league	1jpf	
+republika y uburundi	1pm	
+richard culek	5ltq	
+ripabottoni	2ady	
+ruttka	4ps5	
+salzbourg	290	
+sanilac		o5c:2
+sanilac county	o5c	
+sanilac county mi	o5c	
+sanilac county michigan	o5c	
+schwanenburg	2mlz	
+shakira	6m8	
+shakira alejandro sanz	6m8	
+shakira bio	6m8	
+shakira ft wyclef jean	6m8	
+shakira isabel	6m8	
+shakira isabel mebarak ripoll	6m8	
+shakira isabel ripoll	6m8	
+shakira mebarak	6m8	
+shakira mebarak ripoll	6m8	
+shakira ripoll	6m8	
+shakira s sixth studio album	52xr	
+shakira s third english studio album	52xr	
+shinzi	f9t	
+shmotz	3r7b	
+snieckus	5857	
+soueix		2oa6:2
+soueix rogalle	2oa6	
+spiaggia		3u1h:2
+spiaggia libera	3u1h	
+spie		2kpj:3
+spie contro il mondo	1qdn	
+spie gold		2kpj:3
+spie gold medal	2kpj	
+spie vengono dal semifreddo	3rrv	
+st rocco	2q43	
+stokke	1rb8	1rb8:2
+stokke municipality	1rb8	
+sugarstring	10v0	
+suned	5acp	
+swanson lake	w9f	
+swanson steven	4fv2	
+t2k design bureau	5e89	
+t2k tank design bureau	5e89	
+tamba	59i5	
+tamba hyogo	59i5	
+tamba tetsuro	j1j	
+the georgia aquarium	ek7	
+the georgia dome	4omb	
+the georgia guidestones	6hca	
+the georgia peach	4424	
+the hideout	4tiy	
+the hideout film	4tiy	
+the pearl	621h,6gho	1ezc:5,2jmx:4
+the pearl 1984 album	621h	
+the pearl album	621h	
+the pearl and		1ezc:5
+the pearl and the		1ezc:5
+the pearl and the wave	1ezc	
+the pearl ballet	1jlo	
+the pearl book	6gho	
+the pearl film	4w9y	
+the pearl novel	6gho	
+the pearl novella	6gho	
+the pearl of		2jmx:4
+the pearl of death	2jmx	
+the pearl of great price being a choice selection from the revelations translations and narrations of joseph smith first prophet seer and revelator to the church of jesus christ of latter day saints	6dp4	
+the pearl of great price latter day saints	6dp4	
+the pearl of great price scripture	6dp4	
+the salamander	1kld,24p8	
+the salamander 1981 film	24p8	
+the seceding states	78c	
+the sustitue	5bgp	
+the very		2fca:4,6gyb:4
+the very best of 2 unlimited	10es	
+the very best of adam lambert	136r	
+the very best of andy gibb	zpr	
+the very best of eddy grant road to reparation	31e9	
+the very best of motorhead	bv4	
+the very best of puffy amiyumi jet fever	p7u	
+the very best of sam brown	4qeb	
+the very best of the muppet show volume 3	2org	
+the very first doug movie	47yi	
+the very first felix the cat movie	41n5	
+the very first tom and jerry movie	2p13	
+the very first top cat movie	38dn	
+the very hungry		6gyb:4
+the very hungry caterpillar	6gyb	
+the very merry widows	5f3b	
+the very next thing	tqw	
+the very same		2fca:4
+the very same munchhausen	2fca	
+the very secret diaries	1p06	
+the very that munchhausen	2fca	
+the very thought of you 1998 film	5yea	
+trenciansky kraj	1b2n	
+twig catfish	26lk	
+twig clark	36yx	
+twig pruner	jkt	
+twig pruner beetle	jkt	
+twig wilter	16t3	
+ulises	2kzj	19sy:2,2cze:2,3cve:2,4vx6:2,5nwg:2
+ulises antonio segura machado	4vx6	
+ulises cruz	2cze	
+ulises davila	3cve	
+ulises de la cruz	2cze	
+ulises dumont	19sy	
+ulises first name	2kzj	
+ulises given name	2kzj	
+ulises hernan de la cruz bernardo	2cze	
+ulises mendivil	5nwg	
+ulises petit de murat	63g5	
+ulises segura	4vx6	
+umst louis	s22	
+uribe		4odo:2
+uribe alvaro	3wr0	
+uribe kosta	4odo	
+uribe velez	3wr0	
+uzbek	dc6	txg:4
+uzbek language	dc6	
+uzbek league	z5b	
+uzbek oliy league	z5b	
+uzbek people	1rjq	
+uzbek phonology	dc6	
+uzbek s s r	txg	
+uzbek soviet		txg:4
+uzbek soviet socialist		txg:4
+uzbek soviet socialist republic	txg	
+uzbek ssr	txg	
+uzbek state university	1sr4	
+vanzac	41xb	
+wheal and flare	1g5h	
+wheal response	8vo	
+withby ontario	kvo	
+wolrad		5bqs:5,61ql:5
+wolrad iv		61ql:5
+wolrad iv count of waldeck	61ql	
+wolrad iv of		61ql:5
+wolrad iv of waldeck		61ql:5
+wolrad iv of waldeck eisenberg	61ql	
+wolrad prince		5bqs:5
+wolrad prince of		5bqs:5
+wolrad prince of schaumburg		5bqs:5
+wolrad prince of schaumburg lippe	5bqs	
+zogno	1l5p	
+zulus	bs8	

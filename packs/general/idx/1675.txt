@@ -1,0 +1,378 @@
+ageyeva	6fng	
+aicraft	8v	
+antiaircraft	r95	
+antiaircraft artillery	r95	
+antiaircraft cruisers	78r	
+antiaircraft vehicle	1cfp	
+atwoodian	908	
+baragarh district	21zv	
+barotone	14c	
+bedkow commune	1dwj	
+beerse	2h6n	
+beerse belgium	2h6n	
+blancherupt	3oye	
+bonvillers	3sab	
+bradyarrhythmias	4p40	
+brawely middle school	188z	
+bubbahotep	4glm	
+candidates for the first novel	1y	
+champi	37av	
+charles oudinot	56at	
+chevrainvilliers	1zux	
+citrine gemstone	21ws	
+citrine topaz	21ws	
+commemorative		y5y:7
+commemorative medal		y5y:7
+commemorative medal of		y5y:7
+commemorative medal of the		y5y:7
+commemorative medal of the partisans		y5y:7
+commemorative medal of the partisans of		y5y:7
+commemorative medal of the partisans of 1941	y5y	
+cuoiovaldarno		20re:4
+cuoiovaldarno r		20re:4
+cuoiovaldarno r f		20re:4
+cuoiovaldarno r f c	20re	
+cuoiovaldarno romaiano f c	20re	
+daganzo		3b3l:3
+daganzo de		3b3l:3
+daganzo de arriba	3b3l	
+david matthew		5whu:3
+david matthew kennedy	2ln8	
+david matthew macfadyen	1ev9	
+david matthew potts	5whu	
+david murray	ddf	
+david murray 3rd earl of mansfield	632l	
+david murray jazz musician	ddf	
+david murray saxophonist	ddf	
+david murray schneider	64d5	
+deaning	iy1	
+destinyhopespicer cher llloyd	2w7v	
+dividing range	mf7	
+doninos		4qvh:3
+doninos de		4qvh:3
+doninos de salamanca	4qvh	
+eibekkusu torakkusu	1lo	
+engis	3hd0	
+fairclough david	4ev2	
+farva	5ole	
+feternes	1xoi	
+filipepi	hbq	
+forage brassicas	5ekz	
+forage crops	5ekz	
+forage grass	5ekz	
+forage maize	5ekz	
+fsdg	9zs	
+gemu boi adobansu	1ik	
+gemu boi kara	6cj	
+gicomo balla	3t47	
+gmina sawin	12rd	
+gracias department	5fkg	
+gracias por la musica	5vgb	
+gracias por la musica abba song	5vgb	
+gracias por la musica song	5vgb	
+gracias por pensar en mi song	56s9	
+grandfather	4cxv	4cxv:2
+grandfather of spetsnaz	3aiw	
+granitisation	3m7	
+gujarat	154	jed:2,6eeb:2
+gujarat division	154	
+gujarat india	154	
+gujarat model	t43	
+gujarat university	jed	
+gujarat vidyapeeth	6eeb	
+gujarat vidyapith	6eeb	
+gwathmey charles	2vuw	
+gwathmey siegel	2vuw	
+haillicourt	2hme	
+haritala	4fha	
+hasanlu		3j2d:3
+hasanlu rural		3j2d:3
+hasanlu rural district	3j2d	
+heteropsis	4p0v	
+heteropsis butterfly	4p0v	
+hippocratic	1u65	
+hippocratic school of medicine	1u65	
+hoffmanns	3hms	
+hohenecken	89s	
+horni		1pc8:2,20ti:2,22oi:2,2408:2,2bq1:2,2hh9:2,2kqc:2,2ty7:2,2v22:2,2zd5:2,30ns:2,31by:2,33sh:2,3fz7:2,3h2n:2,3hue:2,3ijy:2,3jhs:2,3lj3:2,3m0h:2,3np7:2,3ptm:2,3pv0:2,3qwz:2,3vx1:2,43c2:2,43r4:2,43xo:2,467i:2,46yv:2,48g5:2,4966:2,496c:2,49op:2,4bpk:2,4bzg:2,4c1t:2,4c6a:2,4cyc:2,4d0e:2,4ea6:2,4fcy:2,4g4d:2,4g5z:2,4g76:2,4gnj:2
+horni bela	22oi	
+horni benesov	3jhs	
+horni bezdekov	3qwz	
+horni bludovice	49op	
+horni bradlo	2ty7	
+horni branna	4gnj	
+horni breckov	3m0h	
+horni briza	3fz7	
+horni brusnice	3np7	
+horni cerekev	1pc8	
+horni cermna	30ns	
+horni chribska	2zcm	
+horni domaslavice	4ea6	
+horni dunajovice	3lj3	
+horni hermanice	4g4d	
+horni hermanice trebic district	4g4d	
+horni jeleni	2kqc	
+horni jiretin	3ijy	
+horni kounice	2zd5	
+horni kozolupy	496c	
+horni krupa	31by	
+horni lhota	20ti,4bpk	
+horni lhota ostrava city district	4bpk	
+horni lhota zlin district	20ti	
+horni libochova	3pv0	
+horni lidec	3ptm	
+horni lidec railway station	3ptm	
+horni loucky	43r4	
+horni mesto	33sh	
+horni mostenice	4cyc	
+horni netcice	48g5	
+horni olesnice	46yv	
+horni paseka	2hh9	
+horni pena	4g76	
+horni pocaply	4g5z	
+horni radechova	4c6a	
+horni radoun	3hue	
+horni radslavice	43c2	
+horni slavkov	2408	
+horni slezsko	3o0d	
+horni smrzov	4fcy	
+horni stepanov	2bq1	
+horni studenky	4d0e	
+horni tesice	4966	
+horni tosanovice	43xo	
+horni ujezd	3vx1,467i,4bzg	
+horni ujezd prerov district	467i	
+horni ujezd svitavy district	3vx1	
+horni ujezd trebic district	4bzg	
+horni vestonice	4c1t	
+horni vilemovice	2v22	
+horni vltavice	3h2n	
+horsovsky		1c65:2
+horsovsky tyn	1c65	
+i pin	13x6	
+ialomita		81w:2
+ialomita county	81w	
+inzell	4z9e	
+irelander	oc9	
+jeckeln	4ata	
+jerzu	2f1x	
+johanniter orde	3vzd	
+johanniter orden	3vzd	
+john dies		3qmv:5
+john dies at		3qmv:5
+john dies at the		3qmv:5
+john dies at the end	3qmv	
+john dies at the end film	3qmv	
+john welsh	42s1	
+john welsh english footballer	42s1	
+jully	2pgh	1i2v:3,2f7y:3
+jully les		2f7y:3
+jully les buxy	2f7y	
+jully les nonnains	2pgh	
+jully sur		1i2v:3
+jully sur sarce	1i2v	
+krzystof ii radziwill	51s0	
+krzystof kieslowski	phs	
+krzystof meyer	3xyf	
+krzystof penderecki	f4g	
+kullmann christopher	4jro	
+la veuve	2geb	
+la veuve couderc	1kty	
+la veuve couderc film	1kty	
+lesneven	1uvx	
+lieutnant	40u	
+lieutnant colonel	4ae	
+lockpojken	2m98	
+louis brain	4quv	
+mahamasina		6cvs:3
+mahamasina municipal		6cvs:3
+mahamasina municipal stadium	6cvs	
+mahamasina stadium	6cvs	
+mapate silver stars	fre	
+marketeer	knl	
+melosmon	44gn	
+menander	5ldh	
+menander of athens	5ldh	
+mgs3	4sb0	
+mgs3 subsistence	4sb0	
+michael alexeiev	3t3d	
+munr gaml	4djx	
+munr gammal	4djx	
+munr slem	4djx	
+murugadass	27zl	
+naha	9k7	
+naha city	9k7	
+naha japan	9k7	
+naha okinawa	9k7	
+neufmoutiers		1swe:3
+neufmoutiers en		1swe:3
+neufmoutiers en brie	1swe	
+nybg	q3p	
+padmavat film	5zat	
+paicg	1th9	
+pankow	qca,4ubq	
+pankow locality	4ubq	
+pilsudski	lml	
+pilsudski jozef klemens	lml	
+pilsudski university of warsaw	1n5	
+poecilotheria	5cij	
+pozzuoli	mfu	
+prince adam beauty and the beast	5f8a	
+prince adam czartoryski borbon	6chz	
+prince adam jerzy czartoryski	13ys	
+prince adam ludwik czartoryski	41ls	
+protectorate	1c3j	11hv:5
+protectorate bohemia and moravia	11hv	
+protectorate de sarre	4nx4	
+protectorate international law	1c3j	
+protectorate of		11hv:5
+protectorate of bohemia		11hv:5
+protectorate of bohemia and		11hv:5
+protectorate of bohemia and moravia	11hv	
+protectorate of bohemia moravia	11hv	
+protectorate of northern rhodesia	5a3q	
+qu est		2jeh:10
+qu est ce		2jeh:10
+qu est ce qu		2jeh:10
+qu est ce qu on		2jeh:10
+qu est ce qu on a		2jeh:10
+qu est ce qu on a fait		2jeh:10
+qu est ce qu on a fait au		2jeh:10
+qu est ce qu on a fait au bon		2jeh:10
+qu est ce qu on a fait au bon dieu	2jeh	
+qu est ce que j ai fait pour meriter ca	28ec	
+qu zhou	2rwt	
+raumschiff surprise periode 1	3xwt	
+rhetor	2jy1	
+richard egan	p1g	
+richard egan actor	p1g	
+romney	1it6	4bg0:5
+romney george 1907 1995	2jdd	
+romney hythe		4bg0:5
+romney hythe an dymchurch railway	4bg0	
+romney hythe and		4bg0:5
+romney hythe and dymchurch		4bg0:5
+romney hythe and dymchurch railway	4bg0	
+romney hythe dymchurch railway	4bg0	
+romney robinson	4chw	
+romney sr	2jdd	
+romney virginia	1it6	
+romney west virginia	1it6	
+romney wv	1it6	
+rothschild	1vkd	g2d:2
+rothschild banking dynasty	g2d	
+rothschild charles	3rby	
+rothschild conspiracy theories	g2d	
+rothschild dynasty	g2d	
+rothschild family	g2d	
+rothschild freres	g2d	
+rothschild jacob	32wu	
+rothschild michael	68rj	
+rothschild s	g2d	
+rothschild s list	3rby	
+rothschild topics	g2d	
+rowingat1980summerolympics	125i	
+rutsvamhumburu	3cf	
+ryoutarou okiayu	3aub	
+ryoutarou shiba	5avb	
+silandro	1i91	
+sind pakistan	kgf	
+sind university	1x9r	
+slovene	1it	
+slovene academy of arts and sciences	7lx	
+slovene academy of sciences and arts	7lx	
+slovene ice hockey championship	2lfo	
+slovene identity	5cph	
+slovene language	1it	
+slovene languange	1it	
+slovene nation	5cph	
+slovene national identity	5cph	
+slovene people	5cph	
+slovene railways	tqu	
+sois		25c5:5
+sois belle		25c5:5
+sois belle et		25c5:5
+sois belle et tais		25c5:5
+sois belle et tais toi	25c5,362w	
+sois belle et tais toi 1958 film	362w	
+sois belle et tais toi 1976 film	25c5	
+sois belle et tais toi 1981 film	25c5	
+sois belle et vote	5s5x	
+sokobanja	1iux	
+sokobanja municipality	1iux	
+steglitz	15jm	avu:2
+steglitz zehlendorf	avu	
+stk	5c6i	
+stk game	2zlf	
+tagorri rakaakay	3g6m	
+tagorri region	3g6m	
+the charlatans	1fwz	
+the charlatans british band	1fwz	
+the charlatans uk	1fwz	
+the winslow		2en8:3
+the winslow boy	2en8	
+the winslow boy 1948 film	2en8	
+thomas patrick		5flu:3
+thomas patrick anson 5th earl of lichfield	5d7g	
+thomas patrick cavanagh	1k61	
+thomas patrick gerrity	5flu	
+thomas patrick john anson	5d7g	
+thomas patrick john anson 5th earl of lichfield	5d7g	
+thomas patrick lennon	qil	
+thomas patrick mccarthy	5gal	
+thomas patrick mckenna	1z52	
+thomas patrick noone	1q8a	
+thomas patrick tom cavanagh	1k61	
+toralf		621x:2,62n8:2
+toralf konetzke	62n8	
+toralf sand	621x	
+toralf sando	621x	
+touchmusic	3j7m	
+tritsis	5q0e	
+tuberculosis	tk	
+tuberculosis bovine	tk	
+tuberculosis epidemic	tk	
+tuberculosis stigma	tk	
+tummy		5rtu:3
+tummy button	7xd	
+tummy touch	5rtu	5rtu:3
+tummy touch records	5rtu	
+unrealed 2	35e	
+uns et les autres	x5f	
+uns re heimat uns re liebe	2gt	
+uns uwe	2hbc	
+vallodalid	3c8	
+verolavecchia	47my	
+viceroys	38p7	
+viceroys of india	1bk6	
+virchow s angle	ss5	
+virchow s cell theory	ss5	
+virchow s concept of pathology	ss5	
+virchow s disease	1i1z	
+virchow s law	ss5	
+virchow s line	ss5	
+virchow s method of autopsy	ss5	
+virchow s psammoma	ss5	
+vojislav	2mhc	1kd0:2,2wio:2,47n1:2,56nd:2,5f3f:2
+vojislav brajovic	56nd	
+vojislav first name	2mhc	
+vojislav given name	2mhc	
+vojislav kostunica	2wio	
+vojislav seselj	1kd0	
+vojislav stanisic	3lg5	
+vojislav vojinovic	5f3f	
+vojislav vranjkovic	47n1	
+vourles	28tk	
+warpac	3zct	
+warrens of virginia	5fs9	5fs9:4
+whispyhistory the history of medicine society at the royal society of medicine london	3l07	
+wieczfnia koscielna commune	t0r	
+wiesental baden	452e	
+william dukenfield	rq2	
+wisnu	4jia	
+wuhanjiujiang		5geg:3
+wuhanjiujiang high speed railway	5geg	
+wuhanjiujiang passenger		5geg:3
+wuhanjiujiang passenger railway	5geg	
+xochiquetsal	67u7	
+zulhe	2gyt	

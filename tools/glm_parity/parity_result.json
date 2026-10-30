@@ -1,0 +1,735 @@
+{
+ "summary": {
+  "n": 26,
+  "train_questions": 20,
+  "examples": 6,
+  "linker_same_topic": 26,
+  "masked_text_same": 25,
+  "same_path": 26,
+  "same_answers": 26,
+  "train_same_answers": 20,
+  "examples_same_answers": 6,
+  "tokvec_cos_mean": 0.9898,
+  "tokvec_cos_min": 0.9662,
+  "node_ms_median": 9.4,
+  "node_ms_max": 38.7
+ },
+ "rows": [
+  {
+   "src": "train-1hop",
+   "q": "which words describe film Dark Command",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "has_tags"
+    ],
+    [
+     "american civil war",
+     "civil war"
+    ]
+   ],
+   "js": [
+    [
+     "has_tags"
+    ],
+    [
+     "american civil war",
+     "civil war"
+    ]
+   ],
+   "ms": 38.7
+  },
+  {
+   "src": "train-1hop",
+   "q": "who is the creator of the film script for The Devil Came on Horseback",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by"
+    ],
+    [
+     "Anne Sundberg",
+     "Ricki Stern"
+    ]
+   ],
+   "js": [
+    [
+     "written_by"
+    ],
+    [
+     "Anne Sundberg",
+     "Ricki Stern"
+    ]
+   ],
+   "ms": 26.1
+  },
+  {
+   "src": "train-1hop",
+   "q": "the movie Zebrahead starred who",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Kevin Corrigan",
+     "Lois Bendler",
+     "Michael Rapaport"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Kevin Corrigan",
+     "Lois Bendler",
+     "Michael Rapaport"
+    ]
+   ],
+   "ms": 18.3
+  },
+  {
+   "src": "train-1hop",
+   "q": "who stars in Space Is the Place",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Sun Ra"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Sun Ra"
+    ]
+   ],
+   "ms": 24.9
+  },
+  {
+   "src": "train-1hop",
+   "q": "who is the director that directed Invaders from Mars",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by"
+    ],
+    [
+     "Tobe Hooper",
+     "William Cameron Menzies"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by"
+    ],
+    [
+     "Tobe Hooper",
+     "William Cameron Menzies"
+    ]
+   ],
+   "ms": 15.3
+  },
+  {
+   "src": "train-1hop",
+   "q": "what words describe Country Strong",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "has_tags"
+    ],
+    [
+     "country music"
+    ]
+   ],
+   "js": [
+    [
+     "has_tags"
+    ],
+    [
+     "country music"
+    ]
+   ],
+   "ms": 9.3
+  },
+  {
+   "src": "train-1hop",
+   "q": "what year was the film Bar Girls released",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "release_year"
+    ],
+    [
+     "1994"
+    ]
+   ],
+   "js": [
+    [
+     "release_year"
+    ],
+    [
+     "1994"
+    ]
+   ],
+   "ms": 7.5
+  },
+  {
+   "src": "train-2hop",
+   "q": "when did the films written by Joko Anwar release",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "2009"
+    ]
+   ],
+   "js": [
+    [
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "2009"
+    ]
+   ],
+   "ms": 8.6
+  },
+  {
+   "src": "train-2hop",
+   "q": "which films share the screenwriter with The Haunting",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by",
+     "written_by^-1"
+    ],
+    [
+     "I Want to Live!",
+     "Onionhead",
+     "The Hindenburg"
+    ]
+   ],
+   "js": [
+    [
+     "written_by",
+     "written_by^-1"
+    ],
+    [
+     "I Want to Live!",
+     "Onionhead",
+     "The Hindenburg"
+    ]
+   ],
+   "ms": 10
+  },
+  {
+   "src": "train-2hop",
+   "q": "the films written by Terry Eagleton were in which languages",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by^-1",
+     "in_language"
+    ],
+    [
+     "English"
+    ]
+   ],
+   "js": [
+    [
+     "written_by^-1",
+     "in_language"
+    ],
+    [
+     "English"
+    ]
+   ],
+   "ms": 8.8
+  },
+  {
+   "src": "train-2hop",
+   "q": "who is listed as director of Penelope Gilliatt written films",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by^-1",
+     "directed_by"
+    ],
+    [
+     "John Schlesinger"
+    ]
+   ],
+   "js": [
+    [
+     "written_by^-1",
+     "directed_by"
+    ],
+    [
+     "John Schlesinger"
+    ]
+   ],
+   "ms": 8.3
+  },
+  {
+   "src": "train-2hop",
+   "q": "the films written by Berit Nesheim were released in which years",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "1996"
+    ]
+   ],
+   "js": [
+    [
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "1996"
+    ]
+   ],
+   "ms": 8.9
+  },
+  {
+   "src": "train-2hop",
+   "q": "who are the writers of the films starred by Anouk Grinberg",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors^-1",
+     "written_by"
+    ],
+    [
+     "Bertrand Blier"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors^-1",
+     "written_by"
+    ],
+    [
+     "Bertrand Blier"
+    ]
+   ],
+   "ms": 9.3
+  },
+  {
+   "src": "train-2hop",
+   "q": "what are the movies that are directed by the same director of The Fortune",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by",
+     "directed_by^-1"
+    ],
+    [
+     "Biloxi Blues",
+     "Carnal Knowledge",
+     "Catch-22",
+     "Charlie Wilson's War",
+     "Closer"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by",
+     "directed_by^-1"
+    ],
+    [
+     "Biloxi Blues",
+     "Carnal Knowledge",
+     "Catch-22",
+     "Charlie Wilson's War",
+     "Closer"
+    ]
+   ],
+   "ms": 14.9
+  },
+  {
+   "src": "train-3hop",
+   "q": "who directed the movies written by the writer of Decoys",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by",
+     "written_by^-1",
+     "directed_by"
+    ],
+    [
+     "Matthew Hastings"
+    ]
+   ],
+   "js": [
+    [
+     "written_by",
+     "written_by^-1",
+     "directed_by"
+    ],
+    [
+     "Matthew Hastings"
+    ]
+   ],
+   "ms": 9.1
+  },
+  {
+   "src": "train-3hop",
+   "q": "the movies that share actors with the movie Flight of the Phoenix are directed by who",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Dennis Quaid",
+     "Giovanni Ribisi"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Dennis Quaid",
+     "Giovanni Ribisi"
+    ]
+   ],
+   "ms": 10.5
+  },
+  {
+   "src": "train-3hop",
+   "q": "who is listed as screenwriter of the films starred by That's Entertainment! actors",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "written_by"
+    ],
+    [
+     "Adolph Green",
+     "Betty Comden"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "written_by"
+    ],
+    [
+     "Adolph Green",
+     "Betty Comden"
+    ]
+   ],
+   "ms": 12.1
+  },
+  {
+   "src": "train-3hop",
+   "q": "when did the films directed by the An Eye for an Eye director release",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by",
+     "directed_by^-1",
+     "release_year"
+    ],
+    [
+     "1974",
+     "1975",
+     "1983"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by",
+     "directed_by^-1",
+     "release_year"
+    ],
+    [
+     "1974",
+     "1975",
+     "1983"
+    ]
+   ],
+   "ms": 10.2
+  },
+  {
+   "src": "train-3hop",
+   "q": "the films that share actors with the film Partners were in which languages",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "in_language"
+    ],
+    [
+     "English"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "in_language"
+    ],
+    [
+     "English"
+    ]
+   ],
+   "ms": 10.3
+  },
+  {
+   "src": "train-3hop",
+   "q": "who directed movies that share actors with the movie Inherit the Wind",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Dick York",
+     "Fredric March",
+     "Gene Kelly",
+     "George C. Scott",
+     "Jack Lemmon"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors"
+    ],
+    [
+     "Dick York",
+     "Fredric March",
+     "Gene Kelly",
+     "George C. Scott",
+     "Jack Lemmon"
+    ]
+   ],
+   "ms": 9.2
+  },
+  {
+   "src": "example",
+   "q": "who directed Memento",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by"
+    ],
+    [
+     "Christopher Nolan"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by"
+    ],
+    [
+     "Christopher Nolan"
+    ]
+   ],
+   "ms": 4.9
+  },
+  {
+   "src": "example",
+   "q": "what movies did Tom Hanks act in",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors^-1"
+    ],
+    [
+     "A League of Their Own",
+     "Apollo 13",
+     "Bachelor Party",
+     "Big",
+     "Captain Phillips"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors^-1"
+    ],
+    [
+     "A League of Their Own",
+     "Apollo 13",
+     "Bachelor Party",
+     "Big",
+     "Captain Phillips"
+    ]
+   ],
+   "ms": 9.4
+  },
+  {
+   "src": "example",
+   "q": "what genres are the films directed by Christopher Nolan",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by^-1",
+     "has_genre"
+    ],
+    [
+     "Thriller"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by^-1",
+     "has_genre"
+    ],
+    [
+     "Thriller"
+    ]
+   ],
+   "ms": 8.3
+  },
+  {
+   "src": "example",
+   "q": "who acted in the movies directed by Steven Spielberg",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "directed_by^-1",
+     "starred_actors"
+    ],
+    [
+     "Harrison Ford",
+     "Richard Dreyfuss",
+     "Tom Hanks"
+    ]
+   ],
+   "js": [
+    [
+     "directed_by^-1",
+     "starred_actors"
+    ],
+    [
+     "Harrison Ford",
+     "Richard Dreyfuss",
+     "Tom Hanks"
+    ]
+   ],
+   "ms": 8.1
+  },
+  {
+   "src": "example",
+   "q": "who directed the movies that share actors with Casablanca",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "directed_by"
+    ],
+    [
+     "Michael Curtiz"
+    ]
+   ],
+   "js": [
+    [
+     "starred_actors",
+     "starred_actors^-1",
+     "directed_by"
+    ],
+    [
+     "Michael Curtiz"
+    ]
+   ],
+   "ms": 9.2
+  },
+  {
+   "src": "example",
+   "q": "when were the movies written by the writer of Toy Story released",
+   "link_ok": true,
+   "path_ok": true,
+   "answers_ok": true,
+   "py": [
+    [
+     "written_by",
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "2012"
+    ]
+   ],
+   "js": [
+    [
+     "written_by",
+     "written_by^-1",
+     "release_year"
+    ],
+    [
+     "2012"
+    ]
+   ],
+   "ms": 10
+  }
+ ]
+}

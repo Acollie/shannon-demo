@@ -1,0 +1,440 @@
+19401949	140h	
+1990	2cbq	1xs:4,4ij:3,ec0:5,sz0:4,1u83:3,2txd:2,34fq:5,3h7r:4,3tc4:3,4erw:3,4gvz:3,4snt:3,4wn3:4,58kf:4,6h9n:4
+1990 03	2cbq	
+1990 037b	sj2	
+1990 10	2cbq	
+1990 11	2cbq	
+1990 1991 gulf crisis	383	
+1990 91 bundesliga	22jm	
+1990 91 cypriot cup	8x4	
+1990 91 cypriot first division	xkr	
+1990 91 cypriot fourth division	693y	
+1990 91 cypriot second division	15lk	
+1990 91 cypriot third division	1fhx	
+1990 91 ekstraklasa	46gm	
+1990 91 fuball bundesliga	22jm	
+1990 africa cup of nations	ec0	
+1990 african		ec0:5
+1990 african cup		ec0:5
+1990 african cup of		ec0:5
+1990 african cup of nations	ec0	
+1990 african nations cup	ec0	
+1990 asian		4ij:3
+1990 asian games	4ij	
+1990 australian		3tc4:3
+1990 australian open	3tc4	
+1990 ce	2cbq	
+1990 chess olympiad	31md	
+1990 commonwealth		1u83:3
+1990 commonwealth games	1u83	
+1990 commonwealth games medal count	1u83	
+1990 european		sz0:4
+1990 european athletics		sz0:4
+1990 european athletics championships	sz0	
+1990 european championships in athletics	sz0	
+1990 eurovision song contest	hro	
+1990 f1 season	34fq	
+1990 fa		58kf:4
+1990 fa cup		58kf:4
+1990 fa cup final	58kf	
+1990 federation internationale de football association world cup	1xs	
+1990 fia formula one world championship	34fq	
+1990 fifa		1xs:4
+1990 fifa world		1xs:4
+1990 fifa world cup	1xs	
+1990 fifa world cup schedule	1xs	
+1990 football world cup	1xs	
+1990 formula		34fq:5
+1990 formula 1 season	34fq	
+1990 formula one		34fq:5
+1990 formula one season	34fq	
+1990 formula one world		34fq:5
+1990 formula one world championship	34fq	
+1990 french		4snt:3
+1990 french open	4snt	
+1990 gent wevelgem	2txd	
+1990 gentwevelgem	2txd	
+1990 goodwill		4gvz:3
+1990 goodwill games	4gvz	
+1990 gulf crisis	383	
+1990 gulf war	383	
+1990 i guerrieri del bronx	3h7r	
+1990 independent spirit awards	let	
+1990 philadelphia subway accident	1goa	
+1990 super bowl	6gv4	
+1990 superbowl	6gv4	
+1990 the		3h7r:4
+1990 the bronx		3h7r:4
+1990 the bronx warriors	3h7r	
+1990 tour		4wn3:4
+1990 tour de		4wn3:4
+1990 tour de france	4wn3	
+1990 u		6h9n:4
+1990 u s		6h9n:4
+1990 u s open	6h9n	
+1990 u s open golf	6h9n	
+1990 u s open golf championship	6h9n	
+1990 wimbledon		4erw:3
+1990 wimbledon championships	4erw	
+1990 world cup	1xs	
+1990 world curling championships	jj8	
+1990 year	2cbq	
+adnexed	1pn	
+adnexed gills	1pn	
+alexander humphreys woollcott	5g5v	
+allos	1uza	4two:4
+allos gia		4two:4
+allos gia to		4two:4
+allos gia to ekatommyrio	4two	
+allos yia to ekatommirio	4two	
+amburr	af9	
+aostatal	5c7	
+apogonid	5f92	
+astronomic	23k	
+astronomic telescope	vgv	
+aubignosc	2iqp	
+b52	44ft	
+b52 s	phl	
+ballerup	4f7x	y5r:2
+ballerup kommune	y5r	
+ballerup municipality	y5r	
+baring evelyn 1st earl of cromer	3bzd	
+baring primary school	sor	
+baring sir francis	47gv	
+bellisarius	4vmo	
+biographies	2pa	
+biographies on living persons deserve a special sensitivity	2pa	
+braonan	3j50	
+bronzes	2gsc	
+bronzes 3 amis pour la vie	38ry	
+bronzes font du ski	2wv7	
+brulisau	1rbv	
+burghart		35i0:2
+burghart klauner	35i0	
+burghart klaussner	35i0	
+bushra		601m:3
+bushra al		601m:3
+bushra al assad	601m	
+cadet		dhs:2,1yyu:2,6d0l:3
+cadet branches of the rurikid dynasty	6ip	
+cadet college		6d0l:3
+cadet college petaro	6d0l	
+cadet concept records	dhs	
+cadet corporal	f33	
+cadet gymnasium	40v	
+cadet kelly	1yyu	
+cadet kelly 2	1yyu	
+cadet lance corporal	6fim	
+cadet party	1avr	
+cadet records	dhs	
+cadet revolution	3nx0	
+cedad	sus	
+chonju	ebu	
+clarkeulia	zbg	
+cnaeus	gou	
+cnaeus domitius corbulo	65z6	
+cnaeus roman praenomen	gou	
+cnemaspis	8uv	
+countie cullen	3qen	
+curran eyes of the dragon	6gnv	
+curran harry	66lu	
+curran lake	10u2	
+daliesque	bdg	
+deaconwood	1cu0	
+deeta von teese	4xue	
+degayev	4nht	
+dejavu mw	4l97	
+depredation	1puq	
+divya	4lyb	1adn:2,2dmi:2,56ia:2
+divya bharati	2dmi	
+divya bharti	2dmi	
+divya dutta	1adn	
+divya first name	4lyb	
+divya given name	4lyb	
+divya name	4lyb	
+divya om prakash bharti	2dmi	
+divya sathyaraj	abd	
+divya spandana	1oq8	
+divya unni	56ia	
+eglon		4h59:4
+eglon hendrik van de nier	4h59	
+eglon van		4h59:4
+eglon van der		4h59:4
+eglon van der neer	4h59	
+eglon van der ner	4h59	
+eglon vanaerneer	4h59	
+eglon vander neer	4h59	
+eglon vandermeer	4h59	
+eidyn	ec	
+engelse oorlogen	2tu9	
+erquinghem		1zth:2,3ful:3
+erquinghem le		3ful:3
+erquinghem le sec	3ful	
+erquinghem lys	1zth	
+esc2015	7q2	
+ethelburga of faremoutier	6c5w	
+ethelburga of faremoutiers	6c5w	
+euthinasia	54v4	
+evair	31t8	31t8:3
+evair aparecido		31t8:3
+evair aparecido paulino	31t8	
+eventview871 chairman of the bolshevik party	5854	
+excavate song	6hnd	
+faizon		20ln:2
+faizon love	20ln	
+flamur		4gnd:2,5e94:2
+flamur kastrati	4gnd	
+flamur tairi	5e94	
+flowerers	gcs	
+foundryman	685e	
+gentil belin	49cc	
+gentil belino	49cc	
+gentil bellino	49cc	
+gentil e bellino	49cc	
+glassware	3o4f	
+glenside	3g1v	
+glenside pa	3g1v	
+glenside pennsylvania	3g1v	
+glismod of west saxony	3wtg	
+gmina checiny	10ub	
+gmina slupno	1so8	
+gmina stare		yc7:3,19wu:3,1cl5:3,1i2z:3,2035:3,2bx6:3,3m41:3
+gmina stare babice	2035	
+gmina stare bogaczowice	2bx6	
+gmina stare czarnowo	1i2z	
+gmina stare juchy	1cl5	
+gmina stare kurowo	3m41	
+gmina stare miasto	yc7	
+gmina stare pole	19wu	
+gmina zareby		wc5:3
+gmina zareby koscielne	wc5	
+gunsmoke		3y1v:4
+gunsmoke return		3y1v:4
+gunsmoke return to		3y1v:4
+gunsmoke return to dodge	3y1v	
+herennius		5yzy:2
+herennius etruscus	5yzy	
+herwart		6940:2
+herwart koppenhoefer	6940	
+herwart koppenhofer	6940	
+hollola	i9r	
+illustrated	1q03	
+illustrated book	7fv	
+illustrated books	1q03	
+illustrated books for children	um	
+illustrated children s books	um	
+illustrated manuscript	51t	
+illustrated manuscripts	51t	
+illustrated novel	5g3	
+isidoro	1l26	5du0:3
+isidoro da tessalonica	581s	
+isidoro de sevilla	1l26	
+isidoro langara	4uce	
+isidoro san		5du0:3
+isidoro san jose	5du0	
+john studebaker hardy	4ppx	
+kamie		3qc3:2
+kamie ethridge	3qc3	
+keblov	3h9w	
+khvostovism	5dc4	
+lanthanoids	5dsf	
+latalpha	37	
+lipchen	41n8	
+loei	szm,56eh	
+loei province	szm	
+loei province thailand	szm	
+loei town	56eh	
+longchamp	1o9u,2cj8,2zmm	2y5k:3,3o8b:3
+longchamp abbey	1mer	
+longchamp cote d or	1o9u	
+longchamp haute marne	2zmm	
+longchamp sous		3o8b:3
+longchamp sous chatenois	3o8b	
+longchamp sur		2y5k:3
+longchamp sur aujon	2y5k	
+longchamp vosges	2cj8	
+lorasifar	5n57	
+louis camille		490k:3
+louis camille jullian	2olf	
+louis camille maillard	490k	
+lwv	2gy9	
+magnorder	yj	
+mbvine lokando	4lqe	
+metazoon	7xw	
+michael obiku	3a5y	
+milpitas	mnr	
+milpitas ca	mnr	
+milpitas california	mnr	
+milpitas christian school	mnr	
+milpitas square	mnr	
+montefusco	36dy	
+motosport	rw	
+nannok of the north	5sc9	
+nongovernmental	41h	
+nongovernmental organisation	41h	
+nongovernmental organisations	41h	
+obsolete constellation	1r1h	
+obsolete constellations	1r1h	
+obsolete mule	2br3	
+obsolete russian unit of measurement	5g0v	
+obsolete russian units of measurement	5g0v	
+obsolete russian weights and measures	5g0v	
+obsolete si prefixes	3qkb	
+operative no one lives forever		66zp:6
+operative system	19b	
+orignac	1jfe	
+palosco	2h8r	
+panina subtribe	2qj6	
+paul landres	1xy6	
+peasantry	k02	
+percnomatia	a92	
+pes10	3dlh	
+peter knight physicist	5pag	
+peter knight scientist	5pag	
+phsycology	44j	
+pinheiros sky	2455	
+pirveli liga	ybm	
+pizzonese language	4opj	
+polignac	1lx3,3co7	
+polignac charente maritime	3co7	
+polignac haute loire	1lx3	
+polignac melchior de	5n0o	
+purahan	19j1	
+qusai		5203:3
+qusai hussein	3cpf	
+qusai ibn		5203:3
+qusai ibn kiiab	5203	
+qusai ibn kilab	5203	
+qusai munir	4jc9	
+qusai saddam	3cpf	
+richard bernard red skelton	oml	
+richard bernard skelton	oml	
+rivalry	4xj1	
+rivalry film	4xj1	
+rkka	aeh	
+schendelbeke	o0x	
+shadowgate	53pp	
+shadowgate classic	53pp	
+siegecraft	159	
+silju	11u	
+sirajganj		15uy:2
+sirajganj district	15uy	
+sirajganj zila	15uy	
+sittard	ztm	tng:2,5w8h:3
+sittard geleen	tng	
+sittard herzogenrath railway	5lqm	
+sittard railway		5w8h:3
+sittard railway station	5w8h	
+sparta	8v0,2kek,2zje,3x3w	3fd:2
+sparta butterfest	3x3w	
+sparta city monroe county wi	3x3w	
+sparta city monroe county wisconsin	3x3w	
+sparta city wi	3x3w	
+sparta city wisconsin	3x3w	
+sparta ckd sokolovo	2m3	
+sparta k m r vidnoje	12tc	
+sparta krc	53pq	
+sparta modern	2kek	
+sparta municipality	2kek	
+sparta peloponnese	2kek	
+sparta prague	2m3	
+sparta prague women	11kc	
+sparta praha	2m3	
+sparta rotterdam	3fd	
+sparta rotterdam mutual fc	4my6	
+sparta tennessee	2zje	
+sparta tn	2zje	
+sparta wi	3x3w	
+sparta wis	3x3w	
+sparta wisconsin	3x3w	
+spatalistis	26tb	
+stadthouder	5ro8	
+stellan		c79:2,5rd4:2
+stellan nilsson	5rd4	
+stellan skaarsgaard	c79	
+stellan skarsgaad	c79	
+stellan skarsgaard	c79	
+stellan skarsgard	c79	
+sutaputra	6el1	
+suuroy	1taj	
+teuta durres	721	
+the mastersinger of nurnberg	6h10	
+the mont blanc massif	9gt	
+thomas cassin		4aot:3
+thomas cassin kinkaid	4aot	
+thomas edmund dewey	36k9	
+tolgo il disturbo	64tr	
+tomasu	hpn	
+totoro character	2pwd	
+touchay	2p66	
+trampoline		7t9:2,1mwq:3
+trampoline at the 2016 summer olympics	4gb	
+trampoline gymnast	7t9	
+trampoline gymnastics	7t9	
+trampoline gymnastics world championships	1mwq	
+trampoline world		1mwq:3
+trampoline world championships	1mwq	
+trichostema	6eka	
+ts2	2yl5	
+ulehle	4742	
+ulsan	dvy	4bu:3,hgk:6
+ulsan bay	dvy	
+ulsan dolphins	hgk	
+ulsan gwang yeogsi	dvy	
+ulsan gwangyeoksi	dvy	
+ulsan hd		4bu:3
+ulsan hd fc	4bu	
+ulsan horang i	4bu	
+ulsan hyundai	4bu	hgk:6
+ulsan hyundai fc	4bu	
+ulsan hyundai football club	4bu	
+ulsan hyundai horang i	4bu	
+ulsan hyundai horangi	4bu	
+ulsan hyundai mipo	hgk	hgk:6
+ulsan hyundai mipo dockyard	hgk	hgk:6
+ulsan hyundai mipo dockyard dolphin	hgk	hgk:6
+ulsan hyundai mipo dockyard dolphin fc	hgk	
+ulsan hyundai mipo dockyard dolphin football club	hgk	
+ulsan hyundai mipo dockyard dolphins fc	hgk	
+ulsan hyundai mipo dockyard fc	hgk	
+ulsan hyundai mipo dolphin	hgk	
+ulsan hyundai mipo dolphin fc	hgk	
+ulsan international film festival	dvy	
+ulsan international financial center	dvy	
+ulsan international financial centre	dvy	
+ulsan international school	dvy	
+ulsan korea	dvy	
+ulsan kwangyokshi	dvy	
+ulsan kwangyoksi	dvy	
+ulsan mipo	hgk	
+ulsan mipo dockyard	hgk	
+ulsan municipality	dvy	
+ulsan tigers	4bu	
+uvsq	ort	
+vaquero s vow	5l85	5l85:4
+vjosa	5z5t	
+vjosa river	5z5t	
+vrapciste		45g0:2
+vrapciste municipality	45g0	
+vrapciste opstina	45g0	
+vrapciste opstina republic of macedonia	45g0	
+william janklow	4fvl	
+william wolcott ellsworth	5lyz	
+wisdom	48yh	4rvn:3
+wisdom film	48yh	
+wisdom justice and love	4gby	
+wisdom mumba		4rvn:3
+wisdom mumba chansa	4rvn	
+wisdom of crocodiles	4d95	4d95:4
+wolfstone	5anq	
+wxwidget	dxl	
+yaegal allon	40ua	
+yekusiel		5r0b:3
+yekusiel yehudah		5r0b:3
+yekusiel yehudah halberstam	5r0b	
+zagir		4ize:2
+zagir garipovich ismagilov	4ize	
+zagir ismagilov	4ize	
+zinnow	4v5c	
+zinnow stefan	4v5c	
+zourab tsiskaridze	5jt6	

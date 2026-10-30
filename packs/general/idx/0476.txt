@@ -1,0 +1,508 @@
+1981	kgi	tbl:4,1frv:5,2ini:4,3goq:2,3pge:4,5pm1:4,63b5:6
+1981 82		1frv:5
+1981 82 bundesliga	2081	
+1981 82 cypriot		1frv:5
+1981 82 cypriot cup	elv	
+1981 82 cypriot first division	136s	
+1981 82 cypriot second division	15zz	
+1981 82 cypriot third		1frv:5
+1981 82 cypriot third division	1frv	
+1981 82 ekstraklasa	4g05	
+1981 82 fai cup	1fhn	
+1981 82 fuball bundesliga	2081	
+1981 82 fussball bundesliga	2081	
+1981 ad	kgi	
+1981 amstel		2ini:4
+1981 amstel gold		2ini:4
+1981 amstel gold race	2ini	
+1981 birth	kgi	
+1981 ce	kgi	
+1981 eurovision song contest	igj	
+1981 fdgb pokal final	4gfl	
+1981 french		5pm1:4
+1981 french presidential		5pm1:4
+1981 french presidential election	5pm1	
+1981 gent wevelgem	3goq	
+1981 gentwevelgem	3goq	
+1981 iaaf		tbl:4,63b5:6
+1981 iaaf world		tbl:4,63b5:6
+1981 iaaf world cross		63b5:6
+1981 iaaf world cross country		63b5:6
+1981 iaaf world cross country championships	63b5	
+1981 iaaf world cup	tbl	
+1981 super bowl	6grf	
+1981 superbowl	6grf	
+1981 tour		3pge:4
+1981 tour de		3pge:4
+1981 tour de france	3pge	
+1981 world cup in athletics	tbl	
+1981 year	kgi	
+a 57 laval	8lr	
+abkarian	14n2	
+abkarian simon	14n2	
+akroinon	fx4	
+alexander hendrik george rinnooy kan	5v19	
+anailson	5bm7	5bm7:3
+anailson brito		5bm7:3
+anailson brito noleto	5bm7	
+anija		10ow:3
+anija commune	10ow	
+anija parish	10ow	
+anija rural		10ow:3
+anija rural municipality	10ow	
+anija vald	10ow	
+animali pazzi	448t	
+arkestra	ezf	
+artim		2nsd:2,3or2:2
+artim polozani	3or2	
+artim saciri	2nsd	
+artim sakiri	2nsd	
+artim shaqiri	2nsd	
+asperjoc	3nan	
+aula	6uo	
+aula maxima galway	c85	
+bellechaume	1xak	
+bellpuch	1x62	
+blanzay	1vih	3glm:3
+blanzay sur		3glm:3
+blanzay sur boutonne	3glm	
+bornay	2gkf	
+bornay jura	2gkf	
+burdisso	3lul	
+byword saying	5d3s	
+carmathen	96x	
+castelvieilh	2q34	
+castrotierra	2vcg	2vcg:3
+castrotierra de		2vcg:3
+castrotierra de valmadrigal	2vcg	
+castrotierra de valmadrigal leon	2vcg	
+castrotierra de valmadrigal spain	2vcg	
+cephaloedis	2ckv	
+chetan		1bz4:2,30jh:2
+chetan anand	1bz4	
+chetan anand director	1bz4	
+chetan anand producer and director	1bz4	
+chetan anand producer director	1bz4	
+chetan bhagat	30jh	
+chilleurs		1ir1:3
+chilleurs aux		1ir1:3
+chilleurs aux bois	1ir1	
+chtz	5i8l	
+clagenfurtum	4lh	
+coulmiers	2iqf	
+crammed	1jzb	1jzb:2
+crammed discs	1jzb	
+crammed discs records	1jzb	
+crammed records	1jzb	
+crozet	27f8	5n6w:2
+crozet ain	27f8	
+crozet islands	5n6w	
+cv75	4cpk	
+dab	vjd	
+dab biernacki stefan	647a	
+darian		6eb8:2
+darian roy townsend	6eb8	
+darian townsend	6eb8	
+deathrock	2np3	
+debt		1u3p:2,4nk7:2
+dioskourias	b4i	
+dodd		s48:3
+dodd alan	5s6q	
+dodd mead	s48	s48:3
+dodd mead and co	s48	
+dodd mead and company	s48	
+dodd mead co	s48	
+dodd meade	s48	
+dodd pod	360b	
+dodd s downbeat	4mvq	
+dodd squad	3bwm	
+donovan	api	1u7m:3,3j7t:3,3jm0:2,40wr:2,4ex3:2,5vvl:2,69nd:2,6bfx:2,6bmg:2
+donovan affair	3r9n	3r9n:3
+donovan award	2okm	
+donovan jamal mcnabb	69nd	
+donovan jerome leitch	6bfx	
+donovan leich	api	
+donovan leitch	6bfx	
+donovan leitch actor	6bfx	
+donovan leitch jr	6bfx	
+donovan maury	6bmg	
+donovan mcnab	69nd	
+donovan mcnabb	69nd	
+donovan p leitch	api	
+donovan pedelty	3jm0	
+donovan philips leitch	api	
+donovan phillips leitch	api	
+donovan ricketts	4ex3	
+donovan s		1u7m:3,3j7t:3
+donovan s brain	3j7t	
+donovan s brain film	3j7t	
+donovan s reef	1u7m	
+donovan scott	5vvl	
+donovan simmonds	40wr	
+dorats	1dqb	
+eadbald		5ke9:3
+eadbald of		5ke9:3
+eadbald of kent	5ke9	
+edward heath	14io	
+ekhosuehi	5y28	
+ekhosuehi master edorisi	5y28	
+elaterids	wrk	
+fc devon almetyevsk	jwe	
+fc eindhoven	7dv	
+fc eindhoven women	7dv	
+fleshy finned fishes	jty	
+fleshy fruit	o33	
+formiae	upb	
+gagnoa	6cu6	
+gazzah	bg2	
+george d		1760:3,4542:3,4dg9:3,5j4r:3,67u0:3
+george d aiken	52db	
+george d amboise	2vya	
+george d baker	1760	
+george d birkhoff	1ax6	
+george d busbee	55u4	
+george d forney	4x3i	
+george d mason	4dg9	
+george d nelson	46ae	
+george d robinson	67u0	
+george d ruggles	5j4r	
+george d snell	53qm	
+george d weiss	5vej	
+george d widener	4wb0	
+george d zamka	4542	
+george little character	prx	
+georgiou kinkladze	4oyn	
+gloppen	16nm	16nm:2
+gloppen municipality	16nm	
+grazer		6u0:2
+grazer a k	6u0	
+grazer ak	6u0	
+grazer athletiksport klub	6u0	
+grazer brian	b6g	
+grazer scraper	62db	
+haaparanta	rw2	
+haecken	8kd	
+harmer sarah	1uhz	
+harpsicord	7gy	
+hausduelmen	269f	
+heauville	2zil	
+hirschau	4obq	
+hovey burgess	inu	
+hovey burgess pedagogie circus	inu	
+hovey burgess pedagogy	inu	
+ibahernando	3gr2	
+ibahernando caceres	3gr2	
+ibahernando spain	3gr2	
+ikaros		437i:4
+ikaros b c	437i	
+ikaros bc	437i	
+ikaros chalkidas		437i:4
+ikaros chalkidas b		437i:4
+ikaros chalkidas b c	437i	
+ikaros chalkidas bc	437i	
+ikaros kallitheas b c	437i	
+ikaros kallitheas bc	437i	
+james gibbon	5ppt	
+john harle	676s	
+john rolls		624o:5
+john rolls 1st		624o:5
+john rolls 1st baron		624o:5
+john rolls 1st baron llangattock	624o	
+joytime		3r9c:2
+joytime collective	3r9c	
+kethna	ooq	
+kladno	8hg	5a8:2
+kladno bohemia	8hg	
+kladno district	5a8	
+kokuun	rv3	
+koppikar	3rgh	
+kortezubi	34qx	
+kytlice	3jyh	
+la colonna infame	582x	
+landas	2k2p	
+le rouge		1es4:5
+le rouge est mis	1k3z	
+le rouge et		1es4:5
+le rouge et le		1es4:5
+le rouge et le noir	1es4,4hg6	
+le rouge et le noir 1954 film	1es4	
+le rouge et le noire	4hg6	
+leonardus aretinus	44mw	
+leonardus arrentinus	44mw	
+leonardus arretinus	44mw	
+leonardus brunus	44mw	
+leonardus brunus aretinus	44mw	
+leuitenant colonel	4ae	
+leuitenant general	1c0	
+lignol	2vu6	2ogz:3
+lignol le		2ogz:3
+lignol le chateau	2ogz	
+lignol morbihan	2vu6	
+list communes in algeria	u2	
+maatz	323p	
+madariaga azkoitia	1bko	
+madrasah	r4i	
+madrasah comments	r4i	
+margate	e2e	5or:3
+margate england	e2e	
+margate f		5or:3
+margate f c	5or	
+margate fc	5or	
+margate football club	5or	
+margate kent	e2e	
+margate pier	e2e	
+margate town f c	5or	
+maria cumani		2bgw:3
+maria cumani quasimodo	2bgw	
+mattrass	5tn9	
+menschen		2ptl:3
+menschen am sonntag	5gib	
+menschen hinter gittern	3a29	
+menschen im		2ptl:3
+menschen im hotel	2ptl	
+menschen ohne vaterland	2evv	
+menschen untereinander	1bhl	
+mestansky pivovar plzen	3gca	
+michael mann	s7w,1n9z	
+michael mann director	s7w	
+michael mann film director	s7w	
+michael mann filmography	s7w	
+michael mann films	s7w	
+michael mann musician	1n9z	
+michael mann scholar	1n9z	
+mihalis giannatos	4464	
+mihalis hatzigiannis	4lew	
+mihalis hatziyannis	4lew	
+mihalis kakiouzis	39pj	
+mihalis kakogiannis	1eoy	
+mihalis kapsis	48qz	
+mihalis pelekanos	4ch8	
+mihalis sifakis	3en5	
+mihalis zemlinskis	48d0	
+molla		3t25:2,472n:4,56sz:2
+molla bjorstedt	3t25	
+molla bjurstedt	3t25	
+molla bjurstedt mallory	3t25	
+molla mallory	3t25	
+molla wague	56sz	
+molla yaqub		472n:4
+molla yaqub rural		472n:4
+molla yaqub rural district	472n	
+mouth		12hd:2,2msg:2,5vzf:3
+mouth cancer	12hd	
+mouth disease	2msg	
+mouth diseases	2msg	
+mouth mathematics	2j9	
+mouth neoplasms	12hd	
+mouth of the hudson	dou	
+mouth of tyne festival	135v	
+mouth organ	2qv	
+mouth percussion	ipe	
+mouth pop actor	o17	
+mouth spray	3l2r	
+mouth to		5vzf:3
+mouth to mouth	5vzf	
+mouth to mouth 2005 swedish film	5vzf	
+mouth to mouth 2006 film	5vzf	
+moutonne	3kmp	
+nemophas	3zup	
+neuhaus	6fvv	28eo:3,3hsy:3
+neuhaus am		28eo:3,3hsy:3
+neuhaus am inn	28eo	
+neuhaus am rennweg	3hsy	
+neuhaus bern	hia	
+neuhaus inn	28eo	
+neuhaus surname	6fvv	
+nonbuilding	3ln2	
+oliy liga	z5b	
+olubayo		1v4s:2
+olubayo adefemi	1v4s	
+orcet	2ytp	
+ornithopoda	2c7s	
+pacerone	dpv	
+paul wong	58zw	
+paul wong koon chung	58zw	
+paul wong kwun chung	58zw	
+paul wong musician	58zw	
+pelussin	1tik	
+pernow	8e8	
+perols	3awb	
+persica	6bn	
+pflip	3f7r	
+phyllocnistis	cdd	
+pilisvorosvar	1dxd	53l0:2
+pilisvorosvar district	53l0	
+ponzio pilato	2k0j	
+poplars	1qbb	
+psis		i3q:2
+psis semarang	i3q	
+radiogeology	6f5z	
+ramstyng	jvy	
+rhaf	1pfe	
+ridgefield	nn3	38d8:2
+ridgefield academy	nn3	
+ridgefield cdp connecticut	nn3	
+ridgefield cdp fairfield county connecticut	nn3	
+ridgefield conn	nn3	
+ridgefield connecticut	nn3	
+ridgefield ct	nn3	
+ridgefield park	38d8	
+ridgefield park new jersey	38d8	
+ridgefield park nj	38d8	
+ridgefield park township bergen county new jersey	38d8	
+ridgefield park township new jersey	38d8	
+ridgefield park village bergen county new jersey	38d8	
+ridgefield park village new jersey	38d8	
+ridgefield town connecticut	nn3	
+ridgefield town fairfield county connecticut	nn3	
+risperidal	4ae2	
+risperidal m tab	4ae2	
+sakhalin	3ho6	sfj:2
+sakhalin island	3ho6	
+sakhalin island time	a5g	
+sakhalin islands	3ho6	
+sakhalin kholmsk	5o0j	
+sakhalin oblast	sfj	
+sakhalin shelf	hkh	
+sarchehan		3ekr:3
+sarchehan rural		3ekr:3
+sarchehan rural district	3ekr	
+scaramouche	1b3i,1oqc	
+scaramouche 1923 film	1oqc	
+scaramouche 1952 film	1b3i	
+scorpionida	51hc	
+senice	a7h	1twp:3
+senice na		1twp:3
+senice na hane	1twp	
+shoshone	6hrt	1pkx:2
+shoshone comments	6hrt	
+shoshone county	1pkx	
+shoshone county id	1pkx	
+shoshone county idaho	1pkx	
+shoshone indians	6hrt	
+shoshone nation	6hrt	
+shoshone people	6hrt	
+shoshone peoples	6hrt	
+shoshone religion	6hrt	
+shoshone stable	5lza	
+sir edward		3at5:5,4guu:5,4t3k:8,574l:5,5dzv:6,5iru:4,5jrm:6,5pqp:5,5uwg:5,5uzv:5
+sir edward abraham	57np	
+sir edward albert sassoon 2nd baronet	4t3k	
+sir edward appleton	129c	
+sir edward augustus inglefield	3goe	
+sir edward b bailey	5bog	
+sir edward bagnall poulton	5j2d	
+sir edward bailey	5bog	
+sir edward baines	50hb	
+sir edward boscawen	59vj	
+sir edward brantwood mauf	4m2g	
+sir edward brantwood maufe	4m2g	
+sir edward bullard	2u2k	
+sir edward buxton		5pqp:5
+sir edward buxton 2nd		5pqp:5
+sir edward buxton 2nd baronet	5pqp	
+sir edward carson	3mg5	
+sir edward cecil	61na	
+sir edward clarke	5p15	
+sir edward codrington	3e7j	
+sir edward coke	1rbo	
+sir edward coley burne jones	119q	
+sir edward coley burne jones bt	119q	
+sir edward copley burne jones	119q	
+sir edward cust	4guu	4guu:5
+sir edward cust 1st		4guu:5
+sir edward cust 1st baronet	4guu	
+sir edward dering		5uzv:5
+sir edward dering 2nd		5uzv:5
+sir edward dering 2nd baronet	5uzv	
+sir edward elgar	t5y	
+sir edward elgar 1st baronet	t5y	
+sir edward evan evans pritchard	3u33	
+sir edward evans pritchard	3u33	
+sir edward frankland	3vww	
+sir edward frederick william david walugembe mutebi luwangula mutesa ii	4w6q	
+sir edward frederick william david walugembe mutebi luwangula mutesa ii kbe	4w6q	
+sir edward george	3wlf	
+sir edward george clarke	5p15	
+sir edward grey	2lnx	
+sir edward grey bt	2lnx	
+sir edward hamley	5096	
+sir edward harland	638t	
+sir edward harland 1st baronet	638t	
+sir edward harley	5foy	
+sir edward henry garnier	4hkj	
+sir edward herbert	40qc	
+sir edward hyde	1lgr	
+sir edward james harland 1st baronet	638t	
+sir edward jenner	30ya	
+sir edward john bart poynter	52sc	
+sir edward john poynter	52sc	
+sir edward kennedy	ihw	
+sir edward louis spears 1st baronet	3wiv	
+sir edward maufe	4m2g	
+sir edward north buxton 2nd baronet	5pqp	
+sir edward north buxton baronet	5pqp	
+sir edward o		5jrm:6
+sir edward o brien		5jrm:6
+sir edward o brien 4th		5jrm:6
+sir edward o brien 4th baronet	5jrm	
+sir edward paget	591f	
+sir edward pellew	2cmp	
+sir edward poulton	5j2d	
+sir edward poynter	52sc	
+sir edward poynter 1st baronet	52sc	
+sir edward sabine	1pb1	
+sir edward sassoon		4t3k:8
+sir edward sassoon 2nd		4t3k:8
+sir edward sassoon 2nd baronet		4t3k:8
+sir edward sassoon 2nd baronet of		4t3k:8
+sir edward sassoon 2nd baronet of kensington		4t3k:8
+sir edward sassoon 2nd baronet of kensington gore	4t3k	
+sir edward schafer	4656	
+sir edward seymour	574l	3at5:5,574l:5,5dzv:6
+sir edward seymour 3rd		574l:5
+sir edward seymour 3rd baronet	574l	
+sir edward seymour 4th		3at5:5
+sir edward seymour 4th baronet	3at5	
+sir edward seymour of		5dzv:6
+sir edward seymour of berry		5dzv:6
+sir edward seymour of berry pomeroy	5dzv	
+sir edward sharpey schafer	4656	
+sir edward spears	3wiv	
+sir edward spears 1st baronet	3wiv	
+sir edward stafford	5i3v	
+sir edward victor appleton	129c	
+sir edward villiers	3chg	
+sir edward william elgar	t5y	
+sir edward william elgar 1st baronet	t5y	
+sir edward william elgar 1st baronet om gcvo	t5y	
+sir edward william stafford	5i3v	
+sir edward winnington		5uwg:5
+sir edward winnington 2nd		5uwg:5
+sir edward winnington 2nd baronet	5uwg	
+sir edward wortley		5iru:4
+sir edward wortley montagu	5iru	
+superbeasto	5o4w	
+tajikis	6e63	
+tert	60d6	
+tert gene	60d6	
+the clemenceau		6cxr:3
+the clemenceau case	6cxr	
+the hocicudo genus	56pi	
+thrasyopsis	69lc	
+tianemen square	6gz7	
+uprocessor	9nb	
+vdc	dx	
+vdc nepal	dx	
+vlvodaahf	3jav	
+w11 1ja	54au	
+wenzel der heilige	2jjb	
+wenzel hanni	3knf	
+wenzel hrr	16wa	
+wenzel i	1zzw	
+wenzel johann tomaschek	34d9	
+wenzel stefan	55pk	
+william renshaw	45nx	
+wolkovisk	1bgd	
+wulflingen	5i4y	
+wuyung ren	54q4	

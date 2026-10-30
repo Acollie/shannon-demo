@@ -1,0 +1,525 @@
+ailly		125y:3,1fdx:4,1knd:3
+ailly le		1fdx:4
+ailly le haut		1fdx:4
+ailly le haut clocher	1fdx	
+ailly pierre d	4mno	
+ailly sur		125y:3,1knd:3
+ailly sur noye	125y	
+ailly sur noye france	125y	
+ailly sur somme	1knd	
+ailly sur somme france	1knd	
+alexander yaroslavich	rsg	
+algarotti	2scv	
+aljazeeraenglish	2jfl	
+amor		23zh:4,351l:2,3pv9:5,4n78:4,5ype:4,5zq0:2
+amor and		23zh:4
+amor and psyche		23zh:4
+amor and psyche children	23zh	
+amor de madrugada	12ry	
+amor en		5ype:4
+amor en el		5ype:4
+amor en el aire	5ype	
+amor eterno	gkg	
+amor lesbicus	re8	
+amor libre	5zq0	
+amor libre 1969 film	5zq0	
+amor libre film	5zq0	
+amor new york	3dhb	
+amor non		3pv9:5
+amor non ho		3pv9:5
+amor non ho pero		3pv9:5
+amor non ho pero pero	3pv9	
+amor prohibido	351l	
+amor prohibido film	351l	
+amor se		4n78:4
+amor se dice		4n78:4
+amor se dice cantando	4n78	
+amor vincit omnia draco rosa album	323q	
+anate augustine	4lx0	
+antuan sent ekziuperi	10bk	
+artiguemy	2smg	
+ascain	1l5t	
+atsushi	cpp	2kw4:2,3lkk:2,3z3t:2,4m3x:2,52s8:2,5fza:2
+atsushi chikuma	24lg	
+atsushi first name	cpp	
+atsushi given name	cpp	
+atsushi inaba	2kw4	
+atsushi ito	4m3x	
+atsushi ito actor	4m3x	
+atsushi itoh	4m3x	
+atsushi itou	4m3x	
+atsushi kaneko	5fza	
+atsushi sakurai	52s8	
+atsushi sato	cpp	
+atsushi yamatoya	3z3t	
+atsushi yanagisawa	3lkk	
+avtaar	63vi	
+balmuccia	509g	
+baucina	3tp3	
+belay station	6f8g	
+boudeville	3lsk	
+brignemont	1wks	
+brockzetel	mbp	
+busch	22x4	1guz:3,6djx:3
+busch charles	6b5q	
+busch entertainment	4uxr	
+busch entertainment company	4uxr	
+busch entertainment corp	4uxr	
+busch entertainment corporation	4uxr	
+busch gardens	1guz	1guz:3,6djx:3
+busch gardens africa	1guz	
+busch gardens dark continent	1guz	
+busch gardens europe	6djx	
+busch gardens florida	1guz	
+busch gardens tampa	1guz	
+busch gardens tampa attractions	1guz	
+busch gardens tampa bay	1guz	
+busch gardens tampa florida	1guz	
+busch gardens virginia	6djx	
+busch gardens williamsburg	6djx	
+busch grand national	1f1r	
+busch grand national series	1f1r	
+busch league	1f1r	
+busch racing series	1f1r	
+busch series	1f1r	
+busch surname	22x4	
+casano d adda	ypj	
+chano	5iv6	8zx:2
+chano footballer born 1961	5iv6	
+chano peranzanes	4hmt	
+chano urueta	8zx	
+coloradodenver	d92	
+coluteocarpus	4zdv	
+cortandone	579w	
+cronista	bgl	
+cuc	1a8w	
+cuc software	ezh	
+david crown	3z64	
+deerfly	sry	
+derv	5gc9	
+edmundston	x83	
+edmundston nb	x83	
+edmundston new brunswick	x83	
+edward vii	fgk	
+edward vii king of the united kingdom	fgk	
+edward vii of britain	fgk	
+edward vii of great britain	fgk	
+edward vii of scotland	fgk	
+edward vii of the united kingdom	fgk	
+elegabalus	45mm	
+ellie		py4:2,36ey:2,40x3:2,4tdi:2
+ellie aiboy	4aii	
+ellie arroway	6gny	
+ellie bartlet	6anq	
+ellie burr	12jj	
+ellie catton	3tab	
+ellie frazetta	16hc	
+ellie gay	40x3	
+ellie gaye	40x3	
+ellie golding	py4	
+ellie goulding	py4	
+ellie goulding singles	py4	
+ellie goulding tour	py4	
+ellie greenwich	40x3	
+ellie kemper	4tdi	
+ellie king	4e0x	
+ellie laird	4s1h	
+ellie lambeti	36ey	
+ellie miller	2xit	
+ellie ochowicz	54p6	
+ellie the west wing	4shx	
+ellviller	2ham	
+etoo	twe	
+evandre	46mq	
+evetts steve	5v1w	
+fc litex lovech	5bs	
+feito david	434a	
+feito sutei naito	5lv0	
+galapian	3a99	
+gestapa	b81	
+gmina racawice	1vhp	
+goldenstatewarriors	27w	
+granze	3a3a	
+graptodera	2uqe	
+gungellan	4m1n	
+gyulafehervar	dt6	
+gyulafehervar academy	dt6	
+haemeenlinna	8my	
+haemeenlinna finland	8my	
+helsingforsarenan	4km9	
+henry carter		5gfu:3
+henry carter adams	5gfu	
+henry darcy	4r6l	
+henry kater	5cmc	
+houa phanh	1oz9	
+howaldtswerk	cch	
+hypiesta	m0s	
+infobox aluminium isotopes	4z8	
+infobox antimony isotopes	e71	
+infobox arsenic isotopes	au2	
+infobox artificial intelligence	bfb	
+infobox barium isotopes	klm	
+infobox beryllium isotopes	893	
+infobox bismuth isotopes	m8w	
+infobox boron isotopes	lbn	
+infobox bromine isotopes	10nn	
+infobox cadmium isotopes	oeg	
+infobox caesium isotopes	uvl	
+infobox calcium isotopes	c7y	
+infobox carbon isotopes	bu	
+infobox cell biology	47jc	
+infobox cerium isotopes	z03	
+infobox chlorine isotopes	3vi	
+infobox chromium isotopes	fup	
+infobox cobalt isotopes	e55	
+infobox college water polo team	5z8p	
+infobox fluorine isotopes	4cs	
+infobox gallium isotopes	itl	
+infobox germanium isotopes	pqo	
+infobox hafnium isotopes	u50	
+infobox helium isotopes	16pn	
+infobox holmium isotopes	1kxb	
+infobox hydrogen isotopes	23i	
+infobox indium isotopes	lz8	
+infobox iodine isotopes	a30	
+infobox iridium isotopes	z7o	
+infobox jainism	71b	
+infobox key	459a	
+infobox lanthanum isotopes	15ay	
+infobox lithium isotopes	8kk	
+infobox magnesium isotopes	f6r	
+infobox manganese isotopes	d59	
+infobox mercury isotopes	h6b	
+infobox molybdenum isotopes	il9	
+infobox nickel isotopes	dm7	
+infobox niobium isotopes	o57	
+infobox nitrogen isotopes	160	
+infobox osmium isotopes	zhs	
+infobox oxygen isotopes	se	
+infobox palladium isotopes	tuq	
+infobox phosphorus isotopes	6rc	
+infobox platinum isotopes	ib8	
+infobox plutonium isotopes	10sn	
+infobox polonium isotopes	1fkn	
+infobox potassium isotopes	acb	
+infobox praseodymium isotopes	1gg3	
+infobox radium isotopes	1ssx	
+infobox rhenium isotopes	tdg	
+infobox rhodium isotopes	10ns	
+infobox rubidium isotopes	zth	
+infobox scandium isotopes	13zk	
+infobox silicon isotopes	axf	
+infobox silver isotopes	4bw	
+infobox sodium isotopes	695	
+infobox strontium isotopes	sja	
+infobox sulfur isotopes	3kg	
+infobox tantalum isotopes	qcb	
+infobox tellurium isotopes	jhr	
+infobox thallium isotopes	pnl	
+infobox thorium isotopes	12i8	
+infobox tin isotopes	fsm	
+infobox titanium isotopes	es2	
+infobox vanadium isotopes	heb	
+infobox xenon isotopes	1m1l	
+infobox ytterbium isotopes	1cx3	
+infobox yttrium isotopes	skj	
+infobox zirconium isotopes	o6e	
+insurgency	5nv,3fnz	t0o:4
+insurgency in		t0o:4
+insurgency in khyber		t0o:4
+insurgency in khyber pakhtunkhwa	t0o	
+insurgency in north kurdistan	6c4r	
+insurgency in northwest pakistan	t0o	
+insurgency in pakistan s tribal areas	t0o	
+insurgency in sa dah	12yz	
+insurgency in the azawad 2012	17ri	
+insurgency in the republic of macedonia	2nyw	
+insurgency in turkish kurdistan	6c4r	
+izmir	2d2	7z2:2
+izmir city	2d2	
+izmir derby	2d2	
+izmir ili	7z2	
+izmir metropolitan municipality	2d2	
+izmir municipality	2d2	
+izmir province	7z2	
+izmir province turkey	7z2	
+izmir to hac resit	2o1o	
+izmir turkey	2d2	
+jambul oblast	1es1	
+james carothers jim garrison	590q	
+jarmuschian	sph	
+jean steen	1275	
+jennnifer michael hecht	5od1	
+joci	1t0b	
+john hendrickson berg	5xcb	
+john liu fugh	5eij	
+juille	374d	
+juille charente	374d	
+kesrye	ua5	
+klute	2n3n	
+konigreich bayern	e9u	
+konigreich belgien	2p	
+konigreich bohmen	10cf	
+konigreich hannover	thc	
+konigreich lombardo venetien	1j59	
+konigreich lombardovenetien	1j59	
+konigreich preuen	3lh	
+konigreich sachsen	cgq	
+konigreich venetien lombardo	1j59	
+konigreich wurttemberg	wen	
+krasensko	2n6b	
+kretan	48f	
+kubrick	l2r	
+la kings	1p1	
+la secuita	2p4k	
+lavault		2u63:3
+lavault sainte		2u63:3
+lavault sainte anne	2u63	
+legionowski	2b87	
+leptalix	29jr	
+leuranthus	69mo	
+leutheusser	2fqs	
+leutheusser schnarrenberger	2fqs	
+livermore	kv9	
+livermore ca	kv9	
+livermore california	kv9	
+livermore david	5mby	
+livermore larupper	2kk5	
+livermore ranch	kv9	
+livermore ranch california	kv9	
+livermore s	kv9	
+livermore s california	kv9	
+micropatrology	cbb	
+miegunyah press	5rk4	
+monti	1hcr,3p3k	
+monti italy	3p3k	
+monti maria	480h	
+monti python	ey1	
+monti s la casa vieja	10h	
+monti sardinia	3p3k	
+monti sibillini	3at3	
+monti sibillini national park	434y	
+monti surname	1hcr	
+montricher		2hhs:2
+montricher albanne	2hhs	
+motor	dtg	daj:2,ia9:3,oz2:2,v9u:2,4noy:3,5t8e:2,6hkt:2
+motor babelsberg	asr	
+motor bautzen	6c00	
+motor bicycle	anz	
+motor bike	anz	
+motor buses	86g	
+motor car	xw	
+motor carriage	xw	
+motor ceske budejovice	12nb	
+motor city	6hkt	ia9:3
+motor city california	6hkt	
+motor city cruise	ia9	
+motor city madman	mpf	
+motor coach	49ds	
+motor cross	29lp	
+motor cycle	anz	
+motor cycle gangs	5i62	
+motor device	dtg	
+motor fuel	1fck	
+motor gasoline	1fck	
+motor glider	5t8e	
+motor gliding	5t8e	
+motor head	bv4	
+motor industry	m7	
+motor jena	4ln	
+motor lublin	oz2	
+motor ludwigsfelde	6car	
+motor manslaughter	4kdp	
+motor mezhdurechensk	69mz	
+motor mouth	20b8	
+motor music	v9u	
+motor music records	v9u	
+motor neuron disease	39c	
+motor neuron disease bulbar	39c	
+motor nordhausen	1md0	
+motor oberschoneweide	4za	
+motor of love	5o68	
+motor officer	11e	
+motor presse	3czb	
+motor presse verlag	3czb	
+motor prokopyevsk	1hcq	
+motor psycho	5y9b	
+motor race	rw	
+motor racing	rw	
+motor racing developments	3sd3	
+motor racing developments ltd	3sd3	
+motor retardation	3h8o	
+motor road	2v7	
+motor sailing yacht	wkz	
+motor ship	daj	
+motor ships	daj	
+motor sich		4noy:3
+motor sich airline	4noy	
+motor sich airlines	4noy	
+motor spirit	1fck	
+motor spirits	1fck	
+motor sport	rw	
+motor sports	rw	
+motor symptoms parkinson s disease	1vk	
+motor tanker	nqd	
+motor truck	2t5	
+motor trucks	2t5	
+motor vehicle accidents	1uj	
+motor vehicle traffic collision	1uj	
+motor vessel	daj	
+motor vladimir	8s6	
+motor voter	6hpf	
+motor voter act	6hpf	
+motor voter law	6hpf	
+motor yacht	wkz	
+motor yachts	wkz	
+motor yaroslavl	5vb	
+national college athletic assocation	3rw	
+national college athletic association	3rw	
+national college of education	1yws	
+new penguins arena	6fyd	
+omonia		4rn:2
+omonia ac	272	
+omonia aradippou	4rn	
+omonia f c	272	
+omonia nicosia f c	272	
+omonia oroklinis	1wqs	
+omonia stadium	272	
+ooe kenzaburoo	11z2	
+ooe kenzaburou	11z2	
+osterbotten	12sk	
+osterbotten county	3nh6	
+otero	4goy	1izq:2,3dt7:2
+otero county	1izq,3dt7	
+otero county co	3dt7	
+otero county colorado	3dt7	
+otero county new mexico	1izq	
+otero county nm	1izq	
+otero spain	4goy	
+peter vanderkay	5iwt	
+pettis		t5t:2
+pettis county	t5t	
+pettis county missouri	t5t	
+pettis county mo	t5t	
+petville	udg	
+polytechnical institute	8xz	
+polytechnical school of bucharest	1qp8	
+polytechnical school of delft	4w6	
+polytechnical university of catalonia	1c05	
+polytechnical university of madrid	imc	
+provins	kft	
+provins france	kft	
+provins town of medieval fairs	kft	
+pyreneans	50n	
+rabanen	2y6w	
+rajec		3bq1:2
+rajec jestrebi	3bq1	
+rangpur	2sfx	1ak1:2,1lnw:2
+rangpur bangladesh	2sfx	
+rangpur bibhag	1lnw	
+rangpur city	2sfx	
+rangpur city bangladesh	2sfx	
+rangpur district	1ak1	
+rangpur division	1lnw	
+rangpur zila	1ak1	
+reynald		2uoi:2
+reynald pedros	2uoi	
+saint voir	2xix	
+san fedele		1zdk:3
+san fedele intelvi	1zdk	
+sande	1c9w,46g1,53ek	
+sande friesland	46g1	
+sande frisia	46g1	
+sande i vestfold	1c9w	
+sande kommune i vestfold	1c9w	
+sande lower saxony	46g1	
+sande vestfold	1c9w	
+shedlitz	k4m	
+sinopec	599d	
+sinopec china petroleum	599d	
+sinopec corp	599d	
+sinopec corporation	599d	
+sinopec limited	599d	
+sinopec marketing	599d	
+sir lomer gouin	4pyq	
+sirod	1te2	
+skagerrak	3fv0,49dr	
+skagerrak film	3fv0	
+skagerrak strait	49dr	
+skarzyski	38ee	
+skjerv	1cp8	
+smpad king of armenia	44yk	
+smpad of armenia	44yk	
+sonopresse	6bb5	
+sydne		2c74:2
+sydne rome	2c74	
+szava	gh5	
+tchalerwe	5c3	
+terquasquicentennial	3fxz	
+the emoji		2hz7:3
+the emoji movie	2hz7	
+the emoji movie 2017	2hz7	
+the emoji movie 3d	2hz7	
+the emoji movie express yourself	2hz7	
+the hospital	12k0	
+the hospital of king james and thomas sutton in charterhouse	1re	
+the musical king	qw3	
+the saints	15q,1vt1	
+the saints australian band	1vt1	
+the saints band	1vt1	
+the transitional federal government tfg	55uu	
+the wheatears	1jjf	
+translatetohere	1ft8	
+trapezunt	5qz	
+traylor		51tl:2
+traylor howard	51tl	
+triptych	iqb	2ree:5
+triptych of		2ree:5
+triptych of the		2ree:5
+triptych of the sedano		2ree:5
+triptych of the sedano family	2ree	
+tts	5hjh	
+tuzaguet	2qk0	
+udinese	2c1	2c1:2
+udinese calcio	2c1	
+udinese calcio 1896	2c1	
+udinese calcio s p a	2c1	
+umontreal	1wc	
+unloved law order uk	2b7r	
+ussak	ihq	
+valenciennes	64w	4t4:3
+valenciennes afc	4t4	
+valenciennes f		4t4:3
+valenciennes f c	4t4	
+valenciennes fc	4t4	
+valenciennes football club	4t4	
+valenciennes france	64w	
+vermandovillers	29az	
+vetera	1r21	
+volstroff	1t17	
+waffen	f1g	f1g:2
+waffen s s	f1g	
+waffen schutzstaffel	f1g	
+waffen ss	f1g	
+waowdeals pro cycling	o45	
+wertheim	h9b	
+wertheim am main	h9b	
+wetmore james	1e84	
+wetmore james a	1e84	
+zyuden		1u5r:14,5xlt:6
+zyuden sentai		1u5r:14,5xlt:6
+zyuden sentai kyoryuger		1u5r:14,5xlt:6
+zyuden sentai kyoryuger gaburincho		5xlt:6
+zyuden sentai kyoryuger gaburincho of		5xlt:6
+zyuden sentai kyoryuger gaburincho of music	5xlt	
+zyuden sentai kyoryuger vs		1u5r:14
+zyuden sentai kyoryuger vs go		1u5r:14
+zyuden sentai kyoryuger vs go busters	1u5r	1u5r:14
+zyuden sentai kyoryuger vs go busters the		1u5r:14
+zyuden sentai kyoryuger vs go busters the great		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur battle		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur battle farewell		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur battle farewell our		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur battle farewell our eternal		1u5r:14
+zyuden sentai kyoryuger vs go busters the great dinosaur battle farewell our eternal friends	1u5r	

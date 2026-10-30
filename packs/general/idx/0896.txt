@@ -1,0 +1,705 @@
+2040s	1u7i	
+affracourt	3ngw	
+alain	248,43xc	9w4:2,c6v:2,eau:2,k97:2,lp2:2,uep:2,vjf:3,vmy:2,100j:2,11sy:2,1362:2,1j8a:2,1qq6:2,2124:2,21gu:2,23d7:2,24ug:2,25mv:3,27hc:2,29wm:2,2cfe:2,2djl:2,2e8y:2,2eqk:3,2q76:2,3br9:2,3giw:2,3mt6:3,3t16:2,3v6h:2,406d:2,44ad:2,45sn:2,45z0:4,4byl:2,4gjd:2,4j7u:2,4j8v:2,4lp4:2,4lqf:2,4mhp:2,4mv5:2,4op6:2,4qkn:2,4ukb:2,4vqu:2,4xtw:3,4zf9:2,56pe:2,587u:2
+alain arroyo	588t	
+alain aspect	2e8y	
+alain baclet	44vq	
+alain badiou	1qq6	
+alain bashung	uep	
+alain behi	5mph	
+alain bellemare	17iz	
+alain bernard	587u	
+alain bernard bongo	4qux	
+alain berset	5up0	
+alain berton	5w97	
+alain boghossian	3t16	
+alain boghossyan	3t16	
+alain bonnet de soral	5e2t	
+alain bono	5gku	
+alain bosquet	5b9o	
+alain boublil	4op6	
+alain boubril	4op6	
+alain burgonde	4j8v	
+alain calmanovich	4zf9	
+alain calmat	4zf9	
+alain cantareil	66sb	
+alain carpentier	5tpz	
+alain cavalier	1362	
+alain chabat	vmy	
+alain connes	2124	
+alain corneau	11sy	
+alain cuny	100j	
+alain d albret	5mxv	
+alain de		25mv:3
+alain de botton	25mv	
+alain de greef	4r2	
+alain de lille	4xtw	
+alain decaux	23d7	
+alain delon	9w4	
+alain digbeu	3v6h	
+alain elkann	6c74	
+alain f carpentier	5tpz	
+alain fabien maurice marcel delon	9w4	
+alain fergant	35jm	
+alain ferte	5u1q	
+alain finkelkraut	1j8a	
+alain finkielkraut	1j8a	
+alain first name	248	
+alain fournier	4byl	
+alain frederic carpentier	5tpz	
+alain fuchs	6541	
+alain gagnol	5ny7	
+alain gaspoz	3giw	
+alain geiger	4lqf	
+alain giresse	5hy9	
+alain given name	248	
+alain goraguer	5wo0	
+alain gouamene	406d	
+alain i		5mxv:4
+alain i of		5mxv:4
+alain i of albret	5mxv	
+alain iii duke of brittany	51pl	
+alain iii of brittany	51pl	
+alain iv de bretagne	35jm	
+alain iv duke of brittany	35jm	
+alain iv of brittany	35jm	
+alain jans	4bqu	
+alain jessua	5xna	
+alain johannes	5apy	
+alain jourgensen	nwf	
+alain junior		45z0:4
+alain junior olle		45z0:4
+alain junior olle olle	45z0	
+alain jupe	21gu	
+alain juppe	21gu	
+alain kienast	29wm	
+alain krivine	5kkj	
+alain leroy		5l21:3
+alain leroy locke	5l21	
+alain levent	44ad	
+alain lipietz	6918	
+alain locke	5l21	
+alain m juppe	21gu	
+alain macklovitch	3jee	
+alain madelin	4j8v	
+alain marie juppe	21gu	
+alain marie pascal prost	c6v	
+alain marleix	5h7y	
+alain masudi	24ug	
+alain masudi ekakanga	24ug	
+alain mimoun	45sn	
+alain minc	67bs	
+alain moizan	4mhp	
+alain n		2eqk:3
+alain n kong	2eqk	
+alain nef	4lp4	
+alain nkong	2eqk	
+alain of		4xtw:3
+alain of lille	4xtw	
+alain peyrefitte	2cfe	
+alain philosopher	43xc	
+alain pierre baclet	44vq	
+alain poher	2q76	
+alain poire	lp2	
+alain polaniok	4mv5	
+alain pompidou	4qkn	
+alain prost	c6v	
+alain renais	k97	
+alain rene	3mt6	3mt6:3
+alain rene le sage	3mt6	
+alain rene lesage	3mt6	
+alain renee lesage	3mt6	
+alain resnais	k97	
+alain richard	6a4c	
+alain robbe		vjf:3
+alain robbe grillet	vjf	
+alain rochat	56pe	
+alain roche	4ukb	
+alain sarde	eau	
+alain savary	4vqu	
+alain soral	5e2t	
+alain souchon	29wm	
+alain stivell	1df5	
+alain sutter	4gjd	
+alain tanner	27hc	
+alain terzian	2djl	
+alain touraine	5kaq	
+alain traore	3br9	
+alain wiss	4j7u	
+alexsander maltsev	3ihi	
+alfara		2nk8:3,3vxb:3
+alfara de		2nk8:3
+alfara de carles	2nk8	
+alfara del		3vxb:3
+alfara del patriarca	3vxb	
+allgemeine		w4:3
+allgemeine deutsche		w4:3
+allgemeine deutsche biographie	w4	
+allgemeine elektricitats gesellschaft	170u	
+allgemeine elektricitats gesellschaft aeg telefunken	170u	
+allgemeine elektricitats gesellschaft aktiengesellschaft	170u	
+allgemeine elektrizitats gesellschaft	170u	
+ankittiwari	4kub	
+antully	2y68	
+arbis	2nr4	
+arcbishopric of bamberg	41om	
+arz	4u0f	
+asil		5e9:2
+asil lysi	5e9	
+asil lyssi	5e9	
+avlocardyl	2d3b	
+bayo akinfenwa	2wk1	
+bengladesh	81	
+bidarte	1mll	
+bolger sarah	5a79	
+bomarillu	48p5	
+bonnetan	30hr	
+bostrychidae	1b7b	
+bouret		3oz9:3
+bouret sur		3oz9:3
+bouret sur canche	3oz9	
+calligraphers	3lxy	
+castelar y ripoll	53t4	
+cogumelo	5fm8	5fm8:2
+cogumelo records	5fm8	
+cottorella rieti	4v91	
+david bernie	3b0z	
+deikstra	697o	
+domezain	1lp3	1lp3:2
+domezain berraute	1lp3	
+edhessa	2p4x	
+encyclopaedist	45y	
+fc tekstilshchik		7kf:3,7l3:3
+fc tekstilshchik d kamyshin	7l3	
+fc tekstilshchik isheyevka	6a3	
+fc tekstilshchik ivanovo	7kf	
+fc tekstilshchik kamyshin	7l3	
+fc tekstilshchik kostroma	6gj	
+fc tekstilshchik smolensk	lgv	
+fc tekstilshchik telekom ivanovo	7kf	
+fc tekstilshchik tiraspol	h1i	
+fc tvmk	15rv	15rv:3
+fc tvmk 2	15rv	
+fc tvmk 2 tallinn	15rv	
+fc tvmk ii	15rv	
+fc tvmk tallinn	15rv	
+fc tvmk tallinn 2	15rv	
+fc tvmk tallinn ii	15rv	
+frederick feike manfred	5x5v	
+friis hansen	4us8	
+furstentum liechtenstein	1z7	
+gasparovic	3wpb	
+gemora charles	3dbt	
+george desylva	qoe	
+george frisbie		63c1:3
+george frisbie hoar	63c1	
+gijon	5dc	2e2k:2
+gijon asturias	5dc	
+gijon baloncesto	2e2k	
+gijon spain	5dc	
+gijon xixon	5dc	
+gijon xixon spain	5dc	
+gmina andrychow	25kn	
+gmina legnickie		1cvn:3
+gmina legnickie pole	1cvn	
+hauts		8ps:3,1fd3:3,3n76:3
+hauts bassins	5d8o	
+hauts bassins region	5d8o	
+hauts bassins region burkina faso	5d8o	
+hauts de		8ps:3,1fd3:3,3n76:3
+hauts de bienne	3n76	
+hauts de france	1fd3	
+hauts de seine	8ps	
+henry martin hoyt	680u	
+henry martin jackson	369m	
+henry martin scoop jackson	369m	
+herkeles pietersz segers	5kke	
+herkeles pietersz seghers	5kke	
+herkeles pietersz zeger	5kke	
+herkeles pietersz zegers	5kke	
+herkeles seghers	5kke	
+hernando	33fy	15jw:2,49cv:2,614i:3
+hernando cortees marquees del valle de oaxaca	1uv2	
+hernando cortes	1uv2	
+hernando cortes de monroy pizarro	1uv2	
+hernando cortes de monroy pizarro 1st marques del valle de oaxaca	1uv2	
+hernando cortes explorer	1uv2	
+hernando county	15jw	
+hernando county fl	15jw	
+hernando county florida	15jw	
+hernando county sheriff s office florida	15jw	
+hernando de		614i:3
+hernando de magallanes	27i3	
+hernando de soto	614i	
+hernando de soto explorer	614i	
+hernando desoto	614i	
+hernando gonzaga	1xu7	
+hernando he soto	614i	
+hernando mississippi	33fy	
+hernando ms	33fy	
+hernando pizarro	49cv	
+hernando siles stadium	45c4	
+hernicourt	1upi	
+hoekse waard	4ylv	
+hougang		dyv:3
+hougang united		dyv:3
+hougang united f c	dyv	
+hougang united fc	dyv	
+hougang united football club	dyv	
+i hyo ri	3fyo	
+jean herman	1y86	
+jellivaara	1qjc	
+khey language	7a7	
+kuznica commune	sb2	
+lagupie	3lhy	
+le huitieme		5dwr:6
+le huitieme art		5dwr:6
+le huitieme art et		5dwr:6
+le huitieme art et la		5dwr:6
+le huitieme art et la maniere	5dwr	
+le huitieme jour	4fu6	
+leeann rimes	hvf	
+leeann womack	q3s	
+lequio		32ox:2,34rx:2
+lequio berria	34rx	
+lequio tanaro	32ox	
+madhiya pradesh	2qe	
+makurdi	3zi3	
+makurdi nigeria	3zi3	
+malyali	4ull	
+maria barrera	4vl1	
+mcmlxxvii	2eez	
+melfort	2ga7	
+melfort saskatchewan	2ga7	
+meqelle	3gqi	
+mimetidae	6fgk	
+misisipi river	41f	
+monarchists	17gn	
+montsec	3k22	
+montsec de rubies	4c7a	
+montsec meuse	3k22	
+montsec range	4c7a	
+montsec thrust	4c7a	
+morthemer	bai	
+mulletfish	6es7	
+myaskosvky	18f4	
+nangar parbat	5f00	
+nihonzhin	28z	
+notodden	ld3	ld3:2,x1r:2
+notodden f k	x1r	
+notodden fk	x1r	
+notodden municipality	ld3	
+notodden norway	ld3	
+notodden town	ld3	
+ointments	6dmm	
+ormosiopsis	5hj6	
+ouides	3z2g	
+pachycephala	wdk	
+pakhtun	ks8	
+pakhtun people	ks8	
+parsdorf	3ug1	
+patinenkilkanakku	3387	
+pelvoux	1px8	
+pernava	8e8	
+pillow		1pt8:2
+pillow basalts	7ny	
+pillow book	199u	199u:3
+pillow talk	1pt8	
+pillow talk film	1pt8	
+pillow talk sylvia album	54kl	
+pillow talk sylvia robinson album	54kl	
+pizzicato		11q2:2
+pizzicato 5	11q2	
+pizzicato five	11q2	
+pizzicato v	11q2	
+prince fari	2vrd	
+prince tagoe	2he0	
+promenade shopping center nyiregyhaza	aqf	
+public	id2	54:2,iz:2,sa:2,yf:2,1wa:2,2sc:2,2wx:3,3r8:2,6s4:2,8za:2,9kc:2,a88:6,b9n:3,bus:2,pha:2,x09:2,1c27:6,1hex:3,1hlk:2,1ozd:3,1rim:2,277p:2,2pdn:2,38yc:2,3fus:2,3gmw:2,3vvl:4,40hk:2,4c0o:2,59u0:3,5tx8:4
+public accountancy	1or9	
+public accountant	1n0q	
+public accounting	4gj	
+public activism	ua3	
+public address announcer	54o	
+public administration	1rim	
+public administration campus pac	37aj	
+public administration science	1rim	
+public administrative official	1rim	
+public advocate	4yfr	
+public aelius hadrianus	1kpb	
+public affairs television	3bsm	
+public agency	8g	
+public airport	39	
+public appearance	bus	
+public aquaria	8za	
+public aquarium	8za	
+public aquariums	8za	
+public art	yf	
+public art in the city of westminster	bqo	
+public art in westminster	bqo	
+public art program	yf	
+public art studies	yf	
+public artwork	yf	
+public association	2ln	
+public bank		59u0:3
+public bank f c	59u0	
+public bank fc	59u0	
+public bath	2g1a	
+public bathhouse	2g1a	
+public bathing	2g1a	
+public baths	2g1a	
+public bike system	11fs	
+public bodies	5fft	
+public body	8g,5fft	
+public broadcast	30c	
+public broadcasting	1hlk	
+public broadcasting in the netherlands	387u	
+public broadcasting in the united states	1hlk	
+public broadcasting service pbs	30c	
+public broadcasting system	30c	
+public building	2f	
+public buildings	2f	
+public buildings service	1z9k	
+public cave	wyd	
+public charities	2iw	
+public charity	2iw	
+public charter school	4wf5	
+public college	2sc	
+public compan	sa	
+public company	sa	
+public convenience	38yc	
+public corruption	etc	
+public domain	9kc	
+public domain calculator	9kc	
+public domain images	9kc	
+public domain resource	9kc	
+public election	54	
+public electric utility	2pdn	
+public employee retirement system of idaho	rk	
+public employees	61yf	
+public enemies	pha	
+public enemies 2009 film	pha	
+public enemies 2009 movie	pha	
+public enemy	x09,2ovb	2ovb:3
+public enemy band	x09	
+public enemy group	x09	
+public enemy hip hop	x09	
+public enemy music group	x09	
+public enemy nr 1	11ir	
+public enemy number one part 1	19nm	
+public enemy number one part 2	19nm	
+public enterprise	5d8	
+public entities	5fft	
+public entity	5fft	
+public equities	sa	
+public establishment		1c27:6,5tx8:4
+public establishment of		1c27:6,5tx8:4
+public establishment of an		1c27:6
+public establishment of an administrative		1c27:6
+public establishment of an administrative nature	1c27	
+public establishment of television	5tx8	
+public expense	ri3	
+public eye	1ocx	1ocx:3
+public figure	bus	
+public figures	bus	
+public footpath	6el3	
+public funded television	1hlk	
+public gardens	70c	
+public governments	6fx	
+public hanging	16n	
+public hangman	eii	
+public health	3gmw	
+public health action	3gmw	
+public health issue	3gmw	
+public health program	3gmw	
+public health science	3gmw	
+public health sciences	3gmw	
+public health system	3gmw	
+public hero	3vvl	3vvl:4
+public hero 1	3vvl	
+public hero no		3vvl:4
+public hero no 1	3vvl	
+public hero number 1	3vvl	
+public high schools	iz	
+public higher education	2sc	
+public holiday	3r8	
+public holidays	3r8	
+public holidays in san marino	285	
+public hospital	3fus	
+public house	202	
+public hygiene	3gmw	
+public image		1ozd:3
+public image and political reception of barbara boxer	4zr3	
+public image limited	1ozd	
+public image ltd	1ozd	
+public image of bill o reilly political commentator	1i6b	
+public image of lee myung bak	3a0q	
+public image of paul ryan	30f1	
+public image of ronald reagan	52j	
+public instruction	iz	
+public intellectual	gwi	
+public intellectuals	gwi	
+public interest group	2ln	
+public internet	7l8	
+public joint stock company	hw	
+public joint stock company gazprom	d61	
+public joint stock company russia	7er	
+public journal	1j5j	
+public landscaping	2vd	
+public latin school	2lkf	
+public lavatories	38yc	
+public lavatory	38yc	
+public law united states	1u3	
+public libraries	1wa	
+public library	1wa	
+public library funding	1wa	
+public library movement	1wa	
+public library of brookline	52z	
+public library of new york city	eqx	
+public limited		2wx:3
+public limited companies	2wx	
+public limited company	2wx	
+public limited liability company	2wx	
+public management	1rim	
+public market	17yg	
+public markets	17yg	
+public media	1hlk	
+public medicine	3gmw	
+public member	6fcu	
+public museum	7e	
+public office	1rim	
+public official	3iu	
+public opinion about wind power	58h4	
+public opinion on wind power	58h4	
+public outcry	3jc	
+public ownership party united states	63l	
+public park	on,2vd	
+public parks	on	
+public patent	6gol	
+public peace	3o30	
+public perception of ann coulter	2a7s	
+public person	bus	
+public policies	277p	
+public policy	277p	
+public policy group	277p	
+public policy studies	277p	
+public private	4cwu	
+public private investment partnership	4cwu	
+public private parnership	4cwu	
+public private partnership	4cwu	
+public private partnerships	4cwu	
+public prosecutors	9em	
+public radio station	1hlk	
+public referendum	1ep	
+public relation	40hk	
+public relations	40hk	
+public relations agency role	40hk	
+public relations consultant	40hk	
+public relations management	40hk	
+public relations of monsanto	14ai	
+public relations plans for war on iraq	17kv	
+public relations preparations for 2003 invasion of iraq	17kv	
+public relations professional	40hk	
+public research institute	z6	
+public research university	2sc	
+public reserve	on	
+public resource computing	1ssf	
+public restroom	38yc	
+public roads	2v7	
+public sale	266t	
+public school	iz,4c0o	
+public school britain	4c0o	
+public school district	7s	
+public school employees	iz	
+public school england	452	
+public school england wales and northern ireland	4c0o	
+public school government funded	iz	
+public school government run	iz	
+public school privately funded	4c0o	
+public school system	iz	
+public school u k	4c0o	
+public school u s	iz	
+public school uk	4c0o	
+public school united kingdom	4c0o	
+public schooling	iz	
+public schools in the united kingdom	4c0o	
+public schools of robeson county	z4j	
+public schools uk	4c0o	
+public scientific		a88:6
+public scientific cultural		a88:6
+public scientific cultural or		a88:6
+public scientific cultural or professional		a88:6
+public scientific cultural or professional establishment	a88	
+public sculpture	yf	
+public sculptures in the city of westminster	bqo	
+public secondary school	iz	
+public sector agencies	8g	
+public sector enterprise	5d8	
+public sector school	iz	
+public sector undertakings	5d8	
+public servant	61yf	
+public servants	61yf	
+public service broadcaster	1hlk	
+public service broadcasting	1hlk	
+public service broadcasting in the netherlands	387u	
+public service television	1hlk	
+public service tv series	ag7	
+public square	xh	
+public squares	xh	
+public stock	sa	
+public stock company tupolev	lsj	
+public swimming pool	1n3k	
+public television	1hlk	
+public television broadcaster	1hlk	
+public television russia	fml	
+public television stations	1hlk	
+public test		1hex:3
+public test realm	1hex	
+public toilet	38yc	
+public toilets	38yc	
+public transit on cape cod	18bl	
+public transport	6s4	b9n:3
+public transport authority	b9n	
+public transport authority transit officers	b9n	
+public transport authority western australia	b9n	
+public transport doc	6s4	
+public transport in hasselt	944	
+public transport in jyvaskyla	4kr	
+public transport in newcastle	3hh	
+public transport in palermo	1et	
+public transport industry	6s4	
+public transport service numbering	6s4	
+public transport system	6s4	
+public transportation	6s4	
+public transportation in mexico city	7h	
+public transportation in new hampshire	ua	
+public tv	1hlk	
+public union rivne football club veres rivne	l83	
+public universities	2sc	
+public university	2sc	
+public university of music	yy3	
+public university system	6fs0	
+public utilities	2pdn	
+public utility	2pdn	
+public utility district	197	
+public washroom	38yc	
+public water system	2cru	
+public woman	4nsw	4nsw:3
+public works department kerala	gm8	
+public works engineer	t1	
+rdc 5300	1iak	
+rezina		1iav:2
+rezina county moldova	1iav	
+rezina district	1iav	
+rikitsa birgersdotter	21sa	
+robert bass	4ezs	
+robert bass businessman	4ezs	
+rubarsia	1i31	
+samone	3uyh	
+samone piedmont	3uyh	
+samone to	3uyh	
+sangatte	3iso	
+sangatte refugee camp	3iso	
+sariyer	i2u	
+sariyer g k	kix	
+sariyer s k	kix	
+sariyer sk	kix	
+schaffhausen	a2l	3nqz:3
+schaffhausen canton	aa9	
+schaffhausen city	a2l	
+schaffhausen railway		3nqz:3
+schaffhausen railway station	3nqz	
+schaffhausen schaffhausen	a2l	
+schaffhausen sh	a2l	
+schaffhausen station	3nqz	
+schaffhausen switzerland	a2l	
+schwarzwaldmadel 1950 film	1sfp	
+scoria cone	2xub	
+scoria cones	2xub	
+sir steven redgrave	5101	
+sir steven runciman	5kdx	
+sleeping	1bz9	fnt:2,1cdi:2,1igu:2,25ia:4,2763:2,2vne:2,41h2:4,42up:2,4382:3,5amq:4,5n8c:2,5rl2:3,67lu:3,6err:2
+sleeping aid	u6k	
+sleeping bag		4382:3
+sleeping bag records	4382	
+sleeping beauty	fnt,1igu,2vne,42up	
+sleeping beauty 1942 film	2vne	
+sleeping beauty 1959	fnt	
+sleeping beauty 1959 film	fnt	
+sleeping beauty 1959 movie	fnt	
+sleeping beauty 1987 film	42up	
+sleeping beauty 2011	1igu	
+sleeping beauty 2011 film	1igu	
+sleeping beauty disney	fnt	
+sleeping beauty disney film	fnt	
+sleeping beauty soundtrack	fnt	
+sleeping car	6err	5amq:4
+sleeping car murders	zy3	zy3:4
+sleeping car to		5amq:4
+sleeping car to trieste	5amq	
+sleeping cardinal	58m3	58m3:3
+sleeping cars	6err	
+sleeping disorder	2sln	
+sleeping disorders	2sln	
+sleeping dogs	5rl2	5rl2:3
+sleeping dogs 2006 film	5rl2	
+sleeping dogs 2018 film	5967	
+sleeping dogs definitive edition	5967	
+sleeping dogs enterprise	1sw7	
+sleeping dogs lie	5rl2	
+sleeping dogs lie 2006 film	5rl2	
+sleeping dogs series	5967	
+sleeping dogs video game	5967	
+sleeping hermaphrodite	2763	
+sleeping hermaphroditus	2763	
+sleeping nymph	5ig7	
+sleeping partner	wz2	
+sleeping pattern	2sln	
+sleeping place	1bz9	
+sleeping princess in devil s castle	1qb2	
+sleeping room	5wfg	
+sleeping single	3wdt	
+sleeping tiger	4xzu	4xzu:3
+sleeping time	1ght	
+sleeping venus	1cdi,5n8c	
+sleeping venus carracci	5n8c	
+sleeping venus giorgione	1cdi	
+sleeping venus with putti	5n8c	
+sleeping with		25ia:4,41h2:4,67lu:3
+sleeping with a ghost	qz5	
+sleeping with ghosts	67lu	
+sleeping with other		41h2:4
+sleeping with other people	41h2	
+sleeping with the		25ia:4
+sleeping with the enemy	25ia	
+sleeping with the enemy 1991 film	25ia	
+sleeping with the enemy film	25ia	
+spotless mind	10hj	
+staughton		5hiw:2
+staughton lynd	5hiw	
+syland	st2	
+tamps	hef	
+the flour city	1di	
+thomas christopher chris parnell	2401	
+thomas christopher ince	3dp8	
+thouless d	3y2w	
+thouless d j	3y2w	
+ticilia	3rz2	
+torija	3auj	
+torija guadalajara	3auj	
+torija spain	3auj	
+trained	3xop	
+uighurs	4xz8	
+ukg2	4dsz	
+urobuchi gen	45d4	
+vaudreville	2lcn	
+vercelum	8g3	
+verdets	3jxd	
+vouleme	2s57	
+william awbrey	6043	
+yt	3tn	
+yt 2000	6fiq	
+yuuzou koshiro	vew	
+zasu		cv9:2
+zasu pitts	cv9	
+ziroo taniguti	5yfl	

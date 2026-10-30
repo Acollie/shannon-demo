@@ -1,0 +1,750 @@
+1408	1i6w	
+1408 film	1i6w	
+1408 movie	1i6w	
+25	4501,4ld2	
+25 5	68hy	
+25 8 film	e1j	
+25 acp	4501	
+25 adele album	4ld2	
+25 auto	4501	
+25 automatic	4501	
+25 automatic pistol	4501	
+25 cromwell street	3wjq	
+25 july 2013	900	
+25 kv		36c:5
+25 kv 50 hz	36c	
+25 kv 50 hz ac	36c	
+25 kv 50 hz ac railway electrification	36c	
+25 kv 60 hz ac	36c	
+25 kv ac	36c	36c:5
+25 kv ac 60 hz	36c	
+25 kv ac railway		36c:5
+25 kv ac railway electrification	36c	
+25 may	68hy	
+25 may revolution	6h3p	
+25 november	6491	
+25 or		5xkh:5
+25 or 6		5xkh:5
+25 or 6 to		5xkh:5
+25 or 6 to 4	5xkh	
+25 or 624	5xkh	
+25 to 6 or 4	5xkh	
+25 to live	1psh	
+25 to live 2005	1psh	
+25 year award	1qgh	
+aberaman athletic	2qji	
+aberaman athletic f c	2qji	
+aberaman f c	2qji	
+anchu sundharikal	2uwd	
+antoninus		3j4n:2
+antoninus augustus	3j4n	
+antoninus caracalla	2ac4	
+antoninus geta	4a5d	
+antoninus heliogabalus	45mm	
+antoninus pius	3j4n	
+antoninus pius titus aurelius fulvus	3j4n	
+arcsys	ot9	
+asad bashir khan khattak	2aps	
+aurelia	3izn,4ek4	188x:2,1gta:2,6agf:2
+aurelia ace combat	1yqe	
+aurelia cotta	4ek4	
+aurelia ferrer	188x	
+aurelia gens	1gta	
+aurelia name	3izn	
+aurelia petit	6agf	
+aurelia tizon	1rl9	
+ballbreaker	395z	
+ballbreaker ac dc song	395z	
+ballbreaker album	395z	
+ballbreaker song	395z	
+bareilles	2nw1	
+bareilles sara	1ckx	
+baribarletta		3683:3
+baribarletta railway	3683	3683:3
+baribarletta railway line	3683	
+bbe	68qd	
+bbe barely breaking even	2mjf	
+bbe music	2mjf	
+bbe record label	2mjf	
+bbe records	2mjf	
+belgravia	11ur	
+belgravia london	11ur	
+bettona	1zua	
+bitom	9nx	
+blindman	1do6	
+blindman 1972 film	1do6	
+carmogeddon	2b5m	
+cerestar	3hmt	
+chaunay	254r	
+cheret	2od1	
+chichery	1zvr	
+corsaint	1nir	
+cowansville	2rnu	
+cowansville qc	2rnu	
+cowansville quebec	2rnu	
+cras	3nni,42kx	2hed:3
+cras isere	42kx	
+cras lot	3nni	
+cras sur		2hed:3
+cras sur reyssouze	2hed	
+dampton pad	67ku	
+david kawananakoa	1zd1	
+david nakhid	3me0	
+david politzer	577o	
+descarte	m4d	
+digran chohajian	5sks	
+disneychannel com	3u9	
+domart		1yat:4,236p:3
+domart en		236p:3
+domart en ponthieu	236p	
+domart sur		1yat:4
+domart sur la		1yat:4
+domart sur la luce	1yat	
+dongelberg castle	1hte	
+draco	9ba,5y4f	323q:2,5y5v:2
+draco astronomy	9ba	
+draco constellation	9ba	
+draco cornelius	323q	
+draco cornelius rosa	323q	
+draco genus	5y4f	
+draco halo	26kr	
+draco lizard	5y4f	
+draco malfoy	5y5v	
+draco malfoy comments	5y5v	
+draco rosa	323q	
+draco taeniopterus	5y4f	
+dunwall	50tx	
+elbasani	csp	
+elbtalbahn	4j12	
+embo	7d5	1bxr:2,5a9b:3
+embo gold		5a9b:3
+embo gold medal	5a9b	
+embo member	1bxr	
+embo members	1bxr	
+embo membership	1bxr	
+embo press	7d5	
+exoplanets	1qm	
+fasa bortolo	51y0	
+feikes feikema	5x5v	
+fischenthal	1l3c	
+fischenthal switzerland	1l3c	
+fischenthal zh	1l3c	
+fischenthal zuerich	1l3c	
+fischenthal zurich	1l3c	
+flugle	1r27	
+flugle horn	1r27	
+forklift	1xd3	
+forklift truck	1xd3	
+forklift trucks	1xd3	
+freneuse	1rzk,24mw	
+freneuse seine maritime	24mw	
+freneuse yvelines	1rzk	
+gatchinskoye urban settlement	kms	
+giler david	1m7u	
+gunpowder		1sc9:2,4nyk:3
+gunpowder plot	1sc9	
+gunpowder plot of 1605	1sc9	
+gunpowder rum	2gzh	
+gunpowder treason	1sc9	4nyk:3
+gunpowder treason and plot	4nyk	
+gunpowder treason plot	1sc9,4nyk	
+heidelberg	12z,xfb	y7:2,1tg:4,2wj:6,f3w:3,127r:2,4pan:3,4x7o:3
+heidelberg academy		2wj:6
+heidelberg academy for sciences and humanities	2wj	
+heidelberg academy of		2wj:6
+heidelberg academy of sciences	2wj	2wj:6
+heidelberg academy of sciences and		2wj:6
+heidelberg academy of sciences and humanities	2wj	
+heidelberg australia	xfb	
+heidelberg central		4pan:3
+heidelberg central station	4pan	
+heidelberg college	127r	
+heidelberg comments	12z	
+heidelberg football club	f3w	
+heidelberg germany	12z	
+heidelberg hauptbahnhof	4pan	
+heidelberg hbf	4pan	
+heidelberg heiliggeist church	1v48	
+heidelberg koenigstuhl state observatory	1tg	
+heidelberg konigstuhl		1tg:4
+heidelberg konigstuhl state		1tg:4
+heidelberg konigstuhl state observatory	1tg	
+heidelberg melbourne	xfb	
+heidelberg observatory	1tg	
+heidelberg oh student princes	127r	
+heidelberg ohio student princes	127r	
+heidelberg romance	3zrn	
+heidelberg romanticism	12z	
+heidelberg romantics	12z	
+heidelberg student princes	127r	
+heidelberg student princes football	127r	
+heidelberg student princes men s basketball	127r	
+heidelberg student princes track and field	127r	
+heidelberg united	f3w	f3w:3
+heidelberg united fc	f3w	
+heidelberg university	y7,127r	4x7o:3
+heidelberg university library	4x7o	
+heidelberg university ohio	127r	
+heidelberg university tiffin ohio	127r	
+heidelberg victoria	xfb	
+heidelberg west germany	12z	
+henry luce	46qc	
+hudey	1ll	
+hypokalaemia	5oh9	
+inflexed arch	1jst	
+install info	1djw	
+john barry	7ip,5axz	515y:3
+john barry composer	7ip	
+john barry dyson	4zlp	
+john barry nusum	515y	
+john barry nuttall	3el1	
+john barry orchestra	7ip	
+john barry pierce	5ntx	
+john barry prendergast	7ip	
+john barry set designer	5axz	
+khoshkrud		2suz:3
+khoshkrud rural		2suz:3
+khoshkrud rural district	2suz	
+khoshkrud rural district markazi province	2suz	
+korty films	1il3	
+la pisseure	3tql	
+lampreave	1bfa	
+leptophobia	3r0c	
+loranze	4nud	
+lubomirska	15xb	
+luritu	f2a	
+luritu region	f2a	
+marsangis	2qdz	
+maruschka		483l:2
+maruschka detmers	483l	
+mesvres	30f7	
+michael dudikoff	1ixl	
+mikula dzurinda	5dbi	
+monasterio		3p5x:3
+monasterio de		3p5x:3
+monasterio de los buitres	5f1b	
+monasterio de rodilla	3p5x	
+monasterio de rodilla burgos	3p5x	
+monasterio de rodilla spain	3p5x	
+monasterio de san lorenzo de el escorial	19xq	
+monasterio del escorial	19xq	
+nahalal	3omu	
+national theological institute	j4v	
+nowhereland	2a61	
+oefelein william	5i0y	
+panipat	25lh	2aif:2
+panipat city	25lh	
+panipat district	2aif	
+paris	1p,lqj,shj,10gx,15qj,1hsi,1l98,1w5i,2ua0,4ac6,50u0,5i4a,6ff2	1pk:5,2lc:4,3br:2,5gx:2,8b0:5,8d6:3,bpf:3,cos:3,d76:3,hid:4,i18:2,jcy:4,kfx:3,nvg:2,q4t:2,swm:2,trk:4,tzj:4,v49:3,vhy:3,vlv:4,xqi:4,104p:4,13ic:4,14gs:4,14l1:4,167g:4,16r9:4,16xy:4,16z5:3,17qt:3,18bw:5,19vo:4,1ano:2,1ba3:2,1hzm:4,1i8w:4,1kib:2,1lki:4,1m8h:4,1nzy:2,1ohg:4,1r56:2,1y15:5,2ddj:3,2dg9:4,2f95:6,2oem:2,2q7k:3,2wlu:3
+paris 1 pantheon sorbonne	4yr	
+paris 1 pantheon sorbonne university	4yr	
+paris 10	ail	
+paris 10e	ail	
+paris 11e	dbg	
+paris 12		vhy:3
+paris 12 university	vhy	
+paris 12 val de marne university	vhy	
+paris 12e	b76	
+paris 13 university	39lw	
+paris 13e	cls	
+paris 14e	ap9	
+paris 15e	au7	
+paris 16e	6re	
+paris 17e	cf6	
+paris 18e	bbp	
+paris 1900	1e0	
+paris 1924	ha	
+paris 19e	f6m	
+paris 1e	85k	
+paris 1er	85k	
+paris 2	fdk	
+paris 2003	u3k	
+paris 2007 film	1l98	
+paris 2008 film	1l98	
+paris 2054 renaissance	50cn	
+paris 20e	htn	
+paris 2e	fdk	
+paris 36	1nzy	
+paris 3e	iyo	
+paris 4e	af5	
+paris 5	v49	
+paris 5e	91r	
+paris 6e	8dv	
+paris 7	bpf	
+paris 7 denis diderot university	bpf	
+paris 7e	8h5	
+paris 8	6z8	cos:3
+paris 8 university	cos	
+paris 8e	6z8	
+paris 9e	8lm	
+paris academy of science	xj	
+paris after		3992:3
+paris after dark	3992	
+paris agreement	5eds	
+paris agreement climate change	5eds	
+paris agreement on cimate change	5eds	
+paris agreement on climate change	5eds	
+paris agreement under the united nations framework convention on climate change	5eds	
+paris alexander	1w5i	
+paris andralas	620v	
+paris ar	2ua0	
+paris arkansas	2ua0	
+paris attack of january 2015	4gkm	
+paris attacks of january 2015	4gkm	
+paris austerlitz	5qr1	
+paris austerlitz railway station	5qr1	
+paris barclay	1ba3	
+paris basket		17qt:3
+paris basket racing	17qt	
+paris beguin	4hbx	
+paris belongs		5c89:4
+paris belongs to		5c89:4
+paris belongs to us	5c89	
+paris bibliotheque nationale	akk	
+paris bid		34wf:7
+paris bid for		34wf:7
+paris bid for the		34wf:7
+paris bid for the 2024		34wf:7
+paris bid for the 2024 summer		34wf:7
+paris bid for the 2024 summer olympics	34wf	
+paris bid for the 2028 summer olympics	34wf	
+paris black friday	1oly	
+paris blues	1r56	
+paris blues soundtrack	1r56	
+paris bordeaux railway	v6b	
+paris brest railway	1m4p	
+paris brule t il	fkg	
+paris brule t il 1966 film	fkg	
+paris brussels	4u5s	
+paris brussels cycle race	4u5s	
+paris bruxelles	4u5s	
+paris by		62aa:3
+paris by night	62aa	
+paris by night 2012 film	62aa	
+paris calling	3jub	
+paris cdg	18bw	
+paris central public school	50u0	
+paris ch de gaulle	18bw	
+paris chante toujours	67p1	
+paris charles		18bw:5
+paris charles de		18bw:5
+paris charles de gaulle	18bw	18bw:5
+paris charles de gaulle airport	18bw	
+paris climate accord	5eds	
+paris climate agreement	5eds	
+paris comics	shj	
+paris commune	1kib	
+paris commune martyrs of the	1kib	
+paris conservatoire national de musique	6dj	
+paris conservatoire national de musique et de declamation	6dj	
+paris cowan		5xoa:3
+paris cowan hall	5xoa	
+paris dauphine	d76	d76:3
+paris dauphine university	d76	
+paris department	6km	
+paris descartes		v49:3
+paris descartes university	v49	
+paris descartes university sorbonne paris cite	v49	
+paris diderot		bpf:3
+paris diderot university	bpf	
+paris discography	5i4a	
+paris disneyland	32cq	
+paris does strange things	zrl	
+paris est	1muq	
+paris est mulhouse ville railway	1j11	
+paris est railway station	1muq	
+paris est strasbourg ville railway	1z4p	
+paris est toujours paris	1ohg	
+paris estmulhouse ville railway	1j11	
+paris eststrasbourg ville railway	1z4p	
+paris etymology	1p	
+paris exception	1bqh	
+paris exhibition of 1889	6gsl	
+paris exposition of 1889	6gsl	
+paris exposition universelle	6gsl	
+paris express film	3acl	
+paris f c	5gx	
+paris fall fair	50u0	
+paris fashion		6hmv:3
+paris fashion week	6hmv	
+paris fc	5gx	
+paris first name	shj	
+paris follies	4hwr	
+paris football club	5gx	
+paris for president	nvg	
+paris for president song	nvg	
+paris france	1p	
+paris france musees louvre	iya	
+paris frills	2xqf	
+paris gare		16r9:4
+paris gare de		16r9:4
+paris gare de l est	1muq	
+paris gare de lyon	16r9	
+paris gare du nord	1d4u	
+paris gaston bruno paulin	1u8y	
+paris geographical society	4boc	
+paris given name	shj	
+paris greek mythology	1w5i	
+paris handball	167g	
+paris hilton	nvg	
+paris hilton energy plan	nvg	
+paris hilton responds to mccain ad	nvg	
+paris hilton s dog	nvg	
+paris hilton s second album	nvg	
+paris holiday	2oem	
+paris i la sorbone	4yr	
+paris i la sorbonne	4yr	
+paris i love you	xqi	
+paris i pantheon sorbonne	4yr	
+paris ii	6vy	
+paris ii pantheon assas	6vy	
+paris iii	g20	
+paris il	1hsi	
+paris ile de france	1p	
+paris ile de france france	1p	
+paris ill	1hsi	
+paris illinois	1hsi	
+paris in		2ddj:3
+paris in spring	2ddj	
+paris indoors	q4t	
+paris institute		1pk:5
+paris institute of		1pk:5
+paris institute of political		1pk:5
+paris institute of political science	1pk	
+paris institute of political studies	1pk	
+paris is		1ohg:4,4cml:3
+paris is always		1ohg:4
+paris is always paris	1ohg	
+paris is burning	4cml	
+paris is burning documentary	4cml	
+paris is burning documentary film	4cml	
+paris is burning film	4cml	
+paris is burning film comments	4cml	
+paris is worth a mass	ngi	
+paris iv paris sorbonne	8b0	
+paris iv sorbonne	8b0	
+paris ix	d76	
+paris j taime	xqi	
+paris je		xqi:4
+paris je t		xqi:4
+paris je t aime	xqi	
+paris je taime	xqi	
+paris kanellakis		16z5:3
+paris kanellakis award	16z5	
+paris kanellakis theory and practice award	16z5	
+paris kentucky	10gx	
+paris ky	10gx	
+paris l		3d7u:3
+paris l hopital	3d7u	
+paris la defense	440p	
+paris law		kfx:3
+paris law faculty	kfx	
+paris le bourget	1i11	
+paris le bourget airport	1i11	
+paris le havre railway	35kw	
+paris le trash	38h1	
+paris legendary figure	1w5i	
+paris levallois	1uw6	
+paris levallois basket	1uw6	
+paris levallois basketball	1uw6	
+paris lille railway	1fln	
+paris lodron universitat salzburg	mnc	
+paris lodron university	mnc	
+paris louis philippe albert d orleans comte de 1838 1894	1mfd	
+paris love song	2ddj	
+paris lyon	16r9	
+paris lyon railway station	16r9	
+paris manhattan	52jf	
+paris manhattan 2012	52jf	
+paris marseille railway	19xj	
+paris masters	q4t	
+paris match	i18	
+paris matthew	5do0	
+paris metro	3br	trk:4,tzj:4,vlv:4,104p:4,13ic:4,14gs:4,14l1:4,16xy:4,19vo:4,1hzm:4,1i8w:4,1lki:4,1m8h:4,3zz3:4
+paris metro line		trk:4,tzj:4,vlv:4,104p:4,13ic:4,14gs:4,14l1:4,16xy:4,19vo:4,1hzm:4,1i8w:4,1lki:4,1m8h:4,3zz3:4
+paris metro line 1	14gs	
+paris metro line 10	1i8w	
+paris metro line 11	1m8h	
+paris metro line 12	13ic	
+paris metro line 13	104p	
+paris metro line 13stdenis	104p	
+paris metro line 14	3zz3	
+paris metro line 2	19vo	
+paris metro line 3	1hzm	
+paris metro line 4	14l1	
+paris metro line 5	1lki	
+paris metro line 6	16xy	
+paris metro line 7	tzj	
+paris metro line 8	trk	
+paris metro line 9	vlv	
+paris montparnasse	2r64	
+paris montparnasse railway station	2r64	
+paris mulhouse railway	1j11	
+paris museum of natural history	o1v	
+paris my		5sl9:3
+paris my love	5sl9	
+paris mythology	1w5i	
+paris nanterre		8d6:3
+paris nanterre university	8d6	
+paris new		2wlu:3
+paris new york	2wlu	
+paris nice	7o5	
+paris nord	1d4u	
+paris nord railway station	1d4u	
+paris nous appartient	5c89	
+paris observatory	hid	hid:4
+paris observatory psl		hid:4
+paris observatory psl university	hid	
+paris of pakistan	15a	
+paris of the east	jr	
+paris of the plains	12h	
+paris of the prairies	2lx	
+paris of the south	4fb	
+paris of troy	1w5i	
+paris on	50u0	
+paris ontario	50u0	
+paris open	q4t	
+paris open tennis	q4t	
+paris opera	swm	
+paris opera house	swm,3fl1	
+paris oratory	m3x	
+paris orly	11wk	
+paris orly airport	11wk	
+paris pantheon	dyd	
+paris peace agreement	1mhw	
+paris peace conference 1856	1zf	
+paris peripherique	3zo6	
+paris plage	1avn	
+paris psg	jcy	
+paris qui dort	5rmo	
+paris racing	7ts	
+paris racing basket	17qt	
+paris rapper	5i4a	
+paris rapper discography	5i4a	
+paris rer	6a9	
+paris ring road	3zo6	
+paris roissy	18bw	
+paris roissy charles de gaulle airport	18bw	
+paris roubaix	7to	
+paris roubaix cycle race	7to	
+paris s 12th arrondissement	b76	
+paris saclay university	2are	
+paris saint		2lc:4,jcy:4,167g:4,1y15:5,2f95:6
+paris saint denis	54j	
+paris saint germain	2lc	2lc:4,jcy:4,167g:4,1y15:5,2f95:6
+paris saint germain academy	2f95	
+paris saint germain b	2f95	
+paris saint germain f c	2lc	
+paris saint germain f c academy	2f95	
+paris saint germain f c kits	2lc	
+paris saint germain f c ladies	jcy	
+paris saint germain f c reserves and academy	2f95	
+paris saint germain f c women	jcy	
+paris saint germain fc	2lc	2f95:6
+paris saint germain fc youth		2f95:6
+paris saint germain fc youth academy	2f95	
+paris saint germain feminine	jcy	
+paris saint germain feminines	jcy	
+paris saint germain football club	2lc	
+paris saint germain handball	167g	
+paris saint germain rugby		1y15:5
+paris saint germain rugby league	1y15	
+paris saint germain rugby league team	1y15	
+paris saint germain women	jcy	
+paris saint germain youth academy	2f95	
+paris saint germaine racing basket	17qt	
+paris salon	6flk	
+paris school	2n2i	
+paris school of mines	79u	
+paris sciences et lettres quartier latin	jh2	
+paris sciences et lettres research university	jh2	
+paris sg	2lc	
+paris skyle	39bj	
+paris sorbonne	8b0	8b0:5
+paris sorbonne university	8b0	8b0:5
+paris sorbonne university paris		8b0:5
+paris sorbonne university paris iv	8b0	
+paris st germain	2lc	
+paris st germaine	2lc	
+paris still		67p1:3
+paris still sings	67p1	
+paris strasbourg railway	1z4p	
+paris subway	3br	
+paris sud 11 university	e4b	
+paris surname	6ff2	
+paris telecom	1tha	
+paris tennessee	15qj	
+paris tennessee comments	15qj	
+paris tennessee micropolitan area	2a4h	
+paris texas	lqj,1ano	
+paris texas city	lqj	
+paris texas film	1ano	
+paris texas micropolitan area	3pex	
+paris texas movie	1ano	
+paris texas usa	lqj	
+paris time	5h	
+paris tn	15qj	
+paris tn micropolitan statistical area	2a4h	
+paris tn msa	2a4h	
+paris tn sa	2a4h	
+paris tours	651	
+paris tours 2016	q8b	
+paris tours cycle race	651	
+paris tram	3wpr	
+paris tramway	3wpr	
+paris tramway line 4	4b1v	
+paris transport authority	2p9	
+paris trojan war hero	1w5i	
+paris tx	lqj	
+paris tx micropolitan statistical area	3pex	
+paris tx movie	1ano	
+paris tx msa	3pex	
+paris tx sa	3pex	
+paris tx usa	lqj	
+paris underground	3br	
+paris unity march	5rs5	
+paris university	iu	
+paris university of	iu	
+paris university xi	e4b	
+paris uprising of 31 october 1871	1kib	
+paris vi pierre et marie curie	9ix	
+paris vice		2q7k:3
+paris vice squad	2q7k	
+paris vii denis diderot university	bpf	
+paris vii university	bpf	
+paris volley	6c84	
+paris w hilton	nvg	
+paris west university nanterre la defense	8d6	
+paris when		2dg9:4
+paris when it		2dg9:4
+paris when it sizzles	2dg9	
+paris worker s commune	1kib	
+paris workers commune	1kib	
+paris world s fair of 1889	6gsl	
+paris x	8d6	
+paris x nanterre	8d6	
+paris xe arrondissement	ail	
+paris xi	e4b	
+paris xi paris sud	e4b	
+paris xii	vhy	
+paris xii university	vhy	
+paris xiii	39lw	
+paris xiii university	39lw	
+parochial church	5ik	
+parochial house	2h69	
+parochial vicar	56l	
+peter mattias forsberg	1k1z	
+peter sloterdijk	37bo	
+prokopievsk	2v62	
+raitenbuch	3mk0	
+rhagionidae	404v	
+roayl rumble	1c3n	
+rochlin	2mie	
+rpgxp	35hr	
+sankhare	4rgr	
+savianges	2w2i	
+semeiostachys	28xr	
+serliana	hdb	
+shiu hing	1xp9	
+shiu hung hui	2urx	
+shpilband	2ae0	
+shredder	1c4f	
+shredder tmnt	1c4f	
+shredder villain	1c4f	
+sipihr		6039:2
+sipihr shikoh	6039	
+sir stein	2s14	
+sorachi		1vky:2
+sorachi general subprefectural bureau	1vky	
+sorachi shicho	1vky	
+sorachi subprefecture	1vky	
+spenderian	1bkl	
+sterdyn commune	qi3	
+styrax	3h7q	
+sudigundalu	3et6	
+szprotawa	2fop	
+szprotawa commune	13qy	
+tatenice	2eyr	
+tetramorium	41xl	
+tgl series	1ahq	
+the amigos happy feet	1wka	
+the diamond		5c95:3,5et8:5,5ql5:3
+the diamond arm	5c95	
+the diamond chariot	5ql5	
+the diamond enniskillen	elu	
+the diamond from		5et8:5
+the diamond from the		5et8:5
+the diamond from the sky	5et8	
+the diamond mercanries	1x8c	
+the diamond mercenaries	1x8c	
+the diamond vehicle	5ql5	
+the switch	257a	
+the switch 2010 film	257a	
+the switch 2010 movie	257a	
+the switch up	5o2s	
+timra	27x3,46w6	yfn:2,27x3:2
+timra ik	yfn	
+timra kommun	27x3	
+timra municipality	27x3	
+timra red eagles	yfn	
+tipperah district	mb6	
+tormellas	4w7l	
+tormellas avila	4w7l	
+tormellas spain	4w7l	
+tricosagon	dx3	
+trungy	2u1n	
+unicode		46t:2
+unicode 10	49rp	
+unicode 12	49rp	
+unicode 12 0	49rp	
+unicode 2	49rp	
+unicode 2 0	49rp	
+unicode 2 1	49rp	
+unicode 3 0	49rp	
+unicode 3 2	49rp	
+unicode 4 0 0	49rp	
+unicode 8	49rp	
+unicode 88	49rp	
+unicode alias	49rp	
+unicode anomaly	49rp	
+unicode block	46t	
+unicode blocks	46t	
+unicode blocks doc	46t	
+unicode braille	k1s	
+unicode braille patterns	k1s	
+unicode code point	49rp	
+unicode keyboard layout editor	l5	
+unicode pipeline	49rp	
+unicode roadmap	49rp	
+unicode standard		49rp:3
+ut04	63jl	
+ware	15hk,2w5m	3gpp:3
+ware chadwell	15hk	
+ware christchurch	15hk	
+ware england	15hk	
+ware f		3gpp:3
+ware f c	3gpp	
+ware fc	3gpp	
+ware football club	3gpp	
+ware fur katalonien	3fdd	
+ware hertfordshire	15hk	
+ware ma	2w5m	
+ware mass	2w5m	
+ware massachusetts	2w5m	
+ware nar	5pub	
+ware st marys	15hk	
+ware town hampshire county ma	2w5m	
+ware town hampshire county massachusetts	2w5m	
+ware town ma	2w5m	
+ware town massachusetts	2w5m	
+ware trinity	15hk	
+ware united kingdom	15hk	
+ware urban district	15hk	
+wiltord	2n98	
+yeosu	1h19	
+yeosu city	1h19	
+yeosu shi	1h19	
+yeosu si	1h19	
+yevheniy bredun	4dzp	
+yevheniy santrapinskykh	46cf	
+zoutenaaie	15ns	

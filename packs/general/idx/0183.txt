@@ -1,0 +1,697 @@
+5nal destination	1idn	
+antifeudalism	515l	
+apollonius		3571:3,5mm3:3
+apollonius conics	3571	
+apollonius of		3571:3,5mm3:3
+apollonius of naucratis	5mm3	
+apollonius of perga	3571	
+apollonius of perge	3571	
+apollonius of rhodes	5mm3	
+apollonius pergaeus	3571	
+apollonius pontica	502u	
+apollonius rhodius	5mm3	
+apollonius s conics	3571	
+aquatic ecoregion	7os	
+aquatic plane	30l	
+aquatic preserves	25b	
+aquatic sports	1mli	
+artashastra	5lig	
+artefact	hpa	
+artefact archaeology	hpa	
+aspalathos	1yl	
+astrobotanics	6162	
+azat		2pkg:3,2ub2:2,523l:2
+azat bairyyev	523l	
+azat chatenet	2ub2	
+azat khodzhageldyyevich bayryyev	523l	
+azat le		2pkg:3
+azat le ris	2pkg	
+barroco	254	
+barroco film	1wyl	
+bhikku	6u5	
+campasol	4ndl	
+ceramic	khz	
+ceramic composition and properties	khz	
+ceramic dog	19d1	
+ceramic material	khz	
+ceramic mesolithic	4rla	
+ceramic paint	641x	
+ceramic wares	641x	
+certissa	2oly	
+chalga	5ed8	
+chotank	hon	
+chotank virginia	hon	
+chuang		289q:3
+chuang chia		289q:3
+chuang chia jung	289q	
+complex		515r:2,58tx:2,5wkc:2
+complex 12	2hpz	
+complex 17	6sv	
+complex 36	h1q	
+complex 37	1hus	
+complex 39	66e	
+complex 40	17ht	
+complex 41	ood	
+complex algebraic geometry	9sz	
+complex analysis	58tx	
+complex analysis comments	58tx	
+complex analytic	58tx	
+complex arithmetic	515r	
+complex biochemistry	wrl	
+complex carbohydrate	iv0	
+complex carbs	iv0	
+complex cations	5b4f	
+complex compound	5b4f	
+complex division	515r	
+complex field	515r	
+complex fracture	1fzx	
+complex function theory	58tx	
+complex functions	58tx	
+complex getal	515r	
+complex ions	5b4f	
+complex language	1d1	
+complex leaf	12zf	
+complex machine	btq	
+complex map	58tx	
+complex math	515r	
+complex number	515r	
+complex number calculator	623w	
+complex of proteins	wrl	
+complex partial seizures	18zt	
+complex phrase	54z	
+complex polynomial	1yyw	
+complex sales	5wkc	
+complex valued	515r	
+complex variable	58tx	
+complex variable analysis	58tx	
+complex variety	1oey	
+complex vector	4a25	
+complex vector space	4a25	
+complex vector spaces	4a25	
+condamine	o9f,3nmp	
+condamine ain	3nmp	
+cottages	1knl	
+cristy romano	2lbh	
+david blei	5xhz	
+david donald historian	5lrh	
+dender eh	cd5	
+dham dhoom	60gw	
+diefenbaker	245w	
+diefenbaker john	245w	
+disneyabc	1pp0	72c:3
+disneyabc domestic		72c:3
+disneyabc domestic television	72c	
+disneyabc home entertainment and television distribution	72c	
+disneyabc television	1pp0	
+disneyabc television group	1pp0	
+electronic	2iku	to:2,1f4:2,2vv:3,6ck:2,6fs:2,ma3:3,n1o:3,12e8:2,17eu:2,2l3g:3,46go:2,4ibs:2,54ex:2
+electronic and electrical engineering	imj	
+electronic art music	to	
+electronic arts	1f4	
+electronic arts battlefield franchise	v3n	
+electronic arts black box	air	
+electronic arts canada	air	
+electronic arts digital illusions creative entertainment ab	xvf	
+electronic arts game studio	1f4	
+electronic arts inc	1f4	
+electronic arts square	1f4	
+electronic arts square k k	1f4	
+electronic arts united kingdom	1f4	
+electronic balance	5d9h	
+electronic band	2iku	
+electronic body		n1o:3
+electronic body music	n1o	
+electronic body music ebm	n1o	
+electronic bulletin board	44lo	
+electronic calculating machine	32uy	
+electronic calculator	32uy	
+electronic circuit	17eu	
+electronic circuitry	17eu	
+electronic circuits	17eu	
+electronic classical music	to	
+electronic classroom	4xhl	
+electronic commerce	f85	
+electronic communication	1rx	
+electronic component	12e8	
+electronic components	12e8	
+electronic computer	87o	
+electronic computing	87o	
+electronic dance	2vv	2vv:3
+electronic dance music	2vv	
+electronic dance music footer	1ee	
+electronic dance pad	1qqd	
+electronic dark wave	8oj	
+electronic dartboard	4el	
+electronic database	136h	
+electronic device	ikf	
+electronic devices	1epd	
+electronic discography	2iku	
+electronic divorce	2ejj	
+electronic drum machine	3ejb	
+electronic eavesdropping	6et8	
+electronic equipment	ikf	
+electronic feedback loops	6ffz	
+electronic file	1ru7	
+electronic files	1ru7	
+electronic folk	18rl	
+electronic freedom foundation	ma3	
+electronic frontier		ma3:3
+electronic frontier foundation	ma3	
+electronic frontiers foundation	ma3	
+electronic gambling	5zb	
+electronic game	46go	
+electronic games	46go	
+electronic goods	1epd	
+electronic hardcore	2e5p,4ijs	
+electronic hardcore music	2e5p	
+electronic hardcore punk	2e5p	
+electronic hip hop	lgl	
+electronic house	448	
+electronic indie	2vv	
+electronic instrument	2l3g	
+electronic instrumentation	92z	
+electronic instruments	2l3g	
+electronic jazz	2pk7	
+electronic journal	4ibs	
+electronic keyboard	6ck	
+electronic keyboards	6ck	
+electronic library	9hm	
+electronic listening music	1ee	
+electronic map	olk	
+electronic materials	20kn	
+electronic memory	vc2	
+electronic metal	6fs	
+electronic metalcore	4ijs	
+electronic monk	5hp7	
+electronic music	to	
+electronic music art music	to	
+electronic music artist	to	
+electronic music classical	to	
+electronic music footer	1ee	
+electronic music instrument	2l3g	
+electronic music instruments	2l3g	
+electronic music jungle	30s	
+electronic musical		2l3g:3
+electronic musical instrument	2l3g	
+electronic musical instruments	2l3g	
+electronic newspaper	c55	
+electronic photography	chx	
+electronic pop	2w8	
+electronic post hardcore	4ijs	
+electronic processing unit	4rsz	
+electronic product	ikf	
+electronic research announcements of the american mathematical society	1at	
+electronic rock	6fs	
+electronic role playing game	x7	
+electronic software delivery	190	
+electronic software distribution	190	
+electronic spam	54ex	
+electronic sport	5kdy	
+electronic still photography	chx	
+electronic store	1epd	
+electronic system	ikf	
+electronic technology	ikf	
+electronic telegraph	yth	
+electronic television	d7o	
+electronic terminal	6fx5	
+electronic toy	46go	
+electronic transactions on artificial intelligence	sh	
+electronic world	1174	
+estacion de atocha	24ze	
+estacion de avenida de america	2rtn	
+estacion de barcelona sants	1m8u	
+estacion de chamartin	19rv	
+estacion de gran via	4wwj	
+estacion de pueblo nuevo	4yzw	
+estacion de ventas	56j7	
+etaki	108l	
+eurysacca	2x2p	
+faisalabad	8g9	4mzn:2
+faisalabad city	8g9	
+faisalabad city district	4mzn	
+faisalabad district	4mzn	
+faisalabad lyallpur	8g9	
+faisalabad pakistan	8g9	
+faisalabad punjab	8g9	
+faisalabad punjab pakistan	8g9	
+frouzins	27w7	
+gastrodermus	n9b	
+gmina cewice	12k1	
+govou	358v	
+graca		4ily:2,56gx:2
+graca foster	56gx	
+graca machel	4ily	
+graca machel mandela	4ily	
+graca mandela	4ily	
+graca simbine	4ily	
+graca simbine machel	4ily	
+graca simbine machel mandela	4ily	
+graca simbine mandela	4ily	
+hakansson	2xwq	
+heidecker	3kh3	
+henry liddell	5xgd	
+hosea		45db:2
+hosea bigelow	4i2y	
+hosea biglow	4i2y	
+hosea lorenzo williams	45db	
+hosea williams	45db	
+ihar	2h2l	3p7q:2,4ho7:2,4o5h:2,4xca:2,587n:2,5s9c:2
+ihar chumachenka	4p07	
+ihar hurynovich	3p7q	
+ihar logvinaw	4o5h	
+ihar razhkow	587n	
+ihar shytaw	527u	
+ihar tarlowski	5s9c	
+ihar yasinski	4xca	
+ihar zyankovich	4ho7	
+ilsede	5lor	
+ilsede germany	5lor	
+infancy narrative	220z	
+isaacasimov preludetofoundation	5juc	
+isaacasimov robotbooks	2pp9	
+isaacasimov thefoundationseries	4vwh	
+iwano frankiwsk	5yj	
+iwano frankowsk	5yj	
+jean ziegler	3gfu	
+jekabs alksnis	4wjd	
+john denham	4wnl	
+john denham poet	4wnl	
+john dreyer	566x	
+john dreyer footballer	566x	
+john parr	394f	
+jordin		ztq:2
+jordin brianna sparks	ztq	
+jordin ladd	31xx	
+jordin sparks	ztq	
+jordin sparks ii	ztq	
+jordin sparks singles	ztq	
+judy	3xq	ald:2,ju4:2,m48:2,mnp:2,omi:2,12py:2,1jnm:3,1u8h:2,1w0d:2,2izr:2,2jvy:2,37ed:2,3mef:2,4ggj:2,4r6d:2,4yic:2,51tu:3,558i:2,5dvj:2,5hgk:2,5vyg:2,61ds:2,61gc:2,61un:2,671k:2,6bl4:2
+judy ann		1jnm:3
+judy ann santos	1jnm	
+judy ann santos agoncillo	1jnm	
+judy ann santos awards and nominations	1jnm	
+judy anne lumagui santos	1jnm	
+judy anne santos	1jnm	
+judy b topinka	51tu	
+judy baar	51tu	51tu:3
+judy baar topinka	51tu	
+judy barr topinka	51tu	
+judy becker	671k	
+judy bernly	1sly	
+judy bloom	ju4	
+judy blume	ju4	
+judy blundell	kbk	
+judy butler	1vec	
+judy campbell	4ggj	
+judy campbell comments	4ggj	
+judy canova	2izr	
+judy catherine claire parfitt	37ed	
+judy chicago	5dvj	
+judy cohen	5dvj	
+judy collins	mnp	
+judy dater	5hgk	
+judy davis	m48	
+judy davis comments	m48	
+judy dench	czz	
+judy durham	1go1	
+judy first name	3xq	
+judy gamble	4ggj	
+judy garland	ald	
+judy garland james mason	ald	
+judy geeson	1w0d	
+judy gerowitz	5dvj	
+judy gerowitz chicago	5dvj	
+judy given name	3xq	
+judy greer	omi	
+judy gringer	12py	
+judy hart	5vyg	
+judy holiday	1u8h	
+judy holliday	1u8h	
+judy juanita	5vyg	
+judy k newton	1336	
+judy kay cohen	1336	
+judy kay newton	1336	
+judy kaye newton	1336	
+judy kuhn	4r6d	
+judy lamarsh	61un	
+judy landers	61ds	
+judy lewis	3mef	
+judy lewis gable	3mef	
+judy light	3l83	
+judy martz	4yic	
+judy mary gamble	4ggj	
+judy matlack	64w7	
+judy morris	2jvy	
+judy morstein	4yic	
+judy nails	4ycb	
+judy newton	1336	
+judy pace	558i	
+judy parfitt	37ed	
+judy personal name	3xq	
+judy picoult	1mnf	
+judy resnick	3s4k	
+judy resnik	3s4k	
+judy reyes	61gc	
+judy roitman	5o8c	
+judy rose lichtenfeld	5hgk	
+judy santos	1jnm	
+judy sender	63xg	
+judy steel	4db4	
+judy topinka	51tu	
+judy tsuke	1pel	
+judy turner	gsy	
+judy tzuke	1pel	
+judy van zant	3ce4	
+judy winter	6bl4	
+judy young	3mef	
+ketchikan	1r61	
+ketchikan ak	1r61	
+ketchikan alaska	1r61	
+ketchikan city	1r61	
+ketchikan ferry terminal	1r61	
+khorezm oblast	169o	
+khorezm province	169o	
+khorezm region	169o	
+kmkg mrah	5ruw	
+kroft steve	5f5w	
+la ciociara	1kz0	
+la ciociara film 1960	1kz0	
+le chatelier	2iik	
+le legioni di cleopatra	2q5s	
+leifers	5es9	
+leifers laives	5es9	
+lieschbach	1gvn	
+loading kat deluna album	230z	
+malselv	zhf	
+malselv municipality	zhf	
+maria despina	4am2	
+maria despina palaiologina	4am2	
+maria despina palaiologos	4am2	
+metereology	om3	
+mieges	1pf4	
+milko		4a78:2,4u8z:2
+milko djurovski	4a78	
+milko durovski	4a78	
+milko gjurovski	4a78	
+milko gurovski	4a78	
+milko novakovic	4u8z	
+milko urovski	4a78	
+misultina	d9k	
+montes		vwp:2,4qnk:4
+montes bradley	3p4w	
+montes claros	vwp	
+montes de		4qnk:4
+montes de oca		4qnk:4
+montes de oca canton	4qnk	
+montes de oca san jose	4qnk	
+montes walloon	64l	
+natasa	5uag	3xim:2,4m5h:2,4vf2:2,4wws:3
+natasa bekvalac	4vf2	
+natasa douchev janics	4wws	
+natasa dusev		4wws:3
+natasa dusev janic	4wws	
+natasa dusev janics	4wws	
+natasa gollova	3xim	
+natasa janic	4wws	
+natasa janics	4wws	
+natasa ninkovic	4m5h	
+natasa theodoridou	2u4h	
+nodoka manabe	4gwf	
+nooaheevah	2xxx	
+palkermes	khu	
+paul rudnick	41kz	
+polonia		4pp:2,6zn:2,2f4b:3,4nyy:2
+polonia airport	auw	
+polonia bytom	6zn	
+polonia ii warsaw	4pp	
+polonia ii warszawa	4pp	
+polonia international airport	auw	
+polonia olimpia elblag	wsr	
+polonia restituta	5lz	
+polonia slubice	4nyy	
+polonia spec warszawa	4pp	
+polonia subice	4nyy	
+polonia warbud		2f4b:3
+polonia warbud warszawa	2f4b	
+polonia warsaw	4pp	
+polonia warsaw basketball	2f4b	
+polonia warsaw s basketball team	2f4b	
+polonia warszawa	4pp	
+polonia warszawa basketball	2f4b	
+primate	2esd,42zn	
+primate anatomy	2esd	
+primate biology	2esd	
+primate bishop	42zn	
+primate cathedral of saint mary of toledo	2vre	
+primate catholicism	42zn	
+primate church	42zn	
+primate clades	2esd	
+primate of all england	9dn	
+primate of all the gauls	42zn	
+primate of denmark and sweden	42zn	
+primate of scandinavia	42zn	
+primate religion	42zn	
+primate skull	2esd	
+primate ussher	5gr5	
+primate visions	5w49	
+prince duke of sussex augustus frederick	ofz	
+prince duke of york and albany edward augustus	1eab	
+prince duke of york sir andrew a c e mountbatten windsor kcvo kg gcvo	15oj	
+projects	6jp	
+projects 613 644 and 665	319n	
+projects at chalmers university of technology	bgn	
+raib	66a7	
+realmont	23he	
+reinaldo	2nqr	1tu1:2,2qxa:4,3u8g:2,4dw1:2,4eto:4,588g:3,5918:3,5bj0:4,5n19:3
+reinaldo alagoano	3u8g	
+reinaldo arenas	4dw1	
+reinaldo arenas fuentes	4dw1	
+reinaldo da		5n19:3
+reinaldo da cruz oliveira	2nqr	
+reinaldo da silva	5n19	
+reinaldo de		588g:3
+reinaldo de souza	588g	
+reinaldo elias		5bj0:4
+reinaldo elias da		5bj0:4
+reinaldo elias da costa	5bj0	
+reinaldo goncalves	3u8g	
+reinaldo goncalves felix	3u8g	
+reinaldo jose		4eto:4
+reinaldo jose da		4eto:4
+reinaldo jose da silva	4eto	
+reinaldo jose zacarias da silva	5n19	
+reinaldo navia	1tu1	
+reinaldo rosa		2qxa:4
+reinaldo rosa dos		2qxa:4
+reinaldo rosa dos santos	2qxa	
+reinaldo vicente		5918:3
+reinaldo vicente simao	5918	
+richard paquette	18on	
+robert mulka	5etm	
+rocky	yff,1whk,67jk	8ru:2,h46:2,zv7:2,13ts:4,17n6:2,18rx:2,1bcy:2,1mig:2,29ai:2,2cp5:2,2pto:3,4024:3,4elc:2,4q4s:2,4tso:3,4x8q:2,5a2l:2,5ez2:3,67kc:2,67nt:2,6hcw:2,6hh1:2
+rocky 1	yff	
+rocky 1976	yff	
+rocky 1976 film	yff	
+rocky 1981 film	67jk	
+rocky 2	1bcy	
+rocky 2006 american film	17n6	
+rocky 3	18rx	
+rocky 4	zv7	
+rocky 5	1mig	
+rocky 5 thousand	12uz	
+rocky 5000	12uz	
+rocky 6	17n6	
+rocky 7	1rpe	
+rocky and bullwinkel	14ok	
+rocky and bullwinkle	14ok	
+rocky and bullwinkle film	oji	
+rocky and bullwinkle movie	oji	
+rocky and bullwinkle show		14ok:5
+rocky and friends	14ok	
+rocky and his friends	14ok	
+rocky aoki	41jc	
+rocky balboa	17n6,6hcw	
+rocky balboa character	6hcw	
+rocky balboa film	17n6	
+rocky balboa film franchise	1whk	
+rocky balboa film series	1whk	
+rocky balboa movie	17n6	
+rocky balboa sr	6hcw	
+rocky baptiste	4elc	
+rocky bauer	sif	
+rocky bullwinkle and friends	14ok	
+rocky bullwinkle movie	oji	
+rocky carroll	2cp5	
+rocky clark	17tk	
+rocky comfort records	qcy	
+rocky crest	4xe	
+rocky crest windhoek	4xe	
+rocky echevarria	sif	
+rocky film	yff	
+rocky film franchise	1whk	
+rocky five thousand	12uz	
+rocky franchise	1whk	
+rocky his friends	14ok	
+rocky horror	16ql	
+rocky horror glee	3o0s	
+rocky horror glee show	3o0s	3o0s:5
+rocky horror picture show	16ql	16ql:5
+rocky horror picture show let s do the time warp again	2d7z	2d7z:12
+rocky i	yff	
+rocky ii	1bcy	
+rocky ii soundtrack	1bcy	
+rocky iii	18rx	
+rocky iii soundtrack	18rx	
+rocky iv	zv7	
+rocky lane	fps	
+rocky michael chopra	2hjt	
+rocky midget	6ff7	
+rocky midgets	6ff7	
+rocky mount	h46	
+rocky mount nc	h46	
+rocky mount north carolina	h46	
+rocky mountain	8ru,4x8q	13ts:4,2pto:3,4tso:3,5ez2:3
+rocky mountain battlin bears	2pto	
+rocky mountain battlin bears football	2pto	
+rocky mountain battlin bears track and field	2pto	
+rocky mountain coasters	5ez2	
+rocky mountain college	2pto	
+rocky mountain construction	5ez2	
+rocky mountain construction group	5ez2	
+rocky mountain construction group inc	5ez2	
+rocky mountain construction inc	5ez2	
+rocky mountain film	4x8q	
+rocky mountain house	4tso	
+rocky mountain house ab	4tso	
+rocky mountain house alberta	4tso	
+rocky mountain house fur trade	4tso	
+rocky mountain mont	2pto	
+rocky mountain movie	4x8q	
+rocky mountain national		13ts:4
+rocky mountain national park	13ts	
+rocky mountain national park wilderness	13ts	
+rocky mountain np	13ts	
+rocky mountain railroad of montana	57f1	
+rocky mountain region	8ru	
+rocky mountain system	8ru	
+rocky mountains	8ru	
+rocky mountains national park	13ts	
+rocky mountains park	i2r	
+rocky movie	yff	
+rocky mt nc	h46	
+rocky mt north carolina	h46	
+rocky mtn national park	13ts	
+rocky peeters	67nt	
+rocky planet	6ff7	
+rocky planets	6ff7	
+rocky power rangers	w8i	
+rocky putiray	4eai	
+rocky raccoon clark	17tk	
+rocky river	29ai	
+rocky river oh	29ai	
+rocky river ohio	29ai	
+rocky road		21om:3
+rocky series	1whk	
+rocky siberie	5a2l	
+rocky sullivan	1258	
+rocky the red hawk	e3v	
+rocky top	6hh1	
+rocky top tn	6hh1	
+rocky v	1mig	
+rocky vi	17n6	
+rocky view		4024:3
+rocky view county	4024	
+rocky vii	1rpe	
+rocky visconte	67kc	
+rocky votolato	4q4s	
+rootkit dj	56i3	
+rsuh	1eug	
+sandis		2640:2,4ipo:2
+sandis ozolins	2640	
+sandis ozolinsh	2640	
+sandis prusis	4ipo	
+sanfuretche hiroshima	4gt	
+schoutedenella	1b1w	
+schwahn mark	6c9p	
+seh hezar	1mcr	1mcr:4
+seh hezar rural		1mcr:4
+seh hezar rural district	1mcr	
+seh qaleh		3vad:3
+seh qaleh district	3vad	
+serco	2dp3	2dp3:2
+serco group	2dp3	
+serco group plc	2dp3	
+serco inc	2dp3	
+serco ltd	2dp3	
+serco plc	2dp3	
+silictria	j1n	
+skilled	3r3y	
+skilled mechanics	1zzy	
+songeons	363h	
+stratfield	doq	
+sulgen	4ovu	
+sulgen switzerland	4ovu	
+sulgen tg	4ovu	
+sulgen thurgau	4ovu	
+superhighway	2v7	
+surgical		6fgt:2
+surgical abdomen	1b2a	
+surgical device	6fgt	
+surgical equipment	6fgt	
+surgical excision	eiw	
+surgical excision of malignant lesions	eiw	
+surgical instrument	6fgt	
+surgical instrumentation	6fgt	
+surgical instruments	6fgt	
+surgical instruments and appliances	6fgt	
+surgical procedure	eiw	
+surgical specialities	9wv	
+surgical technique	eiw	
+tansila		27ac:2
+tansila department	27ac	
+tanzanie	hb	
+tekfurtagi	knq	
+the badger state	l7	
+the borrowers	1j4p,45g6	
+the borrowers 1997 film	1j4p	
+the borrowers 1997 movie	1j4p	
+the borrowers 2010 film	wbs	
+the borrowers book 1	45g6	
+the rogues	1edk	
+the rogues film	1edk	
+the rustington event	2eyj	
+the top chef	33ca	
+the top ten club	6hkl	
+thomas kidd	1k8h	
+thomas kidd illustrator	1k8h	
+thomas suedhof	1s2f	
+thrasea	67xf	
+thrasea paetus	67xf	
+tokhirjon		694l:2
+tokhirjon muminov	694l	
+trauma	451k,510d	1kyy:2
+trauma 1993 film	451k	
+trauma 2004 film	510d	
+trauma care	v5k	
+trauma emergency	v5k	
+trauma induced coagulopathy	6crp	
+trauma medical	v5k	
+trauma medicine	5a56	
+trauma records	1kyy	
+tsniitochmash	3hfp	
+tuileries		2vse:2
+tuileries garden	2vse	
+tunceli		edo:2
+tunceli province	edo	
+unterbach bern	10hd	
+unterbach meiringen	10hd	
+urba	4fkr	
+vano		2i9o:2
+vano ilitx muradov	2i9o	
+vano muradeli	2i9o	
+veggiano	3jha	
+vielma	3jom	
+woensdrecht	1qa6	
+ymvwtticnpc	18hp	
+yoghurd	1ns5	
+zelenka maria	3xy8	

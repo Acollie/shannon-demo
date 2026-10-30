@@ -1,0 +1,429 @@
+19181920		7ji:3
+19181920 flu		7ji:3
+19181920 flu pandemic	7ji	
+a f		15nt:4,29sb:4,2ui5:4,6680:6,69vz:3
+a f buddington	60ym	
+a f c		15nt:4,29sb:4,2ui5:4
+a f c ajax	21y	
+a f c bournemouth	1sz	
+a f c bournemouth doc	1sz	
+a f c darwen	393s	
+a f c fylde	yk8	
+a f c guildford	dqy	
+a f c hornchurch	1465	
+a f c leopards	29sb	
+a f c leopards sc	29sb	
+a f c sheppey	3vl0	
+a f c sportsman rovers	1ca7	
+a f c sudbury	15nt	
+a f c sutton	1zge	
+a f c telford united	6zt	
+a f c totton	2ui5	
+a f c tubize	f3e	
+a f c wimbledon	5hf	
+a f c wimbledon ladies	5pkf	
+a f huxley	1dh8	
+a f ioffe institute	39l8	
+a f ioffe physico technical institute	39l8	
+a f j thibaut	5i9r	
+a f l	w4k	
+a f lebrun	2mnf	
+a f leontiev	5wb6	
+a f rasmussen	1pnw	
+a f records	69vz	
+a f t van der heijden	6680	
+a f th	6680	6680:6
+a f th van		6680:6
+a f th van der		6680:6
+a f th van der heijden	6680	
+a f w beauchamp proctor	58o8	
+a f wilding	27ds	
+a f yoffe	15kx	
+acton	pj6,2193,5mrg	
+acton bell	14gb	
+acton charles januarius	5ua4	
+acton county quebec	5mrg	
+acton county regional municipality quebec	5mrg	
+acton england	pj6	
+acton greater london	pj6	
+acton house fur trade	4tso	
+acton john emerich edward dalberg 1st baron acton	1yt8	
+acton london	pj6	
+acton london england	pj6	
+acton ma	2193	
+acton mass	2193	
+acton massachusetts	2193	
+acton middlesex	pj6	
+acton quebec	5mrg	
+acton regional county municipality	5mrg	
+acton regional county municipality quebec	5mrg	
+acton technical college	n2o	
+aei	vpl	
+aei press	vpl	
+agrioscelis	1sxq	
+amairo no kami no otome	son	
+anawratha	3xhv	
+annia		3klz:2,3wa8:4,4gdo:4,5v6p:3,5vy8:2
+annia aurelia		4gdo:4
+annia aurelia faustina	5vy8	
+annia aurelia galeria		4gdo:4
+annia aurelia galeria faustina	4gdo	
+annia aurelia galeria lucilla	2b4r	
+annia cornificia		3wa8:4,5v6p:3
+annia cornificia faustina	5v6p	3wa8:4
+annia cornificia faustina minor	3wa8	
+annia cornificia faustina the younger	3wa8	
+annia faustina	5vy8	
+annia faustina augusta	5vy8	
+annia galeri faustina	5vy8	
+annia galeria aurelia faustina	4gdo	
+annia galeria faustina	2fz5	
+annia gens	3klz	
+arambys	1dkc	
+awdor	6fj4	
+ayrshire	ame	
+ayrshire comments	ame	
+ayrshire scotland	ame	
+baeza	q0p	
+baeza jaen	q0p	
+baeza spain	q0p	
+bagolino	1b9d	
+bg	51,7f2	
+bg 74 gottingen	6deq	
+bg b pfg	qrp	
+bg bonn 92	whm	
+bg charlottenburg	fwh	
+bg east b pfg	qrp	
+bg goettingen	6deq	
+bg gottingen	6deq	
+bg il	1s0n	
+bg in hi fi	waa	
+bg james wrestler	429l	
+bg lee	17y8	
+bg oh	10ok	
+bg ohio	10ok	
+bg pathum		9ww:5
+bg pathum united		9ww:5
+bg pathum united f		9ww:5
+bg pathum united f c	9ww	
+bg rapper	1nnq	
+bg v afg	mxl	
+bg west b pfg	qrp	
+bojidar antic	5s0z	
+bojidar iskrenov	4kvt	
+bonnemazon	29p7	
+boognish	1128	
+brestovac	3c99	
+brestovac croatia	3c99	
+cachoeiro	1x38	1x38:3
+cachoeiro de		1x38:3
+cachoeiro de itapemirim	1x38	
+cachoeiro de itapemirim brazil	1x38	
+cachoeiro do itapemirim	1x38	
+cadrezzate	3q16	
+caecilia	642d	zin:2,4ii1:3
+caecilia gens	zin	
+caecilia metella		4ii1:3
+caecilia metella dalmatica	4ii1	
+caecilia metella daughter of metellus dalmaticus	4ii1	
+calcutta	m8,33lx	
+calcutta 1947 film	33lx	
+calcutta city college	1j3j	
+calcutta college	wk	
+calcutta india	m8	
+calcutta islamia college	4lxl	
+calcutta metro	1mys	
+calcutta north lok sabha constituency	4eon	
+calcutta presidency	1k39	
+calcutta school of art	10wb	
+calcutta subway	1mys	
+calcutta university	wk	
+capvern	1mai	
+capvern les bains	1mai	
+cassiano		2uo3:4,609e:3
+cassiano dias		609e:3
+cassiano dias moreira	609e	
+cassiano mendes		2uo3:4
+cassiano mendes da		2uo3:4
+cassiano mendes da rocha	2uo3	
+cecile		1jy4:3,2ou5:2,3inq:3,3tt3:2,3umt:3,4s49:3,53v3:3,58mu:2,5rck:2,5ty8:2,5wen:2
+cecile aubrey	2ou5	
+cecile aubry	2ou5	
+cecile b demille	8ay	
+cecile caldwell	1839	
+cecile cassel	3tt3	
+cecile chaminade	5ty8	
+cecile corbel	5wen	
+cecile crochon	3tt3	
+cecile de		1jy4:3,53v3:3
+cecile de brunhoff	53v3	
+cecile de france	1jy4	
+cecile didier	5rck	
+cecile est morte	3inq	
+cecile is		3inq:3
+cecile is dead	3inq	
+cecile louise stephanie chaminade	5ty8	
+cecile lovsky	11xd	
+cecile mclorin		3umt:3
+cecile mclorin salvant	3umt	
+cecile of		4s49:3
+cecile of france	4s49	
+cecile salvant	3umt	
+cecile schott	5k98	
+cecile sophie mclorin salvant	3umt	
+cecile vassort	58mu	
+cely	1pyh	
+cely en biere	1pyh	
+charliechaplin	6c4	
+chevannay	3b91	
+chimay	sku	
+chimay belgium	sku	
+choretis	12ky	
+coiserette	2kda	
+comleonoc victor	59fl	
+contreglise	3w7e	
+copiapo	m6w	
+copiapo atacama	m6w	
+copiapo chile	m6w	
+dakshinkannad	9al	
+damjanac	6e4u	
+david guterson	4xh4	
+demokraci pl	2rjs	
+denekamp	6esi	
+dithecoluma	94d	
+doyet	1uy0	
+dyarbekir	9xo	
+ellay khule	5ihg	
+factor		4nw9:2
+factor 4	c7y	
+factor 5	4nw9	
+factor e farm	3mbh	
+factor five	4nw9	
+factor iv	c7y	
+factor monoid	39u3	
+fc rybinsk	14ie	
+fgth	1io6	
+goldleafed	6ex3	
+habuah	3ysr	
+hersiliid	669o	
+hibiscaceae	3e5k	
+i n		1bpa:4
+i n bernshtein	2kc1	
+i n c	jg	
+i n herstein	4iox	
+i n kramskoi	3v21	
+i n macleod	2n4f	
+i n r		1bpa:4
+i n r i	1bpa	
+i n r i ein film der menschlichkeit	1bpa	
+i n r i film	1bpa	
+i n s o m e	1ju3	
+i n salah	41d7	
+idrissid	3fy2	
+jasur		5z52:2
+jasur hasanov	5z52	
+jasur hasanov footballer born 1983	5z52	
+jasur khasanov footballer born 1983	5z52	
+jasur khsanov	5z52	
+jasur orziqulovich hasanov	5z52	
+jidaigeki	6ag8	
+jinnai takanori	53h2	
+jizak	44uv	
+jizak oblast	1mw2	
+john wick	u81	1tqi:4
+john wick 1	u81	
+john wick chapter		1tqi:4
+john wick chapter 1	u81	
+john wick chapter 2	1tqi	
+john wick chapter i	u81	
+john wick chapter ii	1tqi	
+john wick chapter iii	1tqi	
+john wick chapter two	1tqi	
+john wick film	u81	
+john wick i	u81	
+john wick ii	1tqi	
+john wick iii	1tqi	
+john wick two	1tqi	
+johore bahru	hwn	
+johore baru	hwn	
+johore bharu	hwn	
+juchi	1t0b	
+kickerbocker s history	z4v	
+kladeruby		4go9:3
+kladeruby nad		4go9:3
+kladeruby nad oslavou	4go9	
+kurdi	aij	
+kurdi language	aij	
+la murga	5txm	
+la scorta	3g8c	
+lawmakers	10ad	
+lesja	fux	fux:2
+lesja municipality	fux	
+lesja ukrajinka	2rh6	
+lesja village	fux	
+liebnitz	4p3n	
+linz	2r7	sed:3,1vvm:3
+linz am		1vvm:3
+linz am rhein	1vvm	
+linz an der donau	2r7	
+linz austria	2r7	
+linz germany	1vvm	
+linz land	sed	sed:3
+linz land district	sed	
+linz on donau	2r7	
+linz open	22n0	
+linz rhein	1vvm	
+liocourt	2bbe	
+lovins	3bhs	
+lwtwjo	3o0n	
+mardenborough steve	1lfd	
+melun	9vz	4aij:2
+melun diptych	4aij	
+melun france	9vz	
+michael ibo cooper	53wo	
+michael money	46od	
+mongols	2oce	2b3w:2
+named interchange	f4r	
+named reaction	3uu	
+national basketball		98v:3,hey:4,huj:3,q2z:3,4kcj:3,5cw6:3
+national basketball association	98v	hey:4
+national basketball association all defensive team	1642	
+national basketball association all star game	idf	
+national basketball association all star game most valuable player award	ccv	
+national basketball association coach of the year award	ecc	
+national basketball association comments	98v	
+national basketball association defensive player of the year award	118m	
+national basketball association draft	hey	
+national basketball association executive of the year award	j8g	
+national basketball association finals	i0f	
+national basketball association finals most valuable player award	nzp	
+national basketball association most improved player	kpf	
+national basketball association most improved player award	kpf	
+national basketball association most valuable player award	k5z	
+national basketball association of china	35x8	
+national basketball association rookie of the year award	8ou	
+national basketball association sixth man of the year award	1lz6	
+national basketball association sportmanship award	1cfv	
+national basketball association sportsmanship award	1cfv	
+national basketball development league	y8f	
+national basketball developmental league	y8f	
+national basketball league	huj,q2z,4kcj,5cw6	
+national basketball league australasia	huj	
+national basketball league australia	huj	
+national basketball league czech republic	5cw6	
+national basketball league england	4kcj	
+national basketball league nbl new zealand	q2z	
+national basketball league new zealand	q2z	
+national basketball league united kingdom	4kcj	
+necin	32fu	
+new garden boarding school	15bh	
+nookingtons	6hsy	
+noordwijk	sd4	
+noordwijk aan zee	sd4	
+noordwijk binnen	sd4	
+nyewood lane	ks0	
+ogy	2ir2	
+ogy belgium	2uhy	
+ogy france	2ir2	
+ogy moselle	2ir2	
+phan	185y	6bp0:3
+phan district	185y	
+phan phan	vnm	
+phan van		6bp0:3
+phan van santos	6bp0	
+pharmacoptis	23no	
+plouer		2zm9:3
+plouer sur		2zm9:3
+plouer sur rance	2zm9	
+praephragmatobia	8hp	
+primorye	c38	
+princess ki	1idu	
+purehmv	2n10	
+richard f		1vrg:3,5w89:3
+richard f barry	12cn	
+richard f burton	2mgq	
+richard f celeste	5kzr	
+richard f gordon	1vrg	
+richard f gordon jr	1vrg	
+richard f heck	5w89	
+richard f scholz	3vv	
+richard f vander veen	5xur	
+richard f vanderveen	5xur	
+rmnp	13ts	
+rockline		1vtz:2
+rockline entertainments	1vtz	
+rockline productions	1vtz	
+rockline venkatesh	1vtz	
+sarzanello	o3x	
+scmods	r3p	
+seahawks blowout	6glv	
+seahawks stadium	6bhz	
+shipden	1tov	
+shipden juxta felbrigg	1tov	
+shipden lost settlement	1tov	
+shipden lost village	1tov	
+shipden norfolk	1tov	
+sidharth	3s2x	3ghb:2,3s2x:2
+sidharth bharathan	3ghb	
+sidharth malhotra	3s2x	
+sidharth malhotra filmography	3s2x	
+skvrnov	3dur	
+sofa	34zf	
+sofa sound	nj5	
+subarnapur		2rl7:2
+subarnapur district	2rl7	
+supermex	5ten	
+sygate	hi0	
+sygate personal firewall	hi0	
+synagogues	1v6	
+the brken	5wok	
+the campaign	208a	
+the campaign film	208a	
+the campaign movie	208a	
+the iveys	1hcm	
+the kissing		3zmj:3
+the kissing bandit	3zmj	
+the kissing bandit film	3zmj	
+the massey medal	4vnr	
+the massey medal and prize	4vnr	
+thimister		4t2l:2
+thimister clermont	4t2l	
+thx1138	25o1	
+tilbury		3nqg:3
+tilbury f		3nqg:3
+tilbury f c	3nqg	
+tilbury fc	3nqg	
+tilbury football club	3nqg	
+tilbury house debating society	3jb	
+tsangarides	3xrt	
+tziporah malkah	5esb	
+tziporah malkah bat israel	5esb	
+uaa	ulo	
+urologists	7s8	
+ustasa croatian revolutionary movement	1n0l	
+ustasa croatian revolutionary organization	1n0l	
+ustasa hrvatski revolucionarni pokret	1n0l	
+vanatu	2ge	
+vigan	z0w	z0w:3
+vigan city	z0w	
+vigan ilocos		z0w:3
+vigan ilocos sur	z0w	
+vilfredo		2rkt:2
+vilfredo federico damaso pareto	2rkt	
+vilfredo paredo	2rkt	
+vilfredo pareto	2rkt	
+voltairian	c3s	
+weifang	w5t	
+weifang china	w5t	
+weifang shandong	w5t	
+william lyle richardson	v4y	
+wishaw	v6l	5sue:3
+wishaw f		5sue:3
+wishaw f c	5sue	
+wishaw fc	5sue	
+wishaw juniors f c	5sue	
+wishaw lanarkshire	v6l	
+wishaw thistle	5sue	
+wishaw thistle f c	5sue	
+zerus	6fyy	
+zmachine	t3c	

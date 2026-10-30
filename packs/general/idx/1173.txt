@@ -1,0 +1,358 @@
+08033	1bp4	
+10s	26qn	
+10s bc	2af7	
+10s bce	2af7	
+37857	24nt	
+3u	5rnp	
+3u cubesat	d90	
+a far		25ps:4
+a far off		25ps:4
+a far off place	25ps	
+a kivi	4i5r	
+aardio	zrn	
+afroasiatic	hgi	
+afroasiatic family	hgi	
+afroasiatic language	hgi	
+aglae		5cyj:3
+aglae de		5cyj:3
+aglae de polignac	5cyj	
+alexander khrapkovskiy	5hun	
+alexander ring	35ya	
+alfe inge haaland	5gww	
+alfe inge sebastian larsson	3an6	
+aljechin	14h6	
+anniston	ewt	
+anniston al	ewt	
+anniston alabama	ewt	
+anniston alabama metropolitan area	v8n	
+anniston high school	ewt	
+anniston oxford jacksonville al metropolitan statistical area	v8n	
+anniston oxford jacksonville al msa	v8n	
+aranyosmarot	1h4x	
+baeria	69sc	
+ballersdorf	1uu1	
+belgacom group	5olz	
+belgacom league	1j17	
+belgacom liege	2n3a	
+belgacom spirou	11bs	
+beverstedt	4qjh	
+bonnetia	6aca	
+braathens	39m8	
+braathens asa	39m8	
+braathens s a f e	39m8	
+braathens safe	39m8	
+braathens south american and far east	39m8	
+braathens south american and far east airtransport a s	39m8	
+braathens south american far east airtransport a s	39m8	
+branduardi	3w3v	
+branduardi angelo	3w3v	
+burgash bin said	640k	
+charles morgan	3wp0	
+charles morgan novelist	3wp0	
+charles morgan parkinson woods	6d99	
+chirunavvutho	6bha	
+colantuono	3b21	
+comedian	jh	27oa:2,3opt:2
+comedian ali	g6l	
+comedian harmonists	27oa	
+comedian harmonists film	27oa	
+comedian nagabhushanam	3kx1	
+companion animals	6gqz	
+companion distinguished service order	s9	
+companion of distinguished service order	s9	
+companion of honour	30nf	
+companion of the bath	1f3v	
+companion of the distinguished service order	s9	
+companion of the distinguished service order and bar	s9	
+companion of the distinguished service order and three bars	s9	
+companion of the distinguished service order and two bars	s9	
+companion of the most honourable military order of the bath	1f3v	
+companion of the most honourable order of the bath	1f3v	
+companion of the new zealand order of merit	76o	
+companion of the order of australia	4oh	
+companion of the order of canada	689e	
+companion of the order of merit	sf7	
+companion of the order of the bath	1f3v	
+companion of the order of the companions of honour	30nf	
+companion of the order of the crown of india	260p	
+companion of the prophet	466	
+companion piece	6h1o	
+companion star	4sj	
+concussion	2049	
+concussion 2015 film	2049	
+concussion 2016 film	2049	
+concussion grenade	p3p	
+concussion grenades	p3p	
+concussion protocol	4rqx	
+congosta	3qu6	
+cubjac	2h2t	
+deathbeds song	5v23	
+dialect	1rj	2cwv:2
+dialect area	2cwv	
+dialect chain	2cwv	
+dialect cluster	1rj	
+dialect continua	2cwv	
+dialect continuum	2cwv	
+dialect group	2cwv	
+dialect groups	2cwv	
+dialect linguistics	1rj	
+dialect of finnish	hy	
+dialect of primiero	1weo	
+diurolasa	49vs	
+doomed		65wq:3
+doomed the untold story of roger corman s the fantastic four	21tb	
+doomed to		65wq:3
+doomed to die	65wq	
+edward forbes	47xl	
+edward franklin albee iii	k8v	
+edward joseph		5sxp:3
+edward joseph derwinski	3ltb	
+edward joseph gardner	5sxp	
+edward joseph king	5mqk	
+edward joseph mahoney	nuo	
+edward joseph ruscha	5g4n	
+edward joseph snowden	p5u	
+elva	31kz,4ahp	3ic1:2
+elva cn	4ahp	
+elva estonia	31kz	
+elva hsiao	3ic1	
+elva italy	4ahp	
+elva jalgalliklubi	4ay5	
+elva linnastaadion	4ay5	
+elva piedmont	4ahp	
+elva siu	3ic1	
+elva town	31kz	
+elva xiao	3ic1	
+ferencvaros	4y1n	
+ferencvaros budapest	4y1n	
+ferencvaros tc	37r	
+finchley	z30	
+finchley london england	z30	
+finchley united kingdom	z30	
+gaster district	247y	
+girik	19j1	
+godflesh	2b6s	
+godflesh band	2b6s	
+gostyninski	2c9n	
+gottem	ly0	
+goupi mains rouges	3dgp	
+guchan	2oeq	
+guchan wan	3wx0	
+henry tudor	1j7w	
+henry tudor earl of richmond	1j7w,1slc	
+henry tudor viii	dh1	
+hocicudo	56pi	
+ironia sudby	350x	
+j2j	1vwr	
+jodpur	d3j	
+koozi tuzitani	2mfl	
+krapinazagorje county	2dzd	
+krishnanpanju	38qr	
+kudai	4h7q	
+kyngdome of england	dh	
+la safor	fq3	
+ledisi	371v	
+ledisi anibade young	371v	
+ledisi young	371v	
+lewisia	4nbr	
+lunetoron	5i5j	
+lynne		171q:2,1v8g:2,2p46:2,2uab:2,2zo7:2,33g0:2,57e5:2,687i:3
+lynne a osmus	5hm5	
+lynne anderson	pma	
+lynne ann cheney	57e5	
+lynne ann vincent	57e5	
+lynne ann vincent cheney	57e5	
+lynne carver	33g0	
+lynne cheney	57e5	
+lynne frederick	2uab	
+lynne maria frederick	2uab	
+lynne name	31x	
+lynne overman	171q	
+lynne ramsay	2p46	
+lynne ramsay film maker	2p46	
+lynne redgrave	j94	
+lynne roberts	1v8g	
+lynne sharon		687i:3
+lynne sharon schwartz	687i	
+lynne thigpen	2zo7	
+lynne v cheney	57e5	
+lynne vincent	57e5	
+lynne whitfield	1axn	
+m577 a p c	jsm	
+mainframe	stb	stb:2
+mainframe computer	stb	
+mainframe computers	stb	
+mainframe computing	stb	
+mainframe entertainment	3iju	
+mainframe server	stb	
+mainframe studios	3iju	
+maria litto	4vdb	
+mcmliii	1exz	
+medwin michael	1ld0	
+megasema	khu	
+menesia	wiu	
+menya zovut schnur	2gnw	
+metriaclima	4aix	
+michael derek elworthy jarman	1n0u	
+microbiol educ	nq2	
+miecko i	1f0s	
+mishappenings	a2	
+miyakinskii raion	51gi	
+moneteau	2r42	
+nikopol	xs6,5g1v	
+nikopol bulgaria	5g1v	
+nikopol dnipropetrovsk oblast	xs6	
+nikopol ukraine	xs6	
+odomez	3cpx	
+odontocete	5fzn	
+paul darren masefield	4za1	
+peter matthiesen	13o6	
+phaegoptera	2g74	
+pjh	p2l	
+poltergeist	1cxj,2709	2ert:5,5a6n:2
+poltergeist 1982 film	1cxj	
+poltergeist 2	2ert	
+poltergeist 2014 film	2709	
+poltergeist 2015 film	2709	
+poltergeist 3	5a6n	
+poltergeist curse	1cxj	
+poltergeist film	1cxj	
+poltergeist ii	2ert	2ert:5
+poltergeist ii the		2ert:5
+poltergeist ii the other		2ert:5
+poltergeist ii the other side	2ert	
+poltergeist iii	5a6n	
+protacrodontiformes	5i2g	
+psuedapiconoma	1obr	
+quai	qbm	1dhv:3
+quai des		1dhv:3
+quai des brumes	1k9y	
+quai des orfevres	1dhv	
+richard gere	g8p	
+robert goulet	20l0	
+saint calez		3w5p:4
+saint calez en		3w5p:4
+saint calez en saosnois	3w5p	
+saint milburga	5yy7	
+serventy medal	3c0z	
+shimiyi	lmp	
+shuglin	3tbt	
+simbu	16yk	
+simbu actor	16yk	
+smithsonians national museum of natural history	2nyh	
+sonia	5lf,3xu7	1dgs:2,3i3c:2,45ou:2,4egs:2,5cn1:2,5dj8:2,5lh1:2,5on0:2,6asb:2,6bt0:2
+sonia agarwal	5lh1	
+sonia aggarwal	5lh1	
+sonia bergamasco	5cn1	
+sonia bermudez	3i3c	
+sonia bermudez tribano	3i3c	
+sonia bompastor	4egs	
+sonia braga	1dgs	
+sonia clarke	4cd3	
+sonia dronier	4qwx	
+sonia evans	3xu7	
+sonia first name	5lf	
+sonia gandhi	45ou	
+sonia given name	5lf	
+sonia henie	1138	
+sonia humphrey	5dj8	
+sonia kovalevsky	xfy	
+sonia maino	45ou	
+sonia maria braga	1dgs	
+sonia maria sotomayor	6asb	
+sonia marina clarke	4cd3	
+sonia name	5lf	
+sonia nimoy	f5h	
+sonia phyllis hurwitz	4f9m	
+sonia rodney	usr	
+sonia rolland	5on0	
+sonia roy	5rqf	
+sonia singer	3xu7	
+sonia sonic the hedgehog	3bzt	
+sonia sontomayor	6asb	
+sonia sotamayor	6asb	
+sonia sotomar	6asb	
+sonia sotomayer	6asb	
+sonia sotomayor	6asb	
+sonia sotomayor de noonan	6asb	
+sonia sotomor	6asb	
+sonia viviani	6bt0	
+sonia wallia	4ye7	
+sonia zober	f5h	
+sonia zober nimoy	f5h	
+stu alden cook	mr7	
+stu and stewie s excellent adventure	11kn	
+stu and stewie s great adventure	11kn	
+stu bratislava	69m2	
+stu dallas	5mpl	
+stu de stael	4rnv	
+stu edward hart	v1p	
+stu erwin	krk	
+stu hart	v1p	
+stu hart tournament of champions	v1p	
+stu holden	3hs9	
+stu irwin	krk	
+stu linder	26jc	
+stu macher	u66	
+stu phillips	1qbn	
+stu phillips composer	1qbn	
+stu pot	mu9	
+stu redman	6f7q	
+stu riddle	341n	
+stu roosa	3859	
+stu stewie s excellent adventure	11kn	
+stu stone	5poy	
+stu sutcliffe	4rnv	
+sumaya bint el hassan	63ch	
+sumaya bint hassan	63ch	
+tadashi		2h29:2,4kzz:2,5xir:2,69z6:2
+tadashi agi	46hb	
+tadashi imai	5xir	
+tadashi nakayama	4kzz	
+tadashi nakayama mathematician	4kzz	
+tadashi ohtsuka	2h29	
+tadashi otsuka	2h29	
+tadashi sugiyama	69z6	
+the intervention		21r1:6
+the intervention of		21r1:6
+the intervention of the		21r1:6
+the intervention of the sabine		21r1:6
+the intervention of the sabine women	21r1	
+the maidens conspiracy	3eoo	
+the marseillaise	140w	
+the overcoat	20sb,4xep	
+the overcoat 1926 film	4xep	
+the overcoat 1952 film	20sb	
+the password		552i:4,6gew:5
+the password is		552i:4
+the password is courage	552i	
+the password to		6gew:5
+the password to larkspur		6gew:5
+the password to larkspur lane	6gew	
+the sickle	7oa	
+the temptress	30jw	
+tonquedec	39k9	
+tpao	5ekr	
+trboc	6gr0	
+tungkun	ae1	
+uactarain na heireann	vt0	
+unm	2mh	
+unm a s advisement center	2mh	
+unm albuquerque	2mh	
+unm ge	4q25	
+unm taos	2mh	
+vacallo	2hm7	
+vacallo switzerland	2hm7	
+vacallo ti	2hm7	
+vacallo ticino	2hm7	
+velenovy	1r7t	
+veterinarian	2hx	
+veterinarian s adopted children	4zv4	4zv4:5
+vfvf	tyf	
+vigors	5hjz	
+wilczyce commune	1wqq	
+ziyarid	54yc	54yc:2
+ziyarid dynasty	54yc	
+ziyarid empire	54yc	
+zota commune	1f4a	
+zota szlafmyca	4hhu	

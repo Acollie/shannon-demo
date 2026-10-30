@@ -1,0 +1,338 @@
+1500		c5i:2
+1500 1509	24m3	
+1500 m	c5i	
+1500 meter	c5i	
+1500 meter run	c5i	
+1500 meters	c5i	
+1500 metre	c5i	
+1500 metre run	c5i	
+1500 metres	c5i	
+1500 metres run	c5i	
+19992000		c76:3,wba:4,14vs:4,15fp:4,15iy:4,23fs:3,36re:2,43he:3
+19992000 bundesliga	23fs	
+19992000 cypriot		c76:3,wba:4,14vs:4,15fp:4,15iy:4
+19992000 cypriot cup	c76	
+19992000 cypriot first		wba:4
+19992000 cypriot first division	wba	
+19992000 cypriot fourth		15iy:4
+19992000 cypriot fourth division	15iy	
+19992000 cypriot second		14vs:4
+19992000 cypriot second division	14vs	
+19992000 cypriot third		15fp:4
+19992000 cypriot third division	15fp	
+19992000 ekstraklasa	36re	
+19992000 fuball		23fs:3
+19992000 fuball bundesliga	23fs	
+19992000 fussball bundesliga	23fs	
+19992000 uefa		43he:3
+19992000 uefa cup	43he	
+19992000 world sevens series	383e	
+201920 aba league first division	1v6g	
+201920 basketball league of serbia	3fav	
+201920 belgian cup	1p0v	
+201920 belgian first division a	7gv	
+201920 danish superliga	qso	
+201920 dfb pokal	fbj	
+201920 fis alpine ski world cup	nus	
+201920 liga i	93a	
+201920 liga ii	i7q	
+201920 liga iii	jxf	
+201920 liga iv	wun	
+201920 manchester united f c season	z3	
+201920 segunda division	9w9	
+201920 segunda division b	7e7	
+201920 superleague greece	b62	
+4077th	akq	
+acciai	64bc	
+acciai alessandra	64bc	
+aincrad	1vg5	
+alattio	ge4	
+aleskey prokourorov	2gti	
+aleskey yermolov	5ijh	
+alexander barykin	2ukx	
+alexander dozmorov	4gzb	
+aphrodisia town	tpp	
+apoula		3yx6:2
+apoula edel	3yx6	
+apoula edima bete edel	3yx6	
+balch road	nrz	
+banat zrenjanin	82z	
+behi		3mgv:4
+behi dehbokri	3mgv	3mgv:4
+behi dehbokri rural		3mgv:4
+behi dehbokri rural district	3mgv	
+bendorf	1lfo	
+bendorf haut rhin	1lfo	
+bfh	1z69	
+bhaktakumbara h r bhargava	vd5	
+brooky	1chp	
+bureaucratic official	p4p	
+byrne david	jdo	
+byrne jody	5saa	
+byrne john	2ihx	
+classis	3gu	
+classis biology	3gu	
+classis of amsterdam	d0	
+coachelle prime	549	
+cobras de ciudad juarez	36hp	
+cobras de queretaro	36hp	
+cobras indios de ciudad juarez	36hp	
+cochin	5c8	jzr:2
+cochin haneefa	jzr	
+cochin hanifa	jzr	
+cochin haniff	jzr	
+cochin india	5c8	
+cochin kerala	5c8	
+cochin metro	2xhp	
+cochin typeface	397c	
+colorful	59t,42o8	
+colorful colorado	fm	
+colorful film	42o8	
+commuism	2eg	
+cpgb	mzu	
+david hellebuyck	5c61	
+dawes		4f8e:2
+dawes charles gates	219s	
+dawes county	4f8e	
+dawes county ne	4f8e	
+dawes county nebraska	4f8e	
+dca	2ojh	
+ddg61	4nun	
+dido	uzd	3pc1:2
+dido armstrong	uzd	
+dido florian cloud de bounevialle o malley armstrong	uzd	
+dido havenaar	3pc1	
+dido singer	uzd	
+diovis pater	y7r	
+dobermann	2e0a	
+dobermann film	2e0a	
+dobermann movie	2e0a	
+dybowski	58gr	
+dyspepsia	325p	
+dyspepsia indigestion nos	325p	
+ecologies	jqe	
+edward pressman	opg	
+emas	flj	
+erlack a pongoes	3hoa	
+eurycreon	3mw5	
+exilles	1qca	
+fc kobra kharkiv	g5d	
+filmpolski pl	2c6k	
+firat akkoyun	5tgk	
+firat kocaoglu	58dl	
+fiscal centrism	3o6	
+fiscal effects of immigration	2cdo	
+fiscal waterboarding	3lmz	
+fouleix	3ngn	
+fraroz	2ov1	
+frederick back	557v	
+fuli fc	7fg	
+genesee		ic9:2,1cza:2,2rqk:2
+genesee county	ic9,1cza	
+genesee county mi	ic9	
+genesee county michigan	ic9	
+genesee county new york	1cza	
+genesee county ny	1cza	
+genesee river	2rqk	
+genesee valley	2rqk	
+gombrovicz	1pyl	
+griseogaurena	54nt	
+grussenheim	2yh7	
+haribhai jariwala	aob	
+hoy andrew	5ypm	
+hoy iran	17dq	
+hoy le		65s5:6
+hoy le toca		65s5:6
+hoy le toca a		65s5:6
+hoy le toca a mi		65s5:6
+hoy le toca a mi mujer	65s5	
+hoy ping pong	565n	
+hoy sun	14ha	
+hoy william	5g5a	
+isabeau		1gas:3
+isabeau de baviere	1gas	
+isabeau of		1gas:3
+isabeau of bavaria	1gas	
+isabeau of bavaria ingolstadt	1gas	
+iustinopolis	4zj	
+ixidia	s39	
+jockin jay z jay z song	569y	
+johannean	mts	
+john ambrose		2fty:3,5to9:3
+john ambrose fleming	2fty	
+john ambrose meyer	5to9	
+john cam hobhouse	3uui	
+john cam hobhouse 1st baron broughton	3uui	
+john cam hobhouse baron broughton	3uui	
+john dall	4h88	
+john dall thompson	4h88	
+john hennessy stanford	2fy8	
+john justinian de ledesma	1ins	
+jubal	542p	
+jubal film	542p	
+jubal s last band	22ii	
+kamaluddin mohammed	qez	
+kgalema motlanthe cabinet	1u3e	
+kurnia		5kbj:2
+kurnia sandi	5kbj	
+kurnia sandy	5kbj	
+la bamba	21qf,6gw4	
+la bamba 1987 film	21qf	
+la bamba film	21qf	
+la bamba folk song	6gw4	
+la bamba movie	21qf	
+la bamba song	6gw4	
+la gaubretiere	21z1	
+le ciel sur la tete	4net	
+le code a change	1jon	
+lignac	278l	
+mamet david	gph	
+maria registered		42b7:4
+maria registered in		42b7:4
+maria registered in bilbao	42b7	
+methylobacterium	qx7	
+miniseries	yt,1pb	
+miniseries comics	1pb	
+mixture	bc3	
+mixture chemistry	bc3	
+mixture control	5ueu	
+monette		4b2n:2
+monette dinay	4b2n	
+monette horwitz trust	54vv	
+monette horwitz trust award	54vv	
+morrie		1uaw:2
+morrie ryskind	1uaw	
+mpangi		6bml:2
+mpangi merikani	6bml	
+narcelepsy	341v	
+naturschutzgebiete	gig	
+nemoli	5sgf	
+norbit	w3r	
+norbit albert rice	w3r	
+norbit film	w3r	
+patterson	ye4,3oyv	
+patterson david	4kx1	
+patterson family name	ye4	
+patterson james	bok	
+patterson la	3oyv	
+patterson louisiana	3oyv	
+patterson nc	1xme	
+patterson new jersey	3nx	
+patterson nj	3nx	
+patterson surname	ye4	
+paul weston	39tb	
+paul weston and his orchestra	39tb	
+paul weston orchestra	39tb	
+payjay productions inc	krs	
+peter peyser	4r60	
+philiki etaireia	h7o	
+philiki etairia	h7o	
+pilzen	3ho	
+piyale pasa guzelyurt	3qkm	
+poshepny anthony	5ylb	
+pys	26fk	
+qyteti stalin	5ey5	
+raffiki	6hng	
+resee witherspoon	je8	
+rhases	5wpa	
+robert emile proust	5pk2	
+robert emile sigismond leon proust	5pk2	
+robert murray hanson	5wpe	
+robert murray helpman	2pvo	
+robert murray helpmann	2pvo	
+robert murray hill	6bi9	
+samatzai	37uu	
+seirra leone	1kc	
+shankaradi	26df	
+skhirat agreement	6hjd	
+spondylococcos	2e9b	
+sumter	gd1	1177:2,1hv4:2,2ibl:2,3nin:2
+sumter co al	1hv4	
+sumter co alabama	1hv4	
+sumter county	1177,1hv4,2ibl,3nin	
+sumter county al	1hv4	
+sumter county alabama	1hv4	
+sumter county fl	3nin	
+sumter county florida	3nin	
+sumter county ga	2ibl	
+sumter county georgia	2ibl	
+sumter county sc	1177	
+sumter county south carolina	1177	
+sumter s c	gd1	
+sumter sc	gd1	
+sumter sc metropolitan statistical area	1177	
+sumter sc msa	1177	
+sumter south carolina	gd1	
+sumter south carolina metropolitan area	1177	
+sumter thomas	5k3y	
+superintendant fouquet	61os	
+symmoletria	efl	
+szamocin commune	xpw	
+talhah	2i8p	
+talhah ibn ubayd allah altaymi	2i8p	
+talhah ibn ubaydillah	2i8p	
+talhah ibn ubaydullah	2i8p	
+tetsusyo genda	1kal	
+the charlemagne prize	l3k	
+the da		p5x:4,4rzm:4
+the da 1971 tv series	4t3m	
+the da vinci		p5x:4,4rzm:4
+the da vinci code	p5x,4rzm	
+the da vinci code 2006 film	p5x	
+the da vinci code film	p5x	
+the da vinci code movie	p5x	
+the da vinci code novel	4rzm	
+the da vinci code paintings	4rzm	
+the desperado		1ozi:3
+the desperado trail	1ozi	
+the zidane headbutt	tx9	
+the zidane headbutt incident	tx9	
+theologist	7m1	
+thomas brolin	29k2	
+tito	jt1,2vl5	7x5:2,thf:2,xpj:2,1e07:2,1mb1:2,1oz6:2,1pif:2,28e3:2,2vaq:2,2zuu:2,38an:3,390g:3,3hoy:2,4mwm:2,4uva:2
+tito alonso	1pif	
+tito and		390g:3
+tito and i	390g	
+tito and me	390g	
+tito basilicata	2vl5	
+tito climent	4mwm	
+tito davison	1oz6	
+tito el		38an:3
+tito el bambino	38an	
+tito etcheverry	43lz	
+tito garcia	1e07	
+tito gobbi	2zuu	
+tito gobi	2zuu	
+tito guizar	3hoy	
+tito i	390g	
+tito i ja	390g	
+tito italy	2vl5	
+tito jackson	xpj	
+tito junco	1mb1	
+tito junco mexican actor	1mb1	
+tito larriva	4uva	
+tito lusiardo	thf	
+tito me	390g	
+tito puente	28e3	
+tito puente sr	28e3	
+tito pz	2vl5	
+tito ramirez	59qp	
+tito ribero	7x5	
+tito s velenje	17kq	
+tito s yugoslavia	146	
+tito sotto	3scu	
+tito velenje	17kq	
+tito vespasiano	1vn6	
+tito vilanova	2vaq	
+toilette	e72	
+toilette of esther		12op:4
+tonna	1osv	
+tonna gastropod	1osv	
+tonna genus	1osv	
+toome hill	2ki	
+treatable	g46	
+trzyniec	db6	
+uygur language	1ndc	
+vieuvicq	22xc	
+vitreenne fc	3b1m	
+wegeners theory	3hnl	

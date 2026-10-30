@@ -1,0 +1,504 @@
+280s	29a8	26sv:2
+280s bc	26sv	
+280s bce	26sv	
+800809	25m6	
+a teachta dala	ya	
+aeraula	vd2	
+agenzia spaziale italiana	3am1	
+akashi	yb0	6g66:3
+akashi bridge	6g66	
+akashi hyogo	yb0	
+akashi kaiko	6g66	
+akashi kaikyo	6g66	6g66:3
+akashi kaikyo bridge	6g66	
+akashi kaikyo o hashi	6g66	
+akashi mountains	3j3m	
+akashi ohashi	6g66	
+akashi strait bridge	6g66	
+altaussee	34t1	
+altaussee mine	34t1	
+amphiglottis	cpw	
+anhoi	cgh	
+ataquines	4jhw	
+ataquines spain	4jhw	
+ataquines valladolid	4jhw	
+balletomanes	2c0	
+bandello	5bpx	
+beejapore	4k47	
+berling	2gvn	
+berling charles	10jy	
+berling moselle	2gvn	
+blastobasini	27yj	
+borghese		z3b:2,25hm:2,2wde:2,4l7j:2
+borghese collection	z3b	
+borghese deposition	4wju	
+borghese gallery	vtf	
+borghese gallery rome	vtf	
+borghese gladiator	4l7j	
+borghese hermaphrodite	2763	
+borghese hermaphroditus	2763	
+borghese vase	25hm	
+borghese venus	2wde	
+borghese warrior	4l7j	
+boroughbridge	58jb	
+boroughbridge comments	58jb	
+boroughbridge north yorkshire	58jb	
+boroughbridge west riding of yorkshire	58jb	
+boroughbridge yorkshire	58jb	
+boussy	3c4p	1x8t:3
+boussy haute savoie	3c4p	
+boussy saint		1x8t:3
+boussy saint antoine	1x8t	
+buldana district	s96	
+cacaracha	1wxh	
+candyshop	58gc	
+carbureted	5ueu	
+chanda	5p7v	5e70:2
+chanda bibi	5p7v	
+chanda chamke	3e8j	
+chanda district	1pf5	
+chanda kochhar	5e70	
+charles philips trevelyan	4jzo	
+chaucerian	qtw	
+cheska hull	13ef	
+consilium conferentiarum episcoporum europae	5woc	
+cordovilla		3kz3:3
+cordovilla la		3kz3:3
+cordovilla la real	3kz3	
+cordovilla la real palencia	3kz3	
+cordovilla la real spain	3kz3	
+cowpokes	aw6	
+cunctator	53yw	
+dangleberry	6frq	
+david coleman	5h33	
+david coleman footballer born 1967	5h33	
+david rotem	4viq	
+digestions of lipids	6evy	
+dinei	43vj	
+dinei footballer born 1970	43vj	
+dinei footballer born 1983	3x7x	
+doomstarks	yf7	
+dragontree	5o3r	
+elbsandsteingebirge	19n1	
+ellery	3eof	1g4d:2,4t9b:2
+ellery cairo	4t9b	
+ellery first name	3eof	
+ellery given name	3eof	
+ellery queen	1g4d	
+elsinoe	694z	
+energis open	kn3	
+essises	3erm	
+fahmeeda mirza	63o8	
+fc stroitel ashkhabad	xdu	
+fc stroitel beltsy	c8o	
+fc stroitel kurgan	1zfr	
+fc stroitel poltava	5bd	
+fc stroitel saransk	52b	
+fc stroitel tyumen	3ns	
+fc stroitel ufa	ss9	
+fc stroitel vladikavkaz	1oks	
+fehaid		44lf:3
+fehaid al		44lf:3
+fehaid al deehani	44lf	
+fehaid aldeehani	44lf	
+festigny	2i1k	
+festigny marne	2i1k	
+finikas ayias marinas chrysochous	1sdn	
+fontana	dlg,dvo	5n6:2,2ga2:2,42sk:2
+fontana ca	dvo	
+fontana california	dvo	
+fontana delle 99 cannelle	5xd	
+fontana delle sette cannelle	1ej6	
+fontana di trevi	4l6o,6fpl	
+fontana distribution	2ga2	
+fontana liri	42sk	
+fontana records	5n6	
+fontana surname	dlg	
+freeze bomb	3pn9	
+freeze pop	2jkj	
+freeze time	yrb	
+gleaston		5ugg:2
+gleaston castle	5ugg	
+gmina dwikozy	1b01	
+golubtsy	lme	
+grewia	3veq	
+grewia hirsuta	3veq	
+grewia oxyphylla	3veq	
+hageville	2egu	
+hangzhouningbo		3wvq:4
+hangzhouningbo high		3wvq:4
+hangzhouningbo high speed		3wvq:4
+hangzhouningbo high speed railway	3wvq	
+hangzhouningbo passenger railway	3wvq	
+harvesters		1nxd:2
+henry winneke	4hpc	
+hesice	49ca	
+huuski	feh	
+ibrahimid caliphate	5qle	
+indrajit		54ys:2
+indrajit lankesh	54ys	
+jalisco	4hc	
+jalisco es mexico	4hc	
+jalisco state	4hc	
+james moran	5k65	
+james sylvester	11ob	
+jean daniel	3x5e	4lex:3
+jean daniel bensaid	3x5e	
+jean daniel padovani	4lex	
+jean weber	56ha	
+joens berzelius	ucl	
+joens jakob baron berzelius	ucl	
+joens oskar backlund	3rph	
+juazeiro	zht	
+juvenilia	3gk3	
+juvenilia film	3gk3	
+knjazevac	d3u	
+kobzon	1dcj	
+kouchner	2sj7	
+kuersat duymus	4bhc	
+kurumi hamazaki	806	
+kurumi tokisaki	5ny0	
+la charite	177l	177l:4
+la charite sur		177l:4
+la charite sur loire	177l	
+le chaffaut		1kze:4
+le chaffaut saint		1kze:4
+le chaffaut saint jurson	1kze	
+le chaffaut st jurson	1kze	
+lesbiens	re8	
+maizuru	15jv	1jlp:3,51ea:3
+maizuru kyoto	15jv	
+maizuru naval		1jlp:3
+maizuru naval arsenal	1jlp	
+maizuru naval arsensal	1jlp	
+maizuru shi	15jv	
+maizuru wakasa		51ea:3
+maizuru wakasa expressway	51ea	
+mallaca	d4o	
+many	1wmj,57dz	14ec:4,35qv:3,5ub5:2
+many adventures of winnie the pooh	pff	pff:7
+many bruce patinkin	m9y	
+many france	1wmj	
+many great companions	222t	
+many husbands	5y4d	
+many kisses later	1aod	
+many lightnings	5abl	
+many loves of dobie gillis	3y5c	3y5c:6
+many moselle	1wmj	
+many pieces	5ub5	
+many rivers		14ec:4
+many rivers to		14ec:4
+many rivers to cross	14ec	
+many rivers to cross film	14ec	
+many saints of newark	680	
+many thousands gone book	57bn	
+many wars		35qv:3
+many wars ago	35qv	
+maria caroline		5lkf:5
+maria caroline gibert		5lkf:5
+maria caroline gibert de		5lkf:5
+maria caroline gibert de lametz	5lkf	
+maria caroline of austria	hi7	
+mateos david	3zro	
+mautone steve	3rhm	
+mezoors	3pah	
+michael gross	28ot,5om9	
+michael gross actor	28ot	
+michael gross swimmer	5om9	
+milij alekseevic balakirev	45zr	
+milij balakirev	45zr	
+milij balakirew	45zr	
+mn	uw,66v3	
+mn comments	66v3	
+mn dfl party	4aa	
+mn dot	4rb	
+mn element	d59	
+mn nambiar	kae	
+mn rajam	4lh1	
+mn thunder	9af	
+mn twins	1g4	
+mn vikings	16g	
+mn wild	4q7	
+motillano a	3jgq	
+muza label	vv8	
+myssjo	1k55	
+namangan	1zoe	1369:2,3eh1:2
+namangan district	3eh1	
+namangan oblast	1369	
+namangan province	1369	
+namangan region	1369	
+namangan wiloyati	1369	
+nebuleuses	bc5	
+nivala	5eku	
+nkongsamba	4zdb	
+noctuina	6973	
+novia scotia	i8	
+oona		1ofg:3,2qwe:3,6bu4:2
+oona castilla		2qwe:3
+oona castilla chaplin	2qwe	
+oona chaplin	2qwe	
+oona king	6bu4	
+oona king baroness king of bow	6bu4	
+oona o		1ofg:3
+oona o neil	1ofg	
+oona o neil chaplin	1ofg	
+oona o neill	1ofg	
+oona o neill chaplin	1ofg	
+oona o neill chaplin lady chaplin	1ofg	
+oona o neill comments	1ofg	
+oona tamsyn king	6bu4	
+paintings and sculpture collection of the national trust	4ns	
+paintings by fra angelico	16w2	
+paintings by piero della francesca	1sz6	
+paintings of the soul	31e9	
+palindrome fargo	1dgv	
+paul name	55	
+pederasty in the renaissance	1srr	
+pediatrist	bqn	
+pizzoni	5afw	
+ploumoguer	2aqu	
+plouneour		27l7:2,3jvu:2
+plouneour menez	27l7	
+plouneour trez	3jvu	
+porfiorio diaz	1f2b	
+preases	1a69	
+prince johan friso of orange nassau	2d8x	
+prince julius		4j8i:7
+prince julius of		4j8i:7
+prince julius of schleswig		4j8i:7
+prince julius of schleswig holstein		4j8i:7
+prince julius of schleswig holstein sonderburg		4j8i:7
+prince julius of schleswig holstein sonderburg glucksburg	4j8i	
+prince julius of schleswig holstein sonderburg gluecksburg	4j8i	
+querenaing	2ap5	
+quinn	4yoh	2kl2:2,4vnq:2
+quinn anthony	7ui	
+quinn buckner	4vnq	
+quinn daniel	4f4s	
+quinn martin	2kl2	
+quinn martin productions	2kl2	
+razavar	2mlt	2mlt:3
+razavar rural		2mlt:3
+razavar rural district	2mlt	
+richard henry		2c8u:3,4k57:3
+richard henry dalitz	2pve	
+richard henry dana	4k57	
+richard henry dana jr	4k57	
+richard henry friend	5jco	
+richard henry lee	2c8u	
+richard henry parkin starkey jr	8sz	
+richard henry popkin	3uwu	
+richard henry sellers	bva	
+richard henry simpson stilgoe	5w7n	
+richard henry tawney	4k9y	
+rondroid	1d2g	
+sawyer		m3q:2,o4u:2
+sawyer beetle	adc	
+sawyer brown	o4u	
+sawyer county	m3q	
+sawyer county wi	m3q	
+sawyer county wisconsin	m3q	
+sawyer nelson	1mw3	
+sephardian jews	3lpm	
+sgi	22gm	
+sgi buddhist	1ti0	
+sgi episodes	3peo	
+shanta	6emx	4vsk:3
+shanta meena		4vsk:3
+shanta meena bhaskar	4vsk	
+shanta ramayana	6emx	
+sideways	1hza	
+sideways film	1hza	
+sideways movie	1hza	
+sideways soundtrack	1hza	
+sunw	73k	
+tamizight	uhv	
+tanjavur	omw	
+tanjavur district	5t5	
+tankograd	5i8l	
+tell	6f4	za1:6,10zd:3,2yny:2,37pp:8,4r5t:2,573q:2,5g1e:5,6dje:2,6ec9:5
+tell abib district	1a62	
+tell al amarna	2fid	
+tell archaeology	6f4	
+tell atlas	573q	
+tell atlas comments	573q	
+tell baalbek	q8y	
+tell el amarna	2fid	
+tell el amarna tablets	5egz	
+tell el amarna tablets the	5egz	
+tell el sultan	tpl	
+tell em i said that	3yf9	
+tell england	4r5t	
+tell england 1931 film	4r5t	
+tell england film	4r5t	
+tell him anything but not that i love him	267u	
+tell me	6dje	37pp:8,5g1e:5,6ec9:5
+tell me 2006 song	6dje	
+tell me diddy song	6dje	
+tell me do you miss me	4hns	
+tell me film	3bjh	
+tell me how you like it	2358	
+tell me something i dont know	215g	
+tell me that		37pp:8
+tell me that it isn t true	3e7n	
+tell me that you		37pp:8
+tell me that you love		37pp:8
+tell me that you love me		37pp:8
+tell me that you love me junie		37pp:8
+tell me that you love me junie moon	37pp	
+tell me the truth about love	din	
+tell me what you need	3y90	
+tell me why spice girls song	656q	
+tell me why taylor swift song	32n1	
+tell me your		5g1e:5,6ec9:5
+tell me your wish	6ec9	5g1e:5,6ec9:5
+tell me your wish album	5g1e	
+tell me your wish genie	5g1e,6ec9	
+tell me your wish genie ep	5g1e	
+tell me your wish genie song	6ec9	
+tell me your wish song	6ec9	
+tell my horse	zsl	
+tell no		10zd:3
+tell no one	10zd	
+tell no one film	10zd	
+tell tale	2yny	
+tell tale book	uca	
+tell tale film	2yny	
+tell tale signs kylie minogue song	5ip6	
+tell that mick he just made my list of things to do today	64rg	
+tell them		za1:6
+tell them willie		za1:6
+tell them willie boy		za1:6
+tell them willie boy is		za1:6
+tell them willie boy is here	za1	
+tell you today	3zxa	
+tell your children	2gob	
+tenay	1u0s	
+the chad michael murray	24ck	
+the nameless novel	6gi7	
+the national	200t	5eu:6,67ca:3
+the national academy		5eu:6
+the national academy of		5eu:6
+the national academy of recording arts and sciences	46q4	
+the national academy of recording arts sciences	46q4	
+the national academy of sciences	e9	5eu:6
+the national academy of sciences india	5eu	
+the national academy of sciences nas	e9	
+the national academy of sciences of the usa	e9	
+the national academy of sciences of ukraine	5ox	
+the national archives at kew	2zd6	
+the national archives england	2zd6	
+the national archives kew	2zd6	
+the national archives uk	2zd6	
+the national archives united kingdom	2zd6	
+the national archives united kingdom government	2zd6	
+the national association for stock car auto racing	60qx	
+the national aviation hall of fame	4d1	
+the national band	200t	
+the national basketball association most improved player award	kpf	
+the national basketball association s most improved player	kpf	
+the national basketball association s most improved player award	kpf	
+the national biscuit company	46y9	
+the national broadcasting company	os	
+the national bureau of standards	13fd	
+the national coalition party	a2q	
+the national college of legal training	2vvg	
+the national democratic party egypt	1cuk	
+the national democratic party of egypt	1cuk	
+the national epic of finland	2d4n	
+the national estuarine research reserve system	1vs7	
+the national film board of canada	3di	
+the national film school of denmark	v4j	
+the national football league	616	
+the national football league nfl	616	
+the national football team of the democratic people s republic of korea	5de	
+the national galleries of scotland	shh	
+the national gallery	486	
+the national gallery london	486	
+the national gallery of ireland	rnl	
+the national gallery of victoria	16ef	
+the national geographic channel	chc	
+the national geographic society	eaq	
+the national geographic societys emerging explorer	eaq	
+the national hamburger festival	2iq	
+the national health	67ca	
+the national health film	67ca	
+the national health service nhs	537m	
+the national hockey league nhl	7rj	
+the national humanities medal	6pb	
+the national institute of dramatic art	6q6	
+the national institute of dramatic art nida	6q6	
+the national league	1y2u	
+the national library of russia	57ps	
+the national library of wales	1c3	
+the national mall	4jzi	
+the national mineral resources university	phg	
+the national mineral resources university previously the mining institute	phg	
+the national museum of denmark	1118	
+the national museum of tokyo	4cxx	
+the national naval medical center	3lyt	
+the national naval medical center nnmc	3lyt	
+the national progressive party	4699	
+the national public radio station	qhx	
+the national railroad passenger corporation	629	
+the national rally	bv5	
+the national rally france	bv5	
+the national register of historic places	fk	
+the national september 11 memorial museum visitor center	6gw3	
+the national television awards	2wgy	
+the national television of spain	1c12	
+the national theatre school of canada	7ps	
+the national transportation safety board ntsb	4ucd	
+the national trust	3sda	
+the national trust england wales northern ireland	4ns	
+the national trust for scotland	bma	
+the national trust for scotland for places of historic interest or natural beauty	bma	
+the national trust of england	4ns	
+the national university of colombia	aqb	
+the national university of iran	21ts	
+the national women s hall of fame	3up	
+the national wuchang higher normal college	13dw	
+the playstation	6g2g	
+the playstation 4	1uq	
+upright bass	1rk	
+upright basses	1rk	
+upright piano	57	
+upright pianoforte	57	
+upright posture	1611	
+upright walking	1611	
+uras	4aes	
+vazzola	3raz	
+veee	55zc	
+viljanen	6f3s	
+wahringer strae	34ce	
+wahringer strasse	34ce	
+walterboro	2hb3	
+walterboro s c	2hb3	
+walterboro sc	2hb3	
+walterboro sc msa	25g0	
+walterboro sc sa	25g0	
+walterboro south carolina	2hb3	
+william 2nd duke of gloucester	1vk7	
+william herbert	2qw4	3g89:3,4cib:6,50m9:6
+william herbert 1st		4cib:6
+william herbert 1st earl		4cib:6
+william herbert 1st earl of		4cib:6
+william herbert 1st earl of pembroke	4cib	
+william herbert 1st earl of pembroke 1423 1469	4cib	
+william herbert 1st earl of pembroke 14231469	4cib	
+william herbert 1st earl of pembroke 1468 creation	4cib	
+william herbert 1st earl of pembroke 8th creation	4cib	
+william herbert 1st earl of pembroke died 1469	4cib	
+william herbert 3rd		50m9:6
+william herbert 3rd earl		50m9:6
+william herbert 3rd earl of		50m9:6
+william herbert 3rd earl of pembroke	50m9	
+william herbert 3rd earl of pembroke 10th creation	50m9	
+william herbert botanist	2qw4	
+william herbert dean of manchester	2qw4	
+william herbert gray	5jmq	
+william herbert gray iii	5jmq	
+william herbert hunt	3g89	
+william herbert iii gray	5jmq	
+william herbert scholar	2qw4	
+xlomancy	rw7	

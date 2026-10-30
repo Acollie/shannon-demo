@@ -1,0 +1,555 @@
+20th		od:3,b4q:2,eft:4,htn:4,leh:5,rof:2,ydp:4,1bjc:4,1f38:3,4lap:3,5b9y:4
+20th anniversary special	5s0r	
+20th arrondissement	htn	htn:4
+20th arrondissement of		htn:4
+20th arrondissement of paris	htn	
+20th centuries	rof	
+20th century	rof	od:3,eft:4,leh:5,ydp:4,1bjc:4,1f38:3,4lap:3,5b9y:4
+20th century ad	rof	
+20th century boys	1f38	
+20th century boys final	1f38	
+20th century classical		1bjc:4
+20th century classical music	1bjc	
+20th century film	1id9	
+20th century fox	od	eft:4,ydp:4,5b9y:4
+20th century fox animation	5b9y	
+20th century fox film corporation	od	
+20th century fox film scores	eft	
+20th century fox home entertainment	leh	
+20th century fox home video	leh	
+20th century fox logo	od	
+20th century fox network television	ydp	
+20th century fox pictures	od	
+20th century fox records	eft	
+20th century fox television	ydp	
+20th century fox tv	ydp	
+20th century fox video	leh	
+20th century fox video 1982 company	leh	
+20th century gospel	2k6	
+20th century infectious disease	51kj	
+20th century masters the millennium collection the best of boyz ii men	od5	
+20th century masters the millennium collection the best of motley crue	iy5	
+20th century masters the millennium collection the best of the osmonds	1plg	
+20th century record label	eft	
+20th century records	eft	
+20th century roadshow	513r	
+20th century studios	od	leh:5
+20th century studios home		leh:5
+20th century studios home entertainment	leh	
+20th century women	4lap	
+20th european athletics championships	e4t	
+20th fox records	eft	
+20th mayor of san francisco	5yuv	
+20th president of the united states	mn9	
+20th stage of the tour de france 2005	3rqh	
+20th television	b4q	
+20th television fox	ydp	
+20th winter olympic games	jz	
+a flat		k08:3,5uo1:4
+a flat for		5uo1:4
+a flat for three	5uo1	
+a flat major	k08	
+a flat scale	k08	
+ada	7p5,v5c,1b0a,3k4l,3ueq	
+ada 83	1b0a	
+ada 95	1b0a	
+ada augusta byron countess of lovelace	10te	
+ada brand thomson	3i6g	
+ada byron	10te	
+ada byron lovelace	10te	
+ada byron s notes on the analytical engine	10te	
+ada choi	5wrd	
+ada choi filmography and awards	5wrd	
+ada choi siu fun	5wrd	
+ada colangeli	1yiu	
+ada cornaro	2w1i	
+ada countess of lovelace	10te	
+ada county	36xu	
+ada county id	36xu	
+ada county idaho	36xu	
+ada de		1ugx:3
+ada de warenne	1ugx	
+ada dondini	1e8g	
+ada e yonath	1iov	
+ada film	3k4l	
+ada first name	7p5	
+ada given name	7p5	
+ada hegerberg	32lt	
+ada ignatievna wojcik	5a0k	
+ada king	10te	
+ada king countess of lovelace	10te	
+ada kramm	4ytv	
+ada language	1b0a	
+ada lovelace	10te	
+ada malik	5pl	
+ada name	7p5	
+ada novel	5ym1	
+ada of		1xc2:3
+ada of huntingdon	1xc2	
+ada ok	v5c	
+ada ok micropolitan statistical area	1lj8	
+ada ok msa	1lj8	
+ada ok sa	1lj8	
+ada oklahoma	v5c	
+ada oklahoma micropolitan area	1lj8	
+ada or		5ym1:6
+ada or ardor	5ym1	5ym1:6
+ada or ardor a		5ym1:6
+ada or ardor a family		5ym1:6
+ada or ardor a family chronicle	5ym1	
+ada patrick	5yjj	
+ada pomeroy	610a	
+ada pometti	610a	
+ada prog	1b0a	
+ada programming	1b0a	
+ada programming language	1b0a	
+ada rogovtseva	4jyf	
+ada rohovtseva	4jyf	
+ada roqovseva	4jyf	
+ada serbia	3ueq	
+ada stolsmo hegerberg	32lt	
+ada thomson	3i6g	
+ada thorne	10ic	
+ada van schotland	1xc2	
+ada velipoje	1j7z	
+ada vojtsik	5a0k	
+ada wilson	p9b	
+ada wojcik	5a0k	
+ada yonat	1iov	
+ada yonath	1iov	
+adika	198l	
+adika stefan	198l	
+alexander moissi	4wlh	
+amaliada	270a	
+amaliada greece	270a	
+ancienville	41g2	
+atherine lanasa	3mig	
+aughties	1k2e	
+aumetz	1n8m	
+auriolles	3kvk	
+belorussians	sr9	
+bensheng ren	6hm8	
+birnbaum painting	3v6a	
+bouboulina	5yxt	
+bouboulina film	5yxt	
+bournazel	338z,3ght	
+bournazel aveyron	338z	
+bournazel tarn	3ght	
+bouville	1clo,35nk	
+bouville essonne	1clo	
+bouville seine maritime	35nk	
+brickellbush	c4g	
+camiac		3psg:4
+camiac et		3psg:4
+camiac et saint		3psg:4
+camiac et saint denis	3psg	
+cap	v1c	
+cap 3	cfd	
+cap 811	10yq	
+cap a l aigle	1hk2	
+cap a l aigle quebec	1hk2	
+cap america	21zn	
+cap camarat	do6	
+cap canaille	58in	
+cap canaille film	58in	
+cap carcasse	2v65	
+cap city	1wl	
+cap d		3who:3
+cap d ail	3who	
+cap d antibes	7iz	
+cap d antifer	3n68	
+cap d espoir quebec	5408	
+cap dantibes	7iz	
+cap de l esperance	2usw	
+cap francais	k5m	
+cap gauge	1rf	
+cap haitian	k5m	
+cap haitien	k5m	
+cap haitien haiti	k5m	
+cap hatian	k5m	
+cap hatien	k5m	
+cap haytian	k5m	
+cap la heve	17p0	
+cap martin	10ec	
+cap rooney	14tx	
+cap s kooky quartet	hsa	
+cap tourmente	5xxs	
+cap tourmente film	5xxs	
+cap weinberger	30tp	
+capestang	1hy0	
+carbajales		4nm1:3
+carbajales de		4nm1:3
+carbajales de alba	4nm1	
+carbajales de alba spain	4nm1	
+carbajales de alba zamora	4nm1	
+charles beauclerk	4iqn	ssy:7,4iqn:7
+charles beauclerk 1st		ssy:7
+charles beauclerk 1st duke		ssy:7
+charles beauclerk 1st duke of		ssy:7
+charles beauclerk 1st duke of st		ssy:7
+charles beauclerk 1st duke of st albans	ssy	
+charles beauclerk 2nd		4iqn:7
+charles beauclerk 2nd duke		4iqn:7
+charles beauclerk 2nd duke of		4iqn:7
+charles beauclerk 2nd duke of st		4iqn:7
+charles beauclerk 2nd duke of st albans	4iqn	
+chiau	51k	
+cipralex	ffb	
+ck	5nb,6c39	
+ck scott moncrieff	5n93	
+ck williams	43jz	
+clugny	qy8	
+comedianali	g6l	
+commandry	46li	
+commandry feudalism	46li	
+commandry military orders	46li	
+cranesbills	m4b	
+cultist	69bu	
+cultist star wars	5j6v	
+dacrydium	33n7	
+david eddings	2g9i	
+david eddings comments	2g9i	
+dazaifu	3b1p	
+dazaifu fukuoka	3b1p	
+dazaifu japan	3b1p	
+dingey	6ts	
+dinghys	6ts	
+dioikesis	506	
+dmytryk	fjv	
+dmytryk edward	fjv	
+ds9	4c5	
+eirene angelina	2nth	
+eirene doukaina	2tos	
+eirene kantakouzene	4p7w	
+eirene of montferrat	4mfg	
+epidermotropic	6f99	
+erbe	4av1	
+erching	41zf	
+espelkamp	32ve	
+exoristini	505x	
+ferry	bjq	20u0:2,3kx5:2,3qvp:4,4bri:2,4iik:2
+ferry boat	bjq	
+ferry boats	bjq	
+ferry brewery	66g0	
+ferry corsten	3kx5	
+ferry county	20u0	
+ferry county wa	20u0	
+ferry county washington	20u0	
+ferry disaster	bjq	
+ferry elisha	6ghj	
+ferry ii of lorraine	3ro3	
+ferry ii of vaudemont	3ro3	
+ferry network in south east queensland	1pkg	
+ferry of vaudemont	3ro3	
+ferry porsche	4bri	
+ferry road russellville	wzw	
+ferry sikla	4iik	
+ferry to		3qvp:4
+ferry to hong		3qvp:4
+ferry to hong kong	3qvp	
+ferry vessel	bjq	
+flaxholme	43ae	
+garmasch partakurch	8kt	
+george smyth baden powell	2vqi	
+gimcheon	4rs2	5sj:3
+gimcheon sangmu		5sj:3
+gimcheon sangmu fc	5sj	
+gimcheon si	4rs2	
+glycerolipids	6evy	
+gmina czarnia	4s31	
+gmina platerow	1mq9	
+gmina staporkow	r0b	
+hallering	2ve1	
+hawker		w5z:2,11oh:2,21ku:2,4zt9:3
+hawker aircraft	21ku	
+hawker aircraft limited	21ku	
+hawker aircraft ltd	21ku	
+hawker aviation	21ku	
+hawker dragonfly	1bu0	
+hawker hurricane	11oh	
+hawker hurricane i	11oh	
+hawker hurricane iid	11oh	
+hawker hurricane mk 1 2	11oh	
+hawker hurricane mk i	11oh	
+hawker hurricane mk ii	11oh	
+hawker hurricane mk iia	11oh	
+hawker hurricane mk iib	11oh	
+hawker hurricane mk iic	11oh	
+hawker hurricane mk ivrp	11oh	
+hawker siddeley	w5z	4zt9:3
+hawker siddeley aircraft co	w5z	
+hawker siddeley aviation	w5z	
+hawker siddeley bae nimrod	4zt9	
+hawker siddeley company	w5z	
+hawker siddeley dynamics	w5z	
+hawker siddeley group	w5z	
+hawker siddeley group limited	w5z	
+hawker siddeley hs 146	3bqq	
+hawker siddeley nimrod	4zt9	
+hawker siddeley nimrod mr 2	4zt9	
+hawker siddley	w5z	
+hawker siddley group	w5z	
+hepburn	10gc	
+hepburn audrey	fo4	
+hepburn katharine	emo	
+hepburn michael	4mvr	
+hepburn shire	10gc	
+higashifushimi		22ln:2,65cs:2
+higashifushimi jigo	65cs	
+higashifushimi kunihide	65cs	
+higashifushimi no miya yorihito shinno	22ln	
+higashifushimi no miya yoshihito shinno	22ln	
+higashifushimi yorihito	22ln	
+homyel	5om	
+homyel province	cud	
+homyel region	cud	
+homyel skaya	cud	
+homyel skaya voblasts	cud	
+homyel voblast	cud	
+hoogeveen	sc2	
+icehall	1c26	
+iitii	11g4	
+john archer	17u9	34cs:3
+john archer actor	17u9	
+john archer athlete	4yup	
+john archer lejeune	34cs	
+john lylie	38io	
+john mortimer	pfb	
+john mortimer brinkley	4y5u	
+john mortimer qc	pfb	
+john murphy	1h28	
+john murphy composer	1h28	
+john newland	1rbx	
+jyu	16u7	
+kalteng	s2g	
+kanatlarovski	5bup	
+kasama	4jny	
+kasama ibaraki	4jny	
+kataho zutsu no earphone	13e4	
+ktts	eh2	
+larceveau	2dct	2dct:3
+larceveau arros		2dct:3
+larceveau arros cibits	2dct	
+lavoute		1y6w:3,3oly:2
+lavoute chilhac	3oly	
+lavoute sur		1y6w:3
+lavoute sur loire	1y6w	
+leski	3xxi	
+littleberry calhoun allen jr	5o6k	
+lorax	1ve5	1ve5:2
+lorax 2012	1ve5	
+louis broglie	y3e	
+lubenec	3g2u	
+mab programme	3v8	
+manoir de donville	3tye	
+menou	3y4y	
+muntenegru	qu	
+muntyan	3up4	
+mysmenidae	6del	
+n19	2u7a	
+n19 road	2u7a	
+n19 road france	2u7a	
+nectriaceae	18jq	
+nicandra diaz santillan	w0k	
+nucule	lfb	
+oberrodern	30ro	
+oosgrens afrikaans	84e	
+oreste	hel	m4n:2,qrz:2,19ej:2,1qy0:2,33tf:2
+oreste biancoli	qrz	
+oreste bilancia	m4n	
+oreste corbatta	33tf	
+oreste fares	1qy0	
+oreste first name	hel	
+oreste given name	hel	
+oreste lionello	19ej	
+oreste omar corbatta	33tf	
+orphism	6e3u	
+orphism art	6e3u	
+paul wigner	qtv	
+peter puzzle	2ai0	
+phrae	1hta	
+phrae province	1hta	
+phrae province thailand	1hta	
+pileocalyx	1jk8	
+pourcieux	33xw	
+privateer	33m	
+rasua	24fe	
+reemna sen	2ij2	
+rehaincourt	2j2q	
+repeated		502o:2
+repeated absences	502o	
+rotenburg		owf:3,ztk:4,1krl:4
+rotenburg a d fulda	ztk	
+rotenburg an		ztk:4,1krl:4
+rotenburg an der		ztk:4,1krl:4
+rotenburg an der fulda	ztk	
+rotenburg an der wuemme	1krl	
+rotenburg an der wumme	1krl	
+rotenburg district	owf	
+rotenburg fulda	ztk	
+rotenburg hesse	ztk	
+rotenburg wuemme	1krl	
+rotenburg wuemme district	owf	
+rotenburg wumme	1krl	owf:3
+rotenburg wumme district	owf	
+san buenaventura	7tn	
+san buenaventura ca	7tn	
+san buenaventura california	7tn	
+san buenaventura county california	c3f	
+san buenaventura ventura ca	7tn	
+san buenaventura ventura california	7tn	
+san nicandro		4bh2:3
+san nicandro garganico	4bh2	
+savatage	1j8e	
+sebastio salgado	2q79	
+selina	v2w	55r0:2,5l6g:2,5mbi:2
+selina cadell	5mbi	
+selina enwiki	391z	
+selina first name	v2w	
+selina given name	v2w	
+selina gomez	ii5	
+selina gormez	ii5	
+selina kyle	391z	
+selina kyle in other media	391z	
+selina martin	5l6g	
+selina martin musician	5l6g	
+selina wagner	55r0	
+sendas esporte clube	2178	
+sendas pao de acucar esporte clube	2178	
+sergo		1eio:2,2nhb:2,5w01:2
+sergo anastasi mikoyan	5w01	
+sergo anastasovich mikoyan	5w01	
+sergo kavtaradze	5jq5	
+sergo mikoyan	5w01	
+sergo ordzhonikidze	1eio	
+sergo orjonikidze	1eio	
+sergo paradjanov	21gl	
+sergo paradzhanov	21gl	
+sergo zakariadze	2nhb	
+sergo zaqariadze	2nhb	
+shepperton	3ki5	2b5v:2
+shepperton england	3ki5	
+shepperton film studios	2b5v	
+shepperton range	3ki5	
+shepperton studios	2b5v	
+shinshoku dolce	2796	
+shinshoku dolce album	2796	
+silversmith	15bn	
+silversmith desk	15bn	
+silversmith surname	92	
+silversmith the fabdabulous wikipedians page	15bn	
+silversmith towns in victoria australia	15bn	
+sirkal	1bkn	
+skoda	ja0	drr:2,ja0:2
+skoda 422	ja0	
+skoda a s	drr	
+skoda auto	ja0	
+skoda automobilova a s	ja0	
+skoda cars	ja0	
+skoda czech open	577j	
+skoda holding	drr	
+skoda investment	drr	
+skoda mlada boleslav	6wj	
+skoda octavia wrc evo2	ja0	
+skoda octavia wrc evo3	ja0	
+skoda pilsen	drr	
+skoda plzen	5xy	
+skoda praha	drr	
+skoda snowman	ja0	
+skoda tour de luxembourg	5szc	
+skoda vision rs	ja0	
+skoda vision x	ja0	
+skoda works	drr	
+skoda xanthi	4ga	
+skoda xanthi f c	4ga	
+skoda xanthi fc	4ga	
+smark christopher lawrence	4hsv	
+smita		hjl:2,5mhf:2
+smita patil	hjl	
+smita patil comments	hjl	
+smita patil documentary and short film festival	hjl	
+smita talvalkar	5mhf	
+smita talwalkar	5mhf	
+smita talwalkar films	5mhf	
+somatina	qol	
+srivariki		6bne:2
+srivariki premalekha	6bne	
+stiers	mj8	
+subphyla	17z8	
+sunair oostende	rmk	
+syncopacma	r3h	
+syncopacma schillei	r3h	
+syncopacma serratella	r3h	
+takakura	2bvd	
+takakura emperor	2bvd	
+takakura emperor of japan	2bvd	
+takakura ken	17ou	
+takakura of japan	2bvd	
+takakura tenno	2bvd	
+tatania	2c0x	
+tatania samoilova	1jys	
+tato		3h1i:2
+tato bores	3h1i	
+tepeleni	4yy1	
+the dennis miller show	1x2a	
+the divine		6k8:3,15ov:3,1fh5:3,1odt:3,230v:4,2jl9:3,3qz3:3,61qq:3
+the divine comedy	6k8,1odt	
+the divine comedy band	1odt	
+the divine jetta	15ov	
+the divine lady	1fh5	
+the divine miss		230v:4
+the divine miss m	clm,230v	
+the divine miss m album	230v	
+the divine ms m	clm	
+the divine nymph	2jl9	
+the divine one	e9r	
+the divine ponytail	26p8	
+the divine secrets of the ya ya sisterhood film	yqr	
+the divine spark	61qq	
+the divine woman	3qz3	
+the dogg	5kt8	
+the dogg pound	1gd4	
+the electric		2glf:3,63gd:3
+the electric blues company	2eqv	
+the electric guitar	7cj	
+the electric horseman	2glf	
+the electric joy toy company	43sj	
+the electric light orchestra	aep	
+the electric prunes	63gd	
+the electric version song	3ava	
+the future	2a1j,4677	1v6y:5
+the future band	l8m	
+the future film	4677	
+the future is black	1xxk	
+the future is unwritten	2f73	
+the future is woman	2k4k	
+the future of steamboy	3ozy	
+the future pastimes tour	dg5	
+the future soon	525r	
+the future sound		1v6y:5
+the future sound of		1v6y:5
+the future sound of london	1v6y	
+the future sound of london comments	1v6y	
+the hours	q5a	3vg8:4
+the hours 2002 movie	q5a	
+the hours film	q5a	
+the hours movie	q5a	
+the hours of		3vg8:4
+the hours of love	3vg8	
+the maw	6gnw	
+the maw video game	6gnw	
+theebaw	5uv0	
+tretyakovskaya	58oj	
+tretyakovskaya gallery	yc3	
+tretyakovskaya moscow metro	58oj	
+tttyg	64rg	
+tufan		562u:2
+tufan tosunoglu	562u	
+ulopeza	556b	
+ustari	32ct	
+varronian	41yn	
+waring hudsucker	19xs	
+wereda	1qe	
+yukinojo henge	5gry	
+zele	2410	
+zhengdao li	1dm9	

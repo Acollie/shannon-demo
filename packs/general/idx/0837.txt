@@ -1,0 +1,462 @@
+1573		5bcv:4
+1573 election	5bcv	
+1573 polishlithuanian		5bcv:4
+1573 polishlithuanian royal		5bcv:4
+1573 polishlithuanian royal election	5bcv	
+653 bce	2a84	
+90025	1ii4	
+a jungle		4cvx:5
+a jungle book		4cvx:5
+a jungle book of		4cvx:5
+a jungle book of regulations	4cvx	
+akyurt	s7l	
+akyurt ankara	s7l	
+akyurt district	s7l	
+alexander afanasiev	56g8	
+allersheim	1opc	
+allomantic	3yig	
+anamorph	4qzj	
+anamorph film	4qzj	
+aprica	4x7s	
+aprica kassai	3vba	
+armavir	1caw,4e8s	57s:2
+armavir armenia	4e8s	
+armavir marz	57s	
+armavir province	57s	
+armavir region	57s	
+armavir russia	1caw	
+armavir urban okrug	1caw	
+at43	25q2	
+bck2brwsr	1yc	
+blagovarskiy	5bp5	
+blagovarskiy district	5bp5	
+blagovarskiy raion	5bp5	
+blops 2	1xxk	
+blops 3	3fir	
+bonyl	26tg	
+bunnymen	ktl	
+calabrise mattia preti	5n0z	
+cargaisons blanches	2p7i	
+ceccano	1iih	
+ceccano italy	1iih	
+centracore properties trust	17r1	
+charles orland de france	5019	
+chikage		4v37:2
+chikage awashima	4v37	
+chtchouka b	550x	
+civitatomassa	5lt8	
+connelly christopher	324d	
+connelly library	120g	
+connelly michael	qdt	
+dee	4wum	
+dee alexander brown	5ey3	
+dee baker	yfc	
+dee bradley		yfc:3
+dee bradley baker	yfc	
+dee brown	2eps,5ey3	
+dee brown basketball born 1984	2eps	
+dee brown born 1984	2eps	
+dee brown illini	2eps	
+dee brown illinois	2eps	
+dee brown novelist	5ey3	
+dee brown writer	5ey3	
+dee dee		1kpi:3,1yve:3,4486:3
+dee dee bridgewater	1yve	
+dee dee garrett	1yve	
+dee dee green	3ez4	
+dee dee jonrowe	5bhh	
+dee dee king	1kpi	
+dee dee penny	5sil	
+dee dee ramone	1kpi	
+dee dee ramone 7 inch single	1kpi	
+dee dee ramone ep	1kpi	
+dee dee reilly	5l3i	
+dee dee warwick	4486	
+dee john	2squ	
+dee johnson first lady	2c1l	
+dee letter	4wum	
+dee river wales and england	3kdg	
+dee snider	32kv	
+dee snyder	32kv	
+dee snyder singer	32kv	
+dee vee dee	12l	
+dee wallace	tk7	
+dee wallace stone	tk7	
+dee west	j64	
+demeo nye county nevada	mce	
+demography	3pz	
+demography of latin america	wmg	
+deuce		1bk8:4,1syp:4
+deuce bigalo european gigalo	1syp	
+deuce bigalo european gigolo	1syp	
+deuce bigalo male gigolo	1bk8	
+deuce bigalow		1bk8:4,1syp:4
+deuce bigalow european		1syp:4
+deuce bigalow european gigalow	1syp	
+deuce bigalow european gigolo	1syp	
+deuce bigalow male		1bk8:4
+deuce bigalow male gigolo	1bk8	
+deuce deuce	cyw	
+draper	1dex,69fe	
+draper henry	3png	
+draper prize	sh7	
+draper robert	5zxv	
+draper ut	1dex	
+draper utah	1dex	
+duchovny david	j5b	
+estonskaya sovetskaya sotsialisticheskaya respublika	2wms	
+fabiola	m8k	696k:2
+fabiola 1949 film	m8k	
+fabiola film	m8k	
+fabiola film 1949	m8k	
+fabiola gianotti	696k	
+frsa	3lj	
+galia durant	6au9	
+genichiro fukuchi	3szm	
+gevork		3lqt:2
+gevork andreyevich vartanyan	3lqt	
+gevork emin	3ylz	
+gevork vardanyan	3lqt	
+gevork vartanian	3lqt	
+gevork vartanyan	3lqt	
+golasecca	5qcn	
+grontardo	3pvd	
+grontardo italy	3pvd	
+grrm	9p1	
+guebestroff	2hzp	
+hadjidakis	mwr	
+hovelriege	3hx9	
+hridaynath		277z:2
+hridaynath mangeshkar	277z	
+ieee		635:4,dq2:6,x42:7,y97:5,12fn:5,14u7:5,1azb:3,1ojv:5,23qj:4,40ix:2,44is:3,4mmo:6,4r61:3
+ieee 754	40ix	
+ieee alexander		y97:5
+ieee alexander graham		y97:5
+ieee alexander graham bell		y97:5
+ieee alexander graham bell medal	y97	
+ieee arithmetic	40ix	
+ieee centennial		44is:3
+ieee centennial medal	44is	
+ieee computer		4r61:3
+ieee computer pioneer award	gis	
+ieee computer security	21k	
+ieee computer society	4r61	
+ieee computer society awards	4r61	
+ieee computer society digital library	4r61	
+ieee computer society press	4r61	
+ieee councils	21k	
+ieee cs	4r61	
+ieee david		23qj:4
+ieee david sarnoff		23qj:4
+ieee david sarnoff award	23qj	
+ieee edison medal	5rh	
+ieee education medal	x42	
+ieee emanuel		12fn:5
+ieee emanuel r		12fn:5
+ieee emanuel r piore		12fn:5
+ieee emanuel r piore award	12fn	
+ieee engineering leadership recognition award	4mmo	
+ieee ernst		4mmo:6
+ieee ernst weber		4mmo:6
+ieee ernst weber engineering		4mmo:6
+ieee ernst weber engineering leadership		4mmo:6
+ieee ernst weber engineering leadership recognition	4mmo	
+ieee float	40ix	
+ieee floating point	40ix	
+ieee floating point number	40ix	
+ieee floating point standard	40ix	
+ieee floats	40ix	
+ieee hamming medal	14u7	
+ieee internet		1azb:3
+ieee internet award	1azb	
+ieee james		x42:7
+ieee james h		x42:7
+ieee james h mulligan		x42:7
+ieee james h mulligan jr		x42:7
+ieee james h mulligan jr education		x42:7
+ieee james h mulligan jr education medal	x42	
+ieee john		1ojv:5
+ieee john von		1ojv:5
+ieee john von neumann		1ojv:5
+ieee john von neumann medal	1ojv	
+ieee medal		635:4
+ieee medal of		635:4
+ieee medal of honor	635	
+ieee morris		dq2:6
+ieee morris n		dq2:6
+ieee morris n liebmann		dq2:6
+ieee morris n liebmann memorial		dq2:6
+ieee morris n liebmann memorial award	dq2	
+ieee power electronics council	21k	
+ieee radio bands	2kr8	
+ieee richard		14u7:5
+ieee richard w		14u7:5
+ieee richard w hamming		14u7:5
+ieee richard w hamming medal	14u7	
+ieee societies	21k	
+ieee solid state circuits council	21k	
+ilyos		4jmk:2
+ilyos zeytulayev	4jmk	
+ilyos zeytullayev	4jmk	
+imogiri	69jo	
+imogiri bantul	69jo	
+imogiri java	69jo	
+imported beer	2w2	
+imported pests	6esy	
+irtegun bekir	65h5	
+jinsei gekijo	4f1a	
+jinsei tsuji	2hs8	
+jork	26p3	
+jork city	26p3	
+kokosake	1rcb	
+kozienicki	1gn6	
+krasnojarskij kraj	77c	
+la disubbidienza	49i4	
+la governante	5gcd	
+la grippe	3fh	
+landifay		1qas:3
+landifay et		1qas:3
+landifay et bertaignemont	1qas	
+lemercier jacques	52st	
+louis riel	2sxj	
+mainit	2lis	
+mainit surigao del norte	2lis	
+manganam	dhh	
+marnie	1h1f	
+marnie film	1h1f	
+marnie nixon	310o	
+marnie piper	2l3p	
+mediaevel	ay1	
+michael buckley	6e08	
+michael buckley author	6e08	
+mobster	dyc	
+mobster film	17qu	
+mobster movie	17qu	
+montegioco	4g2k	
+new kensington	xqd	
+new kensington pa	xqd	
+new kensington pennsylvania	xqd	
+neyrpic	fov	
+nfs5	6egy	
+odesa	1b0	67m:2,f91:2,tz1:3
+odesa film		tz1:3
+odesa film studio	tz1	
+odesa oblast	67m	
+odesa region	67m	
+odesa texas	i4g	
+odesa ukraine	1b0	
+odesa university	f91	
+officialwebsite	9s	
+oreilly		4pu8:2
+oreilly animal books	4pu8	
+oreilly media	4pu8	
+oreilly media inc	4pu8	
+panna		5nxr:2
+panna ritikrai	5nxr	
+panna rittikrai	5nxr	
+pepingen	4p2l	
+peppermint		1dqn:2
+peppermint soda	1dqn	
+percussionists	5b2	
+pier	9a7,hya	kjo:3,umx:2,154i:3,1l4i:3,1qpo:3,22l6:3,2mdk:3,2z86:3,3jab:3,4n2e:3,5bkx:3,5lth:4,5v5d:6,69cc:3,6d7g:3
+pier angeli	umx	
+pier celestino	5nyl	
+pier della francesca	1sz6	
+pier ferdinando		69cc:3
+pier ferdinando casini	69cc	
+pier first name	9a7	
+pier footballer	3jab	
+pier francesco caletti bruni	1j4i	
+pier francesco cavalli	1j4i	
+pier giorgio ferretti	6186	
+pier giuseppe maritato	42lq	
+pier given name	9a7	
+pier l nervi	1l4i	
+pier ludovico		22l6:3
+pier ludovico pavoni	22l6	
+pier luigi		1l4i:3,1qpo:3,2mdk:3,2z86:3,3jab:3,5bkx:3,5lth:4,6d7g:3
+pier luigi bersani	2z86	
+pier luigi borgia	5lth	
+pier luigi castellano	6d7g	
+pier luigi cherubino	3jab	
+pier luigi cherubino loggi	3jab	
+pier luigi de		5lth:4
+pier luigi de borgia	5lth	
+pier luigi de borgia 1st duke of gandia	5lth	
+pier luigi duke of parma	1qpo	
+pier luigi farnese	1qpo	
+pier luigi farnese duke of parma	1qpo	
+pier luigi nervi	1l4i	
+pier luigi pizzaballa	5bkx	
+pier luigi pizzi	2mdk	
+pier nervi	1l4i	
+pier paolo		kjo:3,154i:3,4n2e:3
+pier paolo capponi	154i	
+pier paolo pasolini	kjo	
+pier paolo passolini	kjo	
+pier paolo scarrone	4n2e	
+pier pasolini	kjo	
+pier paulo pasolini	kjo	
+pier professional limited	4pu3	
+pier solar	5v5d	5v5d:6
+pier solar and		5v5d:6
+pier solar and the		5v5d:6
+pier solar and the great		5v5d:6
+pier solar and the great architects	5v5d	
+pier solar hd	5v5d	
+pier van aelst	1va3	
+pier xanthony	cd3	
+pioson band	mqh	
+pisuerga	351m	351m:2
+pisuerga river	351m	
+piter bagration	1ffp	
+piter de khookh	ojb	
+piter russia	8i	
+platerowka commune	593m	
+plwro	11h	
+pras68	1px2	
+premio		arf:2,p2f:4,x79:2,5fmr:6,5njq:3,61lt:4
+premio adonais	61lt	61lt:4
+premio adonais de		61lt:4
+premio adonais de poesia	61lt	
+premio alfaguara	1uwt	
+premio alfaguara de novela	1uwt	
+premio bagutta	qra	
+premio camoes	1iwx	
+premio casa de las americas	2tfp	
+premio cervantes	uoh	
+premio de literatura en lengua castellana miguel de cervantes	uoh	
+premio de literatura latinoamericana y del caribe juan rulfo	1rbq	
+premio donostia	mi3	
+premio eugenio		5njq:3
+premio eugenio espejo	5njq	
+premio feltrinelli	emh	
+premio fernando lara	55ft	
+premio fernando lara de novela	55ft	
+premio fil de literatura en lenguas romances	1rbq	
+premio formentor de las letras	57qb	
+premio fritz feigl	4y5z	
+premio goya	n6k	
+premio internacional alfonso reyes	5rza	
+premio internacional de novela romulo gallegos	2q8e	
+premio ischia internazionale di giornalismo	1x51	
+premio jabuti	arf	
+premio juan rulfo	1rbq	
+premio kabuti	arf	
+premio konex	5018	
+premio lenka franulic	3z67	
+premio letterario viareggio repaci	j6r	
+premio lo nuestro	kxg	
+premio mexico		5fmr:6
+premio mexico de		5fmr:6
+premio mexico de ciencia		5fmr:6
+premio mexico de ciencia y		5fmr:6
+premio mexico de ciencia y tecnologia	5fmr	
+premio miguel de cervantes	uoh	
+premio nacional de ciencias y artes	63g	
+premio nacional de ciencias y artes mexico	63g	
+premio nacional de las artes	63g	
+premio nacional de literatura de bellas artes de mexico	63g	
+premio nacional de literatura de chile	5dx1	
+premio nacional de literatura de venezuela	12s6	
+premio nacional de literatura narrativa	1ah9	
+premio nacional de narrativa	1ah9	
+premio nadal	x79	
+premio nadal de novela	x79	
+premio ondas	k7v	
+premio planeta	p2f	p2f:4
+premio planeta de		p2f:4
+premio planeta de novela	p2f	
+premio romulo gallegos	2q8e	
+premio strega	a6s	
+premio viareggio	j6r	
+premio xavier villaurrutia	kay	
+prurigo atopic dermatitis	1s48	
+racunica	5ibk	
+rhitzopathy	56w	
+robert hogaboom	5m24	
+robert stebbins herpetologist	5xrv	
+rodenas	2wtd	
+rodenas spain	2wtd	
+rodenas teruel	2wtd	
+rosenstrae	1mj6	
+rosenstrae film	1mj6	
+rubelles	2uve	
+rundradion	1g8e	
+sacharissa	42wp	
+salticoidea	2a4	
+sapporo	3en	4o71:2
+sapporo 1972	1tk	
+sapporo city	3en	
+sapporo dome	4o71	
+sapporo hokkaido	3en	
+sapporo japan	3en	
+sapporo metropolitan area	3en	
+sapporo municipal keimei junior high school	2qwc	
+sapporo olympics	1tk	
+schrankia	148e	
+scouring rush	4tyl	
+scouring rushes	4tyl	
+sir fredrick gowland hopkins	1m8c	
+slovakian cup	1yoy	
+slovakian figure skating championships	4562	
+slovakian football team	3z1	
+slovakian language	3kl	
+slovakian president	5t56	
+slovakian second division	vck	
+spar deck	6bat	
+spar decked	6bat	
+spar i morker	4asp	
+spar i morkret	4asp	
+spar mid wales league	47q6	
+statsdame	ndh	
+sweetmeats	a0w	
+tepuka savilivili	3jw	
+terrace	2mnt	52i5:2
+terrace bc	2mnt	
+terrace briitish columbia	2mnt	
+terrace british columbia	2mnt	
+terrace canada	2mnt	
+terrace house	52i5	
+terrace house extension	1926	
+terrace house extention	1926	
+terrace houses	52i5	
+terrace housing	52i5	
+terrace pool	1n3k	
+terrace pools	1n3k	
+teu	658f	
+teu 2007	658f	
+the challenge	1six	2ygh:3
+the challenge 1958 film	4slk	
+the challenge 1982 film	1six	
+the challenge 2011 film	9p9	
+the challenge trophy	2ygh	
+the mackintosh		v0m:3
+the mackintosh man	v0m	
+thomas delonge	qgs	
+thomas delonge jr	qgs	
+timbuk tu	vig	
+tomskaja oblast	vwc	
+toshiro		gpr:2,1iud:2,6a6v:2
+toshiro kondo	um1	
+toshiro mayazumi	1iud	
+toshiro mayuzumi	1iud	
+toshiro mifune	gpr	
+toshiro tsuchida	6a6v	
+toshiro yoshiaki	6g17	
+ucayali		yan:2
+ucayali department	yan	
+ucayali department of peru	yan	
+ucayali region	yan	
+umvd	hq	
+wareheim	4w1r	
+william dewitt mitchell	5g15	
+william mclachlan	6awi	
+william mclachlan footballer	6awi	
+yasuko	590w	3x96:2,58dz:2,5a1k:2
+yasuko first name	590w	
+yasuko given name	590w	
+yasuko kobayashi	5a1k	
+yasuko konoe	3x96	
+yasuko matsuyuki	58dz	
+zavolzhye engels	2uva	

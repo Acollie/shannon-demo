@@ -1,0 +1,585 @@
+06880	acy	
+196970		16w5:4,1bpd:4,22tl:3,5nsb:2
+196970 bundesliga	22tl	
+196970 cypriot		16w5:4,1bpd:4
+196970 cypriot cup	13ho	
+196970 cypriot first		16w5:4
+196970 cypriot first division	16w5	
+196970 cypriot second		1bpd:4
+196970 cypriot second division	1bpd	
+196970 ekstraklasa	5nsb	
+196970 fuball		22tl:3
+196970 fuball bundesliga	22tl	
+196970 fussball bundesliga	22tl	
+adama		3u7w:2,4g1t:2,4oy7:2,5683:2
+adama coulibaly	5683	
+adama guira	4g1t	
+adama tamboura	3u7w	
+adama traore	4oy7	
+adama traore diarra	4oy7	
+adama traore footballer born 1996	4oy7	
+adama traore malian footballer born 1996	4oy7	
+adama traore spanish footballer	4oy7	
+ajikan	lu8	
+akane		4ba3:2
+akane yamaguchi	4ba3	
+anglosudan war	5oc	
+asentamiento de yaquil	6601	
+bakeru edu	ukz	
+bazougers	2d9j	
+benthomangelia	6fdj	
+bomarzo	2ofu	
+brunelleschi s dome	39x9	
+campaldino	1aq9	
+cerizy	3841	
+clough arthur hugh	619g	
+clough brian	3zap	
+commediasexi	4a1u	
+conjecture	5lg	
+conjecture mathematics	5lg	
+consulting		4i4t:2
+consulting company	4i4t	
+consulting editor	az7	
+consulting engineer	2s	
+consulting engineers	2s	
+consulting firm	4i4t	
+consulting firms	4i4t	
+consulting services	6te	
+consulting software engineer	n3i	
+consulting software engineers	n3i	
+creston	1hg6,6656	
+creston bc	6656	
+creston british columbia	6656	
+creston ia	1hg6	
+creston iowa	1hg6	
+csp industries	2yga	
+csp izmailovo	3yq9	
+csp limoges	8nw	
+csp san quentin	3yd2	
+csp um		4i7r:3
+csp um timisoara	4i7r	
+david dinkins	3tek	
+diorea	2vaf	
+dobron commune	1y9r	
+doojigger	6an9	
+fentress		2uda:2
+fentress county	2uda	
+fentress county tennessee	2uda	
+fentress county tn	2uda	
+filmations	3usc	
+gaeilge language	3mk	
+geertruida maria geels	2xj8	
+geroy sovetskogo soyuza	1hx	
+gmina kaweczyn	ypr	
+helle	1o6c,51kw	tls:2,1hoh:3,20lr:3,5kzz:2,6awt:2
+helle fagrali	5kzz	
+helle fagralid	5kzz	
+helle film	51kw	
+helle first name	1o6c	
+helle for		20lr:3
+helle for helene	20lr	
+helle frogh hansen	6awt	
+helle genie lotinga	tls	
+helle given name	1o6c	
+helle helle	6awt	
+helle krogh hansen	6awt	
+helle movie	51kw	
+helle name	1o6c	
+helle olsen	6awt	
+helle thorning	1hoh	1hoh:3
+helle thorning schmidt	1hoh	
+helle virkner	tls	
+horsholm	18s6	
+horsholm municipality	sox	
+hybridization event	hvi	
+ioseph	5z	
+jmcd4 courtauld	anj	
+jpkiii	5v7z	
+kalaipuli		1ow5:3
+kalaipuli dhanu	1ow5	
+kalaipuli s		1ow5:3
+kalaipuli s dhanu	1ow5	
+kalaipuli s thanu	1ow5	
+kalaipuli thanu	1ow5	
+kayseri	91w	7ch:2,c80:2
+kayseri erciyesspor	7ch	
+kayseri il	c80	
+kayseri province	c80	
+kayseri turkey	91w	
+khett kaoh kong	1pju	
+kongelig norske marine	5ty	
+kordic snjezana	27d8	
+kozhikode	8k0	81n:2
+kozhikode city	8k0	
+kozhikode district	81n	
+kozhikode i	8k0	
+kozhikode ii	8k0	
+kozhikode india	8k0	
+kozmin wielkopolski commune	xwg	
+kylohk	qns	
+la chasse a l homme	1gbe	
+la melencolia	qvs	
+la menace	1ubq	
+lantgreve	3w65	
+leafroller	2ai	
+leafroller moth	2ai	
+lsk	e5g	
+lsk kvinner	14bn	14bn:3
+lsk kvinner fk	14bn	
+majadahonda	23w8	
+majadahonda comments	23w8	
+mavlianova hanifa	5v37	
+melazzo	3dqq	
+menuhin yehudi	xvm	
+mesoplodont whales	5mn8	
+metera eleousa	6ant	
+michael dewar	67v2	
+michael midwood	5mzc	
+michael muenzing	2eoy	
+mission	1jz,24bu,2e5b	evu:2,hww:3,ix3:4,l1l:3,lu1:4,mmj:2,sis:3,14k4:2,17o4:2,17yi:3,1ao6:2,1cn3:2,1ebs:3,2d5t:2,2t9m:2,2u20:2,3537:3,3r6s:3,4kcg:3,4zn7:2
+mission 5	43za	
+mission a tanger	3537	
+mission b c	2e5b	
+mission bc	2e5b	
+mission bells	fd7	
+mission bloody mary	3iog	
+mission british columbia	2e5b	
+mission christian	64bi	
+mission christianity	64bi	
+mission city	2e5b	
+mission city british columbia	2e5b	
+mission cleopatra	lrv	
+mission code xx	6cei	
+mission county proposal	5ey	
+mission field	64bi	
+mission hall	64bi	
+mission hills	2d5t	
+mission hills ca	2d5t	
+mission hills california	2d5t	
+mission impossible	mmj,1ao6,1cn3	hww:3,ix3:4,lu1:4,sis:3,17yi:3
+mission impossible 1	mmj	
+mission impossible 1966	1cn3	
+mission impossible 1966 tv series	1cn3	
+mission impossible 1996 film	mmj	
+mission impossible 2	sis	
+mission impossible 3	hww	
+mission impossible 3 2006 film	hww	
+mission impossible 4	lu1	
+mission impossible 4 film	lu1	
+mission impossible 5	ix3	
+mission impossible 5 movie	ix3	
+mission impossible 6	17yi	
+mission impossible fallout	17yi	
+mission impossible feature films	1ao6	
+mission impossible film	mmj	
+mission impossible film series	1ao6	
+mission impossible films	1ao6	
+mission impossible ghost		lu1:4
+mission impossible ghost protocol	lu1	
+mission impossible ghost protocol 2011	lu1	
+mission impossible i	mmj	
+mission impossible ii	sis	
+mission impossible ii film	sis	
+mission impossible iii	hww	
+mission impossible iv	lu1	
+mission impossible iv film	lu1	
+mission impossible movie	mmj	
+mission impossible rogue		ix3:4
+mission impossible rogue nation	ix3	
+mission impossible score	mmj	
+mission impossible tv series	1cn3	
+mission impossible v	ix3	
+mission impossible vi	17yi	
+mission in		3537:3
+mission in tangier	3537	
+mission kashmir	4zn7	
+mission kashmir 2000 film	4zn7	
+mission lisbon	52w0	
+mission lupe fiasco song	zq8	
+mission of		3r6s:3
+mission of burma	3r6s	
+mission pack	s43	
+mission pilot	qd	
+mission prefecture	xow	
+mission religious	64bi	
+mission san antonio de valero	6g92	
+mission speciale	5i40	
+mission stardust	2u20	
+mission station	14k4	
+mission texas	24bu	
+mission to		l1l:3,1ebs:3,4kcg:3
+mission to hell	4kcg	
+mission to mars	1ebs	
+mission to moscow	l1l	
+mission top secret	312d	
+mission top secret film	312d	
+mission tx	24bu	
+mission u k	2t9m	
+mission uk	2t9m	
+mission valley freeway	1y03	
+mission viejo	evu	
+mission viejo ca	evu	
+mission viejo calif	evu	
+mission viejo california	evu	
+mission viejo usa	evu	
+mission without permission	1zwm	
+mohnyin		5sv6:2
+mohnyin thado	5sv6	
+moniteau		2f5d:2
+moniteau county	2f5d	
+moniteau county missouri	2f5d	
+moniteau county mo	2f5d	
+montalvo california	7tn	
+morane le marin	4asi	
+mtg navbox	4ci8	
+mtg swedish television	1lhx	
+nakamozu		5ciu:2
+nakamozu station	5ciu	
+naproite	4811	
+nederboelare	o0x	
+nissin	2pfk	
+nissin aiti	2pfk	
+numadu	ose	
+numea	bnx	
+ocfp bc	672	
+our	41xe	
+our agent		4jpu:3
+our agent tiger	4jpu	
+our anniversary	5f0o	
+our benefactors	6hu8	
+our best to you	1plg	
+our betters	34o7	
+our blushing		1kun:3
+our blushing brides	1kun	
+our brand		3ygd:4
+our brand is		3ygd:4
+our brand is crisis	3ygd	
+our brand is crisis 2015 film	3ygd	
+our brand is crisis 2016 film	3ygd	
+our country americana act ii	dlr	
+our crazy		3raf:3
+our crazy nieces	3raf	
+our daily		4lco:3
+our daily bread	4lco	
+our daily bread 1934 film	4lco	
+our dancing		2krx:3
+our dancing daughters	2krx	
+our family		4t8b:3
+our family wedding	4t8b	
+our favorite recording sessions	5mm0	
+our first time song	6efw	
+our flag leads us forward	1c2c	
+our flags lead us forward	1c2c	
+our galaxy	3u0	
+our gang		4uuy:5,66pb:5
+our gang follies		4uuy:5,66pb:5
+our gang follies of		4uuy:5,66pb:5
+our gang follies of 1936	66pb	
+our gang follies of 1938	4uuy	
+our happy		559e:3
+our happy lives	559e	
+our history	qbp	
+our hitler	41sc	
+our holy lady of ljevis	6ant	
+our home		58dk:3
+our home is russia	58dk	
+our home israel	1ves	
+our home russia	58dk	
+our hospitality	3kkt	
+our house		4avk:4
+our house 2003 film	1knv	
+our house in		4avk:4
+our house in cameroon	4avk	
+our house in the last world	3sru	
+our husbands	1qdr	
+our idiot		2jor:3
+our idiot brother	2jor	
+our jimmy	3ze4	
+our jura	41xe	
+our kind		mte:4
+our kind of		mte:4
+our kind of traitor	mte	
+our kind of traitor film	mte	
+our lady		m9v:3,yqs:6,1133:5,2ohq:4,4ak6:5,619f:4,6ant:4
+our lady comforter of the afflicted	101c	
+our lady immaculate	p74	
+our lady of		yqs:6,1133:5,2ohq:4,4ak6:5,619f:4,6ant:4
+our lady of akita	1bu	
+our lady of almudena cemetery	1cl6	
+our lady of annunciation	esv	
+our lady of assumption	e8x	
+our lady of candelaria	6f1s	
+our lady of compassion	101c	
+our lady of fatima	2ohq	
+our lady of fatima film	2ohq	
+our lady of grace edina	cfe	
+our lady of graces	619f	
+our lady of hope parochial school	2lj	
+our lady of immaculate concepcion	p74	
+our lady of immaculate conception	p74	
+our lady of ljevis	6ant	
+our lady of ljevis orthodox cathedral	6ant	
+our lady of lourdes catholic primary school wanstead	1mg1	
+our lady of lourdes roman catholic primary school	1mg1	
+our lady of mount carmel elementary school wyandotte michigan	ury	
+our lady of nazareth	101c	
+our lady of paris	m7i	
+our lady of peace school	piu	
+our lady of perpetual help catholic primary school	3nd	
+our lady of pompei	1133	
+our lady of pompeii	1133	
+our lady of promise	6ant	
+our lady of quebec city	1cd8	
+our lady of rosary	1133	
+our lady of snows	4ak6	
+our lady of sorrows school	mg0	
+our lady of sorrows school south orange new jersey	mg0	
+our lady of sorrows song	6gje	
+our lady of the		yqs:6,1133:5,4ak6:5
+our lady of the assumption	e8x	
+our lady of the conception	p74	
+our lady of the holy rosary	1133	
+our lady of the pillar school	1lw9	
+our lady of the presentation	6f1s	
+our lady of the rosary	1133	yqs:6
+our lady of the rosary of pompei	1133	
+our lady of the rosary of pompeii	1133	
+our lady of the rosary rc primary school	s6o	
+our lady of the rosary university	yqs	
+our lady of the snows	4ak6	
+our lady of the snows liturgical feast	4ak6	
+our lady of the stone	1bu	
+our lady of the undercroft	wh8	
+our lady of the victory	1133	
+our lady of the wayside patron saint of california	1bu	
+our lady of victory	1133	
+our lady peace	m9v	
+our lady queen of the angels	1bu	
+our lady the royal of las huelgas abbey	340n	
+our little		237m:3,4ryp:3
+our little girl	4ryp	
+our little sister	237m	
+our lord don quixote	23kl	
+our love was	65tn	
+our man		1ymk:4,2fvr:3,3q4x:4,46ij:4
+our man flint	2fvr	
+our man in		1ymk:4,3q4x:4,46ij:4
+our man in havana	1ymk	
+our man in havana film	1ymk	
+our man in jamaica	3q4x	
+our man in marrakech	46ij	
+our man in marrakesh	46ij	
+our men		5rg7:4
+our men in		5rg7:4
+our men in bagdad	5rg7	
+our miss		4h5o:3
+our miss doctor	4h5o	
+our modern		3ozn:3
+our modern maidens	3ozn	
+our moldova alliance	5ydx	
+our money	6qt	
+our mother s brief affair	4tdo	
+our mothers our fathers	3ui9	
+our natacha	5474	
+our nation s capitol	1e1k	
+our new life in everwood	2l5w	
+our nige	ez6	
+our observable universe	572a	
+our relations	1t03	
+our saviour s cemetery	43z	
+our saviour s cemetery oslo	43z	
+our son of a bitch	4klh	
+our story film	2y0w	
+our sweet love	4tx8	
+our time	6b3l	
+our time 1974 film	6b3l	
+our time film	6b3l	
+our town	1red	
+our town 1940 film	1red	
+our town 1940 movie	1red	
+our ukraine	2m1q	
+our ukraine bloc	2kdr	
+our ukraine bloc our ukrainepeople s self defense bloc	2kdr	
+our ukraine party	2kdr	
+our ukraine people s self defence	2kdr	
+our ukraine people s self defence bloc	2kdr	
+our ukraine people s self defense bloc	2kdr	
+our ukraine people s union	2m1q	
+our ukraine peoples self defense bloc	2kdr	
+our ukraine political party	2m1q	
+our ukraine pre 2007	2kdr	
+our ukrainepeople		2kdr:6
+our ukrainepeople s		2kdr:6
+our ukrainepeople s self		2kdr:6
+our ukrainepeople s self defence bloc	2kdr	
+our ukrainepeople s self defense		2kdr:6
+our ukrainepeople s self defense bloc	2kdr	
+our universe	ovm	
+our very		5mlb:3
+our very own	5mlb	
+our very own 1950 film	5mlb	
+our vines		61z8:5
+our vines have		61z8:5
+our vines have tender		61z8:5
+our vines have tender grapes	61z8	
+our war game	1tso	
+our whole universe was in a hot dense state	bz9	
+our wife	3sgc	
+our wife 1931 short	3sgc	
+our willi		3t31:5
+our willi is		3t31:5
+our willi is the		3t31:5
+our willi is the best	3t31	
+painaware pain and dementia	186t	
+persiceto	15ig	
+phonix karlsruhe	33o	
+pippa	2k5j	2jxi:2,3mkp:2,3pjw:2
+pippa first name	2k5j	
+pippa given name	2k5j	
+pippa lee	1w14	
+pippa marrack	2bwf	
+pippa matthews	3mkp	
+pippa middleton	3mkp	
+pippa passes	3pjw	
+pippa passes 1909 film	3pjw	
+pippa passes 1910 film	3pjw	
+pippa scott	2jxi	
+pippa strachey	41t9	
+pleiostachyopiper	cwq	
+pogrom	65r0	
+postman	sh1,323o	sh1:2,294t:4
+postman always rings twice	1sqf	1sm8:5,1sqf:5
+postman from longjumeau	3uqz	3uqz:4
+postman pat		294t:4
+postman pat the		294t:4
+postman pat the movie	294t	
+postman pat the movie you know you re the one	294t	
+preisch	1rto	
+pridi	57yf	57yf:2
+pridi banomyong	57yf	
+pridi bhanomyong	57yf	
+pridi bramonyong	57yf	
+pridi branomyong	57yf	
+pridi panomyong	57yf	
+pridi phanomyong	57yf	
+promocion fantasma	5y7v	
+prunariu	59zo	
+pselaphinae	ung	
+qingchuan novel	4avb	
+rafer		1e8s:2,3y2t:2
+rafer alston	3y2t	
+rafer jamel alston	3y2t	
+rafer johnson	1e8s	
+rafer l johnson	1e8s	
+rafer lewis johnson	1e8s	
+randfontein	2zpb	4hmj:3
+randfontein gauteng	2zpb	
+randfontein local		4hmj:3
+randfontein local municipality	4hmj	
+randfontein municipality gauteng	4hmj	
+remilly	1661,29xu	2b9n:3,2ivv:3,2rhe:3,2sau:2,376d:2,3bki:3
+remilly aillicourt	376d	
+remilly en		2rhe:3
+remilly en montagne	2rhe	
+remilly les		3bki:3
+remilly les pothees	3bki	
+remilly moselle	1661	
+remilly nievre	29xu	
+remilly sur		2b9n:3,2ivv:3
+remilly sur lozon	2ivv	
+remilly sur tille	2b9n	
+remilly wirquin	2sau	
+richard harrisson	t5e	
+richard mulcahy	4qkq	
+richard portnow	1eak	
+rive	5959	1712:3,3itm:3,5dgj:2
+rive d		3itm:3
+rive d arcano	3itm	
+rive de		1712:3
+rive de gier	1712	
+rive droite	5dgj	
+rive droite paris	5dgj	
+rive piedmont	5959	
+rive vc	5959	
+robert kimbrough	3xi2	
+robert totten	62vy	
+romanogobio	48wu	
+saint bard	3dt5	
+salzach	29xo	
+salzach river	29xo	
+san tribe	5yjv	
+sclerodeyeuxia	1jav	
+septecemia	6ya	
+siris macedonia	eyp	
+slippery		68xb:3
+slippery jacks	mdn	
+slippery when		68xb:3
+slippery when wet	68xb	
+slippery when wet comments	68xb	
+solimens	5co8	
+stachyris	69dd	
+surf		8zk:2,11d7:3,390i:3,4bof:2,68uh:3
+surf ballad	8zk	
+surf camp	3yk	
+surf coast	11d7	11d7:3
+surf coast shire	11d7	
+surf guitar	8zk	
+surf music	8zk	
+surf ninjas	4bof	
+surf pop	8zk	
+surf punk	8zk	
+surf rock	8zk	
+surf s		390i:3,68uh:3
+surf s up	390i,68uh	
+surf s up 2007 film	390i	
+surf s up characters	390i	
+surf s up film	390i	
+surf s up movie	390i	
+surf s up the legend of the surfer penguin	390i	
+surf s up video game	68uh	
+surf wave	3yk	
+tearjerkers	3xy	
+telesophore damien bouchard	64q7	
+terrorisme	26q	
+the espionage act of 1917	urv	
+theeratha vilaiyattu pillai	5z6h	
+theeratha vilaiyatu pillai	5z6h	
+theeratha vilayattu pillai	5z6h	
+thomas morely	5pvc	
+tipper		61n9:2
+tipper aitcheson	61n9	
+tipper gore	61n9	
+toszek commune	urp	
+tuppence		352q:2
+tuppence middleton	352q	
+uchile	373	
+universiti		jpm:2
+universiti malaya	jpm	
+urcay	2kkh	
+vanutau	2ge	
+violins	bn	
+vuw	2h4	
+wandala languages	2n8o	
+weenies	21j7	
+westfarthing	5v6u	
+wolfling les sarreguemines	3plx	
+wounded		5578:2
+wounded angel		3i95:3
+wounded deer		6hgj:3
+wounded game	5578	
+wounded gaul	32zi	
+wounded love records	t8e	
+wounded man	5nmz	5nmz:3
+wounded philoctetes		3ich:3
+zadni		45u3:2
+zadni chodov	45u3	
+zahra	15bu	
+zahra family name	15bu	
+zahra first name	15bu	
+zahra given name	15bu	
+zahra name	15bu	
+zahra surname	15bu	
+zlate		t07:3,1tw7:2
+zlate hory	1tw7	
+zlate moravce	1h4x	t07:3
+zlate moravce district	t07	

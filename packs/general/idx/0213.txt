@@ -1,0 +1,396 @@
+100k run	5ee0	
+a vase		4xmu:4
+a vase of		4xmu:4
+a vase of flowers	4xmu	
+a vase of flowers 1716	4xmu	
+achileas andreas	1var	
+achileas andreas of greece	1var	
+agudo	49di	
+agudo ciudad real	49di	
+agudo spain	49di	
+aigrefeuille		2dcn:3,2hhu:3
+aigrefeuille d		2dcn:3
+aigrefeuille d aunis	2dcn	
+aigrefeuille d aunis france	2dcn	
+aigrefeuille sur		2hhu:3
+aigrefeuille sur maine	2hhu	
+aksu		2877:2,52rk:2
+aksu district	52rk	
+aksu district almaty	52rk	
+aksu district almaty province	52rk	
+aksu district almaty region	52rk	
+aksu prefecture	2877	
+alexander bruckner	5hi3	
+americanization of emily	1lzi	1lzi:4
+assainvillers	320p	
+birkala	1fxk	
+buelbuel	4lnl	
+buverchy	30z6	
+caderousse	208z	
+castrov	212q	
+chailland	3di1	
+charles christiaan of nassau weilburg	4xw6	
+chogyam		2bdw:2
+chogyam trungpa	2bdw	
+chogyam trungpa rinpoche	2bdw	
+clemerson		3yy5:4
+clemerson de		3yy5:4
+clemerson de araujo	3yy5	3yy5:4
+clemerson de araujo soares	3yy5	
+clowne	4p2c	
+clowne derbyshire	4p2c	
+cofantre	23j	
+conchil		34aw:3
+conchil le		34aw:3
+conchil le temple	34aw	
+cyankali	4b3q	
+deinodontoidea	40c6	
+dugarry	25gr	
+echos silence patience and grace	5qqz	
+ellinikos laikos apeleftherotikos stratos	20c1	
+elmhurst	kke,3wzh	1i7f:2
+elmhurst blue jays	1i7f	
+elmhurst blue jays football	1i7f	
+elmhurst bluejays	1i7f	
+elmhurst bluejays football	1i7f	
+elmhurst bluejays men s basketball	1i7f	
+elmhurst bluejays track and field	1i7f	
+elmhurst college	1i7f	
+elmhurst il	kke	
+elmhurst illinois	kke	
+elmhurst kansas	c1q	
+elmhurst ks	c1q	
+elmhurst queens	3wzh	
+elmhurst queens county new york	3wzh	
+elmhurst queens new york	3wzh	
+elmhurst university	1i7f	
+employers		64l6:2
+employers association	64l6	
+employers federation	64l6	
+employers organisation	64l6	
+employers organization	64l6	
+employers organizations	64l6	
+employers union	64l6	
+encinal alameda california	7gf	
+encinal station	7gf	
+enidae	5can	
+erchis	vg1	
+erchis river	vg1	
+estella		qwq:2,3a00:2,43z4:2
+estella blain	43z4	
+estella dawn warren	3a00	
+estella gardinier	1z75	
+estella lizarra	qwq	
+estella warren	3a00	
+etables	3asb	
+evangelist matthew	vy5	
+fc neftekhimik		45p:3
+fc neftekhimik nizhnekamsk	45p	
+fc neftekhimik perm	grq	
+fc neftekhimik tobolsk	232y	
+frankenthal	nkk	
+frankenthal germany	nkk	
+frankenthal palatinate	nkk	
+frankenthal pfalz	nkk	
+frankenthal rheinland pfalz	nkk	
+fujianese dialect	21i0	
+fujianese language	21i0	
+gmina glowno	rrz	
+groote kerk haarlem	1sno	
+groote river	1q72	
+gstaad	4gys	
+guastaymonis	154b	
+harisri ashokan	2kzz	
+hhhh film	4gwn	
+hnia	517q	
+honeyed	wsw	
+honeyed water	wsw	
+horseback rider	7sy	
+horseback riders	7sy	
+horseback riding	7sy	
+hrpelje kozina	sgx	
+hrpelje kozina municipality	sgx	
+james billington	34ac	
+jenilson		3fp5:4
+jenilson angelo		3fp5:4
+jenilson angelo de		3fp5:4
+jenilson angelo de souza	3fp5	
+jenilson angelo souza junior	3fp5	
+john kani	3nkc	
+john mervin carrere	36jf	
+john sieganthaler	50zr	
+kurilenko	13aw	
+la chevallerais	3p9e	
+la habana vieja	257h	
+la habana vieja cuba	257h	
+laclauian	4hyo	
+le compas	2iu7	
+leoh	2e0u	
+leoh ming pei	gkw	
+ludavic kennedy	48qj	
+lueshun	z2y	
+maavalitsus	4vni	
+mandanici	4h49	
+mesoptamia	kgh	
+michael rappaport	sbf	
+michael schick	6ej7	
+michael zechner	5wiv	
+miluo	k85	
+mitikas	2rg9	
+namratha shirodkar	22pd	
+neckarhausen neckarsteinach	4kvv	
+neoliparis	5qnz	
+ninjor power rangers	2wcx	
+nouriel		67yj:2
+nouriel roubini	67yj	
+overheard	28in	62w8:2
+overheard 2	62w8	
+overheard film	28in	
+palermo	1et,6435,66lb	2j8:3,33ac:2,5g5r:4
+palermo 1990 film	29ep	
+palermo buenos aires	66lb	
+palermo calcio	2j8	
+palermo chico	66lb	
+palermo connection		29ep:3
+palermo f		2j8:3
+palermo f c	2j8	
+palermo fc	2j8	
+palermo film	6435	
+palermo football	2j8	
+palermo holywood	66lb	
+palermo milan		5g5r:4
+palermo milan one		5g5r:4
+palermo milan one way	5g5r	
+palermo milano solo andata	5g5r	
+palermo province	6bb	
+palermo shooting	33ac	
+palermo sicily	1et	
+palermo soho	66lb	
+palermo university	fv3	
+palermo university of	fv3	
+palermo viejo	66lb	
+palermo west on	8j7	
+palermo west ontario	8j7	
+periferico	o7y	
+phyeonganpukto	hs9	
+pogromchiki	65r0	
+poliolophus	s39	
+pooling games	1x0m	
+posthardcore	2mn	
+prince xavier		168q:6
+prince xavier hereditary		168q:6
+prince xavier hereditary duke		168q:6
+prince xavier hereditary duke of		168q:6
+prince xavier hereditary duke of parma	168q	
+prince xavier of bourbon parma	168q	
+prince xavier of parma	168q	
+qaedrahmat	wik	wik:3
+qaedrahmat rural		wik:3
+qaedrahmat rural district	wik	
+quarians	2rs2	
+redford	4rxc	
+redford mi	4rxc	
+redford michigan	4rxc	
+redford township library	4rxc	
+redford township mi	4rxc	
+redford township michigan	4rxc	
+redford township wayne county michigan	4rxc	
+redford twp	4rxc	
+richard gary brautigan	10ga	
+scarafoni	59nl	
+semiregular		44f2:3
+semiregular variable	44f2	44f2:3
+semiregular variable star	44f2	
+semiregular variable stars	44f2	
+semiregular variables	44f2	
+semoutiers		2gql:2
+semoutiers montsaon	2gql	
+separation	1i8a	21yt:5
+separation of		21yt:5
+separation of david		21yt:5
+separation of david and		21yt:5
+separation of david and jonathan	21yt	
+separation the girlfriend experience	43x4	
+skunk		1gyf:2
+skunk anansie	1gyf	
+skunk baxter	4xcl	
+skunk lake	y4s	
+smersocial democracy	1s8s	
+snowqueens icedragon	5ip1	
+splice	23ms	
+splice 2009 film	23ms	
+splice film	23ms	
+srihari	1hy2	
+srihari actor	1hy2	
+stroemstad	2hvk	
+stroemstad municipality	1g7h	
+stub hub center	1rfk	
+stub in linux	3ii	
+supertux	2lg8	
+tano		vzm:2
+tano 32	13v0	
+tano bonnin	4mr6	
+tano cimarosa	vzm	
+tano dragon	13v0	
+tetroxide	6avh	
+the bpa	khw	
+the quality		5t91:4
+the quality of		5t91:4
+the quality of life	5t91	
+the quality of life star trek	5t91	
+the quality of life star trek the next generation	5t91	
+the quality of life tng episode	5t91	
+the quality of mercy william dean howells novel	15y1	
+the quality of modelling languages	5a1h	
+the sandlot	2gqt	5yom:3
+the sandlot 2	5yom	
+the sandlot kids	2gqt	
+towtwil	4xkg	
+tricks and treats freaks and geeks	12cb	
+tricks of the mind	472t	
+tuned percussion	5b2	
+ulzanas raid	1c79	
+utc13	3n5z	
+uve bolle	ywl	
+vesterland	5mzs	
+wagnerian	apz	
+wagnerian rock	172j	
+waris		1ks6:2
+waris hussein	1ks6	
+woman	vm	12e7:6,13qp:4,15ro:3,1cej:3,206y:4,254u:3,26xw:3,2bba:9,2eck:4,2yg5:3,34ys:5,3d5v:4,3gpy:3,3rvm:4,3s82:4,47kg:4,4ivv:3,4s7g:2,4zfk:2,52qw:3,55qh:2,5lio:4,62a5:2,67df:5
+woman and nature	5z19	
+woman and the stranger	4wd5	4wd5:5
+woman as a friend	52mm	
+woman at her window	1ieo	
+woman at the crossroads	3o42	3o42:5
+woman between two worlds	37rt	
+woman bitten by a serpent	21he	
+woman called golda	4ax6	
+woman constable	6eq3	
+woman cop	49ae	49ae:3
+woman disputed	5cyf	5cyf:3
+woman eating oysters	2jhl	
+woman forty	2sgr	
+woman from deep river	1kt4	
+woman from mellon s	2eob	2eob:5
+woman god forgot	3ro8	3ro8:4
+woman hungry	4zfk	
+woman hungry film	4zfk	
+woman i love	1zsv	1zsv:4
+woman in		1cej:3,206y:4,3s82:4,67df:5
+woman in 1911 brittanica	vm	
+woman in a		67df:5
+woman in a dressing		67df:5
+woman in a dressing gown	67df	
+woman in berlin	2545	
+woman in black	1apa	1apa:4
+woman in black angel of death		3rp0:7
+woman in black angels of death	3rp0	
+woman in blue	4ymn	4ymn:4
+woman in chains	1cej	
+woman in gold	ss1	ss1:4
+woman in gold film	ss1	
+woman in green	2722	2722:4
+woman in me		5jwi:4
+woman in question	5kpc	5kpc:4
+woman in red	5bt8	3bpk:4,5bt8:4
+woman in the		206y:4,3s82:4
+woman in the dunes	5f0d	5f0d:5
+woman in the dunes film	5f0d	
+woman in the fifth	2umb	2umb:5
+woman in the moon	206y	
+woman in the river	3s82	
+woman in the waves	mlp	mlp:5
+woman in the window	2eir	2eir:5
+woman in white	45j5	45j5:4
+woman is a woman	3w29	
+woman justice song	270z	
+woman killer	1jzs	
+woman like you	2vn0	
+woman made		2eck:4
+woman made to		2eck:4
+woman made to measure	2eck	
+woman obsessed	55qh	
+woman of		13qp:4,254u:3,2yg5:3,3gpy:3
+woman of 40	2sgr	
+woman of affairs	2is3	
+woman of distinction	5wou	
+woman of malacca	3gpy	
+woman of my dreams	2glk	2glk:5,5moy:5
+woman of paris	2k45	
+woman of rome	254u	
+woman of straw	2yg5	
+woman of the		13qp:4
+woman of the world	4ahe	
+woman of the world the best of 2007 2018	1bmh	
+woman of the year	13qp	
+woman of the year 1942 film	13qp	
+woman of willendorf	47ny	
+woman on		3rvm:4,4ivv:3
+woman on pier 13		33y0:5
+woman on the		3rvm:4
+woman on the beach	4xff	4xff:5
+woman on the rack	35vp	35vp:5
+woman on the run	3rvm	
+woman on top	4ivv	
+woman one longs for		5l5i:5
+woman racket	4zb6	4zb6:3
+woman rebels	21kf	
+woman s		12e7:6,26xw:3,34ys:5
+woman s body woman s right	599m	
+woman s college	2x45	
+woman s college of baltimore	azs	
+woman s college of the university of north carolina	i95	
+woman s face	130e	
+woman s lovewoman		34ys:5
+woman s lovewoman s		34ys:5
+woman s lovewoman s suffering	34ys	
+woman s medical		12e7:6
+woman s medical college		12e7:6
+woman s medical college of		12e7:6
+woman s medical college of pennsylvania	12e7	
+woman s rights	1hic	
+woman s secret	2sgu	
+woman s world	26xw	
+woman s world 1954 film	26xw	
+woman s world film	26xw	
+woman superhero	1ga	
+woman that dreamed about a man	5jkz	5jkz:7
+woman they		5lio:4
+woman they almost		5lio:4
+woman they almost lynched	5lio	
+woman times		15ro:3
+woman times seven	15ro	
+woman to		52qw:3
+woman to woman	52qw	
+woman to woman 1923 film	52qw	
+woman to woman 1924 film	52qw	
+woman to woman baccara compilation	3pat	
+woman trap	4s7g	
+woman trap 1929 film	4s7g	
+woman troubadour	4n25	
+woman under the influence	4amm	
+woman vs girl	6oj	
+woman who did		52ap:4
+woman who invented love	57bh	57bh:5
+woman who lived		2qhn:4
+woman with		2bba:9,3d5v:4
+woman with a		2bba:9,3d5v:4
+woman with a broken nose	3e2c	3e2c:6
+woman with a parasol		2bba:9
+woman with a parasol madame		2bba:9
+woman with a parasol madame monet		2bba:9
+woman with a parasol madame monet and		2bba:9
+woman with a parasol madame monet and her		2bba:9
+woman with a parasol madame monet and her son	2bba	
+woman with a parrot	3d5v	
+woman with power of attorney	4u1r	
+woman with that certain something	65xp	65xp:6
+woman without		47kg:4
+woman without a		47kg:4
+woman without a face	47kg	
+woman worth millions	3kzf	3kzf:4
+xiaolu li	5v38	
+zartliche		5i3n:2
+zartliche haie	5i3n	
+zeri	3zm1	

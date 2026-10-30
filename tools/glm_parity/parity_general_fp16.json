@@ -1,0 +1,1821 @@
+{
+ "summary": {
+  "encoder": "fp16",
+  "n": 200,
+  "split": "Mintaka dev (first N)",
+  "same_topics": 200,
+  "same_op": 200,
+  "same_top_path": 200,
+  "same_answer": 200,
+  "same_path_and_answer": 200,
+  "pct_top_path": 100,
+  "pct_answer": 100,
+  "pct_path_and_answer": 100,
+  "py_hits1": 19.5,
+  "node_ms_median": 190.6,
+  "node_ms_max": 471.5,
+  "wall_s": 41.4
+ },
+ "rows": [
+  {
+   "id": "9ace9041",
+   "q": "What is the fourth book in the Twilight series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 244.3
+  },
+  {
+   "id": "88bdb808",
+   "q": "How many games are in the Uncharted series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 155.6
+  },
+  {
+   "id": "ecfd471d",
+   "q": "As of 2015, which group held the record for the most Grammy Awards of any group in history?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 361.9
+  },
+  {
+   "id": "5d8dc3ff",
+   "q": "Who is the oldest person to ever win an Academy Award in any category?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 226.2
+  },
+  {
+   "id": "118daa85",
+   "q": "Which Mario Kart games do not feature Link as a playable character?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 301.6
+  },
+  {
+   "id": "bcb4e4d7",
+   "q": "Which book in A Song of Ice and Fire also shares the name of a popular TV series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 405.5
+  },
+  {
+   "id": "d2a31098",
+   "q": "Which Super Bowls have the Seahawks played in but not won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 149.6
+  },
+  {
+   "id": "a7b5322f",
+   "q": "Which finalist gymnast did not win first place in the 2021 Olympic games?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 181.5
+  },
+  {
+   "id": "26ebd827",
+   "q": "Did Risky Business come out before Top Gun?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 120
+  },
+  {
+   "id": "7f368fa5",
+   "q": "Which singer has earned more Academy Awards, Lady Gaga or Beyoncé?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 147.5
+  },
+  {
+   "id": "bab60554",
+   "q": "Who is older, Morgan Freeman or Anthony Hopkins?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 252.7
+  },
+  {
+   "id": "1eb7c1b3",
+   "q": "Who is older, Anthony Hopkins or George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 242.5
+  },
+  {
+   "id": "37336d45",
+   "q": "Which movie had the lowest production cost, Eraserhead or Little Miss Sunshine?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 217.1
+  },
+  {
+   "id": "b7057db6",
+   "q": "Who is older, Brad Pitt or George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 194.1
+  },
+  {
+   "id": "826528e6",
+   "q": "Did Gone With The Wind come out before 1940?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 147.7
+  },
+  {
+   "id": "6d4dced4",
+   "q": "Is Johnny Depp or Brad Pitt older?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 110.3
+  },
+  {
+   "id": "0492908a",
+   "q": "Who has won fewer Academy Awards for Best Actor, Tom Hanks or Leonardo DiCaprio?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 273.2
+  },
+  {
+   "id": "db942bdc",
+   "q": "Did the movie Goldfinger come out before Dr. No?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 182.9
+  },
+  {
+   "id": "2849ef8a",
+   "q": "Did the movie Diamonds Are Forever come out before 1974?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 191.2
+  },
+  {
+   "id": "2e488d77",
+   "q": "Which movie came out first, Avengers: Endgame or Jurassic World?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 208.2
+  },
+  {
+   "id": "750771e3",
+   "q": "Which movie is longer, Star Wars: Return of the Jedi or Star Wars: A New Hope?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 442.7
+  },
+  {
+   "id": "d7012a77",
+   "q": "How many The Chronicles of Narnia movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 286.5
+  },
+  {
+   "id": "e6245500",
+   "q": "How many times has Tom Cruise been nominated for an Academy Award for Best Actor?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 243.3
+  },
+  {
+   "id": "20188fe1",
+   "q": "How many Fantastic Beasts movies have been released so far?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162.2
+  },
+  {
+   "id": "db39fd3c",
+   "q": "How many Oscars has Julia Roberts been nominated for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 138.5
+  },
+  {
+   "id": "877268eb",
+   "q": "How many movies are there in the Harry Potter saga?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 208.3
+  },
+  {
+   "id": "9fd5aabd",
+   "q": "How many Star Trek movies featured the Next Generation cast?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 205.1
+  },
+  {
+   "id": "7079d617",
+   "q": "How many movies in The Conjuring universe does Patrick Wilson appear in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 278.9
+  },
+  {
+   "id": "ec2a2453",
+   "q": "How many Resident Evil movies did Paul W. S. Anderson direct?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 318.2
+  },
+  {
+   "id": "cca194b5",
+   "q": "How many Best Actor Oscars has Jack Nicholson won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162.7
+  },
+  {
+   "id": "52fe7a75",
+   "q": "How many titles are there in the Lord of the Rings series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 191.8
+  },
+  {
+   "id": "e25cd955",
+   "q": "How many Mortal Mombat movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 117.9
+  },
+  {
+   "id": "d6fd8ba5",
+   "q": "How many The Incredibles movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 122.2
+  },
+  {
+   "id": "e20f4cfd",
+   "q": "How many Hugh Jackman Wolverine movies are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 133.9
+  },
+  {
+   "id": "79eca99c",
+   "q": "How many Avengers movies has Spider-Man appeared in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.7
+  },
+  {
+   "id": "85785086",
+   "q": "How many movies has Bruce Willis acted in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 140.1
+  },
+  {
+   "id": "3a0a9ef4",
+   "q": "Which 1967 James Bond movie did not star Roger Moore?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 190.6
+  },
+  {
+   "id": "abdc5d93",
+   "q": "Which American movies were released in 2020 and didn't have a domestic gross of less than $200 million?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 418.1
+  },
+  {
+   "id": "a1b7c1e3",
+   "q": "Which actor participated in George of the Jungle but did not appear in George of the Jungle 2?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 374.5
+  },
+  {
+   "id": "903709ce",
+   "q": "Which Quentin Tarantino movie was nominated for Best Director in 1995 but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 209.5
+  },
+  {
+   "id": "0fc9e45a",
+   "q": "Which 1955 movie with James Dean was a hit but did not win an Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 356.1
+  },
+  {
+   "id": "f1d36d9f",
+   "q": "What was the title of the movie that Vanessa Kirby was nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 241.5
+  },
+  {
+   "id": "4f8f318c",
+   "q": "What was the first Alien movie that did not star Sigourney Weaver?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 232
+  },
+  {
+   "id": "c1fd5a40",
+   "q": "Which Back to the Future movies did not take place in the future?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 178.6
+  },
+  {
+   "id": "1165fdd2",
+   "q": "Which movie about the development of Citizen Kane was nominated for Best Picture but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 266.2
+  },
+  {
+   "id": "f15a5a62",
+   "q": "Which 1993 Steven Spielberg movie does not star Liam Neeson?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 174.6
+  },
+  {
+   "id": "998247c4",
+   "q": "Which Iron Man film did Don Cheadle not appear in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 261.1
+  },
+  {
+   "id": "0dba54c5",
+   "q": "Which 007 movies were nominated for Best Original Score at the Academy Awards and did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 256.7
+  },
+  {
+   "id": "9e53da28",
+   "q": "Which baseball movie starring Kevin Costner was nominated for Best Picture in 1990 but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 248
+  },
+  {
+   "id": "6ce82c4a",
+   "q": "Which movie in 1999 was Cate Blanchett nominated for Best Performance by an Actress in a Leading Role but lost?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 471.5
+  },
+  {
+   "id": "a735999b",
+   "q": "Who was the director of The Goodfellas and attended school at New York University's School of Film?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 413
+  },
+  {
+   "id": "353c4540",
+   "q": "Which actress played an Avenger and was in Lost In Translation?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 161.5
+  },
+  {
+   "id": "8379d9e9",
+   "q": "Which actress who starred in White Christmas is also the aunt of George Clooney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 268.4
+  },
+  {
+   "id": "0f41b6f4",
+   "q": "Which movie was directed by Spike Jonze and starred Joaquin Phoenix?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 215.8
+  },
+  {
+   "id": "24d038ec",
+   "q": "What is the name of the boxing movie that starred Sylvester Stallone as the lead and was the first in the series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 406.1
+  },
+  {
+   "id": "ed93c2a2",
+   "q": "Which pop vocal group performs at the wedding in Bridesmaids and was formed in Los Angeles in 1989?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 361.4
+  },
+  {
+   "id": "099aa784",
+   "q": "Which actress was in Cruella (2021) and has a child named Louise Jean McCary?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 323
+  },
+  {
+   "id": "b709aab6",
+   "q": "Which movie was produced by Steven Spielberg and came out in 1991?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 194.3
+  },
+  {
+   "id": "a220a791",
+   "q": "Which movie involved a character named Bruno Buckingham from 1995?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 241.6
+  },
+  {
+   "id": "6666d6d3",
+   "q": "Which mobster movie directed by Francis Ford Coppola was based on a best-selling 1969 novel?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 432.2
+  },
+  {
+   "id": "99a1c974",
+   "q": "Which actor has played Spider-Man after Marvel bought the rights for the movie again?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 241.4
+  },
+  {
+   "id": "2dbdd894",
+   "q": "Which movie was written by George Lucas and came out in 1973?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 223
+  },
+  {
+   "id": "12f2b568",
+   "q": "Which movie was directed by David Mickey Evans and starred Tom Guiry?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 229.4
+  },
+  {
+   "id": "85f17774",
+   "q": "Which movie was directed by Tony Kaye and starred Edward Norton?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 151.3
+  },
+  {
+   "id": "4c8888da",
+   "q": "Which actor starred in \"The Other Guys\" and was born in Boston, Massachusetts?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 245.3
+  },
+  {
+   "id": "8ed4ce4f",
+   "q": "Which movie that involves a cross-country team stars Kevin Costner?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 360.1
+  },
+  {
+   "id": "605cd104",
+   "q": "Which actor starred in Saw II and was a founding member of New Kids on the Block?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 406.6
+  },
+  {
+   "id": "2f724f11",
+   "q": "Which movie starred Chris Pratt and followed the character Star-Lord?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 212.9
+  },
+  {
+   "id": "7ebba131",
+   "q": "Which Grammy Award winning singer also starred in A Star is Born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 263.5
+  },
+  {
+   "id": "4055dbdc",
+   "q": "Which actor starred in The Town and also directed it?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162
+  },
+  {
+   "id": "13e1f561",
+   "q": "Which movie was set in a German prison camp and won Best Picture in 1993?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 354.3
+  },
+  {
+   "id": "bccd1dde",
+   "q": "When was the director of Slumdog Millionaire born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 110.3
+  },
+  {
+   "id": "85c0b1fb",
+   "q": "When was the director of Pulp Fiction born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 112
+  },
+  {
+   "id": "a1bee914",
+   "q": "How many kids does the lead actress of Silence of the Lambs have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 169.5
+  },
+  {
+   "id": "e1d742c2",
+   "q": "How many kids does the lead actress of A Few Good Men have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 277.8
+  },
+  {
+   "id": "48e38631",
+   "q": "How many actors played Sonny in Big Daddy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 140.7
+  },
+  {
+   "id": "6821b3e2",
+   "q": "Where did the actress who was the main star in Eat Pray Love go to college?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 355.7
+  },
+  {
+   "id": "421971a8",
+   "q": "Where is that actor that plays Peter Parker in the MCU from?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 203.2
+  },
+  {
+   "id": "4ad6bafd",
+   "q": "How many children did the actor who played Don Vito Corleone in Godfather have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 316.5
+  },
+  {
+   "id": "bd85813c",
+   "q": "How old is the director of Spider-Man Homecoming?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 178
+  },
+  {
+   "id": "6edaabbb",
+   "q": "How many children does the director of Inception have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 135.4
+  },
+  {
+   "id": "043b734e",
+   "q": "Where was the director of Avatar born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 92.9
+  },
+  {
+   "id": "dfd012c8",
+   "q": "How many children does the lead actress in Clueless have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 145.3
+  },
+  {
+   "id": "91f315a4",
+   "q": "How tall is the actor who played Deadpool?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 140.4
+  },
+  {
+   "id": "28ae20ee",
+   "q": "How tall is the actor who played Frodo?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 125.1
+  },
+  {
+   "id": "802fbd23",
+   "q": "How old is the actor who played Luke Skywalker?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 140.1
+  },
+  {
+   "id": "a516305f",
+   "q": "When was the actress who played Claire Dearing in Jurassic World born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 167.8
+  },
+  {
+   "id": "dc1a55dc",
+   "q": "How tall is the actor who plays John Wick?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 160.3
+  },
+  {
+   "id": "cd085a8c",
+   "q": "How many children does the director of Gangs of New York have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 189.5
+  },
+  {
+   "id": "07c04474",
+   "q": "In which year was the director of Taxi Driver born?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 156.3
+  },
+  {
+   "id": "234caafb",
+   "q": "Where did the lead actor of John Wick grow up?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 190
+  },
+  {
+   "id": "7a5e5ab0",
+   "q": "How many kids does the lead actor of Troy have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 228.2
+  },
+  {
+   "id": "e5b42a17",
+   "q": "What was the title of the fourth Star Trek movie of the original series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 242.2
+  },
+  {
+   "id": "fde1e04f",
+   "q": "What was the fourth Avenger movie called?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 120.4
+  },
+  {
+   "id": "b039b044",
+   "q": "What was the title of the third movie in the second Star Wars trilogy to be released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 288.9
+  },
+  {
+   "id": "c31b6d9a",
+   "q": "What was Daniel Craig's last Bond movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 198.8
+  },
+  {
+   "id": "bbee5ae7",
+   "q": "What was Tom Cruise's second movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 154.4
+  },
+  {
+   "id": "6daba93f",
+   "q": "What was the first movie released that is considered part of the Marvel Cinematic Universe?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 211.8
+  },
+  {
+   "id": "7b7a98eb",
+   "q": "What was the first Star Wars movie to be released in theaters?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 192.7
+  },
+  {
+   "id": "410887e6",
+   "q": "When was Sylvester Stallone first nominated for an Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 137.8
+  },
+  {
+   "id": "c1c0541b",
+   "q": "What was the second Child's Play movie chronologically?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 249.5
+  },
+  {
+   "id": "770d9ad6",
+   "q": "What is the second Twilight movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 189.6
+  },
+  {
+   "id": "675275e6",
+   "q": "Who was the first African American to win the Academy Award for best actor?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 216.1
+  },
+  {
+   "id": "a43f3c50",
+   "q": "What was the first movie in the Peter Jackson Lord of the Rings trilogy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 292.2
+  },
+  {
+   "id": "9b26a692",
+   "q": "When did Jamie Foxx win his first Oscar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 113.9
+  },
+  {
+   "id": "9be11a41",
+   "q": "What was the first animated movie Kevin Hart ever starred in?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.2
+  },
+  {
+   "id": "23ad7fbe",
+   "q": "What is the title of the first Harry Potter movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.7
+  },
+  {
+   "id": "c0c0bb29",
+   "q": "What is the second movie in the Pirates of the Caribbean series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 227.6
+  },
+  {
+   "id": "ccfda890",
+   "q": "What is the fourth movie in the Pirates of the Caribbean series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 219.8
+  },
+  {
+   "id": "b44df782",
+   "q": "What is the second movie in the Hobbit series?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 200.1
+  },
+  {
+   "id": "95f1efb7",
+   "q": "Which Matrix movie is the longest?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 114
+  },
+  {
+   "id": "8e1db257",
+   "q": "What is the most amount of money an actor has received for one movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 312.7
+  },
+  {
+   "id": "87615bbd",
+   "q": "Which movie made the most money in the United States in 1978?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 209.1
+  },
+  {
+   "id": "234bfa40",
+   "q": "What is the longest Academy Award winning movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 151
+  },
+  {
+   "id": "d11e5377",
+   "q": "What is the shortest movie ever nominated for an Oscar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 175.7
+  },
+  {
+   "id": "48f8bcb2",
+   "q": "Who is the youngest person to win a Best Director Academy Award?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 253.7
+  },
+  {
+   "id": "0e964779",
+   "q": "What actor has been nominated for the most Academy Awards?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 147.3
+  },
+  {
+   "id": "ba902753",
+   "q": "Which Star Wars movie is the shortest?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 140.3
+  },
+  {
+   "id": "a300fc78",
+   "q": "Which Die Hard movie made the most money worldwide?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 175.7
+  },
+  {
+   "id": "e915c0bd",
+   "q": "Which Die Hard movie made the least money worldwide?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 169.5
+  },
+  {
+   "id": "f9bba15a",
+   "q": "What is the longest span between consecutive series installments?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 111
+  },
+  {
+   "id": "69709963",
+   "q": "Which season has more episodes in Into The Badlands?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 129.8
+  },
+  {
+   "id": "278cae5c",
+   "q": "Which Star Wars movie has the most screen time showing lightsabers?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 205.4
+  },
+  {
+   "id": "24d536ed",
+   "q": "What is the longest movie from 2003?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 129.4
+  },
+  {
+   "id": "3c19a6a5",
+   "q": "What Star Wars movie made the most money?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 151.9
+  },
+  {
+   "id": "b1089832",
+   "q": "Who is the highest-grossing actor of all time?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 220.7
+  },
+  {
+   "id": "b11b82a9",
+   "q": "Which Harry Potter movie is the shortest?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 144.5
+  },
+  {
+   "id": "9e98509e",
+   "q": "What is the longest Star Wars movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 143.1
+  },
+  {
+   "id": "9fe7e72a",
+   "q": "Which female actor has won the most Oscars?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.8
+  },
+  {
+   "id": "659b8717",
+   "q": "Has Neil Breen made 5 non-documentary feature movies as of 2021?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 205.9
+  },
+  {
+   "id": "d5fc9a0e",
+   "q": "Was Leonardo DiCaprio in Titanic?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 119.6
+  },
+  {
+   "id": "967d242b",
+   "q": "Did Tom Hanks receive an Oscar for Forrest Gump?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 214.8
+  },
+  {
+   "id": "4997a262",
+   "q": "Was Apollo 13 nominated for Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 113.7
+  },
+  {
+   "id": "d63988ba",
+   "q": "Is Bong Joon-ho the director of Parasite and OldBoy?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 197.1
+  },
+  {
+   "id": "bdad1565",
+   "q": "Has Tom Hanks has been nominated for Best Picture more than eight times?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 152.6
+  },
+  {
+   "id": "be1ddb92",
+   "q": "Was Beyoncé in the Lion King?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 164.9
+  },
+  {
+   "id": "56fccd56",
+   "q": "Did \"The Lord of the Rings\" have two installments?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 152.9
+  },
+  {
+   "id": "1b58d3b7",
+   "q": "Was Tom Cruise in 8 Mile?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 100.7
+  },
+  {
+   "id": "ac1a2fa9",
+   "q": "Is Halloween Kills a sequel to Halloween 2018?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 176.4
+  },
+  {
+   "id": "df5ea37c",
+   "q": "Did Titanic win Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 86.1
+  },
+  {
+   "id": "27c58b4a",
+   "q": "Did Clint Eastwood retire from acting?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 82.5
+  },
+  {
+   "id": "f765865a",
+   "q": "Was Wings the first Academy Award winner for Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 152
+  },
+  {
+   "id": "eff739f6",
+   "q": "Did The Broadway Melody win Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 123.5
+  },
+  {
+   "id": "5dffe029",
+   "q": "Did Grand Hotel win Best Picture?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 109.1
+  },
+  {
+   "id": "94d90f31",
+   "q": "Have Ryan Reynolds and Sandra Bullock ever starred in a movie together?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 312.9
+  },
+  {
+   "id": "7bbc3a01",
+   "q": "Did Shia LaBeouf star in the original 2007 Transformers movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 231.7
+  },
+  {
+   "id": "9d420cf2",
+   "q": "Did John Williams compose for Raiders of the Lost Ark?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 192.8
+  },
+  {
+   "id": "83b1edf0",
+   "q": "Has Tom Hanks ever been in a movie with Emma Watson?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 283.1
+  },
+  {
+   "id": "6bb1e1f2",
+   "q": "Did Jordan Peele win Best Original Screenplay for Get Out in 2018?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 200.3
+  },
+  {
+   "id": "dd37ad48",
+   "q": "Did Pink Floyd's Wish You Were Here come out the same year as Bob Dylan's Blood on the Tracks?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 461.9
+  },
+  {
+   "id": "77babf94",
+   "q": "Who is older, Justin Timberlake or Nick Carter?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 188
+  },
+  {
+   "id": "ac5a2a9b",
+   "q": "Who has more Grammys, Adele or Taylor Swift?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 164.9
+  },
+  {
+   "id": "a2db3562",
+   "q": "Did Rob Zombie or Marilyn Manson direct House of 1000 Corpses?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 178.9
+  },
+  {
+   "id": "42d870de",
+   "q": "Who is older John Lennon or Paul McCartney?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 213.5
+  },
+  {
+   "id": "a1f60c46",
+   "q": "Who was The Beatles' drummer for longer, Ringo Starr or Pete Best?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 190.2
+  },
+  {
+   "id": "7fa4dfcd",
+   "q": "Which Linkin Park album sold the most, Meteora or Hybrid Theory?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 212.2
+  },
+  {
+   "id": "25812336",
+   "q": "Who sold more albums, The Beatles or Michael Jackson?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 217
+  },
+  {
+   "id": "c4c4db18",
+   "q": "Who has more Grammy Awards, Jay-Z or Kendrick Lamar?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 204.7
+  },
+  {
+   "id": "09a16546",
+   "q": "Who is older, Drake or Lil Wayne?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 210.2
+  },
+  {
+   "id": "9b837a58",
+   "q": "Who is older, John Lennon or Lil Wayne?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 228.6
+  },
+  {
+   "id": "b97c2e22",
+   "q": "Who has sold more records in their lifetime, Cardi B or Prince?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 236.7
+  },
+  {
+   "id": "989f737e",
+   "q": "Did Justin Bieber's album Believe come out before 2011?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 203
+  },
+  {
+   "id": "76eb487f",
+   "q": "Did R.E.M. release their first album before U2?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 335.4
+  },
+  {
+   "id": "91814c7d",
+   "q": "Who is older, Jay-Z or Nas?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 194
+  },
+  {
+   "id": "b7ec88e3",
+   "q": "Who is older, Madonna or Cher?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.4
+  },
+  {
+   "id": "1d45a007",
+   "q": "Who is older, Mick Jagger or Steven Tyler?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162.4
+  },
+  {
+   "id": "f5309afe",
+   "q": "Did the Slim Shady LP come out at the same time as the 8 Mile movie?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 312.3
+  },
+  {
+   "id": "7f0d30bb",
+   "q": "Who is older, Katy Perry or Dua Lipa?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 230
+  },
+  {
+   "id": "1572764c",
+   "q": "How many studio albums have Twenty One Pilots released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 136.4
+  },
+  {
+   "id": "f0a94197",
+   "q": "How many members were in T.Rex?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 93.5
+  },
+  {
+   "id": "4e1d0b92",
+   "q": "How many members were there in the Rolling Stones?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 132
+  },
+  {
+   "id": "bdc5507a",
+   "q": "How many albums has J-Kwon released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 102.1
+  },
+  {
+   "id": "25c59adb",
+   "q": "How many members of The Black Eyed Peas are male?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.9
+  },
+  {
+   "id": "89c2a3ea",
+   "q": "How many members are in ICP?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 84.3
+  },
+  {
+   "id": "563494d8",
+   "q": "How many people were originally part of Panic! At The Disco?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 165
+  },
+  {
+   "id": "65800cc2",
+   "q": "How many members are currently in Panic! At The Disco?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 159.9
+  },
+  {
+   "id": "5030a213",
+   "q": "How many Grammy Award nominations did Drake receive in 2020?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 134.8
+  },
+  {
+   "id": "1797edd5",
+   "q": "How many years has Jennifer Lopez won Best International Female Artist at the Italian Music Awards?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 269.3
+  },
+  {
+   "id": "05be4884",
+   "q": "How many current members of AC/DC are there?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 115.5
+  },
+  {
+   "id": "c614e7b6",
+   "q": "How many pop stars has Kesha written songs for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 162.1
+  },
+  {
+   "id": "3da12a47",
+   "q": "How many bands has Jack Antonoff been frontman for?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 129.9
+  },
+  {
+   "id": "4d45c755",
+   "q": "How many Grammy Awards has Lorde won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 102.7
+  },
+  {
+   "id": "c110fb36",
+   "q": "How many Grammy Awards has Green Day won?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 117.3
+  },
+  {
+   "id": "a8cd300a",
+   "q": "How many studio albums has Bruno Mars released?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 132.1
+  },
+  {
+   "id": "8c8250b4",
+   "q": "How many studio albums does Ariana Grande have?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 135.9
+  },
+  {
+   "id": "d3ad3b2d",
+   "q": "How many members were there in the original NSYNC music group?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 210
+  },
+  {
+   "id": "c30405ba",
+   "q": "How many Michael Jackson studio albums went platinum in the U.S.?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 358.9
+  },
+  {
+   "id": "71837ea5",
+   "q": "Which Grammy Award was Grenade nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 102.6
+  },
+  {
+   "id": "55f66920",
+   "q": "Which member of Boot Camp Clik is not from Bushwick, NY?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 163.7
+  },
+  {
+   "id": "73dc942d",
+   "q": "On which KISS album did Ace Frehley not appear, even though he was on the cover?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 287.4
+  },
+  {
+   "id": "73a3d800",
+   "q": "Which cofounding members were no longer part of the Destiny's Child lineup after 2000?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 305.9
+  },
+  {
+   "id": "44877c23",
+   "q": "Which MissA members were not born in South Korea?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 135.4
+  },
+  {
+   "id": "7014ca90",
+   "q": "Which Grammy Award was Shameika nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 96.6
+  },
+  {
+   "id": "517e977c",
+   "q": "Which member of UGK is not alive?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 98.8
+  },
+  {
+   "id": "1825249b",
+   "q": "Which category of the Billboard Music Awards was Lil Wayne most recently nominated for but didn't win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 300.7
+  },
+  {
+   "id": "8a228cb9",
+   "q": "How many members of The Beatles are not alive?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 119.8
+  },
+  {
+   "id": "0d045baf",
+   "q": "Which 2021 Grammy Award was Elaine Martone nominated for, but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 129.1
+  },
+  {
+   "id": "ec55cd70",
+   "q": "Which song was not the first rock-n-roll song to hit number one in the charts?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 374.5
+  },
+  {
+   "id": "4bfd87a7",
+   "q": "Which Grammy Award was Dirty Computer by Janelle Monáe nominated for but did not win?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 179.2
+  },
+  {
+   "id": "c139e5ef",
+   "q": "Out of The Replacements' seven albums, how many did Bob Stinson not play on?",
+   "topics_ok": true,
+   "op_ok": true,
+   "path_ok": true,
+   "answer_ok": true,
+   "ms": 343.2
+  }
+ ]
+}

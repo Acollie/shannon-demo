@@ -1,0 +1,559 @@
+199293		8t9:3,zl1:4,14yq:4,14zh:4,1vic:3,1wuk:4,2rja:2
+199293 cypriot		8t9:3,zl1:4,14yq:4,14zh:4,1wuk:4
+199293 cypriot cup	8t9	
+199293 cypriot first		zl1:4
+199293 cypriot first division	zl1	
+199293 cypriot fourth		1wuk:4
+199293 cypriot fourth division	1wuk	
+199293 cypriot second		14yq:4
+199293 cypriot second division	14yq	
+199293 cypriot third		14zh:4
+199293 cypriot third division	14zh	
+199293 ekstraklasa	2rja	
+199293 fuball		1vic:3
+199293 fuball bundesliga	1vic	
+199293 fussball bundesliga	1vic	
+acrylic		36bm:2
+acrylic colour	36bm	
+acrylic paint	36bm	
+acrylic painting	36bm	
+acrylic paints	36bm	
+albpetrol	5kc4	
+aldein	2e0d	
+aldein aldino	2e0d	
+alexander lizyukov	3rk9	
+altes		1m05:2,37rf:2,5twz:3
+altes amt		5twz:3
+altes amt ebstorf	5twz	
+altes land	37rf	
+altes museum	1m05	
+avanhard kharkiv	3sc	
+avanhard simferopol	48o	
+bahadurshah i	13cr	
+bahadurshah zafar	1xtg	
+balstoge	4bc	
+bfja	16qc	
+bfja award	16qc	
+bfja awards	16qc	
+bitters	4pc7	
+bodhisattva vow beastie boys	513b	
+bodhisattva vow song	513b	
+boviolles	40vx	
+brat	5i15	5i15:2
+brat 2	4wfv	
+brat film	2m5d	
+brat simpson	36p5	
+brat song	5thf	
+brat ya karamazovy	3u44	
+brintey spears	820	
+bromeliaceae	5mkx	
+bruninho	5pmo	
+bruninho footballer born 1986	5pmo	
+catapres	5zq8	
+catapres tts	5zq8	
+catapres tts 1	5zq8	
+catapres tts 3	5zq8	
+cerm 1978	f8j	
+chalcidice peninsula	2p2a	
+chalcidice prefecture	2p2a	
+charles samaran	5yx9	
+crash	ma9,1ie0,3uwj,633s,6d6x,6evu	14ka:3,1ayq:2,2rg2:2,3fa6:4,3fsr:6,3uwj:2,4dj8:4,4ivd:2,4qi3:3,5flb:2,5ojo:3,5vnm:4,64li:4,6dby:3
+crash 1	4ivd	
+crash 1973 novel	633s	
+crash 1996 film	1ie0	
+crash 1996 movie	1ie0	
+crash 1996 novel	2ylh	
+crash 2	3fsr	
+crash 2004	ma9	
+crash 2004 film	ma9	
+crash 2005	ma9	
+crash 2005 film	ma9	
+crash 2005 movie	ma9	
+crash 3	4qi3	
+crash b	3uwj	
+crash badnicoot	1ayq	
+crash ballard novel	633s	
+crash bandcioot	1ayq	
+crash banddicoot	1ayq	
+crash bandicoot	1ayq,3uwj,4ivd	3fsr:6,4qi3:3
+crash bandicoot 1	4ivd	
+crash bandicoot 2	3fsr	3fsr:6
+crash bandicoot 2 cortex		3fsr:6
+crash bandicoot 2 cortex strikes		3fsr:6
+crash bandicoot 2 cortex strikes back	3fsr	
+crash bandicoot 3	4qi3	
+crash bandicoot 3 warped	4qi3	
+crash bandicoot 4	5ojo	
+crash bandicoot character	3uwj	
+crash bandicoot cortex strikes back	3fsr	
+crash bandicoot game	4ivd	
+crash bandicoot game series	1ayq	
+crash bandicoot landing of the titans	3fa6	
+crash bandicoot mind over mutant	4dj8	
+crash bandicoot racing	5ojo	
+crash bandicoot remastered	1ayq	
+crash bandicoot series characters	1ayq	
+crash bandicoot video game	4ivd	
+crash bandicoot warped	4qi3	
+crash bandicot	4dj8	
+crash banidcoot	1ayq	
+crash character	3uwj	
+crash che botte	21ez	
+crash corrigan	1akr	
+crash count	aq1	
+crash craddock	rp9	
+crash dance	3uwj	
+crash dave matthews band album	6d6x	
+crash dive	2rg2	
+crash dive movie	2rg2	
+crash film 2005	ma9	
+crash goes		5vnm:4
+crash goes the		5vnm:4
+crash goes the hash	5vnm	
+crash helmet	og7	
+crash invasion of bandicoots snatchers	4dj8	
+crash invasion of the bandicoot snatchers	4dj8	
+crash j g ballard	633s	
+crash j g ballard novel	633s	
+crash mind		4dj8:4
+crash mind over		4dj8:4
+crash mind over muntants	4dj8	
+crash mind over mutant	4dj8	
+crash music from and inspired by crash	ma9	
+crash music from and inspired by crash soundtrack	ma9	
+crash nitro		6dby:3
+crash nitro kart	6dby	
+crash nitro kart gba n gage	6dby	
+crash nitro kart ps2	6dby	
+crash nitro kart ps2 xbox gcn	6dby	
+crash nitro kart the sequel to crash team racing	6dby	
+crash of		3fa6:4
+crash of 29	6hn3	
+crash of silence	4l77	
+crash of the		3fa6:4
+crash of the titans	3fa6	
+crash of the titans 2	4dj8	
+crash point zero	5gqt	
+crash series	1ayq	
+crash tag		64li:4
+crash tag team		64li:4
+crash tag team racing	64li	
+crash team		5ojo:3
+crash team racing	5ojo	
+crash team racing ctr	5ojo	
+crash test		14ka:3
+crash test dummies	14ka	
+crash test dummies band	14ka	
+crash the boards	6hv8	
+david given name	34	
+deistically	5c7a	
+directorates general	1ek7	
+directorates general of the european commision	1ek7	
+donghuantielu	1xix	
+dourges	2qas	
+dunblane	4lc7	
+dunblane high school	4lc7	
+dunblane perthshire	4lc7	
+dunblane primary school	4lc7	
+edward carrere	1b2d	
+emir	ruv,tn4	rw0:2,1sp3:2,1y5b:2,3fg8:2,4s17:2,4th7:2,510k:2,57yj:2,5lhl:2,6ctw:2
+emir abd al qadir	4wch	
+emir abdel kader al jazairi	4wch	
+emir abdelkader	4wch	
+emir abdullah	1bd2	
+emir abdur rahman khan	56ji	
+emir alim khan	36p6	
+emir bajrami	4th7	
+emir custurica	rw0	
+emir dzafic	57yj	
+emir faccioli	5lhl	
+emir faisal	3vhi	
+emir feisal i	3vhi	
+emir first name	tn4	
+emir given name	tn4	
+emir hadzic	3fg8	
+emir hadzihafizbegovic	1sp3	
+emir khalifa bin hamad al thani	60cv	
+emir kujovic	4s17	
+emir kusturica	rw0	
+emir kusturica films	rw0	
+emir mkademi	510k	
+emir name	tn4	
+emir nemanja kusturica	rw0	
+emir obuca	6ctw	
+emir of granada	15ur	
+emir of katsina	2lqc	
+emir spahic	1y5b	
+emir title	ruv	
+emmanouil glezos	2r7j	
+emmanouil papamakarios	4jeg	
+entebbe	1w5o	1fuj:2,5p7o:3
+entebbe airport	5p7o	
+entebbe airport raid 1976	1fuj	
+entebbe city	1w5o	
+entebbe hijacking	1fuj	
+entebbe incident	1fuj	
+entebbe international	5p7o	5p7o:3
+entebbe international airport	5p7o	
+entebbe operation	1fuj	
+entebbe raid	1fuj	
+entebbe uganda	1w5o	
+epicrocis	vil	
+estouches	356o	
+etuc	4las	
+fagersta	4n2y	229h:2
+fagersta kommun	229h	
+fagersta municipality	229h	
+fagersta sweden	4n2y	
+famuyiwa	5ey1	
+fbcdn net	owh	
+furnishers	6flw	
+giggin	6hq2	
+gilapicos	zae	
+groscavallo	3m6y	
+groucho	ili	ili:2
+groucho marx	ili	
+groucho marxism	ili	
+groucho marxist	ili	
+hamit		2ktz:2
+hamit altintop	2ktz	
+hamit altntop	2ktz	
+hasan		whu:3,3ftq:2,3sl9:2,3uxe:3,3x6y:2,3yzb:2,4gvo:2,4lnm:4,4wv6:2,54ls:2,5bop:3,5cq9:3,5okp:3,5qoh:3,5yp3:2,66w7:3,67hh:3,68fb:2,6e5v:2
+hasan abu		5okp:3
+hasan abu zaid	5okp	
+hasan ahmet		67hh:3
+hasan ahmet sar	67hh	
+hasan ahmet sari	67hh	
+hasan al		3uxe:3,5cq9:3
+hasan al askari	3uxe	
+hasan al basri	5cq9	
+hasan al mujtaba	whu	
+hasan ali		5qoh:3,66w7:3
+hasan ali durtuluk	5qoh	
+hasan ali yucel	66w7	
+hasan askari	3uxe	
+hasan b ali	whu	
+hasan basri	5cq9	
+hasan bin ali a s	whu	
+hasan e askari	3uxe	
+hasan e sabbah	5bop	
+hasan erbey	6e5v	
+hasan gultang	3x6y	
+hasan hakan hacbektasoglu	3z3b	
+hasan hakan hacibektasoglu	3z3b	
+hasan i		5bop:3
+hasan i basra	5cq9	
+hasan i sabbah	5bop	
+hasan ibn		whu:3
+hasan ibn ali	whu	
+hasan ibn ali al askari	3uxe	
+hasan ibn ali ibn abi talib	whu	
+hasan ibn buya	57sd	
+hasan ibn saba	5bop	
+hasan ii	rpp	
+hasan kabze	3ftq	
+hasan moghaddam	1ka3	
+hasan name	3cz	
+hasan nasrallah	4wv6	
+hasan okan gultang	3x6y	
+hasan ozer	3yzb	
+hasan pepic	5yp3	
+hasan reza	4lnm	4lnm:4
+hasan reza rural		4lnm:4
+hasan reza rural district	4lnm	
+hasan rizvic	54ls	
+hasan rowhani	25ce	
+hasan sabbah	5bop	
+hasan salih kabze	3ftq	
+hasan vezir	4gvo	
+hasan vural	3sl9	
+hasan yigit	68fb	
+iasmin		52f6:2
+iasmin latovlevici	52f6	
+indana	b7	
+james dwight		1b3u:3
+james dwight dana	1b3u	
+james milne		5vyd:3
+james milne robb	5vyd	
+jathas	5rn0	
+jussi69	2irw	
+kailali	phn	phn:2
+kailali district	phn	
+khimki	16np	
+khimki bc	ns4	
+khimki moscow oblast	ns4	
+khimki moscow region	ns4	
+khimki moscow region bc	ns4	
+khimki urban okrug	16np	
+khrt	1yua	
+kiwiland	1r	
+kohkiluyeh and buyer ahmad	11j9	
+kohkiluyeh and buyer ahmad province	11j9	
+kohkiluyeh va buyer ahmad	11j9	
+kohkiluyeh va buyer ahmadi province iran	11j9	
+kolobrzeski	1saz	
+lambsriver westmoreland jamaica	in	
+latera	3ue6	
+ldu	5wv	
+ldu de quito	5wv	
+ldu loja	zbp	
+ldu portoviejo	10lj	
+ldu quito	5wv	
+lindenstrabe	2089	
+maceda	42nx	
+maceda ourense	42nx	
+madison	1ss,zpl,10gp,1dzz,1xyu,3knn,3qgw,4cx0	jy9:2,mvh:2,orc:2,qzu:2,va4:2,yuo:3,111u:2,1345:2,14b0:2,17h4:2,1j3w:2,1q9n:2,1qwd:2,2cgb:2,2hyy:2,2oq6:2,2uwi:2,3dmt:2,3yz7:2,4e3e:2,4k6v:2,5ixj:2
+madison book company	nes	
+madison books	1tfe	
+madison center	1dzz	
+madison center connecticut	1dzz	
+madison centre north york	ok8	
+madison city dane county wisconsin	1ss	
+madison city wi	1ss	
+madison city wisconsin	1ss	
+madison co al	qzu	
+madison co alabama	qzu	
+madison college virginia	q89	
+madison com	xzy	
+madison connecticut	1dzz	
+madison county	jy9,mvh,orc,qzu,va4,111u,1345,14b0,17h4,1j3w,1q9n,1qwd,2cgb,2hyy,2oq6,2uwi,3dmt	
+madison county al	qzu	
+madison county alabama	qzu	
+madison county ar	111u	
+madison county arkansas	111u	
+madison county fl	2oq6	
+madison county florida	2oq6	
+madison county ga	2hyy	
+madison county georgia	2hyy	
+madison county high school virginia	2cgb	
+madison county ia	14b0	
+madison county il	jy9	
+madison county illinois	jy9	
+madison county in	orc	
+madison county indiana	orc	
+madison county iowa	14b0	
+madison county kentucky	1345	
+madison county ky	1345	
+madison county mississippi	1j3w	
+madison county missouri	1q9n	
+madison county mo	1q9n	
+madison county montana	1qwd	
+madison county ms	1j3w	
+madison county mt	1qwd	
+madison county nc	2uwi	
+madison county ne	3dmt	
+madison county nebraska	3dmt	
+madison county new york	va4	
+madison county north carolina	2uwi	
+madison county ny	va4	
+madison county oh	mvh	
+madison county ohio	mvh	
+madison county tennessee	17h4	
+madison county tn	17h4	
+madison county va	2cgb	
+madison county virginia	2cgb	
+madison cross	1fok	
+madison ct	1dzz	
+madison delagarza	4et	
+madison elementary school pasadena ca	1kt	
+madison elementary school pasadena california	1kt	
+madison fire department	1ss	
+madison ga	3knn	
+madison garden	yuo	
+madison genesis	4k6v	
+madison georgia	3knn	
+madison heights	3yz7	
+madison heights mi	3yz7	
+madison heights michigan	3yz7	
+madison hubbell	4e3e	
+madison hubble	4e3e	
+madison huble	4e3e	
+madison in	10gp	
+madison in micropolitan statistical area	10mo	
+madison in msa	10mo	
+madison in sa	10mo	
+madison indiana	10gp	
+madison indiana micropolitan area	10mo	
+madison james	j9w	
+madison kramer	51xa	
+madison lee	mpb	
+madison lovato	4et	
+madison michelle pettis	5ixj	
+madison mississippi	3qgw	
+madison ms	3qgw	
+madison new jersey	zpl	
+madison nj	zpl	
+madison pettis	5ixj	
+madison police	1ss	
+madison police wisconsin	1ss	
+madison sd	1xyu	
+madison south dakota	1xyu	
+madison square		yuo:3
+madison square garden	yuo	
+madison square garden 1968	yuo	
+madison square garden 4	yuo	
+madison square garden theater	yuo	
+madison square garden training center	yuo	
+madison square gardens	yuo	
+madison station mississippi	3qgw	
+madison that s so raven	433d	
+madison township middlesex county new jersey	xtu	
+madison township new jersey	xtu	
+madison tv series	4cx0	
+madison university of wisconsin	b0	
+madison wi	1ss	
+madison wis	1ss	
+madison wisconsin	1ss	
+madison wisconsin fire department	1ss	
+madison wisconsin police department	1ss	
+madison yard	2ov5	
+marsilius	3jw5	
+marsilius feghinensis	3jw5	
+marsilius fici	3jw5	
+marsilius ficinius	3jw5	
+marsilius ficino	3jw5	
+marsilius vicinus	3jw5	
+micklegard	e7	
+moghilef	774	
+monkei	3tf3	
+mussal iraq	9bh	
+mytf1 fr	59m	
+neubabelsberg	1gdx	
+nkf	1mz3	
+novoarkhangelsk	usj	
+oglat beraber	4n8r	
+oreillynet	4pu8	
+orzinuovi	125s	
+parish	wt,8iw,j06	5ik:2,y6d:3,32qo:3,4q7d:6,5rb3:3
+parish administrative division	j06	
+parish administrative subdivision	j06	
+parish assemblies	wt	
+parish board of election supervisors	38f4	
+parish board of elections supervisors	38f4	
+parish capital	4e8	
+parish church	5ik	
+parish church parochial church	5ik	
+parish civil	j06	
+parish country subdivision	j06	
+parish crooks	asi	
+parish denmark	32qo	
+parish geographical subdivision	j06	
+parish house	2h69	
+parish kirk	5ik	
+parish lesane crooks	asi	
+parish minister	1tb	
+parish municipality	j06	
+parish of		y6d:3,32qo:3,4q7d:6,5rb3:3
+parish of ballina	41qp	
+parish of byron	1g20	
+parish of denmark	32qo	
+parish of govan	65q	
+parish of grant louisiana	2bdx	
+parish of jackson louisiana	378n	
+parish of jamaica	5rb3	
+parish of jefferson louisiana	2ghy	
+parish of natchitoches	105e	
+parish of orleans	iq	
+parish of south lismore	fe5	
+parish of spain	2va	
+parish of st peter port	pnf	
+parish of the		4q7d:6
+parish of the church		4q7d:6
+parish of the church of		4q7d:6
+parish of the church of sweden	4q7d	
+parish of thurso	35cf	
+parish of venezuela	y6d	
+parish of west feliciana	1k63	
+parish of wigan	3yy	
+parish president	j06	
+parish priest	trc	
+parish sarah	3r0a	
+parish seat	4e8	
+parish seats	4e8	
+parish shed mass grave	r6n	
+parish spain	2va	
+pashto	aqn	
+pashto language	aqn	
+pashto macrolanguage	aqn	
+pashto speaking people	ks8	
+paul goodman	3hp3	
+paul goodman comments	3hp3	
+paul goodman writer	3hp3	
+paul goodman writer comments	3hp3	
+paul hubschmid	xvh	
+phutthayotfa		2t83:2
+phutthayotfa chulalok	2t83	
+plouegat		2rue:2,3e8b:2
+plouegat guerand	3e8b	
+plouegat moysan	2rue	
+pseudanaltes	556b	
+puiseux		1yub:2,2itv:3,32bo:3,3yf2:3,425g:3
+puiseux en		2itv:3,32bo:3,3yf2:3
+puiseux en bray	3yf2	
+puiseux en france	2itv	
+puiseux en retz	32bo	
+puiseux le		425g:3
+puiseux le hauberger	425g	
+puiseux pontoise	1yub	
+puiseux victor	5y5n	
+puiseux victor alexandre	5y5n	
+quartier		5b6a:4,6elg:4
+quartier de		6elg:4
+quartier de la		6elg:4
+quartier de la sorbonne	6elg	
+quartier v		5b6a:4
+quartier v i		5b6a:4
+quartier v i p	5b6a	
+rajnala	2kqr	
+regulator	64fo	
+regulator economics	64fo	
+resilio		2iiz:2
+resilio company	2iiz	
+resilio inc	2iiz	
+resilio sync	2iiz	
+rihannavevo	8bq	
+robert di nero	685	
+robert herres	3ua1	
+robert hurley wordsworth	5srr	
+saturniid	9rx	
+saturniid moth	9rx	
+scattered		47xg:6
+scattered islands	47xg	47xg:6
+scattered islands in		47xg:6
+scattered islands in the		47xg:6
+scattered islands in the indian		47xg:6
+scattered islands in the indian ocean	47xg	
+severine	4irg,5z70	
+severine first name	4irg	
+severine given name	4irg	
+st matthew	vy5	
+st matthew s day	vy5	
+st matthew the evangelist	vy5	
+stadelsches kunstinstitut	2r1x	
+stadelsches kunstinstitut und stadtische galerie	2r1x	
+stadelsches kunstinstitut und stadtische galerie frankfurt am main	2r1x	
+stuler	4qnj	
+tasikmalaya	2uyy	
+taxsin	20jw	
+the cockney rejects	5pn2	
+the diverse city band	1aza	
+the fleet		4gb4:4
+the fleet s		4gb4:4
+the fleet s in	4gb4	
+the fleet s in film	4gb4	
+thomas eyre forrest hughes	50mr	
+tonco	2yux	
+trefcon	2jqb	
+unfrozen cave man lawyer	jmu	
+uttarpradesh	v4	
+vanlay	1hme	
+verdelot	1h7u	
+verdelot seine et marne	1h7u	
+vestmanna islands	1pwd	
+wirtschaftsuniversitaet wien	u0g	
+wodynie commune	146v	
+wydot	5ri	
+xaronval	1nu3	
+zielfingen	5apn	
+zyzz	4ztg	
+zyzz s bodybuilding bible	4ztg	

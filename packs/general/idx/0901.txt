@@ -1,0 +1,1502 @@
+a c		2u9:4,3n4:4,4le:3,5un:4,620:3,7rn:3,aiu:3,elm:5,n35:4,ozv:5,w0n:3,10de:4,12ra:3,1ezj:3,1jbs:3,1so2:4,1t6a:3,1w93:4,24pi:3,266a:5,26pg:3,2i9y:4,2p0j:4,3gq1:3,4oxb:4,4q0r:3,52tw:3,54lh:3,5j4o:3,5p95:5,5pib:4,602d:4
+a c aitken	4dzj	
+a c ajaccio	4le	
+a c arezzo	57k	
+a c asti	1pmk	
+a c b lovell	23j8	
+a c barnechea	n35	n35:4
+a c barnechea city	n35	
+a c bellaria		elm:5
+a c bellaria igea		elm:5
+a c bellaria igea marina	elm	
+a c belluno		1so2:4
+a c belluno 1905	1so2	
+a c bhaktivedanta		5p95:5
+a c bhaktivedanta prabhupada	5p95	
+a c bhaktivedanta swami	5p95	5p95:5
+a c bhaktivedanta swami prabhupada	5p95	
+a c black	54lh	
+a c black publishers	54lh	
+a c boca san lazzaro	513x	
+a c carpenedolo	1ezb	
+a c carpi	7rn	
+a c cattolica calcio	5clo	
+a c cesena	2rp	
+a c chievo	36v	
+a c chievo verona	36v	
+a c chievoverona	36v	
+a c chioggia sottomarina	46io	
+a c clarke	741	
+a c cope scholar award	13t1	
+a c crema		5pib:4
+a c crema 1908	5pib	
+a c crispin	4q0r	
+a c cuneo		ozv:5
+a c cuneo 1905	ozv	ozv:5
+a c cuneo 1905 olmo	ozv	
+a c d		266a:5
+a c d asti	1pmk	
+a c d foggia calcio	4o1	
+a c d giacomense	1t6a	
+a c d hinterreggio	5dmg	
+a c d libertaspes	4op	
+a c d mezzocorona	24pi	
+a c d nardo	4foi	
+a c d paterno 2004	5wxc	
+a c d pro piacenza 1919	6egb	
+a c d sant angelo 1907	69sd	
+a c d treviso 2013	4tn	
+a c d trissino		266a:5
+a c d trissino valdagno	266a	
+a c d virtus entella	d9i	
+a c delta calcio rovigo	4947	
+a c delta porto tolle	4947	
+a c delta porto tolle rovigo	4947	
+a c e s e viareggio	a4u	
+a c f brescia calcio femminile	2luo	
+a c f brescia femminile	2luo	
+a c f fiorentina	1yx	
+a c f milan	4qfj	
+a c f torino	4ibu	
+a c fanfulla		10de:4
+a c fanfulla 1874	10de	
+a c feralpisalo	mbz	
+a c fiorentina	1yx	
+a c firenze rondinella	1j0r	
+a c forli	gcc	
+a c giacomense	1t6a	
+a c grayling	52tw	
+a c haddon	2vfy	
+a c imolese	2b7k	
+a c isola		2p0j:4
+a c isola liri	2p0j	
+a c juvenes	1w93	1w93:4
+a c juvenes dogana	1w93	
+a c l u	k7d	
+a c la dominante	27d	
+a c lecco	5vo	
+a c legnano	aiu	
+a c libertas	5j4o	
+a c liguria	27d	
+a c lugano	4iv	
+a c lyles	3gq1	
+a c lyles comments	3gq1	
+a c maceratese	wu2	
+a c mantova	5fk	
+a c martin	38b5	
+a c martina	crd	
+a c mcclurg	1ezj	
+a c mcclurg and company	1ezj	
+a c mcclurg co	1ezj	
+a c meda	2i9y	2i9y:4
+a c meda 1913	2i9y	
+a c mestre	2ch7	
+a c mezzocorona	24pi	
+a c milan	1j7	
+a c miller	b79	
+a c monfalcone	4jfo	
+a c monopoli	1hc8	
+a c montichiari	16jg	
+a c monza	3bl	
+a c monza brianza 1912	3bl	
+a c nagano parceiro	tk9	
+a c nocerina	9lm	
+a c nuova valdagno	266a	
+a c o		602d:4
+a c o d	602d	
+a c palazzolo	1r0l	
+a c palazzolo 1913	1r0l	
+a c palazzolo lombardy	1r0l	
+a c paranavai	2veg	
+a c parma	1yy	
+a c paterno 2004	5wxc	
+a c pavia	65m	
+a c perugia	2u9	2u9:4
+a c perugia calcio	2u9	
+a c perugia calcio in european football	2u9	
+a c perugia umbria	2u9	
+a c pigou	5cz1	
+a c pisa	3wb	
+a c pisa 1909	3wb	
+a c pisa 1909 s s d	3wb	
+a c pistoiese	5x1	
+a c prato	620	
+a c pro piacenza 1919	6egb	
+a c pro sesto	cn5	
+a c pro vercelli	5za	
+a c r		5un:4
+a c r messina	5un	
+a c reggiana	3n4	3n4:4
+a c reggiana 1919	3n4	
+a c renate	12ra	
+a c rimini	6up	
+a c rimini 1912	6up	
+a c rodengo		4oxb:4
+a c rodengo saiano	4oxb	
+a c salo valsabbia	mbz	
+a c sambonifacese	26pg	
+a c sambonifacese don bosco	26pg	
+a c sandona 1922	3aot	
+a c sangiovannese	eeg	
+a c sangiovannese 1927	eeg	
+a c sansovino	1jbs	
+a c sant angelo 1907	69sd	
+a c savoia 1908	gsg	
+a c seward	3hlo	
+a c siena	3dx	
+a c st louis	1d1w	
+a c swinburne	4ycz	
+a c tait	54gh	
+a c thirulokachandar	w0n	
+a c tirulokchandar	w0n	
+a c torino	1up	
+a c trento s c s d	myb	
+a c treviso	4tn	
+a c trilogchander	w0n	
+a c tuttocuoio 1957 san miniato	4gjf	
+a c venezia	34f	
+a c viareggio	a4u	
+a c vila mea	40js	
+a c viseu	ehr	
+a c voghera	1hox	
+acadra	1sqw	
+ael 1964	3e2j	
+ael fc	22s	
+ael kalloni f c	e4r	
+ael kalloni f c seasons	e4r	
+ael kallonis	e4r	
+ael larissa	3e2j	
+ael larissa f c	46r	
+ael larissa fc	46r	
+ael lemesos	22s	
+ael limassol	22s	22s:3
+ael limassol f c	22s	
+ael limassol fc	22s	
+agathiyan	3szu	
+anthophora	56p7	
+arcobaleno selvaggio	40pn	
+bb	44m	
+bb 1	4dx7	
+bb 10	588k	
+bb 11	531b	
+bb 12	5kfp	
+bb 13	5ev9	
+bb 2	3lcq	
+bb 20	5t1i	
+bb 21	5t1j	
+bb 3	4476	
+bb 39	2j55	
+bb 4	4tc3	
+bb 5	3mpg	
+bb 56	45eg	
+bb 6	4lw6	
+bb 7	56tf	
+bb as	1u5f	
+bb au	61qc	
+bb bass clarinet	r6l	
+bb booba song	2163	
+bb joyce bernal	1oay	
+bb king	ehi	
+bb maj	74y	
+bb major	74y	
+bb mccullum	5lcu	
+bb minor	1k11	
+bb new york city subway service	15e1	
+bb nycs	15e1	
+bb pilipinas	5blm	
+bb t atlanta open	1l69	
+bb uk	30oq	
+bb us	2hcy	
+bb usa	2hcy	
+bedienzwang	4nwx	
+berthez	3k45	
+beunardeau	4qjw	
+bevnet	8oz	
+bhopal	7ob	2ar:2,4j1t:5
+bhopal a		4j1t:5
+bhopal a prayer		4j1t:5
+bhopal a prayer for		4j1t:5
+bhopal a prayer for rain	4j1t	
+bhopal city	7ob	
+bhopal district	2ar	
+bhopal india	7ob	
+bhopal madhya pradesh	7ob	
+bhopal prayer for rain	4j1t	
+bolandshahr	5hbi	
+boltalia	87v	
+brabin charles	roa	
+bromoergocriptine	45ux	
+bunin	18rm	
+bunin ivan alekseyevich	18rm	
+cafasse	3amf	
+cerretto		37hw:2
+cerretto langhe	37hw	
+ceyreste	425l	
+chichi to kuraseba	5w23	
+childerbert i	39y4	
+civ2	5zxx	
+civ2 mge	5zxx	
+columnea	69if	
+combs		1gbx:3
+combs la		1gbx:3
+combs la ville	1gbx	
+confederacao brasileira de desportos	z6m	
+confederacao brasileira de futebol	z6m	
+confederacao sul americana de futebol	ei7	
+counts of ardennes	1g2n	
+counts of drap	30h6	
+counts of neuenburg	60n	
+counts of rouen	3q5i	
+counts of schwarzburg	5e8m	
+daengda	49s7	
+david watkin	l1t	
+david watkin cinematographer	l1t	
+dilly		3wgy:2
+dilly knox	3wgy	
+dilly s rodding method	3wgy	
+diniyar		31bd:2
+diniyar bilyaletdinov	31bd	
+egris abkhazia kingdom	4li0	
+ergue		21j3:2
+ergue gaberic	21j3	
+eurotowns	47zq	47zq:2
+eurotowns network	47zq	
+fc trollhattan	2pmg	
+french	z,f4f,2cq7	xj:4,1u6:3,2sy:2,3mj:3,3to:3,4k6:2,4t7:2,5g8:6,9nl:2,9qp:2,a2r:2,aev:2,au6:3,d66:3,dyw:3,f4u:2,f9b:3,goz:3,gti:3,hd1:4,k9v:4,m6g:4,mim:2,p11:5,sad:4,tva:3,ui7:4,w9v:2,10j2:3,126s:4,138j:2,15ol:2,1bb7:4,1cgc:5,1jhu:5,1jmm:2,1qyn:2,1tcu:2,1uyw:3,1yq3:2,1yxo:4,1z3a:2,21qk:2,27n5:2,2gsc:3,2igw:4,3fxt:2,3n0q:3,3uzg:3,3xb0:2
+french 3rd republic	d66	
+french 4th republic	3uzg	
+french 5th republic	57jr	
+french academie des sciences	xj	
+french academy		xj:4,m6g:4
+french academy of		xj:4,m6g:4
+french academy of inscription	2fu	
+french academy of moral and political sciences	3h5	
+french academy of painting	ad3	
+french academy of sciences	xj	
+french academy of technologies	m6g	
+french action	cuw	
+french actress rachel	3i3w	
+french aerospace corporation	1dkj	
+french aerospace industries association	6b11	
+french air		au6:3
+french air army	au6	
+french air defense	au6	
+french air force	au6	
+french air force academy	3b4v	
+french air force escadron 01 002	6cip	
+french air service	au6	
+french aircraft carrier charles de gaulle	47c1	
+french aircraft carrier charles de gaulle 1994	47c1	
+french algeria	1z3a	
+french algerian	1z3a	
+french algerian war	5b6	
+french alpine club	15pl	
+french alternative energies and atomic energy commission	3lby	
+french amateur league	dbs	
+french american	27n5	f9b:3
+french american foundation	f9b	
+french americans	27n5	
+french and		hd1:4
+french and indian	hd1	hd1:4
+french and indian war	hd1	
+french and indian war proclamation	hd1	
+french and indiana war	hd1	
+french annam	44v3	
+french anthem	140w	
+french anti semitism	zfj	
+french archaeological school of athens	5k8m	
+french armed		1uyw:3
+french armed forces	1uyw	
+french army	4t7	
+french arrondissements	2kh	
+french atlantic affair	23k6	23k6:4
+french atomic energy commission	3lby	
+french based		4pr1:4
+french based creole	4pr1	4pr1:4
+french based creole language	4pr1	
+french based creole languages	4pr1	
+french based creoles	4pr1	
+french based pidgin	4pr1	
+french based pidgins	4pr1	
+french bassoon	9mo	
+french bay	uab	
+french bean 2007 film	ttf	
+french bullet train	5o8	
+french cabinet	1jvr	
+french campaign	8jq	
+french campaign in egypt	44jm	
+french campaign in italy	1ieh	
+french can can	w9v	
+french canada	3dp0	
+french canadian	3dp0,5um0	
+french canadian language	3dp0	
+french canadian people	5um0	
+french canadians	5um0	
+french cancan	w9v	
+french canton	kw	
+french cantons	kw	
+french carrier charles de gaulle	47c1	
+french casement	m43	
+french castles	y4	
+french catholics in the united states	27n5	
+french cea	3lby	
+french centre national de la recherche scientifique	bt7	
+french cerdagne	mim	
+french cerdanya	mim	
+french cesars	yy2	
+french champagne	3rcy	
+french championships	9qp	
+french civil		126s:4
+french civil aviation		126s:4
+french civil aviation university	126s	
+french civil war	sad	
+french civil wars	sad	
+french client republic	24ac	
+french client state	24ac	
+french coast	669d	
+french colonial vietnam	138j	
+french colonies in north america	1jto	
+french colonization of algeria	1z3a	
+french colorado	2ta8	
+french commune	14	
+french communes	14	
+french communist		3mj:3
+french communist party	3mj	
+french communist party pcf	3mj	
+french communist resistance	3xb0	
+french comte	sx5	
+french congregation of the oratory	m3x	
+french connection	u4q	tva:3,u4q:3
+french connection 2	tva	
+french connection film	u4q	
+french connection ii	tva	
+french conquest		4djr:4
+french conquest of		4djr:4
+french conquest of algeria	4djr	
+french conquest of egypt	44jm	
+french constitution of 1946	3uzg	
+french constitutional council	5dia	
+french constitutional counsil	5dia	
+french cooking	a2r	
+french council of ministers	1jvr	
+french council of state	43in	
+french creole	4pr1	
+french creoles	4pr1	
+french crns	bt7	
+french croix de guerre	2o36	
+french croix de guerre with palm	2o36	
+french cuisine	a2r	
+french currency	21qk	
+french department	739	
+french deputies	3o43	
+french detective		1lck:3
+french disease	wh1	
+french division 1	9px	
+french division 2	bkt	
+french dog blues	3nhl	
+french doors	nqg	
+french election 2007	41av	
+french election 2012	4hkx	
+french elections 2007	41av	
+french elections 2012	4hkx	
+french empire 1804 1815	jdx	
+french empire 1852 1870	ydc	
+french empire 18521870	ydc	
+french empire style	4q97	
+french encyclopedistes	8it	
+french entomological society	n6i	
+french existentialism	34nf	
+french expedition to australia	1pwf	
+french expedition to map australia	1pwf	
+french experience in vietnam	138j	
+french federation		1jhu:5
+french federation of		1jhu:5
+french federation of ice		1jhu:5
+french federation of ice sports	1jhu	
+french feminists	6oj	
+french fifth		57jr:3
+french fifth republic	57jr	
+french figure		1bb7:4
+french figure skating		1bb7:4
+french figure skating championships	1bb7	
+french first		goz:3
+french first empire	jdx	
+french first republic	goz	
+french flag	3tn3	
+french food	a2r	
+french football		3to:3
+french football association	3to	
+french football federation	3to	
+french foreign legion recruit training	1i29	
+french foreign legionnaire	1i29	
+french foreign minister	354y	
+french foreign ministry	354y	
+french fort cove new brunswick	wzw	
+french fourth		3uzg:3
+french fourth republic	3uzg	
+french franc	21qk	
+french francs	21qk	
+french freemasonry	4jj0	
+french fried		2gsc:3
+french fried potato	6fxh	
+french fried potatoes	6fxh	
+french fried vacation	2gsc	
+french fried vacation 2	2wv7	
+french fried vacation 3	38ry	
+french fries	6fxh	
+french frys	6fxh	
+french gaelic	z	
+french gastronomy	a2r	
+french gendarmerie	33ve	
+french german war	2gh	
+french government	1jvr	
+french government ministers	1jvr	
+french gp	dyw	
+french grand		dyw:3
+french grand prix	dyw	
+french green party	wdc	
+french greens	wdc	
+french guiana	aev	2igw:4
+french guiana football		2igw:4
+french guiana football team	2igw	
+french guiana military	1uyw	
+french guiana national football team	2igw	
+french guiana regional football team	2igw	
+french guinea military	1uyw	
+french guyana	aev	
+french guyana national football team	2igw	
+french guyane	aev	
+french harp	2qv	
+french highest football division	9px	
+french hip		10j2:3
+french hip hop	10j2	
+french hiphop	10j2	
+french hockey league	cnj	
+french horn	6ud	
+french hornist	6ud	
+french horns	6ud	
+french house	1yq3	
+french house music	1yq3	
+french ice hockey league	cnj	
+french ice sport federation	1jhu	
+french ice sports federation	1jhu	
+french impressionism	5i0	
+french impressionists	5i0	
+french in algeria	1z3a	
+french in the gaspe	3hzf	
+french indian war	hd1	
+french indo china	138j	
+french indochina	138j	
+french indochina war	eiu	
+french indochinese union	138j	
+french institute for research in computer science and automation	1c9f	
+french institute for research in computer science and control	1c9f	
+french institute of political science	1pk	
+french international school	6cz2	
+french invasion		k9v:4,44jm:6
+french invasion of		k9v:4,44jm:6
+french invasion of egypt	44jm	44jm:6
+french invasion of egypt 1798	44jm	
+french invasion of egypt and		44jm:6
+french invasion of egypt and syria	44jm	
+french invasion of russia	k9v	
+french invasion of russia 1812	k9v	
+french invasion of scotland 1385	19om	
+french invasions	3vl	
+french invasions of italy renaissance wars	rli	
+french john denton pinkstone 1st earl of ypres	29b6	
+french jura	bsp	
+french king charles ii	zar	
+french king lothair	3glx	
+french king louis ii	1jth	
+french king louis iii	4l1g	
+french king louis iv	2ujh	
+french king robert i	2f2c	
+french kingdom	46h	
+french kiss	1tcu	
+french kiss 1995 film	1tcu	
+french kiss film 1995	1tcu	
+french kiss program	45ac	
+french kiss records	1ptt	
+french kiss tv series	45ac	
+french kissers	578v	578v:3
+french l	z	
+french langauge	z	
+french language	z	
+french language in europe	z	
+french language in india	z	
+french le journal de spirou	a2p	
+french league 1	9px	
+french league cup	357z	
+french league for the defense of the rights of man and the citizen	plb	
+french legionairre	1i29	
+french legionnaire	1i29	
+french liberation movement	3xb0	
+french lieutenant s woman	13g2	13g2:5
+french line	2nkd	2nkd:3
+french look	aqd	
+french lycee	6cz2	
+french lyric tragedy	8tp	
+french man	f4f	
+french marshal	4rm	
+french marshals	4rm	
+french milice		5w6l:4
+french milice in		5w6l:4
+french milice in vichy	5w6l	
+french military	1uyw	
+french militia	5w6l	
+french minister of foreign affairs	354y	
+french ministry of foreign affairs	354y	
+french mistake	1csa	
+french montana	1jdj	
+french moralist	5qdo	
+french moralists	5qdo	
+french motorcycle		ui7:4
+french motorcycle grand		ui7:4
+french motorcycle grand prix	ui7	
+french narrator	q39	
+french national		65lj:6
+french national academy of dramatic arts	5br	
+french national anthem	140w	
+french national assembly	3o43	
+french national center for scientific research	bt7	
+french national center for scientific research cnrs	bt7	
+french national centre for judicial studies	65lj	
+french national centre for scientific research	bt7	
+french national film centre	50g3	
+french national front	bv5	
+french national gendarmerie	33ve	
+french national institute for research in computer science and control	1c9f	
+french national magistracy school	65lj	
+french national order of merit	4nmg	
+french national parliament	3o43	
+french national railway company	141	
+french national rugby league team	u0s	
+french national rugby union team	2ub	
+french national school		65lj:6
+french national school for		65lj:6
+french national school for magistrate	65lj	
+french national school for the		65lj:6
+french national school for the judiciary	65lj	
+french national science research center	bt7	
+french national science research centre	bt7	
+french national soccer	1n4	
+french national space agency	34se	
+french nationals figure skating	1bb7	
+french naval academy	hd5	
+french naval college	hd5	
+french naval school	hd5	
+french navy	2sy	
+french navy composition	2sy	
+french netherlands	4019	
+french north america	1jto	
+french northern railway	3jd0	
+french oboe	4jp	
+french occupation zone	tia	
+french occupied comoros	8nl	
+french occupied egypt	44jm	
+french open	9qp	
+french open 2001	4lo9	
+french open 2007	37ih	
+french open 2008	3bdy	
+french open 2009	2p1v	
+french open 2011	3d36	
+french open 2012	26ip	
+french open 2013	10kp	
+french open 2014	47f0	
+french open 2015	3r3j	
+french open 2016	2kew	
+french open tennis	9qp	
+french order		1cgc:5
+french order of		1cgc:5
+french order of academic		1cgc:5
+french order of academic palms	1cgc	
+french order of arts and letters	2zc	
+french order of merit	4nmg	
+french overseas departments	b	
+french pacific	4k6	
+french paratroops	1uyw	
+french parliament	5h9r	
+french parliment	5h9r	
+french part of saint domingo	1kyv	
+french partisans	3xb0	
+french people	f4f	
+french people in the united states	27n5	
+french person	f4f	
+french playboy	32r1	
+french polynesia	4k6	
+french polynesia france	4k6	
+french polynesia history	4k6	
+french polynesia national football team	92c	
+french polynesian	4k6	
+french popular		46me:3
+french popular party	46me	
+french postcards	3fxt	
+french postcards film	3fxt	
+french powder mystery		6blv:4
+french prefect	1zwv	
+french prefects	1zwv	
+french presidency	fg8	
+french president	fg8	
+french president of the republic	fg8	
+french presidential election	6fan	
+french presidential election 1974	4xc8	
+french presidential election 1981	5pm1	
+french presidential election 1988	55fv	
+french presidential election 1995	5iut	
+french presidential election 2002	2hbq	
+french presidential election 2007	41av	
+french presidential election 2012	4hkx	
+french presidential election 2017	x1m	
+french presidential election of 1981	5pm1	
+french presidential election of 2007	41av	
+french presidential election of 2017	x1m	
+french presidential elections	fg8,6fan	
+french presidential elections 1981	5pm1	
+french presidential elections 1995	5iut	
+french presidential elections 2002	2hbq	
+french presidential elections 2007	41av	
+french presidential elections 2012	4hkx	
+french prime minister	haz	
+french primitives	70p	
+french privateers	5qy	
+french pro a league	2a2e	
+french protectorate		4l7d:4
+french protectorate in tunisia	4l7d	
+french protectorate of		4l7d:4
+french protectorate of annam	44v3	
+french protectorate of tunisia	4l7d	
+french province	w2i	
+french provinces	w2i	
+french provincial	5o15	
+french prussian war	2gh	
+french quarter london	2rpd	
+french rap	10j2	
+french rap group	10j2	
+french rap music	10j2	
+french realism	f4u	
+french regime in canada	1jto	
+french region	3bpp	
+french regional natural parks	35hb	
+french religion wars	sad	
+french renaissance		63nb:3
+french renaissance architecture	63nb	
+french republic	b	
+french republic 1792 1804	goz	
+french republic 17921804	goz	
+french republic 1848 1852	3n0q	
+french republic 18481852	3n0q	
+french republic 1870 1940	d66	
+french republic 18701940	d66	
+french republic 1946 1958	3uzg	
+french republic 19461958	3uzg	
+french republican		gti:3
+french republican party	gti	
+french resistance	3xb0	
+french resistance during world war ii	3xb0	
+french resistance movement	3xb0	
+french restaurant	a2r	
+french rev	15ol	
+french revolution	15ol	
+french revolution navbox	15ol	
+french revolution up to the storming of the bastille	15ol	
+french revolutionaries	15ol	
+french revolutionary		1u6:3
+french revolutionary war	1u6	
+french revolutionary wars	1u6	
+french revolutionist	15ol	
+french revoultion	15ol	
+french rivera	669d	
+french riviera	669d	
+french riviera of the east	m0r	
+french road		1yxo:4
+french road cycling		1yxo:4
+french road cycling cup	1yxo	
+french rock	1qyn	
+french roll	38bu	
+french royal academy of sciences	xj	
+french royal navy	2sy	
+french rugby league team	u0s	
+french rugby union championship	8d7	
+french rugby union team	2ub	
+french rule in algeria	1z3a	
+french sahara	1z3a	
+french school		5k8m:4
+french school at		5k8m:4
+french school at athens	5k8m	
+french school harare	2h7	
+french school of athens	5k8m	
+french second		3n0q:3
+french second empire	ydc	
+french second empire style	vzs	
+french second republic	3n0q	
+french secretary of state	acz	
+french section		5g8:6
+french section of		5g8:6
+french section of the		5g8:6
+french section of the communist international	3mj	
+french section of the workers		5g8:6
+french section of the workers international	5g8	
+french settlements in oceania	4k6	
+french ship of the line redoutable 1791	1vuk	
+french ship redoutable 1791	1vuk	
+french ship redoutable 74	1vuk	
+french ship suffren 1791	1vuk	
+french sino war	3nz1	
+french socialist	1x7	
+french socialist party	1x7	
+french south coast	669d	
+french southern		p11:5
+french southern and		p11:5
+french southern and antarctic		p11:5
+french southern and antarctic land	p11	
+french southern and antarctic lands	p11	
+french southern antarctic lands	p11	
+french southern territories	p11	
+french space agency	34se	
+french spanish wars in italy	rli	
+french speakers outside of quebec	5um0	
+french speaking	z	
+french speaking belgian socialist party	fxp	
+french speaking canada	5um0	
+french speaking swiss	6345	
+french stewart	1jmm	
+french street station	5cwt	
+french subjunctive	61uq	
+french super cup	28gn	
+french surname	2cq7	
+french swiss	6345	
+french swiss border	45q6	
+french symbolism	b8y	
+french symbolists	b8y	
+french they are a funny race	37ac	37ac:7
+french third		d66:3
+french third republic	d66	
+french thoroughbred	m9	
+french togoland national football team	62v	
+french top 14 rugby	8d7	
+french touch	1yq3	
+french tricolor	3tn3	
+french tricolore	3tn3	
+french tricolors	3tn3	
+french tricolour	3tn3	
+french troops	1uyw	
+french tunis	4l7d	
+french tunisia	4l7d	
+french tv 1	59m	
+french twist	52k0	
+french twist film	52k0	
+french underground resistance	3xb0	
+french victor	22al	
+french vietnam	138j	
+french vocabulary	z	
+french war of 1884 1885	3nz1	
+french war of religion	sad	
+french wars		sad:4
+french wars of		sad:4
+french wars of religion	sad	
+french window	nqg	
+french windows	m43	
+french wine	9nl	
+french wines	9nl	
+french withdrawal from nato command	e0d	
+french without		5o6l:3
+french without tears	5o6l	
+french without tears film	5o6l	
+french woman	5paf	1d5z:3
+french women film	202p	
+french women s football championship	1n73	
+french word	z	
+french words and phrases	z	
+french zoological society	yts	
+froidcul	169d	
+fungicide	gkl	
+fungicide resistance	gkl	
+fungicide resistance action committee	gkl	
+gabrovo	5mz,84y,g7z	
+gabrovo bulgaria	g7z	
+gabrovo district	5mz	
+gabrovo municipality	84y	
+gabrovo oblast	5mz	
+gabrovo obshtina	84y	
+gabrovo province	5mz	
+gabrovo region	5mz	
+genomes	46fs	
+gmina przasnysz	q3l	
+graft		3wmb:3,6cam:4
+graft de		3wmb:3
+graft de rijp	3wmb	
+graft versus		6cam:4
+graft versus host		6cam:4
+graft versus host disease	6cam	
+graft versus host reaction	6cam	
+graft vs host	6cam	
+graft vs host disease	6cam	
+graft vs host reaction	6cam	
+graft vs host syndrome	6cam	
+gueven kirac	4ibv	
+haller	15nr	
+haller bauer reaction	610t	
+haller case	3f4k	3f4k:3
+haller city	2kct	
+haller city wa	2kct	
+haller city washington	2kct	
+heiligenstein	2o44	
+henadz bliznyuk	3xlw	
+hoysalas	5zwe	
+i k aiwasowski	5d1y	
+i k bonset	to9	
+i k brage	gks	
+i k brunel	yud	
+i k gujral	46zm	
+i k start	7c2	
+initiald	2oun	
+isomes	3m4n	
+ivar	6oz	2oim:2,2xm5:2,3s5i:2,4ivx:2,4jxq:2,4ui2:2,4zju:2,54v0:2,56mq:2,5jxa:3,5q4l:2,5xoo:2,5y97:2
+ivar afzelius	4ui2	
+ivar ballangrud	2xm5	
+ivar beinlaus	4zju	
+ivar beinlausi	4zju	
+ivar boneless	4zju	
+ivar campbell	3s5i	
+ivar chr s geelmuyden	5xoo	
+ivar christian sommerschild geelmuyden	5xoo	
+ivar eriksen ballangrud	2xm5	
+ivar eugen ballangrud	2xm5	
+ivar eugen eriksen ballangrud	2xm5	
+ivar first name	6oz	
+ivar formo	4ivx	
+ivar fredholm	4m77	
+ivar geelmuyden	5xoo	
+ivar giaever	2oim	
+ivar given name	6oz	
+ivar giver	2oim	
+ivar hagen	3rzr	
+ivar ingimarsson	54v0	
+ivar jorgensen	4xz3	
+ivar justus tengbom	4jxq	
+ivar karl ugi	5y97	
+ivar koteng	52k	
+ivar kreuger	56mq	
+ivar kreuger comments	56mq	
+ivar lo		5jxa:3
+ivar lo johansson	5jxa	
+ivar ragnarsson	4zju	
+ivar rnningen	5q4l	
+ivar ronningen	5q4l	
+ivar tengbom	4jxq	
+ivar the boneles	4zju	
+ivar the boneless	4zju	
+ivar ugi	5y97	
+james cairns	5wuu	
+james raymond jimmi simpson	1m1m	
+james raymond jordan sr	60b0	
+jizan	s0v	
+jizan emirate	s0v	
+jizan province	s0v	
+jizan region	s0v	
+john saxon	f11	
+john saxon actor	f11	
+john sniadecki	4clr	
+john wetton	2b4h	
+john wetton comments	2b4h	
+julianna		19nf:2,4yc2:2
+julianna depandi	3a05	
+julianna guil	4yc2	
+julianna guill	4yc2	
+julianna hatfield	1i1h	
+julianna luisa margulies	19nf	
+julianna margolis	19nf	
+julianna marguilles	19nf	
+julianna margulies	19nf	
+julianna of tver	1la1	
+keerti reddy	5ylz	
+kempton		2y7j:2
+kempton park	2y7j	
+kempton park gauteng	2y7j	
+keyboards	3kr	
+kiyosaki	5i50	
+klaebu	21fn	
+laitila	3yx7	
+larsmo	46aq	
+launaguet	2767	
+lefkas	22is	
+lefkas greece	22is	
+lefkas prefecture	22is	
+leinster	7xf	7d0:2,2pj0:3,6emp:2
+leinster a	7d0	
+leinster branch	7d0	
+leinster gaa	6emp	
+leinster lions	7d0	
+leinster provincial council of the gaa	6emp	
+leinster rfc	7d0	
+leinster rugby	7d0	
+leinster rugby team	7d0	
+leinster senior		2pj0:3
+leinster senior league	2pj0	
+leinster senior league association football	2pj0	
+leinster senior league football	2pj0	
+leinster senior league soccer	2pj0	
+leinster senior league xi	2pj0	
+lemvig	5bsi	3em3:2
+lemvig municipality	3em3	
+lento	2h13	
+lento haute corse	2h13	
+ligue2 lp2	2y0u	
+liudolfinger	34r9	
+lobbying groups	2ln	
+losina	4fw4	
+matz	56yn	
+mbi llandudno football club	2w3k	
+medailleur	821	
+migraine	1iuh	
+migraine disorders	1iuh	
+migraine headache	1iuh	
+migraine headaches	1iuh	
+migraine treatment drug	1iuh	
+migraine with or without aura	1iuh	
+modroc	32y2	
+moody		1ll9:4,1wny:2,4sak:2
+moody afb	1ll9	
+moody air		1ll9:4
+moody air force		1ll9:4
+moody air force base	1ll9	
+moody blues	bws	bws:3
+moody county	1wny	
+moody county sd	1wny	
+moody county south dakota	1wny	
+moody gardens	4sak	
+moody gardens aquarium	4sak	
+munkedals kommun	17vg	
+natziv	5gby	
+neotropical		4tik:3
+neotropical fruit		4tik:3
+neotropical fruit bats	4tik	
+neotropical ground lizard	6esx	
+neotropical parrot	6e5b	
+neotropical parrots	6e5b	
+nonsmoker	4h6z	
+omihachiman	2gln	2gln:2
+omihachiman shi	2gln	
+omihachiman shiga	2gln	
+othenio	4mcu	4mcu:2
+othenio abel	4mcu	
+othenio lothar franz anton louis abel	4mcu	
+palaephatus	69qv	
+palaephatus moth	69qv	
+paul hindemith	bl0	
+paul hindemith comments	bl0	
+peredelkina	3nzn	
+phak pasason pativat lao	38mo	
+phak prachathipat	5f6n	
+pleurocera	6c4g	
+powis	2ca	
+ppcfc	xfa	
+ralls		1rvd:2
+ralls county	1rvd	
+ralls county missouri	1rvd	
+ralls county mo	1rvd	
+richard c		d3s:3,uhs:3,4l21:3,5xjh:3,668d:3
+richard c atkinson	4l21	
+richard c chartres	5rkv	
+richard c currier	d3s	
+richard c du pont	4kas	
+richard c dupont	4kas	
+richard c gregory	4fkz	
+richard c holbrooke	2d97	
+richard c hunter	5xjh	
+richard c jebb	5nhv	
+richard c lewontin	2cli	
+richard c mangrum	668d	
+richard c sarafian	uhs	
+richard c shelby	3tw5	
+richard c tolman	3os0	
+richard c white	4sx4	
+richard correll	3epi	
+richard grosvenor		40lx:6,5ycd:5
+richard grosvenor 1st		5ycd:5
+richard grosvenor 1st earl		5ycd:5
+richard grosvenor 1st earl grosvenor	5ycd	
+richard grosvenor 1st earl of grosvenor	5ycd	
+richard grosvenor 2nd		40lx:6
+richard grosvenor 2nd marquess		40lx:6
+richard grosvenor 2nd marquess of		40lx:6
+richard grosvenor 2nd marquess of westminster	40lx	
+richard grosvenor 2nd marquess of westminster kg pc	40lx	
+ripto s rage	6gn8	
+robert kovac	20d2	
+robert llewellyn	440s	
+robert sargent bobby shriver iii	2ajt	
+robert sargent shriver	1gzr	
+robert sargent shriver iii	2ajt	
+robert sargent shriver jr	1gzr	
+rt4	2z03	
+rummenigge michael	5492	
+rzezawa commune	3ni4	
+san gejtanu	5fzo	
+sancergues	29z9	
+sarge	6dvl	20jp:4,2fku:3
+sarge frye field	2l9	
+sarge jr	68t3	
+sarge les		20jp:4
+sarge les le		20jp:4
+sarge les le mans	20jp	
+sarge shriver	1gzr	
+sarge sur		2fku:3
+sarge sur braye	2fku	
+savasse	2s64	
+sciuena	6bab	
+seneidres	5rix	
+sfk	523	
+sfk 2000	3cqw	
+sfk 2000 sarajevo	3cqw	
+sfk sered	16iz	
+sfk stare mesto	7vl	
+sheeps milk	huq	
+sifting song	6bdm	
+st petroc	64x2	
+storie d amore proibite	37xl	
+storie di ordinaria follia	3t39	
+storie scellerate	2scj	
+szigetszentmiklosi		161b:2
+szigetszentmiklosi tk	161b	
+tgp3	oq9	
+the atomic		31ay:3,32nt:3,5xgp:3
+the atomic bombings of hiroshima and nagasaki	y6r	
+the atomic city	32nt	
+the atomic city 1952 film	32nt	
+the atomic kid	5xgp	
+the atomic monster	64vv	
+the atomic submarine	31ay	
+the mindbenders novel	5zbl	
+thommo hawk	311t	
+timyra	15h0	
+tronsanges	2htx	
+truncaefalcia	hc0	
+tsalgi	1mcd	
+tukahur		5lzt:3
+tukahur rural		5lzt:3
+tukahur rural district	5lzt	
+tuskhent	1wp	
+uad 2017	dhz	
+vaded ibisevic	2n16	
+vagina doctor	13jc	
+vechile	foz	
+venetist	3ah1	
+vicecomes	8ma	
+vische	320r	
+war	1fp,1bbm,2fsk	3zpb:2
+war 2007 film	2fsk	
+war 2007 soundtrack	2fsk	
+war 3	43c5	
+war academy	5h3	
+war across five aprils	f5	
+war aeroplane	1fw	
+war against	1fp	1exw:5
+war against isis	1exw	
+war against mrs hadley	1pon	1pon:5
+war against terror	gml	
+war against terrorism	gml	
+war against the		1exw:5
+war against the islamic		1exw:5
+war against the islamic state	1exw	
+war against water	1p1i	
+war and		ril:3,srm:3,14ql:3,14vl:3,28hn:3
+war and militarism	1fp	
+war and military science	1fp	
+war and peace	ril,srm,14ql,14vl,28hn	
+war and peace 1956 film	srm	
+war and peace 1956 movie	srm	
+war and peace 1965 film	ril	
+war and peace 1968 film	ril	
+war and peace 1972 tv series	14ql	
+war and peace 2015 tv series	14vl	
+war and peace 2016 tv miniseries	14vl	
+war and peace 2016 tv series	14vl	
+war and peace film series	ril	
+war and peace novel	28hn	
+war and peace tv	14ql	
+war and peace tv series	14ql	
+war and society	28hn	
+war arrow	3ws4	
+war art	4nfx	
+war at home	4doh	4doh:4
+war band	1bbm	
+war band comments	1bbm	
+war between north korea and south korea	pk	
+war between south korea and north korea	pk	
+war books	5kg	
+war boys mad max	hi2	
+war cemeteries	5f6	
+war cemetery	5f6	
+war chariot	4zuh	
+war chariots	4zuh	
+war college	ruo	
+war correspondant	4oe	
+war correspondence	4oe	
+war correspondent	4oe	
+war crime	km3	
+war crimes	km3	3m62:3
+war crimes during the korean war	pk	
+war crimes during world war i	2k	
+war crimes in the yugoslav wars	mc9	
+war crimes law	km3	
+war crimes of the luftwaffe	2qk	
+war crimes trial	3m62	
+war crimes trials	3m62	
+war crimes tribunal	3m62	
+war criminal	km3	
+war criminals	km3	
+war cross	e2q	
+war cross belgium	p6g	
+war cross for foreign operational theaters	dus	
+war cross norway	e2q	
+war cross with sword	e2q	
+war dead	6hdk	
+war department	1p0k,5419	
+war department general staff	5419	
+war department of	5419	
+war department uk	1p0k	
+war department united kingdom	1p0k	
+war department us	5419	
+war dogs	36h7	
+war dogs 2016 film	36h7	
+war drama	yo	
+war epic films	2kip	
+war exercise	xuz	
+war exercises	xuz	
+war fiction	5kg	
+war fighter	j8	
+war film	yo	
+war films	yo	
+war for		29qg:7
+war for cybertron	6021	
+war for dutch independence	niw	
+war for liberation	52do	
+war for polish succession	19sk	
+war for the		29qg:7
+war for the planet		29qg:7
+war for the planet of		29qg:7
+war for the planet of the		29qg:7
+war for the planet of the apes	29qg	
+war for the planet of the apes 3d	29qg	
+war for ukraine	2n7s	
+war game	xuz	
+war games	126g	
+war games 2	5n3u	
+war games 2 the dead code	5n3u	
+war games film	oe2	
+war games the dead code	5n3u	
+war genre films	yo	
+war goddess	48mw	
+war gods		5gl6:4
+war gods of		5gl6:4
+war gods of babylon	5gl6	
+war gods of the deep	3w4o	
+war grave	5f6	
+war graves	5f6	
+war hap and leonard	3lfz	
+war has never been so much fun	3q14	
+war hero	1ron	
+war horse	m68	
+war horse film	m68	
+war horse spielberg	m68	
+war hunt	583h	
+war in		33v:4,8py:5,9c9:3,x7y:4,4bxc:3
+war in abkhazia	4bxc	
+war in abkhazia 1992 1993	4bxc	
+war in abkhazia 1992 93	4bxc	
+war in abkhazia 19921993	4bxc	
+war in abkhazia 199293	4bxc	
+war in afghanistan		33v:4
+war in afghanistan 1978 present	3wxs	
+war in afghanistan 1978present	3wxs	
+war in afghanistan 2001 present	33v	
+war in afghanistan 2001 to present	33v	
+war in afghanistan 20012021	33v	
+war in biafra	52v4	
+war in bosnia	8py	8py:5
+war in bosnia and		8py:5
+war in bosnia and hercegovina	8py	
+war in bosnia and herzegovina	8py	
+war in chechnya	ha6	
+war in croatia 1991 1995	d3m	
+war in defence of the consitution	57ur	
+war in defence of the constitution	57ur	
+war in defense of the constitution	57ur	
+war in donbas	9c9	
+war in donbass	9c9	
+war in former yugoslavia	mc9	
+war in iraq	2pu	
+war in iraq 2003	17kv	
+war in korea	pk	
+war in kosovo	eo8	
+war in northwest pakistan	t0o	
+war in northwestern pakistan	t0o	
+war in pakistan 2004 2008	t0o	
+war in pakistan s tribal areas 20042008	t0o	
+war in slovenia	3btc	
+war in somalia 2009	6793	
+war in somalia 2009 2012	6793	
+war in somalia 2009 present	6793	
+war in somalia 20092011	6793	
+war in somalia 2009present	6793	
+war in south osetia 2008	14xw	
+war in space	3dcx	3dcx:4
+war in syria	5ga	
+war in the		x7y:4
+war in the atlantic	a9x	
+war in the defence of constitution	57ur	
+war in the defence of the constitution	57ur	
+war in the north caucasus	e16	
+war in the pacific	3tm	
+war in the vendee	x7y	
+war in vietnam	u5	
+war inc	4jos	
+war incorporated	4jos	
+war is over	1763	1763:4
+war is over billboard	38m1	
+war is over if you want it	38m1	
+war is peace	1700	
+war italian		4dym:3
+war italian style	4dym	
+war journalist	4oe	
+war law	km3	
+war live	5ad1	
+war lord	2vsq	2vsq:3
+war lover	2du1	2du1:3
+war machine	46g8	
+war machine film	46g8	
+war machine kiss song	653c	
+war machines		4o73:3
+war march of the priests	4kr4	
+war medal	n02	
+war medal norway	n02	
+war memorial	477	
+war memorial sports ground carshalton	dj8	
+war memorials	477	
+war minister	eqd	
+war minister of denmark	1kb5	
+war minister tojo	2v9r	
+war monument	477	
+war movie	yo	
+war movies	yo	
+war musem	7e	
+war museum	7e	
+war novel	5kg	
+war novels	5kg	
+war nurse	5r56	
+war o t roses	1o8s	
+war of		1qc:3,4xa:5,868:5,c8p:5,oqq:5,s37:5,sjl:4,12f3:5,19sk:5,1o4m:5,1tom:4,262c:5,2f9k:3,35mf:5,3cfx:4,3nrg:4,52do:4,5doz:5,5paj:4,5yb4:8,6fbs:5,6fe7:4
+war of 1592	2ynm	
+war of 1812	1qc	
+war of 1870	2gh	
+war of 1882	d74	
+war of 68	67dy	
+war of 95	5qdh	
+war of anti japanese resistance	3rk	
+war of antiochos	4znj	
+war of arauco	3t57	
+war of attrition	2f9k	
+war of attrition 1967 1970	2f9k	
+war of austrian succession	4xa	
+war of bavarian succession	35mf	
+war of breton succession	5doz	
+war of candia	5ba6	
+war of cisplatina	631c	
+war of conquest	hd1	
+war of constitution	57ur	
+war of continuation	je1	
+war of crimea	1zf	
+war of finland	12k3	
+war of gods film	ja2	
+war of independence in 1775	1vy	
+war of independence in ireland	1lns	
+war of independence ireland	1lns	
+war of independence of brazil	47u5	
+war of independence of venezuela	48th	
+war of kroatian independence	d3m	
+war of la vendee	x7y	
+war of lapland	3f3n	
+war of liberation	52do	
+war of melilla	ir5	
+war of mexican independence	1b3h	
+war of national		52do:4
+war of national liberation	52do	
+war of northern expedition	2qlc	
+war of polish succession	19sk	
+war of queen anne	2rsx	
+war of resistance	3rk	
+war of resistance against japan	3rk	
+war of resistance against japanese aggression	3rk	
+war of retribution	je1	
+war of righteous and harmonious fists	g4r	
+war of roses	1o8s	
+war of scottish independence	3t42	
+war of seven years	3ap	
+war of spain succession	868	
+war of spainish succession	868	
+war of spanish independence	3vl	
+war of spanish succesion	868	
+war of the		4xa:5,868:5,c8p:5,oqq:5,s37:5,sjl:4,12f3:5,19sk:5,1o4m:5,1tom:4,262c:5,35mf:5,3cfx:4,3nrg:4,5doz:5,5paj:4,5yb4:8,6fbs:5,6fe7:4
+war of the 1st coalition	c8p	
+war of the 2nd coalition	s37	
+war of the 3rd coalition	262c	
+war of the 4th coalition	12f3	
+war of the 5th coalition	1o4m	
+war of the 6th coalition	oqq	
+war of the augsburg league	ekg	
+war of the austrian		4xa:5
+war of the austrian succescion	4xa	
+war of the austrian succession	4xa	
+war of the bavarian		35mf:5
+war of the bavarian succession	35mf	
+war of the bavarian sucesscion	35mf	
+war of the breton		5doz:5
+war of the breton succession	5doz	
+war of the british succession	5m3u	
+war of the buttons	3cfx	
+war of the buttons 1962 film	3cfx	
+war of the confederates	5w8u	
+war of the conquest	hd1	
+war of the cuban independence	5qdh	
+war of the cuban revolution	5qdh	
+war of the dragons	2kjm	
+war of the english revolution	1y1	
+war of the english succession	ekg	
+war of the fifth		1o4m:5
+war of the fifth coalition	1o4m	
+war of the first		c8p:5
+war of the first coalition	c8p	
+war of the five kings	6d29	
+war of the flowers	1t27	
+war of the fourth		12f3:5
+war of the fourth coalition	12f3	
+war of the french revolution	1u6	
+war of the gargantuas	2cup	2cup:5
+war of the gods film	ja2	
+war of the grand alliance	ekg	
+war of the grand alliance continental european theatre	ekg	
+war of the greek revolution	6ik	
+war of the guelphs and ghibellines	2ond	
+war of the jewels		35wt:5
+war of the monsters film	4x7y	
+war of the mountains 1915 1918	2cqa	
+war of the mountains 19151918	2cqa	
+war of the oxen		33hv:5
+war of the pacific	1tom	
+war of the pacific 1879 1883	1tom	
+war of the palatinate succession	ekg	
+war of the palatine succession	ekg	
+war of the planet of the apes	29qg	
+war of the planet of the apes 3d	29qg	
+war of the planets	5paj	
+war of the planets 1966	5paj	
+war of the planets 1966 film	5paj	
+war of the polish		19sk:5
+war of the polish successcion	19sk	
+war of the polish succession	19sk	
+war of the pyrenees	3nrg	
+war of the ring	6fe7	
+war of the rings	6fe7	
+war of the roses	1o8s,24c9	24c9:5
+war of the roses film	24c9	
+war of the second		s37:5
+war of the second coalition	s37	
+war of the second partition	57ur	
+war of the sixth		oqq:5
+war of the sixth coalition	oqq	
+war of the spainish succession	868	
+war of the spanish		868:5
+war of the spanish succession	868	
+war of the spider		6fbs:5
+war of the spider queen	6fbs	
+war of the texan revolution	1s58	
+war of the third		262c:5
+war of the third coalition	262c	
+war of the three kingdoms	xsu	
+war of the triple alliance	uaf	
+war of the triple alliance paraguay	uaf	
+war of the trojans	3a5d	
+war of the turkish revolution	1he6	
+war of the two kings	436g	
+war of the venezuelan revolution	48th	
+war of the wildcats	3817	
+war of the world	3lef	
+war of the worlds	sjl,2u8i	10pj:5,2u8i:5,5yb4:8
+war of the worlds 2	5yb4	5yb4:8
+war of the worlds 2 the		5yb4:8
+war of the worlds 2 the next		5yb4:8
+war of the worlds 2 the next wave	5yb4	
+war of the worlds 2005	sjl	
+war of the worlds 2005 film	sjl	
+war of the worlds novel	2u8i	
+war of the year of the dragon	kev	
+war of the zombies	5m8a	
+war of three kingdoms	xsu	
+war of three nations	1y1	
+war of triple alliance	uaf	
+war of troy	onm	
+war of turkish independence	1he6	
+war of venezuelan independence	48th	
+war of vienna 1683 1699	1b8p	
+war of vienna 16831699	1b8p	
+war of vietnam	u5	
+war office us	5419	
+war on		gml:3
+war on al qaeda	gml	
+war on gaza 2014	qiq	
+war on iraq	2pu	
+war on iraq 2003	17kv	
+war on isil	1exw	
+war on isis	1exw	
+war on tap water	1p1i	
+war on terror	gml	
+war on terror historical	gml	
+war on terror u s led campaign	gml	
+war on terrorism	gml	
+war on terrorism historical	gml	
+war on terrorism service medal	4gxm	
+war on the islamic state of iraq and the levant	1exw	
+war operation plan response	oe2	
+war orphan	5cu	
+war paint gwen stefani song	3sin	
+war peace	14vl	
+war peace 2016 tv series	14vl	
+war photographer	5sdb	
+war pigeon	28yg	
+war pigeons	28yg	
+war pigs album	6fbp	
+war plan r	hfl	
+war planes	1fw	
+war prisoner	2k8q	
+war punishment	2b9k	
+war rages on	3y90	
+war rat	6bmi	
+war reporter	4oe	
+war reporters	4oe	
+war reporting	4oe	
+war requiem	63lu	
+war requiem film	63lu	
+war resisters		1sye:5
+war resisters league		1sye:5
+war resisters league peace		1sye:5
+war resisters league peace award	1sye	
+war secretary	1q9h	
+war ship	il6	
+war substantive rank	2xe	
+war surgeon	er	
+war tent	13az	
+war theatre	11aj	
+war trauma	11mb	
+war vessel	il6	
+war wagon	2915	2915:3
+war with grandpa	6h0y	6h0y:4
+war with grandpa film	6h0y	
+war with mexico	1ww	
+war within	6ai6	6ai6:3
+war world two	1m	
+war zone	3ovc	3ovc:3
+war zone rob zombie	117i	
+war zone song	117i	
+wolfhilda of sweden	4w1f	

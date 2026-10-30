@@ -1,0 +1,663 @@
+a4	1pf1	
+a4 autoroute	3yxk	
+a4 autoroute france	3yxk	
+a4 belgium	5jld	
+a4 motorway	3yxk,4r5c,5jld	
+a4 motorway belgium	5jld	
+a4 motorway france	3yxk	
+a4 motorway netherlands	4r5c	
+a4 netherlands	4r5c	
+a4 pacific	1ty4	
+a4 paper	617b	
+a4 paper size	617b	
+a4 road belgium	5jld	
+a4 sheet	617b	
+aereola	1x78	
+aereola anatomy	1x78	
+ammergau		1qvd:2
+ammergau alps	1qvd	
+amol	ldr	k8f:2,qjr:2
+amol county	k8f	
+amol gupte	4n5j	
+amol iran	ldr	
+amol palekar	qjr	
+apolo		3u8t:2
+apolo anton ohno	3u8t	
+apolo anton ono	3u8t	
+apolo milton obote	5dhe	
+apolo ohno	3u8t	
+apolo ohno 2002 winter olympics controversy	3u8t	
+apolo ohno skater	3u8t	
+apolo ono	3u8t	
+arcaptia	41kb	
+ariq	5auk	5auk:2
+ariq boeke	5auk	
+ariq boke	5auk	
+ateshgah of firuzabad	546s	
+athis	2ml2,5h4j	odb:2,1ey5:4
+athis genus	5h4j	
+athis marne	2ml2	
+athis mons	odb	
+athis val		1ey5:4
+athis val de		1ey5:4
+athis val de rouvre	1ey5	
+ballspielverein borussia 09 e v dortmund	2qh	
+beckam	hg4	
+boonen	yt5	
+calligenia	lt5	
+capdevilla	1z2c	
+catasetum	22xh	
+chetverik	5g0v	
+comstock		qpr:4
+comstock prize		qpr:4
+comstock prize in		qpr:4
+comstock prize in physics	qpr	
+consultancies	6te	
+converse		12qh:2
+converse county	12qh	
+converse county wy	12qh	
+converse county wyoming	12qh	
+converse middle school massachusetts	2zhc	
+converse of pyth theorem	6h3c	
+converse of pyth thm	6h3c	
+cuadecuc	4mmn	
+cuadecuc vampir	4mmn	
+cusum pannonia	5zpp	
+cyrtinus	1v5u	
+dagmara		4iqe:2
+dagmara dominczyk	4iqe	
+dagoth ur	1peh	
+danka		53pz:2
+danka podovac	53pz	
+dantonists	64wu	
+dechy	1k0y	
+dentite	23r	
+dhunn	54k2	
+dhunn wupper	54k2	
+dragoslav		1tjp:2,3wye:2,4zjo:2
+dragoslav jevric	3wye	
+dragoslav poleksic	4zjo	
+dragoslav sekularac	1tjp	
+dragoslav sekularak	1tjp	
+dragoslav yavrich	3wye	
+endemic flea borne typhus	adq	
+endemic typhus fever	adq	
+ershad		65xn:2
+ershad yousefi	65xn	
+esquiline		61qt:2
+esquiline venus	61qt	
+friuli		mm1:3
+friuli venezia		mm1:3
+friuli venezia giulia	mm1	
+friuli venezia giulia region	mm1	
+gbao	1xe2	
+generals	ka	
+generals of the salvation army	4gud	
+generals stars	2xe	
+george brackett seitz	9z2	
+ghazi		4m98:3,5w46:3
+ghazi abdul rahman al gosaibi	5w46	
+ghazi abdul rahman algosaibi	5w46	
+ghazi ahmad mukhtar pasha	418u	
+ghazi ahmed mukhtar pasha	418u	
+ghazi al		5w46:3
+ghazi al gosaibi	5w46	
+ghazi al qusaibi	5w46	
+ghazi al qusaybi	5w46	
+ghazi algosaibi	5w46	
+ghazi amanullah khan	45vb	
+ghazi bin faisal	4m98	
+ghazi i	4m98	
+ghazi i of iraq	4m98	
+ghazi mustapha kemal pasha	jpa	
+ghazi of		4m98:3
+ghazi of iraq	4m98	
+ghazi osman nuri pasha	3q12	
+ghazi osman pasha	3q12	
+gladiodon	wd0	
+gmina plonsk	n7x	
+gomphotheriidae	3s38	
+hannibalic war	hzf	
+helma		1wkd:3,3xbp:2
+helma orosz	3xbp	
+helma sanders		1wkd:3
+helma sanders brahms	1wkd	
+henry millon de montherlant	62v2	
+hisayasu		6bi3:2
+hisayasu sato	6bi3	
+hisayasu satoh	6bi3	
+hisayasu satou	6bi3	
+hoogley	47oj	
+igdir	q7m	
+iratxe	3vnd	
+james steacy	4xk1	
+jnanabharati campus	19vm	
+john asslyn	44f4	
+john gidman	5egn	
+john sumner bishop	5yof	
+khuzestan	1ex	1ex:2
+khuzestan province	1ex	
+kotah	2rlm	
+kotah district	2ir4	
+la bas film	19sw	
+la captive	57z2	
+langenbrucken	3obx	
+laura	15f,15vb,1w8h	g24:2,gh8:2,j9m:2,jha:2,rh8:2,rhq:3,tns:2,umf:2,vw7:2,10x1:2,11zt:2,12fi:3,12q8:2,16ij:2,19df:2,1a16:3,1ir8:4,1lej:2,22eo:2,25hl:2,26xi:3,27d2:2,2835:2,2acl:2,2kap:2,2l78:2,2vii:2,2vrg:4,2wr1:3,2wsi:2,2yh6:3,2yiy:2,328e:2,34tb:2,39cs:2,3bch:2,3bu8:2,3dck:2,3gdc:2,3gqz:2,3iqd:2,3ont:2,3osq:2,3s3t:2,3uer:2,3zya:2,446a:2,4717:2,48g4:3,49u8:2
+laura 1944	15vb	
+laura 1944 film	15vb	
+laura 1944 movie	15vb	
+laura aime	2dz3	
+laura allende	642q	
+laura allende gossens	642q	
+laura alleway	5klm	
+laura alvarez	23fp	
+laura ann branigan	vw7	
+laura anne ingraham	3gdc	
+laura anne karpman	2yiy	
+laura antonaz	rh8	
+laura antonelli	rh8	
+laura arrillaga andreesen	2i1z	
+laura augusta gainor	o19	
+laura bailey	34tb	
+laura bailey actress	34tb	
+laura bailey voice actor	34tb	
+laura bailey voice actress	34tb	
+laura bancroft	97t	
+laura bassett	53ml	
+laura belli	5si3	
+laura benanti	3osq	
+laura betti	jha	
+laura biathlon		1ir8:4
+laura biathlon ski		1ir8:4
+laura biathlon ski complex	1ir8	
+laura birn	49u8	
+laura boldrini	53lh	
+laura branigan	vw7	
+laura brannigan	vw7	
+laura breckenridge	5l2f	
+laura brock	5klm	
+laura bush	2acl	
+laura bush comments	2acl	
+laura bush foundation	2acl	
+laura carli	5grz	
+laura cayouette	4jla	
+laura celestia spelman	5z7t	
+laura celestia spelman rockefeller	5z7t	
+laura chiatti	3bu8	
+laura christensen	2kap	
+laura clay	3gqz	
+laura colby	4uxm	
+laura colby ingalls	rhq	
+laura constance hardie	1byg	
+laura crews	1a16	
+laura cross country ski and biathlon center	1ir8	
+laura dawn bailey	34tb	
+laura de		2yh6:3
+laura de marchi	2yh6	
+laura deibel	og5	
+laura del		2vrg:4,4rxm:3
+laura del rio	2vrg	2vrg:4
+laura del rio garcia	2vrg	
+laura del sol	4rxm	
+laura dern	g24	
+laura devon	4wbr	
+laura drasbaek	5nji	
+laura drasbk	5nji	
+laura e		4u4k:3
+laura e richards	4u4k	
+laura efrikian	3s3t	
+laura elena harring	16ij	
+laura elena herring	16ij	
+laura elena martinez herring	16ij	
+laura elizabeth dern	g24	
+laura elizabeth dern harper	g24	
+laura elizabeth howe	4u4k	
+laura elizabeth howe richards	4u4k	
+laura elizabeth ingalls	rhq	
+laura elizabeth ingalls wilder	rhq	
+laura elizabeth metcalf	10mb	
+laura elizabeth richards	4u4k	
+laura ellen ziskin	1lej	
+laura elliot	541h	
+laura elliott	541h	
+laura emilia regli	11zt	
+laura ephrikian	3s3t	
+laura esquivel	5p3i	
+laura eveliina birn	49u8	
+laura fay	68pm	
+laura first name	15f	
+laura flanders	6cxp	
+laura flanders show	6cxp	
+laura flessel	4sg7	4sg7:3
+laura flessel colovic	4sg7	
+laura flynn boyle	zgq	
+laura forgia	4sft	
+laura fraser	12q8	
+laura gainer	o19	
+laura gainor	o19	
+laura gemser	tns	
+laura gibson	39cs	
+laura giorgione	1w8h	
+laura given name	15f	
+laura gore	11zt	
+laura grace	2wr1	
+laura gutierrez bauer	1ytk	
+laura hardie	1byg	
+laura harring	16ij	
+laura harris	4axa	
+laura hawkins	2d6i	
+laura herbert waugh	kjp	
+laura herring	16ij	
+laura hidalgo	3ont	
+laura hobson	64sq	
+laura hodges	4gdk	
+laura hope		1a16:3
+laura hope crews	1a16	
+laura hunt	15vb	
+laura ikauniece	555z	
+laura ikauniece admidina	555z	
+laura ingalls	rhq	rhq:3
+laura ingalls wilder	rhq	
+laura ingalls wilder award	2x11	
+laura ingalls wilder medal	2x11	
+laura ingles wilder	rhq	
+laura ingraham	3gdc	
+laura ingram	3gdc	
+laura innes	4fiq	
+laura jane		2wr1:3
+laura jane addams	1ltn	
+laura jane grace	2wr1	
+laura jane sandys	68qo	
+laura jansen	5jd7	
+laura jean reese witherspoon	je8	
+laura jeanne reese witherspoon	je8	
+laura jill ramsey	4cis	
+laura johnson	5y99	
+laura johnson knight	5y99	
+laura kalmari	48g4	
+laura kanaholo konia	59aa	
+laura karpman	2yiy	
+laura karpman composer	2yiy	
+laura katherine parkinson	2z83	
+laura kean zametkin	64sq	
+laura keane zametkin hobson	64sq	
+laura kelly	6gtw	
+laura kenny	4717	
+laura kiessling	5puf	
+laura kightlinger	3uer	
+laura knight	5y99	
+laura knight dame	5y99	
+laura knight johnson	5y99	
+laura konia	59aa	
+laura l		5puf:3
+laura l kiessling	5puf	
+laura la		12fi:3
+laura la plante	12fi	
+laura lafargue	3iqd	
+laura lane welch	2acl	
+laura lane welch bush	2acl	
+laura laplant	12fi	
+laura laplante	12fi	
+laura lee hope	3zvl	
+laura leggett linney	j9m	
+laura leighton	5rhi	
+laura lena forgia	4sft	
+laura linney	j9m	
+laura lippman	56w2	
+laura lopes	60d9	
+laura louise colby ingalls	4uxm	
+laura lyttelton	49n3	
+laura mackenzie phillips	3dus	
+laura malmivaara	567y	
+laura mana	5njo	
+laura mancinelli	22eo	
+laura mancini	27d2	
+laura marano	3dck	
+laura marie marano	3dck	
+laura marling	25hl	
+laura martinez herring	16ij	
+laura martinozzi	579b	
+laura marx	3iqd	
+laura mary carter	4ffs	
+laura mikkola	6a05	
+laura morante	umf	
+laura movie	15vb	
+laura name	15f	
+laura nero	10x1	
+laura nigro	10x1	
+laura nucci	19df	
+laura nyro	10x1	
+laura nyro comments	10x1	
+laura osterberg		48g4:3
+laura osterberg kalmari	48g4	
+laura panic	4hdx	
+laura parker bowles	60d9	
+laura pauliina malmivaara	567y	
+laura pausini	gh8	
+laura pausinni	gh8	
+laura paussini	gh8	
+laura poitras	2wsi	
+laura prepon	3bch	
+laura ramsay	4cis	
+laura ramsey	4cis	
+laura rebecca kenny	4717	
+laura rebecca trott	4717	
+laura regan	2835	
+laura regli	11zt	
+laura reichenthal	446a	
+laura richards	4u4k	
+laura ricketts	6cwe	
+laura riding	446a	
+laura riding gottschalk	446a	
+laura riding jackson	446a	
+laura rocca	3mx6	
+laura rockefeller	5z7t	
+laura rose lopes	60d9	
+laura san		26xi:3
+laura san giacomo	26xi	
+laura sandys	68qo	
+laura sangiacomo	26xi	
+laura smet	3zya	
+laura solari	328e	
+laura spelman	5z7t	5z7t:3
+laura spelman rockefeller	5z7t	
+laura spencer	6hqy	
+laura spencer general hospital	6hqy	
+laura summerton	4gdk	
+laura trombetti	jha	
+laura troschel	5kpy	
+laura trott	4717	
+laura truffaut	evm	
+laura valenzuela	2vii	
+laura vandervoort	55mk	
+laura veirs	2l78	
+laura viers	2l78	
+laura vining spencer	6hqy	
+laura vining webber	6hqy	
+laura vivas	30kz	
+laura w bush	2acl	
+laura waring	32wg	
+laura webber	6hqy	
+laura webber spencer	6hqy	
+laura welch	2acl	
+laura welch bush	2acl	
+laura whyte	63xg	
+laura wilder	rhq	
+laura wilson fictional character	qep	
+laura witherspoon	je8	
+laura woodward elementary	o1h	
+laura z		64sq:3
+laura z hobson	64sq	
+laura ziskin	1lej	
+laura ziskin productions	1lej	
+leia organa solo	2ubo	
+leia s theme	2ubo	
+lemington spa	6pu	
+letohrad	1v0k	
+livenation	1git	
+locating	1wf	
+lollapalloza	6hg7	
+lukovany	3k70	
+m2f	570	
+manchukuo	1vb4	
+manchukuo empire	1vb4	
+mansfield	8hk,d8n,1tdv,1y70,404u,5j6b	1l0:4,1mpe:2,6g3i:2
+mansfield amendment	1bzk	
+mansfield ashland bucyrus oh combined statistical area	d8n	
+mansfield ashland bucyrus oh csa	d8n	
+mansfield connecticut	1y70	
+mansfield ct	1y70	
+mansfield david	174j	
+mansfield depot connecticut	1y70	
+mansfield england	8hk	
+mansfield four corners connecticut	1y70	
+mansfield high school louisiana	1tdv	
+mansfield la	1tdv	
+mansfield louisiana	1tdv	
+mansfield ma	404u	
+mansfield mass	404u	
+mansfield massachusetts	404u	
+mansfield miners	1l0	
+mansfield nottinghamshire	8hk	
+mansfield nottinghamshire england	8hk	
+mansfield oh	d8n	
+mansfield ohio	d8n	
+mansfield ohio metropolitan area	d8n	
+mansfield park	1mpe,6g3i	
+mansfield park film	1mpe	
+mansfield park novel	6g3i	
+mansfield public library massachusetts	404u	
+mansfield s rule	4wic	
+mansfield shield	d8n	
+mansfield shire	39oi	
+mansfield sir peter	51wn	
+mansfield town	1l0,8hk	1l0:4
+mansfield town f		1l0:4
+mansfield town f c	1l0	
+mansfield town fc	1l0	
+mansfield town football club	1l0	
+mansfield united kingdom	8hk	
+mansfield wesley	1l0	
+mansfield wesleyans	1l0	
+mansfield wesleyans f c	1l0	
+mantecon	4h7t	
+mazaye	398p	
+meeko	e9x	
+merytaten	1wmw	
+monoceras	hul	
+motol	4ovj	
+mulsanne	2j7d	
+muriels wedding	1swj	
+mycenan civilization	6h7i	
+myrstiphyllum	cwu	
+nadson		35ln:4
+nadson rodrigues		35ln:4
+nadson rodrigues de		35ln:4
+nadson rodrigues de souza	35ln	
+national religious		p3k:3
+national religious front	p3k	
+national religious party	p3k	
+national religious training school	btm	
+national religious training school and chautauqua	btm	
+nationhood	4cgv	
+new college	1g5	13d6:4,4kae:4
+new college cambridge ma	2q	
+new college cambridge massachusetts	2q	
+new college chapel oxford	1g5	
+new college florida	13d6	
+new college of		13d6:4,4kae:4
+new college of california	4kae	
+new college of florida	13d6	
+new college of florida police department	13d6	
+new college of speech and drama	6w1	
+new college of the university of south florida	13d6	
+new college oxford	1g5	
+new college oxford comments	1g5	
+new college oxford university	1g5	
+nhl2005	65of	
+oize	2zeu	
+oleysa rulin	3ife	
+oudtshoorn	168u	39mq:3
+oudtshoorn local		39mq:3
+oudtshoorn local municipality	39mq	
+oudtshoorn municipality	39mq	
+oudtshoorn municipality western cape	39mq	
+oudtshoorn western cape	168u	
+ougadougou burkina faso	7uv	
+peter mettler	5j97	
+pheidolini	5yqi	
+photographed	ce1	
+piranshahre mokri	1z0x	
+piranshahre mokrian	2wl5	
+piranshahre mokryan	2wl5	
+piranshahre mokryan county	1z0x	
+plasmati	36eg	
+precolumbian	6h82	
+precolumbian era	6h82	
+prince gu	5kn4	
+princess helen lydia liliuokalani kawananakoa	66h6	
+princess helen of greece	291l	
+princess helen of greece and denmark	291l	
+princess helen of romania	3xu9	
+princess helen of serbia comments	3f70	
+princess helen petrovna of russia	3f70	
+prokletije	2pt2	
+prokletije mountains	2pt2	
+reynosa	wti	
+reynosa mexico	wti	
+reynosa tamaulipas	wti	
+rigestan		5pri:3
+rigestan rural		5pri:3
+rigestan rural district	5pri	
+roundabout	4n1p	
+roundabout 1950 film	1vtq	
+roundabout intersection	4n1p	
+saimir		61iv:2
+saimir patushi	61iv	
+samutprakan	s1j	
+samutprakan province	s1j	
+seistan balochistan province	6yy	
+shana	4ath	
+shana first name	4ath	
+shana given name	4ath	
+shana moakler	46cs	
+shana of the burning eyes	64zi	
+sigismond		5bp9:4,5q08:2
+sigismond auguste	16vn	
+sigismond frederic		5bp9:4
+sigismond frederic de		5bp9:4
+sigismond frederic de berckheim	5bp9	
+sigismond thalberg	5q08	
+sigismond von neukomm	5ydl	
+sir aaron	1q9t	
+sir aaron klug	1bn5	
+sir aaron pokemon	1q9t	
+siroz	eyp	
+siroz game publisher	25a6	
+siroz productions	25a6	
+slfenergy nopagepls	apz	
+somethings got to give	2n54	
+sost	1b0n	
+sost hautes pyrenees	1b0n	
+spaniens	v	
+stylizing	5vgd	
+sunscoach	2vf	
+szerelmi almok liszt	3m7k	
+takashi	581	bjk:2,k52:2,1c5f:2,1kq0:2,1p69:2,1ql7:2,2jp6:2,2na5:2,2uvd:2,381e:2,3c2q:2,3u2y:2,4i3f:2,558x:2,56rt:2,5a5c:2,5bb3:2,5c64:2,5eab:2,5jt0:2,5rr7:2,6d5f:2
+takashi first name	581	
+takashi fujii	5eab	
+takashi fujii footballer	5eab	
+takashi given name	581	
+takashi hara	5grt	
+takashi hirano	2na5	
+takashi iizuka	2jp6	
+takashi iizuka game designer	2jp6	
+takashi inui	3u2y	
+takashi ishii	2uvd	
+takashi ishii film director	2uvd	
+takashi kei hara	5grt	
+takashi matsuyama	4i3f	
+takashi matsuyama actor	4i3f	
+takashi miike	bjk	
+takashi mike	bjk	
+takashi negishi	6d5f	
+takashi ono	3c2q	
+takashi saito	558x	
+takashi saito baseball	558x	
+takashi sasaki	tjz	
+takashi sasano	1p69	
+takashi shimizu	1c5f	
+takashi shimura	k52	
+takashi sugimura	5c64	
+takashi takabayashi	5bb3	
+takashi tanaka	3xpz	
+takashi tezuka	1ql7	
+takashi tokita	5a5c	
+takashi tsujii	5g72	
+takashi tsukamoto	5jt0	
+takashi tukamoto	5jt0	
+takashi ukaji	56rt	
+takashi usami	381e	
+takashi yamamoto	5rr7	
+takashi yamamoto swimmer	5rr7	
+takashi yamazaki	1kq0	
+takashi yamazaki film director	1kq0	
+tarracina	hxi	
+the cemetery		5f7l:3
+the cemetery club	5f7l	
+the komi republic	lzs	
+the million		1hcc:4,30i2:4,3kz8:4,4q9h:4,5d4t:5,5dm8:4
+the million dollar		1hcc:4,3kz8:4,4q9h:4,5dm8:4
+the million dollar baby	sv5	
+the million dollar countdown	5dm8	
+the million dollar duck	3kz8	
+the million dollar hotel	1hcc	
+the million dollar mystery	4q9h	
+the million eyes		5d4t:5
+the million eyes of		5d4t:5
+the million eyes of su muru	5d4t	
+the million eyes of sumuru	5d4t	
+the million pound		30i2:4
+the million pound note	30i2	
+the million year picnic	6g8y	
+the ninnies	66lv	
+the premier county	3kd	
+the premier league	l6j	
+the premier of prince edward island	vpj	
+the premier soccer league	12oe	
+the supremes	9ir	
+the supremes at the copa 67	9ir	
+the supremes sing disney classics	9ir	
+the supremes singles	9ir	
+the supremes with diana ross	9ir	
+the walt		1zt:4
+the walt disney		1zt:4
+the walt disney co	1zt	
+the walt disney company	1zt	
+the walt disney of japan	cp2	
+the walt disney pictures	3ak	
+the walt disney pictures television animation group	16ug	
+the walt disney show	184n	
+the walt disney studio	1zt	
+the walt disney studios division	ccz	
+the walt disney studios motion pictures	ccz	
+the walt disney studios production	ccz	
+the walt disney studios production company	ccz	
+the walt disney world resort	5mi	
+thorogood george	18yp	
+tmdr	1def	
+trasandino	3d3f	3d3f:4
+trasandino de		3d3f:4
+trasandino de los		3d3f:4
+trasandino de los andes	3d3f	
+trasandino de los saldes	3d3f	
+triuzzi	58wr	
+troloesa	3scy	
+trotskyists	gw6	
+ttm chiangmai f c	b4z	
+ttm customs f c	b4z	
+ttm f c	b4z	
+ttm f c phichit	b4z	
+ttm lopburi		b4z:4
+ttm lopburi f		b4z:4
+ttm lopburi f c	b4z	
+ttm phichit	b4z	
+ttm phichit f c	b4z	
+ttm phichit fc	b4z	
+ttm samut sakhon	b4z	
+ttm thailand tobacco monopoly f c	b4z	
+twbb	159g	
+upminster	5xv3	
+upminster garden suburb	5xv3	
+upminster london england	5xv3	
+upminster parish council	5xv3	
+wanchope javier	4zpr	
+watan	4z3h	4z3h:3
+watan kay		4z3h:3
+watan kay rakhwalay	4z3h	
+watan ke rakhwaley	4z3h	
+xienianhe river	2vx1	
+zivojin		z7v:2,4n6n:2,6bzm:2
+zivojin juskic	6bzm	
+zivojin misic	z7v	
+zivojin pavlovic	4n6n	

@@ -1,0 +1,288 @@
+agusan		wae:4,xs4:2
+agusan del		wae:4
+agusan del norte	xs4	
+agusan del norte province	xs4	
+agusan del sur	wae	wae:4
+agusan del sur province	wae	
+agusan norte	xs4	
+agusan sur	wae	
+ambrozic	4qki	
+ameriball	28	
+ancaster	4nsh	
+ancaster hamilton ontario	4nsh	
+ancaster on	4nsh	
+ancaster ontario	4nsh	
+ancaster ontario canada	4nsh	
+ancaster township	4nsh	
+ancaster township ontario	4nsh	
+annicia	4yfq	
+aparinella	9ik	
+archdeaconries	9dz	
+backdrifts	5i6c	
+baf district	8pg	
+baketaten	39i1	
+banes	5zt	
+bighit entertainment	210f	
+borsonia	49wl	
+bortai	42c8	
+bryco cup	6nt	
+buttered	jtt	
+castillo		1u0p:6,3nx1:3,4mro:3
+castillo aragones	3si9	
+castillo de		1u0p:6,3nx1:3,4mro:3
+castillo de bayuela	3nx1	
+castillo de bayuela spain	3nx1	
+castillo de bayuela toledo	3nx1	
+castillo de escalona	164t	
+castillo de san		1u0p:6
+castillo de san marcos	1u0p	1u0p:6
+castillo de san marcos national		1u0p:6
+castillo de san marcos national monument	1u0p	
+castillo de san marcos national monument fl	1u0p	
+castillo de san marcos national monument florida	1u0p	
+castillo de villamalefa	4mro	
+cerchio	4wqw	
+cerchio aq	4wqw	
+changis		3513:3
+changis sur		3513:3
+changis sur marne	3513	
+charlamaine	fyl	
+chiton	439p	
+chiton costume	439p	
+chlamydomonadaceae	6f8f	
+coldeportszenu	2u0t	
+collectively	1por	
+compile	1n8j	1n8j:3,33cc:2
+compile company	1n8j	
+compile developer	1n8j	
+compile game developer	1n8j	
+compile heart	33cc	
+compile heart inc	33cc	
+compile ltd	1n8j	
+compile publisher	1n8j	
+compile software		1n8j:3
+compile software company	1n8j	
+cvetan		4u5c:2
+cvetan curlinov	4u5c	
+dargaz		61nd:2
+dargaz county	61nd	
+david waddington	5423	5423:4
+david waddington baron		5423:4
+david waddington baron waddington	5423	
+daytrivia alice mabel bacon	4sjy	
+durrian	6eyo	
+easley	4dix	
+easley sc	4dix	
+easley south carolina	4dix	
+eufa champions league	e4j	
+euptychiina	49c4	
+extermination	5fc6	7bq:2
+extermination camp	7bq	
+extermination camps	7bq	
+eyad		4ko8:2
+eyad salah	4ko8	
+fifagate	362l	
+fires	mse	3jec:4
+fires of heaven		6ezi:4
+fires on		3jec:4
+fires on the		3jec:4
+fires on the plain	3jec	
+fires on the plain 1959 film	3jec	
+foville	2cps	
+fuma conspiracy	1ybp	
+galerucini	4bgb	
+galgagnano	595s	
+garorim bay	4yri	
+gentry		1re8:2
+gentry county	1re8	
+gentry county missouri	1re8	
+gentry county mo	1re8	
+george cambridge	3ybn	4om9:6
+george cambridge 2nd		4om9:6
+george cambridge 2nd marquess		4om9:6
+george cambridge 2nd marquess of		4om9:6
+george cambridge 2nd marquess of cambridge	4om9	
+george gissing	1frj	
+globalising	68gv	
+gmina aczna	1nd0	
+gmina jonkowo	1xcj	
+gmina kamien	24qm	1046:3,1nn8:3
+gmina kamien krajenski	1nn8	
+gmina kamien lublin voivodeship	24qm	
+gmina kamien pomorski	1046	
+gorcum	f80	
+grimminge	o0x	
+henry jarvis		5739:3
+henry jarvis raymond	5739	
+hewler	lyu	
+hister	4jzt	
+hister beetle	ltc	
+hister genus	4jzt	
+honnecourt		1xxh:3
+honnecourt sur		1xxh:3
+honnecourt sur escaut	1xxh	
+hoplopodion	87v	
+hornschuch	4lay	
+hrisi avgi	5f71	
+ichtyosis	5ifa	
+igoville	3ejk	
+iraklio	73j	
+jiyu minshu to	1vu	
+jiyu minshuto	1vu	
+kallaallit nunaat	17z	
+karpyshyn	5xhq	
+kazvin	byk	
+khotan	3yl9	
+khotan city	3yl9	
+khotan prefecture	3f52	
+kulinary gangsta	1mtb	
+le cellier	1v3v	
+lexus	2l05	
+lexus 2010	2l05	
+lexus comments	2l05	
+lexus international	2l05	
+lexus nexis	2dba	
+lexus nexus	2dba	
+lexus personalized settings	2l05	
+lhoka	1g8g	
+lhoka prefecture	1g8g	
+lhoka shannan prefecture	1g8g	
+linxia		25l0:2,3b1j:4
+linxia county	25l0	
+linxia hui		3b1j:4
+linxia hui autonomous		3b1j:4
+linxia hui autonomous prefecture	3b1j	
+linxia prefecture	3b1j	
+longessaigne	2mxp	
+maedhros	5umw	
+maedhros comments	5umw	
+mamas and pappas	2cn0	
+mamas and the papas	2cn0	
+mamas and the pappas	2cn0	
+mamas papas	2cn0	
+mamas the papas	2cn0	2cn0:4
+mamas waiting	777	
+marousion	fyx	
+marousion greece	fyx	
+mauricinho	3jd1	
+mc68hc000	9za	
+mesmont	3cbb	
+mesmont cote d or	3cbb	
+millbrook	3gsd	
+millbrook indiana	198p	
+millbrook new york	3gsd	
+millbrook ny	3gsd	
+mimocomma	1a95	
+mitshubishi	j89	
+montedio		5zz:2
+montedio yamagata	5zz	
+necrose	6fph	
+new zealnad	1r	
+ntva	giw	
+omerville	2tdp	
+omerville quebec	2zt5	
+paca	w9j	
+paca france	w9j	
+paca region	w9j	
+pandrogyny	3h6c	
+pauladeen	5cl3	
+pegataur	1gqo	
+perebendya	12ns	
+perey	5r4v	
+perey marguerite	5r4v	
+peter andrew buffett	5j9o	
+poruchik	87p	
+poruchik kizhe film	4ln8	
+rafelcofer	3zc6	
+renate	3ayn	1gc8:2,2pus:2,4974:2,4bqz:4,4fgo:2,4se0:2,54t9:2,5cb1:2,5she:2,63e5:2
+renate blume	5she	
+renate bracker	3356	
+renate brausewetter	4se0	
+renate chasman	4fgo	
+renate dodell	63e5	
+renate ewert	4974	
+renate im quartett	4bqz	
+renate in		4bqz:4
+renate in the		4bqz:4
+renate in the quartet	4bqz	
+renate kuenast	2pus	
+renate kunast	2pus	
+renate lingor	5cb1	
+renate mannhardt	54t9	
+renate mueller	1gc8	
+renate muller	1gc8	
+renate of france	2odd	
+renate wiener	4fgo	
+renate wiener chasman	4fgo	
+riesz frigyes	2cla	
+riesz marcell	30n3	
+riverrun a song of ice and fire	fd3	
+robert wyler	2pza	
+rokytnany	4db3	
+rudolfswert	5pn	
+saint flavy	3ql7	
+san julian de vilatorta	3q8z	
+semweb	2xz7	
+shindell richard	3e2z	
+sir harmar harmar nicholls 1st baronet	5xbi	
+sir harmar nicholls 1st baronet	5xbi	
+skelator	40m0	
+soloist	yns	yns:2
+sundargarh		1f78:2
+sundargarh district	1f78	
+swarmplayer	67ob	
+taenaris	5nko	
+tamarin01	4l1w	
+the conflict in palestine	d3w	
+the goldmind		3g0k:3
+the goldmind inc	3g0k	
+the ignobel prize	hqo	
+the joe zawinul syndicate	1hc2	
+the toggenburg	1ozn	
+tluii	6ge8	
+tsx2	31g	
+twtr	2r5r	
+udham		1ctw:4
+udham singh		1ctw:4
+udham singh nagar	1ctw	1ctw:4
+udham singh nagar district	1ctw	
+uhlsport rangers	7j1	
+vagan	1r7w	1r7w:2
+vagan kovskoye cemetery	30m	
+vagan municipality	1r7w	
+ven a bailar	4ys5	
+ven mi		5ri7:5
+ven mi corazon		5ri7:5
+ven mi corazon te		5ri7:5
+ven mi corazon te llama	5ri7	
+verka		2tgl:2
+verka serdjuchka	2tgl	
+verka serduchka	2tgl	
+verka serdyuchka	2tgl	
+villermain	42ox	
+vinca	1w5v,6gx0	
+wallingford	qda,te8	
+wallingford berkshire	qda	
+wallingford center	te8	
+wallingford center connecticut	te8	
+wallingford connecticut	te8	
+wallingford ct	te8	
+wallingford oxfordshire	qda	
+winneshiek		1cux:2
+winneshiek county	1cux	
+winneshiek county ia	1cux	
+winneshiek county iowa	1cux	
+wiyam		66xn:2
+wiyam amasha	66xn	
+wiyam amashe	66xn	
+xna framework	2d6f	
+xna game studio	2d6f	
+xna game studio 2 0	2d6f	
+xna game studio professional	2d6f	
+xna microsoft	2d6f	
+xna studio	2d6f	
+xplosiv	rca	
+yododono	46nd	
+zawiercie	15v2	1395:2
+zawiercie county	1395	
+zawiercie railway station	15v2	

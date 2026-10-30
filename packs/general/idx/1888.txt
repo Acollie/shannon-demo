@@ -1,0 +1,761 @@
+aeaea moth	1164	
+agrotikos		lt6:4
+agrotikos asteras	lt6	lt6:4
+agrotikos asteras f		lt6:4
+agrotikos asteras f c	lt6	
+alejo		3xxh:2,686c:4
+alejo carpanter	3xxh	
+alejo carpentier	3xxh	
+alejo carpentier valmont	3xxh	
+alejo carpentier y valmont	3xxh	
+alejo f carpentier y valmont	3xxh	
+alejo julio argentino roca	4c9v	
+alejo julio argentino roca paz	4c9v	
+alejo vidal		686c:4
+alejo vidal quadras	686c	686c:4
+alejo vidal quadras roca	686c	
+anemone	zwa,1gs3	
+arachnida	3t32	
+ashinagaidae	5s2	
+barcelonan	e4	
+bayxit	tn	
+biathlon	139	mdv:3,16oi:4,42vs:9,4g3d:9,4hyd:7,4v2c:9,4ydf:9,4zzf:9,50ei:7,51gh:7,53ss:7,55ik:9,56ym:9,5cki:9,5f0r:9,5g08:7,5j80:7,5kft:9,5uaw:9,5x8f:9
+biathlon at		42vs:9,4g3d:9,4hyd:7,4v2c:9,4ydf:9,4zzf:9,50ei:7,51gh:7,53ss:7,55ik:9,56ym:9,5cki:9,5f0r:9,5g08:7,5j80:7,5kft:9,5uaw:9,5x8f:9
+biathlon at the		42vs:9,4g3d:9,4hyd:7,4v2c:9,4ydf:9,4zzf:9,50ei:7,51gh:7,53ss:7,55ik:9,56ym:9,5cki:9,5f0r:9,5g08:7,5j80:7,5kft:9,5uaw:9,5x8f:9
+biathlon at the 1968		5j80:7
+biathlon at the 1968 winter		5j80:7
+biathlon at the 1968 winter olympics		5j80:7
+biathlon at the 1968 winter olympics relay	5j80	
+biathlon at the 1972		5g08:7
+biathlon at the 1972 winter		5g08:7
+biathlon at the 1972 winter olympics		5g08:7
+biathlon at the 1972 winter olympics relay	5g08	
+biathlon at the 1976		4hyd:7
+biathlon at the 1976 winter		4hyd:7
+biathlon at the 1976 winter olympics		4hyd:7
+biathlon at the 1976 winter olympics relay	4hyd	
+biathlon at the 1980		50ei:7
+biathlon at the 1980 winter		50ei:7
+biathlon at the 1980 winter olympics		50ei:7
+biathlon at the 1980 winter olympics relay	50ei	
+biathlon at the 1984		53ss:7
+biathlon at the 1984 winter		53ss:7
+biathlon at the 1984 winter olympics		53ss:7
+biathlon at the 1984 winter olympics relay	53ss	
+biathlon at the 1988		51gh:7
+biathlon at the 1988 winter		51gh:7
+biathlon at the 1988 winter olympics		51gh:7
+biathlon at the 1988 winter olympics relay	51gh	
+biathlon at the 1992		4ydf:9
+biathlon at the 1992 winter		4ydf:9
+biathlon at the 1992 winter olympics		4ydf:9
+biathlon at the 1992 winter olympics men		4ydf:9
+biathlon at the 1992 winter olympics men s		4ydf:9
+biathlon at the 1992 winter olympics men s relay	4ydf	
+biathlon at the 1994		55ik:9,56ym:9
+biathlon at the 1994 winter		55ik:9,56ym:9
+biathlon at the 1994 winter olympics		55ik:9,56ym:9
+biathlon at the 1994 winter olympics men		56ym:9
+biathlon at the 1994 winter olympics men s		56ym:9
+biathlon at the 1994 winter olympics men s relay	56ym	
+biathlon at the 1994 winter olympics women		55ik:9
+biathlon at the 1994 winter olympics women s		55ik:9
+biathlon at the 1994 winter olympics women s relay	55ik	
+biathlon at the 1998		4v2c:9,5kft:9
+biathlon at the 1998 winter		4v2c:9,5kft:9
+biathlon at the 1998 winter olympics		4v2c:9,5kft:9
+biathlon at the 1998 winter olympics men		4v2c:9
+biathlon at the 1998 winter olympics men s		4v2c:9
+biathlon at the 1998 winter olympics men s relay	4v2c	
+biathlon at the 1998 winter olympics women		5kft:9
+biathlon at the 1998 winter olympics women s		5kft:9
+biathlon at the 1998 winter olympics women s relay	5kft	
+biathlon at the 2002		4zzf:9,5x8f:9
+biathlon at the 2002 winter		4zzf:9,5x8f:9
+biathlon at the 2002 winter olympics		4zzf:9,5x8f:9
+biathlon at the 2002 winter olympics men		4zzf:9
+biathlon at the 2002 winter olympics men s		4zzf:9
+biathlon at the 2002 winter olympics men s relay	4zzf	
+biathlon at the 2002 winter olympics women		5x8f:9
+biathlon at the 2002 winter olympics women s		5x8f:9
+biathlon at the 2002 winter olympics women s relay	5x8f	
+biathlon at the 2006		5cki:9,5uaw:9
+biathlon at the 2006 winter		5cki:9,5uaw:9
+biathlon at the 2006 winter olympics		5cki:9,5uaw:9
+biathlon at the 2006 winter olympics men		5uaw:9
+biathlon at the 2006 winter olympics men s		5uaw:9
+biathlon at the 2006 winter olympics men s relay	5uaw	
+biathlon at the 2006 winter olympics women		5cki:9
+biathlon at the 2006 winter olympics women s		5cki:9
+biathlon at the 2006 winter olympics women s relay	5cki	
+biathlon at the 2010		42vs:9,4g3d:9
+biathlon at the 2010 winter		42vs:9,4g3d:9
+biathlon at the 2010 winter olympics		42vs:9,4g3d:9
+biathlon at the 2010 winter olympics men		4g3d:9
+biathlon at the 2010 winter olympics men s		4g3d:9
+biathlon at the 2010 winter olympics men s relay	4g3d	
+biathlon at the 2010 winter olympics women		42vs:9
+biathlon at the 2010 winter olympics women s		42vs:9
+biathlon at the 2010 winter olympics women s relay	42vs	
+biathlon at the 2014		5f0r:9
+biathlon at the 2014 winter		5f0r:9
+biathlon at the 2014 winter olympics		5f0r:9
+biathlon at the 2014 winter olympics men		5f0r:9
+biathlon at the 2014 winter olympics men s		5f0r:9
+biathlon at the 2014 winter olympics men s relay	5f0r	
+biathlon ski racing	139	
+biathlon world		mdv:3,16oi:4
+biathlon world championship	mdv	
+biathlon world championships	mdv	
+biathlon world championships bwch	mdv	
+biathlon world cup	16oi	16oi:4
+biathlon world cup champions	16oi	
+biathlon world cup medalists	16oi	
+biesles	1fy4	
+bombadillo	6guo	
+borgolavezzaro	34i7	
+broos	1bu1	
+buddhas of borobudur	6d3u	
+cajamarca	1fhu	gtr:2,34dy:2
+cajamarca city	1fhu	
+cajamarca department	gtr	
+cajamarca department of peru	gtr	
+cajamarca peru	gtr	
+cajamarca province	34dy	
+cajamarca region	gtr	
+camposanto	2qia	
+camposanto emilia romagna	2qia	
+cannondale		d21:3,k10:4
+cannondale 2016	d21	
+cannondale drapac		d21:3
+cannondale drapac 2016	d21	
+cannondale garmin	bjy	
+cannondale pro		k10:4
+cannondale pro cycling		k10:4
+cannondale pro cycling team	bjy,k10	
+charles steve	6bau	
+cilift	do1	
+cirpan	5jpx	
+claix	2y8h,3qni	
+claix charente	3qni	
+claix isere	2y8h	
+clergyperson	52r	
+corraline	6a4y	
+crespieres	1xo0	
+cronaca di un amore	3l86	
+cronaca di una morte annunciata	2977	
+cronaca familiare	31xf	
+cronaca familiare film	31xf	
+cronaca familiare novel	31xf	
+cronaca nera	4eur	
+dashrath stadium	3epr	
+david koechner	sex	
+david meza	3meo	
+david meza footballer	3meo	
+david rimawi	7w5	
+demographically	3pz	
+denes	1rsf	3xed:2,67xw:2
+denes first name	1rsf	
+denes gabor	12wy	
+denes given name	1rsf	
+denes koenig	67xw	
+denes konig	67xw	
+denes oliynyk	4hjq	
+denes rosa	3xed	
+deticene	5mt9	
+diencephalic	6fbv	
+disturbed1	mhx	
+driving		i0m:4,13l4:3,3hcp:2,3kpr:7
+driving game	11f	
+driving lessons	3hcp	
+driving licence		i0m:4
+driving licence in		i0m:4
+driving licence in russia	i0m	
+driving license in russia	i0m	
+driving me crazy	361h	
+driving me crazy film	2too	
+driving miss		13l4:3
+driving miss daisy	13l4	
+driving miss daisy film	13l4	
+driving ms daisy	13l4	
+driving the porcelain bus	fs9	
+driving under		3kpr:7
+driving under the		3kpr:7
+driving under the influence	3kpr	3kpr:7
+driving under the influence of		3kpr:7
+driving under the influence of a		3kpr:7
+driving under the influence of a drug	3kpr	
+driving under the influence of alcohol	3kpr	
+driving under the influence of intoxicants	3kpr	
+driving while intoxicated	3kpr	
+duets	2e7r,3owm	
+duets film	2e7r	
+duets glee	3owm	
+dyslipidaemia	1dnz	
+earache		4e0:2
+earache records	4e0	
+edward underdown	4hb5	
+edward waring	4q3f	
+ernoe dohnanyi	2x4p	
+ernoe goldfinger	3gpn	
+ernoe rapee	1oad	
+ernoe rubik	5yiw	
+ethiopian		qri:4,wjs:2,139l:3,4ht0:2,4hug:3,612g:2
+ethiopian air force an 26 14 jan 1982	1iwr	
+ethiopian air lines	4ht0	
+ethiopian airline	4ht0	
+ethiopian airlines	4ht0	
+ethiopian airlines cargo	4ht0	
+ethiopian airlines enterprise	4ht0	
+ethiopian airlines fleet	4ht0	
+ethiopian airlines sc	4ht0	
+ethiopian airways	4ht0	
+ethiopian church	qri	
+ethiopian coffee		4hug:3
+ethiopian coffee f c	4hug	
+ethiopian coffee fc	4hug	
+ethiopian coffee s c	4hug	
+ethiopian emperor	gh9	
+ethiopian emperors family tree	gh9	
+ethiopian empire	wjs	
+ethiopian ethnological museum	3zi	
+ethiopian highland	612g	
+ethiopian highlands	612g	
+ethiopian imperial court	gh9	
+ethiopian kingdom of aksum	1o5l	
+ethiopian montane forest	612g	
+ethiopian montane forests	612g	
+ethiopian montane grasslands and woodlands	612g	
+ethiopian montane moorlands	612g	
+ethiopian national football team	8yq	
+ethiopian natural history museum	3zi	
+ethiopian orthodox		qri:4
+ethiopian orthodox christian	qri	
+ethiopian orthodox christianity	qri	
+ethiopian orthodox church	qri	
+ethiopian orthodox tewahedo	qri	qri:4
+ethiopian orthodox tewahedo church	qri	
+ethiopian orthodoxy	qri	
+ethiopian plateau	612g	
+ethiopian premier		139l:3
+ethiopian premier league	139l	
+ethiopian president	5yul	
+ethiopian somali regional state	43fe	
+ethiopian somali war	33jw	
+ethiopian somali wars	33jw	
+ethiopian somalian war	33jw	
+ethiopian tale	3nvm	
+ethiopian tewahedo church	qri	
+ethiopian thebes	rwu	
+fall	1y8j,2dk1	6xh:2,i01:3,izu:4,lrs:2,1fv7:3,2dk1:2,2ixt:2,4v71:2,5kdz:4,63qe:4
+fall accident	6f8e	
+fall and redemption of man	5oyk	
+fall and rise of reginald perrin	3s7z	3s7z:7
+fall apart	ruu	
+fall band	lrs	
+fall barbarossa	1hpw	
+fall barley	5kge	
+fall classic	ajf	
+fall etymology	1y8j	
+fall from grace greeley	1lc5	
+fall guy	4v71	
+fall in love lie	6b9h	
+fall in lynn	6gl4	
+fall injury	6f8e	
+fall justin bieber song	4irz	
+fall mechanical	6f8e	
+fall of		5kdz:4
+fall of ako castle	55h4	55h4:5
+fall of angels	13bw	
+fall of asuncion	uaf	
+fall of because	2b6s	
+fall of berlin	1sgw,66po	66po:4
+fall of coruscant	6ghu	
+fall of france	8jq	
+fall of hyperion		6e2m:4
+fall of italy	3xnv	3xnv:4
+fall of london war of the worlds	2u8i	
+fall of man		2a6h:4,2oqq:4
+fall of new france	1jto	
+fall of new jersey	sjl	
+fall of new york	sjl	
+fall of nom pen	1tbc	
+fall of paris	8jq	
+fall of phnom penh	1tbc	
+fall of pnom penh	1tbc	
+fall of poland	cby	
+fall of rock and roll	68ka	68ka:6
+fall of rome	36qx	36qx:4
+fall of saipan	4zc3	
+fall of satan	13bw	
+fall of the		5kdz:4
+fall of the foot clan	67tu	
+fall of the julio claudian	1wgp	
+fall of the king		4mdp:5
+fall of the mohicans	5kdz	
+fall of the qin	6f1p	
+fall of the roman empire	vrk	vrk:6
+fall of the roman empire film	vrk	
+fall of the wall	6csh	
+fall of troy	onm	
+fall of yorktown	6g08	
+fall out		i01:3
+fall out boy	i01	
+fall out boy s fourth full length album	4ouw	
+fall out boys	i01	
+fall outboy	i01	
+fall over	4dm9	
+fall rise of reginald perrin	3s7z	
+fall river	6xh	izu:4,1fv7:3,63qe:4
+fall river county	1fv7	
+fall river county sd	1fv7	
+fall river county south dakota	1fv7	
+fall river f		izu:4,63qe:4
+fall river f c	izu,63qe	
+fall river fc	63qe	
+fall river field club	63qe	
+fall river football club	63qe	
+fall river historical society	6xh	
+fall river ma	6xh	
+fall river marksmen	izu	
+fall river mass	6xh	
+fall river massachusetts	6xh	
+fall river massachusetts comments	6xh	
+fall river public library	6xh	
+fall safety net	6f8e	
+fall season	1y8j	
+fasandrberne	1yzx	
+ferarri	98j	
+frederick hugh herbert	ru0	
+frederick hugh sykes	5r12	
+george trevelyan 2nd baronet	1v9e	
+georgius	7ev,qw0	51pn:5
+georgius acropolita	4onl	
+georgius acropolites	4onl	
+georgius agricola	3y36	
+georgius bartholomaei vecha	5ezf	
+georgius first name	qw0	
+georgius florentius	624x	
+georgius gemistus pletho	38j8	
+georgius gemistus plethon	38j8	
+georgius given name	qw0	
+georgius iakumidis	4r53	
+georgius j j van os	51pn	
+georgius jacobus		51pn:5
+georgius jacobus johannes		51pn:5
+georgius jacobus johannes van		51pn:5
+georgius jacobus johannes van os	51pn	
+georgius jacobus johannes van os 1782 1861	51pn	
+georgius jacobus van os	51pn	
+georgius pachymeres	64fy	
+georgius van os	51pn	
+gircourt		20qo:3
+gircourt les		20qo:3
+gircourt les vieville	20qo	
+gmina bestwina	4djc	
+godramstein	jog	
+gok ji park	127e	
+haelwig of schleswig	4wh9	
+haelwig of sweden	2bf1	
+himmighausen	5e2m	
+hw bush	7b4	
+hw lenstra jr	2wqq	
+ibetha	p4t	
+ishmail	3eog	3p5i:2
+ishmail kamara	3p5i	
+jean muir	3a0w	
+jean muir actress	3a0w	
+jean muir fullarton	3a0w	
+jean muir fullerton	3a0w	
+kanje west	6nd	
+kanlurang		cs6:2
+kanlurang mindoro	10jn	
+kanlurang misamis	ops	
+kanlurang negros	cs6	
+kemionsaari	2guo	
+khajeh abdollah ansari	3q67	
+khajeh nasir toosi	wll	
+la tourlandry	3feg	
+landrecourt		24yv:2
+landrecourt lempire	24yv	
+lasseran	3i5m	
+libiaz commune	5sn4	
+loafer	5uee	
+loafer 2015 film	5uee	
+loafer wolves	ihs	
+losangeleslakerscoach	2cw	
+maan waa	2gg5	
+manisharma	80y	
+mathamatician	58	
+micmacs	2t7n	
+micmacs 2009 film	2t7n	
+micmacs a tire larigot	2t7n	
+micmacs film	2t7n	
+micmacs movie	2t7n	
+middleboot knotts	1m8i	
+mindi jackson	2gpd	
+mitrogan nedelin	1xez	
+mohammadu buhari	3bru	
+moldovian soviet socialist republic	gka	
+moldovian ssr	gka	
+monhamed fellag	4h0a	
+mypy	2j2	
+national series	4b57	
+nauen	4wfl	
+neelu phule	3ywb	
+nega maxim fadeev album	2tux	
+new chargers stadium	6gs7	
+oberhauzen	8p5	
+oberhohnsdorf	8gb	
+obse	bf4	
+odoakar	6g68	
+onkel		22qh:3,46nq:4,5hzv:5
+onkel bill		5hzv:5
+onkel bill fra		5hzv:5
+onkel bill fra new		5hzv:5
+onkel bill fra new york	5hzv	
+onkel brasig	21uf	
+onkel filser		46nq:4
+onkel filser allerneueste		46nq:4
+onkel filser allerneueste lausbubengeschichten	46nq	
+onkel joakims		22qh:3
+onkel joakims hemmelighed	22qh	
+onkel toms hutte	2fcx	
+permanente		16hw:2
+permanente metals	16hw	
+permanente metals company	16hw	
+permanente metals corp	16hw	
+permanente metals corporation	16hw	
+phitsanuloke	2dew	
+praetoria	1y9	
+prikosice	3iga	
+princess anna	67lj	1h1w:5,1m3v:4,1xh2:4,24rx:4,2oyu:6,51hk:7,53sq:4
+princess anna amalia of brunswick wolfenbuttel	1888	
+princess anna amalia of prussia	1p4s	
+princess anna amalie of prussia	1p4s	
+princess anna elisabeth bibesco bassaraba de brancovan	5djc	
+princess anna kaiulani	4kkg	
+princess anna maria of saxony	39qb	
+princess anna maria of sweden	1bo0	
+princess anna of		1m3v:4,1xh2:4,24rx:4,51hk:7,53sq:4
+princess anna of arendelle	67lj	
+princess anna of battenberg	1m3v	
+princess anna of hesse		51hk:7
+princess anna of hesse and		51hk:7
+princess anna of hesse and by		51hk:7
+princess anna of hesse and by rhine	51hk	
+princess anna of hesse and by rhine 1843 1865	51hk	
+princess anna of montenegro	1m3v	
+princess anna of prussia	24rx	
+princess anna of saxony	1xh2	
+princess anna of saxony 1836 1859	39qb	
+princess anna of saxony 18361859	39qb	
+princess anna of saxony 1903 1976	1xh2	
+princess anna of saxony 19031976	1xh2	
+princess anna of saxony 1929 2012	49r9	
+princess anna of saxony 19292012	49r9	
+princess anna of saxony b 1929	49r9	
+princess anna of sweden	53sq	
+princess anna sophie		1h1w:5,2oyu:6
+princess anna sophie of		1h1w:5,2oyu:6
+princess anna sophie of denmark	1h1w	
+princess anna sophie of schwarzburg		2oyu:6
+princess anna sophie of schwarzburg rudolstadt	2oyu	
+princess anna teresa of savoy	5xov	
+princess anna zofia sapieha	4620	
+qawwal	16ap	
+quoth	5ti4	
+quoth the raven	6hhe	
+quoth the raven nevermore	6hhe	
+r5	1nam	
+r5 band	1nam	
+r5 family band	1nam	
+rablay	46hu	46hu:3
+rablay sur		46hu:3
+rablay sur layon	46hu	
+rapperswil	3a4f	1fgx:2,37ie:4
+rapperswil jona	1fgx	
+rapperswil jona lakers	jas	
+rapperswil jona sg	1fgx	
+rapperswil railway station	37ie	
+rapperswil sg	3a4f	37ie:4
+rapperswil sg railway		37ie:4
+rapperswil sg railway station	37ie	
+rapperswil st gall	3a4f	
+rapperswil st gallen	3a4f	
+rapperswil switzerland	3a4f	
+rapperswil train station	37ie	
+reino	4u5q	56op:2
+reino de espana	v	
+reino de navarra	z6f	
+reino de portugal	8tw	
+reino hulandes	3a	
+reino paasilinna	56op	
+santha		2zwy:2
+santha kumari	2zwy	
+sattelite	c3h	
+scribd	5fir	
+scribd com	5fir	
+scribd inc	5fir	
+sloop	kau,o0u	kau:3
+sloop of		kau:3
+sloop of war	kau	
+sloop rigged	o0u	
+sneha	n0l	461j:2,61ej:2
+sneha actress	n0l	
+sneha khanwalkar	461j	
+sneha ullal	61ej	
+sorcerer	rqp,3r8e,4vao,6807	
+sorcerer and the white snake	386j	386j:6
+sorcerer computer game	6807	
+sorcerer fantasy	3r8e	
+sorcerer film	rqp	
+sorcerer game	6807	
+sorcerer horse	4vao	
+sorcerer movie	rqp	
+sorcerer s apprentice	17zc	17zc:4,2keb:4
+sorcerer video game	6807	
+steal	49o6	5m93:3
+steal baseball	6hv6	
+steal butterfly	3iiz	
+steal film	49o6	
+steal this		5m93:3
+steal this movie	5m93	
+strumilin	4tdu	
+teddekker	18ge	
+teenage	5zrd	g4f:4,k90:8,m1k:4,o3l:10,qy1:5,ri9:4,xh9:9,1jf9:4,1kbi:5,1usv:2,1uum:4,1x2c:4,28xy:4,2f44:9,2sva:2,2t63:4,2vsf:9,32ca:7,39i9:9,3faq:9,3j2n:9,3tp2:2,3u1i:6,3wo6:9,41j0:9,41sx:4,43l6:9,43uh:9,45xh:4,461h:7,485z:4,49ki:9,4cqf:7,4j1o:7,4lj4:2,4m39:8,4mz0:3,4q68:6,4s3a:6,53h6:8,5a0l:9,5aea:9,5aik:9,5awa:6,5drb:2,5g94:9,5gv2:9,5igw:8,5jhj:7,5jhr:9
+teenage apocalypse trilogy	3n19	
+teenage bodybuilding	ebr	
+teenage boy	5zrd	
+teenage cave		4mz0:3
+teenage cave man	4mz0	
+teenage caveman 1958 film	4mz0	
+teenage doll	61fq	
+teenage dream	1usv,4lj4	
+teenage dream katy perry album	1usv	
+teenage dream katy perry song	4lj4	
+teenage fan club	2sva	
+teenage fanclub	2sva	
+teenage girls	5zrd	
+teenage muntant ninja turtles 2 battle nexus	461h	
+teenage musicians	3d	
+teenage mutant		g4f:4,k90:8,m1k:4,o3l:10,qy1:5,ri9:4,xh9:9,1jf9:4,1kbi:5,1uum:4,1x2c:4,28xy:4,2f44:9,2t63:4,2vsf:9,32ca:7,39i9:9,3faq:9,3j2n:9,3u1i:6,3wo6:9,41j0:9,41sx:4,43l6:9,43uh:9,45xh:4,461h:7,485z:4,49ki:9,4cqf:7,4j1o:7,4m39:8,4q68:6,4s3a:6,53h6:8,5a0l:9,5aea:9,5aik:9,5awa:6,5g94:9,5gv2:9,5igw:8,5jhj:7,5jhr:9,648m:6,67tu:9,69ri:4,6ctk:9
+teenage mutant hero turtles	ri9	
+teenage mutant hero turtles arcade game	485z	
+teenage mutant hero turtles ii the arcade game	485z	
+teenage mutant hero turtles the hyperstone heist	5jhj	
+teenage mutant hero turtles tournament fighters	3u1i	
+teenage mutant hero turtles turtles in time	32ca	
+teenage mutant ninja		g4f:4,k90:8,m1k:4,o3l:10,qy1:5,ri9:4,xh9:9,1jf9:4,1kbi:5,1uum:4,1x2c:4,28xy:4,2f44:9,2t63:4,2vsf:9,32ca:7,39i9:9,3faq:9,3j2n:9,3u1i:6,3wo6:9,41j0:9,41sx:4,43l6:9,43uh:9,45xh:4,461h:7,485z:4,49ki:9,4cqf:7,4j1o:7,4m39:8,4q68:6,4s3a:6,53h6:8,5a0l:9,5aea:9,5aik:9,5awa:6,5g94:9,5gv2:9,5igw:8,5jhj:7,5jhr:9,648m:6,67tu:9,69ri:4,6ctk:9
+teenage mutant ninja turtle	41sx	
+teenage mutant ninja turtles	g4f,m1k,ri9,1jf9,1uum,1x2c,28xy,2t63,41sx,45xh,485z,69ri	k90:8,o3l:10,qy1:5,xh9:9,1kbi:5,2f44:9,2vsf:9,32ca:7,39i9:9,3faq:9,3j2n:9,3u1i:6,3wo6:9,41j0:9,43l6:9,43uh:9,461h:7,49ki:9,4cqf:7,4j1o:7,4m39:8,4q68:6,4s3a:6,53h6:8,5a0l:9,5aea:9,5aik:9,5awa:6,5g94:9,5gv2:9,5igw:8,5jhj:7,5jhr:9,648m:6,67tu:9,6ctk:9
+teenage mutant ninja turtles 1987	ri9	xh9:9,2f44:9,39i9:9,43l6:9,5aik:9,5g94:9,5gv2:9,5jhr:9
+teenage mutant ninja turtles 1987 96 series season 1	5g94	
+teenage mutant ninja turtles 1987 96 series season 2	5aik	
+teenage mutant ninja turtles 1987 96 series season 3	39i9	
+teenage mutant ninja turtles 1987 96 series season 4	2f44	
+teenage mutant ninja turtles 1987 96 series season 5	43l6	
+teenage mutant ninja turtles 1987 96 series season 6	5gv2	
+teenage mutant ninja turtles 1987 96 series season 7	xh9	
+teenage mutant ninja turtles 1987 animated series	ri9	
+teenage mutant ninja turtles 1987 cartoon	ri9	
+teenage mutant ninja turtles 1987 season 1	5g94	
+teenage mutant ninja turtles 1987 series	ri9	
+teenage mutant ninja turtles 1987 tv		xh9:9,2f44:9,39i9:9,43l6:9,5aik:9,5g94:9,5gv2:9,5jhr:9
+teenage mutant ninja turtles 1987 tv series	ri9	xh9:9,2f44:9,39i9:9,43l6:9,5aik:9,5g94:9,5gv2:9,5jhr:9
+teenage mutant ninja turtles 1987 tv series season		xh9:9,2f44:9,39i9:9,43l6:9,5aik:9,5g94:9,5gv2:9,5jhr:9
+teenage mutant ninja turtles 1987 tv series season 1	5g94	
+teenage mutant ninja turtles 1987 tv series season 2	5aik	
+teenage mutant ninja turtles 1987 tv series season 3	39i9	
+teenage mutant ninja turtles 1987 tv series season 4	2f44	
+teenage mutant ninja turtles 1987 tv series season 5	43l6	
+teenage mutant ninja turtles 1987 tv series season 6	5gv2	
+teenage mutant ninja turtles 1987 tv series season 7	xh9	
+teenage mutant ninja turtles 1987 tv series season 8	5jhr	
+teenage mutant ninja turtles 1990 film	m1k	
+teenage mutant ninja turtles 1990 movie	m1k	
+teenage mutant ninja turtles 2	o3l	461h:7
+teenage mutant ninja turtles 2 2016 film	k90	
+teenage mutant ninja turtles 2 2016 movie	k90	
+teenage mutant ninja turtles 2 back from the sewers	6ctk	
+teenage mutant ninja turtles 2 battle		461h:7
+teenage mutant ninja turtles 2 battle nexus	461h	
+teenage mutant ninja turtles 2 half shell	k90	
+teenage mutant ninja turtles 2 out of the shadows	k90	
+teenage mutant ninja turtles 2 the arcade game	485z	
+teenage mutant ninja turtles 2 the secret of the ooze	o3l	
+teenage mutant ninja turtles 2003		3j2n:9,41j0:9,43uh:9,5a0l:9
+teenage mutant ninja turtles 2003 cartoon	1jf9	
+teenage mutant ninja turtles 2003 game	45xh	
+teenage mutant ninja turtles 2003 season 1	5a0l	
+teenage mutant ninja turtles 2003 season 2	41j0	
+teenage mutant ninja turtles 2003 season 3	43uh	
+teenage mutant ninja turtles 2003 season 4	3j2n	
+teenage mutant ninja turtles 2003 series	1jf9	
+teenage mutant ninja turtles 2003 tv		3j2n:9,41j0:9,43uh:9,5a0l:9
+teenage mutant ninja turtles 2003 tv series	1jf9	3j2n:9,41j0:9,43uh:9,5a0l:9
+teenage mutant ninja turtles 2003 tv series season		3j2n:9,41j0:9,43uh:9,5a0l:9
+teenage mutant ninja turtles 2003 tv series season 1	5a0l	
+teenage mutant ninja turtles 2003 tv series season 2	41j0	
+teenage mutant ninja turtles 2003 tv series season 3	43uh	
+teenage mutant ninja turtles 2003 tv series season 4	3j2n	
+teenage mutant ninja turtles 2003 video game	45xh	
+teenage mutant ninja turtles 2007	jpt	
+teenage mutant ninja turtles 2007 film	jpt	
+teenage mutant ninja turtles 2012	1x2c	2vsf:9,3faq:9,3wo6:9,5aea:9
+teenage mutant ninja turtles 2012 nickelodeon tv series	1x2c	
+teenage mutant ninja turtles 2012 tv		2vsf:9,3faq:9,3wo6:9,5aea:9
+teenage mutant ninja turtles 2012 tv series	1x2c	2vsf:9,3faq:9,3wo6:9,5aea:9
+teenage mutant ninja turtles 2012 tv series season		2vsf:9,3faq:9,3wo6:9,5aea:9
+teenage mutant ninja turtles 2012 tv series season 2	5aea	
+teenage mutant ninja turtles 2012 tv series season 3	3faq	
+teenage mutant ninja turtles 2012 tv series season 4	2vsf	
+teenage mutant ninja turtles 2012 tv series season 5	3wo6	
+teenage mutant ninja turtles 2014	g4f	
+teenage mutant ninja turtles 2014 3ds game	3l66	
+teenage mutant ninja turtles 2014 film	g4f	
+teenage mutant ninja turtles 2014 movie	g4f	
+teenage mutant ninja turtles 2014 video game	g4f	
+teenage mutant ninja turtles 2018	3fpw	
+teenage mutant ninja turtles 3	qy1	4cqf:7
+teenage mutant ninja turtles 3 mutant		4cqf:7
+teenage mutant ninja turtles 3 mutant nightmare	4cqf	
+teenage mutant ninja turtles 3 the manhattan project	5igw	
+teenage mutant ninja turtles 4 turtles in time	32ca	
+teenage mutant ninja turtles 5	g4f	
+teenage mutant ninja turtles adventures	1kbi	
+teenage mutant ninja turtles an imax 3d experience	k90	
+teenage mutant ninja turtles arcade attack	3l66	
+teenage mutant ninja turtles arcade game	485z	
+teenage mutant ninja turtles archie comics	1kbi	
+teenage mutant ninja turtles back from the sewers	6ctk	
+teenage mutant ninja turtles battle nexus	461h	
+teenage mutant ninja turtles comic book	1uum	
+teenage mutant ninja turtles danger		4m39:8
+teenage mutant ninja turtles danger of		4m39:8
+teenage mutant ninja turtles danger of the		4m39:8
+teenage mutant ninja turtles danger of the ooze	4m39	
+teenage mutant ninja turtles danger of the ooze 2014 video game	3l66	
+teenage mutant ninja turtles fall		67tu:9
+teenage mutant ninja turtles fall of		67tu:9
+teenage mutant ninja turtles fall of the		67tu:9
+teenage mutant ninja turtles fall of the foot		67tu:9
+teenage mutant ninja turtles fall of the foot clan	67tu	
+teenage mutant ninja turtles fast forward 2006 tv series	1jf9	
+teenage mutant ninja turtles film series	5awa	
+teenage mutant ninja turtles game boy advance	69ri	
+teenage mutant ninja turtles gamecube	45xh	
+teenage mutant ninja turtles gba game	45xh	
+teenage mutant ninja turtles half shell	k90	
+teenage mutant ninja turtles handheld game	69ri	
+teenage mutant ninja turtles home video game	2t63	
+teenage mutant ninja turtles hyperstone heist	5jhj	
+teenage mutant ninja turtles idw	28xy	
+teenage mutant ninja turtles idw comics	28xy	
+teenage mutant ninja turtles idw publishing	28xy	
+teenage mutant ninja turtles ii	6ctk	o3l:10,6ctk:9
+teenage mutant ninja turtles ii 2016 movie	k90	
+teenage mutant ninja turtles ii back		6ctk:9
+teenage mutant ninja turtles ii back from		6ctk:9
+teenage mutant ninja turtles ii back from the		6ctk:9
+teenage mutant ninja turtles ii back from the sewers	6ctk	
+teenage mutant ninja turtles ii battle nexus	461h	
+teenage mutant ninja turtles ii out of the shadows	k90	
+teenage mutant ninja turtles ii the		o3l:10
+teenage mutant ninja turtles ii the arcade game	485z	
+teenage mutant ninja turtles ii the secret		o3l:10
+teenage mutant ninja turtles ii the secret of		o3l:10
+teenage mutant ninja turtles ii the secret of the		o3l:10
+teenage mutant ninja turtles ii the secret of the ooze	o3l	
+teenage mutant ninja turtles iii	qy1	5igw:8
+teenage mutant ninja turtles iii manhattan project	5igw	
+teenage mutant ninja turtles iii mutant nightmare	4cqf	
+teenage mutant ninja turtles iii the		5igw:8
+teenage mutant ninja turtles iii the manhattan		5igw:8
+teenage mutant ninja turtles iii the manhattan project	5igw	
+teenage mutant ninja turtles iii turtles in time	qy1	
+teenage mutant ninja turtles image comics	1uum	
+teenage mutant ninja turtles in		5awa:6
+teenage mutant ninja turtles in film	5awa	
+teenage mutant ninja turtles iv turtles in time	32ca	
+teenage mutant ninja turtles legend of the supermutants	39v0	
+teenage mutant ninja turtles magazine	ri9	
+teenage mutant ninja turtles manhattan		648m:6
+teenage mutant ninja turtles manhattan missions	648m	
+teenage mutant ninja turtles manhattan project	5igw	
+teenage mutant ninja turtles mirage comics	1uum	
+teenage mutant ninja turtles mirage studios	1uum	
+teenage mutant ninja turtles movie	m1k	
+teenage mutant ninja turtles mutant		4q68:6
+teenage mutant ninja turtles mutant melee	4q68	
+teenage mutant ninja turtles mutant nightmare	4cqf	
+teenage mutant ninja turtles mutants		4j1o:7
+teenage mutant ninja turtles mutants in		4j1o:7
+teenage mutant ninja turtles mutants in manhattan	4j1o	
+teenage mutant ninja turtles nes	2t63	
+teenage mutant ninja turtles nes game	2t63	
+teenage mutant ninja turtles nes video game	2t63	
+teenage mutant ninja turtles nintendo entertainment system	2t63	
+teenage mutant ninja turtles out		k90:8,53h6:8
+teenage mutant ninja turtles out of		k90:8,53h6:8
+teenage mutant ninja turtles out of the		k90:8,53h6:8
+teenage mutant ninja turtles out of the shadows	k90,53h6	
+teenage mutant ninja turtles out of the shadows video game	53h6	
+teenage mutant ninja turtles return of the shredder	5jhj	
+teenage mutant ninja turtles smash		4s3a:6
+teenage mutant ninja turtles smash up	4s3a	
+teenage mutant ninja turtles super kame ninja	485z	
+teenage mutant ninja turtles the		5jhj:7
+teenage mutant ninja turtles the animated series	1jf9	
+teenage mutant ninja turtles the arcade game	485z	
+teenage mutant ninja turtles the hyperstone		5jhj:7
+teenage mutant ninja turtles the hyperstone heist	5jhj	
+teenage mutant ninja turtles the manhattan missions	648m	
+teenage mutant ninja turtles the manhattan project	5igw	
+teenage mutant ninja turtles the movie	m1k	
+teenage mutant ninja turtles the next mutation	2bep	
+teenage mutant ninja turtles the original movie	m1k	
+teenage mutant ninja turtles theme	ri9	
+teenage mutant ninja turtles tournament		3u1i:6
+teenage mutant ninja turtles tournament fighters	3u1i	
+teenage mutant ninja turtles turtles		32ca:7,49ki:9
+teenage mutant ninja turtles turtles forever	4a6w	
+teenage mutant ninja turtles turtles in		32ca:7,49ki:9
+teenage mutant ninja turtles turtles in time	32ca	49ki:9
+teenage mutant ninja turtles turtles in time arcade game	32ca	
+teenage mutant ninja turtles turtles in time re		49ki:9
+teenage mutant ninja turtles turtles in time re shelled	49ki	
+teenage mutant ninja turtles v	g4f	
+teenage mutant ninja turtles v tournament fighters	3u1i	
+teenage mutant ninja turtles video game	3l66	
+teenage mutant ninja turtles video games	3l66	
+teenage psychology	5zrd	
+teenage rebel	5drb	
+teenage sitcom	6rf	
+teenage t rex	4y8i	
+teenage wolfpack	3tp2	
+terrorista	3kbm	
+the breakthrough	5gbp	
+the breakthrough politics and race in the age of obama	3fu0	
+the cognitive style of powerpoint	5deu	
+the oneders	1inl	
+the suffragette	39d6	
+the suffragette journal	39d6	
+theologians	7m1	
+tradeshow	q9g	
+tremonzey	3pvp	
+trichovalva	awo	
+tseretelli	5hms	
+tuure		5dba:2
+tuure lehen	5dba	
+tuure valdemar lehen	5dba	
+ugu district		4b63:3
+ugu district municipality	4b63	
+villach	aio	ucq:3
+villach austria	aio	
+villach land	ucq	ucq:3
+villach land district	ucq	
+villach vsv	5dqm	
+vonitra	l88	
+wannehain	418x	
+wpqb669	hjr	

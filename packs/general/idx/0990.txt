@@ -1,0 +1,1168 @@
+199798		bvc:3,ypp:4,109r:4,11l6:4,1r8t:4,21zz:3,2jys:2
+199798 bundesliga	21zz	
+199798 cypriot		bvc:3,ypp:4,109r:4,11l6:4,1r8t:4
+199798 cypriot cup	bvc	
+199798 cypriot first		ypp:4
+199798 cypriot first division	ypp	
+199798 cypriot fourth		1r8t:4
+199798 cypriot fourth division	1r8t	
+199798 cypriot second		11l6:4
+199798 cypriot second division	11l6	
+199798 cypriot third		109r:4
+199798 cypriot third division	109r	
+199798 ekstraklasa	2jys	
+199798 fuball		21zz:3
+199798 fuball bundesliga	21zz	
+199798 fussball bundesliga	21zz	
+199798 woking f c season	3xw	
+2007	b52	bob:5,eyr:4,krf:6,nb0:3,nhd:3,rda:4,yb3:3,1mlv:2,1pqm:3,244w:2,29t4:3,2hpg:4,2syp:6,2xdi:5,34yw:4,37ih:3,384v:7,38n0:7,3b27:6,3db1:4,3j36:5,41av:4,41ju:4,456l:3,4kzl:4,4q56:5,4r7t:3,4swi:2,51dc:3,583o:4,58bz:4,5d9f:6,5fk0:5,5fsx:5,5ia5:5,5izc:3,5lf6:4,5lpv:4,5oep:6,5qdy:4,5sz3:4,6hkm:4
+2007 07	b52	
+2007 08 bundesliga	1vub	
+2007 08 cypriot cup	b06	
+2007 08 cypriot first division	v3k	
+2007 08 cypriot fourth division	1b8o	
+2007 08 cypriot second division	yah	
+2007 08 cypriot third division	17hg	
+2007 08 ekstraklasa	2szk	
+2007 08 fuball bundesliga	1vub	
+2007 08 fussball bundesliga	1vub	
+2007 08 hoofdklasse	nyg	
+2007 08 national division one teams	195p	
+2007 12 global financial crisis	3epc	
+2007 abn		5oep:6
+2007 abn amro		5oep:6
+2007 abn amro world		5oep:6
+2007 abn amro world tennis		5oep:6
+2007 abn amro world tennis tournament	5oep	
+2007 acura		4r7t:3
+2007 acura classic	4r7t	
+2007 afl		2hpg:4
+2007 afl finals	2hpg	2hpg:4
+2007 afl finals series	2hpg	
+2007 all		34yw:4
+2007 all africa		34yw:4
+2007 all africa games	34yw	
+2007 all african games	34yw	
+2007 anz tasmanian international	5sz3	
+2007 asian		eyr:4
+2007 asian winter		eyr:4
+2007 asian winter games	eyr	
+2007 asian winter games medal table	eyr	
+2007 athletics world championships	bob	
+2007 australian		1pqm:3
+2007 australian open	1pqm	
+2007 badminton		384v:7,38n0:7,3b27:6,4kzl:4
+2007 badminton world		384v:7,38n0:7,3b27:6,4kzl:4
+2007 badminton world championships	4kzl	384v:7,38n0:7,3b27:6
+2007 badminton world championships men		384v:7
+2007 badminton world championships men s		384v:7
+2007 badminton world championships men s doubles	384v	
+2007 badminton world championships mixed		3b27:6
+2007 badminton world championships mixed doubles	3b27	
+2007 badminton world championships women		38n0:7
+2007 badminton world championships women s		38n0:7
+2007 badminton world championships women s doubles	38n0	
+2007 bank		5d9f:6
+2007 bank of		5d9f:6
+2007 bank of the		5d9f:6
+2007 bank of the west		5d9f:6
+2007 bank of the west classic	5d9f	
+2007 bausch		5lf6:4
+2007 bausch lomb		5lf6:4
+2007 bausch lomb championships	5lf6	
+2007 bwf world championships	4kzl	
+2007 bwf world championships men s doubles	384v	
+2007 bwf world championships mixed doubles	3b27	
+2007 bwf world championships women s doubles	38n0	
+2007 ce	b52	
+2007 challenge		5izc:3
+2007 challenge bell	5izc	
+2007 copa		29t4:3
+2007 copa america	29t4	
+2007 danish municipal reform	c9l	
+2007 dfs		51dc:3
+2007 dfs classic	51dc	
+2007 eurobasket	2hcd	
+2007 european basketball championship	2hcd	
+2007 eurovision	7na	
+2007 eurovision song contest	7na	
+2007 f1	2xdi	
+2007 f1 season	2xdi	
+2007 family		5qdy:4
+2007 family circle		5qdy:4
+2007 family circle cup	5qdy	
+2007 fia formula one world championship	2xdi	
+2007 fiba eurobasket	2hcd	
+2007 fiba europe championship	2hcd	
+2007 fis nordic world ski championships	4qm	
+2007 formula		2xdi:5
+2007 formula 1	2xdi	
+2007 formula 1 season	2xdi	
+2007 formula one	2xdi	2xdi:5
+2007 formula one season	2xdi	
+2007 formula one world		2xdi:5
+2007 formula one world championship	2xdi	
+2007 formula1 season	2xdi	
+2007 french		37ih:3,41av:4
+2007 french open	37ih	
+2007 french open seeds	37ih	
+2007 french open tennis	37ih	
+2007 french presidential		41av:4
+2007 french presidential election	41av	
+2007 french presidential elections	41av	
+2007 gent wevelgem	4swi	
+2007 gentwevelgem	4swi	
+2007 german open tennis	5ia5	
+2007 grand prix de denain	2p3v	
+2007 hansol		5lpv:4
+2007 hansol korea		5lpv:4
+2007 hansol korea open	5lpv	
+2007 hansol korea open tennis championships	5lpv	
+2007 holland		583o:4
+2007 holland ladies		583o:4
+2007 holland ladies tour	583o	
+2007 hugo award for best dramatic presentation short form	7ln	
+2007 iaaf world championships	bob	
+2007 ibf world championships	4kzl	
+2007 iditarod	1mlv	
+2007 junior eurovision song contest	5t0s	
+2007 masters	244w	
+2007 masters snooker	244w	
+2007 may	b52	
+2007 moorilla		5sz3:4
+2007 moorilla hobart		5sz3:4
+2007 moorilla hobart international	5sz3	
+2007 national hockey league entry draft	6hkm	
+2007 nhl		6hkm:4
+2007 nhl draft	6hkm	
+2007 nhl entry		6hkm:4
+2007 nhl entry draft	6hkm	
+2007 osaka championships	bob	
+2007 osaka world championships	bob	
+2007 pan		rda:4
+2007 pan am games	rda	
+2007 pan american		rda:4
+2007 pan american games	rda	
+2007 pan american games bids	rda	
+2007 pan american games closing ceremony	rda	
+2007 panamerican games	rda	
+2007 parapan american games	rda	
+2007 philippine		2syp:6,58bz:4
+2007 philippine elections	58bz	
+2007 philippine general		58bz:4
+2007 philippine general election	58bz	
+2007 philippine house		2syp:6
+2007 philippine house of		2syp:6
+2007 philippine house of representatives		2syp:6
+2007 philippine house of representatives elections	2syp	
+2007 porsche		5fk0:5
+2007 porsche tennis		5fk0:5
+2007 porsche tennis grand		5fk0:5
+2007 porsche tennis grand prix	5fk0	
+2007 presidential election in france	41av	
+2007 presidential election of south korea	5fsx	
+2007 qatar		5ia5:5
+2007 qatar telecom		5ia5:5
+2007 qatar telecom german		5ia5:5
+2007 qatar telecom german open	5ia5	
+2007 quatar telecom german open	5ia5	
+2007 rio pan american games	rda	
+2007 road world championships	3j36	
+2007 roland garros	37ih	
+2007 russian		3db1:4
+2007 russian premier		3db1:4
+2007 russian premier league	3db1	
+2007 saga insurance masters	244w	
+2007 sap open	1qy2	
+2007 sap open tennis	1qy2	
+2007 south		5fsx:5
+2007 south korean		5fsx:5
+2007 south korean presidential		5fsx:5
+2007 south korean presidential election	5fsx	
+2007 sudirman		nb0:3
+2007 sudirman cup	nb0	
+2007 tdf	41ju	
+2007 toray		4q56:5
+2007 toray pan		4q56:5
+2007 toray pan pacific		4q56:5
+2007 toray pan pacific open	4q56	
+2007 tour	41ju	41ju:4
+2007 tour de		41ju:4
+2007 tour de france	41ju	
+2007 uci		nhd:3,3j36:5
+2007 uci protour	nhd	
+2007 uci road		3j36:5
+2007 uci road world		3j36:5
+2007 uci road world championships	3j36	
+2007 west bank premier league	3rda	
+2007 wimbledon	456l	456l:3
+2007 wimbledon championship	456l	
+2007 wimbledon championships	456l	
+2007 winter asian games	eyr	
+2007 world		bob:5,krf:6
+2007 world athletics championships	bob	
+2007 world badminton championships	4kzl	
+2007 world championship in athletics	bob	
+2007 world championships		bob:5
+2007 world championships in		bob:5
+2007 world championships in athletics	bob	
+2007 world championships in athletics medal table	bob	
+2007 world championships in badminton	4kzl	
+2007 world sprint		krf:6
+2007 world sprint speed		krf:6
+2007 world sprint speed skating		krf:6
+2007 world sprint speed skating championships	krf	
+2007 wta		yb3:3
+2007 wta amelia island	5lf6	
+2007 wta german open	5ia5	
+2007 wta tier i tournaments	yb3	
+2007 wta tier ii tournaments	yb3	
+2007 wta tier iii tournaments	yb3	
+2007 wta tier iv tournaments	yb3	
+2007 wta tour	yb3	
+a train	4iqv	
+a train 3d city simulator	4iqv	
+a train 6	4iqv	
+a train 7	4iqv	
+a train 8	4iqv	
+a train hx	4iqv	
+a train iii	4iqv	
+a train to autumn	efy	
+a train x	4iqv	
+addae bright	5869	
+akishinonomiya	2cug	
+alejet	2cwi	
+alia	1caz,303g	1xoj:2,22nk:2
+alia al hussein	56d3	
+alia baha ud din toukan	56d3	
+alia bhatt	22nk	
+alia bhatt filmography	22nk	
+alia bint hussein	24oi	
+alia caceres	1caz	
+alia italy	303g	
+alia izetbegovic	2v30	
+alia mega man x	6f75	
+alia shawkat	1xoj	
+alia sicily	303g	
+alia spain	1caz	
+alia toukan	56d3	
+alia touqan	56d3	
+alia vox	1iil	
+amenucourt	2a62	
+amingo	5w21	
+anantpur district	ds5	
+ancut	xrw	2o62:2
+ancut commune	39q3	
+ancut county	2o62	
+aniyathi pravu	6472	
+anjeux	2y6f	
+arahat mahinda	4y1b	
+artp0p	1qgb	
+aspazija	5s9f	
+auburndale new york	8t6	
+bardoze	1wop	
+bezawada	dkw	
+bezawada gopal	1o9l	
+birdman	jce,qhy,4bpn	1b3j:3,6ewe:2
+birdman 2014 film	jce	
+birdman entertainer	qhy	
+birdman film	jce	
+birdman interlude	5n7w	
+birdman kicked my ass	5902	
+birdman movie	jce	
+birdman of		1b3j:3
+birdman of alcatraz	1b3j	
+birdman of alcatraz film	1b3j	
+birdman or the unexpected virtue of ignorance	jce	
+birdman original motion picture soundtrack	jce	
+birdman rapper	qhy	
+birdman recording group	6ewe	
+birdman records	6ewe	
+birdman soundtrack	jce	
+birgu	16da	
+blismes	2qe9	
+botryodendraceae	2jut	
+bronwyn	2wvk	
+bronwyn first name	2wvk	
+bronwyn given name	2wvk	
+burao	5k57	
+caidos		3vw3:4
+caidos en		3vw3:4
+caidos en el		3vw3:4
+caidos en el infierno	3vw3	
+caldense	qsb	
+carmanians	dae	
+cf64 2rt	pj0	
+changchun	72g	99x:4
+changchun fuao	6gxx	
+changchun institute of geology	18ba	
+changchun jilin	72g	
+changchun jilin university	18ba	
+changchun yatai	99x	99x:4
+changchun yatai f		99x:4
+changchun yatai f c	99x	
+changchun yatai fc	99x	
+charles fernley		1ogq:3
+charles fernley fawcett	1ogq	
+chedigny	2z60	
+cheng		zse:3,1hs6:3,2ehq:3,400t:3,43vo:3,5unc:2,5vvf:4,5ye6:3
+cheng chao an	1t9s	
+cheng chou	7cv	
+cheng du railway station	5uhw	
+cheng en wu	4jmd	
+cheng king		5ye6:3
+cheng king ho	5ye6	
+cheng kung		5vvf:4
+cheng kung class		5vvf:4
+cheng kung class frigate	5vvf	
+cheng lawrence	2nxf	
+cheng lung	7rw	
+cheng miu ying hung	2j2z	
+cheng of jin	5bgb	
+cheng pei		2ehq:3
+cheng pei pei	2ehq	
+cheng peipei	2ehq	
+cheng sau man	26sc	
+cheng shao		400t:3
+cheng shao chieh	400t	
+cheng shao chiu	3avx	
+cheng sin siu chung	43vo	
+cheng siu		zse:3,43vo:3
+cheng siu chau	3avx	
+cheng siu chow	3avx	
+cheng siu chung	43vo	
+cheng siu chung ricky	43vo	
+cheng siu keung	zse	
+cheng siu tung	2s9i	
+cheng siwei	5unc	
+cheng te	1427	
+cheng ting	1vme	
+cheng wen		1hs6:3
+cheng wen hsing	1hs6	
+cheng wu huangdi	2698	
+cheng yee kin	v0v	
+cheng yih wu	5rqs	
+cheng zu	1u0b	
+chesapeke virginia	dtl	
+clinton	l6c,n0p,17lc,19e7,1wtb,2b3q,2nlw,2tol,3c8f,3ncg,5nr1	9ue:2,i9o:2,j8q:2,ocn:2,q2p:2,q4i:2,s3i:2,x26:2,1e5r:2,2hch:2,2tj4:2,30th:2,3678:2,48o4:2,4hky:2,5ixz:2,63mt:3
+clinton anderson	5ixz	
+clinton bill	53n	
+clinton casey vincent	4vol	
+clinton charter township mi	4hky	
+clinton charter township michigan	4hky	
+clinton city iowa	n0p	
+clinton clint eastwood jr	7jc	
+clinton county	i9o,j8q,ocn,q2p,q4i,s3i,x26,1e5r,2hch	
+clinton county ia	ocn	
+clinton county il	q2p	
+clinton county illinois	q2p	
+clinton county in	j8q	
+clinton county indiana	j8q	
+clinton county iowa	ocn	
+clinton county kentucky	2hch	
+clinton county ky	2hch	
+clinton county mi	x26	
+clinton county michigan	x26	
+clinton county missouri	1e5r	
+clinton county mo	1e5r	
+clinton county new york	q4i	
+clinton county ny	q4i	
+clinton county oh	s3i	
+clinton county ohio	s3i	
+clinton county pa	i9o	
+clinton county pennsylvania	i9o	
+clinton d casey vincent	4vol	
+clinton d dempsey	3omj	
+clinton d vincent	4vol	
+clinton daily news	2nlw	
+clinton darryl clint mansell	vcs	
+clinton davisson	3678	
+clinton de witt	1bno	
+clinton dempsey	3omj	
+clinton dermott vincent	4vol	
+clinton drew clint dempsey	3omj	
+clinton drew dempsey	3omj	
+clinton eastwood	7jc	
+clinton eastwood jr	7jc	
+clinton family	l6c	
+clinton george politician	1o7h	
+clinton glenwood	6tj	
+clinton governor	l6c	
+clinton h merriam	63mt	
+clinton hart		63mt:3
+clinton hart merriam	63mt	
+clinton hillary	9ue	
+clinton hubert morrison	48o4	
+clinton ia	n0p	
+clinton ia micropolitan statistical area	ocn	
+clinton ia msa	ocn	
+clinton ia sa	ocn	
+clinton in	3ncg	
+clinton indiana	3ncg	
+clinton iowa	n0p	
+clinton iowa micropolitan area	ocn	
+clinton johnson	3thh	
+clinton johnson iii	3thh	
+clinton joseph davisson	3678	
+clinton l romesha	2tj4	
+clinton ma	1wtb	
+clinton macomb county mi	4hky	
+clinton macomb county michigan	4hky	
+clinton macomb mi	4hky	
+clinton macomb michigan	4hky	
+clinton manhattan	5sms	
+clinton mansell	vcs	
+clinton maryland	3c8f	
+clinton mass	1wtb	
+clinton massachusetts	1wtb	
+clinton mayor	l6c	
+clinton md	3c8f	
+clinton mississippi	2b3q	
+clinton morisson	48o4	
+clinton morrison	48o4	
+clinton morrisson	48o4	
+clinton ms	2b3q	
+clinton nc	17lc	
+clinton new york	5sms	
+clinton north carolina	17lc	
+clinton ok	2nlw	
+clinton oklahoma	2nlw	
+clinton on	5nr1	
+clinton oneida county new york	19e7	
+clinton ontario	5nr1	
+clinton p anderson	5ixz	
+clinton politician	l6c	
+clinton presba anderson	5ixz	
+clinton renard mikki moore	2uhr	
+clinton richard dawkins	g3i	
+clinton rodham	9ue	
+clinton romesha	2tj4	
+clinton sc	2tol	
+clinton senator	l6c	
+clinton south carolina	2tol	
+clinton state school	1bj8	
+clinton street station trenton	4tdz	
+clinton sundberg	30th	
+clinton surname	l6c	
+clinton town ma	1wtb	
+clinton town massachusetts	1wtb	
+clinton town worcester county ma	1wtb	
+clinton town worcester county massachusetts	1wtb	
+clinton township	4hky	
+clinton township macomb county mi	4hky	
+clinton township macomb county michigan	4hky	
+clinton township macomb mi	4hky	
+clinton township macomb michigan	4hky	
+clinton township ontario	6cgu	
+clinton trey johnson iii	3thh	
+clinton trump conspiracy	1ijh	
+clinton vice president	1o7h	
+clinton vincent	4vol	
+colvin mark	4g7k	
+cuthbertson house	r9m	
+david riesman	4lwi	
+default	5meb	
+default band	5meb	
+deoxiribonewcleic	432v	
+dilyan		5e98:2
+dilyan kolev	5e98	
+draillant	2vy1	
+drzewica commune	2r56	
+editorial		tpc:2
+editorial cartooning	tpc	
+editorial cartoonist	tpc	
+editorial cartoonists	tpc	
+editorial design	3blc	
+elaphe	5h9g	
+ensaio sobre a lucidez	n7l	
+eritirea	1tm	
+escariche	4x0y	
+escariche guadalajara	4x0y	
+escariche spain	4x0y	
+fange nr 1	5249	
+faruk		50c3:2,544l:2,5teo:2,5v4f:2,68wx:2
+faruk aksoy	68wx	
+faruk bayar	5v4f	
+faruk begoli	544l	
+faruk begolli	544l	
+faruk guersoy	1ex0	
+faruk gursoy	1ex0	
+faruk hadzibegic	5teo	
+faruk hujdurovic	50c3	
+faruk i	qfk	
+faruk i of egypt	qfk	
+fc ecolab sdyushor elektrogorsk	2ox9	
+fc sputnik buguruslan	4nzs	
+frannie hood	12eg	
+frannie robinson	1hvi	
+garwolin		v68:2
+garwolin commune	vez	
+garwolin county	v68	
+geldermalsen	tdt	4h0h:3
+geldermalsen railway		4h0h:3
+geldermalsen railway station	4h0h	
+goat	2n02	1tei:2,4nrk:2,6c8n:2
+goat anatomy	2n02	
+goat cheese	1tei	
+goat cheeses	1tei	
+goat comments	2n02	
+goat curry	3et1	
+goat head soup	5278	
+goat milk cheese	1tei	
+goat miller	7xc	
+goat penis	2n02	
+goat punishment	dav	
+goat rocks dome	6g91	
+goat s cheese	1tei	
+goat s head soup	5278	
+goat s milk	2n02	
+goat s milk cheese	1tei	
+goat s penis	3q8j	
+goat sim	4nrk	
+goat simulator	4nrk	
+guen stefani	j7d	
+hamilcar		5a6l:2
+hamilcar barca	5a6l	
+hamilcar barcas	5a6l	
+hardfloat	gic	
+hibernians	gnl	gnl:3
+hibernians f		gnl:3
+hibernians f c	gnl	
+hibernians f c in europe	gnl	
+hibernians fc	gnl	
+hibernians football club	gnl	
+hibernians paola	gnl	
+ilija	i7m	2kzk:2,35om:2,3god:2,3hm2:2,49h3:2,4ddl:2,4u4p:2,4u9m:2,55yy:2,5pl1:2,5s9d:2,695o:2
+ilija babalj	5oww	
+ilija first name	i7m	
+ilija given name	i7m	
+ilija ivezic	2kzk	
+ilija ivic	4u9m	
+ilija izetbegovic	2v30	
+ilija katic	5pl1	
+ilija lukic	4ddl	
+ilija mitic	3god	
+ilija najdoski	3hm2	
+ilija najdovski	3hm2	
+ilija nestoroski	4u4p	
+ilija nestorovski	4u4p	
+ilija pantelic	55yy	
+ilija radovic	5s9d	
+ilija ristanic	695o	
+ilija spasojevic	35om	
+ilija stolica	49h3	
+invasion	1b1d,4u9d,522j	uw3:5,18m7:4,1ard:2,1w5d:3,22r7:4,249v:5,47u1:2,50xk:4
+invasion 1700	47u1	
+invasion 2006 film	1ard	
+invasion 2007 film	1ard	
+invasion earth 2150 a d	1bau	
+invasion film	1ard	
+invasion of		uw3:5,1w5d:3,22r7:4,249v:5
+invasion of albay	j6z	
+invasion of astro		22r7:4
+invasion of astro monster	22r7	
+invasion of corea	2ynm	
+invasion of crete	47fs	
+invasion of dutch rhineland	k0b	
+invasion of europe	1w5d	
+invasion of france 1813	oqq	
+invasion of france 1870	2gh	
+invasion of france allies	yct	
+invasion of guadalcanal	3rib	
+invasion of hogwarts	2coi	
+invasion of iran 1941	5ydu	
+invasion of iraq	2pu	
+invasion of iwo jima	12ci	
+invasion of lebanon 1978	4r2h	
+invasion of mars	3gtm	
+invasion of naboo	fei	
+invasion of normandy	1w5d	
+invasion of north africa	kua	
+invasion of north corea	pk	
+invasion of panama	2fcg	
+invasion of pardo and basak	6e0	
+invasion of pearl harbor	4rcx	
+invasion of peleliu	3p4e	
+invasion of poland	cby	
+invasion of poland 1939	cby	
+invasion of russia 1812	k9v	
+invasion of saipan	4zc3	
+invasion of scania	21bm	
+invasion of serbia world war i	39ru	
+invasion of sicily	5nyd	
+invasion of the		uw3:5,249v:5
+invasion of the body		uw3:5,249v:5
+invasion of the body snatchers	uw3,249v	
+invasion of the body snatchers 1956 film	249v	
+invasion of the body snatchers 1978	uw3	
+invasion of the body snatchers 1978 film	uw3	
+invasion of the body snatchers 1978 movie	uw3	
+invasion of the palaus	3p4e	
+invasion of the soviet union by nazi germany	1hpw	
+invasion of the soviet union world war ii	1hpw	
+invasion of the zombies	6467	
+invasion remix collection	43su	
+invasion scare	1b1d	
+invasion u		18m7:4,50xk:4
+invasion u s		18m7:4,50xk:4
+invasion u s a	18m7,50xk	
+invasion u s a 1952 film	50xk	
+invasion u s a 1952 movie	50xk	
+invasion u s a 1985 film	18m7	
+invasion u s a 1985 movie	18m7	
+invasion u s tv series	4u9d	
+invasion ufo	1ph7	
+invasion usa 1952 film	50xk	
+invasion usa 1985 film	18m7	
+ireton henry	5oho	
+itegem	19mx	
+jinzhong	1nix	
+jinzhong city	1nix	
+jinzhong prefecture	1nix	
+jinzhong shanxi	1nix	
+john ward	4h0i,657j	5p5r:6
+john ward 1866 1934	657j	
+john ward 1st		5p5r:6
+john ward 1st earl		5p5r:6
+john ward 1st earl of		5p5r:6
+john ward 1st earl of dudley	5p5r	
+john ward earl of dudley	5p5r	
+john ward perkins	60fz	
+john ward trade unionist	657j	
+josephus	19n8	58be:2
+josephus arcimboldus	2eyv	
+josephus scaliger	280y	
+josephus yenay	58be	
+kamchatskiy kray	qs4	
+kamchatskiy kray russia	qs4	
+kfco beerschot wilrijk	58l7	
+kitsune	1vxe	
+kitsune maison	1vxe	
+kitsune music	1vxe	
+kitsune record label	1vxe	
+kitsune records	1vxe	
+kostadin		3qdp:2,4o3r:2,649o:2,6asl:2,6day:2
+kostadin bashov	3qdp	
+kostadin georgiev	6day	
+kostadin hazurov	4o3r	
+kostadin markov	649o	
+kostadin vidolov	6asl	
+landungsbruecken station	3win	
+leopold	3dm	gtf:3,gyc:5,nur:4,ohc:5,xud:4,yj7:5,143t:2,16bd:4,16t1:8,17nn:4,17oa:6,19k4:3,1bla:6,1cj2:6,1fav:5,1h08:5,1lnv:4,1nge:4,1nqv:2,1pgm:3,1pzi:5,1qu3:2,1v28:4,2111:3,26g8:4,287c:2,2awe:4,2btu:5,2cbt:2,2gwn:2,2ktk:3,2maz:2,2mpb:2,2v4h:4,2wiv:4,2ymj:2,37s0:5,37s1:5,384i:2,3bid:2,3g4q:2,3hy6:6,3k9b:5,3kq1:2,3w4t:4,3zi6:4,4buy:2,4knm:2,4lqq:5,4qpq:2
+leopold a s b stokowski	2ymj	
+leopold aldo	3vl4	
+leopold alfons archduke of austria	1n67	
+leopold amery	3lq6	
+leopold anthony stokowski	2ymj	
+leopold anton kotzeluch	5dkv	
+leopold anton kozeluch	5dkv	
+leopold antoni stanisaw stokowski	2ymj	
+leopold antoni stanislav stokowski	2ymj	
+leopold antoni stanislaw boleslawowicz stokowski	2ymj	
+leopold antoni stanislaw stokowski	2ymj	
+leopold antonin kozeluch	5dkv	
+leopold antonin kozeluh	5dkv	
+leopold arthur louis mountbatten	40ap	
+leopold arthur louis of battenberg	40ap	
+leopold auer	3g4q	
+leopold august		5cg9:3
+leopold august abel	5cg9	
+leopold augustus abel	5cg9	
+leopold baden	1fav	
+leopold battenberg	40ap	
+leopold bloom	2gwn	
+leopold charles maurice stennett amery	3lq6	
+leopold clement		2v4h:4
+leopold clement charles hereditary prince of lorraine	2v4h	
+leopold clement charles prince hereditary of lorraine	2v4h	
+leopold clement de lorraine	2v4h	
+leopold clement hereditary prince of lorraine	2v4h	
+leopold clement of		2v4h:4
+leopold clement of lorraine	2v4h	
+leopold count of syracuse	16t1	
+leopold de		2ktk:3
+leopold de medici	26hr	
+leopold de rothschild	2ktk	
+leopold delisle	56rc	
+leopold duke		1nge:4,26g8:4
+leopold duke of		1nge:4,26g8:4
+leopold duke of albany	11pk	
+leopold duke of bavaria	26g8	
+leopold duke of brabant	4udi	
+leopold duke of lorraine	1nge	
+leopold duke of saxony	nur	
+leopold erzherzog von osterreich	yj7	
+leopold eyharts	384i	
+leopold fabius		2wiv:4
+leopold fabius de		2wiv:4
+leopold fabius de salis	2wiv	
+leopold fabius dietegan fane de salis	2wiv	
+leopold fabius dietegen fane de salis	2wiv	
+leopold falk	6e1b	
+leopold fall	2i1p	
+leopold fane de salis	2wiv	
+leopold fejer	2c0o	
+leopold figl	502n	
+leopold first name	3dm	
+leopold fortunato galtieri	453m	
+leopold franz julius	4avq	
+leopold franz julius prince of saxe coburg gotha kohary	4avq	
+leopold franzens universitaet	5on	
+leopold franzens universitat	5on	
+leopold franzens universitat innsbruck	5on	
+leopold franzens university	5on	
+leopold frederick	1v28	
+leopold frederick franz	3hy6	
+leopold friedrich eduard karl alexander	3y5a	
+leopold friedrich franz ernst von anhalt	2btu	
+leopold george christian frederick	nur	
+leopold george duncan albert	11pk	
+leopold georges chretien frederic	nur	
+leopold given name	3dm	
+leopold gmelin	2maz	
+leopold godowsky	2mpb	
+leopold grand		1fav:5
+leopold grand duke		1fav:5
+leopold grand duke of		1fav:5
+leopold grand duke of baden	1fav	
+leopold griffuel		1pgm:3
+leopold griffuel prize	1pgm	
+leopold hainisch	5vhg	
+leopold hereditary		2btu:5
+leopold hereditary prince		2btu:5
+leopold hereditary prince of		2btu:5
+leopold hereditary prince of anhalt	2btu	
+leopold horner	5d75	
+leopold i	ohc	nur:4,ohc:5,17oa:6,1h08:5,4xhx:5
+leopold i anhalt dessau	17oa	
+leopold i duke		1h08:5
+leopold i duke of		1h08:5
+leopold i duke of austria	1h08	
+leopold i duke of austria habsburg	1h08	
+leopold i duke of lorraine	1nge	
+leopold i grand duke of baden	1fav	
+leopold i grand duke of tuscany	gyc	
+leopold i holy		ohc:5
+leopold i holy roman		ohc:5
+leopold i holy roman emperor	ohc	
+leopold i holy roman empire	ohc	
+leopold i hrr	ohc	
+leopold i king of the belgians	nur	
+leopold i margrave		4xhx:5
+leopold i margrave of		4xhx:5
+leopold i margrave of austria	4xhx	
+leopold i of		nur:4
+leopold i of anhalt dessau	17oa	
+leopold i of austria babenberg	4xhx	
+leopold i of austria habsburg	1h08	
+leopold i of baden	1fav	
+leopold i of belgium	nur	
+leopold i of habsburg	ohc	
+leopold i of hungary	ohc	
+leopold i of lorraine	gyc	
+leopold i prince		17oa:6
+leopold i prince of		17oa:6
+leopold i prince of anhalt		17oa:6
+leopold i prince of anhalt dessau	17oa	
+leopold i prince of saxe coburg and gotha	nur	
+leopold ignaz joseph balthasar felician	ohc	
+leopold ii	62gg	gyc:5,16bd:4,1bla:6,1cj2:6,5zns:5
+leopold ii belgium	16bd	
+leopold ii grand		1cj2:6
+leopold ii grand duke		1cj2:6
+leopold ii grand duke of		1cj2:6
+leopold ii grand duke of tuscany	1cj2	
+leopold ii holy		gyc:5
+leopold ii holy roman		gyc:5
+leopold ii holy roman emperor	gyc	
+leopold ii king of the belgians	16bd	
+leopold ii margrave of austria	62gg	
+leopold ii of		16bd:4
+leopold ii of anhalt dessau	1bla	
+leopold ii of austria babenberg	62gg	
+leopold ii of belgium	16bd	
+leopold ii of hungary	gyc	
+leopold ii of lippe	5zns	
+leopold ii of the belgians	16bd	
+leopold ii of tuscany	1cj2	
+leopold ii prince		1bla:6,5zns:5
+leopold ii prince of		1bla:6,5zns:5
+leopold ii prince of anhalt		1bla:6
+leopold ii prince of anhalt dessau	1bla	
+leopold ii prince of lippe	5zns	
+leopold ii roi des belges	16bd	
+leopold iii	1qu3	17nn:4,1pzi:5,3hy6:6
+leopold iii duke		1pzi:5,3hy6:6
+leopold iii duke of		1pzi:5,3hy6:6
+leopold iii duke of anhalt		3hy6:6
+leopold iii duke of anhalt dessau	3hy6	
+leopold iii duke of austria	1pzi	
+leopold iii duke of austria habsburg	1pzi	
+leopold iii duke of inner austria	1pzi	
+leopold iii frederick anhalt dessau	3hy6	
+leopold iii frederick francis prince of anhalt dessau	3hy6	
+leopold iii king of the belgians	17nn	
+leopold iii margrave of austria	1qu3	
+leopold iii of		17nn:4
+leopold iii of austria babenberg	1qu3	
+leopold iii of austria habsburg	1pzi	
+leopold iii of babenberg	1qu3	
+leopold iii of belgium	17nn	
+leopold iii of habsburg	1pzi	
+leopold iii of the belgians	17nn	
+leopold iii prince of anhalt dessau	3hy6	
+leopold infeld	2cbt	
+leopold iv		1v28:4,4lqq:5,5rlc:5
+leopold iv duke		5rlc:5
+leopold iv duke anhalt dessau	1v28	
+leopold iv duke of		5rlc:5
+leopold iv duke of anhalt	1v28	
+leopold iv duke of anhalt dessau	1v28	
+leopold iv duke of anhalt dessau kothen	1v28	
+leopold iv duke of austria	5rlc	
+leopold iv duke of bavaria	26g8	
+leopold iv duke of further austria	5rlc	
+leopold iv margrave of austria	26g8	
+leopold iv margrave of austria babenberg	26g8	
+leopold iv of		1v28:4
+leopold iv of anhalt	1v28	
+leopold iv of anhalt dessau	1v28	
+leopold iv of austria babenberg	26g8	
+leopold iv of austria habsburg	5rlc	
+leopold iv of lippe	4lqq	
+leopold iv prince		4lqq:5
+leopold iv prince of		4lqq:5
+leopold iv prince of lippe	4lqq	
+leopold johann joseph franz ferdinand karl	1cj2	
+leopold joseph archduke of austria	16jf	
+leopold joseph duke of lorraine	1nge	
+leopold joseph habsburg 1682 1684	3m6u	
+leopold joseph ii	gyc	
+leopold karl schmetterer	5jaf	
+leopold kielholz	3kq1	
+leopold koenig	3bid	
+leopold konig	3bid	
+leopold kotzeluch	5dkv	
+leopold kozeluch	5dkv	
+leopold kozeluh	5dkv	
+leopold kramer	5ptp	
+leopold kronecker	1nqv	
+leopold lindtberg	4buy	
+leopold lionel de rothschild	2ktk	
+leopold louis philippe marie victor	16bd	
+leopold mountbatten	40ap	
+leopold mozart	287c	
+leopold mozart comments	287c	
+leopold of		16t1:8,1lnv:4,2awe:4
+leopold of anhalt coethen	3k9b	
+leopold of anhalt cothen	3k9b	
+leopold of anhalt kothen	3k9b	
+leopold of aremberg	3w4t	
+leopold of austria	1h08	
+leopold of baden	1fav	
+leopold of battenberg	40ap	
+leopold of brunswick		2awe:4
+leopold of brunswick wolfenbuttel	2awe	
+leopold of habsburg	1h08	
+leopold of hapsburg	1h08	
+leopold of hesse		1lnv:4
+leopold of hesse homburg	1lnv	
+leopold of hohenzollern sigmaringen	1qf6	
+leopold of lorraine	1nge	
+leopold of saxe coburg kohary	4avq	
+leopold of saxe coburg saalfeld	nur	
+leopold of the		16t1:8
+leopold of the two		16t1:8
+leopold of the two sicilies		16t1:8
+leopold of the two sicilies 1813 1860	16t1	
+leopold of the two sicilies 18131860	16t1	
+leopold of the two sicilies count		16t1:8
+leopold of the two sicilies count of		16t1:8
+leopold of the two sicilies count of syracuse	16t1	
+leopold paul osborne fortune west	1nv7	
+leopold philip 4th duke of arenberg	3w4t	
+leopold philippe		3w4t:4
+leopold philippe d		3w4t:4
+leopold philippe d arenberg	3w4t	
+leopold philippe duke of arenberg	3w4t	
+leopold prince		xud:4,3k9b:5
+leopold prince of		xud:4,3k9b:5
+leopold prince of anhalt		3k9b:5
+leopold prince of anhalt koethen	3k9b	
+leopold prince of anhalt kothen	3k9b	
+leopold prince of hohenzollern	1qf6	
+leopold prince of hohenzollern sigmaringen	1qf6	
+leopold prince of salerno	xud	
+leopold ranke	2111	
+leopold ritter von sacher masoch	3zi6	
+leopold ruszicka	143t	
+leopold ruzicka	143t	
+leopold s dar senghor	19k4	
+leopold s order	1an5	
+leopold s ruzicka	143t	
+leopold sacher masoch	3zi6	
+leopold sacher masoch ritter von kronenthal	3zi6	
+leopold salvator of austria tuscany	y65	
+leopold saxe coburg	11pk	
+leopold schmetterer	5jaf	
+leopold sedar		19k4:3
+leopold sedar senghor	19k4	
+leopold sedar senghor comments	19k4	
+leopold senghor	19k4	
+leopold staff	4qpq	
+leopold stefan karl anton gustav eduard tassilo von hohenzollern	1qf6	
+leopold stennett amery	3lq6	
+leopold stephen ruzicka	143t	
+leopold stockowski	2ymj	
+leopold stokowski	2ymj	
+leopold stokowski and the philadelphia orchestra	2ymj	
+leopold the duke of lorraine	1nge	
+leopold the virtuous	37s1	
+leopold trepper	4qrn	
+leopold v	37s1	yj7:5,37s1:5
+leopold v archduke		yj7:5
+leopold v archduke of		yj7:5
+leopold v archduke of austria	yj7	
+leopold v archduke of further austria	yj7	
+leopold v duke		37s1:5
+leopold v duke of		37s1:5
+leopold v duke of austria	37s1	
+leopold v duke of austria babenberg	37s1	
+leopold v of austria babenberg	37s1	
+leopold v of austria habsburg	yj7	
+leopold v of austria tyrol	yj7	
+leopold vi	37s0	37s0:5
+leopold vi duke		37s0:5
+leopold vi duke of		37s0:5
+leopold vi duke of austria	37s0	
+leopold vi of austria	37s0	
+leopold victor		56rc:3
+leopold victor delisle	56rc	
+leopold vietoris	5lom	
+leopold vii	gyc	
+leopold von		gtf:3,2111:3,3zi6:4
+leopold von auer	3g4q	
+leopold von bayern	19tt	
+leopold von hohenzollern	1qf6	
+leopold von ledebur	gtf	
+leopold von ranke	2111	
+leopold von sacher		3zi6:4
+leopold von sacher masoch	3zi6	
+leopold weiss journalist	3dw3	
+leopold wharton	4knm	
+leopold wilhelm of austria	myc	
+leopold wilhelm of habsburg	myc	
+leopold wilhelm von osterreich	myc	
+leopold william archduke of austria	myc	
+leopold william of austria	myc	
+leopold william of habsburg	myc	
+leopold windsor	5ven	
+leopold wolflin	4q9k	
+leopold wolfling	4q9k	
+lierde	3nz4	
+llanes	qkx	
+llanes asturias	qkx	
+llanes parroquia	qkx	
+llanes spain	qkx	
+logistical	g2x	
+logistical support	g2x	
+louvignies		29qk:2
+louvignies quesnoy	29qk	
+lutzelbourg	1s6m	
+lyudmyla		5gjc:2
+lyudmyla m pavlichenko	1f1h	
+lyudmyla mykhailivna pavlichenko	1f1h	
+lyudmyla mykhaylivna pavlychenko	1f1h	
+lyudmyla pavlychenko	1f1h	
+lyudmyla pekur	5gjc	
+makedonikos	1oav	1oav:3,221m:2
+makedonikos b		1oav:3
+makedonikos b c	1oav	
+makedonikos bc	1oav	
+makedonikos f c	221m	
+makedonikos fc	221m	
+makedonikos neapolis	221m	
+mathrock	qms	
+mdina	1vez	
+mdina malta	1vez	
+medoff mark	3dr3	
+microchilo	5fnu	
+mija		2fbs:2
+mija aleksic	2fbs	
+mjndalen		l0s:3
+mjndalen i f	l0s	
+mjndalen if	l0s	l0s:3
+mjndalen if fotball	l0s	
+momisia	1u1j	
+montecheroux	2lzy	
+paludism	5dq	
+parabrachmia	1z1	
+patsa	3zfx	
+peter andreivich count shuvalov	1hw7	
+pietribiasi	5zd7	
+planetoids	2ib	
+plunkett		1awq:2
+plunkett and macleane	1awq	
+plunkett macleane	1awq	
+pottendorf	2pkl	
+praiense sc	68jh	
+roechling voelklingen	6c0a	
+rolandylis	eoq	
+ryn commune	z62	
+rzewski	670a	
+seillonnaz	2bw2	
+semilta	1ex9	
+seti		4q28:2,638q:2
+seti i	4q28	
+seti nepal	638q	
+seti zone	638q	
+seton		6os:3,p8j:3
+seton hall	6os	6os:3
+seton hall college	6os	
+seton hall university	6os	
+seton i		p8j:3
+seton i miller	p8j	
+seton miller	p8j	
+seton saint elizabeth ann	36m1	
+shunan	2iat	2iat:2
+shunan shi	2iat	
+shunan yamaguchi	2iat	
+silica amorphous	2i1a	
+silica dioxide	2i1a	
+silica mineral	2i1a	
+silica minerals	2i1a	
+simplicial	6fjo	
+sirejovice	3nm1	
+skenea	24ql	
+somali	kfb	2nd1:3,3ru8:3,43fe:2,4job:3,6793:3
+somali civil		2nd1:3,6793:3
+somali civil war	2nd1,6793	
+somali civil war 1991 ongoing	2nd1	
+somali clan	o4e	
+somali ethiopia	43fe	
+somali ethiopian war	33jw	
+somali ethnicity	o4e	
+somali first		3ru8:3
+somali first division	3ru8	
+somali independence	v2	
+somali language	kfb	
+somali league	3ru8	
+somali national		4job:3
+somali national salvation committee	v2	
+somali national university	4job	
+somali people	o4e	
+somali piracy	3t24	
+somali pirates	3t24	
+somali region	43fe	
+somali region ethiopia	43fe	
+somali regional state	43fe	
+somali society	o4e	
+somali transitional government	55uu	
+somali war	2nd1	
+sonne	4r3l	
+sonne rammstein song	4r3l	
+svitoslav richter	1f8b	
+svv scheveningen	2a5v	
+svv schiedam	2v02	
+tadcaster	2l4v	4z5x:5
+tadcaster albion	4z5x	4z5x:5
+tadcaster albion a		4z5x:5
+tadcaster albion a f		4z5x:5
+tadcaster albion a f c	4z5x	
+tadcaster albion a f c comments	4z5x	
+tadcaster albion afc	4z5x	
+tadcaster albion f c	4z5x	
+tadcaster comments	2l4v	
+tadcaster north yorkshire	2l4v	
+talysh	69m5	
+talysh language	69m5	
+tapsi	1jju	
+tarczyn commune	hw6	
+the beehive 1982 film	14va	
+the beehive film	14va	
+the giving		8jg:3,6hcv:3
+the giving plague	wo7	
+the giving pledge	8jg	
+the giving tree	6hcv	
+the prudential	5i5d	
+the sin		1m83:5,5l2u:5,60fg:4
+the sin eater	3xcy	
+the sin eater 2003 film	3xcy	
+the sin eater film	3xcy	
+the sin eater movie	3xcy	
+the sin of		1m83:5,5l2u:5,60fg:4
+the sin of harold		5l2u:5
+the sin of harold diddlebock	5l2u	
+the sin of julia	60fg	
+the sin of madelon		1m83:5
+the sin of madelon claudet	1m83	
+the sin war birthright	3go2	
+the sin war scales of the serpent	3go2	
+the sin war series	3go2	
+the soldier		1j2n:5
+the soldier and		1j2n:5
+the soldier and the		1j2n:5
+the soldier and the lady	1j2n	
+the soldier beetle family	3lwd	
+the soldier king	lr2	
+the soldier s farewell	5z7l	
+trivial	5ulf	
+trivial epithet	3gc	
+trivial film	5ulf	
+trivial graph	gzu	
+trivial name	3gc	
+troglodytidae	69ql	
+turrubares	59oq	59oq:2
+turrubares canton	59oq	
+urbanov	46jn	
+valleyville va	cl4	
+vialer	2vmq	
+westbahnhof vienna	35rw	
+yosida sigeru	4m3t	
+yosida syoin	4uq1	
+yukatan	5my	
+yungay		5d7p:2
+yungay province	5d7p	
+zdenko	2aop	44u0:3,50pp:2,65dh:2
+zdenko fibich	2yez	
+zdenko first name	2aop	
+zdenko given name	2aop	
+zdenko hans		44u0:3
+zdenko hans skraup	44u0	
+zdenko kapralik	65dh	
+zdenko muf	50pp	
+zdenko skraup	44u0	
+zhu	u1n	
+zhu biao	5dg7	
+zhu biao crown prince of ming china	5dg7	
+zhu changluo	2nyd	
+zhu changxun	5he3	
+zhu chenggong	5r58	
+zhu de	2gtg	
+zhu diwen	2se1	
+zhu gaochi	65l4	
+zhu gaozhi	65l4	
+zhu hai	vh9	
+zhu haowei	3zhq	
+zhu hongwu	3sry	
+zhu jianjun	4s2o	
+zhu jianshen	4s2o	
+zhu jingwu	5ebo	
+zhu mao	2gtg	
+zhu qizhen	5gql	
+zhu quan	65zg	
+zhu quan prince of ning	65zg	
+zhu rhongi	4qc2	
+zhu rong ji	4qc2	
+zhu rongji	4qc2	
+zhu surname	u1n	
+zhu tianwen	3jti	
+zhu yan ping	40fv	
+zhu yanping	40fv	
+zhu yijun	2qx6	
+zhu youjian	4y07	
+zhu yuan zhang	3sry	
+zhu yuanzhang	3sry	
+zhu zaihou	613h	
+zhu zhanji	428k	
+zhu zhu	4kys	

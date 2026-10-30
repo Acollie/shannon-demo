@@ -1,0 +1,378 @@
+1680 1689	27t0	
+201516		kbq:3,rec:3,t4h:4,ws3:4,ypq:4,zsw:4,1hp6:6,1jl3:3,1jlz:3,1oe9:3,1vug:3,20n7:3,2azn:4,2we0:7,2yfz:4,393v:2,3dye:4,3s8p:5,45oo:6
+201516 2		1jlz:3
+201516 2 bundesliga	1jlz	
+201516 3		1jl3:3
+201516 3 liga	1jl3	
+201516 austrian		3dye:4,3s8p:5
+201516 austrian football		3dye:4,3s8p:5
+201516 austrian football bundesliga	3dye	
+201516 austrian football first		3s8p:5
+201516 austrian football first league	3s8p	
+201516 bundesliga	1vug	
+201516 catawba indians men s basketball team	37uv	
+201516 cypriot		kbq:3,t4h:4,ws3:4,zsw:4,45oo:6
+201516 cypriot cup	kbq	45oo:6
+201516 cypriot cup for		45oo:6
+201516 cypriot cup for lower		45oo:6
+201516 cypriot cup for lower divisions	45oo	
+201516 cypriot first		t4h:4
+201516 cypriot first division	t4h	
+201516 cypriot second		zsw:4
+201516 cypriot second division	zsw	
+201516 cypriot third		ws3:4
+201516 cypriot third division	ws3	
+201516 ekstraklasa	393v	
+201516 europa league	2azn	
+201516 fc rot weiss erfurt season	68b	
+201516 figure		ypq:4
+201516 figure skating		ypq:4
+201516 figure skating season	ypq	
+201516 fuball		1vug:3
+201516 fuball bundesliga	1vug	
+201516 isu		1hp6:6,2we0:7
+201516 isu grand		2we0:7
+201516 isu grand prix		2we0:7
+201516 isu grand prix of		2we0:7
+201516 isu grand prix of figure		2we0:7
+201516 isu grand prix of figure skating	2we0	
+201516 isu speed		1hp6:6
+201516 isu speed skating		1hp6:6
+201516 isu speed skating world		1hp6:6
+201516 isu speed skating world cup	1hp6	
+201516 la		1oe9:3
+201516 la liga	1oe9	
+201516 russian		2yfz:4
+201516 russian premier		2yfz:4
+201516 russian premier league	2yfz	
+201516 serie		20n7:3
+201516 serie b	20n7	
+201516 snooker		rec:3
+201516 snooker season	rec	
+201516 stok elite division	24jn	
+201516 uefa		2azn:4
+201516 uefa europa		2azn:4
+201516 uefa europa league	2azn	
+4100 meters relay	dlm	
+4100 metre relay	dlm	
+4100 metres	dlm	
+52	4iwh	
+52 3 state district court	d2w	
+52 aficionados	8hs	
+52 pick		1631:3
+52 pick up	1631	
+a business		4y7v:3
+a business affair	4y7v	
+afrobeats	jza	
+ahmat	1bm	
+ajoncourt	2n3l	
+alexander derek dougan	2bwo	
+alwernia commune	1miu	
+annexin a1	57ni	
+arretium	5u9	
+aso chlef	g4p	
+aso district	5j6j	
+aso district kumamoto	5j6j	
+aso kumiko	22dz	
+aso nobuko	6c6j	
+aso ormideia	uus	
+aso taro	1xwe	
+bazens	2zlu	
+beb bakhuijs	538d	
+beb bakhuys	538d	
+berchtesgarten	d75	
+besiane	3lrr	
+birbiglia	25mg	
+burgstalle	396u	
+candiolo	2m4i	
+clionella	5p2r	
+cnoc fola	2oz7	
+cnoc iochtair	4w5v	
+cnoc mhoire	69u9	
+costumes	4hb6	
+david bibb graves	4x87	
+david viarsson	5nvq	
+dietikon	2lyz	1ehy:2
+dietikon district	1ehy	
+dietikon switzerland	2lyz	
+dietikon zh	2lyz	
+dietikon zuerich	2lyz	
+dietikon zurich	2lyz	
+dinalo		68tl:2
+dinalo adigo	68tl	
+drunella	6fxd	
+durynsko	3te	
+dyschesia	1z8t	
+earless owl	3317	
+earless seal	6eyz	
+earless seals	6eyz	
+ecenteno george tillman jr	3w9m	
+executioner	eii	3kak:2
+executioner s song	4m2z	4m2z:4
+farcical	117t	
+fatherhoods	68vr	
+fc bansko	jcp	
+femy benussi	10ym	
+femy martin	10ym	
+fontainebleau	62l	
+fontainebleau france	62l	
+fontainebleau junior high school	3920	
+fontainebleau palace	4pj8	
+gabriella	dq7	r41:2,1du2:2,2fvf:2,3whh:2,447n:2,491e:2,4he8:2,5zt5:2
+gabriella bonheur chanel	3hqd	
+gabriella calthorpe	447n	
+gabriella chill me	2fvf	
+gabriella chillme	2fvf	
+gabriella chilmi	2fvf	
+gabriella cilme	2fvf	
+gabriella cilmi	2fvf	
+gabriella cilmi comments	2fvf	
+gabriella cilmi singles	2fvf	
+gabriella climi	2fvf	
+gabriella countess of carlades	5lns	
+gabriella cristiani	4he8	
+gabriella first name	dq7	
+gabriella giffords	4ck6	
+gabriella giorgelli	r41	
+gabriella given name	dq7	
+gabriella grimaldi	5lns	
+gabriella m a o windsor	5r4k	
+gabriella m cristiani	4he8	
+gabriella mistral	448f	
+gabriella pallotta	491e	
+gabriella paruzzi	3whh	
+gabriella pescucci	1du2	
+gabriella pession	5zt5	
+gabriella sabatini	36vb	
+gabriella wilde	447n	
+gabriella windsor	5r4k	
+gabriella zanna vanessa anstruther gough calthorpe	447n	
+gamecibe	3rf	
+geiger		2bf9:2
+geiger engineers	2bf9	
+geiger engineers draft	2bf9	
+george dreyfus	6bzk	
+ggat	17ld	
+gmina inowroclaw	i80	
+grivy		1pth:2
+grivy loisy	1pth	
+gustavs		4xlw:2
+gustavs celmins	4xlw	
+hameaux	i0	
+hardivillers	2ah4	2sth:3
+hardivillers en		2sth:3
+hardivillers en vexin	2sth	
+headgames	2ag	2ag:3
+headgames publishing		2ag:3
+headgames publishing inc	2ag	
+heterocoma moth	6euk	
+hierachical	5ny6	
+hitting		2hwq:4,67i0:2
+hitting a		2hwq:4
+hitting a baseball	6hjp	
+hitting a new		2hwq:4
+hitting a new high	2hwq	
+hitting budapest	67i0	
+hitting coach	adl	
+hitting instructor	adl	
+italiani	kxs	
+italiani brava gente	36ah	
+james newcom	359v	
+james s		22jt:3,46j9:3,4twz:3,4tz2:3,53oj:3,578i:3,5k3s:4,5n8s:3,675o:3
+james s a		5k3s:4
+james s a corey	5k3s	
+james s abrahams	1khu	
+james s blackton	mm6	
+james s brady	45e1	
+james s duesenberry	63de	
+james s gilmore	2o2p	
+james s gilmore iii	2o2p	
+james s jackson	4tz2	
+james s jim gilmore iii	2o2p	
+james s levine	53oj	
+james s mcdonnell	51m7	
+james s negley	675o	
+james s rollins	5n8s	
+james s rossant	5ux0	
+james s russell	5zrj	
+james s sherman	46j9	
+james s theory of the self	18gf	
+james s thurmond	1fqf	
+james s tisch	5utz	
+james s voss	22jt	
+james s wadsworth	578i	
+james s white	4twz	
+jemnice	10gs	
+jfc	1hd	
+jfc fuller	506r	
+jfc kingman	40a5	
+jfc olimps	1297	
+jfc olimps riga	1297	
+judahworldchamp	1yge	
+kantanosselino	412n	
+kdff	wbo	
+kehrsiten	1ttf	
+kerasous	fm2	
+kosonogov	68qr	
+krotoszyn	1wql	1pf2:2
+krotoszyn commune	ilz	
+krotoszyn county	1pf2	
+lewertow	1wkq	
+liutpold i	4xhx	
+louis meintjes	2vbz	
+mezzogiorno	4mf7	
+mingxia fu	4nmn	
+mingxia wu	44ih	
+miramar	1wnd,42fp	hyo:2,10um:2
+miramar fl	1wnd	
+miramar florida	1wnd	
+miramar florida police department	1wnd	
+miramar misiones	hyo	
+miramar police department florida	1wnd	
+miramar rangers	10um	
+miramar rangers afc	10um	
+miramar valencia	42fp	
+mojo		3xwk:2
+mojo concerts	1git	
+mojo records	3xwk	
+mojo risin	nug	
+momokuro	mhm	
+momokuro z	mhm	
+monsters	46ff	18hn:2,1yyi:2,2ofj:3,4ses:3
+monsters 2	4ses	
+monsters 2 dark continent	4ses	
+monsters 2010 film	46ff	
+monsters ball	15x1	
+monsters dark		4ses:3
+monsters dark continent	4ses	
+monsters featured in percy jackson	2urr	
+monsters from the id	19um	
+monsters in maho sentai magiranger	4lpp	
+monsters in mahou sentai magiranger	4lpp	
+monsters in my head	4efs	
+monsters inc	18hn	
+monsters inc 2	1yyi	
+monsters inc 2 lost in scaradise	1yyi	
+monsters inc 3d	18hn	
+monsters inc soundtrack	18hn	
+monsters inc the beginning	1yyi	
+monsters inc the college days	1yyi	
+monsters inc the college years	1yyi	
+monsters inc the prequel	1yyi	
+monsters incorporated	18hn	
+monsters incorporation	18hn	
+monsters of the midway	107	
+monsters u	1yyi	
+monsters university	1yyi	
+monsters university film	1yyi	
+monsters university soundtrack	1yyi	
+monsters v aliens	2ofj	
+monsters versus aliens	2ofj	
+monsters vs		2ofj:3
+monsters vs aliens	2ofj	
+monsters vs aliens the series	2ofj	
+msfinkel sandbox	16aq	
+nbiii	1jk4	
+orkla		3416:2
+orkla asa	3416	
+orkla group	3416	
+orkla gruber	3416	
+orkla industrier	3416	
+oscillating fan	6ev6	
+oxigrapha	4ig	
+pah modou kah	4ake	
+paul kohner	2m3c	
+peter richardson	4zg2	
+peter richardson actor	4zg2	
+peter richardson british director	4zg2	
+peter richardson comedian	4zg2	
+peter richardson english director	4zg2	
+peter richardson uk director	4zg2	
+petpenguin wii series	12p	
+ployart		2948:3
+ployart et		2948:3
+ployart et vaurseine	2948	
+portimonense	6db	6db:3
+portimonense s		6db:3
+portimonense s c	6db	
+portimonense s c football	6db	
+portimonense s c football team	6db	
+portimonense sc	6db	
+portimonense sporting clube	6db	
+processing	5y4u	
+processing of coffee	159s	
+processing proce55ing	5y4u	
+processing programming language	5y4u	
+processing software	5y4u	
+processing unit	4rsz	
+qualters middle school	404u	
+ricardas		3gh4:2
+ricardas beniusis	3gh4	
+robert kok	5u9g	
+ruoti	503t	
+sandrocottus	44i3	
+shakspeare	29i	
+sir abdullah david sassoon	3y1u	
+sir abdullah david sassoon 1st baronet	3y1u	
+soulier d or	6ghb	
+sr2	sja,54tc	
+srija	7et	
+srija chiranjeevi	7et	
+stacionarius	6f2w	
+tambopata		61oc:2
+tambopata province	61oc	
+the escapee	3vfn	
+thomas merfyn davies	5c4t	
+thomas pelham		33hd:9,4ygl:6,567h:7
+thomas pelham 2nd		4ygl:6
+thomas pelham 2nd earl		4ygl:6
+thomas pelham 2nd earl of		4ygl:6
+thomas pelham 2nd earl of chichester	4ygl	
+thomas pelham 3rd baron pelham of stanmer	4ygl	
+thomas pelham clinton	567h	567h:7
+thomas pelham clinton 3rd		567h:7
+thomas pelham clinton 3rd duke		567h:7
+thomas pelham clinton 3rd duke of		567h:7
+thomas pelham clinton 3rd duke of newcastle	567h	
+thomas pelham clinton 3rd duke of newcastle under lyne	567h	
+thomas pelham holles		33hd:9
+thomas pelham holles 1st		33hd:9
+thomas pelham holles 1st duke		33hd:9
+thomas pelham holles 1st duke of		33hd:9
+thomas pelham holles 1st duke of newcastle	33hd	33hd:9
+thomas pelham holles 1st duke of newcastle upon		33hd:9
+thomas pelham holles 1st duke of newcastle upon tyne	33hd	
+thomas pelham holles duke of newcastle	33hd	
+thomas pelham lord pelham	4ygl	
+titanick	sgr	
+tokelau	p8c	
+tokelau history	p8c	
+tokelau military	p8c	
+tokelau transportation	p8c	
+vacquerie		3q1d:3
+vacquerie charles	7cd	
+vacquerie le		3q1d:3
+vacquerie le boucq	3q1d	
+vicarages	2h69	
+vinh		2575:2,3osl:2
+vinh long	3osl	
+vinh long province	3osl	
+vinh phu	2575	
+vinh phu province	2575	
+vinh phu tinh	2575	
+vinh phu tinh vietnam	2575	
+vinh phuc	2575	
+vinh phuc province	2575	
+vinh phuc province vietnam	2575	
+vinh thuy nguyen	1h3o	
+vinh thuy nguyen phuc	1h3o	
+vinh thuy phuc nguyen	1h3o	
+volx	3uw9	
+william mcgann	rlj	
+william sleater	414q	
+xe	1m1l	
+xe arrondissement paris	ail	
+xe element	1m1l	
+zaawia	654e	
+zaawia olympic s c	5dlr	
+zurominski	1zh9	

@@ -1,0 +1,575 @@
+430s	2awa	26c1:2
+430s bc	26c1	
+430s bce	26c1	
+a book of cats and creatures	1khm	
+a book of charms and changelings	1khm	
+a book of devils and demons	1khm	
+a book of enchantments and curses	1khm	
+a book of magic adventures	1khm	
+a book of magical beasts	1khm	
+a book of marvels and magic	1khm	
+a book of monsters	1khm	
+a book of princes and princesses	1khm	
+a book of witches	1khm	
+a cruel fate	10rs	
+aaltonen mika	5l10	
+aaltonen veikko	5avi	
+acn 2008	37i	
+alexander stewart	2guy,3fkw	20ts:5,2db6:5,3xzz:3,48hl:5
+alexander stewart 1st duke of albany	2guy	
+alexander stewart 1st earl of buchan	20ts	
+alexander stewart archbishop of st andrews	3fkw	
+alexander stewart duke		2db6:5,48hl:5
+alexander stewart duke of		2db6:5,48hl:5
+alexander stewart duke of albany	2guy	
+alexander stewart duke of ross	48hl	
+alexander stewart duke of rothesay	2db6	
+alexander stewart earl		20ts:5
+alexander stewart earl of		20ts:5
+alexander stewart earl of buchan	20ts	
+alexander stewart herschel	3xzz	
+alexander stewart iii duke of albany	2guy	
+alexander stewart webb	4gq7	
+aneflomorpha	wrb	
+aniximander	3o5d	
+arcimlardo	2eyv	
+augustinian canon	52n9	
+augustinian canons	52n9	
+augustinian canons regular	52n9	
+augustinian eremites	3g8v	
+augustinian friar	3g8v	
+augustinian friars	3g8v	
+augustinian hermits	3g8v	
+augustinian monk	1dtp	
+augustinian order of regular canons	52n9	
+augustinian press	3g8v	
+augustinian priory	1dtp	
+augustinian theology	e41	
+baja	hvu	erk:2,vvo:2,12oo:3,55md:3
+baja california	erk	12oo:3
+baja california del sur	12oo	
+baja california norte	erk	
+baja california south	12oo	
+baja california state	erk	
+baja california sur	12oo	
+baja district	vvo	
+baja hungary	hvu	
+baja navarra	en9	
+baja sur	12oo	
+baja verapacence	55md	
+baja verapaz	55md	55md:3
+baja verapaz department	55md	
+balapitiya	668f	
+benghazi	djl	
+benghazi aphrodite	59g0	
+benghazi district	djl	
+benghazi university	6doq	
+benghazi venus	59g0	
+betcave		2vmr:2
+betcave aguin	2vmr	
+boer republic of transvaal	4sjc	
+briantes	2oop	
+bunch flower family	5lsz	
+bunch sprints	7w6	
+cartoonnetwork com	4u2	
+catlebar	gih	
+cauvin comics	48t0	
+ceaux		2b7t:3,2cut:3,332c:3
+ceaux d		2cut:3
+ceaux d allegre	2cut	
+ceaux en		2b7t:3,332c:3
+ceaux en couhe	332c	
+ceaux en loudun	2b7t	
+cerneux	2yjs	
+charles scerri	6biu	
+chenou	2vje	
+cheste	3b47	
+chrismansyah rahadi	1cy2	
+demogroup	29va	
+dietrich	a8p	102s:2,1dqc:3,1xx6:2,2wqt:4,5fll:3,5hr4:2
+dietrich bader	x66	
+dietrich boenhoffer	1xx6	
+dietrich bonhoeffer	1xx6	
+dietrich bonhoffer	1xx6	
+dietrich buextehude	5hr4	
+dietrich buxtehude	5hr4	
+dietrich fischer		1dqc:3
+dietrich fischer dieskau	1dqc	
+dietrich i margrave of meissen	58zc	
+dietrich knickerbocker	z4v	
+dietrich lohmann	102s	
+dietrich margrave of meien	58zc	
+dietrich margrave of meissen	58zc	
+dietrich markgraf of meien	58zc	
+dietrich markgraf of meissen	58zc	
+dietrich of		2wqt:4
+dietrich of anhalt		2wqt:4
+dietrich of anhalt dessau	2wqt	
+dietrich of berne	1sgc	
+dietrich of the goths	1sgc	
+dietrich von		5fll:3
+dietrich von anhalt dessau	2wqt	
+dietrich von bothmer	5fll	
+discothek	5ow	
+dorjsuren munkhbayar	5sbq	
+dudly	96f	
+eclipsing variable star	4sj	
+eclipsing variable stars	4sj	
+eel	2lvg	27rh:2
+eel river	6gh7	
+eel river california	6gh7	
+eel river valley	6gh7	
+eigenclass model	cxe	
+epictetus	4c1e	
+esbjoern svensson	5i2r	
+ethyl 1 alpha methylbenzyl imidazole 5 carboxylate	6cou	
+ethyl 4 aminobenzoate	56gc	
+ethyl alc	tpg	
+ethyl alcohol anhydrous	tpg	
+ethyl ester	1qhg	
+ethyl hydrate	tpg	
+ethyl merman	1175	
+ethyl p aminobenzoate	56gc	
+ethyl smyth	3b3x	
+eunectes barbouri	6fwo	
+eunectes murina	6fwo	
+eunectes murinus	6fwo	
+eunectes murinus murinus	6fwo	
+eunectes scytale	6fwo	
+evgheni	1id	4j9n:2
+evgheni hmaruc	4j9n	
+evgheni sevciuk	5h0m	
+fc trud engels	2uva	
+fc trud glukhovo	2ox9	
+fc trud kaspiysk	fqs	
+fc trud kurgan	1zfr	
+fc trud naro fominsk	bfk	
+fc trud noginsk	2ox9	
+fc trud penza	7xt	
+fc trud ryazan	1x5n	
+fc trud shevchenko	1xgs	
+fc trud stalinogorsk	k13	
+fc trud stupino	2wjt	
+fc trud togliatti	458	
+fc trud vladimir	8s6	
+fc trud volzhsky	67z	
+fc trud voronezh	2y9	
+fc trud yoshkar ola	k6t	
+fkgp	1ck1	
+glywicy	89m	
+gmina chocen	q2a	
+goancz commune	xft	
+guberniya	bgm	
+guberniya of bessarabia	3vv7	
+hd 166348	1vl0	
+hd 219134	3alf	
+hd deve gowda	43i0	
+hd hyundai		wjp:4
+hd hyundai heavy		wjp:4
+hd hyundai heavy industries	wjp	
+hd kumaraswamy	5o2y	
+hd p e	357l	
+hd resolution	10y	
+hd thoreau	vbo	
+hondevilliers	2x9d	
+htnf	6blf	
+hubblli	1hvt	
+iditarod 33	16ky	
+iditarod xxxiii	16ky	
+inbaseline	si4	
+indiaphlebia	58e1	
+insviller	2vbb	
+intercommunality	14	
+jodphur	d3j	
+john crepps wickliffe beckham	5uiv	
+john rayleigh	jix	
+jorvan		6al2:2
+jorvan vieira	6al2	
+kahramanmara	l8a	
+kaiulani i	4kkg	
+kalafat	3tse	
+karlos		4fom:2
+karlos arguinano	4fom	
+karlos arguinano urkiola	4fom	
+kentuckytransportation cabinet	3f7	
+khorram		32pa:4,50ib:4,59hk:4,69h1:4
+khorram abad	1ub3	
+khorram dasht		50ib:4,59hk:4
+khorram dasht rural		50ib:4,59hk:4
+khorram dasht rural district	50ib,59hk	
+khorram dasht rural district hamadan province	50ib	
+khorram dasht rural district isfahan province	59hk	
+khorram makan		69h1:4
+khorram makan rural		69h1:4
+khorram makan rural district	69h1	
+khorram rud		32pa:4
+khorram rud rural		32pa:4
+khorram rud rural district	32pa	
+khorram rud rural district hamadan province	32pa	
+khorram shahr abadan	30h7	
+kolofo ou	il1	
+kootenai		17e2:2
+kootenai county	17e2	
+kootenai county id	17e2	
+kootenai county idaho	17e2	
+kootenai river	1rsq	
+kootenai river canada and the united states	1rsq	
+kotkan		qr2:3
+kotkan tp	qr2	
+kotkan tyoevaeen palloilijat	qr2	
+kotkan tyovaen		qr2:3
+kotkan tyovaen palloilijat	qr2	
+kreyol	2ix2	
+kreyol ayisyen	2ix2	
+labassere	2m71	
+laljose	1jan	
+leike berliawsky	4sjh	
+leptopoda	2dzm	
+loonborg elv	2qaq	
+manati	31ue	
+manati de los balcanes	509b	
+manati pr	31ue	
+manati puerto rico	31ue	
+manati usa	31ue	
+maria riesch	2hw7	
+mayilsamy	4bz1	
+mayutata	ux3	
+mayutata region	ux3	
+medolla	45of	
+michael sony	31gk	
+miroslavljevic noble family	44xg	
+mitischinskii	1xe4	
+mitischinskii raion	1xe4	
+modernism	2ac,m03	
+modernism and postmodernism	11lw	
+modernism architecture	2ac	
+modernism art	4tbk	
+modernism comments	m03	
+modernism in literature	3ajz	
+naeem ul hassan	6ee3	
+ncfc	645	
+niederzeuzheim	1l05	
+nunu de moura barreto marquis of loule	5i0j	
+olaus		3ovd:2,4vjs:2,62de:2
+olaus henrici	4vjs	
+olaus magni	62de	
+olaus magni gothus	62de	
+olaus magnus	62de	
+olaus magnus friedrich erdmann henrici	4vjs	
+olaus mansson	62de	
+olaus roemer	2ss8	
+olaus romer	2ss8	
+olaus rudbeck	3ovd	
+olaus rudbeckius	3ovd	
+olaus rudebeck	3ovd	
+olaus swartz	5bbn	
+olaus the hungry	1ium	
+olaus v	q6v	
+ophthalmologist	61a	
+orascom telecom	5t7r	
+orascom telecom holding	5t7r	
+orascom telecom holding s a e	5t7r	
+osii mamoru	x19	
+otechestvennye		3ec3:2
+otechestvennye zapiski	3ec3	
+otechestvennye zapisky	3ec3	
+panogastin	5vu2	
+paripatra	inn	
+paripatra sukhumbandhu	inn	
+paripatra sukhumbhand	inn	
+paul 6th		5qcp:5
+paul 6th duc		5qcp:5
+paul 6th duc de		5qcp:5
+paul 6th duc de noailles	5qcp	
+paul mccartney	3qc	
+paul mccartney and john lennon	3ekj	
+paul mccartney and the wings	hie	
+paul mccartney and wings	hie	
+paul mccartney and youth	4h36	
+paul mccartney relationships and marriages	3qc	
+paul mccartney wings	hie	
+petthalia	7ne	
+piliocolobus	6e47	
+pisendel	5vz3	
+podroteja	1xz2	
+pollinburg	56qw	
+ponerine	5rrk	
+powders	6eud	
+ragazzo che sorride	37g1	
+ragazzo del pony express	5t8h	
+ragazzo del secolo	515g	
+ragazzo di calabria	5iah	
+ragazzo di campagna	3el5	
+recz commune	18di	
+rhodobacteraceae	ehl	
+richard southwell bourke	3tqj	
+richard southwell bourke 6th earl of mayo	3tqj	
+richard southwell scientist	500u	
+richmond	17q,8s9,a8z,bgw,cp6,ggw,wxt,zgt,1xie,24p9	1t3:3,6c2:2,d6i:2,ybp:3,1dr8:2,27w4:3,2ju1:2,2p1z:2,3l2t:3,4a9l:3,4qtu:2,4r3d:3,4s3h:2,50b8:3,5ldk:2,6g7s:2
+richmond 2015	1taa	
+richmond ballerz	5koh	
+richmond bc	bgw	
+richmond berea ky micropolitan statistical area	zgt	
+richmond berea ky msa	zgt	
+richmond boakye	4s3h	
+richmond branscombe	25vo	
+richmond british columbia	bgw	
+richmond british columbia canada	bgw	
+richmond ca	a8z	
+richmond ca casino proposals	71j	
+richmond cali	a8z	
+richmond calif	a8z	
+richmond california	a8z	
+richmond california casino proposals	71j	
+richmond california usa	a8z	
+richmond carradine	6hq	
+richmond casino proposals	71j	
+richmond casinos	71j	
+richmond city	a8z	
+richmond city council richmond virginia	17q	
+richmond clarence greens	5wud	
+richmond co ga	2p1z	
+richmond college virginia	851	
+richmond connersville in combined statistical area	cp6	
+richmond county	2ju1,2p1z	
+richmond county ga	2p1z	
+richmond county georgia	2p1z	
+richmond county high school	31ek	
+richmond county nc	2ju1	
+richmond county north carolina	2ju1	
+richmond england	wxt	
+richmond extensions	okb	
+richmond extensions of the central line	okb	
+richmond f c	ybp	
+richmond fc	1t3	
+richmond flowers		50b8:3
+richmond flowers sr	50b8	
+richmond folk festival	17q	
+richmond football		1t3:3
+richmond football club	1t3	
+richmond football club reserves	1t3	
+richmond football club vfl	1t3	
+richmond forson	4qtu	
+richmond guardian	nyh	
+richmond heights taupo	2205	
+richmond hill	d6i,5ldk	
+richmond hill canada	d6i	
+richmond hill new york	5ldk	
+richmond hill ny	5ldk	
+richmond hill on	d6i	
+richmond hill ont	d6i	
+richmond hill ontario	d6i	
+richmond hill queens	5ldk	
+richmond hills queens	5ldk	
+richmond history	8s9	
+richmond hobson	4a9l	
+richmond in	cp6	
+richmond in micropolitan statistical area	cp6	
+richmond in sa	pjl	
+richmond ind	cp6	
+richmond independent city virginia	17q	
+richmond indiana	cp6	
+richmond indiana micropolitan area	cp6	
+richmond iowa	zde	
+richmond journal of law technology	1gxo	
+richmond kentucky	zgt	
+richmond kentucky micropolitan area	zgt	
+richmond kickers	6c2	27w4:3
+richmond kickers future	27w4	
+richmond ky	zgt	
+richmond law	1gxo	
+richmond local history society	8s9	
+richmond lodge	6g7s	
+richmond london	8s9	
+richmond london borough	36i	
+richmond melbourne	ggw	
+richmond melbourne victoria	ggw	
+richmond new york city	2ya	
+richmond north yorkshire	wxt	
+richmond olympic		3l2t:3
+richmond olympic oval	3l2t	
+richmond on thames	36i	
+richmond p hobson	4a9l	
+richmond park	6g7s	
+richmond pearson		4a9l:3
+richmond pearson hobson	4a9l	
+richmond r f c	ybp	
+richmond railway		4r3d:3
+richmond railway line	4r3d	
+richmond railway line new south wales	4r3d	
+richmond railway line sydney	4r3d	
+richmond railway station melbourne	24p9	
+richmond railway station victoria	24p9	
+richmond reed carradine	6hq	
+richmond rfc	ybp	
+richmond road ground	8p1	
+richmond rugby		ybp:3
+richmond rugby club	ybp	
+richmond sc	1dr8	
+richmond sc comments	1dr8	
+richmond sir william blake	5b36	
+richmond society	8s9	
+richmond station	24p9	
+richmond surrey	8s9	
+richmond texas	1xie	
+richmond tigers	1t3	
+richmond tx	1xie	
+richmond united kingdom	wxt	
+richmond upon thames	36i,8s9	
+richmond upon thames borough	36i	
+richmond va	17q	
+richmond vic	ggw	
+richmond victoria	ggw	
+richmond virgina	17q	
+richmond virginia	17q	
+richmond yiadom boakye	4s3h	
+richmond yorks	wxt	
+richmond yorkshire	wxt	
+robert bullock	57ej	
+robert bullock lieutenant governor	57ej	
+robert tansey	2jnr	
+robert williams	4786,4z85	
+robert williams actor	4z85	
+robert williams actor born 1904	5r4y	
+robert williams chemist	4786	
+robert williams daniel jr	4ecs	
+robert williams wood	1udk	
+rotorua	av7	
+rotorua district	av7	
+rotorua district council	av7	
+rotorua new zealand	av7	
+rotorua nz	av7	
+rotorua taupo	av7	
+rotorua town	av7	
+saint dezery	3sle	
+saint pern	1p9t	
+sallebuf	2kf0	
+sambourg	2fcp	
+san remigio	1pwu,28b5	
+san remigio antique	28b5	
+san remigio cebu	1pwu	
+schillersdorf	22u7	
+shiht tzu	6hgu	
+shougnate	56me	
+staedert	dmi	
+suresnes	665	
+suresnes france	665	
+swing	8vh	txl:2,zwb:2,1lll:2,229o:4,2634:3,2sjw:2,52ad:4,59zd:2,692l:3,6f4r:2
+swing and sway with sammy kaye	66l3	
+swing band	8vh	
+swing bands	8vh	
+swing blues	5d2b	
+swing bridge	6f4r	
+swing bridges	6f4r	
+swing coat	11iw	
+swing coats	11iw	
+swing door	nqg	
+swing ferry	5xjl	
+swing genre	8vh	
+swing high		229o:4
+swing high swing		229o:4
+swing high swing low	229o	
+swing high swing low film	229o	
+swing jazz	8vh	
+swing kids	1lll	
+swing kids 1993 film	1lll	
+swing kids film	1lll	
+swing music	8vh	
+swing out		2634:3
+swing out sister	2634	
+swing parade		52ad:4
+swing parade of		52ad:4
+swing parade of 1946	52ad	
+swing role fighter	1vi6	
+swing shift	txl	692l:3
+swing shift film	txl	
+swing shift maisie	692l	
+swing span	6f4r	
+swing style	8vh	
+swing teacher swing	301f	
+swing time	2sjw	
+swing time 1936 film	2sjw	
+swing time film	2sjw	
+swing vote	zwb	
+swing vote 2008 film	zwb	
+swing vote parks and recreation	3srf	
+swing with benny goodman and his orchestra	waa	
+taoisem	so0	
+tehachapai	2xk5	
+tehachapai california	2xk5	
+teleaid	7lp	
+the brand		2jsd:4
+the brand new		2jsd:4
+the brand new testament	2jsd	
+the brand with the 3 stripes	19ad	
+the roanoker	4wt	
+tiruvanantapuram	2od	
+toirano	45qg	
+tribuson	5vz9	
+trichapium	6ftl	
+trichazol	54ag	
+tudelft	4w6	
+uahuntsville	1h1q	
+ugijar	46sr	
+ugijar granada	46sr	
+ugijar spain	46sr	
+ukasz	8cr	2jyu:2,2twn:2,3f3g:2,3hyq:2,3r45:2,3s44:2,3vfy:2,44in:2,49te:2,4foc:2,4qdk:2,59z4:2,5aqw:2,5hqo:2,5jo5:2,5oct:2,5xjr:2,67r4:2,68z0:2,6arw:2,6dpo:2,6dyg:2
+ukasz cichos	68z0	
+ukasz fabianski	44in	
+ukasz first name	8cr	
+ukasz gargua	3vfy	
+ukasz gikiewicz	3r45	
+ukasz given name	8cr	
+ukasz jarosinski	6dpo	
+ukasz jasinski	6arw	
+ukasz jozef podolski	1433	
+ukasz kowalski	6dyg	
+ukasz kowalski footballer	6dyg	
+ukasz kubik	5oct	
+ukasz kubot	3hyq	
+ukasz madej	59z4	
+ukasz mierzejewski	3f3g	
+ukasz nawotczynski	4qdk	
+ukasz opalinski	49te	
+ukasz opalinski 1612 1666	49te	
+ukasz opalinski 16121666	49te	
+ukasz piszczek	3s44	
+ukasz podolski	1433	
+ukasz sinkiewicz	3bdn	
+ukasz sosin	2twn	
+ukasz surma	5xjr	
+ukasz szukaa	2jyu	
+ukasz targosz	5jo5	
+ukasz traka	4foc	
+ukasz tumicz	5hqo	
+ukasz tyminski	67r4	
+ukasz zauska	5aqw	
+valdimar holti the nimble	1lih	
+vaudreching	24mk	
+villandraut	2f8c	
+viveca		iqz:2,3d5b:2
+viveca larn	3d5b	
+viveca lindfors	iqz	
+viveca sundvall	3d5b	
+vmware	1nxo	
+vmware converter	1nxo	
+vmware image	1nxo	
+vmware inc	1nxo	
+vmware stage manager	1nxo	
+vmware tools	1nxo	
+vmware virtual disk file	1nxo	
+voellerdingen	2j2c	
+werratal	1t6l	
+westlock	4dh3	
+westlock ab	4dh3	
+westlock alberta	4dh3	
+wingback association football	12	
+wingback soccer	12	
+xray crystallography	4943	
+xray martyrs memorial	5ajk	
+yorku	271	
+zajecar	h2c	
+zajecar municipality	h2c	
+zulfikar		17ue:3
+zulfikar ali		17ue:3
+zulfikar ali bhutto	17ue	

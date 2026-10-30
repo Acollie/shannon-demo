@@ -1,0 +1,471 @@
+15th		au7:4,1afy:2,27lm:3
+15th arrondissement	au7	au7:4
+15th arrondissement of		au7:4
+15th arrondissement of paris	au7	
+15th arrondissement paris	au7	
+15th asian games	nt	
+15th august	69eg	
+15th cent	1afy	
+15th century	1afy	27lm:3
+15th century bc	27lm	
+15th century bce	27lm	
+15th century ce	1afy	
+15th century in germany	5na	
+15th chief maclean	4n9r	
+15th clan chief	4n9r	
+15th commonwealth games	uln	
+15th district of budapest	35m0	
+15th duke of norfolk	22fl	
+15th earl of derby	2jnk	
+15th maclean chief	4n9r	
+15th of august	69eg	
+15th pan american games	rda	
+15th paralympics	412	
+15th stage of the tour de france 2005	3rqh	
+15th state	gs	
+15th vice president of the united states	2jr7	
+15th winter olympic games	16u	
+adam4267 caolan lavery	67sn	
+alfre	n5v	n5v:2,3ky3:2
+alfre finnbogason	3ky3	
+alfre woodard	n5v	
+alfre woodward	n5v	
+antioc	6uo	
+archdiocese	506	jmi:3,3ejv:3
+archdiocese of		jmi:3,3ejv:3
+archdiocese of aquila	3sig	
+archdiocese of bamberg	41om	
+archdiocese of barcelona	2ni7	
+archdiocese of bratislava	4j9e	
+archdiocese of bratislava trnava	4j9e	
+archdiocese of burgos	5321	
+archdiocese of canterbury	1mml	
+archdiocese of chalcedon	64qw	
+archdiocese of cologne	3kfc	
+archdiocese of cyzicus	64te	
+archdiocese of firenze	ke4	
+archdiocese of florence	ke4	
+archdiocese of genoa	3bzs	
+archdiocese of genova bobbio	3bzs	
+archdiocese of koeln	3kfc	
+archdiocese of koln	3kfc	
+archdiocese of krakow	69tr	
+archdiocese of l aquila	3sig	
+archdiocese of lund	i1d	
+archdiocese of lyon vienne	3iir	
+archdiocese of lyons	3iir	
+archdiocese of madrid	1ywa	
+archdiocese of manila	3ejv	
+archdiocese of milan	ioq	
+archdiocese of milano	ioq	
+archdiocese of moscow	4bvm	
+archdiocese of mother of god at moscow	4bvm	
+archdiocese of muenchen und freising	zen	
+archdiocese of muenchen und freising munich	zen	
+archdiocese of munchen und freising	zen	
+archdiocese of munchen und freising munich	zen	
+archdiocese of munich	zen	
+archdiocese of naples	vxz	
+archdiocese of napoli	vxz	
+archdiocese of oviedo	xwb	
+archdiocese of palermo	29c9	
+archdiocese of paris	hk0	
+archdiocese of pisa	y9i	
+archdiocese of prague	18x4	
+archdiocese of praha	18x4	
+archdiocese of ravenna	4uwi	
+archdiocese of ravenna cervia	4uwi	
+archdiocese of rome	75u	
+archdiocese of siena	nql	
+archdiocese of siena colle di val d elsa montalcino	nql	
+archdiocese of strasbourg	5ctw	
+archdiocese of strasburg	5ctw	
+archdiocese of strassburg	5ctw	
+archdiocese of turin	28a6	
+archdiocese of uppsala	jmi	
+archdiocese of venice	lir	
+archdiocese of vienna	2bsm	
+archdiocese of wien	2bsm	
+archdiocese of york	bbd	
+arthrostylidium	1qku	
+arthrostylidium berryi	1qku	
+attika	tgr	
+attika 7	54ux	
+attika periphery	8o0	
+audiofile tech tv	3u25	
+bacourt	2e4n	
+bascanichthys	4jub	
+bawd	2ot	
+beausse	4g8p	
+benatky	3ik7	12kj:3
+benatky hradec kralove district	3ik7	
+benatky nad		12kj:3
+benatky nad jizerou	12kj	
+benficab	78l	
+biddi bid	6cm4	
+biddi biddi	6cm4	
+bouenza	4qe6	4qe6:2
+bouenza department	4qe6	
+bouenza region	4qe6	
+bratsberg		37ot:2
+bratsberg amt	iup	
+bratsberg county	iup	
+bratsberg line	37ot	
+bratsberg railroad	37ot	
+bratsberg railway	37ot	
+breed77	5dmc	
+cavarna	4hjk	
+chaparron bonaparte	1fdu	
+charrecey	3afg	
+chateaulin	14f8	
+chotovice	44bl,45qi	
+chotovice svitavy district	44bl	
+continuity	f8x	
+danilinho	5917	
+dappled white	4l7f	
+david regis	2dfp,34ld	
+david rumsfeld	2r0f	
+debno	2x8h	
+derbamont	1k58	
+dkc4	63zk	
+dreamgirls	1av1	
+dreamgirls film	1av1	
+dreamgirls movie	1av1	
+dreamgirls the movie musical	1av1	
+durell babbs	45lu	
+elkins	1g2z	5akj:2
+elkins aaron	62ka	
+elkins automatic rifle	3wvs	
+elkins park	5akj	
+elkins park pa	5akj	
+elkins park pennsylvania	5akj	
+elkins west virginia	1g2z	
+elkins west virginia micropolitan area	cqp	
+elkins wv	1g2z	
+elkins wv micropolitan statistical area	cqp	
+fakhitah		4hx4:4
+fakhitah bint		4hx4:4
+fakhitah bint abi		4hx4:4
+fakhitah bint abi talib	4hx4	
+fakhitah bint abu talib	4hx4	
+fakhitah binte abu talib	4hx4	
+fc luzh azov	2e2d	
+ferrantino	45x2	
+fivizzano	zdv	
+frayn michael	13np	
+fuerteventura	3ju4	
+fuerteventura island	3ju4	
+fuerteventura spain	3ju4	
+furstenzell	2ngt	
+gidons kremers	3g16	
+gijzegem	bh5	
+goals m i a song	j8z	
+goals song	j8z	
+halldor		2u4a:2,5rwg:2,608h:2
+halldor asgrimsson	608h	
+halldor espelid	5rwg	
+halldor gudjonnson	2u4a	
+halldor gudjonsson	2u4a	
+halldor gujonsson	2u4a	
+halldor guthdjonsson	2u4a	
+halldor kiljan laxness	2u4a	
+halldor laxness	2u4a	
+hanot s disease	3aq9	
+harazpey		zo0:5,26yi:5,6fs8:5
+harazpey ye		zo0:5,26yi:5,6fs8:5
+harazpey ye gharbi	6fs8	6fs8:5
+harazpey ye gharbi rural		6fs8:5
+harazpey ye gharbi rural district	6fs8	
+harazpey ye jonubi	zo0	zo0:5
+harazpey ye jonubi rural		zo0:5
+harazpey ye jonubi rural district	zo0	
+harazpey ye shomali	26yi	26yi:5
+harazpey ye shomali rural		26yi:5
+harazpey ye shomali rural district	26yi	
+hersh seymour	60bm	
+hersh seymour m	60bm	
+ingenieurburo stengel gmbh	6dbd	
+isernhagen	1n21	
+japheth	2t8c	
+jawaan oldham	2plh	
+jemina khan	38bn	
+jestrebi	2u02,3p5m,47o1	
+jestrebi ceska lipa district	47o1	
+jestrebi nachod district	2u02	
+jestrebi sumperk district	3p5m	
+jove		2fnw:2
+jove aegiochus	y7r	
+jove books	2fnw	
+jove espanol	2lrz	
+jove publisher	2fnw	
+jurassic	5ceq	e9p:2,lw0:2,10la:3,31f6:4,6ays:2,6geb:2
+jurassic dinosaurs	7vt	
+jurassic era	5ceq	
+jurassic park	e9p,6ays,6geb	10la:3
+jurassic park 1	e9p	
+jurassic park 2 film	ogy	
+jurassic park 3	10la	
+jurassic park 3d	e9p	
+jurassic park 4	lw0	
+jurassic park 5	31f6	
+jurassic park 5 film	31f6	
+jurassic park book	6ays	
+jurassic park breakout	10la	
+jurassic park by michael crichton	6ays	
+jurassic park crunch	ogy	
+jurassic park extinction	10la	
+jurassic park fictional theme park	6geb	
+jurassic park film	e9p	
+jurassic park film series	6geb	
+jurassic park franchise	6geb	
+jurassic park iii	10la	
+jurassic park iv	lw0	
+jurassic park iv the new approach	6geb	
+jurassic park movie	e9p	
+jurassic park novel	6ays	
+jurassic park novel series	6geb	
+jurassic park the extinction	10la	
+jurassic park the lost world	ogy	
+jurassic park v	31f6	
+jurassic park vi	6geb	
+jurassic period	5ceq	
+jurassic system	5ceq	
+jurassic world	lw0	31f6:4
+jurassic world 2	31f6	
+jurassic world 2 fallen kingdom	31f6	
+jurassic world 2 the fallen kingdom	31f6	
+jurassic world 3	6geb	
+jurassic world fallen		31f6:4
+jurassic world fallen kingdom	31f6	
+jurassic world fallen kingdom 3d	31f6	
+jurassic world fallen kingdom original motion picture soundtrack	31f6	
+jurassic world film	lw0	
+jurassic world film series	6geb	
+jurassic world franchise	6geb	
+jurassic world ii	31f6	
+jurassic world the fallen kingdom	31f6	
+kabore charles	4fzs	
+kavalla	i3v	
+kfir		43uw:2,53sp:2
+kfir edri	53sp	
+kfir zokol	43uw	
+khon		fww:2,q5j:2,2cxt:4,5y8f:5
+khon kaen	fww,q5j	2cxt:4,5y8f:5
+khon kaen f		2cxt:4
+khon kaen f c	2cxt	
+khon kaen province	fww	
+khon kaen province thailand	fww	
+khon kaen thailand	q5j	
+khon kaen united	5y8f	5y8f:5
+khon kaen united f		5y8f:5
+khon kaen united f c	5y8f	
+killwithme	2jqy	
+killwithme com	2jqy	
+kume masao	5ldg	
+kurtis		21wu:2,4rho:2
+kurtis blow	4rho	
+kurtis eugene warner	4zl2	
+kurtis foster	21wu	
+kurtis foster comments	21wu	
+kurtis walker	4rho	
+kurtis warner	4zl2	
+kwidzyn	uda	25ab:2
+kwidzyn commune	rkr	
+kwidzyn county	25ab	
+kypfarin	rpv	
+legnicki	17w0	
+lelocle	yen	
+limony	2myh	
+limony snicket	1et3	
+loi des rues	1jgz	
+loi du nord	4e91	
+loi faure	362q	
+loi first division	2yva	
+loi la	1jkd	
+loi premier division	11et	
+machuca	3c9f	
+macmohan	4f4c	
+marcais	27q4	
+maycomb	6g6v	
+maycomb ala	6g6v	
+maycomb disease	6g6v	
+mdpi	55zr	55zr:2
+mdpi ag	55zr	
+mdpi publisher	55zr	
+mdpi publishing	55zr	
+megamanx	6f75	
+microids	zqq	zqq:2
+microids canada	zqq	
+microids france	zqq	
+microids games for all	zqq	
+microids italy	zqq	
+microids montreal	52i6	
+microids paris	52i6	
+monumente istorice	24x	
+muhlwald	1zju	
+muhlwald selva dei molini	1zju	
+musjid	qy	
+mysteves	2rjt	
+nawakshut	mnt	
+neustadt	1gfz	c0q:6,gce:4,nxt:5,17zj:4,1l8s:3,2iud:3,2lcx:4,3e2r:3,4p7g:3
+neustadt a d aisch	c0q	
+neustadt a d aisch bad windsheim	c0q	
+neustadt a d aisch bad windsheim district	c0q	
+neustadt a d donau	20n4	
+neustadt a d waldnaab district	bk9	
+neustadt a d weinstrae	gce	
+neustadt aisch	17zj	
+neustadt aisch bad windsheim	c0q	
+neustadt am		2iud:3,4p7g:3
+neustadt am main	4p7g	
+neustadt am rubenberge	2iud	
+neustadt am ruebenberge	2iud	
+neustadt am zeltberg	1682	
+neustadt an		c0q:6,gce:4,17zj:4,2lcx:4
+neustadt an der		c0q:6,gce:4,17zj:4,2lcx:4
+neustadt an der aisch	17zj	c0q:6
+neustadt an der aisch bad		c0q:6
+neustadt an der aisch bad windsheim	c0q	
+neustadt an der aisch bad windsheim district	c0q	
+neustadt an der donau	20n4	
+neustadt an der haardt	gce	
+neustadt an der mettau	19f5	
+neustadt an der orla	2lcx	
+neustadt an der rems	k47	
+neustadt an der tafelfichte	2qct	
+neustadt an der waag	3chl	
+neustadt an der waldnaab district	bk9	
+neustadt an der weinstrae	gce	
+neustadt an der weinstrasse	gce	
+neustadt bad windsheim	c0q	
+neustadt bei		3e2r:3
+neustadt bei coburg	3e2r	
+neustadt coburg	3e2r	
+neustadt county	1fp0	
+neustadt donau	20n4	
+neustadt eberswalde	ru8	
+neustadt hamburg	1gfz	
+neustadt im schwarzwald	1rsi	
+neustadt in		1l8s:3
+neustadt in oberschlesien	1540	
+neustadt in sachsen	1l8s	
+neustadt in westpreuen	tuz	
+neustadt in westpreussen	tuz	
+neustadt international		nxt:5
+neustadt international prize		nxt:5
+neustadt international prize for		nxt:5
+neustadt international prize for literature	nxt	
+neustadt orla	2lcx	
+neustadt prize	nxt	
+neustadt prize for international literature	nxt	
+neustadt rubenberge	2iud	
+neustadt ruebenberge	2iud	
+neustadt sachsen	1l8s	
+neustadt schwarzwald	1rsi	
+neustadt waldnaab district	bk9	
+neustadt weinstrae	gce	
+neustadt weinstrasse	gce	
+nouilhan	3csv	
+nucelar power	1xll	
+ofer		26ff:2
+ofer sheetrit	26ff	
+ofer shitrit	26ff	
+olivella	9v0,3xff	
+olivella gastropod	9v0	
+olivella shell	9v0	
+osasuna	4gz	fp5:2
+osasuna b	fp5	
+osasuna pamplona	4gz	
+ossonoba roman city	gs1	
+pentoxyphyline	4x4r	
+peter bernstein	1pe2	
+peter bernstein composer	1pe2	
+politechnic university of bucharest	1qp8	
+politechnic university of timisoara	4umw	
+polybasic salt	2snk	
+pottekkadu	4bjz	
+purullena	4c9z	
+purullena granada	4c9z	
+purullena spain	4c9z	
+remus	5ed6	
+remus films	1ejo	
+restiad	zzl	
+rgs	fka	
+rgs high wycombe	fka	
+rgs slst	fka	
+robert holcomb jr	3sjz	
+robert sanders	1bm3	
+rpll	16s9	
+saffavid dynasty	3izr	
+sattam		ckf:6
+sattam bin		ckf:6
+sattam bin abdul		ckf:6
+sattam bin abdul aziz	ckf	ckf:6
+sattam bin abdul aziz al		ckf:6
+sattam bin abdul aziz al saud	ckf	
+sattam bin abdulaziz al saud	ckf	
+schistura	6kp	
+schongau		1svy:2
+schongau bavaria	1svy	
+seater	34zf	
+shogakukan	d0t	
+shogakukan inc	d0t	
+shogakukan production	d0t	
+shogakukan productions	d0t	
+shogakukan productions co ltd	d0t	
+shogakukan publishing	d0t	
+shoghi		5k30:2
+shoghi effendi	5k30	
+shoghi effendi rabbani	5k30	
+sison	1uar	
+sison pangasinan	1uar	
+soize	21yu	
+somellier	4lza	
+spinozan	nt3	
+stockbreeding	376m	
+swelinck	3qpp	
+tac	6b4n	
+tartaric	25np	
+tenboom	5nhg	
+terno		34lh:3
+terno d		34lh:3
+terno d isola	34lh	
+terno disola	34lh	
+tezpur	2l42	
+tezpur assam	2l42	
+the chevron corporation	2mwt	
+the liberty bell	6h61	
+the liberty statue	19dh	
+the nba	98v	
+the nba most improved player award	kpf	
+the nba s most improved player	kpf	
+the nba s most improved player award	kpf	
+the reverend		45jx:4
+the reverend al green	gys	
+the reverend canon arthur peacocke	5aqp	
+the reverend canon arthur peacocke mbe	5aqp	
+the reverend canon arthur robert peacocke mbe	5aqp	
+the reverend charles william frederick cavendish bentinck	5vza	
+the reverend dr martin luther king jr	dmo	
+the reverend edwin abbott abbott	5p8g	
+the reverend edwin abbott abobtt	5p8g	
+the reverend horton		45jx:4
+the reverend horton heat	45jx	
+the reverend jesse jackson	48qv	
+the reverend patrick bronte	2hbh	
+the reverend tholomew plague	1thg	
+the reverend w awdry	1dbx	
+the reverend wilbert vere awdry obe	1dbx	
+the ruined man who became rich again through a dream	37a7	
+thim skold	4sd5	
+tried	kw5	
+tuglie	5m91	
+villayon	2s3s	
+villayon asturias	2s3s	
+villayon spain	2s3s	
+wieng chan	c72	
+wnyf	9xm	
+wolfie s just fine	54c2	
+worldbowl	5m5r	
+zoetrope studio	o04	
+zoetrope studios	o04	

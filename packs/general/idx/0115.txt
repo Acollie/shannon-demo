@@ -1,0 +1,331 @@
+1979	3l25	eof:4,hzx:4,jyo:4,1ga8:4,1sg7:5,4i6m:4,58rm:3,63h0:6
+1979 80		eof:4,1sg7:5
+1979 80 bundesliga	23dm	
+1979 80 cypriot		eof:4,1sg7:5
+1979 80 cypriot cup	eof	
+1979 80 cypriot first division	13cm	
+1979 80 cypriot second division	16t2	
+1979 80 cypriot third		1sg7:5
+1979 80 cypriot third division	1sg7	
+1979 80 ekstraklasa	45th	
+1979 80 fuball bundesliga	23dm	
+1979 80 fussball bundesliga	23dm	
+1979 amstel		1ga8:4
+1979 amstel gold		1ga8:4
+1979 amstel gold race	1ga8	
+1979 ce	3l25	
+1979 e3		58rm:3
+1979 e3 harelbeke	58rm	
+1979 eurovision song contest	gy2	
+1979 iaaf		jyo:4,63h0:6
+1979 iaaf world		jyo:4,63h0:6
+1979 iaaf world cross		63h0:6
+1979 iaaf world cross country		63h0:6
+1979 iaaf world cross country championships	63h0	
+1979 iaaf world cup	jyo	
+1979 pan		hzx:4
+1979 pan am games	hzx	
+1979 pan american		hzx:4
+1979 pan american games	hzx	
+1979 tour		4i6m:4
+1979 tour de		4i6m:4
+1979 tour de france	4i6m	
+1979 world cup in athletics	jyo	
+1979 world cup of athletics	jyo	
+1979 year	3l25	
+1af	1sbc	
+3ds	4as	
+8086	5nzp	
+8086 microprocessor	5nzp	
+abdelmalik ziaya	4kap	
+ajithkumar	iz1	
+aleandro		478f:2
+aleandro rosi	478f	
+alexander alkhazov	68ak	
+ambystomatidae	1cwx	
+ambystomatidae mole salamanders	1cwx	
+apomyrmex	41xl	
+asamblea general de las naciones unidas	2stt	
+aseral	20q7	20q7:2
+aseral municipality	20q7	
+aserbajdsjan	62	
+bayintnaung	10xw	
+behter	644l	
+bepinkla classica	y05	
+beyranvand		jrx:5,2293:5
+beyranvand e		jrx:5,2293:5
+beyranvand e jonubi	jrx	jrx:5
+beyranvand e jonubi rural		jrx:5
+beyranvand e jonubi rural district	jrx	
+beyranvand e shomali	2293	2293:5
+beyranvand e shomali rural		2293:5
+beyranvand e shomali rural district	2293	
+bnp	37z4	
+bnp paribas	10cl	
+bnp paribas canada	10cl	
+bnp paribas masters	q4t	
+bnp paribas new york	10cl	
+bnp paribas open	r0n	
+bnp paribas personal finance	10cl	
+bnp paribas s a	10cl	
+bnp paribas securities services	10cl	
+bnp paribus	10cl	
+bobsam		4qa6:2
+bobsam elejiko	4qa6	
+bocalon	4mnu	
+bojin laskov	5g04	
+bonndorf	5i4k	5i4k:3
+bonndorf im		5i4k:3
+bonndorf im schwarzwald	5i4k	
+bonndorf schwarzwald	5i4k	
+bonndorf uberlingen	hba	
+bystrany	4is9	
+caitlen	k2y	
+campomorone	2dax	
+carevo selo	2a3x	
+cervia	12yw,3haf	3haf:4,3ne6:3
+cervia de		3haf:4,3ne6:3
+cervia de les		3haf:4
+cervia de les garrigues	3haf	
+cervia de ter	3ne6	
+chickamauga battle of	5uk3	
+childrens		2889:2
+childrens album	7n2	
+childrens author	um	
+childrens bbc	bji	
+childrens comics	2ew	
+childrens defense fund	3smu	
+childrens film	10z	
+childrens fractures	1fzx	
+childrens hospital	2889,56ps	
+childrens hospital tv series	2889	
+childrens hospital u s tv series	2889	
+childrens hospital web series	2889	
+childrens itv	oa0	
+childrens literature	um	
+childrens music	7n2	
+childrens own school	fx9	
+childrens song	3aha	
+childrens songs	3aha	
+childrens television	2jr	
+childrens television series	2jr	
+childrens television workshop	ma6	
+clamidia	1wt5	
+cornus	1khe,30wi	
+cornus aveyron	30wi	
+cornus france	30wi	
+cornus plant	1khe	
+cornus species	1khe	
+cornus subg arctocrania	1khe	
+cornus subg cynoxylon	1khe	
+cornus subg kraniopsis	1khe	
+cornus subg mesomora	1khe	
+cryptic corporation	jko	
+curule aedile	crh	
+curule aediles	crh	
+diocletian	4r6z	
+diocletian reforms	4r6z	
+dki jakarta	17h	
+dyanavel	27xp	
+epistemologic	14zb	
+ethoform	56gc	
+fermented drinks	fbn	
+fermented soy	48yn	
+frum david	4er6	
+frum forum	4er6	
+frum jew	ujg	
+frum jews	ujg	
+gagnef		25wr:2
+gagnef municipality	25wr	
+gerstheim	1s5p	
+gmina bobrowniki	1clp,3x88	
+gmina bobrowniki kuyavian pomeranian voivodeship	1clp	
+gmina bobrowniki silesian voivodeship	3x88	
+gmina dziadkowice	23i2	
+goody mob records	3wta	
+grimspound a folklore companion	2kzv	
+heiraten verboten	3ecm	
+helsinkiturku		2oc9:2
+helsinkiturku railway	2oc9	
+henry jerome		5fmp:4
+henry jerome de		5fmp:4
+henry jerome de salis	5fmp	
+hoder	4nw0	
+hymenocallis	12ky	
+ic77 db	5em9	
+incorporated	4sso	
+incorporated association of organists	13q	
+incorporated business	6t6	
+incorporated community	q1	
+incorporated company	az	
+incorporated entity	6t6	
+incorporated television company	ide	
+incorporated territories	6gex	
+incorporated tv series	4sso	
+incorporated village of farmingdale	1or5	
+incorporated village of patchogue	1uk2	
+itunes	24nh	24nh:3
+itunes 10	24nh	
+itunes 7	24nh	24nh:3
+itunes 7 1	24nh	
+itunes 9	24nh	
+itunes app store	11xe	
+itunes com	24nh	
+itunes exe	24nh	
+itunes genius	24nh	
+itunes in the cloud	24nh	
+itunes live from las vegas at the palms yellowcard album	1o9j	
+itunes live london festival 2008 inme ep	4dda	
+itunes originals staind	17ev	
+itunes session dispatch ep	39ej	
+itunes session switchfoot	ks4	
+jalacy hawkins	4i2c	
+james booth	1boj	
+jean rhys	4yi1	
+jelalabad	23j6	
+jimb wales	qfc	
+kaashinathuni vishwanath	jex	
+kallum		57xc:2
+kallum higginbotham	57xc	
+keikoo	j2g	
+kintyre	263f	
+kintyre peninsula	263f	
+korsbk	fli	
+kraftco	g8f	
+la liberation	h47	
+la moutarde me monte au nez	1jzd	
+la thuile	17bf,1jpl	
+la thuile aosta valley	17bf	
+la thuile france	1jpl	
+la thuile italy	17bf	
+la thuile savoie	1jpl	
+lettenbach	1vx2	
+lillard matthew	kqp	
+lodingen	3182	
+lomnicka	4bbg	
+lomnicka brno country district	4bbg	
+lubbenau	2bbz	2bbz:2
+lubbenau spreewald	2bbz	
+luminous bastard	3h2s	
+luminous poison	377v	
+luminous times	5ncl	
+lyublinskaya	1gt7	
+lyublinskaya line	1gt7	
+malpertuis	1li6	
+malpertuis film	1li6	
+masies de roda	2vmu	
+mellonomics	2d32	
+narasimhan ram	5sa2	
+nonrelativistic	6g8u	
+novacelles	3che	
+ojibwa	65zu	
+ojibwa indian	65zu	
+ojibwa language	5pnd	
+ojibwa odawa language	5pnd	
+ojibwa people	65zu	
+oseni ganiyu bolaji	5no2	
+osmania	ep0	ep0:2
+osmania university	ep0	
+oyrieres	29fm	
+parkfield stadium	313y	
+peter mitchell chemist	3vz2	
+peter mitchell three men and a baby	1c7q	
+pietr tchaikowsky	920	
+plouvien	1qwx	
+pugachova	n6u	
+pvz	4amw	
+rabih		4l9i:2
+rabih alameddine	4l9i	
+racquetball	120c	
+redange	2hw5,396z	396z:3
+redange canton	3q0o	
+redange chamber of deputies constituency	3q0o	
+redange sur		396z:3
+redange sur attert	396z	
+richard cobden	5rxy	
+richard nott antrim	5lms	
+rikkokushi	6fmo	
+ringbanen	4bo0	
+robert kraft	3ylp,4r2o	
+robert kraft astronomer	4r2o	
+robert mayer	5pwu	
+robert patrick	hzg	
+robert patrick amell	1z9i	
+robert patrick bob casey jr	5laq	
+robert patrick casey	5376	
+robert patrick casey sr	5376	
+rochegude	2qpb,3b6g	
+rochegude drome	2qpb	
+rochegude gard	3b6g	
+roshei yeshiva	2zg8	
+ruthin	2x8d	
+ruthin denbighshire	2x8d	
+sabbioneta	1wkr	
+saint beauzile	2vd7	
+salavan		1sks:2
+salavan province	1sks	
+sartiglia	pm0	
+scleral icterus	6a14	
+shitou ji	1jx8	
+shortcut	5pgw	2gwy:3,5pgw:2
+shortcut to		2gwy:3
+shortcut to happiness	2gwy	
+shortcut to happiness version 2	2gwy	
+sianel pedwar cymru	1kb7	
+sleddog racing	i3r	
+spinone		464x:3
+spinone al		464x:3
+spinone al lago	464x	
+spoz	5lqo	
+srch	4esj	
+stds	4q6u	
+strepticemia	12yk	
+testimoines about combat actions of 8 and 4 route communist armies and other units of chinese forces	3rk	
+teyateyaneng district	5lrm	
+the argument clinic	5tl2	
+the argument sketch	5tl2	
+the argument skit	5tl2	
+the bulbuls	4je3	
+the hildebrand rarity	6fjl	
+the lesiure peninsula	3bnq	
+the ramsey lewis trio	ne0	
+the tortoise		5f7f:5
+the tortoise and		5f7f:5
+the tortoise and the		5f7f:5
+the tortoise and the hare	5f7f	
+the tortoise and the hare film	5f7f	
+the vulcan		2jne:3
+the vulcan hello	2jne	
+thunderstorms	6apb	
+tilze	pfq	
+tiruvanathapuram	2od	
+tournoi de quebec	35al	
+tournoi de roland garros	9qp	
+tsimafey kalachow	3cs7	
+typocerus	6fc5	
+tzfas	jld	
+urayasu	2r3a	
+urayasu chiba	2r3a	
+urayasu chiba japan	2r3a	
+urayasu tiba	2r3a	
+usair	1dbo	
+usair 1549	5alt	
+usair flight 1549	5alt	
+valdenebro	4b0r	
+valdenebro soria	4b0r	
+valdenebro spain	4b0r	
+vyshhorodskyi raion	5blz	
+weiterswiller	302b	
+wrexhamcounty	bme	
+wulsan	dvy	
+xenophobe	63as	
+xenophobe video game	63as	
+yurchi		29px:5,3tf1:5
+yurchi ye		29px:5,3tf1:5
+yurchi ye gharbi	3tf1	3tf1:5
+yurchi ye gharbi rural		3tf1:5
+yurchi ye gharbi rural district	3tf1	
+yurchi ye sharqi	29px	29px:5
+yurchi ye sharqi rural		29px:5
+yurchi ye sharqi rural district	29px	
+zithromax	d9k	

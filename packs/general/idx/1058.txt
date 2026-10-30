@@ -1,0 +1,388 @@
+09	2ekp	
+a11 autoroute	40lj	
+a11 autoroute france	40lj	
+a11 expressway switzerland	6bqg	
+a11 motorway	40lj	
+a11 motorway france	40lj	
+a11 switzerland	6bqg	
+aalesund	6li	
+aalesund fk	9hj	
+aalesund norway	6li	
+alamain	9bl	
+alashkert		11f2:2
+alashkert fc	11f2	
+alashkert martuni	11f2	
+allendorf haiger	3kiu	
+anartica	3j	
+anfield engine	6bh6	
+anfield house	6bh6	
+anfield plain	6bh6	
+anfield plain county durham	6bh6	
+anfield plain durham	6bh6	
+anfield plain england	6bh6	
+anfield plane	6bh6	
+aqueous rock	4j3	
+arbetarepartiet socialdemokraterna	30d	
+arcicalascione	4dr	
+auction	266t	
+auction date	266t	
+auction house	266t	
+auction houses	266t	
+bataillean	19r8	
+begovina	4e6c	
+bildingsroman	leb	
+breitner	26jg	4pwt:3
+breitner da		4pwt:3
+breitner da silva	4pwt	
+breitner footballer born 1989	4pwt	
+brettnach	1tlr	
+carburetor	5ueu	
+carburetor county	svp	
+ccsf	10tx	
+cervantes	jot,2g1q,3oiv	
+cervantes film	3oiv	
+cervantes galicia	2g1q	
+cervantes lugo	2g1q	
+cervantes prize	uoh	
+cervantes saavedra	jot	
+cervantes saavedra miguel de	jot	
+cervantes saavedra miguel de writer	jot	
+cesset	2ej3	
+choe	25yh	
+choe clan	25yh	
+choe eun hee	4vi7	
+choe eun hui	4vi7	
+choe korean name	25yh	
+choe korean surname	25yh	
+choe un hui	4vi7	
+choe yeong ui	15h9	
+chula	iyd	j0i:2
+chula sinthana fc	gqi	
+chula the tarantula	1iaj	
+chula united	gqi	
+chula united f c	gqi	
+chula united fc	gqi	
+chula vista	j0i	
+chula vista ca	j0i	
+chula vista california	j0i	
+citharichthys	56ye	
+clinfo	5sfc	
+clisson	13ty	
+colmena	14va	
+comano	3st6,59op	17z7:2
+comano massa carrara	59op	
+comano ms	59op	
+comano switzerland	3st6	
+comano terme	17z7	
+comano ti	3st6	
+comano ticino	3st6	
+comano tuscany	59op	
+cordyline	60so	
+cordyline plant	60so	
+dacascos	ya0	
+dacascos mark	ya0	
+david attila grof	6761	
+david carlsson	5efi	
+david carlsson footballer	5efi	
+delirios de grandeza	19g2	
+dimensioned lumber	52yw	
+dimensioned timber	52yw	
+dromantine	dmr	
+edward martindel	34s8	
+edward woolsey		64hp:3
+edward woolsey bacon	64hp	
+estrodial	3jlo	
+euphrates	10q5	6h4v:2
+euphrates r	10q5	
+euphrates river	10q5,6h4v	
+euphrates river album	6h4v	
+felimida	3pyl	
+fijis	z4	
+fondamenta	2jdc	
+gci broadcast services	8a3	
+gemmell david	1myx	
+gemmell tommy	4tqj	
+germay	2drz	
+germersche	1u4l	
+giichi tanaka	4gur	
+glaciation	6fca	
+golovanov alexander	55c0	
+goucher	azs	azs:2
+goucher college	azs	
+goucher gophers	azs	
+gudjon baldvinsson	5dtw	
+gyorasszonyfa	5w9v	
+hachama	1ckr	
+hachama records	1ckr	
+hattori	28or	
+hoaxer	20n1	
+holargos	3e7h	
+holargos greece	3e7h	
+hosin	2s3g	
+hravatska	5n	
+ilmenau	n6f,4d2d	
+ilmenau river	4d2d	
+inuliphila	2cm5	
+john throckmorton general	5rqn	
+kanno yoko	lx5	
+kanno youko	lx5	
+kellegend	awi	
+khersonskaya guberniya	1zri	
+la vinotinto	4vn	
+lamaids	36d6	
+le plus beau metier du monde	4li2	
+le plus vieux metier du monde	uf6	
+leati joseph anoa i	3c4f	
+leati joseph anoai	3c4f	
+leati joseph joe anoai	3c4f	
+liscr fc	4e48	
+longvillers	2o86	
+louze	3muh	
+lustar	3iop	
+maharajoh s college trivandrum	2fy2	
+manvydas	25z2	
+medo kamara	53rt	
+medo persian empire	hgh	
+melanoplinae	1u1r	
+messager	3093	
+micv	t3e	
+molinella	2ihv	
+monselice	xrv	
+mortimer	bai,oy3	3fyp:2,3l3r:3,50ha:2,6cl3:2
+mortimer adler	3l3r	
+mortimer b zuckerman	6cl3	
+mortimer benjamin mort zuckerman	6cl3	
+mortimer benjamin zuckerman	6cl3	
+mortimer family	bai	
+mortimer first name	oy3	
+mortimer given name	oy3	
+mortimer goth	rtr	
+mortimer j		3l3r:3
+mortimer j adler	3l3r	
+mortimer jerome adler	3l3r	
+mortimer mcmire	5vey	
+mortimer mouse	3f7r	
+mortimer mouse disney	3f7r	
+mortimer singer	50ha	
+mortimer singer prize	50ha	
+mortimer snerd	1v11	
+mortimer wheeler	3fyp	
+mortimer zuckerman	6cl3	
+nacer	fkb	1d7q:2,4m6e:2,5bxp:2,6eau:2
+nacer abdellah	5bxp	
+nacer barazite	4m6e	
+nacer bouhanni	1d7q	
+nacer khemir	6eau	
+nessebar	2gxq	
+nolberto		2ge1:2
+nolberto solano	2ge1	
+nolberto solano todco	2ge1	
+octatope	21e8	
+ootomo ryuuzaburou	5p1t	
+ootomo yoshihide	34c7	
+ostellato	1vkc	
+ostellato italy	1vkc	
+overbourne marshes	5v6u	
+penicilium	2v1	
+peter rufai	2f8h	
+phantom	1r9g,1z9s,2fql	pcw:4,159p:5,18g1:4,19kj:2,1q7h:2,1r9g:2,1tjg:2,2nn0:4,3j5n:2,3mlv:2,5yhl:2
+phantom 1922 film	2fql	
+phantom 2013 film	1z9s	
+phantom baron	51tk	51tk:3
+phantom carriage	577e	51fl:3,577e:3
+phantom empire	5p2k	5p2k:3
+phantom five	17no	
+phantom gondola	2k7b	2k7b:3
+phantom ii	13nf	
+phantom in the house	5ubk	5ubk:5
+phantom island	19kj	
+phantom islands	19kj	
+phantom lady	1tjg	
+phantom lady 1944	1tjg	
+phantom lady 1944 film	1tjg	
+phantom lady 1944 movie	1tjg	
+phantom lady film	1tjg	
+phantom land	19kj	
+phantom lands	19kj	
+phantom lord song	6adc	
+phantom major	34g1	
+phantom menace	fei	
+phantom menace 3d	fei	
+phantom of		pcw:4,159p:5,18g1:4,2nn0:4
+phantom of crestwood	3c8c	3c8c:4
+phantom of hollywood	4j88	4j88:4
+phantom of liberty	pn1	pn1:4
+phantom of the		pcw:4,159p:5,18g1:4,2nn0:4
+phantom of the megaplex	2nn0	
+phantom of the opera	yla,18g1,1chf	yla:5,yn1:5,1chf:5,2g7w:5,2pao:5,35m5:5
+phantom of the opera 1925	yla	
+phantom of the opera 1925 movie	yla	
+phantom of the opera 1943 film	18g1	
+phantom of the opera 1943 movie	18g1	
+phantom of the opera 2004 film	yn1	
+phantom of the opera 25th anniversary	1lcb	
+phantom of the opera at the royal albert hall	1lcb	1lcb:10
+phantom of the opera iron maiden song	67r6	
+phantom of the opera the motion picture	2g7w	
+phantom of the opera the motion picture 1989	2g7w	
+phantom of the paradise	pcw	
+phantom of the rue		159p:5
+phantom of the rue morgue	159p	
+phantom of the west	5m9j	5m9j:5
+phantom planet	3j5n	5r54:3
+phantom raiders	3mlv	
+phantom records	1q7h	
+phantom rider		4aqg:3
+phantom ruler z	5b2j	
+phantom ruler zoroark	5b2j	
+phantom thread	5yhl	
+phantom tie	6ajd	
+phantom tollbooth	2kur	2kur:3
+prince bertil	1ihn	1ihn:5
+prince bertil duke		1ihn:5
+prince bertil duke of		1ihn:5
+prince bertil duke of halland	1ihn	
+prince bertil duke of hallandia	1ihn	
+prince bertil gustaf oskar carl eugen of sweden	1ihn	
+przemyslaus		4ihg:6
+przemyslaus i	4ihg	4ihg:6
+przemyslaus i noszak		4ihg:6
+przemyslaus i noszak duke		4ihg:6
+przemyslaus i noszak duke of		4ihg:6
+przemyslaus i noszak duke of cieszyn	4ihg	
+przemyslaus i noszak duke of teschen	4ihg	
+refute transformers	7g3	
+remont cacak	3ayv	
+robert trujillo	4s8g	
+roeseloare	amw	
+rotthalmuenster	291b	
+sanayi barbarosspor	d2h	
+sanayi i nefise mektebi	40d1	
+sarunas	6elm	1ih9:2,2rfu:2,31pi:2,6ejm:2
+sarunas bartas	31pi	
+sarunas birutis	6ejm	
+sarunas first name	6elm	
+sarunas given name	6elm	
+sarunas jasikevicius	1ih9	
+sarunas marciulionis	2rfu	
+sarunas marculionis	2rfu	
+schlieren	2sc2	
+schlieren switzerland	2sc2	
+schlieren zh	2sc2	
+schlieren zuerich	2sc2	
+schlieren zurich	2sc2	
+senapelan	1eey	
+siffert racing team	2yku	
+sig 100 86	2uc	
+sig arms	2bl0	
+sig arno	hdj	
+sig basket	1052	
+sig basket roster	1052	
+sig combibloc	4wro	
+sig combibloc group	4wro	
+sig combibloc group ag	4wro	
+sig group	4wro	
+sig herzig	5o43	
+sig holding	4wro	
+sig holding ag	4wro	
+sig jak and daxter	5clr	
+sig ruman	fro	
+sig rumann	fro	
+sig sanchez freeway	g1j	
+sig sauer	2bl0	
+sig sauer firearms	2bl0	
+sig sauer gmbh	2bl0	
+sig sauer inc	2bl0	
+sig sawyer	2bl0	
+sig strasbourg	1052	
+sistova	198n	
+sphenophyta	6f2l	
+st ds9	4c5	
+taintrux	26c0	
+takayama	183h,4rfs	u1l:3
+takayama city	183h	
+takayama gifu	183h	
+takayama line	u1l	
+takayama main		u1l:3
+takayama main line	u1l	
+takayama minami	10nu	
+takayama surname	4rfs	
+teatertosset	242x	
+tephritidae	2b8	
+the cbc film sales corporation	mv	
+the lover	276f	4wbq:5
+the lover 1992 film	276f	
+the lover film	276f	
+the lover of		4wbq:5
+the lover of madame		4wbq:5
+the lover of madame vidal	4wbq	
+the lover of the great bear	3ruk	
+the numbers		5ljr:3
+the numbers radiohead song	5a1t	
+the numbers song	5a1t	
+the numbers station	5ljr	
+the raven	22oo,23zb,3hz2,3t34,6hhe	
+the raven 1935 film	3hz2	
+the raven 1963 film	22oo	
+the raven 1963 movie	22oo	
+the raven 2011 film	23zb	
+the raven 2012 film	23zb	
+the raven edgar allan poe	6hhe	
+the raven edgar allen poe	6hhe	
+the raven poem	6hhe	
+the raven star trek voyager	3t34	
+the raven statesman	1u1g	
+the raven the simpsons	60sl	
+the raven voy	3t34	
+the raven voy episode	3t34	
+the raven voyager episdoe	3t34	
+the raven voyager episode	3t34	
+thebaw	5uv0	
+thomas clune	5dpj	
+tigny		37d5:2
+tigny noyelle	37d5	
+tisza	oow	
+tisza flower	5nmr	
+tisza istvan	5tuq	
+tisza river	oow	
+tjome	3z6w	
+trelins	2gbk	
+triclisperma	2gbh	
+tronky	2a1h	
+tulaugol	6iw	
+ulcedine	5tz6	
+un estate		3zsn:4,5peb:4
+un estate ai		5peb:4
+un estate ai caraibi	5peb	
+un estate al		3zsn:4
+un estate al mare	3zsn	
+undiagnosed diseases	ckj	
+vermillion	18wx	sx2:2
+vermillion alberta	4hce	
+vermillion county	sx2	
+vermillion county illinois	hfh	
+vermillion county in	sx2	
+vermillion county indiana	sx2	
+vermillion parish	3vdw	
+vermillion parish la	3vdw	
+vermillion parish louisiana	3vdw	
+vermillion records	1w60	
+vermillion s d	18wx	
+vermillion sd	18wx	
+vermillion sd micropolitan statistical area	22kg	
+vermillion sd msa	22kg	
+vermillion sd sa	22kg	
+vermillion south dakota	18wx	
+vermillion south dakota micropolitan area	22kg	
+veronaville	2yl5	
+vorstadtvariete	4b4g	
+whl	mda	
+wittersdorf	2ft2	
+wrassle	3y0	
+yorckstrasse berlin u bahn	6f44	
+yukong elephant	4ph	
+yukong elephants	4ph	
+yukong fc	4ph	
+yukong football club	4ph	
+yukong kokkiri	4ph	
+zecharia frankel	5mu7	

@@ -1,0 +1,446 @@
+a society		50mm:3
+a society exile	50mm	
+a society exile 1919 film	50mm	
+affricate	19ry	19ry:2
+affricate consonant	19ry	
+aghlabite	5j1b	
+agliano		3viu:2
+agliano terme	3viu	
+aighion greece	2ma1	
+akhet aten	2fid	
+alexandrapol	650	
+amurrio	1dir	2w6o:2
+amurrio cf	2w6o	
+amurrio club	2w6o	
+avl	icd	
+barac	3egn	
+barnim	ux1	ux1:2,3792:5,4llt:5
+barnim district	ux1	
+barnim ix		3792:5
+barnim ix duke		3792:5
+barnim ix duke of		3792:5
+barnim ix duke of pomerania	3792	
+barnim x		4llt:5
+barnim x duke		4llt:5
+barnim x duke of		4llt:5
+barnim x duke of pomerania	4llt	
+barnim xi	3792	
+barnim xi duke of pomerania	3792	
+beachcomber		4vqb:2
+beachcomber bar grill	3ay4	
+beetlejuice	1axt	
+beetlejuice 1988 film	1axt	
+beetlejuice film	1axt	
+beetlejuice goes hawaiian	1axt	
+beetlejuice goes hawaiin	1axt	
+beetlejuice movie	1axt	
+beetlejuice soundtrack	1axt	
+bernardin		4hcv:2
+bernardin cardinal gantin	4hcv	
+bernardin gantin	4hcv	
+bernardin joseph	1w8i	
+borofsky jonathan	5g0w	
+bosselshausen	2lfd	
+bowland fells	3knk	
+bowland forest	3knk	
+braunsberg	305m	
+carri18111	q9k	
+carri18111 cameron m brown	q9k	
+cases		2gux:3
+cases de		2gux:3
+cases de pene	2gux	
+cases grammar	h5i	
+caudeval	2s6g	
+centauress	59bu	
+cervatos		34y9:4
+cervatos de		34y9:4
+cervatos de la		34y9:4
+cervatos de la cueza	34y9	
+cervatos de la cueza palencia	34y9	
+cervatos de la cueza spain	34y9	
+chamaeleo	63wu	
+chante		3r1e:2
+chante c est noel	vo1	
+chante moore	3r1e	
+chante moore songs	3r1e	
+chante savage	2x67	
+chante torrance moore	3r1e	
+charles lord baltimore calvert	5kvm	
+charles lord cornwallis	1be8	
+ches	4mi	
+clark	6nv,6xu,23c8,3jlf	42s:2,9ne:3,av6:2,d9v:2,hj8:2,jkx:2,mae:2,nbd:2,t7a:2,x32:2,yqn:2,13i6:3,163a:2,1ag1:2,1nx1:2,22oh:2,2k3c:2,2tf5:2,3htf:2,3tyw:2,4yz4:2,548d:2,5cr0:3,5zx1:2,631y:2
+clark alan	4xyp	
+clark and addison	57rr	
+clark ashton		13i6:3
+clark ashton smith	13i6	
+clark atlanta	9ne	9ne:3
+clark atlanta university	9ne	
+clark carlisle	4352	
+clark caves	l5p	
+clark champ	4cuq	
+clark circle	23c8	
+clark clifford	4yz4	
+clark college atlanta	9ne	
+clark college atlanta georgia	9ne	
+clark collins	4wuh	
+clark cougars	42s	
+clark cougars track and field	42s	
+clark county	d9v,hj8,jkx,mae,t7a,x32,163a,1nx1,22oh,2k3c,2tf5,3htf	
+clark county alabama	vd0	
+clark county ar	22oh	
+clark county arkansas	22oh	
+clark county coroner	hj8	
+clark county id	3htf	
+clark county idaho	3htf	
+clark county il	mae	
+clark county illinois	mae	
+clark county in	jkx	
+clark county indiana	jkx	
+clark county kansas	2k3c	
+clark county kentucky	1nx1	
+clark county ks	2k3c	
+clark county ky	1nx1	
+clark county missouri	163a	
+clark county mo	163a	
+clark county nevada	hj8	
+clark county nv	hj8	
+clark county oh	x32	
+clark county ohio	x32	
+clark county sd	2tf5	
+clark county south dakota	2tf5	
+clark county wa	t7a	
+clark county washington	t7a	
+clark county wi	d9v	
+clark county wisconsin	d9v	
+clark county youth commission	t7a	
+clark dick	u29	
+clark duke	548d	
+clark expedition	3r21	
+clark family name	6xu	
+clark finch	1me9	
+clark first name	6nv	
+clark gable	av6	
+clark gene	1yoa	
+clark george rogers	59en	
+clark given name	6nv	
+clark grahame	55dx	
+clark gregg	nbd	
+clark griffin	1aqb	
+clark griswald	6h5z	
+clark griswold	6h5z	
+clark griswold song	1o47	
+clark helen	20x9	
+clark jim	am6	
+clark joe	3bvp	
+clark john masters	3tyw	
+clark johnson	1ag1	
+clark keltie	631y	
+clark kenneth	4seb	
+clark kerr sand courts	im6	
+clark larry	2v04	
+clark m clifford	4yz4	
+clark mark wayne	3ly1	
+clark mary higgins	1s09	
+clark masters	3tyw	
+clark mathis	5zx1	
+clark mcadams clifford	4yz4	
+clark medal	10ed	
+clark name	6nv	
+clark new jersey	23c8	
+clark nj	23c8	
+clark roy	27vk	
+clark s ranch	3dv8	
+clark s ranch california	3dv8	
+clark s station	3dv8	
+clark s station california	3dv8	
+clark sir john grahame douglas	55dx	
+clark steve	4mdx	
+clark still	3ldi	
+clark street tube	10n0	
+clark street tunnel	10n0	
+clark surname	6xu	
+clark terry	yqn	
+clark terry discography	yqn	
+clark thompson	5cr0	
+clark township new jersey	23c8	
+clark township nj	23c8	
+clark township union county new jersey	23c8	
+clark university	42s	
+clark university escort	42s	
+clark vogeler	3dx2	
+clark w griswold	6h5z	
+clark w thompson	5cr0	
+clark w thompson texas politician	5cr0	
+clark wallace		5cr0:3
+clark wallace thompson	5cr0	
+clark wesley	2ftf	
+clerieux	26hn	
+collias	357r	
+conocla	440e	
+damascus	1st	fm4:2,3ov7:4
+damascus al		3ov7:4
+damascus al ahli		3ov7:4
+damascus al ahli club	3ov7	
+damascus caliphate	9w1	
+damascus countryside	3ihg	
+damascus in the middle ages	1st	
+damascus ontario	4rdo	
+damascus surroundings	3ihg	
+damascus sy	1st	
+damascus syria	1st	
+damascus university	fm4	
+darn tootin	5132	
+david allis	4sie	
+david irving	4mew,64ik	
+david irving comments	64ik	
+david irving footballer	4mew	
+david miller	12xx	
+david miller director	12xx	
+earned in blood	5lnc	
+elsiea	60yj	
+encephelopathy	1fzf	
+filyovskii	2zan	
+frederick denison		5unz:3
+frederick denison maurice	5unz	
+fumihide aoki	6ha0	
+giannena pas	60q	
+goebels	xpi	
+golshausen	1430	
+goomba	6hiu	
+goomba enemy	6hiu	
+goomba species	6hiu	
+govsim	3jsd	
+grammoechus	56qr	
+gynecologicals	13jc	
+hachimantai	z9h	
+hachimantai iwate	z9h	
+haveri		1p23:2
+haveri district	1p23	
+hermannsbad	4mjp	
+hiyrs simswn rpael	4xo6	
+hospice de la salpetriere	32qd	
+james rainwater	3tkv	
+james varney	ucr	
+james varney jr	ucr	
+jayawardana pura	5ikc	
+kitakithalu	4xbq	
+koeping municipality	1ug9	
+koeping sweden	2qsu	
+kvam	z01	z01:2
+kvam herad	z01	
+kvam hordaland	z01	
+kvam municipality	z01	
+la pasionare	412z	
+labeyrie	3lzk	
+labeyrie pyrenees atlantiques	3lzk	
+lamellae mycology	1pn	
+le falgoux	1ywt	
+litorral province cameroon	1cf3	
+mannfred mann	1941	
+mannfred mann s earth band	1y2i	
+marokand samarkand	itu	
+menwreda	1mfr	
+michael jakobs	69dh	
+minny pearl	5e07	
+minny riperton	1ik9	
+minny ripperton	1ik9	
+moravian		2d45:3,5s4l:4
+moravian ostrava	3ar	
+moravian silesian		2d45:3,5s4l:4
+moravian silesian football		5s4l:4
+moravian silesian football league	5s4l	
+moravian silesian region	2d45	
+moravian university	2920	
+moukkala	k51	
+namestnichestvo	38p7	
+namgyal wangdi	3dqw	
+natual language processing	10h9	
+naupathia	5oa2	
+navodaya		2c4s:2
+navodaya appachan	2c4s	
+newtgingrich	1ono	
+nicoraptor	363q	
+nurjehan	w9e	
+oropesa	rop	
+oropesa spain	rop	
+oropesa toledo	rop	
+osnabrueck	49t	
+osnabrueck district	gi2	
+osnabrueck germany	49t	
+osnabrueck university	33a9	
+paphlagonians	60kl	
+parthenoptera	2zhn	
+paul thierry dholbach	4jaj	
+pluherlin	2er0	
+polystira	50kw	
+portomaggiore	1l84	
+prince lawsha	631t	
+princess faika		56h4:5
+princess faika fuad		56h4:5
+princess faika fuad of		56h4:5
+princess faika fuad of egypt	56h4	
+queenhaters	4vdu	
+radcliff college	2ae	
+rejseholdet	13bi	
+richard ryen	4ue4	
+rodderick toombs	24ot	
+sagarmatha	h5z	1f58:3,1s7s:2
+sagarmatha national		1f58:3
+sagarmatha national park	1f58	
+sagarmatha rastriya nikunja	1f58	
+sagarmatha zone	1s7s	
+saint florent	1xt4	1kbu:4,28nq:4,2q7j:4,35x9:4
+saint florent corsica	1xt4	
+saint florent haute corse	1xt4	
+saint florent le		28nq:4,2q7j:4
+saint florent le jeune	2q7j	
+saint florent le vieil	28nq	
+saint florent loiret	2q7j	
+saint florent sur		1kbu:4,35x9:4
+saint florent sur auzonnet	35x9	
+saint florent sur cher	1kbu	
+saint florent upper corsica	1xt4	
+saint laurentius	ef4	
+saint lunaire	2z13	
+san pietro		1nef:4,1wzb:4,31ai:4,34m9:3,35wp:4,37zc:3,3hq5:4,3mvw:3,3r6x:4,3tnm:4,3wvm:4,45qp:3,47bn:3,4bik:4,4ltq:3,4rni:3,514x:4,53zr:4,5olq:4,5qcz:4
+san pietro al		3hq5:4,514x:4
+san pietro al natisone	3hq5	
+san pietro al tanagro	514x	
+san pietro apostolo	3mvw	
+san pietro avellana	47bn	
+san pietro clarenza	4ltq	
+san pietro da verona	43x2	
+san pietro di		3r6x:4,3tnm:4,3wvm:4,4bik:4
+san pietro di cadore	4bik	
+san pietro di carida	3wvm	
+san pietro di feletto	3r6x	
+san pietro di gorizia	1tvl	
+san pietro di magisano	5jl4	
+san pietro di morubio	3tnm	
+san pietro galatina	uue	
+san pietro galatina italy	uue	
+san pietro in		1nef:4,1wzb:4,31ai:4,35wp:4,53zr:4,5qcz:4
+san pietro in amantea	53zr	
+san pietro in cariano	1nef	
+san pietro in casale	1wzb	
+san pietro in cerro	5qcz	
+san pietro in galatina	uue	
+san pietro in gu	31ai	
+san pietro in guarano	35wp	
+san pietro intrigogna	451	
+san pietro magisano	5jl4	
+san pietro mosezzo	37zc	
+san pietro mussolino	4rni	
+san pietro val		5olq:4
+san pietro val di lemina	5olq	
+san pietro val lemina	5olq	
+san pietro vernotico	34m9	
+san pietro viminario	45qp	
+shawtown wisconsin	alg	
+shinichi	143l	1l2y:2,36tj:2,3qjy:2,3rkg:2,5jtx:2
+shinichi chiba	kvb	
+shinichi fukushima	5jtx	
+shinichi mori	3rkg	
+shinichi osawa	3qjy	
+shinichi sekizawa	1l2y	
+shinichi tsutsumi	36tj	
+siox	2i1a	
+st blaise	28yl	
+syngnathinae	1foc	
+talfourd thomas	6236	
+tammie wynette	t2z	
+tantalium	qcb	
+tasmaniapremiers	ffd	
+the better life foundation	1aec	
+the better man film	2z3y	
+the blinking underdogs	vts	
+the congviettel		4x8u:3
+the congviettel fc	4x8u	
+the era		2f9p:4
+the era of		2f9p:4
+the era of vampires	2f9p	
+the judy bayley theatre	6yn	
+the ooh aah man	16y	
+tibisco	oow	
+toltestava	44va	
+tourouvre		1d60:3
+tourouvre au		1d60:3
+tourouvre au perche	1d60	
+uniwersytet gdanski	ex1	
+uniwersytet im adama mickiewicza w poznaniu	b75	
+uniwersytet jagiellonski	2fm	
+uniwersytet marii curie sklodowskiej	53lk	
+uniwersytet marii curie skodowskiej	53lk	
+uniwersytet mikoaja kopernika	dx9	
+uniwersytet mikoaja kopernika w toruniu	dx9	
+uniwersytet mikolaja kopernika	dx9	
+uniwersytet odzki	qnr	
+uniwersytet poznanski	b75	
+uniwersytet slaski	nl3	
+uniwersytet slaski w katowicach	nl3	
+uniwersytet warszawski	1n5	
+uniwersytet wilenski	4g2	
+uniwersytet wrocawski	4ni	
+valdeverdeja	4vdy	
+valdeverdeja spain	4vdy	
+valdeverdeja toledo	4vdy	
+vaozyn	5a2d	
+vasanello	4qwv	
+vezac	2bsc,3vq9	
+vezac cantal	2bsc	
+vezac dordogne	3vq9	
+viii	5ju0	
+viii all africa games	3igv	
+viii centre universitaire experimental de vincennes saint denis	cos	
+viii century	1rgs	
+viii commonwealth games	8qz	
+viii olympic winter games	2ok	
+viii pan american games	hzx	
+viii pope urban	2b1t	
+viii region	zg7	
+viii region of biobio	zg7	
+viii urban pope	2b1t	
+villarrubia		2gj5:4,4jvw:3
+villarrubia de		2gj5:4,4jvw:3
+villarrubia de los		2gj5:4
+villarrubia de los ojos	2gj5	
+villarrubia de santiago	4jvw	
+villarrubia de santiago spain	4jvw	
+villarrubia de santiago toledo	4jvw	
+virgilio	4qc9	i90:2,wts:2,2due:2,45lw:2,48km:3,4iyf:2
+virgilio barco	48km	48km:3
+virgilio barco vargas	48km	
+virgilio delgado teixeira	2due	
+virgilio felice levratto	45lw	
+virgilio ferreira	4iyf	
+virgilio italy	4qc9	
+virgilio levratto	45lw	
+virgilio lombardy	4qc9	
+virgilio marchi	wts	
+virgilio mn	4qc9	
+virgilio riento	i90	
+virgilio teixeira	2due	
+virgilio teixeira actor	2due	
+vowel	4xsb	
+vowel backness	4xsb	
+vowel letter	4xsb	
+vowel openness	4xsb	
+vowel quality	4xsb	
+vowel sound	4xsb	
+vowel space	4xsb	
+waanrode	4j6t	
+wanpaku duck yume bouken	46kt	
+warnar	5pub	
+xiphophorus	t1o,54fk	
+xiphophorus company	t1o	
+zhongying gongsi	1auo	
+zirka kirovohrad	7qc	
+zirka kropyvnytskyi	7qc	
+zkp rtlj	1qgz	
+zkp rtv ljubljana	1qgz	
+zkp rtvl	1qgz	
+zkp rtvlj	1qgz	
+zwischen den kriegen	3qx4	
+zwischen gestern und morgen	2yu5	
+zwischen schanghai und st pauli	36p9	
+zwischen welten	4nqj	

@@ -1,0 +1,471 @@
+7ts records	lrr	
+a 1	1fgz	
+a 1 autoroute	1fsx	
+a 1 newspaper	5wx0	
+a 1 studio	5zzr	
+a 1 studios	5zzr	
+a 1 world combat cup	4q2	
+adan	gfj,338e	49ex:2,4h8x:2,5750:2,5b3d:2
+adan antonio	35yp	
+adan balbin	5750	
+adan first name	338e	
+adan given name	338e	
+adan governorate	1e59	
+adan jodorowsky	49ex	
+adan perez	5b3d	
+adan vergara	4h8x	
+alexander prudnikov	2nsv	
+alfacet	41x4	
+alfauir	3frw	
+alpheus		4dje:3,5rge:2
+alpheus felch	5rge	
+alpheus s		4dje:3
+alpheus s williams	4dje	
+alpheus starkey williams	4dje	
+alpheus williams	4dje	
+amlaib cuaran	3rcc	
+amlaib cuaran king of northumbria and dublin	3rcc	
+amlaib dub	4wjw	
+amlaib dub mac gofraid	4wjw	
+amlaib mac sitric	3rcc	
+angelshark	2zxo	
+aprokgang	4rra	
+arseny		2ad8:2,5lcz:2,6069:2
+arseny g zverev	6069	
+arseny grigoryevich zverev	6069	
+arseny logashov	50js	
+arseny maksimovich logashov	50js	
+arseny pavlov	53ao	
+arseny sokolov	5lcz	
+arseny vasilyevich vorozheykin	2ad8	
+arseny vorozheykin	2ad8	
+arseny yatseniuk	2mcb	
+arseny yatsenyuk	2mcb	
+arseny zverev	6069	
+auditoria	4qod	
+autofinger	6ln	
+baratky	3abs	
+baruh dego	3nax	
+baulko	3z5b	
+bergfors	2mhl	
+bokuzen		52sw:2
+bokuzen hidari	52sw	
+bradycardia	4p40	
+brissago	112m	3dqx:2
+brissago switzerland	112m	
+brissago ti	112m	
+brissago ticino	112m	
+brissago valtravaglia	3dqx	
+brynjar		4trt:2
+brynjar bjoern gunnarsson	4trt	
+brynjar bjorn gunnarsson	4trt	
+brynjar gunarsson	4trt	
+brynjar gunnarson	4trt	
+brynjar gunnarsson	4trt	
+calloniana	5ss9	
+carburetters	5ueu	
+cenicientos	2f6j	
+churck colson	57wd	
+coldwaves	5jiw	
+confirm		2rf5:3
+confirm or		2rf5:3
+confirm or deny	2rf5	
+confirm or deny film	2rf5	
+coreglia		2m81:2,3yxo:2
+coreglia antelminelli	2m81	
+coreglia ligure	3yxo	
+crnomelj	r6n	ev2:2
+crnomelj municipality	ev2	
+crnomelj slovenia	r6n	
+dadianov	651f	
+david pollet	4qn7	
+decimomannu	2naq	
+denverauroralakewood metropolitan area	60ra	
+dragonballz	188k	
+eckert architecture	2trt	
+eckert mauchly award	15oi	
+eldredge cleaver	4t1a	
+erben		3tti:2
+erben wennemars	3tti	
+eustace	nyw	1xk7:2,43g7:5,475o:7,4nic:5,4syb:5
+eustace brownlow henry gascoyne cecil	4wwq	
+eustace first name	nyw	
+eustace given name	nyw	
+eustace ii	43g7	43g7:5
+eustace ii count		43g7:5
+eustace ii count of		43g7:5
+eustace ii count of boulogne	43g7	
+eustace ii of boulogne	43g7	
+eustace iii	4nic	4nic:5
+eustace iii count		4nic:5
+eustace iii count of		4nic:5
+eustace iii count of boulogne	4nic	
+eustace iii of boulogne	4nic	
+eustace iv	4syb	4syb:5
+eustace iv count		4syb:5
+eustace iv count of		4syb:5
+eustace iv count of boulogne	4syb	
+eustace iv of boulogne	4syb	
+eustace john	5w04	
+eustace lycett	1xk7	
+eustace percy	475o	475o:7
+eustace percy 1st		475o:7
+eustace percy 1st baron		475o:7
+eustace percy 1st baron percy		475o:7
+eustace percy 1st baron percy of		475o:7
+eustace percy 1st baron percy of newcastle	475o	
+eustace surname	nyw	
+eustace sutherland campbell percy	475o	
+eustace sutherland campbell percy 1st baron percy of newcastle	475o	
+eustace teal	68bd	
+eustace tilley	rbr	
+eustace tilly	rbr	
+evetv	4ces	
+frutigen	1pec	j3m:4
+frutigen be	1pec	
+frutigen bern	1pec	
+frutigen berne	1pec	
+frutigen niedersimmental	j3m	j3m:4
+frutigen niedersimmental administrative		j3m:4
+frutigen niedersimmental administrative district	j3m	
+frutigen niedersimmental adminstrative district	j3m	
+frutigen switzerland	1pec	
+george saxe coburg gotha	cur	
+gergal	1hgk	
+gergal almeria	1hgk	
+gergal spain	1hgk	
+gmina krzywin	xsw	
+gmina miloslaw	19vz	
+gmina sulikow	1c1b	
+golok prefecture	35s3	
+greektown new york	jhu	
+hangmen		zix:3,20ek:4
+hangmen also		zix:3
+hangmen also die	zix	
+hangmen women		20ek:4
+hangmen women and		20ek:4
+hangmen women and soldiers	20ek	
+helcystogramma	9w6	
+i 9 ca	15ht	
+james bobin	1bep	
+john mccain	e60	
+john mccain i	59tm	
+john mccain iii	e60	
+john mccain jr	11gz	
+john mccain navbox	e60	
+john mccain sr	59tm	
+jyun senoue	1zul	
+jyun woping	19jh	
+kaethe kruse	5w2x	
+kafkasque	89b	
+koblenzbulachwinterthur railway	5dmh	
+koblenzbulachwinterthur railway line	5dmh	
+koningslo	s50	
+kunitachi		ufo:4
+kunitachi college		ufo:4
+kunitachi college of		ufo:4
+kunitachi college of music	ufo	
+la pelota vasca	5411	
+la pelota vasca la piel contra la piedra	5411	
+laurindo		3uo4:2,65on:4
+laurindo almeida	3uo4	
+laurindo antonio		65on:4
+laurindo antonio leal		65on:4
+laurindo antonio leal tavares	65on	
+le peyrat	3b0d	
+liberated		4ag4:2
+liberated hands	4ag4	
+liberated kashmir	27lr	
+liberated software	gxh	
+lisek	3kxf	
+longwy	mp1	3w3x:4
+longwy sur		3w3x:4
+longwy sur le		3w3x:4
+longwy sur le doubs	3w3x	
+louis archinard	4jhh	
+marchionesses	96y	
+matavulj	641y	
+matchless	312d	
+matchless film	312d	
+medaiwiki	aft	
+megyn	63j	4bwt:2
+megyn kelly	4bwt	
+megyn kelly presents	4bwt	
+megyn kendall	4bwt	
+megyn marie kelly	4bwt	
+michael gazzo	1ikp	
+michael glos	474v	
+michael klim	4rvc	
+miladin		5ibu:2
+miladin becanovic	5ibu	
+miladin prso	3kka	
+mjxil mjxajlvjt ksjjanf	4ssm	
+mondrainville	2sfv	
+mutigney	3mvb	
+nagai	5dxn	
+nagai go	mr6	
+nagai ichirou	120m	
+norrmark	5vbr	
+oberriet	1ddn	
+oberriet sg	1ddn	
+oberriet st gallen	1ddn	
+oberriet switzerland	1ddn	
+pantalaimon	6gcr	
+paseo		45i5:4,5naq:3
+paseo de		45i5:4
+paseo de la		45i5:4
+paseo de la castellana	45i5	
+paseo del		5naq:3
+paseo del prado	5naq	
+paseo vallenato	3840	
+patagiaenas	4jpx	
+pendle	1rrn	
+pendle borough	1rrn	
+pentoxyfylline	4x4r	
+pescadore	1yy3	
+petrozavodsk	cz3	
+petrozavodsk urban okrug	cz3	
+pms amiodarone	dpv	
+pms methylphenidate	3sw3	
+poullignac	2a4e	
+qateef	33u3	
+radnitz mattel productions	5mcp	
+radnitz mattel productions inc	5mcp	
+reacher	1lm0	
+relangi	lx7	lx7:3,10iy:3
+relangi actor	lx7	
+relangi narasimha		10iy:3
+relangi narasimha rao	10iy	
+relangi venkata		lx7:3
+relangi venkata ramaiah	lx7	
+relangi venkataramaiah	lx7	
+relangi venkatramaiah	lx7	
+reversal		1p19:3
+reversal of		1p19:3
+reversal of fortune	1p19	
+rezekne	m10	1e9i:2
+rezekne municipality	1e9i	
+richard mead	63et	
+robert edeson	36jn	
+robert kozluk	5mxn	
+rossen plevneliev	24um	
+saint agnin		2q8f:4
+saint agnin sur		2q8f:4
+saint agnin sur bion	2q8f	
+san sigismondo	2mdg	
+semper fi highway	17ih	
+shuei matsubayashi	5je1	
+shuei sha	i1l	
+sioni bolnisi	ets	
+smalcalde	y7m	
+sojusmultfilm	cuz	
+solt andrew	61au	
+sorcha		4ua1:2
+sorcha cusack	4ua1	
+sorrus	2r2n	
+sorrus star wars	6hq7	
+splinderuv mlyn	1fmq	
+st mabon	1lli	
+stasov	3lcw,44h6	
+stasov beroun district	44h6	
+stasov svitavy district	3lcw	
+stasov vladimir vasilievich	5umx	
+subject and object	39p	
+subject based data mining	6cay	
+subject bibliography	95v	
+subject case	1cji	
+subject mechanical engineering	fqo	
+subject object based metaphysics	4nlk	
+subject object metaphysics	4nlk	
+subject object verb	42h	
+subject object verb language	42h	
+subject objects verb	42h	
+subject of ethnic poles	fn4	
+subject of international law	1mr0	
+subject painting	1zr	
+subject sociology	6hz	
+subject verb agreement	yks	
+subject verb object	39p	
+subject was roses	5tj9	5tj9:4
+suephan barzani	12l0	
+suilly		2p4y:3
+suilly la		2p4y:3
+suilly la tour	2p4y	
+suspected unexpected serious adverse reaction	4q7m	
+suwaiq club	1ah0	
+svealand	602l	
+the brett favre fourward foundation	3icq	
+the entity	38nm	
+the heretics album	3xc4	
+the heretics rotting christ album	3xc4	
+the wanderers	1mp7	
+the wanderers 1979 film	1mp7	
+the wanderers f c	9ye	
+the wanderers film	1mp7	
+thomas vercetti	6hfv	
+torrijas	463o	
+torrijas spain	463o	
+torrijas teruel	463o	
+tv	63h	
+tv 1	5i7	
+tv 101	3r0r	
+tv 1847 augsburg	5tsv	
+tv 2	fy5	1190:3,2lu8:3
+tv 2 as	2lu8	
+tv 2 danmark	1190	
+tv 2 denmark	1190	
+tv 2 direkte	2lu8	
+tv 2 hd	2lu8	
+tv 2 new zealand	66rr	
+tv 2 norge	2lu8	
+tv 2 norway	2lu8	
+tv 2 plus 1	66rr	
+tv 2 sporten	2lu8	
+tv 2 sumo	2lu8	
+tv 3 catalonia	4txk	
+tv 3 ireland	oej	
+tv 3 sverige	238w	
+tv 3 sweden	238w	
+tv 4 sweden	jb9	
+tv adaptation	dq	
+tv aerial	4yhd	
+tv anchor	1vx	
+tv asahi	690	
+tv asahi corporation	690	
+tv backstage	13en	
+tv baftas	13xs	
+tv band	36c0	
+tv bandeirantes	36c0	
+tv belgrade	3041	
+tv broadcasting	27hu	
+tv broadcasting station	29bx	
+tv broadcasts	2ej	
+tv castle	v9x	
+tv celebrity	h0t	
+tv chandran	2map	
+tv channel	jm	
+tv channel of cbbc	ten	
+tv comedy	3ai	
+tv cooking show	855	
+tv corinthians	209	
+tv dachau	3ubm	
+tv director	uq	
+tv documentary	1em	
+tv fantasy	3sl	
+tv film	7j	
+tv food chefs	3st	
+tv food network	c9a	
+tv globo	3mg	
+tv globo sao paulo	3l8g	
+tv host	8r	
+tv hostess	8r	
+tv land	24qp	
+tv land prime	24qp	
+tv m6	e93	
+tv masts	1orb	
+tv mini series	yt	
+tv miniseries	yt	
+tv mobile	lwq	
+tv movie	7j	
+tv movie pulp song	66iq	
+tv movie song	66iq	
+tv network	8di	
+tv networks	8di	
+tv new zealand	2io3	
+tv news	3h3	
+tv news show	3h3	
+tv nowa	tnq	
+tv nz	2io3	
+tv on		29wc:4
+tv on demand	48kn	
+tv on radio	29wc	
+tv on the		29wc:4
+tv on the radio	29wc	
+tv one 1	31qf	
+tv one new zealand	31qf	
+tv one plus 1	31qf	
+tv personality	8r,h0t	
+tv pilot	aif	
+tv play	65td	
+tv presenter	8r	
+tv producer	v3	
+tv production	4bjt	
+tv productions	d7o	
+tv program	5f	
+tv programmes	5f	
+tv record	1flq	
+tv record internacional	1flq	
+tv s craig ferguson	vd9	
+tv set	1kee	1kee:3
+tv show	5f	
+tv show host	8r	
+tv simpsons	1iz	
+tv soong	2m27	
+tv special	36j	
+tv specials	36j	
+tv station	ah,jm	
+tv stations	jm	
+tv studio	4bjt	
+tv studios	4bjt	
+tv syndication	1xt	
+tv talk show	3t4	
+tv terra viva	4i34	
+tv tokyo	63h	
+tv tower	1orb	
+tv transmission	27hu	
+tv two	66rr	
+tv week logie awards	10xq	
+tv writer	21	
+tv zagreb	1zan	
+urcrustacea	2u8q	
+urmston	1eqn	
+urmston lancashire	1eqn	
+valdeblore	1r8z	
+verbenas	5hg9	
+viking	3wvw	2bi:2,62k:2,phf:2,4ub6:6,5j7a:2,6dd3:2
+viking activity		4ub6:6
+viking activity in		4ub6:6
+viking activity in the		4ub6:6
+viking activity in the british		4ub6:6
+viking activity in the british isles	4ub6	
+viking adult	2bi	
+viking alberta	3wvw	
+viking australia	2bi	
+viking bay	10s6	
+viking books	2bi	
+viking canada	2bi	
+viking children s books	2bi	
+viking childrens books	2bi	
+viking dhc 6 twin otter	2rqr	
+viking f k	62k	
+viking fk	62k	
+viking fk stavanger	62k	
+viking folk metal	phf	
+viking fotballklubb	62k	
+viking freight	r2c	
+viking invasion	404y	
+viking kestrel	2bi	
+viking language	2ln3	
+viking line	5j7a	
+viking line ab	5j7a	
+viking metal	phf	
+viking myth	32q	
+viking mythology	32q	
+viking of 6th avenue	5fit	
+viking of sixth avenue	5fit	
+viking penguin	2bi	
+viking press	2bi	
+viking publisher	2bi	
+viking saga	1o8h	
+viking sagas	1o8h	
+viking studio	2bi	
+viking twin otter	2rqr	
+viking watch of the danish seaman	26z1	26z1:7
+william adger moffett	5jml	
+wxwindows	dxl	
+wxwindows library licence	dxl	
+wxwindows license	dxl	
+zdounky	2igz	
+zefat	jld	
+zefat israel	jld	
+zygonerion	58fp	

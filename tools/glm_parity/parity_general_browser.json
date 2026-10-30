@@ -1,0 +1,9 @@
+{
+ "n": 200,
+ "same_top_path": 200,
+ "same_answer": 200,
+ "same_both": 200,
+ "wall_s": 42.724,
+ "browser": "headless Chromium (playwright)",
+ "encoder": "fp16"
+}

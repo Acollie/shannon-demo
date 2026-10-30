@@ -1,0 +1,521 @@
+20km	gcd	
+4r 5s 6s 3 3s 5s 5 dimethylcarbamoyl pyrrolidin 3 yl thio 6 1r 1 hydroxyethyl 4 methyl 7 oxo 1 azabicyclo 3 2 0 hept 2 ene 2 carboxylic acid	59is	
+74w	fyi	
+abel	4x8,i8j,zuo,1d1y	i8j:4,unf:2,1951:2,1e2y:2,1fx3:2,1kxs:3,1mpo:2,2jzh:2,2tnu:2,2v5y:2,30hg:2,30xl:2,37t7:2,3eq4:2,3ggt:2,3gtx:2,3se3:2,3tip:2,40hx:2,41jz:2,461n:3,4bju:3,4ee2:2,4l3p:2,4rrb:2,4s51:2,4vnf:2,55ec:2,58qw:2,59pq:3,5eeq:2,5gnx:2,5i1z:2,5is3:2,5m8s:4,5mus:2,5ope:2,5tze:2,5vs8:2,60ir:2,62n9:2,678d:3,67j5:2
+abel aganbegyan	30xl	
+abel aguilar	37t7	
+abel balbo	2tnu	
+abel baronets	55mf	
+abel bonnard	1e2y	
+abel braga	3eq4	
+abel buades	30hg	
+abel buades vendrell	30hg	
+abel caballero	3gtx	
+abel camara	55ec	
+abel campos	61n7	
+abel carl friedrich	4wej	
+abel de lima salazar	5gnx	
+abel dhaira	4s51	
+abel eduardo balbo	2tnu	
+abel enrique aguilar tapias	37t7	
+abel family name	zuo	
+abel ferrara	1951	
+abel ferrara films	1951	
+abel first name	4x8	
+abel francois		59pq:3
+abel francois villemain	59pq	
+abel fraucois villemain	59pq	
+abel frederick augustus sir	55mf	
+abel gance	unf	
+abel gardey	5mus	
+abel gezevich aganbegyan	30xl	
+abel given name	4x8	
+abel gomez		461n:3
+abel gomez moreno	461n	
+abel hans joachim	5dut	
+abel hermant	58qw	
+abel hernandez	4l3p	
+abel herzberg	5is3	
+abel jacob herzberg	5is3	
+abel jacquin	40hx	
+abel jake	3upn	
+abel jansz tasman	2jzh	
+abel janszon tasman	2jzh	
+abel janszoon tasman	2jzh	
+abel janzoon tasman	2jzh	
+abel jorge pereira da silva	41jz	
+abel jose		5m8s:4
+abel jose carvalho		5m8s:4
+abel jose carvalho pereira	5m8s	
+abel king of denmark	1kxs	
+abel korzeniowski	3se3	
+abel last name	zuo	
+abel lefranc	67j5	
+abel lima de salazar	5gnx	
+abel m phela	3gx8	
+abel makkonen tesfaye	i8j	
+abel makkonen tesfaye la grena	i8j	
+abel masuero	4vnf	
+abel mathias	5fen	
+abel mathias hernandez platero	4l3p	
+abel matutes	3tip	
+abel meeropol	62n9	
+abel moralejo	4ee2	
+abel moran		678d:3
+abel moran puente	678d	
+abel muzorewa	5i1z	
+abel n h	1d1y	
+abel niels henrik	1d1y	
+abel of		1kxs:3
+abel of denmark	1kxs	
+abel pereira	5m8s	
+abel prize	2v5y	
+abel remusat	4sll	
+abel resino	5eeq	
+abel resino gonzalez	5eeq	
+abel resno	5eeq	
+abel rudolf ivanovich	3wri	
+abel s ark	6gnd	
+abel s ark xenosaga	6gnd	
+abel salazar	1fx3,5gnx	
+abel salazar actor	1fx3	
+abel salazar director	1fx3	
+abel salazar scientist	5gnx	
+abel sanders	15ld	
+abel santa		4bju:3
+abel santa cruz	4bju	
+abel santacruz	4bju	
+abel segovia	4rrb	
+abel seyler	5ope	
+abel shongwe	5tze	
+abel silva	41jz	
+abel smith	5vs8,60ir	
+abel smith 1717 1788	5vs8	
+abel smith 1717 88	5vs8	
+abel smith 17171788	5vs8	
+abel smith 171788	5vs8	
+abel smith 1748 1779	60ir	
+abel smith 1748 79	60ir	
+abel smith 17481779	60ir	
+abel smith 174879	60ir	
+abel smith school	hdd	
+abel song	ko7	
+abel surname	zuo	
+abel t muzorewa	5i1z	
+abel tarride	3ggt	
+abel tasman	2jzh	
+abel tendekayi muzorewa	5i1z	
+abel tesfaye	i8j	
+abel the		i8j:4
+abel the weeknd		i8j:4
+abel the weeknd ep	i8j	
+abel villemain	59pq	
+abel xavier	1mpo	
+affricative	19ry	
+alab	3go	
+alexander bashirov	63g4	
+althorp	5dr8	
+althorp house	5dr8	
+althorp john charles spencer viscount	1jg7	
+amateurs	3s9o	3s9o:2
+amerika	56we	
+amerika rammstein song	56we	
+amerika s next top model	1a67	
+amerika single	56we	
+amerika song	56we	
+appletree education centre	4tdk	
+arboretums	ai4	
+assiout	1pcj	
+aurignac	15t6	
+azof	13b0	
+badi		6c43:2
+badi panthulu	6c43	
+badi pantulu	6c43	
+bangued	2095	
+bangued abra	2095	
+barbodes	3zur	
+becourt	2a13	
+becourt pas de calais	2a13	
+bellmanmuseet	4d2t	
+blutengel	1lid	
+bonarota	9pi	
+boonesboro iowa	1rne	
+bottvinik	4edi	
+caltojar	37zy	
+caltojar soria	37zy	
+caltojar spain	37zy	
+campbellian	1asw	
+casparya	fp1	
+caue	rda,5lsq	49lu:2,5bmw:4
+caue benicio	49lu	
+caue cecilio		5bmw:4
+caue cecilio da		5bmw:4
+caue cecilio da silva	5bmw	
+caue district	5lsq	
+caue district sao tome and principe	5lsq	
+ceyhan	94x	
+ciprus	j6	
+congress	u2x,3uqj	umk:2,22ag:9,22dv:2,4u44:3,6bru:2
+congress branch	xug	
+congress branch chicago transit authority	xug	
+congress building united states	1e1k	
+congress dances	6bru	2gje:3
+congress i	jg	
+congress indira	jg	
+congress kingdom	umk	
+congress kingdom of poland	umk	
+congress library	a5c	
+congress men	6gd5	
+congress of		22ag:9
+congress of hong kong	4x6f	
+congress of iceland	6h2w	
+congress of poland	umk	
+congress of the		22ag:9
+congress of the all union communist party bolsheviks	22ag	
+congress of the communist		22ag:9
+congress of the communist party		22ag:9
+congress of the communist party of		22ag:9
+congress of the communist party of the		22ag:9
+congress of the communist party of the soviet		22ag:9
+congress of the communist party of the soviet union	22ag	
+congress of the confederate states	6hnt	
+congress of the confederate states of america	6hnt	
+congress of the cpsu	22ag	
+congress of the romanian communist party	7zd	
+congress of the socialist unity party of germany	29u	
+congress of the united states	u2x	
+congress of the usa	u2x	
+congress party india	jg	
+congress party of india	jg	
+congress poland	umk	
+congress r	jg	
+congress us	u2x	
+congress voting		4u44:3
+congress voting independence	4u44	
+conwell esther	5ahq	
+conwell school of theology	14yr	
+cothocida	gl6	
+dacic	45p2	
+deinonychosaurs	1e3l	
+destruction	1my1	48r5:3
+destruction band	1my1	
+destruction of		48r5:3
+destruction of warsaw	48r5	
+destruction of wildlife	69o9	
+devise	3gq4	
+devise for the succession	17rt	
+devise somme	3gq4	
+dukakis in the tank	2ew2	
+dukakis michael	2ew2	
+durkadurkistan	1kdf	
+eadward muybridge	62js	
+eleutheros	5h3m	
+elif sultan	3xdn	
+fc aruan		5cvh:3
+fc aruan nartkala	5cvh	
+feda dudic	4hcn	
+festus		3pon:2
+festus agu	3pon	
+gallipienzo	3lma	3lma:2
+gallipienzo galipentzu	3lma	
+gautreau village new brunswick	2i60	
+george mcclelland whitesides	22pw	
+gilmerson		639h:4
+gilmerson dos		639h:4
+gilmerson dos santos		639h:4
+gilmerson dos santos mota	639h	
+gmina gniewino	12lz	
+gmina zaniemysl	uwh	
+gmina zota	1f4a	
+guadalest	4ntz	
+gunfighters		5l0l:4
+gunfighters die harder	42ce	
+gunfighters of		5l0l:4
+gunfighters of casa		5l0l:4
+gunfighters of casa grande	5l0l	
+gvskg	1dqb	
+haslemere	rml	
+haslemere surrey	rml	
+heleniums	2dzm	
+hermes	u64,23ip,28xg	p83:2,2oq8:3,4lcy:2
+hermes and apollo	u64	
+hermes club	qee	
+hermes criophorus	u64	
+hermes cylleneius	u64	
+hermes dws	1hmi	
+hermes first name	28xg	
+hermes given name	28xg	
+hermes greek religion and mythology	u64	
+hermes logios	u64	
+hermes neves		2oq8:3
+hermes neves soares	2oq8	
+hermes oise	23ip	
+hermes palomino	4lcy	
+hermes pan	p83	
+hermes pan choreographer	p83	
+hermes pan musician	29zh	
+hermes psychopompus	u64	
+hohenlohekreis	12xd	
+ilayathalapathy	hdy	
+ilayathalapathy vijay	hdy	
+ingimp	y7g	
+intermarche		iu0:2
+intermarche wanty	iu0	
+james speirs	5hes	
+jianghu	dkg	
+jl	wgg	
+jl bourg	6764	6764:4
+jl bourg basket	6764	
+jl bourg en		6764:4
+jl bourg en bresse	6764	
+jl carr	5p5f	
+jl city	qy2	
+jl david	bcx	
+jl dube	5yvp	
+jl jaures	16bb	
+jl lindsay	4mlp	
+jl lund	1m5f	
+jl mackie	5xkl	
+john deaver drinko library marshall university	c29	
+john hays		3gim:4,4lm4:4
+john hays hammond	3gim	3gim:4,4lm4:4
+john hays hammond jr	4lm4	
+john hays hammond sr	3gim	
+jype	apr	
+kistna	2ryq	
+kistna river	2ryq	
+kremzeek	i2b	
+kxyl orda	1836	
+larache	40j5	1sgz:2
+larache morocco	40j5	
+larache province	1sgz	
+larusa kingston	2xx5	
+livonia	hnr,1wxr	ovj:2
+livonia governorate	ovj	
+livonia mi	hnr	
+livonia mich	hnr	
+livonia michigan	hnr	
+livonia province	ovj	
+livonia township michigan	hnr	
+luceafarul lotus baile felix	2h1i	
+luceafarul oradea	2h1i	
+mage	3r8e	
+mage fantasy	3r8e	
+mage paranormal	1t4y	
+mage winds	vsz	
+manlia		3w5m:2
+manlia gens	3w5m	
+marousi	fyx	
+marousi b c	pvd	
+marousi greece	fyx	
+masasi kisomoto	4m4e	
+matkah	wt2	
+matson jones	1o0m	
+mavrocordatos nicholas	5yfd	
+melori		51xb:2
+melori bigvava	51xb	
+mlawa	136n	
+mlawa county	18e1	
+montaimont	3jb7	
+mousai	1lbl	
+nantois	3hpz	
+nasos		4i8q:2,64ul:2
+nasos galakteros	4i8q	
+nasos kedrakas	64ul	
+nepenthes	611	
+nepenthes cochinchinensis	611	
+nervieux	2mo2	
+nyasvizh	1ahz	
+nyasvizh district	40hn	
+obidos	4nkt	
+obidos municipality	4nkt	
+obidos portugal	4nkt	
+oglala		1eav:3
+oglala lakota		1eav:3
+oglala lakota county	1eav	
+oglala lakota county sd	1eav	
+oglala lakota county south dakota	1eav	
+oglala oyanke	3hr9	
+oozbek	1rjq	
+openserving	3i02	
+orhan	z63,2bp7	vwh:2,3g2c:2,40to:2,432l:2,48ph:2,5dmn:2,5eul:2,5rj0:2,6e7x:2
+orhan ak	432l	
+orhan bey	2bp7	
+orhan cikirikci	6e7x	
+orhan ckrkc	6e7x	
+orhan first name	z63	
+orhan gazi	2bp7	
+orhan gencebay	5dmn	
+orhan ghazi	2bp7	
+orhan given name	z63	
+orhan gulle	5rj0	
+orhan i	2bp7	
+orhan kapucu	48ph	
+orhan kaynak	40to	
+orhan kencebay	5dmn	
+orhan mustafi	3g2c	
+orhan name	z63	
+orhan of the ottoman empire	2bp7	
+orhan pamuk	vwh	
+orhan parmuk	vwh	
+orhan parmuk and turkish human rights	vwh	
+orhan selim	3qh7	
+orhan tasdelen	5eul	
+ozbeks	1rjq	
+paplayer	3zj3	
+perciforms	d9j	
+peto christopher	5baj	
+peto zoltan	4o6p	
+pilgerise	2c0v	
+pilliarchetty bhakthavatsalam naidu rajeevalochana	1kh2	
+ploand	m	
+prince maximilian		1bkr:4,2g6y:4,2ogq:4,4238:6,5y5e:4
+prince maximilian 1st		4238:6
+prince maximilian 1st duke		4238:6
+prince maximilian 1st duke of		4238:6
+prince maximilian 1st duke of hohenberg	4238	
+prince maximilian margrave of baden	4sqk	
+prince maximilian of		1bkr:4,2g6y:4,2ogq:4,5y5e:4
+prince maximilian of baden	2g6y	
+prince maximilian of liechtenstein	5y5e	
+prince maximilian of saxony	1bkr,2ogq	
+prince maximilian of saxony 1870 1951	2ogq	
+prince maximilian of saxony 18701951	2ogq	
+prince turki al faisal	2e7m	
+prince turki bin abdulaziz	ccj	
+prince turki ibn faisal ibn abdelaziz	cgm	
+prince turki ibn faisal ibn abedlaziz	cgm	
+prince turki of najd	ccj	
+prince turki of nejd	ccj	
+prince turki the sudairi	cgm	
+protodeacon of sacred college of cardinals	p0	
+protodeacon of the holy roman church	p0	
+puddings	cw1	
+puntarena costa rica	1k7i	
+quantice	mha	
+regionalbahn schleswig holstein	67j	
+richard jon brodie	2yep	
+richard phillipps	5cf	
+schrader maria	2ydu	
+searchers	zm1	zm1:2,4ma5:2
+senatrix	6ha5	
+sephiroth	6hnc	
+sephiroth bcr list of directors with two or more academy awards for best director	1sj	
+sephiroth crescent	6hnc	
+sephiroth final fantasy	6hnc	
+sephiroth final fantasy character	6hnc	
+sephiroth final fantasy vii	6hnc	
+sephiroth jenova	6hnc	
+sephiroth of jenova	6hnc	
+sephiroth video game character	6hnc	
+sephiroth video games	6hnc	
+sevco scotland	1nj	
+sharles stross	1d35	
+shinobi	anx	3s3r:4,5yso:2
+shinobi arcade game	66kl	
+shinobi film	3s3r	
+shinobi heart		3s3r:4
+shinobi heart under		3s3r:4
+shinobi heart under blade	3s3r	
+shinobi no mono	anx	
+shinobi series	5yso	
+shinobi shozoku	anx	
+shinobi video game	66kl	
+simonswyk western cape	ip1	
+sirabhorn		5gfb:2
+sirabhorn sobhon	5gfb	
+skdl	wvs	
+sounder	34eg	
+sounder 2003 film	34eg	
+sounder film	34eg	
+ssr abkhazia	50c7	
+stellarton	3g50	
+stellarton nova scotia	3g50	
+stolp	bsl	
+stolp in pommern	bsl	
+stolp poland	bsl	
+studley constable	to2	
+studley green wiltshire	ovp	
+sunney xie	68zt	
+taugon	33z1	
+taugon france	33z1	
+tcherepnin alexander	43tq	
+tcherepnin scale	43tq	
+tertiary		6fch:5
+tertiary alcohols	18iu	
+tertiary economic	6fch	
+tertiary education	1jhp	
+tertiary goods	6fch	
+tertiary industry	6fch	
+tertiary prep	8hx	
+tertiary rainbow	39ov	
+tertiary school	1jhp	
+tertiary sector	6fch	6fch:5
+tertiary sector of		6fch:5
+tertiary sector of economic activity	6fch	
+tertiary sector of the		6fch:5
+tertiary sector of the economy	6fch	
+tertiary storage	5ijw	
+tevin		24zm:2
+tevin campbell	24zm	
+the mudpack	5zur	
+the powerhouse of the cell	5rnm	
+thievres	2nct	
+thievres somme	2nct	
+tintin	4jiq	2l0p:5,2oso:7,3qft:5,4rog:2
+tintin 2	105h	
+tintin 2009 film	105h	
+tintin 2011 film	105h	
+tintin and		2l0p:5,2oso:7,3qft:5
+tintin and milou	4jiq	
+tintin and snowy	wne	
+tintin and the		2l0p:5,2oso:7,3qft:5
+tintin and the blue		3qft:5
+tintin and the blue oranges	3qft	
+tintin and the golden		2l0p:5
+tintin and the golden fleece	2l0p	
+tintin and the mystery of the golden fleece	2l0p	
+tintin and the secret of literature	5gal	
+tintin and the temple		2oso:7
+tintin and the temple of		2oso:7
+tintin and the temple of the		2oso:7
+tintin and the temple of the sun	2oso	
+tintin character	4jiq	
+tintin et le mystere de la toison d or	2l0p	
+tintin et le temple du soleil	2oso	
+tintin et les oranges bleues	3qft	
+tintin et milou	4jiq	
+tintin film	105h	
+tintin in the new world	5yw7	
+tintin in the new world a romance	5yw7	
+tintin king ottokar s sceptre	5g3z	
+tintin marquez	4rog	
+tintin merchandise	wne	
+tintin s abilities and training	4jiq	
+tintin the adventures of	wne	
+tintin trilogy	105h	
+tintin tv series	1k3i	
+trisetobromus	1255	
+tuben kama	y4p	
+ulidia	2epu	
+umduluth	o54	
+upoxis	us8	
+vargarda	20k0,4q58	20k0:2
+vargarda kommun	20k0	
+vargarda municipality	20k0	
+vargarda sweden	4q58	
+vaureal	2899	
+veli		2s16:2,4iam:2,6a6a:2
+veli kasumov	3r2t	
+veli kizilkaya	6a6a	
+veli kzlkaya	6a6a	
+veli lampi	4iam	
+veli mikko lampi	4iam	
+veli mukhatov	2s16	
+versec	l48	
+vinaros	10wd	
+wranger	he8	
+zelenikovo		31rt:2
+zelenikovo municipality	31rt	
+zelenikovo opstina	31rt	
+zelenikovo opstina republic of macedonia	31rt	

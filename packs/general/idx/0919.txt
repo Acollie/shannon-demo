@@ -1,0 +1,340 @@
+1550s	1wwo	
+670s	24wy	2k2s:2
+670s bc	2k2s	
+670s bce	2k2s	
+abbadia		2pka:3,3afv:2,41le:2
+abbadia cerreto	41le	
+abbadia lariana	3afv	
+abbadia san		2pka:3
+abbadia san salvatore	2pka	
+abdellatif		16uq:2
+abdellatif kechiche	16uq	
+albertito luque martos	29lw	
+altaj respublika	ql5	
+aprigliano	1km6	
+ballhaus michael	hqj	
+bjp	vd	
+bjp it cell morcha	vd	
+blacksmith	d1h	
+blacksmith mega immer	d1h	
+blacksmith omega simmer	d1h	
+blacksmith pictures	d1h	
+blacksmith s shop	d1h	
+blacksmith s striker	d1h	
+blacksmith sandbox	d1h	
+blacksmith shop	d1h	
+blacksmith surname	92	
+blacksmith works in progress	d1h	
+blagoveshchensky		4nuk:2
+blagoveshchensky district	4nuk	
+blagoveshchensky district bashkortostan	4nuk	
+blagoveshchensky district republic of bashkortostan	4nuk	
+blagoveshchensky municipal district republic of bashkortostan	4nuk	
+braies	3vmr	
+braies italy	3vmr	
+burzy	3j1p	
+calliachyris	5q7d	
+carburetion	5ueu	
+cavia	5bpi	
+cavia company	5bpi	
+cavia inc	5bpi	
+cavia software	5bpi	
+charles greene son of lorne	118a	
+charlotta	1u5	
+chcuk norris	iwg	
+chemicalization	7wk	
+chettusia	2imx	
+chienna	6e8z	
+chronologies	5jtn	
+david fyodorovich oistrakh	2064	
+david fyodorovich tukhmanov	55u0	
+david maxwell		3lfl:7
+david maxwell fyfe	3lfl	3lfl:7
+david maxwell fyfe 1st		3lfl:7
+david maxwell fyfe 1st earl		3lfl:7
+david maxwell fyfe 1st earl of		3lfl:7
+david maxwell fyfe 1st earl of kilmuir	3lfl	
+david maxwell fyfe earl of kilmuir	3lfl	
+deenie	6h45	
+deerfield	zhr,4c21	bt6:2,1nfn:2
+deerfield academy	bt6	
+deerfield academy press	bt6	
+deerfield beach	1nfn	
+deerfield beach fl	1nfn	
+deerfield beach florida	1nfn	
+deerfield beach pier	1nfn	
+deerfield fl	1nfn	
+deerfield florida	1nfn	
+deerfield il	zhr	
+deerfield illinois	zhr	
+deerfield ma	4c21	
+deerfield mass	4c21	
+deerfield massachusetts	4c21	
+doy laurel	1noi	
+euarthropods	1fv8	
+foucaucourt		2glc:3,2kd3:3,2q2n:3
+foucaucourt en		2glc:3
+foucaucourt en santerre	2glc	
+foucaucourt hors		2q2n:3
+foucaucourt hors nesle	2q2n	
+foucaucourt sur		2kd3:3
+foucaucourt sur thabas	2kd3	
+foucaucourt sur thabas argonne	2kd3	
+foucaucourt sur thabas lorraine	2kd3	
+francine		3bg2:4,4cr6:2,4vvj:2,5oia:2,6ekx:2
+francine berge	4cr6	
+francine drescher	x8k	
+francine du		3bg2:4
+francine du plessix		3bg2:4
+francine du plessix gray	3bg2	
+francine franklin	5cff	
+francine joy drescher	x8k	
+francine joy fran drescher	x8k	
+francine mathews	6ekx	
+francine racette	4vvj	
+francine rivers	5oia	
+francine stephanie barron	6ekx	
+francine stephanie barron mathews	6ekx	
+furlania juliai velence	mm1	
+galolhu		58cp:3
+galolhu national		58cp:3
+galolhu national stadium	58cp	
+galolhu rasmee dhandu stadium	58cp	
+galolhu stadium	58cp	
+garfunckle	w48	
+gullim	6gmu	
+gunaa	650y	
+gusztav	2723	4yus:2,5q5q:2
+gusztav first name	2723	
+gusztav given name	2723	
+gusztav gratz	5q5q	
+gusztav juhasz	4yus	
+hani said	2e5h	
+hani susumu	5wfy	
+homonid	6a5w	
+hurtin burton	39t9	
+i hasir	4sb1	
+i padroni della citta	544q	
+inzinzac		1sjg:2
+inzinzac lochrist	1sjg	
+isovuono	1on9	
+james basset	5e1o	
+james basset c 1526 1558	5e1o	
+james marquette	5wnp	
+james vinton		5m6f:3
+james vinton smith	5m6f	
+jogeva	1q0p	g0w:3,2mec:2
+jogeva commune	g0w	
+jogeva county	2mec	
+jogeva maakond	2mec	
+jogeva parish	g0w	
+jogeva rural		g0w:3
+jogeva rural municipality	g0w	
+jogeva vald	g0w	
+john baynor	4uim	
+kampongchamprovince	p8q	
+katherose derr	11vd	
+khemmis	3zly	
+kievska rus	1787	
+kittson		p4k:2
+kittson county	p4k	
+kittson county minnesota	p4k	
+kittson county mn	p4k	
+klimi saban	4m6x	
+koesslarn	2rtb	
+kreuk	3bsj	
+la beaume	1tve	
+la couronne	17vr	
+la couronne charente	17vr	
+la couronne noire	4y6k	
+lebetain	3cus	
+legislate	6g4	
+lhusoc	9wh	
+lieucourt	3uvl	
+louis poinsot	2x66	
+manzana		29r5:3
+manzana postobon		29r5:3
+manzana postobon team	29r5	
+marchelepot	1ozu	
+matagorda		2jyx:2
+matagorda county	2jyx	
+matagorda county texas	2jyx	
+matagorda county tx	2jyx	
+measham	5ccu	
+measham leicestershire	5ccu	
+measham ware	5ccu	
+melipotis	2ct6	
+metfone c league	1651	
+michael chaplin	23ls	
+michael chaplin actor	23ls	
+michael mccarthy	5sxs	
+michael mccarthy director	5sxs	
+michael mccarthy film director	5sxs	
+michael virtue	t1s	
+monks coppenhall	9e5	
+monks corner south carolina	283z	
+nevajarvi	158f	
+nixonian	bgu	
+noard holland	64y	
+nouvoitou	1x5s	
+numistmatist	1gks	
+nyctosma	cpw	
+obiwan kelnobi	3cge	
+obiwan kenobe	3cge	
+obiwan kenobi	3cge	
+ounans	3cr0	
+palladio	gk2	
+pandu	4bur	
+pavle		mdb:2,24us:3,3jcp:2,3uoz:2,5j6z:2,5jq2:2,65cg:2,6aoj:2
+pavle delibasic	3jcp	
+pavle dolezar	604h	
+pavle ii	4tg5	
+pavle ii archbishop of pec	4tg5	
+pavle ii serbian patriarch	4tg5	
+pavle jovanovic	4imk	
+pavle jurisic	24us	24us:3
+pavle jurisic sturm	24us	
+pavle karadjordjevic	2rol	
+pavle karaorevic	2rol	
+pavle kis	65cg	
+pavle ninkov	5j6z	
+pavle of yugoslavia	2rol	
+pavle popara	5jq2	
+pavle savic	3uoz	
+pavle savich	3uoz	
+pavle sedmak	4zqs	
+pavle serbian patriarch	4tg5	
+pavle stojcevic	4tg5	
+pavle velimirovic	6aoj	
+pavle vuisic	mdb	
+pavle vujisic	mdb	
+pernel		4ruf:2
+pernel strachey	4ruf	
+plainpalais	6cvc	
+pogonomyrmex	3yfa	
+posivyl	4mix	
+prince adalbert		1hxx:4,1rzs:4,2umh:4,55um:4
+prince adalbert of		1hxx:4,1rzs:4,2umh:4,55um:4
+prince adalbert of bavaria	1hxx,2umh	
+prince adalbert of bavaria 1828 1875	1hxx	
+prince adalbert of bavaria 18281875	1hxx	
+prince adalbert of bavaria 1886 1970	2umh	
+prince adalbert of bavaria 18861970	2umh	
+prince adalbert of prussia	1rzs,55um	
+prince adalbert of prussia 1811 1873	55um	
+prince adalbert of prussia 18111873	55um	
+prince adalbert of prussia 1884 1948	1rzs	
+prince adalbert of prussia 18841948	1rzs	
+prince album	6gdl	
+puymaurin	1s76	
+reamonn	22xr	
+robert r		1dhx:9,3efh:3,3okc:3,5fgl:3,6422:3
+robert r jones	574i	
+robert r livingston	3okc	
+robert r livingston 1746 1813	3okc	
+robert r livingston 17461813	3okc	
+robert r livingston chancellor	3okc	
+robert r livingston jr	3okc	
+robert r mccammon	6422	
+robert r mccormick		1dhx:9
+robert r mccormick school		1dhx:9
+robert r mccormick school of		1dhx:9
+robert r mccormick school of engineering		1dhx:9
+robert r mccormick school of engineering and		1dhx:9
+robert r mccormick school of engineering and applied		1dhx:9
+robert r mccormick school of engineering and applied science	1dhx	
+robert r parrish	oeu	
+robert r riley	5ilq	
+robert r simmons	6ag7	
+robert r thomas	5fgl	
+robert r thomas comments	5fgl	
+robert r wilson	3efh	
+robert terrell cummings	3qw6	
+robert terrell terry cummings	3qw6	
+romelaere	2ns2	
+rotovegas	av7	
+rottanova di cavarzere	13fn	
+safia		4ul1:2
+safia bint abdul muttalib	2tfh	
+safia farkash	4ul1	
+schaeuble	wkp	
+schaeuble wolfgang	wkp	
+serum hepatitis	2xz3	
+sings his sad heart	2g4x	
+spellbound	w1t,4ap4,63pn,6e9n	
+spellbound 1941 film	6e9n	
+spellbound 1945 film	w1t	
+spellbound 1999 film	4ap4	
+spellbound paula abdul album	63pn	
+stanislas		3q7e:2,4a8k:2,4wt4:2,5pej:3,5r96:3
+stanislas aignan julien	4wt4	
+stanislas augustus poniatowski	uz7	
+stanislas boufflers	5pej	
+stanislas charles henri laurent dupuy de lome	5q1w	
+stanislas de		5pej:3,5r96:3
+stanislas de boufflers	5pej	
+stanislas de castellane	5r96	
+stanislas dehaene	3q7e	
+stanislas dupuy de lome	5q1w	
+stanislas ii auguste poniatowski roi de pologne	uz7	
+stanislas jean chevalier de boufflers	5pej	
+stanislas jean de boufflers	5pej	
+stanislas jean marquis de boufflers	5pej	
+stanislas julien	4wt4	
+stanislas leckzinski	2q7f	
+stanislas leszinski	2q7f	
+stanislas marquis de boufflers jean	5pej	
+stanislas merhar	4a8k	
+stanislas morozov	506l	
+stanislas of poland	2q7f	
+stanislas ulam	1ggf	
+stanislas warwinka	2bhd	
+stanislas wawrinka	2bhd	
+stanislas wyspoanski	49cu	
+swante stensson sture	3kt0	
+the brook	6b0s	
+the citadelle	6dy3	
+the exam	48v3	
+the hessian		1waa:3
+the hessian renegades	1waa	
+the polka tulk blues company	axr	
+the potato war	35mf	
+the take 2016 film	2idn	
+thesee	34fd	
+thesee loir et cher	34fd	
+thomas montacute		4omd:6
+thomas montacute 4th		4omd:6
+thomas montacute 4th earl		4omd:6
+thomas montacute 4th earl of		4omd:6
+thomas montacute 4th earl of salisbury	4omd	
+tiel	o9q	
+torbjorn	1qir	3n9i:2,3v2i:2
+torbjorn caspersson	3n9i	
+torbjorn destroyer	5wk8	
+torbjorn falldin	5nxf	
+torbjorn given name	1qir	
+torbjorn jagland	4wrb	
+torbjorn nilsson	3v2i	
+torbjorn oskar caspersson	3n9i	
+troodontid	1wtr	
+ukkel	5dd	
+ukkel belgium	5dd	
+ukkel uccle	5dd	
+valenzana	yp2	yp2:2
+valenzana calcio	yp2	
+valenzana mado	yp2	
+valenzana mado ssd	yp2	
+winnfield	1jyz	
+winnfield la	1jyz	
+winnfield louisiana	1jyz	
+wizkid	2v35	
+wizkid artist	2v35	
+wizkid musician	2v35	
+wizkid nigerian musician	2v35	
+yaloo	4rra	
+yellowing	6a14	
+zaidiyyah	6eca	
+zijad		6bk7:2
+zijad svrakic	6bk7	
+zorgvlied	1dy7	
+zorgvlied cemetery	1dy7	

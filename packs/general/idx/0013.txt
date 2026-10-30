@@ -1,0 +1,540 @@
+10eme arrondissement paris	ail	
+a grammar of motives	60vp	
+aetis	62us	
+agpl	lvy	
+agpl 3	lvy	
+ahoueya	5pxq	
+backpacking trail	50d	
+balconytv	14pc	
+batavian		4zh8:2
+batavian commonwealth	4zh8	
+batavian government	4zh8	
+batavian republic	4zh8	
+batavian republic comments	4zh8	
+beckmesser	6h10	
+betaille	2hg8	
+beverages	2ds	
+bgy	350	
+bolnuevo	2zs0	
+botta e risposta	20az	
+caldes	3k4k	1evk:3,1zj3:3
+caldes de		1evk:3,1zj3:3
+caldes de malavella	1zj3	
+caldes de montbui	1evk	
+caudrot	2z1a	
+charles orby whitaker	4vz4	
+cineverse	5gl5	
+convective storm	6apb	
+corridonia	1sbj	
+corridonia comments	1sbj	
+dartium	5qqm	
+david heyman	zas	
+demontfort university	2i7s	
+denominazione		10s2:4
+denominazione di		10s2:4
+denominazione di orgine controllata doc	10s2	
+denominazione di origine		10s2:4
+denominazione di origine controllata	10s2	
+denominazione di origine controllata e garantita	10s2	
+diadegma	g7u	
+dolat girai	4yqf	
+dryden	xdy	
+dryden john	xdy	
+dryden ken	32ds	
+dryden mitchell	4rin	
+dryden press	5dh	
+dryden richard	2k73	
+dryden vos	181n	
+earl	24b	uh9:2,ujs:2,zbr:3,10bd:3,11d8:2,1bo4:3,1ilr:2,1rl3:2,1z73:2,1zee:3,1ztn:3,25jv:2,26iy:2,2bkg:3,2dt3:2,2iih:2,2q8h:2,2tir:2,3219:2,33jq:4,3e26:2,3wsb:2,422b:3,42ig:2,43bs:2,446v:3,48ou:2,4p17:2,4vvf:2,4w6n:3,4xen:3,4yec:2,4yem:3,59lp:2,59wt:2,5a4f:2,5ato:2,5dbn:2,5pqd:2,686b:2,6caq:3,6dg9:3,6frj:3,6gwn:2
+earl alexander of hillsborough	5egy	
+earl antoine boykins	2tir	
+earl attlee	10fz	
+earl auckland	5p5u	
+earl b nelson	5vzj	
+earl baldwin	1ilr	
+earl barrett	4vvf	
+earl barron	2dt3	
+earl bascom	4yem	
+earl bassett	6a9b	
+earl bellamy	ujs	
+earl benjamin ben nelson	5vzj	
+earl benjamin nelson	5vzj	
+earl biggers	zbr	
+earl boen	25jv	
+earl boykins	2tir	
+earl brooke	1zee	
+earl brooke of warwick castle	1zee	
+earl buxton	4psn	
+earl c michener	4w6n	
+earl cameron	26iy	
+earl cameron actor	26iy	
+earl campbell	59wt	
+earl campbell and cowall	6fx7	
+earl christian campbell	59wt	
+earl cory		4w6n:3
+earl cory michener	4w6n	
+earl cureton	2q8h	
+earl d		4xen:3
+earl d eisenhower	4xen	
+earl daniel barron jr	2dt3	
+earl de grey and ripon	2o7d	
+earl de grey thomas philip de grey	557m	
+earl de grey thomas philip robinson	557m	
+earl dennison woods	5pqd	
+earl derr		zbr:3
+earl derr biggers	zbr	
+earl dibbles jr	5frn	
+earl dmx simmons	iyk	
+earl donald handfield	6251	
+earl dwire	3e26	
+earl e		446v:3
+earl e anderson	446v	
+earl edwin morrall	4p17	
+earl eisenhower	4xen	
+earl f		6caq:3
+earl f hilliard	6caq	
+earl falconer	t1s	
+earl fatha hines	1z73	
+earl felton	3wsb	
+earl first name	24b	
+earl fitzhardinge	58gx	
+earl frederick hilliard	6caq	
+earl given name	24b	
+earl godwine	2g7h	
+earl godwinson	1ecv	
+earl gower	1v59	
+earl grant	5dbn	
+earl grey of falloden	2lnx	
+earl grosvenor	51zw	
+earl haakon	628u	
+earl hamner	2bkg	2bkg:3
+earl hamner jnr	2bkg	
+earl hamner jr	2bkg	
+earl harold	1ecv	
+earl henry howard	1x1r	
+earl hilliard	6caq	
+earl hindman	48ou	
+earl hines	1z73	
+earl hines and his orchestra	1z73	
+earl hofert	1gxc	
+earl holliman	11d8	
+earl howe howe richard	3i2a	
+earl howe trophy	43cr	
+earl huan of qi	59af	
+earl hugh maccalmont cairns	63j1	
+earl hurd	5a4f	
+earl hyneman	4i1m	
+earl jarrod rowland	4buv	
+earl jean	43bs	
+earl jermyn	3ecy	
+earl jerrod rowland	4buv	
+earl joseph smith	4cvl	
+earl joseph smith iii	4cvl	
+earl joseph watson jr	2iih	
+earl k long	4yec	
+earl kemp long	4yec	
+earl kenneth hines	1z73	
+earl king	42ig	
+earl klugh	uh9	
+earl lindo	5ato	
+earl lloyd george	t7s	
+earl long	4yec	
+earl loreburn	63ea	
+earl lovelace	686b	
+earl michener	4w6n	
+earl morrall	4p17	
+earl morrell	4p17	
+earl mundt	61sj	
+earl of		1zee:3,1ztn:3,422b:3,6frj:3
+earl of aboyne	5miz	
+earl of albemarle william coutts keppel	5hw7	
+earl of arnsberg	lpf	
+earl of arundel thomas howard	3aup	
+earl of atholl strathearn and caithness	3h4y	
+earl of avon	1bds	
+earl of baltimore	6gwn	
+earl of bessborough frederick ponsonby	4rg4	
+earl of burlington	2hiy	
+earl of burlington richard boyle	4v9l	
+earl of bute john stuart	172i	
+earl of campbell and cowall	6fx7	
+earl of carlisle george james howard	3myn	
+earl of carlisle henry howard	3qjf	
+earl of carnarvon george herbert	4m4q	
+earl of chicago	38xf	38xf:4
+earl of clarendon edward hyde	1lgr	
+earl of craven s company of foot	4uc3	
+earl of crawford james ludovic lindsay	4mlp	
+earl of elgin james bruce	3s1l	
+earl of ellesmere francis egerton	29sx	
+earl of essex		4b3u:4
+earl of essex thomas cromwell	2h8h	
+earl of gloucester robert	10w9	
+earl of gowrie alexander patrick greysteil ruthven	5gmd	
+earl of greenwich	6fx7	
+earl of halsbury lc	5uoo	
+earl of hertford	1pew	
+earl of home	2s1t	
+earl of ilay	6fx7	
+earl of ilchester william t h fox strangways	5rtg	
+earl of john stuart bute	172i	
+earl of kilmuir	3lfl	
+earl of lichfield	5d7g	
+earl of lincoln	1ztn	
+earl of loreburn	63ea	
+earl of lytton neville bulwer lytton	2mu5	
+earl of march edward	pa8	
+earl of mercia leofric	61pc	
+earl of more	ag1	
+earl of mre	ag1	
+earl of mulgrave	4kak	
+earl of oxford	422b	
+earl of oxford street	5eru	
+earl of pembroke	6frj	
+earl of pembroke and montgomery	6frj	
+earl of ripon	2o7d	
+earl of salisbury robert cecil	3lfd	
+earl of selborne lc	4crw	
+earl of shaftesbury iii	4klr	
+earl of stockton	104a	
+earl of sunderland	1x6e	
+earl of surrey henry howard	1x1r	
+earl of warenne	64lu	
+earl of warwick	1zee	
+earl page	560p	
+earl percy	3vjn	
+earl petty	jxj	
+earl pilcher jr	514r	
+earl potter iii	9bi	
+earl ray		6dg9:3
+earl ray tomblin	6dg9	
+earl richard howe	3i2a	
+earl robert of gloucester	10w9	
+earl rowland	4buv	
+earl rudder	3l24	
+earl rudolph powell	120r	
+earl s court exhibition center	1ew1	
+earl s court exhibition centre	1ew1	
+earl s court one	1ew1	
+earl s list	t0w	
+earl sidney weaver	6gwn	
+earl silas johnson	42ig	
+earl simmons	iyk	
+earl smith iii	4cvl	
+earl spencer	2qch	
+earl st		1bo4:3
+earl st john	1bo4	
+earl stanley morner	rx7	
+earl stephens	mlq	
+earl stevens	mlq	
+earl sutherland	33jq	
+earl sutherland jr	33jq	
+earl sweatshirt	1rl3	
+earl sweatshirt s 2nd studio album	1rl3	
+earl sweatshirt s third studio album	1rl3	
+earl temple	3uop	
+earl thomas		10bd:3
+earl thomas conley	10bd	
+earl tomblin	6dg9	
+earl tostig	26p7	
+earl ulf	5zfe	
+earl w		4yem:3
+earl w bascom	4yem	
+earl w sutherland	33jq	
+earl w sutherland jr	33jq	
+earl warenne	64lu	
+earl warren	3219	
+earl watson	2iih	
+earl weaver	6gwn	
+earl wilbur		33jq:4
+earl wilbur jr sutherland	33jq	
+earl wilbur sutherland	33jq	33jq:4
+earl wilbur sutherland jr	33jq	
+earl william burke	657e	
+earl wilson	59lp	
+earl wilson in	59lp	
+earl wilson politician	59lp	
+earl wire lindo	5ato	
+earl woods	5pqd	
+empoli	ji5	3uc:2
+empoli calcio	3uc	
+empoli calcio in european football	3uc	
+empoli f c	3uc	
+empoli fc	3uc	
+empoli football club	3uc	
+empoli football club 1920	3uc	
+eterville	2uz6	
+eunich	e4m	
+ev16	imp	
+factory	4mn	8oy:2,1ata:2,20ne:2
+factory benelux	1uco	
+factory club	8oy	
+factory film	20ne	
+factory girl	1ata	
+factory girl 2006 film	1ata	
+factory girl film	1ata	
+factory girl film version 2	1ata	
+factory guard	4q32	
+factory manufacturing	4mn	
+factory mills	4mn	
+factory no 75	2abf	
+factory of faith	4xwl	
+factory records	8oy	
+factory single	2csk	
+factory too	8oy	
+factory worker	4mn	
+factory workers	4mn	
+fc olympik		2u9w:3
+fc olympik kharkiv	2u9w	
+febro gesic	2hyk	
+filmcolony	2ghc	
+firesquad	36s8	
+frondenberg	4dv2	
+frondenberg ruhr	4dv2	
+gondoliere	6heq	
+gongfu film	3v1x	
+gongfu pian	3v1x	
+goodwood ontario	45je	
+guenange	24hk	
+gustaph	1rz	
+hei no saemon	y5b	
+herbstzeit am rhein	6duf	
+higueres		37t3:2
+higueres souye	37t3	
+hubet humphrey	1ci4	
+indifference pearl jam song	6ezp	
+ioane bagrationi	1gez	
+ioane son of george xii of georgia	1gez	
+iokaste	53ob	
+isobel		n7z:2,1dcc:2,2vsr:2
+isobel campbell	2vsr	
+isobel cox	2ao5	
+isobel elsom	n7z	
+isobel jeannette reed	n7z	
+isobel lennart	1dcc	
+isobel of gloucester and hertford	5e49	
+isobel reed	n7z	
+isobel von schonenberg	2ibw	
+italiensk for begyndere	3gn2	
+jabbulpore	siz	
+jadid abderrazzak	5aa5	
+jayachamarajendra		5g01:2
+jayachamarajendra wadiyar	5g01	
+jayachamarajendra wadiyar bahudar	5g01	
+jayachamarajendra wodeyar	5g01	
+jeanclaude duvalier	59qy	
+jumanah		6alv:4
+jumanah bint		6alv:4
+jumanah bint abi		6alv:4
+jumanah bint abi talib	6alv	
+jumanah bint abu talib	6alv	
+jumanah binte abu talib	6alv	
+kahnate of the crimea	4ssy	
+kamisama		4i7v:3
+kamisama no		4i7v:3
+kamisama no karute	4i7v	
+kandukonden kandukonden	2khz	
+khinchin	1req	
+kiriat ata	54c6	
+kiriat bialik	434g	
+kiriat haim	6asf	
+koalisyong makabayang bayan	1s9r	
+kortemark	59ng	
+ksute	lut	
+kuslin commune	462w	
+laothian	5e74	
+larentiinae	2sr6	
+launstroff	3omp	
+le fil	1yk9	
+le guedeniau	2xch	
+leconticambarus	vaw	
+librarianship	25n3	
+maria botto	44u9	
+maria botto rota	44u9	
+marzipan	6ful	
+marzipan ballet	6grz	
+marzipan food	6ful	
+marzipan paste	6ful	
+matador	4mt,fli,32tb	4mt:2,31g5:2
+matador 1986 film	32tb	
+matador danish tv series	fli	
+matador de toros	pgh	
+matador film	32tb	
+matador puchov	oe5	
+matador records	4mt	
+matador records artists	4mt	
+matador series	4t6s	
+meduna		4gu6:3
+meduna di		4gu6:3
+meduna di livenza	4gu6	
+megalopygidae	2rpl	
+mensajero santa cruz	5xsz	
+mercades benz	7lp	
+mgrr	5kn5	
+miellin	3o3c	
+modestas		5ojm:2
+modestas stonys	5ojm	
+monkhbayar dorjsurengiin	5sbq	
+monkhbayar dorjsurengin	5sbq	
+muntjac	6fnz	
+muntjac deer	6fnz	
+myrmica	10c2	
+myrmica brevinodis	10c2	
+nane		1hu8:2
+nane annan	wfm	
+nane germon	1hu8	
+netton western cape	168u	
+nikki	92v,4upx	1brk:2,1rn9:2,2cdw:2,2xe0:2,2znl:2,3bv9:2,3ld4:2,3nkj:6,449b:2,45xz:2,49mr:2,5ahs:2,5fog:2,5h7e:2,65um:2
+nikki 6	1rn9	
+nikki arrighi	4ttq	
+nikki bacharach	n5j	
+nikki blonski	65um	
+nikki blonsky	65um	
+nikki budalic	6dqw	
+nikki bull	5h7e	
+nikki caro	48ej	
+nikki carpenter	1h84	
+nikki costa	4u0z	
+nikki cox	5ahs	
+nikki de saint phalle	1psl	
+nikki finke	2cdw	
+nikki finke greenberg	2cdw	
+nikki first name	92v	
+nikki giovanni	449b	
+nikki given name	92v	
+nikki greenberg	2cdw	
+nikki gumbel	5rio	
+nikki haley	45xz	
+nikki haley comments	45xz	
+nikki hilton	4746	
+nikki j finke	2cdw	
+nikki krzysik	2xe0	
+nikki lauda	f2w	
+nikki marshall	49mr	
+nikki mccray	3bv9	
+nikki monninger	3itx	
+nikki phillips soccer	2xe0	
+nikki randhawa	45xz	
+nikki randhawa haley	45xz	
+nikki reed	1brk	
+nikki rich	2907	
+nikki rowe	5szm	
+nikki sixx	1rn9	
+nikki somerhalder	1brk	
+nikki sudden	5fog	
+nikki tv series	4upx	
+nikki washington	3ld4	
+nikki webster	2znl	
+nikki webster comments	2znl	
+nikki westerly	4e8a	
+nikki whelan	4n5i	
+nikki wild		3nkj:6
+nikki wild dog		3nkj:6
+nikki wild dog of		3nkj:6
+nikki wild dog of the		3nkj:6
+nikki wild dog of the north	3nkj	
+nikki yolande giovanni	449b	
+noriyasu		5inp:2
+noriyasu agematsu	5inp	
+palasol	18m0	
+paludology	i3n	
+papiamento	3wrt	
+papiamento language	3wrt	
+papiamento verbs	3wrt	
+paraplatin	5apz	
+paraplatin aq	5apz	
+peter gross	5706	
+peter gross comics	5706	
+phizer	19yh	
+poraj commune	2u6r	
+princess fusako of kitashirakawa	41da	
+proton	325u	88x:2,cmx:2,6b2h:2
+proton 8k82k	88x	
+proton accelerator	46qd	
+proton car	325u	
+proton cars	325u	
+proton company	325u	
+proton density mri	4lcs	
+proton f c	6b2h	
+proton fc	6b2h	
+proton fc president s cup	6b2h	
+proton group	325u	
+proton holdings	325u	
+proton holdings berhad	325u	
+proton holdings bhd	325u	
+proton k	88x	
+proton km	cmx	
+proton light	cmx	
+proton m	cmx	
+proton m enhanced	cmx	
+proton medium	cmx	
+psap		1gie:2
+psap sigli	1gie	
+raptor heavy fighter	4yam	
+ryngalla	2uu4	
+saint valery		16rg:4,1zjf:4
+saint valery en		1zjf:4
+saint valery en caux	1zjf	
+saint valery sur		16rg:4
+saint valery sur somme	16rg	
+sansovino	4n0f	
+sansovino jacopo	4n0f	
+scheuring thomas	67y4	
+shimbashi		1i6t:2
+shimbashi station	1i6t	
+sibiryak bratsk	adz	
+soleymieux	3i64	
+sophist	2gvb	
+sophist movement	2gvb	
+st 225	36yd	
+tablja	5iae	
+tamus	m5z	
+the 69		2irw:3
+the 69 eyes	2irw	
+the corps		4kpw:6
+the corps of		4kpw:6
+the corps of discovery	3r21	
+the corps of royal		4kpw:6
+the corps of royal canadian		4kpw:6
+the corps of royal canadian engineers	4kpw	
+the spectres	9po	
+therock	if5	
+thomas dugdale	3a54	3a54:5
+thomas dugdale 1st		3a54:5
+thomas dugdale 1st baron		3a54:5
+thomas dugdale 1st baron crathorne	3a54	
+thomas garrigue masaryk	wt6	
+thomas ian		1pxs:3,38y6:3
+thomas ian griffith	38y6	
+thomas ian nicholas	1pxs	
+turridrupa	5y0r	
+unipd	4af	
+vedby	179o	
+vedby parish	179o	
+veronicea guerrin	532y	
+vilyam fisher	3wri	
+vilyam genrikhovich fischer	3wri	
+vilyam genrikhovich fisher	3wri	
+vilyam genrikovich fisher	3wri	
+vilyam yugin	4oiy	
+vilyam yugin smit	4oiy	
+wiser sex	672i	672i:3
+wyverns	16j3	
+yezd	i8y	
+zr	o6e	
+zr element	o6e	
+zr hr ms	9f4	
+zr ms	9f4	
+zurab		39mb:2,3i2y:2,3qhi:2,47ub:2,4pwz:2,5jt6:2,5oie:2
+zurab arziani	47ub	
+zurab khizanishvili	39mb	
+zurab konstantinovich tsereteli	3qhi	
+zurab lavrentyevich sotkilava	3i2y	
+zurab menteshashvili	4pwz	
+zurab sanaia	5oie	
+zurab sanaya	5oie	
+zurab sotkilava	3i2y	
+zurab tsereteli	3qhi	
+zurab tsereteli comments	3qhi	
+zurab tsiskaridze	5jt6	
+zurab vladimirovich sanaya	5oie	

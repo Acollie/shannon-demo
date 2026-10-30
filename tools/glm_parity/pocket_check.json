@@ -1,0 +1,306 @@
+{
+ "base": "http://localhost:8765/",
+ "checks": {
+  "graph_only": {
+   "same": 5,
+   "n": 5,
+   "all_graph_badge": true,
+   "how_shown": true,
+   "rows": [
+    {
+     "q": "When did the author of Pride and Prejudice die?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "pick",
+     "score": 28.28327672161224,
+     "low": true,
+     "shown": [
+      "1817-07-18"
+     ],
+     "text": "",
+     "route": "Below the confidence rule, and the chat model is off, so this is the graph's best guess.",
+     "how": "How I got this",
+     "suggest": null,
+     "ref": [
+      "1817-07-18"
+     ],
+     "same": true
+    },
+    {
+     "q": "Who wrote the Dark Tower series?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "pick",
+     "score": 55.72869295823782,
+     "low": false,
+     "shown": [
+      "Stephen King"
+     ],
+     "text": "",
+     "route": "The graph committed with path score 55.73 (cut 52).",
+     "how": "How I got this",
+     "suggest": null,
+     "ref": [
+      "Stephen King"
+     ],
+     "same": true
+    },
+    {
+     "q": "Is Lake Michigan or Lake Superior larger by surface area?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "compare",
+     "score": 35.272408311433914,
+     "low": true,
+     "shown": [
+      "Lake Superior"
+     ],
+     "text": "",
+     "route": "Below the confidence rule, and the chat model is off, so this is the graph's best guess.",
+     "how": "How I got this",
+     "suggest": null,
+     "ref": [
+      "Lake Superior"
+     ],
+     "same": true
+    },
+    {
+     "q": "How many members of Blackpink are there?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "count",
+     "score": 47.76552669723554,
+     "low": true,
+     "shown": [
+      "4"
+     ],
+     "text": "",
+     "route": "Below the confidence rule, and the chat model is off, so this is the graph's best guess.",
+     "how": "How I got this",
+     "suggest": null,
+     "ref": [
+      "4"
+     ],
+     "same": true
+    },
+    {
+     "q": "What is the capital of Australia?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "pick",
+     "score": 54.629619957951725,
+     "low": false,
+     "shown": [
+      "Melbourne"
+     ],
+     "text": "",
+     "route": "The graph committed with path score 54.63 (cut 52).",
+     "how": "How I got this",
+     "suggest": null,
+     "ref": [
+      "Melbourne"
+     ],
+     "same": true
+    }
+   ]
+  },
+  "memory": {
+   "added": 3,
+   "after_delete": [
+    "I'm vegetarian",
+    "My name is Sam"
+   ],
+   "after_reload": [
+    "I'm vegetarian",
+    "My name is Sam"
+   ],
+   "persists": true,
+   "graph_only_my_name": {
+    "q": "What is my name?",
+    "tier_badge": "memory",
+    "tier": "memory",
+    "low": false,
+    "shown": [],
+    "text": "",
+    "route": "A question about you: answered from your saved facts (the chat model is off).",
+    "how": "Details",
+    "suggest": null
+   }
+  },
+  "lm": {
+   "rule": {
+    "threshold": 52,
+    "types": [
+     "pick"
+    ]
+   },
+   "chat_all_lm": true,
+   "fact_routing_ok": true,
+   "chat": [
+    {
+     "q": "Hi! How are you today?",
+     "tier_badge": "lm",
+     "tier": "lm",
+     "type": "",
+     "score": null,
+     "low": false,
+     "shown": [],
+     "text": "Hello! It's great to talk to you. How can I assist you today?",
+     "route": "The graph's answer (pick, path score 21.66) is below the confidence rule (pick answers with score >= 52), so the chat model answered.",
+     "how": "Details",
+     "suggest": null
+    },
+    {
+     "q": "Give me three ideas for a quick weeknight dinner.",
+     "tier_badge": "lm",
+     "tier": "lm",
+     "type": "",
+     "score": null,
+     "low": false,
+     "shown": [],
+     "text": "Sure! Here are three ideas for a quick weeknight dinner:\n\n1. Grilled Salmon with Balsamic Glutinous Rice\n2. Stir-fried Vegetable Stir-Fry\n3. Stir-fried Beef and Broccoli\n\nEnjoy your meal!",
+     "route": "The graph's answer (largest, path score 34.56) is below the confidence rule (pick answers with score >= 52), so the chat model answered.",
+     "how": "Details",
+     "suggest": null
+    },
+    {
+     "q": "Write a two-line poem about autumn rain.",
+     "tier_badge": "lm",
+     "tier": "lm",
+     "type": "",
+     "score": null,
+     "low": false,
+     "shown": [],
+     "text": "Autumn's rain whispers,\nWhispering softly,\nDrops of sorrow.",
+     "route": "The graph's answer (pick, path score 28.53) is below the confidence rule (pick answers with score >= 52), so the chat model answered.",
+     "how": "Details",
+     "suggest": null
+    }
+   ],
+   "fact": [
+    {
+     "q": "Who wrote the Dark Tower series?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "pick",
+     "score": 55.72869295823782,
+     "low": false,
+     "shown": [
+      "Stephen King"
+     ],
+     "text": "",
+     "route": "The graph committed with path score 55.73 (cut 52).",
+     "how": "How I got this",
+     "suggest": null
+    },
+    {
+     "q": "How many members of Blackpink are there?",
+     "tier_badge": "lm",
+     "tier": "lm",
+     "type": "",
+     "score": null,
+     "low": false,
+     "shown": [],
+     "text": "Blackpink has 5 members.",
+     "route": "The graph's answer (count, path score 47.77) is below the confidence rule (pick answers with score >= 52), so the chat model answered.",
+     "how": "Details",
+     "suggest": null
+    },
+    {
+     "q": "Who directed the film Inception?",
+     "tier_badge": "graph",
+     "tier": "graph",
+     "type": "pick",
+     "score": 56.505102048504476,
+     "low": false,
+     "shown": [
+      "Wally Pfister"
+     ],
+     "text": "",
+     "route": "The graph committed with path score 56.51 (cut 52).",
+     "how": "How I got this",
+     "suggest": null
+    }
+   ]
+  },
+  "lm_memory": {
+   "personal": {
+    "q": "What should I cook for dinner tonight, given what you know about me?",
+    "tier_badge": "lm",
+    "tier": "lm",
+    "type": "",
+    "score": null,
+    "low": false,
+    "shown": [],
+    "text": "You should cook for dinner tonight with your usual recipes, since you are a vegetarian.",
+    "route": "A question about you: the chat model answered, with your saved facts as context.",
+    "how": "Details",
+    "suggest": null
+   },
+   "statement": {
+    "q": "My favourite colour is green.",
+    "tier_badge": "lm",
+    "tier": "lm",
+    "type": "",
+    "score": null,
+    "low": false,
+    "shown": [],
+    "text": "You are a fan of the color green, which is why you enjoy eating foods that contain it.",
+    "route": "A question about you: the chat model answered, with your saved facts as context.",
+    "how": "Details",
+    "suggest": "My favourite colour is green"
+   },
+   "suggestion_saved": true
+  },
+  "forget": {
+   "after_forget": 0,
+   "after_reload": 0,
+   "storage_key": null,
+   "ok": true
+  },
+  "phone_light": {
+   "sw": 390,
+   "iw": 390,
+   "b": 390,
+   "drawer_sw": 390,
+   "no_hscroll": true
+  },
+  "phone_dark": {
+   "sw": 390,
+   "iw": 390,
+   "b": 390,
+   "drawer_sw": 390,
+   "no_hscroll": true
+  },
+  "network": {
+   "hosts": {
+    "localhost": 510,
+    "fonts.googleapis.com": 14,
+    "fonts.gstatic.com": 68,
+    "cdn.jsdelivr.net": 22
+   },
+   "non_static": [],
+   "non_get": []
+  }
+ },
+ "webgpu": {
+  "ok": true,
+  "info": "apple / metal-3"
+ },
+ "lm_load_s": 1.586,
+ "lm_state": {
+  "state": "ready",
+  "err": "",
+  "key": "small"
+ },
+ "layout_after_lm": {
+  "html_scroll": 0,
+  "app_h": 860,
+  "vh": 860
+ },
+ "lm_reload_state": "ready",
+ "console_errors": [],
+ "index_console_errors": [
+  "index: Failed to load resource: the server responded with a status of 404 (File not found)"
+ ]
+}

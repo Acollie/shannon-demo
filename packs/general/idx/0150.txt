@@ -1,0 +1,326 @@
+196566		1bzh:4,1yls:3,5idn:2
+196566 bundesliga	1yls	
+196566 cypriot		1bzh:4
+196566 cypriot cup	1fy3	
+196566 cypriot first		1bzh:4
+196566 cypriot first division	1bzh	
+196566 ekstraklasa	5idn	
+196566 fuball		1yls:3
+196566 fuball bundesliga	1yls	
+196566 fussball bundesliga	1yls	
+adalbert	55um	1s2l:3,2tod:2,3bk7:5,3onb:4,3wtg:4,462j:3,51hb:4,5f38:2,5fvj:2
+adalbert 03 of bohemia	51hb	
+adalbert bishop of prague	1s2l	
+adalbert gyrowetz	5f38	
+adalbert i		3bk7:5
+adalbert i count		3bk7:5
+adalbert i count of		3bk7:5
+adalbert i count of vermandois	3bk7	
+adalbert i of vermandois	3bk7	
+adalbert ii of ivrea	462j	
+adalbert iii	51hb	3onb:4,51hb:4
+adalbert iii of		3onb:4,51hb:4
+adalbert iii of bohemia	51hb	
+adalbert iii of saxony	3onb	
+adalbert jirvovec	5f38	
+adalbert king of italy	462j	
+adalbert korfanty	644h	
+adalbert kossak	3qkp	
+adalbert margrave		3wtg:4
+adalbert margrave of		3wtg:4
+adalbert margrave of austria	3wtg	
+adalbert matthias gyrowetz	5f38	
+adalbert of		1s2l:3,462j:3
+adalbert of austria	3wtg	
+adalbert of italy	462j	
+adalbert of ivrea	462j	
+adalbert of lombardy	462j	
+adalbert of prague	1s2l	
+adalbert of prussia	55um	
+adalbert of saxony	3onb	
+adalbert ritter von kossak	3qkp	
+adalbert rubinowicz	3g14	
+adalbert stifter	2tod	
+adalbert von chamisso	3r7t	
+adalbert von kossak	3qkp	
+adalbert von prag	1s2l	
+adalbert zafirov	5fvj	
+adalbert zywny	5ypi	
+arbiter	6hh4	
+arbiter elegantiae	2fy7	
+arbiter halo	6hh4	
+arbiter petronius	2fy7	
+ardh		65oh:2
+ardh satya	65oh	
+ardh satya 2	65oh	
+arman		2pqe:2
+arman karamian	2pqe	
+arman karamyan	2pqe	
+arman suren karamyan	2pqe	
+azak	13b0	
+bellusco	33ec	
+bogomil		6913:2
+bogomil dyakov	6913	
+broquette		9v5:3
+broquette gonin		9v5:3
+broquette gonin prize	9v5	
+brzozie commune	2fft	
+canol dinas caerdydd	2y8g	
+ceskobratrska cirkev evangelicka	5zz6	
+chach city	1wp	
+charles dennis buchinsky	a87	
+charrin	3c61	
+chernomorets 919	63k	
+chernomorets bs	63k	
+chernomorets burgas	63k	
+chernomorets novorossiisk	2q4	
+chernomorets novorossiysk	2q4	
+chernomorets odessa	3c1	
+chernomorets pomorie	lje	
+claudelle		557r:2
+claudelle english	557r	
+claudelle inglish	557r	
+clytamnestra	3enk	
+comapny	az	
+comradeship	26p9	
+cyberconnect2	3qyx	
+cyberconnect2 co ltd	3qyx	
+denvers new international airport	1l63	
+dhar		1tnp:2
+dhar district	1tnp	
+dilke charles	3oq3	
+dilke scandal	3oq3	
+disagreements	pga	
+dlouha		2zc9:2,3osy:2,4dgw:2
+dlouha brtnice	3osy	
+dlouha lhota	4dgw	
+dlouha lhota pribram district	4dgw	
+dlouha loucka	2zc9	
+dlouha loucka olomouc district	2zc9	
+e2 elimination	69ej	
+e2 eliminations	69ej	
+e2 reaction	69ej	
+e2 reactions	69ej	
+escombres		3q7k:4
+escombres et		3q7k:4
+escombres et le		3q7k:4
+escombres et le chesnois	3q7k	
+esperaza	1j1i	
+estrees	2jvb,3ik0	1ft2:2,1ud5:2,253n:3,2hry:3,2m61:3,314n:3
+estrees aisne	3ik0	
+estrees deniecourt	1ud5	
+estrees en chaussee	1ft2	
+estrees la		2hry:3
+estrees la campagne	2hry	
+estrees les		314n:3
+estrees les crecy	314n	
+estrees mons	1ft2	
+estrees nord	2jvb	
+estrees saint		253n:3
+estrees saint denis	253n	
+estrees sur		2m61:3
+estrees sur noye	2m61	
+etherington matthew	51ig	
+eumops	6f0p	
+faradayan	ocd	
+fc express velikiye luki	696f	
+feigning	6f8n	
+finale		rz7:2,1o27:2
+finale emilia	1o27	
+finale ligure	rz7	
+finale liguria	rz7	
+franceville	5h2b	
+geneive		6c5n:2
+geneive abdo	6c5n	
+gmina korycin	12eh	
+gmina wyryki	1hsk	
+gonnesa	3y2x	
+habiby wa enta baeed my darling when you are far away	3cwx	
+haverill ma	ezr	
+henchperson	74j	
+henry count iv of holstein	5esu	
+henry count of anjou	lt9	
+henry count of bardi	3nys	
+henry count of chambord	5fjj	
+henry count of luxemburg	26hi	
+henry count of portucale	400c	
+henry count of portugal	400c	
+henry count of saxony	3uvk	
+herbula	3vq	
+i 15	3kcm	
+i 15 class submarine	55wr	
+i 15 exit list	3kcm	
+i 15 express lanes san diego	17ih	
+i 15 nv	5bw8	
+iam cycling	o76	
+iam cycling 2015	igk	
+interruptive aerophone	513s	
+ismay imrie and company	7rr	
+ismay imrie company	7rr	
+ismay johnston	3fdj	
+ixcan	4vks	
+james caviezel	13it	
+jenifer	1xbm,4eh6	23re:2
+jenifer aniston	fdp	
+jenifer anniston	fdp	
+jenifer artist	1xbm	
+jenifer bartoli	1xbm	
+jenifer connelly	gsb	
+jenifer hermoso	36rw	
+jenifer hudson	d4p	
+jenifer jeanette lewis	23re	
+jenifer lewis	23re	
+jenifer masters of horror	4eh6	
+jenifer masters of horror episode	4eh6	
+jenifer singer	1xbm	
+jenifer yael dadouche bartoli	1xbm	
+jeorg haider	444o	
+jingkai expressway	695z	
+jwala		2gyw:2
+jwala gutta	2gyw	
+jwala gutta badminton	2gyw	
+jwala p gutta	2gyw	
+kakarott	6gdx	
+karelia	jy0,37jc	
+karelia discovery petrozavodsk	5qpq	
+karelia erzi petrozavodsk	5qpq	
+karelia petrozavodsk	5qpq	
+karelia respublika	jy0	
+kitahiroshima	4zjr	
+kitahiroshima hokkaido	4zjr	
+kitahiroshima japan	4zjr	
+kitahiroshima shi	4zjr	
+kunkuk university station	5yej	
+la curee film	2x8s	
+lains	1nb3	
+laloimehani	5ap	
+leisl tesch	59q3	
+levignac	1oe3	3vzz:3
+levignac de		3vzz:3
+levignac de guyenne	3vzz	
+limc	38o8	
+liqenas	5nm2	
+madaline albright	tav	
+maid	3gb7,4i4q	1w74:3,3ohh:3,5jbp:3
+maid in		1w74:3
+maid in manhattan	1w74	
+maid of		3ohh:3
+maid of all work	4i4q	
+maid of norway	5ue7	
+maid of salem	3ohh	
+maid thief and guard	3gb7	
+maid to		5jbp:3
+maid to order	5jbp	
+maid to order film	5jbp	
+mondoubleau	40zy	
+montel		3991:3,5p31:2
+montel de		3991:3
+montel de gelat	3991	
+montel jordan	1nv8	
+montel williams	5p31	
+montel williams comments	5p31	
+muneville		1vtw:3
+muneville le		1vtw:3
+muneville le bingard	1vtw	
+munnel	9bt	
+new philippines	458l	
+nueron	18n9	
+obertan	4iei	
+obf band	18ih	
+padria	2zse	
+pairc naiseanta a mhonaidh ruaidh	14i3	
+panorpa	14ge	
+paraplatyptilia	1475	
+parrabellum p08 pistol	5wf3	
+parsnippany	11np	
+penascosa	2x6a	
+peter zadek	5y10	
+postrel	5l13	
+psychoanalytic	mgh	
+psychoanalytic psychiatry	mgh	
+psychoanalytic psychotherapy	mgh	
+psychoanalytic school	mgh	
+rabindra		33bj:3
+rabindra bhaban museum	53q4	
+rabindra bharati	33bj	33bj:3
+rabindra bharati university	33bj	
+rabindra bhavan museum	53q4	
+rabindra shankar chowdhury	a17	
+raghupati raghava rajaram	pmk	
+revolver	9b0,ugn,1smx,47tx	5yks:2
+revolver 1973 film	47tx	
+revolver 2005 film	1smx	
+revolver album	ugn	
+revolver beatles	ugn	
+revolver beatles album	ugn	
+revolver entertainment	5yks	
+revolver gun	9b0	
+revolver pistol	9b0	
+revolver rani	2h2o	
+revolver sangriento	3ki4	
+revolver shotguns	h3e	
+revolver the beatles	ugn	
+revolver the beatles album	ugn	
+rmwfc	5jka	
+rorschach	1jcl	2ho7:2
+rorschach constituency	2ho7	
+rorschach district	2ho7	
+rorschach railway station	1jcl	
+rorschach sg	1jcl	
+rorschach st gallen	1jcl	
+rorschach st gallen sg	1jcl	
+rorschach switzerland	1jcl	
+rorschach wahlkreis	2ho7	
+ruegenwalde	4414	
+saarinen saarinen associates	14wh	
+saazish	68nt	
+saazish 1988 film	68nt	
+scripting		2gh3:2
+scripting language	2gh3	
+scripting languages	2gh3	
+scripting programming language	2gh3	
+seussian	b46	
+sew	3u1u	
+seythenex	40qx	
+shirtless	1543	
+simondon	4if1	
+spiti district	2zl9	
+stable		6bw2:2
+stable angina	gd5	
+stable companions	6bw2	
+stable particle	5g2e	
+stable plaque psoriasis	1bfn	
+taioseach	zfv	
+tapp	1311	
+telgu	hm	
+teriimaevarua		3377:2
+teriimaevarua ii	3377	
+the kentucky	4qq3	2emb:4,510y:3
+the kentucky colonels	nrd	
+the kentucky derby	d6c	
+the kentucky fried		2emb:4
+the kentucky fried movie	2emb	
+the kentucky headhunters	510y	
+the kentucky wildcats	4147	
+the mechanic	134j,3jur	
+the mechanic 1972 film	134j	
+the mechanic 1972 movie	134j	
+the mechanic 2010 film	3jur	
+the mechanic 2011 film	3jur	
+the perry como kraft music hall	k3d	
+the perry como show	k3d	
+the raffle	5ep6	
+the stateroom scene	1y71	
+thomas cranuuelus	2h8h	
+tokod	57aw	
+trivirostra	40rk	
+tropidozineus	4l0w	
+tuscallusa	6yd	
+uskoplje bosnia	pm9	
+vandeleville	2d74	
+vermeulen	1dyo	
+webservant	6dbk	
+yongtaiwen railway	21jm	
+zhenhai		5ovr:2
+zhenhai county	5ovr	
+zhenhai district	5ovr	

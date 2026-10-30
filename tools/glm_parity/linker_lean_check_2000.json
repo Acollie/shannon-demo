@@ -1,0 +1,29 @@
+{
+ "note": "Python reference (tools/glm_general/ref.py) on all 2,000 Mintaka dev questions with this pack: the page's linker MLP (KG16 linker.pt) vs the lean linker MLP (513 parameters, retrained on Mintaka train with the fast exact + prefix candidates). Everything else identical. The lean linker finds the gold name more often but answers 4 fewer questions right, so the page keeps its linker.",
+ "current": {
+  "hits1": 0.2105,
+  "link_recall_at3": 0.7038173142467621,
+  "all_gold_in_top3": 0.629
+ },
+ "lean_linker": {
+  "hits1": 0.2085,
+  "link_recall_at3": 0.7147239263803681,
+  "all_gold_in_top3": 0.639,
+  "by_type": {
+   "all": 0.2085,
+   "generic": 0.1975,
+   "multihop": 0.085,
+   "intersection": 0.205,
+   "difference": 0.1,
+   "comparative": 0.425,
+   "superlative": 0.17,
+   "ordinal": 0.145,
+   "count": 0.125,
+   "yesno": 0.435
+  }
+ },
+ "questions_with_different_topics": 1096,
+ "newly_right": 22,
+ "newly_wrong": 26,
+ "decision": "keep current linker"
+}

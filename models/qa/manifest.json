@@ -1,0 +1,47 @@
+{
+ "name": "Shannon QA",
+ "files": {
+  "embed": {
+   "path": "embed.onnx",
+   "bytes": 45929251,
+   "sha256": "776d7b282273d50e"
+  },
+  "reader": {
+   "path": "reader.onnx",
+   "bytes": 68093901,
+   "sha256": "60b24d5861f86fb8"
+  },
+  "yesno": {
+   "path": "yesno.onnx",
+   "bytes": 95139075,
+   "sha256": "c3c061015226ec6f"
+  },
+  "yesno_vocab": {
+   "path": "yesno_vocab.json",
+   "bytes": 4240940,
+   "sha256": "177f387c0f6a3651"
+  },
+  "vocab": {
+   "path": "vocab.txt",
+   "bytes": 231508,
+   "sha256": "07eced375cec144d"
+  },
+  "gate": {
+   "path": "gate.json",
+   "bytes": 64446,
+   "sha256": "aab50500aebfe48f"
+  }
+ },
+ "precision": {
+  "embed": "fp16-stored weights, fp32 compute (sentence-transformers/all-MiniLM-L6-v2, mean pooling + L2 norm inside the graph)",
+  "reader": "fp16-stored weights, fp32 compute (deepset/minilm-uncased-squad2)",
+  "yesno": "word-embedding table int8, other weights fp16-stored, fp32 compute (DeBERTa-v3-xsmall cross-encoder fine-tuned for yes/no)"
+ },
+ "sources": {
+  "embed": "sentence-transformers/all-MiniLM-L6-v2 (Apache-2.0)",
+  "reader": "deepset/minilm-uncased-squad2 (CC-BY-4.0)",
+  "yesno": "fine-tuned from cross-encoder/nli-deberta-v3-xsmall (Apache-2.0) on BoolQ (CC-BY-SA-3.0) + development yes/no questions",
+  "gate": "question-form model + log-linear gate, trained on development questions (treaty-graph data/hybrid/gate_x.json)"
+ },
+ "download_bytes": 213699121
+}

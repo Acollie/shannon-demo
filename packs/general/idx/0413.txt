@@ -1,0 +1,529 @@
+a segment	xej	
+abatabad	1agc	
+advancedataservices limited	ypc	
+baerenthal	1qxv	
+banty	431	
+barcos	2fva	
+baryaji	jbm	jbm:3
+baryaji rural		jbm:3
+baryaji rural district	jbm	
+bayarque	4uei	
+bayarque almeria	4uei	
+bayarque spain	4uei	
+bloemfontein	5sv	anv:4
+bloemfontein celtic	anv	anv:4
+bloemfontein celtic colts	anv	
+bloemfontein celtic colts f c	anv	
+bloemfontein celtic colts fc	anv	
+bloemfontein celtic f		anv:4
+bloemfontein celtic f c	anv	
+bloemfontein celtic football club	anv	
+bloemfontein celtics colts	anv	
+bloemfontein celtics colts f c	anv	
+bloemfontein celtics colts fc	anv	
+bloemfontein free state	5sv	
+bloemfontein lion	5sv	
+bloemfontein south africa	5sv	
+boissay	2inp	
+brune	432x	
+c128d	5esk	
+caio	1nyt,2ipw	2ipw:2,2zw1:2,4m04:2,5zh5:2,6ady:3
+caio alves	4m04	
+caio cesar alves dos santos	4m04	
+caio de		6ady:3
+caio de cenco	6ady	
+caio dos santos	4m04	
+caio first name	1nyt	
+caio giulio cesare	ffu	
+caio given name	1nyt	
+caio jr	2zw1	
+caio junior	2zw1	
+caio lizzie	1a78	
+caio mario	3soh	
+caio mendes	5zh5	
+caio name	1nyt	
+caio plinio secundo	435l	
+caio ribeiro	2ipw	
+caio ribeiro decoussau	2ipw	
+carnoy	32ec	
+charles redland	5fq5	
+chasetown		1dq7:3
+chasetown f		1dq7:3
+chasetown f c	1dq7	
+chasetown fc	1dq7	
+civilengineer	2ydf	
+cro	3xoo	
+cro musician	3xoo	
+cro open air tour 2013	3xoo	
+cro rapper	3xoo	
+cro rec	tq0	
+cro singer	3xoo	
+curious		2004:2
+curious case of benjamin button	kfa	kfa:6
+curious george	2004	
+curious george 2006	2004	
+curious george 2006 film	2004	
+curious george film	2004	
+curious george movie	2004	
+danton	kto,2f6o,47oh,64wu	
+danton 1921 film	47oh	
+danton 1931 film	2f6o	
+danton 1983 film	kto	
+danton hughes	2e4r	
+david byrne	jdo,2iya,44jx,5nk7	
+david byrne english footballer	2iya	
+david byrne ex talking heads frontman	jdo	
+david byrne footballer born 1905	5nk7	
+david byrne footballer born 1960	44jx	
+david byrne footballer born 1961	2iya	
+david byrne musician	jdo	
+david byrne south african footballer	44jx	
+david byrne south african soccer	44jx	
+deflector video game	5ivo	
+dita		2f82:2,4xue:3
+dita parlo	2f82	
+dita von		4xue:3
+dita von tease	4xue	
+dita von teese	4xue	
+edward killy	1z6y	
+eiichiroh oda	5qs0	
+elderberries	4g53	
+ennama ippadi panreengalema	6ecf	
+fractured ace frehley	56ad	
+fractured bone	1fzx	
+fractured fairy tales	14ok	
+fractured mirror	56ad	
+frederick costello	4ngl	
+frigga	657u	
+frigga comics	657u	
+frigga marvel comics	657u	
+garafa	3xt8	
+geneaology	15xf	
+george barnes	8r2	
+george barnes cinematographer	8r2	
+geriatric dermatology	34b	
+glen	2ru	5xm:2,ehx:2,ltm:2,pah:2,q6h:2,1176:2,12vf:3,1bc9:2,1ct6:2,1f5o:2,1hbb:2,1i52:2,1m6w:2,21q4:2,2d71:2,2w1z:2,31ls:2,3a9o:3,3caf:2,3d7w:2,3lnv:2,41qr:3,42fr:2,43g8:2,4foh:2,4uzl:2,5412:4,55g5:3,5f83:3,5vfd:2,5vku:2,5x7f:2,5zcn:2,61bf:2,66tp:2,6bhl:2,6e0c:2,6hfx:2
+glen a		12vf:3
+glen a larson	12vf	
+glen a macpherson c s c a s c	1bc9	
+glen a rice	31ls	
+glen abbey	8j7	
+glen anthony rice	31ls	
+glen anthony rice sr	31ls	
+glen atle		41qr:3
+glen atle larsen	41qr	
+glen atle larsen footballer	41qr	
+glen ballard	1i52	
+glen bateman	6f7q	
+glen beck	2kq2	
+glen bowersock	66tp	
+glen branca	3xli	
+glen campbell	5xm	
+glen campbell comments	5xm	
+glen cavender	pah	
+glen christie	en4	
+glen close	fzt	
+glen cook	1f5o	
+glen cove	ehx	
+glen cove long island	ehx	
+glen cove long island new york	ehx	
+glen cove n y	ehx	
+glen cove new york	ehx	
+glen cove ny	ehx	
+glen crest middle school	1hbb	
+glen cross ontario	4f0t	
+glen crowe	61bf	
+glen curtis	4jml	
+glen curtiss	4jml	
+glen d		5f83:3
+glen d johnson	5f83	
+glen dale johnson	5f83	
+glen danzig	20zr	
+glen david brin	wo7	
+glen davies	6bhl	
+glen davies footballer	6bhl	
+glen de		55g5:3
+glen de boeck	55g5	
+glen downey	6e0c	
+glen eira	252n	
+glen eira city	252n	
+glen eira city council	252n	
+glen ellyn	1hbb	
+glen ellyn il	1hbb	
+glen ellyn illinois	1hbb	
+glen eyre halls	2xs	
+glen falloch ontario	3lfu	
+glen falls new york	kar	
+glen first name	2ru	
+glen ford	8zj	
+glen frey	qqu	
+glen fry	qqu	
+glen g knoblauch	5zcn	
+glen g knoblaugh	5zcn	
+glen given name	2ru	
+glen gold	14rl	
+glen gould	14rl	
+glen gray	5zcn	
+glen gray knoblauch	5zcn	
+glen gray knoblaugh	5zcn	
+glen greenwald	1hon	
+glen hammond curtiss	4jml	
+glen hansard	21q4	
+glen headly	vej	
+glen helder	3yhq	
+glen hoddle	3jg0	
+glen howerton	4jd7	
+glen hysen	2ew9	
+glen innes	43g8	
+glen innes new south wales	43g8	
+glen iris	2w1z	
+glen iris australia	2w1z	
+glen iris melbourne	2w1z	
+glen iris victoria	2w1z	
+glen jakobs	37t6	
+glen johnson	3d7w	
+glen johnson english footballer	3d7w	
+glen johnson footballer	3d7w	
+glen johnson musician	6a62	
+glen keane	1176	
+glen kinglas	5m0c	
+glen kinglass	5m0c	
+glen kowalski	3ibq	
+glen langan	2x4g	
+glen larson	12vf	
+glen leedy	ki2	
+glen little	3caf	
+glen loovens	55ag	
+glen macpherson	1bc9	
+glen macwilliams	1ct6	
+glen major ontario	45je	
+glen matlock	4uzl	
+glen mcleod cooper johnson	3d7w	
+glen mcleod cooper stephens	3d7w	
+glen medeiros	5hnt	
+glen medieros	5hnt	
+glen metropolit	2d71	
+glen miller	6hfx	
+glen miller basketball	6hfx	
+glen miller basketball coach	6hfx	
+glen milstead	18cz	
+glen morgan	q6h	
+glen moss	42fr	
+glen nevis ontario	3lfu	
+glen norman	3lfu	
+glen oak 7th heaven	1wq2	
+glen oak california	1wq2	
+glen oak ontario	1i5u	
+glen oak zoo	59sb	
+glen oaks park elementary	2xw5	
+glen or		3a9o:3
+glen or glenda	3a9o	
+glen park	3s7h	
+glen park primary school	4m52	
+glen park vacoas mautius	3s7h	
+glen park wisconsin	1v0e	
+glen peewee strange	p9s	
+glen ponder	54ek	
+glen poole	5cko	
+glen power	1yo8	
+glen raising arizona	3ibq	
+glen rice	31ls	
+glen ridge	ltm	
+glen ridge borough	ltm	
+glen ridge borough new jersey	ltm	
+glen ridge borough township essex county new jersey	ltm	
+glen ridge borough township new jersey	ltm	
+glen ridge new jersey	ltm	
+glen ridge nj	ltm	
+glen ridge township essex county new jersey	ltm	
+glen ridge township new jersey	ltm	
+glen robson	4foh	
+glen rock	1m6w	
+glen rock borough new jersey	1m6w	
+glen rock nebraska	39au	
+glen rock new jersey	1m6w	
+glen rock nj	1m6w	
+glen roeder	5cxd	
+glen scantlebury	5vku	
+glen seichis	4rj	
+glen shadix	3o3i	
+glen shields	17cg	
+glen shields sun devils	17cg	
+glen southam	3lnv	
+glen stewart ontario	3mv6	
+glen strange	p9s	
+glen thomas	5x7f	
+glen tipton	4fxo	
+glen travis campbell	5xm	
+glen trevor	1f87	
+glen trifiro	5vfd	
+glen tryon	15ru	
+glen tyron	15ru	
+glen view illinois	r6m	
+glen w bowersock	66tp	
+glen w cavender	pah	
+glen walter ontario	3lfu	
+glen warren bowersock	66tp	
+glen waverley	5412	5412:4
+glen waverley line	5412	
+glen waverley railway		5412:4
+glen waverley railway line	5412	
+glen waverley railway line melbourne	5412	
+glen waverley train line melbourne	5412	
+glen wesman	2k31	
+glen whelan	4vi9	
+gmina kurow	17ge	
+heathcliff	6h3q	
+heathcliff earnshaw	6h3q	
+heathcliff wuthering heights	6h3q	
+henry son of edward i	1s80	
+henry son of robert i of burgundy	54j1	
+hofer helmut	6aes	
+husbandry	376m	
+izenkot	466o	
+jackwilshere	3ctm	
+james patrick		2qz1:3
+james patrick allison	2lm0	
+james patrick devereux	3l92	
+james patrick donleavy	4m3j	
+james patrick francis o malley	1c74	
+james patrick hogan	ujb	
+james patrick hogan filmmaker	ujb	
+james patrick j t walsh	sdu	
+james patrick kelly	2qz1	
+james patrick mccarthy	42am	
+james patrick mcgranery	5fz6	
+james patrick o malley	1c74	
+james patrick page	b3s	
+james patrick page obe	b3s	
+james patrick sheridan	1kdy	
+james patrick sinnott devereux	3l92	
+john irving	14it	
+john milnor	1bv1	
+joxe		5lll:2
+joxe azurmendi	5lll	
+joxe azurmendi otaegi	5lll	
+kaiji	3rwb	
+kaiji 2 hakairoku hen	3rwb	
+kaiji anime	3rwb	
+kaiji hakairoku hen	3rwb	
+kaiji manga	3rwb	
+krajnicko	454o	
+la marica	304u	
+lammerville	2v6g	
+laumon	63bq	
+levon	3bx8	16q4:2,3bx8:2,4mr1:2,4o9s:3,5h4e:2,5j5y:2,5r8h:2
+levon a ter petrosyan	4o9s	
+levon airapetian	5h4e	
+levon akopovich ter petrosyan	4o9s	
+levon and the hawks	i24	
+levon aronian	3bx8	
+levon aronyan	3bx8	
+levon der bedrossian	4o9s	
+levon grigor aronian	3bx8	
+levon hayrapetyan	5h4e	
+levon helm	16q4	
+levon helm band	16q4	
+levon helm s rco all stars	16q4	
+levon i of armenia	4lwa	
+levon ii	1q0d	
+levon ii of armenia	1q0d	
+levon ii of armenia king	1q0d	
+levon ii the magnificent	4lwa	
+levon larents	5j5y	
+levon orbeli	1oyo	
+levon pachadzhyan	4mr1	
+levon pachajyan	4mr1	
+levon pashalian	5r8h	
+levon ter		4o9s:3
+levon ter petrosian	4o9s	
+levon ter petrosjan	4o9s	
+levon ter petrossian	4o9s	
+levon ter petrossyan	4o9s	
+levon ter petrosyan	4o9s	
+levon the hawks	i24	
+levon the magnificent	4lwa	
+levon v lusignan	5ual	
+levon v lusignan of armenia	5ual	
+levon v of armenia	5ual	
+levon vi	5ual	
+lilly	17ns	258l:9,2734:7,3za7:2,4zrt:2,5tam:2,6htl:2
+lilly allan	q9c	
+lilly allen	q9c	
+lilly becher	5tam	
+lilly eli	65ag	
+lilly first name	17ns	
+lilly given name	17ns	
+lilly james	4ojo	
+lilly lake	1t5p	
+lilly laronette	2uwk	
+lilly moscovitz	1f4w	
+lilly pons	42gx	
+lilly rabe	2aln	
+lilly reich	4zrt	
+lilly rose cooper	q9c	
+lilly s purple plastic purse	3x7s	
+lilly the		258l:9,2734:7
+lilly the fighting temptations	1fgi	
+lilly the witch		258l:9,2734:7
+lilly the witch the		258l:9,2734:7
+lilly the witch the dragon		258l:9
+lilly the witch the dragon and		258l:9
+lilly the witch the dragon and the		258l:9
+lilly the witch the dragon and the magic		258l:9
+lilly the witch the dragon and the magic book	258l	
+lilly the witch the journey		2734:7
+lilly the witch the journey to		2734:7
+lilly the witch the journey to mandolan	2734	
+lilly tomlin	ma5	
+lilly turner	3za7	
+lilly wachowski	6htl	
+lilly wing	69id	
+ljmu	dr3	
+lucemburkove	ni4	
+martys	r13	
+merely		4zd0:3
+merely a theory	6tx	
+merely mary		4zd0:3
+merely mary ann	4zd0	
+meung		1bu5:3
+meung sur		1bu5:3
+meung sur loire	1bu5	
+michael moestlin	5q1c	
+monochlamydeae	6eqo	
+moussais la bataille	2awt	
+negredo alvaro	3k3y	
+nizhalgal		1bcc:2
+nizhalgal ravi	1bcc	
+oberkochen	5acv	
+oikiqtaluk	tn8	
+opfikon	3h2j	
+opfikon switzerland	3h2j	
+opfikon zh	3h2j	
+opfikon zuerich	3h2j	
+opfikon zurich	3h2j	
+oriora pistoia	6b24	
+parigny	3bay	38uq:3,38wi:3
+parigny la		38uq:3
+parigny la rose	38uq	
+parigny les		38wi:3
+parigny les vaux	38wi	
+parigny loire	3bay	
+parsley elementary	6a2	
+parsley family	b0z	
+pkwn	51qi	
+postie	323o	
+princess johanna		2ux6:6
+princess johanna charlotte		2ux6:6
+princess johanna charlotte of		2ux6:6
+princess johanna charlotte of anhalt		2ux6:6
+princess johanna charlotte of anhalt dessau	2ux6	
+prudy pingleton	1q4i	
+pudukottai	20e2	
+pudukottai district	5v6	
+qualcuno piace calvo	2pwz	
+raban jonathan	3rii	
+raban maur	3kmn	
+robert kershner	50mw	
+sachin	1msp,298t	ib2:3,jdd:2,12sy:2,1qpf:2,3elw:3,6b57:2
+sachin actor	12sy	
+sachin bhowmick	jdd	
+sachin bhowmik	jdd	
+sachin dev		ib2:3
+sachin dev burman	ib2	
+sachin dev burman comments	ib2	
+sachin dev burman version 2	ib2	
+sachin dev burman version 3	ib2	
+sachin dev s d burman	ib2	
+sachin given name	1msp	
+sachin gupta	6b57	
+sachin khedekar	1qpf	
+sachin pas de calais	298t	
+sachin pilgaonkar	12sy	
+sachin r		3elw:3
+sachin r tendulkar	3elw	
+sachin ramesh tendulkar	3elw	
+sachin tandulkar	3elw	
+sachin the maestro	3elw	
+saint neots	wa8	
+sarnonico	1z0i	
+secessionstil	1zc7	
+sigoyer	1tlt,25fq	
+sigoyer alpes de haute provence	25fq	
+sigoyer hautes alpes	1tlt	
+since	5tbj	tcu:4,4za0:4,52oj:6
+since film	5tbj	
+since i		52oj:6
+since i don		52oj:6
+since i don t		52oj:6
+since i don t have		52oj:6
+since i don t have you	52oj	
+since u		4za0:4
+since u been		4za0:4
+since u been gone	4za0	
+since u been gone kelly clarkson song	4za0	
+since you		tcu:4
+since you been gone kelly clarkson song	4za0	
+since you ve been gone kelly clarkson song	4za0	
+since you went		tcu:4
+since you went away	tcu	
+since you went away film	tcu	
+sir massey		4ze0:5
+sir massey lopes	4ze0	4ze0:5
+sir massey lopes 3rd		4ze0:5
+sir massey lopes 3rd baronet	4ze0	
+snap	2eoy	2bet:2
+snap band	2eoy	
+snap cup	1fex	
+snap election	2bet	
+snap elections	2bet	
+snap general election	2bet	
+snap in	4kkj	
+snap poll	2bet	
+snap wilson	6hch	
+snap ya fingaz	df2	
+sorbier	2yse	
+steingaden	5dw8	
+sternkopf michael	5iuo	
+suaigil	16mm	
+suphanuvong	4hf3	
+sydneyuni	12d	
+sziget	191e	191e:2
+sziget festival	191e	
+sziget fesztival	191e	
+tekstilschik ivanovo	7kf	
+tekstilschik kostroma	6gj	
+termalica nieciecza	it1	
+the archangel	35ap	
+the archangel gabriel	3vcq	
+the breakfast		1uxh:3
+the breakfast club	1uxh	
+the breakfast club film	1uxh	
+the breakfast club soundtrack	1uxh	
+the breakfast monkey	2lzf	
+the overlook		4wer:3
+the overlook hotel	2wa7	
+the overlook press	4wer	
+the yards	2cs5	
+thomas osborne davis	4cg3	
+thomas osborne davis irish politician	4cg3	
+thomas osborne davis young irelander	4cg3	
+tida	6hrg	
+transvision		3nda:2
+transvision vamp	3nda	
+transvision vamp band	3nda	
+trotsky	5tdb	5tdb:2
+trotsky district	3uc1	
+tsunkatse	4kds	
+tsunkatse star trek voyager	4kds	
+tsunkatse voyager episode	4kds	
+turri	2jv8	
+ultor exposed	54tc	
+undeb credyd plaid cymru	q1y	
+undeb yr annibynwyr cymraeg	c9w	
+vaesterlangatan	2rj9	
+varnalis	3e0a	
+waff	5drm	
+waruzol	ehy	
+wittlich	3n6u	
+xula	pdz	

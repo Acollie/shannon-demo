@@ -1,0 +1,454 @@
+1668		1e1p:4
+1668 mm		1e1p:4
+1668 mm track		1e1p:4
+1668 mm track gauge	1e1p	
+76 ers	2bc	
+abrahamsson	59eh	
+ajofrin	3gw0	
+ajofrin spain	3gw0	
+ajofrin toledo	3gw0	
+ambarussa	6bhv	
+anticoli		46un:2
+anticoli corrado	46un	
+anticoli di campagna	1etq	
+antiradiation missile	5e2y	
+antivirals	vel	
+armament development and test center	5rzt	
+armament division usaf	5rzt	
+armament manufacturer	73g	
+artaxiads	44wx	
+atentat	5rw2	
+atentat film	5rw2	
+atentat u sarajevu	1iix	
+atentat u sarajevu 1975	1iix	
+avaldsnes		1f64:2
+avaldsnes il	1f64	
+axolotl cryptography	5uxv	
+axolotl protocol	5uxv	
+azmat al suwais	33ai	
+baptizer	1nfd	
+barves	162	
+basinym	om	
+bath	228,tb1,3klc,4vmu,6h5j	3vb:4,5it:2,5zt:5,9so:3,1cbj:2,2bwy:3,2ctb:2,5qxj:4
+bath additives	3ogo	
+bath and		5zt:5
+bath and ne somerset	5zt	
+bath and north		5zt:5
+bath and north east		5zt:5
+bath and north east somerset	5zt	
+bath and north east somerset ua	5zt	
+bath and northeast somerset	5zt	
+bath avon	228	
+bath body		5qxj:4
+bath body works		5qxj:4
+bath body works inc	5qxj	
+bath borough	228	
+bath boy	4f8h	
+bath city	3vb	3vb:4
+bath city f		3vb:4
+bath city f c	3vb	
+bath city fc	3vb	
+bath city football club	3vb	
+bath college of higher education	2bwy	
+bath complexes	2g1a	
+bath corporation	228	
+bath county	1cbj,2ctb	
+bath county kentucky	2ctb	
+bath county ky	2ctb	
+bath county va	1cbj	
+bath county virginia	1cbj	
+bath england	228	
+bath football club	5it	
+bath house	2g1a	
+bath in the barn	3tn7	3tn7:5,58sz:5
+bath iron		9so:3
+bath iron works	9so	
+bath ironworks	9so	
+bath maine	tb1	
+bath me	tb1	
+bath new york	4vmu	
+bath north east somerset	5zt	
+bath ny	4vmu	
+bath party	jz3	
+bath preparations	3ogo	
+bath r f c	5it	
+bath rfc	5it	
+bath room	5ema	
+bath rugby	5it	
+bath rugby club	5it	
+bath sheba	62td	
+bath shua	62td	
+bath somerset	228	
+bath somersetshire	228	
+bath spa		2bwy:3
+bath spa university	2bwy	
+bath spa university college	2bwy	
+bath spa university students union	2bwy	
+bath town new york	4vmu	
+bath town ny	4vmu	
+bath town steuben county new york	4vmu	
+bath tub	6h5j	
+bath uk	228	
+bath uk city	228	
+bath university	as9	
+bath university of technology	as9	
+bath university students union	as9	
+bath village new york	3klc	
+bath village ny	3klc	
+bath village steuben county new york	3klc	
+benadir	2lhz	
+beneixida	4lrf	
+bonemender	1rss	
+breechloading	3xc3	
+breechloading carbines	3xc3	
+brialy	a5m	
+campaigns		1qg3:4
+campaigns in north africa	kua	
+campaigns of		1qg3:4
+campaigns of ashurbanipal	66ey	
+campaigns of john i komnenos	1pmj	
+campaigns of muhammad ali of egypt	31s0	
+campaigns of nader		1qg3:4
+campaigns of nader shah	1qg3	
+carica despina	4ian	
+carica milica	2m7q	
+castelvetere		51bv:4,51jf:3
+castelvetere in		51bv:4
+castelvetere in val		51bv:4
+castelvetere in val fortore	51bv	
+castelvetere sul		51jf:3
+castelvetere sul calore	51jf	
+castiglion		1w3b:2,4guh:2
+castiglion dora	1y8k	
+castiglion fibocchi	4guh	
+castiglion fiorentino	1w3b	
+castiglion fiorentino italy	1w3b	
+categoria		mx6:3,163e:3
+categoria primera		mx6:3,163e:3
+categoria primera a	mx6	
+categoria primera b	163e	
+cheval		1cws:2
+cheval blanc	1cws	
+cheval glass	xdj	
+chiron moonlight	u5i	
+civitate	38pz	
+clarithromycine	cao	
+coralline limestone	2x8	
+corybas	1ox0	
+corybas genus	1ox0	
+corybas orchid	1ox0	
+corybas plant	1ox0	
+dahomey national football team	6wz	
+darida minsk raion	j9d	
+dbenbow sandbox	5hvl	
+diddley beat	seh	
+doornkuil	5axk	
+doornkuil western cape	5axk	
+dorsin	3far	
+dukovany	2y8c	
+ears	5tha	
+ears nose mouth and throat	114v	
+edward gough whitlam	1474	
+elson	49hd	51uq:2
+elson beiruth	51uq	
+elson falcao da silva	49hd	
+elson iazegi beyruth	51uq	
+emotionally	iht	
+emotionally unstable personality disorder	14bi	
+eskisehir	bel	cyg:2
+eskisehir basket	3q3h	
+eskisehir province	cyg	
+eskisehir turkey	bel	
+ewu	48my	
+fleuret	3mll	
+fransuaza sagan	1mta	
+frechen	1n09	
+george chakiris	19iq	
+george murcell	327r	
+gintaras		3wkd:2,43vq:2
+gintaras einikis	3wkd	
+gintaras stauce	43vq	
+gmina ujscie	29nx	
+guild film awards	3uqn	
+guild of professional english butlers	6bzf	
+guild of television producers and directors	9jb	
+guild of television producers and directors awards	13xs	
+guild television	1fx	
+guild television birmingham	1fx	
+guild tv	1fx	
+gungadin	18g4	
+haimbachia	1hwz	
+harrisburgh county tx	bes	
+hendes		43dl:3
+hendes store		43dl:3
+hendes store aften	43dl	
+hev suit	6fym	
+honegger	j7f	
+honegger arthur	j7f	
+horley	2c3a	
+horley surrey	2c3a	
+hroudland	4mw4	
+huanderson	59z1	
+hunterdon	knc	knc:2
+hunterdon county	knc	
+hunterdon county new jersey	knc	
+hunterdon county nj	knc	
+iguassu river	4irr	
+immerath erkelenz	33lo	
+inclement weather	28ep	
+inverigo	1kwn	
+ipomopsis	69b4	
+ivoirien	k4	
+james peay iii	66v5	
+jiangsu	62f	9m6:3,1pwx:2
+jiangsu administrative territories	62f	
+jiangsu china	62f	
+jiangsu classic	67m3	
+jiangsu dragons	1pwx	
+jiangsu f		9m6:3
+jiangsu f c	9m6	
+jiangsu guoxin sainty	9m6	
+jiangsu guoxin sainty f c	9m6	
+jiangsu maint	9m6	
+jiangsu nan gang	1pwx	
+jiangsu nan gang dragons	1pwx	
+jiangsu nangang	1pwx	
+jiangsu nangang dragons	1pwx	
+jiangsu nangang dragons nanjing	1pwx	
+jiangsu nanjing intercity railway	3u8u	
+jiangsu province	62f	
+jiangsu sainty f c	9m6	
+jiangsu shuntian	9m6	
+jiangsu suning	9m6	
+jiangsu suning f c	9m6	
+jiangsu suning fc	9m6	
+jisho juei no ran	4689	
+jisho juei war	4689	
+john hardy geneticist	6dxn	
+john hardy sr	5s23	
+karlo	119t	3vfv:2
+karlo bulic	3vfv	
+karlo krivelli	185b	
+karlo robert	1h80	
+kinnikuman	2g8g	
+kinnikuman film	2g8g	
+kirshehir	n5n	
+km94	3b30	
+la ciotat	pz9	
+laetitia	1wg5	23ff:2
+laetitia casta	23ff	
+laetitia devereux	23q1	
+laetitia dudley	23q1	
+laetitia first name	1wg5	
+laetitia given name	1wg5	
+laetitia knollys	23q1	
+laetitia maria	5hdw	
+laetitia maria of belgium	5hdw	
+laetitia marie laure casta	23ff	
+laetitia ramolino	1u7j	
+landgraefin	3w65	
+larroque	1eld,29jq,3hv6	2a8i:4,2vhj:3,33r4:2
+larroque haute garonne	1eld	
+larroque hautes pyrenees	29jq	
+larroque saint		2vhj:3
+larroque saint sernin	2vhj	
+larroque sur		2a8i:4
+larroque sur l		2a8i:4
+larroque sur l osse	2a8i	
+larroque tarn	3hv6	
+larroque toirac	33r4	
+lhokseumawe	4egf	
+lhokseumawe city	4egf	
+likhachev factory	1dkk	
+limingo	1udo	
+louis francoeur	61sr	
+maedbh	47a3	
+malaga	3bf	3yd:2,7w4:2,40mp:3
+malaga b	acf	
+malaga c f	3yd	
+malaga capital	3bf	
+malaga cb	ck4	
+malaga cf	3yd	
+malaga cf b	acf	
+malaga city	3bf	
+malaga club de futbol	3yd	
+malaga cove	2t4r	
+malaga del		40mp:3
+malaga del fresno	40mp	
+malaga del fresno guadalajara	40mp	
+malaga del fresno spain	40mp	
+malaga malaga	3bf	
+malaga province	7w4	
+malaga spain	3bf	
+maratea	23na	
+mcanespie steve	5ljf	
+mcwright	1t13	
+mochizuki	3jgn	
+mondorf	3p4b	3p4b:3
+mondorf les		3p4b:3
+mondorf les bains	3p4b	
+montboyer	1xsu	
+morter weapon	gu8	
+mouchamps	1d9b	
+niebuhr	50yr	
+niebuhr barthold georg	3ti4	
+niketas nobelissimos	3fwq	
+ocwirk	3uai	
+onesse		42qb:2
+onesse et laharie	42qb	
+onesse laharie	42qb	
+partnerships	wz2	
+pasthun	ks8	
+paul gustave marie camille hazard	5l41	
+peter velits	1zbu	
+petion		1jdg:2
+petion ville	1jdg	
+porche	ft3	
+porzson	4s1d	
+powder	2jmr,6eud	3ij1:2,3txg:3,5c8i:2,5kip:2
+powder blue	5c8i	
+powder blue film	5c8i	
+powder film	2jmr	
+powder finger	q3g	
+powder keg film	1vqd	
+powder movie	2jmr	
+powder puff gang	3rmr	3rmr:4
+powder river	5kip	3txg:3
+powder river county	3txg	
+powder river county montana	3txg	
+powder river county mt	3txg	
+powder river film	5kip	
+powder springs	3ij1	
+powder springs ga	3ij1	
+powder springs georgia	3ij1	
+powder substance	6eud	
+powder treason	1sc9	
+psalmist	3nq	
+rajvansh	23i3	
+restoky	4gtc	
+richard allen askey	4iwj	
+richard allen fortey	5398	
+richard allen garriott	12f1	
+richard allen garriott de cayeux	12f1	
+richard allen jefferson	3dvy	
+richard allen lupoff	4jl1	
+richard allen posner	50ut	
+rigolato	538x	
+robert hamer	1rqx	
+robert lees	4zmj	
+robert vivian pound	4d8o	
+robert william		5d3q:3,5mmu:4
+robert william askin	60t2	
+robert william barker	1dsp	
+robert william bob barker	1dsp	
+robert william bob packwood	57x6	
+robert william bob weiss	32rl	
+robert william browne	13pv	
+robert william bunsen	iys	
+robert william chambers	5b8d	
+robert william davis	5d3q	
+robert william edwards	4zxv	
+robert william flay	6bv4	
+robert william fleck	4och	
+robert william fogel	1oqs	
+robert william gary moore	kxl	
+robert william greer	1g0s	
+robert william holley	407u	
+robert william hoskins jr	dnf	
+robert william jones	3lht	
+robert william lamm	5cfk	
+robert william matthews	65dd	
+robert william mountford	4cth	
+robert william packwood	57x6	
+robert william paul	yic	
+robert william rob corddry	s4j	
+robert william rob hulse	4l7r	
+robert william robson	37iz	
+robert william savage	46lu	
+robert william service	4oxn	
+robert william seton		5mmu:4
+robert william seton watson	5mmu	
+robert william taylor	2ma4	
+rowingat2014asiangames	1ij8	
+saint austremoine	3vfj	
+sanaga		5x3z:2
+sanaga maritime	5x3z	
+schostakovich	7p7	
+sedibeng		1xib:3
+sedibeng district		1xib:3
+sedibeng district municipality	1xib	
+selestat	f6h	
+selestat comments	f6h	
+serniki commune	3kfx	
+sheharyar	643x	
+sikyon	1n26	
+sinspawn	6d02	
+sistene chapel	11ux	
+strafgefaengnis ploetzensee	a9k	
+syracruse	1y0	
+tanneron	252e	
+temporals	5ygh	
+tephritid fly	2b8	
+tephritid fruit fly	2b8	
+the aces 8s	3jqk	
+the aces and 8s	3jqk	
+the aces and eights	3jqk	
+the aces eights	3jqk	
+the castle	3qop,3ueu	1t7h:4,2qds:5,380x:4,4zdu:3,61jo:4
+the castle 1964 film	3qop	
+the castle 1997 austrian film	3ueu	
+the castle ball	4zdu	
+the castle beyond the looking glass	196f	
+the castle from		380x:4
+the castle from carpathians	380x	
+the castle in the sky	11jg	
+the castle in transylvania	380x	
+the castle keep	10vw	
+the castle love song	5bnu	
+the castle of		1t7h:4,2qds:5,61jo:4
+the castle of cagliostro	1t7h	
+the castle of fu		2qds:5
+the castle of fu manchu	2qds	
+the castle of iron	61jo	
+the castle of pierle	hlx	
+the castle of sand	4iay	
+the castle of the carpathians	380x	
+the castle of the walking dead	53wn	
+the castle on the hill goudge novel	36pc	
+the castle song	5bnu	
+the charles l feinberg center for messianic jewish studies	ofk	
+the charles l feinberg center for messianic jewishstudies	ofk	
+the charles river	17vy	
+the furry arms	i0b	
+the furry arms hotel	i0b	
+the gays	13xg	
+the perez		4awj:3
+the perez family	4awj	
+the perez family film	4awj	
+the pianist	mpj	
+the pianist 2002 film	mpj	
+the pianist 2002 movie	mpj	
+the pianist film	mpj	
+the pianist movie	mpj	
+the rounders	3s0j,543v	
+the rounders 1914 film	3s0j	
+the rounders 1965 film	543v	
+tignieu		3936:2
+tignieu jameyzieu	3936	
+titovo uzice	8de	
+titovo velenje	17kq	
+tomreves	3ya	
+toodyay	3bzz	
+toodyay western australia	3bzz	
+touhill performing arts center	s22	
+veree teasdale	3jev	
+vesalian	3zbs	
+wetteraukreis	l8g	
+yusefvand	spe	spe:3
+yusefvand rural		spe:3
+yusefvand rural district	spe	
+zhengwei	60s	
+zm	151	
+zm country	151	
+zshare	6cjo	
+zshare net	6cjo	

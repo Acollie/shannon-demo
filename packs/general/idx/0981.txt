@@ -1,0 +1,867 @@
+2	7m3,l1i,oho,pp8,1g12,1hcd,1yg7,2byg,30o0,3716,3cib,4v0z,6dh4	
+2 0	4vin	
+2 0 film	4vin	
+2 00 am	1g12	
+2 00 pm	oho	
+2 000 man	5z68	
+2 000 women	5nuj	
+2 00am	1g12	
+2 00am 3 00am 24 season 1	1qx1	
+2 00pm	oho	
+2 00pm 3 00pm 24 season 1	1qx1	
+2 00pm time for change	oho	
+2 1 2 men	ss0	
+2 10		2gwl:3,62op:3
+2 10 0	2gwl	
+2 10 2	62op	
+2 10 2t	62op	
+2 12 men	ss0	
+2 1z 1 2 amino 1 3 thiazol 4 yl 2 2s 3s 2 methyl 4 oxo 1 sulfoazetidin 3 yl amino 2 oxoethylidene amino oxy 2 methylpropanoic acid	58bp	
+2 2	545j,6855	1jzx:3,6asr:3
+2 2 0 russian	7el	
+2 2 2	1jzx	
+2 2 2st	1jzx	
+2 2 2t	1jzx	
+2 2 2wt	1jzx	
+2 2 3 dichloro 4 2 ethylacryloyl phenoxy acetic acid	519h	
+2 2 3 dichloro 4 2 methylene 1 oxo butyl phenoxy acetic acid	519h	
+2 2 4 2 thia 9 azatricyclo 9 4 0 0 3 8 pentadeca 1 11 3 8 4 6 9 12 14 heptaen 10 yl piperazin 1 yl ethoxy ethan 1 ol	64e3	
+2 2 4 dibenzo b f 1 4 thiazepin 11 yl 1 piperazinyl ethoxy ethanol	64e3	
+2 2 5	6asr	
+2 2 5 song	6asr	
+2 2 5 the lukewarm	6asr	
+2 2010	b4j	
+2 3	xg2	
+2 3 0	7nm	
+2 3 1	9ar	
+2 3 2	35lc	
+2 3 dichloro 4 2 methylene 1 oxobutyl phenoxy acetic acid	519h	
+2 3 view	1ab	
+2 4	7el	xg2:3
+2 4 0	xg2	
+2 4 0 russian	47ua	
+2 4 0st	xg2	
+2 4 0t	xg2	
+2 4 0wt	xg2	
+2 4 1	1y4o	
+2 4 2 russian	1bmo	
+2 4 5 trioxin	20jm	
+2 4 5 trioxin return of the living dead	20jm	
+2 4 difluoro alpha alpha bis 1h 1 2 4 triazol 1 ylmethyl benzyl alcohol	2qe1	
+2 4 diguanidino 3 5 6 trihydroxycyclohexyl 5 deoxy 2 o 2 deoxy 2 methylamino alpha l glucopyranosyl 3 c formyl beta l lyxopentanofuranoside	64nl	
+2 4 million years ago	59r1	
+2 5	3ucn	
+2 5 1 1	652q	
+2 5 men	ss0	
+2 6		jk1:3,38zy:3,5wue:6
+2 6 0	jk1	
+2 6 0t	jk1	
+2 6 2	38zy	5wue:6
+2 6 2 2		5wue:6
+2 6 2 2 6		5wue:6
+2 6 2 2 6 2	5wue	
+2 6 2t	38zy	
+2 6 methoxy 2 naphthyl propionic acid	26tg	
+2 7 avenue express	l1i	
+2 7 avenue white plains road express	l1i	
+2 8		g9i:3,iyr:3,4s33:3
+2 8 0	g9i	
+2 8 0t	g9i	
+2 8 2	iyr	
+2 8 2 comments	iyr	
+2 8 2t	iyr	
+2 8 4	4s33	
+2 8 4t	4s33	
+2 8 sports group	16wq	
+2 a m iron maiden song	5jt8	
+2 acetylamino 3 mercapto propionic acid	63ew	
+2 af	qa5	
+2 air division usaf	1ajb	
+2 air force	qa5	
+2 air force usaf	qa5	
+2 almost prime	6api	
+2 am	1g12	
+2 and 1 2 men	ss0	
+2 b1a4 album	409f	
+2 bad	vf6	
+2 ball	6cbn	
+2 become		5861:3
+2 become 1	5861	
+2 become 1 song	5861	
+2 bloor danforth subway	1av9	
+2 bloor danforth ttc	1av9	
+2 broke		2bnp:3
+2 broke girl	2bnp	
+2 broke girls	2bnp	
+2 bromo alpha ergocryptine	45ux	
+2 brooklyn manhattan transit corporation service	y4l	
+2 brooklynmanhattan transit corporation service	y4l	
+2 bundesliga	gr7	
+2 bundesliga football	gr7	
+2 bundesliga fubball	gr7	
+2 bundesliga fussball	gr7	
+2 bundesliga seasons	gr7	
+2 bundesliga women	36dq	
+2 bundesliga women seasons	36dq	
+2 can div	62og	
+2 cellos	3v6c	
+2 chain	m8y	
+2 chains	m8y	
+2 chainz	m8y	
+2 chloro 10 3 4 2 hydroxyethyl piperazin 1 yl propyl phenothiazine	29vb	
+2 comments	2byg	
+2 cor	429m	
+2 corinthians	429m	
+2 cube	63y	
+2 cycle engine	209r	
+2 day air	2knl	
+2 days		2kol:5,3p73:5
+2 days in		2kol:5,3p73:5
+2 days in new		3p73:5
+2 days in new york	3p73	
+2 days in the		2kol:5
+2 days in the valley	2kol	
+2 deild		szr:3
+2 deild karla	szr	
+2 deild karla football	szr	
+2 deoxy 2 dimethylamino alpha l glucopyranosyl 1 2 5 deoxy 3 c formyl alpha l lyxofuranosyl 1 4 n n 1 3 5 2 4 6 2 4 5 6 tetrahydroxycyclohexane 1 3 diyl diguanidine	64nl	
+2 divisjon	ka2	
+2 door bathroom	5ema	
+2 door cinema club	3c36	
+2 dope band	4yl5	
+2 drunk 2 fuck	4tpo	
+2 drunk 2 fuck tour	4tpo	
+2 ethanoylbenzenecarboxylic acid	qxd	
+2 faced funks	a6b	
+2 fast		yjh:4
+2 fast 2		yjh:4
+2 fast 2 furious	yjh	
+2 february	6fry	
+2 fingers	1n6e	
+2 foot 6 inch gauge	5ca7	
+2 for the money	2qrc	
+2 for the road	1aps	
+2 fotbalova liga	qgx	
+2 frauen		36dq:3
+2 frauen bundesliga	36dq	
+2 ft 6 in gauge railways	5ca7	
+2 fuball bundesliga	gr7	
+2 fuball bundesliga women	36dq	
+2 fuball bundesliga women seasons	36dq	
+2 fussball bundesliga	gr7	
+2 fussball bundesliga women	36dq	
+2 guard	dm	
+2 guns	146p	
+2 half men	ss0	
+2 headed		5n74:4
+2 headed shark		5n74:4
+2 headed shark attack	5n74	
+2 hearts sugababes song	5w79	
+2 hnl	w0v	
+2 joe roth	q3q	
+2 jordana spiro	4k5k	
+2 lane blacktop	2wmt	
+2 letter abbreviation	xir	
+2 lieutenant	7tz	
+2 liga	15bj,4ibg	
+2 liga slovakia	vck	
+2 liga slovakia seasons	vck	
+2 liga switzerland	4ibg	
+2 liiga	26gk	
+2 liiga ida pohi	26gk	
+2 liiga laas louna	26gk	
+2 line new york	l1i	
+2 live		33ey:3
+2 live crew	33ey	
+2 lsip	2nus	
+2 mafiosi contro al capone	1yo7	
+2 manifold	4ds3	
+2 methylamino 1 phenyl 1 propanol	53pk	
+2 michael brown writer	5fxd	
+2 minute silence	ugs	
+2 month	7m3	
+2 n 4 7 chlor 4 chinolylamino 4 methylbutyl ethylamino ethanol	5zo9	
+2 n butyl 3 5 diiodo 4 n diethylaminoethoxy 3 benzoylbenzofuran	dpv	
+2 new york	l1i	
+2 new york city subway	l1i	
+2 new york city subway service	l1i	
+2 new york subway	l1i	
+2 number	2byg	
+2 nycs	l1i	
+2 o film	4vin	
+2 oberliga	1ueu	
+2 of		6g0h:5
+2 of amerikaz		6g0h:5
+2 of amerikaz most		6g0h:5
+2 of amerikaz most wanted	6g0h	
+2 of you	48qc	
+2 once di piombo	51kp	
+2 or 3 things i know about her	3s3m	
+2 ou 3 choses que je sais d elle	3s3m	
+2 p isobutylphenyl propionic acid	1x7g	
+2 p isopropylcarbamoylbenzyl 1 methylhydrazine	w3a	
+2 pac	asi	
+2 paris metro	19vo	
+2 person bobsled	15h	
+2 phenylcyclopropylamine	xxd	
+2 phenylethylhydrazine	11um	
+2 player	64	
+2 playing card	nol	
+2 plus		325k:3
+2 plus 1	325k	
+2 pm	oho	
+2 point 0	4vin	
+2 pole electric motor	dsb	
+2 reeler	c6	
+2 samuel 11	62td	
+2 samuel 5	1hvl	
+2 seventh avenue express	l1i	
+2 short	u6z	
+2 slesvigske krig	1qy7	
+2 snl	11rl	
+2 souls on fire	1gt1	
+2 sphere	1bcn	
+2 states	60uf	
+2 states 2013 film	60uf	
+2 states 2014 film	60uf	
+2 states 2014 film version 2	60uf	
+2 states 2014film	60uf	
+2 states film	60uf	
+2 step		5tsl:3
+2 step garage	5tsl	
+2 sul pianerottolo	52fy	
+2 susan blackmore	505q	
+2 tone		1srs:3
+2 tone records	1srs	
+2 tracks	eg2	
+2 tracks demo	eg2	
+2 train	l1i	
+2 universal studios theme parks	5t6x	
+2 unlimited	10es	
+2 unlimited 2	10es	
+2 unlimited band	10es	
+2 unlimited ii	10es	
+2 weeks notice	3bis	
+2 year college	746	
+857mm	mrr	
+a bell		161n:4
+a bell for		161n:4
+a bell for adano	161n	
+agradut bidyanikaton high school	1jp	
+aiguader	67yq	
+aimargues	1zlk	
+aircraf	8v	
+albanchez	4rul	4wpu:3
+albanchez almeria	4rul	
+albanchez de		4wpu:3
+albanchez de magina	4wpu	
+albanchez de magina jaen	4wpu	
+albanchez de magina spain	4wpu	
+albanchez spain	4rul	
+amabel nevill moseley	3kgg	
+andrews	bm3,imv	imv:2,1mnb:2,2wmh:2,5jll:4
+andrews afb	5jll	
+andrews afb maryland	5jll	
+andrews afb md	5jll	
+andrews air		5jll:4
+andrews air force	5jll	5jll:4
+andrews air force base	5jll	
+andrews air force base md	5jll	
+andrews airforce base	5jll	
+andrews anthony	2mg6	
+andrews county	2wmh	
+andrews county texas	2wmh	
+andrews county tx	2wmh	
+andrews drew	5pur	
+andrews edu	imv	
+andrews edward	129w	
+andrews engelmann	1mnb	
+andrews field maryland	5jll	
+andrews field md	5jll	
+andrews sisters	3hfn	3hfn:3
+andrews surname	bm3	
+andrews texas micropolitan area	2wmh	
+andrews tx micropolitan statistical area	2wmh	
+andrews tx msa	2wmh	
+andrews tx sa	2wmh	
+andrews university	imv	
+andrews university school of business	imv	
+anvil	1wlx	
+anvil band	1wlx	
+anvil city	1l70	
+anvil city ak	1l70	
+anvil city alaska	1l70	
+anvil crawler	3gem	
+anvil game engine	3gcb	
+anvil with the book	410	
+ashmyany district	4brz	
+beckhams	hg4	
+berkhamsted	k9e	
+berkhamsted east	k9e	
+berkhamsted england	k9e	
+berkhamsted hertfordshire	k9e	
+berkhamsted urban district	k9e	
+berkhamsted urban district council	k9e	
+berkhamsted west	k9e	
+beuzevillette	3rqu	
+boaz		n83:2,2bhs:2,3aio:2
+boaz davidson	n83	
+boaz myhill	3aio	
+boaz trakhtenbrot	4nyb	
+boaz van de beatz	356a	
+boaz yakin	2bhs	
+brachiloma	2zu	
+buba sparxxx	5gog	
+calgry	109	
+caracciola	15ch	
+caracciola karussell	r2l	
+cellana	2boe	
+chojnow commune	rm5	
+chukkers	3jq	
+cladistic species	3	
+commezzadura	4yz1	
+conjunctivitis	6er7	
+conjunctivitis bacterial	6er7	
+conjunctivitis viral	6er7	
+csjmu	3xxy	
+darul ehsan	aop	
+darul hukama	5b80	
+darul iman	twy	
+darul khusus	18hh	
+darul makmur	1hlz	
+darul naim	uix	
+darul ridzuan	6vz	
+darul takzim fc	9i2	
+david moberg		4nn8:3
+david moberg karlsson	4nn8	
+david renton	5opx	5opx:4
+david renton baron		5opx:4
+david renton baron renton	5opx	
+defraudation	mia	
+dihydrotheelin	3jlo	
+dilettante	60ub	
+drapur	xa3	
+edward 5	12yv	
+edward eastwick	55af	
+eichstaett	r8k	
+eichstaett district	e38	
+eichstaett unrra displaced persons camp	r8k	
+esposito anthony	3blf	
+eukaryotes	1whg	
+fc vllaznia	5k3	
+fc zheleznodorozhnik mineralnye vody	vty	
+frobozz magic abbreviated dictionary company	4gx6	
+frobozz magic abode company	4gx6	
+frobozz magic abrasives company	4gx6	
+frobozz magic accessory company	4gx6	
+frobozz magic accordian company	4gx6	
+frobozz magic company	4gx6	
+gangan		1q40:3
+gangan rural		1q40:3
+gangan rural district	1q40	
+gmina jeleniewo	16il	
+gmina jutrosin	w2u	
+gmina kanczuga	49m1	
+gmina ochow	xqj	
+goldbach		2aij:2
+goldbach altenbach	2aij	
+goustauos phlomper	nv1	
+groes haff	4jag	
+groes yn eirias	1j09	
+gymnomyrmex	54zt	
+habibollah khan	48em	
+habibollah shah	48em	
+hachiouji	e3q	
+hachiouji tokyo	e3q	
+hajja governorate	fzj	
+hamina	gx5	
+hartlepool	9nd,4okb	1wu:4
+hartlepool borough	4okb	
+hartlepool district	4okb	
+hartlepool england	9nd	
+hartlepool f c	1wu	
+hartlepool fc	1wu	
+hartlepool football club	1wu	
+hartlepool ua	4okb	
+hartlepool united	1wu	1wu:4
+hartlepool united f		1wu:4
+hartlepool united f c	1wu	
+hartlepool united fc	1wu	
+hartlepool utd	1wu	
+heljareyga	4y7s	
+hirosige	3e4d	
+hotonnes	1epy	
+hoyos		3uta:3
+hoyos del		3uta:3
+hoyos del espino	3uta	
+hoyos del espino avila	3uta	
+hoyos del espino spain	3uta	
+icolmkill	1ekv	
+iolonioro		10zu:2
+iolonioro department	10zu	
+iru fushi	1ub	
+iru malargal	6c5u	
+isse	2f8a	
+ivaylo	155s	44e0:2,5eyh:2,5g67:2,5hsu:2,5yza:2
+ivaylo andonov	5g67	
+ivaylo asparuhov	5yza	
+ivaylo dimitrov	5hsu	
+ivaylo dimitrov footballer born 1989	5hsu	
+ivaylo dimitrov forward	5hsu	
+ivaylo first name	155s	
+ivaylo given name	155s	
+ivaylo name	155s	
+ivaylo petev	44e0	
+ivaylo petkov	5eyh	
+ixocincla	4yw1	
+james mcdonald ramsay	19ww	
+jjr2	5dn6	
+john ameche	3pnt	
+john latham	3p70	
+john latham australian jurist	3p70	
+john latham australian politician	3p70	
+john latham judge	3p70	
+john latham jurist	3p70	
+kaisersaurus	15hf	
+kausz	qi4	
+kemijarvi	3mbs	
+kfed	5ajz	
+kikladhes	4y50	
+kingisepp	1ud4	
+kocov	4fn8	
+kostelec	3yrj,45j2	1sxp:4,1tdl:3,232j:3,262l:3,32nz:3,3el4:4,3zt2:3
+kostelec hodonin district	45j2	
+kostelec na		3zt2:3
+kostelec na hane	3zt2	
+kostelec nad		1sxp:4,1tdl:3,232j:3,32nz:3
+kostelec nad cernymi		1sxp:4
+kostelec nad cernymi lesy	1sxp	
+kostelec nad labem	232j	
+kostelec nad orlici	1tdl	
+kostelec nad vltavou	32nz	
+kostelec tachov district	3yrj	
+kostelec u		262l:3,3el4:4
+kostelec u hermanova		3el4:4
+kostelec u hermanova mestce	3el4	
+kostelec u holesova	262l	
+kvc westerlo	67g	
+macropus		5fmm:2
+macropus rufogriseus	5fmm	
+mitsuhiro	2wyq	5aoe:2
+mitsuhiro first name	2wyq	
+mitsuhiro given name	2wyq	
+mitsuhiro oikawa	5aoe	
+motada	fqh	
+muntasser	369y	
+mycenean culture	6h7i	
+mycenean greece	6h7i	
+mycenean greeks	6h7i	
+mycenean period	6h7i	
+newnham		3jy:2
+newnham college	3jy	
+newnham college cambridge	3jy	
+newnham hall	3jy	
+olmedo	1g68	
+olmedo spain	1g68	
+olmedo valladolid	1g68	
+ommeray	2gpi	
+orkhei	1e2a	
+papigno	ahq	
+pasapalabra	5a2u	
+piller michael	38qw	
+printmaking	2kx7	
+rakovski ruse	eb3	
+rgional cuisine	17av	
+robert boyd holbrook	2cex	
+royaume de france	46h	
+royaume de navarre	z6f	
+royaume ditalie	35eh	
+royaume uni	4	
+saint gregory	1qb7	
+saint gregory i	1qb7	
+saint gregory i the great	1qb7	
+saint gregory nazianzen	1nti	
+saint gregory nazianzus	1nti	
+saint gregory of nyssa	3azn	
+saint gregory of tours	624x	
+saint gregory palamas	5yvm	
+saint gregory the great	1qb7	
+saltriver	27tb	
+sayyida fatima	z15	
+sayyida salme	5f2t	
+short	c6	c6:2,cn:2,2qo:2,2t3:3,3dw:4,wpp:2,12wr:2,1igo:2,29ej:3,2ufy:2,36et:3,387c:2,3xf1:14,4b2h:5,4gel:14,4lwo:4,4npj:14,4r6m:14,4x8h:14,55ga:4,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short and harland	wpp	
+short back and palais glide	way	
+short biplane no 3	wpp	
+short bow	6h52	
+short break	1xm	
+short brothers	wpp	
+short brothers harland	wpp	
+short brothers plc	wpp	
+short bus blink 182 album	le9	
+short bus blink 182 split	le9	
+short circuit	1igo,387c	29ej:3
+short circuit 1	1igo	
+short circuit 1 film	1igo	
+short circuit 1943 film	387c	
+short circuit 1986 film	1igo	
+short circuit 2	29ej	
+short circuit 2 film	29ej	
+short circuit 3 film	1igo	
+short circuit daft punk song	5q8j	
+short circuit i	1igo	
+short circuit i film	1igo	
+short circuit ii	29ej	
+short circuit ii film	29ej	
+short circuit iii film	1igo	
+short circuit main theme	1igo	
+short circuit original motion picture soundtrack	1igo	
+short con	5b0p	
+short cons	5b0p	
+short crust	5xih	
+short crust pastry	5xih	
+short cut		55ga:4
+short cut to		55ga:4
+short cut to hell	55ga	
+short cuts	12wr	
+short cuts film	12wr	
+short distance running	5pj	
+short dog	u6z	
+short elvis	15o4	
+short f5 felixstowe	5jrn	
+short fiction	cn	
+short film	c6	
+short film about killing	4769	
+short film novelty	3n6	
+short films	c6	
+short hills	2ufy	
+short hills new jersey	2ufy	
+short hills nj	2ufy	
+short horned flies	5eg9	
+short lane	16um	
+short lane stadium	16um	
+short magazine lee enfield	3wvs	
+short magazine leeenfield	3wvs	
+short movie	c6	
+short movies	c6	
+short night		4b2h:5
+short night of		4b2h:5
+short night of glass		4b2h:5
+short night of glass dolls	4b2h	
+short night of the glass dolls	4b2h	
+short nights of the shadow catcher	5yx6	
+short novel	1y	
+short of breath	35hy	
+short order chef	120	
+short order cook	59q	
+short order egg splode	ggg	
+short order eggsplode	ggg	
+short pack	nol	
+short parliament	2qo	
+short pastry	5xih	
+short period comet	fht	
+short period comets	fht	
+short play	kdr	
+short player	kdr	
+short playing	kdr	
+short playing records	kdr	
+short range		4lwo:4
+short range ballistic		4lwo:4
+short range ballistic missile	4lwo	
+short range ballistic missiles	4lwo	
+short range missile	4lwo	
+short s 25 sunderland mkiii w4026	13nj	
+short season	4ljg	
+short season a	4ljg	
+short season league	4ljg	
+short sight	v4q	
+short sighted	v4q	
+short sightedness	v4q	
+short skirt	185d	
+short stop	4zw	
+short stories	cn	
+short stories by jack london	dbr	
+short stories of the norse saga technique	6ck5	
+short story	cn	2t3:3
+short story collection	2t3	
+short story collections	cn	
+short story writer	cn	
+short story writers	cn	
+short subject film	c6	
+short subjects	c6	
+short tailed		36et:3
+short tailed opossum	36et	
+short tales of icelanders	6ck5	
+short tau inversion recovery	4lcs	
+short term memory loss	ez1	
+short term shaadi	589j	
+short tony	j13	
+short track		3dw:4,3xf1:14,4gel:14,4npj:14,4r6m:14,4x8h:14,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short track skating	3dw	
+short track speed		3dw:4,3xf1:14,4gel:14,4npj:14,4r6m:14,4x8h:14,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short track speed skater	3dw	
+short track speed skaters	3dw	
+short track speed skating	3dw	3xf1:14,4gel:14,4npj:14,4r6m:14,4x8h:14,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short track speed skating at		3xf1:14,4gel:14,4npj:14,4r6m:14,4x8h:14,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short track speed skating at the		3xf1:14,4gel:14,4npj:14,4r6m:14,4x8h:14,568p:14,5ay4:14,5isq:14,5onm:14,5ru0:14,61hn:14,61jp:14,628r:14
+short track speed skating at the 1992		5isq:14,628r:14
+short track speed skating at the 1992 winter		5isq:14,628r:14
+short track speed skating at the 1992 winter olympics		5isq:14,628r:14
+short track speed skating at the 1992 winter olympics men		628r:14
+short track speed skating at the 1992 winter olympics men s		628r:14
+short track speed skating at the 1992 winter olympics men s 5000		628r:14
+short track speed skating at the 1992 winter olympics men s 5000 metre		628r:14
+short track speed skating at the 1992 winter olympics men s 5000 metre relay	628r	
+short track speed skating at the 1992 winter olympics women		5isq:14
+short track speed skating at the 1992 winter olympics women s		5isq:14
+short track speed skating at the 1992 winter olympics women s 3000		5isq:14
+short track speed skating at the 1992 winter olympics women s 3000 metre		5isq:14
+short track speed skating at the 1992 winter olympics women s 3000 metre relay	5isq	
+short track speed skating at the 1994		4x8h:14,5onm:14
+short track speed skating at the 1994 winter		4x8h:14,5onm:14
+short track speed skating at the 1994 winter olympics		4x8h:14,5onm:14
+short track speed skating at the 1994 winter olympics men		5onm:14
+short track speed skating at the 1994 winter olympics men s		5onm:14
+short track speed skating at the 1994 winter olympics men s 5000		5onm:14
+short track speed skating at the 1994 winter olympics men s 5000 metre		5onm:14
+short track speed skating at the 1994 winter olympics men s 5000 metre relay	5onm	
+short track speed skating at the 1994 winter olympics women		4x8h:14
+short track speed skating at the 1994 winter olympics women s		4x8h:14
+short track speed skating at the 1994 winter olympics women s 3000		4x8h:14
+short track speed skating at the 1994 winter olympics women s 3000 metre		4x8h:14
+short track speed skating at the 1994 winter olympics women s 3000 metre relay	4x8h	
+short track speed skating at the 1998		568p:14
+short track speed skating at the 1998 winter		568p:14
+short track speed skating at the 1998 winter olympics		568p:14
+short track speed skating at the 1998 winter olympics women		568p:14
+short track speed skating at the 1998 winter olympics women s		568p:14
+short track speed skating at the 1998 winter olympics women s 3000		568p:14
+short track speed skating at the 1998 winter olympics women s 3000 metre		568p:14
+short track speed skating at the 1998 winter olympics women s 3000 metre relay	568p	
+short track speed skating at the 2002		3xf1:14,4npj:14
+short track speed skating at the 2002 winter		3xf1:14,4npj:14
+short track speed skating at the 2002 winter olympics		3xf1:14,4npj:14
+short track speed skating at the 2002 winter olympics men		3xf1:14
+short track speed skating at the 2002 winter olympics men s		3xf1:14
+short track speed skating at the 2002 winter olympics men s 5000		3xf1:14
+short track speed skating at the 2002 winter olympics men s 5000 metre		3xf1:14
+short track speed skating at the 2002 winter olympics men s 5000 metre relay	3xf1	
+short track speed skating at the 2002 winter olympics women		4npj:14
+short track speed skating at the 2002 winter olympics women s		4npj:14
+short track speed skating at the 2002 winter olympics women s 3000		4npj:14
+short track speed skating at the 2002 winter olympics women s 3000 metre		4npj:14
+short track speed skating at the 2002 winter olympics women s 3000 metre relay	4npj	
+short track speed skating at the 2006		4gel:14,61hn:14
+short track speed skating at the 2006 winter		4gel:14,61hn:14
+short track speed skating at the 2006 winter olympics		4gel:14,61hn:14
+short track speed skating at the 2006 winter olympics men		61hn:14
+short track speed skating at the 2006 winter olympics men s		61hn:14
+short track speed skating at the 2006 winter olympics men s 5000		61hn:14
+short track speed skating at the 2006 winter olympics men s 5000 metre		61hn:14
+short track speed skating at the 2006 winter olympics men s 5000 metre relay	61hn	
+short track speed skating at the 2006 winter olympics women		4gel:14
+short track speed skating at the 2006 winter olympics women s		4gel:14
+short track speed skating at the 2006 winter olympics women s 3000		4gel:14
+short track speed skating at the 2006 winter olympics women s 3000 metre		4gel:14
+short track speed skating at the 2006 winter olympics women s 3000 metre relay	4gel	
+short track speed skating at the 2010		4r6m:14,61jp:14
+short track speed skating at the 2010 winter		4r6m:14,61jp:14
+short track speed skating at the 2010 winter olympics		4r6m:14,61jp:14
+short track speed skating at the 2010 winter olympics men		61jp:14
+short track speed skating at the 2010 winter olympics men s		61jp:14
+short track speed skating at the 2010 winter olympics men s 5000		61jp:14
+short track speed skating at the 2010 winter olympics men s 5000 metre		61jp:14
+short track speed skating at the 2010 winter olympics men s 5000 metre relay	61jp	
+short track speed skating at the 2010 winter olympics women		4r6m:14
+short track speed skating at the 2010 winter olympics women s		4r6m:14
+short track speed skating at the 2010 winter olympics women s 3000		4r6m:14
+short track speed skating at the 2010 winter olympics women s 3000 metre		4r6m:14
+short track speed skating at the 2010 winter olympics women s 3000 metre relay	4r6m	
+short track speed skating at the 2014		5ay4:14,5ru0:14
+short track speed skating at the 2014 winter		5ay4:14,5ru0:14
+short track speed skating at the 2014 winter olympics		5ay4:14,5ru0:14
+short track speed skating at the 2014 winter olympics men		5ru0:14
+short track speed skating at the 2014 winter olympics men s		5ru0:14
+short track speed skating at the 2014 winter olympics men s 5000		5ru0:14
+short track speed skating at the 2014 winter olympics men s 5000 metre		5ru0:14
+short track speed skating at the 2014 winter olympics men s 5000 metre relay	5ru0	
+short track speed skating at the 2014 winter olympics women		5ay4:14
+short track speed skating at the 2014 winter olympics women s		5ay4:14
+short track speed skating at the 2014 winter olympics women s 3000		5ay4:14
+short track speed skating at the 2014 winter olympics women s 3000 metre		5ay4:14
+short track speed skating at the 2014 winter olympics women s 3000 metre relay	5ay4	
+short wave transmitter	hd2	
+shotgun	h3e	
+shotgun 1968 film	5x61	
+shotgun mic	4c1g	
+shotgun microphone	4c1g	
+shotgun mike	4c1g	
+shotgun shooting sports	220	
+shotgun willie	47k	
+showbox	foo	foo:3
+showbox co		foo:3
+showbox co ltd	foo	
+showbox mediaplex	foo	
+showbox mediaplex co inc	foo	
+simplamox	22z0	
+sonnie		36lh:2
+sonnie hale	36lh	
+sooraj		5n02:3
+sooraj barjatya	5n02	
+sooraj r		5n02:3
+sooraj r barjatya	5n02	
+sooraj r barjatya films	5n02	
+souillac	14ct	
+souillac lot	14ct	
+st chris	1t71	
+stache media	1scx	
+stache zedd song	1h6e	
+statoid	754	
+su	2g,18vr	
+su 1 dezembro	1e9v	
+su 1 o de dezembro	1e9v	
+su 17	1tqy	
+su 17 fitter	1tqy	
+su 19	vpf	
+su 1o dezembro	1e9v	
+su 20	1tqy	
+su 20 fitter	1tqy	
+su 22	1tqy	
+su 22 fitter	1tqy	
+su 24	vpf	
+su 24 fencer	vpf	
+su 24m	vpf	
+su 25	1901	
+su 25 frogfoot	1901	
+su 25utg	1901	
+su 27	164y	
+su 27 family	164y	
+su 27 flanker	164y	
+su 27skm	164y	
+su 39	1901	
+su abu	6hka	
+su agen	bo5	bo5:5
+su agen lot		bo5:5
+su agen lot et		bo5:5
+su agen lot et garonne	bo5	
+su basciu	4yrr	
+su bingtian	4p9b	
+su bintian	4p9b	
+su bo	3xly	
+su carcione de uresi	4yrr	
+su chef	120	
+su chow	3uq	
+su country	2g	
+su county	3t1f	
+su dennaru	4yrr	
+su di	3xsf	
+su durdurinu	4yrr	
+su e giu	5a29	
+su excelencia	5ku8	
+su fi	2htr	
+su gi kim	5jtt	
+su gippone	4yrr	
+su jeong lim	2q7p	
+su ji bae	39pq	
+su khyim	h0p	
+su ki kim	5jtt	
+su kizlari elinden	5ltd	
+su ko la ti	jjg	
+su mejor		27nv:3
+su mejor alumno	27nv	
+su metal	4h7v	
+su passu torrau	4yrr	
+su se	2ql	
+su su su super kirei	1bcu	
+su su super kirei	1bcu	
+su super kirei	1bcu	
+su tchuen	6pf	
+su wei hsieh	19oo	
+su yongkang	6658	
+su you peng	3dxh	
+su young	3ldn	
+su youpeng	3dxh	
+su zhu	4cbw	
+su zong	3dd8	
+talbert california	ji6	
+tapsee pannu	1jju	
+the bodley		f7u:3
+the bodley head	f7u	
+the chainsmokers	4ac6	
+the fighter	1e62	
+the fighter 2	1e62	
+the fighter 2010 film	1e62	
+the henson company	1oii	
+themata of byzantium	12vl	
+themata of the byzantine empire	12vl	
+timao	209	
+tjele	ew4	
+tmobile	68zm	
+tmobile usa	31mj	
+transgendered male bodied	4ymb	
+tyenchen vobga	4j7d	
+valerien		5nk1:2
+valerien ismael	5nk1	
+vellevans	2kwy	
+veni vidi vici song	1ucd	
+victory	36l7,47l7,6g0g	4y5:2,y57:4,1c0y:2,1clt:2,1iyu:3,24lm:2,2v3w:3,5s9o:2
+victory 1919 film	47l7	
+victory 1981 film	qnd	
+victory 1995 film	36l7	
+victory 1996 film	36l7	
+victory at		2v3w:3
+victory at entebbe	2v3w	
+victory column	1c0y	
+victory day mozambique	17f	
+victory f c	9d6	
+victory for the magpie	4ffs	
+victory games	1ijl	
+victory gin	1700	
+victory highway	1oxj	
+victory in europe cup	1i6	
+victory korea	ng1	
+victory life center	juw	
+victory life centre	juw	
+victory march	24lm	
+victory march film	24lm	
+victory model school jhang	2evi	
+victory mountains	1clt	
+victory movie	qnd	
+victory not vengeance	2022	
+victory of auerstadt	5uhb	
+victory of auerstaedt	5uhb	
+victory of bouvines	4j2z	
+victory of faith	2812	
+victory of faith film	2812	
+victory of the faith	2812	
+victory order	3fys	
+victory pictures	70n	
+victory pillar	1c0y	
+victory puff daddy song	6g0g	
+victory records	4y5	
+victory sc	1iyu,5s9o	
+victory shaft	31nc	
+victory sportif club	5s9o	
+victory sports		1iyu:3
+victory sports club	1iyu	
+victory through		y57:4
+victory through air		y57:4
+victory through air power	y57	
+victory through air power film	y57	
+victory through air power movie	y57	
+victory venkatesh	dna	
+victory world christian school	168m	
+viticultural wine	s4o	
+wifsta ostrand fagerviks if	yfn	
+wifsta ostrands if	yfn	
+wyandot		1ek0:2
+wyandot county	1ek0	
+wyandot county kansas	2avn	
+wyandot county oh	1ek0	
+wyandot county ohio	1ek0	
+yamen		63ht:3
+yamen ben		63ht:3
+yamen ben zekri	63ht	
+yamen ben zekry	63ht	
+zarobyan jacob nikitovich	3rsg	
+zhelobinsky	5vh3	

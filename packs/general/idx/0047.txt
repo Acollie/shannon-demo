@@ -1,0 +1,475 @@
+a grupa	cq5	
+aachen	2bu	toq:3,2t7d:3
+aachen central		2t7d:3
+aachen central station	2t7d	
+aachen cities		toq:3
+aachen cities region	toq	
+aachen district	toq	
+aachen germany	2bu	
+aachen hauptbahnhof	2t7d	
+aachen hbf	2t7d	
+aachen institute for advanced study in computational engineering science	6yl	
+aachen municipal region	toq	
+aachen railway station	2t7d	
+aachen region	toq	
+aachen university	6yl	
+aedh	4o80	
+aldearrubia	34ol	
+alexander kobakhidze	5hu5	
+altar	3ljm	
+altar of mars	1j96	
+altar piece	13wr	
+altar table	3ljm	
+altivole	2skw	
+angthong	1ruq	
+angthong f c	2x28	
+arachnodes	14cs	
+arthemonay	428g	
+arthoniaceae	5zf2	
+asaichi nakai	36z0	
+barabimalabanna		5pjd:2
+barabimalabanna voravan	5pjd	
+barabimalabanna vorawan	5pjd	
+barges	2spp,3kvt,428x	
+barges cote d or	428x	
+barges haute saone	3kvt	
+begadan	39do	
+bersani	2z86	
+beti ona	4pc6	
+bijouterrier	5why	
+bischkek	5y6	
+braintree	emz,vpv,17s8	93e:4
+braintree and bocking	17s8	
+braintree and bocking urban district	emz	
+braintree borough	emz	
+braintree district	emz	
+braintree district council	emz	
+braintree england	17s8	
+braintree essex	17s8	
+braintree highlands	vpv	
+braintree ma	vpv	
+braintree mass	vpv	
+braintree massachusetts	vpv	
+braintree norfolk county massachusetts	vpv	
+braintree square	vpv	
+braintree town	93e	93e:4
+braintree town f		93e:4
+braintree town f c	93e	
+braintree town fc	93e	
+braintree town football club	93e	
+braintree town norfolk county massachusetts	vpv	
+braintree united	17s8	
+buissoncourt	2u2p	
+burayevskiy	3bgn	
+burayevskiy raion	3bgn	
+burza nehnutel nosti	1bn2	
+caitlin	k2y	2bgo:3,4o06:2,4ypa:2
+caitlin elizabeth wachs	4ypa	
+caitlin first name	k2y	
+caitlin foord	4o06	
+caitlin given name	k2y	
+caitlin jade foord	4o06	
+caitlin jenner	zew	
+caitlin kiernan	2bgo	
+caitlin r		2bgo:3
+caitlin r kiernan	2bgo	
+caitlin rebekah kiernan	2bgo	
+caitlin wachs	4ypa	
+calculate opportunities	6s1	
+cathair chaladain	7hn	
+cathair na mart	4vhu	
+cathair saidhbhin	56eq	
+cenicero	2yq3	
+chapecoense	7un	
+chapecoense sc	7un	
+chaum	29c1	
+chaum haute garonne	29c1	
+chongking	3n9	
+chrysippus	4gtx	4gtx:3
+chrysippus of		4gtx:3
+chrysippus of soli	4gtx	
+chrysippus of soll	4gtx	
+ciamb u	3w6c	
+cinncinnatti bengals	1ll	
+cinncinnatti kid	1dtw	
+cinncinnatti ohio	oe	
+cinncinnatti reds	nz	
+conformity challenged	54ke	
+conformity mark	m1p	
+creste	3ml4	
+crusading age	mu5	
+crusading order	1gpu	
+crusading orders	1gpu	
+csusf	249	
+doa 1950 film	377v	
+doa 1988 film	1y6a	
+doa cc	16e8	
+doa dead		10ob:4
+doa dead or		10ob:4
+doa dead or alive	10ob	
+doa dead or alive film	10ob	
+dobre	2sj1	
+dobre czech republic	2sj1	
+dobre miasto commune	1n1e	
+dodgers	6l9	
+dodgers stadium	6gf9	
+eiseley	4g0b	
+enban oujo valkyrie	2lyy	
+existenz	1c1e	
+fiennes	37gn	
+fiennes mark	2lqj	
+fiennes pas de calais	37gn	
+fiennes ralph nathaniel	cta	
+flowers	2w9b	34f1:6,3rb1:4,5o68:4,681b:3
+flowers ballet	6grz	
+flowers band	13ig	
+flowers brandon	1zgq	
+flowers emilie simon song	1yj5	
+flowers in		34f1:6,3rb1:4,5o68:4
+flowers in a		34f1:6
+flowers in a wan		34f1:6
+flowers in a wan li		34f1:6
+flowers in a wan li vase	34f1	
+flowers in israel iris	4t1	
+flowers in the		3rb1:4,5o68:4
+flowers in the attic	3rb1	
+flowers in the attic 1987 film	3rb1	
+flowers in the attic film	3rb1	
+flowers in the attic movie	3rb1	
+flowers in the dirt	5o68	
+flowers magazine	2w9b	
+flowers of		681b:3
+flowers of arsenic	emr	
+flowers of chaos	4w1n	
+flowers of good will	5ik8	
+flowers of reverie	681b	
+flowers of war	1pic	1pic:4
+flowers sia furler song	igf	
+flowers thomas harold	4td2	
+fregouville	204f	
+fukien		6dk9:2
+fukien a a	6dk9	
+fukien a c	6dk9	
+fukien aa	6dk9	
+fukien ac	6dk9	
+fukien athletic association	6dk9	
+fukien athletic club	6dk9	
+gainlho	33i3	
+hobbies	69os	
+i ch ang	ofv	
+inbhir nis	574	
+inbhir pheofharain	5dj1	
+inosensu kokaku kidotai	11l1	
+iohn	10	
+ivry		b1z:3,1wma:3,2p6c:3,4423:3
+ivry en		4423:3
+ivry en montagne	4423	
+ivry la		2p6c:3
+ivry la bataille	2p6c	
+ivry le		1wma:3
+ivry le temple	1wma	
+ivry sur		b1z:3
+ivry sur seine	b1z	
+ivry sur seine france	b1z	
+james reese		5imr:3
+james reese europe	5imr	
+joudes	2wi0	
+kaarel		45tv:2,6dzk:2
+kaarel eenpalu	45tv	
+kaarel kiidron	6dzk	
+kishkindha kshetra	5e4s	
+korakesion	87j	
+la chatte sort ses griffes	6at3	
+la tranca angolena	32lf	
+laissac		4fsx:4
+laissac severac		4fsx:4
+laissac severac l		4fsx:4
+laissac severac l eglise	4fsx	
+lambergini	v55	
+lamberto	wmz	ttm:2,1a1z:2,35hk:2,3rs8:2,434x:2,4eq3:2,5bh3:2,63w4:2
+lamberto bava	1a1z	
+lamberto boranga	4eq3	
+lamberto caimi	63w4	
+lamberto dini	5bh3	
+lamberto first name	wmz	
+lamberto given name	wmz	
+lamberto leonardi	35hk	
+lamberto maggiorani	434x	
+lamberto picasso	ttm	
+lamberto zauli	3rs8	
+lane	aq6	ari:2,gxy:2,12ff:2,3j35:2,3lj7:2,4b07:2,5f19:2
+lane a evans	5f19	
+lane allen evans	5f19	
+lane belgium	310b	
+lane chandler	gxy	
+lane county	ari,4b07	
+lane county kansas	4b07	
+lane county ks	4b07	
+lane county or	ari	
+lane county oregon	ari	
+lane county sheriff s office	ari	
+lane end isle of wight	52xo	
+lane evans	5f19	
+lane gutovic	5df2	
+lane jovanovic	4eb9	
+lane meyer	1o5z	
+lane s principle	b1x	
+lane s relationship	b1x	
+lane sisters	3j35	
+lane smith	12ff,3lj7	
+lane smith illustrator	3lj7	
+lane staley	3hik	
+lane surname	aq6	
+lane xang intra f c	52ls	
+lane xang united f c	52ls	
+lavalers	6z4	
+malbrans	3oo2	
+mespotamia war theatre	4c7b	
+mikalai	uz3	
+mips32	49pu	
+mishiwaka	tbm	
+monleon		163j:2
+monleon magnoac	163j	
+montbarla	2n3p	
+muhos	3zfn	
+mutational	485j	
+naltchik	edd	
+nazarbaev	kq0	
+nhn	628n	
+nhn corp	628n	
+nhn corporation	628n	
+nhn usa	628n	
+nigraha	4jia	
+novalaise	1x8w	
+ostseebad kuhlungsborn	2x6u	
+perpezac		2mzp:3,427u:3
+perpezac le		2mzp:3,427u:3
+perpezac le blanc	427u	
+perpezac le noir	2mzp	
+phonetician	256w	
+premikudu	5x1u	
+princess carolina		5ogg:5
+princess carolina marchioness		5ogg:5
+princess carolina marchioness of		5ogg:5
+princess carolina marchioness of sala	5ogg	
+princess carolina marchioness of salaone	5ogg	
+princess carolina of bourbon parma	5ogg	
+princess carolina of orange nassau	3647	
+princess carolina of parma	1r74	
+puceul	3p3r	
+ratisbon	3oc	
+richard martin	3r4z,46r6,689g	4zaq:3,5t3l:3,5ywn:3
+richard martin animal rights advocate	3r4z	
+richard martin animals	3r4z	
+richard martin bingham	5ywn	
+richard martin doctor who	689g	
+richard martin footballer born 1987	46r6	
+richard martin humanity dick	3r4z	
+richard martin irish politician	3r4z	
+richard martin meredith	5t3l	
+richard martin television director	689g	
+richard martin tyson	3f0m	
+richard martin west	4zaq	
+richard martin willstaetter	1bif	
+richard martin willstatter	1bif	
+rivellino	4gb6	
+robert j		rso:3,1jta:3,1vl7:3,2awh:3,3016:3,3mz1:3,45gm:3,4ngk:3,4qvn:5,4te7:3,4vdz:3,5rcf:3,672e:3,677g:3,67ay:3
+robert j aumann	1czy	
+robert j barro	3a7l	
+robert j bentley	3mz1	
+robert j birgeneau	4te7	
+robert j cava	4ox1	
+robert j corbett	67ay	
+robert j cousy	31n6	
+robert j dixon	4ngk	
+robert j dole	21h3	
+robert j fischer	28g2	
+robert j fisher	672e	
+robert j flaherty	1vl7	
+robert j flaherty films	1vl7	
+robert j hite ii	4d9l	
+robert j kelleher	4vdz	
+robert j kern	2awh	
+robert j kral	45gm	
+robert j l hawke	1ne1	
+robert j lefkowitz	3qjp	
+robert j lifton	4p8e	
+robert j lindsay	4yhn	
+robert j mcalinden	673s	
+robert j nicholson	60fd	
+robert j nodar	5jx0	
+robert j nodar jr	5jx0	
+robert j oppenheimer	c8y	
+robert j p williams	4786	
+robert j sawyer	1jta	
+robert j sawyer comments	1jta	
+robert j shapera	x75	
+robert j sherman	677g	
+robert j sherwood jr	5g89	
+robert j shiller	3016	
+robert j stephenson	4bax	
+robert j sternberg	69gx	
+robert j twyman	4ijl	
+robert j van		4qvn:5
+robert j van de		4qvn:5
+robert j van de graaff	4qvn	
+robert j van de graff	4qvn	
+robert j walker	5rcf	
+robert j wilke	rso	
+robert j zdarsky	26u9	
+romanoff	8bc	
+roses	dfm,2pzj	32fj:3,34ik:4,3bkv:5,5ouc:3
+roses a		5ouc:3
+roses a credit	5ouc	
+roses bloom		3bkv:5
+roses bloom on		3bkv:5
+roses bloom on the		3bkv:5
+roses bloom on the grave in the heather	5z8d	
+roses bloom on the moorland	3bkv	
+roses bloom on the moorland 1929 film	3bkv	
+roses bloom on the moorland 1952 film	5z8d	
+roses catalan town	2pzj	
+roses dead	537y	
+roses for		34ik:4
+roses for the		34ik:4
+roses for the prosecutor	34ik	
+roses girona	2pzj	
+roses in		32fj:3
+roses in tyrol	32fj	
+roses spain	2pzj	
+roses war	1o8s	
+ruthen	57jt	
+saint alphonsus maria liguori	5jd1	
+saint chely		1emq:4,3826:4
+saint chely d		1emq:4,3826:4
+saint chely d apcher	1emq	
+saint chely d aubrac	3826	
+sandonajesolo calcio	3aot	
+scanderbeg	2e96	
+screw		5vtp:2
+screw loose	5vtp	
+screw of archimedes	6hob	
+screw pine	ktm	
+screw propeller steamer	rv	
+segismundo		4qtn:2
+segismundo moret	4qtn	
+segismundo moret y prendergast	4qtn	
+sennecey		287l:3
+sennecey le		287l:3
+sennecey le grand	287l	
+sezanne	111p	
+sezanne france	111p	
+skandar		4ev3:2
+skandar amin casper keynes	4ev3	
+skandar keynes	4ev3	
+sotsji	7ba	
+spheniscinae	3gon	
+stalky	3w6z	
+stilwell joseph warren	2535	
+sugarman sara	5rm7	
+suhag	3lx3	
+superbeetle	46p9	
+surfontaine	272z	
+technos		1brv:2
+technos japan	1brv	
+technos japan corp	1brv	
+technos japan corporation	1brv	
+the before trilogy	1id0	
+the british academy	12n	
+the british and irish lions	5gi	
+the british antarctic expedition 1907 09	26w3	
+the british antarctic expedition 190709	26w3	
+the british antarctic survey	3zzc	
+the british are coming	6gl2	
+the british army	3y	
+the british broadcasting corporation	my	
+the british bulldog	2kst	
+the british bulldog davey boy smith	2kst	
+the british civil wars	xsu	
+the british columbia institute of technology	ed2	
+the british conquest	hd1	
+the british east india company	smw	
+the british film institute	fxe	
+the british government	vas	
+the british independent film awards	342s	
+the british indian ocean territory	5j68	
+the british leyland motor corporation	1kmj	
+the british library	3l3	
+the british motor corporation	80l	
+the british motor corporation limited	80l	
+the british museum	731	
+the british museum press	731	
+the british museum quarterly	731	
+the british national anthem	l2u	
+the british north america act 1867	4dik	
+the british open	7ph	
+the british open championship	7ph	
+the british people	1b7h	
+the british petroleum company	965	
+the british petroleum company plc	965	
+the british raj	1d9	
+the british royal household	6gpf	
+the british society of cinematographers	hwm	
+the british virgin islands	cev	
+the kamakura period	6hdv	
+the nut		1qhf:3,3spq:7,42xj:3
+the nut gatherers	1qhf	
+the nut job	42xj	3spq:7
+the nut job 2	3spq	3spq:7
+the nut job 2 nutty		3spq:7
+the nut job 2 nutty by		3spq:7
+the nut job 2 nutty by nature	3spq	
+the nut job 2 nutty by nature in 3d	3spq	
+the nut job 2013 film	42xj	
+the nut job 2014 film	42xj	
+the nut job 3d	42xj	
+the nut job film	42xj	
+the wisdom		4d95:4
+the wisdom of		4d95:4
+the wisdom of crocodiles	4d95	
+the wisdom of the sands	10bk	
+thomas rll	6cyi	
+thomas rll larsen	6cyi	
+tonedagana county mi	10y6	
+tonedagana county michigan	10y6	
+toshito mayuzumi	1iud	
+tregrom	3pwa	
+usmar		4uet:2
+usmar ismail	4uet	
+vayrac	2j4g	
+vehicle	foz	u3i:3,1fa4:3,6epd:3,6fa8:3
+vehicle acquisition holdings llc	1xj	
+vehicle cargo		6epd:3
+vehicle cargo ship	6epd	
+vehicle cargo ships	6epd	
+vehicle carrier	2v8k	
+vehicle crash	1uj	
+vehicle integrated photovoltaics	61mq	
+vehicle license plate	u3i	
+vehicle manufacturer	m7	
+vehicle model	97	
+vehicle ramming		6fa8:3
+vehicle ramming as a terrorism tactic	6fa8	
+vehicle ramming attack	6fa8	
+vehicle registration		u3i:3
+vehicle registration mark	u3i	
+vehicle registration number	u3i	
+vehicle registration plate	u3i	
+vehicle registration plates of europe	qyc	
+vehicle research institute	1bqe	
+vehicle restricted zones	67nr	
+vehicle sign	u3i	
+vehicle simulation	1fa4	1fa4:3
+vehicle simulation game	1fa4	
+vehicle type	foz	
+vehicle with an internal combustion engine	nzz	
+vermiglio	2tp3	
+vervi	bw7	
+vigman	51zm	
+villamassargia	3f0f	
+walliams	w4b	
+william thurston	2bio	
+willich	2orz	
+wry necked dick	59vj	
+yalow rosalyn	32gi	
+zossimov	3diy	

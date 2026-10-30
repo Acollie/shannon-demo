@@ -1,0 +1,516 @@
+1530s	2520	
+20mm antiaircraft gun	4g7e	
+610s	2827	3a0z:2
+610s bc	3a0z	
+610s bce	3a0z	
+abdurahmanov ilgar	3fyc	
+acf bardolino	108m	
+acf brescia	2luo	2luo:4
+acf brescia calcio		2luo:4
+acf brescia calcio femminile	2luo	
+acf brescia femminile	2luo	
+acf fiorentina	1yx	
+acf gloria 1922 bistrita	6c1	
+acf gloria bistrita	6c1	
+acf luceafarul lotus baile felix	2h1i	
+acf milan	4qfj	
+acf reggiana	4mr7	
+acf torino	4ibu	
+acf torino asd	4ibu	
+alternativerock	5x	
+ancelle	1ej2	
+archidoris	4pi5	
+auxonne	xae	
+auxonne france	xae	
+ayeyarwaddy river	3684	
+baji		45w0:3
+baji rao		45w0:3
+baji rao i	45w0	
+baji rao peshwa	45w0	
+batrachorhina	hn4	
+boleslawiec	15c1	
+boleslawiec county	1m1y	
+bottiger	3mai	
+brancino	1bmx	
+brenaz	2vgx	
+brinkman	6ehx	
+brouillet	4468	
+candide	4bhq	1aa6:8
+candide character	4bhq	
+candide novel	4bhq	
+candide or		1aa6:8
+candide or all is for the best	4bhq	
+candide or optimism	4bhq	
+candide or the		1aa6:8
+candide or the optimist		1aa6:8
+candide or the optimist of		1aa6:8
+candide or the optimist of the		1aa6:8
+candide or the optimist of the twentieth		1aa6:8
+candide or the optimist of the twentieth century	1aa6	
+candide ou l optimisme	4bhq	
+candide ou l optimisme au xxe siecle	1aa6	
+candide ou l optimisme du xxe siecle	1aa6	
+candide play	4bhq	
+carys davina grey	52uv	
+carys davina grey thompson	52uv	
+carys grey	52uv	
+carys grey thompson baroness grey thompson	52uv	
+carys new jersey	4bjk	
+carys thompson	52uv	
+casu	2yob	
+cermenate	41gz	
+chalandri	5gmj	
+chalandri greece	5gmj	
+champigne	1qwc	
+charjou oblast	1hmz	
+charles pearce		i57:3
+charles pearce coleman	i57	
+chasmosaurine	4qid	
+chefchaouene	49yh	
+chefchaouene province	15c7	
+chu	ynz	
+chu chin		5rvx:3
+chu chin chow	5rvx	
+chu chin chow 1934 film	5rvx	
+chu chin chow film	5rvx	
+chu ching		5ebo:3
+chu ching wu	5ebo	
+chu chingwu	5ebo	
+chu chou	u27	
+chu chu		5q89:6
+chu chu and		5q89:6
+chu chu and the		5q89:6
+chu chu and the philly		5q89:6
+chu chu and the philly flash	5q89	
+chu diwen	2se1	
+chu fou	2r7d	
+chu hai	vh9	
+chu hou tsung	3xsf	
+chu ishikawa	4wlz	
+chu jung chi	4qc2	
+chu jungchi	4qc2	
+chu ke liang	3fr0	
+chu li wen	2se1	
+chu mao	2gtg	
+chu nho	bd4	
+chu piao	5dg7	
+chu province	ynz	
+chu region	ynz	
+chu river	41n3	
+chu siu		5yrg:3
+chu siu kei	5yrg	
+chu ssu ta fu fu lou pai	nv1	
+chu steven	2se1	
+chu t ien wen	3jti	
+chu te	2gtg	
+chu teh	2gtg	
+chu the	2gtg	
+chu tien		3jti:3
+chu tien wen	3jti	
+chu yen		40fv:3
+chu yen ping	40fv	
+chu yen ping kevin	40fv	
+chu yin ping	40fv	
+chu young park	2kg2	
+chu yuan chang	3sry	
+cothraige	2mep	
+cryptogyne	122h	
+demotica	1u6u	
+e18	1sb4	
+earnest		5gbu:2
+earnest a hooten	5gbu	
+earnest a hooton	5gbu	
+earnest albert hooten	5gbu	
+earnest albert hooton	5gbu	
+earnest bevin	5i5a	
+earnest borgnine	7um	
+earnest gaines	1yd5	
+earnest hemmingway	8d1	
+earnest hooton	5gbu	
+earnest j king	2zzs	
+earnest rutherford	ag0	
+earnest shackleton	mt4	
+edward the		ueb:3,11zz:4,16lt:3,3gsv:3,3j8i:3
+edward the 8th	m4x	
+edward the atheling	3gsv	
+edward the black	11zz	11zz:4
+edward the black prince	11zz	
+edward the black prince of wales	11zz	
+edward the bruce	2h4m	
+edward the caresser	fgk	
+edward the confessor	16lt	
+edward the elder	ueb	
+edward the elder of england	ueb	
+edward the eloquent	tvw	
+edward the exile	3gsv	
+edward the fifth	12yv	
+edward the fourth	pa8	
+edward the longshanks	l2o	
+edward the martyr	3j8i	
+edward the philosopher	tvw	
+embarkment to cythera	sp8	
+feithans high school	1mv	
+frederick guesdon	5oai	
+gasper butcher s spring	zcm	
+gasper butchers spring kentucky	zcm	
+gasper butchers station	zcm	
+gasper butchers station kentucky	zcm	
+gasper noe	1w1b	
+george lowy	50jy	
+george pachymeres	64fy	
+geosciences	1nn5	
+geunsia	2e9b	
+gop 1	5ws3	
+gop stop	c43	
+grandchamps des fontaines	2npn	
+groene		5sd7:2
+groene boord	7xo	
+groene leeuw	5sd7	
+groene leeuw cycling team	5sd7	
+groene leeuw huret	5sd7	
+groene leeuw leopold	5sd7	
+groene leeuw sas sinalco	5sd7	
+groene leeuw sinalco	5sd7	
+groene leeuw sinalco sas	5sd7	
+groene leeuw tibetan pull over centrale	5sd7	
+groene partij nederland	bbt	
+guardialfiera	39ic	
+gyozo	5iv9	638n:2
+gyozo burcsa	638n	
+gyozo first name	5iv9	
+gyozo given name	5iv9	
+henry bean	3hkt	
+historiology	25wi	
+hjoerdis petterson	59rt	
+hl	2swm	
+hl 2	1hcd	
+hl blue shift	6d0q	
+hl bs	6d0q	
+hl doherty	3clp	
+hl gold	5l9r	
+hl grosvenor	3je8	
+hl hunt	2l1e	
+hl opposing force	4mfd	
+hl s	2jcj	
+hl sandbox sontagworksnaxbox	jhi	
+hl smith dorrien	5ai0	
+horsetails	4tyl	
+illiberal education	4nmd	
+jagadeesh	grm	
+jallal ed din muhammad balkhy	sjc	
+john longden	11rc	
+kaito sly cooper	4lv2	
+kiischpelt	2n53	
+kobylanka commune	3ag6	
+krs 1	v5d	
+krs one	v5d	
+krs one song	6gxt	
+laika	6fco	
+laika company	6fco	
+laika entertainment	6fco	
+laika entertainment house	6fco	
+laika entertainment llc	6fco	
+laika llc	6fco	
+laika music	bj2	
+laika studios	6fco	
+le bo	2t8k	
+le plagnal	3z28	
+leulinghem	3sqe	
+liivimaa	1wxr	
+lobatchewsky	2fya	
+metairie	k1o	169f:2
+metairie cemetary	169f	
+metairie cemetery	169f	
+metairie la	k1o	
+metairie louisiana	k1o	
+metairie race course	169f	
+mitthogskolan	1lxc	
+mitthogskolan university	1lxc	
+mogan	427c	
+mogan gran canaria	427c	
+mogan las palmas	427c	
+national senator	h86	
+necropylia	6fwm	
+newsmagazines	1z8o	
+paleochristian		4emz:6
+paleochristian and		4emz:6
+paleochristian and byzantine		4emz:6
+paleochristian and byzantine monuments		4emz:6
+paleochristian and byzantine monuments of		4emz:6
+paleochristian and byzantine monuments of thessalonika	4emz	
+paleochristian and byzantine monuments of thessaloniki	4emz	
+panticosa	426t	
+panticosa huesca	426t	
+panticosa spain	426t	
+paul alexandrov	vs7	
+pauley		57zl:2
+pauley p	57zl	
+pauley perette	57zl	
+pauley perrette	57zl	
+pauley shore	1l49	
+perennialist school	3955	
+pilseta	43	
+plethon	38j8	
+plethon georgius gemistus	38j8	
+pokrovsky cathedral	6g3g	
+polishrussian		57ur:4
+polishrussian war		57ur:4
+polishrussian war 16541656	2n7s	
+polishrussian war 18301831	3nx0	
+polishrussian war 183031	3nx0	
+polishrussian war of		57ur:4
+polishrussian war of 1792	57ur	
+ragoli	1vdy	
+rashidun		bcd:2
+rashidun caliphate	bcd	
+rashidun conquest of persia	2ozd	
+rashidun conquest of the sassanian empire	2ozd	
+rashidun conquests	bcd	
+rashidun empire	bcd	
+richard scobee	2ey5	
+rioz	1qsw	
+romina	1kqo	yvn:2
+romina first name	1kqo	
+romina francesca power	yvn	
+romina given name	1kqo	
+romina name	1kqo	
+romina power	yvn	
+saint menwreda	1mfr	
+salmond msp	2wk9	
+sanxia haoren	56bu	
+scalpicin capilar	2hh7	
+seborrheic	5e8d	
+seborrheic dermatitis	5e8d	
+seborrheic dermatitis disorder	5e8d	
+seborrheic dermatitis nos	5e8d	
+seborrheic eczema	5e8d	
+seborrheic keratosis like melanoma	s5u	
+selachimorpha	nyk	
+she	1pcb,2q6z,2xi6,6a87,6e30	
+she 1925 film	6a87	
+she 1935 film	2q6z	
+she 1965 film	2xi6	
+she and		1g75:4
+she and him	3ykg	
+she and me	597x	
+she and me film	597x	
+she and the		1g75:4
+she and the three	1g75	
+she and the three 1922 film	1g75	
+she ass	65qo	
+she asses	65qo	
+she began to cry tears of blood which became little brick houses when they hit the ground	3nb7	
+she bought a hat like princess marina	5fb7	
+she couldn		4sbj:5,5d24:5,5f4q:5
+she couldn t		4sbj:5,5d24:5,5f4q:5
+she couldn t say		5d24:5,5f4q:5
+she couldn t say no	5d24,5f4q	
+she couldn t say no 1930 film	5f4q	
+she couldn t say no 1954 film	5d24	
+she couldn t take		4sbj:5
+she couldn t take it	4sbj	
+she creature	3eal	3eal:3
+she daisy	31gy	
+she demons of the swamp	5d8z	
+she devil	2ycq	
+she devil film	2ycq	
+she dog	2qy	
+she dogs	2qy	
+she don t know	5raj	
+she don t like the lights	4irz	
+she done		1eeu:4
+she done him		1eeu:4
+she done him wrong	1eeu	
+she drives me wild	1jwq	
+she gets what she wants	393x	
+she goats	2n02	
+she goes		61ad:4
+she goes to		61ad:4
+she goes to war	61ad	
+she got what she asked for	3tkn	
+she green day	6e30	
+she green day song	6e30	
+she had		5c8h:5
+she had to		5c8h:5
+she had to say		5c8h:5
+she had to say yes	5c8h	
+she hate		14vn:3
+she hate me	14vn	
+she him	3ykg	
+she just wants to be	5sk9	
+she keyshia cole song	mxq	
+she killed		58un:4
+she killed in		58un:4
+she killed in ecstasy	58un	
+she lao	30v4	
+she likes to	s69	
+she lived	2zz9	
+she ll drive the big car	6g30	
+she looks to me	69bq	
+she loves		5m7p:4
+she loves me		5m7p:4
+she loves me not	5m7p	
+she loves me not 1934 film	5m7p	
+she loves you yui album	vgj	
+she makes me	53gz	
+she makes me stormtrooper in stilettoes	53gz	
+she makes me stormtrooper in stilettos	53gz	
+she married		4gaw:4
+she married her		4gaw:4
+she married her boss	4gaw	
+she me her	tew	
+she needs me kendrick lamar song	6hq9	
+she persisted book	2nan	
+she po	d2f	
+she remembers everything	m01	
+she s		t6a:5,19s5:5,1fbq:4,1h9n:4,1jch:5,2esp:6,383m:5,43cm:4,4ggm:4,6ax3:3,6bi2:6
+she s a rebel	4aio	
+she s all		1h9n:4
+she s all that	1h9n	
+she s bought a hat like princess marina	5fb7	
+she s crafty song	2wj2	
+she s electric	536g	
+she s funny		t6a:5
+she s funny that		t6a:5
+she s funny that way	t6a	
+she s funny that way film	t6a	
+she s glowin	s69	
+she s gotta		19s5:5
+she s gotta have		19s5:5
+she s gotta have it	19s5	
+she s having		1jch:5
+she s having a		1jch:5
+she s having a baby	1jch	
+she s lookin good	2n4u	
+she s madonna	6ax3	
+she s my winona	60cy	
+she s nineteen years old	u5o	
+she s no angel cameron diaz	lhu	
+she s not me madonna song	65u4	
+she s only 18	69bq	
+she s out	5641	2esp:6,383m:5,6bi2:6
+she s out of		2esp:6,383m:5,6bi2:6
+she s out of control	383m	
+she s out of my		2esp:6,6bi2:6
+she s out of my league	2esp	
+she s out of my life	6bi2	
+she s so		43cm:4
+she s so lovely	43cm	
+she s the		1fbq:4,4ggm:4
+she s the man	1fbq	
+she s the one	4ggm	
+she s the one 1996 film	4ggm	
+she s the queen starflyer 59 ep	3h2c	
+she said he said	31gc	
+she should a said no	429t	
+she shoulda		429t:4
+she shoulda said		429t:4
+she shoulda said no	429t	
+she smiled sweetly	4sqy	
+she talks crazy talk	3y0v	
+she want it	5joj	
+she wants it	5joj	
+she was a boy	5kgw	
+she was just 17	6gvf	
+she was just seventeen	6gvf	
+she was nice to mice	14gn	
+she watch channel zero	5279	
+she went		41wp:5
+she went to		41wp:5
+she went to the		41wp:5
+she went to the races	41wp	
+she who brings gifts	3hn8	
+she who lives	1j64	
+she wolf	52xr	466a:4
+she wolf album	52xr	
+she wolf film	3xm7	
+she wolf of		466a:4
+she wolf of france	1mof	
+she wolf of london	466a	
+she wolf of london film	466a	
+she wolf shakira album	52xr	
+she won t be lonely long clay walker ep	kof	
+she wore		1kiu:5
+she wore a		1kiu:5
+she wore a yellow		1kiu:5
+she wore a yellow ribbon	1kiu	
+she wore a yellow ribbon movie	1kiu	
+shlager	5j1	
+shohgakukan	d0t	
+sir partha dasgupta	3v2f	
+smuggler s bride of mallorca	610c	610c:6
+snicketverse	1et3	
+st servan	3s58	
+standards		z94:2
+standards bodies	z94	
+standards development organization	z94	
+standards organisation	z94	
+standards organization	z94	
+standards organizations	z94	
+standards setting group	z94	
+standards setting groups	z94	
+standards setting organisation	z94	
+standards setting organisations	z94	
+standards setting organization	z94	
+standards setting organizations	z94	
+standards track	3qh3	
+standards trio	cr5	
+stilyagi	1z27	
+stilyagi 2008 film	1z27	
+stilyagi film	1z27	
+tanny and the teenage t rex	4y8i	
+tanny of the teenage t rex	4y8i	
+tashnak	eiy	
+televisual media	27hu	
+the helping		47lc:3
+the helping hand	47lc	
+the helping hand film	47lc	
+the pogues	1659	
+the polish		5mk8:3
+the polish campaign of rkka	3bfi	
+the polish lithuanian commonwealth	5g9	
+the polish lithuanian commonwealth or union	5g9	
+the polish rider	5mk8	
+the severn river	fhx	
+the wrong		21b1:3,3lud:3,3mxw:3,4vkw:6,5wj1:3
+the wrong arm		4vkw:6
+the wrong arm of		4vkw:6
+the wrong arm of the		4vkw:6
+the wrong arm of the law	4vkw	
+the wrong arm of the law film	4vkw	
+the wrong box	3mxw	
+the wrong box film	3mxw	
+the wrong frankfurt	5q8	
+the wrong husband	5wj1	
+the wrong man	21b1	
+the wrong man 2006 film	1q82	
+the wrong man film	21b1	
+the wrong move	y0b	
+the wrong movement	y0b	
+the wrong picture	tkt	
+the wrong trousers	3lud	
+tmnt3	qy1	
+trescleoux	1p30	
+trixi		1bua:2
+trixi worrack	1bua	
+vallinfreda	3ge5	
+vente de la louisiane	6hri	
+vuriyerd	1aez	
+wallrafrichartz		5a57:2
+wallrafrichartz museum	5a57	
+whaling	2spg	
+whaling boat	2spg	
+whaling in germany	2spg	
+whaling in greenland	2spg	
+whaling origin	2spg	
+whaling origins	2spg	
+whaling port	2spg	
+whaling ship	6cvl	
+whaling ships	6cvl	
+whaling station	2spg	
+whaling vessel	6cvl	
+zatcany	44d1	
+zelevinsky	34t4	
+zollingerellison		5lpz:2
+zollingerellison s syndrome	5lpz	
+zollingerellison syndrome	5lpz	

@@ -1,0 +1,490 @@
+1e1	62op	
+aboncourt	1zot,27qn	1y5p:3,3atc:2
+aboncourt gesincourt	3atc	
+aboncourt meurthe et moselle	1zot	
+aboncourt moselle	27qn	
+aboncourt sur		1y5p:3
+aboncourt sur seille	1y5p	
+acqui	pr4	pr4:2
+acqui terme	pr4	
+agde	16op	
+amjad		ggi:2,5puz:2
+amjad bobby	5puz	
+amjad khan	ggi	
+amjad khan actor	ggi	
+amjad khan filmography	ggi	
+amoebism	5rxh	
+amphidasis	5i3t	
+anantapuramu	2zi4	ds5:2
+anantapuramu district	ds5	
+arudra	3lvw	
+ashenvale forest	j34	
+axumite	1o5l	
+barricourt	1mp6	
+barricourt heights	1mp6	
+barricourt ridge	1mp6	
+battlefront		69bd:2
+battlefront com	69bd	
+battlefront iii	3vn7	
+bayet	246i	
+benacus	2s1v	
+bfmv	wru	
+binnya nwe	42o3	
+blocking back	vq	
+bonaduz	4wme	
+bonaduz gr	4wme	
+bonaduz graubuenden	4wme	
+bonaduz graubunden	4wme	
+bonaduz grisons	4wme	
+bonaduz switzerland	4wme	
+bordeu	1g3	
+bortigiadas	4n59	
+brod	1xgx	2rvs:3
+brod bih	1xgx	
+brod bosnia and herzegovina	1xgx	
+brod crawford	gl2	
+brod na savi	heh	
+brod posavina	2rvs	2rvs:3
+brod posavina county	2rvs	
+brod rs	1xgx	
+brunelleschis dome	39x9	
+cadallac	i6z	
+cadallac records	28xp	
+charles oman	37s4	
+cherkassy	h31	
+cherkassy oblast	j9j	
+conjectures	5lg	
+conrad	32c	cdp:2,gvu:2,l2y:3,rek:3,ymv:2,1clj:4,1ey3:4,1x4q:2,21d1:3,2315:3,2c0a:5,2c26:5,2f1n:2,2mx9:2,30kd:2,3b1w:2,3etr:2,3gcs:2,3grl:2,3hv2:3,3m5j:3,3nxv:2,3rp1:6,3rp2:5,3yvh:2,40x7:5,45bb:2,4a5o:2,4ae5:5,4bqa:2,4ddr:5,4krq:2,4mkj:5,4reh:5,4s8x:4,4vo2:2,4wkk:2,50be:2,55ke:4,5c23:2,5kos:4,5kxs:3,5o2b:5,5oxu:2,5srz:3,5syk:4,5xhk:5,63vm:4,66xl:3,68wv:2
+conrad a		rek:3
+conrad a nervig	rek	
+conrad adenauer	j3i	
+conrad aiken	30kd	
+conrad albinus nervig	rek	
+conrad b hart	3fsa	
+conrad bain	3nxv	
+conrad bain comments	3nxv	
+conrad buff	ymv	
+conrad buff iv	ymv	
+conrad burns	5c23	
+conrad bursian	2mx9	
+conrad celtes	3etr	
+conrad celtis	3etr	
+conrad chisholm	3ukv	
+conrad christoph von konigsmarck	3iya	
+conrad duke of transjurane burgundy	3rp1	
+conrad duke of zahringen	5syk	
+conrad f meyer	66xl	
+conrad falk	1gg4	
+conrad ferdinand		66xl:3
+conrad ferdinand meyer	66xl	
+conrad ferdinand meyer comments	66xl	
+conrad first name	32c	
+conrad gener	3yvh	
+conrad gesner	3yvh	
+conrad gessner	3yvh	
+conrad given name	32c	
+conrad hal		21d1:3
+conrad hal waddington	21d1	
+conrad hall	l2y	
+conrad hilton	1x4q	3m5j:3
+conrad hilton ii	3m5j	
+conrad hilton jr	3m5j	
+conrad hilton sr	1x4q	
+conrad holy roman emperor	4a5o	
+conrad i		2c0a:5,3rp2:5,4ddr:5,4s8x:4,5syk:4,5xhk:5
+conrad i count		3rp2:5,5xhk:5
+conrad i count of		3rp2:5,5xhk:5
+conrad i count of auxerre	3rp2	
+conrad i count of luxembourg	5xhk	
+conrad i duke		2c0a:5,4ddr:5
+conrad i duke of		2c0a:5,4ddr:5
+conrad i duke of bohemia	2c0a	
+conrad i duke of carinthia	4ddr	
+conrad i duke of zahringen	5syk	
+conrad i margrave of meissen	5kos	
+conrad i marquess of montferrat	2315	
+conrad i of		4s8x:4,5syk:4
+conrad i of auxerre	3rp2	
+conrad i of bohemia	2c0a	
+conrad i of brandenburg	4ae5	
+conrad i of burgundy	4s8x	
+conrad i of carinthia	4ddr	
+conrad i of italy	4a5o	
+conrad i of jerusalem	2315	
+conrad i of luxembourg	5xhk	
+conrad i of masovia	362m	
+conrad i of mazovia	362m	
+conrad i of meien	5kos	
+conrad i of meissen	5kos	
+conrad i of passau	3imf	
+conrad i of sicily	1clj	
+conrad i of zahringen	5syk	
+conrad ii	4a5o	3rp1:6,40x7:5,4mkj:5,5o2b:5,63vm:4
+conrad ii archbishop of salzburg	3imf	
+conrad ii bishop of passau	1id3	
+conrad ii count of auxerre	3rp1	
+conrad ii duke		3rp1:6,40x7:5,4mkj:5,5o2b:5
+conrad ii duke of		3rp1:6,40x7:5,4mkj:5,5o2b:5
+conrad ii duke of bavaria	4mkj	
+conrad ii duke of carinthia	5o2b	
+conrad ii duke of swabia	40x7	
+conrad ii duke of transjurane		3rp1:6
+conrad ii duke of transjurane burgundy	3rp1	
+conrad ii holy roman emperor	4a5o	
+conrad ii holy roman empire	4a5o	
+conrad ii hre	4a5o	
+conrad ii of		63vm:4
+conrad ii of austria archbishop of salzburg	3imf	
+conrad ii of auxerre	3rp1	
+conrad ii of bavaria	4mkj	
+conrad ii of burgundy	4a5o	
+conrad ii of carinthia	5o2b	
+conrad ii of franconia	4a5o	
+conrad ii of germany	4a5o	
+conrad ii of italy	63vm	
+conrad ii of jerusalem	1clj	
+conrad ii of salzburg	3imf	
+conrad ii of sicily	358f	
+conrad ii of the holy roman empire	4a5o	
+conrad ii the younger	5o2b	
+conrad iii	1ey3	1ey3:4
+conrad iii duke of bavaria	4mkj	
+conrad iii hrr	1ey3	
+conrad iii king of germany	1ey3	
+conrad iii of		1ey3:4
+conrad iii of germany	1ey3,63vm	
+conrad iii of italy	1ey3	
+conrad iii of jerusalem	358f	
+conrad iii of provence	4s8x	
+conrad iv	1clj	1clj:4,4reh:5
+conrad iv duke		4reh:5
+conrad iv duke of		4reh:5
+conrad iv duke of oels	4reh	
+conrad iv duke of swabia	358f	
+conrad iv hohenstaufen	1clj	
+conrad iv of		1clj:4
+conrad iv of germany	1clj	
+conrad iv of swabia	358f	
+conrad janis	3b1w	
+conrad johann martin langenbeck	393z	
+conrad k dober	57jq	
+conrad king of burgundy	4s8x	
+conrad king of italy	63vm	
+conrad kirouac	5dhl	
+conrad krez	445p	
+conrad l		l2y:3
+conrad l hall	l2y	
+conrad lorenz	15cm	
+conrad malte		5kxs:3
+conrad malte brun	5kxs	
+conrad maltebrun	5kxs	
+conrad margrave		4ae5:5,5kos:4
+conrad margrave of		4ae5:5,5kos:4
+conrad margrave of brandenburg		4ae5:5
+conrad margrave of brandenburg stendal	4ae5	
+conrad margrave of meien	5kos	
+conrad margrave of meissen	5kos	
+conrad marquess of montferrat	2315	
+conrad marquis of tyre	2315	
+conrad mcnasty mcrae	3gcs	
+conrad mcrae	3gcs	
+conrad michael	4f90	
+conrad michael richter	2f1n	
+conrad n hilton	1x4q	
+conrad n hilton jr	3m5j	
+conrad nagel	gvu	
+conrad nagle	gvu	
+conrad name	32c	
+conrad nervig	rek	
+conrad nicholson hilton	1x4q	
+conrad nicholson hilton jr	3m5j	
+conrad of		2315:3,3hv2:3
+conrad of aargau	3rp2	
+conrad of auxerre	3rp1	
+conrad of babenberg	3imf	
+conrad of bavaria	3hv2	
+conrad of burgundy	4s8x	
+conrad of italy	63vm	
+conrad of masovia	362m	
+conrad of mazovia	362m	
+conrad of montferrat	2315	
+conrad of zahringen	5syk	
+conrad pete	129l	
+conrad philips	4krq	
+conrad phillips	4krq	
+conrad poe	4vo2	
+conrad potter aiken	30kd	
+conrad prince of hohenlohe schillingsfurst	5tnm	
+conrad r burns	5c23	
+conrad ray burns	5c23	
+conrad richter	2f1n	
+conrad robert	1gg4	
+conrad roentgen	11c8	
+conrad rontgen	11c8	
+conrad russell	2c26	2c26:5
+conrad russell 5th		2c26:5
+conrad russell 5th earl		2c26:5
+conrad russell 5th earl russell	2c26	
+conrad salinger	45bb	
+conrad sebastian robert russell	2c26	
+conrad sebastian robert russell 5th earl russell	2c26	
+conrad sewell	4wkk	
+conrad singer	4wkk	
+conrad smith	68wv	
+conrad smith association football	68wv	
+conrad smith footballer	68wv	
+conrad smith soccer	68wv	
+conrad stafford bain	3nxv	
+conrad steven	65zn	
+conrad strughold	rtd	
+conrad surname	32c	
+conrad the boy	358f	
+conrad the great	5kos	
+conrad the pacific	4s8x	
+conrad the peaceful	4s8x	
+conrad the salian	4a5o	
+conrad the salic	4a5o	
+conrad the younger	358f	
+conrad theodor		55ke:4
+conrad theodor van		55ke:4
+conrad theodor van deventer	55ke	
+conrad v of germany	358f	
+conrad veidt	cdp	
+conrad veit	cdp	
+conrad vernon	3grl	
+conrad vii	5i2n	
+conrad von		5srz:3
+conrad von gesner	3yvh	
+conrad von hotzendorf	1h78	
+conrad von molo	5srz	
+conrad w		6d9o:3
+conrad w hall	6d9o	
+conrad waddington	21d1	
+conrad wells	50be	
+conrad whitby	4bqa	
+conrad wiene	5oxu	
+conrad william	nk3	
+conrad zimsky	t5i	
+conrad zuse	37l1	
+cuceglio	3l9b	
+denn		50gi:8
+denn die		50gi:8
+denn die musik		50gi:8
+denn die musik und		50gi:8
+denn die musik und die		50gi:8
+denn die musik und die liebe		50gi:8
+denn die musik und die liebe in		50gi:8
+denn die musik und die liebe in tirol	50gi	
+denn ireland	1p7h	
+diesse	5bim	
+diesse be	5bim	
+diesse bern	5bim	
+diesse berne	5bim	
+diesse switzerland	5bim	
+dobromilitz	48an	
+donaldo trumpez	1545	
+egeln	5az3	
+evonne		355g:3
+evonne cawley	355g	
+evonne fay goolagong	355g	
+evonne fay goolagong cawley	355g	
+evonne goolagong	355g	355g:3
+evonne goolagong cawley	355g	
+fc barreirense	g7q	
+formemrs	9d	
+fortywater	mlq	
+gaven	4b4v	
+geheimaktion schwarze kapelle	3iot	
+george mikhailovitch of russia	6d9a	
+gerben		5q5t:2
+gerben karstens	5q5t	
+graffiedi	3587	
+helforin	3cf	
+hwangseong county	24n5	
+hydroelectric engineer	62v1	
+inada tetsu	4bmv	
+jankovac	4lsm	
+jogi loew	1l0x	
+jogi low	1l0x	
+john robison	5b0k	
+john robison physicist	5b0k	
+john robison scotland	5b0k	
+john swithen	308	
+keyhole limpet	xcs	
+la plus belle soiree de ma vie	5oyf	
+llucmajor	1yt2	
+llucmajor spain	1yt2	
+luitre	1303	
+maxlatino	1nbp	
+mintoff	5tag	
+missions catholic	qt	
+missions in mafia the city of lost heaven	5k11	
+missions of call of duty	flx	
+missions of gemini project	52or	
+myhailo hrushevsky	2j0v	
+navajun	4wu7	
+oslotrikken	594h	
+paraedis	fbf	
+paretroplus	6a1k	
+paul haig	1i7h	
+paul haig comments	1i7h	
+paul mccrane	2u9m	
+paul theroux	yel	
+pentapotamia	q7z	
+peter alexeyevich	2n1z	
+peter alexeyevich romanov	2n1z	
+peter bienewitz	44wq	
+petreto		2i3h:2
+petreto bicchisano	2i3h	
+pianico	5qvv	
+pigny	3tnv	
+pleinfeld	w0l	
+pogroms	65r0	
+puntoriere	5rsj	
+quasimetric	4sv1	
+quasimetric space	4sv1	
+rachmawati		51tg:2
+rachmawati soekarnoputri	51tg	
+rachmawati sukarnoputri	51tg	
+ravilloles	36er	
+rebekkah		59k1:2
+rebekkah brunson	59k1	
+rives	2ltu,3qo6	33bg:4,362d:2,3wlw:3,40qk:3
+rives county missouri	x5x	
+rives d		3wlw:3
+rives d andaine	3wlw	
+rives de		33bg:4
+rives de l		33bg:4
+rives de l yon	33bg	
+rives dervoises	362d	
+rives du lac leman	1i6k	
+rives en		40qk:3
+rives en seine	40qk	
+rives isere	2ltu	
+rives lot et garonne	3qo6	
+rives sur fure	2ltu	
+robert fries	4s39	
+robertot	3oxk	
+rodlach	1tw1	
+saddlemen	1lat	
+sculpt	8zc	
+sectopod	6ewm	
+semion		5gcg:2,5vqa:2
+semion bogdanov	2mnw	
+semion braude	5gcg	
+semion budionnyi	shv	
+semion grossu	5vqa	
+semion grossu cabinet	5vqa	
+semion ivanov	36ig	
+semion timoshenko	s0f	
+septsarges	3jox	
+severonikel	2x61	
+skyfari	2d7q	
+skyone	v7o	
+skyone co uk	v7o	
+skytram	158j	
+smorgonie	2n7z	
+sokker	6	
+sorell	5efc	5efc:2
+sorell council	5efc	
+strophariaceae	2ki7	
+sumatran		6cmj:2
+sumatran orangutan	6cmj	
+sumatran orangutans	6cmj	
+sumatran rat monkey	4xkj	
+svilengrad	1ir5,2so3	
+svilengrad bulgaria	2so3	
+svilengrad municipality	1ir5	
+svilengrad obshtina	1ir5	
+synghman rhee	1up5	
+szerencs	4ebq	2ped:2
+szerencs district	2ped	
+telsa inc	q2h	
+telsa motors	q2h	
+the game	jgz,1jry,2qep,58r6	25kx:3,29gn:5,2x8s:4,4yxy:4,5u3y:4,5z7y:3,6hk7:3
+the game 1997 film	1jry	
+the game 2014 tv series	2qep	
+the game award	6hk7	
+the game awards	6hk7	
+the game bbc series	2qep	
+the game byatt novel	1nkd	
+the game factory	5z7y	
+the game is		2x8s:4
+the game is over	2x8s	
+the game keeper	8ri	
+the game maker s apprentice	4kkz	
+the game master	2j5d	
+the game of		29gn:5,4yxy:4,5u3y:4
+the game of death	1fji	
+the game of harmony	5su8	
+the game of love	5u3y	
+the game of love 2002 song	5u3y	
+the game of love carlos santana song	5u3y	
+the game of love santana and michelle branch song	5u3y	
+the game of love santana song	5u3y	
+the game of pope or pagan	174	
+the game of their		29gn:5
+the game of their lives	29gn	
+the game of their lives 2005 film	29gn	
+the game of thrones	584	
+the game of truth	4yxy	
+the game plan	25kx	
+the game plan film	25kx	
+the game queen	58r6	
+the game queen album	58r6	
+the game show network	mbu	
+the game uk tv series	2qep	
+the game wrestler	1kx3	
+theologiae graecae compendium	4nlf	
+trachurus	6emj	
+trelivan	221e	
+trichiana	34dd	
+tuas south extension	2n14	
+tuas west extension	2n14	
+tuckum	1nv1	
+uberlandia	k8z	gb9:3
+uberlandia e		gb9:3
+uberlandia e c	gb9	
+uberlandia esporte clube	gb9	
+ulker g s k	1klz	
+ulker istanbul	e3j	
+united international		u8p:3
+united international pictures	u8p	
+university at		247:3
+university at albany	563	
+university at albany state university at new york	563	
+university at albany the state university of new york	563	
+university at buffalo	247	
+university at buffalo college of arts sciences	247	
+university at buffalo suny	247	
+university at graz	5gy	
+university at lewisburg	ifo	
+university at lwow	8vi	
+university at padua	4af	
+unteriberg	3p8w	
+unteriberg schwyz	3p8w	
+unteriberg switzerland	3p8w	
+unteriberg sz	3p8w	
+vieni		3zsj:3
+vieni avanti		3zsj:3
+vieni avanti cretino	3zsj	
+vilajet	1e7e	
+wimborne	mru	mru:2,4r0r:4
+wimborne dorset	mru	
+wimborne minster	mru	
+wimborne minster dorset	mru	
+wimborne town	4r0r	4r0r:4
+wimborne town f		4r0r:4
+wimborne town f c	4r0r	
+wimborne town fc	4r0r	
+wydad	8ge	8ge:3
+wydad ac	8ge	
+wydad ac casablanca	8ge	
+wydad athletic		8ge:3
+wydad athletic club	8ge	
+wydad athletic club de fes	2yeg	
+wydad athletic fes	2yeg	
+wydad casablanca	8ge	
+wydad club	8ge	
+wydad de fes	2yeg	
+wydad fes	2yeg	

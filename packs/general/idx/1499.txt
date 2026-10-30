@@ -1,0 +1,564 @@
+aerial	4yhd	5nw:2,10kr:2,158j:2,68l1:2,6ft1:2
+aerial alberta	1naa	
+aerial attackers	faf	
+aerial attacks	faf	
+aerial bomb	5nw	
+aerial bombs	5nw	
+aerial cableway	158j	
+aerial combat	68l1	
+aerial interdiction	1g1p	
+aerial lift	6ft1	
+aerial love	35l6	
+aerial observation	10kr	
+aerial photo reconnaissance	10kr	
+aerial photographic reconnaissance	10kr	
+aerial photoreconnaissance	10kr	
+aerial powerline	1l85	
+aerial reconnaisance	10kr	
+aerial reconnaissance	10kr	
+aerial sharon	13on	
+aerial skiing	3hn	
+aerial striker	faf	
+aerial strikers	faf	
+aerial strikes	faf	
+aerial tram	158j	
+aerial tramway	158j	
+aerial tramways	158j	
+aerial transportation	17s	
+aerial vehicle	8v	
+aerial war	68l1	
+aerial warfare	68l1	
+aerial wire	4yhd	
+albavilla	3zyh	
+alder	364m	
+alder coppice primary school	6c7q	
+alder kurt	47v2	
+alder ontario	4fkx	
+alder shot	7lh	
+alder thomas	65bv	
+alder tree	364m	
+allhalabad	6g7	
+amamioshima	4zlm	
+antsiraana	5yn1	
+archmagi	3r8e	
+arcus 94c	54px	
+arcus triumphalis	ais	
+asian		qh:2,byj:3,ejt:3,fm3:3,lu8:4,mye:3,qjh:2,1ojx:6,1qbq:6,1sio:3,2e6s:7,2rgg:3,2y44:3,2ypi:6,3mzs:5,3p7a:3,3piv:3,3rzi:4,4if5:4,4y33:3,519z:5,595a:3,5dyv:7,5nii:5,5w1l:3,6fmf:2,6hsv:2
+asian america	6fmf	
+asian american	6fmf	
+asian american culture	6fmf	
+asian american health	6fmf	
+asian american moon moth	1l6b	
+asian americans	6fmf	
+asian americans by location	6fmf	
+asian and pacific theatre of world war ii	6h81	
+asian athletics		2y44:3
+asian athletics championships	2y44	
+asian athletics championships 2017	b2z	
+asian badminton championships	3puy	
+asian badminton confederation	3q8v	
+asian baseball		3piv:3
+asian baseball championship	3piv	
+asian box		5w1l:3
+asian box turtle	5w1l	
+asian box turtles	5w1l	
+asian calligraphy	3lxy	
+asian champion club tournament	1szu	
+asian champions cup	1szu	
+asian champions league	1szu	
+asian championships in athletics	2y44	
+asian chess federation	hz8	
+asian club championship	1szu	
+asian continent	mu	
+asian continental championships	3puy	
+asian cup	4r0z	
+asian cup 2015	357	
+asian cycling		1sio:3
+asian cycling championships	1sio	
+asian dawn	iqw	
+asian dawn movement	iqw	
+asian development		ejt:3
+asian development bank	ejt	
+asian dub		4y33:3
+asian dub foundation	4y33	
+asian dynasties	6e58	
+asian elephant	qjh	
+asian elephants	qjh	
+asian ethnicity	6hsv	
+asian female	6hsv	
+asian film		1ojx:6,1qbq:6,2e6s:7,2ypi:6,3p7a:3,5dyv:7
+asian film award	3p7a	1ojx:6,1qbq:6,2e6s:7,2ypi:6,5dyv:7
+asian film award for		1ojx:6,1qbq:6,2e6s:7,2ypi:6,5dyv:7
+asian film award for best		1ojx:6,1qbq:6,2e6s:7,2ypi:6,5dyv:7
+asian film award for best actor	2ypi	
+asian film award for best actress	1ojx	
+asian film award for best director	1qbq	
+asian film award for best supporting		2e6s:7,5dyv:7
+asian film award for best supporting actor	2e6s	
+asian film award for best supporting actress	5dyv	
+asian film awards	3p7a	
+asian football		mye:3
+asian football confederation	mye	
+asian football federation	mye	
+asian games	qh	
+asian games 2006	nt	
+asian games 2010	j7	
+asian games 2014	19p	
+asian games doc	qh	
+asian goddess	55s	
+asian handball women championship	5nii	
+asian highway	fm3	fm3:3
+asian highway 1	vfz	
+asian highway 2	4zuw	
+asian highway 3	4en4	
+asian highway 6	5f5c	
+asian highway agreement	fm3	
+asian highway network	fm3	
+asian highway network 1	vfz	
+asian highway network 2	4zuw	
+asian highway network 6	5f5c	
+asian horned frog	ssw	
+asian hornets	5x50	
+asian indian	2son	
+asian institute		4if5:4
+asian institute of		4if5:4
+asian institute of technology	4if5	
+asian institute of technology bangkok	4if5	
+asian judo		2rgg:3
+asian judo championships	2rgg	
+asian junior		3rzi:4
+asian junior badminton		3rzi:4
+asian junior badminton championships	3rzi	
+asian kung		lu8:4
+asian kung fu		lu8:4
+asian kung fu fighting	lu8	
+asian kung fu generation	lu8	
+asian kungfu generation	lu8	
+asian ladies football confederation	mye	
+asian lance headed viper	12o0	
+asian lancehead	12o0	
+asian man	byj	byj:3
+asian man records	byj	
+asian maradona	2tl6	
+asian men		519z:5
+asian men s		519z:5
+asian men s handball		519z:5
+asian men s handball championship	519z	
+asian men s volleyball championship	595a	
+asian minor	rrb	
+asian miracle	6hm4	
+asian nations cup	4r0z	
+asian ocean	2hh	
+asian one horned rhino	57xw	
+asian one horned rhinoceros	57xw	
+asian otter	6bej	
+asian pacific economic cooperation	wgs	
+asian palm pit viper	12o0	
+asian people	6hsv	
+asian peoples and cultures	6hsv	
+asian person	6hsv	
+asian pit viper	12o0	
+asian pizza	2h4r	
+asian race	6hsv	
+asian regional games	1e7l	
+asian rhinoceros	57xw	
+asian river turtle	4ux4	
+asian river turtles	4ux4	
+asian saga	5u2m	5u2m:3
+asian seaperch	m7a	
+asian senior mens volleyball championship	595a	
+asian senior women s championship	3mzs	
+asian senior women s volleyball championship	3mzs	
+asian senior womens volleyball championship	3mzs	
+asian short clawed otter	6bej	
+asian small clawed otter	6bej	
+asian small clawed otters	6bej	
+asian soccer cup	4r0z	
+asian studies	bl9	
+asian studies center michigan state university	wx	
+asian subcontinent	6gv5	
+asian summer games	qh	
+asian theater of world war ii	3tm	
+asian theatre of world war ii	3tm	
+asian thrush	3nei	
+asian tiger	6hm4	
+asian tigers economics	6hm4	
+asian tour 2015 2016	5cxo	
+asian track and field meeting	2y44	
+asian turkey	rrb	
+asian volleyball		595a:3
+asian volleyball championship	595a	
+asian wedding	18qt	
+asian women		3mzs:5,5nii:5
+asian women s		3mzs:5,5nii:5
+asian women s club volleyball championship	5pyb	
+asian women s handball		5nii:5
+asian women s handball championship	5nii	
+asian women s volleyball		3mzs:5
+asian women s volleyball championship	3mzs	
+asian world center	815	
+autoharp	3o1x	
+avgvstvs	mus	
+bakero	26q3	
+bakiyaraj	in9	
+balgau	30pc	
+bangaru		68ej:2,6ehr:2
+bangaru gaajulu	68ej	
+bangaru gajulu	68ej	
+bangaru papa	6ehr	
+berenguela	1tnq	
+berenguela i de castilla	1tnq	
+berenguela of barcelona	1zxn	
+berenguela of castile	1tnq	
+berenguela of castilla	1tnq	
+berenguela of leon	2jbx	
+berenguela of portugal	1fw5	
+blutwurst	4d7z	
+bombycia	6ejv	
+bonde alexander	5yqr	
+bonde la ufa province	2zuo	
+burgessius	gb4	
+burguillos		28tf:3
+burguillos del		28tf:3
+burguillos del cerro	28tf	
+cephei	g3v	
+cephei star	3ha1	
+cephei variable	3ha1	
+chakri	l7w	9a8:2
+chakri composer	l7w	
+chakri dynasty	9a8	
+chakri maha prasat throne hall	kxm	
+chakri mahaprasad throne hall	kxm	
+chakri monarchs	9a8	
+chakri music director	l7w	
+changming	5dp3	
+charentenay	3pz0	
+chautauqua		h4d:2,13c8:2
+chautauqua county	h4d,13c8	
+chautauqua county kansas	13c8	
+chautauqua county ks	13c8	
+chautauqua county new york	h4d	
+chautauqua county ny	h4d	
+chautauqua festival	1oq1	
+ciphered	69fm	
+cmdr	j5s	
+cmdr data	6fhw	
+cmdr hadfield	23u2	
+cmdr james bond	ajz	
+cmdr riker	52n4	
+comps	34tr	2n8v:3,2zge:4
+comps drome	34tr	
+comps la		2zge:4
+comps la grand		2zge:4
+comps la grand ville	2zge	
+comps sur		2n8v:3
+comps sur artuby	2n8v	
+coronation	pmq	6u8:2,s0l:2,16uj:4,64lz:2
+coronation ceremony	pmq	
+coronation doc	pmq	
+coronation gulf	s0l	
+coronation honours	3usf	
+coronation of		16uj:4
+coronation of isabella d este	22xo	
+coronation of napoleon		jpb:4
+coronation of the		16uj:4
+coronation of the hungarian monarch	pmq	
+coronation of the virgin	16uj	
+coronation of the virgin angelico louvre	16uj	
+coronation of the virgin fra angelico louvre	16uj	
+coronation of the virgin fra angelico paris	16uj	
+coronation or the last of the romanovs	64lz	
+coronation park eastwood	gm1	
+coronation st	6u8	
+coronation street	6u8	
+coronation street broadcast timeline	6u8	
+coronation street broadcast timeline uk	6u8	
+coronation street viva las vegas	6u8	
+creampuffs	5xec	
+crestot	3mjb	
+csj bofop	6th	
+daghestani peoples	95d	
+desana	46u2	
+desana moth	3enm	
+dovid hamelech	bf0	
+eating	2qpa	2kku:2,45y7:2,5jcs:5
+eating disorder	2kku	
+eating disorder ed	2kku	
+eating disorders	2kku	
+eating fish	3z7p	
+eating meat	747	
+eating out		5jcs:5
+eating out 2	5jcs	5jcs:5
+eating out 2 sloppy		5jcs:5
+eating out 2 sloppy seconds	5jcs	
+eating raoul	45y7	
+eating set	13kr	
+eating sweets makes children hyperactive	bjg	
+edivaldo		387k:2,3uu0:3
+edivaldo da silva	3an	
+edivaldo fonseca	3uu0	
+edivaldo hermoza	387k	
+edivaldo martins		3uu0:3
+edivaldo martins da fonseca	3uu0	
+edivaldo martins fonseca	3uu0	
+edivaldo rojas	387k	
+elenoa mara	4x19	
+epiphany		4vpu:2
+epiphany bosch painting	4vpu	
+epiphany proudfoot	114u	
+epiphany staind	17ev	
+exelastis	4bqy	
+fc khimik		6p3:3,k13:3,12z7:3,3kp7:3
+fc khimik arsenal	k13	
+fc khimik balakovo	1ty1	
+fc khimik belorechensk	3kp7	
+fc khimik dzerzhinsk	6p3	
+fc khimik dzerzhynsk	6p3	
+fc khimik dzhambul	b9t	
+fc khimik grodno	729	
+fc khimik hrodna	729	
+fc khimik kalush	621o	
+fc khimik kemerovo	8n5	
+fc khimik novomoskovsk	k13	
+fc khimik stepnogorsk	dlk	
+fc khimik svetlogorks	12z7	
+fc khimik svetlogorsk	12z7	
+fc khimik togliatti	458	
+fc khimik zhytomyr	vxk	
+fointainebleau	62l	
+forminifera	5yuu	
+frederick dickens	62f4	
+gilgitbaltistan territory	3utg	
+giraudoux	16yz	
+giraudoux hyppolyte	16yz	
+gmina gorzkowice	k8e	
+gmina koronowo	hrt	
+gmina wiazowna	zn3	
+gottleib fichte	1zcd	
+hairdresser	gkh	
+hairdresser s husband	28hp	28hp:4
+harpercollins	14n	
+harpercollins india	14n	
+harpercollins music entertainment	14n	
+harpercollins publishers	14n	
+hexagon	22u0	
+hexagon video game	3c0j	
+imling	2ior	
+iskra bugojno	1fdc	
+iskra engels	2uva	
+iskra kielce	zww	
+iskra olimpija	c87	
+iskra smolensk	lgv	
+iskra stal	lzl	
+iskra stal ribnita	lzl	
+iskra stali ribnita	lzl	
+iskra zilina	5vf	
+ivancna gorica	811	
+john mowbray	5xs3	
+john mowbray 2nd duke of norfolk	648t	
+john mowbray iii	5xs3	
+karahisar i sahip	fx4	
+karahisar i sarip	fx4	
+klavier song	5qrr	
+kokusen ya	5r58	
+kuala		21m:2,1bo7:2,2y4s:4,3z7w:4,4hec:4
+kuala lampur	21m	
+kuala lumpur	21m	3z7w:4,4hec:4
+kuala lumpur airport	3z7w	
+kuala lumpur comments	21m	
+kuala lumpur commonwealth games	1pu0	
+kuala lumpur int l	3z7w	
+kuala lumpur international		3z7w:4
+kuala lumpur international airport	3z7w	
+kuala lumpur international airport doc	3z7w	
+kuala lumpur international airport terminals	3z7w	
+kuala lumpur malaysia	21m	
+kuala lumpur monorail	5gy1	
+kuala lumpur putra light rail transit	1mns	
+kuala lumpur sentral		4hec:4
+kuala lumpur sentral railway station	4hec	
+kuala lumpur sentral station	4hec	
+kuala lumpur subang international airport	5shn	
+kuala lumpur twin towers	6d2t	
+kuala muda		2y4s:4
+kuala muda naza	2y4s	2y4s:4
+kuala muda naza f c	2y4s	
+kuala muda naza fc	2y4s	
+kuala muda naza fc president s cup	2y4s	
+kuala terengganu	1bo7	
+kuala terengganu malaysia	1bo7	
+kuala terengganu terengganu	1bo7	
+kuala trengganu	1bo7	
+kurdishturkish		6c4r:2
+kurdishturkish conflict	6c4r	
+kurdishturkish conflict 2015 present	4ta4	
+kurdishturkish conflict 2015present	4ta4	
+kuusjarvi	2dno	
+la cour		3b9f:3
+la cour marigny	3b9f	
+la croixille	334f	
+lagmannsrett	67mo	
+le rousset	34tz	3nhd:3
+le rousset marizy	3nhd	
+lempicka	4r0h	
+longhanded poker	dmu	
+luristan	nwa	
+luristan civilization	nwa	
+luristan province	nwa	
+maastrichtian	60vw	
+maastrichtian age	60vw	
+maastrichtian geological period	60vw	
+maastrichtian stage	60vw	
+mammoths	5bm4	
+mangghystau	1ax5	
+mangghystau oblysy	1ax5	
+mangghystau province	1ax5	
+mangghystau province kazakhstan	1ax5	
+manhasset	eu6	
+manhasset lakeville fire department	eu6	
+manhasset long island new york	eu6	
+manhasset new york	eu6	
+manhasset ny	eu6	
+marital	46q	
+martinengo	23bk	
+martinengo italy	23bk	
+materialgirls	3zcv	
+medicins sans frontieres	4qyu	
+medicins sans frontiers	4qyu	
+michael gregoritsch	45n6	
+michael johanns	55c4	
+millipoiseuille	5h46	
+minnetonka	xao	
+minnetonka minnesota	xao	
+minnetonka mn	xao	
+montcenis	3kob	
+morolo	4492	
+mycobutin	5m4l	
+mycobutin tn	5m4l	
+nastic	4mw	
+nephropathy	ggo	
+nerds of the coast	8ri	
+neurocore	57m7	
+new bury	nk0	
+new nine	37z5	
+noc	7km	
+noc kupay	56ti	
+noc swietojanska	56ti	
+nudibranch	2e0y	
+oakland	xq,l74,3ig3	d2w:2,l74:2,21yw:2,3o3q:2,4hgz:2,6fvp:4
+oakland a s	1af	
+oakland a s sports	1af	
+oakland afl	xq	
+oakland alameda coliseum	4hgz	
+oakland alameda colosseum	4hgz	
+oakland alameda county	81p	
+oakland alameda county coliseum	4hgz	
+oakland alameda county colosseum	4hgz	
+oakland american league baseball club	1af	
+oakland as	1af	
+oakland asletics	1af	
+oakland athletics	1af	
+oakland athletics roster	1af	
+oakland athletocs	1af	
+oakland bergen county new jersey	3ig3	
+oakland brant county ontario	3lwe	
+oakland ca	xq	
+oakland calif	xq	
+oakland california	xq	
+oakland clippers	3o3q	
+oakland coliseum	4hgz	
+oakland colosseum	4hgz	
+oakland country	d2w	
+oakland county	d2w	
+oakland county mi	d2w	
+oakland county mich	d2w	
+oakland county michigan	d2w	
+oakland county sheriff	d2w	
+oakland gardens	1cwm	
+oakland gardens connecticut	nib	
+oakland gardens new york	1cwm	
+oakland gardens queens	1cwm	
+oakland hills		6fvp:4
+oakland hills cc	6fvp	
+oakland hills country		6fvp:4
+oakland hills country club	6fvp	
+oakland n j	3ig3	
+oakland new jersey	3ig3	
+oakland new jersey schools	3ig3	
+oakland nj	3ig3	
+oakland raider	1mg	
+oakland raiders	1mg	
+oakland raiders football team	1mg	
+oakland seals	86p	
+oakland seals seasons	86p	
+oakland senors	1mg	
+oakland stompers	21yw	
+oakland township alameda county california	81p	
+oakland u	l74	
+oakland university	l74	
+oakland warriors	27w	
+onomichi	xec	62qu:2
+onomichi expressway	62qu	
+onomichi hiroshima	xec	
+oosgrensafrikaans	84e	
+osuna	rbc	
+osuna sevilla	rbc	
+osuna seville	rbc	
+osuna spain	rbc	
+palois	4s1	
+paul otlet	5ecd	
+pickle	215n	215n:2
+piknik	4nmi	
+polyptychoides	5trp	
+prince feodor		1pxm:5
+prince feodor alexandrovich		1pxm:5
+prince feodor alexandrovich of		1pxm:5
+prince feodor alexandrovich of russia	1pxm	
+pseudoephedrine	53pk	
+pseudoephedrine hci	53pk	
+pseudoephedrine hcl	53pk	
+pseudoephedrine hydrochloride	53pk	
+renouard charles	5kms	
+rozstani	3265,4d1s	
+rozstani prostejov district	3265	
+rozstani svitavy district	4d1s	
+sakhyamuni buddha	x31	
+sawfin shiner	cxj	
+sb9	11zd	
+sealavender	3fhp	
+semanophorae	29xz	
+sestri		28fh:2
+sestri levante	28fh	
+sestri levante calcio	3ys2	
+shankarjaikishan	dnk	
+shinsawbu	580t	
+siderograptis	6d6k	
+sinobu hasimoto	2amy	
+sinobu terazima	4oyt	
+siobhandonaghy	4q4w	
+sjfc	2kt	
+sociological	6hz	
+sociological concept	2il	
+sociological group	l30	
+sociological inquiry	6hz	
+stenelmis	3ym9	
+swietoslava	2m14	
+tapton hall of residence	2m7	
+the frayed ends of sanity	3rxa	
+the marseilles connection	14uw	
+the pcd	tdj	
+the vor		6ahr:3
+the vor game	6ahr	
+the wilkinsons	62e0	
+torrelodones	2aiw	
+totaka	20bj	
+totaka kazumi	20bj	
+totaka s song	20bj	
+totde	168g	
+ukmerge	1my6	3s9t:3
+ukmerge district	3s9t	3s9t:3
+ukmerge district municipality	3s9t	
+wcw1	28qu	
+xwiki	2cmt	
+xwiki com	2cmt	
+zhara	4cjh	

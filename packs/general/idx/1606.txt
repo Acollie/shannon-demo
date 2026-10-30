@@ -1,0 +1,481 @@
+5fdp	1aad	
+a banksy film	1jwt	
+abzelilovsky	4tid	4tid:2
+abzelilovsky district	4tid	
+abzelilovsky municipal district	4tid	
+adurna	6drq	
+agnez		279k:3,4srg:2
+agnez les		279k:3
+agnez les duisans	279k	
+agnez mo	4srg	
+agnez monica	4srg	
+andalusi	6fv	
+anikki sixx	1rn9	
+ashantee 1873 74	5k88	
+bamajam	1cec	
+bamajam music arts festival	1cec	
+bayrut	1dd	
+baywatch	4x4m	
+baywatch 2017	4x4m	
+baywatch 2017 film	4x4m	
+baywatch film	4x4m	
+bellaspira	5lez	
+bepara	gl6	
+bogy	42q4	
+boinc	175v	175v:2
+boinc account manager	175v	
+boinc projects	175v	
+boinc topics	175v	
+bojinov	3i79	
+bouconvillers	3r5p	
+buitenzorg	ifn	
+buitenzorg regency	1hhr	
+capricornia	gy0	
+cate	1oym	ede:2,6ftb:2
+cate blanchet	ede	
+cate blanchett	ede	
+cate blanchette	ede	
+cate shortland	6ftb	
+champrosay	sd0	
+chennevieres		1l2s:3,357v:3
+chennevieres les		357v:3
+chennevieres les louvres	357v	
+chennevieres sur		1l2s:3
+chennevieres sur marne	1l2s	
+chennevieres sur marne france	1l2s	
+chresmarcha	1apn	
+clyde		2by:3,hql:2,mgs:3,13gp:2,13tc:2,1j97:2,1m3g:2,468x:2,47dp:2,5axa:2,5dad:3,5ihk:2,5qgt:2,5zg9:2,5zuf:2
+clyde austin drexler	468x	
+clyde best	5zuf	
+clyde bruckman	hql	
+clyde cadwell	5zg9	
+clyde caldwell	5zg9	
+clyde colin campbell 1st baron	4zt0	
+clyde cook	1m3g	
+clyde cook actor	1m3g	
+clyde cooke	1m3g	
+clyde crane campbell	5l9r	
+clyde de		mgs:3
+clyde de vinna	mgs	
+clyde devinna	mgs	
+clyde drexler	468x	
+clyde ellis	5dad	
+clyde engineering	13tc	
+clyde estuary	44gg	
+clyde f		2by:3
+clyde f c	2by	
+clyde f c reserves and youth squads	2by	
+clyde f c reserves and youth teams	2by	
+clyde fc	2by	
+clyde fitch	47dp	
+clyde foley	3fbm	
+clyde football club	2by	
+clyde frazier	35sm	
+clyde frost	3v1f	
+clyde geronimi	13gp	
+clyde j foley	3fbm	
+clyde jackson browne	jje	
+clyde julian foley	3fbm	
+clyde k kluckhohn	5qgt	
+clyde k m kluckhohn	5qgt	
+clyde kay maben kluckhohn	5qgt	
+clyde kluckhohn	5qgt	
+clyde kusatsu	1j97	
+clyde lensley mcphatter	5ihk	
+clyde mcpatter	5ihk	
+clyde mcphatter	5ihk	
+clyde reeves elementary school	lge	
+clyde river	44gg	
+clyde river scotland	44gg	
+clyde sawyer	1b0z	
+clyde t ellis	5dad	
+clyde taylor		5dad:3
+clyde taylor ellis	5dad	
+clyde the glide	468x	
+clyde valley	44gg	
+clyde wijnhard	5axa	
+coe	qot	
+coe college	1awt	
+coe george	48cg	
+coe int	gau	
+coe jonathan	3ekm	
+coe kohawks	1awt	
+coe kohawks football	1awt	
+coe kohawks men s basketball	1awt	
+coe kohawks track and field	1awt	
+colorado	fm	232:2,3f0:2,3ts:2,3w9:3,3wg:2,6sm:4,884:2,8nt:2,92r:2,bd7:6,fga:2,mbg:4,mtm:2,qlg:4,yoc:2,1bj2:4,1ly8:2,1p4k:2,2ab7:2,2q7l:4,2rnt:3,307y:2
+colorado a m	3w9	
+colorado agricultural college	3w9	
+colorado arsenal	3ts	
+colorado avalanche	3wg	
+colorado avalanche hockey	3wg	
+colorado avalanche nhl	3wg	
+colorado avelanche	3wg	
+colorado boulder	2y4	
+colorado broncos	169	
+colorado canyon	6g0i	
+colorado caribou	307y	
+colorado caribous	307y	
+colorado city jefferson territory	3f0	
+colorado college	884	
+colorado college tigers	884	
+colorado college tigers men s basketball	884	
+colorado college tigers men s soccer	884	
+colorado college tigers women s soccer	884	
+colorado colorado springs	3f0,4dlw	
+colorado county	1p4k	
+colorado county texas	1p4k	
+colorado county tx	1p4k	
+colorado denver	d92	
+colorado department		6sm:4
+colorado department of		6sm:4
+colorado department of highways	6sm	
+colorado department of transportation	6sm	
+colorado dept of transportation	6sm	
+colorado dot	6sm	
+colorado ec	3lm	
+colorado foxes	mtm	
+colorado free people s militia	48xq	
+colorado governor	sg7	
+colorado mesa	2rnt	2rnt:3
+colorado mesa university	2rnt	
+colorado nuggets	2z3	
+colorado party	92r,yoc	
+colorado party paraguay	yoc	
+colorado party uruguay	92r	
+colorado railway	4alk	
+colorado rapids	3ts	qlg:4
+colorado rapids soccer club	3ts	
+colorado rapids u		qlg:4
+colorado rapids u 23	qlg	
+colorado rapids u23	qlg	
+colorado rapids u23 s	qlg	
+colorado river	fga,1ly8	
+colorado river basin	fga	
+colorado river colo mexico	fga	
+colorado river of texas	1ly8	
+colorado river system southwest u s	fga	
+colorado river texas	1ly8	
+colorado river tx	1ly8	
+colorado river u s	fga	
+colorado river united states	fga	
+colorado river us	fga	
+colorado river watershed	fga	
+colorado rockies	232,8nt	
+colorado rockies ice hockey	8nt	
+colorado rockies nhl	8nt	
+colorado rockies nhl captains	8nt	
+colorado rockies nhl head coaches	8nt	
+colorado rockies sports	232	
+colorado school		mbg:4
+colorado school of		mbg:4
+colorado school of mines	mbg	
+colorado school of the mines museum	mbg	
+colorado seminary	36g	
+colorado springs	3f0	1bj2:4
+colorado springs army air base	4cwh	
+colorado springs army airfield	4cwh	
+colorado springs co	3f0	
+colorado springs colo	3f0	
+colorado springs switchbacks	1bj2	1bj2:4
+colorado springs switchbacks fc	1bj2	
+colorado springs switchbacks fc squad	1bj2	
+colorado springs tourism	3f0	
+colorado springs usl pro team	1bj2	
+colorado state	fm,3w9	3w9:3,2q7l:4
+colorado state college	bke	
+colorado state college of agriculture and mechanic arts	3w9	
+colorado state college of education	bke	
+colorado state fort collins	3w9	
+colorado state governor	sg7	
+colorado state highway 106	66ol	
+colorado state highway department	6sm	
+colorado state pueblo	2q7l	
+colorado state university	3w9	2q7l:4
+colorado state university at pueblo	2q7l	
+colorado state university fort collins	3w9	
+colorado state university pueblo	2q7l	
+colorado state universitypueblo	2q7l	
+colorado territorial governor	sg7	
+colorado territory	2ab7	
+colorado territory film	2ab7	
+colorado territory movie	2ab7	
+colorado u s state	fm	
+colorado united states	fm	
+colorado women		bd7:6
+colorado women of achievement	bd7	
+colorado women s		bd7:6
+colorado women s hall		bd7:6
+colorado women s hall of		bd7:6
+colorado women s hall of fame	bd7	
+congeveram	4ffj	
+cosplay song	16g3	
+crouay	1ok4	
+cruseilles	1pxo	
+discochaetodon	gb4	
+dnva	1sl	
+dsb	5ih,5d8t	
+dsb bank cycling team	o45	
+dsb bank lto	o45	
+dsb bank nederland bloeit	o45	
+dsb faerjedivision	5ih	
+dsb farjedivision	5ih	
+dsb n	1qso	
+dsb railway company	5ih	
+dsb s tog	5ih	
+durocortorum	39a	
+edward leamington		43nt:3
+edward leamington nichols	43nt	
+errormsg	2d1z	
+escaped	46ul	46ul:2
+escaped prisoner	53xp	
+evis mykolaiv	9e4	
+externalhdd	2k8n	
+fc semendria 1924	6j9	
+fc semendria 1924 smederevo	6j9	
+flugelaltar	1klk	
+forger		58kw:2
+forger forgery	6esh	
+forger of london	2xnm	2xnm:4
+gattamaneni krishna	jgv	
+gattamaneni mahesh babu	m6y	
+geir	dkx	47wo:2,4yby:2,5qgw:3
+geir andre		5qgw:3
+geir andre herrem	5qgw	
+geir first name	dkx	
+geir frigard	4yby	
+geir given name	dkx	
+geir h haarde	47wo	
+geir haarde	47wo	
+geir hilmar haarde	47wo	
+geir jenssen	2cbe	
+gmina bogoria	qk7	
+gmina boniewo	zwy	
+gmina lasin	whx	
+gmina woszczowa	tpu	
+harkenclenus	1fad	
+hephaiston	6gwc	
+hksg	1ay	
+houlle	3cat	
+iliad	cq6	
+iliad comments	cq6	
+iliad doc	cq6	
+illava	18qe	
+james cotton	43g2	
+james cotton blues band	43g2	
+jdtfc	9i2	
+john freeman	co9,61i2	5zm6:6
+john freeman british politician	61i2	
+john freeman mitford	5zm6	5zm6:6
+john freeman mitford 1st		5zm6:6
+john freeman mitford 1st baron		5zm6:6
+john freeman mitford 1st baron redesdale	5zm6	
+john freeman mitford baron redesdale	5zm6	
+john krazinski	smy	
+kelamayi xinjiang	3ru3	
+latyczow	4wz2	
+liedermacher	67	
+likewise open	6auo	
+macanese american	1n9n	
+maczek	2guz	
+mandolino	3qx	
+marveolous inc	25jw	
+milav	r99	
+minecraftia	wm2	
+minegolia	uw	
+mocambique	17f	
+mocambique city	4i5q	
+mocambique colonial champions	19gp	
+muhammadu		3bru:2
+muhammadu buhari	3bru	
+muhammadu buhari vacation	3bru	
+newtownlimavady	478w	
+noceria	ts6	
+nouaille		2y28:2
+nouaille maupertuis	2y28	
+parguay river	zyq	
+peter i	1vw0	160d:4,1p77:4,1sv5:4,2ei5:6,3fdg:6,3izs:5,48uo:4,4km8:4,53xw:5,5ezw:4,61b1:5
+peter i count		2ei5:6,53xw:5
+peter i count of		2ei5:6,53xw:5
+peter i count of alencon	1jxp	
+peter i count of saint		2ei5:6
+peter i count of saint pol	2ei5	
+peter i count of savoy	53xw	
+peter i count of urgell	1x4n	
+peter i duke		3izs:5
+peter i duke of		3izs:5
+peter i duke of bourbon	1vw0	
+peter i duke of brittany	3izs	
+peter i duke of oldenburg	4km8	
+peter i grand duke of oldenburg	4km8	
+peter i karadjordjevic	1p77	
+peter i karadjordjevic of serbia	1p77	
+peter i karadordevic of serbia	1p77	
+peter i karageorgevitch	1p77	
+peter i karaorevic	1p77	
+peter i karaorevic of serbia	1p77	
+peter i king of the serbs croats and slovenes	1p77	
+peter i monument		61b1:5
+peter i monument in		61b1:5
+peter i monument in taganrog	61b1	
+peter i of		160d:4,1p77:4,1sv5:4,3fdg:6,48uo:4,4km8:4,5ezw:4
+peter i of alencon	1jxp	
+peter i of aragon	3fdg	3fdg:6
+peter i of aragon and		3fdg:6
+peter i of aragon and navarre	3fdg	
+peter i of aragon and pamplona	3fdg	
+peter i of aragon navarre	3fdg	
+peter i of barcelona	20p3	
+peter i of bourbon	1vw0	
+peter i of brittany	3izs	
+peter i of bulgaria	5ezw	
+peter i of castile	1nhv	
+peter i of catalonia	20p3	
+peter i of constantinople	1acb	
+peter i of courtenay	1sv5	
+peter i of cyprus	48uo	
+peter i of luxembourg	2ei5	
+peter i of luxembourg count of saint pol	2ei5	
+peter i of navarre	3fdg	
+peter i of oldenburg	4km8	
+peter i of portugal	160d	
+peter i of romania	1sv5	
+peter i of saint pol	2ei5	
+peter i of savoy	53xw	
+peter i of serbia	1p77	
+peter i of serbs croats and slovenes	1p77	
+peter i of sicily	zqk	
+peter i of urgel	1x4n	
+peter i of urgell	1x4n	
+peter i of valencia	zqk	
+peter i of yugoslavia	1p77	
+peter i the just	160d	
+plusliga	3d5d	
+praslin	42cu	
+praslin aube	42cu	
+prince achilleas andreas of greece and denmark	1var	
+princess fergie	2ar9	
+progress		7bi:2,eih:2,2479:8,6cah:5
+progress 7k tgm	eih	
+progress and democracy union	3dad	
+progress m	eih	
+progress of the species magazines	1du6	
+progress orenburg	5pt	
+progress party	7bi	6cah:5
+progress party iceland	258g	
+progress party norway	7bi	
+progress party noway	7bi	
+progress party of		6cah:5
+progress party of equatorial		6cah:5
+progress party of equatorial guinea	6cah	
+progress party of norway	7bi	
+progress plant	2479	
+progress rocket space center	2479	
+progress rocket space centre	2479	
+progress state		2479:8
+progress state research		2479:8
+progress state research and		2479:8
+progress state research and production		2479:8
+progress state research and production rocket		2479:8
+progress state research and production rocket space		2479:8
+progress state research and production rocket space center	2479	
+progress through technology	bns	
+psycopathic records	gl1	
+ptychopteryx	t7t	
+puig		2bl9:2
+puig city	23sh	
+puig i cadafalch	1qht	
+puig reig	2bl9	
+pursaklarspor	2fn4	
+pursaklarspor a s	2fn4	
+quisqueya heights	4vrc	
+rafita	4gb8	
+rafita ramos	4gb8	
+redesign	it6	
+reichenberger thomas	4i7w	
+robert koren	4j6m	
+rouvenac	32vm	
+rueppell	42yb	
+sade	sl5,2zn3	2o9i:2
+sade adu	2o9i	
+sade band	sl5	
+sade film	2zn3	
+sade movie	2zn3	
+sade singer	2o9i	
+sahabzade irrfan ali khan	gtc	
+saint hilarion	217x	
+sarno	1f8g	
+sarno italy	1f8g	
+scat back	s6	
+scat benny	tsj	
+scat man crothers	tsj	
+screens	4qod	
+sequoyah	65hy	pl9:2
+sequoyah comments	65hy	
+sequoyah county	pl9	
+sequoyah county ok	pl9	
+sequoyah county oklahoma	pl9	
+sequoyah middle school oklahoma	luu	
+sixto		2w6j:2,3q1i:2,50mb:3
+sixto diaz rodriguez	2w6j	
+sixto kayko	2mwn	
+sixto peralta	3q1i	
+sixto pondal	50mb	50mb:3
+sixto pondal rios	50mb	
+sixto rodriguez	2w6j	
+socsksargen	2st4	
+sonderriet	h9b	
+sou	2afc	
+sou wen	e3n	
+syvaeri	58it	
+syvaeri river	58it	
+tarabel	2yqq	
+taraneh		2nv0:2,5unq:2
+taraneh enterprises inc	2nv0	
+taraneh javanbakht	5unq	
+taraneh records	2nv0	
+the 1896 summer olympics	4r3	
+the bordellos		4hdh:4
+the bordellos of		4hdh:4
+the bordellos of algiers	4hdh	
+the chocolate		3h9v:3,3po7:3,4poa:3
+the chocolate girl	3h9v,4poa	
+the chocolate girl 1932 film	4poa	
+the chocolate girl 1950 film	3h9v	
+the chocolate girl film	3h9v	
+the chocolate room	5204	
+the chocolate soldier	3po7	
+the chocolate soldier film	3po7	
+the foreman		2ge0:5
+the foreman went		2ge0:5
+the foreman went to		2ge0:5
+the foreman went to france	2ge0	
+the harbor at caesarea	1xr2	
+the squid		2671:5
+the squid and		2671:5
+the squid and the		2671:5
+the squid and the whale	2671	
+tilaran		1lzc:2
+tilaran canton	1lzc	
+tingub mandaue	pse	
+tornimparte	3hcf	
+treebol	q3p	
+unconquered	11ho	
+unconquered film	11ho	
+uncrewed spaceflight	77l	
+ur	4zd,1z9n	
+ur album	96s	
+ur ananthamurthy	67nl	
+ur la		1yz8:4
+ur la louviere		1yz8:4
+ur la louviere centre	1yz8	
+ur law	1gxo	
+ur namur	p23	
+ur pyrenees orientales	1z9n	
+ur quan master	3sxh	
+ur quan masters	3sxh	
+ur sonata	3sd9	
+ur vile	6ern	
+verrayes	4ehp	
+vyssotsky alexander	67l8	
+wibbleyspang media	1410	

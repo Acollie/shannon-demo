@@ -1,0 +1,376 @@
+1260s	2bac	
+45auto	sxu	
+aengland	6v	
+agustawestmoreland	2j7h	
+akamassiss	zs	
+alfacar	43gt	
+alfacar granada	43gt	
+alfacar spain	43gt	
+alfeld	4jgy	
+alfeld an der leine	4jgy	
+alfeld leine	4jgy	
+alfeld leine station	4jgy	
+allexander ellis	5r3y	
+angyalok es demonok	6g2q	
+ankh		6hss:4
+ankh morpork		6hss:4
+ankh morpork city		6hss:4
+ankh morpork city watch	6hss	
+ankh morpork city watch members	6hss	
+anther yahia	22zi	
+antheuil	3waw	3k0l:2
+antheuil portes	3k0l	
+arabacus pulp	nxc	
+avventura	1q8v	
+babu	3shp	105z:2,3rio:2,6dep:2
+babu antony	105z	
+babu janardhanan	6dep	
+babu mohan	3rio	
+bcfc	yi	
+beirout	1dd	
+bobbin threadbare	6azc	
+brainicide	6g6w	
+brandi		2giv:2,42ek:2
+brandi carlile	2giv	
+brandi carlile band	2giv	
+brandi carlisle	2giv	
+brandi carlyle	2giv	
+brandi chastain	42ek	
+brandi denise chastain	42ek	
+brandi glenn cyrus	8u1	
+brandi svenning	1n2k	
+cabecera municipal	ov	
+chaouki		3gvo:3
+chaouki ben		3gvo:3
+chaouki ben saada	3gvo	
+chaouki bensaada	3gvo	
+charles hitchcock adams	27ng	
+chelmno	1bol	
+chelmno commune	1abx	
+chelmno county	1x27	
+citizen4	nfb	
+conville western cape	12l2	
+corruptions	etc	
+cuahatemoc	52m1	
+cyberpunker	qoy	
+czersk commune	aph	
+directed additivity	4pgv	
+directed distance	3cjz	
+drai	6cts	
+drai victor	6cts	
+dubne	221o	
+ebrinum	8g4	
+emh	5eoy	
+evro	5z6	
+fanilow	cov	
+fc u		5p0:4
+fc u craiova		5p0:4
+fc u craiova 1948	5p0	
+finlandia	35	1ewe:2,2uzn:2
+finlandia award	1ewe	
+finlandia junior prize	1ewe	
+finlandia palkinto	1ewe	
+finlandia pennsylvania	85t	
+finlandia prize	1ewe	
+finlandia trophy	2uzn	
+flemmings	54x9	
+flightstick	1jm	
+frankenweenie	u95,3eo6	
+frankenweenie 1984 film	3eo6	
+frankenweenie 2011	u95	
+frankenweenie 2011 film	u95	
+frankenweenie 2012 film	u95	
+frankenweenie feature	u95	
+frankenweenie film	3eo6	
+frankenweenie full length	u95	
+frankenweenie remake	u95	
+gelp	41j	
+glinojeck commune	ob7	
+gotse		13w0:2,1gm0:2
+gotse delchev	13w0,1gm0	
+gotse delchev blagoevgrad province	13w0	
+gotse delchev municipality	1gm0	
+gotse delchev opshtina	1gm0	
+gotse delchev town	13w0	
+hakluyt richard	5b0z	
+heartman	43m1	
+hunebedden	jjl	
+i cannibali	5hmn	
+jabez		5wbh:4
+jabez curry	5wbh	
+jabez l m curry	5wbh	
+jabez lamar		5wbh:4
+jabez lamar monroe		5wbh:4
+jabez lamar monroe curry	5wbh	
+jeresy city new jersey	20c	
+jever	2la7	
+john cabell breckenridge	1bu4	
+john cabell breckinridge	1bu4	
+john croucher	6fpp	
+jygeva	1q0p	
+kaiserpfalz	3gfq	
+kaiserpfalz saxony anhalt	3gfq	
+kanga		44s0:2
+kanga akale	44s0	
+kareliya discovery petrozavodsk	5qpq	
+kareliya erzi petrozavodsk	5qpq	
+kareliya petrozavodsk	5qpq	
+kareliya republic russia	jy0	
+kareliya respublika	jy0	
+kaveri	2la3,3xaw	
+kaveri actress	3xaw	
+kaveri river	2la3	
+keechee	3873	
+laciniella	2mwo	
+ladiz		os7:3
+ladiz rural		os7:3
+ladiz rural district	os7	
+lancara	2sw3	
+landsbegis	3bmp	
+le bastit	2318	
+lepidum regium	5pz	
+lete meurtrier	3tm9	
+mantes	ddx	ddx:3,16ui:3,2vck:4
+mantes gassicourt	ddx	
+mantes la		ddx:3,16ui:3,2vck:4
+mantes la jolie	ddx	
+mantes la jolie cherbourg railway	2vck	
+mantes la joliecherbourg		2vck:4
+mantes la joliecherbourg railway	2vck	
+mantes la ville	16ui	
+mantes sur seine	ddx	
+mcnamee anthony	4n4n	
+mcnamee david	5wpt	
+milkha		4bpc:2
+milkha singh	4bpc	
+misheh		1qfs:4
+misheh pareh	1qfs	1qfs:4
+misheh pareh rural		1qfs:4
+misheh pareh rural district	1qfs	
+mitani koki	2ubc	
+moyna		1key:2
+moyna macgill	1key	
+ottar king	6842	
+ottar vendelkraka	6842	
+ottar vendilkrake	6842	
+ottoman		17p:2,6cu:2,8dy:2,jjm:2,ynn:4
+ottoman architecture	6cu	
+ottoman armed forces	pr0	
+ottoman army	pr0	
+ottoman bath	4f8h	
+ottoman bed	78g	
+ottoman conquest of crete	5ba6	
+ottoman conquest of the balkans	ynn	
+ottoman dynasty	8dy	
+ottoman empire	17p	
+ottoman empire army	pr0	
+ottoman empire comments	17p	
+ottoman empire society	17p	
+ottoman fleet organisation during the greco ottoman war 1897	1e89	
+ottoman galilee	13r5	
+ottoman gardens	6cu	
+ottoman habsburg war 1683 1699	1b8p	
+ottoman habsburg war 16831699	1b8p	
+ottoman habsburg war 1788 1791	2r7i	
+ottoman habsburg war 17881791	2r7i	
+ottoman habsburg wars	5phe	
+ottoman hapsburg wars	5phe	
+ottoman holy league wars	1b8p	
+ottoman invasion of the balkans	ynn	
+ottoman medresa of sarajevo	r0g	
+ottoman military	pr0	
+ottoman military academy	3ad5	
+ottoman people	8dy	
+ottoman period	17p	
+ottoman principality of transylvania	15ci	
+ottoman raids	ynn	
+ottoman soldiers	pr0	
+ottoman sudan	2khm	
+ottoman sultan muhammad i	29bs	
+ottoman sultan muhammad iii	2npa	
+ottoman sultan muhammad iv	2jq4	
+ottoman sultan muhammad v	118i	
+ottoman sultan muhammad vi	15q9	
+ottoman sultanate	17p	
+ottoman thasos	4ddm	
+ottoman turkish	jjm	
+ottoman turkish 1500 1928	jjm	
+ottoman turkish architecture	6cu	
+ottoman turkish army	pr0	
+ottoman turkish language	jjm	
+ottoman turkish language 1500 1928	jjm	
+ottoman vilayet	1e7e	
+ottoman war academy	3ad5	
+ottoman wars	ynn	ynn:4
+ottoman wars in		ynn:4
+ottoman wars in europe	ynn	
+packaged drinking water	1p1i	
+packaged rebellion	65el	
+patricanship	4ubw	
+peno mascot	60i	
+pim	5dcb	
+pim balkestein	5hhi	
+pim de		3c01:4
+pim de la		3c01:4
+pim de la parra	3c01	
+pim first name	5dcb	
+pim fortuijn	2dmr	
+pim fortujn	2dmr	
+pim fortuyn	2dmr	
+pim fortuyn comments	2dmr	
+pim fortyun	2dmr	
+pim frank	1k7t	
+pim given name	5dcb	
+pim levelt	698k	
+pim lighart	3am9	
+pim ligthart	3am9	
+pim name	5dcb	
+plainoiseau	3368	
+pomponne	1thf	
+popski	4wrh	
+pp	5ei	
+pp 70	3t0z	
+pp 70 tampere	3t0z	
+pp m	29sk	
+pp rubens	572	
+prevention hazards	6c4c	
+prevention of atherosclerosis	5nj9	
+prevention of cardiovascular disease	i4t	
+prevention of coronary artery disease	7dg	
+prevention of heart disease	i4t	
+prevention of malaria	5dq	
+prevention of schizophrenia	7cr	
+prevention of stroke	r3	
+proteum	23i	
+radiology martyrs memorial	5ajk	
+replicant	2n9p,4ksa	
+replicant film	2n9p	
+replicant operating system	4ksa	
+replicant os	4ksa	
+replicant sdk	4ksa	
+reprise	4125	10m:2
+reprise film	4125	
+reprise records	10m	
+rescaldina	2mzq	
+rhaphiptera	22ec	
+roughly		54cw:2
+roughly speaking	54cw	
+roughly speaking film	54cw	
+ruby	9oy,cxe,1h87,2u50	pgi:2,12c5:2,20r8:2,25u4:2,2hoe:2,2paz:2,34b5:2,4bzw:2,4c4b:2,4jqd:2,4ndt:3,4x91:2,570c:3
+ruby 1952 song	4x91	
+ruby 1992 film	1h87	
+ruby and quentin	2paz	
+ruby and sapphire	3rq7	
+ruby andrews novel	1lr5	
+ruby ann wallace	pgi	
+ruby baby album	2trb	
+ruby bartlett	5vs6	
+ruby bernadette nanette fabares	3tix	
+ruby blevins	5qs8	
+ruby cairo	34b5	
+ruby catherine stevens	am8	
+ruby dalma	4hmr	
+ruby dandridge	25u4	
+ruby dee	pgi	
+ruby dee davis	pgi	
+ruby doc	2u50	
+ruby dung	mrz	
+ruby enterprise edition	cxe	
+ruby first name	9oy	
+ruby football club of shenzhen	7wz	
+ruby gemstone	2u50	
+ruby gentry	4x91	
+ruby gillis	2oy9	
+ruby given name	9oy	
+ruby gnome2	cxe	
+ruby heart	5w21	
+ruby hermione clinton baddeley	taj	
+ruby hill california	kv9	
+ruby junction minnesota	qhk	
+ruby katherine stevens	am8	
+ruby keeler	20r8	
+ruby landry series	1lr5	
+ruby lang	cxe	
+ruby langenheim	4bzw	
+ruby language	cxe	
+ruby lin	12c5	
+ruby lin comments	12c5	
+ruby m rouss	6h88	
+ruby margaret rouss	6h88	
+ruby mars	3siy	
+ruby mines	2u50	
+ruby mountains	4jqd	
+ruby name	9oy	
+ruby on		4ndt:3
+ruby on ails	4ndt	
+ruby on iaails	4ndt	
+ruby on rails	4ndt	
+ruby on rails in india	4ndt	
+ruby on rails web framework	4ndt	
+ruby party	dry	
+ruby payne		570c:3
+ruby payne scott	570c	
+ruby porn star	53l	
+ruby prog	cxe	
+ruby programming	cxe	
+ruby programming language	cxe	
+ruby quentin	2paz	
+ruby red film	49z1	
+ruby redfort	5gtc	
+ruby rhod	dmi	
+ruby rivlin	394y	
+ruby rose	4bzw	
+ruby rose blevins	5qs8	
+ruby rose filmography	4bzw	
+ruby rose langenheim	4bzw	
+ruby sandbox	2u50	
+ruby sparks	2hoe	
+ruby stevens	am8	
+ruby syntax	cxe	
+ruby testcases	2u50	
+ruby v c andrews novel	1lr5	
+ruby violet payne scott	570c	
+ruby wallace	pgi	
+ruby wax	4c4b	
+saint gunthchramn	3053	
+saltillo	h4i	
+saltillo coahuila	h4i	
+saltillo mexico	h4i	
+saturni luna	h5h	
+scaevola plant	4og1	
+scaevola plant genus	4og1	
+sir lyon playfair	3cu9	
+strzegowo commune	dlt	
+swathi kiranam	680n	
+swathi muthyam	5ejt	
+swathi reddy	4wsa	
+swathi venkatesh	4wsa	
+the antarctic	4k19	
+the courtesans	3vc7	
+the detour	4uv9	
+the detour tv series	4uv9	
+the emu war	6h8k	
+the sooners	6gc1	
+thomas kuhn	1cdr	
+thomas pennant	54yy	
+thorbjorn	1qir	5nxf:2
+thorbjorn egner	4psk	
+thorbjorn falldin	5nxf	
+thorbjorn jagland	4wrb	
+toze	570f	3whe:2
+toze footballer born 1993	570f	
+toze mareco	3whe	
+toze marreco	3whe	
+trossingen	2ktl	
+unicycle basketball	1b	
+vallois	3jre	
+vantage		1984:2
+vantage point	1984,23um	
+vantage point film	1984	
+vedonudo	5m0k	
+vegetation der erde	32eo	
+vegetation fire	hmx	
+vibilia family	2tlw	
+voormann	5s6o	
+wesly sniejder	19ay	
+wesly snipes	lpe	

@@ -1,0 +1,546 @@
+aiegi	3vnd	
+alaba david	2awd	
+alboraig	3r4u	
+alluvioni		4bj5:2
+alluvioni cambio	4bj5	
+andraitx	2toe	
+angussola	3urk	
+armaucourt	3us4	
+badia	2l0y	1idb:2,2wu9:2,3mrf:2
+badia abtei	2l0y	
+badia bz	2l0y	
+badia calavena	3mrf	
+badia italy	2l0y	
+badia polesine	1idb	
+badia prataglia	1aq9	
+badia south tyrol	2l0y	
+badia tedalda	2wu9	
+badia trentino alto adige sudtirol	2l0y	
+barbour		ct9:2,1adk:2
+barbour co al	1adk	
+barbour co alabama	1adk	
+barbour county	ct9,1adk	
+barbour county al	1adk	
+barbour county alabama	1adk	
+barbour county virginia	ct9	
+barbour county west virginia	ct9	
+barbour county wv	ct9	
+baronetcies	cd	
+boisseens	27e6	
+boorsem	10lo	
+breakbone fever	4rrp	
+bronchitus	34hi	
+caughlin fire	49h	
+caussens	3nlb	
+ceroxys	23xy	
+chalice press	wwr	
+chalice veil	4r4q	
+charles saint beuve	3t9s	
+charles saint borromeo	s57	
+charles saint saens	jat	
+charles sydenham	5qej	
+chita	nmo,501s	r6w:2,559v:2
+chita aichi	501s	
+chita japan	501s	
+chita oblast	r6w	
+chita province	r6w	
+chita rivera	559v	
+chita russia	nmo	
+chita shi	501s	
+chita urban okrug	nmo	
+chita zabaykalsky krai	nmo	
+cisek commune	3qfr	
+claiborne		1qtp:2,2k1w:2,2k4m:2,3fed:2,6h28:4
+claiborne bell bridge	6h28	
+claiborne county	1qtp,2k4m	
+claiborne county mississippi	2k4m	
+claiborne county ms	2k4m	
+claiborne county tennessee	1qtp	
+claiborne county tn	1qtp	
+claiborne de borda pell	3fed	
+claiborne parish	2k1w	
+claiborne parish la	2k1w	
+claiborne parish louisiana	2k1w	
+claiborne pell	3fed	6h28:4
+claiborne pell bridge	6h28	
+claiborne pell newport		6h28:4
+claiborne pell newport bridge	6h28	
+corabia	5c4l	
+corsavy	1lg6	
+crysis2	41fb	
+cultures	chw	
+cultures of silence	5y3c	
+cultures of the world	5zxb	
+cunard	msd	msd:2
+cunard co	msd	
+cunard line	msd	
+cunard liner	msd	
+cunard lines	msd	
+cunard shipping line	msd	
+cunard steamship company	msd	
+cunard steamship lines	msd	
+cuphodes	3xoi	
+david clive wilson	6dw2	
+david clive wilson baron wilson of tillyorn	6dw2	
+david clive wilson baron wilson of tillyorn kt gcmg prse	6dw2	
+david phillepe desrosiers	14l2	
+david urquidi	1bbm	
+diante		27hh:3,5bhp:3
+diante do		27hh:3,5bhp:3
+diante do trono	27hh,5bhp	
+diante do trono label	5bhp	
+diante do trono records	5bhp	
+didymia	dcx	
+doctorate	g8	
+doctorate degrees	g8	
+doctorate honoris causa	6fb	
+doctorate in canon and civil law	2435	
+doctorate in civil and canon law	2435	
+doctorate in divinity	3kmd	
+doctorate in medicine	5aw	
+doctorate in science	1419	
+doctorate of civil law	6ew2	
+doctorate of divinity	3kmd	
+doctorate of law	5hy	
+doctorate of laws	5hy	
+doctorate of medicine	5aw	
+doctorate of theology	5awo	
+dromaeosauridae	1e3l	
+e24 tv programme	2umy	
+eguilly	2y5m	3v40:3
+eguilly sous		3v40:3
+eguilly sous bois	3v40	
+eks skra belchatow	51m1	
+enidze vardar	1l55	
+erectoides	5zhp	
+erysiphaceae	36dn	
+ethesia	60yj	
+exakelvin	6hak	
+fc mokpo	3dq6	
+fc sozopol	2vlj	
+finite		5e3f:2
+finite abelian group	2oex	
+finite graph	gzu	
+finite group	5e3f	
+finite group theory	5e3f	
+finite groups	5e3f	
+finite semigroup mathematics	39u3	
+finite sequence	52ob	
+finite sporadic group	5yad	
+finite subset	j81	
+finite undirected graph	gzu	
+freistaat bayern	tn	
+freistaat bayre	tn	
+freistaat oldenburg	1scw	
+freistaat preuen	qq0	
+freistaat preussen	qq0	
+freistaat prussia	4gw	
+freistaat sachsen	72d	
+freistaat thuringen	3te	
+frenouville	1zz4	
+g17	2zlb	
+g17 plus	2zlb	
+garmonbozia	hxo	
+george boyd	4g7n	
+george boyd footballer	4g7n	
+gmina wodynie	146v	
+golleville	2tvj	
+golta	3c7y	
+griffith	14hq,15mb,1y0u,22bv	e6j:2,1wbg:2,5vhp:3,6gk3:2
+griffith anthony	4a3k	
+griffith arthur	3n4v	
+griffith c		5vhp:3
+griffith c evans	5vhp	
+griffith conrad evans	5vhp	
+griffith evans	5vhp	
+griffith first name	15mb	
+griffith given name	15mb	
+griffith james	wou	
+griffith jones	1wbg	
+griffith jones actor	1wbg	
+griffith jones actor comments	1wbg	
+griffith joyner florence	29sg	
+griffith new south wales	14hq	
+griffith nsw	14hq	
+griffith observatory	6gk3	
+griffith park observatory	6gk3	
+griffith planetarium	6gk3	
+griffith surname	22bv	
+griffith taylor	521i	
+griffith uni	e6j	
+griffith univeristy	e6j	
+griffith university	e6j	
+griffith university centre for medicine and oral health	e6j	
+griffith university multi faith centre	e6j	
+halcon avenida	4a8c	
+heteropora	gpv	
+jameson	61to	188p:2,4ylp:8
+jameson people		4ylp:8
+jameson people s		4ylp:8
+jameson people s choice		4ylp:8
+jameson people s choice award		4ylp:8
+jameson people s choice award best european actor	kpe	
+jameson people s choice award for		4ylp:8
+jameson people s choice award for best		4ylp:8
+jameson people s choice award for best actor	4ylp	
+jameson robert	61to	
+jameson thomas	188p	
+jla	wgg	
+jla 2010 film	wgg	
+jla classified	wgg	
+jla the new frontier	3v1p	
+jla year one	wgg	
+john mayer	c7b	
+john mayer archive 1	c7b	
+john mayer archive 3	c7b	
+john mayer band	c7b	
+john mayer musician	c7b	
+john mayer pop singer	c7b	
+kadiyivka	250w	
+kadiyivka ukraine	250w	
+khalid		ap2:4,2ega:5,2lc2:2,2nuz:3,38m4:2,3cq3:2,43n0:2,5e30:2
+khalid al faisal	2ega	
+khalid bin		2ega:5
+khalid bin abdul aziz	ap2	
+khalid bin abdulaziz al saud	ap2	
+khalid bin abdullah	68g8	
+khalid bin abdullah bin abdulaziz al saud	68g8	
+khalid bin faisal	2ega	2ega:5
+khalid bin faisal al		2ega:5
+khalid bin faisal al saud	2ega	
+khalid bouhlarouz	2lc2	
+khalid boulahrouz	2lc2	
+khalid el		2nuz:3
+khalid el amin	2nuz	
+khalid fouhami	3cq3	
+khalid hamdaoui	5e30	
+khalid hosseini	2hy1	
+khalid ibn abd al aziz	ap2	
+khalid ibn abd al aziz al saud	ap2	
+khalid of		ap2:4
+khalid of saudi		ap2:4
+khalid of saudi arabia	ap2	
+khalid rady	5ex	
+khalid reeves	38m4	
+khalid sinouh	43n0	
+konrad		j3i:2,11y9:2,15cm:2,1id3:5,1sz2:3,26fd:2,2dbf:3,2fjs:3,2xic:3,362m:4,37l1:2,393z:4,3imf:4,3lzh:2,445p:2,53tj:2,54jx:2,5dz0:2,5ecl:3,5i2n:4,5mae:4,5zoo:4,64c8:2,64n0:3,6b0o:2,6dwm:2
+konrad adenauer	j3i	1sz2:3
+konrad adenauer airport	42zg	
+konrad adenauer foundation	1sz2	
+konrad adenauer platz swb	3jxa	
+konrad adenauer stiftung	1sz2	
+konrad beyreuther	6b0o	
+konrad bickel	3etr	
+konrad bloch	2dbf	
+konrad cebula	6dwm	
+konrad celtes	3etr	
+konrad celtis	3etr	
+konrad conny plank	3g8i	
+konrad duke of masovia	362m	
+konrad e bloch	2dbf	
+konrad emil		2dbf:3
+konrad emil bloch	2dbf	
+konrad ernst eduard henlein	54jx	
+konrad ernst otto zuse	37l1	
+konrad ferdinand meyer	66xl	
+konrad friedrich beilstein	5bg8	
+konrad gener	3yvh	
+konrad gesner	3yvh	
+konrad henlein	54jx	
+konrad hermann josef adenauer	j3i	
+konrad hermann joseph adenauer	j3i	
+konrad i	5kos	1id3:5,362m:4,5mae:4
+konrad i duke		1id3:5
+konrad i duke of		1id3:5
+konrad i duke of carinthia	4ddr	
+konrad i duke of glogow	1id3	
+konrad i duke of gogow	1id3	
+konrad i duke of silesia glogau	1id3	
+konrad i mazowiecki	362m	
+konrad i of		362m:4,5mae:4
+konrad i of bohemia	2c0a	
+konrad i of masovia	362m	
+konrad i of olesnica	5mae	
+konrad i of poland	362m	
+konrad ii	4a5o	3imf:4
+konrad ii duke of bavaria	4mkj	
+konrad ii duke of carinthia	5o2b	
+konrad ii duke of swabia	40x7	
+konrad ii holy roman emperor	4a5o	
+konrad ii von		3imf:4
+konrad ii von babenberg	3imf	
+konrad iii	1ey3	2xic:3,5zoo:4
+konrad iii of germany	1ey3	
+konrad iii of masovia	2xic	
+konrad iii rudy	2xic	
+konrad iii the		5zoo:4
+konrad iii the old	5zoo	
+konrad iii the red	2xic	
+konrad iv	1clj	
+konrad iv duke of oels	4reh	
+konrad iv of oels	4reh	
+konrad iv the older	4reh	
+konrad johann		393z:4
+konrad johann martin		393z:4
+konrad johann martin langenbeck	393z	
+konrad kapler	64c8	
+konrad korzeniowski	drs	
+konrad krez	445p	
+konrad lorentz	15cm	
+konrad lorenz	15cm	
+konrad luitpold franz joseph maria prinz von bayern	2fnv	
+konrad margrave of meissen	5kos	
+konrad maurer	64n0	
+konrad mazowiecki	362m	
+konrad niedzwiedzki	53tj	
+konrad nikolai i	53sj	
+konrad of hohenlohe waldenburg schillingsfurst	5tnm	
+konrad of masovia	362m	
+konrad of meien	5kos	
+konrad of meissen	5kos	
+konrad of poland	362m	
+konrad petzold	3lzh	
+konrad pickel	3etr	
+konrad plank	3g8i	
+konrad prince of hohenlohe schillingsfurst	5tnm	
+konrad runowiecki	26fd	
+konrad the old	5zoo	
+konrad the older	4reh	
+konrad tom	26fd	
+konrad ukasz niedzwiedzki	53tj	
+konrad v	358f	5ecl:3
+konrad v kantner	5ecl	
+konrad vii	5i2n	5i2n:4
+konrad vii the		5i2n:4
+konrad vii the white	5i2n	
+konrad von		64n0:3
+konrad von gesner	3yvh	
+konrad von gesnerusi	3yvh	
+konrad von gessner	3yvh	
+konrad von hohenlohe waldenburg schillingsfurst	5tnm	
+konrad von maurer	64n0	
+konrad weise	5dz0	
+konrad wolf	11y9	2fjs:3
+konrad wolf prize	2fjs	
+konrad z lorenz	15cm	
+konrad zacharias lorenz	15cm	
+konrad zu hohenlohe waldenburg schillingsfurst	5tnm	
+konrad zuse	37l1	
+korczak	29dr	5srn:2
+korczak film	29dr	
+korczak movie	29dr	
+korczak ziokowski	5srn	
+korczak ziolkowski	5srn	
+krungthepmahanakornamornratanakosinmahintarayutthayamahadilokphopnopparatrajathaniburiromudomrajaniwesmahasatharn	12i	
+kuryowka commune	5r2q	
+la bruffiere	2872	
+la rencontre	tm4	
+la rencontre ou bonjour monsieur courbet	tm4	
+lcornelivslfpnsvllafelix	1lra	
+le dorat	3auz	
+loftus	3bad	3gdo:2
+loftus sports center	6grn	
+loftus tottenham wigram	3gdo	
+loftus wigram	3gdo	
+luverne	3wx3	
+luverne high school	3wx3	
+luverne minnesota	3wx3	
+luverne mn	3wx3	
+lyubart dmytro	2csm	
+marietje		4ng4:2
+marietje schaake	4ng4	
+matsci	1env	
+melanostrigus	6fwr	
+menza	2emr	
+merten	2icu	
+michael videira	62jp	
+mindanaense	2xm9	
+mocsa	535p	
+monatiquot mass	vpv	
+muehlhausen	j2u	
+muehlhausen thueringen	j2u	
+muehlhausen thuringia	j2u	
+nervicompressa	215w	
+new year		iq8:4,1d67:4,5k3u:4,62s3:4
+new year s		iq8:4,1d67:4,5k3u:4,62s3:4
+new year s babies	5v77	
+new year s day	1d67,62s3	
+new year s day 2001 film	62s3	
+new year s day film	62s3	
+new year s eve	iq8	
+new year s eve 2	iq8	
+new year s eve 2011 film	iq8	
+new year s eve film	iq8	
+new year s eve movie	iq8	
+new year s evil	5k3u	
+new year s evil film	5k3u	
+nykop	6eak	
+otsu	ddj	
+otsu city	ddj	
+otsu japan	ddj	
+otsu shi	ddj	
+otsu shiga	ddj	
+parres	2yy4	
+parres asturias	2yy4	
+parres spain	2yy4	
+pepysian	3227	
+pramod	32vn	3qis:2
+pramod chakravarthy	3qis	
+pramod chakravorthy	3qis	
+pramod chakravorty	3qis	
+pramod chakrovorty	3qis	
+pramod first name	32vn	
+pramod given name	32vn	
+prince piotr alekseyevich kropotkin	15me	
+pseudoaricia	5b24	
+qarah		ouq:4,1n7f:4,2ckc:4,53e1:4
+qarah bagh		2ckc:4
+qarah bagh rural		2ckc:4
+qarah bagh rural district	2ckc	
+qarah chaman		1n7f:4
+qarah chaman rural		1n7f:4
+qarah chaman rural district	1n7f	
+qarah su		ouq:4,53e1:4
+qarah su rural		ouq:4,53e1:4
+qarah su rural district	ouq,53e1	
+qarah su rural district kermanshah province	ouq	
+qarah su rural district west azerbaijan province	53e1	
+rakshita	4csl	
+rakshita prem	4csl	
+ranchimon	d05	
+recovery	4805	
+recovery beverage	6hlz	
+recovery eminem	4805	
+reger	19hf	
+relapsing ms	5yk	
+relapsing remitting ms	5yk	
+relapsing remitting multiple sclerosis	5yk	
+robert harting	58nt	
+robert stemmle	of5	
+roibert i of scotland	yg9	
+roibert ii of scotland	19om	
+roibert iii of scotland	1nt3	
+sactown	rt	
+saint elix	3wnx	2vit:4,3myl:3,3wnx:4
+saint elix d		3wnx:4
+saint elix d astarac	3wnx	
+saint elix le		2vit:4
+saint elix le chateau	2vit	
+saint elix theux	3myl	
+saint gal		3gh7:4
+saint gal sur		3gh7:4
+saint gal sur sioule	3gh7	
+seagoing coastline battleship 1	4tc3	
+semenawi keyih bahri	615n	
+semenawi keyih bahri region	615n	
+shaoxing	s2c	
+shaoxing city	s2c	
+shaoxing zhejiang	s2c	
+simplicia the slow	1kj4	
+sonja		1138:2,129e:2,3d5q:2,3fz6:2,3gjl:2,41md:2,4uog:2,4y7w:2
+sonja bennett	3gjl	
+sonja fuss	4uog	
+sonja gandhi	45ou	
+sonja haraldsen	49et	
+sonja henie	1138	
+sonja henje	1138	
+sonja ingrid emilie hanna sutter	4y7w	
+sonja kovalevsky	xfy	
+sonja kowalewska	xfy	
+sonja kowalewski	xfy	
+sonja magdevski	lwu	
+sonja of norway	49et	
+sonja queen of norway	49et	
+sonja richter	3fz6	
+sonja savic	3d5q	
+sonja sutter	4y7w	
+sonja thune larsen	5127	
+sonja underworld	4n97	
+sonja werner	19vt	
+sonja wigert	41md	
+sonja ziemann	129e	
+soulce		3aqd:2
+soulce cernay	3aqd	
+srr sureyya		38tz:3
+srr sureyya onder	38tz	
+st lukes roosevelt hospital	5auh	
+st lukes roosevelt hospital center	5auh	
+sternocostal surface	330z	
+sternocostal surface of the heart	330z	
+the immigrant	39qu,4jv7	
+the immigrant 1917 film	4jv7	
+the immigrant 2013 film	39qu	
+the jedi exile	4byi	
+the knick	2gev	
+the knick tv series	2gev	
+the swordsman	3h8q	
+the swordsman 1990 film	3h8q	
+the swordsman of siena	3t3p	
+tripteridia	4cfa	
+trivia	5zo3	
+trivia gastropod	5zo3	
+trivia genus	5zo3	
+trivia goddess	16w0	
+trivia roman mythology	16w0	
+trivia track	mbu	
+uija	3e8c	
+uija of baekje	3e8c	
+ume	5rr	
+ume aelv	4vaw	
+ume alv	4vaw	
+ume kenjiro	677r	
+ume river	4vaw	
+un assembly general	2stt	
+urology	7s8	
+vailima kiwi f c	2kmg	
+vailima kiwi fc	2kmg	
+venerque	27hy	
+vexille	4bc9	
+vexille 2077 nihon sakoku	4bc9	
+vexille 2077 nippon sakoku	4bc9	
+vfpv1	gic	
+viane	1rzv	
+viane tarn	1rzv	
+vignanello	2roq	
+vk	38g7	
+vk krishna menon	5gwf	
+vk murthy	1e8k	
+vk singh	44x8	
+volgadeutsch	6cbm	
+wendall c neville	3ps1	
+wendall cushing neville	3ps1	
+wendall neville	3ps1	
+whisperin bill anderson	1yuk	
+william thiego		4tdv:4
+william thiego de		4tdv:4
+william thiego de jesus	4tdv	
+womens	vm	
+womens basketball hall of fame	cb0	
+womens college of alabama	1eu8	
+womens college of baltimore	azs	
+womens eurobasket	11qc	
+womens football world cup	3xg5	
+womens gaelic football	mko	
+womens hockey world cup	5e3s	
+womens international league for peace and freedom	iqd	
+womens medical college of philadelphia	12e7	
+womens murder club book series	6hma	
+womens national basketball association	1t1l	
+womens premier soccer league	g1b	
+womens professional soccer	45ma	
+womens rights	1hic	
+womens s world chess champion	z86	
+womens soccer	1xq	
+womens soccer llc	45ma	
+womens social and political union	39d6	
+womens tennis association	jq	
+wretch	1vu1	1vu1:2
+wretch 32	1vu1	
+yazidis	5auz	
+yazidis comments	5auz	
+zumikon	30o3	
+zumikon railway station	30o3	
+zumikon switzerland	30o3	
+zumikon zh	30o3	
+zumikon zuerich	30o3	
+zumikon zurich	30o3	

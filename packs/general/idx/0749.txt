@@ -1,0 +1,517 @@
+1832 cholera epidemic	2nfq	
+aerangidinae	2t6f	
+aggro		3sln:2
+aggro berlin	3sln	
+aggro berlin records	3sln	
+aggro industrial	34w	
+aggro metal	34v	
+aggro rock	34v	
+alemannic	3ao1	
+alemannic cemetery	6epk	
+alemannic dialects	3ao1	
+alemannic german	3ao1	
+alemannic german language	3ao1	
+alemannic grave field	6epk	
+alemannic language	3ao1	
+alemannic languages	3ao1	
+alemannic literature	3ao1	
+alexander kerenski	3xyw	
+alexander nekam	41sl	
+aliens	jsm	tkk:4,198r:4,4frd:3,6c0b:3
+aliens 1986	jsm	
+aliens 1986 film	jsm	
+aliens 2009 video game	4frd	
+aliens 3	zq2	
+aliens 4	yjj	
+aliens 5	16au	
+aliens 6	xq5	
+aliens cause global warming	e8m	
+aliens colonial		4frd:3
+aliens colonial marines	4frd	
+aliens colonial marines 2001	4frd	
+aliens comics	16au	
+aliens day	16au	
+aliens exist	5997	
+aliens franchise	16au	
+aliens gearbox software	4frd	
+aliens in		198r:4
+aliens in fiction	1nbr	
+aliens in the		198r:4
+aliens in the attic	198r	
+aliens in the attic 2009 video game	198r	
+aliens isolation	26wc	
+aliens movie	jsm	
+aliens special edition	jsm	
+aliens versus		6c0b:3
+aliens versus predator	6c0b	
+aliens versus predator 1999 video game	6c0b	
+aliens versus predator 2	5wxz	
+aliens versus predator 2 primal hunt	5wxz	
+aliens versus predator classic 2000	6c0b	
+aliens versus predator computer game	6c0b	
+aliens versus predator gold edition	6c0b	
+aliens vs		tkk:4
+aliens vs monsters	2ofj	
+aliens vs predator		tkk:4
+aliens vs predator 2	5wxz	
+aliens vs predator requiem	tkk	
+athaliah	4kr4	
+auston powers	307g	
+azalea banks	1o1f	
+azalea city	ek5	
+bandla ganesh	5w44	
+bazinga	6h6u	
+beesel	479j	
+beesel municipality	479j	
+berdychev	qak	
+boarding		1lx:2,3thw:2
+boarding gate	3thw,6fje	
+boarding high school	1lx	
+boarding institute	1lx	
+boarding school	1lx	
+boarding schools in fiction	1lx	
+boli		4dgr:3
+boli rural		4dgr:3
+boli rural district	4dgr	
+bousbecque	2vg7	
+brills new pauly	lb8	
+cacoecia	9us	
+casadee pope	59z3	
+castelguelfo	4cx5	
+castelmayran	1ums	
+cefazolina	53hm	
+claes	k5u	1xew:2,4ixc:2,4me8:2,4sc0:2
+claes adelskold	4me8	
+claes adolf adelskold	4me8	
+claes andersson	4sc0	
+claes first name	k5u	
+claes gill	4ixc	
+claes given name	k5u	
+claes johan rudolf andersson	4sc0	
+claes oldenberg	1xew	
+claes oldenbourg	1xew	
+claes oldenburg	1xew	
+claes t oldenburg	1xew	
+claes thure oldenburg	1xew	
+clearwater	756	n6q:2,3648:2
+clearwater bay ontario	12cy	
+clearwater county	n6q,3648	
+clearwater county id	3648	
+clearwater county idaho	3648	
+clearwater county minnesota	n6q	
+clearwater county minnesota comments	n6q	
+clearwater county mn	n6q	
+clearwater fl	756	
+clearwater fla	756	
+clearwater florida	756	
+clearwater florida chronology	756	
+clearwater harbor	756	
+clearwater ontario	8qr	
+conservatism	2z5	50sx:5
+conservatism in		50sx:5
+conservatism in albania	2z5	
+conservatism in america	50sx	
+conservatism in belgium	2z5	
+conservatism in iceland	2z5	
+conservatism in the		50sx:5
+conservatism in the u s	50sx	
+conservatism in the united		50sx:5
+conservatism in the united states	50sx	
+conservatism in the us	50sx	
+conservatism portal	2z5	
+conservatism selected article	2z5	
+conservatism selected picture	2z5	
+conservatism selected quote	2z5	
+david gueta	c0h	
+david ramirez	36w5,3ieo	
+david ramirez footballer born 1993	36w5	
+deniss		47lk:2,4yxq:2,5nxo:2,5xe9:2
+deniss ivanovs	4yxq	
+deniss kacanovs	5xe9	
+deniss kaczanovs	5xe9	
+deniss rakels	5nxo	
+deniss romanovs	47lk	
+drum	ims,1ln8,5kpi	uy:2,30s:3,1wbe:2,2fn9:2,3ejb:2
+drum 1976 film	1ln8	
+drum 2004 film	5kpi	
+drum and		30s:3
+drum and bass	30s	
+drum and bass music	30s	
+drum bass	30s	
+drum beat	1wbe	
+drum beat film	1wbe	
+drum body	ims	
+drum booth	uy	
+drum box	3ejb	
+drum clamp	ims	
+drum computer	3ejb	
+drum controller	c3e	
+drum fish	2eem	
+drum instrument	ims	
+drum kit	uy	
+drum kit drum set	uy	
+drum machine	3ejb	
+drum machine programming	3ejb	
+drum machines	3ejb	
+drum music	ims	
+drum n base	30s	
+drum n bass	30s	
+drum player	15w	
+drum playing	ims	
+drum programming	3ejb	
+drum set	uy	
+drum sets	uy	
+drum shield	uy	
+drum size conventions	uy	
+drum synthesiser	3ejb	
+drum trainer	3r8b	
+drum villain	4ycb	
+drum wheat	6bwd	
+drum zoology	2eem	
+duckscoach	31n	
+echauffour	2d01	
+edet		66p2:2
+edet otobong	66p2	
+efectin	49nh	
+elfred	ys5	
+environmentalist	dty	
+environmentalist movement	3sq6	
+environmentalist opposition to globalization	68gv	
+eraj	3cd4	
+fc suduroy	60wg	
+fericy	3gky	
+fuerstenau	3bb7	
+fuerstenau gr	3bb7	
+fuerstenau graubuenden	3bb7	
+fuerstenau grisons	3bb7	
+fuerstenau switzerland	3bb7	
+galinho	1zas	
+gembloers	17xv	
+gopinath		55hj:2
+gopinath munde	55hj	
+gopinath pandurang munde	55hj	
+gopinath rao munde	55hj	
+gougenheim	1j6t	
+grevier	6ho2	
+guijuelo salamanca	5j4	
+hazlet	419y	
+hazlet new jersey	419y	
+hazlet nj	419y	
+hazlet township	419y	
+hazlet township monmouth county new jersey	419y	
+hazlet township new jersey	419y	
+hazlet township nj	419y	
+hobbyist	69os	
+hochfelden	1edu	
+hochfelden bas rhin	1edu	
+homegrown	1ie3	
+homegrown film	1ie3	
+i killed		2nq0:4,2rcn:3
+i killed einstein		2nq0:4
+i killed einstein gentlemen	2nq0	
+i killed rasputin	2rcn	
+iserlohn	f59	1tqe:2
+iserlohn germany	f59	
+iserlohn roosters	1tqe	
+jalil		2idx:2,57nt:2
+jalil anibaba	57nt	
+jalil lespert	2idx	
+james hugh calum laurie	ejk	
+james hugh calum laurie obe	ejk	
+james hugh loden	1g7m	
+jianbing man	3fuf	
+judaea and samaria	6oq	
+kaffirboom	101s	
+kannstadt	1g6s	
+kaysersberg	10tz	262f:2
+kaysersberg vignoble	262f	
+keb mo	1rvj	
+kermanshah	bbl	13z:2
+kermanshah iran	bbl	
+kermanshah province	13z	
+kleindienst richard	4w8v	
+koloneia in cappadocia	7ku	
+kormoczbanya	2ii8	
+kumbhakonam	1awo	
+lexi		4psm:2
+lexi alexander	4psm	
+lexi walker	4l6d	
+lila	puv,2sis	nnd:2,t36:2,3pox:2,3qsn:2
+lila bohol	2sis	
+lila diane sawyer	49kl	
+lila downs	3pox	
+lila first name	puv	
+lila given name	puv	
+lila grace	5imz	
+lila hack	5imz	
+lila kedrova	t36	
+lila lee	nnd	
+lila mo	1oy9	
+lila moss	5imz	
+lila moss hack	5imz	
+lila perry cabot	4uwc	
+lila rocco	3roh	
+lila tretikov	3qsn	
+lila tretikova	3qsn	
+lissitzky eliezar	3vhq	
+longfield wiltshire	ovp	
+lt	bf,40u	
+lt audie murphy	ety	
+lt carstairs	qjx	
+lt cdr	15go	
+lt cmdr	15go	
+lt cmmdr data	6fhw	
+lt col	4ae,gm0	
+lt col cole	5mpm	
+lt col herbert h jones vc	4ro9	
+lt col lord ninian edward crichton stuart	5j13	
+lt col united states	b9y	
+lt colonel	4ae	
+lt colonel blair paddy mayne	5s6z	
+lt colonel wild bill kilgore	fxm	
+lt colonel william kilgore	fxm	
+lt columbo	1zjx	
+lt comdr	15go	
+lt commander data	6fhw	
+lt fairfax	qjx	
+lt gen	1c0,5qq	
+lt gen david e grange jr	5xa8	
+lt gen john allen	4tal	
+lt gen romeo dallaire	5j74	
+lt gen united states	5qq	
+lt general	1c0	
+lt general charles campbell	5wwj	
+lt general edward lawrence logan international airport	2rwp	
+lt general lumsden	5cl5	
+lt gov bc	14gk	
+lt governor john carney	56z6	
+lt governor of british columbia	14gk	
+lt governor of california	6fht	
+lt governor of massachusetts	qho	
+lt governor of minnesota	5bzr	
+lt governor of texas	4y6e	
+lt gronk	69i5	
+lt max eckhardt	jft	
+lt max eckhart	jft	
+lt max gain	1jaw	
+lt n	wb5	
+lt neil briggs	18ft	
+lt ripley	2m0z	
+lt robin		1i3d:6
+lt robin crusoe		1i3d:6
+lt robin crusoe u		1i3d:6
+lt robin crusoe u s		1i3d:6
+lt robin crusoe u s n	1i3d	
+lt robin crusoe usn	1i3d	
+lt sr	4tj8	
+lt sulu	fnb	
+lt uhura	diu	
+lt william holt	18zo	
+manorexia	25p0	
+mariehamn	elr	
+marques	96y,1rti	1chq:2,4cuh:2,53m3:2
+marques batman houston	1chq	
+marques de campo maior	5ftz	
+marques de estella primo de rivera jose antonio	1iey	
+marques de samaranch	2459	
+marques de santillana	4rzw	
+marques de torres vedras	fkw	
+marques do maranhao	1t14	
+marques green	53m3	
+marques houston	1chq	
+marques isaias	61ev	
+marques johnson	4cuh	
+marques kevin johnson	4cuh	
+marques of maranhao	1t14	
+marques seine maritime	1rti	
+mathematicians	58	
+mdk	6ccd	
+mdk game	6ccd	
+mdk video game	6ccd	
+menville	3fri	
+midatlantic states	6hd8	
+mostyn neil hamilton	62ax	
+mottling	1gqz	
+mubaan	666u	
+muiredge	4a0x	
+mycielin commune	1ag3	
+nagornyj karabakh	4b4f	
+nanotechnology	3twu	
+nanotechnology comments	3twu	
+nanotechnology engineering	3twu	
+newley anthony	no0	
+nonquitt massachusetts	2fif	
+nujoma	4xul	
+nujoma sam	4xul	
+nujoma sam daniel	4xul	
+oliana	4h2y	
+osiecznica commune	1pnm	
+oswestry	ipn	bkg:4
+oswestry f c	bkg	
+oswestry shropshire	ipn	
+oswestry town	bkg	bkg:4
+oswestry town f		bkg:4
+oswestry town f c	bkg	
+oswestry town fc	bkg	
+oswestry united	bkg	
+oswestry united f c	bkg	
+oswestry white star f c	bkg	
+oswestry white stars f c	bkg	
+ouche	5yda	
+ovechkina	29tu	
+paisa	1z8y	
+paisa paisa 2009 song	59r8	
+pathanamthitta	515n	8iu:2
+pathanamthitta comments	515n	
+pathanamthitta dist	8iu	
+pathanamthitta district	8iu	
+pathanamthitta district comments	8iu	
+pathanamthitta town	515n	
+pattonoswalt com	t77	
+percina	tcx	
+peter giles thurnham	606a	
+plumbing	4jwx	
+plumbing we will go	4lvh	
+portsea		3j1r:2
+portsea hampshire	3j1r	
+portsea island	3j1r	
+portsea portsmouth	3j1r	
+prince felipe	zny	
+prince felipe de borbon y grecia	zny	
+prince felipe duke of calabria	2zhr	
+princess in rags	2cng	
+reza		r73:4,12iw:2,1t0m:2,2297:2,2qsh:2,3s1f:2,4cv5:2,6atn:2,6bfa:2
+reza aslan	4cv5	
+reza badiyi	2297	
+reza enayati	3s1f	
+reza ghoochanneijhad	2qsh	
+reza ghoochannejhad	2qsh	
+reza ghoochannejhad nournia	2qsh	
+reza gucci	2qsh	
+reza izad	2hey	
+reza jarrahy	tle	
+reza khan	12iw	
+reza mahalleh		r73:4
+reza mahalleh rural		r73:4
+reza mahalleh rural district	r73	
+reza nasseri	6bfa	
+reza pahlavi	1t0m	
+reza pahlavi crown prince of iran	1t0m	
+reza pahlavi former crown prince of iran	1t0m	
+reza pahlavi ii	1t0m	
+reza pahlavi of iran	12iw	
+reza s badiyi	2297	
+reza savad koohi	12iw	
+reza sayed badiyi	2297	
+reza shah	12iw	
+reza shah kabir	12iw	
+reza shah of iran	12iw	
+reza shah pahlavi	12iw	
+reza shah pahlevi	12iw	
+reza shah the great	12iw	
+reza shahroudi	6atn	
+reza yasmina	3mg2	
+saint helens	6g91	
+saint helens mount	6g91	
+saint helens united kingdom	6g1	
+saint pouange	24x4	
+salaspils		3cag:2
+salaspils municipality	3cag	
+salaspils novads	3cag	
+saltyard books	3vk	
+samut		c48:4,s1j:2,2g0r:6,3wkp:2,4b80:2
+samut prakan	s1j	2g0r:6
+samut prakan customs		2g0r:6
+samut prakan customs united		2g0r:6
+samut prakan customs united f		2g0r:6
+samut prakan customs united f c	2g0r	
+samut prakan province	s1j	
+samut prakan province thailand	s1j	
+samut prakarn	s1j	
+samut sakhon	4b80	
+samut sakhon city power f c	btp	
+samut sakhon province	4b80	
+samut sakhon province thailand	4b80	
+samut sakon	4b80	
+samut sakorn	4b80	
+samut songkhram	3wkp	c48:4
+samut songkhram btu	c48	
+samut songkhram btu f c	c48	
+samut songkhram f		c48:4
+samut songkhram f c	c48	
+samut songkhram fc	c48	
+samut songkhram province	3wkp	
+samut songkhram province thailand	3wkp	
+samut songkhram r airlines f c	c48	
+samut songkram	3wkp	
+satie	1051	
+satie eric	1051	
+satie erik	1051	
+sauvelade	35sr	
+schwabische		4887:2
+schwabische alb	if4	
+schwabische rezat	4887	
+shesternyov	3ylv	
+shurger	782	
+simoes victor	4co0	
+smokey	1ai9	l8j:2,15qq:4,1vuj:5,4gg5:6
+smokey and		15qq:4,1vuj:5,4gg5:6
+smokey and friends	l8j	
+smokey and the		15qq:4,1vuj:5,4gg5:6
+smokey and the bandit	15qq	1vuj:5,4gg5:6
+smokey and the bandit 2	1vuj	
+smokey and the bandit 3	4gg5	
+smokey and the bandit film	15qq	
+smokey and the bandit ii	1vuj	
+smokey and the bandit iii	4gg5	
+smokey and the bandit part		4gg5:6
+smokey and the bandit part 3	4gg5	
+smokey and the bandit part iii	4gg5	
+smokey and the bandit ride again	1vuj	
+smokey and the miracles robinson	f72	
+smokey is the bandit	4gg5	
+smokey mountains	28zm	
+smokey robinson	l8j	
+smokey robinson and the miracles	f72	
+smokey robinson singles	l8j	
+smokey robinson the miracles	f72	
+smokey smith	1zm0	
+smokey the bandit	15qq	
+smokey the bandit 2	1vuj	
+sommaren med monika	3k05	
+sphecodes	5g1a	
+starorusskoye urban settlement	2mui	
+tanque casigol	3yom	
+tanque goleadoe	28d3	
+the counting crows	ic7	
+the guests	6drp	
+the guests the outer limits	6drp	
+the wildhearts	1wvt	
+thomas berthold	2pap	
+tiengen hochrhein	1crr	
+tilloloy	2ze6	
+tortorella	3095	
+traversodontidae	4i2o	
+tutin	btg	
+tutin dame dorothy	3wsq	
+tutin municipality	btg	
+tutin serbia	btg	
+tweede		2xhn:2
+tweede boerenoorlog	1ck	
+tweede divisie	2xhn	
+uchchhal	154	
+ucv	7ft	
+vamp	3wzd	
+vamp 1986 film	3wzd	
+vamp film	3wzd	
+vamp movie	3wzd	
+vatel	1iyg	
+vatel film	1iyg	
+venevision	883	
+venevision 12	883	
+wodzierady commune	ynr	
+zlobin	2zh6	4okl:2
+zlobin district	4okl	
+zlobin raion	4okl	
+zlobin rajon	4okl	
+zvyagel	21hv	

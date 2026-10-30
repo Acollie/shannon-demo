@@ -1,0 +1,915 @@
+2gen jet	40yd	
+acceraptor	363q	
+akmolinsky	rux	
+akmolinsky prikaz	6qh	
+andreaspis	2c4l	
+asfaw wossen haile selassie	14i8	
+asfaw wossen taffari	14i8	
+atomaria	5rux	
+baix	1x6m	dzf:2,fgq:2,g31:2,t71:2,up7:2,xis:2,2vts:2,5l55:2
+baix camp	g31	
+baix ebre	up7	
+baix emporda	dzf	
+baix llobregat	fgq	
+baix maestrat	t71	
+baix pallars	2vts	
+baix penedes	xis	
+baix segura	lq5	
+baix vinalopo	5l55	
+bernadets	2qm6	1xue:2,2en9:2
+bernadets debat	1xue	
+bernadets dessus	2en9	
+beuleah	hoz	
+biesheim	1qg0	
+bigvava	51xb	
+bogdanovian	33im	
+bufflehead farm	rmj	
+byah	29n4	
+calvanico	3g33	
+charles bernstein	qt8,4d1d	
+charles bernstein composer	qt8	
+charles bernstein musician	qt8	
+charles bernstein poet	4d1d	
+chazbaps	x7e	
+chhattishgarh	7tg	
+ciupercenii vechi	3tse	
+coldeportes claro	2u0t	
+coldeportes zenu	2u0t	
+coldeportes zenu sello rojo	2u0t	
+comcast	10us	psb:2
+comcast cable comm	10us	
+comcast cable communications holdings inc	10us	
+comcast cable communications management llc	10us	
+comcast com	10us	
+comcast corp	10us	
+comcast corporation	10us	
+comcast digital economy	10us	
+comcast holdings	10us	
+comcast nbcuniversal	gwy	
+comcast networks	10us	
+comcast spectacor	psb	
+comcast sports ventures	psb	
+comcast u s indoor	17fx	
+congokinshasa	kj	
+cuse	sf	
+deschutes		x8e:2,375n:2
+deschutes county	x8e	
+deschutes county or	x8e	
+deschutes county oregon	x8e	
+deschutes river	375n	
+deschutes river oregon	375n	
+destelbergen	4aym	
+detenuto in attesa di giudizio	2kqo	
+djioedjoecarta	a56	
+edward pugin	1tch	
+eil	2mw8	
+elbiag	9rk	
+embarquement pour cythere	27j6	
+epcscp grand etablissement	a88	
+estyle com classic	11hh	
+fc linz	li7	
+fc syzran		epo:3
+fc syzran 2003	epo	
+fc syzran 2003 syzran	epo	
+frohnleiten	511j	
+george garcia	3f2j	
+geschwister		13nr:3
+geschwister scholl		13nr:3
+geschwister scholl preis	13nr	
+geschwister scholl universitat	xs	
+gieorgij zukow	ij8	
+gmina konskie	hqn	
+gocza commune	12e4	
+golovastov	3zib	
+hasanid	whu	
+havnar		t3q:2
+havnar boltfelag	t3q	
+heating process	5xnl	
+heating thermodynamic	5xnl	
+henry perkins olmsted	4mth	
+hermannstaedtl	1i82	
+herschelian	1qa	
+herschelian telescope	1ign	
+hindal mirza	3jj7	
+holdup	c43	
+hsk	lpf	
+hsk concordia	1gir	
+hsk concordia zagreb	1gir	
+hsk graanski	ukf	ukf:3
+hsk graanski zagreb	ukf	
+hsk gradanski	ukf	
+hsk gradanski zagreb	ukf	
+hsk posusje	sgw	
+hsk slaven	8aq	
+hsk zeljeznicar zagreb	8gy	
+hsk zrinjski	cq2	cq2:3
+hsk zrinjski managers	cq2	
+hsk zrinjski mostar	cq2	
+icebreakers ships	6mt	
+ikezawa natsuki	5bex	
+inoue	czp	
+inoue hisashi	4jif	
+inoue joe	3r9d	
+inoue kanbei	286c	
+inoue kazuhiko	1hh5	
+inoue keiko	3ar8	
+inoue kikuko	2prt	
+inoue makio	53wb	
+inoue mao	4oi8	
+inoue shigeyoshi	2bqb	
+inoue toshiki	5h93	
+inoue yasushi	3f9k	
+inoue yosui	1cmk	
+inoue yousui	1cmk	
+jalal		ta2:3,250l:5,55bp:2,58v0:2,5nen:2
+jalal abad	4h1x	ta2:3
+jalal abad kyrgyzstan	4h1x	
+jalal abad oblast	ta2	
+jalal abad oblasty	ta2	
+jalal abad province	ta2	
+jalal abad region	ta2	
+jalal ad din ar rumi	sjc	
+jalal ad din as suyuti	250l	
+jalal ad din muhammad rumi	sjc	
+jalal agha	5nen	
+jalal al		250l:5
+jalal al dawla mu izz al dunya wa l din abu l fath ibn alp arslan	42z7	
+jalal al din		250l:5
+jalal al din al		250l:5
+jalal al din al suyuti	250l	
+jalal al din malik shah i	42z7	
+jalal al din muhammad rumi	sjc	
+jalal al din rumi	sjc	
+jalal e din rumi	sjc	
+jalal hoseini	58v0	
+jalal hosseini	58v0	
+jalal talabani	55bp	
+jalal talbani	55bp	
+jalal talebani	55bp	
+jalal talibani	55bp	
+jalal ud din muhammad akbar	166x	
+jalal uddin mohammad akbar	166x	
+jamalpur		1fc2:2
+jamalpur bangladesh	1fc2	
+jamalpur district	1fc2	
+jamalpur zila	1fc2	
+james bellamy football manager	2yrq	
+james bellamy footballer	2yrq	
+james coco	1s2x	
+jamesia	6f23	
+jamesia americana	6f23	
+john ericson	24eg	
+john ericson actor	24eg	
+josei	2nd3	
+josei manga	2nd3	
+kanashiro	5ffb	
+katsushiko hokusai	1pci	
+koidzumi dzsunicsiro	20s2	
+kuybyshevka vostochnaya	384f	
+kyneton	1i8y	
+kyneton comments	1i8y	
+kyneton victoria	1i8y	
+kyneton victoria comments	1i8y	
+la croix	1gdq	1sea:4,26x9:4,272m:4,28xn:4,31er:3,31uy:4,38o9:4,3anp:3,3ngu:3
+la croix aux		28xn:4,31uy:4
+la croix aux bois	31uy	
+la croix aux mines	28xn	
+la croix avranchin	31er	
+la croix blanche	3ngu	
+la croix du sud	f1m	
+la croix en		1sea:4,38o9:4
+la croix en brie	1sea	
+la croix en champagne	38o9	
+la croix hellean	3anp	
+la croix saint ouen	1x6y	
+la croix sur		26x9:4,272m:4
+la croix sur ourcq	26x9	
+la croix sur roudoule	272m	
+lampoon vacation	1020	
+laureut boutonnat	m5s	
+le gang	2z9s	
+leomar		4miz:3,52lc:2
+leomar francisco		4miz:3
+leomar francisco rodrigues	4miz	
+leomar leiria	52lc	
+llengua catalana	dn	
+locandiera	465b	
+lundo	26nl	
+lutosawski	141o	
+lutosawski witold	141o	
+magdalensberg	4o9v	
+mendota		41oc:2
+mendota heights	41oc	
+mendota heights minnesota	41oc	
+mendota heights mn	41oc	
+metec		5l3s:5
+metec solarwatt		5l3s:5
+metec solarwatt p		5l3s:5
+metec solarwatt p b		5l3s:5
+metec solarwatt p b mantel	5l3s	
+metec tkh	5l3s	
+metec tkh continental cyclingteam	5l3s	
+metec tkh cycling team p b mantel	5l3s	
+mexicas	6hr5	
+michael small	qc0	
+michael small footballer	2tog	
+michaelmas daisy	6f61	
+mihara	270p	3y0w:2
+mihara hiroshima	270p	
+mihara station	3y0w	
+moberly	2lyv	
+moberly missouri	2lyv	
+moberly missouri micropolitan area	yik	
+moberly mo	2lyv	
+moberly mo micropolitan statistical area	yik	
+moberly mo sa	yik	
+molluska	1bra	
+mondelange	2f8v	
+montemesola	5i3d	
+morristown	5st,2hmj	
+morristown new jersey	5st	
+morristown nj	5st	
+morristown tennessee	2hmj	
+morristown tn	2hmj	
+nashville	vy,m75,4eye	1km:2,3y2:2,sjn:2,twz:4,3e7n:2
+nashville 1975 film	m75	
+nashville 1975 movie	m75	
+nashville 2012 tv series	4eye	
+nashville abc tv series	4eye	
+nashville afl	vy	
+nashville bible school	2taw	
+nashville coliseum	6g2d	
+nashville davidson city davidson county tennessee	vy	
+nashville davidson city tn	vy	
+nashville davidson county	vy	
+nashville davidson county tennessee	vy	
+nashville davidson tennessee	vy	
+nashville davidson tn	vy	
+nashville film	m75	
+nashville harbor		twz:4
+nashville harbor records		twz:4
+nashville harbor records entertainment	twz	
+nashville metros	sjn	
+nashville movie	m75	
+nashville predators	3y2	
+nashville preds	3y2	
+nashville skyline	3e7n	
+nashville skyline comments	3e7n	
+nashville skyline rag	3e7n	
+nashville sounds	1km	
+nashville thebodiah slasher	5n1t	
+nashville tn	vy	
+nashville university	41v5	
+neymar	1a1w	
+neymar da silva	1a1w	
+neymar da silva santos junior	1a1w	
+neymar jr	1a1w	
+neymar junior	1a1w	
+niob	o57	
+osetron	eta	
+outtv	553w	
+outtv canada	553w	
+pangio	1krr	
+pardaillan	2l81	
+pardaillan lot et garonne	2l81	
+pelizzoli	2v06	
+pellican	4i6f	
+perc rule	wby	
+petrograd conservatory	fse	
+petrograd governate	1kwm	
+petrograd government	1kwm	
+petrograd imperial university	1tf	
+petrograd metro	cpg	
+petrograd opera	1ngu	
+petrograd polytechnic institute	fnm	
+petrograd polytechnical institute	fnm	
+petrograd province	1kwm	
+petrograd state university	1tf	
+petrograd subway	cpg	
+petrograd underground	cpg	
+petrograd university	xjs	
+petty corruption	etc	
+petty officer 2nd class michael a monsoor	2382	
+petty richard	6g3j	
+petty theft	143a	
+petty thief	143a	
+petty william	4bnf	
+pfaffenhofen		4oyj:4,56rr:4
+pfaffenhofen a d ilm	56rr	
+pfaffenhofen a d ilm district	k2z	
+pfaffenhofen an		4oyj:4,56rr:4
+pfaffenhofen an der		4oyj:4,56rr:4
+pfaffenhofen an der ilm	56rr	
+pfaffenhofen an der ilm district	k2z	
+pfaffenhofen an der roth	4oyj	
+pfaffenhofen district	k2z	
+pfaffenhofen ilm	56rr	
+phalacra	6enp	
+pilodeudorix	vip	
+pipa el cirujano charles	49iw	
+pipa gancedo	4bh9	
+planodes	3na9	
+pouille	39dj,3y6y,3y76	3t3o:3
+pouille les		3t3o:3
+pouille les coteaux	3t3o	
+pouille loir et cher	39dj	
+pouille vendee	3y6y	
+pouille vienne	3y76	
+promising boy	5l7z	5l7z:3
+province	d2u,4yig	1te:3,29l:3,2am:3,2pg:3,2q5:3,2vm:3,2wo:3,2wu:3,3fs:3,3hy:3,3jj:3,3ye:3,3ym:3,3zq:3,44t:3,4cw:3,4d5:3,4i8:3,4kz:3,4l7:3,4pr:4,4xx:3,50q:3,52f:3,54a:3,55v:3,5be:3,5cn:3,5fu:3,5kn:3,5l5:4,5l7:3,5qk:3,5tu:3,5v1:3,5x5:3,5xw:3,5zh:3,602:3,64a:3,6bb:3,6bz:3,6c9:3,6lg:3,6mn:3,6ox:3,6pm:3,6qm:5,6qo:3,6s3:3
+province capitals of ecuador	2hck	
+province china	282f	
+province de l adamaoua	1l6e	
+province de l ontario	77	
+province de quebec	45jo	
+province du bas canada	10lm	
+province du haut canada	vgl	
+province du luxembourg	e9o	
+province government	5wcy	
+province groningen	bff	
+province level divisions of the people s republic of china	upy	
+province nord	14rw	
+province of		1te:3,29l:3,2am:3,2pg:3,2q5:3,2vm:3,2wo:3,2wu:3,3fs:3,3hy:3,3jj:3,3ye:3,3ym:3,3zq:3,44t:3,4cw:3,4d5:3,4i8:3,4kz:3,4l7:3,4pr:4,4xx:3,50q:3,52f:3,54a:3,55v:3,5be:3,5cn:3,5fu:3,5kn:3,5l5:4,5l7:3,5qk:3,5tu:3,5v1:3,5x5:3,5xw:3,5zh:3,602:3,64a:3,6bb:3,6bz:3,6c9:3,6lg:3,6mn:3,6ox:3,6pm:3,6qm:5,6qo:3,6s3:3
+province of a coruna	7jz	
+province of afghanistan	1a4p	
+province of agrigento	bpx	
+province of ait baha	1trp	
+province of al haouz	rqh	
+province of al hoceima	ypo	
+province of al jahra	3z13	
+province of alacant	jrw	
+province of alava	jil	
+province of albacete	7nq	
+province of alberta	d4	
+province of alessandria	2wu	
+province of algeria	s5s	
+province of algiers	1a6f	
+province of alicante	jrw	
+province of almeria	8xx	
+province of ancona	avw	
+province of angola	4gqe	
+province of anjou	65j4	
+province of antwerp	bww	
+province of aoste	5c7	
+province of aquila	4pr	
+province of araba	jil	
+province of arakan	2psi	
+province of arezzo	cqd	
+province of argentina	2p6b	
+province of ascoli	8xm	8xm:4
+province of ascoli piceno	8xm	
+province of asti	4l7	
+province of asturias	3p0	
+province of avellino	4i8	
+province of avila	44t	
+province of azilal	r2f	
+province of azuay	rjv	
+province of babylon	545l	
+province of badajoz	5kn	
+province of bamiyan	13pk	
+province of bari	bga	
+province of barletta	1ghg	1ghg:5
+province of barletta andria	1ghg	1ghg:5
+province of barletta andria trani	1ghg	
+province of barlettaandriatrani	1ghg	
+province of basilan	u2t	
+province of basra	3z13	
+province of belluno	788	
+province of ben slimane	4qb9	
+province of benevento	6qo	
+province of beni mellal	1xz0	
+province of bergamo	2am	
+province of berkane	1irw	
+province of biella	6mn	
+province of bio bio	1b53	
+province of biobio	1b53	
+province of biscay	jhy	
+province of bizkaia	jhy	
+province of bolivia	ad2	
+province of bologna	82q	
+province of bolzano bozen	40t	
+province of bombay	4uhu	
+province of boulemane	27li	
+province of brabant	3gv0	
+province of brandenburg	2ukh	
+province of brescia	2q5	
+province of brindisi	pok	
+province of britain	1x08	
+province of british columbia	9v	
+province of buenos aires	392	
+province of bulacan	dsj	
+province of burgos	2pg	
+province of burkina		tpx:4
+province of burkina faso	tpx	
+province of bursa	ci5	
+province of burundi	3t5s	
+province of bushehr	vdc	
+province of cabinda	4zp7	
+province of caceres	4hz	
+province of cadiz	7im	
+province of cagliari	5fu	
+province of caltanissetta	iw5	
+province of cambodia	2581	
+province of campobasso	6c9	
+province of canada	ug1	
+province of cantabria	86z	
+province of canterbury	1mml	
+province of carbonia		luf:4
+province of carbonia iglesias	luf	
+province of cardenal caro	462e	
+province of carrara	qn8	
+province of caserta	54a	
+province of castello	quw	
+province of castellon	cga,quw	
+province of catamarca	bl8	
+province of catania	8eb	
+province of catanzaro	6lg	
+province of cavite	eux	
+province of cebu	6e0	
+province of central java	9ul	
+province of cesena	frb	
+province of cesena forli	frb	
+province of chachapoyas	25as	
+province of chaco	8vq	
+province of chad	2fhk	
+province of champagne	2ei2	
+province of chefchaouen	15c7	
+province of chefchaouene	15c7	
+province of chernigov	sek	
+province of chichaoua	zma	
+province of chieti	4xx	
+province of chile	mal	
+province of chiloe	1x85	
+province of chimborazo	1r92	
+province of china	282f	
+province of chtouka ait baha	1trp	
+province of chubut	cq7	
+province of chungbuk	1dv2	
+province of chungnam	12l4	
+province of ciudad		984:4
+province of ciudad real	984	
+province of colchagua	2bsy	
+province of como	3fs	
+province of concepcion	1iy7	
+province of connaught	2sdy	
+province of cordoba argentina	a2t	
+province of cordoba spain	94b	
+province of corrientes	djs	
+province of coruna	7jz	
+province of corunna	7jz	
+province of cosenza	3jj	
+province of cotabato	njc	
+province of courland	185j	
+province of cremona	4kz	
+province of crotone	jlw	
+province of cuba	4y2h	
+province of cuenca	4br	
+province of cuenca spain	4br	
+province of cuneo	29l	
+province of curico	2xdp	
+province of don host	3gkw	
+province of driouch	l6a	
+province of east flanders	c4a	
+province of east java	9fv	
+province of eastern cape	74u	
+province of ecuador	2hck	
+province of el hajeb	2zbo	
+province of el jadida	1gd3	
+province of el kelaa des sraghna	qdo	
+province of el oro	1czk	
+province of enna	o6d	
+province of entre rios	hzs	
+province of essaouira	klj	
+province of esthonia	24ru	
+province of estland	24ru	
+province of fars	6fr	
+province of fermo	deq	
+province of ferrara	idl	
+province of figuig	3yie	
+province of fiji	62te	
+province of finland	4vqk	
+province of firenze	a7i	
+province of florence	a7i	
+province of foggia	8g7	
+province of forli	frb	frb:4
+province of forli cesena	frb	
+province of france	w2i	
+province of frosinone	5tu	
+province of gangwon	ipq	
+province of gaul	jcj	
+province of gauteng	cg1	
+province of gelderland	6a1	
+province of genoa	7ka	
+province of genova	7ka	
+province of gerona	g0v	
+province of gipuzkoa	fm8	
+province of girona	g0v	
+province of gorizia	jdb	
+province of gortynia	16f4	
+province of granada	5cn	
+province of groningen	bff	
+province of grosseto	hnu	
+province of guadalajara	3i4	
+province of guayas	oep	
+province of guipuzcoa	fm8	
+province of gyeongnam	s58	
+province of halland	ijf	
+province of hambuk	t6w	
+province of hame	5xv6	
+province of hamnam	1026	
+province of hannover	1p3x	
+province of hanover	1p3x	
+province of hatay	cxa	
+province of hesse nassau	40cu	
+province of holland	2it7	
+province of huelva	atv	
+province of huesca	4cp	
+province of hwangnam	1a7i	
+province of iloilo	9bf	
+province of imperia	7wo	
+province of indonesia	13z4	
+province of ingria	1kwm	
+province of iran	1anv	
+province of iraq	39cn	
+province of isabela	cfq	
+province of isernia	9vn	
+province of italy	ai2	
+province of jaen spain	9c6	
+province of jagang	1li3	
+province of japan	dp3	
+province of jawa timur	9fv	
+province of jeju	1c40	
+province of jerada	1hwp	
+province of jrada	1hwp	
+province of jujuy	z14	
+province of kalinga	197s	
+province of kaluga	e56	
+province of katanga	24rw	
+province of kazan	y72	
+province of kelaat es sraghna	qdo	
+province of kelaat sraghna	qdo	
+province of kenitra	12yd	
+province of khemisset	15zm	
+province of khenifra	22ox	
+province of khorasan	4gf4	
+province of kosovo	1gna	
+province of kovno	1wyc	
+province of kuopio	4lhd	
+province of kurland	185j	
+province of kwazulu natal	8iq	
+province of l		4pr:4
+province of l aquila	4pr	
+province of la		g47:4
+province of la coruna	7jz	
+province of la rioja spain	5ce	
+province of la spezia	g47	
+province of laguna	ds1	
+province of laos	4ehg	
+province of laquila	4pr	
+province of larache	1sgz	
+province of las palmas	2edw	
+province of latina	f1d	
+province of lattakia	eke	
+province of lecce	5qk	
+province of lecco	5v1	
+province of leghorn	r2k	
+province of leinster	7xf	
+province of leon	4ht	
+province of lerida	spd	
+province of liege	8ek	
+province of lima	8ca	
+province of linares	3dei	
+province of livland	ovj	
+province of livonia	ovj	
+province of livorno	r2k	
+province of lleida	spd	
+province of lleida province	spd	
+province of llion	4ht	
+province of lodi	8ex	
+province of lower canada	10lm	
+province of lucca	cqn	
+province of lugo	b9z	
+province of luxembourg	e9o	
+province of luya	1nce	
+province of macedonia	2bd5	
+province of macedonia greece	2bd5	
+province of macerata	93j	
+province of madrid	43r	
+province of malaga	7w4	
+province of manabi	x14	
+province of manitoba	th	
+province of mantova	6zu	
+province of mantua	6zu	
+province of massa	qn8	qn8:4
+province of massa and carrara	qn8	
+province of massa carrara	qn8	
+province of massa e carrara	qn8	
+province of matera	gdj	
+province of medio		i3j:4
+province of medio campidano	i3j	
+province of megalopoli	2z0h	
+province of mendoza	g54	
+province of messina	50q	
+province of milan	3zq	
+province of milano	3zq	
+province of minsk	c1k	
+province of modena	ab2	
+province of mongolia	2rne	
+province of monza	961	961:5
+province of monza and		961:5
+province of monza and brianza	961	
+province of monza e brianza	961	
+province of monza e della brianza	961	
+province of mozambique	44q4	
+province of munster	2800	
+province of nador	o3j	
+province of nampula	1kyx	
+province of namur	hxm	
+province of naples	5xw	
+province of napoli	5xw	
+province of narathiwat	1cr2	
+province of nasca	5yoq	
+province of navarra	3e1	
+province of navarre	3e1	
+province of new		47ne:4
+province of new brunswick	111	
+province of new york	47ne	
+province of newfoundland and labrador	zs	
+province of nikolayev	1zri	
+province of north chungcheong	1dv2	
+province of north gyeongsang	naq	
+province of north hamgyeong	t6w	
+province of north hwanghae	15xx	
+province of northern cape	mnu	
+province of nova scotia	i8	
+province of novara	64a	
+province of nuoro	6s3	
+province of ogliastra	lz3	
+province of olbia	l0a	l0a:4
+province of olbia tempio	l0a	
+province of olonets	4kza	
+province of olonez	4kza	
+province of oman	113m	
+province of ontario	77	
+province of orense	9bx	
+province of oristano	602	
+province of ouarzazate	25sm	
+province of oulu	z1t	
+province of ourense	9bx	
+province of overijssel	c13	
+province of padova	52f	
+province of padua	52f	
+province of palencia	5ak	
+province of palermo	6bb	
+province of pampanga	ein	
+province of panama	4xyw	
+province of papua		2v0z:5
+province of papua new		2v0z:5
+province of papua new guinea	2v0z	
+province of parma	9v8	
+province of pavia	2wo	
+province of peru	5x5	
+province of perugia	8a7	
+province of pesaro	814	814:5
+province of pesaro and		814:5
+province of pesaro and urbino	814	
+province of pesaro e urbino	814	
+province of pesaro urbino	814	
+province of pescara	bdo	
+province of piacenza	a7q	
+province of pichincha	11nd	
+province of pichincha ecuador	11nd	
+province of pisa	cf4	
+province of pistoia	jna	
+province of pontevedra	bry	
+province of pordenone	aav	
+province of portugal	5nfp	
+province of potenza	55v	
+province of prato	26uq	
+province of prince edward island	38a	
+province of puntarenas	1wj2	
+province of pyeongnam	uwe	
+province of quebec	45jo	
+province of quebec 1763 1791	45jo	
+province of quebec 1763 91	45jo	
+province of quebec 17631791	45jo	
+province of quebec 176391	45jo	
+province of quezon	agr	agr:5
+province of quezon del		agr:5
+province of quezon del norte	agr	
+province of ragusa	zn1	
+province of ravenna	p7r	
+province of razavi khorasan	1m7	
+province of reggio	5l5	5l5:4,b25:4
+province of reggio calabria	5l5	
+province of reggio di calabria	5l5	
+province of reggio emilia	b25	
+province of reggio nell emilia	b25	
+province of rieti	6ox	
+province of rimini	je3	
+province of rizal	qi8	
+province of rodriguez de mendoza	4aer	
+province of roma	4cw	
+province of rome	4cw	
+province of rovigo	a54	
+province of rwanda	5387	
+province of ryanggang	1rvx	
+province of salahuddin	39sl	
+province of salamanca	2vm	
+province of salerno	3hy	
+province of salta	gv2	
+province of san juan argentina	gf5	
+province of san luis	z42	
+province of santa cruz de tenerife	1gqc	
+province of santa fe	d3d	
+province of santander	86z	
+province of santiago chile	h9j	
+province of sao paulo	1d8	
+province of saskatchewan	h1	
+province of sassari	6pm	
+province of saudi arabia	60g2	
+province of savona	7gc	
+province of saxony	2l48	
+province of schleswig		3jgy:4
+province of schleswig holstein	3jgy	
+province of sefrou	1pe0	
+province of segovia	4vx	
+province of settat	snc	
+province of sevilla	8ui	
+province of seville	8ui	
+province of shantung	6ro	
+province of sidi kacem	1ah4	
+province of siena	cwb	
+province of siracusa	lx3	
+province of sondrio	6bz	
+province of soria	508	
+province of south		a6y:4,69tx:4
+province of south chungcheong	12l4	
+province of south cotabato	10em	
+province of south gyeongsang	s58	
+province of south hamgyeong	1026	
+province of south hwanghae	1a7i	
+province of south jeolla	x2y	
+province of south korea	69tx	
+province of south pyeongan	uwe	
+province of south sardinia	a6y	
+province of spain	ovs	
+province of sweden	2irb	
+province of syracuse	lx3	
+province of syria	4xhr	
+province of talca	2a6j	
+province of tanger	7kj	
+province of taounate	oqu	
+province of taourirt	1ah3	
+province of taranto	hhz	
+province of tarija	1ku7	
+province of taroudannt	ct5	
+province of taroudant	ct5	
+province of tarragona	16k4	
+province of taurida	3cly	
+province of taza	wrx	
+province of tenerife	1gqc	
+province of teramo	9aa	
+province of terni	f44	
+province of teruel	4l1	
+province of thailand	ek1	
+province of the		dxs:4,1imb:5,4pgr:4,5vka:8
+province of the democratic		5vka:8
+province of the democratic republic		5vka:8
+province of the democratic republic of		5vka:8
+province of the democratic republic of the		5vka:8
+province of the democratic republic of the congo	5vka	
+province of the dominican		1imb:5
+province of the dominican republic	1imb	
+province of the eastern cape	74u	
+province of the free state	hnw	
+province of the netherlands	4pgr	
+province of the northern cape	mnu	
+province of the philippines	dxs	
+province of the roman empire	fut	
+province of the transvaal	3x8e	
+province of the western cape	68v	
+province of tiznit	1nq3	
+province of toledo	4zh	
+province of torino	1te	
+province of transvaal	3x8e	
+province of trapani	lw7	
+province of trebizond	7pg	
+province of trentino	2fp	
+province of trento	2fp	
+province of treviso	5l7	
+province of trieste	2i3i	
+province of tucuman	djm	
+province of tungurahua	1gk2	
+province of turin	1te	
+province of turkey	eln	
+province of turku and pori	1pvc	
+province of udine	3ym	
+province of ulster	1frq	
+province of umnugobi	ujh	
+province of upper canada	vgl	
+province of utrecht	afn	
+province of uzbekistan	5t9y	
+province of vaasa	3nh6	
+province of valdivia	2kr3	
+province of valence	89p	
+province of valencia	89p	
+province of valladolid	4lu	
+province of valparaiso	39rj	
+province of van	a31	
+province of varese	3ye	
+province of venezia	akh	
+province of venice	akh	
+province of verbania	6qm	
+province of verbano		6qm:5
+province of verbano cusio		6qm:5
+province of verbano cusio ossola	6qm	
+province of vercelli	5zh	
+province of verona	5be	
+province of vibo		ahj:4
+province of vibo valentia	ahj	
+province of viborg	3uyo	
+province of vicenza	4d5	
+province of vietnam	faw	
+province of viipuri	3uyo	
+province of virginia	1dw7	
+province of viterbo	8fz	
+province of vizcaya	jhy	
+province of vorarlberg	8vv	
+province of west flanders	931	
+province of west java	b9b	
+province of west papua	lk0	
+province of west prussia	yhb	
+province of western cape	68v	
+province of yanggang	1rvx	
+province of yekaterinoslav	uza	
+province of york	5ton	
+province of zamora	3xv	
+province of zamora chinchipe	219o	
+province of zaragoza	3ec	
+province or almeria	8xx	
+province orientale	4v7n	
+province south sulawesi	fb7	
+province spain	ovs	
+province sud	1f4b	
+province sweden	2irb	
+province turin	1te	
+province vietnam	faw	
+pssb		57ky:2
+pssb bireuen	57ky	
+pterodactyle	4xvg	
+question	j1x	5wte:2
+question 7	5wte	
+question existing	4kgp	
+question in the form of an answer instrumentals	4i9k	
+question more	1nzx	
+question of honour	43o4	
+question of taste	65z7	
+question of the heart	66du	
+question seven	5wte	
+question types	1m2x	
+roquetes	4cs2	
+roquetes tarragona	4cs2	
+ruffigne	2ts5	
+s3d film	1pr	
+secu caras severin	ku5	
+skurup		21w4:2
+skurup municipality	21w4	
+slm	2i63	
+slm winterthur	2i63	
+soluble salt	2snk	
+st adalbert	1s2l	
+st adalbert of prague	1s2l	
+steendorp	1lsv	
+sugen in	2gbz	
+sumnu	h12	
+symc	hi0	
+symc nasdaq	hi0	
+talacyn		33r9:2
+talacyn district	33r9	
+td ameritrade center	6g02	
+td ameritradecenter	6g02	
+td banknorth garden	61gn	
+td game	sdg	
+td games	sdg	
+td garden	61gn	
+td ireland	ya	
+td parliament	ya	
+td s	ya	
+tedder arthur william 1st baron tedder	216o	
+tephrytis	4z2z	
+the bungalow		6gez:3
+the bungalow mystery	6gez	
+the hezbollah external security organization	14is	
+the misamis oriental	gqk	
+udhagamandala	5c2	
+unicef	4bvz	
+unicef open	2cnt	
+varaize	1yna	
+vaumort	30lr	
+vrishakethu	6el1	
+william lionel collings buster beaumont	44mv	
+wisutkasat	5pk6	
+xylophacos	64c	
+zeffirelli	vnq	
+zeletava	1rnz	

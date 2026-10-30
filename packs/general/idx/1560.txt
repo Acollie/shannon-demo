@@ -1,0 +1,625 @@
+193637		37e9:4
+193637 cypriot		37e9:4
+193637 cypriot cup	2z9e	
+193637 cypriot first		37e9:4
+193637 cypriot first division	37e9	
+adelaide	10c,abz,hgo,3qp9	4vi:3,8z7:4,eal:4,hqk:3,li8:2,q8j:2,15rm:3,21br:3,22vk:3,25e9:4,27jy:3,2fks:3,2hvi:2,2ind:2,2jm3:3,2ojn:2,32wn:4,36jg:3,37xc:3,3fcm:4,3ttg:3,3xm3:2,3xpw:3,3zrp:5,44wt:4,46ro:3,4gcv:3,4z80:3,57jl:2,5hor:3,5hs4:3,5ku5:2,5un9:3,5wkl:2,5z5r:2,64zn:2,66s7:2,68m0:3
+adelaide 1st countess of albemarle	3ttg	
+adelaide 36ers	2hvi	
+adelaide 36ers basketball club	2hvi	
+adelaide 36ers roster	2hvi	
+adelaide adams	3blg	
+adelaide arpad	46ro	
+adelaide arpad d 1140	4gcv	
+adelaide au	10c	
+adelaide au sa	10c	
+adelaide australia	10c	
+adelaide best and fairest	4vi	
+adelaide best and fairest afl women s	4vi	
+adelaide blanche		32wn:4
+adelaide blanche of		32wn:4
+adelaide blanche of anjou	32wn	
+adelaide blue		5un9:3
+adelaide blue eagles	5un9	
+adelaide blue eagles fc	5un9	
+adelaide business school	3k9	
+adelaide cae	j2b	
+adelaide city	eal	eal:4
+adelaide city eagles	2hvi	
+adelaide city fc	eal	
+adelaide city football		eal:4
+adelaide city football club	eal	
+adelaide city force	eal	
+adelaide class	2jm3	2jm3:3
+adelaide class frigate	2jm3	
+adelaide clemens	5ku5	
+adelaide countess		3fcm:4,44wt:4
+adelaide countess consort of savoy	4pup	
+adelaide countess of		3fcm:4,44wt:4
+adelaide countess of burgundy	3fcm	
+adelaide countess of vermandois	44wt	
+adelaide countess palatine of burgundy	3fcm	
+adelaide crapsey	5z5r	
+adelaide creative writing course	3k9	
+adelaide crows	4vi	
+adelaide crows football club	4vi	
+adelaide crows team of the decade	4vi	
+adelaide d orleans	2uro	
+adelaide de maurienne	15rm	
+adelaide de rothschild	4xye	
+adelaide delgado	1zrx	
+adelaide erna caroline	48pk	
+adelaide f c	4vi	
+adelaide fc	4vi	
+adelaide fellas	3xm3	
+adelaide ferreira	66s7	
+adelaide first name	abz	
+adelaide football		4vi:3
+adelaide football club	4vi	
+adelaide football club afl women s	4vi	
+adelaide football club aflw	4vi	
+adelaide force	eal	
+adelaide galaxy	53f5	
+adelaide given name	abz	
+adelaide graduate school of business	3k9	
+adelaide grand prix	dq4	
+adelaide henriette of savoy	1jbh	
+adelaide hills	li8	
+adelaide hills council	li8	
+adelaide i	5wkl	
+adelaide i abbess of quedlinburg	5wkl	
+adelaide i countess of burgundy	3fcm	
+adelaide i of burgundy	3fcm	
+adelaide ii		3zrp:5
+adelaide ii abbess		3zrp:5
+adelaide ii abbess of		3zrp:5
+adelaide ii abbess of quedlinburg	3zrp	
+adelaide kemble	57jl	
+adelaide kemble sartoris	57jl	
+adelaide labille		3xpw:3
+adelaide labille des vertus vertus	3xpw	
+adelaide labille guiard	3xpw	
+adelaide labille guyard	3xpw	
+adelaide lightning	3xm3	
+adelaide louisa theresa	25e9	
+adelaide louise pauline hus	4sln	
+adelaide of		15rm:3,21br:3,22vk:3,25e9:4,27jy:3,2fks:3,36jg:3,3ttg:3,46ro:3,4gcv:3,4z80:3,5hor:3,5hs4:3,68m0:3
+adelaide of anjou	32wn	
+adelaide of aquitaine	4z80	
+adelaide of austria	1it8	
+adelaide of burgundy	2fks	
+adelaide of burgundy 1233 1273	2fks	
+adelaide of burgundy 12331273	2fks	
+adelaide of burgundy duchess of brabant	2fks	
+adelaide of champagne	2oor	
+adelaide of france	15rm	
+adelaide of france 1732 1800	1c9m	
+adelaide of france 17321800	1c9m	
+adelaide of guelders	5hs4	
+adelaide of guyenne	4z80	
+adelaide of hohenlohe langenburg	1rf5	
+adelaide of holland	36jg	
+adelaide of hungary	46ro,4gcv	
+adelaide of hungary d 1140	4gcv	
+adelaide of italy	21br	
+adelaide of kiev	5kjg	
+adelaide of leuven	68m0	
+adelaide of loewenstein wertheim rosenberg	1m2g	
+adelaide of louvain	68m0	
+adelaide of lowenstein wertheim rosenberg	1m2g	
+adelaide of maurienne	15rm	
+adelaide of meissen	576h	
+adelaide of normandy	3ttg	
+adelaide of normandy 1002 1038	2ad5	
+adelaide of orleans 1777 1847	2uro	
+adelaide of orleans 17771847	2uro	
+adelaide of poitou	4z80	
+adelaide of savoy	15rm,5hor	
+adelaide of savoy and swabia	5hor	
+adelaide of savoy duchess of swabia	5hor	
+adelaide of saxe		25e9:4
+adelaide of saxe meiningen	25e9	
+adelaide of schaumburg lippe	3c9v	
+adelaide of susa	22vk	
+adelaide of tours	27jy	
+adelaide of turin	22vk	
+adelaide of vermandois	4zyp	
+adelaide olympic	64zn	
+adelaide olympic fc	64zn	
+adelaide plains	2ind	
+adelaide plains council	2ind	
+adelaide princess of susa	22vk	
+adelaide queen	25e9	
+adelaide queen of lombardy	21br	
+adelaide queen of sardinia	1it8	
+adelaide raiders	2ojn	
+adelaide raiders sc	2ojn	
+adelaide railway		37xc:3
+adelaide railway station	37xc	
+adelaide railway station adelaide	37xc	
+adelaide railway station south australia	37xc	
+adelaide rixa of poland	30in	
+adelaide saint	21br	
+adelaide sartoris	57jl	
+adelaide sharks	wb8	
+adelaide singer	66s7	
+adelaide south australia	10c	
+adelaide south australia australia	10c	
+adelaide station	37xc	
+adelaide station and environs redevelopment	37xc	
+adelaide uni	3k9	
+adelaide united	8z7	8z7:4,hqk:3
+adelaide united f c	8z7	
+adelaide united f c w league	hqk	
+adelaide united fc	8z7,hqk	
+adelaide united fc w league	hqk	
+adelaide united football		8z7:4
+adelaide united football club	8z7	
+adelaide united ladies fc	8z7	
+adelaide united w league	hqk	
+adelaide university	3k9	
+adelaide university school of architecture landscape architecture and urban design	3k9	
+adelaide utd	8z7	
+adelaide zoo	q8j	
+agustyn czartoryski	59vo	
+akilhide karatsu	6g17	
+alexander grothendieck	fhh	
+alrode	3n67	
+andre3000	1a4s	
+apolda	z0r	
+ariza	3fn7	21o1:2
+ariza makukula	21o1	
+ariza spain	3fn7	
+ariza zaragoza	3fn7	
+athleticsat2001worldchampionships	pz1	
+autoneda	hq0	
+azzate	3ojo	
+bharathiya janata party	vd	
+blocheswic	5stn	
+bonamya	34uj	
+botryomeryta	6epx	
+botwinik	4edi	
+brouchaud	237p	
+brouchaud france	237p	
+calophyllaceae	5vrr	
+cari		5ggi:2
+cari fottutissimi amici	3rai	
+cari genitori	5ggi	
+carpazio	2tze	
+catanduanes	13p8	
+catanduanes island	13p8	
+catanduanes islands	13p8	
+catanduanes province	13p8	
+catchers	3a4	
+cchinvali	jzl	
+chaliferois	2z1m	
+changsha	6yb	spg:2
+changsha china	6yb	
+changsha city	6yb	
+changsha county	spg	
+changsha ginde	7fg	
+changsha ginde f c	7fg	
+changsha hunan	6yb	
+cottenest expedition	1z3a	
+david kirschner	18qw	
+delacroix	no9	
+delacroix e	no9	
+delacroix eug	no9	
+delacroix eugene	no9	
+delacroix ferdinand victor eugene	no9	
+dinky island	25jb	
+dinnerware	13kr	
+dpoj	3ph	
+ediesta	5iqg	
+elephan	16mc	
+eurycreadium	1xz3	
+faliant	3o7q	
+fc iberia samtredia	vy6	
+fc iberia tbilisi	43c	
+flamsbanen	4135	
+friars	9fu	
+friars major	30v	
+friars minor	10nb	
+friars minor capuchin	3d90	
+friars minor of the observants	3wn	
+friars of santa maria of evora	4q7y	
+fyoder dostoyevski	7zr	
+geedore	2oz7	
+george cross	fq7	
+gilbertus porrea	5a5z	
+gilbertus porretanus	5a5z	
+gleeson stephen	4h2a	
+gmina dziadowo	qux	
+gombak		po4:3
+gombak united	po4	po4:3
+gombak united f c	po4	
+gombak united fc	po4	
+gombak united football club	po4	
+gombak untied fc	po4	
+gossip	2flj,315q,66fp	fs8:2
+gossip 2000 american film	315q	
+gossip 2000 swedish film	66fp	
+gossip band	2flj	
+gossip breathe carolina ep	5caa	
+gossip ep	5caa	
+gossip files	6nd	
+gossip girl	fs8	
+gossip girl season 1	fs8	
+gossip girl tv	fs8	
+gossip girl tv series	fs8	
+gossip girl tv show	fs8	
+gossip girl u s ratings	fs8	
+gossip s lead singer beth ditto	2lsh	
+gossip tv series	315q	
+hambre de mor	48jq	
+hangchangkun passenger railway	h8t	
+hardcastle 2	5zex	
+hellraiser	1hlc	z6o:2,2hx9:5,46mc:2,4z5t:2,4zcj:2,54x3:2
+hellraiser 2	1t2v	
+hellraiser 3	2hx9	
+hellraiser 3 hell on earth	2hx9	
+hellraiser 4	z6o	
+hellraiser 5	46mc	
+hellraiser 5 inferno	46mc	
+hellraiser 6	4zcj	
+hellraiser 7	54x3	
+hellraiser 8	4z5t	
+hellraiser bloodline	z6o	
+hellraiser bloodline story	z6o	
+hellraiser deader	1hlc,54x3	
+hellraiser film	1hlc	
+hellraiser hellseeker	4zcj	
+hellraiser hellworld	4z5t	
+hellraiser ii	1t2v	
+hellraiser ii hellbound	1t2v	
+hellraiser iii	2hx9	2hx9:5
+hellraiser iii hell		2hx9:5
+hellraiser iii hell on		2hx9:5
+hellraiser iii hell on earth	2hx9	
+hellraiser inferno	46mc	
+hellraiser iv	z6o	
+hellraiser iv bloodline	z6o	
+hellraiser iv bloodline story	z6o	
+hellraiser v	46mc	
+hellraiser v inferno	46mc	
+hellraiser vi	4zcj	
+hellraiser vi hellseeker	4zcj	
+hellraiser vii	54x3	
+hellraiser vii deader	54x3	
+hellraiser viii	4z5t	
+hellraiser viii hellworld	4z5t	
+hemierium	us8	
+homalopoma	12xm	
+hrant		1vlv:2,5om2:2
+hrant dink	1vlv	
+hrant matevosyan	5om2	
+huszti	4cpx	
+huszti szabolcs	4cpx	
+igoris		3gov:2,4chl:2
+igoris kirilovas	4chl	
+igoris pankratjevas	3gov	
+ilich ramirez sanchez	4nxf	
+indirecto	2w82	
+indirecto records	2w82	
+ingund	4uef	
+ingund of thuringia	4uef	
+ingund wife of chlothar i	4uef	
+ingund wife of clotaire i	4uef	
+insulae baleares	f9r	
+john gatins	1ns3	
+john hubbard	1o1i	
+john hubbard actor	1o1i	
+john hubbard lester chafee	1yru	
+john nuttall	3el1	
+john nuttall athlete	3el1	
+kazimiyah	4k3v	
+kb 60 design bureau	5e89	
+kb copenhagen	hvq	
+kb heusden zolder	1g93	
+kb m	c3e	
+kb mashinostroyeniya	59ln	
+kb mashynostroyeniya	59ln	
+kb molniya	4lvy	
+kb productions	4jdr	
+kb s baner	2b0	
+kb se	4iy8	
+keratsa		209x:3
+keratsa of		209x:3
+keratsa of bulgaria	209x	
+kodomomuke	eki	
+kostis	2mck	4xt9:2
+kostis palamas	4xt9	
+kostis stefanopoulos	2mck	
+kostis stephanopoulos	2mck	
+kyuhyun	56zw	
+lagruere	317m	
+latitudinal	6hh6	
+latroy		3oih:2
+latroy hawkins	3oih	
+linuxprinting org	45nv	
+lippstadt	jyy	
+lippstadt germany	jyy	
+lorito	4fif	
+louis xiii	qg8	qg8:4
+louis xiii bourbon	qg8	
+louis xiii king of france	qg8	
+louis xiii of		qg8:4
+louis xiii of france	qg8	
+lubyanka	4i97	
+lubyanka metro	4i97	
+lubyanka moscow metro	4i97	
+mambahi	1md9	
+manchouria	2tho	
+marignieu	1zxc	
+mich angelo	9pi	
+mich j bus	7bo	
+mich tech	tyh	
+moex	blw	
+mshadeed montreal impact academy	4x93	
+muda hassanal bolkiah mu izzadin waddaulah	1ygl	
+muda lawal	4ghu	
+mursili		405j:2
+mursili ii	405j	
+n21 road	3wzf	
+n21 road france	3wzf	
+national epic of finland	2d4n	
+neutron	47bs	6fxr:2
+neutron comments	47bs	
+neutron jack	347q	
+neutron movie character	1atv	
+neutron physics	47bs	
+neutron star	6fxr	
+neutron star doc	6fxr	
+neutron star formation	6fxr	
+neutron stars	6fxr	
+nordstroemia	1xtn	
+normative jurisprudence	dfu	
+nsanet	1ajo	
+ogamdo	4lnj	
+olivermarbles sandbox	27pi	
+olyroos	59h	
+pacific	x6	bj:3,x6:2,3tm:2,6hj:3,fhi:2,fyn:2,t9w:2,yrn:3,14c7:2,1gd8:2,1iwc:2,1l7u:3,1pcy:2,1qy2:3,1rgl:3,20yc:3,27ix:4,2cy7:2,2rl8:3,3r9b:2,3zgs:2,4az6:2,4udt:3,4y9q:2,5bih:2,5jyn:3,5ro6:4,5tcs:3,63yo:4,689c:5,6em8:4,6hmr:2
+pacific aero products	784	
+pacific aero products co	784	
+pacific aero products company	784	
+pacific air 121	zlp	
+pacific air command	5emo	
+pacific asia		6em8:4
+pacific asia curling		6em8:4
+pacific asia curling championships	6em8	
+pacific avenue santa cruz	536	
+pacific basin	x6	
+pacific bay california	1z1q	
+pacific beach wa	lwl	
+pacific blue	4y9q	
+pacific blue airline	5ab8	
+pacific blue tv series	4y9q	
+pacific bottlenose dolphin	5hku	
+pacific boxers	2cy7	
+pacific boxers football	2cy7	
+pacific boxers track and field	2cy7	
+pacific campaign medal	5erf	
+pacific campaign spanish american war	1i4	
+pacific campaign spanishamerican war	1i4	
+pacific canada	9v	
+pacific car and foundry	4bq7	
+pacific car and foundry co	4bq7	
+pacific car and foundry company	4bq7	
+pacific coast		1l7u:3,1qy2:3,1rgl:3,5ro6:4,63yo:4
+pacific coast championships	1qy2	
+pacific coast extension	y87	
+pacific coast hockey		63yo:4
+pacific coast hockey association	63yo	
+pacific coast league	1l7u	
+pacific coast league of professional baseball clubs inc	1l7u	
+pacific coast of the united states	6hkj	
+pacific coast parkway	kxv	
+pacific coast range	1rgl	
+pacific coast ranges	1rgl	
+pacific coast soccer		5ro6:4
+pacific coast soccer league	5ro6	
+pacific coast trail	5jyn	
+pacific coast u s	6hkj	
+pacific coliseum	3zgs	
+pacific command	2302	
+pacific cordillera	5in3	
+pacific county	14c7	
+pacific county wa	14c7	
+pacific county washington	14c7	
+pacific crest		5jyn:3
+pacific crest national scenic trail	5jyn	
+pacific crest trail	5jyn	
+pacific curling championships	6em8	
+pacific data		5tcs:3
+pacific data images	5tcs	
+pacific daylight savings time	bj	
+pacific daylight time	bj	
+pacific daylight time north america	bj	
+pacific daylight time zone	bj	
+pacific drive	3r9b	
+pacific electric		4udt:3
+pacific electric building	4udt	
+pacific electric terminal	4udt	
+pacific fleet russia	1r1o	
+pacific garden mall	536	
+pacific grove	1gd8	
+pacific grove ca	1gd8	
+pacific grove california	1gd8	
+pacific harbor seal	1v8c	
+pacific harbour seal	1v8c	
+pacific heights	1iwc	
+pacific heights 1990 film	1iwc	
+pacific heights film	1iwc	
+pacific heights movie	1iwc	
+pacific hurricane	fdi	
+pacific hurricane season 2006	5pyc	
+pacific hurricane seasons	fdi	
+pacific hurricane seasons 1925 1949	fdi	
+pacific hurricanes	fdi	
+pacific island television broadcasting	2io3	
+pacific islanders		689c:5
+pacific islanders national rugby union team	689c	
+pacific islanders rugby		689c:5
+pacific islanders rugby team	689c	
+pacific islanders rugby union		689c:5
+pacific islanders rugby union team	689c	
+pacific islanders rugby union tours	689c	
+pacific islanders xv	689c	
+pacific islands campaign	3tm	
+pacific jazz	6hj	6hj:3
+pacific jazz records	6hj	
+pacific league	5bih	
+pacific life open	r0n	
+pacific liner	4az6	
+pacific locomotive	9ar	
+pacific lutheran		2rl8:3
+pacific lutheran lutes	2rl8	
+pacific lutheran lutes baseball	2rl8	
+pacific lutheran lutes football	2rl8	
+pacific lutheran lutes men s basketball	2rl8	
+pacific lutheran lutes track and field	2rl8	
+pacific lutheran university	2rl8	
+pacific militia area	3u0g	
+pacific mountain system	1rgl	
+pacific national exhibition coliseum	3zgs	
+pacific national exhibition hall	3zgs	
+pacific northern airlines	24nj	
+pacific northwest	6hmr	
+pacific northwest climate	6hmr	
+pacific northwest pnw pacnw	6hmr	
+pacific ocean	x6	
+pacific ocean fleet	1r1o	
+pacific ocean fleet russia	1r1o	
+pacific oceans	x6	
+pacific or boxers	2cy7	
+pacific ore boxers	2cy7	
+pacific oregon boxers	2cy7	
+pacific palisades	fyn	
+pacific palisades ca	fyn	
+pacific palisades calif	fyn	
+pacific palisades california	fyn	
+pacific palisades los angeles	fyn	
+pacific palisades los angeles ca	fyn	
+pacific palisades los angeles california	fyn	
+pacific plsds	fyn	
+pacific plsds ca	fyn	
+pacific railroad	6hkx	
+pacific ranges	fhi	
+pacific ranges doc	fhi	
+pacific region	x6	
+pacific rim	t9w	20yc:3
+pacific rim 2	20yc	
+pacific rim 2013 film	t9w	
+pacific rim 3	20yc	
+pacific rim film	t9w	
+pacific rim ii	20yc	
+pacific rim maelstrom	20yc	
+pacific rim movie	t9w	
+pacific rim uprising	20yc	
+pacific salmon	482y	
+pacific school		27ix:4
+pacific school of		27ix:4
+pacific school of religion	27ix	
+pacific standard time	43f	
+pacific standard time north america	bj	
+pacific standard zone	bj	
+pacific the	1pcy	
+pacific theater of world war ii	3tm	
+pacific theatre of operations	3tm	
+pacific theological seminary	27ix	
+pacific tigers	aa5	
+pacific time	bj	bj:3
+pacific time zone	bj	
+pacific train	9ar	
+pacific tropical cyclone	fdi	
+pacific trout	482y	
+pacific type	9ar	
+pacific typhoon belt	fdi	
+pacific union		yrn:3
+pacific union college	yrn	
+pacific union pioneers	yrn	
+pacific university	aa5,2cy7	
+pacific university college of optometry	2cy7	
+pacific university oregon	2cy7	
+pacific university press	2cy7	
+pacific war	3tm	
+pacific wharf	yxm	
+panormita	60ng	
+parijs brusssel paris bruxelles	4u5s	
+passarin	5xmg	
+paul maistre	4yhs	
+paul meernaa caedwalla hasluck	3w7c	
+pegognaga	4lxj	
+percell mountains	5zeh	
+pesir	41j1	
+pessans	3j4b	
+prestupleniye i nakazaniye	3diy	
+preussen	4gw	
+preussen muenster	6n4	
+preussen munster	6n4	
+racal vodafone	d7u	
+racal vodaphone	d7u	
+razeni massacre	gka	
+revision control	2xb1	
+revision control system	2xb1	
+revision management	2xb1	
+revision number	2xb1	
+revision tracking	2xb1	
+robert cleckler bowden	61dx	
+robert weiss producer	2wty	
+rroma people	mrm	
+sagunto	h1s	
+sagunto sagunt	h1s	
+saint genes		1c3v:3,27dm:4,2gg7:4,2jyr:4,33pm:4,391m:3,39is:4
+saint genes champanelle	1c3v	
+saint genes champespe	391m	
+saint genes de		2gg7:4,33pm:4,39is:4
+saint genes de blaye	33pm	
+saint genes de castillon	39is	
+saint genes de lombaud	2gg7	
+saint genes du		27dm:4
+saint genes du retz	27dm	
+saint genes la		2jyr:4
+saint genes la tourette	2jyr	
+sarlo i of hauteville	2wv5	
+sarlo of hauteville	2wv5	
+sechault	22o9	
+shriner	286m	
+sio2	2i1a	
+sio2 group	21ws	
+sio2 n	2i1a	
+sjunde inseglet	sil	
+smcr	1idz	
+standart sumgayit	zsv	
+stoner		641:2
+stoner charm	roj	
+stoner metal	641	
+stoner music	641	
+stoner punk	641	
+stoner rock	641	
+stoner sludge	a77	
+strzyzewice commune	19tc	
+swierzawa commune	1jp4	
+tbyool	uu6	
+tcschem sandbox	4ed1	
+teichmann sarah	4ztk	
+tengri tagh	135g	
+the forbin project	1vqe	
+thud media	mgz	
+thud media company	mgz	
+trinadad	8sa	
+varco		2vsv:2
+varco mn	o7c	
+varco sabino	2vsv	
+vauthiera	5r18	
+vigny	2jd0,2wnx	
+vigny moselle	2jd0	
+vigny val d oise	2wnx	
+villecresnes	v1f	
+vorsa	qam	
+whr rivers	48yc	
+xhtml2	631s	
+xousse	39cc	
+yedlin steve	313g	
+zeiraphera	39gj	
+zombified	54zv	

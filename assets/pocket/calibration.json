@@ -1,0 +1,131 @@
+{
+ "pack": "general",
+ "threshold": 52,
+ "types": [
+  "pick"
+ ],
+ "precision": 0.625,
+ "precision_pct": 62,
+ "kept": 32,
+ "right": 20,
+ "coverage_pct": 1.6,
+ "n_dev": 2000,
+ "dev_hits_all": 421,
+ "split_halves": {
+  "even_ids": [
+   18,
+   9
+  ],
+  "odd_ids": [
+   14,
+   11
+  ]
+ },
+ "curve_all_types": [
+  {
+   "cut": 40,
+   "kept": 770,
+   "right": 224,
+   "precision": 0.291
+  },
+  {
+   "cut": 45,
+   "kept": 345,
+   "right": 126,
+   "precision": 0.365
+  },
+  {
+   "cut": 48,
+   "kept": 190,
+   "right": 74,
+   "precision": 0.389
+  },
+  {
+   "cut": 50,
+   "kept": 108,
+   "right": 48,
+   "precision": 0.444
+  },
+  {
+   "cut": 51,
+   "kept": 83,
+   "right": 40,
+   "precision": 0.482
+  },
+  {
+   "cut": 52,
+   "kept": 62,
+   "right": 32,
+   "precision": 0.516
+  },
+  {
+   "cut": 53,
+   "kept": 43,
+   "right": 23,
+   "precision": 0.535
+  },
+  {
+   "cut": 54,
+   "kept": 35,
+   "right": 17,
+   "precision": 0.486
+  },
+  {
+   "cut": 55,
+   "kept": 27,
+   "right": 14,
+   "precision": 0.519
+  }
+ ],
+ "curve_pick_only": [
+  {
+   "cut": 45,
+   "kept": 123,
+   "right": 54,
+   "precision": 0.439
+  },
+  {
+   "cut": 48,
+   "kept": 70,
+   "right": 34,
+   "precision": 0.486
+  },
+  {
+   "cut": 50,
+   "kept": 46,
+   "right": 25,
+   "precision": 0.543
+  },
+  {
+   "cut": 51,
+   "kept": 38,
+   "right": 23,
+   "precision": 0.605
+  },
+  {
+   "cut": 52,
+   "kept": 32,
+   "right": 20,
+   "precision": 0.625
+  },
+  {
+   "cut": 53,
+   "kept": 27,
+   "right": 17,
+   "precision": 0.63
+  },
+  {
+   "cut": 54,
+   "kept": 22,
+   "right": 12,
+   "precision": 0.545
+  },
+  {
+   "cut": 55,
+   "kept": 17,
+   "right": 10,
+   "precision": 0.588
+  }
+ ],
+ "note": "Graph answers are kept only for 'pick' answers with path score >= 52 on the general pack. Calibrated offline on Mintaka DEV (2,000 questions; tools/glm_parity/pocket_scores_dev.json from tools/glm_parity/pocket_scores.mjs, the page's own engine). Precision of kept answers: 20/32 = 62.5% (in-sample on dev; split halves 9/18 and 11/14, so it is noisy). The ~70% target is NOT reached by any score cut: the best all-types cut is about 50-56%, and count / largest / yes-no answers stay near their base rate at any score. Everything below the cut goes to the on-device LM when it is on, or is shown with a low-confidence note. The movies pack uses a different scorer scale, so there any committed answer is kept. No sealed data was used."
+}

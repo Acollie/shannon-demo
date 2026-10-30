@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>GLM Chat</title>
+<meta name="description" content="Chat with GLM, Shannon's graph language model: it answers each question on your device by walking a knowledge graph, and shows the path.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/chat/chat.css">
+</head>
+<body>
+<div class="app" id="app">
+  <aside class="side" id="side" aria-label="Chats and knowledge packs">
+    <div class="side-top">
+      <a class="brand" href="index.html" title="Back to the full GLM page"><span class="logo" aria-hidden="true">G</span><span>GLM <em>chat</em></span></a>
+      <button class="icon only-mobile" id="close-side" type="button" aria-label="Close menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <button class="newchat" id="new" type="button">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>New chat</button>
+    <nav class="hist" aria-labelledby="hist-h">
+      <h2 id="hist-h">Chats</h2>
+      <ul id="chats"></ul>
+      <p class="empty-hist" id="no-chats">No chats yet.</p>
+    </nav>
+    <section class="packs" aria-labelledby="packs-h">
+      <h2 id="packs-h">Knowledge packs</h2>
+      <div id="packs"></div>
+      <p class="side-note">Questions go to the selected pack. Unloading a pack removes its facts: ask again and GLM has nothing to walk.</p>
+    </section>
+    <div class="side-foot">
+      <a href="index.html">Full GLM page</a> · <a href="pocket.html">Pocket (on-device chat)</a> · <a href="qa.html">Shannon QA</a>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <main class="main">
+    <header class="top">
+      <button class="icon only-mobile" id="open-side" type="button" aria-label="Open menu" aria-controls="side" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+      <div class="top-title"><span id="top-pack">GLM</span></div>
+      <a class="toplink" href="index.html">GLM page</a>
+    </header>
+
+    <div class="scroll" id="scroll">
+      <div class="thread" id="thread" aria-live="polite" aria-relevant="additions"></div>
+      <div class="hello" id="hello" hidden>
+        <h1>Ask the <em id="hello-pack">knowledge graph</em></h1>
+        <p class="lede">GLM finds the names in your question, picks a path through the graph, walks it on this device and shows you the path it took.</p>
+        <div class="starters" id="starters"></div>
+      </div>
+    </div>
+
+    <div class="composer-wrap">
+      <div class="loadbar" id="loadbar" role="status" aria-live="polite">
+        <span class="spin" aria-hidden="true"></span><span id="load-t">Starting…</span>
+        <span class="track" id="load-track" hidden><i id="load-i"></i></span>
+      </div>
+      <form class="composer" id="form">
+        <label class="sr" for="q">Ask GLM a question</label>
+        <textarea id="q" rows="1" placeholder="Loading the model…" disabled enterkeyhint="send" autocomplete="off"></textarea>
+        <button class="send" id="send" type="submit" aria-label="Send" disabled>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
+      </form>
+      <p class="honest">GLM answers each question on its own from a knowledge graph. Early research demo; it is often wrong.</p>
+    </div>
+  </main>
+</div>
+<script>
+// Boot watchdog (classic script): any uncaught error shows in the load bar.
+(function () {
+  var show = function (msg) { var t = document.getElementById("load-t"), b = document.getElementById("loadbar"); if (t && b) { b.className = "loadbar bad"; t.textContent = msg; } };
+  window.addEventListener("error", function (e) { if (!(e instanceof ErrorEvent) && !(e.target && e.target.tagName === "SCRIPT")) return; console.error("[chat] uncaught", e.error || e.message); show("Error: " + (e.message || "a script failed to load")); }, true);
+  window.addEventListener("unhandledrejection", function (e) { console.error("[chat] unhandled", e.reason); show("Error: " + (e.reason && e.reason.message || e.reason)); });
+  setTimeout(function () { if (!window.glmChat) show("The page script did not start within 30 s (assets/chat/chat.js or its imports were blocked)."); }, 30000);
+})();
+</script>
+<script type="module" src="assets/chat/chat.js"></script>
+</body>
+</html>

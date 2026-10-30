@@ -1,0 +1,552 @@
+130701	jh5	
+a711 autoroute	5ch8	
+abiszyn commune	xnc	
+ady berber	2t0x	
+ady rosner	5lcv	
+ady williams	5emp	
+ahmadinajad	4e8x	
+ainshams university	11zs	
+alazraqui	1rfo	
+alfaornix	h70	
+anandaraj	3hb7	
+angelton texas	2d0h	
+arel belgium	hnj	
+arel city	hnj	
+ashrestaq	124l	124l:3
+ashrestaq rural		124l:3
+ashrestaq rural district	124l	
+austraya	j	
+binkham ontario	4mvc	
+bordertown	1zew,2bt6	
+bordertown 1935 film	1zew	
+bordertown 2005 movie	2bt6	
+bordertown 2006 film	2bt6	
+bordertown 2006 movie	2bt6	
+bordertown 2007 film	2bt6	
+bronislav kaper	cfi	
+bronislav kaspar malinowski	1qy1	
+bronislav malinowski	1qy1	
+bronislav pilsudski	47b9	
+bujor vlad	5wx2	
+busalla	27eq	
+camerawork	eyk	
+carlion	23gc	
+castanopsis	19jz	
+cesinali	4zcv	
+chalybe	3ct	
+charles gbeke	2p4o	
+chigny	21ya	
+chigny aisne	21ya	
+cittiglio	1ydl	
+cloak	4lsw	1cdv:3,2bd6:2
+cloak and		1cdv:3
+cloak and dagger	1cdv	
+cloak and dagger 1946 film	1cdv	
+cloak and dagger 1984 film	2bd6	
+cloak and dagger movie	2bd6	
+cloak dagger	2bd6	
+cloak dagger 1984 film	2bd6	
+compsoprium	syp	
+cs 1 6	2cf5	
+cs alliance 01	267t	
+cs army	1an	
+cs avion	6bvw	
+cs ben hur	2lss	
+cs bj	j2a	
+cs bourgoin	j2a	j2a:3
+cs bourgoin jallieu	j2a	
+cs bourgoin jallieu rugby	j2a	
+cs brazi	53wj	
+cs buftea	iju	
+cs cartagines	ae4	
+cs chenois	1n1r	
+cs chesnois	1n1r	
+cs chimia ramnicu valcea	55v8	
+cs chinezul	4ijh	
+cs chinezul timisoara	4ijh	
+cs concordia		7c7:3
+cs concordia chiajna	7c7	
+cs concordia chiajna ii	7c7	
+cs concordia ii chiajna	7c7	
+cs congress	6hnt	
+cs constantine	gg5	
+cs craiova	nca	
+cs cuiseaux louhans	a73	
+cs cz	3k2r	
+cs dacia mioveni	c42	
+cs element	uvl	
+cs emelec	5l9	
+cs fc farul constanta ii	770	
+cs fc timisoara sa ii	4i09	
+cs flacara moreni	5p2h	
+cs fola		z49:3
+cs fola esch	z49	
+cs forester	v5f	
+cs forrester	v5f	
+cs fullerton	9zi	
+cs gaz		8mz:4
+cs gaz metan		8mz:4
+cs gaz metan cfr craiova	m4w	
+cs gaz metan drobeta turnu severin	m4w	
+cs gaz metan medias	8mz	
+cs gaz metan medias ii	8mz	
+cs go	2jw3	
+cs grevenmacher	19s2	
+cs hammam		17j4:3
+cs hammam lif	17j4	
+cs herediano	6sb	
+cs industria sarmei campia turzii	3j7i	
+cs inter		iju:3
+cs inter ilfov	iju	
+cs isct	3j7i	
+cs jiul petrosani	gu4	
+cs jiul petrosani in europe	gu4	
+cs juventus bucuresti	zx0	
+cs lewis	a2g	
+cs louhans		a73:3
+cs louhans cuiseaux	a73	
+cs luceafarul		2h1i:3
+cs luceafarul oradea	2h1i	
+cs maritimo	3oz	
+cs maritimo b	ek3	
+cs mechel campia turzii	3j7i	
+cs minaur baia mare football	hk5	
+cs minerul		2oyb:3,5x6d:3
+cs minerul lupeni	2oyb	
+cs minerul motru	5x6d	
+cs mioveni	c42	
+cs mioveni ii	c42	
+cs muresul		4wi3:3
+cs muresul deva	4wi3	
+cs muscelul campulung	6fn6	
+cs muscelul cimpulung	6fn6	
+cs national		6e6k:3
+cs national sebis	6e6k	
+cs olt 90 scornicesti	4039	
+cs oltchim	4in0	4in0:4
+cs oltchim ramnicu		4in0:4
+cs oltchim ramnicu valcea	4in0	
+cs oradea	18c4	
+cs otopeni	feb	
+cs pandurii		6i1:4
+cs pandurii ii targu jiu	6i1	
+cs pandurii lignitul targu jiu	6i1	
+cs pandurii targu	6i1	6i1:4
+cs pandurii targu jiu	6i1	
+cs parnell	4h0d	
+cs peirce	19hj	
+cs petrom flacara moreni	5p2h	
+cs petromflacara moreni	5p2h	
+cs poli iasi	bx1	
+cs poli unirea iasi	bx1	
+cs ramnicu valcea	h94	
+cs rao	1rp9	
+cs s	5pdf	
+cs saint brieuc	5e17	
+cs sedan	4s2	4s2:3
+cs sedan ardennes	4s2	
+cs sergipe	1q7y	
+cs seshadri	4gr2	
+cs severin	m4w	
+cs sfax	bif	
+cs sfaxien	bif	
+cs snagov	2js5	
+cs soimii		40gn:3
+cs soimii pancota	40gn	
+cs source	5pdf	
+cs sportul		zfn:3
+cs sportul snagov	zfn	
+cs targoviste	1tsp	
+cs tiligul		h1i:4
+cs tiligul tiras		h1i:4
+cs tiligul tiras tiraspol	h1i	
+cs turnu		m4w:3
+cs turnu severin	m4w	
+cs tx	mzx	
+cs u craiova	l2b	
+cs unirea		5viw:3
+cs unirea tarlungeni	5viw	
+cs unirea urziceni	axd	
+cs universitatea	l2b	l2b:3,3lnh:4
+cs universitatea cluj		3lnh:4
+cs universitatea cluj napoca	3lnh	
+cs universitatea cluj napoca rugby	3lnh	
+cs universitatea craiova	l2b	
+cs universitatea craiova 1991	5p0	
+cs universitatea craiova ii	l2b	
+cs vane tempest stewart	5cg5	
+cs vise	fh5	
+cuignieres	2aes	
+david baszucki	6h4n	
+decimilli	3qkb	
+devin	fnz	uju:2,2yhb:2,3sy0:2,3w4z:2,3zi4:3,4gbc:2,6cos:2,6fy3:2,6g4w:2
+devin aoki	2f2e	
+devin armani booker	6g4w	
+devin barclay	6cos	
+devin booker	6g4w	
+devin brown	4gbc	
+devin del valle	3fdj	
+devin devorris hester	6fy3	
+devin dude	3zi4	
+devin first name	fnz	
+devin given name	fnz	
+devin green	2yhb	
+devin hester	6fy3	
+devin hester sr	6fy3	
+devin lavell brown	4gbc	
+devin nabrezina	1dem	
+devin name	fnz	
+devin ratray	3sy0	
+devin smith	3w4z	
+devin smith basketball	3w4z	
+devin star tailes	1jaz	
+devin tailes	1jaz	
+devin tha dude	3zi4	
+devin the		3zi4:3
+devin the dude	3zi4	
+devin townsend	uju	
+devin townsend band	uju	
+devin townsend project	uju	
+devin townshend	uju	
+digger	6bdt	
+digger carey	5p7k	
+digger character	5lxp	
+digger mascot	7ai	
+dowbrands	1ipn	
+eleonor		pih:4
+eleonor catton	3tab	
+eleonor de medici	1rby	
+eleonor gonzaga 1493 1570	1rev	
+eleonor gonzaga 14931570	1rev	
+eleonor gonzaga 1598 1655	4bs3	
+eleonor gonzaga 15981655	4bs3	
+eleonor magdalene		pih:4
+eleonor magdalene of		pih:4
+eleonor magdalene of neuburg	pih	
+eleonor magdalene of the palatinate	pih	
+eleonor magdalene of the palatinate neuburg	pih	
+eleonor of austria	1dj0	
+eleonor of austria queen of poland	1dj0	
+eleonor of guelders	2rpg	
+eleonor regent of guelders	2rpg	
+eleonor roosevelt	njv	
+embryologic	69qs	
+enix	n22,1sr9	
+enix almeria	1sr9	
+enix america	n22	
+enix america corporation	n22	
+enix america inc	n22	
+enix co ltd	n22	
+enix spain	1sr9	
+eudokimos	3fwq	
+ferra	k85	
+floridapanthersgm	331	
+fugue de monsieur perle	4ic7	
+generalitat		1fsu:3
+generalitat de cataluna	1fsu	
+generalitat de catalunya	1fsu	
+generalitat of		1fsu:3
+generalitat of catalonia	1fsu	
+genzano		1gim:3,29jn:3
+genzano di		1gim:3,29jn:3
+genzano di lucania	29jn	
+genzano di roma	1gim	
+genzano di roman	1gim	
+goethenburg	179	
+goethenburg sweden	179	
+greci	3u8x	
+greci av	3u8x	
+greci campania	3u8x	
+greci italy	3u8x	
+gyroelongated	d3n	
+gyroelongated pentagonal bipyramid	2vwp,4bzp	
+gyroelongated pentagonal dipyramid	2vwp,4bzp	
+hajduboeszoermeny	5htt	
+hanabilah	40mm	
+hassen	15p	5x2t:2
+hassen gabsi	5x2t	
+hassen given name	3cz	
+hilferding alexander	4clc	
+hueco mundo	5lbs	
+i ron butterfly	2nq4	
+i ron hubbard	h5v	
+jakson avelino coelho	362c	
+jakson coelho	362c	
+jeffersonville	ul7	
+jeffersonville in	ul7	
+jeffersonville indiana	ul7	
+jeffersonville indiana comments	ul7	
+jepha howard	1ewx	
+john avery lomax	4348	
+john avery soccer player	3oe9	
+john cartwright	564z	
+john cartwright footballer	564z	
+john cleve	3x6v	
+john sakellarakis	5xox	
+jonchery	1kqc	2mlv:3,3xbo:3
+jonchery sur		2mlv:3,3xbo:3
+jonchery sur suippe	2mlv	
+jonchery sur vesle	3xbo	
+lachute	1hag	
+lachute qc	1hag	
+lachute quebec	1hag	
+launceston	3qi,thv,1mqm	1rq2:4
+launceston australia	3qi	
+launceston church		1rq2:4
+launceston church grammar		1rq2:4
+launceston church grammar school	1rq2	
+launceston church of england grammar school	1rq2	
+launceston city	thv	
+launceston city council	thv	
+launceston cornwall	1mqm	
+launceston council	thv	
+launceston england	1mqm	
+launceston grammar	1rq2	
+launceston grammar school	1rq2	
+launceston municipality	thv	
+launceston tas	3qi	
+launceston tasmania	3qi	
+launceston tasmania australia	3qi	
+launceston united kingdom	1mqm	
+le may		24oz:4
+le may sur		24oz:4
+le may sur evre	24oz	
+lidhja demokratike e kosoves	62e8	
+madyty commune	kid	
+maiva	1dgt	
+marjamaa		de5:3
+marjamaa parish	de5	
+marjamaa rural		de5:3
+marjamaa rural municipality	de5	
+marjamaa vald	de5	
+matella	8s1	
+mega		14b7:2,15em:4,1fwu:2,1v2k:5,24hh:2,2e7w:5,2r2v:2,34ml:4,35cm:3,42ws:2,49fq:4,4ezj:3,630k:3,659c:5,68i2:4,6f75:3,6fkq:3
+mega aqua monta	ps7	
+mega bemax	ps7	
+mega blastoise	6hgp	
+mega brothel	4bhp	
+mega buster	2r2v	
+mega cd	jcz	
+mega channel	1fwu	
+mega charizard	6h87	
+mega charizard x	6h87	
+mega charizard y	6h87	
+mega coaster	1hy4	
+mega death	icy	
+mega delta	2451	
+mega deth	icy	
+mega drive	1gi	
+mega drive 32x	29qe	
+mega hypo leasing	ps7	
+mega ishrana	ps7	
+mega leks	ps7	
+mega m m s	3p2j	
+mega man	14b7,15em,1m1o,2r2v,42ws	15em:4,35cm:3,4ezj:3,630k:3,68i2:4,6f75:3,6fkq:3
+mega man 1	42ws	
+mega man 2	6fkq	
+mega man character	2r2v	
+mega man classic	15em	
+mega man dos	15em	
+mega man dos game	15em	
+mega man game	42ws	
+mega man i	42ws	
+mega man iii dos	15em	
+mega man legacy		15em:4
+mega man legacy collection	15em	
+mega man maverick hunter x	35cm	
+mega man nes	42ws	
+mega man original series	14b7	
+mega man pc	15em	
+mega man pc iii	15em	
+mega man series	15em	
+mega man video game	42ws	
+mega man video game character	2r2v	
+mega man x	35cm,6f75	68i2:4
+mega man x 3	4ezj	
+mega man x collection	68i2	
+mega man x game	35cm	
+mega man x legacy collection 2	68i2	
+mega man x series	6f75	
+mega man x the day of sigma	35cm	
+mega man x video game	35cm	
+mega man x1	35cm	
+mega man x3	4ezj	
+mega man x3 game	4ezj	
+mega man x4	630k	
+mega man x4 game	630k	
+mega mansion	63d	
+mega max	2pl6	
+mega mind	34ht	
+mega mixes whigfield album	3ow6	
+mega monster		1v2k:5
+mega monster battle		1v2k:5
+mega monster battle ultra		1v2k:5
+mega monster battle ultra galaxy	1v2k	
+mega monster battle ultra galaxy legend the movie	1v2k	
+mega mouse	1gi	
+mega python		49fq:4
+mega python vs		49fq:4
+mega python vs gatoroid	49fq	
+mega records	24hh	
+mega shark		2e7w:5,34ml:4,659c:5
+mega shark versus		2e7w:5,34ml:4,659c:5
+mega shark versus crocosaurus	34ml	
+mega shark versus giant		2e7w:5
+mega shark versus giant octopus	2e7w	
+mega shark versus mecha		659c:5
+mega shark versus mecha shark	659c	
+mega shark vs crocosaurus	34ml	
+mega shark vs giant octopus	2e7w	
+mega shark vs giant octopus in 3d	2e7w	
+mega shark vs mecha shark	659c	
+mega spider	5qkh	
+mega system 1	djw	
+mega venusaur	6hg2	
+merce		2zto:2,46gf:2
+merce cunningham	2zto	
+merce cunningham dance company	2zto	
+merce rodoreda	46gf	
+merce rodoreda i gurgui	46gf	
+merce sampietro	30al	
+mesanger	1wvd	
+michael aaron einziger	4z94	
+michael finlay parkhurst	45xc	
+michael medavoy	1xsw	
+michael romm	163v	
+mieming		6e03:2
+mieming chain	6e03	
+mieming mountains	6e03	
+mieming range	6e03	
+milverton leamington	6pu	
+milverton primary school	6pu	
+mitrovdan	4fkq	
+montegiordano	49j0	
+naerke	3rrp	
+nagydisznod	4dzd	
+naxxar	2dw6	1p5a:4
+naxxar lions	1p5a	1p5a:4
+naxxar lions f		1p5a:4
+naxxar lions f c	1p5a	
+naxxar lions fc	1p5a	
+normandy		s75:2,462n:5
+normandy beach nj	2bjw	
+normandy beachhead	1w5d	
+normandy breakout	yct	
+normandy breakout campaign	yct	
+normandy campaign	yct	
+normandy invasion	1w5d	
+normandy landing	s75	
+normandy landings	s75	
+normandy mass effect	2rs2	
+normandy thatched		462n:5
+normandy thatched cottage	462n	462n:5
+normandy thatched cottage old		462n:5
+normandy thatched cottage old trouville	462n	
+nossage		2kry:3
+nossage et		2kry:3
+nossage et benevent	2kry	
+nsofwa	3xog	
+orangefruit	358k	
+orevic	1hg2	
+pacheta	52ni	
+phalonia	8c2	
+pianist	5d	mpj:2
+ploneour		1xei:2
+ploneour lanvern	1xei	
+popularists	d07	
+pradip	6c2s	
+pradip first name	6c2s	
+pradip given name	6c2s	
+pradip kumar	zup	
+pradip kumar banerjee	4kfg	
+pycnospina	2y1y	
+raduga kh 59	5zl3	
+rascel		3epg:2
+rascel fifi	3epg	
+rectiostoma	4z7z	
+revelacion	5157	
+revelacion film	5157	
+richard edgeworth	5ujt	
+ritsos	2wbq	
+robert matthew van winkle	1b7v	
+robert matthew van winkle rodriguez	1b7v	
+saint arnans la bastide	31ba	
+sax	n4,3frr	
+sax 2010	1e6s	
+sax a boom	28hq	
+sax alicante	3frr	
+sax rhomer	3nix	
+sax rohmer	3nix	
+sax rohner	3nix	
+sax romer	3nix	
+sax switzerland	1s6v	
+sendak	u4v	
+shyam	ai5	wav:2,15mm:3,5fyc:2
+shyam benegal	wav	
+shyam benegal films	wav	
+shyam composer	ai5	
+shyam k		15mm:3
+shyam k naidu	15mm	
+shyam prasad mookerjee	4lbi	
+shyam ramsay	5fyc	
+sinbei city	8ya	
+sylvio	5ege	5ixe:2,66bv:2
+sylvio breleur	66bv	
+sylvio cator stadium	53lo	
+sylvio dinarte	43l8	
+sylvio first name	5ege	
+sylvio given name	5ege	
+sylvio hoffmann	5ixe	
+sylvio hoffmann mazzi	5ixe	
+sylvio romero	5859	
+talmay	2a39	
+temelin	2pyg	
+tereshkova	115t	
+tereshkova valentina	115t	
+tereshkova valentina vladimirovna	115t	
+the darkside hacker	559g	
+the fantasticks	4hge	
+the fantasticks film	4hge	
+the scandalous		5lld:5
+the scandalous adventures		5lld:5
+the scandalous adventures of		5lld:5
+the scandalous adventures of buraikan	5lld	
+the yew genus	5obu	
+tomahawk	46ek	
+tomahawk block iv	2ovv	
+tomahawk block iv cruise missile	2ovv	
+tomahawk chris janson song	3x5z	
+tomahawk cruise missile	2ovv	
+tomahawk cruise missiles	2ovv	
+tomahawk film	46ek	
+tomahawk land attack missile	2ovv	
+tomahawk missile	2ovv	
+tomahawk properties incorporated	40lm	
+tomahawk song	3x5z	
+transilvania	emm	
+treflaouenan	3b0g	
+trobairitz	4n25	
+tuzi hitonari	2hs8	
+u1	ra0,22s1,37q8	
+u1 berlin	37q8	
+u1 berlin u bahn	37q8	
+u1 bvg	37q8	
+u1 hamburg u bahn	ra0	
+u1 munich u bahn	bby	
+u1 nuremberg	22kw	
+u1 nuremberg u bahn	22kw	
+u1 vienna u bahn	22s1	
+ukjaguar	1xtr	
+united s c	ess	
+vanishri	18l3	
+waadi animations	43za	
+whorf benjamin lee 1897 1941	60k0	
+whorf richard	1ehw	
+william piotrowski	1r7m	
+winnisimmet	dqb	
+workforce	5556	
+workforce star trek voyager	5556	
+workforce voyager episode	5556	
+yacooza	6hho	
+yutang lin	40gl	
+zihron yaakov	3psx	

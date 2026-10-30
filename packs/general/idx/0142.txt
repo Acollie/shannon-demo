@@ -1,0 +1,933 @@
+2010	b4j	gw:3,j7:3,1df:4,1fq:4,37t:5,58y:4,6z0:3,e4t:4,gzr:5,kwz:3,trp:3,xeh:6,11i4:4,14ay:4,1578:3,1881:6,19er:3,19t2:5,1bji:5,1d8y:3,1fff:2,1krj:5,1qm5:3,1zqd:2,229q:6,27bn:5,2jlh:2,2kt6:4,2uv7:4,2xp2:6,2y1s:4,2y86:6,3581:3,3hdo:3,3khl:6,3l1a:4,3sby:4,3vfl:5,3xmn:5,494n:3,4cvv:3,4hyt:2,4k0n:4,4nso:3,4w82:4,4yeh:6,4zbl:3,52ws:3,54a6:3,54ce:4
+2010 11 bath city f c season	3vb	
+2010 11 bundesliga	245r	
+2010 11 cypriot cup	k00	
+2010 11 cypriot cup for lower divisions	rye	
+2010 11 cypriot first division	wul	
+2010 11 cypriot fourth division	1c1i	
+2010 11 cypriot second division	13lw	
+2010 11 cypriot third division	103v	
+2010 11 eerste klasse suriname	3u64	
+2010 11 ekstraklasa	30rd	
+2010 11 fuball bundesliga	245r	
+2010 11 fussball bundesliga	245r	
+2010 11 isu speed skating world cup	1oyf	
+2010 11 middle east and north african protests	1lry	
+2010 11 sknfa premier league	5rdl	
+2010 11 speed skating world cup	1oyf	
+2010 11 uci europe tour	w11	
+2010 1984 film	xeh	
+2010 2011 arab spring	1lry	
+2010 2011 arab world protests	1lry	
+2010 2011 middle east and north africa protest areas	1lry	
+2010 2011 middle east revolution	1lry	
+2010 2011 snooker season	42b1	
+2010 2011 uci europe tour	w11	
+2010 2019	1svn	
+2010 abn		4yeh:6
+2010 abn amro		4yeh:6
+2010 abn amro world		4yeh:6
+2010 abn amro world tennis		4yeh:6
+2010 abn amro world tennis tournament	4yeh	
+2010 acura classic	54ce	
+2010 ad	b4j	
+2010 aegon		52ws:3
+2010 aegon classic	52ws	
+2010 afl		2kt6:4
+2010 afl finals		2kt6:4
+2010 afl finals series	2kt6	
+2010 africa		37t:5
+2010 africa cup		37t:5
+2010 africa cup of		37t:5
+2010 africa cup of nations	37t	
+2010 african		1krj:5
+2010 african athletics championships	1krj	
+2010 african championships		1krj:5
+2010 african championships in		1krj:5
+2010 african championships in athletics	1krj	
+2010 african cup of nations	37t	
+2010 african nations cup	37t	
+2010 asia games	j7	
+2010 asiad	j7	
+2010 asian		j7:3
+2010 asian games	j7	
+2010 australian		1qm5:3
+2010 australian open	1qm5	
+2010 australian open day by day summaries	1qm5	
+2010 australian open tennis	1qm5	
+2010 badminton		4k0n:4
+2010 badminton world		4k0n:4
+2010 badminton world championships	4k0n	
+2010 bbox		19t2:5
+2010 bbox bouygues		19t2:5
+2010 bbox bouygues telecom		19t2:5
+2010 bbox bouygues telecom season	19t2	
+2010 bell		4zbl:3
+2010 bell challenge	4zbl	
+2010 bhagyaraj	50ie	
+2010 bilderberg		1578:3
+2010 bilderberg conference	1578	
+2010 budapest grand prix	5dbl	
+2010 bwf world championships	4k0n	
+2010 cac games	2xp2	
+2010 calabarzon election	5ofy	
+2010 central		2xp2:6
+2010 central american		2xp2:6
+2010 central american and		2xp2:6
+2010 central american and caribbean		2xp2:6
+2010 central american and caribbean games	2xp2	
+2010 central falls rhode island bankruptcy	33f3	
+2010 challenge bell	4zbl	
+2010 chess olympiad	1puz	
+2010 chinese fa cup	3ud4	
+2010 commonwealth		kwz:3
+2010 commonwealth games	kwz	
+2010 continental cup	11i4	
+2010 cup		5och:4
+2010 cup of		5och:4
+2010 cup of china	5och	
+2010 cup of nations	37t	
+2010 cwg	kwz	
+2010 delhi commonwealth games	kwz	
+2010 discovery channel headquarters hostage crisis	k3q	
+2010 discovery channel hostage incident	k3q	
+2010 eneco		494n:3
+2010 eneco tour	494n	
+2010 esc	81a	
+2010 european		e4t:4,229q:6
+2010 european athletics		e4t:4
+2010 european athletics championships	e4t	
+2010 european athletics championships medal table	e4t	
+2010 european championships in athletics	e4t	
+2010 european men		229q:6
+2010 european men s		229q:6
+2010 european men s handball		229q:6
+2010 european men s handball championship	229q	
+2010 eurovision song contest	81a	
+2010 f1	27bn	
+2010 f1 season	27bn	
+2010 fall classic	3hdo	
+2010 fed		4cvv:3
+2010 fed cup	4cvv	
+2010 federation internationale de football association world cup	1fq	
+2010 fia formula one world championship	27bn	
+2010 fia gt2 european championship	5cel	
+2010 fia gt2 european championship season	5cel	
+2010 fifa		1fq:4,3khl:6,3vfl:5
+2010 fifa beach soccer world cup	2zzm	
+2010 fifa world		1fq:4,3khl:6,3vfl:5
+2010 fifa world cuo	1fq	
+2010 fifa world cup	1fq	3khl:6,3vfl:5
+2010 fifa world cup qualification	3vfl	
+2010 fifa world cup qualification intercontinental playoffs	3vfl	
+2010 fifa world cup qualifier squad	3vfl	
+2010 fifa world cup qualifying	3vfl	
+2010 fifa world cup qualifying goalscorers	3vfl	
+2010 fifa world cup south		3khl:6
+2010 fifa world cup south africa	1fq,3khl	
+2010 fifa world cup south africa on cbc	1fq	
+2010 fifa world cup south africa video game	3khl	
+2010 fifa world cup training venues	1fq	
+2010 fifa world cup video game	3khl	
+2010 film	xeh	
+2010 formula		27bn:5
+2010 formula 1 season	27bn	
+2010 formula one		27bn:5
+2010 formula one season	27bn	
+2010 formula one world		27bn:5
+2010 formula one world championship	27bn	
+2010 french		3581:3
+2010 french open	3581	
+2010 french open tennis	3581	
+2010 gastein		5rxl:3
+2010 gastein ladies	5rxl	
+2010 gdf		5dbl:5
+2010 gdf suez		5dbl:5
+2010 gdf suez grand		5dbl:5
+2010 gdf suez grand prix	5dbl	
+2010 generali		4w82:4
+2010 generali ladies		4w82:4
+2010 generali ladies linz	4w82	
+2010 gent wevelgem	4hyt	
+2010 gentwevelgem	4hyt	
+2010 german		1df:4
+2010 german presidential		1df:4
+2010 german presidential election	1df	
+2010 giro		3l1a:4
+2010 giro d		3l1a:4
+2010 giro d italia	3l1a	
+2010 grand		5g82:8
+2010 grand prix		5g82:8
+2010 grand prix sar		5g82:8
+2010 grand prix sar la		5g82:8
+2010 grand prix sar la princesse		5g82:8
+2010 grand prix sar la princesse lalla		5g82:8
+2010 grand prix sar la princesse lalla meryem	5g82	
+2010 health care overhaul	6h38	
+2010 hp		5cxp:3
+2010 hp open	5cxp	
+2010 hugo award for best dramatic presentation short form	7ln	
+2010 iaaf		11i4:4,1bji:5
+2010 iaaf continental		11i4:4
+2010 iaaf continental cup	11i4	
+2010 iaaf world		1bji:5
+2010 iaaf world cup	11i4	
+2010 iaaf world indoor		1bji:5
+2010 iaaf world indoor championships	1bji	
+2010 iditarod	2jlh	
+2010 interisland airlines antonov an 12 crash	10ir	
+2010 interisland airlines crash	10ir	
+2010 istanbul		5r85:3
+2010 istanbul cup	5r85	
+2010 iwbf wheelchair basketball world championships	5le3	
+2010 lisbon		trp:3
+2010 lisbon summit	trp	
+2010 machu picchu floods	6gg6	
+2010 masters	1zqd	
+2010 masters snooker	1zqd	
+2010 mercury		54ce:4
+2010 mercury insurance		54ce:4
+2010 mercury insurance open	54ce	
+2010 midland tornado	1aso	
+2010 moby dick	5vpu	
+2010 movie	xeh	
+2010 nato summit	trp	
+2010 ncaa men s water polo championship	y6g	
+2010 nobel prizes	b4j	
+2010 odyssey		54a6:3
+2010 odyssey 2	54a6	
+2010 odyssey two	54a6	
+2010 olympic games	gw	
+2010 olympics	gw	
+2010 open de suede vargarda	5a13	
+2010 paralympic games	6z0	
+2010 paralympic winter games	6z0	
+2010 paralympics	6z0	
+2010 patient protection and affordable care act	6h38	
+2010 philippine		55w7:4
+2010 philippine elections	5ofy	
+2010 philippine general election	5ofy	
+2010 philippine senate		55w7:4
+2010 philippine senate election	55w7	
+2010 player championship tour 1	6c60	
+2010 player tour championship 1	6c60	
+2010 poli farbe budapest grand prix	5dbl	
+2010 polish air force tu 154 crash	d1y	
+2010 polish tu 154 crash	d1y	
+2010 qualifications	3vfl	
+2010 roland garros	3581	
+2010 russian		2uv7:4
+2010 russian premier		2uv7:4
+2010 russian premier league	2uv7	
+2010 s	1svn	
+2010 san diego open tennis	54ce	
+2010 santa cruz riots	536	
+2010 saxo bank season	1e6s	
+2010 sky	1fff	
+2010 soccer world cup qualifying	3vfl	
+2010 southern california open	54ce	
+2010 summer		14ay:4
+2010 summer youth		14ay:4
+2010 summer youth olympic games	14ay	
+2010 summer youth olympics	14ay	
+2010 summer youth olympics opening ceremony	14ay	
+2010 summer youth opening ceremony	14ay	
+2010 tdf	58y	
+2010 team htc columbia women season	2l3c	
+2010 team htccolumbia women season	2l3c	
+2010 team saxo bank season	1e6s	
+2010 team sky season	1fff	
+2010 the		xeh:6
+2010 the masters	1zqd	
+2010 the masters snooker	1zqd	
+2010 the year		xeh:6
+2010 the year we		xeh:6
+2010 the year we make		xeh:6
+2010 the year we make contact	xeh	
+2010 time 100	61f9	
+2010 toray		5kar:5
+2010 toray pan		5kar:5
+2010 toray pan pacific		5kar:5
+2010 toray pan pacific open	5kar	
+2010 tour		58y:4,2y86:6
+2010 tour de		58y:4
+2010 tour de france	58y	
+2010 tour of		2y86:6
+2010 tour of flanders		2y86:6
+2010 tour of flanders for		2y86:6
+2010 tour of flanders for women	2y86	
+2010 tro		2y1s:4
+2010 tro bro		2y1s:4
+2010 tro bro leon	2y1s	
+2010 tt pro league season	1lc9	
+2010 uci		1d8y:3,3xmn:5
+2010 uci protour	1d8y	
+2010 uci road		3xmn:5
+2010 uci road world		3xmn:5
+2010 uci road world championships	3xmn	
+2010 ukip pzl 104 wilga crash	23kn	
+2010 united		gzr:5
+2010 united kingdom		gzr:5
+2010 united kingdom general		gzr:5
+2010 united kingdom general election	gzr	
+2010 vancouver	gw	
+2010 vancouver games	gw	
+2010 vancouver paralympics	6z0	
+2010 vancouver winter games	gw	
+2010 vancouver winter olympic games	gw	
+2010 vuelta		3sby:4
+2010 vuelta a		3sby:4
+2010 vuelta a colombia	3sby	
+2010 wheelchair		5le3:5
+2010 wheelchair basketball		5le3:5
+2010 wheelchair basketball world		5le3:5
+2010 wheelchair basketball world championship	5le3	
+2010 whistler olympics	gw	
+2010 whistler winter olympics	gw	
+2010 wimbledon	4nso	4nso:3
+2010 wimbledon championships	4nso	
+2010 wimbledon championships tennis	4nso	
+2010 winter		gw:3,6z0:3
+2010 winter games	gw	
+2010 winter olympics	gw	
+2010 winter paralympic games	6z0	
+2010 winter paralympics	6z0	
+2010 winter paralympics games	6z0	
+2010 wipe	1cgp	
+2010 wog	gw	
+2010 world		1881:6,3hdo:3
+2010 world allround		1881:6
+2010 world allround speed		1881:6
+2010 world allround speed skating		1881:6
+2010 world allround speed skating championships	1881	
+2010 world cup	1fq	
+2010 world cup in athletics	11i4	
+2010 world cup qualification	3vfl	
+2010 world cup qualifications	3vfl	
+2010 world cup qualifiers	3vfl	
+2010 world cup qualifying	3vfl	
+2010 world cup soccer	1fq	
+2010 world cup video game	3khl	
+2010 world indoor championships in athletics	1bji	
+2010 world series	3hdo	
+2010 world wheelchair basketball championships	5le3	
+2010 ws	3hdo	
+2010 wta		19er:3
+2010 wta tour	19er	
+2010 youth olympic games	14ay	
+6s music	9n3	
+aberg lasse	245s	
+actq	15m6	
+adesvaldo		5rcw:4
+adesvaldo jose		5rcw:4
+adesvaldo jose de		5rcw:4
+adesvaldo jose de lima	5rcw	
+adesvaldo lima	5rcw	
+aranda		q81:3,3gcf:3
+aranda de		q81:3,3gcf:3
+aranda de duero	q81	
+aranda de moncayo	3gcf	
+aranda de moncayo spain	3gcf	
+aranda de moncayo zaragoza	3gcf	
+arosma	184h	
+atr	2b37	
+atr 42	25q2	
+atr 42 300qc	25q2	
+atr 42 312	25q2	
+atr 42 320	25q2	
+atr 42 400	25q2	
+atr 42 500	25q2	
+atr 42 600	25q2	
+atr 42 mp surveyor	25q2	
+atr 72	1ewp	
+atr 72 202	1ewp	
+atr 72 202f	1ewp	
+atr 72 210	1ewp	
+atr 72 500	1ewp	
+atr 72 600	1ewp	
+atr 72 asw	1ewp	
+atr 72 mp	1ewp	
+atr 72212	1ewp	
+atr 72212a	1ewp	
+atr atr 42	25q2	
+atr atr 42 300	25q2	
+atr atr 72	1ewp	
+atr band	2370	
+aurangjeb	pt9	
+baille	2c0c	
+barbara	w1,35fs,3i8e,4w2a,5hh7	am8:2,e86:2,i1b:2,kru:2,nu4:3,qcn:2,wre:2,yg7:2,1394:2,170i:2,17n9:2,18j7:2,197m:3,1drk:2,1dto:2,1er1:2,1etg:6,1gqf:2,1gt5:2,1h6z:3,1ia9:2,1itb:2,1kk1:2,1n4g:3,1nwr:2,1o0z:2,1o8l:2,1sm3:2,1spd:3,1wjt:2,1y5z:3,1yrq:2,1zft:4,1zg0:2,21i8:2,2a8b:2,2bor:3,2d4s:6,2da6:2,2dq4:2,2gdl:2,2k21:2,2lvy:2,2ly5:3,2meu:2,2oah:2,2rl4:5,2se0:2,2sqc:3,2tkx:2
+barbara 1997 film	3i8e	
+barbara 2012 film	35fs	
+barbara a berman	1wjt	
+barbara a castle	2gdl	
+barbara a mikulski	3a5s	
+barbara albert	4si1	
+barbara alberti	2a8b	
+barbara alexandra reemer	3bie	
+barbara allan	5yfg	
+barbara alyn		4hg9:3
+barbara alyn woods	4hg9	
+barbara an	4w2a	
+barbara ann barrie	1wjt	
+barbara ann berman	1wjt	
+barbara ann deeks	1zg0	
+barbara ann mandrell	e86	
+barbara ann mikulski	3a5s	
+barbara ann mitchell	1zg0	
+barbara anne betts	2gdl	
+barbara anne castle	2gdl	
+barbara anne castle baroness castle of blackburn	2gdl	
+barbara anne hendricks	1o8l	
+barbara anne marie orbison	4n40	
+barbara anne marie wellhoner jakobs	4n40	
+barbara anne marie wellhoner orbison	4n40	
+barbara apolonia chaupiec	n4l	
+barbara babcock	52pn	
+barbara bach	1drk	
+barbara bain	34wz	
+barbara barrie	1wjt	
+barbara barry	1wjt	
+barbara bates	21i8	
+barbara bedford	2uaf	
+barbara bedford actor	2uaf	
+barbara bedford actress	2uaf	
+barbara bel		2ly5:3
+barbara bel geddes	2ly5	
+barbara bel gedes	2ly5	
+barbara belgeddes	2ly5	
+barbara bennett	2tkx	
+barbara berlusconi	5wp6	
+barbara berman	1wjt	
+barbara betts	2gdl	
+barbara billingsley	4tf5	
+barbara billingsly	4tf5	
+barbara bobulova	2inj	
+barbara boggs	659s	659s:3
+barbara boggs sigmund	659s	
+barbara bouchet	qcn	
+barbara boxer	4zr3	
+barbara brantingham	1itb	
+barbara brecht		3a8k:3
+barbara brecht schall	3a8k	
+barbara britton	1itb	
+barbara broccoli	56tl	
+barbara bush	1ia9	
+barbara bush bibliography	1ia9	
+barbara bush born 1925	1ia9	
+barbara bush first lady	1ia9	
+barbara c hall	68u6	
+barbara c jordan	2oah	
+barbara carrera	3kue	
+barbara cartland	36kq	
+barbara cason	5knp	
+barbara cassin	64du	
+barbara castle	2gdl	
+barbara castle baroness castle	2gdl	
+barbara castle baroness castle of blackburn	2gdl	
+barbara celjska	3aen	
+barbara chalupiec	n4l	
+barbara charline jordan	2oah	
+barbara chase	3ome	3ome:3
+barbara chase riboud	3ome	
+barbara cilli	3aen	
+barbara cloutman	3ahm	
+barbara cook	5l4p	
+barbara cooney	4t1t	
+barbara crampton	3qhs	
+barbara cupisti	45hn	
+barbara cushing	49fa	
+barbara czarniawska	5trz	
+barbara czarniawska joerges	5trz	
+barbara czukor	1itb	
+barbara dame hepworth	1dto	
+barbara dana broccoli	56tl	
+barbara de		32uk:3,3t1m:3
+barbara de braganza	1etg	
+barbara de fina	32uk	
+barbara de rossi	3t1m	
+barbara deeks	1zg0	
+barbara deely	1spd	
+barbara dewayne	3ome	
+barbara dewayne chase riboud	3ome	
+barbara dickson	1o0z	
+barbara duchess of saxony	18j7	
+barbara eden	yg7	
+barbara eden comments	yg7	
+barbara ehrenreich	3me8	
+barbara ellen kingsolver	38ge	
+barbara everest	2zyt	
+barbara feldon	5meu	
+barbara first name	w1	
+barbara fitts	1253	
+barbara fitzroy	1sm3	
+barbara follett	693i	
+barbara follett politician	693i	
+barbara franklin	5vlv	
+barbara frum	50h6	
+barbara fusar		5l9f:3
+barbara fusar poli	5l9f	
+barbara g mertz	1394	
+barbara geddes lewis	2ly5	
+barbara given name	w1	
+barbara gonzaga	nu4	
+barbara gordon	5q7i	
+barbara gordon character	5q7i	
+barbara guarischi	5ua7	
+barbara guest	5ngd	
+barbara guest higgins	5ngd	
+barbara gutscher	qcn	
+barbara h franklin	5vlv	
+barbara h liskov	3wt0	
+barbara h partee	68u6	
+barbara hackman franklin	5vlv	
+barbara hale	1gt5	
+barbara hall	5o3i,68u6	
+barbara hall partee	68u6	
+barbara hall tv producer	5o3i	
+barbara hall writer and producer	5o3i	
+barbara hambley	3mli	
+barbara hambly	3mli	
+barbara hamilton	3mli	
+barbara hamilton cartland	36kq	
+barbara hamilton pseudonym	3mli	
+barbara hammer	4wn9	
+barbara harris	1nwr	
+barbara harris actress	1nwr	
+barbara hechavarria	2yz1	
+barbara hechevarria	2yz1	
+barbara hendricks	1o8l,58kp	
+barbara hendricks politician	1o8l	
+barbara hendrix	58kp	
+barbara hepworth	1dto	
+barbara hepworth dame	1dto	
+barbara hershey	i1b	
+barbara huberman liskov	3wt0	
+barbara huffman	yg7	
+barbara hutton	3e22	
+barbara inkpen	5bux	
+barbara italy	4w2a	
+barbara jagiellon	18j7	
+barbara jakobs	4n40	
+barbara jane huberman	3wt0	
+barbara jane liskov	3wt0	
+barbara jean morehead	yg7	
+barbara jefford	3vh4	
+barbara jill walters	30r6	
+barbara jo		2sqc:3
+barbara jo allen	2sqc	
+barbara jo lawrence	1kk1	
+barbara joan streisand	7do	
+barbara johnson bioshock	35vd	
+barbara johnson bioshock character	35vd	
+barbara jordan	2oah	
+barbara jordan mickey leland school of public affairs	2bdz	
+barbara jordan politician	2oah	
+barbara jordan s speech statement on the articles of impeachment	2oah	
+barbara jungr	5up3	
+barbara k roberts	6g0s	
+barbara kean	2v2u	
+barbara kelly	2meu	
+barbara kent	3ahm	
+barbara keyfitz	4uh3	
+barbara kingsolver	38ge	
+barbara kopple	3mry	
+barbara kruger	5hsn	
+barbara kwiatkowska	1y5z	1y5z:3
+barbara kwiatkowska lass	1y5z	
+barbara l boxer	4zr3	
+barbara la		1spd:3
+barbara la marr	1spd	
+barbara la marr deely	1spd	
+barbara laage	417a	
+barbara lafrum	50h6	
+barbara lamarr	1spd	
+barbara landis chase	3e4	
+barbara lass	1y5z	
+barbara lawrence	1kk1	
+barbara lawrence actress	1kk1	
+barbara lee redfield	50d1	
+barbara leigh		5zc0:3
+barbara leigh hunt	5zc0	
+barbara lennie	5c1b	
+barbara levy	4zr3	
+barbara levy boxer	4zr3	
+barbara lillian combes	4tf5	
+barbara liskov	3wt0	
+barbara loden	3vju	
+barbara louise gross	1394	
+barbara louise mertz	1394	
+barbara luddy	5oos	
+barbara lynn herzstein	i1b	
+barbara lynn payne	1qlh	
+barbara lynne park	5s8e	
+barbara m ward	657y	
+barbara macnair	4867	
+barbara mandrell	e86	
+barbara mandrell and the mandrell sisters	e86	
+barbara marche	4w2a	
+barbara mary crampton pym	2k21	
+barbara mary jackson	657y	
+barbara mary ward	657y	
+barbara mary ward jackson	657y	
+barbara maurine brantingham	1itb	
+barbara mawdsley	syq	
+barbara mcclintock	17n9	
+barbara mccorquodale	36kq	
+barbara mclean	kru	
+barbara mclintock	17n9	
+barbara mcnair	4867	
+barbara mertz	1394	
+barbara michaels	1394	
+barbara micheline do monte barbosa	5hh7	
+barbara mikua	2e41	
+barbara mikulski	3a5s	
+barbara morehead	yg7	
+barbara mori	2da6	
+barbara mori comments	2da6	
+barbara mortimer	49fa	
+barbara mujica	3fb4	
+barbara mullen	3ybh	
+barbara murray	2lvy	
+barbara name	w1	
+barbara nee chase	3ome	
+barbara nichols	1yrq	
+barbara niven	4twl	
+barbara o		2bor:3
+barbara o neil	2bor	
+barbara o neill	2bor	
+barbara of		nu4:3,1etg:6,1h6z:3,1n4g:3,2d4s:6,2rl4:5,3aen:3
+barbara of austria	15fv	
+barbara of braganza	1etg	
+barbara of brandenburg	nu4,1n4g	2d4s:6,2rl4:5
+barbara of brandenburg 1423 1481	nu4	
+barbara of brandenburg 14231481	nu4	
+barbara of brandenburg 1464 1515	1n4g	
+barbara of brandenburg 14641515	1n4g	
+barbara of brandenburg ansbach		2rl4:5
+barbara of brandenburg ansbach kulmbach	2rl4	
+barbara of brandenburg duchess		2d4s:6
+barbara of brandenburg duchess of		2d4s:6
+barbara of brandenburg duchess of brieg	2d4s	
+barbara of brandenburg marquise of mantua	nu4	
+barbara of celje	3aen	
+barbara of cilli	3aen	
+barbara of hesse	1h6z	
+barbara of hohenzollern	1n4g	
+barbara of nicomedia	16sc	
+barbara of poland	18j7	
+barbara of portugal	1etg	1etg:6
+barbara of portugal queen		1etg:6
+barbara of portugal queen of		1etg:6
+barbara of portugal queen of spain	1etg	
+barbara oneil	2bor	
+barbara orbison	4n40	
+barbara paley	49fa	
+barbara palmer	2xml	2xml:6
+barbara palmer 1st		2xml:6
+barbara palmer 1st duchess		2xml:6
+barbara palmer 1st duchess of		2xml:6
+barbara palmer 1st duchess of cleveland	2xml	
+barbara park	5s8e	
+barbara partee	68u6	
+barbara patrick	hzg	
+barbara payton	50d1	
+barbara pepper	3w64	
+barbara pierce	1ia9	
+barbara pierce bush	1ia9	
+barbara pinson	5ngd	
+barbara pym	2k21	
+barbara radziwell	47t0	
+barbara radziwi	47t0	
+barbara radziwill	47t0	
+barbara radziwillowna	47t0	
+barbara radziwillowna film	4c1y	
+barbara radziwiowna	47t0,4c1y	
+barbara radziwiowna film	4c1y	
+barbara renee turner	35d6	
+barbara riboud	3ome	
+barbara rich	446a	
+barbara roberts	6g0s	
+barbara rowan	5d0p	
+barbara ruick	3ks2	
+barbara rush	wre	
+barbara rutting	2dq4	
+barbara schoneberger	4wli	
+barbara schulz	63r9	
+barbara seagull	i1b	
+barbara sepulveda	4h7q	
+barbara shelley	2se0	
+barbara siggers		5vlw:3
+barbara siggers franklin	5vlw	
+barbara sigmund	659s	
+barbara smith	6184	
+barbara sophie		1zft:4
+barbara sophie of		1zft:4
+barbara sophie of brandenburg	1zft	
+barbara spinelli	4x78	
+barbara stamm	41i7	
+barbara stanwick	am8	
+barbara stanwyck	am8	
+barbara steele	170i	
+barbara stocker	41i7	
+barbara stollberg		590s:3
+barbara stollberg rilinger	590s	
+barbara straisand	7do	
+barbara streisand	7do	
+barbara sukowa	1gqf	
+barbara szapolyai	49t4	
+barbara tarbuck	4rgv	
+barbara tuchman	197m	
+barbara tucker	4kh3	
+barbara turner	3471	
+barbara turner actress	3471	
+barbara turner basketball	35d6	
+barbara turner basketballer	35d6	
+barbara turner screenwriter	3471	
+barbara valentin	1er1	
+barbara valentine	1er1	
+barbara villiers	2xml	
+barbara villiers 1st duchess of cleveland	2xml	
+barbara villiers duchess of cleveland	2xml	
+barbara villiers duchess of countess of southampton baroness nonsuch cleveland	2xml	
+barbara vine	br5	
+barbara von brandenburg	nu4	
+barbara von cilli	3aen	
+barbara w		197m:3
+barbara w tuchman	197m	
+barbara walters	30r6	
+barbara walters special	30r6	
+barbara ward	657y	
+barbara ward baroness jackson of lodsworth	657y	
+barbara ward economist	657y	
+barbara ward jackson	657y	
+barbara wellhoner jakobs	4n40	
+barbara wertheim	197m	
+barbara wertheim tuchman	197m	
+barbara wertheimer tuchman	197m	
+barbara windsor	1zg0	
+barbara windsor mbe	1zg0	
+barbara zampini	1kpi	
+barbara zapolya	49t4	
+barbara zapolya of hungary	49t4	
+bernhardin	3sbr	
+bilb	wvk	
+broke back mountain	ted	
+broke ground	1fg3	
+broke phi broke	467p	
+burgi navarre	3x2r	
+burgi richard	3t7l	
+cannois	30ub	
+caryophylliinae	5ucw	
+chalkbag	6dkp	
+charles aznavor	djn	
+choon eng chew	4r2w	
+cogee beach	481q	
+compiled sofware	sdq	
+courcouronnes	1yw3	
+craonnelle	2nc1	
+dactylorchis	58sk	
+denae	5f39	
+dermitis	zm6	
+dongdan muhua	5oc8	
+eifel	std	
+eifel 65	2lrp	
+eifel mountains	std	
+eifel portal	std	
+eifel tower	1sc0	
+eigenthal	2ur6	
+einzige	38lf	
+enp paralimi	2xc	
+enp paralimni	2xc	
+enp paralimni fc	2xc	
+epia	6ezc	
+epia moth	6ezc	
+etrochey	3az6	
+fladens friske fyre	2f4e	
+geox		1gfk:2
+geox tmc	1gfk	
+gmina cieszanow	4pkt	
+grandpre	11b9	
+grandpre ardennes	11b9	
+guatamala premier division	1s4c	
+hbmce	ju8	
+herrenhaus building	63d	
+herrenhaus gebaude	63d	
+hutteen		2rdv:2
+hutteen latakia	2rdv	
+hutteen sc	2rdv	
+i banking	3mhs	
+ieri oggi domani	269h	
+ieri oggi domani film 1963	269h	
+ieri oggi e domani	269h	
+james cuthbert		2gq6:3
+james cuthbert gentle	4tac	
+james cuthbert smith	2gq6	
+jinping xi	10oa	
+john blaha	1iwf	
+john niemeyer		5ia1:3
+john niemeyer findlay	5ia1	
+joshin		2j7n:2,3vpf:3,58uy:5
+joshin dentetsu	2j7n	
+joshin dentetsu joshin line	2j7n	
+joshin electric railway	2j7n	
+joshin electric railway line	2j7n	
+joshin etsu		3vpf:3,58uy:5
+joshin etsu expressway	3vpf	
+joshin etsu kogen		58uy:5
+joshin etsu kogen national		58uy:5
+joshin etsu kogen national park	58uy	
+joshin line	2j7n	
+joshin railway	2j7n	
+kiichi		1sme:2,5z6w:2
+kiichi miyazawa	5z6w	
+kiichi miyazawa comments	5z6w	
+kiichi nakai	1sme	
+knoc down	39up	
+konnor	88i	
+kropotkin	15me,4lai	
+kropotkin krasnodar krai	4lai	
+kropotkin town	4lai	
+kryry	2gia	
+labdia	6v1	
+le pertuis	2kuy	
+leadership of scottish labour	dk4	
+leadership of the house of commons	nva	
+lehtinen	1h2g	
+mamuretuelaziz	qnb	
+mantsala	3ryk	
+melk	19tl	eg7:2
+melk concentration camp	uea	
+melk district	eg7	
+michael mick doohan	2kn1	
+mombetu	5rj8	
+monguzzo	47zr	
+mskyo	64ix	
+mutzenhouse	2ffo	
+nasar		1qv6:3
+nasar e sharif	3ghx	
+nasar rural		1qv6:3
+nasar rural district	1qv6	
+nemeth	3gig	
+nemeth krisztian	2phi	
+nemeth surname	3gig	
+nonnita	5v4z	
+nyoo	37p	
+obterre	3c0q	
+okenia	p2g	
+ostroecki	z1b	
+pachyzancloides	fbf	
+paul bettany	meq	
+peripatetics	59rm	
+peter genannt patrick nasnyth	5qkc	
+pterophorus	z2h	
+pythagoreas	12fz	
+quesa	3dih	
+quesa valencia	3dih	
+ratropolis	1rpq	
+retributive law	37tj	
+riorange	1cc7	
+robert calvert	4s2q	
+robert clive	4fn9	
+robert clive 1st baron clive	4fn9	
+robert clive 1st baron clive of plassey	4fn9	
+robert clive baron clive	4fn9	
+robert neville	25fc	
+robert neville bishop	25fc	
+robert zajonc	4u8b	
+rsas	sh	
+rsh	27x2	
+rudolfov	2nun	
+s4x	4f2b	
+s4x berlin	4f2b	
+sadeillan	3npp	
+san berdoo	4wz	
+sanremese	jzg	
+sanremese calcio 1904	jzg	
+saturos	34rm	
+savant records	2pdu	
+secale		3vrl:2
+secale cereale	3vrl	
+seisint	2dba	
+shamkir fc	38ej	
+shamkir fk	38ej	
+shimane	ajn	ajn:2
+shimane japan	ajn	
+shimane ken	ajn	
+shimane prefecture	ajn	
+shuddha hindi	5s	
+skillset	3r3y	
+spapartei	5gd	
+st olav		nrl:7
+st olav s		nrl:7
+st olav s medal		nrl:7
+st olav s medal with		nrl:7
+st olav s medal with oak		nrl:7
+st olav s medal with oak branch	nrl	
+stamos	1stz	
+staufian	1m2r	
+suppose		3rzc:8
+suppose they		3rzc:8
+suppose they gave		3rzc:8
+suppose they gave a		3rzc:8
+suppose they gave a war		3rzc:8
+suppose they gave a war and		3rzc:8
+suppose they gave a war and nobody		3rzc:8
+suppose they gave a war and nobody came	3rzc	
+sweinmote	14og	
+sx tv	61j	
+taicang	1yhe	
+taicang china	1yhe	
+taicang county	1yhe	
+taicang jiangsu	1yhe	
+taicang prefecture	1yhe	
+tanizuki jun ichirou	2bkj	
+the byelorussian soviet socialist republic	9kg	
+the depths of time	5539	
+the only		36an:3,4auu:3,52er:5
+the only band that matters	h8g	
+the only game		52er:5
+the only game in		52er:5
+the only game in town	52er	
+the only game in town film	52er	
+the only one	4iht	
+the only one pet shop boys song	63vp	
+the only ones	4auu	
+the only pirate at the party	33ea	
+the only thing necessary for evil to triumph in the world is that good men do nothing	1d88	
+the only thing necessary for the triumph of evil is for good men to do nothing	1d88	
+the only thing sure	4us6	
+the only town in pennsylvania	12jf	
+the only way	36an	
+the only way 1970 film	36an	
+the only way to fly	24nj	
+the only winning move is not to play	oe2	
+the ui neill	663l	
+the yaik river	4a2l	
+tosin		459y:2
+tosin dosunmu	459y	
+urbana	795,x4x,3ehu	
+urbana free library	795	
+urbana il	795	
+urbana illinois	795	
+urbana middle school	795	
+urbana oh	x4x	
+urbana oh micropolitan statistical area	10ry	
+urbana oh msa	10ry	
+urbana oh sa	10ry	
+urbana ohio	x4x	
+urbana ohio micropolitan area	10ry	
+urbana sweet corn festival	795	
+urbana veneto	3ehu	
+vend		4d6y:2
+vend marketplaces	4d6y	
+verano italy	50br	
+verano monumental cemetery	79z	
+verano song	3w9e	
+voulzy	62si	
+yemens	ly	
+yuvarajadhiraj	6bzh	
+zavidov	43iw	
+zhivko	56hc	4p9v:2
+zhivko zhelev	4p9v	
+ziv cabeda	53ac	
+ziv caveda	53ac	

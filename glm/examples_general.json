@@ -1,0 +1,9 @@
+{"note": "Mintaka DEV questions (Sen et al., 2022, CC BY 4.0) that the general pack answers right with a sensible path, checked in Node with the shipped pack and model. Not test questions.",
+ "examples": [
+  {"tag": "2-step", "q": "When did the author of Pride and Prejudice die?", "answer": "1817-07-18"},
+  {"tag": "2-step", "q": "When was the author of the Hunger Games born?", "answer": "1962-08-10"},
+  {"tag": "largest", "q": "Who was the tallest US president ever?", "answer": "Abraham Lincoln"},
+  {"tag": "smallest", "q": "Who was Abraham Lincoln's first child?", "answer": "Robert Todd Lincoln"},
+  {"tag": "compare", "q": "Is Lake Michigan or Lake Superior larger by surface area?", "answer": "Lake Superior"},
+  {"tag": "count", "q": "How many members of Blackpink are there?", "answer": "4"}
+ ]}

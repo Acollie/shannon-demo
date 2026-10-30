@@ -1,0 +1,517 @@
+194849		2u8j:4
+194849 cypriot		2u8j:4
+194849 cypriot cup	2pxl	
+194849 cypriot first		2u8j:4
+194849 cypriot first division	2u8j	
+a bartlett		4xc6:3
+a bartlett giamatti	4xc6	
+abasiri	2fdz	
+abasiri hokkaido	2fdz	
+abasiri hokkaidoo	2fdz	
+abasiri subprefecture	36ci	
+abensberg	2ixm	
+aidenbach	455o	
+alexander armstrong	2vzr	
+alexander armstrong comedian	2vzr	
+alexander norris	19h1	
+alphavirus	6cvu	
+alphavirus infections	6cvu	
+aouate	4sw9	
+aphnaeus	11c7	
+arceau	2bhh	
+atcvet code qa01ab04	180d	
+atcvet code qa01ab22	4w3b	
+atcvet code qa02aa01	6dkp	
+atcvet code qa02aa04	2qd1	
+atcvet code qa02ad02	5wmk	
+atcvet code qa03fa03	fkz	
+atcvet code qa06ac03	2grj	
+atcvet code qa06ac07	12s2	
+atcvet code qa06ad01	6dkp	
+atcvet code qa06ag06	2lmr	
+atcvet code qa07aa03	20z2	
+atcvet code qa07aa04	64nl	
+atcvet code qa07aa07	180d	
+atcvet code qa11cc05	51ut	
+atcvet code qa12aa04	1ip9	
+atcvet code qa12aa10	3y7n	
+atcvet code qa12ca01	1dod	
+atcvet code qb01aa03	rpv	
+atcvet code qb01ac06	qxd	
+atcvet code qb05ba01	298j	
+atcvet code qb05ba03	iv0	
+atcvet code qb05cb04	3pzw	
+atcvet code qb05xa03	1dod	
+atcvet code qc01ba01	epa	
+atcvet code qc01ba03	g3c	
+atcvet code qc01bc04	gh0	
+atcvet code qc01bd04	fxn	
+atcvet code qc01bd05	fvt	
+atcvet code qc01bd07	g6w	
+atcvet code qc01ca06	4vdq	
+atcvet code qc03ca02	5i5j	
+atcvet code qc03ca04	5n2v	
+atcvet code qc04ad03	4x4r	
+atcvet code qc05aa05	51gv	
+atcvet code qc07aa07	f2d	
+atcvet code qc07ab02	657r	
+atcvet code qc08da01	39lh	
+atcvet code qc08ea02	f8j	
+atcvet code qc09aa02	5o5p	
+atcvet code qc10aa02	1h6y	
+atcvet code qc10ax02	fh8	
+atcvet code qd01aa02	20z2	
+atcvet code qd01ac08	141m	
+atcvet code qd01ac15	2qe1	
+atcvet code qd04aa32	5tjt	
+atcvet code qd07ab19	252h	
+atcvet code qd08al30	4bw	
+atcvet code qd08ax08	tpg	
+atcvet code qd10aa02	4ttg	
+atcvet code qg01aa02	20z2	
+atcvet code qg01aa03	180d	
+atcvet code qg01af01	54ag	
+atcvet code qg01af11	141m	
+atcvet code qg02ab01	5jiq	
+atcvet code qg02cb01	45ux	
+atcvet code qg02cc02	26tg	
+atcvet code qg04be02	43hn	
+atcvet code qg04bx01	2qd1	
+atcvet code qj01aa02	4w3b	
+atcvet code qj01cf02	56hd	
+atcvet code qj01dc01	3dwd	
+atcvet code qj01dc02	2bzi	
+atcvet code qj01dc05	3tdg	
+atcvet code qj01dc08	5dfl	
+atcvet code qj01dc10	5n4h	
+atcvet code qj01dd01	2n6l	
+atcvet code qj01dd04	17z5	
+atcvet code qj01dd12	3tqi	
+atcvet code qj01dd15	42y1	
+atcvet code qj01de01	21a7	
+atcvet code qj01df01	58bp	
+atcvet code qj01dh02	59is	
+atcvet code qj01eq11	5c63	
+atcvet code qj01fa09	cao	
+atcvet code qj01ff01	5f1a	
+atcvet code qj01ga01	64nl	
+atcvet code qj01gb03	3f81	
+atcvet code qj01ma02	1029	
+atcvet code qj01ma06	4nvc	
+atcvet code qj01ma09	e0m	
+atcvet code qj01ma13	45kd	
+atcvet code qj01ma14	c1d	
+atcvet code qj01ma16	4cv6	
+atcvet code qj01xe90	5uyf	
+atcvet code qj02ab02	141m	
+atcvet code qj02ac02	z25	
+atcvet code qj04ab04	5m4l	
+atcvet code qj05ae01	5q3b	
+atcvet code qj05ae03	4ik4	
+atcvet code qj05ae04	63m5	
+atcvet code qj05ae05	5cx1	
+atcvet code qj05ae06	5bdi	
+atcvet code qj05ae08	4tar	
+atcvet code qj05ae09	678o	
+atcvet code qj05ae10	60ib	
+atcvet code qj51aa07	61eh	
+atcvet code qj51cf02	56hd	
+atcvet code qj51da04	53hm	
+atcvet code qj51da06	2bzi	
+atcvet code qj51da32	3tqi	
+atcvet code ql01aa02	5siv	
+atcvet code ql01aa06	4rr5	
+atcvet code ql01ba01	18zh	
+atcvet code ql01bc02	63w2	
+atcvet code ql01ca01	30lm	
+atcvet code ql01cd02	5upf	
+atcvet code ql01db07	4o0k	
+atcvet code ql01xa02	5apz	
+atcvet code ql01xb01	w3a	
+atcvet code ql01xx05	2yq9	
+atcvet code ql01xx27	emr	
+atcvet code ql01xx35	f4i	
+atcvet code ql04ax03	18zh	
+atcvet code qm01ab02	50ld	
+atcvet code qm02aa07	65c8	
+atcvet code qm02aa23	2jtz	
+atcvet code qm03bx01	2fza	
+atcvet code qm03bx02	2dkt	
+atcvet code qm03ca01	4wu5	
+atcvet code qn01ab08	gam	
+atcvet code qn01ax07	6cou	
+atcvet code qn01ax15	1m1l	
+atcvet code qn01ba05	56gc	
+atcvet code qn02aa09	19zm	
+atcvet code qn02ca01	3roc	
+atcvet code qn02ca02	3f7v	
+atcvet code qn03af01	22u2	
+atcvet code qn04bc01	45ux	
+atcvet code qn05aa01	cat	
+atcvet code qn05ab04	64tf	
+atcvet code qn05ac03	fky	
+atcvet code qn05ad01	cx1	
+atcvet code qn05ad08	eem	
+atcvet code qn05ag02	e4c	
+atcvet code qn05ah04	64e3	
+atcvet code qn05ax08	4ae2	
+atcvet code qn06ab10	ffb	
+atcvet code qn06af01	11t2	
+atcvet code qn06af03	11um	
+atcvet code qn06af04	xxd	
+atcvet code qn06ax16	49nh	
+atcvet code qn07bc06	19zm	
+atcvet code qp52ac11	23p0	
+atcvet code qp54aa01	56cf	
+atcvet code qr01ab01	4vdq	
+atcvet code qr01ad06	51gv	
+atcvet code qr01ba02	53pk	
+atcvet code qr02ad01	56gc	
+atcvet code qr03ba04	51gv	
+atcvet code qr06ax12	gaw	
+atcvet code qs01aa09	61eh	
+atcvet code qs01aa11	3f81	
+atcvet code qs01aa27	2bzi	
+atcvet code qs01aa90	56hd	
+atcvet code qs01ae05	1ubz	
+atcvet code qs01ae06	4cv6	
+atcvet code qs01ax09	4l97	
+atcvet code qs01ax12	4nvc	
+atcvet code qs01ax19	1ubz	
+atcvet code qs01ax21	4cv6	
+atcvet code qs01ax22	c1d	
+atcvet code qs01ba01	252h	
+atcvet code qs01ea04	5zq8	
+atcvet code qs01fa02	5jrk	
+atcvet code qs01ha01	cmo	
+atcvet code qs01xa08	63ew	
+atcvet code qs01xa18	5jwe	
+atcvet code qs02aa10	14yy	
+atcvet code qs02aa15	1029	
+atcvet code qs02ba03	24e7	
+atcvet code qs02ba07	51gv	
+atcvet code qs02da02	cmo	
+atcvet code qs02qa03	56cf	
+atcvet code qs03aa06	3f81	
+atcvet code qs03aa07	1029	
+atcvet code qs03ba01	252h	
+atcvet code qv03ab23	63ew	
+atcvet code qv03an01	se	
+atcvet code qv03an02	2frn	
+atcvet code qv03an03	16pn	
+barrowcliff	350d	
+bayelsan	19rz	
+benign breast disorder	4yhh	
+benign enlargement of the prostate	5mul	
+benign prostate hyperplasia	5mul	
+benign prostatic enlargement	5mul	
+benign prostatic hyperplasia	5mul	
+benign prostatic hyperplasia bph	5mul	
+benign prostatic hypertrophy	5mul	
+benign water diving	11z4	
+benthamist	31lz	
+bikkie	rx2	
+blfc	5me	
+bra	1g,pux	
+bra cn	pux	
+bra cuneo	pux	
+bra italy	pux	
+bra piedmont	pux	
+calama	1ozw	
+calama antofagasta	1ozw	
+calama chile	1ozw	
+cella	4cmt	4ccw:2,53vq:2
+cella aragon	4cmt	
+cella dati	4ccw	
+cella dati italy	4ccw	
+cella di monferrato	53vq	
+cella monte	53vq	
+cella spain	4cmt	
+cella teruel	4cmt	
+chamique	2c5a	2c5a:2
+chamique holdsclaw	2c5a	
+codonemma	bmi	
+coniferous forests	33q	
+coniferous woodland	33q	
+conquistadors	28se	
+coracesium	87j	
+criminalist	1r5d	
+daugava	14v0	
+daugava 90	19yw	
+daugava daugavpils	dt4	
+daugava riga	ann	
+daugava river	14v0	
+ecclesia aestiva	64rm	
+ecclesia cathedralis sanctorum petri et mariae	mvl	
+ecclesia church	fjh	
+ecclesia maronitarum	14k8	
+echigo		1971:2,3ab8:3
+echigo line	1971	
+echigo yuzawa		3ab8:3
+echigo yuzawa station	3ab8	
+edward whitfield	62s7	
+enskede		sva:5
+enskede arsta		sva:5
+enskede arsta vantoer borough	sva	
+enskede arsta vantor	sva	sva:5
+enskede arsta vantor borough	sva	
+enskede arsta vantor city		sva:5
+enskede arsta vantor city district	sva	
+enskede arsta vantor district	sva	
+eranu	4644	
+financial	w1d	6h0:2,1r2u:5,25ko:2,3njy:2,4qtp:2,4t0a:2,61qp:2
+financial adviser	3njy	
+financial advisor	3njy	
+financial advisors	3njy	
+financial analyst	25ko	
+financial analysts	25ko	
+financial backer	8ad	
+financial backing	8ad	
+financial bond	5uv6	
+financial chart	3p88	
+financial consultant	3njy	
+financial consulting	3njy	
+financial counseling	3njy	
+financial counselor	3njy	
+financial crisis in the united states	3epc	
+financial director	jgo	
+financial district south	gfa	
+financial doctor	3njy	
+financial emergency in india	v2t	
+financial exchange	4nab	
+financial firm	4t0a	
+financial firms	4t0a	
+financial industry	6h0	
+financial institution	4t0a	
+financial institutions	4t0a	
+financial institutions of the african union	hcs	
+financial investment	4mj7	
+financial law insitute	3k2	
+financial law institute	3k2	
+financial management consultancy	4i4t	
+financial manager	3njy	
+financial measures	61qp	
+financial motivations behind the american civil war	c3u	
+financial policies	1zwb	
+financial policy	1zwb	
+financial product	6h0	
+financial products	6h0	
+financial ratio	61qp	
+financial ratios	61qp	
+financial reform	w1d	
+financial secretary		1r2u:5
+financial secretary to		1r2u:5
+financial secretary to the		1r2u:5
+financial secretary to the treasury	1r2u	
+financial sector	6h0	
+financial service	6h0	
+financial service industry	6h0	
+financial service institution	4t0a	
+financial services	6h0	
+financial services company	4t0a	
+financial services conglomerate	6h0	
+financial services industry	6h0	
+financial services institution	4t0a	
+financial support	8ad	
+financial times	4qtp	
+financial times london	4qtp	
+financial times london uk	4qtp	
+financial times mandate	4qtp	
+financial trading venue	4nab	
+financial troubles for michael vick	6g3c	
+financial university under the government of the russian federation	1lfc	
+firenzi	ia	
+forestville connecticut	saq	
+funkadelics	1djv	
+garringo	3is7	
+gedeck	1ccq	
+girdled lizard	68jv	
+glay	13lx	
+glay band	13lx	
+glay banda	13lx	
+gmina krzymow	17qd	
+greolieres	2ip6	
+guangfo		12uq:2
+guangfo line	12uq	
+guangfo line fmetro	12uq	
+guangfo line foshan metro	12uq	
+guangfo metro	12uq	
+hagan ebenzer	6a8b	
+hiroba	4o71	
+history theatrical genre	5e4w	
+hunnam	2ebm	
+i ain t afraid of no ghosts	nm4	
+i ain t drunk i m just drinkin	2jkh	
+i ain t goin down	4y9l	
+i ain t heard of that	2osr	
+i ain t in checotah anymore	6g37	
+i motorizzati	2f6a	
+infobip	4kk2	
+inlets	x2v	
+isabey	2e8e	
+isabey jean baptiste	2e8e	
+itata valley	t15	
+itata valley wine	t15	
+jeeno heloise and igamor the long long horse	27cv	
+jetset		576j:2
+jetset radio	6ewo	
+jetset records	576j	
+jetset willy	6akl	
+john hubert marshall	5ylw	
+kasteroids	6gaw	
+khr	5fzw	
+komuna	2c7a	
+komuna belgrade	2c7a	
+komuna company	2c7a	
+komuna e ferizajit	3ruw	
+komuna e gjakoves	hl8	
+komuna e gjilanit	12rs	
+komuna e prishtines	4md	
+komuna record label	2c7a	
+la canada		1asy:3
+la canada ca	1asy	
+la canada california	1asy	
+la canada flintridge	1asy	
+la canada flintridge ca	1asy	
+la canada flintridge california	1asy	
+la canada valley sun	1fkr	
+la corunna	7jz	
+la richardais	3eh8	
+laboni beach	315d	
+laboral kutxa baskonia	8qh	
+lahayville	2ytq	
+lemmes	37pd	
+lemmes lorraine	37pd	
+lemmes meuse	37pd	
+loom		6azc:3
+loom computer game	6azc	
+loom game	6azc	
+loom video		6azc:3
+loom video game	6azc	
+louis boulogne	5asl	
+luco	2k4r	2k4r:3
+luco dei		2k4r:3
+luco dei marsi	2k4r	
+luco jordano	56io	
+m4p	5u0s	
+mahodadhi	i6d	
+marines	1g9x,1pr5	
+marines commune	1pr5	
+marines france	1pr5	
+marines mil	kv	
+marines military	1g9x	
+marines portal	kv	
+marines val d oise	1pr5	
+markt		45v7:2
+markt berolzheim	45v7	
+markt eisenstein	229z	
+medieval2 total war	56q8	
+mikes murder	5i2a	
+molium	32v	
+monarticular juvenile rheumatoid arthritis	25ul	
+montcliar state colllege	e3v	
+montcliar state university	e3v	
+motonari mori	2e48	
+munerati	4oxu	
+munib usanovic	jwl	
+nagyatad	1u17	26pr:2
+nagyatad district	26pr	
+odette	18x8,2v1x	1ali:2,1ix0:2,1zcq:2,21yo:2,25ow:2,2jup:2,5nt8:2
+odette 1950 film	2v1x	
+odette alice marie deupes	3itl	
+odette annable	2jup	
+odette barencey	1ix0	
+odette bedogni	zxw	
+odette elisa josephine marguerite rousseau	1zg5	
+odette film	2v1x	
+odette first name	18x8	
+odette florelle	1zg5	
+odette gartenlaub	5nt8	
+odette garty	5nt8	
+odette given name	18x8	
+odette goimbault	1vc4	
+odette joyeux	1ali	
+odette laure	25ow	
+odette michelle suzanne agramon	3m67	
+odette myrtil	21yo	
+odette myrtle	21yo	
+odette talazac	1zcq	
+odette yustman	2jup	
+omit de sainte julie	pen	
+omit sainte julie	pen	
+oshor		3xsb:2
+oshor joseph williams	3xsb	
+oshor williams	3xsb	
+patres	6ha5	
+patres conscripti	6ha5	
+paypass	28d1	
+pierne	59s8	
+polonghera	4kpu	
+posit word	2pe9	
+postmodernist literature	1958	
+puberg	2ddm	
+remondini	3fci	
+repast	4062	
+repast film	4062	
+richard bartlett ricky schroder jr	1tkv	
+robert muchamore	21gy	
+sanliurfa	lcy	
+sanliurfa ili	cnb	
+sanliurfa ili province	cnb	
+sanliurfa ili province turkey	cnb	
+sanliurfa province	cnb	
+sepsis	6ya	
+sepsis induced hypotension	6ya	
+sicilly	5j0	
+sinnicolau mare	1k8a	
+st pantaleon	61cg	
+stabbings	1bly	
+strzelin	557u	1srw:2
+strzelin commune	kd4	
+strzelin county	1srw	
+sumitra actress	56xx	
+taem	5jh8	
+the boudoir		68xe:3
+the boudoir diplomat	68xe	
+the hollies	osd	
+the hollies albums	osd	
+the hollies singles	osd	
+the lynch pin	miq	
+thomas s		4dte:3,58a1:4
+thomas s foley	3q51	
+thomas s garrick	45zl	
+thomas s gates	58a1	58a1:4
+thomas s gates jr	58a1	
+thomas s kuhn	1cdr	
+thomas s matthews	5gd9	
+thomas s power	4dte	
+thomas s szasz	4uqs	
+thomas s udall	53dk	
+troki	oal	
+troki lithuania	oal	
+unfuwain	5ox6	
+university concourse	2maq	
+urvalsdeild	9n2	
+urvalsdeild 1913	9n2	
+urvalsdeild 1914	9n2	
+urvalsdeild i fotbolta	9n2	
+urvalsdeild karla football	9n2	
+vakhenak		5cy3:2
+vakhenak bekaryan	5cy3	
+venissieux	naa	
+vertebrates	31ak	
+vojkov	464r	
+volgargazprom astrakhan	3jp	
+vulaines	42ov	1vjn:3
+vulaines les		1vjn:3
+vulaines les provins	1vjn	
+waba		4u98:2
+waba league	4u98	
+worktown	3ao	
+wunderlich verlag	4ueb	
+xibalba the book of life	2hcb	
+yangtse kiang	8m4	
+ydd	r7u	
+yebda	27xu	
+zestafoni	2o05	
+zoppola	3916	

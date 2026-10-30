@@ -1,0 +1,348 @@
+1930	1eii	426:4,2ok2:4,47nj:4,5swa:2
+1930 1939	1fut	
+1930 ad	1eii	
+1930 bd	i08	
+1930 british		2ok2:4
+1930 british empire		2ok2:4
+1930 british empire games	2ok2	
+1930 british empire games medal count	2ok2	
+1930 british empire games progressive overall medal count	2ok2	
+1930 ce	1eii	
+1930 commonwealth games	2ok2	
+1930 ekstraklasa	5swa	
+1930 empire games	2ok2	
+1930 federation internationale de football association world cup	426	
+1930 fifa		426:4
+1930 fifa world		426:4
+1930 fifa world cup	426	
+1930 fifa world cup qualification	426	
+1930 fifa world cup schedule	426	
+1930 in ukraine	40	
+1930 s	1fut	
+1930 tour		47nj:4
+1930 tour de		47nj:4
+1930 tour de france	47nj	
+1930 world cup	426	
+1930 year	1eii	
+a 26 autoroute	512m	
+albrehts dirers	d10	
+alexander city	1oiy	
+alexander city al	1oiy	
+alexander city alabama	1oiy	
+alliancelles	3867	
+amputated	5szz	
+arma	5izx	3mgo:2,5izx:3,6g1z:2
+arma 1	5izx	
+arma 2	6g1z	
+arma 2 firing range	6g1z	
+arma 2 special edition	6g1z	
+arma 3	3mgo	
+arma 3 zeus	3mgo	
+arma armed		5izx:3
+arma armed assault	5izx	
+arma bianca	38qk	
+arma cold war assault	312a	
+arma dare	a4q	
+arma dei carabinieri	579l	
+arma di taggia	1v76	
+arma i	5izx	
+arma ii	6g1z	
+arma iii	3mgo	
+arma queen s gambit	5izx	
+arma virumque cano	2dmy	
+athrips	hrk	
+audiobook	6eq6	
+aulostylis	6a9p	
+b36	nbt	
+b36 torshavn	nbt	
+baddou zaki	474n	
+beijingkunming		6f0k:2
+beijingkunming passageway	6f0k	
+biodegradability of polymers	14ja	
+bland		2wld:2
+bland county	2wld	
+bland county va	2wld	
+bland county virginia	2wld	
+bland ford	p10	
+borgosatollo	1p0x	
+boric	lbn	
+bousbach	2t1h	
+bozuyukspor	3yqz	
+brackley	1liu	dgv:4
+brackley northamptonshire	1liu	
+brackley town	dgv	dgv:4
+brackley town f		dgv:4
+brackley town f c	dgv	
+brackley town fc	dgv	
+brackley town football club	dgv	
+brackley town saints	dgv	
+carnapian	14lu	
+cartoonists and illustrators school	4ad	
+cassidyschap sandbox found footage 3d	5kv2	
+cool		vrr:3,1e2e:2,1p5l:2,2h82:2,4yly:3,559j:4,6h48:4
+cool and hot media	20ce	
+cool and the gang	t0p	
+cool as		4yly:3
+cool as ice	4yly	
+cool black	jyw	
+cool blues	i66	
+cool bob james and earl klugh album	1dd4	
+cool breeze	2tjn	
+cool breeze over the mountains	d7d	
+cool calm and collected	1wqx,4sqy	
+cool chick	4nqb	
+cool consistance	2yts	
+cool dry place	5jc7	
+cool for		559j:4
+cool for the		559j:4
+cool for the summer	559j	
+cool for the summer song	559j	
+cool hand		vrr:3
+cool hand luke	vrr	
+cool jazz	1e2e	
+cool keith	19an	
+cool media	20ce	
+cool moe dee	3s6l	
+cool o meter	2nwj	
+cool on fire	35l6	
+cool running	1p5l	
+cool runnings	1p5l	
+cool runnings film	1p5l	
+cool season	1exi	
+cool spring elementary school	ou8	
+cool tape vol 2	264x	
+cool the gang	t0p	
+cool to		6h48:4
+cool to be		6h48:4
+cool to be you	6h48	
+cool to hate	6f79	
+cool to hate song	6f79	
+cool to hate the offspring song	6f79	
+cool troye sivan song	4fgq	
+cool world	2h82	
+cool world nes version	2h82	
+craywick	389b	
+crusification	37rl	
+detenice	32ia	
+dougherty		41s3:2
+dougherty county	41s3	
+dougherty county ga	41s3	
+dougherty county georgia	41s3	
+dougherty michael	5bd0	
+dronedarone	g6w	
+dronedarone for the treatment of atrial fibrillation	g6w	
+dronedarone hydrochloride	g6w	
+ecommoy	1lqr	
+edelred mac mail coluim	4gj3	
+ennetburgen	2vo7	
+ennetburgen nidwalden	2vo7	
+ennetburgen nw	2vo7	
+ennetburgen switzerland	2vo7	
+eunidia	3yf	
+eyvanki		2lnd:3
+eyvanki rural		2lnd:3
+eyvanki rural district	2lnd	
+fc shelkovik naro fominsk	bfk	
+fc uliss erewan	hpu	
+fc uliss yerevan	hpu	
+fc urania genf	1gi4	
+fc vittoria	5c8l	
+fiuggi	1etq	
+frederick engles	wfs	
+fuentelespino		42l3:3
+fuentelespino de		42l3:3
+fuentelespino de moya	42l3	
+gangleri tests bugzilla 00218 international phonetic alphabet section note this page uses special characters	bwc	
+gattica	15r1	
+gmina dabie	zlm,1lb4	
+gmina dabie greater poland voivodeship	zlm	
+gmina dabie lubusz voivodeship	1lb4	
+goldaste	5nvl	
+gombergean	383y	
+grecce	3h	
+guruh		4nea:2
+guruh soekarno putra	4nea	
+guruh soekarnoputra	4nea	
+guruh sukarnoputra	4nea	
+gyor	5tg	x9h:2,1bdi:4
+gyor district	x9h	
+gyor eto fc	50w	
+gyor moson		1bdi:4
+gyor moson sopron	1bdi	1bdi:4
+gyor moson sopron county	1bdi	
+gyor province ottoman empire	5tg	
+hadley		6gih:2
+hadley hemingway	6gih	
+hadley richardson	6gih	
+halofantrina	g7p	
+heimlich county	ms9	
+henman	337a	
+hruodland	4mw4	
+ingen tid til krtegn	1jby	
+ingold haraldrsson	3dkz	
+ingold haraldsson	3dkz	
+ingold i	40u1	
+ingold i of sweden	40u1	
+ingold steinkelsson	40u1	
+ingold stenkilsson	40u1	
+james thurston nabors	5hn6	
+john holmquist	374l	
+jokubas	1b9a	
+jokubas first name	1b9a	
+jokubas given name	1b9a	
+jokubas smuskevicius	58m7	
+joovc	ijq	
+jullio romano	24ax	
+jusice	270z	
+kayes	29b0	b8r:2
+kayes mali	29b0	
+kayes region	b8r	
+koriakia	n98	
+lacrackdula	3hw1	
+lamorville	1dh9	
+latouille		2hqu:2
+latouille lentillac	2hqu	
+lophiiform	52pv	
+loveppears	4uiw	
+loveppears ayumi hamasaki	4uiw	
+makadji		5hdj:2
+makadji boukar	5hdj	
+mallen	3752	
+mallen spain	3752	
+mallen zaragoza	3752	
+maxuwell santos silva	62ef	
+mchicha	v37	
+mcilmoyle	6cri	
+mechetlinskii	5eji	
+mechetlinskii district	5eji	
+mechetlinskii raion	5eji	
+medoxine	501o	
+megacd	jcz	
+michael fink	59dp	
+michael wilks basketball	2ow9	
+mieko		1dim:2,5n0e:2
+mieko harada	1dim	
+mieko kawakami	5n0e	
+milanasso		3c0n:2
+milanasso railway	3c0n	
+mormes	3jve	
+mosagallaku		66ni:2
+mosagallaku mosagadu	66ni	
+myiamoto	1njm	
+nationalgeographic album	4b2d	
+noarlunga centre railway line	30cd	
+noarlunga centre railway line adelaide	30cd	
+noarlunga railway line	30cd	
+noarlunga railway line adelaide	30cd	
+odontostomatology	1if8	
+odratzheim	2xzn	
+ogen mythology	amn	
+olethreutinae	8ao	
+otnemem	zwc	
+palmiano	5bvp	
+paramytha	3oh2	
+paraphonlia	cd1	
+peter sampras	x55	
+pierrefitte	2f6w,3w3h	1ags:3,2bb8:3,2emt:3,2ieu:3,2j1j:3,2vx8:3,2wrp:2,319a:3,37zw:3
+pierrefitte deux sevres	3w3h	
+pierrefitte en		2bb8:3,2ieu:3,2j1j:3
+pierrefitte en auge	2bb8	
+pierrefitte en beauvaisis	2j1j	
+pierrefitte en cinglais	2ieu	
+pierrefitte es		37zw:3
+pierrefitte es bois	37zw	
+pierrefitte nestalas	2wrp	
+pierrefitte sur		1ags:3,2emt:3,2vx8:3,319a:3
+pierrefitte sur aire	319a	
+pierrefitte sur loire	2emt	
+pierrefitte sur sauldre	2vx8	
+pierrefitte sur seine	1ags	
+pierrefitte vosges	2f6w	
+pinturicchio	46wm	
+przytuy commune	30m4	
+q2dm1	28v5	
+ruholla khomeini	1h71	
+ruholla mussaui khomeini	1h71	
+ryuta		4aop:2
+ryuta tasaki	4aop	
+ryuta tazaki	4aop	
+saint clotilde	4bq9	
+saint clotilde reunion	b5k	
+sare	1jvc	
+sare jobe kunda	3vku	
+sare pol province	1e20	
+sare pyrenees atlantiques	1jvc	
+sbt brazil	11yg	
+shaliapin	1qj9	
+shemping	eqs	
+siarhei		4mbc:2
+siarhei mikhalok	4mbc	
+siarhei shtaniuk	45xb	
+skagen	1g5t	2tqr:2
+skagen artists colony	2tqr	
+skagen line	4ock	
+skagen painters	2tqr	
+skagen railway	4ock	
+skagen railway line	4ock	
+skagen school	2tqr	
+skorodon	5kmt	
+st leu d esserent	1rr0	
+st leu la foret	1bv0	
+stork werkspoor	qbh	
+tfatftd	1chz	
+the cerebral assassian	1kx3	
+the ottawa carleton regional transit commission	mn3	
+the park preparatory school	38n	
+trascalissaeus	5n0w	
+turd on the run	4c94	
+typhlira	qxq	
+unco	bke	
+usiku	4mkv	
+vancycle	6d85	
+vermeule cornelius clarkson iii	49a7	
+vinsontrammell act	571z	
+william iron		2m4r:3
+william iron arm	2m4r	
+witold	dy0,27a1	141o:2,1pyl:2,27a1:2,3ivr:3,3k4t:2,3y2z:2,43it:2,4rte:2,5iq5:2,5jf8:2
+witold czartoryski	5jf8	
+witold first name	dy0	
+witold given name	dy0	
+witold gombrowic	1pyl	
+witold gombrowicz	1pyl	
+witold hurewicz	4rte	
+witold kiejstutowicz	upd	
+witold leon		3ivr:3
+witold leon czartoryski	3ivr	
+witold lutosawski	141o	
+witold lutosawski comments	141o	
+witold lutoslavski	141o	
+witold lutoslawski	141o	
+witold lwowitsch schmulian	6736	
+witold marian gombrowicz	1pyl	
+witold of lithuania	upd	
+witold pilecki	27a1	
+witold pilecki comments	27a1	
+witold sobocinski	3k4t	
+witold wawrzyczek	5iq5	
+witold woyda	43it	
+witold zacharewicz	3y2z	
+yadanarbon		rwc:3
+yadanarbon f		rwc:3
+yadanarbon f c	rwc	
+yadanarbon fc	rwc	
+yangxian jiangsu	23jh	
+yeylaq		2hnr:3,6fmr:3
+yeylaq e jonubi rural district	647p	
+yeylaq e shomali rural district	1qzw	
+yeylaq rural		2hnr:3,6fmr:3
+yeylaq rural district	2hnr,6fmr	
+yeylaq rural district east azerbaijan province	2hnr	
+yeylaq rural district isfahan province	6fmr	
+yuvan	7i2	7i2:3
+yuvan shankar	7i2	7i2:3
+yuvan shankar raja	7i2	
+yuvan shankar raja discography	7i2	
+yuvan shankarraja	7i2	
+zlatibor		1sjr:2
+zlatibor district	1sjr	
+zlatibor voda horgos	67sd	

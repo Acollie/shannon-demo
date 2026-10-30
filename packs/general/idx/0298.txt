@@ -1,0 +1,340 @@
+abseus	6agt	
+adyaman	71w	b8x:2
+adyaman duzeltin izmir yapn	2d2	
+adyaman ili	b8x	
+adyaman ili province	b8x	
+adyaman ili province turkey	b8x	
+adyaman province	b8x	
+agaricus	wfl	
+alcidion	57ho	
+alcohols	18iu	
+annaud	24np	
+auxume	3mnl	
+barig	4jw1	
+bellebat	3pxz	
+besenello	26tn	
+betilla	5h2s	
+calizzano	1wqr	
+candamo	1kwi	
+candamo asturias	1kwi	
+candamo spain	1kwi	
+cardonnette	33zt	
+carugo	5a3t	
+cati	2nau	
+charles edwardes	38sx	
+charles mcgillivray	4hdi	
+cheif executive officer	11w	
+cheif justice	173w	
+cheif justice of india	tdv	
+chemically	7wk	
+chemically peculiar star	fk9	
+chemically peculiar stars	fk9	
+chientao city	3jhg	
+cleguer	1z5u	
+corpeau	40ln	
+cuitzeo de abasolo	55xf	
+cupa		eew:2
+cupa romaniei	eew	
+cupa romaniei timisoreana	eew	
+curbeam	3sot	
+david bettoni	60hd	
+diethard		4nxu:2
+diethard tautz	4nxu	
+durhamuniversity	1ct	
+elmwood		hsm:3
+elmwood cemetery west virginia	3dz6	
+elmwood connecticut	jyq	
+elmwood ct	jyq	
+elmwood park		hsm:3
+elmwood park zoo	hsm	
+elmwood street school	4fmt	
+etaux	378f	
+eyre	6f7z	5eit:2,5zj4:2
+eyre affair	6e9q	6e9q:3
+eyre and spottiswoode	5zj4	
+eyre coote	5eit	
+eyre coote 1760 1823	5eit	
+eyre coote 17601823	5eit	
+eyre coote british army officer	5eit	
+eyre coote british army officer born 1762	5eit	
+eyre coote gcb	5eit	
+eyre coote the younger	5eit	
+eyre first name	6f7z	
+eyre given name	6f7z	
+eyre lake	3loj	
+eyre methuen	deu	
+eyre richard	1i6l	
+eyre sir richard	1i6l	
+eyre spottiswoode	5zj4	
+eyre spottiswoode ltd	5zj4	
+faras al khatib	47kx	
+foamposite	q01	
+frederick trumpf	4fu5	
+gentilis bellini	49cc	
+ginatilan	2h12	
+ginatilan cebu	2h12	
+gmina zagnansk	y2j	
+guiteu	5zt7	
+guzargues	3mg6	
+gwneth paltrow	g1e	
+gzira	30ld	
+gzira malta	30ld	
+hangyong passenger railway	3wvq	
+hariloas tricoupis	4wqu	
+havirov	ddb	
+hieronim	31np	1enu:3,53c9:3
+hieronim augustyn		1enu:3
+hieronim augustyn lubomirski	1enu	
+hieronim first name	31np	
+hieronim given name	31np	
+hieronim lubomirski	1enu	
+hieronim wincenty		53c9:3
+hieronim wincenty radziwi	53c9	
+hieronim wincenty radziwill	53c9	
+hofgeismar	3q1x	
+hofgeismar humme	3q1x	
+infotopia	5736	
+ingelram de coucy	4sh5	
+james jeb stuart	343n	
+james wallin	16ec	
+jean c havez	2pm5	
+jean c lapierre	5385	
+josefstadt	28o7	
+jsd	190u	
+kelarestaq		1dou:5,28v3:5
+kelarestaq e		1dou:5,28v3:5
+kelarestaq e gharbi	28v3	28v3:5
+kelarestaq e gharbi rural		28v3:5
+kelarestaq e gharbi rural district	28v3	
+kelarestaq e sharqi	1dou	1dou:5
+kelarestaq e sharqi rural		1dou:5
+kelarestaq e sharqi rural district	1dou	
+kenevist		yad:3
+kenevist rural		yad:3
+kenevist rural district	yad	
+kermode mark	4o7u	
+kevaughn		5r0m:2
+kevaughn connell	5r0m	
+kiowa		1il1:2,2tc0:2,3148:2
+kiowa county	1il1,2tc0,3148	
+kiowa county co	3148	
+kiowa county colorado	3148	
+kiowa county kansas	2tc0	
+kiowa county ks	2tc0	
+kiowa county ok	1il1	
+kiowa county oklahoma	1il1	
+kleszczewo commune	29n0	
+kokinsyu	6bbi	
+krause brian	2m79	
+la class	ezo	
+laeta		6dfh:2
+laeta elizabeth kalogridis	6dfh	
+laeta kalogridis	6dfh	
+le monteil	2g4h,3ppj	1y4l:4
+le monteil au		1y4l:4
+le monteil au vicomte	1y4l	
+le monteil cantal	2g4h	
+le monteil haute loire	3ppj	
+leila	9na	1v4i:2,3o68:2,3s9j:2,40ao:2,4nbm:2,5qd0:2
+leila bekhti	40ao	
+leila first name	9na	
+leila given name	9na	
+leila hatami	3s9j	
+leila hyams	1v4i	
+leila koerber	ya3	
+leila kong	5qd0	
+leila name	9na	
+leila nassif	4nx5	
+leila of iran	3o68	
+leila pahlavi	3o68	
+leila slimani	4nbm	
+leila tong	5qd0	
+leutwyler matthew	5ty7	
+luzille	1wia	
+manastir	7ml	
+manastir vilayet	5sdc	
+maria justin bieber song	4irz	
+mccullough david	nqz	
+meryl		8vr:3,4mmr:2
+meryl davis	4mmr	
+meryl elizabeth davis	4mmr	
+meryl l		8vr:3
+meryl l streep	8vr	
+meryl louise streep	8vr	
+meryl oberon	mv9	
+meryl streep	8vr	
+miah		4m90:2
+miah dennehy	4m90	
+michael arthur bass	5atr	
+michael arthur bass 1st baron burton	5atr	
+michael arthur holmes	5j25	
+michael hurst	23b7	
+mishineh marg	2gjh	
+mombello		3imc:2,5fqv:3
+mombello di		5fqv:3
+mombello di torino	5fqv	
+mombello monferrato	3imc	
+montberthault	2unq	
+montgeron	vyl	
+munchie	57jm	
+narmer	6ggl	
+niggarachi	5jv	
+novoli	457f	
+novoli italy	457f	
+oilix	69lt	
+ombudspeople	4yfr	
+oranienbaum	18nr	4wog:2
+oranienbaum lomonosov	18nr	
+oranienbaum worlitz	4wog	
+orlau	y35	
+peony	1f1d	
+peter e		1rlg:3
+peter e baker	1wzc	
+peter e berger	1rlg	
+peter e myers	3iqe	
+peter e ohm	os1	
+peter e rose	2z87	
+peter e stanley	271x	
+pointer sisters	hb5	hb5:3
+prarie troubadour	5h1i	
+prarie west golf course	3p0c	
+precipices	3mt	
+preferendum	1ep	
+puruliya district	n9p	
+quitting	6hdf	
+reaction chemistry	7wk	
+reaction mixture	7wk	
+reaction to officiating in super bowl xl	6gu0	
+reaction to the death of robert byrd	283c	
+reaction to tim russert s death	2i5w	
+reaction types	7wk	
+rogvi		4i4h:2
+rogvi jacobsen	4i4h	
+sadi		1m1s:2
+sadi carnot	1m1s,26pa	
+sadi nicolas leonhard carnot	26pa	
+sadi rebbot	59sp	
+sadi rebot	59sp	
+sadi shamir	1c9d	
+sadi shirazi	4i5u	
+san clemente	hlh,271y,2tqg	
+san clemente ca	hlh	
+san clemente california	hlh	
+san clemente commune	2tqg	
+san clemente cuenca	271y	
+san clemente emilia romagna	2tqg	
+san clemente fo	2tqg	
+san clemente pier	hlh	
+san clemente rn	2tqg	
+san clemente sasebas	3pra	
+san clemente spain	271y	
+seranville	3nq4	
+sikshadeep	2kix	
+snctm	1e65	
+sonyericsson	cgv	
+soy	48yn	
+soy bean	48yn	
+soy beans	48yn	
+soy city	9m1	
+soy doc	48yn	
+soy isoflavones	48yn	
+soy latinna	md9	
+soy nero	4yli	
+soy products	48yn	
+soy tofu	4hl2	
+soy un profugo	6dq2	
+suurneskabaer	1jc8	
+tehachipi	2xk5	
+tehachipi california	2xk5	
+thant	2i0o	
+thant u	2i0o	
+the couch		3nzg:3
+the couch trip	3nzg	
+the strip	5n52	
+the strip 1951 film	5n52	
+the strip 1952 film	5n52	
+the wonderful		175e:7,1aqy:5,1hdu:5,1y1a:3,484o:6,4ca9:3,4g08:5,60np:3,6gul:5
+the wonderful adventures		6gul:5
+the wonderful adventures of		6gul:5
+the wonderful adventures of guerrin meschino	4rqi	
+the wonderful adventures of nils	6gul	
+the wonderful adventures of nils anime	6gul	
+the wonderful country	1y1a	
+the wonderful country film	1y1a	
+the wonderful day	4ca9,60np	
+the wonderful day 1932 film	60np	
+the wonderful day 1980 film	4ca9	
+the wonderful galaxy		1hdu:5
+the wonderful galaxy of		1hdu:5
+the wonderful galaxy of oz	1hdu	
+the wonderful ice		4g08:5
+the wonderful ice cream		4g08:5
+the wonderful ice cream suit	4g08	
+the wonderful lie of nina petrovna	484o	
+the wonderful lies		484o:6
+the wonderful lies of		484o:6
+the wonderful lies of nina		484o:6
+the wonderful lies of nina petrovna	484o	
+the wonderful wizard		1aqy:5
+the wonderful wizard of		1aqy:5
+the wonderful wizard of oz	1aqy	
+the wonderful wizard of oz 1987 film	1aqy	
+the wonderful wizard of woz	17tk	
+the wonderful world		175e:7
+the wonderful world of		175e:7
+the wonderful world of color	184n	
+the wonderful world of disney	184n	
+the wonderful world of the		175e:7
+the wonderful world of the brothers		175e:7
+the wonderful world of the brothers grimm	175e	
+thomas gerald	k0s	
+thomas wesley pentz	mc4	
+thrombotic stroke	r3	
+toleofoa joseph blatter soccer complex	4ftk	
+tosno	4not	
+trassanel	3wwm	
+tridermia	3veq	
+tropaeolaceae	37k4	
+tynie tigers	1zo	
+viceroi	38p7	
+viceroi d italie	n3n	
+vodochody	3dv7	
+weber	36y,49og	c0n:3,thz:2
+weber academy	c0n	
+weber alfred	2f38	
+weber andrew	2sp5	
+weber bahia basket	5zud	
+weber bahia blanca	5zud	
+weber bahia blanca basket	5zud	
+weber bahia estudiantes	5zud	
+weber college	c0n	
+weber county	thz	
+weber county ut	thz	
+weber county utah	thz	
+weber douglas academy	9tb	
+weber family name	36y	
+weber karl maria friedrich ernst von	p1e	
+weber line	49og	
+weber max 1864 1920	l4f	
+weber max economist	l4f	
+weber normal college	c0n	
+weber s line	49og	
+weber stake academy	c0n	
+weber state	c0n	c0n:3
+weber state college	c0n	
+weber state university	c0n	
+weber surname	36y	
+wokingham	ni3,1o1y	30aq:4
+wokingham and emmbrook f c	30aq	
+wokingham and emmbrook fc	30aq	
+wokingham berkshire	ni3	
+wokingham borough	1o1y	
+wokingham district	1o1y	
+wokingham emmbrook		30aq:4
+wokingham emmbrook f		30aq:4
+wokingham emmbrook f c	30aq	
+wokingham england	ni3	
+wokingham town f c	30aq	
+wokingham ua	1o1y	
+wulmstorf	uvk	
+yanagisawa atsushi	3lkk	

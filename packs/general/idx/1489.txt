@@ -1,0 +1,397 @@
+aetes	62us	
+ahlamerestaq		28zo:5
+ahlamerestaq e		28zo:5
+ahlamerestaq e jonubi	28zo	28zo:5
+ahlamerestaq e jonubi rural		28zo:5
+ahlamerestaq e jonubi rural district	28zo	
+akizuki		4hzj:3
+akizuki class		4hzj:3
+akizuki class destroyer	4hzj	
+akizuki class destroyer 1942	4hzj	
+akizuki class destroyer imperial japanese navy	4hzj	
+alexander saburov	2nkr	
+alpheiusa	2bow	
+alud	17i9	
+apostraphia	1w4o	
+atterdag	3jv7	
+auribeau	2tcj	3dd3:3
+auribeau sur		3dd3:3
+auribeau sur siagne	3dd3	
+avesha avatara	6bdi	
+barrel arch	310	
+barrel firearm	32c3	
+barrel firearms	32c3	
+barrel gun	32c3	
+berrington rhode island	2y7u	
+berrington ri	2y7u	
+bhoopatiraju ravishankar raju	oyr	
+bloodwings pumpkinhead s revenge	44ex	
+bondoufle	1enb	
+bondoufle france	1enb	
+boplaas	3y9a	
+boplaas western cape	3y9a	
+bourbonton	10gx	
+bourbonton kentucky	10gx	
+breasclete primary school	26kt	
+camberley	kx6	
+camberley england	kx6	
+camberley staff college	8d4	
+camberley surrey	kx6	
+camberley theatre	kx6	
+cambiac	3uub	
+chaetaria	385v	
+corona	hsd,2wid	svf:2,1vl0:2,4p06:2,6es3:3
+corona australis	1vl0	
+corona australis constellation	1vl0	
+corona austrina	1vl0	
+corona austrina constellation	1vl0	
+corona borealis	svf	
+corona borealis constellation	svf	
+corona ca	hsd	
+corona calif	hsd	
+corona california	hsd	
+corona castellae	6j1	
+corona city california	hsd	
+corona county california	hsd	
+corona cruiser	hsd	
+corona d arago	it3	
+corona d italia	15f9	
+corona de aragon	it3	
+corona de castilla	6j1	
+corona del		6es3:3
+corona del mar	6es3	
+corona del mar ca	6es3	
+corona del mar california	6es3	
+corona del mar newport beach	6es3	
+corona del mar newport beach california	6es3	
+corona elevated	3556	
+corona elisabeth wilhelmine schroeter	4p06	
+corona elisabeth wilhelmine schroter	4p06	
+corona elise schroter	4p06	
+corona elise wilhelmine schroter	4p06	
+corona footballer	2wid	
+corona regni poloniae	17aj	
+corona schroeter	4p06	
+corona schroter	4p06	
+country	6u	6u:2,343:2,4hg:5,6v9:2,dvw:2,mv7:2,ww2:9,1fhr:3,3xf7:3,4pex:2,5ctf:2,5ibf:5,5n4s:3,65m8:2,6fuy:2,6gs4:2,6h27:7,6hgz:4,6hvp:10
+country and democratic league	4nwm	
+country and western	6u	
+country and western music	6u	
+country ass nigga	eom	
+country bears	17t4	17t4:3
+country blues	mv7	
+country boy can survive	694w	
+country branch	754	
+country bwa	19r	
+country club	dvw	
+country club gardens fort wayne indiana	31d	
+country clubs	dvw	
+country code	6fuy	4hg:5
+country code domain	4hg	
+country code domain names	4hg	
+country code tld	4hg	
+country code top		4hg:5
+country code top level		4hg:5
+country code top level domain	4hg	
+country code top level domains	4hg	
+country codes	6fuy	
+country codes a e	6fuy	
+country codes f m	6fuy	
+country codes n z	6fuy	
+country cok	5nb	
+country concert 18	7u	
+country cousins album	43qc	
+country crossover	6v9	
+country cyp	j6	
+country dance	4pex	
+country dance film	4pex	
+country demos	18vn	
+country doctor	1sgv	1sgv:3
+country down	6b98	
+country estate	7mc	
+country estates alberta	4024	
+country flag	46k	
+country flags	46k	
+country fried soul	2dic	
+country gentlemen	vec	vec:3
+country girl	1vh8	1vh8:3
+country gothic	2y6	
+country grammar	6gs4	
+country grammer	6gs4	
+country home house	10d	
+country honk	6chq	
+country house	10d	
+country house dwelling	10d	
+country houses	10d	
+country inn	202	
+country joe		3xf7:3,5ibf:5
+country joe and		5ibf:5
+country joe and the		5ibf:5
+country joe and the fish	5ibf	
+country joe macdonald	3xf7	
+country joe mcdonald	3xf7	
+country joe the fish	5ibf	
+country justice	65m8	
+country labor	jl	
+country labor party	jl	
+country liberal	1fhr	1fhr:3
+country liberal party	1fhr	
+country liberal party northern territory	1fhr	
+country liberals	1fhr	
+country life		5n4s:3
+country life film	5n4s	
+country mansion	63d	
+country mda	hd	
+country metal	343	
+country music	6u	ww2:9,6h27:7,6hgz:4,6hvp:10
+country music association		ww2:9,6hgz:4,6hvp:10
+country music association award	6hgz	ww2:9,6hvp:10
+country music association award for		ww2:9,6hvp:10
+country music association award for entertainer		ww2:9
+country music association award for entertainer of		ww2:9
+country music association award for entertainer of the		ww2:9
+country music association award for entertainer of the year	ww2	
+country music association award for female		6hvp:10
+country music association award for female vocalist		6hvp:10
+country music association award for female vocalist of		6hvp:10
+country music association award for female vocalist of the		6hvp:10
+country music association award for female vocalist of the year	6hvp	
+country music association awards	6hgz	
+country music camping	xk	
+country music film	thn	
+country music hall		6h27:7
+country music hall of		6h27:7
+country music hall of fame	6h27	6h27:7
+country music hall of fame and		6h27:7
+country music hall of fame and museum	6h27	
+country music hall of fame museum	6h27	
+country music lyrics	6u	
+country music television	yle	
+country music television ccm	yle	
+country music television music awards	6hti	
+country music tv series	thn	
+country my way	whv	
+country n roll	343	
+country name	3gc	
+country of georgia	g4	
+country of nevele	2lls	
+country of the campanelli	3jbe	3jbe:5
+country on the river	2lr7	
+country party of australia 1920	5ia	
+country party of western australia	4nwm	
+country pie	3e7n	
+country poland	m	
+country pop	6v9	
+country pop music	6v9	
+country practice	2589	
+country psych	183	
+country punk	1sjn	
+country road route	19ba	
+country roads	6gk7	
+country roads in poland	3ots	
+country roads song	6gk7	
+country roads take me home	6gk7	
+country rock	343	
+country rock music	343	
+country s best	50x4	
+country s best mcbride the ride album	50x4	
+country school weston mass	17pt	
+country schoolmaster	5m0m	3lx7:3,5m0m:3
+country schoolmaster uwe karsten	5m0m	
+country seat	10d	
+country shit remix	43qc	
+country soul	3bc2	
+country soul music	3bc2	
+country squire alberta	5rcs	
+country stile	jhb	
+country store	4a55	
+country strong	5ctf	
+country strong 2010 film	5ctf	
+country subdivisions	754	
+country summer	4po	
+country swing	sh9	
+country tld	4hg	
+country tlds	4hg	
+country usa oshkosh	f6g	
+country western	6u	
+country western genre	6u	
+country western swing	sh9	
+covey	699d	
+covey center for the arts	5dp	
+covey stephen	2pev	
+cyanoramphus	6fpu	
+david chappelle	1pgr	
+david friedman	3s1c	
+david friedman lawyer	53hd	
+david klass	64g1	
+desmognathus	4lz1	
+deutschendorf	fk5	
+duranville	370w	
+estadi		3ezk:4
+estadi comunal		3ezk:4
+estadi comunal d		3ezk:4
+estadi comunal d aixovall	3ezk	
+fare thee well love	1s8p	
+fc zwolle	5fl	
+galatro	2i9b	
+gambeling	5zb	
+gmina lutocin	15l2	
+gmina ochotnica		5ve7:3
+gmina ochotnica dolna	5ve7	
+grantabridge	zq	
+gravitaiton	lxu	
+gyf	5iwj	
+hanren	i2k	
+humaniste democratic centre	149e	
+james archibald morrison	64yu	
+james archibald stuart	34me	
+james archibald stuart wortley	4caa	
+james archibald stuart wortley 1st baron wharncliffe	4i31	
+james archibald stuart wortley mackenzie	34me	
+james archibald stuart wortley mackenzie 1st baron wharncliffe	4i31	
+james ransone	2a3n	
+jaunay		2ba7:2
+jaunay clan	2ba7	
+john densmore	4tzt	
+john marmaduke	5glj	
+john walton	2qy9	
+kaumualii	65tf	
+le gavre	36kw	
+le pistolere	tkl	
+le sourd	2cpj	
+lentilky	43oh	
+lictors bring to brutus the bodies of his sons		5m48:10
+limewood	3qnm	
+linoprints	2kx7	
+lohengrin	47ql	
+lohengrin opera	47ql	
+lohengrin opera comments	47ql	
+lohengrin wagner	47ql	
+lohengrin wagner comments	47ql	
+longone		3cxx:2,5jbf:3
+longone al		5jbf:3
+longone al segrino	5jbf	
+longone sabino	3cxx	
+lurs	1j5y	
+lurs alpes de haute provence	1j5y	
+macerata	dfj	2owr:2,36pu:2
+macerata campania	36pu	
+macerata feltria	2owr	
+macerata province	93j	
+macerata volleyball	39p3	
+masarykova univerzita	c1e	
+matthijsvermeulenaward	3gnb	
+mauron	1n95	
+mellark	6hjh	
+melorima	fd7	
+michael sharod wilks	2ow9	
+michael uppendahl	3s7y	
+monsalupe	3g2k	
+monsalupe avila	3g2k	
+monsalupe spain	3g2k	
+naranjito mascot	1yb	
+national socialism	g2j	
+national socialism and occultism	47vt	
+nemaha		1nvs:2,39au:2
+nemaha county	1nvs,39au	
+nemaha county kansas	1nvs	
+nemaha county ks	1nvs	
+nemaha county ne	39au	
+nemaha county nebraska	39au	
+nueroblastoma	1krg	
+oczakow	53wd	
+ootsuka akio	14qb	
+ootsuka chikao	1et4	
+ootsuka houchuu	2c48	
+ouezy	3ug9	
+paul kitson	2jnw,5m3o	
+paul kitson american soccer	2jnw	
+paul kitson soccer	2jnw	
+persoonia	bpi	
+peter stolypin	2tqa	
+phases of gravity	jn3	
+phases of ice	idw	
+piper	cwq	mgl:2,15vr:2,1d3r:2
+piper aircraft	1d3r	
+piper aircraft comments	1d3r	
+piper aircraft company	1d3r	
+piper aircraft corporation	1d3r	
+piper aircraft inc	1d3r	
+piper at the gates	2gp2	
+piper at the gates of dawn	2gp2	2gp2:7
+piper genus	cwq	
+piper laurie	mgl	
+piper machine	24ot	
+piper nigrum	6e94	
+piper parabo	15vr	
+piper perabo	15vr	
+piper peribo	15vr	
+piper pinwheeler robots	1tl3	
+piper plant	cwq	
+piper s pit	24ot	
+piper wright	35f6	
+prastio		4k1p:2
+prastio kellaki	4k1p	
+prastio kellakiou	4k1p	
+prust	pmx	
+rmc	ryp,36oy	
+rmc cuttack	2cel	
+rmc duntroon	38mp	
+rmc france	ryp	
+rmc katak	2cel	
+rmc sandhurst	1g7	
+robat		sv8:3
+robat rural		sv8:3
+robat rural district	sv8	
+robat rural district lorestan province	sv8	
+romery	3qcs	
+romery aisne	3qcs	
+saintly city	1fr	
+seanan		3jri:2
+seanan mcguire	3jri	
+serviformica	fwx	
+shirou sagisu	1ra8	
+shirou shimomoto	511g	
+southpeak	14pj	14pj:2
+southpeak games	14pj	
+southpeak interactive	14pj	
+southpeak interactive corp	14pj	
+st iv	vtr	
+staatsstreich	5b5	
+stesti	4czd	
+stesti something like happiness	4czd	
+stormarn		eyf:2
+stormarn district	eyf	
+tauves	2l9s	
+the sinful		4ew0:3
+the sinful village	4ew0	
+the sinful village 1940 film	4ew0	
+the sinful village 1954 film	5obw	
+the sinful village 1966 film	3vmm	
+the source	1m2i,39e4,4np8	
+the source 1918 film	4np8	
+the source 2011 film	39e4	
+the source ingres	1m2i	
+the westlife show	oyz	
+threelife	tco	
+ugine	1d41	
+valkoisten dyynien ratsastajat	58w4	
+vga planets	wqr	
+vilho	3mo1	5rdq:2
+vilho first name	3mo1	
+vilho given name	3mo1	
+vilho ilmari yloenen	5rdq	
+vilho ylonen	5rdq	
+w52 fc porto	43pe	
+w52 fc porto mestre da cor	43pe	
+w52 fc porto porto canal	43pe	
+w52 quinta da lixa	43pe	
+westerham	3sl0	
+westerham comments	3sl0	
+westerham kent	3sl0	
+wictoria kjellin	5qje	
+william page wood	5t3k	
+william page wood 1st baron hatherley	5t3k	
+william page wood 1st lord hatherley	5t3k	
+yebles	1wfd	
+zdebel	3sm4	

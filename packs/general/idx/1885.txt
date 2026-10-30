@@ -1,0 +1,738 @@
+1928	1d4y	j5:3,3e7:3,4ju3:2,60cj:4
+1928 ad	1d4y	
+1928 amsterdam olympics	j5	
+1928 ce	1d4y	
+1928 ekstraklasa	4ju3	
+1928 fa		60cj:4
+1928 fa cup		60cj:4
+1928 fa cup final	60cj	
+1928 summer		j5:3
+1928 summer olympics	j5	
+1928 winter		3e7:3
+1928 winter olympic games	3e7	
+1928 winter olympics	3e7	
+1928 year	1d4y	
+200	1k2e	
+200 209	27lc	
+200 209 bc	29a7	
+200 cigarettes	1rjk	
+200 km		5rxx:7
+200 km h		5rxx:7
+200 km h in		5rxx:7
+200 km h in the		5rxx:7
+200 km h in the wrong		5rxx:7
+200 km h in the wrong lane	5rxx	
+200 m	9it	
+200 m individual medley a1	qa	
+200 meter	9it	
+200 meter dash	9it	
+200 meter race	9it	
+200 meter sprint	9it	
+200 meters	9it	
+200 meters dash	9it	
+200 metre dash	9it	
+200 metre individual medley	6hp2	
+200 metre run	9it	
+200 metre sprint	9it	
+200 metres	9it	6hp2:4
+200 metres dash	9it	
+200 metres individual		6hp2:4
+200 metres individual medley	6hp2	
+200 metres sprint	9it	
+200 motels	355q	
+200 motels film	355q	
+309 300 bc	29m7	
+ac 130h hercules	xla	
+ac 4464	5n2v	
+ac ajaccio	4le	
+ac allianssi	1fzp	
+ac amiens	5hq9	
+ac arezzo	57k	
+ac arles	77s	
+ac arles avignon	77s	
+ac asti	1pmk	
+ac b	3cbe	
+ac bellaria igea marina	elm	
+ac bellinzona	66u	
+ac belluno 1905	1so2	
+ac bhaktivedanta	5p95	
+ac bhaktivedanta swami prabhupada	5p95	
+ac bloodlines	6g1s	
+ac boca san lazzaro	513x	
+ac bologna	2f0	
+ac brotherhood	3cbe	
+ac car	5vsi	
+ac carpenedolo	1ezb	
+ac cars	5vsi	
+ac cars ltd	5vsi	
+ac cattolica calcio	5clo	
+ac cesena	2rp	
+ac cf	5nsh	
+ac chievo verona	36v	
+ac chievoverona	36v	
+ac chioggia sottomarina	46io	
+ac clarke	741	
+ac crispin	4q0r	
+ac cuneo 1905	ozv	
+ac dc	8lu	
+ac dc album	8lu	
+ac dc band	8lu	
+ac dc live rock band	3wzc	
+ac de rothschild	2wd3	
+ac ds	5nt4	
+ac excelsior	53c4	
+ac express	u2q	
+ac fanfulla 1874	10de	
+ac fiorentina	1yx	
+ac fleet	u2q	
+ac giacomense	1t6a	
+ac grayling	52tw	
+ac horsens	9uq	
+ac iii	1h60	
+ac in sri lanka	dft	
+ac induction motor	69mr	
+ac isola liri	2p0j	
+ac jobim	pdj	
+ac juvenes dogana	1w93	
+ac le havre	3ky	
+ac legnano	aiu	
+ac leopard	2076	
+ac leopards	2076	
+ac liberation	4nh8	
+ac libertas	5j4o	
+ac lugano	4iv	
+ac lyles	3gq1	
+ac maceratese	wu2	
+ac mackenzie	5qw7	
+ac mantova	5fk	
+ac martina	crd	
+ac mcclurg	1ezj	
+ac meda 1913	2i9y	
+ac mestre	2ch7	
+ac mezzocorona	24pi	
+ac milan	1j7	
+ac mineros de guayana	hcd	
+ac minerven bolivar	3pep	
+ac minerven bolivar fc	3pep	
+ac monfalcone	4jfo	
+ac monopoli	1hc8	
+ac montichiari	16jg	
+ac monza	3bl	
+ac monza brianza 1912	3bl	
+ac motor	6hiz	
+ac motors	6hiz	
+ac music	b5v	
+ac nagano		tk9:3
+ac nagano parceiro	tk9	
+ac napoli	29o	
+ac nardo	4foi	
+ac nitra	6im	
+ac nj	56f	
+ac nl	5tjv	
+ac nong	3h7g	
+ac omonia	272	
+ac omonia nicosia	272	
+ac omonoia	272	
+ac origins	5umv	
+ac oulu	l9e	
+ac palazzolo	1r0l	
+ac palazzolo 1913	1r0l	
+ac paranavai	2veg	
+ac parma	1yy	
+ac pavia	65m	65m:3
+ac pavia 1911	65m	
+ac perth	hrg	
+ac perugia	2u9	
+ac philadelphia	9db	
+ac pigou	5cz1	
+ac pisa 1909	3wb	
+ac pistoiese	5x1	
+ac prato	620	
+ac pro sesto	cn5	
+ac reggiana	3n4	
+ac reggiana 1919	3n4	
+ac reggiana femminile	4mr7	
+ac renate	12ra	
+ac revelations	3u9r	
+ac rilancio messina	5un	
+ac rodengo saiano	4oxb	
+ac rogue	6c17	
+ac s	5tsm	
+ac sangiovannese 1927	eeg	
+ac sansovino	1jbs	
+ac savoia	gsg	
+ac siena	3dx	
+ac sparta		2m3:3,11kc:4
+ac sparta bubenec	2m3	
+ac sparta prague	2m3	11kc:4
+ac sparta prague women	11kc	
+ac sparta praha fotbal a s	2m3	
+ac sparta praha women	11kc	
+ac st		1d1w:3
+ac st louis	1d1w	
+ac swinburne	4ycz	
+ac syndicate	5tsm	
+ac tait	54gh	
+ac torino	1up	
+ac transformer	366a	
+ac trento	myb	
+ac treviso	4tn	
+ac tripoli	2o26	
+ac tuttocuoio		4gjf:6
+ac tuttocuoio 1957		4gjf:6
+ac tuttocuoio 1957 san		4gjf:6
+ac tuttocuoio 1957 san miniato		4gjf:6
+ac tuttocuoio 1957 san miniato ssd	4gjf	
+ac unity	4r4b	
+ac vila		40js:3
+ac vila mea	40js	
+ac voghera	1hox	
+ac wii	5nsh	
+ac ww	5nt4	
+adil	w6g	2xmm:2,3ihw:2,450y:2,4ex1:2,51wa:2,5lsf:2,68iq:2,6h0h:3
+adil abd al mahdi	6h0h	
+adil abdel mahdi	6h0h	
+adil abdul		6h0h:3
+adil abdul mahdi	6h0h	
+adil first name	w6g	
+adil given name	w6g	
+adil hermach	4ex1	
+adil hussain	2xmm	
+adil i of aleppo	2xeh	
+adil isgandarov	5lsf	
+adil name	w6g	
+adil rami	450y	
+adil ramzi	3ihw	
+adil serraj	68iq	
+adil shahi	5ugw	
+adil shukurov	51wa	
+adil sukurov	51wa	
+aelfleda	5enn	
+aganan guam	npb	
+aginnon	8hm	
+aiacos	5wt9	
+alchemic	5ggp	
+amputation	5szz	
+anschutz entertainment group	19d6	
+asenaca mara	4x19	
+bages	ezy,1liw	
+bages pyrenees orientales	1liw	
+bartertown	1nko	
+biassono	27dd	
+biehn	oew	
+biehn michael	oew	
+bogue		4mnj:4
+bogue class	4mnj	4mnj:4
+bogue class aircraft carrier	4mnj	
+bogue class carrier	4mnj	
+bogue class escort		4mnj:4
+bogue class escort aircraft carrier	4mnj	
+bogue class escort carrier	4mnj	
+bolsward	67cd	
+bonifatius viii papa	59pw	
+brlcad	682q	
+brynseng	5p5q	
+brynseng station	5p5q	
+buchman kahn	48np	
+bujanovc	mcj	
+catie holmes	w7o	
+ccl premier challenge cup	r03	
+ceignac	3336	
+chiefin keef	1oa0	
+clock	q3,oyg	wqb:2,2z7a:2,4lsa:2,6fy7:2
+clock calendar	oyg	
+clock constellation	29xv	
+clock design	oyg	
+clock device name	q3	
+clock dva	4lsa	
+clock making	1qkq	
+clock spider	e8g	
+clock tower	wqb,6fy7	
+clock tower film	6fy7	
+clock tower palace of westminster	6g6c	
+clock tower series	6fy7	
+clock tower westminster	6g6c	
+clock towers	wqb	
+clock watchers	4yqu	
+cluis	2gtl	
+clydie		4ttt:2
+clydie roberts	4ttt	
+colimea	5ryq	
+comitancillo	5aj6	
+cowal	3uhl	
+cowal peninsula	3uhl	
+cowperian	4rwd	
+crossville	3dhh	
+crossville tennessee	3dhh	
+crossville tennessee micropolitan area	3anu	
+crossville tn	3dhh	
+crossville tn micropolitan statistical area	3anu	
+crossville tn msa	3anu	
+crossville tn sa	3anu	
+cruciferaceae	4zdv	
+cruciform building london	61mf	
+czlowiek na torze	67kw	
+david weisman	5km3	
+daytown ontario	54xw	
+dendrophorbium	6bfd	
+derryvollan	elu	
+eatery	pj	
+einthoven	3n6z	
+eisbaeren berlin	1439	
+eisbaeren bremerhaven	3als	
+emamzadeh		ork:5,t75:4,2uxy:5
+emamzadeh abdol		2uxy:5
+emamzadeh abdol aziz		2uxy:5
+emamzadeh abdol aziz rural		2uxy:5
+emamzadeh abdol aziz rural district	2uxy	
+emamzadeh jafar		t75:4
+emamzadeh jafar rural		t75:4
+emamzadeh jafar rural district	t75	
+emamzadeh seyyed		ork:5
+emamzadeh seyyed mahmud	ork	ork:5
+emamzadeh seyyed mahmud rural		ork:5
+emamzadeh seyyed mahmud rural district	ork	
+equidae	1c3c	
+etah		1k0v:2
+etah district	1k0v	
+euhalisidota	fgh	
+filefishes	4g9s	
+freienfeld	43kc	
+freienfeld campo di trens	43kc	
+geological	4r9	8l:2,ih8:4,1brw:4,6erk:2
+geological age	bey	
+geological ages	bey	
+geological and biological site of special scientific interest	o3	
+geological and nuclear sciences	3gsq	
+geological basin	39bt	
+geological depression	1upa	
+geological epoch	1qph	
+geological epochs	1qph	
+geological era	63jq	
+geological era doc	63jq	
+geological eras	63jq	
+geological eras doc	63jq	
+geological feature	4r9	
+geological formation	8l	
+geological formations	8l	
+geological hotspot	1o2q	
+geological hotspots	1o2q	
+geological museum in copenhagen	1pf	
+geological park	vgy	
+geological period	1ivo	
+geological period sandbox	1ivo	
+geological periods	1ivo	
+geological science	4r9	
+geological sciences	4r9	
+geological society	ih8	ih8:4
+geological society london	ih8	
+geological society london special publications	ih8	
+geological society of		ih8:4
+geological society of london	ih8	
+geological society of london special publications	ih8	
+geological sssi	o3	
+geological stage	b8a	
+geological survey	6erk	1brw:4
+geological survey of		1brw:4
+geological survey of canada	1brw	
+geological survey of canada bulletin	1brw	
+geological survey of new zealand	3gsq	
+geological surveys	6erk	
+george montagu	578u,5nhb	3g0i:6,578u:6,61gs:6
+george montagu 1622 1681	5nhb	
+george montagu 16221681	5nhb	
+george montagu 6th		578u:6,61gs:6
+george montagu 6th duke		578u:6
+george montagu 6th duke of		578u:6
+george montagu 6th duke of manchester	578u	
+george montagu 6th earl		61gs:6
+george montagu 6th earl of		61gs:6
+george montagu 6th earl of sandwich	61gs	
+george montagu 8th		3g0i:6
+george montagu 8th duke		3g0i:6
+george montagu 8th duke of		3g0i:6
+george montagu 8th duke of manchester	3g0i	
+george montagu died 1681	5nhb	
+gmina wojsawice	z5d	
+golgi s landmarks in pavia	2pl8	
+gouffern		1e48:3
+gouffern en		1e48:3
+gouffern en auge	1e48	
+gozzano	2dkg	
+gozzano italy	2dkg	
+gozzano no	2dkg	
+gozzano piedmont	2dkg	
+gravitating mass	bz4	
+gurbanguli berdymukhamedov	1pb2	
+hajime		3f5i:2,656v:2
+hajime hosogai	3f5i	
+hajime kanzaka	656v	
+hajime kojima	53zx	
+hampshirecountywv	e4n	
+harpipterix	ahc	
+hellmira new york	9mc	
+henry allan porter	5dtz	
+hirosaki	f86	
+hirosaki aomori	f86	
+hirosaki city	f86	
+hound		4rim:3
+hound dog		4rim:3
+hound dog taylor	4rim	
+hound of baskerville	3cy9	
+hound of culain	1s1l	
+hound of culann	1s1l	
+hound of the baskervilles	170m,3cy9	11bg:5,170m:5,1hvo:5,1z0f:5,2dlt:5,3cy9:5,3kk4:5,4ds0:5
+hound of the baskervilles 1959 film	170m	
+hound of the baskervilles 1978 film	1z0f	
+hound of the baskervilles film	3cy9	
+hound of ulster	1s1l	
+huntziger charles	446q	
+huntziger charles leon clement	446q	
+inveruno	2kz8	
+isthmocarpae	268w	
+iuvenal	5e6d	
+janno		4dzy:2
+janno gibbs	4dzy	
+jirestan		43al:3
+jirestan rural		43al:3
+jirestan rural district	43al	
+john flynn	2crm	
+john flynn director	2crm	
+kabarda	11tp	
+karaindrou	247d	
+karena		2thc:2
+karena lam	2thc	
+katori shingo	473v	
+kentrophorina	5eot	
+kotka	aze	
+la classe operaia va in paradiso	2yn5	
+la furia	1nm	
+la furia de johnny kidd	28tv	
+la furia de los siete magnificos	3hdg	
+la furia di ercole	5tey	
+la furia espanola	1nm	
+lamoignon malesherbes	64tx	
+lamporecchio	49i3	
+lansky	5d27	
+lansky film	5d27	
+le diapason	5ufs	
+le verrier	1bhk	
+le verrier s planet	h2j	
+le verrier urbain jean joseph	1bhk	
+lexicographic	6cc9	
+madawaska		1yzq:2
+madawaska county	1yzq	
+madawaska county nb	1yzq	
+madawaska county new brunswick	1yzq	
+marfontaine	1z2p	
+merrimac river	1rva	
+mesrop		4elk:2
+mesrop mashtots	4elk	
+mesrop mashtots medal	hs0	
+michael papakonstantinou	5m28	
+moneva	2u88	
+moneva spain	2u88	
+moneva zaragoza	2u88	
+morozov	xl5	
+morozov bureau	5e89	
+morozov design bureau	5e89	
+morozov surname	xl5	
+moz	17f	
+multifunctor	4dk2	
+nalesniki	rw6	
+national jukebox	a5c	
+nefertite regina del nilo	3dqk	
+neuberg bavaria	t5q	
+nijlen	1vf6	
+nikomedeia	2pi3	
+owicim	ihc	
+ozyptila	2pu8	
+pageti	2lvv	
+plumelin	31y6	
+pnefc	1gr	
+prefuse73	3qai	
+pretot		2jbd:2,3oui:3
+pretot sainte		3oui:3
+pretot sainte suzanne	3oui	
+pretot vicquemare	2jbd	
+prokleta jerina	4p7w	
+pugolovka	2wgm	
+pulawy	pmf	
+pulawy commune	uzg	
+pulawy county	12jw	
+pulawy powiat	12jw	
+raffaelle mengs	5djp	
+raffaelle sanzio d urbino	7rl	
+raliegh	18e	
+raliegh nc	18e	
+ramdani kamel	6a13	
+rhegia	71z	
+richard riordon	5ez7	
+rmdsz	32f0	
+robert greig	r04	
+robert greig actor	r04	
+robert hosie	6f5r	
+roccagorga	55tr	
+rowing	9t	22j:6,3op:2,yxo:6,10wf:6,125i:6,13ch:6,142c:6,14e5:6,14g0:6,14kp:6,1581:6,15a3:6,1bav:7,1c03:7,1g3e:6,1ij8:6,1jwj:5,1mmy:6,1s7u:7,24sc:6,27oz:6,2d1x:6,2fk7:6,2is5:6,2olk:6,2pj8:6,2pji:6,2pt4:6,2q4f:6,2qbc:6,2r5f:6,2sqa:6,2vcs:6,3ifc:6,410f:6,46eb:6,4tew:6,4tyo:6,4wk6:6,5xhv:4
+rowing at		22j:6,yxo:6,10wf:6,125i:6,13ch:6,142c:6,14e5:6,14g0:6,14kp:6,1581:6,15a3:6,1bav:7,1c03:7,1g3e:6,1ij8:6,1jwj:5,1mmy:6,1s7u:7,24sc:6,27oz:6,2d1x:6,2fk7:6,2is5:6,2olk:6,2pj8:6,2pji:6,2pt4:6,2q4f:6,2qbc:6,2r5f:6,2sqa:6,2vcs:6,3ifc:6,410f:6,46eb:6,4tew:6,4tyo:6,4wk6:6
+rowing at the		22j:6,yxo:6,10wf:6,125i:6,13ch:6,142c:6,14e5:6,14g0:6,14kp:6,1581:6,15a3:6,1bav:7,1c03:7,1g3e:6,1ij8:6,1jwj:5,1mmy:6,1s7u:7,24sc:6,27oz:6,2d1x:6,2fk7:6,2is5:6,2olk:6,2pj8:6,2pji:6,2pt4:6,2q4f:6,2qbc:6,2r5f:6,2sqa:6,2vcs:6,3ifc:6,410f:6,46eb:6,4tew:6,4tyo:6,4wk6:6
+rowing at the 1900		4wk6:6
+rowing at the 1900 summer		4wk6:6
+rowing at the 1900 summer olympics	4wk6	
+rowing at the 1904		2sqa:6
+rowing at the 1904 summer		2sqa:6
+rowing at the 1904 summer olympics	2sqa	
+rowing at the 1908		3ifc:6
+rowing at the 1908 summer		3ifc:6
+rowing at the 1908 summer olympics	3ifc	
+rowing at the 1912		4tyo:6
+rowing at the 1912 summer		4tyo:6
+rowing at the 1912 summer olympics	4tyo	
+rowing at the 1920		410f:6
+rowing at the 1920 summer		410f:6
+rowing at the 1920 summer olympics	410f	
+rowing at the 1924		2olk:6
+rowing at the 1924 summer		2olk:6
+rowing at the 1924 summer olympics	2olk	
+rowing at the 1928		2r5f:6
+rowing at the 1928 summer		2r5f:6
+rowing at the 1928 summer olympics	2r5f	
+rowing at the 1932		2qbc:6
+rowing at the 1932 summer		2qbc:6
+rowing at the 1932 summer olympics	2qbc	
+rowing at the 1936		2pji:6
+rowing at the 1936 summer		2pji:6
+rowing at the 1936 summer olympics	2pji	
+rowing at the 1938 british empire games	qw1	
+rowing at the 1948		2d1x:6
+rowing at the 1948 summer		2d1x:6
+rowing at the 1948 summer olympics	2d1x	
+rowing at the 1948 summer olympics men s coxless fours	2d1x	
+rowing at the 1950 british empire games	u7d	
+rowing at the 1952		24sc:6
+rowing at the 1952 summer		24sc:6
+rowing at the 1952 summer olympics	24sc	
+rowing at the 1952 summer olympics men s coxed pairs	24sc	
+rowing at the 1952 summer olympics men s coxless fours	24sc	
+rowing at the 1954 british empire and commonwealth games	mv3	
+rowing at the 1956		2is5:6
+rowing at the 1956 summer		2is5:6
+rowing at the 1956 summer olympics	2is5	
+rowing at the 1958 british empire and commonwealth games	bvd	
+rowing at the 1960		2vcs:6
+rowing at the 1960 roma summer games men s coxless pairs	2vcs	
+rowing at the 1960 summer		2vcs:6
+rowing at the 1960 summer olympics	2vcs	
+rowing at the 1960 summer olympics men s double sculls	2vcs	
+rowing at the 1962 british empire and commonwealth games	afe	
+rowing at the 1964		2fk7:6
+rowing at the 1964 summer		2fk7:6
+rowing at the 1964 summer olympics	2fk7	
+rowing at the 1968		2pj8:6
+rowing at the 1968 summer		2pj8:6
+rowing at the 1968 summer olympics	2pj8	
+rowing at the 1968 summer olympics men s coxed fours	2pj8	
+rowing at the 1968 summer olympics men s coxed pair	2pj8	
+rowing at the 1968 summer olympics men s coxless four	2pj8	
+rowing at the 1972		2q4f:6
+rowing at the 1972 summer		2q4f:6
+rowing at the 1972 summer olympics	2q4f	
+rowing at the 1976		142c:6
+rowing at the 1976 summer		142c:6
+rowing at the 1976 summer olympics	142c	
+rowing at the 1976 summer olympics women s coxed four	142c	
+rowing at the 1976 summer olympics women s coxed fours	142c	
+rowing at the 1980		125i:6
+rowing at the 1980 summer		125i:6
+rowing at the 1980 summer olympics	125i	
+rowing at the 1984		14g0:6
+rowing at the 1984 summer		14g0:6
+rowing at the 1984 summer olympics	14g0	
+rowing at the 1984 summer olympics men s coxless pair	14g0	
+rowing at the 1984 summer olympics men s eight	14g0	
+rowing at the 1984 summer olympics men s quadruple sculls	14g0	
+rowing at the 1984 summer olympics women s double sculls	14g0	
+rowing at the 1984 summer olympics women s eight	14g0	
+rowing at the 1986 commonwealth games	1u84	
+rowing at the 1988		1581:6
+rowing at the 1988 summer		1581:6
+rowing at the 1988 summer olympics	1581	
+rowing at the 1988 summer olympics men s coxed four	1581	
+rowing at the 1988 summer olympics men s coxless four	1581	
+rowing at the 1988 summer olympics men s coxless pair	1581	
+rowing at the 1988 summer olympics men s eight	1581	
+rowing at the 1988 summer olympics men s quadruple sculls	1581	
+rowing at the 1988 summer olympics women s coxed four	1581	
+rowing at the 1988 summer olympics women s double sculls	1581	
+rowing at the 1988 summer olympics women s eight	1581	
+rowing at the 1988 summer olympics women s single sculls	1581	
+rowing at the 1992		14kp:6
+rowing at the 1992 summer		14kp:6
+rowing at the 1992 summer olympics	14kp	
+rowing at the 1992 summer olympics men s coxless four	14kp	
+rowing at the 1992 summer olympics men s double sculls	14kp	
+rowing at the 1992 summer olympics men s quadruple sculls	14kp	
+rowing at the 1992 summer olympics women s coxless pair	14kp	
+rowing at the 1992 summer olympics women s double sculls	14kp	
+rowing at the 1992 summer olympics women s eight	14kp	
+rowing at the 1992 summer olympics women s single sculls	14kp	
+rowing at the 1996		13ch:6
+rowing at the 1996 summer		13ch:6
+rowing at the 1996 summer olympics	13ch	
+rowing at the 1996 summer olympics men s coxless four	13ch	
+rowing at the 1996 summer olympics men s coxless pair	13ch	
+rowing at the 1996 summer olympics men s double sculls	13ch	
+rowing at the 1996 summer olympics men s lightweight coxless four	13ch	
+rowing at the 1996 summer olympics men s quadruple sculls	13ch	
+rowing at the 1996 summer olympics women s eight	13ch	
+rowing at the 1996 summer olympics women s single sculls	13ch	
+rowing at the 2000		10wf:6
+rowing at the 2000 summer		10wf:6
+rowing at the 2000 summer olympics	10wf	
+rowing at the 2002		1mmy:6
+rowing at the 2002 asian		1mmy:6
+rowing at the 2002 asian games	1mmy	
+rowing at the 2004		14e5:6
+rowing at the 2004 olympics	14e5	
+rowing at the 2004 summer		14e5:6
+rowing at the 2004 summer olympics	14e5	
+rowing at the 2006		2pt4:6
+rowing at the 2006 asian		2pt4:6
+rowing at the 2006 asian games	2pt4	
+rowing at the 2008		15a3:6
+rowing at the 2008 summer		15a3:6
+rowing at the 2008 summer olympics	15a3	
+rowing at the 2010		1g3e:6,1s7u:7
+rowing at the 2010 asian		1g3e:6
+rowing at the 2010 asian games	1g3e	
+rowing at the 2010 south		1s7u:7
+rowing at the 2010 south american		1s7u:7
+rowing at the 2010 south american games	1s7u	
+rowing at the 2011		1c03:7
+rowing at the 2011 pan		1c03:7
+rowing at the 2011 pan american		1c03:7
+rowing at the 2011 pan american games	1c03	
+rowing at the 2012		yxo:6,46eb:6
+rowing at the 2012 summer		yxo:6,46eb:6
+rowing at the 2012 summer olympics	yxo	
+rowing at the 2012 summer paralympics	46eb	
+rowing at the 2013		27oz:6,4tew:6
+rowing at the 2013 mediterranean		4tew:6
+rowing at the 2013 mediterranean games	4tew	
+rowing at the 2013 summer		27oz:6
+rowing at the 2013 summer universiade	27oz	
+rowing at the 2014		1ij8:6
+rowing at the 2014 asian		1ij8:6
+rowing at the 2014 asian games	1ij8	
+rowing at the 2015		1bav:7
+rowing at the 2015 pan		1bav:7
+rowing at the 2015 pan american		1bav:7
+rowing at the 2015 pan american games	1bav	
+rowing at the 2016		22j:6
+rowing at the 2016 summer		22j:6
+rowing at the 2016 summer olympics	22j	
+rowing at the olympics	1jwj	
+rowing at the summer		1jwj:5
+rowing at the summer olympics	1jwj	
+rowing club	3op	
+rowing clubs	3op	
+rowing crew	9t	
+rowing equipment	9t	
+rowing sport	9t	
+rowing sports	9t	
+rowing team	9t	
+rowing with		5xhv:4
+rowing with the		5xhv:4
+rowing with the wind	5xhv	
+rowing world championship venues	p3d	
+rowing world championships	p3d	
+sadie		1t3s:2,29g0:2,3kyc:2
+sadie blackeyes	55ds	
+sadie blake	17pw	
+sadie delany	4wu6	
+sadie earp	66wa	
+sadie frost	1t3s	
+sadie jordan	42fa	
+sadie lane	3qly	
+sadie law	1t3s	
+sadie madison sandler	bxi	
+sadie marcus	66wa	
+sadie mckee	29g0	
+sadie sachs	3t0e	
+sadie thompson	3kyc	
+sadie thompson film	3kyc	
+sadie vaughan	1t3s	
+saharah	1955	
+sanctions against burma	be	
+saussage	qgk	
+scared		2f53:2,617p:2,67mu:3
+scared famous west coast tour edition	22lw	
+scared of lonely	4fy5	
+scared of the dark film	1c5f	
+scared shrekless	617p	
+scared stiff	2f53	
+scared stiff 1953 film	2f53	
+scared to		67mu:3
+scared to death	67mu	
+schukostecker	gpb	
+sir terence conran	26pd	
+sir terence hedley matthews	5w8q	
+sir terence henderson mccombs	5j30	
+sir terence mervyn rattigan	osn	
+sir terence orby conran	26pd	
+sir terence rattigan	osn	
+skippy	1w4s	
+skippy 1931 film	1w4s	
+skippy 1931 movie	1w4s	
+skippy film	1w4s	
+skippy homeier	22no	
+somatophylakes	6fu6	
+souness	42dq	
+soye	33ch	2s3f:3
+soye en		2s3f:3
+soye en septaine	2s3f	
+staatsoper wien	2okp	
+statedept	k5n	
+stroemgren	1n49	
+stylistic		mkg:2
+stylistic device	mkg	
+suessen	5dpa	
+tarshiha	4mym	
+the clue	5fiq	
+the colossus		260n:4,65t9:5
+the colossus of		260n:4,65t9:5
+the colossus of new		65t9:5
+the colossus of new york	65t9	
+the colossus of rhodes	260n	
+the colossus of rhodes film	260n	
+the colossus of rhodes movie	260n	
+the mcg	kgr	
+the mean		3vg7:3
+the mean season	3vg7	
+the moet british independent film awards	342s	
+the oils	13gy	
+tinja		5trt:3
+tinja riikka		5trt:3
+tinja riikka korpela	5trt	
+tushka		5kvv:2
+tushka bergen	5kvv	
+vinyals	3ghp	
+wieland		2iki:2,5jd3:2
+wieland adolf gottfried wagner	2iki	
+wieland heinrich otto	13tj	
+wieland herzfelde	5jd3	
+wieland richard felix herzfelde	5jd3	
+wieland wagner	2iki	
+wieland wagner comments	2iki	
+yamanote		jsa:2
+yamanote circle	jsa	
+yamanote line	jsa	
+yamanote sen	jsa	
+yih ku	5kn4	
+zeberkhan		169h:3
+zeberkhan rural		169h:3
+zeberkhan rural district	169h	
+zoroastrian mythology	c0t	
+zoroastrian philosophy	c0t	
+zoroastrian religion	c0t	
+zverkovice	4gdf	

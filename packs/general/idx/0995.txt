@@ -1,0 +1,385 @@
+10000m	e8b	
+a meyers christmas	4sam	
+a meyers thanksgiving	4sam	
+a murder		3q1c:4
+a murder of		3q1c:4
+a murder of crows	3q1c	
+a murder of crows band	r9l	
+a murder of crows film	3q1c	
+a priest walks into a bar lucifer	1g7p	
+aardman	1gg5	1gg5:2
+aardman animations	1gg5	
+aardman animations ltd	1gg5	
+aardman classics	1gg5	
+aardman features	1gg5	
+aardman studios	1gg5	
+acheruntia	3wxy	
+adro	2w7a	
+aggaloch	1td4	
+aikawa niigata	5md8	
+aikawa rikako	qa6	
+aikawa sado island	5md8	
+aikawa sho	1rjf	
+alexander imich	35hh	
+aliana lohan	44p6	
+ambulyx	l2a	
+anatoliki makedonia kai thraki	2z4g	
+anatoliki romylia	5ky1	
+anatoliki rumelia	5ky1	
+arganda	1plf	1plf:3
+arganda del		1plf:3
+arganda del rey	1plf	
+arromanche les bains	35ho	
+assasinations	2bhz	
+b33r	2w2	
+barones kuffner	4r0h	
+beryciformes	tpe	
+besayes	2kpw	
+betsey devos	57m7	
+betsey ross	5cvg	
+bryllupsfesten	31cd	
+bubonic		2k2a:2
+bubonic plague	2k2a	
+bubonic plague disorder	2k2a	
+buccaneer		yqb:2,zyu:2,2cyc:3
+buccaneer s		2cyc:3
+buccaneer s girl	2cyc	
+buches	1hdl	
+caribbomerus	6f1d	
+carpio		3p3o:3
+carpio de		3p3o:3
+carpio de azaba	3p3o	
+carpio de azaba spain	3p3o	
+carpio javier	5zci	
+casslevania	nk5	
+chantecorps	2fs9	
+chevrier	3q0s	
+chevrier haute savoie	3q0s	
+cruyshautem	1yra	
+darin	1bv6	1bv6:2,4bj8:2
+darin morgan	4bj8	
+darin singer	1bv6	
+darin zanyar	1bv6	
+dateline	6mq	
+david geddis	5g6t	
+david jacobs	2szt	
+david jacobs writer	2szt	
+david poljanec	60zi	
+decision		1c5l:3,3bbk:3,69iu:3
+decision at		3bbk:3
+decision at sundown	3bbk	
+decision before		1c5l:3
+decision before dawn	1c5l	
+decision engine	69iu	
+decision making applications	69iu	
+decision making tool	69iu	
+decision making tools	69iu	
+decision support		69iu:3
+decision support matrix	69iu	
+decision support software	69iu	
+decision support system	69iu	
+decision support systems	69iu	
+decision system	69iu	
+doccs	tg0	
+doragon boru ji ti	48l0	
+doragon boru zetto	188k	
+doragon kuesuto	1gl9	
+drumragh electorial ward	xv0	
+eibenschitz	v5j	
+fc tambov	i9m	
+fgsz	2040	
+fgsz ltd	2040	
+flesquieres	2zps	
+frebby vs jason	vjg	
+gatling	52ay	3rr1:2,52ay:2
+gatling gun	3rr1,52ay	
+gatling gun film	3rr1	
+gatling guns	52ay	
+george savalas	5asb	
+george whitelaw mackey	5eo4	
+girolama		3v65:2
+girolama mazzarini	3v65	
+girolama orsini	5qd5	
+gladiatorially	3siu	
+gorcy	2xen	
+gretl		3f6a:2,3nb0:2,4zrp:4
+gretl braun	3nb0	
+gretl theimer	3f6a	
+gretl wins		4zrp:4
+gretl wins first		4zrp:4
+gretl wins first prize	4zrp	
+gw	uh	
+gw bailey	3mj8	
+gw bush	64h	
+gw law	1h8t	
+gw pabst	tgb	
+gw pat 90	8bj	
+gw patriot	uh	
+gw shimano		j5x:3
+gw shimano sidermec	j5x	
+gw simulations l	5dg5	
+gw today	uh	
+gw university	uh	
+hakasija respublika	rk8	
+halfan	g7p	
+hautefond	32o6	
+henry thoreau	vbo	
+hesperides	3ld0	
+higinbothamia	m5z	
+hillgruber	44lq	
+houphane province	1oz9	
+hrvatske zupanije	39u2	
+hultsfreds kommun	1k03	
+indomitable lions	3bj	
+itterswiller	3evl	
+james mays	4sbw	
+james mays basketball	4sbw	
+janowice wielkie commune	2rsw	
+jarocin	2kwo	2f32:2
+jarocin county	2f32	
+jean esquirol	2tno	
+john javier restrepo	5avy	
+john klimakos	4smr	
+josphine charlotte of belgium	16dd	
+jysella horn	6ght	
+keshayer shah	1cke	
+keshvar		wyl:3
+keshvar rural		wyl:3
+keshvar rural district	wyl	
+kozlovice	3j9z	
+kozlovice frydek mistek district	3j9z	
+la florida	3vzn,5x6y	
+la florida chile	3vzn	
+la florida film	5x6y	
+la florida santiago province	3vzn	
+la marquise d o	1bf5	
+la tempesta	15cx,3rvo	
+la tempesta film	15cx	
+la totale	4azc	
+laurentides	u1e	
+laurentides region	u1e	
+laurentides region quebec	u1e	
+le masnau		23l6:3
+le masnau massuguies	23l6	
+leforest	21kl	
+leptodactylid	4eba	
+leptodactylid frog	4eba	
+levoreninum	2bvk	
+lieh lo	1ac1	
+louis james alfred lefebure wely	4i8y	
+louis james almond	5z3n	
+louis james lipsett	4ds2	
+luganer see	2wcc	
+lumier brothers	2xak	
+magnolicae	18c9	
+majorstuen		1lgy:3
+majorstuen metro		1lgy:3
+majorstuen metro station	1lgy	
+majorstuen oslo	66fg	
+majorstuen station	1lgy	
+mandela	2ogn	1ylb:5
+mandela italy	2ogn	
+mandela lazio	2ogn	
+mandela long		1ylb:5
+mandela long walk		1ylb:5
+mandela long walk to		1ylb:5
+mandela long walk to freedom	1ylb	
+mandela long walk to freedom film	1ylb	
+mandela ma	byv	
+mandela massachusetts	byv	
+mandela nelson	bqy	
+mandela rm	2ogn	
+mandela square western cape	1egw	
+mandela united football club	4o8f	
+mandela winnie	4o8f	
+marenice	2jej	
+maruja		1oau:2,53t3:2,65xo:2
+maruja grifell	1oau	
+maruja montes	53t3	
+maruja torres	65xo	
+memnonia	5w7p	5w7p:2
+memnonia mars	5w7p	
+memnonia quadrangle	5w7p	
+mengli ghirai	506n	
+mengli ghiray	506n	
+mengli girai	506n	
+mengli giray	506n	
+mengli i giray	506n	
+mengli i giray of crimea	506n	
+michi e no armor shinka	3axn	
+michi go	rmt	
+michi maria	551u	
+michi no eki	3y1	
+mikoyan	1g0d	wsh:4,1ruz:4,1vfc:3,2o3e:3
+mikoyan and gurevich design bureau	1g0d	
+mikoyan gurevich	1g0d	wsh:4,1ruz:4
+mikoyan gurevich i 360	wsh	
+mikoyan gurevich m 19	wsh	
+mikoyan gurevich mig		wsh:4,1ruz:4
+mikoyan gurevich mig 19	wsh	
+mikoyan gurevich mig 19 comments	wsh	
+mikoyan gurevich mig 21	1ruz	
+mikoyan gurevich mig 21 operators	leq	
+mikoyan gurevich mig 21bis	1ruz	
+mikoyan gurevich mig 21fl	1ruz	
+mikoyan gurevich mig 21mf	1ruz	
+mikoyan gurevich mig 21pfm	1ruz	
+mikoyan gurevich mig 21r	1ruz	
+mikoyan gurevich mig 21um	1ruz	
+mikoyan gurevich mig 31	1vfc	
+mikoyan gurevich sm 12	wsh	
+mikoyan gurevich smr	wsh	
+mikoyan gurevich ye 33	1ruz	
+mikoyan gurevich ye 4	1ruz	
+mikoyan gurevich ye 6	1ruz	
+mikoyan guryevich mig 19	wsh	
+mikoyan guryevich mig 21	1ruz	
+mikoyan guryevich mig 31	1vfc	
+mikoyan guryevich mig 31b	1vfc	
+mikoyan mig		1vfc:3,2o3e:3
+mikoyan mig 19	wsh	
+mikoyan mig 21	1ruz	
+mikoyan mig 29	2o3e	
+mikoyan mig 29 fulcrum	2o3e	
+mikoyan mig 31	1vfc	
+mikoyan shakhar	4vr6	
+muntefering	28e5	
+nasymth	4aeu	
+nasymth p	5qkc	
+nationalpark niedersachsisches wattenmeer	2o2f	
+orientozeuzera	6ea4	
+papuanewguinea	vt	
+pavillion	4ppt	
+pavillion structure	4ppt	
+pertemps bees	12zq	
+peter lavrovitch lavrov	5w61	
+pharcom	6h66	
+pocos pikmin	3777	
+poneck	14ws	
+prienai	hu7	
+prince makonnen	2vul	2vul:5
+prince makonnen duke		2vul:5
+prince makonnen duke of		2vul:5
+prince makonnen duke of harar	2vul	
+prince moulay		27iv:5,3558:5
+prince moulay abdallah	27iv	27iv:5
+prince moulay abdallah of		27iv:5
+prince moulay abdallah of morocco	27iv	
+prince moulay abdellah	27iv	
+prince moulay abdellah of morocco	27iv	
+prince moulay rachid	3558	3558:5
+prince moulay rachid ben al hassan	3558	
+prince moulay rachid of		3558:5
+prince moulay rachid of morocco	3558	
+rdr2	3euz	
+redisher	2rha	
+redisher local nature reserve	2rha	
+redisher wood	2rha	
+redisher wood lnr	2rha	
+richard avery	4kp4	
+richard meyers	3y00	
+robert mensah	5dbq	
+robert walpole	vix	
+robert walpole earl of orford	vix	
+rossendale	1kb9	hxl:4
+rossendale borough	1kb9	
+rossendale england	1kb9	
+rossendale school	44nk	
+rossendale united	hxl	hxl:4
+rossendale united f		hxl:4
+rossendale united f c	hxl	
+rossendale united fc	hxl	
+roveredo	3akp	4amg:3,4tlg:3
+roveredo di		4amg:3
+roveredo di gua	4amg	
+roveredo gr	3akp	
+roveredo graubuenden	3akp	
+roveredo graubunden	3akp	
+roveredo grisons	3akp	
+roveredo in		4tlg:3
+roveredo in piano	4tlg	
+roveredo switzerland	3akp	
+saint sylvester order of	50vj	
+saline		sol:2,ykp:2,11eu:2,2132:2,32db:2
+saline county	sol,ykp,11eu,2132,32db	
+saline county ar	2132	
+saline county arkansas	2132	
+saline county il	ykp	
+saline county illinois	ykp	
+saline county kansas	sol	
+saline county ks	sol	
+saline county missouri	11eu	
+saline county mo	11eu	
+saline county ne	32db	
+saline county nebraska	32db	
+saline di barletta	530h	
+saline drips	x4d	
+saline lake	1f6u	
+sanam		6dbh:3
+sanam teri		6dbh:3
+sanam teri kasam	6dbh	
+sanam teri kasam 2016 film	6dbh	
+santantimo	2ncr	
+saso		3vrk:2,4bd5:2,4jxf:2,4x7x:2
+saso fornezzi	4bd5	
+saso gjoreski	4jxf	
+saso lazarevski	3vrk	
+saso petrovski	4bt7	
+saso udovic	4x7x	
+seidlitzia	6669	
+sieti	4ie4	
+sizhong li	1sp0	
+skr15081997 wilfrid north	460y	
+smog	18oa	
+smog band	18oa	
+smog musician	18oa	
+stadshagen	6f4g	
+steregushchy class	37tq	
+steregushchy class corvette	37tq	
+suea pa intersection	12i	
+superbaugh	6gpe	
+terdin	gaw	
+the gemini awards	48kz	
+the hustla	10ls	
+the spectacular		2clb:4,32gh:3
+the spectacular now	32gh	
+the spectacular now film	32gh	
+the spectacular spider		2clb:4
+the spectacular spider man	2clb	
+the spectacular spider man animated series	2clb	
+the spectacular spider man tv series	2clb	
+the splendid		66dp:3
+the splendid crime	66dp	
+the splendid little war	1i4	
+theornamentalist shinese	2e60	
+thomas mueller	1hrq	
+three6mafia	r1w	
+triphlebia	2cv4	
+trybull	4fg6	
+uleaborgs lan	z1t	
+uleaborgs valkrets	zqx	
+ursual k le guin	70e	
+uzbekhistan	qj	
+vaporhead	6g99	
+voted	6g29	
+walkuere	5hjo	
+westeros sweden	7l2	
+wielgomlyny commune	v7i	
+wilamette river	o08	
+wildbrain	1afm	
+winos		195n:2
+winos 2	195n	
+yasushi	1ua8	b3v:2,1j4b:2,3f9k:2,5bnk:2,6hb3:2
+yasushi akimoto	b3v	
+yasushi akutagawa	1j4b	
+yasushi first name	1ua8	
+yasushi given name	1ua8	
+yasushi inoue	3f9k	
+yasushi kita	5bnk	
+yasushi yamaguchi	6hb3	
+zheleznodorozhny	5cd9	
+zheleznodorozhny city under oblast jurisdiction	5cd9	
+zheleznodorozhny moscow oblast	5cd9	
+zheleznodorozhny urban okrug	5cd9	
+zheleznodorozhny urban okrug moscow oblast	5cd9	
+zwolenski	2r98	

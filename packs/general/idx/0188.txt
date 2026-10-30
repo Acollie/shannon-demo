@@ -1,0 +1,504 @@
+198687		bd1:3,wr6:4,15cu:4,1ew0:4,21ml:3,4fc9:2,61zv:4
+198687 bundesliga	21ml	
+198687 cypriot		bd1:3,wr6:4,15cu:4,1ew0:4,61zv:4
+198687 cypriot cup	bd1	
+198687 cypriot first		wr6:4
+198687 cypriot first division	wr6	
+198687 cypriot fourth		61zv:4
+198687 cypriot fourth division	61zv	
+198687 cypriot second		1ew0:4
+198687 cypriot second division	1ew0	
+198687 cypriot third		15cu:4
+198687 cypriot third division	15cu	
+198687 ekstraklasa	4fc9	
+198687 fuball		21ml:3
+198687 fuball bundesliga	21ml	
+198687 fussball bundesliga	21ml	
+a serbian		4a4b:3
+a serbian film	4a4b	
+absolute		f34:2,11n7:2,1eo2:2,2taz:2,5620:2,5q6x:2
+absolute 100	5q6x	
+absolute adjective	53i2	
+absolute alcohol	tpg	
+absolute atrocity special	3gul	
+absolute beginners	11n7	
+absolute beginners album	11n7	
+absolute beginners film	11n7	
+absolute beginners movie	11n7	
+absolute beginners soundtrack	11n7	
+absolute beginners the movie	11n7	
+absolute beginners the original motion picture soundtrack	11n7	
+absolute entertainment	2taz	
+absolute ethyl alcohol	tpg	
+absolute giganten	5620	
+absolute hundred	5q6x	
+absolute infinite well ordering theorem and paradoxes	1sz0	
+absolute location	1wf	
+absolute magic	472t	
+absolute monarch	f34	
+absolute monarchies	f34	
+absolute monarchy	f34	
+absolute pacifist	4uxc	
+absolute pinball	4wqy	
+absolute power	1eo2	
+absolute power film	1eo2	
+absolute power movie	1eo2	
+absolute press	656	
+absolute return capital	2k92	
+absolute rule	f34	
+absolute ruler	f34	
+absolute sandman	4nvg	
+absolute scale of temperature	1nma	
+absolute zawinul	1hc2	
+acinopetala	12c8	
+africanthropus	426x	
+allomancers	3yig	
+amoros military gymnasium	3ixr	
+andrapa	85y	
+annouville		2i85:2
+annouville vilmesnil	2i85	
+antecedent	57w	
+apricena	2voc	
+aubervilliers	c5l	
+aubervilliers 93 peugeot	1ev2	
+aubervilliers fr	c5l	
+baltimoresun com	5ukd	
+battuda	50jo	
+bradman	5awv	
+brah bisnulok	5h1a	
+bud abbot	la1	
+bud abbott	la1	
+bud abbott and lou costello in hollywood	5p0t	
+bud abbott and lou costello meet frankenstein	1eac	
+bud abbott lou costello meet frankenstein	1eac	
+bud baxter	3ppf	
+bud brown	4ol8	
+bud brown jr	4ol8	
+bud brown politician	4ol8	
+bud cort	16z3	
+bud cort comments	16z3	
+bud day	2lwp	
+bud de sylva	qoe	
+bud desylva	qoe	
+bud flanagan	57lj	
+bud flannagan	57lj	
+bud gearhart	5j8a	
+bud grant	4cdh	
+bud greenspan	4vzo	
+bud international airport	4cu7	
+bud jamison	lxa	
+bud kilmer	2xnk	
+bud light director	5jyf	
+bud light porn director	5jyf	
+bud luckey	3xt5	
+bud lucky	3xt5	
+bud molin	49jt	
+bud nemzetkozi repuloter	4cu7	
+bud powell	120r	
+bud powell s modernists	120r	
+bud rich	nz0	
+bud s		54l0:3
+bud s smith	54l0	
+bud shank	wz8	
+bud smith film editor	54l0	
+bud spencer	hdz	
+bud swift	19xw	
+bud thackery	e3p	
+bud thornton	b2s	
+bud tingwell	1587	
+bud tordoff	651m	
+bud uanna	54bi	
+bud yorkin	19ui	
+bud yorkin productions	19ui	
+calsanta cruz	2he	
+campvere	o2c	
+cerq	19ng	
+charles rosen	26ng	
+coimbra	56t,1gx9	yvf:2
+coimbra district	1gx9	
+coimbra group	yvf	
+coimbra group doc	yvf	
+coimbra municipality	56t	
+coimbra portugal	56t	
+coimbra university	4vp	
+company	r,az,4hke	23b9:2,2jp0:3,3kq8:4,41qf:3,6dp2:6,6gxy:2
+company 1c	g1i	
+company 2	4hke	
+company 2002 film	4hke	
+company 9	3b1k	
+company bahadur	smw	
+company director	42a	
+company division	llq	
+company film	4hke	
+company group	5uxn	
+company head	42a	
+company history	6t6	
+company k	6gxy	
+company k march	6gxy	
+company law	az	
+company lawyer	17	
+company legal	az	
+company limited by shares	4j2	
+company linge	107j	
+company logo	3j10	
+company logos	3j10	
+company man	23b9	
+company man 2000 film	23b9	
+company man film	23b9	
+company manager	42a	
+company men	30d6	30d6:3
+company movie	4hke	
+company of		2jp0:3,3kq8:4,41qf:3,6dp2:6
+company of heores	41qf	
+company of heroes	2jp0,41qf	3kq8:4,6dp2:6
+company of heroes 2	3kq8	
+company of heroes film	2jp0	
+company of heroes online	41qf	
+company of heroes tales		6dp2:6
+company of heroes tales of		6dp2:6
+company of heroes tales of valor	6dp2	
+company of heros	41qf	
+company of wolves	1707	1707:4
+company of youth	6o4	
+company open joint stock	7er	
+company president	36s	
+company returns	d38	
+company shops	lvm	
+company viacom that was founded in 1986	1dym	
+company with limited liability	4uh	
+company without livery	ad6	
+company you keep	1svx	1svx:4
+cortex	5qar	
+cortex castle	1ayq	
+cortex film	5qar	
+cortex of lymph node	hav	
+cottonsport garoua	b0q	
+crast alva	11vc	
+crispus	2lf4	
+crispus sallustius	5hb9	
+darshan		sqn:2
+darshan actor	sqn	
+darshan thoogudeep	sqn	
+darshan thoogudeepa	sqn	
+darshan thoogudeepa srinivas	sqn	
+darshan tugudeep	sqn	
+david kossoff	2j80	
+deana		1rmq:2
+deana carter	1rmq	
+deana troi	6dc0	
+diya mirza	1es6	
+dns mladi upi sentjur	6c6m	
+dns zavrc	k7l	
+dornier	1cbo	
+dornier aircraft works	1cbo	
+dornier alpha fighter jet	2dsm	
+dornier alpha jet	2dsm	
+dornier company	1cbo	
+dornier flugzeugwerke	1cbo	
+dornier flugzeugwerke gmbh	1cbo	
+dornier gmbh	1cbo	
+dornier medtech	1cbo	
+dornier werke	1cbo	
+emin	16rd	2m0e:2,45ui:2,4rcw:2,5fij:2
+emin agaev	2m0e	
+emin agayev	2m0e	
+emin aghayev	2m0e	
+emin cafarquliev	5fij	
+emin dzhafarguliev	5fij	
+emin dzhafarguliyev	5fij	
+emin first name	16rd	
+emin given name	16rd	
+emin guliev	45ui	
+emin jafarguliev	5fij	
+emin jafarguliyev	5fij	
+emin mahmudov	4rcw	
+emin quliyev	45ui	
+femerling	4jl5	
+feodossia	pzj	
+filmhuset building	17lt	
+fionna apple	124d	
+frequently		5tk3:6
+frequently asked		5tk3:6
+frequently asked questions		5tk3:6
+frequently asked questions about		5tk3:6
+frequently asked questions about time		5tk3:6
+frequently asked questions about time travel	5tk3	
+garba		22tn:2
+garba lawal	22tn	
+gelfand izrail m	ew9	
+george mclean	68gl	
+george mclean footballer born 1943	68gl	
+gijzenzele	378r	
+gilli		5gka:2
+gilli smyth	5gka	
+giorgione	1j3e	
+giorgione da castel franco	1j3e	
+giorgione da castelfranco	1j3e	
+giorgione di castel franco	1j3e	
+giorgione giorgio da castelfranco	1j3e	
+gisborne	g6e	fvh:2,16sz:3,5rwq:4
+gisborne boys		5rwq:4
+gisborne boys high		5rwq:4
+gisborne boys high school	5rwq	
+gisborne city	16sz	16sz:3
+gisborne city afc	16sz	
+gisborne city fc	16sz	
+gisborne city soccer	16sz	
+gisborne district	fvh	
+gisborne district council	fvh	
+gisborne district new zealand	fvh	
+gisborne new zealand	g6e	
+gisborne nz	g6e	
+gisborne region	fvh	
+gleison		5hba:2
+gleison pinto dos santos	5hba	
+gleison pinto santos	5hba	
+gleison santos	5hba	
+gmina lipka	13j9	
+gmina punsk	15yi	
+gwalia		3o4a:4
+gwalia united		3o4a:4
+gwalia united f		3o4a:4
+gwalia united f c	3o4a	
+hasar	4nnz	
+hotspot	1o2q	
+hotspot geology	1o2q	
+hotspot home	31mj	
+hotspot island	1o2q	
+hotspot volcanic chain	1o2q	
+i often		4xro:5
+i often think		4xro:5
+i often think of		4xro:5
+i often think of piroschka	4xro	
+illas	56xo	
+illas asturias	56xo	
+illas spain	56xo	
+incantessimo tragico	3wb0	
+ischemic cerebrovascular accident	r3	
+ischemic encephalopathy disorder	6dr2	
+ischemic heart event	7dg	
+ischemic hemorragic stroke	r3	
+ittihadist	40yz	
+jabloteh	jac	
+james richardson uk politician	18bn	
+jember	46xj	
+jember regency	46xj	
+joannites	592g	
+john benjamin		21tq:3
+john benjamin barnes	63yl	
+john benjamin hickey	21tq	
+john benjamin jack barnes	63yl	
+keri		jn2:2,1fwx:2
+keri awh battista sforza	17y5	
+keri hilson	jn2	
+keri hilson comments	jn2	
+keri lewis	352n	
+keri lynn hilson	jn2	
+keri lynn russell	1fwx	
+keri roberts	12pa	
+keri russel	1fwx	
+keri russell	1fwx	
+keri walsh	69t5	
+keri washington	wao	
+koberovy	30uh	
+koprzywnica commune	254v	
+krishnam		mkw:2
+krishnam raju	mkw	
+krishnam raju uppalapati	mkw	
+kwarans	160n	
+la marina alta	g2r	
+la marina baixa	som	
+la marina baja	som	
+laprida		4gtf:2
+laprida partido	4gtf	
+le faro da padre	3ub0	
+le seure	41k3	
+le teil	1pii	
+lezigneux	2i1b	
+liebreich richard	4lkl	
+lilliales	3wr6	
+lionking	bkf	
+longfellowian	pgw	
+louis jacob weertz	4lwf	
+louis parfait	57yb	
+marcallo		2kz3:3
+marcallo con		2kz3:3
+marcallo con casone	2kz3	
+marcusian	1din	
+midland	ahs,mki,1aso,4i9t	9cx:2,1f0r:2,3geh:4,3ngz:3,4f0p:3,4wt0:4
+midland alliance	3ngz	
+midland combination	4f0p	
+midland combination premier division	4f0p	
+midland county	1f0r	
+midland county mi	1f0r	
+midland county michigan	1f0r	
+midland football		3ngz:3,4f0p:3
+midland football alliance	3ngz	
+midland football combination	4f0p	
+midland football combination division one	4f0p	
+midland football combination premier division	4f0p	
+midland georgia	4dx	
+midland great		3geh:4
+midland great western		3geh:4
+midland great western railway	3geh	
+midland juncti0on w a	4i9t	
+midland junction	4i9t	
+midland junction municipal council	l4i	
+midland mi	mki	
+midland mi metropolitan statistical area	1f0r	
+midland mi msa	1f0r	
+midland mi sa	1f0r	
+midland michigan	mki	
+midland michigan metropolitan area	1f0r	
+midland on	1aso	
+midland ontario	1aso	
+midland railway	9cx	4wt0:4
+midland railway 700		4wt0:4
+midland railway 700 class	4wt0	
+midland railway company	9cx	
+midland railway locomotive works	jqh	
+midland railway london tilbury and southend railway purchase act 1912	4tj8	
+midland tex	ahs	
+midland texas	ahs	
+midland tx	ahs	
+midland w a	4i9t	
+midland western australia	4i9t	
+mlas	mvx	
+mordovija respublika	lvo	
+motab	1jdk	
+natik		639x:2
+natik abo awn	639x	
+natik hashim	639x	
+nmapfe	5bgo	
+ofus	1st6	
+ottaiano	13zh	
+peccatrice dell isola	57pe	
+periodization	152w	
+periodization in history	152w	
+pernia	40b3	
+phodrang	y7i	
+pleistocene	383u	
+pleistocene age	383u	
+pleistocene epoch	383u	
+pleistocene era	383u	
+pleistocene series	383u	
+pokryshev	5yca	
+practica	1nr4	
+prince chun i	1zg8	
+prince chun xian	1zg8	
+przedecz commune	1chr	
+rafiq	2t74	1s43:2,4v2h:2
+rafiq al hariri	1s43	
+rafiq first name	2t74	
+rafiq given name	2t74	
+rafiq harari	1s43	
+rafiq hariri	1s43	
+rafiq hariri international airport	52ds	
+rafiq zakaria	4v2h	
+ramariaceae	62k7	
+rancogne	2ntx	
+realcamp	2jgd	
+robert du reel ellis	ktf	
+robert grouthead	5jn8	
+robert hermann		5d1g:3
+robert hermann schomburgk	5d1g	
+robert saha	4mco	
+royskopp	1yet	
+saint loubes	16pq	
+salwator		237r:2
+salwator cemetery	237r	
+sandracottus	44i3	
+sandviken	1sj0	zly:2
+sandviken municipality	zly	
+sandviken sweden	1sj0	
+sawamish county	1x7d	
+sebeville	419w	
+shanwei	4r3w	
+shanwei guangdong	4r3w	
+shanwei prefecture	4r3w	
+sinugboanon	19du	
+spiderman	2nhl	
+spiderman 1	krr	
+spiderman 2	n6l	
+spiderman 2 1	n6l	
+spiderman 2002 film	krr	
+spiderman 2012	ojt	
+spiderman 2012 film	ojt	
+spiderman 3	o34	
+spiderman 3 video game	4gsj	
+spiderman 3d 2012	ojt	
+spiderman 5	q9b	
+spiderman 6	kgs	
+spiderman edge of time	5ouz	
+spiderman far from home	1rcy	
+spiderman friend or foe	3vnc	
+spiderman homecoming	kgs	
+spiderman homecoming 2	1rcy	
+spiderman i	krr	
+spiderman ii	n6l	
+spiderman into the spider verse	60k7	
+spiderman into the spiderverse	60k7	
+spiderman reboot	ojt	
+spiderman shattered dimension	4uvn	
+spiderman shattered dimensions	4uvn	
+spiderman three	o34	
+spiderman web of shadows	5484	
+sukhum	b4i	
+sukhum kale	b4i	
+sukhum kaleh	b4i	
+svissland	2a	
+tadanaga tokugawa	4sxd	
+tawahedo church	qri	
+teenchoiceawards com	rxu	
+tembi		par:4
+tembi golgir		par:4
+tembi golgir rural		par:4
+tembi golgir rural district	par	
+the foo fighters	d2i	
+the province of banten	nj2	
+the province of canada	ug1	
+the province of canterbury	1mml	
+the province of macerata	93j	
+the province of malaga	7w4	
+the province of massa carrara	qn8	
+the province of mendoza	g54	
+the province of quebec 1763 91	45jo	
+the province of quebec 17631791	45jo	
+the quarry men	586q	
+thiepval	1czt	
+thiepval france	1czt	
+thomas meighan	fsd	
+timberlea on	1335	
+timberlea ontario	1335	
+troll	35ja	4oy9:2
+troll 1	35ja	
+troll 2	4oy9	
+troll 2 part 2	4oy9	
+troll 2 part ii	4oy9	
+troll film	35ja	
+troll hunter	3d7s	
+troll hunter 2014 film	3d7s	
+troll ii	4oy9	
+troll ii part ii	4oy9	
+troll in central park	43fa	
+troll metal	phf	
+troll movie	35ja	
+troll the 10th kingdom	1i8f	
+troll the rise of harry potter jr	35ja	
+tseng kuo fan	5x4c	
+tseng kuo feng	5x4c	
+tseng kuofan	5x4c	
+tseng tse wei	bs3	
+tuccio		67v8:2
+tuccio musumeci	67v8	
+viete	34fn	
+vougecourt	29l6	
+weitbruch	1tzt	
+welingrad	3e8s	
+wirwignes	2kpo	
+zaganella		4ua5:4
+zaganella and		4ua5:4
+zaganella and the		4ua5:4
+zaganella and the cavalier	4ua5	
+zaganella and the honorable gentleman	4ua5	
+zaganella e il cavaliere	4ua5	

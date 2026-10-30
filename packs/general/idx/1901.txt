@@ -1,0 +1,440 @@
+alarilla	3vtw	
+alarilla guadalajara	3vtw	
+alarilla spain	3vtw	
+alcoholic	4ts	fbn:2
+alcoholic beverage	fbn	
+alcoholic beverage beer	2w2	
+alcoholic cirrhosis	5io	
+alcoholic cordial	kb9	
+alcoholic liver cirrhosis	5io	
+alcoholic metal	5onh	
+ambrogio		5clv:7
+ambrogio bondone giotto	21a8	
+ambrogio damiano achille ratti	1avb	
+ambrogio di bondone giotto	21a8	
+ambrogio giotto	21a8	
+ambrogio spinola	5clv	5clv:7
+ambrogio spinola 1st		5clv:7
+ambrogio spinola 1st marquis		5clv:7
+ambrogio spinola 1st marquis of		5clv:7
+ambrogio spinola 1st marquis of the		5clv:7
+ambrogio spinola 1st marquis of the balbases	5clv	
+appeville	2pq6	2qv1:2
+appeville annebault	2qv1	
+baniura	qw7	
+barrackpore	2xu8	
+belitsa	1rl7	
+belitsa municipality	1rl7	
+belitsa opshtina	1rl7	
+beloufa	3xf4	
+biel	9aw,4d2f	9aw:2,epe:4,3q64:2,532l:2
+biel aragon	4d2f	
+biel be	9aw	
+biel bern	9aw	
+biel berne	9aw	
+biel bienne	9aw	epe:4
+biel bienne administrative		epe:4
+biel bienne administrative district	epe	
+biel bienne adminstrative district	epe	
+biel bienne bern	9aw	
+biel bienne berne	9aw	
+biel bienne comments	9aw	
+biel bienne switzerland	9aw	
+biel kadri	5p3s	
+biel medina	532l	
+biel ribas	3q64	
+biel spain	4d2f	
+biel switzerland	9aw	
+biel zaragoza	4d2f	
+canton city south dakota	3u26	
+cantona	xe7	
+cavestory	4op1	
+chamaita	52bc	
+corralejas stadium collapse	4s1c	
+cvikov	1woa	
+cytophosphan	oo6	
+david fyodorivich oistrakh	2064	
+david nutter	tdd	
+debralee griffin	15c6	
+derovere	56f3	
+derovere italy	56f3	
+douai	83d	
+douai france	83d	
+douai university	1hn3	
+dudin musa khant doxar	29rg	
+dysallacta	7xy	
+edward kolmanovskiy	5zil	
+eguenigue	3hm8	
+epistemologically	14zb	
+fagotti	9mo	
+fail		10yq:2,13x8:2,45dp:2
+fail mirgalimov	45dp	
+fail pictures	6fcd	
+fail safe	10yq,13x8	
+fail safe 1964 film	10yq	
+fail safe 2000 film	13x8	
+fail safe 2000 tv	13x8	
+fail safe 2000 tv film	13x8	
+fail safe television	13x8	
+fondremand	2b2e	
+ghur	lga	
+ghur province	lga	
+gioi	39a7	
+gmina siewierz	17xm	
+gnanathesikan	1q3	
+grant	1o6f	avy:2,dqo:2,kpr:2,lb2:2,py0:2,rth:2,v6i:2,z67:2,15o3:2,16l1:2,16rh:2,1fpt:2,1jg8:2,1l5s:2,1uou:2,1xd9:2,295q:2,2bdx:2,2gz5:2,2t7a:2,2vef:2,32do:2,3buo:2,3f16:2,3hz0:2,3m8x:2,3rkb:2,3sl2:2,3tzn:2,40fp:2,49mj:2,49xu:2,4x2n:3,5d1m:2,5jp5:2,5kd8:2,5kep:2,5lu9:2,5zjs:2,5zxc:2,68cj:2
+grant adam	5jp5	
+grant allen	5zxc	
+grant amy	ftb	
+grant ave studio	d4u	
+grant basey	5d1m	
+grant bowler	3tzn	
+grant brandell	5ckq	
+grant brebner	5lu9	
+grant brian	2r6v	
+grant calvin shofner	4qvr	
+grant county	avy,lb2,py0,v6i,15o3,16rh,1fpt,1jg8,1l5s,2gz5,2vef,3f16	
+grant county ar	2gz5	
+grant county arkansas	2gz5	
+grant county in	lb2	
+grant county indiana	lb2	
+grant county kansas	3f16	
+grant county ks	3f16	
+grant county louisiana	2bdx	
+grant county minnesota	15o3	
+grant county mn	15o3	
+grant county nd	2vef	
+grant county new mexico	16rh	
+grant county nm	16rh	
+grant county north dakota	2vef	
+grant county ok	1l5s	
+grant county oklahoma	1l5s	
+grant county or	1jg8	
+grant county oregon	1jg8	
+grant county sd	1fpt	
+grant county south dakota	1fpt	
+grant county wa	v6i	
+grant county washington	v6i	
+grant county west virginia	py0	
+grant county wi	avy	
+grant county wisconsin	avy	
+grant county wv	py0	
+grant devolson wood	5kd8	
+grant edward	67k5	
+grant george hackett	3hz0	
+grant gondrezick	3buo	
+grant green	rth	
+grant hacket	3hz0	
+grant hackett	3hz0	
+grant haket	3hz0	
+grant hakket	3hz0	
+grant hakkett	3hz0	
+grant hall fort leavenworth	1anq	
+grant hart	49mj	
+grant henry hill	16l1	
+grant heslov	z67	
+grant hill	16l1	
+grant hill basketball	16l1	
+grant hill basketball player	16l1	
+grant holt	32do	
+grant hugh	l8c	
+grant julia	3dne	
+grant kirkhope	2t7a	
+grant laramy	1sq5	
+grant lawrence	wot	
+grant leadbitter	5zjs	
+grant lee	s4e	4x2n:3
+grant lee philips	4x2n	
+grant lee phillips	4x2n	
+grant lee phillips musician	4x2n	
+grant leetham	2wof	
+grant major	49xu	
+grant mccann	3m8x	
+grant mclennan	5kep	
+grant memorial	3cum	
+grant mitchell	kpr	
+grant mitchell actor	kpr	
+grant morisson	1uou	
+grant morrison	1uou	
+grant nicholas	3rkb	
+grant parish	2bdx	
+grant parish la	2bdx	
+grant parish louisiana	2bdx	
+grant park stadium	3i2s	
+grant park zoo	cni	
+grant rea park	m8a	
+grant s pass	qsf	
+grant s pass oregon	qsf	
+grant samuel mccann	3m8x	
+grant shofner	4qvr	
+grant show	40fp	
+grant smith	295q	
+grant smith footballer	295q	
+grant smith footballer born 1980	295q	
+grant smith scottish footballer	295q	
+grant taylor	3sl2	
+grant taylor actor	3sl2	
+grant ulysses s ulysses simpson 1822 1885	jwg	
+grant university	kl8	
+grant watts	68cj	
+grant williams	1xd9	
+grant williams actor	1xd9	
+grant wilson claridge	loy	
+grant withers	dqo	
+grant withers comments	dqo	
+grant wood	5kd8	
+grant zebras	6b7y	
+grumpy	55r5	2f8m:3
+grumpy 1930 film	55r5	
+grumpy gamer	2mvx	
+grumpy old		2f8m:3
+grumpy old men	2f8m	
+grumpy old men 2	35b4	
+grumpy old men film	2f8m	
+grumpy old men ii	35b4	
+grumpy old men movie	2f8m	
+hefner	4fkw	
+hefner band	4fkw	
+hefner hugh m	o0d	
+heudicourt	2ax5	
+heudicourt somme	2ax5	
+himizu	3cl4	
+himizu film	3cl4	
+hkul	3v2	
+huy	e4p	
+huy administrative arrondissement	ysm	
+impressions		26yr:2,2fe1:2
+impressions games	26yr	
+ina	4hoi	
+ina balin	5631	
+ina claire	3h5r	
+ina fagan	3h5r	
+ina gliznuta	2qro	
+ina japan	4hoi	
+ina kyoko	5kta	
+ina line	5isc	
+ina nagano	4hoi	
+ina rosenberg	5631	
+ina teutenberg	2bs6	
+ina tuetenberg	2bs6	
+ina yoko		2bs6:3
+ina yoko teutenberg	2bs6	
+jamesville nova scotia	4twd	
+jamesville west nova scotia	4twd	
+jeux		37h5:3
+jeux africain	5st1	
+jeux africains	5st1	
+jeux d enfants	57n3	
+jeux de l amour	36oi	
+jeux des petits etats d europe	2r1b	
+jeux interdits	1xjq	
+jeux les		37h5:3
+jeux les bard	37h5	
+jeux olympiques d hiver	1w4z	
+jeux sont faits	5kfq	
+john willard marriott	4ws9	
+john willard milnor	1bv1	
+john willard morgan	6edp	
+jug tavern georgia	3y7y	
+keiran		5o53:2
+keiran murtagh	5o53	
+keiran perkins	5wg0	
+keiran walker	2hfr	
+kelati thomas	4xga	
+kid606	2z5f	
+kingsmill charles	44gf	
+klitzpera alexander	5skz	
+kokemaki	2aj9	
+kunth	5aa3	
+laines		3510:3
+laines aux		3510:3
+laines aux bois	3510	
+le baccanti	3ajv	
+lemmart meri	2dee	
+livo	32jo,4t5a	
+livo co	32jo	
+livo como	32jo	
+livo lombardy	32jo	
+livo tn	4t5a	
+livo trentino	4t5a	
+livo trentino alto adige sudtirol	4t5a	
+livo trento	4t5a	
+maciejowice commune	o4l	
+macroule	5hj6	
+maguilla	4vrl	
+maguilla badajoz	4vrl	
+maguilla spain	4vrl	
+maria vladimirovna	4xrv	
+maria vladimirovna grand duchess of russia	4xrv	
+maria vladimirovna of russia	4xrv	
+maria vladimirovna princess of russia	4xrv	
+mekeme		5spl:3
+mekeme tamla		5spl:3
+mekeme tamla ladji	5spl	
+meningoencephalitis virus one	xda	
+meshhed	4mu	
+mgt1966 sandbox	bao	
+mingo		ese:2
+mingo county	ese	
+mingo county west virginia	ese	
+mingo county wv	ese	
+mingo footballer	2dro	
+mingo where s the do	pjm	
+mognard	3xey	
+molsheim	wyc	
+musgrave		1uzm:2
+musgrave medal	1uzm	
+newsradio	4e8q	
+nganhui	cgh	
+nutritionist	6sc	
+nysus	44p	
+oa	1p0u	2i9s:2
+oa 10 thunderbolt	3gqy	
+oa 10 thunderbolt ii	3gqy	
+oa 37	112n	
+oa 37 dragonfly	112n	
+oa 37a dragonfly	112n	
+oa 37b dragonfly	112n	
+ofmcap	3d90	
+orangeville	1aq3	
+orangeville on	1aq3	
+orangeville ontario	1aq3	
+orjan		3wrb:2,5r7g:2
+orjan berg	547e	
+orjan persson	5r7g	
+orjan ramberg	3wrb	
+panegyrtes	4i71	
+parsons	21qp,6cuh	6dx:4,63hq:2
+parsons city kansas	21qp	
+parsons college	63hq	
+parsons college wildcats football	63hq	
+parsons elsie clews	43ps	
+parsons geared turbine	1v6j	
+parsons jim	15ax	
+parsons kansas	21qp	
+parsons kansas micropolitan area	1yr0	
+parsons ks	21qp	
+parsons ks micropolitan statistical area	1yr0	
+parsons ks msa	1yr0	
+parsons ks sa	1yr0	
+parsons labette county	21qp	
+parsons nicholas	4ay0	
+parsons school	6dx	6dx:4
+parsons school of		6dx:4
+parsons school of design	6dx	
+parsons surname	6cuh	
+parsons the new school for design	6dx	
+parsons the new school of design	6dx	
+parsons turbine	1v6j	
+parsons usa	21qp	
+parsons wildcats	63hq	
+parsons wildcats football	63hq	
+peter brown	3jby,3t1q,4r7c	
+peter brown actor	3jby	
+peter brown footballer born 1934	4r7c	
+peter brown historian	3t1q	
+petronis twin towers	6d2t	
+playwriters	7p	
+procamide	fjo	
+qirui qq	215a	
+rcaf detachment edmonton	3bl8	
+rcaf station namao	3bl8	
+remedy		69uc:2
+remedy adele adkins song	4ld2	
+remedy developer	69uc	
+remedy entertainment	69uc	
+remedy entertainment ltd	69uc	
+remedy entertainment oy	69uc	
+remedy game developer	69uc	
+remedy games	69uc	
+richard hel	2vh7	
+rimgaile	2uu4	
+roch	2q43	1izc:2,4xig:4
+roch 1983	10k3	
+roch christian kabore	4xig	
+roch episodes	10k3	
+roch kabore	4xig	
+roch marc		4xig:4
+roch marc christian		4xig:4
+roch marc christian kabore	4xig	
+roch marc kabore	4xig	
+roch voisine	1izc	
+rodoscuk	knq	
+saint hipomoni	2r8o	
+saurornia	4xvg	
+sausages	qgk	
+schluckenau	37km	
+seas of the moon	2q9t	
+seas of titan	49n6	
+sequentially	52ob	
+skaa commune	168x	
+st enterprise	9dk	
+stempfferia	1gkp	
+suessa	13r9	
+suessa aurunca	13r9	
+tabieen	x7o	
+talasskaya oblast	2i10	
+tambwe patiyo	5o5g	
+tammareddy		3yvf:3
+tammareddy chalapathi		3yvf:3
+tammareddy chalapathi rao	3yvf	
+textron	29wj	5cgv:4
+textron airland	29wj	
+textron airland llc	29wj	
+textron corporation	29wj	
+textron defense systems	29wj	
+textron financial corporation	29wj	
+textron inc	29wj	
+textron marine		5cgv:4
+textron marine and land systems	5cgv	
+textron marine land		5cgv:4
+textron marine land systems	5cgv	
+textron systems	29wj	
+the liberal democratic party uk	39d	
+the liberal democrats uk	39d	
+the liberal lion	ihw	
+the liberal national party	av9	
+the liberal party	kl	
+the liberal party norway	2bp	
+the liberal party uk	kl	
+the pescadores	1yy3	
+the thad		2m52:6
+the thad jones		2m52:6
+the thad jones mel		2m52:6
+the thad jones mel lewis		2m52:6
+the thad jones mel lewis orchestra	2m52	
+thomas bullen	1x2b	
+thunderbids	1dc0	
+thymelaeaceae	2hoa	
+tierpark hellabrunn	f5s	
+trestina	4b67	
+triboulois	1yx0	
+turid		474m:2
+turid knaak	474m	
+udc	jf3	
+victorias		6dcj:2
+victorias secret	6dcj	
+victorias secret angels	6dcj	
+vignats	374k	
+wallgreens	3fi8	
+weinsberg	4h9u	
+westdeutscher		wbk:2
+westdeutscher rundfunk	wbk	
+westdeutscher rundfunk koeln	wbk	
+westdeutscher rundfunk koln	wbk	
+westen film	4pd7	
+wir	w8g	
+wir haun die pauker in die pfanne	3qux	
+wir kellerkinder	29t0	
+wir kinder vom bahnhof zoo	3hxs	
+wir leben autos	ble	
+wir machen musik	3zja	
+wir sind die nacht	2jfn	
+wir sind vom k u k infanterie regiment	5xsd	
+wir tanzen um die welt	1q3j	
+wir wunderkinder	1df1	
+xinjiapo	ag	
+xinjiapo hangkong gongsi	35g1	
+xinjiapo zhangyi jichang	1xyo	
+zong heng si hai	3av9	
+zong opera	3978	

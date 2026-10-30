@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shannon QA</title>
+<meta name="description" content="Shannon QA answers questions about any text you paste, entirely in your browser. It extracts answers from the text or refuses; it never generates.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/qa/qa.css">
+</head>
+<body>
+<header class="bar">
+  <div class="wrap bar-in">
+    <a class="brand" href="qa.html">Shannon <span>QA</span></a>
+    <nav>
+      <a href="#ask">Ask</a>
+      <a href="#how">How it works</a>
+      <a href="#notes">Honest notes</a>
+      <a href="ideas.html">Idea model</a>
+      <a href="./">GLM</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="kicker">Shannon QA · runs in your browser · nothing is sent to a server</div>
+    <h1>Ask a document a question. Get an answer from the text, or an honest “not answerable”.</h1>
+    <p class="lede">Paste any text and ask about it. Shannon QA finds the passages that matter, lets a small reading model propose answers,
+      and a learned gate picks one: a span, a list, a number, yes or no, or <b>none</b>. There is no generative model, so every answer is a piece of your text,
+      and when no candidate is good enough it says so.</p>
+    <div class="pipe" aria-hidden="true">
+      <span>your text</span><i>→</i><span>passages</span><i>→</i><span>overlap + meaning retrieval</span><i>→</i><span>reader proposes answers</span><i>→</i><span>yes/no model</span><i>→</i><span class="hl">gate: pick one, or refuse</span>
+    </div>
+  </section>
+
+  <section id="ask" class="sec">
+    <div class="load" id="load-row">
+      <button id="load-btn" class="primary">Load Shannon QA</button>
+      <div class="load-info">
+        <div id="load-status" class="small">Three small models, downloaded once and kept in your browser's cache.</div>
+        <div class="bar-track"><div id="load-bar"></div></div>
+        <ul id="load-files" class="files small"></ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-h"><span class="no">01</span><h2>The document</h2></div>
+      <div class="chips" id="doc-chips" role="group" aria-label="Example documents"></div>
+      <p class="small muted" id="doc-note"></p>
+      <label for="doc" class="sr">Document text</label>
+      <textarea id="doc" rows="9" spellcheck="false" placeholder="Paste any text here: an article, a policy, a contract, a manual…"></textarea>
+      <p class="small muted" id="doc-stats"></p>
+    </div>
+
+    <div class="step">
+      <div class="step-h"><span class="no">02</span><h2>The question</h2></div>
+      <form id="ask-form" class="ask-row">
+        <label for="question" class="sr">Question</label>
+        <input id="question" type="text" autocomplete="off" placeholder="Ask something the text might answer" enterkeyhint="go">
+        <button id="ask-btn" class="primary" type="submit" disabled>Ask</button>
+      </form>
+      <div class="chips qchips" id="q-chips" role="group" aria-label="Example questions"></div>
+    </div>
+
+    <div id="result" class="result hidden" aria-live="polite"></div>
+  </section>
+
+  <section id="how" class="sec">
+    <div class="mg"><div class="no">03</div><h2>How it answers</h2></div>
+    <div class="main">
+      <div class="arch">
+        <div class="stage"><div class="no">1 · passages</div><h3>Split by length only</h3><p>The text's own paragraphs, long ones cut into windows of whole sentences (up to 120 words), short lines such as headings carried into the next passage. No rules about content.</p></div>
+        <div class="stage"><div class="no">2 · retrieval</div><h3>Overlap and meaning</h3><p>Top 3 passages by word overlap, weighted by how rare each word is <i>in this document</i>, plus top 3 by MiniLM sentence-embedding similarity.</p><p class="num">all-MiniLM-L6-v2 · 22.7M parameters</p></div>
+        <div class="stage"><div class="no">3 · candidates</div><h3>The reader proposes</h3><p>An extractive QA model reads each passage and proposes up to 6 spans. Each becomes a span, a one-item list, a number (via a small number-word reader), and pairs become two-item lists.</p><p class="num">minilm-uncased-squad2 · 33.2M</p></div>
+        <div class="stage"><div class="no">4 · yes / no</div><h3>A cross-encoder judges</h3><p>A DeBERTa-v3 model fine-tuned on public BoolQ plus development yes/no questions gives P(yes) for the top passages.</p><p class="num">DeBERTa-v3-xsmall · 70.8M</p></div>
+        <div class="stage"><div class="no">5 · choice</div><h3>The gate picks or refuses</h3><p>A question-form model (from the question's embedding) and a 50-weight log-linear gate score every candidate, including <b>none</b>. The top score wins; its lead over the runner-up is the confidence.</p></div>
+      </div>
+      <p class="small muted">This is a port of the Python system (treaty-graph's no-hand-code system) to JavaScript, run with <a href="https://onnxruntime.ai/docs/tutorials/web/">onnxruntime-web</a>. On 66 test questions over the three example texts it gives the same answer as the Python system every time (see the notes below).</p>
+    </div>
+  </section>
+
+  <section id="notes" class="sec">
+    <div class="mg"><div class="no">04</div><h2>Honest notes</h2></div>
+    <div class="main">
+      <div class="caveat"><b>No generative model.</b> Shannon QA can only point at words in your text. It cannot explain, summarise, combine facts from far apart, or answer “why” questions well. When nothing fits, it refuses.</div>
+      <div class="caveat"><b>Built on treaties and legal texts.</b> Its gate and yes/no model were trained on questions about treaties, the US Constitution, an OAuth RFC and the laws of chess. It is weaker on other kinds of writing: try the Moon text, where it misses several easy questions.</div>
+      <div class="caveat"><b>The first two examples flatter it.</b> The UN Charter and the US Constitution were development documents: the gate saw other questions about them. The Moon text was written for this page and never used in development.</div>
+      <h3 class="h3gap">Published results (from the project's pre-registered exam write-ups)</h3>
+      <div class="tablewrap">
+      <table>
+        <thead><tr><th>un_4: two treaties, 348 questions</th><th class="n">accuracy</th></tr></thead>
+        <tbody>
+          <tr class="hrow"><td>Shannon QA (the same design, trained without un_4)</td><td class="n">73.0%</td></tr>
+          <tr><td>Qwen2.5-1.5B-Instruct, given the same passages (reference)</td><td class="n">60.9%</td></tr>
+          <tr><td>Baseline: minilm-squad2 with overlap retrieval</td><td class="n">51.1%</td></tr>
+        </tbody>
+      </table>
+      </div>
+      <ul class="plain small">
+        <li>un_4 was used as development data before this design was fixed, so 73.0 is a development number, not a held-out exam result. The model on this page was also trained on un_4 and on other development sets. The 60.9 and 51.1 rows come from the pre-registered un_4 scoring.</li>
+        <li>Much of the lead comes from refusing: Shannon QA refused 84.8% of the un_4 questions the text could not answer.</li>
+        <li><b>Reliability</b> (lower AURC is better: fewer wrong answers among the most confident ones): the earlier treaty-specific system, H4, scored AURC 0.199 against 0.310 for Qwen2.5-1.5B on un_4. That is not this system. For this system, a later check against a <i>calibrated</i>, 4-shot Qwen2.5-1.5B found the two level (cross-fit AURC 0.180 vs 0.172), so no reliability win is claimed.</li>
+        <li>Results on new domains (two sealed exams) are not reported here.</li>
+      </ul>
+      <h3 class="h3gap">This page</h3>
+      <ul class="plain small" id="page-notes">
+        <li>Models: all-MiniLM-L6-v2 (Apache-2.0), deepset/minilm-uncased-squad2 (CC-BY-4.0, by deepset), and a yes/no cross-encoder fine-tuned from cross-encoder/nli-deberta-v3-xsmall (Apache-2.0) on BoolQ (CC-BY-SA-3.0). They are stored as fp16 weights, plus int8 for the yes/no model's word table, and computed in fp32. Plain int8 throughout moved the reader's spans and the yes/no probabilities too much, so it isn't used.</li>
+        <li>The confidence shown is the gate's margin: how far the winning candidate's score is above the runner-up's. It is not a probability.</li>
+        <li>Everything runs single-threaded in WebAssembly. A question takes about one second on a laptop and longer on a phone. Reading a long document takes a few seconds.</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer class="foot small muted">
+    <p>Shannon QA is a research system. Example texts: the Charter of the United Nations (Articles 1–32); the Constitution of the United States (National Archives transcription, public domain); “The Moon”, written for this page.
+      <a href="https://github.com/Acollie/shannon-demo">Source on GitHub</a> · <a href="ideas.html">Shannon's idea model</a>.</p>
+  </footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.min.js"></script>
+<script type="module" src="assets/qa/app.js"></script>
+</body>
+</html>

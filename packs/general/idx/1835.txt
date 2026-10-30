@@ -1,0 +1,423 @@
+1er arrondissement paris	85k	
+a midsummer		uvg:5,1by4:6,1cif:5,1q5o:5,3mmx:5
+a midsummer night		uvg:5,1by4:6,1cif:5,1q5o:5,3mmx:5
+a midsummer night s		uvg:5,1by4:6,1cif:5,1q5o:5,3mmx:5
+a midsummer night s dream	uvg,1cif,1q5o,3mmx	
+a midsummer night s dream 1909 film	3mmx	
+a midsummer night s dream 1925 film	3pll	
+a midsummer night s dream 1935 film	uvg	
+a midsummer night s dream 1999 film	1cif	
+a midsummer night s dream act iv	1q5o	
+a midsummer night s sex		1by4:6
+a midsummer night s sex comedy	1by4	
+a midsummer night sex comedy	1by4	
+a midsummer nights dream	1q5o	
+a midsummer s night dream	1q5o	
+abbeys	1ic	
+abreis		3fb3:3
+abreis rural		3fb3:3
+abreis rural district	3fb3	
+aiga daseot	48if	
+akaruye	4ko8	
+akhrik		2i5s:2
+akhrik sokratovich tsveyba	2i5s	
+akhrik tsveiba	2i5s	
+akhrik tsveyba	2i5s	
+amarta sen	ubf	
+animeworks	5zh1	
+atanas		3rss:2,4brx:2,63zq:2,6c76:2
+atanas atanasov	63zq	
+atanas atanasov footballer	63zq	
+atanas bornosuzov	4brx	
+atanas chepilov	6c76	
+atanas chipilov	6c76	
+atanas tarev	3rss	
+atr72	1ewp	
+autoclaved		5nwx:3
+autoclaved aerated		5nwx:3
+autoclaved aerated concrete	5nwx	
+baiohazado fo	1fqb	
+baiohazado tsu	3cib	
+barefooters	lw8	
+berdiaeff	29it	
+brey		3t84:5
+brey et		3t84:5
+brey et maison		3t84:5
+brey et maison du		3t84:5
+brey et maison du bois	3t84	
+buehl	2m4g	
+buehl baden	2m4g	
+buehl rastatt	2m4g	
+carduelis tristis	6hln	
+casabianca	29mu	
+casabianca haute corse	29mu	
+casabianca upper corsica	29mu	
+cattleyella	om1	
+chargex	df1	
+charles falconer	4xod	4xod:6
+charles falconer baron		4xod:6
+charles falconer baron falconer		4xod:6
+charles falconer baron falconer of		4xod:6
+charles falconer baron falconer of thoroton	4xod	
+chattie cooper	3von	
+chattie sterry	3von	
+chrysoesthia	339y	
+clodia luculli	5p2v	
+clodia pulchra wife of augustus	686a	
+cngvitall prague open	577j	
+crescents	2yij	
+cyanobalamin	4qnm	
+damater	4oq6	
+david wilson	5p8s,5r89,6dw2	
+david wilson baron wilson of tillyorn	6dw2	
+david wilson football manager	5p8s	
+david wilson footballer born 1884	5r89	
+david wilson footballer born 1969	5p8s	
+david wilson galloway	62tv	
+david wilson museum director	5yzu	
+diyarbakir	9xo	
+diyarbakir bueyueksehir belediye diski spor	5o3o	
+diyarbakir buyuksehir belediye diski spor	5o3o	
+diyarbakir buyuksehir belediye sarayi diskispor	5o3o	
+diyarbakir buyuksehir belediyespor	5o3o	
+diyarbakir ili	dsq	
+diyarbakir ili province	dsq	
+diyarbakir ili province turkey	dsq	
+diyarbakir province	dsq	
+diyarbakir turkey	9xo	
+doushisha university	a9d	
+edigle	3yny	3yny:3
+edigle quaresma		3yny:3
+edigle quaresma farias	3yny	
+edward grimston	4il6	
+edward grimston st albans mp	4il6	
+faa a	23bp	
+faa a tahiti	23bp	
+faa administrator	5hm5	
+faa aviation news	5hm5	
+faa sea harrier frs1	2360	
+fc priboy tyumen	3ns	
+gelug	11rp	
+gelug pa	11rp	
+gelug school	11rp	
+getafe	yr3	5cy:2,mxd:3,66ob:2
+getafe b	mxd	
+getafe c f	5cy	
+getafe central	66ob	
+getafe central madrid metro	66ob	
+getafe central station	66ob	
+getafe cf	5cy	mxd:3
+getafe cf b	mxd	
+getafe club de futbol	5cy	
+getafe fc	5cy	
+getafe madrid	yr3	
+getafe team dubai	5cy	
+gmina osie	1xw4	
+gmina polanow	d9l	
+gornac	2d3n	
+goudelancourt		1wx9:3,2jhm:3
+goudelancourt les		1wx9:3,2jhm:3
+goudelancourt les berrieux	2jhm	
+goudelancourt les pierrepont	1wx9	
+grimmest hits	1tm1	
+gubczyce	15ep	468j:2
+gubczyce commune	ig5	
+gubczyce county	468j	
+hakki tolunay kafkas	39pn	
+hakki yeten	5se0	
+hammy lamb	61uc	
+hammy the bear	o2l	
+hectokilo	3qkb	
+herzel	2x21	
+iexplorer exe	1thu	
+irland du nord	1h2	
+jape perry richardson	5ajx	
+jape richardson	5ajx	
+jenamicin	3f81	
+jonkopings		ii0:3
+jonkopings kommun	a4p	
+jonkopings lan	lz4	
+jonkopings sodra		ii0:3
+jonkopings sodra if	ii0	
+karjalan tasavalta	jy0	
+karjalan tazavalda	jy0	
+karjalan tazovaldkund	jy0	
+khalsa founder	2m06	
+kinsealy drinan	50lp	
+klingenberg	28yu	
+klingenberg saxony	28yu	
+kurunakal	1g51	
+kurunakal district	1bqi	
+kutina	59ea	
+labiche	40u5	
+langui	1ewr	
+lavrent ev	1nhc	
+le mystere barton	50m6	
+le mystere de la chambre jaune	3vsh	
+le mystere de la jongue rouge	67jw	
+le mystere saint val	60no	
+lucky	4fhm,5cdb,6fd3	n5z:2,1jzd:2,1ky3:2,1q82:3,1thm:2,1zbh:2,23zc:2,2cf8:2,2lyc:5,2zc5:2,32t5:2,3jj5:2,3mrn:2,3xv0:2,4neo:2,4qgk:2,4sk2:2,504a:2,5eor:2,5tae:3,5wta:2,67lh:2,6czr:3
+lucky 101 dalmatians	em6	
+lucky 13	2cf8	
+lucky 2	1s4n	
+lucky 3	r9l	
+lucky aide	33rv	
+lucky ali	504a	
+lucky ali videography	504a	
+lucky break	4neo	
+lucky break 2001 film	4neo	
+lucky britney spears song	6fd3	
+lucky charm film	4zez	
+lucky cisco		5tae:3
+lucky cisco kid	5tae	
+lucky comanche	2o7	
+lucky diamond	5ipq	5ipq:3
+lucky dime	3nql	
+lucky el intrepido	4fhm	
+lucky goldstar	1u4s	
+lucky goldstar bull	4f4	
+lucky goldstar bulls	4f4	
+lucky goldstar fc	4f4	
+lucky goldstar hwangso	4f4	
+lucky goldstar twins	1q8t	
+lucky jason mraz	5cdb	
+lucky jason mraz and colbie caillat song	5cdb	
+lucky jason mraz colbie caillat song	5cdb	
+lucky jason mraz song	5cdb	
+lucky jim	3mrn,3xv0	
+lucky jim 1909 film	3mrn	
+lucky jim 1957 film	3xv0	
+lucky jim film	3xv0	
+lucky jo	3jj5	
+lucky jordan	4qgk	
+lucky kids	32t5	
+lucky lady	1ky3	65yf:3
+lucky logan	111y	
+lucky luc	n5z	
+lucky luciano	23zc	
+lucky luciano film	23zc	
+lucky luke	n5z,5eor	
+lucky luke 2009 film	5eor	
+lucky luke and the daltons	2d13	
+lucky luke go west	n5z	
+lucky luke wanted	n5z	
+lucky m fullt alle sarge	4fhm	
+lucky man tv series	3412	
+lucky monkey	feo	
+lucky monkeys	20m4	
+lucky nick	2cag	
+lucky nick cain	2cag	
+lucky number		1q82:3
+lucky number 7	1q82	
+lucky number eleven	1q82	
+lucky number s7evin	1q82	
+lucky number sleven	1q82	
+lucky number slevin	1q82	
+lucky numbers	1thm	
+lucky one	4efe	4efe:3
+lucky ones	2qh2	2qh2:3
+lucky ones lana del rey song	4kk8	
+lucky partners	2zc5	
+lucky pierre	1jzd	
+lucky pierre film	1jzd	
+lucky rai	1zx4	
+lucky star	5wta	
+lucky star 1929 film	5wta	
+lucky star film	5wta	
+lucky strikes back	2khl	
+lucky texan	3ndq	3ndq:3
+lucky the inscrutable	4fhm	
+lucky the racer	69oh	
+lucky them	67lh	
+lucky thompson	4sk2	
+lucky to		2lyc:5,6czr:3
+lucky to be		2lyc:5
+lucky to be a		2lyc:5
+lucky to be a woman	2lyc	
+lucky to me	6czr	
+lucky trouble	4vv6	
+lucky wycombe comanche	2o7	
+lucky you	1zbh	
+lucky you 2006 film	1zbh	
+lucky you film	1zbh	
+madranges	3rtb	
+malaussanne	2i1v	
+meys	2kqp	
+michelbach	2k5m	1rct:3,2eke:3
+michelbach gaggenau	3aac	
+michelbach haut rhin	2k5m	
+michelbach le		1rct:3,2eke:3
+michelbach le bas	2eke	
+michelbach le haut	1rct	
+montbizot	2qz2	
+morbylanga		13n0:2
+morbylanga kommun	13n0	
+morbylanga municipality	13n0	
+neifirst	5vor	
+nexvex sandbox	h9	
+olistheria	tnk	
+oven	587i	
+oven baked	5udh	
+oven cook	587i	
+peter zoller	2npt	
+phyllotis	5sky	
+planctogystia	6dbf	
+pratwiraj	bpw	
+prince aimone		3znv:6,60qg:6
+prince aimone 4th		3znv:6
+prince aimone 4th duke		3znv:6
+prince aimone 4th duke of		3znv:6
+prince aimone 4th duke of aosta	3znv	
+prince aimone 6th		60qg:6
+prince aimone 6th duke		60qg:6
+prince aimone 6th duke of		60qg:6
+prince aimone 6th duke of aosta	60qg	
+prince aimone duke of aosta	3znv	
+prince aimone duke of apulia	60qg	
+prince aimone of savoy aosta	3znv	
+pug	2p0	
+pug face	kcj	
+pug ismay	41vr	
+rabbeinu		449a:2
+rabbeinu hazokein	20cb	
+rabbeinu tam	449a	
+raizeux	25d6	
+rekindled affair	5yao	
+richard sukuta		2lda:3
+richard sukuta pasu	2lda	
+robert siboldi	3xrw	
+roeyksopp	1yet	
+roshanlal nagrath	3ajq	
+rtmnu	172t	
+safavid		3izr:2
+safavid dynasty	3izr	
+safavid empire	3izr	
+safavid iran	3izr	
+safavid iraq	3izr	
+safavid persia	3izr	
+sagitarius a	47ry	
+sansebastianline	5qz6	
+schulte mark	62rq	
+scopeumatidae	63h3	
+seksdageslobet	262z	
+sewerstal tscherepowez	6kh	
+siemensring	1h5z	
+sierra	4rsm	1kc:2,4qa:2,5q6:7,v3v:2,15vn:3,16uh:2,1b78:4,1tpx:2,1y5a:2,2kkx:2,2vsd:5,399h:2,3gww:3,4evx:5,4ff8:3,55aj:3,5kcg:4,5wqj:2
+sierra 1950 film	4rsm	
+sierra attractions	4cu	
+sierra bernia british school	4ntz	
+sierra bullones	1y5a	
+sierra bullones bohol	1y5a	
+sierra class		3gww:3
+sierra class submarine	3gww	
+sierra club john muir award	1apw	
+sierra county	v3v,399h	
+sierra county ca	v3v	
+sierra county california	v3v	
+sierra county new mexico	399h	
+sierra county nm	399h	
+sierra creative interpreter	4cu	
+sierra de		15vn:3,4ff8:3,55aj:3
+sierra de francia	15vn	
+sierra de gador	3239	
+sierra de guadarrama	55aj	
+sierra de guadarrama comments	55aj	
+sierra de tramontana	4yzi	
+sierra de tramuntana	4yzi	
+sierra de yeguas	4ff8	
+sierra de yeguas malaga	4ff8	
+sierra de yeguas spain	4ff8	
+sierra del guadarrama	55aj	
+sierra engarceran	2kkx	
+sierra entertainment	4cu	
+sierra estaban drake	ayy	
+sierra esteban	ayy	
+sierra esteban drake	ayy	
+sierra film	4rsm	
+sierra fisheries	1gk9	
+sierra highway	5wqj	
+sierra leome	1kc	
+sierra leon	1kc	
+sierra leone	1kc	5q6:7,2vsd:5,4evx:5,5kcg:4
+sierra leone civil		5kcg:4
+sierra leone civil war	5kcg	
+sierra leone genocide	5kcg	
+sierra leone history	1kc	
+sierra leone league	2vsd	
+sierra leone men		5q6:7
+sierra leone men s		5q6:7
+sierra leone men s national		5q6:7
+sierra leone men s national football		5q6:7
+sierra leone men s national football team	5q6	
+sierra leone national		2vsd:5
+sierra leone national football team	5q6	
+sierra leone national premier		2vsd:5
+sierra leone national premier league	2vsd	
+sierra leone people		4evx:5
+sierra leone people s		4evx:5
+sierra leone people s party	4evx	
+sierra leone peoples party	4evx	
+sierra leone premier league 2009 10	2vsd	
+sierra leonean	1kc	
+sierra leonean civil war	5kcg	
+sierra leonean national football team	5q6	
+sierra leoneans	1kc	
+sierra leoneon	1kc	
+sierra leonian	1kc	
+sierra leonne	1kc	
+sierra madre	1tpx	1b78:4
+sierra madre ca	1tpx	
+sierra madre california	1tpx	
+sierra madre de		1b78:4
+sierra madre de chiapas	1b78	
+sierra madre guatemala	1b78	
+sierra morena california	42u8	
+sierra nevada	4qa	
+sierra nevada calif and nev	4qa	
+sierra nevada california	4qa	
+sierra nevada de santa maria	uib	
+sierra nevada mexico	3w0e	
+sierra nevada range	4qa	
+sierra nevada u s	4qa	
+sierra nevada united states	4qa	
+sierra nevada us	4qa	
+sierra nevada usa	4qa	
+sierra nevadas us	4qa	
+sierra northwest	4cu	
+sierra on line	4cu	
+sierra studios	4cu	
+sierra to the sea highway	5s7s	
+sierra vista	16uh	
+sierra vista ariz	16uh	
+sierra vista arizona	16uh	
+sierra vista arizona metropolitan area	m6r	
+sierra vista az	16uh	
+sierra vista douglas az metropolitan statistical area	m6r	
+sierra vista douglas az msa	m6r	
+silleda	4f60	
+snedens landing	6fk3	
+sozoa	ee2	
+spacemen	1ni	49ly:2
+spacemen 3	49ly	
+spacemen three	49ly	
+spanishes	4a01	
+sprenghi	4we	
+springe	1l52	
+springe germany	1l52	
+stained		6cnm:2
+stained glass	6cnm	
+stained glass artist	6cnm	
+stained glass window	6cnm	
+stained glass windows	6cnm	
+stromiec commune	16r2	
+the skeleton		2vs8:3
+the skeleton key	2vs8	
+the sprouse twins	4r6v	
+tokharistan	p3f	
+tongeren	egi	
+tongeren administrative arrondissement	19qx	
+toscanella	1ej6	
+treffrin	2nyu	
+ueberroth	6gf1	
+wissmannia	462p	
+zozarine	501o	

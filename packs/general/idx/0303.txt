@@ -1,0 +1,628 @@
+a sreekar		8kj:3
+a sreekar prasad	8kj	
+active		zv6:2,1qlb:3,6auo:2,6f28:2
+active acidity	4iu7	
+active argentina military aircraft	18i3	
+active attire	1dws	
+active citizen force	57if	
+active data structure	hed	
+active dimension battle system	6a75	
+active directory	6auo	
+active directory application mode	6auo	
+active directory directory services	6auo	
+active directory object	6auo	
+active directory objects	6auo	
+active directory service interfaces	6auo	
+active directory site	6auo	
+active egyptian military aircraft	4u3m	
+active equipment of the iraqi army	6f9e	
+active gaming	16qv	
+active intelligence	5n98	
+active lifestyle	69uw	
+active nation scottish cup	8h8	
+active oxygen	se	
+active radar	1qlb	1qlb:3
+active radar guidance	1qlb	
+active radar homing	1qlb	
+active radar seeker	1qlb	
+active raid	zv6	
+active raid kido kyoshushitsu dai hakkei	zv6	
+active raid kidou kyoushuushitsu dai hakkei	zv6	
+active raid mobile assault division unit 8	zv6	
+active suffrage	6f28	
+active tuberculosis	tk	
+active video game	16qv	
+active volcano	2f7	
+active wear	1dws	
+active worlds in the solar system	2f7	
+agonidae	6esd	
+alsacian	ddt	
+amarumayu region	fwi	
+annasophia	203y	203y:2
+annasophia rob	203y	
+annasophia robb	203y	
+aqhdara	56xc	
+arminiya	15tl	
+asean	ro2	5hjj:3
+asean 5	ro2	
+asean community	ro2	
+asean economic community	ro2	
+asean football		5hjj:3
+asean football federation	5hjj	
+asean highway 1	vfz	
+asean integration	ro2	
+asean kechil	ro2	
+asean kecil	ro2	
+asean treaty	ro2	
+austraila	j	
+balalaika	2hnq	
+balalaika film	2hnq	
+bamboozles	5b0p	
+bifunctor	4dk2	
+bogdanov alexander	33im	
+bogdanov michael	55xd	
+cabella		353w:2
+cabella ligure	353w	
+cauterets	tqy	
+cavenago	4p6d	2nwg:3,4p6d:3
+cavenago brianza	4p6d	
+cavenago d		2nwg:3
+cavenago d adda	2nwg	
+cavenago dadda	2nwg	
+cavenago di		4p6d:3
+cavenago di brianza	4p6d	
+charles percier	1fjm	1fjm:3
+charles percier bassant	1fjm	
+chaveyriat	2r83	
+cierges	1v8e	3f2w:3
+cierges sous		3f2w:3
+cierges sous montfaucon	3f2w	
+climberrum	df9	
+cordorinus	n9b	
+crasigenes	2jax	
+cruz	4vo	3nm:2,ois:3,3g28:2,4dv8:2
+cruz alta	3g28	
+cruz alta rio grande do sul	3g28	
+cruz azul	3nm	ois:3
+cruz azul futbol club a c	3nm	
+cruz azul hidalgo	ois	
+cruz recording label	4dv8	
+cruz records	4dv8	
+david morse	nqu	
+david morse actor	nqu	
+deiei studios	mne	
+dhananjay	1bhc	
+dissen		592o:4
+dissen am		592o:4
+dissen am teutoburger		592o:4
+dissen am teutoburger wald	592o	
+dissen lower saxony	592o	
+djohar dudaev	29rg	
+duna	14v0	
+duna adony	2bo2	
+duna rapper	28hc	
+duna szerdahely	ua4	
+dyurtyulinskaya	1ekb	
+edward abey	1xr3	
+elobact	2bzi	
+equisetopsida	6f2l	
+fc kobrin	55q9	
+fd2	xvn	
+frickative	wxi	
+frickative the rocky horror glee show	3o0s	
+gauharara begum	3kg1	
+geared		69q0:3
+geared bulk carrier	5r6m	
+geared locomotive	69q0	
+geared steam		69q0:3
+geared steam locomotive	69q0	
+geared turbine	1v6j	
+glapwell		2k5k:3
+glapwell f		2k5k:3
+glapwell f c	2k5k	
+glapwell fc	2k5k	
+gmina korsze	gx0	
+hardcourt	28o	
+herschel		15gn:3,342o:2,4ghp:2,4i6z:2,4jjo:2,4l4k:2
+herschel bernardi	342o	
+herschel burke		15gn:3
+herschel burke gilbert	15gn	
+herschel daugherty	4ghp	
+herschel goldberg	1g1o	
+herschel junior walker	4l4k	
+herschel mayall	4jjo	
+herschel mclandress	v0t	
+herschel medal	4i6z	
+herschel saltzman	19vl	
+herschel walker	4l4k	
+herschel william	1qa	
+hertta		4nf8:2
+hertta elina kuusinen	4nf8	
+hertta elina kuusinen leino	4nf8	
+hertta kuusinen	4nf8	
+hertta kuusinen leino	4nf8	
+heteromelese	sbe	
+hohenbergia	2ipy	
+hydrocampa	xy5	
+jableh		5m14:2
+jableh district	5m14	
+joweid rack railway	539o	
+joweid zahnradbahn	539o	
+kitcen	214i	
+korsun	42fi	42fi:2
+korsun shevchenkivsky	42fi	
+korsun shevchenkivskyi	42fi	
+korsun shevchenkivskyy	42fi	
+korsun shevchenkovsky	42fi	
+korsun szewczenkowski	42fi	
+kristi	qig	5d3x:2,6cz0:2
+kristi first name	qig	
+kristi given name	qig	
+kristi hedican	6cz0	
+kristi l noem	5d3x	
+kristi name	qig	
+kristi noem	5d3x	
+kristi tsuya yamaguchi	6cz0	
+kristi yamaguchi	6cz0	
+kristi yamoguchi	6cz0	
+kunashiri	36fw	
+kunashiri island	36fw	
+lantern bug	2ooh	
+lantern bugs	2ooh	
+lantern fish	6cgc	
+lantern fly	2ooh	
+lantern shark	11ex	
+leny		5isu:2
+leny bruce	1tqc	
+leny marenbach	5isu	
+leptospermoideae	gqu	
+liesthal	dsh	
+lussagnet		3bs8:2
+lussagnet lusson	3bs8	
+macmahon duke of magenta	1hwo	
+macquarie		a0x:2,3qaa:2,4axx:2
+macquarie asset management	3qaa	
+macquarie bank	3qaa	
+macquarie bank limited	3qaa	
+macquarie capital	3qaa	
+macquarie department of accounting and corporate governance	a0x	
+macquarie department of actuarial studies	a0x	
+macquarie department of applied finance and actuarial studies	a0x	
+macquarie department of business	a0x	
+macquarie department of marketing and management	a0x	
+macquarie financial services	3qaa	
+macquarie group	3qaa	
+macquarie group limited	3qaa	
+macquarie group ltd	3qaa	
+macquarie infrastructure and real assets	3qaa	
+macquarie investment management	3qaa	
+macquarie island	4axx	
+macquarie island world heritage area	4axx	
+macquarie river	29g8	
+macquarie river new south wales	29g8	
+macquarie uni	a0x	
+macquarie university	a0x	
+macquarie university new south wales	a0x	
+maria mercedes morgan	5jvl	
+maria mercedes of bourbon two sicilies	1kbk	
+maria mercedes princess of asturias	3aba	
+melano	44fk	
+melano supriata	1kw7	
+melano switzerland	44fk	
+melano ti	44fk	
+melano ticino	44fk	
+melita ancient port city	rky	
+melita eagles	xgd	
+minimalism	1ryi	
+minimalism music	1e1a	
+morning	5x9g	8sp:2,16b1:2,1ogn:2,2yvb:5,4jv2:2,6b98:2
+morning after	2krb	2krb:3
+morning beck song	6b98	
+morning bell	4q00	
+morning dew montessori	2clp	
+morning fatigue	1g0b	
+morning glories	47rl	
+morning glory	16b1,1ogn,47rl	
+morning glory 1933 film	16b1	
+morning glory 2010	1ogn	
+morning glory 2010 film	1ogn	
+morning glory family	5mm4	
+morning glory movie	1ogn	
+morning glory singles box	536g	
+morning glory singles box ep	536g	
+morning masume	8sp	
+morning musume	8sp	
+morning musume 14	8sp	
+morning musume 15	8sp	
+morning musume 16	8sp	
+morning musume 17	8sp	
+morning newspaper	6y	
+morning paper	6y	
+morning phase	6b98	
+morning report album	56uu	
+morning report arkells album	56uu	
+morning ride		2yvb:5
+morning ride on		2yvb:5
+morning ride on the		2yvb:5
+morning ride on the beach	2yvb	
+morning star arkansas	1wlk	
+morning tiredness	1g0b	
+morning trance	spu	
+morning wing	oiq	
+mortaza ghobaydulla uly raximev	655x	
+mortaza ghoebaeydulla uly raeximev	655x	
+mortaza raeximev	655x	
+mortaza raximev	655x	
+mouron	2xxv	3jnb:3
+mouron sur		3jnb:3
+mouron sur yonne	3jnb	
+narahio	d65	
+nasielsk commune	enf	
+national premier		am3:4,1x34:3,1ymi:4,2mge:4,5k3q:4,5loa:5
+national premier league	1x34	5k3q:4
+national premier league jamaica	1x34	
+national premier league of jamaica	1x34	
+national premier league queensland	5k3q	
+national premier leagues		1ymi:4,2mge:4,5loa:5
+national premier leagues nsw	1ymi	
+national premier leagues queensland	5k3q	
+national premier leagues south		5loa:5
+national premier leagues south australia	5loa	
+national premier leagues state league	5f05	
+national premier leagues state league 1	5f05	
+national premier leagues victoria	2mge	
+national premier leagues western australia	2x4z	
+national premier soccer		am3:4
+national premier soccer league	am3	
+nemepiodon	12ky	
+norm	4a5	14op:2,1amu:2,2q0w:2,41tv:4,5xu8:2,6782:2,6f54:3
+norm alden	2psl	
+norm augustine	6agl	
+norm borlaug	1b0x	
+norm ferguson	14op	
+norm ferguson animator	14op	
+norm finkelstein	4hvz	
+norm first name	4a5	
+norm given name	4a5	
+norm hiscock	6782	
+norm kwong	3rm8	
+norm macdonald	1amu	
+norm macdonald canadian comedian	1amu	
+norm macdonald comedian	1amu	
+norm macdonald comedy	1amu	
+norm maclean	53v1	
+norm mccabe	4wuj	
+norm mcdonald	1amu	
+norm mclaren	12tq	
+norm mineta	5t2f	
+norm of		41tv:4
+norm of the		41tv:4
+norm of the north	41tv	
+norm of the north film	41tv	
+norm petty	59j4	
+norm prescott	2q0w	
+norm rogers drummer	4ok9	
+norm show		52zc:3
+norm sloan	5xu8	
+norm spellman	hke	
+norm thagard	1wqm	
+norm tv series	52zc	
+norm van		6f54:3
+norm van brocklin	6f54	
+norm whitfield	37tl	
+oocu	ddj	
+panch mahals	21q7	
+panch mahals district	21q7	
+peekeliopanax	1jzn	
+pelugo	2m7k	
+pentro di isernia doc	1bmu	
+pergaeus	3571	
+pictaviensis hilarius	5hlm	
+pomare		2aic:2,2g3j:2,5v48:2
+pomare dynasty	5v48	
+pomare family	5v48	
+pomare iv	2g3j	
+pomare v	2aic	
+pomare v of tahiti	2aic	
+prince otsu	yl7	
+princess viktoria	20cg	1e1d:5,1k3t:6,20cg:4
+princess viktoria adelheid		1k3t:6
+princess viktoria adelheid of		1k3t:6
+princess viktoria adelheid of schleswig		1k3t:6
+princess viktoria adelheid of schleswig holstein	1k3t	
+princess viktoria luise		1e1d:5
+princess viktoria luise of		1e1d:5
+princess viktoria luise of prussia	1e1d	
+princess viktoria margarethe of prussia	63mh	
+princess viktoria of		20cg:4
+princess viktoria of prussia	20cg	
+prize	h49	f05:9,17vj:2,3642:4
+prize ampere	1pzr	
+prize drawing	6f5a	
+prize for elegant design	3ujd	
+prize in		f05:9
+prize in economic		f05:9
+prize in economic sciences		f05:9
+prize in economic sciences in		f05:9
+prize in economic sciences in memory		f05:9
+prize in economic sciences in memory of		f05:9
+prize in economic sciences in memory of alfred		f05:9
+prize in economic sciences in memory of alfred nobel	f05	
+prize israel	2al	
+prize jabuti	arf	
+prize of		3642:4
+prize of gold	4xkc	
+prize of moscow		3642:4
+prize of moscow news	3642	
+prize puzzle	3ioy	
+prize song	6h10	
+prize stories the o henry awards	5ua3	
+prize winner of defiance ohio	38km	38km:6
+procainamide	fjo	
+procainamide hcl	fjo	
+procainamide hydrochloride	fjo	
+prophylactis	2xuk	
+raquel	fl5	nf7:2,2uzj:2,46pf:2
+raquel atawo	2uzj	
+raquel first name	fl5	
+raquel given name	fl5	
+raquel kops jones	2uzj	
+raquel tejada	nf7	
+raquel torres	46pf	
+raquel welch	nf7	
+raquel welsh	nf7	
+re5ident evil retribution	ll4	
+redikomi	2nd3	
+richard josef neutra	2b8k	
+richard shepard	2npc	
+robert hale	4yya	
+robert hale maine	4yya	
+robert hale maine politician	4yya	
+robert hale monro	36lh	
+rossbrunn	504i	
+rowingat2000summerolympics	10wf	
+saint ramon of penyafort	56l2	
+sayuz na demokratichnite sili	3gmy	
+shocking edison	5k69	
+shocking miss pilgrim	2ue1	2ue1:4
+sinology	5c1z	
+sissek	meo	
+smartweed	17tt	
+smartweed family	3h17	
+somerset	46a,1he0,1zer,288v,3b23	amt:2,cpf:2,n9j:2,to0:2,wyr:2,119m:2,30ib:4,3har:2,4wje:5,6hn7:2
+somerset and		4wje:5
+somerset and dorset		4wje:5
+somerset and dorset joint		4wje:5
+somerset and dorset joint railway	4wje	
+somerset and dorset railway	4wje	
+somerset and dorset railway before joint ownership	4wje	
+somerset and dorset railway trust	3t1y	
+somerset bridge primary school	mcr	
+somerset ccc	30ib	
+somerset central railway	4wje	
+somerset college	6hn7	
+somerset college australia	6hn7	
+somerset county	amt,cpf,wyr,119m	30ib:4
+somerset county cricket		30ib:4
+somerset county cricket club	30ib	
+somerset county maine	amt	
+somerset county maryland	119m	
+somerset county md	119m	
+somerset county me	amt	
+somerset county n j	wyr	
+somerset county new jersey	wyr	
+somerset county nj	wyr	
+somerset county pa	cpf	
+somerset county pennsylvania	cpf	
+somerset cricket club	30ib	
+somerset dorset joint railway	4wje	
+somerset dorset railway	4wje	
+somerset east	5c1s	
+somerset east eastern cape	5c1s	
+somerset england	46a	
+somerset franklin township new jersey	3b23	
+somerset house	3har	
+somerset house courtyard	3har	
+somerset house trust	3har	
+somerset kentucky	1zer	
+somerset kentucky micropolitan area	y6m	
+somerset ky	1zer	
+somerset ky micropolitan statistical area	y6m	
+somerset ky msa	y6m	
+somerset ky sa	y6m	
+somerset maugham	jbo	
+somerset mom	jbo	
+somerset new jersey	3b23	
+somerset nj	3b23	
+somerset oos	5c1s	
+somerset pa	1he0	
+somerset pa micropolitan statistical area	cpf	
+somerset pa msa	cpf	
+somerset pa sa	cpf	
+somerset pennsylvania	1he0	
+somerset pennsylvania micropolitan area	cpf	
+somerset protectorate	xhx	
+somerset ragazzi	2m6	
+somerset region	n9j	
+somerset regional council	n9j	
+somerset rump	46a	
+somerset sabres	30ib	
+somerset soap opera	288v	
+somerset tv series	288v	
+somerset wes	to0	
+somerset west	to0	
+somerset west primary school	to0	
+somerset west western cape	to0	
+sovergein state	2sr	
+stantira	5em	
+sweet		vcg:2,z4d:2,zvt:3,1732:4,18v7:3,1jji:3,1rco:4,1t7v:2,1yrj:2,27ku:3,2x8i:2,32to:2,37k9:3,3dgt:2,3rpv:2,46im:3,4pi3:3,4yar:2,5img:6,5wyb:4,5zza:4,62i6:4,62pn:2,62xz:2,62yr:2,651v:3,66gq:2,67uq:2,6h80:3
+sweet 16 o g3ne album	3sia	
+sweet adeline	66gq	
+sweet adeline 1934 film	66gq	
+sweet adeline film	66gq	
+sweet amber	4i9f	
+sweet and		zvt:3,1jji:3
+sweet and innocent single	1ujv	
+sweet and lowdown	1jji	
+sweet and sour	zvt	
+sweet and sour film	zvt	
+sweet anna	62yr	
+sweet auburn	57v	
+sweet baby	62pn	
+sweet baby jesus film	44th	
+sweet baby macy gray song	62pn	
+sweet baby prince song	54uu	
+sweet band	vcg	
+sweet bird		1rco:4
+sweet bird of		1rco:4
+sweet bird of youth	1rco	
+sweet bird of youth film	1rco	
+sweet body of bianca	4tcl	
+sweet box	5fs6	
+sweet bun	32to	
+sweet caroline prison break episode	4pef	
+sweet charity	1t7v	
+sweet charity film	1t7v	
+sweet child		5zza:4
+sweet child o		5zza:4
+sweet child o mine	5zza	
+sweet child of mine	5zza	
+sweet children	bhx	
+sweet chocolate brown cocktail	4p3	
+sweet christmas	5jdy	
+sweet cream	1qnp	
+sweet d	2tjn	
+sweet daddy d	3o4h	
+sweet deceptions	3rpv	
+sweet delusions	3rpv	
+sweet dirty tony	3wut	
+sweet dish	962	
+sweet dishes	962	
+sweet dreams	2x8i,5img,67uq	5img:6
+sweet dreams 1981 film	4xrn	
+sweet dreams 1985 film	2x8i	
+sweet dreams are		5img:6
+sweet dreams are made		5img:6
+sweet dreams are made of		5img:6
+sweet dreams are made of these	5img	
+sweet dreams are made of this	5img	
+sweet dreams are made of this live	5img	
+sweet dreams are made of this marilyn manson song	5img	
+sweet dreams are made of this single	5img	
+sweet dreams are made of this song	5img	
+sweet dreams beyonce knowles song	67uq	
+sweet dreams beyonce song	67uq	
+sweet dreams eurythmics song	5img	
+sweet dreams remix	54c	
+sweet dreams song	5img	
+sweet dreams the patsy cline story	2x8i	
+sweet drink	8wr	
+sweet emma		62i6:4
+sweet emma dear		62i6:4
+sweet emma dear bobe	62i6	
+sweet emma dear boebe sketches nudes	62i6	
+sweet ginger	6cnu	
+sweet girl		4qlk:3
+sweet heart s dance	37k9	
+sweet hearts		37k9:3
+sweet hearts dance	37k9	
+sweet hereafter	1jzz	1jzz:3
+sweet home		18v7:3,27ku:3,651v:3
+sweet home 3d	27ku	
+sweet home alabama	18v7,651v	
+sweet home alabama film	18v7	
+sweet home alabama motion picture	18v7	
+sweet home alabama movie	18v7	
+sweet home alabama song	651v	
+sweet intuition	5isw	
+sweet is the night	64uu	
+sweet j presents	4ep8	
+sweet kicks	1g7p	
+sweet kitty		46im:3,4pi3:3
+sweet kitty bellairs	46im,4pi3	
+sweet kitty bellairs 1916 film	4pi3	
+sweet kitty bellairs film	46im	
+sweet liberty	4yar	
+sweet matthew	1bp9	
+sweet meat	a0w	
+sweet meats	a0w	
+sweet memories	62xz	
+sweet memories lp	1zoa	
+sweet memories with girls generation	e4l	
+sweet michael	3qe3	
+sweet movie	z4d	
+sweet nancy	1cx5	
+sweet neo con	5lgq	
+sweet neo con song	5lgq	
+sweet neocon	5lgq	
+sweet niblets	6gbz	
+sweet november	1yrj	
+sweet november 2001 film	1yrj	
+sweet november 2001 film film	1yrj	
+sweet orange	358k	
+sweet oranges	358k	
+sweet pie	ab0	
+sweet plantain	4ijp	
+sweet roll	32to	
+sweet rosie		5wyb:4
+sweet rosie o		5wyb:4
+sweet rosie o grady	5wyb	
+sweet rush film	4trs	
+sweet sensation flo rida song	lzg	
+sweet sins of sexy susan	2wl8	2wl8:6
+sweet sixteen	3dgt	
+sweet sixteen 2002 film	3dgt	
+sweet sixteen basketball	c4q	
+sweet smell		1732:4
+sweet smell of		1732:4
+sweet smell of success	1732	
+sweet soul revue	11q2	
+sweet strawberries	4eol	
+sweet strawberries cast	4eol	
+sweet sweet song	5dwb	
+sweet swing	8vh	
+sweet talk bobby comstock song	1r3e	
+sweet valley		6h80:3
+sweet valley high	6h80	
+sweet vibrations album	4cd3	
+sweet victory	6aso	
+sweet water clifton	4z0k	
+tahuantinsuyu	2g0o	
+takeoprovince	1gmw	
+tatul		5la9:2
+tatul altunian	5la9	
+tatul altunyan	5la9	
+the donners company	u32	
+the driest continent	3j	
+the howard	27s5	
+the intoxication of the ulstermen	37de	
+the kate smith evening hour	671x	
+the mamore	4v0a	
+the mole		4kdc:3
+the mole people	4kdc	
+the mole people film	4kdc	
+the mole the mob and the meatball	4fqc	
+theodosian decree	1lm3	
+theodosian decrees	1lm3	
+thomas harold flowers	4td2	
+uitruuio	56xb	
+unguja dialect	emy	
+unguja tanzania	ldq	
+want some more	3e64	
+want to be starting something	5x93	
+want you mariah carey song	576p	
+waterway	2d5h	
+whalley	4yci	
+whalley bus station	4yci	
+whalley lancashire	4yci	
+whalley viaduct	4yci	
+wielen commune	15ed	
+wikiachievers sandbox	4wd7	
+willamis		2d6a:4
+willamis de		2d6a:4
+willamis de souza		2d6a:4
+willamis de souza silva	2d6a	
+willamis souza	2d6a	
+zandbergen	o0x	
+zobol province	17tf	
+zuelfue livaneli	4hp9	

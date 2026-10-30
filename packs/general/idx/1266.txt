@@ -1,0 +1,581 @@
+2256	tsn	
+a russell wallace	1983	
+aciii	1h60	
+ahmed		c5o:5,rji:2,14fy:2,18hr:5,1bh1:2,1c54:4,1plz:2,29v3:2,2vfo:2,2xho:2,331x:2,33hq:7,3g6c:2,3kd4:3,3s6j:2,3xls:2,3ybf:2,40sw:3,418u:3,45e4:2,46tk:2,4fhi:2,4gwv:3,4h32:2,4h87:2,4jid:2,4ksw:2,4kwh:2,4l4e:3,4mz4:3,4n5z:2,4nuw:3,4pko:2,4rvt:2,544o:5,57i2:2,57x0:2,591h:2,5dpr:3,5eiu:3,5hbr:4,5ide:3,5p1o:2,5q0s:3,5w2n:2,5w72:3,664e:4,66nu:3,67qj:2,6bgj:2
+ahmed aabad	31s	
+ahmed abou		4gwv:3
+ahmed abou moslem	4gwv	
+ahmed abou moslem comments	4gwv	
+ahmed aboutaleb	4n5z	
+ahmed agayev	5ash	
+ahmed ait		5eiu:3
+ahmed ait ouarab	5eiu	
+ahmed akaichi	4jid	
+ahmed al		40sw:3,6dwf:3
+ahmed al dossari	591h	
+ahmed al doukhi	591h	
+ahmed al jahawi	6dwf	
+ahmed al khadir	5p1o	
+ahmed al mahanjri	3ybf	
+ahmed al maktoum	18hr	
+ahmed al mansour ad dahbi	359p	
+ahmed al mansur al dhahabi	359p	
+ahmed al masli	40sw	
+ahmed al masly	40sw	
+ahmed al muhammadi	4fhi	
+ahmed al tayeb	53xg	
+ahmed al zuway	4ksw	
+ahmed apimah barusso	2xho	
+ahmed bahja	2vfo	
+ahmed balshe	3uad	
+ahmed baruso	2xho	
+ahmed barusso	2xho	
+ahmed beg zogu zog i	20tc	
+ahmed belal	4hpf	
+ahmed ben bella	20bx	
+ahmed benali	4vif	
+ahmed bey agaoglu	5ash	
+ahmed bey zogu	20tc	
+ahmed bin		c5o:5,18hr:5,33hq:7,544o:5
+ahmed bin abdul aziz	c5o	
+ahmed bin abdul aziz al saud	c5o	
+ahmed bin abdulaziz		c5o:5
+ahmed bin abdulaziz al		c5o:5
+ahmed bin abdulaziz al saud	c5o	
+ahmed bin saeed		18hr:5
+ahmed bin saeed al		18hr:5
+ahmed bin saeed al maktoum	18hr	
+ahmed bin salman	33hq	33hq:7
+ahmed bin salman bin		33hq:7
+ahmed bin salman bin abdul aziz	33hq	
+ahmed bin salman bin abdulaziz		33hq:7
+ahmed bin salman bin abdulaziz al		33hq:7
+ahmed bin salman bin abdulaziz al saud	33hq	
+ahmed bin zayed	544o	544o:5
+ahmed bin zayed al		544o:5
+ahmed bin zayed al nahyan	544o	
+ahmed bin zayed al nehayan	544o	
+ahmed bouziane	6504	
+ahmed cebe	60dy	
+ahmed cemal	4swo	
+ahmed cemal pasa	4swo	
+ahmed cemal pasha	4swo	
+ahmed davutoglu	40ho	
+ahmed deen	4h87	
+ahmed djemal	4swo	
+ahmed djemal pasha	4swo	
+ahmed dokhi	591h	
+ahmed dokhi al dosari	591h	
+ahmed dukhi al dosari	591h	
+ahmed eid		5hbr:4
+ahmed eid abd el malek	5hbr	
+ahmed eid abdel		5hbr:4
+ahmed eid abdel malek	5hbr	
+ahmed eid abdelmalek	5hbr	
+ahmed eissa el mohamadi abdel fattah	4fhi	
+ahmed eissa elmohamady abdel fattah	4fhi	
+ahmed el		5q0s:3
+ahmed el kass	5q0s	
+ahmed el mansour	359p	
+ahmed el masli	40sw	
+ahmed el mohamadi	4fhi	
+ahmed el mohamady	4fhi	
+ahmed el mohammady	4fhi	
+ahmed el muhammadi	4fhi	
+ahmed el tayeb	53xg	
+ahmed el tayyeb	53xg	
+ahmed el tayyib	53xg	
+ahmed elmohamady	4fhi	
+ahmed elrich	4qoq	
+ahmed elsayed ali elsayed hegazy	46tk	
+ahmed ertegun	2blp	
+ahmed fakhruddin ali	4eh8	
+ahmed farag	5ide	
+ahmed faraj el masli	40sw	
+ahmed fathi	29v3	
+ahmed fathi abdelmonem ahmed ibrahim	29v3	
+ahmed fathy	29v3	
+ahmed fouad	2xdv	
+ahmed fuad	16k3	
+ahmed h zewail	rji	
+ahmed hasan	67qj	
+ahmed hassam zewail	rji	
+ahmed hassan	1bh1	
+ahmed hassan footballer	1bh1	
+ahmed hassan zewail	rji	
+ahmed hassanein	4l4e	4l4e:3
+ahmed hassanein pasha	4l4e	
+ahmed hayel	5pnp	
+ahmed hayel ibrahim	5pnp	
+ahmed hegazi	46tk	
+ahmed hegazi footballer	46tk	
+ahmed helmi	4pko	
+ahmed helmy	4pko	
+ahmed hikmet	67qj	
+ahmed hossam	1qru	
+ahmed hossam mido	1qru	
+ahmed i	14fy	
+ahmed i bakhti	14fy	
+ahmed ibn hanbal	150g	
+ahmed ibn sirin	2wd0	
+ahmed ibrahim iraqi footballer	59im	
+ahmed ii	4h32	
+ahmed ii of turkey	4h32	
+ahmed iii	1plz	
+ahmed iii comments	1plz	
+ahmed ismail yassin	53du	
+ahmed jamal	j30	
+ahmed jamal s	j30	
+ahmed jassin	53du	
+ahmed kabbah	66nu	
+ahmed kabir	1wvf	
+ahmed kadhim assad	5sji	
+ahmed kantari	3xls	
+ahmed kanu	5jqs	
+ahmed karzai	5dpr	
+ahmed kemaleddin	5znf	
+ahmed khadr	5p1o	
+ahmed khalil	3g6c	
+ahmed khalil emirati footballer	3g6c	
+ahmed khalil sebait mubarak al junaibi	3g6c	
+ahmed lahori architect	6gwy	
+ahmed mahmoud zuway	4ksw	
+ahmed manajid	43qr	
+ahmed masli	40sw	
+ahmed merabet	5rs5	
+ahmed mido	1qru	
+ahmed mido hossam	1qru	
+ahmed mohamed hassanein	4l4e	
+ahmed mohamed shafik zaki	3s6j	
+ahmed mubarak	3ybf	
+ahmed mubarak al mahaijri	3ybf	
+ahmed muhtar		418u:3
+ahmed muhtar pasha	418u	
+ahmed mukhtar pasha	418u	
+ahmed musa	331x	
+ahmed musa footballer	331x	
+ahmed name	1bm	
+ahmed ouattara	45e4	
+ahmed ouattara footballer	45e4	
+ahmed ouattara ivorian footballer	45e4	
+ahmed ouyahia	6dls	
+ahmed pasha hassanein	4l4e	
+ahmed pasha son of the herzog	5b35	
+ahmed radhi	558u	
+ahmed rateb	4kwh	
+ahmed raza		1c54:4
+ahmed raza khan	1c54	1c54:4
+ahmed raza khan bareilvi	1c54	
+ahmed raza khan barelvi	1c54	
+ahmed reda		3kd4:3
+ahmed reda madouni	3kd4	
+ahmed rushdie	n5i	
+ahmed sa ad	5w72	
+ahmed saad		5w72:3
+ahmed saad osman	5w72	
+ahmed said	4rvt	
+ahmed said footballer	4rvt	
+ahmed said khadr	5p1o	
+ahmed salah		4nuw:3
+ahmed salah alwan	5351	
+ahmed salah hosni	4nuw	
+ahmed salah hosny	4nuw	
+ahmed salama	6ebw	
+ahmed salman rushdie	n5i	
+ahmed samir	5w2n	5ide:3
+ahmed samir farag	5ide	
+ahmed samir footballer born 1981	5w2n	
+ahmed sanjar	3q0n	
+ahmed sekou		4mz4:3
+ahmed sekou toure	4mz4	
+ahmed seku toure	4mz4	
+ahmed shabaan	xng	
+ahmed shafik	3s6j	
+ahmed shafiq	3s6j	
+ahmed shah qajar	2mha	
+ahmed sharbini	44yg	
+ahmed sukarno	16vx	
+ahmed tangeaoui	6bgj	
+ahmed tejan		66nu:3
+ahmed tejan kabbah	66nu	
+ahmed tewfik pasha	4bql	
+ahmed wali		5dpr:3
+ahmed wali karzai	5dpr	
+ahmed yahiaoui	57i2	
+ahmed yaseen	53du	
+ahmed yasin	53du,57x0	
+ahmed yasin footballer	57x0	
+ahmed yasin ghani	57x0	
+ahmed yassin	53du	
+ahmed zaki		664e:4
+ahmed zaki abu		664e:4
+ahmed zaki abu shadi	664e	
+ahmed zaki actor	3wgw	
+ahmed zaky abushady	664e	
+ahmed zaky actor	3wgw	
+ahmed zewail	rji	
+ahmed zog	20tc	
+ahmed zowail	rji	
+ahmed zuway	4ksw	
+alexander hilary kurtzman	1ask	
+alexander troynin	63pz	
+alize		2pjj:2
+alize cornet	2pjj	
+b739	jd8	
+babunski david	5bzh	
+barilius	1aic	
+bayi		189k:3,54o4:2,5yzn:2
+bayi army rockets	5yzn	
+bayi chaoneng	99x	
+bayi deers	5yzn	
+bayi district	54o4	
+bayi f t	189k	
+bayi fc	189k	
+bayi football		189k:3
+bayi football club	189k	
+bayi football team	189k	
+bayi rockets	5yzn	
+bayi shuanglu	5yzn	
+bayi shuanglu army rockets	5yzn	
+bayi shuanglu rockets	5yzn	
+bayi xiangtan	189k	
+bayi zhengbang	189k	
+belhifet	4b4i	
+bellezza di ippolita	3tkn	
+beura		4dc6:2
+beura cardezza	4dc6	
+bojnik	19kf	
+bojnik municipality	19kf	
+bouin	3dlv	3tdy:2
+bouin plumoison	3tdy	
+bouin vendee	3dlv	
+bronchogenic carcinoma	r1	
+bronchogenic lung adenocarcinoma	5lvo	
+chakwal	44rc	ivg:2
+chakwal city	44rc	
+chakwal city i	ivg	
+chakwal city ii	ivg	
+chakwal city iii	ivg	
+chakwal city iv	ivg	
+chakwal city v	ivg	
+chakwal district	ivg	
+chakwal industry	44rc	
+chakwal pakistan	44rc	
+chakwal tourism	ivg	
+charles kitridge	103b	
+charles kitridge iv	103b	
+charles kitridge thompson	103b	
+charles kitridge thompson iv	103b	
+churchmen	52r	
+dagonville	3q7t	
+dancin in the streets	3kyo	
+david jones	4euh,5bp2,5nzy,5sql,6ge2	
+david jones california assemblyman	696j	
+david jones director	1zbl	
+david jones footballer born 1984	4euh	
+david jones game developer	6ge2	
+david jones musician born 1947	3a9	
+david jones railway	5nzy	
+david jones rugby	5sql	
+david jones rugby player born 1881	5sql	
+david jones video game developer	6ge2	
+disciple	2ngb	
+disciple andrew	59r	
+disciple band	2ngb	
+disciple de jean de bruges hugues vander goes	3y63	
+disciple de raphael bologna	5eg2	
+disciple of christ	wwr	
+donky kong	11y0	
+effective awk programming	4pu8	
+effective molecular radius	1wg4	
+elstdordrecht		2yxq:2
+elstdordrecht railway	2yxq	
+enredo	how	
+eole		3yn5:3
+eole en		3yn5:3
+eole en beauce	3yn5	
+escurolles	1wtx	
+etz limon	4qvv	
+ewhat womans university	v2h	
+exudative discoid and lichenoid dermatitis	zm6	
+fadnis	5pys	
+fc pandurii targu jiu	6i1	
+filiates	4je0	4je0:2
+filiates greece	4je0	
+filiates municipality	4je0	
+filiates province	4je0	
+filips de goede	plq	
+filips de stoute	x3j	
+fitzsimmons steve	5zws	
+fleville	3fh4	1j8g:3,1l2n:2
+fleville devant		1j8g:3
+fleville devant nancy	1j8g	
+fleville lixieres	1l2n	
+freinds	bs9	
+frejus	cyh	2dzq:2
+frejus es	avp	
+frejus railway	2dzq	
+frejus var	cyh	
+galbiate	1gha	
+gende	2ot	
+ghrcw vane tempest	3x8d	
+gibbsian	u5t	
+gmina kepno	142o	
+gyeong yeong lee	2ix5	
+halich	2vbr	
+halich rus	k5w	
+halinghausen	2knq	
+halinghausen germany	2knq	
+hammonton	24iv	
+hammonton new jersey	24iv	
+hammonton nj	24iv	
+hammonton town atlantic county new jersey	24iv	
+hammonton town new jersey	24iv	
+haslen ai	3kym	
+haslen appenzell innerrhoden	3kym	
+heylandia	4vme	
+hinrich	syc	48j0:3,5gfv:3
+hinrich bitter		5gfv:3
+hinrich bitter suermann	5gfv	
+hinrich first name	syc	
+hinrich given name	syc	
+hinrich wilhelm		48j0:3
+hinrich wilhelm kopf	48j0	
+hluchov	3lww	
+hluchov prostejov district	3lww	
+horrorcore	n9z	
+horrorcore rap	n9z	
+horrorcore rap artists	n9z	
+inventions	4uev	
+jikev	30xj	
+jncis	38ky	
+jodhpore	d3j	
+joerg	5t0	
+joerg albertz	4oyc	
+joerg bergen	5yq6	
+joerg berger	5kzu	
+joerg boehme	3ypk	
+joerg butt	2mah	
+joerg buttgereit	65be	
+joerg haider	444o	
+joerg heinrich	1uir	
+joerg kirsten	5uql	
+joerg landvoigt	599l	
+joerg reeb	66nj	
+joerg scherbe	5c94	
+joerg schmidt reitwein	2hrs	
+joerg schwanke	3yyr	
+joerg stiel	5mwc	
+joerg tauss	5uw5	
+john spellman	6gdr	
+juaquin james malphurs	2kdj	
+juffr molenaer	1mwu	
+juffr molenaers	1mwu	
+kalavrita	2j4t	
+kalavrita greece	2j4t	
+kaundamani	rt9	
+koolanu	5jmw	
+kuritsyn alexander	4yit	
+kyrios phontenel	295j	
+la bosse	40ej	2b4n:4
+la bosse de		2b4n:4
+la bosse de bretagne	2b4n	
+la bosse loir et cher	1zz1	
+la bosse sarthe	40ej	
+la feliz	5zn	
+la giovinezza	11ud	
+lagaisse	3kn	
+lamelluncia	vf	
+landmarks		mif:4
+landmarks in coyoacan	1qhr	
+landmarks in liverpool	gn	
+landmarks of		mif:4
+landmarks of chicago	16vm	
+landmarks of christchurch		mif:4
+landmarks of christchurch dorset	mif	
+landscape	7qj	rm:2,5u6:2,9nq:4,1cry:4,2678:3,2igy:4,4cdl:4,5mro:6,699t:8
+landscape after		4cdl:4
+landscape after battle	4cdl	
+landscape after the		4cdl:4
+landscape after the battle	4cdl	
+landscape architect	5u6	
+landscape architects	5u6	
+landscape art	rm	
+landscape artist	rm	
+landscape artists	rm	
+landscape ecology nature conservation	4hb	
+landscape garden	1gx1	
+landscape gardener	5u6	
+landscape heraldry	yjk	
+landscape in		2igy:4
+landscape in the		2igy:4
+landscape in the mist	2igy	
+landscape in the snow	2678	
+landscape noon	5rvh	
+landscape painter	rm	
+landscape painting	rm	
+landscape paintings	rm	
+landscape park		9nq:4
+landscape park in		9nq:4
+landscape park in poland	9nq	
+landscape unit	97c	
+landscape visual arts	rm	
+landscape with		1cry:4,2678:3,5mro:6,699t:8
+landscape with a		699t:8
+landscape with a windmill		699t:8
+landscape with a windmill near		699t:8
+landscape with a windmill near a		699t:8
+landscape with a windmill near a town		699t:8
+landscape with a windmill near a town moat	699t	
+landscape with snow	2678	
+landscape with the		5mro:6
+landscape with the fall		5mro:6
+landscape with the fall of		5mro:6
+landscape with the fall of icarus	5mro	
+landscape with the fall of ikarus	5mro	
+landscape with two		1cry:4
+landscape with two nymphs	1cry	
+lazarists	1vdj	
+lazybones	5r2t	
+lazybones film	5r2t	
+le bocasse	2d90	
+legislators	10ad	
+liling	h9t	
+liling city	h9t	
+liling county	h9t	
+liling hunan	h9t	
+lofthus freeway	5pav	
+lovelace	1kat	44dx:2
+lovelace film	1kat	
+lovelace medal	44dx	
+luhrmann baz	1d6y	
+malrevers	38e9	
+manholas s son	1j4y	
+maurecourt	3181	
+maurecourt france	3181	
+maynooth	sdk,69xv	
+maynooth college	sdk	
+maynooth seminary	sdk	
+montvalezan	3u4m	
+namps		1969:2
+namps maisnil	1969	
+namps maisnil france	1969	
+nazist	g2j	
+nonpartisan	f32	2wav:7
+nonpartisan bloc		2wav:7
+nonpartisan bloc for		2wav:7
+nonpartisan bloc for cooperation		2wav:7
+nonpartisan bloc for cooperation with		2wav:7
+nonpartisan bloc for cooperation with the		2wav:7
+nonpartisan bloc for cooperation with the government	2wav	
+nonpartisan committee	f32	
+nonpartisan group	f32	
+nonpartisan politician	68l	
+nonpartisan primary	sg9	
+nonpartisan united states	f32	
+nortena	3k6q	
+obere		2qkd:2
+obere warnow	2qkd	
+obere wilhelmstrae swb	3jxa	
+oconus	qyh	
+ohlhauser	3qgg	
+omnicef	42y1	
+panj		2k3s:2
+panj darya	2k3s	
+panj river	2k3s	
+peasehill	1hud	
+peasehill derbyshire	1hud	
+pellafol	1wu2	
+peter fisher	2ynr	
+peter fisher photojournalist	2ynr	
+phenylephrine	4vdq	
+piebalgs	6dcr	
+racketeers		2d3h:3
+racketeers in		2d3h:3
+racketeers in exile	2d3h	
+rapidly intensifying	7kh	
+rauel romeva	4bwg	
+rauel romeva i rueda	4bwg	
+rauel romeva rueda	4bwg	
+rawez		5l54:2
+rawez lawan	5l54	
+richard russell		4yhg:3
+richard russell jr	4yhg	
+richard russell riordan	p3i	
+richard russell riordan jr	p3i	
+robert land	2c5v	
+rosshaupt	2zys	
+rurik	5zao	3za8:2,4u1w:2
+rurik dynasty	6ip	
+rurik gislason	4u1w	
+rurik ii	3za8	
+rurik ii of kiev	3za8	
+rurik ii rostislavich	3za8	
+rurik of novgorod	5zao	
+rurik rostislavich	3za8	
+rurik the viking	5zao	
+saint bartholemew	kvi	
+saint ceneri		2d3a:4
+saint ceneri le		2d3a:4
+saint ceneri le gerei	2d3a	
+saint ceneri pres sees	299k	
+saint juvat	28sn	
+samarra	q95	
+samarra archaeological city	q95	
+samarra iraq	q95	
+schasiura	18ao	
+schismope	1d02	
+shots		2wd9:4
+shots in		2wd9:4
+shots in threequarter		2wd9:4
+shots in threequarter time	2wd9	
+sinorail	858	
+snowberries	4ch9	
+sollentuna		f7w:2
+sollentuna kommun	f7w	
+sollentuna kontrakt	1by2	
+sollentuna municipality	f7w	
+spiratelli	1c7l	
+stevo		1wqi:2,5fiz:2,6h4j:2
+stevo milosevic	3k9m	
+stevo nikolic	5fiz	
+stevo pendarovski	6h4j	
+stevo zigon	1wqi	
+stoicho stoilov	695q	
+structual overload	13hh	
+stuntperson	7m8	
+sulcanux	cwu	
+tarbolton	5dgp	
+teritorial organistaion of the local self government of the republic of macedonia	e1h	
+tethys	b0r	
+tethys greek religion and mythology	b0r	
+tethys mythology	b0r	
+tethys titan	b0r	
+the cinncinati kid	1dtw	
+the sandinista	5mal	
+the wreck		3282:6
+the wreck of		3282:6
+the wreck of the		3282:6
+the wreck of the mary		3282:6
+the wreck of the mary deare	3282	
+the wreck of the mary deare film	3282	
+thomas midgley	5ae9	
+thomas midgley jr	5ae9	
+thomas wolsey	38pf	
+tiralongo	2vvb	
+transfomer	366a	
+trincomalie	195c	
+tumen il qagan	5hft	
+udaykumar	1qvi	
+uniandes	gjd	
+viudez	3n1l	
+viysko zaporozke	1r8j	
+william egerton		64wi:5
+william egerton 1st		64wi:5
+william egerton 1st baron		64wi:5
+william egerton 1st baron egerton	64wi	
+yr arglwydd rhys	3thc	
+yr wyddfa	2ffq	
+yr wyddfa fawr	2ffq	
+yr wyddgrug	58hx	
+zanclopseustis	19z8	

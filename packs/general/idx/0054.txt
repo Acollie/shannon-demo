@@ -1,0 +1,580 @@
+645 bce	2r7x	
+adenoma	6el8	
+adenoma of nipple	6el8	
+adenoma of the adrenal gland	6el8	
+adenoma prostate	5mul	
+adrian	18i,7gg,uxs,1jjr,1kpb	obd:2,rj5:2,v9s:2,w3j:2,x8y:2,12x4:2,14r5:2,1enm:2,1lxn:2,1pv5:2,1r1k:2,1r2s:2,1wfm:3,20qe:2,21x9:2,271d:2,27yc:2,2b5y:2,2bzh:2,2cav:2,2cqk:2,2fkh:2,2gs0:2,2h6k:2,2jrj:2,2l5m:2,2ur5:2,32ts:2,33n0:2,397l:2,3aja:2,3g0a:2,3ka4:2,3lkp:2,3q3y:2,3qtc:2,3qyt:2,3ts2:3,3tsj:2,3uiv:2,3vp0:2,3w4p:2,3zq3:2,40c5:2,42ac:2,43p3:2,44f0:3,44sx:2,452t:2,45qo:2
+adrian ade edmondson	rj5	
+adrian adolph greenberg	7gg	
+adrian albert mole	59q0	
+adrian aldrete	4sgd	
+adrian aliaj	452t	
+adrian alston	565q	
+adrian anthony lester	2h6k	
+adrian anthony madaschi	271d	
+adrian argacha	5a0j	
+adrian avalos	4qxc	
+adrian barbeau	zju	
+adrian belew	w3j	
+adrian berbia	33n0	
+adrian bica		6c2p:3
+adrian bica badan	6c2p	
+adrian biddle	v9s	
+adrian bird	4vq3	
+adrian bird geneticist	4vq3	
+adrian booth	2mq5	
+adrian borland	4x53	
+adrian boult	5esa	
+adrian branch	4f2t	
+adrian braweb	4v3o	
+adrian brody	ggx	
+adrian brooks	5zcv	
+adrian brouver	4v3o	
+adrian brunel	x8y	
+adrian bucurel ilie	3aja	
+adrian budka	5tc3	
+adrian bulldogs	5n3d	
+adrian bulldogs football	5n3d	
+adrian bulldogs men s basketball	5n3d	
+adrian bulldogs track and field	5n3d	
+adrian caceres	27yc	
+adrian cann	4s0m	
+adrian carton		4hwg:4
+adrian carton de		4hwg:4
+adrian carton de wiart	4hwg	
+adrian carton di wiart	4hwg	
+adrian cedric boult	5esa	
+adrian cedric boult ch	5esa	
+adrian charles edmondson	rj5	
+adrian chavez	3zq3	
+adrian chiles	6bcl	
+adrian chiles comments	6bcl	
+adrian chris	68nv	
+adrian city lenawee county mi	uxs	
+adrian city lenawee county michigan	uxs	
+adrian clarke	5z9v	
+adrian clarke footballer	5z9v	
+adrian clarkson	47os	
+adrian college	5n3d	
+adrian colunga	2jrj	
+adrian colunga perez	2jrj	
+adrian composer 1480 1562 willaert	48rj	
+adrian coote	5b4m	
+adrian coria	40c5	
+adrian costume designer	7gg	
+adrian cristea	4f13	
+adrian cruz	4zh7	
+adrian cuneo	2bzh	
+adrian czornomaz	1r1k	
+adrian d smith	5t4t	
+adrian d smith s o m	5t4t	
+adrian dantley	2cav	
+adrian darnell griffin	3uiv	
+adrian de vries	5g8i	
+adrian de wiart	4hwg	
+adrian delano dantley	2cav	
+adrian doorbal	1f6w	
+adrian dulcea	5i1x	
+adrian dumitru popa	3qtc	
+adrian dunbar	21x9	
+adrian edgar douglas	1nin	
+adrian edgar douglas 1st baron adrian of cambridge	1nin	
+adrian edmondson	rj5	
+adrian edmonson	rj5	
+adrian edmundson	rj5	
+adrian edu	5n3d	
+adrian eduardo fernandez	2b5y	
+adrian enescu footballer	4b5v	
+adrian ezequiel cirigliano	56n0	
+adrian f m smith	6033	
+adrian falub	5byn	
+adrian fenty	5ucx	
+adrian fernandez	2b5y	
+adrian fernandez footballer	2b5y	
+adrian first name	18i	
+adrian florin pit	5kkm	
+adrian forbes	68sn	
+adrian foster	45qo	
+adrian foster footballer	45qo	
+adrian francis branch	4f2t	
+adrian frederick melhuish smith	6033	
+adrian fries	5g8i	
+adrian frutiger	4pf3	
+adrian garcia		3ts2:3
+adrian garcia arias	3ts2	
+adrian george mitchell	3ka4	
+adrian given name	18i	
+adrian gonzalez	2l5m,4i7q,5w62	
+adrian gonzalez footballer	2l5m	
+adrian gonzalez morales	2l5m	
+adrian greenburg	7gg	
+adrian grenier	1r2s	
+adrian grennier	1r2s	
+adrian griffin	3uiv	
+adrian gula	5rfy	
+adrian gustavo fernandez	2b5y	
+adrian hayes	4moy	
+adrian heath	4m9n	
+adrian hernan gonzalez	5w62	
+adrian hewett	2fkh	
+adrian hope brunel	x8y	
+adrian hoven	obd	
+adrian howard smith	47pb	
+adrian iencsi	4atq	
+adrian ilie	3aja	
+adrian ilie footballer	3aja	
+adrian iordache	43p3	
+adrian iv	5irk	
+adrian ivanitchi	5296	
+adrian ivanitzki	5296	
+adrian ivanitzky	5296	
+adrian james clarke	5z9v	
+adrian johan boudewijn sirks	62qy	
+adrian johann frutiger	4pf3	
+adrian johnston	12x4	
+adrian johnston musician	12x4	
+adrian jonathan smith	6b9w	
+adrian kayvan pasdar	1lxn	
+adrian kirzner schwartz	1enm	
+adrian knup	4sue	
+adrian kunz	59yz	
+adrian leijer	4xqk	
+adrian lester	2h6k	
+adrian leverkuhn	4f5f	
+adrian little nicky	r8i	
+adrian littlejohn	4c74	
+adrian lopez	1wfm	1wfm:3
+adrian lopez alvarez	1wfm	
+adrian lopez footballer born 1988	1wfm	
+adrian lopez forward	1wfm	
+adrian lucero	5fq9	
+adrian luna	4v2f	
+adrian lyne	4twi	
+adrian m fenty	5ucx	
+adrian maben	1xaw	
+adrian madaschi	271d	
+adrian mahia	44sx	
+adrian malik fenty	5ucx	
+adrian margaret piper	3g0a	
+adrian margaret piper smith	3g0a	
+adrian margaret smith piper	3g0a	
+adrian marius stoian	4xl9	
+adrian markus	5chg	
+adrian martin		44f0:3
+adrian martin cardona	44f0	
+adrian martinez	397l	
+adrian martinez mexican footballer	397l	
+adrian matei	64mn	
+adrian matei footballer	64mn	
+adrian max	50mf	
+adrian maxwell sherwood	2gs0	
+adrian messenger	1h77	
+adrian mi	uxs	
+adrian mi micropolitan statistical area	n2t	
+adrian mi msa	n2t	
+adrian mi sa	n2t	
+adrian michigan	uxs	
+adrian michigan micropolitan area	n2t	
+adrian mierzejewski	4ral	
+adrian mihalcea	2cqk	
+adrian mike	3d9l	
+adrian mitchell	3ka4	
+adrian mitchell frsl	3ka4	
+adrian mole	59q0	59q0:3
+adrian mole series	59q0	
+adrian mrowiec	52tz	
+adrian mutu	1pv5	
+adrian nastase	6ae7	
+adrian nathan	3w7w	
+adrian neaga	42ac	
+adrian newey	14r5	
+adrian nicholas matthews thaws	1zzy	
+adrian nicolas luna	4v2f	
+adrian nikci	4swf	
+adrian olivares	10yd	
+adrian p bird	4vq3	
+adrian paluchowski	6ado	
+adrian pasdar	1lxn	
+adrian pasdar comments	1lxn	
+adrian patulea	4tps	
+adrian paul	2fkh	
+adrian paul ghislain carton de wiart	4hwg	
+adrian paul hewett	2fkh	
+adrian paunescu	3w4p	
+adrian paz	5agu	
+adrian peter		4vq3:3
+adrian peter bird	4vq3	
+adrian pettigrew	672q	
+adrian piper	3g0a	
+adrian pit	5kkm	
+adrian pitu	45u7	
+adrian popa	3qtc	
+adrian popa footballer born 1988	3qtc	
+adrian popescu	6bng	
+adrian pukanych	58wt	
+adrian ramos	32ts	
+adrian randall	697d	
+adrian rawlins	3lkp	
+adrian reid	6584	
+adrian ricchiuti	3tsj	
+adrian rodrigues	5woi	
+adrian romero	5ebu	
+adrian roosevelt mike	3d9l	
+adrian ropotan	4adn	
+adrian ross	3q3y	
+adrian s mole	4z1e	
+adrian samir darosi	4img	
+adrian savin gonzalez	4i7q	
+adrian scarlatache	4zcx	
+adrian scott	3vp0	
+adrian seba		4v2f:3
+adrian seba rey	4v2f	
+adrian serioux	5379	
+adrian shaw	6eam	
+adrian shaw footballer	6eam	
+adrian shelley	2pgk	
+adrian shelly	2pgk	
+adrian sherwood	2gs0	
+adrian shuvo	5teg	
+adrian shuvoo	5teg	
+adrian sir boult	5esa	
+adrian smith	20qe,47pb,5t4t,6033	
+adrian smith academic	6033	
+adrian smith architect	5t4t	
+adrian smith basketball	47pb	
+adrian smith statistician	6033	
+adrian sosnovschi	3qyt	
+adrian sosnovski	3qyt	
+adrian sosnovsky	3qyt	
+adrian spyrka	5q7a	
+adrian stoian	4xl9	
+adrian stojan	4xl9	
+adrian suar	1enm	
+adrian swire	6065	
+adrian sylvester littlejohn	4c74	
+adrian thawes	1zzy	
+adrian thaws	1zzy	
+adrian trinidad	69tg	
+adrian tucker	5tv9	
+adrian turnebus	3c3q	
+adrian valentic	6cmq	
+adrian vandenberg	5os5	
+adrian viveash	60vz	
+adrian voiculet	68kx	
+adrian vries	5g8i	
+adrian wallis	13ig	
+adrian webster	2ur5	
+adrian webster footballer born 1980	2ur5	
+adrian whitbread	68en	
+adrian willaert	48rj	
+adrian willaert comments	48rj	
+adrian williams	5emp	
+adrian willrt	48rj	
+adrian wozniczka	5gja	
+aegam	5744	
+alceris	4ig	
+altndag	pop	
+altndag ankara	pop	
+avelgem	5mvw	
+avelgem belgium	5mvw	
+avtomobilist		8r1:2
+avtomobilist ekaterinburg	8r1	
+avtomobilist engels	2uva	
+avtomobilist kokand	50xq	
+avtomobilist krasnoyarsk	5fh	
+avtomobilist noginsk	2ox9	
+avtomobilist shortandy	dlk	
+avtomobilist sverdlovsk	3z49	
+avtomobilist yekaterinburg	8r1	
+avtomobilist zhytomyr	vxk	
+ballam park p s	160q	
+ballam park primary school	160q	
+be2	893	
+bellaphon	48ml	
+bellaphon records	48ml	
+benney	1qbe	
+bifrenaria	39aw	
+bigelow free public library	1wtb	
+bigelow john	5exd	
+bigelow rice hall wesleyan	5d1	
+bigelow sky survey	xgm	
+bilardo	2nhg	
+biophysics	1wt0	
+bognor	o5v	ks0:5,o5v:2
+bognor ontario	48xt	
+bognor regis	o5v	ks0:5
+bognor regis town	ks0	ks0:5
+bognor regis town f		ks0:5
+bognor regis town f c	ks0	
+bognor regis town fc	ks0	
+bognor regis town football club	ks0	
+bognor regis west sussex	o5v	
+bognor sussex	o5v	
+bognor west sussex	o5v	
+bohopol	3c7y	
+callosa		1n02:3,2v8j:4
+callosa d		2v8j:4
+callosa d en		2v8j:4
+callosa d en sarria	2v8j	
+callosa de		1n02:3
+callosa de ensarria	2v8j	
+callosa de segura	1n02	
+calpurnii	1zkz	
+calpurnii pisones	1zkz	
+chandrasekhar subrahmanyan	r78	
+charles grosvenor	5ivr	
+cisjordanie	ojf	
+cixi		3tlb:2
+cixi city	3tlb	
+cixi county	3tlb	
+cixi empress	615b	
+cixi ningbo	3tlb	
+cixi zhejiang	3tlb	
+commerzbank	19bo	19bo:2
+commerzbank ag	19bo	
+commerzbank aktiengesellschaft	19bo	
+cypselidae	c59	
+diced meat	14pv	
+diencephalons	6fbv	
+earra ghaidheal	23u7	
+ebnj	mlg	
+elevating machines	4lc0	
+enkaku sosa shinjitsu e no 23 nichikan	35ah	
+enkaku sousa	35ah	
+ennoble	c6a	
+fc international	q3k	q3k:5
+fc international curtea		q3k:5
+fc international curtea de		q3k:5
+fc international curtea de arges	q3k	
+fc international pitesti	q3k	
+fc international turku	c3c	
+fc onezhets petrozavodsk	5qpq	
+fc shakhter	7x4	7x4:3
+fc shakhter ispat karmet	7x4	
+fc shakhter karaganda	7x4	
+fc shakhter karagandy	7x4	
+fc shakhter mezhdurechensk	69mz	
+fc shakhter prokopyevsk	1hcq	
+fc shakhter stalinogorsk	k13	
+fibers doc	57fs	
+gemeentelijke universiteit	1rn	
+gemeentelijke universiteit van amsterdam	1rn	
+george mackinnon	5cb2	
+ghanti	8ez	
+grimmen	3cpo	
+grizzliescoach	70r	
+guardialombarda	1tn4	
+hashemites	hux	
+hashemites of jordan	hux	
+hendrikus andreas kuiper	1hrg	
+hendrikus petrus berlage	2wgl	
+hoebridge	86j	
+holbein	z50	
+holbein d a	36xy	
+holbein d j	z50	
+jaggayya	orx	
+jaggayya actor	orx	
+jaggayya telugu actor	orx	
+james macie	2tv5	
+john brion	10w0	
+kamistaitusset	56kj	
+kinski paganini	4y0u	
+kinski paganini film	4y0u	
+komyo	4lx5	
+komyo kogo	4lx5	
+koutala messinia	ghw	
+koutala messinia greece	ghw	
+kruijswijk steven	2hf6	
+ksi	52x	
+kunnakkudi vaidyanathan	5eko	
+laatokan karjala	37jc	
+lalongue	28qc	
+lamprengc	bc6	
+leninogorsk district	7cw	
+leninogorsk kazakhstan	1b0m	
+liesl	1fah	2k3x:2,59q3:2
+liesl and po	4ow9	
+liesl dorothy tesch	59q3	
+liesl first name	1fah	
+liesl given name	1fah	
+liesl karlstadt	2k3x	
+liesl tesch	59q3	
+lycaenidae	3ah	
+mazaricos	2ils	
+mazaricos a coruna	2ils	
+moislains	1xxc	
+mystery	1j6	vg:2,1j6:2,106c:2,1706:2,19dy:5,1cm6:4,1fr7:2,1nyn:3,2imo:2,382k:2,3hdl:2,3x09:2,4oqy:6,5845:2,5qxq:2,67jw:5
+mystery alaska	1fr7	
+mystery at lilac inn		6gnf:5
+mystery auction	266t	
+mystery book	1j6	
+mystery books	1j6	
+mystery date	5845	
+mystery detectives	2wzd	
+mystery disc	5qxq	
+mystery dungeon	3hdl	
+mystery evanescence song	ydl	
+mystery fiction	1j6	
+mystery film	vg	
+mystery films	vg	
+mystery genre	1j6	
+mystery in london	2539	
+mystery inc	2svd,65zf	
+mystery incorporated	2svd	
+mystery jets	3x09	
+mystery literature	1j6	
+mystery me	3vfn	
+mystery men	1706	
+mystery men film	1706	
+mystery mountain	2imo	
+mystery mountain film	2imo	
+mystery mountain serial	2imo	
+mystery movie	vg	
+mystery movies	vg	
+mystery novel	1j6	
+mystery novels	1s8	
+mystery of		19dy:5,1nyn:3,67jw:5
+mystery of betty bonn	3xul	3xul:5
+mystery of dante	5t94	5t94:4
+mystery of edwin drood	2v27	2v27:5,3q0c:5,6ggw:5
+mystery of edwin drood film	6ggw	
+mystery of mamo	1nyn	
+mystery of mew	1q9t	
+mystery of the		19dy:5,67jw:5
+mystery of the batwoman	2k83	
+mystery of the leaping fish	6cg2	6cg2:6
+mystery of the marie celeste	5izn	5izn:6
+mystery of the mary celeste	5izn	
+mystery of the red		67jw:5
+mystery of the red jungle	67jw	
+mystery of the third planet	4r49	4r49:6
+mystery of the wax		19dy:5
+mystery of the wax museum	19dy	
+mystery of the wax museum film	19dy	
+mystery of the yellow room	3vsh	3vsh:6,4o1s:6
+mystery of wax museum	19dy	
+mystery of you	2cku	
+mystery science		1cm6:4,4oqy:6
+mystery science theater	1cm6	1cm6:4,4oqy:6
+mystery science theater 3000	1cm6	4oqy:6
+mystery science theater 3000 i accuse my parents	6351	
+mystery science theater 3000 the		4oqy:6
+mystery science theater 3000 the movie	4oqy	
+mystery science theater 3000 the return	1cm6	
+mystery science theater 3k	1cm6	
+mystery science theatre 3000	1cm6	
+mystery squadron	6481	6481:3
+mystery story	1j6	
+mystery street	382k	
+mystery television	1j6	
+mystery train	106c	
+mystery train film	106c	
+mystery writer	1j6	
+nationale des constructions aeronautiques du sud est sncase	4yd3	
+nationale maatschappij der belgische spoorwegen	68r	
+nationale maatschappij der belgische spoorwegen societe nationale des chemins de fer belges	68r	
+nationale nederlanden donar	i1r	
+nationale roads in france	rt4	
+nationale volksarmee	5mda	
+nightmare	2tk2,51ah,550a	1w1o:2,3wex:2,4zc5:2
+nightmare 1942 film	550a	
+nightmare 1964 film	51ah	
+nightmare alley	1w1o	
+nightmare alley 1947 film	1w1o	
+nightmare alley 1947 movie	1w1o	
+nightmare alley film	1w1o	
+nightmare before christmas	1hs2	1hs2:4
+nightmare city	3wex	
+nightmare detective	4zc5	
+nightmare island	159w	
+nightmare japanese band	2tk2	
+nightmare king	42my	
+nightmare land	42my	
+nightmare on elm	1bxg	
+nightmare on elm st	1bxg	
+nightmare on elm st 2	2fj5	
+nightmare on elm st 3	1g6k	
+nightmare on elm street	1bxg	
+nightmare on elm street 2	2fj5	
+nightmare on elm street 2 freddy s revenge	2fj5	
+nightmare on elm street 2010 film	1btm	
+nightmare on elm street 3	1g6k	
+nightmare on elm street 3 dream warriors	1g6k	
+nightmare on elm street 4	1fzs	
+nightmare on elm street 4 the dream master	1fzs	
+nightmare on elm street 5	28b4	
+nightmare on elm street 5 the dream child	28b4	
+nightmare on elm street 6	1yen	
+nightmare on elm street companion	1bxg	
+nightmare on elm street part 4	1fzs	
+nightmare on elm street part 5	28b4	
+nightmare on elm street part v	28b4	
+nightmare on elms street	1bxg	
+nightmare police	4ezj	
+nightmare vacation	5b42	
+nkao	1h26	
+nuptial crown	j0h	
+nyasaland national football team	ayg	
+osegueda	4iso	
+palmitia	qw7	
+parislille		1fln:2
+parislille railway	1fln	
+paul freiberger	4jb3	
+plouguernevel	2462	
+polliat	1axd	
+porata	2q10	
+rannee	vji	
+reillon	2hdn	
+romhild	3348	
+rotmk	6gv3	
+sarzeau	299v	
+shikhali		5b7w:2
+shikhali gurbanov	5b7w	
+shiyanov	597b	
+skill	3r3y	
+skill based competition	107q	
+skill based game	107q	
+skill based prize competition	107q	
+skill game	107q	
+snellius	45a4	
+sobor building	3w3	
+sorradile	30si	
+sparklehorse	5kia	
+spiraea	5vvs	
+srb variable	44f2	
+studentenverbindungen	6cd5	
+sumuud of mongolia	3mq	
+tennoji	50nr	50nr:2
+tennoji ku	50nr	
+tennoji ku osaka	50nr	
+tennoji osaka	50nr	
+tennoji ward	50nr	
+the coldstream guards	4uc3	
+the oracle corporation	5ww	
+the oracle newspaper	5ss	
+the oracle of omaha	1aui	
+the oracle sully erna album	1mbq	
+thi4f	5fpb	
+thomas dossevi	3nit	
+thorasine	cat	
+umu	20pm	
+vaour	1pt0	
+vaugrigneuse	2pfx	
+wajima	526r	
+wajima ishikawa	526r	
+wassyl slipak	2tyb	
+waynes world 2	1643	
+wegrow	37s8	198k:2
+wegrow county	198k	
+westlich		1cv9:3
+westlich raron	1cv9	1cv9:3
+westlich raron district	1cv9	
+william baumol	4f4u	
+wordperfect colnago decca	a3k	
+wordperfect cycling team	a3k	
+xinhui		2l9t:2
+xinhui county	2l9t	
+xinhui district	2l9t	
+yandeks	r2a	
+yovan ristich	4ts7	
+zla krev	1ce6	

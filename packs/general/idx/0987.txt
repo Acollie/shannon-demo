@@ -1,0 +1,956 @@
+75080	nm9	
+a skeleton in the closet	5srs	
+a sound		1mkt:4
+a sound of		1mkt:4
+a sound of thunder	1mkt	
+a sound of thunder film	1mkt	
+a sound of thunder movie	1mkt	
+abiko	289y	
+abiko chiba	289y	
+abiko japan	289y	
+acidanthera	285p	
+agora	2lw6	
+agora 2009 film	2lw6	
+agora athens	4gzx	
+agora film	2lw6	
+agora mission	y9t	
+agora movie	2lw6	
+agora of athens	4gzx	
+agora open air museum of izmir	2ec1	
+agora science center	3fq1	
+aimo		4ocf:2
+aimo diana	4ocf	
+aimo stefano diana	4ocf	
+alburnoides	2wk4	
+alpiglen	c88	
+aranghel	tpb	
+autechaux	3ixi	
+ayas	kz0,252p	
+ayas ankara	kz0	
+ayas aosta valley	252p	
+ayas district	kz0	
+ayas italy	252p	
+balingen	tye	
+balingen comments	tye	
+barsaat	67l6	
+barsaat 1949 film	67l6	
+barsaat 1949 movie	67l6	
+beaupre alice jernigan and unger	2c5u	
+beaverdams ontario	29l1	
+bellybutton	7xd	
+bishojo senshi sailor moon	1jh9	
+bishojo senshi sera mun	1jh9	
+bollullos		2bsz:4,452g:4
+bollullos de		2bsz:4
+bollullos de la		2bsz:4
+bollullos de la mitacion	2bsz	
+bollullos de la mitacion sevilla	2bsz	
+bollullos de la mitacion seville	2bsz	
+bollullos de la mitacion spain	2bsz	
+bollullos par		452g:4
+bollullos par del		452g:4
+bollullos par del condado	452g	
+bollullos par del condado huelva	452g	
+bollullos par del condado spain	452g	
+bryniarski	3gzr	
+bryniarski andrew	3gzr	
+bumffichh	18lw	
+calpurnius piso	1zkz	
+canada	g	3oi:4,5sz:7,amu:9,e27:6,o4r:4,pgd:3,18yd:8,25z9:4,2t7k:5,4fdi:3,4u2r:3,4v0l:7,563j:2,5a3c:9,5awz:4
+canada cabinet	1e82	
+canada captives held in guantanamo	1by1	
+canada council molson prize	dqf	
+canada de		4u2r:3
+canada de gomez	4u2r	
+canada del		4fdi:3
+canada del hoyo	4fdi	
+canada department of transport	204i	
+canada dollar	3e1s	
+canada dollars	3e1s	
+canada election 2015	3phs	
+canada elections 2015	3phs	
+canada english	mvy	
+canada federal election	yfw	
+canada federal election 2015	3phs	
+canada food network	206h	
+canada gairdner		3oi:4
+canada gairdner international		3oi:4
+canada gairdner international award	3oi	
+canada gairdner wightman award	51eg	
+canada general election 2015	3phs	
+canada government	15sr	
+canada green party	4ry6	
+canada historic site	245	
+canada in the news	g	
+canada lee	563j	
+canada liberal party	j0	
+canada library association book of the year for children award	5yw5	
+canada life premier league	1f9i	
+canada low single	1t6g	
+canada masters	mmn	
+canada men		amu:9
+canada men s		amu:9
+canada men s national		amu:9
+canada men s national association football team	303	
+canada men s national soccer team	303	
+canada men s national under		amu:9
+canada men s national under 17		amu:9
+canada men s national under 17 association		amu:9
+canada men s national under 17 association football		amu:9
+canada men s national under 17 association football team	amu	
+canada men s national under 17 soccer team	amu	
+canada men s national under 20 soccer team	5sz	
+canada men s national under17 soccer team	amu	
+canada men s national youth soccer teams	amu	
+canada mens national soccer team	303	
+canada military	dkd	
+canada minister of finance	4xh8	
+canada minister of foreign affairs	3nwy	
+canada national		5sz:7,25z9:4,2t7k:5
+canada national association football team	303	
+canada national badminton		25z9:4
+canada national badminton team	25z9	
+canada national challenge cup	2ygh	
+canada national historic site	245	
+canada national men s soccer team	303	
+canada national rugby		2t7k:5
+canada national rugby union		2t7k:5
+canada national rugby union team	2t7k	
+canada national soccer team	303	
+canada national under		5sz:7
+canada national under 20		5sz:7
+canada national under 20 association		5sz:7
+canada national under 20 association football		5sz:7
+canada national under 20 association football team	5sz	
+canada national under 20 football team	5sz	
+canada national under 21 rugby union team	2t7k	
+canada national women s soccer team	e27	
+canada new democratic party	4rt	
+canada order	689e	
+canada parliament	1oa2	
+canada people	6gas	
+canada portal	g	
+canada prime minister	css	
+canada prime ministers	css	
+canada province	ug1	
+canada rocky mountains	cri	
+canada rugby team	2t7k	
+canada rugby tours	2t7k	
+canada rugby union team	2t7k	
+canada rugby union tours	2t7k	
+canada s	g	o4r:4,pgd:3,5awz:4
+canada s aboriginal peoples	6hea	
+canada s air force	e1z	
+canada s charter of rights and freedoms	h3u	
+canada s governor general	dlb	
+canada s historic places	1cms	
+canada s landforms	69kf	
+canada s largest		o4r:4
+canada s largest weathervane	o4r	
+canada s minister of state of foreign affairs	3nwy	
+canada s national parks	rs7	
+canada s parliament	1oa2	
+canada s wonderland	pgd	
+canada s worst		5awz:4
+canada s worst driver	5awz	
+canada s worst driver series	5awz	
+canada tower	2c9s	
+canada u 17 women s national soccer team	5a3c	
+canada u 20 men s national soccer team	5sz	
+canada under 20 women s national football team	18yd	
+canada under 20 women s national soccer team	18yd	
+canada votes 2015	3phs	
+canada voting 2015	3phs	
+canada west	ug1	
+canada women		e27:6,18yd:8,4v0l:7,5a3c:9
+canada women s		e27:6,18yd:8,4v0l:7,5a3c:9
+canada women s national		e27:6,18yd:8,4v0l:7,5a3c:9
+canada women s national rugby		4v0l:7
+canada women s national rugby union		4v0l:7
+canada women s national rugby union team	4v0l	
+canada women s national soccer		e27:6
+canada women s national soccer team	e27	
+canada women s national under		18yd:8,5a3c:9
+canada women s national under 17		5a3c:9
+canada women s national under 17 association		5a3c:9
+canada women s national under 17 association football		5a3c:9
+canada women s national under 17 association football team	5a3c	
+canada women s national under 17 football team	5a3c	
+canada women s national under 17 soccer team	5a3c	
+canada women s national under 19 soccer team	18yd	
+canada women s national under 20		18yd:8
+canada women s national under 20 soccer		18yd:8
+canada women s national under 20 soccer team	18yd	
+canada women s national under 23 soccer team	e27	
+canada women s soccer team	e27	
+canada womens soccer team	e27	
+canada wonderland	pgd	
+caprivi cabinet	3unp	
+caprivi de caprera de montecuccoli	3unp	
+caprivi georg leo graf von	3unp	
+caprivi region	45rd	
+caprivi strip itenge	45rd	
+cardizen la	41g8	
+chabala david	415s	
+charisagum	20vh	
+charles fitzgerald		4rtq:5
+charles fitzgerald 1st		4rtq:5
+charles fitzgerald 1st baron		4rtq:5
+charles fitzgerald 1st baron lecale	4rtq	
+chongqingbei railway station	36ho	
+churbanov	51v5	
+conca		jpq:3,1vza:3,49oi:3,5rep:2
+conca casale	5rep	
+conca de		jpq:3,1vza:3
+conca de barbera	jpq	
+conca de dalt	1vza	
+conca della		49oi:3
+conca della campania	49oi	
+covek nije tica	51ni	
+czenstochowa	7pa	
+dambach	1sjb	1upt:3
+dambach bas rhin	1sjb	
+dambach france	1sjb	
+dambach la		1upt:3
+dambach la ville	1upt	
+dashboard		263b:2
+dashboard confessional	263b	
+dashboard confessionals	263b	
+dashboard google account service	2ma	
+david earl of huntingdon	22c7	
+david earl of northesk	5dzp	
+dornceaster	hgt	
+encyclopedic	45y	66nc:2
+encyclopedic dictionary	66nc	
+fajolles	2jmn	
+fathertede	v2v	
+fc sibur khimik dzerzhinsk	6p3	
+film	c,2t2u,2uvt	29:2,63:2,dq:2,xe:2,1l8:2,36e:2,4bv:2,4o3:2,6op:2,6xj:2,7yr:2,8gl:6,az0:2,fas:2,k1e:5,let:4,ser:2,4j6a:12,5a9f:2,5z6q:3
+film 4	1fou	
+film action	9b	
+film actor	k	
+film actres	t6t	
+film actress	k	
+film adaptation	dq	
+film adaption	dq	
+film and		8gl:6,4j6a:12
+film and literature the case of crime fiction	a4	
+film and television		8gl:6
+film and television institute		8gl:6
+film and television institute of		8gl:6
+film and television institute of india	8gl	
+film and television institute of tamil nadu	1re5	
+film and television institute of tamil nadu ftit	1re5	
+film and television production manager	6xj	
+film and tv		4j6a:12
+film and tv school		4j6a:12
+film and tv school of		4j6a:12
+film and tv school of the		4j6a:12
+film and tv school of the academy		4j6a:12
+film and tv school of the academy of		4j6a:12
+film and tv school of the academy of performing		4j6a:12
+film and tv school of the academy of performing arts		4j6a:12
+film and tv school of the academy of performing arts in		4j6a:12
+film and tv school of the academy of performing arts in prague	4j6a	
+film archive	5h0	
+film archive cinematheque	erx	
+film archives	5h0	
+film archives cinematheque	erx	
+film artist	6xj	
+film award	6op	
+film black	1l8	
+film board of canada	3di	
+film booking		k1e:5
+film booking office	k1e	
+film booking office of america	k1e	
+film booking offices	k1e	k1e:5
+film booking offices of		k1e:5
+film booking offices of america	k1e	
+film career of cary grant	ard	
+film censorship in iran	66ja	
+film cinematography	eyk	
+film com	62ol	
+film composer	7yr	
+film creation process	6xj	
+film d amore e d anarchia ovvero stamattina alle 10 in via dei fiori nella nota casa di tolleranza	18sl	
+film d art	8cm	
+film directing	29	
+film direction	29	
+film director	29	
+film directors	29	
+film distribution company	az0	
+film distributor	az0	
+film district	3dvj	
+film documentary	6w	
+film essay	15d	
+film exhibitor	rb	
+film extra	6hkh	
+film festival	xe	
+film festival of venice	eos	
+film festivals	xe	
+film four	1fou	
+film franchise	36e	
+film genre	4o3	
+film genres	4o3	
+film genres doc	4o3	
+film i		5z6q:3
+film i vaest	5z6q	
+film i vast	5z6q	
+film independent		let:4
+film independent s spirit awards	let	
+film independent spirit		let:4
+film independent spirit award	let	
+film independent spirit awards	let	
+film industry	fas	
+film johnnie	2x6n	
+film library	erx	
+film lighting	eyk	
+film making	6xj	
+film music	7yr	
+film musical	el	
+film musicals	el	
+film noir	1l8	
+film noire	1l8	
+film noirs	1l8	
+film notebook	u6g	
+film notebooks	u6g	
+film on 4	1fou	
+film on four	1fou	
+film or stage actor	k	
+film pilot	aif	
+film premier	7z7	
+film premiere	7z7	
+film producer	63	
+film producers	63	
+film producing	63	
+film production	6xj	
+film production company	4bv	
+film production skills	6xj	
+film propaganda	2uo	
+film resistors	5sv5	
+film rites	rgv	
+film roman	5a9f	
+film roman inc	5a9f	
+film roman productions	5a9f	
+film school	ser	
+film school generation	758	
+film schools	ser	
+film score	7yr,2t2u	
+film score composer	7yr	
+film score composers	7yr	
+film scores	7yr	
+film script	2ztk	
+film scripts	2ztk	
+film sequel	6h1o	
+film series	36e	
+film shoot	6xj	
+film short	c6	
+film songs	36m8	
+film soundtrack of independence day 1996 film	8gq	
+film sountrack	g07	
+film studio	4bv	
+film studios	4bv	
+film sub genre	4o3	
+film technique	6d1d	
+film techniques	6d1d	
+film theatre	rb	
+film trilogy	4wq1	
+film university of lodz	2c6k	
+film university of odz	2c6k	
+film version	dq	
+film villain	28t7	
+flood	ao5,mu6,5680	
+flood 2006 film	5680	
+flood 2007 film	5680	
+flood anthony	5six	
+flood bank	5laz	
+flood bible	1p3d	
+flood control dam	he	
+flood damage	ao5	
+flood disaster	ao5	
+flood film	5680	
+flood hydrology	ao5	
+flood live in australia	e8i	
+flood producer	mu6	
+flood record producer	mu6	
+flood tide	4slp	
+flood tool song	6gmp	
+frederick viii		3iun:6
+frederick viii duke		3iun:6
+frederick viii duke of		3iun:6
+frederick viii duke of schleswig		3iun:6
+frederick viii duke of schleswig holstein	3iun	
+frederick viii duke of schleswig holstein sonderburg augustenburg	3iun	
+frederick viii of denmark	r5x	
+frederick viii of schleswig and holstein	3iun	
+frederick viii of schleswig holstein	3iun	
+gauchao	5wyw	
+gavray	1f6l	
+gejite	4lg5	
+gmina chelmno	1abx	
+gmina rojewo	wx8	
+goeppert mayer	1lol	
+goeppert mayer maria	1lol	
+goodeniaceae	6bp6	
+gorbio	3n5x	
+goussonville	2ghz	
+guesalaz	23xc	23xc:2
+guesalaz gesalatz	23xc	
+heidingsfeld	2ei	
+i kalpiki lira	4k6a	
+imperium		3poy:2
+imperium augustus	3poy	
+imperium graecum	1nl	
+imperium nero	2d6d	
+imperium romanum	ex	
+imperium romanum sacrum	5na	
+imperium silver crystal	58ob	
+imperium sine fine	ex	
+imperium the philosophy of history and politics	4u0q	
+irumagawa saitama	2xok	
+ityca	2pq2	
+iyyov	6ftu	
+james bagian	4o9c	
+javid		zc1:5,5jes:2
+javid dune	6g3l	
+javid e		zc1:5
+javid e mahuri	zc1	zc1:5
+javid e mahuri rural		zc1:5
+javid e mahuri rural district	zc1	
+javid huseynov	5jes	
+jean leon	75f	75f:3
+jean leon gerome	75f	
+jean leon jaures	16bb	
+john barrasso	5urs	
+kalaburgi	5ztk	18ha:2
+kalaburgi district	18ha	
+la linea	15by,3yl6	15by:5
+la linea 2008 film	3yl6	
+la linea de		15by:5
+la linea de la		15by:5
+la linea de la concepcion	15by	
+la linea de la concepcion cadiz	15by	
+la linea de la concepcion spain	15by	
+la linea film	3yl6	
+la linea spain	15by	
+lambdas	3uz	
+lazer	3m2e	
+lazer hautes alpes	3m2e	
+lazer tron	4yto	
+le corps		103t:5
+le corps de		103t:5
+le corps de mon		103t:5
+le corps de mon ennemi	103t	
+liptako	4tq4	
+maria antonia		pft:4,sqr:6,1cmd:5,232w:4
+maria antonia archduchess of austria	jeo	
+maria antonia bourbon of two sicilies	ts9	
+maria antonia de braganca	12tv	
+maria antonia di spagna	pft	
+maria antonia farkas	18p5	
+maria antonia ferdinanda	pft	
+maria antonia ferdinanda of spain	pft	
+maria antonia garcia vidal de santo silas	zxu	
+maria antonia josefa johanna von habsburg lothringen	jeo	
+maria antonia josepha johanna	jeo	
+maria antonia kohary	40wx	
+maria antonia kohary de csabrag	40wx	
+maria antonia of		pft:4,sqr:6,232w:4
+maria antonia of austria	232w	
+maria antonia of austria 1669 1692	232w	
+maria antonia of bavaria	1cmd	
+maria antonia of bourbon two sicilies	ts9	
+maria antonia of naples		sqr:6
+maria antonia of naples and		sqr:6
+maria antonia of naples and sicily	sqr	
+maria antonia of portugal	1hty	
+maria antonia of spain	pft	
+maria antonia walpurga	1cmd	
+maria antonia walpurgis	1cmd	1cmd:5
+maria antonia walpurgis of		1cmd:5
+maria antonia walpurgis of bavaria	1cmd	
+medfeild	2u3s	
+meillet	2o2w	
+michael mcglinchey	45xp	
+morey	32i5	2i0t:2,4126:3
+morey amsterdam	2i0t	
+morey saint		4126:3
+morey saint denis	4126	
+morey st denis	4126	
+mormonia	4jn	
+muniforward	bll	
+munshiganj	13bg	13bg:2
+munshiganj district	13bg	
+munshiganj zila	13bg	
+mysteres	l28	
+mysteres de lisbonne	42tg	
+mysteres de paris	xxy	
+nai dilli	14u	
+nai khanom tom	6gut	
+nai pridi phanomyong	57yf	
+nblnz	q2z	
+neopets inc	3jg	
+nonnegative integer	2rq	
+nonnegative integers	2rq	
+ohatsu	65e9	
+ohatsu no kata	65e9	
+opernredoute	5qr4	
+ozan	3g15	
+ozan ain	3g15	
+paul mccloskey jr	3hed	
+pende	2mhy	
+pomarance	2an8	
+princess changshan	6f5x	
+recale	3lhb	
+richard parker life of pi	61al	
+richard parker tiger	61al	
+saccolongo	37xd	
+saint withburga	5fnr	
+saneev	4iuk	
+sarpuza prison	6d12	
+sarszentmihaly	60vj	
+seedbed publishing	1ytp	
+sentlenart	4wwk	
+shfar am	4r20	
+shijounawate	5rft	
+sigri storrada	107e	
+slavdom	3p9c	
+smartones skate america	130z	
+spirochloe	1uvt	
+stezzano	2e52	
+superjet 100	3hpx	
+tankman series	4bej	
+tattooer	11gj	
+teishoku	jnw	
+thalmus		44ec:2
+thalmus rasulala	44ec	
+the burmese		4iva:3
+the burmese harp	4iva	
+the burmese harp 1956 film	4iva	
+thespectrum com	aj2	
+tietsjerksteradeel	gw1	
+troarn	1gaa	
+usairways	1dbo	
+usf4	1wnc	
+venialbo	4jrx	
+venialbo spain	4jrx	
+venialbo zamora	4jrx	
+vicuron pharmaceuticals	19yh	
+vilemov	1wdh,39yt,45wx	
+vilemov chomutov district	39yt	
+vilemov havlickuv brod district	1wdh	
+vilemov olomouc district	45wx	
+vite	736	
+vite de piu eccellenti pittori scultori ed architettori	736	
+vite strozzate	45zt	
+washington	2c,as,bqs,z3w,13vb,1d3j,221t,43fw	2c:3,rn:2,172:5,22f:2,2nx:3,2xi:2,3ji:3,3yi:4,40g:2,4xj:5,6ub:4,835:2,9gi:2,adh:2,ay7:2,bn8:2,bzu:7,c17:2,ch9:2,doz:2,fmf:2,i5r:2,jw8:2,kf2:2,klg:2,m08:2,oyb:5,oys:2,pfi:2,rkw:2,sr0:2,vxd:2,y3p:2,z4v:2,zde:2,10ge:2,12if:2,15j0:4,18gz:6,19nk:3,19yv:2,1c0b:3,1cg3:2,1dgk:2,1gcs:2,1gga:2,1h51:2,1lt1:2,1p4d:5,1qa4:5
+washington abreu	1a29	
+washington agricultural college	2nx	
+washington agricultural football	6ub	
+washington allston	5fbt	
+washington allston comments	5fbt	
+washington alston	5fbt	
+washington and		3yi:4,bzu:7
+washington and jefferson	3ji	
+washington and lee		3yi:4,bzu:7
+washington and lee college	3yi	
+washington and lee law school	bzu	
+washington and lee school of law	bzu	
+washington and lee u	3yi	
+washington and lee university	3yi	bzu:7
+washington and lee university historic district	3yi	
+washington and lee university law school	bzu	
+washington and lee university school		bzu:7
+washington and lee university school of		bzu:7
+washington and lee university school of law	bzu	
+washington bartlett	5yuv	
+washington bullets	2xi	
+washington c h oh	1y1y	
+washington c h ohio	1y1y	
+washington camacho	4mwq	
+washington capitals	22f	
+washington capitals aba	vi8	
+washington capitals captains	22f	
+washington capitols	1cg3	
+washington capitols basketball	1cg3	
+washington capitols nba	1cg3	
+washington caps basketball	vi8	
+washington cathedral	19nk	
+washington cesar		29gk:3
+washington cesar santos	29gk	
+washington ch oh	1y1y	
+washington ch ohio	1y1y	
+washington charles	3hk6	
+washington city metro	c17	
+washington city pennsylvania	bqs	
+washington co al	1h51	
+washington co alabama	1h51	
+washington coliseum	6hbi	
+washington college	klg	4y41:4
+washington college connecticut	5jr	
+washington college maryland	klg	
+washington college of		4y41:4
+washington college of law	4y41	
+washington college of law at american university	4y41	
+washington college shoremen	klg	
+washington college shoremen baseball	klg	
+washington college shoremen basketball	klg	
+washington college shoremen football	klg	
+washington colliery	5xme	
+washington colliery f c	5xme	
+washington commanders	rn	
+washington county	835,9gi,adh,bn8,ch9,i5r,jw8,kf2,m08,oys,rkw,sr0,vxd,zde,10ge,12if,19yv,1dgk,1gcs,1h51,1w42,1x9a,2bcv,2iy8,2p2p,2r0v,35nl,3zsb,49go	
+washington county al	1h51	
+washington county alabama	1h51	
+washington county ar	adh	
+washington county arkansas	adh	
+washington county co	2p2p	
+washington county colorado	2p2p	
+washington county durham	13vb	
+washington county fl	49go	
+washington county florida	49go	
+washington county ga	2r0v	
+washington county georgia	2r0v	
+washington county ia	zde	
+washington county id	3zsb	
+washington county idaho	3zsb	
+washington county il	12if	
+washington county illinois	12if	
+washington county in	oys	
+washington county indiana	oys	
+washington county iowa	zde	
+washington county kansas	1gcs	
+washington county kentucky	35nl	
+washington county ks	1gcs	
+washington county ky	35nl	
+washington county maine	9gi	
+washington county maryland	i5r	
+washington county massachusetts	9gi	
+washington county md	i5r	
+washington county me	9gi	
+washington county minnesota	kf2	
+washington county mississippi	19yv	
+washington county missouri	1x9a	
+washington county mn	kf2	
+washington county mo	1x9a	
+washington county ms	19yv	
+washington county ne	2bcv	
+washington county nebraska	2bcv	
+washington county new york	rkw	
+washington county ny	rkw	
+washington county oh	ch9	
+washington county ohio	ch9	
+washington county ok	1w42	
+washington county oklahoma	1w42	
+washington county or	bn8	
+washington county oregon	bn8	
+washington county pa	835	
+washington county pennsylvania	835	
+washington county rhode island	10ge	
+washington county ri	10ge	
+washington county school district florida	49go	
+washington county tennessee	1dgk	
+washington county texas	2iy8	
+washington county tn	1dgk	
+washington county tx	2iy8	
+washington county ut	sr0	
+washington county utah	sr0	
+washington county utah territory	sr0	
+washington county va	vxd	
+washington county vermont	m08	
+washington county virginia	vxd	
+washington county vt	m08	
+washington county wi	jw8	
+washington county wisconsin	jw8	
+washington court		1y1y:3
+washington court house	1y1y	
+washington court house oh	1y1y	
+washington court house oh micropolitan statistical area	19jx	
+washington court house oh sa	19jx	
+washington court house ohio	1y1y	
+washington court house ohio micropolitan area	19jx	
+washington courthouse	1y1y	
+washington courthouse oh	1y1y	
+washington courthouse ohio	1y1y	
+washington crossfire	1gga	
+washington d		2c:3,5wwz:12
+washington d c	2c	5wwz:12
+washington d c amtrak station	1c0b	
+washington d c area		5wwz:12
+washington d c area film		5wwz:12
+washington d c area film critics		5wwz:12
+washington d c area film critics association		5wwz:12
+washington d c area film critics association award		5wwz:12
+washington d c area film critics association award for		5wwz:12
+washington d c area film critics association award for best		5wwz:12
+washington d c area film critics association award for best supporting		5wwz:12
+washington d c area film critics association award for best supporting actress	5wwz	
+washington d c mayor	13sm	
+washington d c navy yard	3qb9	
+washington d c station	1c0b	
+washington d c station amtrak	1c0b	
+washington d c station vre	1c0b	
+washington d c subway	c17	
+washington d c union station	1c0b	
+washington d c zoo	5t6	
+washington darts	4avw	
+washington darts 1967 71	4avw	
+washington dc	2c	
+washington dc hirshhorn museum and sculpture garden	sdx	
+washington dc mall	4jzi	
+washington dc metro	c17	
+washington dc naval yard	3qb9	
+washington dc navy yard	3qb9	
+washington dc subway	c17	
+washington department of highways	4xj	
+washington department of transportation	4xj	
+washington diplomats	doz	
+washington dips	doz	
+washington dulles	2mmv	2mmv:4
+washington dulles airport	2mmv	
+washington dulles int l airport	2mmv	
+washington dulles international		2mmv:4
+washington dulles international airport	2mmv	
+washington durham	13vb	
+washington f		5xme:3
+washington f c	5xme	
+washington fc	5xme	
+washington fernando camacho	4mwq	
+washington fernando camacho martinez	4mwq	
+washington football team	rn	
+washington footballer	2w3t	
+washington freedom	pfi	
+washington freedom wps	pfi	
+washington ga	1d3j	
+washington georgia	1d3j	
+washington grover jr	1oh1	
+washington hall of stars	2vxe	
+washington heights	4vrc	
+washington heights 168th street ind eighth avenue line	4ztp	
+washington heights 168th street new york city subway	4ztp	
+washington heights eighth avenue and church street line	1jf3	
+washington heights line	1jf3	
+washington heights manhattan	4vrc	
+washington heights new york city	4vrc	
+washington heights168th street ind eighth avenue line	4ztp	
+washington high school north carolina	z3w	
+washington high school pennsylvania	bqs	
+washington highway department	4xj	
+washington highways	5mb	
+washington iad	2mmv	
+washington in	221t	
+washington in micropolitan statistical area	vwk	
+washington in msa	vwk	
+washington in sa	vwk	
+washington indiana	221t	
+washington indiana micropolitan area	vwk	
+washington institute in saint louis	172	
+washington irving	z4v	
+washington islands	133w	
+washington jefferson	3ji	3ji:3
+washington jefferson academy	3ji	
+washington jefferson arts series	3ji	
+washington jefferson college	3ji	
+washington jefferson university	3ji	
+washington lee	3yi	
+washington lee generals men s basketball	3yi	
+washington lee law school	bzu	
+washington lee school of law	bzu	
+washington lee university	3yi	
+washington lee university school of law	bzu	
+washington lee university school of law scholarly commons	bzu	
+washington luiz		1p4d:5,24a8:4
+washington luiz mascarenhas		24a8:4
+washington luiz mascarenhas silva	24a8	
+washington luiz pereira		1p4d:5
+washington luiz pereira dos		1p4d:5
+washington luiz pereira dos santos	1p4d	
+washington m bartlett	5yuv	
+washington marine group	4dhm	
+washington maryland	2vix	
+washington memorial	1lt1	
+washington metro	c17	
+washington metro area transit authority	9v7	
+washington metro area transport authority	9v7	
+washington metro area transportation authority	9v7	
+washington metro system	c17	
+washington metropolitan area transit authority	9v7	
+washington metropolitan area transport authority	9v7	
+washington metropolitan area transportation authority	9v7	
+washington metropolitan transportation authority	9v7	
+washington metrorail	c17	
+washington metrorail safety commission	c17	
+washington missouri	43fw	
+washington mo	43fw	
+washington montgomery bartlett	5yuv	
+washington monument	1lt1	
+washington monument district of columbia	1lt1	
+washington mystics	ay7	
+washington mystics navbox	ay7	
+washington national	2ojh	19nk:3
+washington national airport	2ojh	
+washington national cathedral	19nk	
+washington national cathedral choir	19nk	
+washington national monument	1lt1	
+washington nationals	40g	
+washington nationals 1884	40g	
+washington nationals 21st century	40g	
+washington nationals baseball club	40g	
+washington nationals roster	40g	
+washington nationals senators 1901 1960	1g4	
+washington nationals sports	40g	
+washington nats	40g	
+washington naval yard	3qb9	
+washington navy		3qb9:3
+washington navy yard	3qb9	
+washington navy yard district of columbia	3qb9	
+washington nc	z3w	
+washington nc micropolitan statistical area	2bx8	
+washington nc msa	2bx8	
+washington nc sa	2bx8	
+washington new town	13vb	
+washington nfl team	rn	
+washington non partisan	f32	
+washington north carolina	z3w	
+washington north carolina micropolitan area	2bx8	
+washington oh msa	19jx	
+washington oh sa	19jx	
+washington ohio	1y1y	
+washington olivera	31eg	
+washington open	y3p	24ya:3
+washington open tennis	y3p	
+washington open women	24ya	
+washington pa	bqs	
+washington parish	32gz	
+washington parish burial ground	6vm	
+washington parish la	32gz	
+washington parish louisiana	32gz	
+washington park elmhurst illinois	kke	
+washington park zoo	h8m	
+washington pennsylvania	bqs	
+washington pennsylvania city	bqs	
+washington phillips	4iw4	
+washington phillips and his manzarene dreams	4iw4	
+washington phillips songs	4iw4	
+washington post	15fm	15fm:3
+washington post online	15fm	
+washington reagan	2ojh	
+washington redskin	rn	
+washington redskins	rn	
+washington redskins doc	rn	
+washington redskins ring of fame	rn	
+washington redskins sandbox	rn	
+washington roberto		5wg1:5
+washington roberto mariano		5wg1:5
+washington roberto mariano da		5wg1:5
+washington roberto mariano da silva	5wg1	
+washington roberto mariano silva	5wg1	
+washington ronald reagan airport	2ojh	
+washington s isles	5uvf	
+washington s legislative districts	15j0	
+washington santana	51az	51az:4
+washington santana da		51az:4
+washington santana da silva	51az	
+washington senators	19n	
+washington senators 1960 1971	19n	
+washington senators 19601971	19n	
+washington senators 1961 1971	19n	
+washington senators 1961 71	19n	
+washington senators 19611971	19n	
+washington senators 196171	19n	
+washington senators expansion	19n	
+washington sentinels	1jpr	
+washington shoremen	klg	
+washington shoremen men s soccer	klg	
+washington shorewomen	klg	
+washington speakers bureau	30er	
+washington spirit	fmf	
+washington square	3njz	
+washington square film	3njz	
+washington square music	al7	
+washington st	2nx	
+washington star international	y3p	
+washington state		2nx:3,4xj:5,6ub:4,15j0:4,18gz:6
+washington state comments	as	
+washington state cougars		6ub:4,18gz:6
+washington state cougars american football	6ub	
+washington state cougars basketball	18gz	
+washington state cougars football	6ub	
+washington state cougars football team	6ub	
+washington state cougars men		18gz:6
+washington state cougars men s		18gz:6
+washington state cougars men s basketball	18gz	
+washington state department		4xj:5
+washington state department of		4xj:5
+washington state department of transportation	4xj	
+washington state dept of transportation	4xj	
+washington state dot	4xj	
+washington state football	6ub	
+washington state highway commission	4xj	
+washington state highways	5mb	
+washington state legislative		15j0:4
+washington state legislative districts	15j0	
+washington state normal school at bellingham	1bqe	
+washington state normal school at cheney historic district	48my	
+washington state roads	5mb	
+washington state route	5mb	
+washington state routes	5mb	
+washington state s	2nx	
+washington state time	bj	
+washington state transportation commission	4xj	
+washington state u	2nx	
+washington state university	2nx	
+washington state university at pullman	2nx	
+washington state university band	2nx	
+washington state university cougar fight song	2nx	
+washington state university foundation	2nx	
+washington station marc	1c0b	
+washington stecanela		2w3t:3
+washington stecanela cerqueira	2w3t	
+washington stecanelo cerqueira	2w3t	
+washington terminal district	1c0b	
+washington territorial university	o6	
+washington times	ozo	ozo:3
+washington township alameda county ca	81p	
+washington township alameda county california	81p	
+washington township mercer county new jersey	2y1c	
+washington township mercer county nj	2y1c	
+washington tyne and wear	13vb	
+washington tyne wear railway station	13vb	
+washington u	172	
+washington u s state	as	
+washington union		1c0b:3
+washington union station	1c0b	
+washington union station comments	1c0b	
+washington univ	172	
+washington university	172	172:5,oyb:5,1qa4:5
+washington university at saint louis	172	
+washington university at st louis	172	
+washington university department of orthopaedic surgery	1qa4	
+washington university global studies law review	oyb	
+washington university in		172:5
+washington university in saint louis	172	
+washington university in st		172:5
+washington university in st louis	172	
+washington university in st louis school of law	oyb	
+washington university in st louis school of medicine	1qa4	
+washington university journal of law	oyb	
+washington university journal of law and policy	oyb	
+washington university jurisprudence review	oyb	
+washington university law	oyb	
+washington university law school	oyb	
+washington university medical school	1qa4	
+washington university school		oyb:5,1qa4:5
+washington university school of		oyb:5,1qa4:5
+washington university school of law	oyb	
+washington university school of medicine	1qa4	
+washington university st louis	172	
+washington warthogs	23w3	
+washington washington county pennsylvania	bqs	
+washington whips	4azl	
+washington wiz	2xi	
+washington wizards	2xi	
+william hervey allen	4txe	
+wribbenhall	2gqf	
+wuenheim	32ex	
+zloties	4fev	

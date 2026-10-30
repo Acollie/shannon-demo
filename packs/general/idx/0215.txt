@@ -1,0 +1,435 @@
+1795 1820 costume	xfz	
+1795 1820 in fashion	xfz	
+1795 1820 in western fashion	xfz	
+acsteszer	5p86	
+albertus	19lh,1g0m	19lh:2,51ou:3,5wxx:3
+albertus carlier	5f7p	
+albertus colonensis	19lh	
+albertus coloniensis	19lh	
+albertus de		5wxx:3
+albertus de bollstadt	19lh	
+albertus de colonia	19lh	
+albertus de harder	5bn9	
+albertus de saxonia	5wxx	
+albertus durer	d10	
+albertus first name	1g0m	
+albertus given name	1g0m	
+albertus grotus	19lh	
+albertus lavingensis	19lh	
+albertus magnus	19lh	
+albertus parvus	5wxx	
+albertus susanto		51ou:3
+albertus susanto njoto	51ou	
+albertus teutonicus	19lh	
+albertus universitat	5hu	
+albertus universitat konigsberg	5hu	
+albertus university	5hu	
+albertus university of konigsberg	5hu	
+albertus von haller	15nr	
+alexander anatolevich volkov	39my	
+amigas	1mx	
+anepischetos	msa	
+antwerplage zwaluwe railway	3e15	
+austroottoman war	5phe	
+authored	59	
+avasarala srinivas	4eb3	
+bacchantes		3ajv:2
+barrundia	1z8w	
+brigida		4mov:2
+brigida haraldsdotter	4mov	
+budowlanych housing estate	10f9	
+calestano	43mx	
+calestano italy	43mx	
+cartes	4hwa	
+catarbelana	4ckp	
+chaignay	1nuw	
+chippeway	65zu	
+chonburi	vrv,1wan	9qw:3,438y:5
+chonburi blue		438y:5
+chonburi blue wave	438y	438y:5
+chonburi blue wave futsal		438y:5
+chonburi blue wave futsal club	438y	
+chonburi bluewave futsal club	438y	
+chonburi city	1wan	
+chonburi f		9qw:3
+chonburi f c	9qw	
+chonburi f c seasons	9qw	
+chonburi fc	9qw	
+chonburi fc seasons	9qw	
+chonburi province	vrv	
+chonburi province fc	9qw	
+cites et ruines americaines mitla palenque izamal chichen itza uxmal	3f9x	
+clivia	cml	
+confidential		1wub:2
+confidential agent	1wub	
+confidential agent film	1wub	
+confidential report	1hkc	
+cuttooth	6glh	
+dinaric		a2u:2
+dinaric alps	a2u	
+dinaric mountains	a2u	
+diogenes	4asg	2wu0:3,4asg:3
+diogenes de sinope	4asg	
+diogenes of		2wu0:3,4asg:3
+diogenes of babylon	2wu0	
+diogenes of sinope	4asg	
+diogenes sinopensis	4asg	
+diogenes the babylonian	2wu0	
+diogenes the cynic	4asg	
+diogenes the dog	4asg	
+diogenes the stoic	2wu0	
+diplocoma	2t0b	
+dungeonkeeper	6c2u	
+duzdab	45yo	
+ekstra bladet cup	1bxu	
+ekstra die antwoord ep	4ctv	
+exitos eternos celia cruz album	1m9s	
+faveria	5zng	
+faverney	28u9	
+fc cafe opera	arn	
+fc cafe opera djursholm	arn	
+fc dobrudzha 1919	bqz	
+fc dobrudzha dobrich	bqz	
+flag	1sb	s5l:3,3tn3:3,4kw5:5,4n5u:3,5be6:5,5cp6:7,5hht:3,5xgy:5,657c:4,687o:3,6a6p:3,6baj:3,6cy6:4,6ec5:3
+flag adjutant	5yxg	
+flag and coat of arms of wallachia	588s	
+flag city usa	mag	
+flag day bonaire	qxn	
+flag flying days in the united kingdom	28h2	
+flag lieutenant	5kth	
+flag note	6fc0	
+flag of		s5l:3,3tn3:3,4kw5:5,4n5u:3,5be6:5,5cp6:7,5hht:3,5xgy:5,657c:4,687o:3,6a6p:3,6baj:3,6cy6:4,6ec5:3
+flag of a nation	46k	
+flag of afghanistan	6a6p	
+flag of aosta valley	5c7	
+flag of australia	4n5u	
+flag of brazil	s5l	
+flag of british empire	5be6	
+flag of brooklyn park mn	3j9f	
+flag of burnaby	6tj	
+flag of caribbean netherlands	657c	
+flag of castilla la mancha	not	
+flag of city of hammond in	dzl	
+flag of croatia	687o	
+flag of early modern france	3tn3	
+flag of emirate of abu dhabi	4sdz	
+flag of france	3tn3	
+flag of french indochina	3tn3	
+flag of galena illinois	2yna	
+flag of genoa	10k	
+flag of hamilton bermuda	b18	
+flag of holland	657c	
+flag of hordaland	8yr	
+flag of individual olympic athletes	5amj	
+flag of kingdom of france early modern	3tn3	
+flag of maori	6cy6	
+flag of mercia	12el	
+flag of moldavian ssr	5cp6	
+flag of mozambique	5hht	
+flag of netherlands	657c	
+flag of new		6cy6:4
+flag of new zealand	6cy6	
+flag of new zeland	6cy6	
+flag of nz	6cy6	
+flag of olsztyn	9ey	
+flag of papau new guinea	5xgy	
+flag of papua		5xgy:5
+flag of papua and new guinea	5xgy	
+flag of papua new		5xgy:5
+flag of papua new guinea	5xgy	
+flag of pljevlja	x5z	
+flag of png	5xgy	
+flag of principality of sealand	3yoc	
+flag of samoa	6baj	
+flag of santa fe new mexico	45f	
+flag of savoie	38ah	
+flag of savoy	38ah	
+flag of sealand	3yoc	
+flag of soviet moldavia	5cp6	
+flag of stjrdal	k8m	
+flag of tallahassee fl	1hu	
+flag of the		4kw5:5,5be6:5,5cp6:7,657c:4
+flag of the african national congress	47z	
+flag of the australian antarctic territory	4n5u	
+flag of the batavian republic	657c	
+flag of the caribbean netherlands	657c	
+flag of the commonwealth games federation	2o9j	
+flag of the french republic	3tn3	
+flag of the isles of scilly	1fbc	
+flag of the kingdom of the netherlands	657c	
+flag of the moldavian		5cp6:7
+flag of the moldavian soviet		5cp6:7
+flag of the moldavian soviet socialist		5cp6:7
+flag of the moldavian soviet socialist republic	5cp6	
+flag of the moldavian ssr	5cp6	
+flag of the mssr	5cp6	
+flag of the netherlands	657c	
+flag of the organization of petroleum exporting countries	6h9m	
+flag of the president of romania	24go	
+flag of the pridnestrovian moldavian ssr	6ec5	
+flag of the principality of sealand	3yoc	
+flag of the two sicilies	1cyr	
+flag of the u s	4kw5	
+flag of the u s a	4kw5	
+flag of the uk	5be6	
+flag of the unified team	2o2o	
+flag of the united		4kw5:5,5be6:5
+flag of the united kingdom	5be6	
+flag of the united kingdom of great britain and northern ireland	5be6	
+flag of the united states	4kw5	
+flag of the united states of america	4kw5	
+flag of the usa	4kw5	
+flag of the zanzibar sultanate	san	
+flag of transnistria	6ec5	
+flag of two sicilies	1cyr	
+flag of uk	5be6	
+flag of united kingdom	5be6	
+flag of united kingdom of great britain and ireland	5be6	
+flag of us	4kw5	
+flag of usa	4kw5	
+flag of western samoa	6baj	
+flag of zlotoryja	2yyq	
+flag of zotoryja	2yyq	
+flag officer medway	xqh	
+flag officer medway and admiral superintendent	xqh	
+flag officer medway and port admiral	xqh	
+flag raising ceremony	1sb	
+flag sandbox	1sb	
+flag scientology	3ox4	
+flag testcases	1sb	
+florimond ronger	3b9p	
+forst	x1a	x1a:2
+forst film	oww	
+forst lausitz	x1a	
+forst lusatia	x1a	
+fulbert	5zxy	5zxy:3
+fulbert bishop of chartres	5zxy	
+fulbert de chartres	5zxy	
+fulbert of		5zxy:3
+fulbert of chartres	5zxy	
+garthog	1b0h	
+gemeentelijk vervoerbedrijf	2xa6	
+gianpiero		53ko:2,5g68:2
+gianpiero albertini	12q1	
+gianpiero marini	5g68	
+gianpiero piovani	53ko	
+gmina bieliny	1ngi	
+gmina chojnow	rm5	
+gmina poniec	1497	
+gusterita	6pv	
+haguel	446t	
+haloenzyme	ab	
+hanabilites	40mm	
+haugland	5jvw	
+haugland name	5jvw	
+haugland surname	5jvw	
+heirophant the magic	5a1s	
+henry bolte	5vtl	
+hidiyatullin	3xzo	
+higashikanto expressway	37p3	
+hindoos	u56	
+horry		ydq:2
+horry county	ydq	
+horry county sc	ydq	
+horry county south carolina	ydq	
+idlewild	1dep,2e6i	
+idlewild band	1dep	
+idlewild film	2e6i	
+idlewild recordings	e8i	
+ipod		44td:2
+ipod city	t9l	
+ipod phone	s5i	
+ipod touch	44td	
+ipod touch 1st gen	44td	
+ipod touch 2g	44td	
+ipod touch 2nd gen	44td	
+ipod touch 2nd generation	44td	
+ipod touch 3	44td	
+ipod touch 4th generation	44td	
+ipod touch first generation	44td	
+ipod touch original	44td	
+ipod updater	24nh	
+kanadawa	7v1	
+kanadawa isikawa	7v1	
+keijo	fv	5vex:2
+keijo erik keke rosberg	202s	
+keijo erik rosberg	202s	
+keijo huusko	5vex	
+keijo rosberg	202s	
+keijo south korea	fv	
+khadija	1n7t	1us2:3
+khadija al kubra	1us2	
+khadija bint		1us2:3
+khadija bint khuwaylid	1us2	
+khadija islamic figure	1us2	
+khadija maalin	44fu	
+khadija name	1n7t	
+khadija the great	1us2	
+khouzestan	1ex	
+kirow	blb	
+kokovsoff	6663	
+koslin	a9t	
+kumayri	650	
+la boiselle	1717	
+la tor de querol	3qr6	
+la tor de querol enveig	5pv4	
+la tor de querol railway station	5pv4	
+lancram	2oer	
+le cres	2bft	
+lezhe	1gsm	1z2h:2,2myc:2
+lezhe county	2myc	
+lezhe county new	2myc	
+lezhe district	1z2h	
+lirrbox	cv4	
+maddsandbarry sandbox	252o	
+madhuri		i4d:2
+madhuri dikshit	i4d	
+madhuri dixir	i4d	
+madhuri dixit	i4d	
+madhuri dixit nene	i4d	
+madhuri mukherjee	69bt	
+malung	5dxp	138q:3
+malung court district	5dxp	
+malung municipality	138q	
+malung salen		138q:3
+malung salen municipality	138q	
+malung salens kommun	138q	
+maria aurora		50t3:4
+maria aurora count of konigsmark	50t3	
+maria aurora countess von konigsmark	50t3	
+maria aurora koenigsmarck	50t3	
+maria aurora konigsmarck	50t3	
+maria aurora of koenigsmarck	50t3	
+maria aurora of konigsmarck	50t3	
+maria aurora von		50t3:4
+maria aurora von konigsmarck	50t3	
+matee		4th2:2
+matee ajavon	4th2	
+mecfs	4t65	
+mesenzana	53p8	
+minicode	4yni	
+moestafa el kabir	47cm	
+mollibahn	4zxk	
+national		e9:4,fk:5,ja:3,ll:3,vx:2,1c3:4,1ka:5,1m8:4,1sg:3,1sw:5,1sx:2,1vh:3,245:5,28b:3,2bf:4,2dt:5,2fl:4,2fy:7,2io:2,2ka:6,2v3:5,30n:3,3bs:6,3di:5,3rw:4,3up:6,46k:2,486:2,4ah:3,4d1:5,4m9:4,4ne:4,4ns:2,51v:4,5ia:4,5k2:2,5m5:4,5ox:6,5t6:3,616:3,629:4,63g:6,6fq:5,6pb:3,6q6:5,6ry:2,76g:5,7db:4,7k1:5,7km:3
+new commonwealth	he0	
+nitkovice	3ecc	
+ontrack	f6t	
+ontrack new zealand	f6t	
+ordainer	10jw	
+ots technoport line	3trg	
+owere	s2b	
+paradjanov	21gl	
+paul sarone	zm8	
+paul toscanelli	4xgj	
+peipsi jarv	40yo	
+peipsi pihkva jarv	40yo	
+peradeniya university	5sua	
+piaggiaea	69an	
+racers	1cbv	3eaq:2
+riverfest limerick	3lc	
+robert toru kiyosaki	5i50	
+sadek		5yt7:2
+sadek boukhalfa	5yt7	
+sadek ciechanow county	ob7	
+saint jeure		3cn8:4,3zf6:4
+saint jeure d		3cn8:4,3zf6:4
+saint jeure d andaure	3cn8	
+saint jeure d ay	3zf6	
+salvatierra	300v	2wq2:3,3x8h:3,4307:4
+salvatierra agurain	300v	
+salvatierra alava	300v	
+salvatierra de		2wq2:3,3x8h:3,4307:4
+salvatierra de esca	3x8h	
+salvatierra de esca spain	3x8h	
+salvatierra de esca zaragoza	3x8h	
+salvatierra de los		4307:4
+salvatierra de los barros	4307	
+salvatierra de santiago	2wq2	
+salvatierra de santiago caceres	2wq2	
+salvatierra de santiago spain	2wq2	
+salvatierra o agurain	300v	
+seigneur de vauban	12fb	
+seigneur of st ouen	4tr6	
+shazhou	48r4	
+sides opp eq s	8cv	
+skodawerke a g	drr	
+souk	66jk	2n3r:3,4587:2
+souk ahras	4587	2n3r:3
+souk ahras district	4587	
+souk ahras province	2n3r	
+souk el arba	50hg	
+speaking	6etw	1k3z:3,4ekz:3,5pjq:4
+speaking grid	5vxt	
+speaking name	6a8	
+speaking of		1k3z:3,4ekz:3,5pjq:4
+speaking of murder	1k3z	
+speaking of sex	4ekz	
+speaking of the		5pjq:4
+speaking of the devil	5pjq	
+st chely d apcher	1emq	
+st chely d aubrac	3826	
+strabane	16en	
+strabane town	16en	
+subvarieties	1oey	
+svartholm	xv8	
+taba een	x7o	
+teguc	60o	
+theocracy	6fqt	
+thomas scheuring	67y4	
+tremonti mark	4pw3	
+turettes	21wi	
+tvb	2ej	
+tvb 1	8l9	
+tvb com	2ej	
+tvb hk	2ej	
+tvb jade	8l9	
+tvb jade hd	8l9	
+tyndall		27y5:4
+tyndall afb	27y5	
+tyndall afb fl	27y5	
+tyndall afb florida	27y5	
+tyndall air		27y5:4
+tyndall air force		27y5:4
+tyndall air force base	27y5	
+tyndall air force base fl	27y5	
+tyndall air force base florida	27y5	
+tyndall army airfield	27y5	
+tyndall field	27y5	
+tyndall fl	27y5	
+tyndall florida	27y5	
+unevada	84q	
+unionen mellan sverige och norge	2ghf	
+united socialist		h3o:5
+united socialist party		h3o:5
+united socialist party of		h3o:5
+united socialist party of venezuela	h3o	
+urk	4pol	
+utilities	2pdn	
+valdez		4i06:3
+valdez cordova	100i	
+valdez cordova borough alaska	100i	
+valdez cordova census area	100i	
+valdez cordova census area ak	100i	
+valdez cordova census area alaska	100i	
+valdez cordova county	100i	
+valdez horses	15v7	
+valdez il mezzosangue	15v7	
+valdez is		4i06:3
+valdez is coming	4i06	
+verdigny	42g0	
+visnugupta	5a87	
+voltago		45s1:2
+voltago agordino	45s1	
+wallacia trilobite	205l	
+wolfida of saxony	37cb	
+yen an	1879	
+yen bai	2dwn	
+yen bai province	2dwn	
+yen bai province vietnam	2dwn	
+yen ch eng	1dx3	
+yen chi	3jhg	
+yen desa	3r4	
+yen endraal kaadhal enben	47ok	
+yen t ai	gbu	
+yen town band	2mch	
+zamfaran	21i9	

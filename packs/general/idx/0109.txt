@@ -1,0 +1,1135 @@
+1direction	emd	
+2015		2zj:5,357:4,3gj:5,6eu:4,9l2:4,alq:3,axg:4,dcn:4,epd:6,g1g:5,g6p:3,g76:2,gap:3,gkb:3,he3:3,hg3:4,ib3:4,idj:3,igk:2,ihd:2,iph:4,j1w:2,jeb:4,jq8:5,kjz:3,kv6:4,lqk:2,mdc:4,mxk:2,n6b:3,of7:6,oiz:4,om8:4,ors:2,ovl:6,pzy:4,rea:4,s0a:3,sfb:3,ubj:4,ud7:4,uu4:3,v36:4,vcy:4,wch:5,wgo:3,x2b:3,xa2:4,y2u:3,y8l:4
+2015 16		24jn:5
+2015 16 2 bundesliga	1jlz	
+2015 16 3 liga	1jl3	
+2015 16 austrian football bundesliga	3dye	
+2015 16 austrian football first league	3s8p	
+2015 16 bundesliga	1vug	
+2015 16 catawba indians men s basketball team	37uv	
+2015 16 cypriot cup	kbq	
+2015 16 cypriot cup for lower divisions	45oo	
+2015 16 cypriot first division	t4h	
+2015 16 cypriot second division	zsw	
+2015 16 cypriot third division	ws3	
+2015 16 ekstraklasa	393v	
+2015 16 europa league	2azn	
+2015 16 isu speed skating world cup	1hp6	
+2015 16 la liga	1oe9	
+2015 16 liga iv	wun	
+2015 16 russian premier league	2yfz	
+2015 16 sec men s basketball season	yvz	
+2015 16 serie b	20n7	
+2015 16 stok		24jn:5
+2015 16 stok elite		24jn:5
+2015 16 stok elite division	24jn	
+2015 16 sv werder bremen ii season	73t	
+2015 16 uefa europa league	2azn	
+2015 2016 nba finals	6hoz	
+2015 2016 wave of violence in israeli palestinian conflict	3hwe	
+2015 4 jours de dunkerque	17jf	
+2015 abn		4oqt:6
+2015 abn amro		4oqt:6
+2015 abn amro world		4oqt:6
+2015 abn amro world tennis		4oqt:6
+2015 abn amro world tennis tournament	4oqt	
+2015 abu		1utc:4
+2015 abu dhabi		1utc:4
+2015 abu dhabi tour	1utc	
+2015 acht van westerveld	4pqu	
+2015 ad	7en	
+2015 aegon		5hoz:3
+2015 aegon championships	5hoz	
+2015 afc		357:4
+2015 afc asian		357:4
+2015 afc asian cup	357	
+2015 afc asian cup final draw	357	
+2015 afcon	2zj	
+2015 afl		2ea4:4
+2015 afl finals		2ea4:4
+2015 afl finals series	2ea4	
+2015 africa		2zj:5
+2015 africa cup		2zj:5
+2015 africa cup of		2zj:5
+2015 africa cup of nations	2zj	
+2015 african		sfb:3
+2015 african cup of nations	2zj	
+2015 african games	sfb	
+2015 ag2r la mondiale season	hd9	
+2015 ale cipollini season	2310	
+2015 all africa games	sfb	
+2015 amgen		59ov:7
+2015 amgen tour		59ov:7
+2015 amgen tour of		59ov:7
+2015 amgen tour of california		59ov:7
+2015 amgen tour of california womens		59ov:7
+2015 amgen tour of california womens race	59ov	
+2015 androni giocattoli venezuela season	vjr	
+2015 androni giocattolivenezuela season	vjr	
+2015 arab		2ycg:4
+2015 arab athletics		2ycg:4
+2015 arab athletics championships	2ycg	
+2015 arctic		wch:5
+2015 arctic race		wch:5
+2015 arctic race of		wch:5
+2015 arctic race of norway	wch	
+2015 arrests of fifa officials	362l	
+2015 asian		rea:4,3rzp:7,430h:8,4bum:8,4ixn:5
+2015 asian athletics		rea:4
+2015 asian athletics championships	rea	
+2015 asian cup	357	
+2015 asian junior		3rzp:7,430h:8,4bum:8,4ixn:5
+2015 asian junior badminton		3rzp:7,430h:8,4bum:8,4ixn:5
+2015 asian junior badminton championships	4ixn	3rzp:7,430h:8,4bum:8
+2015 asian junior badminton championships men		430h:8
+2015 asian junior badminton championships men s		430h:8
+2015 asian junior badminton championships men s doubles	430h	
+2015 asian junior badminton championships mixed		3rzp:7
+2015 asian junior badminton championships mixed doubles	3rzp	
+2015 asian junior badminton championships women		4bum:8
+2015 asian junior badminton championships women s		4bum:8
+2015 asian junior badminton championships women s doubles	4bum	
+2015 astana		iph:4
+2015 astana acca due o season	4i74	
+2015 astana pro		iph:4
+2015 astana pro team	iph	
+2015 astana season	iph	
+2015 astanaacca		4i74:5
+2015 astanaacca due		4i74:5
+2015 astanaacca due o		4i74:5
+2015 astanaacca due o season	4i74	
+2015 atp		4g5s:4
+2015 atp tour	4g5s	
+2015 atp world		4g5s:4
+2015 atp world tour	4g5s	
+2015 atp world tour doc	4g5s	
+2015 australian		1ovp:3
+2015 australian open	1ovp	
+2015 aviva women s tour	2i96	
+2015 b36 torshavn season	nbt	
+2015 badminton		2nk7:7,2qib:6,2tsb:7,4cif:4
+2015 badminton asia junior championships	4ixn	
+2015 badminton asia junior championships boys doubles	430h	
+2015 badminton asia junior championships girls doubles	4bum	
+2015 badminton asia junior championships mixed doubles	3rzp	
+2015 badminton world		2nk7:7,2qib:6,2tsb:7,4cif:4
+2015 badminton world championships	4cif	2nk7:7,2qib:6,2tsb:7
+2015 badminton world championships men		2nk7:7
+2015 badminton world championships men s		2nk7:7
+2015 badminton world championships men s doubles	2nk7	
+2015 badminton world championships mixed		2qib:6
+2015 badminton world championships mixed doubles	2qib	
+2015 badminton world championships women		2tsb:7
+2015 badminton world championships women s		2tsb:7
+2015 badminton world championships women s doubles	2tsb	
+2015 baku games	gap	
+2015 bardiani csf season	16wg	
+2015 bardianicsf season	16wg	
+2015 bayern		2ovp:3
+2015 bayern rundfahrt	2ovp	
+2015 bayernrundfahrt	2ovp	
+2015 beach		2myq:5
+2015 beach volleyball		2myq:5
+2015 beach volleyball world		2myq:5
+2015 beach volleyball world championships	2myq	
+2015 beijing	3gj	
+2015 bene		31ez:4
+2015 bene ladies		31ez:4
+2015 bene ladies tour	31ez	
+2015 bepink		2qg1:4
+2015 bepink laclassica		2qg1:4
+2015 bepink laclassica season	2qg1	
+2015 bilderberg		alq:3
+2015 bilderberg conference	alq	
+2015 births	7en	
+2015 bmc		g6p:3
+2015 bmc racing	g6p	
+2015 bmc racing team season	g6p	
+2015 boels dolmans cycling team season	221k	
+2015 bora		om8:4
+2015 bora argon		om8:4
+2015 bora argon 18	om8	
+2015 bora argon 18 season	om8	
+2015 boraargon 18 season	om8	
+2015 brabantse		y2u:3
+2015 brabantse pijl	y2u	
+2015 brd		5p18:4
+2015 brd bucharest		5p18:4
+2015 brd bucharest open	5p18	
+2015 bretagne		ubj:4
+2015 bretagne seche		ubj:4
+2015 bretagne seche environnement	ubj	
+2015 bretagne seche environnement season	ubj	
+2015 bretagneseche environnement season	ubj	
+2015 bwf world championships	4cif	
+2015 bwf world championships men s doubles	2nk7	
+2015 bwf world championships mixed doubles	2qib	
+2015 bwf world championships women s doubles	2tsb	
+2015 bwf world junior championships boys doubles	3uhp	
+2015 bwf world junior championships girls doubles	4kpd	
+2015 bwf world junior championships mixed doubles	4plz	
+2015 caja		ybo:5
+2015 caja rural		ybo:5
+2015 caja rural seguros		ybo:5
+2015 caja rural seguros rga	ybo	
+2015 caja rural seguros rga season	ybo	
+2015 caja ruralseguros rga season	ybo	
+2015 canada election	3phs	
+2015 canada federal election	3phs	
+2015 canadian		3phs:4
+2015 canadian election	3phs	
+2015 canadian federal		3phs:4
+2015 canadian federal election	3phs	
+2015 cannondale		idj:3
+2015 cannondale garmin	idj	
+2015 cannondale garmin riders	idj	
+2015 cannondale garmin season	idj	
+2015 cannondalegarmin season	idj	
+2015 catalan		40l3:4
+2015 catalan regional		40l3:4
+2015 catalan regional election	40l3	
+2015 ccc		pzy:4
+2015 ccc sprandi		pzy:4
+2015 ccc sprandi polkowice	pzy	
+2015 ccc sprandi polkowice season	pzy	
+2015 cccsprandipolkowice season	pzy	
+2015 champions league	4uiq	
+2015 champions league final	671t	
+2015 charlie hebdo attack	5rs5	
+2015 charlie hebdo shooting	5rs5	
+2015 chrono gatineau	4m4m	
+2015 clasica		17lp:4,182d:5
+2015 clasica de		17lp:4,182d:5
+2015 clasica de almeria	17lp	
+2015 clasica de san		182d:5
+2015 clasica de san sebastian	182d	
+2015 cofidis	mxk	
+2015 cofidis season	mxk	
+2015 colombia	12zp	
+2015 colombia season	12zp	
+2015 concacaf		19v4:4,4hoe:7
+2015 concacaf gold		19v4:4
+2015 concacaf gold cup	19v4	
+2015 concacaf gold cup stages	19v4	
+2015 concacaf men		4hoe:7
+2015 concacaf men s		4hoe:7
+2015 concacaf men s olympic		4hoe:7
+2015 concacaf men s olympic qualifying		4hoe:7
+2015 concacaf men s olympic qualifying championship	4hoe	
+2015 concacaf u 23 championship	4hoe	
+2015 copa		1a5f:3,2va8:3,5sgx:3
+2015 copa america	1a5f	
+2015 copa centroamericana	2va8	
+2015 copa colsanitas	5sgx	
+2015 coupe		59wd:4
+2015 coupe banque		59wd:4
+2015 coupe banque nationale	59wd	
+2015 crescent women world cup vargarda	58kh	
+2015 criterium		y8l:4
+2015 criterium du		y8l:4
+2015 criterium du dauphine	y8l	
+2015 cult		12xf:3
+2015 cult energy	12xf	
+2015 cult energy pro cycling season	12xf	
+2015 cup		52pl:4
+2015 cup of		52pl:4
+2015 cup of china	52pl	
+2015 cycling		31hq:4
+2015 cycling tour		31hq:4
+2015 cycling tour sibiu	31hq	
+2015 danish		dcn:4
+2015 danish general		dcn:4
+2015 danish general election	dcn	
+2015 danmark		17z6:3
+2015 danmark rundt	17z6	
+2015 drapac cycling season	13qh	
+2015 draughts		3gmd:4
+2015 draughts world		3gmd:4
+2015 draughts world championship	3gmd	
+2015 driedaagse de panne	3yyg	
+2015 dwars		11hy:4
+2015 dwars door		11hy:4
+2015 dwars door vlaanderen	11hy	
+2015 e3		11ht:3
+2015 e3 harelbeke	11ht	
+2015 eneco		s0a:3
+2015 eneco tour	s0a	
+2015 energiewacht		5461:3
+2015 energiewacht tour	5461	
+2015 etixx		ib3:4
+2015 etixx quick		ib3:4
+2015 etixx quick step	ib3	
+2015 etixx quick step season	ib3	
+2015 etixxquick step season	ib3	
+2015 europcar	lqk	
+2015 european		g1g:5,gap:3,35wr:6
+2015 european athletics		g1g:5
+2015 european athletics indoor		g1g:5
+2015 european athletics indoor championships	g1g	
+2015 european games	gap	
+2015 european indoor athletics championships	g1g	
+2015 european indoor championships in athletics	g1g	
+2015 european mixed		35wr:6
+2015 european mixed team		35wr:6
+2015 european mixed team badminton		35wr:6
+2015 european mixed team badminton championships	35wr	
+2015 european team badminton championships	35wr	
+2015 eurovision	7q2	
+2015 eurovision song contest	7q2	
+2015 f1	2j28	
+2015 f1 season	2j28	
+2015 family		65zl:4
+2015 family circle		65zl:4
+2015 family circle cup	65zl	
+2015 fdj	ihd	
+2015 fdj fr season	ihd	
+2015 fdj season	ihd	
+2015 fia		3a1s:5
+2015 fia formula one world championship	2j28	
+2015 fia wec	3a1s	
+2015 fia world		3a1s:5
+2015 fia world endurance		3a1s:5
+2015 fia world endurance championship	3a1s	
+2015 fia world endurance championship season	3a1s	
+2015 fifa	epd	epd:6,362l:4
+2015 fifa corruption		362l:4
+2015 fifa corruption case	362l	
+2015 fifa corruption scandal	362l	
+2015 fifa scandal	362l	
+2015 fifa women	epd	epd:6
+2015 fifa women s		epd:6
+2015 fifa women s world		epd:6
+2015 fifa women s world cup	epd	
+2015 fifa women s world cup match officials	epd	
+2015 fifa world cup	epd	
+2015 fifa wwc	epd	
+2015 fina world championship	409j	
+2015 fina world championships	409j	
+2015 fis nordic world ski championships	446	
+2015 formula		2j28:5
+2015 formula 1	2j28	
+2015 formula 1 season	2j28	
+2015 formula one	2j28	2j28:5
+2015 formula one season	2j28	
+2015 formula one world		2j28:5
+2015 formula one world championship	2j28	
+2015 four		17jf:5
+2015 four days		17jf:5
+2015 four days of		17jf:5
+2015 four days of dunkirk	17jf	
+2015 france attacks	1oly	
+2015 french		3r3j:3
+2015 french open	3r3j	
+2015 generali		5ps8:4
+2015 generali ladies		5ps8:4
+2015 generali ladies linz	5ps8	
+2015 gent wevelgem	18ct	
+2015 gentwevelgem	18ct	
+2015 giro		mdc:4,ud7:4,3ern:5
+2015 giro d		ud7:4,3ern:5
+2015 giro d italia	ud7	3ern:5
+2015 giro d italia femminile	3ern	
+2015 giro del piemonte	x2b	
+2015 giro di		mdc:4
+2015 giro di lombardia	mdc	
+2015 giro rosa	3ern	
+2015 gold cup	19v4	
+2015 gooik geraardsbergen gooik	3rj2	
+2015 gp		10xh:4,33mo:4,42ue:4
+2015 gp de		42ue:4
+2015 gp de plouay	42ue	
+2015 gp miguel		33mo:4
+2015 gp miguel indurain	33mo	
+2015 gp ouest		10xh:4
+2015 gp ouest france	10xh	
+2015 gp ouestfrance	10xh	
+2015 gran		x2b:3,1nnx:5,2biv:5
+2015 gran piemonte	x2b	
+2015 gran premio		1nnx:5,2biv:5
+2015 gran premio di		2biv:5
+2015 gran premio di lugano	2biv	
+2015 gran premio nobili		1nnx:5
+2015 gran premio nobili rubinetterie	1nnx	
+2015 grand		ovl:6,z8l:6,3i7k:5
+2015 grand prix		ovl:6,z8l:6,3i7k:5
+2015 grand prix cycliste		ovl:6,z8l:6
+2015 grand prix cycliste de		ovl:6,z8l:6
+2015 grand prix cycliste de montreal	ovl	
+2015 grand prix cycliste de quebec	z8l	
+2015 grand prix de		3i7k:5
+2015 grand prix de denain	3i7k	
+2015 grote		2rp6:5
+2015 grote prijs		2rp6:5
+2015 grote prijs jef		2rp6:5
+2015 grote prijs jef scherens	2rp6	
+2015 gwangju summer universiade	1kro	
+2015 hansol korea open	5l18	
+2015 hearthstone world championship	1b5s	
+2015 i lyga table	4e9x	
+2015 iaaf		vcy:4
+2015 iaaf world		vcy:4
+2015 iaaf world championships	3gj	
+2015 iaaf world relays	vcy	
+2015 iam	igk	
+2015 iam cycling season	igk	
+2015 il lombardia	mdc	
+2015 ile de france shootings	4gkm	
+2015 indian grand prix	2j28	
+2015 istanbul		4zvi:3
+2015 istanbul cup	4zvi	
+2015 japan		4vbq:5
+2015 japan women		4vbq:5
+2015 japan women s		4vbq:5
+2015 japan women s open	4vbq	
+2015 junior eurovision song contest	4i2z	
+2015 katusha	g76	
+2015 korea		5l18:3
+2015 korea open	5l18	
+2015 korean grand prix	2j28	
+2015 kuurne brussel kuurne	140q	
+2015 kuurne brussels kuurne	140q	
+2015 kuurnebrusselskuurne	140q	
+2015 la		zt0:4,2tpc:8
+2015 la course		2tpc:8
+2015 la course by		2tpc:8
+2015 la course by le		2tpc:8
+2015 la course by le tour		2tpc:8
+2015 la course by le tour de		2tpc:8
+2015 la course by le tour de france	2tpc	
+2015 la fleche		zt0:4
+2015 la fleche wallonne	zt0	
+2015 la fleche wallonne feminine	1gdr	
+2015 ladies		1jx5:5
+2015 ladies tour		1jx5:5
+2015 ladies tour of		1jx5:5
+2015 ladies tour of norway	1jx5	
+2015 lampre merida riders	lce	
+2015 lampre merida season	lce	
+2015 lampremerida season	lce	
+2015 las vegas nhl bid	6gt5	
+2015 liege bastogne liege	10aa	
+2015 liegebastogneliege	10aa	
+2015 london surrey classic	1ajr	
+2015 londonsurrey classic	1ajr	
+2015 lotto		he3:3
+2015 lotto soudal	he3	
+2015 lotto soudal riders	he3	
+2015 lotto soudal season	he3	
+2015 lottosoudal season	he3	
+2015 malaysian		5tah:3
+2015 malaysian open	5tah	
+2015 masters	1r22	
+2015 masters snooker	1r22	
+2015 milan		jeb:4
+2015 milan san		jeb:4
+2015 milan san remo	jeb	
+2015 milansan remo	jeb	
+2015 monte		yj0:4
+2015 monte carlo		yj0:4
+2015 monte carlo rally	yj0	
+2015 movistar	j1w	
+2015 movistar team season	j1w	
+2015 mrt 3 controversy	4hrj	
+2015 mtn		kjz:3
+2015 mtn qhubeka	kjz	
+2015 mtn qhubeka season	kjz	
+2015 mtnqhubeka season	kjz	
+2015 nba		6h7w:3
+2015 nba finals	6h7w	
+2015 ncaa men s national collegiate volleyball tournament	12pd	
+2015 nhl finals	6hnm	
+2015 nippo		13mq:4
+2015 nippo vini		13mq:4
+2015 nippo vini fantini	13mq	
+2015 nippo vini fantini season	13mq	
+2015 nippovini fantini season	13mq	
+2015 novo		1116:3
+2015 novo nordisk	1116	
+2015 nurnberger		4mz9:3
+2015 nurnberger versicherungscup	4mz9	
+2015 oklahoma sooners women s soccer team	6gc1	
+2015 omloop		10yg:4
+2015 omloop het		10yg:4
+2015 omloop het nieuwsblad	10yg	
+2015 omloop het nieuwsblad women s race	54w7	
+2015 omloop van het hageland	3rl1	
+2015 open de suede vargarda	58kh	
+2015 orica greenedge riders	lpa	
+2015 orica greenedge season	lpa	
+2015 oricagreenedge season	lpa	
+2015 osterreich rundfahrt	1e28	
+2015 pacific		37av:4
+2015 pacific typhoon		37av:4
+2015 pacific typhoon season	37av	
+2015 pag	9l2	
+2015 pan		9l2:4
+2015 pan am games	9l2	
+2015 pan american		9l2:4
+2015 pan american games	9l2	
+2015 panam games	9l2	
+2015 paraguay national football team results	2et	
+2015 paris		wgo:3
+2015 paris attacks	1oly	
+2015 paris nice	39k8	
+2015 paris roubaix	ors	
+2015 paris tours	wgo	
+2015 parisnice	39k8	
+2015 parisroubaix	ors	
+2015 paristours	wgo	
+2015 parkhotel		2nrl:4
+2015 parkhotel valkenburg		2nrl:4
+2015 parkhotel valkenburg continental	2nrl	
+2015 parkhotel valkenburg continental team season	2nrl	
+2015 pdc		jq8:5
+2015 pdc world		jq8:5
+2015 pdc world darts		jq8:5
+2015 pdc world darts championship	jq8	
+2015 philadelphia		33iv:4
+2015 philadelphia cycling		33iv:4
+2015 philadelphia cycling classic	33iv	
+2015 pkk rebellion	4ta4	
+2015 polish		67xc:4
+2015 polish presidential		67xc:4
+2015 polish presidential election	67xc	
+2015 porsche		5d62:5
+2015 porsche tennis		5d62:5
+2015 porsche tennis grand		5d62:5
+2015 porsche tennis grand prix	5d62	
+2015 proximus diamond games singles	4p95	
+2015 pts	37av	
+2015 quatre jours de dunkerque	17jf	
+2015 queen s club championships	5hoz	
+2015 rakuten		5sof:6
+2015 rakuten japan		5sof:6
+2015 rakuten japan open		5sof:6
+2015 rakuten japan open tennis		5sof:6
+2015 rakuten japan open tennis championships	5sof	
+2015 ridelondon surrey classic	1ajr	
+2015 ridelondonsurrey		1ajr:3
+2015 ridelondonsurrey classic	1ajr	
+2015 rusvelo season	13v3	
+2015 scheldeprijs	yve	
+2015 september 28	7en	
+2015 sibiu cycling tour	31hq	
+2015 simona halep tennis season	2ulw	
+2015 singapore mrt distruptions	7wq	
+2015 skoda tour de luxembourg	1qib	
+2015 southeast pro cycling season	t8d	
+2015 spotlight	1809	
+2015 stanley		6hnm:4
+2015 stanley cup	6hnm	6hnm:4
+2015 stanley cup final	6hnm	
+2015 stanley cup finals	6hnm	
+2015 strade		13ti:3,4lpo:4
+2015 strade bianche	13ti	4lpo:4
+2015 strade bianche women	4lpo	
+2015 strade bianche womens race	4lpo	
+2015 sudirman		n6b:3
+2015 sudirman cup	n6b	
+2015 summer		1kro:3
+2015 summer universiade	1kro	
+2015 summer universiade medal table	1kro	
+2015 super bowl	6gnx	
+2015 superbowl	6gnx	
+2015 tdf	6eu	
+2015 team		48fz:5
+2015 team europcar season	lqk	
+2015 team giant alpecin riders	jrf	
+2015 team giant alpecin season	jrf	
+2015 team giantalpecin riders	jrf	
+2015 team giantalpecin season	jrf	
+2015 team katusha season	g76	
+2015 team liv		48fz:5
+2015 team liv plantur		48fz:5
+2015 team liv plantur season	48fz	
+2015 team livplantur season	48fz	
+2015 team lottonl jumbo riders	iwl	
+2015 team lottonl jumbo season	iwl	
+2015 team lottonljumbo season	iwl	
+2015 team novo nordisk season	1116	
+2015 team roompot season	veu	
+2015 team sky season	iae	
+2015 team tinkoff saxo riders	gkb	
+2015 team tinkoff saxo season	gkb	
+2015 team tinkoffsaxo season	gkb	
+2015 the		2i96:5
+2015 the philadelphia cycling classic	33iv	
+2015 the women		2i96:5
+2015 the women s		2i96:5
+2015 the women s tour	2i96	
+2015 three		3yyg:6
+2015 three days		3yyg:6
+2015 three days of		3yyg:6
+2015 three days of de		3yyg:6
+2015 three days of de panne	3yyg	
+2015 tinkoff		gkb:3
+2015 tinkoff saxo	gkb	
+2015 topsport vlaanderen baloise season	ngo	
+2015 topsport vlaanderenbaloise season	ngo	
+2015 tour		6eu:4,xa2:4,12cd:4,16gk:4,17kz:4,181t:4,1e28:4,1jn6:4,1qib:4,1rju:4,1sgm:6,27kt:4,2kb2:5,3i42:4,3lr5:4,4e67:4,4idi:6,4oxp:4,4znp:4
+2015 tour de		6eu:4,xa2:4,12cd:4,181t:4,1qib:4
+2015 tour de france	6eu	
+2015 tour de luxembourg	1qib	
+2015 tour de pologne	12cd	
+2015 tour de slovenie	3i42	
+2015 tour de suisse	xa2	
+2015 tour de wallonie	181t	
+2015 tour des		17kz:4
+2015 tour des asturies	4g3i	
+2015 tour des fjords	17kz	
+2015 tour of		16gk:4,1e28:4,1jn6:4,1rju:4,1sgm:6,27kt:4,2kb2:5,3i42:4,3lr5:4,4e67:4,4idi:6,4oxp:4,4znp:4
+2015 tour of alberta	27kt	
+2015 tour of austria	1e28	
+2015 tour of bavaria	2ovp	
+2015 tour of belgium	3lr5	
+2015 tour of britain	1jn6	
+2015 tour of california women	59ov	
+2015 tour of california women s race	59ov	
+2015 tour of croatia	4e67	
+2015 tour of denmark	17z6	
+2015 tour of flanders		1sgm:6
+2015 tour of flanders for		1sgm:6
+2015 tour of flanders for women	1sgm	
+2015 tour of norway	16gk	
+2015 tour of oman	4znp	
+2015 tour of poland	12cd	
+2015 tour of portugal	3so2	
+2015 tour of qatar	4oxp	
+2015 tour of qinghai		2kb2:5
+2015 tour of qinghai lake	2kb2	
+2015 tour of quatar	4oxp	
+2015 tour of slovenia	3i42	
+2015 tour of the		4idi:6
+2015 tour of the basque		4idi:6
+2015 tour of the basque country	4idi	
+2015 tour of utah	1rju	
+2015 tre		1edg:4
+2015 tre valli		1edg:4
+2015 tre valli varesine	1edg	
+2015 trek		hg3:4
+2015 trek factory		hg3:4
+2015 trek factory racing	hg3	
+2015 trek factory racing season	hg3	
+2015 turkish air raids on kandil	4ta4	
+2015 uci		axg:4,kv6:4,1taa:5,48mc:4,5gvi:4,5s2b:7
+2015 uci america		48mc:4
+2015 uci america tour	48mc	
+2015 uci asia		5gvi:4
+2015 uci asia tour	5gvi	
+2015 uci europe		axg:4
+2015 uci europe tour	axg	
+2015 uci road		1taa:5
+2015 uci road world		1taa:5
+2015 uci road world championships	1taa	
+2015 uci women		5s2b:7
+2015 uci women s		5s2b:7
+2015 uci women s road		5s2b:7
+2015 uci women s road world		5s2b:7
+2015 uci women s road world cup	5s2b	
+2015 uci world		kv6:4
+2015 uci world tour	kv6	
+2015 uci world tour individual	kv6	
+2015 uci world tour teams	kv6	
+2015 uefa		3qq8:4
+2015 uefa champions league final	671t	
+2015 uefa super		3qq8:4
+2015 uefa super cup	3qq8	
+2015 united		24rs:5
+2015 united kingdom		24rs:5
+2015 united kingdom general		24rs:5
+2015 united kingdom general election	24rs	
+2015 unitedhealthcare season	vz3	
+2015 usa		461m:5
+2015 usa pro		461m:5
+2015 usa pro cycling		461m:5
+2015 usa pro cycling challenge	461m	
+2015 venezuela national football team results	4vn	
+2015 venus williams tennis season	f6p	
+2015 volta		24ii:4,3so2:4
+2015 volta a		3so2:4
+2015 volta a portugal	3so2	
+2015 volta limburg		24ii:4
+2015 volta limburg classic	24ii	
+2015 vuelta		v36:4,1fpq:4,32wi:4,3msw:4,4g3i:4
+2015 vuelta a		v36:4,1fpq:4,32wi:4,3msw:4,4g3i:4
+2015 vuelta a asturias	4g3i	
+2015 vuelta a burgos	3msw	
+2015 vuelta a colombia	32wi	
+2015 vuelta a espana	v36	
+2015 vuelta a murcia	1fpq	
+2015 vuelta asturias	4g3i	
+2015 wanty		oiz:4
+2015 wanty groupe		oiz:4
+2015 wanty groupe gobert	oiz	
+2015 wanty groupe gobert season	oiz	
+2015 wantygroupe gobert season	oiz	
+2015 wec	3a1s	
+2015 wimbledon	1qjq	1qjq:3
+2015 wimbledon championships	1qjq	
+2015 women s fifa world cup	epd	
+2015 women s world cup	epd	
+2015 womens world cup	epd	
+2015 world		3gj:5,of7:6,zk8:6,123b:7,141f:6,1g11:4,3uhp:8,409j:4,46tz:3,4kpd:8,4plz:7
+2015 world all round championships speed skating	of7	
+2015 world allround		of7:6
+2015 world allround speed		of7:6
+2015 world allround speed skating		of7:6
+2015 world allround speed skating championships	of7	
+2015 world aquatics		409j:4
+2015 world aquatics championships	409j	
+2015 world athletics championships	3gj	
+2015 world championships		3gj:5
+2015 world championships in		3gj:5
+2015 world championships in athletics	3gj	
+2015 world championships in athletics medal table	3gj	
+2015 world cup women s	epd	
+2015 world draughts championship	3gmd	
+2015 world junior		3uhp:8,4kpd:8,4plz:7
+2015 world junior badminton		3uhp:8,4kpd:8,4plz:7
+2015 world junior badminton championships		3uhp:8,4kpd:8,4plz:7
+2015 world junior badminton championships boy s doubles	3uhp	
+2015 world junior badminton championships girl s doubles	4kpd	
+2015 world junior badminton championships men		3uhp:8
+2015 world junior badminton championships men s		3uhp:8
+2015 world junior badminton championships men s doubles	3uhp	
+2015 world junior badminton championships mixed		4plz:7
+2015 world junior badminton championships mixed doubles	4plz	
+2015 world junior badminton championships women		4kpd:8
+2015 world junior badminton championships women s		4kpd:8
+2015 world junior badminton championships women s doubles	4kpd	
+2015 world men		141f:6
+2015 world men s		141f:6
+2015 world men s handball		141f:6
+2015 world men s handball championship	141f	
+2015 world ports		1g11:4
+2015 world ports classic	1g11	
+2015 world relays	vcy	
+2015 world series	46tz	
+2015 world single		123b:7
+2015 world single distance		123b:7
+2015 world single distance speed		123b:7
+2015 world single distance speed skating		123b:7
+2015 world single distance speed skating championships	123b	
+2015 world sprint		zk8:6
+2015 world sprint speed		zk8:6
+2015 world sprint speed skating		zk8:6
+2015 world sprint speed skating championships	zk8	
+2015 world university games	1kro	
+2015 wta		uu4:3,586c:3
+2015 wta final	586c	
+2015 wta finals	586c	
+2015 wta finals day by day summaries	586c	
+2015 wta tour	uu4	
+2015 wta tour championships	586c	
+2015 year	7en	
+2015 yellowstone river oil spill	3dnc	
+2015 yemeni civil war	kiv	
+anjalena jolie	7uj	
+antimeson	25en	
+arese	2qjm	
+bagpipe	79w	
+bagpipe band	3mdb	
+bagpipe maintenance	79w	
+barabadze	4d28	
+begas karl d ae	2zqe	
+belgio	2p	
+bling bang	11z1	
+bling confession of a king	5l8x	
+bling confession of a king the killers song	5l8x	
+bling ring	q8z	q8z:3
+boar	58pj	
+boar attack	58pj	
+bolingbrook	2hyn	
+bolingbrook il	2hyn	
+bolingbrook ill	2hyn	
+bolingbrook illinois	2hyn	
+bongani		36oh:2
+bongani khumalo	36oh	
+bongani sandile khumalo	36oh	
+brasschaat	twm	
+brener	55mb	55mb:4
+brener antunes		55mb:4
+brener antunes das		55mb:4
+brener antunes das chagas	55mb	
+bubi owl	3kz	
+caernarfonshire and merionethshire	36w	
+cantele	465t	
+cardenal		462e:3
+cardenal caro		462e:3
+cardenal caro province	462e	
+carmel	aj4,18of,2e15	aj4:4,13ui:2
+carmel by		aj4:4
+carmel by the		aj4:4
+carmel by the sea	aj4	
+carmel by the sea ca	aj4	
+carmel by the sea california	aj4	
+carmel calif	aj4	
+carmel california	aj4	
+carmel film	58kw	
+carmel in	18of	
+carmel ind	18of	
+carmel indiana	18of	
+carmel myers	13ui	
+carmel n y	2e15	
+carmel new york	2e15	
+carmel ny	2e15	
+carmel oleary	1chp	
+carmel pine cone	aj4	
+carmel town new york	2e15	
+carmel town ny	2e15	
+castillejar	45id	
+castillejar granada	45id	
+castillejar spain	45id	
+cemil	630v	5rbg:2
+cemil first name	630v	
+cemil given name	630v	
+cemil mengi	5rbg	
+cereseto	49vf	
+cereseto monferrato	49vf	
+chamaesesia	2no6	
+charles ruppert	17w8	
+chook	tve	
+cle	47w3	
+cle kooiman	4na1	
+cle wootten	4ucz	
+comines	1ei7	3kzy:2
+comines belgium	3kzy	
+comines france	1ei7	
+comines nord	1ei7	
+comines warneton	3kzy	
+comunitat autonoma d arago	fit	
+cynometra	4d70	
+datalore	3sai	
+datalore star trek the next generation	3sai	
+datalore tng episode	3sai	
+david irland	3c0t	
+debby		1o7y:2,2ehn:2
+debby a ryan	2ehn	
+debby ann ryan	2ehn	
+debby boone	1o7y	
+debby harry	gt6	
+debby meyer	66ix	
+debby ryan	2ehn	
+debby ryan discography	2ehn	
+debby ryan songs	2ehn	
+demidoff prize	hbx	
+doomsday	1p8e	6g4j:2
+doomsday 1971 film	3b08	
+doomsday 2008	1p8e	
+doomsday 2008 film	1p8e	
+doomsday book	6g4j	
+doomsday book novel	6g4j	
+doomsday flight	5xh0	5xh0:3
+doomsday machine		51ng:3
+doomsday movie	tfm	
+doomsday scenario interface	v7w	
+doomsday seed vault	6h0p	
+doomsday vault	6h0p	
+doomsday zone	1bvk	
+drafts men	8ll	
+drafts persons	8ll	
+drafts women	8ll	
+duinkerke	7bc	
+elementaryos	5is4	
+elonmusk	mgz	
+emelda marcos	3iiz	
+eurocontrol	qgh	
+eurocontrol int	qgh	
+faver	5kmi	
+fiza	65zt	
+fiza 2000 film	65zt	
+frederiction	6fj	
+fucas pillar	6hks	
+fungii	1w3v	
+george iii		d2p:5,44p2:4,4viz:6,5ei5:6,5f62:6,5nmb:6
+george iii and		5nmb:6
+george iii and the		5nmb:6
+george iii and the river		5nmb:6
+george iii and the river thames	5nmb	
+george iii count		5f62:6
+george iii count of		5f62:6
+george iii count of erbach		5f62:6
+george iii count of erbach breuberg	5f62	
+george iii king of great britain and ireland	d2p	
+george iii king of the united kingdom	d2p	
+george iii landgrave		4viz:6
+george iii landgrave of		4viz:6
+george iii landgrave of hesse		4viz:6
+george iii landgrave of hesse itter	4viz	
+george iii of		d2p:5,44p2:4
+george iii of anhalt dessau	5ei5	
+george iii of britain	d2p	
+george iii of england	d2p	
+george iii of georgia	44p2	
+george iii of great		d2p:5
+george iii of great britain	d2p	
+george iii of great britain and hanover	d2p	
+george iii of great britain and ireland	d2p	
+george iii of the united kingdom	d2p	
+george iii prince		5ei5:6
+george iii prince of		5ei5:6
+george iii prince of anhalt		5ei5:6
+george iii prince of anhalt dessau	5ei5	
+hajji		4u4f:8
+hajji bekandeh		4u4f:8
+hajji bekandeh ye		4u4f:8
+hajji bekandeh ye koshk		4u4f:8
+hajji bekandeh ye koshk e		4u4f:8
+hajji bekandeh ye koshk e bijar	4u4f	4u4f:8
+hajji bekandeh ye koshk e bijar rural		4u4f:8
+hajji bekandeh ye koshk e bijar rural district	4u4f	
+hamado		5sqf:2
+hamado ouedraogo	5sqf	
+hardluck woman	68ds	
+havran	48cc	
+heideggerian	jme	
+hendrawan	554m	
+hendrawan wawan	554m	
+hycrest place alberta	2xbk	
+ixtlania	v84	
+jakobs michael	69dh	
+jealousy	287u,6dav	
+jealousy 1934 film	6dav	
+jealousy 1942 film	287u	
+jealousy band	1rta	
+jean franbois champollion	tkc	
+john mccane	e60	
+john vogel	eic	
+john weldon cale	1172	
+judoka	cx	
+justinwalker0728	3xi	
+katalin	bjz	52ka:2,62fg:2
+katalin first name	bjz	
+katalin frangepan zrinyi	64z5	
+katalin given name	bjz	
+katalin kovacs	52ka	
+katalin szoke	62fg	
+khaghan	vek	
+kircher	1r87	
+kircher diagram	1r87	
+kolvoord starburst	5701	
+kondrac	4ajo	
+koutais	5ic	
+kvk tienen	1ni4	
+le rocher		2dqo:3
+le rocher perce	2dqo	
+le rocher perce regional county municipality	2dqo	
+le rocher perce regional county municipality quebec	2dqo	
+leadworker	67k7	
+lescheroux	1ww8	
+linqing	4dhf	
+linqing city	4dhf	
+louis boussenard	3yr6	
+lutter	3a5b,6ebb	
+lutter ems	6ebb	
+lutter haut rhin	3a5b	
+lyzeum	3d2c	
+mamasa mamasa mamacoosa	5x93	
+mg2	f6r	
+mg2 ss	69lt	
+mikako		4cer:2
+mikako ichikawa	4cer	
+mohadin	nl7	
+monsampietro		487o:2
+monsampietro morico	487o	
+monthelon	2rsz,33jz	
+monthelon marne	33jz	
+monthelon saone et loire	2rsz	
+moyon		1vo0:2
+moyon villages	1vo0	
+oamtc volksbank colnago	36nm	
+odense	4gq	5fj:2,8lk:2,2i24:3
+odense bk	5fj	
+odense boldklub	5fj	
+odense cathedral	5jvm	
+odense commune	8lk	
+odense denmark	4gq	
+odense domkirke	5jvm	
+odense kommune	8lk	
+odense municipal	8lk	
+odense municipality	8lk	
+odense shipyard	2i24	
+odense staalskibsvaerft a s	2i24	
+odense staalskibsvrft	2i24	
+odense steel		2i24:3
+odense steel shipyard	2i24	
+odense steel shipyard ltd	2i24	
+orbaneja		4qpw:2
+orbaneja riopico	4qpw	
+orbaneja riopico burgos	4qpw	
+orbaneja riopico spain	4qpw	
+papadoc	593a	
+pasatieri thomas	6afz	
+pereya slavl	325c	
+peter burton	2x2t	
+petkim aliaga belediyesi	27gg	
+piglio	3jk0	
+polyglucosan	5vdp	
+praenomina	19dz	
+prateik		2n7h:2
+prateik babbar	2n7h	
+ragalna	5aw2	
+robert dennart	2at0	
+rogue	1d09,3hxc,3xa6,5gag	9yx:6,21ih:2,2gpd:2,4lkt:2,4oyu:2
+rogue 2006 film	3hxc	
+rogue 2007 film	3hxc	
+rogue agent	5ol5	
+rogue assassin	2fsk	
+rogue cavaliers brigade	73m	
+rogue character	3xa6	
+rogue comics	3xa6	
+rogue company	1d09	
+rogue computer game	5gag	
+rogue cop	21ih	
+rogue crew		6gqg:3
+rogue elephant	16mc	
+rogue film	3hxc	
+rogue film company	1d09	
+rogue film genre	1d09	
+rogue folk	q5d	
+rogue game	5gag	
+rogue leader rogue squadron ii	47re	
+rogue like	lmq	
+rogue like game	lmq	
+rogue like games	lmq	
+rogue nation	ix3	
+rogue one	9yx	9yx:6
+rogue one a		9yx:6
+rogue one a star		9yx:6
+rogue one a star wars		9yx:6
+rogue one a star wars story	9yx	
+rogue one a star wars story an imax 3d experience	9yx	
+rogue one a star wars story film	9yx	
+rogue one a star wars story soundtrack	9yx	
+rogue one film	9yx	
+rogue one star wars story	9yx	
+rogue pictures	1d09	
+rogue relativity media	1d09	
+rogue river	4oyu	
+rogue river oregon	4oyu	
+rogue river valley or	4oyu	
+rogue river valley oregon	4oyu	
+rogue s gallery film	2h5y	
+rogue scientist	7eu	
+rogue shadow	1iij	
+rogue song	1i8v	1i8v:3
+rogue squadron 2	47re	
+rogue squadron 3	6947	
+rogue squadron 3d	4fzg	
+rogue squadron ii	47re	
+rogue squadron ii rogue leader	47re	
+rogue squadron iii	6947	
+rogue squadron iii rebel strike	6947	
+rogue superhero	3xa6	
+rogue the adventure game	5gag	
+rogue trader	4lkt	
+rogue trader film	4lkt	
+rogue traders	2gpd	
+rogue traders band	2gpd	
+rogue traders comments	2gpd	
+rogue video game	5gag	
+rogue world of warcraft	1hex	
+rogue x men	3xa6	
+sage		1zl:2,29dl:2,2vk9:2
+sage francis	2vk9	
+sage frenchkiss	2vk9	
+sage journals	1zl	
+sage moonblood stallone	29dl	
+sage of emporia	5dpq	
+sage of monticello	9j4	
+sage of nebraska	1aui	
+sage of omaha	1aui	
+sage of the constitutional convention	b9a	
+sage of the shakyas	x31	
+sage publications	1zl	
+sage publications inc	1zl	
+sage publications ltd	1zl	
+sage publisher	1zl	
+sage publishing	1zl	
+sage publishing co	1zl	
+sage school	3gwg	
+sage sinister	34ds	
+sage stallone	29dl	
+sage valmiki	6ag1	
+san angelo	h9r	
+san angelo texas	h9r	
+san angelo tx	h9r	
+senn feinn	9ac	
+sharr mountain	2vft	
+sharr mountain range	2vft	
+sharr mountains	2vft	
+siegfreid	52c	
+sogne	1o4l	
+souichi noguchi	55o9	
+stapeliads	1ows	
+statoil	1i7s	
+statoil asa	1i7s	
+statoil group	1i7s	
+statoil hydro	1i7s	
+statoil petroleum	1i7s	
+sumska oblast	kda	
+surdulica	x7f	
+surdulica municipality	x7f	
+surfdog	3iom	3iom:2
+surfdog records	3iom	
+takeshigemichido	g4q	
+tartigny	2j9b	
+tele2 ligaen	5hek	
+tele2 luxembourg	5olz	
+the patriarchal city	1ou	
+thomas thynne	5muh	4amu:6,5a5n:5,5muh:6,5soi:6
+thomas thynne 1st		4amu:6,5a5n:5
+thomas thynne 1st marquess		4amu:6
+thomas thynne 1st marquess of		4amu:6
+thomas thynne 1st marquess of bath	4amu	
+thomas thynne 1st viscount		5a5n:5
+thomas thynne 1st viscount weymouth	5a5n	
+thomas thynne 2nd		5soi:6
+thomas thynne 2nd marquess		5soi:6
+thomas thynne 2nd marquess of		5soi:6
+thomas thynne 2nd marquess of bath	5soi	
+thomas thynne 3rd viscount weymouth	4amu	
+thomas thynne 5th		5muh:6
+thomas thynne 5th marquess		5muh:6
+thomas thynne 5th marquess of		5muh:6
+thomas thynne 5th marquess of bath	5muh	
+timbouctu	vig	
+trouvans	3y8z	
+umonin	2ujt	
+uxbridge	nm0,r4m,45je	56cs:3
+uxbridge canada	45je	
+uxbridge f		56cs:3
+uxbridge f c	56cs	
+uxbridge fc	56cs	
+uxbridge hillingdon leader	v2k	
+uxbridge london	nm0	
+uxbridge london england	nm0	
+uxbridge ma	r4m	
+uxbridge mass	r4m	
+uxbridge massachusetts	r4m	
+uxbridge massachusetts military history uniforms and music	r4m	
+uxbridge massachusetts military uniforms and music	r4m	
+uxbridge on	45je	
+uxbridge ontario town	45je	
+uxbridge town ontario	45je	
+vaestra aros	7l2	
+vaestra froelunda hc	5ry	
+vaestra froelunda if	ta9	
+vaestra goetaland county	46f	
+vaestra goetaland laen	46f	
+vaestra goetalands laen	46f	
+vecumnieki		1rwh:2
+vecumnieki municipality	1rwh	
+vena	5o6	
+verrocchio andrea del	1jbt	
+waptus lake	616a	
+william samuel		4aby:3
+william samuel cook ellenshaw	11sc	
+william samuel lilly	4aby	
+william samuel mctier	3fe5	
+wlen commune	26f4	
+yeso		3ixk:2
+yeso amalfi	3ixk	
+yojinbo film	1g3j	
+yojinbo movie	1g3j	
+zentius	do1	

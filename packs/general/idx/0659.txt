@@ -1,0 +1,457 @@
+242	1bmo	
+accel		6b50:2
+accel world	6b50	
+accel world awakening of the silver wings	6b50	
+accel world dural magisa garden	6b50	
+accel world the peak of acceleration	6b50	
+ahron	1mho	
+altin		4a4h:2,4iuu:2,4ytj:2
+altin haxhi	4a4h	
+altin lala	4ytj	
+altin rraklli	4iuu	
+ammannia	687w	
+anderlecht	a7d	
+anderlecht belgium	a7d	
+anderlecht football club	2uu	
+anderlecht municipality	a7d	
+apace municipality	2awz	
+aristo	7jf	
+aristo of chios	5mi6	
+ashlee		1j12:2,3epk:2
+ashlee ageron jones	3epk	
+ashlee jones	3epk	
+ashlee nicole simpson	1j12	
+ashlee nicole simpson wentz	1j12	
+ashlee simpson	1j12	
+ashlee simpson wentz	1j12	
+ashlee tisdale	pxa	
+ashlee wentz	1j12	
+autostrade italy	15i6	
+autostrade of italy	15i6	
+balle kombetar	4wfw	
+barbro	25gk	3iee:4
+barbro first name	25gk	
+barbro given name	25gk	
+barbro hiort		3iee:4
+barbro hiort af		3iee:4
+barbro hiort af ornaes	3iee	
+barbro hiort af ornas	3iee	
+barfruesh	163s	
+belleherbe	1e0h	
+beutelsbach	3bd0	
+bie province	180e	
+brassicaceae	4zdv	
+bucilly	1uht	
+calixto chinchile	t9n	
+carrots	36vd	
+castellanza	2yja	
+cerati	17ra	
+ceresia	69lc	
+charles loch		5tw9:3
+charles loch mowat	5tw9	
+chavenat	4b66	
+chikmagalur		mkt:2
+chikmagalur district	mkt	
+chikmagalur district comments	mkt	
+clodii	6frs	
+cygne noir	4e5m	
+david cox	1dzi	
+david cox statistician	1dzi	
+debreczyn	50h	
+dejanira family	2tlw	
+deutschosterreich	1bvm	
+doden kommer til middag	47yr	
+ducky nash	1wd8	
+eckard	3krb	1vvk:5
+eckard i	1vvk	1vvk:5
+eckard i margrave		1vvk:5
+eckard i margrave of		1vvk:5
+eckard i margrave of meissen	1vvk	
+eckard i of meissen	1vvk	
+erasmatazz	3hj9	
+eurypides	j09	
+evgenij evgen evic lansere	3yz9	
+evgenij fedorov	4tlv	
+evgenij sjvarts	29ka	
+evgenij viktorovic vucetic	2emx	
+evgenij zavojskij	54ro	
+fai cup	1fhn	
+fai cup 2001 02	1fhn	
+fai della		4ffc:3
+fai della paganella	4ffc	
+fai first division	2yva	
+fai ford cup	1fhn	
+fai in fretta ad uccidermi ho freddo	5adz	
+fai ireland national football team	279	
+fai league cup	58g6	
+fai league of ireland	9bo	
+fai national league	9bo	
+fai premier division	11et	
+fai premier league	11et	
+fai premiership	11et	
+fai schoolboy cup	6hm	
+fai under 17 cup	6hm	
+fai under17 cup	6hm	
+fallstreaks	6cp7	
+fc partizan		bpu:3
+fc partizan bardejov	1460	
+fc partizan belgrade	255	
+fc partizan minsk	bpu	
+fc partizan mtz minsk	bpu	
+feirdrich iii	2gu6	
+fernan lez eh	1srl	
+fernan lezeh	1srl	
+fernan lezhe	1srl	
+fernan ruiz de castro died 1377	59di	
+fokkusu	5l3p	
+fokkusu makuraudo	5l3p	
+formignana	5ges	
+george kenneth griffey jr	6cxy	
+george kenneth hotson younger	4exz	
+george kenneth hotson younger 4th viscount younger of leckie	4exz	
+george kenneth hotson younger 4th viscount younger of leckie kt kcvo td pc	4exz	
+george kenneth hotson younger baron younger of prestwick	4exz	
+george kenneth ken griffey jr	6cxy	
+gianfardoni	5xne	
+girlfight	5ai7	
+gmina siemysl	1zww	
+golumbacz	1tcc	
+goosson stephen	r2n	
+grangues	2e4l	
+gta4		6bcd:4
+gta4 lost		6bcd:4
+gta4 lost and		6bcd:4
+gta4 lost and damned	6bcd	
+hakka		4ybn:2
+hakka chinese	4ybn	
+hakka chinese language	4ybn	
+hakka dialect	4ybn	
+hakka language	4ybn	
+hakka languages	4ybn	
+heat	tdm,2qev,4cjh,5xnl	1t5a:2,2iz1:3,46s3:2,6e0z:2
+heat 1986 film	2qev	
+heat 1987 film	2qev	
+heat 1987 movie	2qev	
+heat 1995 film	tdm	
+heat 2006 film	4cjh	
+heat 2014 film	1av3	
+heat 50 cent song	4ib5	
+heat and		2iz1:3
+heat and dust	2iz1	
+heat and dust 1983 film	2iz1	
+heat and dust film	2iz1	
+heat as a transfer of energy	5xnl	
+heat basketball	4av	
+heat change	5xnl	
+heat comments	5xnl	
+heat cycle	28fv	
+heat delirium	1z4c	
+heat eminem song	6hnh	
+heat energy	5xnl	
+heat haze theatre	3e47	
+heat maxwell	3i5y	
+heat physical process	5xnl	
+heat physical quantity	5xnl	
+heat process function	5xnl	
+heat related deaths	1z4c	
+heat resistant plaster	32y2	
+heat seaker missile	1cf1	
+heat seeker	1cf1	
+heat seeking	1cf1	
+heat sore	2vmk	
+heat storm	6e0z	
+heat stress	1z4c	
+heat syndrome	1z4c	
+heat thermodynamic process	5xnl	
+heat thermodynamics	5xnl	
+heat transfer	5xnl	
+heat transfer oil	2lmr	
+heat up ken hirai song	13e4	
+heat video game	tdm	
+heat wave	46s3,6e0z	
+heat wave 1990 film	46s3	
+heat waves	6e0z	
+hku space	3v2	
+huxleyan	cbh	
+hydrocotile	6f0w	
+infraero	wwp	
+ingwe	29sb	
+irdicent delta	4sxu	
+jacinto	n13	34e8:2,3i4o:2,4h5f:2,5mb0:2
+jacinto benavente	34e8	
+jacinto benavente y martinez	34e8	
+jacinto benevente	34e8	
+jacinto ela	4h5f	
+jacinto espinoza	3i4o	
+jacinto first name	n13	
+jacinto given name	n13	
+jacinto molina	14w6	
+jacinto quincoces	5mb0	
+jacinto quincoces lopez	5mb0	
+jacinto reyes scenic byway	3k2z	
+jalogny	3pjm	
+james buchanan	196p	
+james buchanan barnes	6hsr	
+james buchanan bucky barnes	6hsr	
+james buchanan judicial appointments	196p	
+jamiroquoi	kex	
+jecheon	5o1q	
+jecheon si	5o1q	
+jusepe		14gt:3
+jusepe de		14gt:3
+jusepe de ribera	14gt	
+kangama ndiwa	30v1	
+khalfallah	53cf	
+kierra		5kb5:2
+kierra kiki sheard	5kb5	
+kierra sheard	5kb5	
+la chaulme	3ywt	
+la noia	3esf	
+la noia film	3esf	
+la professoressa		5dcy:5
+la professoressa di		5dcy:5
+la professoressa di scienze		5dcy:5
+la professoressa di scienze naturali	5dcy	
+le fleuve	3tax	
+liaoyang	vmu	
+liaoyang liaoning	vmu	
+luois armstrong	e8h	
+malabon	z6r	
+malabon city	z6r	
+malabon metro manila	z6r	
+marevan	rpv	
+mcnulty steve	5t4k	
+mediolani	b4	
+meimurje	5znr	5znr:2
+meimurje cakovec	jgx	
+meimurje county	5znr	
+michiyo		2l85:2,4vry:2
+michiyo aratama	4vry	
+michiyo kogure	2l85	
+ngc 224	pf4	
+ngc 292	1uiu	
+ngc 3992 group	5ber	
+ngc 598	2vzf	
+nomian	2irm	
+origen	3azs	
+origen adamantius	3azs	
+origen and origenism	3azs	
+origen of alexandria	3azs	
+originals		398y:2
+osteno	43io	
+petralia		1atr:2,3w7d:2
+petralia soprana	3w7d	
+petralia sottana	1atr	
+pfalzer wald	xhp	
+picarreau	2rv2	
+piscinarius	5rce	
+powstanie listopadowe	3nx0	
+powstanie warszawskie	1m64	
+protractor series	43l7	
+puo una morta rivivere per amore	57yy	
+q2wf	28v5	
+raghunath		2fgl:2,6c64:3
+raghunath anant		6c64:3
+raghunath anant mashelkar	6c64	
+raghunath mashelkar	6c64	
+raghunath paleri	2fgl	
+rathnavelu	1dp8	
+ratingen	mkb	
+ratingen germany	mkb	
+rayshe	a10	
+reality	dtk,4ot5,60q8,6g30	i1:2,1px9:2,5aiw:2
+reality 2 0	4fqc	
+reality 2012 film	4ot5	
+reality 2014 film	60q8	
+reality asylum	17yd	
+reality awake	1jrr	
+reality bites	1px9	
+reality bites soundtrack	1px9	
+reality competition	i1	
+reality david bowie album	6g30	
+reality david bowie song	6g30	
+reality encoding	mj4	
+reality game show	2ts	
+reality labs	5aiw	
+reality programme	i1	
+reality programming	i1	
+reality rap	37j	
+reality shows	i1	
+reality shows of suvarna channel	5agt	
+reality shows on suvarna channel	5agt	
+reality television	i1	
+reality television contestant	i1	
+reality television programme	i1	
+reality television series	i1	
+reality television show	i1	
+reality tv	i1	
+reality tv king	43qh	
+reality tv series	i1	
+richard lord british garriott	12f1	
+rlz	1gza	
+rukum	y6k	y6k:2
+rukum district	y6k	
+saint angelina	4fnd	4fnd:4
+saint angelina of		4fnd:4
+saint angelina of kruje	4fnd	
+saint angelina of serbia	4fnd	
+saint engrace	2h64	
+san giustino	28az	
+san zanipolo	4wna	
+shershah suri	5c9q	
+sining	16rq	
+sir lauchlan maclean of morvern	5yo4	
+skryje	45sl	
+skryje rakovnik district	45sl	
+skullduggery	5is7	
+skullduggery 1970 film	5is7	
+st dizier	kej	
+steinfort	2i5a	
+suenon the forked beard	2a0k	
+tableluxe	3vba	
+tcfsr	5v3u	
+texasel paso	b1o	
+the demonic toys trilogy	4sm1	
+thomas otway	5rst	
+thory	3byk,3pfe	
+thory somme	3pfe	
+thory yonne	3byk	
+toscanelli	4xgj	
+toscanelli paolo dal pozzo	4xgj	
+tussol	fd1	
+valdir		3w8c:2,59wy:4,5u37:2
+valdir benedito	3w8c	
+valdir bigode	59wy	
+valdir cardoso	5u37	
+valdir de		59wy:4
+valdir de moraes		59wy:4
+valdir de moraes filho	59wy	
+valdir de morais filho	59wy	
+valdir pereira	2kri	
+valdir peres	3zhg	
+valdir perreira	2kri	
+vannesa anne hudgens	uej	
+viarail	6mr	
+viarail ca	6mr	
+viarail com	6mr	
+viarail com br	6mr	
+warwick	ciw,h0z,v6p,wb0,2xxy,62kl	obi:2,vkr:2,2sig:2,4i2x:2,5954:3
+warwick a davis	vkr	
+warwick and birmingham canal	561y	
+warwick and napton canal	561y	
+warwick ashley davis	vkr	
+warwick australia	v6p	
+warwick county indiana	11uo	
+warwick davies	vkr	
+warwick davis	vkr	
+warwick deeping	4i2x	
+warwick deeping novelist	4i2x	
+warwick district	wb0	
+warwick district council	wb0	
+warwick england	ciw	
+warwick fairfax	5954	
+warwick film	2sig	
+warwick film productions	2sig	
+warwick films	2sig	
+warwick gates	ciw	
+warwick mathematics department	2h2	
+warwick ontario	62kl	
+warwick oswald		5954:3
+warwick oswald fairfax	5954	
+warwick pictures	2sig	
+warwick ppe society speaker series	2h2	
+warwick productions	2sig	
+warwick qld	v6p	
+warwick quebec	2xxy	
+warwick queensland	v6p	
+warwick queensland comments	v6p	
+warwick rhode island	h0z	
+warwick ri	h0z	
+warwick richard	3504	
+warwick scott	422r	
+warwick the kingmaker	1fl1	
+warwick thomson	1zs	
+warwick uni	2h2	
+warwick united kingdom	ciw	
+warwick university	2h2	
+warwick university business school	2h2	
+warwick ward	obi	
+warwick warwickshire	ciw	
+warwick west bay	h0z	
+warwick west bay rhode island	h0z	
+winfield	1m3x,20yt	2pu2:2,2vam:2,3dok:3,508i:3,5gmq:3
+winfield hancock	5gmq	
+winfield il	20yt	
+winfield illinois	20yt	
+winfield kansas	1m3x	
+winfield ks	1m3x	
+winfield ks msa	l3z	
+winfield ks sa	l3z	
+winfield queens	62rs	
+winfield r sheehan	2vam	
+winfield s		3dok:3
+winfield s cunningham	3dok	
+winfield s hancock	5gmq	
+winfield s harpe	508i	
+winfield scott	2pu2	508i:3,5gmq:3
+winfield scott cunningham	3dok	
+winfield scott hancock	5gmq	
+winfield scott harpe	508i	
+winfield sheehan	2vam	
+winfield wants noise	3njf	
+wireworm	wrk	
+withos	3569	
+xiangyang	13cn	
+xiangyang city	13cn	
+xiangyang hubei	13cn	
+yolanda		118w:2,1cku:3,1q88:3,1s98:3,1wko:3,22tw:4,2g99:2,3now:2,4tvg:5,5dj0:2,5uh5:2
+yolanda 1952 film	1v4m	
+yolanda adams	118w	
+yolanda and		22tw:4
+yolanda and the		22tw:4
+yolanda and the thief	22tw	
+yolanda california	3c02	
+yolanda cristina gigliotti	fi1	
+yolanda d king	2g99	
+yolanda de		1q88:3,1wko:3
+yolanda de aragon	1wko	
+yolanda de courtenay	1q88	
+yolanda de savoie	56o9	
+yolanda denise king	2g99	
+yolanda evette griffith	3now	
+yolanda foster	5uh5	
+yolanda gigliotti	fi1	
+yolanda griffith	3now	
+yolanda hadid	5uh5	
+yolanda i of constantinople	1cku	
+yolanda king	2g99	
+yolanda margherita of italy	56o9	
+yolanda of		1cku:3,1s98:3
+yolanda of aragon	3s63	
+yolanda of constantinople	1cku	
+yolanda of flanders	1cku	
+yolanda of gnesen	1s98	
+yolanda of jerusalem	3no6	
+yolanda of poland	1s98	
+yolanda prada de banzer	5yn9	
+yolanda renee king	49vl	
+yolanda sofia		4tvg:5
+yolanda sofia vargas		4tvg:5
+yolanda sofia vargas pereira		4tvg:5
+yolanda sofia vargas pereira dulche	4tvg	
+yolanda van den herik	5uh5	
+yolanda vargas dulche	4tvg	
+yolanda ventura	5dj0	
+yolanda whitaker	5bfy	
+yolanda whittaker	5bfy	
+yuuji	cfs	
+yuuji horii	1l10	
+yuuji naka	s63	
+yuuji ueda	1re0	
+zadar	5ds	2cgc:2
+zadar comments	5ds	
+zadar county	2cgc	
+zadar croatia	5ds	
+zadar dalmatia	5ds	
+zerozerozero	3zgq	
+zifnab	3ux2	

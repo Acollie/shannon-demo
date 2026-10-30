@@ -1,0 +1,364 @@
+aksjeselskap	cu2	
+alessandria	6e3	2vqb:3,4f2i:3
+alessandria calcio	595	
+alessandria del		2vqb:3
+alessandria del carretto	2vqb	
+alessandria della		4f2i:3
+alessandria della rocca	4f2i	
+alessandria della rossa	4f2i	
+alessandria di sicilia	4f2i	
+alessandria fc	595	
+alessandria italy	6e3	
+alessandria province	2wu	
+alexander ivanovich		53o1:3
+alexander ivanovich herzen	334k	
+alexander ivanovich koldunov	19k8	
+alexander ivanovich lebed	2n9u	
+alexander ivanovich mikhailov	53o1	
+alexander ivanovich oparin	2207	
+amandine	5zrx	43qe:2
+amandine aaurore lucile dudevant	vuk	
+amandine aurore lucie dupin	vuk	
+amandine aurore lucile dupin	vuk	
+amandine aurore lucile dupin baroness dudevant	vuk	
+amandine aurore lucile dupin baronesse dudevant	vuk	
+amandine dupin	vuk	
+amandine first name	5zrx	
+amandine given name	5zrx	
+amandine henry	43qe	
+amandine lucile aurore dupin	vuk	
+amandine lucile dupin	vuk	
+ambax	3294	
+analfabeto	4ww2	
+anyphaenid	pvx	
+anyphaenid sac spider	pvx	
+archamps	2c83	
+askala mariam	5fr7	
+aste	1xb6	2sk6:2
+aste beon	2sk6	
+auctioneering	266t	
+austenland	2uqu	
+austenland film	2uqu	
+autreche	29ey	
+axiat	42jo	
+azzana	2r0g	
+bagdat	1h3	
+barberries	bja	
+belleserre	3pbt	
+beveren	piq	
+beveren east flanders	piq	
+beveren waas	piq	
+bongodesh	byh	
+botosani	j4g	6yp:2
+botosani county	6yp	
+botosani romania	j4g	
+brookesia	1k88	
+brujas		hsk:3
+brujas de escazu	hsk	
+brujas f		hsk:3
+brujas f c	hsk	
+brujas fc	hsk	
+cahul	198t	qf7:2
+cahul district	qf7	
+cahul university	198t	
+camilla	a78,39sk,4lbf,4y8w	15tj:2,17ic:2,18m1:2,1a6g:3,26g9:2,31ir:2,435f:2,4a3n:2,550m:2,5l0u:3,5lqd:2
+camilla 1954 film	4y8w	
+camilla 1994 film	4lbf	
+camilla baroness renfrew	1ebm	
+camilla belle	17ic	
+camilla belle routh	17ic	
+camilla cabello	29r7	
+camilla cleese	bf6	
+camilla collet	435f	
+camilla collett	435f	
+camilla countess of carrick	1ebm	
+camilla countess of chester	1ebm	
+camilla duchess of cornwall	1ebm	
+camilla duchess of rothesay	1ebm	
+camilla filippi	550m	
+camilla first name	a78	
+camilla fortescue cholmondeley browne	3y6i	
+camilla ga	39sk	
+camilla georgia	39sk	
+camilla given name	a78	
+camilla hildegarde wedgewood	31ir	
+camilla hildegarde wedgwood	31ir	
+camilla horn	15tj	
+camilla kur		5l0u:3
+camilla kur larsen	5l0u	
+camilla lackberg	4a3n	
+camilla laeckberg	4a3n	
+camilla martin	26g9	
+camilla martin nygaard	26g9	
+camilla mountbatten windsor	1ebm	
+camilla ontario	4f0t	
+camilla parker	1ebm	
+camilla parker bowles	1ebm	
+camilla princess consort	1ebm	
+camilla princess of wales	1ebm	
+camilla sparv	5lqd	
+camilla spira	18m1	
+camilla the princess of wales	1ebm	
+camilla vitale	117k	
+camilla von		1a6g:3
+camilla von hollay	1a6g	
+camilla von lattorf	trd	
+camilla wedgewood	31ir	
+camilla wedgwood	31ir	
+camilla wergeland	435f	
+camilla wergeland collett	435f	
+campoli		3kxo:2,484e:4
+campoli appennino	3kxo	
+campoli del		484e:4
+campoli del monte		484e:4
+campoli del monte taburno	484e	
+chammy koala	15bn	
+chapi ferrer	2301	
+chopin		15qf:4,4qvw:4
+chopin desire		4qvw:4
+chopin desire for		4qvw:4
+chopin desire for love	4qvw	
+chopin frederic	65p	
+chopin frederic francois	65p	
+chopin kate	37ag	
+chopin mazurkas	2fbm	
+chopin nocturne	2ler	
+chopin nocturnes	2ler	
+chopin pragnienie milosci	4qvw	
+chopin pragnienie miosci	4qvw	
+chopin s mazurkas	2fbm	
+chopin s nocturnes	2ler	
+chopin school of music	15qf	
+chopin university		15qf:4
+chopin university of		15qf:4
+chopin university of music	15qf	
+chopin waltzes	5s75	
+cirez d	34ng	
+cognocoli		2zom:2
+cognocoli monticchi	2zom	
+compt rend acad bulg sci	7ey	
+condofuri	2xi1	
+cortulua	cy2	
+courcerac	2qio	
+crassulacae	4zd8	
+crisco kid	16ad	
+crugey	291i	
+csm	6yr	
+csm baia mare	hk5	
+csm ceahlaul		7aq:4
+csm ceahlaul piatra		7aq:4
+csm ceahlaul piatra neamt	7aq	
+csm cetatea		5ls5:3
+csm cetatea suceava	5ls5	
+csm diables noirs	44dy	
+csm drobeta turnu severin	29hd	
+csm dunarea giurgiu	3sdu	
+csm flacara		5p2h:3
+csm flacara moreni	5p2h	
+csm focsani	5hh9	
+csm iasi	b5m	
+csm jiul petrosani	gu4	
+csm medias	8mz	
+csm metalul resita	zfn	
+csm olimpia satu mare	w7m	
+csm poli iasi	b5m	
+csm politehnica		b5m:3
+csm politehnica iasi	b5m	
+csm ramnicu valcea	h94	
+csm resita	lec	
+csm scolar resita	lec	
+csm studentesc iasi	b5m	
+csm unirea		gqa:4
+csm unirea alba		gqa:4
+csm unirea alba iulia	gqa	
+curlandia	3088	
+curriculum unavailable	10zl	
+dukowan	2y8c	
+epamraica	5i3t	
+epermeniola	bgk	
+fc snagov	2js5	
+george lowrie	67q0	
+glamoc	k42	
+glamoc glamoc	k42	
+gree tour of guangxi 2017	101f	
+helmholtz	jmz	1blc:6
+helmholtz association	1blc	1blc:6
+helmholtz association of		1blc:6
+helmholtz association of german		1blc:6
+helmholtz association of german research		1blc:6
+helmholtz association of german research centres	1blc	
+helmholtz association of national research centres	1blc	
+helmholtz gemeinschaft	1blc	
+helmholtz gemeinschaft deutscher forschungszentren	1blc	
+helmholtz gesellschaft	1blc	
+helmholtz medal	75h	
+helmholtz watson	6awj	
+history paintings	1zr	
+houlton	1ivz	
+houlton academy	4shz	
+houlton maine	1ivz	
+houlton me	1ivz	
+houlton town maine	1ivz	
+houlton town me	1ivz	
+humo		5fyw:3
+humo de		5fyw:3
+humo de marihuana	5fyw	
+inanition	398h	
+james conlin	4z4x	
+john newbery award	fp4	
+john rodgers airport	1w6y	
+john rodgers footballer	699s	
+john selwyn brooke lloyd	2oa8	
+john selwyn brooke lloyd baron selwyn lloyd	2oa8	
+kaadhalan	5x1u	
+kennewick	10mf	
+kennewick city center washington	10mf	
+kennewick courier	10mf	
+kennewick united states	10mf	
+kennewick wa	10mf	
+kennewick washington	10mf	
+kennewick washington metropolitan area	10mf	
+kiin donarudo	2ehd	
+kispus	1mev	
+kriegsgericht	3h99	
+la tregua	18no	
+la tregua 1974 film	351j	
+la tregua 1997 film	18no	
+le chev bernin	d1l	
+lsv	xwh	
+mahlon		1oh9:2,5rv5:2
+mahlon dickerson	5rv5	
+mahlon hamilton	1oh9	
+marengo		i9f:2
+marengo co al	i9f	
+marengo co alabama	i9f	
+marengo county	i9f	
+marengo county al	i9f	
+marengo county alabama	i9f	
+mazul	kj7	kj7:3
+mazul rural		kj7:3
+mazul rural district	kj7	
+merinchal	1r5x	
+metaphors	24vg	
+misael		4k8c:3,5bjr:3
+misael pastrana	5bjr	5bjr:3
+misael pastrana borrero	5bjr	
+misael silva		4k8c:3
+misael silva jansen	4k8c	
+mtz ripo	bpu	
+niederwil	3fq5	
+niederwil aargau	3fq5	
+niederwil ag	3fq5	
+nod characters of command and conquer	1jmx	
+nod characters of command conquer	1jmx	
+nod sur		210y:3
+nod sur seine	210y	
+nutrush	4q7n	
+ochirosii	34vi	
+orbitoscuta	4nee	
+ouo department	2a6n	
+outsourced	3j1t	
+outsourced 2006 film	3j1t	
+outsourced film	3j1t	
+pabok county regional municipality	2dqo	
+pabok county regional municipality quebec	2dqo	
+pabok regional county muncipality	2dqo	
+pabok regional county municipality quebec	2dqo	
+pase atras gomes	37a5	
+paul grabowsky	24vv	
+perambalur		1aqs:2
+perambalur district	1aqs	
+perizoma	3agk	
+pictorial	50kx	
+pictorial artist	3lz	
+pictorial arts	3lz	
+pictorial semiotics	5knu	
+pictorial work	50kx	
+plusquellec	328u	
+pobiedziska commune	pzh	
+posthc	2mn	
+prince fumimaro konoe	4tee	
+pyramidal	4jhd	
+regnant	6ep	
+rehau	36no	
+rence	2hti	
+richard mulrooney	5h28	
+righteye flounder	68cb	
+rivergaro	3jvc	
+robert fulke		5xo2:3
+robert fulke greville	5xo2	
+rognon	3nyz	
+rognon doubs	3nyz	
+roslavl	4rqh	
+sakatah lake	wrz	
+san cosmo		3n44:3
+san cosmo albanese	3n44	
+shenzun	5ai	
+sir bryson hall	3261	
+sir bryson hall ii	3261	
+sirin ebadi	4tcq	
+st maurice	5pct	
+st maurice river	w4o	
+st maurice valais	3beo	
+suzakumon	6bj8	
+suzakumon film	6bj8	
+swiatniki gorne commune	5456	
+the kylie jenner effect	1gou	
+the teahouse		2jzk:6
+the teahouse of		2jzk:6
+the teahouse of the		2jzk:6
+the teahouse of the august		2jzk:6
+the teahouse of the august moon	2jzk	
+the teahouse of the august moon film	2jzk	
+thoeng	29cv	
+thoeng district	29cv	
+toyoura niigata	3yoz	
+trassilico	26uw	
+triunfo california	ahr	
+triunfo de la cruz	1pnp	
+triunfo del amor	52cv	
+triunfo del amor telenovela	52cv	
+trombonist	236	
+urruna	28s5	
+varanges	251s	
+vinnai thaandi varuvaaya	5edp	
+wanda	alt	t2g:2,15mu:2,1pmy:2,1qq2:2,2lfu:2,2wbx:2,2zye:2,362g:3,3mfl:2,3mpm:2,44p9:3,580e:2,6652:3
+wanda and willy	69oi	
+wanda capodaglio	3mfl	
+wanda company	3mpm	
+wanda de		6652:3
+wanda de jesus	6652	
+wanda first name	alt	
+wanda frank	4g6f	
+wanda gag	2wbx	
+wanda given name	alt	
+wanda group	3mpm	
+wanda hawley	t2g	
+wanda hazel gag	2wbx	
+wanda hendrix	2zye	
+wanda jackson	15mu	
+wanda jarszewska	2lfu	
+wanda k farr	44p9	
+wanda kirkbride	44p9	44p9:3
+wanda kirkbride farr	44p9	
+wanda la		362g:3
+wanda la peccatrice	362g	
+wanda lavonne jackson	15mu	
+wanda magnus	4g6f	
+wanda margarite kirkbride	44p9	
+wanda margarite kirkbride farr	44p9	
+wanda maximoff	4g6f	
+wanda name	alt	
+wanda ribeiro de vasconcelos	2c02	
+wanda shepard	4hgk	
+wanda sikes	1pmy	
+wanda sykes	1pmy	
+wanda sykes hall	1pmy	
+wanda the sinner	362g	
+wanda tuchock	580e	
+wanda wasilewska	1qq2	
+wanda woodward	1llg	
+watermill	g7e	
+watermill in the greco roman world	g7e	
+wykowyszki	2ppw	
+yafet ibn nuh	2t8c	

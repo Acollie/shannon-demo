@@ -1,0 +1,493 @@
+1990s	183d	
+1990s alt rock	5x	
+1990s alternative s	5x	
+1990s australian hip hop	trz	
+1990s australian rap music	trz	
+1990s edm	2vv	
+1990s folk punk	q5d	
+1990s garage rock	2eh	
+1990s hip hop	7o	
+1990s house	xd	
+1990s indie rock	an	
+1990s latin music	lc0	
+1990s metallic hardcore	2dl	
+1990s post grunge	4ab	
+1990s post rock	2ks	
+1990s prog rock	ig	
+1990s progressive rock	ig	
+1990s rap	7o	
+1990s skate rock	4ohk	
+1990s southern rock	4ge	
+1990s synth pop	vh	
+1990s synthpop	vh	
+1990s trip hop	1tu	
+255 0 0	1py	
+255 255 0	37q	
+255 255 255	ti	
+aage	jnv	23fj:2,40ig:2,4gvb:2,50k6:2,5ea2:3,65i9:2
+aage aage topai ko gola	f58	
+aage bohr	23fj	
+aage count of rosenborg	41to	
+aage first name	jnv	
+aage fnss	65i9	
+aage fonss	65i9	
+aage foss	4gvb	
+aage given name	jnv	
+aage hareide	3yh3	
+aage n bohr	23fj	
+aage neils bohr	23fj	
+aage niels bohr	23fj	
+aage schavland	50k6	
+aage stentoft	40ig	
+aage winther		5ea2:3
+aage winther joergensen	5ea2	
+aage winther jorgensen	5ea2	
+aage winther jrgensen	5ea2	
+abbasaga park	hqe	
+abkhaziya	76x	
+amoneburg	486j	
+amurskaya oblast russia	g4k	
+ashbury bangor	hir	
+ashbury park	old	
+ashbury poet	qnj	
+b52s	phl	
+bahadoor	51mo	
+bcg bladder cancer	ar0	
+beevis and buthed	34zw	
+blatnyak	1848	
+bonggon	6l	
+browser		1dj4:2,6fjx:2
+browser add on	6fjx	
+browser addon	6fjx	
+browser application	zxc	
+browser based	zxc	
+browser based game	1dj4	
+browser based game websites	1dj4	
+browser based games	1dj4	
+browser based software	zxc	
+browser extension	6fjx	
+browser game	1dj4	
+browser game websites	1dj4	
+browser plug in	4kkj,6fjx	
+browser plugin	6fjx	
+browser rpg	1dj4	
+browser web	5si	
+buckand	2l7v	
+cadets	5ley	
+cadets film	5ley	
+cadets of gascony		1s4l:4
+carboxylic	49o	49o:2
+carboxylic acid	49o	
+carboxylic functional group	49o	
+carboxylic group	49o	
+cbbc	bji,ten	
+cbbc channel	ten	
+cbbc choice	6888	
+cbbc hd	ten	
+cbbc on choice	6888	
+cbbc presenters	bji	
+cbbc specials	bji	
+cbbc tv channel	ten	
+chambon	2prz,2q6i,2tgt,37ma	23gl:3,24sv:3,29xp:3,2xtf:3,39se:3,3llg:3,3rbd:3
+chambon charente maritime	2prz	
+chambon charente maritime france	2prz	
+chambon cher	2tgt	
+chambon gard	2q6i	
+chambon indre et loire	37ma	
+chambon la		39se:3
+chambon la foret	39se	
+chambon le		29xp:3
+chambon le chateau	29xp	
+chambon sainte		3llg:3
+chambon sainte croix	3llg	
+chambon sur		23gl:3,24sv:3,2xtf:3,3rbd:3
+chambon sur cisse	3rbd	
+chambon sur dolore	2xtf	
+chambon sur lac	24sv	
+chambon sur voueize	23gl	
+charade	1c5w	
+charade 1963 film	1c5w	
+charade band	vi6	
+chut up	vmi	
+colaspis	3dwp	
+commewijne		68fi:2
+commewijne district	68fi	
+counties	hzu	4mlv:5
+counties in china	vn	
+counties in denmark	639z	
+counties in estonia	4vni	
+counties in finland	4vqk	
+counties in hungary	3ipa	
+counties in iran	2tk	
+counties in ireland	1yxn	
+counties in kenya	s7f	
+counties in norway	3s8j	
+counties in south sudan	2nsx	
+counties in sweden	ptn	
+counties in the people s republic of china	vn	
+counties in victoria	15j5	
+counties manukau		4mlv:5
+counties manukau rfu	4mlv	
+counties manukau ru	4mlv	
+counties manukau rugby		4mlv:5
+counties manukau rugby football		4mlv:5
+counties manukau rugby football union	4mlv	
+counties manukau rugby union	4mlv	
+counties manukau rugby union team	4mlv	
+counties manukau steelers	4mlv	
+counties of bulgaria	1n19	
+counties of catalonia	uf1	
+counties of china	vn	
+counties of croatia	39u2	
+counties of czech republic	5g20	
+counties of denmark	639z	
+counties of estonia	4vni	
+counties of finland	4vqk	
+counties of hungary	3ipa	
+counties of hungary before 1920	feu	
+counties of iran	2tk	
+counties of ireland	1yxn	
+counties of jamaica	5rb3	
+counties of japan	2rc	
+counties of kenya	s7f	
+counties of liberia	5orp	
+counties of mazandaran	2pw	
+counties of new brunswick	5w08	
+counties of norway	3s8j	
+counties of norway doc	3s8j	
+counties of prussia	wuu	
+counties of south sudan	2nsx	
+counties of southern sudan	2nsx	
+counties of spain	9zn	
+counties of sudan	3jyy	
+counties of sweden	ptn	
+counties of taiwan	4xie	
+counties of the holy roman empire	2vd5	
+counties of the kingdom of hungary	feu	
+counties of the kingdom of hungary 1000 1918	feu	
+counties of the kingdom of hungary 10001918	feu	
+counties of the netherlands	4pgr	
+counties of the people s republic of china	vn	
+counties of the republic of china	4xie	
+counties of the republic of ireland	1yxn	
+counties of usa	bro	
+counties of victoria	15j5	
+counties rfu	4mlv	
+cyrtaucheniidae	5g6f	
+dansili	56cu	
+dansili horse	56cu	
+darkover		12th:2
+darkover series	12th	
+depredations	1puq	
+dohobyczow commune	y2o	
+dried apple	894	
+dried bean	3g6l	
+dried herbs	24nb	
+dried pasta	ctu	
+dzerzinsk russia	16nh	
+eedt	8da	
+eihl	4ip7	
+enosanthes	2r4k	
+fc nord am ltd podillya khmelnytskyi	qpl	
+fc pakhtakor	7h1	
+fc pakhtakor andijan	mka	
+fc pakhtakor kurgan tube	16xf	
+fc pakhtakor kurgan tyube	16xf	
+fc pakhtakor tashkent	7h1	
+fila biella	uq7	
+fila world championships	hwx	
+fila wrestling world championships	hwx	
+fogao	23c	
+folldal	1s1s	1s1s:2
+folldal municipality	1s1s	
+folldal village	1s1s	
+fourqueux	2iie	
+funniculars	83u	
+gastroglottis	1yzt	
+gazelle	5egg	3kmq:3,5zwq:2
+gazelle class	3kmq	3kmq:3
+gazelle class cruiser	3kmq	
+gazelle class cruisers	3kmq	
+gazelle class light cruiser	3kmq	
+gazelle fc	5zwq	
+gernelle	2s7h	
+glovina	3f0b	
+goool	psg	
+guadilaylay	1r4	
+gunning christopher	2728	
+health	2tqf,64ng	9fe:2,11so:2,17hf:2,1x81:2,2phw:2
+health 1979 movie	64ng	
+health and disease	at	
+health and human services	384m	
+health and human services secretary	4lc8	
+health and physical education complex fvsu	47jh	
+health association	dct	
+health associations	dct	
+health benefit medicine	2tqf	
+health benefits medicine	2tqf	
+health benefits of eating seafood	1olo	
+health benefits of honey	wsw	
+health capital of india	pq	
+health care	9fe	
+health care compared	17hf	
+health care cost	17hf	
+health care costs	17hf	
+health care delivery	9fe	
+health care district	9fe	
+health care facilities	ngb	
+health care facility	ngb	
+health care in comparison	17hf	
+health care in eswatini	2qq	
+health care in guinea	17e	
+health care in lesotho	28n	
+health care in liberia	1i9	
+health care in swaziland	2qq	
+health care in the gambia	210	
+health care in togo	12o	
+health care in uruguay	bg	
+health care in zambia	151	
+health care organizations	9fe	
+health care overhaul	6h38	
+health care system	17hf	
+health care systems	17hf	
+health club	1x81	
+health clubs	1x81	
+health coverage	2phw	
+health disaster	9s4	
+health effects caused by burning coal	n73	
+health effects of heat waves	6e0z	
+health effects of honey	wsw	
+health effects of pollution	3w3g	
+health effects of smoke	5hyh	
+health effects of veganism	1bqh	
+health facilities	ngb	
+health facilities health care	ngb	
+health facilities health care providers	ngb	
+health facility	ngb	
+health film	64ng	
+health fitness	2nmo	
+health food coach	6sc	
+health hazards of eating fish	3z7p	
+health human services	384m	
+health in guam	3be	
+health in hawaii	1do	
+health in norfolk island	r8t	
+health in swaziland	2qq	
+health in the solomon islands	262	
+health insurance	2phw	
+health insurance benefit	2phw	
+health insurance bill of 1883	hcj	
+health insurance company	2phw	
+health insurance in washington state	as	
+health insurance premium	2phw	
+health insurance provider	2phw	
+health insurer	2phw	
+health insurers	2phw	
+health issues affecting prisoners	1iw	
+health maintenance	2tqf	
+health minister	11so	
+health net cycling team	qr1	
+health news australia	191x	
+health occupations	9fe	
+health of paul robeson	ke8	
+health of ronald reagan	52j	
+health organization	xzv	
+health problems	at	
+health professional shortage area	9fe	
+health research	3gmw	
+health risks of being overweight	491q	
+health risks of obesity	24m	
+health risks of sexual activity	1p0h	
+health risks of sitting	5kl	
+health science center syracuse	1hwc	
+health sciences campus at lake nona	72b	
+health sciences witwatersrand	498	
+health secretary	1925	
+health spa	1x81	
+health status of hispanic and latino americans	64k9	
+health system	17hf	
+holbrook	2l2z	
+holbrook arizona	2l2z	
+holbrook az	2l2z	
+holbrook meteorite	2l2z	
+i wonder		5zof:7
+i wonder brenda lee song	jsv	
+i wonder who		5zof:7
+i wonder who s		5zof:7
+i wonder who s kissing		5zof:7
+i wonder who s kissing her		5zof:7
+i wonder who s kissing her now	5zof	
+i wonder who s kissing her now film	5zof	
+ignorance is strength	1700	
+instincion	2ike	
+instincion almeria	2ike	
+instincion spain	2ike	
+iriston mozdok	1bls	
+iriston vladikavkaz	1oks	
+italien	p	
+jaroslav		1glq:2,1ixy:2,1job:2,265y:2,2jc3:2,2oxk:2,2pz0:2,3xdv:2,4b6o:2,4eic:2,4gvc:2,4hm1:2,4inj:2,4r66:2,4vtj:2,57si:2,5chr:2,5hre:2,5q2t:2,5yvi:2,602c:2,60ok:2,62j2:2,64gr:2,65ep:2
+jaroslav boucek	4eic	
+jaroslav cerny	4hm1	
+jaroslav cerny footballer	4hm1	
+jaroslav dohnal	4lp6	
+jaroslav dombrowski	51wp	
+jaroslav drobny	2oxk,4b6o	
+jaroslav drobny footballer	2oxk	
+jaroslav goll	5yvi	
+jaroslav hasek	2pz0	
+jaroslav heyrovsky	1glq	
+jaroslav holik	57si	
+jaroslav i of kiev	v9r	
+jaroslav jan pelikan	1job	
+jaroslav jezek	4vtj	
+jaroslav jezek composer	4vtj	
+jaroslav kentos	5chr	
+jaroslav kvapil	4r66,60ok	
+jaroslav kvapil composer	60ok	
+jaroslav machovec	64gr	
+jaroslav marvan	1ixy	
+jaroslav nesetril	65ep	
+jaroslav pelikan	1job	
+jaroslav plasil	2jc3	
+jaroslav popovych	2d0m	
+jaroslav prucha	4inj	
+jaroslav sedivec	3xdv	
+jaroslav seifert	5hre	
+jaroslav silhavy	62j2	
+jaroslav spacek	265y	
+jaroslav uhlir	602c	
+jaroslav vojta	4gvc	
+jaroslav vrchlicky	5q2t	
+jean bachelet	2rkk	
+kefalario kifissia greece	57ra	
+komancza commune	1elu	
+la rupture	2g18	
+landen	2lxd	
+lennonono		311d:4
+lennonono grant		311d:4
+lennonono grant for		311d:4
+lennonono grant for peace	311d	
+lomandraceae	5b6i	
+lonelyhearts	3cs0	
+longchamps	2bbf	323j:3
+longchamps castle	1bxf	
+longchamps eure	2bbf	
+longchamps sur		323j:3
+longchamps sur aire	323j	
+lucion paul gygax	1kd2	
+manualine	sgn	
+mapleton middle school	116z	
+mbekweni	4q3v	
+mbekweni western cape	4q3v	
+mcdivitt	1yzr	
+melisey	1r3r,2cbl	
+melisey haute saone	1r3r	
+melisey yonne	2cbl	
+mikcey mouse	pbg	
+millawanda	19qv	
+mogoditshane		5on8:2
+mogoditshane fighters	5on8	
+monteferrante	451q	
+motosports	rw	
+nae	1m8	
+nae ireumeun kim sam soon	46gl	
+orienta losangeleso	qrn	
+orikasa ai	48dv	
+orikasa fumiko	27y6	
+orikasa humiko	27y6	
+ortovero	3onn	
+osong		4rf0:2
+osong station	4rf0	
+oxfordcambridge boat race	6i4	
+pereira	idz	
+pereira capital del eje	idz	
+pereira colombia	idz	
+pereira colombia comments	idz	
+pereira risaralda	idz	
+pereira william	3pow	
+philatory	2e2u	
+pierremande	27bs	
+pinderes	23m6	
+pocahontes	4eyu	
+preface of origin	5u77	
+prince muneyoshi	49vt	
+pyrexia	ovo	
+ribaute		221u:3
+ribaute les		221u:3
+ribaute les tavernes	221u	
+richard kline	61k4	
+robert casa	47c0	
+samitier	4d51	
+san demas	1ekm	
+scilloideae	1aqj	
+segerhammar center for faith and culture	1glm	
+sinalunga	1jur	
+siparantum	du6	
+specificity biochemistry	ab	
+spekkio chrono trigger	13v5	
+squatinactiformes	5i2g	
+stankovic	3cj6	
+sukowice commune	4g2a	
+superintendent	5jk4	
+superintendent cholmondeley	54yt	
+superintendent education	6ft6	
+superintendent fouquet	61os	
+superintendent jail	tsq	
+superintendent of central jail	tsq	
+superintendent of education	6ft6	
+superintendent of jail	tsq	
+superintendent of prison	tsq	
+superintendent of prisons	tsq	
+superintendent of public instruction	ohu	
+superintendent of schools	6ft6	
+superintendent prison	tsq	
+superintendent the most honourable sybil rachel betty cecile marchioness of cholmondeley	54yt	
+superintendent united states air force	5jk4	
+talbot	5i0s	uj5:2,1pfm:2,2ywy:2,3rvp:2,5spe:2,673v:2
+talbot brian	4r31	
+talbot county	uj5,3rvp	
+talbot county ga	3rvp	
+talbot county georgia	3rvp	
+talbot county maryland	uj5	
+talbot county md	uj5	
+talbot family name	5i0s	
+talbot hobbs	5spe	
+talbot jennings	2ywy	
+talbot mundy	673v	
+talbot rothwell	1pfm	
+talbot surname	5i0s	
+the crucifixion	56rb	
+the crucifixion of jesus	14pq	
+the crucifixion of jews must stop	51co	
+the crucifixion pavia	56rb	
+the crucifixion pavias	56rb	
+the mastersingers of nuremberg	6h10	
+the mastersingers of nurenberg	6h10	
+the mastersingers of nurnberg	6h10	
+the ravonettes	3caa	
+thiais	rcm	
+thiais france	rcm	
+thomas edmunds tom price	4zsu	
+thomas thomassen heftye	5ukx	
+umbelliferous	b0z	
+uniautonoma		1eco:2
+uniautonoma f c	1eco	
+uniautonoma fc	1eco	
+unitarianism	vd8	
+vaqueros		3y4s:3
+vaqueros de		3y4s:3
+vaqueros de bayamon	3y4s	
+vaqueros de bayamon basketball	3y4s	
+verrucaditha spinosa	68nq	
+vmro dpmne	2s1r	
+william bergsma	5tv5	
+wxwidgets	dxl	
+zabriskie		24xh:2,58oz:2
+zabriskie point	24xh,58oz	
+zabriskie point album	58oz	
+zabriskie point film	24xh	
+zabriskie point movie	24xh	
+zbaa	31ss	
+zfish118 fransiscans led by michael perry	3wn	
+zfish118 ofm perry	3wn	
+zinkernagel	1x45	

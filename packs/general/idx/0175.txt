@@ -1,0 +1,504 @@
+0	2dks	
+0 0 0	2sn	
+0 0 255	29x	
+0 0 void	1q25	
+0 10 network	419	
+0 11 polytope	4n8l	
+0 2 0	545j	
+0 2 1	4nu6	
+0 2 2	23qw	
+0 2 2 russian	23qw	
+0 20	21y	
+0 20 polytope	4tpl	
+0 22 long rifle	cyw	
+0 22 short	5pnj	
+0 255 0	3ha	
+0 3 0 russian	b17	
+0 303 british	1xg0	
+0 338 lapua magnum	6d5u	
+0 4		23qw:3,4nu6:3,545j:3
+0 4 0	545j	
+0 4 0 russian	1al1	
+0 4 0dh	545j	
+0 4 0st	545j	
+0 4 0t	545j	
+0 4 0wt	545j	
+0 4 2	4nu6	
+0 4 2rt	4nu6	
+0 4 2st	4nu6	
+0 4 2t	4nu6	
+0 4 2wt	4nu6	
+0 4 4	23qw	
+0 4 4bt	23qw	
+0 4 4t	23qw	
+0 45 acp	sxu	
+0 50 bmg	zoo	
+0 6		b17:3
+0 6 0	b17	
+0 6 0de	b17	
+0 6 0dh	b17	
+0 6 0dm	b17	
+0 6 0st	b17	
+0 6 0t	b17	
+0 6 0wt	b17	
+0 8		1al1:3
+0 8 0	1al1	
+0 8 0t	1al1	
+0 9	2ekp	
+0 a		3ly5:3
+0 a d	3ly5	
+0 a d computer game	3ly5	
+0 a d game	3ly5	
+0 a d version history	3ly5	
+0 a d video game	3ly5	
+0 ad	3ly5	
+0 ad game	3ly5	
+0 dark 30	pl0	
+0 dark thirty	pl0	
+0 face	2j9	
+0 fucks given	2ec2	
+0 operand instruction set	2l2c	
+0 polytope	2j9	
+0 simplex	2j9	
+0 to		5xce:5
+0 to 1		5xce:5
+0 to 1 no		5xce:5
+0 to 1 no aida	5xce	
+a dream of red mansions	1jx8	
+a dream of red mensions	1jx8	
+a dream of red pavilions	1jx8	
+afanasieff	25qz	
+afanasieff walter	25qz	
+ahab	4exa	
+ahab moby dick	1pnx	
+ahab of israel	4exa	
+ahab s wife or the star gazer	1zcz	
+alican		63tf:2
+alican karadag	63tf	
+amblythyris	m4l	
+anvin	2min	
+areso	4afk	
+arielli	5tcw	
+atarashii momo	601w	
+avesnelles	35b9	
+bakhmut	2biz	546b:2
+bakhmut donetsk oblast	2biz	
+bakhmut municipality	2biz	
+bakhmut raion	546b	
+barlous lake	157b	
+barni	51nx	
+bedestroff	1z2i	
+bedonia	3tdn	
+bedonia italy	3tdn	
+belgie	2p	
+belgie tweede klasse	1j17	
+belgie vierde klasse	5e91	
+bezmiliana	45cm	
+bisquits	rx2	
+bobrikov	5sjr	
+bohicon	4r67	
+bonneville	pbs,5wmv	1ua1:3,20xj:3,2nv1:2
+bonneville county	2nv1	
+bonneville county id	2nv1	
+bonneville county idaho	2nv1	
+bonneville film	5wmv	
+bonneville haute savoie	pbs	
+bonneville la		20xj:3
+bonneville la louvet	20xj	
+bonneville sur		1ua1:3
+bonneville sur touques	1ua1	
+bride		zwn:3,17qs:3,1rql:3,1w9s:3,1yqf:2,2c38:2,3nly:4,454m:4,45rp:4,4hu5:3,4q6f:4,51l9:3,5bwt:2,60ls:4
+bride and		1rql:3
+bride and prejudice	1rql	
+bride and prejudice 2004 film	1rql	
+bride and prejudice movie	1rql	
+bride by		51l9:3
+bride by mistake	51l9	
+bride came c o d	31lw	31lw:6
+bride can t wait	2vc9	2vc9:5
+bride finding ball	267u	
+bride flight	5bwt	
+bride is much too beautiful	33u5	33u5:6
+bride number 68	1mgy	
+bride of		zwn:3,17qs:3,1w9s:3,3nly:4,454m:4,45rp:4,4hu5:3,4q6f:4,60ls:4
+bride of chaotica	4hu5	
+bride of chaotica star trek voyager	4hu5	
+bride of chaotica voyager episode	4hu5	
+bride of chucky	zwn	
+bride of frankenstein	17qs	
+bride of frankenstein 1935 universal studios film	17qs	
+bride of frankenstein 2019 film	17qs	
+bride of frankenstein film	17qs	
+bride of gingy	rr0	
+bride of re		4q6f:4
+bride of re animator	4q6f	
+bride of the		3nly:4,454m:4,45rp:4,60ls:4
+bride of the atom	3nly	
+bride of the gorilla	60ls	
+bride of the monster	3nly	
+bride of the monster film	3nly	
+bride of the regiment	45rp	
+bride of the wind	454m	
+bride of vengeance	1w9s	
+bride prejudice	1rql	
+bride to be	18qt	
+bride walks out	2ts3	2ts3:4
+bride wars	2c38	
+bride wore black	1uql	1uql:4
+bride wore boots	4o6n	4o6n:4
+bride wore red	1plj	1plj:4
+carabaya		5hsh:2
+carabaya province	5hsh	
+chaousescou	ywn	
+charles lloyd	rxk	
+charles lloyd jazz musician	rxk	
+chiaro oscuro	llk	
+cnidarians	5kmx	
+contractual	83a	
+contractual law	83a	
+contractual power	83a	
+copenick	22gb	
+david bowman	5beh	
+david bowman footballer born 1964	5beh	
+david estrada	4a87	
+david estrada soccer	4a87	
+delitzsch	1mso	
+detrompez		5s4a:2
+detrompez vous	5s4a	
+deucalionids	69d2	
+dikkenek	592m	
+dinu		4lb1:2,60cf:2
+dinu lapatti	4lb1	
+dinu lipatti	4lb1	
+dinu sanmartean	60cf	
+dinu viorel moldovan	1xtb	
+edward heward bunker	27wi	
+egyptologist	23p8	
+eminen	7i4	
+enigmosauria	4yzh	
+epin	6eft	
+escragnolles	2kx3	
+espion		42v3:3
+espion leve		42v3:3
+espion leve toi	42v3	
+gkb t 34	5e89	
+gmina paecznica	20ey	
+godwinian	23i8	
+govindan aravindan	2ett	
+guldborgsund		b1s:2
+guldborgsund kommune	b1s	
+guldborgsund municipality	b1s	
+gungfu	2zz0	
+hallowell	2eyk	
+hallowell maine	2eyk	
+hallowell me	2eyk	
+hallowell ontario	3837	
+helapuri	1q36	
+hery	1s9d,2v0b	1xjl:2,3dbb:3,3phy:2
+hery herbert 3rd earl of carnarvon	49x2	
+hery i nordland	3phy	
+hery mre og romsdal	1xjl	
+hery municipality	1xjl,3phy	
+hery municipality nordland	3phy	
+hery nievre	2v0b	
+hery nordland	3phy	
+hery sur		3dbb:3
+hery sur alby	3dbb	
+hery sur ugine	1d41	
+hery yonne	1s9d	
+hodler	6198	
+hodler ferd	6198	
+hodler ferdinand	6198	
+imbecilesque	3dks	
+ipomoea	ude	
+jabal		20du:3
+jabal al tariq	2uz	
+jabal bob sandbox	5i4p	
+jabal mohsen	gj6	
+jabal rural		20du:3
+jabal rural district	20du	
+jabal tariq	2uz	
+james holden	2rkf	
+james holden engineer	2rkf	
+james holden locomotive engineer	2rkf	
+james patterson	bok	
+james patterson author	bok	
+james patterson doc	bok	
+joffre		4xo8:2
+joffre borgia	3n8r	
+joffre guerron	4xo8	
+john murtha	4ka7	
+kashkadarya oblast	176y	
+kashkadarya province	176y	
+kashkadarya region	176y	
+kerien	33cg	
+kokar	5pjt	
+kouji kondo	105s	
+kouji kondou	105s	
+kouji totani	4dwv	
+kouji tsujitani	2mfl	
+kouji wakamatsu	2q16	
+kouji yada	475j	
+kouji yakusho	uy4	
+kouji yata	475j	
+kuragea	6ezo	
+la pomarede	2gdr	
+liddel hart	62t2	
+louis freese	4d0p	
+lunar	5ok9	19j:2,41k:2,2q9t:2
+lunar basin	2q9t	
+lunar chronicles	6g8q	6g8q:3
+lunar city 7	ej3	
+lunar crater	19j	
+lunar crater locations	19j	
+lunar craters	19j	
+lunar eclipse	41k	
+lunar eclipses	41k	
+lunar eclipses doc	41k	
+lunar elipse	41k	
+lunar excursion module	6gsz	
+lunar impact crater	19j	
+lunar landing module	6gsz	
+lunar mare	2q9t	
+lunar mares	2q9t	
+lunar maria	2q9t	
+lunar module	6gsz	
+lunar pendant	6fux	
+lunar radius	nr	
+lunar rainbow	6hu7	
+lunar rock	12d8	
+lunar rocks	12d8	
+lunar rovers	20nm	
+lunar rovers f c	20nm	
+lunar sample	12d8	
+lunar samples	12d8	
+lunar sea	2q9t	
+lunar series	5ok9	
+lunar the silver star	5ok9	
+lunar tide	4slp	
+magister		l56:2
+magister and margarita	1a9e	
+magister equitum	l56	
+magister scientiae	16ds	
+magister sententiarum	3ada	
+mankiewicz joseph l	dpg	
+mankiewicz joseph leo	dpg	
+mariel		sza:2
+mariel hadley hemingway	sza	
+mariel hemingway	sza	
+mariel margaret hamm	40k8	
+marquixanes	2ab4	
+maryja	55bz	
+mashin sazi	111e	
+mashin sazi f c	111e	
+mashin sazi tabriz f c	111e	
+medea	3y5k,47wg,4opa,50d6,54f2	s09:2,vxo:2
+medea 1969 film	47wg	
+medea 1988 film	4opa	
+medea algeria	3y5k	
+medea friuli venezia giulia	54f2	
+medea friulivenezia giulia	54f2	
+medea go	54f2	
+medea italy	54f2	
+medea mercadante	2fk4	
+medea novel	14il	
+medea olympic	s09	
+medea painting	50d6	
+medea province	vxo	
+medea theodorakis	p8f	
+meld	4i82	
+meld star trek voyager	4i82	
+meld voy	4i82	
+meld voyager episode	4i82	
+menarsia	1i31	
+metsimaholo		4hb7:3
+metsimaholo local		4hb7:3
+metsimaholo local municipality	4hb7	
+milbank mansion	5qzi	
+modine matthew	jyl	
+monassut		1x40:2
+monassut audiracq	1x40	
+monestaries	wy	
+montfaucon	258h,2qc3,32ki,3bz5	28r6:3,2yra:2
+montfaucon aisne	258h	
+montfaucon d		28r6:3
+montfaucon d argonne	28r6	
+montfaucon doubs	32ki	
+montfaucon gard	3bz5	
+montfaucon lot	2qc3	
+montfaucon montigne	2yra	
+montfaucon sur moine	2yra	
+montrouge	fc9	
+montrouge cemetery	27gq	
+mozambic	17f	
+nevrekop	13w0	
+nichole cordova	4tsr	
+nichole kidman	bos	
+nichole richie	2907	
+nichole ritchie	2907	
+nocturne	4xli	1nry:5
+nocturne 1946 film	4xli	
+nocturne 2am mini album	1g12	
+nocturne blue		1nry:5
+nocturne blue and		1nry:5
+nocturne blue and silver		1nry:5
+nocturne blue and silver chelsea	1nry	
+nocturne film	4xli	
+nocturne in blue and green harmony in blue green	1nry	
+panonia	2jqz	
+percalpe	4ema	
+pharmacology	o5g	
+php	4x1	
+php 1	4x1	
+php 3	4x1	
+php 5	4x1	
+php 5 3	4x1	
+php 5 4	4x1	
+php fi	4x1	
+php framework	9a5	
+php hypertext preprocessor	4x1	
+php info	4x1	
+php interpreter	4x1	
+php language	4x1	
+php programming language	4x1	
+php script the upload script	aft	
+php script the wiki stylesheet	aft	
+princess laetitia	5hdw	5hdw:5
+princess laetitia maria	5hdw	5hdw:5
+princess laetitia maria archduchess of austria este	5hdw	
+princess laetitia maria of		5hdw:5
+princess laetitia maria of belgium	2dif,5hdw	
+princess laetitia maria of belgium archduchess of austria este	5hdw	
+rajouri		2scg:2
+rajouri district	2scg	
+robert zamora	4bqc	
+rocefin	17z5	
+saldae pannonia	11hu	
+salignac	2kq1,4ccg	2itk:3,2mbc:3
+salignac alpes de haute provence	2kq1	
+salignac de		2mbc:3
+salignac de mirambeau	2mbc	
+salignac de mirambeau france	2mbc	
+salignac gironde	4ccg	
+salignac sur		2itk:3
+salignac sur charente	2itk	
+santaolalla	m0i	
+schillinger house berklee school of music	1z6	
+scorbe		3x2k:2
+scorbe clairvaux	3x2k	
+send		494f:4,5wvg:7
+send a woman when the devil fails	3inw	
+send for the man	6012	
+send it austin mahone song	25aa	
+send me		494f:4
+send me a picture	47k	
+send me no		494f:4
+send me no flowers	494f	
+send my		5wvg:7
+send my love	5wvg	5wvg:7
+send my love to		5wvg:7
+send my love to your		5wvg:7
+send my love to your new		5wvg:7
+send my love to your new lover	5wvg	
+send up	fw9	
+send ups	fw9	
+send yourself roses	uod	
+sermamagny	2bb7	
+seyches	2ma9	
+shemgang district	1w38	
+shemgang district bhutan	1w38	
+sima	od0	2vjl:2,400z:2,48um:2,5l1z:2,5zs4:2,61x5:2,6355:2,6a43:2
+sima ai	61x5	
+sima changming	5dp3	
+sima chi	5ave	
+sima chinese surname	od0	
+sima chiu	400z	
+sima cirkovic	5l1z	
+sima film	1vdd	
+sima m cirkovic	5l1z	
+sima samar	6a43	
+sima shi	48um	
+sima surname	od0	
+sima wei	5zs4	
+sima wing	6355	
+sima yan	2qvk	
+sima yao	5dp3	
+sima yi	2vjl	
+sima yi 2	2vjl	
+sima yim	2qvk	
+sima ying	6355	
+sima yu	66pl	
+sima zhao	400z	
+sima zhi 2	5ave	
+sima zhong	3hwb	
+sima zhongda	2vjl	
+smilla		1dn6:5
+smilla s		1dn6:5
+smilla s sense		1dn6:5
+smilla s sense of		1dn6:5
+smilla s sense of snow	1dn6	
+smilla s sense of snow film	1dn6	
+sogno di una notte d estate	4taq	
+sogno di zorro	21wr	
+sumacarcer	3gbp	
+superduperhuman	afa	
+sw	5bbn	
+sw asia	22dq	
+sw bregenz	mr1	
+sw england	5af	
+sw essen	uuk	
+sw tor	5xm9	
+sw trains	3vfe	
+sw viii	nt7	
+swope park rangers	43dh	
+swope supernova survey	5by4	
+tenjo chiki	4g34	
+termini		1anp:2
+termini imerese	1anp	
+termini sicily	1anp	
+termini station rome	1smw	
+the script	1yo8	
+the script band	1yo8	
+the script the band	1yo8	
+the yamaha corporation	10oe	
+theoxena		37pw:3
+theoxena of		37pw:3
+theoxena of syracuse	37pw	
+toece		14by:2
+toece department	14by	
+uhta	4gn3	
+ulverston	18u4	
+ulverston cumbria	18u4	
+ulverston england	18u4	
+ulverston lancashire	18u4	
+vacanze		1mxk:3,1v0m:3,3elt:3,3lho:4,3xnp:5,5gdy:4
+vacanze a		1mxk:3
+vacanze a ischia	1mxk	
+vacanze col		3elt:3
+vacanze col gangster	3elt	
+vacanze d amore	1nuu	
+vacanze d inverno	1t05	
+vacanze di		1v0m:3,3lho:4,3xnp:5,5gdy:4
+vacanze di natale	1v0m	3lho:4,3xnp:5,5gdy:4
+vacanze di natale 90	3lho	
+vacanze di natale 95	5gdy	
+vacanze di natale 95 christmas holidays 95	5gdy	
+vacanze di natale a		3xnp:5
+vacanze di natale a cortina	3xnp	
+vacanze in america	4plv	
+vacanze in argentina	3q6d	
+vannaire	32m4	
+vantania	5d4	
+varaville	1lyq	
+venk	nq5	
+villaga	3vpo	
+vitilgo	1e5m	
+vitiz	4mqv	
+wendesday	68lb	
+yismael	3eog	
+yugi naka	s63	
+zachery david alexander efron	tik	
+zachery quinto	1b5u	
+zalesi	49bv	
+zippy livni	248k	
+zippy theart	1rda	

@@ -1,0 +1,550 @@
+1975	w10	h45:4,iu7:4,1i20:4,24xa:2,2snb:5,4rgk:4
+1975 050d	346b	
+1975 76		h45:4,2snb:5
+1975 76 bundesliga	24dh	
+1975 76 cypriot		h45:4,2snb:5
+1975 76 cypriot cup	h45	
+1975 76 cypriot first division	z4c	
+1975 76 cypriot second division	1kbj	
+1975 76 cypriot third		2snb:5
+1975 76 cypriot third division	2snb	
+1975 76 ekstraklasa	4prw	
+1975 76 fuball bundesliga	24dh	
+1975 76 fussball bundesliga	24dh	
+1975 ad	w10	
+1975 amstel		1i20:4
+1975 amstel gold		1i20:4
+1975 amstel gold race	1i20	
+1975 band	24xa	
+1975 ce	w10	
+1975 eurovision song contest	nvb	
+1975 great storm	5o59	
+1975 pan		iu7:4
+1975 pan am games	iu7	
+1975 pan american		iu7:4
+1975 pan american games	iu7	
+1975 pine ridge shootout	3hr9	
+1975 super bowl	6grv	
+1975 superbowl	6grv	
+1975 tour		4rgk:4
+1975 tour de		4rgk:4
+1975 tour de france	4rgk	
+1975 year	w10	
+3inaro	1k0k	
+algemene staten	5th5	
+ancucki	2o62	
+arbignieu	1n27	
+archosauromorpha	593y	
+archosauromorpha doc	593y	
+argelliers	1ik5	
+atlantide	1lvy	
+baaylama	3jvr	
+babesiosis	5b4t	
+bacilly	2yle	
+bergsonian	rn2	
+blackbird chain	6b98	
+blackbird song	5nhd	
+brbpr	5pjc	
+brembio	32gp	
+brunnenmeier	48gb	
+cardito	4849	
+carthusian	1b4e	1b4e:2,2iu8:2
+carthusian house	1b4e	
+carthusian houses	1b4e	
+carthusian monasteries	2iu8	
+carthusian monastery	2iu8	
+carthusian monk	1b4e	
+carthusian order	1b4e	
+chapparal middle school	2rq5	
+chaya		64kg:3
+chaya kaufman	5rfu	
+chaya moussia schneerson	64kg	
+chaya mushka		64kg:3
+chaya mushka schneerson	64kg	
+chesnutt charles waddell	46r0	
+chesnutt mark	rj7	
+cowper andrew	5sjs	
+cowper charles	5u02	
+cowper powys	2sa6	
+cowper william	4rwd	
+creditiste	xki	
+cropani	4tdq	
+demuin	1oqq	
+deontay		6gpb:2
+deontay wilder	6gpb	
+dnipropetrovsk		eur:2
+dnipropetrovsk area	eur	
+dnipropetrovsk metallurgical institute	4mj2	
+dnipropetrovsk municipality	2sw	
+dnipropetrovsk national university	2u3e	
+dnipropetrovsk oblast	eur	
+dnipropetrovsk region	eur	
+dnipropetrovsk state university	2u3e	
+dudaofuxian	qr0	
+dudleya	1zp7	
+fc lokomotiva		s14:3
+fc lokomotiva kosice	s14	
+figuerola		4br5:3
+figuerola del		4br5:3
+figuerola del camp	4br5	
+figuerola del campo	4br5	
+fleuranges	249c	
+frederick kohner	3kj1	
+fuiste un sueno	vih	
+galanta	257s	o6c:2
+galanta district	o6c	
+gelterswoog	89s	
+genabid	43hn	
+gmina olawa	r2h	
+granik debra	40yf	
+harlock		2pvm:3
+harlock ontario	67da	
+harlock space		2pvm:3
+harlock space pirate	2pvm	
+hptpd	6fg6	
+imari	4pq8	
+imari saga	4pq8	
+ishj		2o38:2
+ishj kommune	2o38	
+ishj municipality	2o38	
+james orin incandenza	6dyt	
+james orin incandenza jr	6dyt	
+james orin incandenza sr	6dyt	
+jezeau	29j4	
+john kasish	21fr	
+khanaan	5e3w	
+klymaxx	2ss6	
+laigne	29te	2kke:3
+laigne en		2kke:3
+laigne en belin	2kke	
+lambinowice commune	2cph	
+lari		2r0p:2
+lari white	2r0p	
+las 13		2k8p:3
+las 13 rosas	2k8p	
+las abandonadas	5qfe	
+las airport	27fc	
+las alegres chicas de colsada	60q1	
+las amazonas	48mw	
+las animas		11u4:3
+las animas county	11u4	
+las animas county co	11u4	
+las animas county colorado	11u4	
+las aventuras		4yyt:4
+las aventuras de		4yyt:4
+las aventuras de jack	4yyt	
+las aventuras de tadeo jones	21mv	
+las brujas de zugarramurdi	22yh	
+las cabos mexico	3i96	
+las campanas	5by4	5by4:3
+las campanas observatory	5by4	
+las canitas	66lb	
+las chiapas	3mm	
+las chicas coquetas	3822	
+las chivas	4ay	
+las condes	1k1x	
+las condes chile	1k1x	
+las cruces	fha	
+las cruces college	b3w	
+las cruces n m	fha	
+las cruces new mexico	fha	
+las cruces new mexico comments	fha	
+las cruces new mexico metropolitan area	16z1	
+las cruces nm	fha	
+las cruces nm metropolitan statistical area	16z1	
+las cruces nm msa	16z1	
+las cuatro verdades	1uzb	
+las encartaciones	69l7	
+las estrellas	6d8	
+las gabias	30hq	
+las gabias granada	30hq	
+las gabias municipality	30hq	
+las gabias spain	30hq	
+las gidi	1m5	
+las herencias	4dum	
+las herencias spain	4dum	
+las herencias toledo	4dum	
+las huelgas	340n	
+las huelgas de burgos	340n	
+las ilces	2r6t	
+las ilhas	2opn	
+las inviernas	4sz6	
+las inviernas guadalajara	4sz6	
+las inviernas spain	4sz6	
+las lajas veracruz	fjs	
+las legiones de cleopatra	2q5s	
+las lenguas de las mariposas	5rpf	
+las locas	5g7i	4lxm:4
+las locas del		4lxm:4
+las locas del conventillo	4lxm	
+las locas del conventillo maria y la otra	4lxm	
+las lomas de la vega	23fz	
+las majadas	4wtq	
+las marais	3qwk	
+las marinas	3vjd	
+las masias de voltrega	37k6	
+las matelas	1qhn	
+las mesas	4oas	
+las mil		5s4s:5
+las mil y		5s4s:5
+las mil y una		5s4s:5
+las mil y una noches	18am,5s4s	
+las mujeres		43yc:5
+las mujeres los		43yc:5
+las mujeres los prefieren		43yc:5
+las mujeres los prefieren tontos	43yc	
+las munecas		51fq:5
+las munecas que		51fq:5
+las munecas que hacen		51fq:5
+las munecas que hacen pum	51fq	
+las navas		20zl:4
+las navas del		20zl:4
+las navas del marques	20zl	
+las navas del marques avila	20zl	
+las navas del marques spain	20zl	
+las nieves	2mfs	
+las nieves agusan del norte	2mfs	
+las nieves galicia	4ph0	
+las nieves galicia spain	4ph0	
+las nieves pontevedra	2mfs	
+las nieves pontevedra province	4ph0	
+las nieves pontevedra province galicia spain	2mfs	
+las omanas	3i6z	
+las omanas leon	3i6z	
+las omanas spain	3i6z	
+las palmas	48r,2edw	48r:5
+las palmas atletico	zbc	
+las palmas canary islands	48r	
+las palmas de		48r:5
+las palmas de gran		48r:5
+las palmas de gran canaria	48r	
+las palmas de gran canaria canary islands	48r	
+las palmas de gran canaria las palmas	48r	
+las palmas de gran canaria province	2edw	
+las palmas de la gran canaria province	2edw	
+las palmas de la gran canarias province	2edw	
+las palmas province	2edw	
+las pedroneras	25xd	
+las penas		1vxo:4
+las penas de		1vxo:4
+las penas de riglos	1vxo	
+las penas de riglos huesca	1vxo	
+las penas de riglos spain	1vxo	
+las petroleras	tkl	
+las piedras	35f4	
+las piedras uruguay	35f4	
+las pinas	uxt	
+las pinas city	uxt	
+las pinas metro manila	uxt	
+las pinturas negras	1evd	
+las pistolas no discuten	2n78	
+las plagas	1fqb	
+las plassas	3k30	
+las quintanillas	4o6c	
+las quintanillas burgos	4o6c	
+las quintanillas spain	4o6c	
+las ratas	5ymn	
+las regueras	34gx	
+las regueras asturias	34gx	
+las regueras spain	34gx	
+las rozas		2aiv:4,4g47:4
+las rozas de		2aiv:4,4g47:4
+las rozas de madrid	2aiv	
+las rozas de madrid spain	2aiv	
+las rozas de valdearroyo	4g47	
+las salvajes en puente san gil	679q	
+las seis		3y7s:6
+las seis suegras		3y7s:6
+las seis suegras de		3y7s:6
+las seis suegras de barba		3y7s:6
+las seis suegras de barba azul	3y7s	
+las siete magnificas	26ny	
+las supper	1nux	
+las toreras	4ip	
+las tres		4ert:3,606h:4
+las tres perfectas		606h:4
+las tres perfectas casadas	606h	
+las tres ratas	4hgv	
+las tres ratas 1946 film	4hgv	
+las tres villas	4ert	
+las tres villas almeria	4ert	
+las tres villas spain	4ert	
+las tunas	4m3n	1xpl:3
+las tunas city	4m3n	
+las tunas cuba	4m3n	
+las tunas province	1xpl	
+las turistas de cabo rojo	1gth	
+las valeras	3wcd	
+las valeras cuenca	3wcd	
+las valeras spain	3wcd	
+las vegas	1vt,1vpc,491z	1mg:3,4jx:3,41er:3,4hbb:3,5yif:3
+las vegas 500 milliones	1c29	
+las vegas 500 millones	1c29	
+las vegas 51	5yif	
+las vegas 51 s	5yif	
+las vegas 51s	5yif	
+las vegas afb	xwh	
+las vegas air field	xwh	
+las vegas air force base	xwh	
+las vegas americans	4hbb	
+las vegas area	4jx	
+las vegas army air base	xwh	
+las vegas army air field	xwh	
+las vegas army airfield	xwh	
+las vegas aviators	5yif	
+las vegas black knights	6gt5	
+las vegas city council	1vt	
+las vegas climate	1vt	
+las vegas college new mexico	lpw	
+las vegas desert knights	6gt5	
+las vegas expansion team	6gt5	
+las vegas golden knights	6gt5	
+las vegas henderson paradise nv msa	hj8	
+las vegas international airport	27fc	
+las vegas knights	6gt5	
+las vegas mccarran international airport	27fc	
+las vegas metropolitan area	4jx	
+las vegas n m	1vpc	
+las vegas national hockey league team	6gt5	
+las vegas nevada	1vt	
+las vegas nevada usa	4jx	
+las vegas new mexico	1vpc	
+las vegas new mexico micropolitan area	2mbe	
+las vegas new mexico town	1vpc	
+las vegas nhl team	6gt5	
+las vegas nm	1vpc	
+las vegas nm micropolitan statistical area	2mbe	
+las vegas nm msa	2mbe	
+las vegas nm sa	2mbe	
+las vegas nv	1vt	
+las vegas nv az	hj8	
+las vegas of india	3dbu	
+las vegas paradise henderson metropolitan statistical area	hj8	
+las vegas portal	1vt	
+las vegas quicksilvers	41er	
+las vegas raiders	1mg	
+las vegas series	491z	
+las vegas showgirl	6fxw	
+las vegas silver knights	6gt5	
+las vegas silvers	64k2	
+las vegas sleight of hand	491z	
+las vegas stars	5yif	
+las vegas stars baseball	5yif	
+las vegas story	2kom	2kom:4
+las vegas television	491z	
+las vegas tv series	491z	
+las vegas tv show	491z	
+las vegas university learning annex	y1q	
+las vegas usa	4jx	
+las vegas valley	4jx	
+las vegasparadisehenderson metropolitan statistical area	hj8	
+las ventas		3sb8:5,4vbb:4
+las ventas con		3sb8:5
+las ventas con pena		3sb8:5
+las ventas con pena aguilera	3sb8	
+las ventas con pena aguilera spain	3sb8	
+las ventas con pena aguilera toledo	3sb8	
+las ventas de		4vbb:4
+las ventas de retamosa	4vbb	
+las ventas de retamosa spain	4vbb	
+las ventas de retamosa toledo	4vbb	
+las villas cuba	iyx	
+logelnheim	31nh	
+lollapalooza	6hg7	
+lollapalooza 2004 lineup	6hg7	
+lollapalooza 2007	6hg7	
+lollapalooza argentina	6hg7	
+lollapalooza brazil	6hg7	
+lollapalooza festival	6hg7	
+lollapalooza paris	6hg7	
+lollapalooza sao paulo	6hg7	
+lubbon	373q	
+macdill	2rzt	2rzt:4
+macdill a f base	2rzt	
+macdill afb	2rzt	
+macdill afb fl	2rzt	
+macdill afb florida	2rzt	
+macdill air		2rzt:4
+macdill air force		2rzt:4
+macdill air force base	2rzt	
+macdill air force base fl	2rzt	
+macdill air force base florida	2rzt	
+macdill army airfield	2rzt	
+macdill field	2rzt	
+magnolia	alo,16t8,1d9a	92j:2,nqx:2
+magnolia 1999 film	16t8	
+magnolia a m	1qzy	
+magnolia agricultural and mechanical junior college	1qzy	
+magnolia ar	1d9a	
+magnolia ar micropolitan statistical area	243w	
+magnolia ar msa	243w	
+magnolia ar sa	243w	
+magnolia ark	1d9a	
+magnolia arkansas	1d9a	
+magnolia arkansas micropolitan area	243w	
+magnolia beverage masters	ktr	
+magnolia botany	alo	
+magnolia center	3ep	
+magnolia cheese makers	ktr	
+magnolia city ar	1d9a	
+magnolia city arkansas	1d9a	
+magnolia crescent	igx	
+magnolia electric co	16ex	
+magnolia electric company	16ex	
+magnolia film	16t8	
+magnolia home entertainment	92j	
+magnolia hotshots	nqx	
+magnolia hotshots pambansang manok	nqx	
+magnolia movie	16t8	
+magnolia pictures	92j	
+magnolia state	tz	
+magnolia tree	alo	
+maure	3atq	tvg:3
+maure de		tvg:3
+maure de bretagne	tvg	
+maure pyrenees atlantiques	3atq	
+minken		60i0:2
+minken fosheim	60i0	
+mixidol	cx1	
+mondulkiriprovince	2pen	
+mozambiquan	17f	
+mythrus tour	oii	
+nikitha	3qsa	
+nikitha actress	3qsa	
+offit paul	5il3	
+offit paul a	5il3	
+opep	6h9m	
+ovadia		1mwz:2
+ovadia joseph	1mwz	
+ovadia yosef	1mwz	
+ovadia yoseph	1mwz	
+pachabel	2q0a	
+pamphleteers	68lq	
+paratelmatobiinae	4eba	
+paul jacques		5ydr:4
+paul jacques aime		5ydr:4
+paul jacques aime baudry	5ydr	
+petrogylph	27k8	
+plugston of undershot	1du6	
+potaels	154q	
+premolo	4asn	
+prince takamatsu	2dx3	
+princess christina		3n90:4,48n4:5,4ht6:5
+princess christina margarethe		48n4:5
+princess christina margarethe of		48n4:5
+princess christina margarethe of hesse	48n4	
+princess christina mrs		3n90:4
+princess christina mrs magnuson	3n90	
+princess christina mrs magnusson	3n90	
+princess christina of		4ht6:5
+princess christina of denmark	1y7s	
+princess christina of orange nassau	4ht6	
+princess christina of saxony	1bqj	
+princess christina of the		4ht6:5
+princess christina of the netherlands	4ht6	
+princess siriwannawari nariratana of thailand	5q7v	
+pronto	6cfy	5lw6:8
+pronto ad uccidere	50nl	
+pronto c		5lw6:8
+pronto c e		5lw6:8
+pronto c e una		5lw6:8
+pronto c e una certa		5lw6:8
+pronto c e una certa giuliana		5lw6:8
+pronto c e una certa giuliana per		5lw6:8
+pronto c e una certa giuliana per te	5lw6	
+pronto novel	6cfy	
+pronto snoop dogg song	6aio	
+pterodactloid	3r27	
+pukekohe	3md0	
+pukekohe new zealand	3md0	
+pvv	k5f	
+rabid	1e1y,5t4f	4lxy:2,654b:2
+rabid dogs	654b	
+rabid dogs film	654b	
+rabid film	1e1y	
+rabid puppies	14yf	
+rabid records	4lxy	
+responses of germany and japan to world war ii crimes	km3	
+richard strauss	k5d	
+richard strauss comments	k5d	
+rickard astley	q1m	
+rickard bruch	541j	
+rickard s	6br2	
+roznov	3oai	1rgu:3
+roznov nachod district	3oai	
+roznov pod		1rgu:3
+roznov pod radhostem	1rgu	
+sailships	c2u	
+samuari	104	
+signaling		6emc:2
+signaling peptide	6aaq	
+signaling receptor	6emc	
+socialites	1je	
+spheterista	4lzr	
+startwinkle precure	1wth	
+streptopelia	56od	
+taillebois	2int	
+tameside	1r3d	
+tameside borough	1r3d	
+tameside stadium	1fdq	
+tawatinsuyu	2g0o	
+tetchie		69jf:2
+tetchie agbayani	69jf	
+the bliss		58z2:5
+the bliss of		58z2:5
+the bliss of mrs		58z2:5
+the bliss of mrs blossom	58z2	
+the performing arts center at purchase	9wl	
+thomas luther bryan	rjt	
+thomas luther luke bryan	rjt	
+throat cancer	n0t	
+throat infection	27nx	
+throat voice	j05	
+tourves	2b55	
+uccs	4dlw	
+uccs unite de catalyse et de chimie du solide de lille	2bf4	
+unionidae	yu9	
+unirea alba iulia	gqa	
+unirea arad	64td	
+unirea dej	36vn	
+unirea focsani	5hh9	
+unirea ii chiajna	7c7	
+unirea mihai viteazul alba iulia	gqa	
+unirea tarlungeni	5viw	
+unirea timisoara	1ffl	
+unirea urziceni	axd	
+unirea valahorum urziceni	axd	
+viladasens	3en0	
+westralian farmers co operative	22pe	
+westralian farmers limited	22pe	
+weyhe	5qfq	
+weyhe germany	5qfq	
+william tiero	5gdm	
+yulia	6mx	1mn6:2,27ej:2,4u5t:2,4w5p:3
+yulia drunina	4u5t	
+yulia hryhyan	27ej	
+yulia latinina	1mn6	
+yulia latynina	1mn6	
+yulia leonidovna latynina	1mn6	
+yulia leonidovna slonimskaia	4w5p	
+yulia leonidovna slonimskaya	4w5p	
+yulia menshova	4kzi	
+yulia obertas	5o11	
+yulia olegovna volkova	3wdd	
+yulia pakhalina	5iwl	
+yulia slonimskaya		4w5p:3
+yulia slonimskaya sazonova	4w5p	
+yulia solntseva	1mk2	
+yulia timoshenko	27ej	
+yulia tymoshenko	27ej	
+yulia v tymoschenko	27ej	
+yulia voldyrovna timoshenkno	27ej	
+yulia volkova	3wdd	
+yulia volodymyrivna grigean tymoshenko	27ej	
+yulia volodymyrivna grigyan	27ej	
+yulia volodymyrivna hryhyan	27ej	
+yunhee college	4gy	
+zhangye	2ncm	
+zhangye gansu	2ncm	
+zulte waregem	6ca	
+zvl zilina	5vf	

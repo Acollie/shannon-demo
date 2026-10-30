@@ -1,0 +1,888 @@
+199192		91t:3,10vr:4,128d:4,1bik:4,1sl4:3,3ek4:2,5ywd:4
+199192 bundesliga	1sl4	
+199192 cypriot		91t:3,10vr:4,128d:4,1bik:4,5ywd:4
+199192 cypriot cup	91t	
+199192 cypriot first		128d:4
+199192 cypriot first division	128d	
+199192 cypriot fourth		5ywd:4
+199192 cypriot fourth division	5ywd	
+199192 cypriot second		10vr:4
+199192 cypriot second division	10vr	
+199192 cypriot third		1bik:4
+199192 cypriot third division	1bik	
+199192 ekstraklasa	3ek4	
+199192 fuball		1sl4:3
+199192 fuball bundesliga	1sl4	
+199192 fussball bundesliga	1sl4	
+2018	5s4t	yhm:2,10g7:3,11rq:6,13aq:4,13d2:3,1umu:4,2u4s:3,3qrz:5,3wpo:6,4c28:6,5elt:5,6h2j:3
+2018 19 basketball league of serbia season	3fav	
+2018 19 bobsleigh world cup	5r4i	
+2018 19 cairns taipans season	42s7	
+2018 19 chennaiyin fc season	qc8	
+2018 19 concacaf champions league	mhb	
+2018 19 cypriot first division	5ru	
+2018 19 cypriot second division	6hv	
+2018 19 cypriot third division	9yi	
+2018 19 dandenong rangers season	6980	
+2018 19 delhi dynamos fc season	qc2	
+2018 19 derde divisie	o98	
+2018 19 fis freestyle ski world cup	482k	
+2018 19 girona fc season	6m1	
+2018 19 isu speed skating world cup	5yaw	
+2018 19 liga iv	wun	
+2018 19 mumbai city fc season	mfc	
+2018 19 sydney kings season	12q2	
+2018 19 uci track cycling world cup	62q0	
+2018 19 veria f c season	5t1	
+2018 ad	5s4t	
+2018 ag2r		13aq:4
+2018 ag2r la		13aq:4
+2018 ag2r la mondiale	13aq	
+2018 astana	yhm	
+2018 astana season	yhm	
+2018 australian		6h2j:3
+2018 australian open	6h2j	
+2018 australian open girls doubles	6h2j	
+2018 australian open girls singles	6h2j	
+2018 australian open wheelchair men s doubles	6h2j	
+2018 australian open wheelchair men s singles	6h2j	
+2018 bayamon fc season	13op	
+2018 bmc		13d2:3
+2018 bmc racing	13d2	
+2018 bmc racing team season	13d2	
+2018 bora		10g7:3
+2018 bora hansgrohe	10g7	
+2018 dimension data season	159v	
+2018 fc meralco manila season	30tg	
+2018 federation internationale de football association world cup	1umu	
+2018 festival tour	2026	
+2018 fifa		1umu:4,3wpo:6,4c28:6,5elt:5
+2018 fifa world		1umu:4,3wpo:6,4c28:6,5elt:5
+2018 fifa world cup	1umu	3wpo:6,4c28:6,5elt:5
+2018 fifa world cup marketing	1umu	
+2018 fifa world cup qualification	5elt	3wpo:6,4c28:6
+2018 fifa world cup qualification concacaf	5elt	
+2018 fifa world cup qualification conmebol	3wpo	
+2018 fifa world cup qualification uefa	4c28	
+2018 fifa world cup venues	1umu	
+2018 fwc	1umu	
+2018 grammy awards	6hs6	
+2018 grammys	6hs6	
+2018 in the world	5s4t	
+2018 lff i lyga	4e9x	
+2018 men s world open squash championship	ifp	
+2018 mercury prize	1ba4	
+2018 national book award for nonfiction	b4n	
+2018 olympic games	2u4s	
+2018 olympics	2u4s	
+2018 pyeongchang	2u4s	
+2018 saint louis billikens men s soccer	ih1	
+2018 saint louis billikens men s soccer team	ih1	
+2018 super bowl	6gw8	
+2018 suwon samsung bluewings season	54q	
+2018 trump tower fire	2qsy	
+2018 uci		11rq:6
+2018 uci women		11rq:6
+2018 uci women s		11rq:6
+2018 uci women s world		11rq:6
+2018 uci women s world tour	11rq	
+2018 united		3qrz:5
+2018 united states		3qrz:5
+2018 united states senate		3qrz:5
+2018 united states senate elections	3qrz	
+2018 us open women s singles	6ze	
+2018 wc	1umu	
+2018 winter		2u4s:3
+2018 winter olympic games	2u4s	
+2018 winter olympics	2u4s	
+2018 world cup	1umu	
+2018 year	5s4t	
+7	t,31z,6o9,3hzb,49rb,6bo3	
+7 1	4x26	
+7 2 2 amino thiazol 4 yl 2 methoxyimino acetylamino 8 oxo 5 thia 1 aza bicyclo 4 2 0 oct 2 ene 2 carboxylic acid	35ji	
+7 2010	b4j	
+7 61x51 nato	bb9	
+7 62 41 mm cartridge	vf9	
+7 62 54 mm r	w8b	
+7 62 mm kalashnikov	vf9	
+7 62 mm russian	w8b	
+7 62 mm soviet	vf9	
+7 62 mm tokarev	5xwl	
+7 62 mm x 51	bb9	
+7 62 x 25 mm	5xwl	
+7 62 x 25 mm tokarev	5xwl	
+7 62 x 25mm tokarev	5xwl	
+7 62 x 39 mm	vf9	
+7 62 x 39 mm m43	vf9	
+7 62 x 39 mm soviet m1943	vf9	
+7 62 x 39mm m43	vf9	
+7 62 x 41 mm cartridge	vf9	
+7 62 x 51	bb9	
+7 62 x 51 mm nato	bb9	
+7 62 x 51 nato	bb9	
+7 62 x 51mm nato	bb9	
+7 62 x 54 mm	w8b	
+7 62 x 54 mm r	w8b	
+7 62 x 54 r	w8b	
+7 62 x 54mm	w8b	
+7 62 x 54mm r	w8b	
+7 62 x 54r mm	w8b	
+7 62 x63mm	1yn7	
+7 6225 mm	5xwl	
+7 6225 mm tokarev	5xwl	
+7 6225 tokarev	5xwl	
+7 6225mm	5xwl	5xwl:3
+7 6225mm tokarev	5xwl	
+7 6225mm tokarev firearms	5xwl	
+7 6239mm	vf9	
+7 6239mm soviet	vf9	
+7 6251 nato	bb9	
+7 6251mm	bb9	bb9:3
+7 6251mm nato	bb9	
+7 6254 mm	w8b	
+7 6254 mm r	w8b	
+7 6254 mmr	w8b	
+7 6254mm r	w8b	
+7 6254mmr	w8b	
+7 6254r	w8b	
+7 62mm x 25 tt	5xwl	
+7 62mm x 63mm	1yn7	
+7 62mmx51mm	bb9	
+7 62x 54r	w8b	
+7 62x25	5xwl	
+7 62x25 mm	5xwl	
+7 62x25 tokarev	5xwl	
+7 62x25mm tokarev	5xwl	
+7 62x39	vf9	
+7 62x39 russian	vf9	
+7 62x39 soviet	vf9	
+7 62x39mm soviet	vf9	
+7 62x39mm wp	vf9	
+7 62x51	bb9	
+7 62x51 mm nato	bb9	
+7 62x51 nato	bb9	
+7 62x51mm nato	bb9	
+7 62x54	w8b	
+7 62x54mmr	w8b	
+7 62x54r caliber	w8b	
+7 62x63 mm	1yn7	
+7 62x63mm	1yn7	
+7 65 browning	1lab	
+7 65 mm	1lab	
+7 65 mm browning	1lab	
+7 65 x 17 mm	1lab	
+7 65 x 17mm browning sr	1lab	
+7 6517mm	1lab	
+7 65mm browning	1lab	
+7 65x17mm	1lab	
+7 65x17mm browning sr	1lab	
+7 7 mm caliber	1xg0	
+7 7 x 56 mm	1xg0	
+7 7 x 56 mm r	1xg0	
+7 7 x 58 mm rimmed	1xg0	
+7 758mmr type 92 ijn	1xg0	
+7 7is	4hl6	
+7 7mmx56r	1xg0	
+7 92 mm x 57 mm mauser	mrr	
+7 92 x 57 js	mrr	
+7 92 x 57 mm is	mrr	
+7 9257 mm	mrr	
+7 9257mm		mrr:3
+7 9257mm mauser	mrr	
+7 92mm x 57mm mauser	mrr	
+7 92x57 mauser	mrr	
+7 92x57 mm mauser	mrr	
+7 92x57mm i	mrr	
+7 92x57mm is	mrr	
+7 92x57mm mauser	mrr	
+7 a side	3xk	
+7 air force	5emo	
+7 ancient wonders	6cml	
+7 bezirk	2ppl	
+7 blue cheer album	4srf	
+7 bros records	mr	
+7 brothers meet dracula	16nn	
+7 century	1b3y	
+7 cervelli per un colpo perfetto	5emr	
+7 chili		4ko9:5
+7 chili in		4ko9:5
+7 chili in 7		4ko9:5
+7 chili in 7 giorni	4ko9	
+7 chinese bros	6g1x	
+7 chloro 4 4 ethyl 2 hydroxyethyl amino 1 methylbutylamino quinoline	5zo9	
+7 chloro 4 4 n ethyl n beta hydroxyethylamino 1 methylbutylamino quinoline	5zo9	
+7 chloro 4 5 n ethyl n 2 hydroxyethylamino 2 pentyl aminoquinoline	5zo9	
+7 college conference	6c7v	
+7 continents	6f6s	
+7 d alpha aminophenylacetamido desacetoxycephalosporanic acid	501o	
+7 days	4uzq,63zs	1z1f:4
+7 days a skeptic	6763	
+7 days eurocup	4dqv	
+7 days film	4uzq	
+7 days in		1z1f:4
+7 days in havana	1z1f	
+7 days in may	12c3	
+7 days in memphis	pmi	
+7 days to noon	2iwc	
+7 days to the wolves	4ndo	
+7 dias en la habana	1z1f	
+7 donne per una strage	26ny	
+7 doors of death	3mf1	
+7 dwarves		35ub:7
+7 dwarves german film	35ub	
+7 dwarves men		35ub:7
+7 dwarves men alone		35ub:7
+7 dwarves men alone in		35ub:7
+7 dwarves men alone in the		35ub:7
+7 dwarves men alone in the wood	35ub	
+7 e l 8	4p99	
+7 ep	6l	
+7 faces		1zh8:5
+7 faces of		1zh8:5
+7 faces of doctor lao	1zh8	
+7 faces of dr		1zh8:5
+7 faces of dr lao	1zh8	
+7 flushing local	3hzb	
+7 flushing local and express	3hzb	
+7 fold tie	6eqp	
+7 foot 14 inch gauge railway	yud	
+7 foot gauge railway	yud	
+7 grzechow gownych	5yvh	
+7 guns for the macgregors	26z8	
+7 hedron	5rve	
+7 hommes et une garce	2f4q	
+7 hour war	6hu8	
+7 hours war	6hu8	
+7 inch	t	
+7 inch record	t	
+7 khoon		1k76:3
+7 khoon maaf	1k76	
+7 layer osi model	6fff	
+7 mary 3	5l3t	
+7 men from now	3ncz	
+7 moby song	34vu	
+7 month	6o9	
+7 nation army	600u	
+7 new york city subway service	3hzb	
+7 new york subway	3hzb	
+7 nycs	3hzb	
+7 o s t r album	28le	
+7 paris metro	tzj	
+7 pistole per i macgregor	26z8	
+7 playing card	nol	
+7 pounds	13pr	
+7 psychopaths	144k	
+7 s chloro 7 deoxylincomycin	5f1a	
+7 samurai	1avh	
+7 sandbox	3tec,6bo3	
+7 seconds	2e4h	
+7 seconds film	2e4h	
+7 secrets with miranda cosgrove	xsj	
+7 shades of black	5nom	
+7 slaps	4jt3	
+7 sumarai	1avh	
+7 technologies	1cy1	
+7 television network	31z	
+7 times 7	16hp	
+7 track	14dh	
+7 uomini d oro	4izy	
+7 up guy	1jl8	
+7 vidas	25an	
+7 vite	25an	
+7 volte 7	16hp	
+7 weeks war	io2	
+7 women	28gm	
+7 women for the macgregors	2u2s	
+7 women from hell	3mu1	
+7 wonders of the ancient world	6cml	
+7 wonders of the world	6cml	
+7 world		4dmi:4
+7 world trade		4dmi:4
+7 world trade center	4dmi	
+7 wtc	4dmi	
+7 year		4hjo:3
+7 year bitch	4hjo	
+7 year s war	3ap	
+7 year war	3ap	
+7 years war	3ap	
+7 zip	16yt	
+7 zwerge	35ub	4wxq:7
+7 zwerge der		4wxq:7
+7 zwerge der wald		4wxq:7
+7 zwerge der wald ist		4wxq:7
+7 zwerge der wald ist nicht		4wxq:7
+7 zwerge der wald ist nicht genug	4wxq	
+7 zwerge manner allein im wald	35ub	
+a flash		1un9:4
+a flash of		1un9:4
+a flash of light	1un9	
+abero	4w0x	
+abero mathias	4w0x	
+accented	14t6	
+akber	166x	
+albarracin	fl8	
+albarracin spain	fl8	
+albarracin teruel	fl8	
+alblasserdam	2c9y	
+alexander alyabyev	590a	
+alexander korda	9cw	
+alexander korda award for best british film	1bcw	
+anaemias	1duo	
+andrzejewo commune	y1j	
+antrim	1d6r	vtw:2
+antrim city	1d6r	
+antrim county	vtw	
+antrim county antrim	1d6r	
+antrim county mi	vtw	
+antrim county michigan	vtw	
+antrim ireland	53f	
+antrim plateau	53f	
+antrim primary school	1d6r	
+antrim richard	5lms	
+antrim town	1d6r	
+archibaldalexanderleach	ard	
+arkavazi		12yq:3
+arkavazi rural		12yq:3
+arkavazi rural district	12yq	
+atz	4tar	
+banbury	bfa	16be:4
+banbury comments	bfa	
+banbury cross	bfa	
+banbury england	bfa	
+banbury hundred	bfa	
+banbury spencer	16be	
+banbury spencer f c	16be	
+banbury united	16be	16be:4
+banbury united f		16be:4
+banbury united f c	16be	
+banbury united fc	16be	
+banbury united football club	16be	
+barisciano	2ezm	
+belize	1qd	bov:7,ghr:2,4rxs:3,551y:4
+belize barrier		4rxs:3
+belize barrier reef	4rxs	
+belize barrier reef reserve system	4rxs	
+belize cabinda	4zp7	
+belize city	ghr	
+belize city belize	ghr	
+belize city british honduras	ghr	
+belize jaguars	bov	
+belize men		bov:7
+belize men s		bov:7
+belize men s national		bov:7
+belize men s national association		bov:7
+belize men s national association football		bov:7
+belize men s national association football team	bov	
+belize national football team	bov	
+belize premier		551y:4
+belize premier football		551y:4
+belize premier football league	551y	
+belize premier football league bpfl	551y	
+belize town	ghr	
+bergamasque alps	kte	
+bhikkuni	hs3	
+bleruais	2f87	
+brand	1g9	2hwa:2,4c2c:2,5pnl:3,5q7y:2,61ls:3,644j:3
+brand aesthetics	1g9	
+brand article collecting	6fvq	
+brand element	1g9	
+brand expansion	1g9	
+brand flakes	4ug8	
+brand hauser	4jos	
+brand hauser stuff happens	4jos	
+brand henry bouverie william first viscount hampden	60tn	
+brand image	1g9	
+brand marketing	1g9	
+brand messaging	1g9	
+brand name	1g9	
+brand names	1g9	
+brand new	2hwa	5pnl:3,61ls:3,644j:3
+brand new band	2hwa	
+brand new band redirect	2hwa	
+brand new brand new music	644j	
+brand new day film	2f4a	
+brand new day no doubt song	6gon	
+brand new eyes	5pnl	
+brand new hate	4jik	
+brand new music	644j	
+brand new shoes	27zb	
+brand new testament	2jsd	2jsd:4
+brand new u	61ls	
+brand nizzle	2hwa	
+brand nubian	5q7y	
+brand nubian hip hop group	5q7y	
+brand nubian music group	5q7y	
+brand nubians	5q7y	
+brand s hatch	36df	
+brand sanderson	mrw	
+brand t records	1ggi	
+brand x	4c2c	
+brand x band	4c2c	
+brigueil		28ga:3
+brigueil le		28ga:3
+brigueil le chantre	28ga	
+charles holley	t4p	
+cheissoux	3dfc	
+chemicals	226	
+chemicals industry	2v5a	
+choof	6g99	
+cokie	33ox	33ox:2
+cokie roberts	33ox	
+cricetidae	3u54	
+crouchy	1asc	
+curveulima	2ciu	
+daqyanoos	4e5l	
+dartmouthians	mjs	
+david mervyn		3eyc:3
+david mervyn blow	3eyc	
+david mervyn johns	z71	
+dourdan	mwa	
+dzierzoniowski	1kl9	
+elko	2c6t	fw0:2
+elko county	fw0	
+elko county nevada	fw0	
+elko county nv	fw0	
+elko daily free press	xzy	
+elko downtown nevada	2c6t	
+elko east nevada	2c6t	
+elko nev	2c6t	
+elko nevada	2c6t	
+elko nv	2c6t	
+elko west nevada	2c6t	
+epizonora	qw7	
+estelita	3rl4	3rl4:2
+estelita rodriguez	3rl4	
+farschviller	24lc	
+fc kremin kremenchuk	cs7	
+fc kremin kremenchuk squad	cs7	
+fc velbazhd kyustendil	t70	
+george ohm	1ftj	
+george western cape	12l2	
+gerberova	gq2	
+goby	6rv	
+goby desert	6gai	
+goby fish	6rv	
+goillaume dubois	61ry	
+henry noris russell	1czz	
+henry taube	1mhe	
+hexatominae	3l70	
+i gleek on your grave	1xpr	
+i hired		19dr:5
+i hired a		19dr:5
+i hired a contract		19dr:5
+i hired a contract killer	19dr	
+i6	4n92	
+i6 engine	4n92	
+indizienbeweis	5n4v	
+instrumentum vocale	c3u	
+ischl	kb7	
+jaejoong	1yfj	
+jance garfat	5e9r	
+john fownes		43vc:3
+john fownes i luttrell	43vc	
+john fownes luttrell	43vc	
+john fownes luttrell 1752 1816	43vc	
+john fownes luttrell 17521816	43vc	
+john fownes luttrell d 1816	43vc	
+john fownes luttrell died 1816	43vc	
+john fownes luttrell i	43vc	
+john steppling	3yph	
+kalinowka basie	sni	
+kellin	3rim	
+kiriyat shmona	2kcu	
+lauterecken		s15:2
+lauterecken wolfstein	s15	
+leech mark	686l	
+leech richard	2qwm	
+leech score	1z8t	
+letting go of god	1s0x	
+leucinodes	47vu	
+lotteries	6f5a	
+loury	1ip5	
+lynette		3hjj:2
+lynette woodard	3hjj	
+meknes	g09	2hy4:2
+meknes el menzeh	g09	
+meknes el menzeh prefecture	2hy4	
+meknes prefecture	2hy4	
+meknes wilaya	g09	
+melc	2nox	
+methotrexat	18zh	
+militiamen	qtm	
+mnisek	47e0	1rxv:3
+mnisek pod		1rxv:3
+mnisek pod brdy	1rxv	
+momento di uccidere	5wpu	
+momento movie	zwc	
+montalboddo	4fx8	
+mshasho	6ct6	6ct6:2
+mshasho clothng	6ct6	
+mshasho productions	6ct6	
+mshasho records	6ct6	
+national democratic		nir:3,1cuk:3,2leh:5
+national democratic congress	nir	
+national democratic congress ghana	nir	
+national democratic congressndc	nir	
+national democratic party	1cuk	2leh:5
+national democratic party egypt	1cuk	
+national democratic party nur otan	17m0	
+national democratic party of		2leh:5
+national democratic party of egypt	1cuk	
+national democratic party of germany	hb4,2leh	
+national democratic party of germany east germany	2leh	
+national democratic party of germany ndpd	2leh	
+national democratic party of germany npd	hb4	
+national democratic party of the german democratic republic	2leh	
+national democratic party venezuela	22na	
+neiltyson	1l5u	
+nistru	yhl	
+nistru chisinau	4u1	
+nistru otaci	kjy	
+nistru river	yhl	
+oberschaeffolsheim	2fmn	
+olarevic	57wq	
+ordinul mihai viteazul	gfz	
+ordinul national pentru merit	1974	
+ordinul national serviciul credincios	x0v	
+ordinul national steaua romaniei	3q4	
+ordinul republicii	6hc	
+oxyopes	3cjo	
+pankiv	45at	
+pathology	1b4o,2ys3	
+pathology as a science	1b4o	
+pathology film	2ys3	
+pathology movie	2ys3	
+pathology of schizophrenia	7cr	
+paul gray pc museum	7p2	
+peptide	6aaq	
+peptide comments	6aaq	
+peptide fragment	6aaq	
+peptide mapping	6aaq	
+peter foley	5zw4	
+phonetics	256w	
+piagge	4aye	
+poriot	cuk	
+primer gasoline engine	ld	
+primer marques de molins	4gh7	
+ptxofficial	2lsu	
+ramales	3eql	3eql:4
+ramales de		3eql:4
+ramales de la		3eql:4
+ramales de la victoria	3eql	
+regg williams	4ir6	
+robert merle	2p7t	
+robert merle comments	2p7t	
+rosenbach park	1iy8	
+saturn	6jd,2ovu	8sw:2,es6:2,o85:5,riy:5,uyx:5,2w8q:2,3lyn:2,3uxt:3,4r2m:6,5sht:6,6dci:5
+saturn 1991 saint petersburg	44ik	
+saturn 1991 st petersburg	44ik	
+saturn 2	83b	
+saturn 2 moscow oblast	83b	
+saturn 3	3lyn	
+saturn 3 film	3lyn	
+saturn 5	2w8q	
+saturn and the end of days	mbi	
+saturn and the end of days film	mbi	
+saturn astronomy	6jd	
+saturn award	es6	o85:5,riy:5,uyx:5,4r2m:6,5sht:6,6dci:5
+saturn award for		o85:5,riy:5,uyx:5,4r2m:6,5sht:6,6dci:5
+saturn award for best		o85:5,riy:5,uyx:5,4r2m:6,5sht:6,6dci:5
+saturn award for best actor	6dci	
+saturn award for best actor film	6dci	
+saturn award for best actress	riy	
+saturn award for best actress doc	riy	
+saturn award for best actress film	riy	
+saturn award for best costume	uyx	
+saturn award for best costume design	uyx	
+saturn award for best direction	o85	
+saturn award for best directior	o85	
+saturn award for best director	o85	
+saturn award for best supporting		4r2m:6,5sht:6
+saturn award for best supporting actor	4r2m	
+saturn award for best supporting actor film	4r2m	
+saturn award for best supporting actress	5sht	
+saturn award for best supporting actress film	5sht	
+saturn awards	es6	
+saturn c 5	2w8q	
+saturn console	8sw	
+saturn digital gamepad	c3e	
+saturn doc	6jd	
+saturn double speed cd rom drive	8sw	
+saturn five	2w8q	
+saturn god	2ovu	
+saturn ii	la3	
+saturn in		3uxt:3
+saturn in opposition	3uxt	
+saturn moscow	3eo	
+saturn moscow oblast	3eo	
+saturn mythology	2ovu	
+saturn orbiter titan probe	4som	
+saturn ramenskoe	3eo	
+saturn ramenskoye	3eo	
+saturn records	1v6f	
+saturn roman religion and mythology	2ovu	
+saturn rybinsk	14ie	
+saturn s	6jd	
+saturn three	3lyn	
+saturn v	2w8q	
+saturn v rocket	2w8q	
+saturn vi	h5h	
+saturn yegoryevsk	83b	
+scemo di guerra	3r7q	
+schoolmarm	c5	
+shaktersky	4shd	
+shebaz sharif	4zo4	
+shipwrecked	3638	
+shipwrecked 1990	3638	
+shipwrecked 1990 film	3638	
+shipwrecked film alternate	3638	
+sir jacob epstein	42dl	
+smalavicy		3kcp:2
+smalavicy district	3kcp	
+sp	3xn,1z31	
+sp 2500	i1s	
+sp 500	7r7	
+sp a	kpw	
+sp ai	1frf	
+sp artillery	luz	
+sp bookmaker	1ehm	
+sp braga	300	
+sp da ghost	21k9	
+sp de braga	300	
+sp domagnano	6ay6	
+sp farense	7gd	
+sp futebol clube	2c5	
+sp kyoto		255d:3
+sp kyoto fc	255d	
+sp kyoto football club	255d	
+sp la fiorita	31am	
+sp lines	bni	
+sp muthuraman	kc2	
+sp pilla	4zwc	
+sp pillai	4zwc	
+sp schweiz	bsx	
+sp somtow	3j72	
+sp the ghost	21k9	
+sp tre fiori	3h1h	
+sp tre penne	3uxs	
+sp usa	2fcb	
+sp vgg unterhaching	5g2	
+starfuck party	me	
+stavkirk	1b2o	
+stelaes	z61	
+stolno commune	16hj	
+stucky steven	51i1	
+the carnival is over album	1bku	
+the carnival night	5ry1	
+the carnival volume 3	jcg	
+the carnival volume iii	jcg	
+the freedom writers	2an9	
+the howling	17vb	
+the howling film	17vb	
+the howling ii bark at the moon	4pr4	
+the howling ii she wolf	4pr4	
+the howling ii stirba	4pr4	
+the howling ii your sister is a werewolf	4pr4	
+the joel plaskett emergency	1b60	
+the nightcrawler film	29my	
+tomex	2e9b	
+uzbekfilm	5byt	
+valkeakoski	h1y	
+vanic	39cp	
+villeny	3bwh	
+virtanen	1b16	
+virtanen surname	1b16	
+vivien		yrr:2,21nq:2,3i6g:2
+vivien leigh	yrr	
+vivien leigh lady olivier	yrr	
+vivien merchant	3i6g	
+vivien oakland	21nq	
+yelyzavetghrad	ajt	
+yevgeny		sqb:2,13fu:2,13wk:2,16ii:2,175u:2,1fi3:2,1k18:2,1n3j:2,2720:2,2dp4:2,2emx:2,2eoh:2,2hy3:2,2r1t:2,2rrz:2,2yne:2,31rx:2,32f2:2,3bpa:2,3ddz:2,3gcy:2,45a0:2,47zp:2,4ljw:2,4mqd:2,4qi0:2,4tlv:2,4vc9:2,4wm6:2,4zvu:2,54ro:2,5alx:2,5d0c:2,5h0m:2,5ihb:2,5thj:2,5v55:2,5x7c:2,5ysf:2,60ts:2,63d3:2,646i:2,65a4:2,6727:2,6b31:2
+yevgeny abramovich baratynsky	5d0c	
+yevgeny ageev	6727	
+yevgeny ageyev	6727	
+yevgeny aleksandrovich bushmanov	4t4x	
+yevgeny aleksandrovich kryachik	4859	
+yevgeny aleksandrovich mravinsky	2rrz	
+yevgeny aleksandrovich yevtushenko	1n3j	
+yevgeny alexandrovich yevstushenko	1n3j	
+yevgeny alexeyevich fyodorov	6cif	
+yevgeny anatolyevich glukhov	5eoz	
+yevgeny antinov	4qeh	
+yevgeny aramovich abramyan	5pwg	
+yevgeny arzhanov	4n83	
+yevgeny baratynsky	5d0c	
+yevgeny bauer	4eq1	
+yevgeny belyayev singer	3hdz	
+yevgeny borisovich lapenkov	4vip	
+yevgeny botkin	5s3q	
+yevgeny branovitskiy	4tut	
+yevgeny brusilovsky	5v55	
+yevgeny bushmanov	4t4x	
+yevgeny chazov	2t3v	
+yevgeny chelyshev	2720	
+yevgeny chupin	4ppo	
+yevgeny danilovich agranovich	3vy8	
+yevgeny davidovich sverdlov	5x7c	
+yevgeny davydov	324a	
+yevgeny dolmatovsky	2r46	
+yevgeny durnev	6487	
+yevgeny dyachkov	5ogc	
+yevgeny eduardovich tsyganov	5ihb	
+yevgeny filippovich ivanovsky	20go	
+yevgeny fyodorov	2r1t,4tlv	
+yevgeny fyodorovich svetlanov	31rx	
+yevgeny gabrilovich	16ii	
+yevgeny gangnus	1n3j	
+yevgeny gavryuk	4255	
+yevgeny gerasimov	6cbp	
+yevgeny grebyonka	65a4	
+yevgeny grigor yevich brusilovsky	5v55	
+yevgeny grigorievich brusilovsky	5v55	
+yevgeny grigoryevich brusilovsky	5v55	
+yevgeny grishin	3bpa	
+yevgeny grishin speed skater	3bpa	
+yevgeny igorevich kaleshin	41l6	
+yevgeny ilich zharikov	4ljw	
+yevgeny ivanov	5alx	
+yevgeny ivanovich chazov	2t3v	
+yevgeny ivanovich shaposhnikov	45a0	
+yevgeny ivanovich tashkov	2t7f	
+yevgeny ivanovsky	20go	
+yevgeny jarovenko	3yg1	
+yevgeny kabanov	63d3	
+yevgeny kaleshin	41l6	
+yevgeny khaldei	32f2	
+yevgeny kharlachev	5bt5	
+yevgeny kharlachyov	5bt5	
+yevgeny khrunov	36ck	
+yevgeny kiselyov	5ysf	
+yevgeny klimov	5ec2	
+yevgeny konoplyanka	2szn	
+yevgeny konstantinovich fyodorov	2r1t	
+yevgeny konstantinovich sharonov	4vc9	
+yevgeny kornyukhin	38s0	
+yevgeny kranatov	5nnh	
+yevgeny krasnapolski	3e49	
+yevgeny krug	60ts	
+yevgeny kryachik	4859	
+yevgeny krylatov	2dp4	
+yevgeny landis	5v1r	
+yevgeny lansere	3yz9	
+yevgeny leonidovich savin	3gcy	
+yevgeny leonov	sqb	
+yevgeny levchenko	2djb	
+yevgeny losev	5hm4	
+yevgeny loshankov	4akm	
+yevgeny lovchev	58wx	
+yevgeny maksimovich primakov	19nu	
+yevgeny matveev	1fi3	
+yevgeny matveyev	1fi3	
+yevgeny maximov	4zvu	
+yevgeny maximovich primakov	19nu	
+yevgeny mayorov	5nnf	
+yevgeny mikhaylovich belyayev	3hdz	
+yevgeny mironov	2hy3	
+yevgeny mironov actor	2hy3	
+yevgeny morgunov	2yne	
+yevgeny mravinsky	2rrz	
+yevgeny natalich	6bvn	
+yevgeny nesterenko	4wm6	
+yevgeny nikolayevich andreyev	5n3x	
+yevgeny nikolayevich perevertaylo	5shf	
+yevgeny nikolayevich rybakov	650i	
+yevgeny nikolayevich zhirov	6b31	
+yevgeny nosov	4mqd	
+yevgeny ovshinov	685j	
+yevgeny pankov	4qnn	
+yevgeny pasternak	1j0t	
+yevgeny paton	35lp	
+yevgeny pavlovich leonov	sqb	
+yevgeny pavlovich velikhov	2jqv	
+yevgeny pavlovsky	2eoh	
+yevgeny perevertailo	5shf	
+yevgeny perevertaylo	5shf	
+yevgeny pesegov	4pk2	
+yevgeny petrov	1k18	
+yevgeny petrov cyclist	2hi6	
+yevgeny petrov writer	1k18	
+yevgeny petrovich chelyshev	2720	
+yevgeny petrovich petrov	1k18	
+yevgeny plotnikov	4m6q	
+yevgeny plushenko	3l8r	
+yevgeny primakov	19nu	
+yevgeny ragoza	5s8d	
+yevgeny romanovich grishin	3bpa	
+yevgeny rudakov	2r0h	
+yevgeny rybakov	650i	
+yevgeny samoilov	13fu	
+yevgeny samoylov	13fu	
+yevgeny savchenko	646i	
+yevgeny savin	3gcy	
+yevgeny savitsky	13wk	
+yevgeny sergeyevich losev	5hm4	
+yevgeny shaposhnikov	45a0	
+yevgeny sharonov	4vc9	
+yevgeny shevchuk	5h0m	
+yevgeny shpedt	61bl	
+yevgeny sidikhin	52al	
+yevgeny skachkov	5lph	
+yevgeny slutsky	63dk	
+yevgeny sonin	3uqo	
+yevgeny steblov	5ooq	
+yevgeny stepanovich korolyov	2pv3	
+yevgeny stepanovich savchenko	646i	
+yevgeny sverdlov	5x7c	
+yevgeny svetlanov	31rx	
+yevgeny tarelkin	5thj	
+yevgeny tarle	3ddz	
+yevgeny tashkov	2t7f	
+yevgeny tsyganov	5ihb	
+yevgeny valerianovich samoylov	13fu	
+yevgeny valeryevich kharlachyov	5bt5	
+yevgeny valeryevich ovshinov	685j	
+yevgeny varga	3krs	
+yevgeny varlamov	6cme	
+yevgeny vasilyevich shevchuk	5h0m	
+yevgeny velikhov	2jqv	
+yevgeny vesnik	175u	
+yevgeny viktorovich gerasimov	6cbp	
+yevgeny viktorovich skachkov	5lph	
+yevgeny viktorovich tarle	3ddz	
+yevgeny viktorovich vuchetich	2emx	
+yevgeny vladimirovich sidikhin	52al	
+yevgeny vladimirovich varlamov	6cme	
+yevgeny vuchetich	2emx	
+yevgeny yakovlevich vesnik	175u	
+yevgeny yarkov	5dup	
+yevgeny yarovenko	3yg1	
+yevgeny yevgen yevich lansere	3yz9	
+yevgeny yevgenyevich durnev	6487	
+yevgeny yevgenyevich lanceray	3yz9	
+yevgeny yevgenyevich lansere	3yz9	
+yevgeny yevstigneev	13ge	
+yevgeny yevstigneyev	13ge	
+yevgeny yevstushenko	1n3j	
+yevgeny yevtushenko	1n3j	
+yevgeny yevtushenko comments	1n3j	
+yevgeny yurievich fyodorov	4tlv	
+yevgeny yuryevich steblov	5ooq	
+yevgeny zababakhin	4qi0	
+yevgeny zamiatin	47zp	
+yevgeny zamyatin	47zp	
+yevgeny zavoisky	54ro	
+yevgeny zavoysky	54ro	
+yevgeny zharikov	4ljw	
+yevgeny zhirov	6b31	
+yevgeny zhuk	405b	
+yukari	4myk	14po:2,51ki:2
+yukari first name	4myk	
+yukari given name	4myk	
+yukari goto	148n	
+yukari kinga	51ki	
+yukari tamura	14po	
+zagrab	rh	
+zopheridae	3xmr	
+zulma		44h5:2
+zulma faiad	44h5	
